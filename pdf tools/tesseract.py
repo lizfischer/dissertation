@@ -122,7 +122,8 @@ def do_recognize(margin_data):
 
             # Add current section to active entry
             active_entry["text"] += get_formatted_text(section)
-            active_entry["pages"].append(page["p"])
+            if page["p"] not in active_entry["pages"]:
+                active_entry["pages"].append(page["p"])  # Question: does this work?
 
     # Add last entry
     all_entries.append(active_entry)

@@ -1,10 +1,11 @@
 import pdf2image
 import os
+import shutil
 import cv2
 from tqdm import tqdm
 
 
-def export_binary_images(in_dir):
+def export_binary_images(in_dir, clean=False):
     print("\n*** Binarizing images... ***")
     output_dir = in_dir.replace("pdf_images", "binary_images")
 
@@ -18,6 +19,8 @@ def export_binary_images(in_dir):
         (thresh, im_bw) = cv2.threshold(img, 128, 255, cv2.THRESH_BINARY)
 
         cv2.imwrite(f"{output_dir}/{imgs[i].replace('.jpg', '.tiff')}", im_bw)
+    if clean:
+        shutil.rmtree(in_dir)
     return output_dir
 
 
