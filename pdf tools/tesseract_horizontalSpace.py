@@ -127,6 +127,7 @@ def do_recognize(margin_data):
     # Add last entry
     all_entries.append(active_entry)
     write_output(outfile)
+    return outfile
 
 
 if __name__ == "__main__":

@@ -1,6 +1,17 @@
+import tkinter
+
 import numpy as np
 import cv2
 import os
+from tkinter import *
+from tkinter.ttk import *
+
+class Thresholds:
+    def __init__(self, h_width=40, h_blank=0.02, v_width=10, v_blank=0.05):
+        self.h_width = h_width
+        self.h_blank = h_blank
+        self.v_width = v_width
+        self.v_blank = v_blank
 
 
 def get_binary_image(im_path):
@@ -77,7 +88,7 @@ def visualize(image, horiz=[], vert=[]):
     for v in vert:
         image[:, int(v)] = 155
     resize = _resize_image_aspect(image, height=800)
-    cv2.imshow("test", resize)
+    cv2.imshow("gaps", resize)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 
@@ -94,23 +105,30 @@ def _resize_image_aspect(image, width=None, height=None, inter=cv2.INTER_AREA):
     else:
         r = width / float(w)
         dim = (width, int(h * r))
-
     return cv2.resize(image, dim, interpolation=inter)
 
 
-def _test_thresholds(path):
+def _test_thresholds(path, t):
     print(path)
     image, binary = get_binary_image(path)
-    h = find_horizontal_gaps(binary, width_thresh=40)
-    v = find_vertical_gaps(binary, width_thresh=10, blank_thresh=0.05)
-    visualize(image, vert=v)
+    h = find_horizontal_gaps(binary, width_thresh=t.h_width, blank_thresh=t.h_blank)
+    v = find_vertical_gaps(binary, width_thresh=t.v_width, blank_thresh=t.v_blank)
+    # visualize(image, horiz=h, vert=v)
+
+
+def test_thresholds(bin_dir, thresholds=Thresholds()):
+    images = os.listdir(bin_dir)
+    window = Tk()
+    h_blank = DoubleVar()
+    h_blank_label = Label(window, text=h_blank.get())
+    h_blank_slider = Scale(window, from_=0, to_=1, variable=h_blank, command=print(h_blank.get()))
+
+    h_blank_slider.pack()
+    h_blank_label.pack()
+    window.mainloop()
+    # TODO
 
 
 if __name__ == "__main__":
-    IMAGE_DIR = "outputs/binary_images/br"
-    imgs = os.listdir(IMAGE_DIR)
-    all_data = []
-    for im in imgs:
-        i = int(im.split('.')[0])
-        image_path = f"{IMAGE_DIR}/{im}"
-        _test_thresholds(image_path)
+    IMAGE_DIR = "outputs/br/trillek/binary_images"
+    test_thresholds(IMAGE_DIR)
