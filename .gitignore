@@ -131,3 +131,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 dimev/.idea/workspace.xml
+
+pdf tools/outputs*
+pdf tools/input*
+*.pdf
