@@ -118,17 +118,20 @@ def _test_thresholds(path, t):
 
 def test_thresholds(bin_dir, thresholds=Thresholds()):
     images = os.listdir(bin_dir)
-    window = Tk()
+    root = Tk()
+    root.geometry("500x500")
     h_blank = DoubleVar()
-    h_blank_label = Label(window, text=h_blank.get())
-    h_blank_slider = Scale(window, from_=0, to_=1, variable=h_blank, command=print(h_blank.get()))
+
+    def showHBlank():
+        h_blank_label = Label(root, text=h_blank.get())
+        h_blank_slider = Scale(root, from_=0, to_=1, variable=h_blank, command=print(h_blank.get()))
 
     h_blank_slider.pack()
     h_blank_label.pack()
-    window.mainloop()
+    root.mainloop()
     # TODO
 
 
 if __name__ == "__main__":
-    IMAGE_DIR = "outputs/br/trillek/binary_images"
+    IMAGE_DIR = "outputs/br/swinfield/binary_images"
     test_thresholds(IMAGE_DIR)
