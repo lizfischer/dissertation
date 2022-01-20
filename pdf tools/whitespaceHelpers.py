@@ -1,10 +1,10 @@
 import tkinter
-
 import numpy as np
 import cv2
 import os
 from tkinter import *
 from tkinter.ttk import *
+
 
 class Thresholds:
     def __init__(self, h_width=40, h_blank=0.02, v_width=10, v_blank=0.05):
@@ -126,8 +126,8 @@ def test_thresholds(bin_dir, thresholds=Thresholds()):
         h_blank_label = Label(root, text=h_blank.get())
         h_blank_slider = Scale(root, from_=0, to_=1, variable=h_blank, command=print(h_blank.get()))
 
-    h_blank_slider.pack()
-    h_blank_label.pack()
+        h_blank_slider.pack()
+        h_blank_label.pack()
     root.mainloop()
     # TODO
 
