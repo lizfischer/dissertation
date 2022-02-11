@@ -64,7 +64,7 @@ def do_recognize(margin_data):
     print("\n *** OCRing image regions... ***")
 
     # Make file name
-    outfile = "/".join(margin_data.split("/")[:-1])+"/ocr.json"
+    outfile = "/".join(margin_data.split_pdf("/")[:-1]) + "/ocr.json"
 
     global active_entry, all_entries
 

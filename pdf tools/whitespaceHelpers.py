@@ -44,6 +44,7 @@ def find_left(img_binary, thresh=0.02):
 
 
 # Find the midpoints of horizontal whitespace on the page
+# TODO: Change this to return start & width
 def find_horizontal_gaps(img_binary, width_thresh, blank_thresh=0.02):
     n_rows, n_cols = img_binary.shape  # get dimensions
     row_pcts = img_binary.sum(axis=1)/n_cols  # get the % of black pixels in each row
@@ -62,6 +63,7 @@ def find_horizontal_gaps(img_binary, width_thresh, blank_thresh=0.02):
 
 
 # Find vertical whitespace on the page
+# TODO: Change this to return start & width
 def find_vertical_gaps(img_binary, width_thresh, blank_thresh=0.02):
     n_rows, n_cols = img_binary.shape  # get dimensions
     col_pcts = img_binary.sum(axis=0)/n_cols  # get the % of black pixels in each column
@@ -113,7 +115,7 @@ def _test_thresholds(path, t):
     image, binary = get_binary_image(path)
     h = find_horizontal_gaps(binary, width_thresh=t.h_width, blank_thresh=t.h_blank)
     v = find_vertical_gaps(binary, width_thresh=t.v_width, blank_thresh=t.v_blank)
-    # visualize(image, horiz=h, vert=v)
+    visualize(image, horiz=h, vert=v)
 
 
 def test_thresholds(bin_dir, thresholds=Thresholds()):

@@ -135,3 +135,5 @@ dimev/.idea/workspace.xml
 pdf tools/outputs*
 pdf tools/input*
 *.pdf
+
+pdf tools/temp/*

@@ -5,7 +5,7 @@ import cv2
 from tqdm import tqdm
 
 
-def export_binary_images(in_dir, clean=False):
+def export_binary_images(in_dir, cleanup=False):
     print("\n*** Binarizing images... ***")
     output_dir = in_dir.replace("pdf_images", "binary_images")
 
@@ -19,7 +19,7 @@ def export_binary_images(in_dir, clean=False):
         (thresh, im_bw) = cv2.threshold(img, 128, 255, cv2.THRESH_BINARY)
 
         cv2.imwrite(f"{output_dir}/{imgs[i].replace('.jpg', '.tiff')}", im_bw)
-    if clean:
+    if cleanup:
         shutil.rmtree(in_dir)
     return output_dir
 
@@ -27,8 +27,8 @@ def export_binary_images(in_dir, clean=False):
 def export_pdf_images(input_file):
     print("\n*** Converting PDF to images... ****")
 
-    name = input_file.split("/")[-1].replace(".pdf", "")
-    output_dir = f"outputs/br/{name}/pdf_images"
+    name = input_file.split_pdf("/")[-1].replace(".pdf", "")
+    output_dir = f"projects/{name}/pdf_images"
 
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
@@ -46,5 +46,5 @@ def export_pdf_images(input_file):
 if __name__ == "__main__":
     INPUT_FILE = "input/trillek.pdf"
     # pdf_im = export_pdf_images(INPUT_FILE)
-    export_binary_images("outputs/br/trillek/pdf_images")
+    export_binary_images("projects/trillek/pdf_images")
 
