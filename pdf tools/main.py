@@ -34,7 +34,7 @@ def new_process_pdf(input_file_name, splitPages):
     binary_image_directory = image_generation.export_binary_images(pdf_image_directory, cleanup=False)
 
     # Step Four - Find Margins
-    margins = find_gaps.find_gaps(binary_image_directory) #TODO more generalization needed here
+    margins = find_gaps.find_gaps(binary_image_directory) # TODO more generalization needed here
 
 
 if __name__ == "__main__":

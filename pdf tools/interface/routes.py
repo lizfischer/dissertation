@@ -56,9 +56,35 @@ def initialize_project(file):
 
 from split_pages import split_pdf
 @app.route('/split/<projectID>')
-def split(projectID):
+def split_file(projectID):
     project_folder = os.path.join((app.config['UPLOAD_FOLDER']), projectID)
     file = os.path.join(project_folder, f"{projectID}.pdf")  # FIXME - shouldn't manually add extension
-    new = split_pdf(file, project_folder)
-    return(new)
-    #TODO change this to a page w/ form submission & pdf preview https://www.w3docs.com/snippets/html/how-to-embed-pdf-in-html.html
+    new_name = split_pdf(file, project_folder)[1]
+    new_path = url_for('static', filename=f'projects/{projectID}/{new_name}')
+    return render_template('split.html', projectID = projectID, new_file = new_path)
+    #TODO change this to a page w/ form submission
+
+
+from image_generation import export_pdf_images, export_binary_images
+@app.route('/binarize/<projectID>')
+def binarize(projectID):
+    project_folder = os.path.join((app.config['UPLOAD_FOLDER']), projectID)
+    if os.path.exists(os.path.join(project_folder, "binary_images")) and os.path.exists(os.path.join(project_folder, "pdf_images")):
+        images = f"interface/static/projects/{projectID}/pdf_images"
+        binary_images = f"interface/static/projects/{projectID}/binary_images"
+    else:
+        split = True # FIXME
+        if split:
+            pdf = f"{projectID}_split.pdf" # FIXME
+        else:
+            pdf = f"{projectID}.pdf" # FIXME
+        pdf_path = os.path.join(project_folder, pdf)
+        images = export_pdf_images(pdf_path, projectID)
+        binary_images = export_binary_images(images, cleanup=False)
+
+    return render_template('binarize.html', projectID = projectID, folder=images.replace("interface/static/",""))
+
+
+@app.route('/margins/<projectID>')
+def find_margins(projectID):
+    return render_template('margins.html', projectID = projectID) # TODO

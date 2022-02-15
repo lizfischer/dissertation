@@ -26,10 +26,12 @@ def split_pdf(file, out_dir, splitPCT=.5):
             pdfOut.addPage(pageRight)
 
         file_name = os.path.basename(file).split('.')[0]
-        outfile_name = os.path.join(out_dir, f"{file_name}_split.pdf")
+        outfile_name = f"{file_name}_split.pdf"
+        outfile_full = os.path.join(out_dir, outfile_name)
+
         with open(outfile_name, "wb") as outfile:
             pdfOut.write(outfile)
-            return outfile_name
+            return outfile_full, outfile_name
 
 
 def main():

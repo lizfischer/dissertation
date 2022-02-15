@@ -3,5 +3,11 @@
 {% block content %}
     <h1>{{ projectID }}</h1>
 
-    <a href="{{ url_for('split', projectID=projectID) }}"> Split pages </a>
+    <ul>
+        <li><a href="{{ url_for('split_file', projectID=projectID) }}"> Split pages </a></li>
+        <li><a href="{{ url_for('binarize', projectID=projectID) }}"> Binarize </a></li>
+        <li><a href="{{ url_for('find_margins', projectID=projectID) }}"> Margins </a></li>
+    </ul>
+
+    {% block module %}        {% endblock %}
 {% endblock %}

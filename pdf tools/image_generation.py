@@ -24,11 +24,10 @@ def export_binary_images(in_dir, cleanup=False):
     return output_dir
 
 
-def export_pdf_images(input_file):
+def export_pdf_images(input_file, projectID):
     print("\n*** Converting PDF to images... ****")
 
-    name = input_file.split_pdf("/")[-1].replace(".pdf", "")
-    output_dir = f"projects/{name}/pdf_images"
+    output_dir = f"interface/static/projects/{projectID}/pdf_images"
 
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
@@ -46,5 +45,5 @@ def export_pdf_images(input_file):
 if __name__ == "__main__":
     INPUT_FILE = "input/trillek.pdf"
     # pdf_im = export_pdf_images(INPUT_FILE)
-    export_binary_images("projects/trillek/pdf_images")
+    export_binary_images("interface/static/projects/trillek/pdf_images")
 
