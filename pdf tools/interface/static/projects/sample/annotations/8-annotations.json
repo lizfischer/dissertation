@@ -1,0 +1,92 @@
+[
+    {
+        "@context": "http://www.w3.org/ns/anno.jsonld",
+        "id": "#k8hfgtxb5amnahtk",
+        "type": "Annotation",
+        "body": [
+            {
+                "type": "TextualBody",
+                "value": "self.text"
+            }
+        ],
+        "target": {
+            "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:92,0,1,1377"
+            }
+        }
+    },
+    {
+        "@context": "http://www.w3.org/ns/anno.jsonld",
+        "id": "#21i43jv0csvmxzhl",
+        "type": "Annotation",
+        "body": [
+            {
+                "type": "TextualBody",
+                "value": "self.text"
+            }
+        ],
+        "target": {
+            "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:750,0,1,1377"
+            }
+        }
+    },
+    {
+        "@context": "http://www.w3.org/ns/anno.jsonld",
+        "id": "#l9vc2iqyr05eu37s",
+        "type": "Annotation",
+        "body": [
+            {
+                "type": "TextualBody",
+                "value": "self.text"
+            }
+        ],
+        "target": {
+            "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:0,138,1006,1"
+            }
+        }
+    },
+    {
+        "@context": "http://www.w3.org/ns/anno.jsonld",
+        "id": "#vepguw05sb691btm",
+        "type": "Annotation",
+        "body": [
+            {
+                "type": "TextualBody",
+                "value": "self.text"
+            }
+        ],
+        "target": {
+            "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:0,958.0,1006,1"
+            }
+        }
+    },
+    {
+        "@context": "http://www.w3.org/ns/anno.jsonld",
+        "id": "#13y40bhu6h9b8yza",
+        "type": "Annotation",
+        "body": [
+            {
+                "type": "TextualBody",
+                "value": "self.text"
+            }
+        ],
+        "target": {
+            "selector": {
+                "type": "FragmentSelector",
+                "conformsTo": "http://www.w3.org/TR/media-frags/",
+                "value": "xywh=pixel:0,1195,1006,1"
+            }
+        }
+    }
+]

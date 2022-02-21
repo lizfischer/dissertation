@@ -12,6 +12,8 @@ class Thresholds:
         self.h_blank = h_blank
         self.v_width = v_width
         self.v_blank = v_blank
+        self.minor_h_width = 15
+        self.minor_v_width = 15
 
 
 def get_binary_image(im_path):
@@ -25,12 +27,14 @@ def find_consecutive_zeroes(array):
     return np.where(absdiff == 1)[0].reshape(-1, 2)
 
 
-def find_top(img_binary):
+def find_top(img_binary, skip_header=True):  # FIXME: Delete this?
     n_rows, n_cols = img_binary.shape
     row_pcts = img_binary.sum(axis=1)/n_cols
     consecutive_zeroes = find_consecutive_zeroes(row_pcts)
-    header_bottom = consecutive_zeroes[1][0]
-    return int(header_bottom)
+    if skip_header:
+        second_gap = consecutive_zeroes[1][0]
+        return int(second_gap)
+    return int(consecutive_zeroes[0][0])
 
 
 def find_left(img_binary, thresh=0.02):
@@ -43,52 +47,43 @@ def find_left(img_binary, thresh=0.02):
     return [first_large_column - 10]  # scootch the line over a bit to avoid skipping the first word
 
 
-# Find the midpoints of horizontal whitespace on the page
-# TODO: Change this to return start & width
-def find_horizontal_gaps(img_binary, width_thresh, blank_thresh=0.02):
+# Direction: 0 is vertical, 1 is horizontal
+def find_gaps_directional(img_binary, direction, width_thresh, blank_thresh=0.02):
     n_rows, n_cols = img_binary.shape  # get dimensions
-    row_pcts = img_binary.sum(axis=1)/n_cols  # get the % of black pixels in each row
-    # TODO: calculate a sensitivity threshold based on the average number of pixels in a non-zero row
-    thresh = [max(0, i-blank_thresh) for i in row_pcts]
-    nonzero_vals = [i for i in thresh if i != 0]
-    if not nonzero_vals:
-        raise ValueError("Image is blank")
-    average_black = sum(nonzero_vals)/len(nonzero_vals)  # TODO: Handle blank pages -- did above work?
-    consecutive_zeroes = find_consecutive_zeroes(thresh)  # find places with multiple 0 rows stacked (index range)
-    blank_widths = [b-a for [a, b] in consecutive_zeroes]
-    # print(sum(blank_widths)/len(blank_widths))  # Todo: can I get the width threshold based on a standard deviation?
-
-    midpoints = [a+(b-a)/2 for [a, b] in consecutive_zeroes if b-a > width_thresh]
-    return midpoints
-
-
-# Find vertical whitespace on the page
-# TODO: Change this to return start & width
-def find_vertical_gaps(img_binary, width_thresh, blank_thresh=0.02):
-    n_rows, n_cols = img_binary.shape  # get dimensions
-    col_pcts = img_binary.sum(axis=0)/n_cols  # get the % of black pixels in each column
-    # TODO: calculate a sensitivity threshold based on the average number of pixels in a non-zero row
-    thresh = [max(0, j-blank_thresh) for j in col_pcts]
+    pcts = img_binary.sum(axis=direction)/n_cols  # get the % of black pixels in each column
+    thresh = [max(0, j - blank_thresh) for j in pcts]
     nonzero_vals = [j for j in thresh if j != 0]
-
     if not nonzero_vals:
         raise ValueError("Image is blank")
-
-    average_black = sum(nonzero_vals)/len(nonzero_vals)  # Question: Handle blank pages -- did above work?
+    average_black = sum(nonzero_vals) / len(nonzero_vals)  # TODO: Question: Handle blank pages -- did above work?
     consecutive_zeroes = find_consecutive_zeroes(thresh)  # find places with multiple 0 cols adjacent (index range)
-    blank_widths = [b-a for [a, b] in consecutive_zeroes]
-    # print(f"Average blank width: {sum(blank_widths)/len(blank_widths)}")
-    # TODO: can I get the width threshold based on a standard deviation?
-
-    right_edges = [b-10 for [a, b] in consecutive_zeroes if b-a > width_thresh]
-    return right_edges
+    data = []
+    for gap in consecutive_zeroes:
+        start, end = gap
+        width = gap[1]-gap[0]
+        if width > width_thresh:
+            data.append({"start": int(start), "end": int(end), "width": int(width)})
+    return data
 
 
 def visualize(image, horiz=[], vert=[]):
-    for h in horiz:
-        image[int(h), :] = 155
-    for v in vert:
-        image[:, int(v)] = 155
+    # first horizontal gap
+    image[int(horiz[0]["end"]), :] = 155
+    for h in horiz[1:-1]:
+        midpoint = h["start"] + h["width"]/2
+        image[int(midpoint), :] = 155
+    # first horizontal gap
+    image[int(horiz[-1]["start"]), :] = 155
+
+    # first vertical gap
+    image[:, int(vert[0]["end"])] = 155
+    # middle vertical gaps
+    for v in vert[1:-1]:
+        midpoint = v["start"] + v["width"]/2
+        image[:, int(midpoint)] = 155
+    # last vertical gap
+    image[:, int(vert[-1]["start"])] = 155
+
     resize = _resize_image_aspect(image, height=800)
     cv2.imshow("gaps", resize)
     cv2.waitKey(0)

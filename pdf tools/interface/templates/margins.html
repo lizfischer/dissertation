@@ -1,3 +1,25 @@
 {% extends "project.html" %}
 
-{% block module %}        {% endblock %}
+{% block module %}
+
+
+{% for page in data %}
+<img id="{{ page["id"] }}" src="{{ url_for('static', filename=page["image"]) }}">
+
+<script>
+    (function() {
+      var anno = Annotorious.init({
+        image: {{page["id"]}}// image element or ID
+      });
+
+      anno.loadAnnotations("{{ url_for('static', filename=page["annotations"]) }}");
+
+      // Add event handlers using .on
+      anno.on('createAnnotation', function(annotation) {
+        // Do something
+      });
+    })()
+  </script>
+{% endfor %}
+
+{% endblock %}
