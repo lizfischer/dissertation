@@ -4,18 +4,20 @@ from werkzeug.utils import secure_filename
 import os
 from pathlib import Path
 
+
 # TODO: Split some of this into different files
+
 
 @app.route('/')
 def main():
     projects = [name for name in os.listdir((app.config['UPLOAD_FOLDER']))
-            if os.path.isdir(os.path.join((app.config['UPLOAD_FOLDER']), name))]
-    return render_template('select_project.html', projects = projects)
+                if os.path.isdir(os.path.join((app.config['UPLOAD_FOLDER']), name))]
+    return render_template('select_project.html', projects=projects)
 
 
 @app.route('/project/<projectID>')
 def project(projectID):
-    return render_template('project.html', projectID = projectID)
+    return render_template('project.html', projectID=projectID)
 
 
 @app.route('/upload', methods=['GET', 'POST'])
@@ -47,7 +49,7 @@ def allowed_file(filename):
 
 def initialize_project(file):
     filename = secure_filename(file.filename)
-    projectname = filename.split(".")[0] # TODO: Change project ID to something unique
+    projectname = filename.split(".")[0]  # TODO: Change project ID to something unique
 
     projectdir = os.path.join(app.config['UPLOAD_FOLDER'], projectname)
     os.mkdir(projectdir)
@@ -63,31 +65,34 @@ def split_file(projectID):
     file = os.path.join(project_folder, f"{projectID}.pdf")  # FIXME - shouldn't manually add extension
     new_name = split_pdf(file, project_folder)[1]
     new_path = url_for('static', filename=f'projects/{projectID}/{new_name}')
-    return render_template('split.html', projectID = projectID, new_file = new_path)
-    #TODO change this to a page w/ form submission
+    return render_template('split.html', projectID=projectID, new_file=new_path)
+    # TODO change this to a page w/ form submission
 
 
 from image_generation import export_pdf_images, export_binary_images
 @app.route('/binarize/<projectID>')
 def binarize(projectID):
     project_folder = os.path.join((app.config['UPLOAD_FOLDER']), projectID)
-    if os.path.exists(os.path.join(project_folder, "binary_images")) and os.path.exists(os.path.join(project_folder, "pdf_images")):
+    if os.path.exists(os.path.join(project_folder, "binary_images")) and os.path.exists(
+            os.path.join(project_folder, "pdf_images")):
         images = f"interface/static/projects/{projectID}/pdf_images"
         binary_images = f"interface/static/projects/{projectID}/binary_images"
     else:
-        split = True # FIXME
+        split = True  # FIXME
         if split:
-            pdf = f"{projectID}_split.pdf" # FIXME
+            pdf = f"{projectID}_split.pdf"  # FIXME
         else:
-            pdf = f"{projectID}.pdf" # FIXME
+            pdf = f"{projectID}.pdf"  # FIXME
         pdf_path = os.path.join(project_folder, pdf)
         images = export_pdf_images(pdf_path, projectID)
         binary_images = export_binary_images(images, cleanup=False)
 
-    return render_template('binarize.html', projectID = projectID, folder=images.replace("interface/static/",""))
+    return render_template('binarize.html', projectID=projectID, folder=images.replace("interface/static/", ""))
 
 
 from find_gaps import find_gaps
+
+
 @app.route('/margins/<projectID>')
 def find_margins(projectID):
     project_folder = os.path.join((app.config['UPLOAD_FOLDER']), projectID)
@@ -96,23 +101,27 @@ def find_margins(projectID):
     else:
         gaps_file = find_gaps(f"{project_folder}/binary_images")
 
-    whitespace_to_annotations(gaps_file, projectID) # turn the output of gap detection into annotations for Annotorious
+    whitespace_to_annotations(gaps_file, projectID)  # turn the output of gap detection into annotations for Annotorious
 
     # Pair up images & annotation files so the template can match them up
     data = []
     images = [Path(name).stem for name in os.listdir(os.path.join(project_folder, "pdf_images"))]
     for image in images:
-        d = {"id": image, "image": f"projects/{projectID}/pdf_images/{image}.jpg", "annotations": f"projects/{projectID}/annotations/{image}-annotations.json"}
+        d = {"id": image, "image": f"projects/{projectID}/pdf_images/{image}.jpg",
+             "annotations": f"projects/{projectID}/annotations/{image}-annotations.json"}
         data.append(d)
-    return render_template('margins.html', projectID = projectID, data=data)
+    return render_template('margins.html', projectID=projectID, data=data)
+
 
 ##
 # Turn the output of gap detection into annotations for Annotorious
 ##
 import random, string, json
+
+
 class Annotation:
-    def __init__(self, x, y , w, h, text=""):
-        self.id = ''.join(random.choice(string.ascii_lowercase + string.digits) for i in range(16))  # TODO: Make unique
+    def __init__(self, x, y, w, h, text=""):
+        self.id = ''.join(random.choice(string.ascii_lowercase + string.digits) for _ in range(16))  # TODO: Make unique
         self.text = text
         self.x = x
         self.y = y
@@ -134,6 +143,8 @@ class Annotation:
                 }
             }
         }
+
+
 def whitespace_to_annotations(whitespace_file, projectID):
     project_folder = os.path.join((app.config['UPLOAD_FOLDER']), projectID)
     annotation_folder = os.path.join(project_folder, "annotations")
@@ -153,7 +164,7 @@ def whitespace_to_annotations(whitespace_file, projectID):
         annotations.append(annotation.json)
         # Middle gaps, give the midpoint
         for v in image["vertical_gaps"][1:-1]:
-            x = v['start']+v['width']/2
+            x = v['start'] + v['width'] / 2
             annotation = Annotation(x, 0, 1, image['height'])
             annotations.append(annotation.json)
         # Last vertical gap, start at start of the gap
@@ -165,8 +176,8 @@ def whitespace_to_annotations(whitespace_file, projectID):
         annotations.append(annotation.json)
         # Middle gaps, give the midpoint
         for h in image["horizontal_gaps"][1:-1]:
-            y = h['start']+h["width"]/2
-            annotation = Annotation(0, y , image['width'], 1)
+            y = h['start'] + h["width"] / 2
+            annotation = Annotation(0, y, image['width'], 1)
             annotations.append(annotation.json)
         # Last horizontal gap, start at start of the gap
         annotation = Annotation(0, image["horizontal_gaps"][-1]["start"], image['width'], 1)
