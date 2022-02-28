@@ -137,3 +137,7 @@ pdf tools/input*
 *.pdf
 
 pdf tools/temp/*
+
+*-annotations.json
+*.tiff
+*.jpg

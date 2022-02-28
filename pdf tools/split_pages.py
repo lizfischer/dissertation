@@ -29,7 +29,7 @@ def split_pdf(file, out_dir, splitPCT=.5):
         outfile_name = f"{file_name}_split.pdf"
         outfile_full = os.path.join(out_dir, outfile_name)
 
-        with open(outfile_name, "wb") as outfile:
+        with open(outfile_full, "wb") as outfile:
             pdfOut.write(outfile)
             return outfile_full, outfile_name
 

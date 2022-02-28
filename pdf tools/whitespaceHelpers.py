@@ -4,7 +4,7 @@ import cv2
 import os
 from tkinter import *
 from tkinter.ttk import *
-
+import json
 
 class Thresholds:
     def __init__(self, h_width=40, h_blank=0.02, v_width=10, v_blank=0.05):
@@ -12,8 +12,12 @@ class Thresholds:
         self.h_blank = h_blank
         self.v_width = v_width
         self.v_blank = v_blank
-        self.minor_h_width = 15
-        self.minor_v_width = 15
+        #self.minor_h_width = 15
+        #self.minor_v_width = 15
+
+    def toJSON(self):
+        return json.dumps(self, default=lambda o: o.__dict__,
+                          sort_keys=True, indent=4)
 
 
 def get_binary_image(im_path):

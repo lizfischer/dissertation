@@ -91,15 +91,21 @@ def binarize(projectID):
 
 
 from find_gaps import find_gaps
-
-
-@app.route('/margins/<projectID>')
+from whitespaceHelpers import Thresholds
+@app.route('/margins/<projectID>', methods=['GET', 'POST'])
 def find_margins(projectID):
     project_folder = os.path.join((app.config['UPLOAD_FOLDER']), projectID)
-    if os.path.exists(os.path.join(project_folder, "whitespace.json")):
+
+    if request.method == 'POST':
+        print("POST")
+        thresh = Thresholds(h_width=float(request.form['h_width']), h_blank=float(request.form['h_blank']),
+                            v_blank=float(request.form['v_blank']), v_width=float(request.form['v_width']))
+        session["thresholds"] = thresh.toJSON()
+        gaps_file = find_gaps(f"{project_folder}/binary_images", thresholds=thresh)
+    elif os.path.exists(os.path.join(project_folder, "whitespace.json")):
         gaps_file = f"interface/static/projects/{projectID}/whitespace.json"
     else:
-        gaps_file = find_gaps(f"{project_folder}/binary_images")
+        gaps_file = find_gaps(f"{project_folder}/binary_images", thresholds=Thresholds())
 
     whitespace_to_annotations(gaps_file, projectID)  # turn the output of gap detection into annotations for Annotorious
 
@@ -110,7 +116,7 @@ def find_margins(projectID):
         d = {"id": image, "image": f"projects/{projectID}/pdf_images/{image}.jpg",
              "annotations": f"projects/{projectID}/annotations/{image}-annotations.json"}
         data.append(d)
-    return render_template('margins.html', projectID=projectID, data=data)
+    return render_template('margins.html', projectID=projectID, data=data, thresh=Thresholds(**json.loads(session["thresholds"])))
 
 
 ##
@@ -133,7 +139,7 @@ class Annotation:
             "type": "Annotation",
             "body": [{
                 "type": "TextualBody",
-                "value": f"self.text"
+                "value": f"{self.text}"
             }],
             "target": {
                 "selector": {
@@ -172,16 +178,16 @@ def whitespace_to_annotations(whitespace_file, projectID):
         annotations.append(annotation.json)
 
         # First horizontal gap, start at end of the gap
-        annotation = Annotation(0, image["horizontal_gaps"][0]["end"], image['width'], 1)
-        annotations.append(annotation.json)
+        #annotation = Annotation(0, image["horizontal_gaps"][0]["end"], image['width'], 1)
+        #annotations.append(annotation.json)
         # Middle gaps, give the midpoint
         for h in image["horizontal_gaps"][1:-1]:
             y = h['start'] + h["width"] / 2
-            annotation = Annotation(0, y, image['width'], 1)
+            annotation = Annotation(0, y, image['width'], 1, text=h["width"])
             annotations.append(annotation.json)
         # Last horizontal gap, start at start of the gap
-        annotation = Annotation(0, image["horizontal_gaps"][-1]["start"], image['width'], 1)
-        annotations.append(annotation.json)
+        #annotation = Annotation(0, image["horizontal_gaps"][-1]["start"], image['width'], 1)
+        #annotations.append(annotation.json)
 
         # Save file
         with open(anno_file, "w") as outfile:

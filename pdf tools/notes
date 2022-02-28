@@ -6,3 +6,4 @@
     - main text area (non-margins/header)
     - how we determine a new entry (text left of certain gap OR size of horizontal gap OR combo)
 4. Tesseract (if text found to the left of *left*, mark start of new item. Ignore text above *top*)
++

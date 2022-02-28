@@ -2,6 +2,20 @@
 
 {% block module %}
 
+<form method="post">
+    <label for="h_width">Minimum width of a horizontal gap (higher = fewer gaps)</label>
+    <input type="text" id="h_width" name="h_width" value="{{ thresh['h_width'] }}"><br>
+    <label for="h_blank">Maximum pct of blank pixels in a horizontal line to "count" it as blank (higher = more gaps)</label>
+    <input type="text" id="h_blank" name="h_blank" value="{{ thresh['h_blank'] }}"><br>
+
+
+    <label for="v_width">Minimum width of a vertical gap</label>
+    <input type="text" id="v_width" name="v_width" value="{{ thresh['v_width'] }}"><br>
+    <label for="v_blank">Maximum pct of blank pixels in a vertical line to "count" it as blank</label>
+    <input type="text" id="v_blank" name="v_blank" value="{{ thresh['v_blank']}}"><br>
+
+    <input type="submit">
+</form>
 
 {% for page in data %}
 <img id="{{ page["id"] }}" src="{{ url_for('static', filename=page["image"]) }}">
