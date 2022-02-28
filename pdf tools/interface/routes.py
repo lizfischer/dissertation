@@ -193,3 +193,11 @@ def whitespace_to_annotations(whitespace_file, projectID):
         with open(anno_file, "w") as outfile:
             json.dump(annotations, outfile, indent=4)
     return annotation_folder
+
+
+@app.route('/rules', methods=['GET', 'POST'])
+def rule_builder():
+    form_data = None
+    if request.method == 'POST':
+        form_data = request.form
+    return render_template('rules.html', form_data=form_data)
