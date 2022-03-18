@@ -12,7 +12,7 @@
     <fieldset>
         <legend>Ignore text</legend>
         <span id="ignore-wrap-0">
-                <select name="ignore-position-0">
+                <select id="ignore-position-0" name="ignore-position-0">
                     <option value="above">above the first</option>
                     <option value="below">below the last</option>
                 </select>
@@ -24,7 +24,7 @@
 
         <span id="ignore-wrap-1" style="display: none;">
              and
-            <select name="ignore-position-1">
+            <select id="ignore-position-1" name="ignore-position-1">
                 <option value="above">above the first</option>
                 <option value="below">below the last</option>
             </select>
@@ -120,6 +120,21 @@
 
             $("#ignore-wrap-1").toggle();
         });
+
+/* FIXME
+        $("#ignore-position-0").change(function (){
+            console.log("Change")
+            $("#ignore-position-1").value = "below"
+
+            if ($(this).val() === "above"){
+                $("#ignore-position-1").value = "below"
+            }
+            if ($(this).val() === "below"){
+                $("#ignore-position-1").value = "above"
+            }
+
+        });
+*/
 
         $("#entry-start-0").change(function() {
             if ($(this).val() != "after") {

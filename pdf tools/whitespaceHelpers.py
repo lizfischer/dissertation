@@ -16,8 +16,10 @@ class Thresholds:
         #self.minor_v_width = 15
 
     def toJSON(self):
-        return json.dumps(self, default=lambda o: o.__dict__,
-                          sort_keys=True, indent=4)
+        return {"h_width": self.h_width,
+                "h_blank": self.h_blank,
+                "v_width": self.v_width,
+                "v_blank": self.v_blank } # json.dumps(self, default=lambda o: o.__dict__, sort_keys=True)
 
 
 def get_binary_image(im_path):

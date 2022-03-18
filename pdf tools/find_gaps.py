@@ -11,12 +11,17 @@ np.set_printoptions(threshold=sys.maxsize)
 ##
 # Saves a dataframe to the given directory with the name "whitespace.json"
 # Returns the file name
-def write_output(df, output_dir):
-    s = sorted(df, key=lambda x: x["image"])
-    f = f"{output_dir}/whitespace.json"
-    with open(f, "w") as outfile:
-        json.dump(s, outfile, indent=4)
-    return f
+def write_output(df, output_dir, thresholds, thresholds_in_filename=False):
+    sorted_pages = sorted(df, key=lambda x: x["num"])
+    if thresholds_in_filename:
+        filename = f"{output_dir}/whitespace_{thresholds.h_width}-{thresholds.h_blank}-" \
+               f"{thresholds.v_width}-{thresholds.v_blank}.json"
+    else:
+        filename = f"{output_dir}/whitespace.json"
+    output = { "thresholds": thresholds.toJSON(), "pages": sorted_pages}
+    with open(filename, "w") as outfile:
+        json.dump(output, outfile, indent=4)
+    return filename
 
 
 ##
@@ -56,7 +61,8 @@ def process_page(im_path, thresholds, viz=False):
             "horizontal_gaps": horizontal_gaps}
 
 
-def find_gaps(image_dir, thresholds=ws.Thresholds(), viz=False): # TODO: This function could probably be shorter
+def find_gaps(image_dir, thresholds=ws.Thresholds(),
+              viz=False, thresholds_in_filename=False, return_data=False): # TODO: This function could probably be shorter
     print("\n*** Detecting margins & whitespace... ***")
     output_dir = "/".join(image_dir.split("/")[:-1])
 
@@ -73,7 +79,12 @@ def find_gaps(image_dir, thresholds=ws.Thresholds(), viz=False): # TODO: This fu
         if i % 20 == 0: # Every 20 images, save the output
             write_output(all_data, output_dir)
 
-    return write_output(all_data, output_dir) # save all the output & return the file path
+    # For getting the data straight in memory, not writing to file
+    if return_data:
+        sorted_pages = sorted(all_data, key=lambda x: x["num"])
+        return sorted_pages
+
+    return write_output(all_data, output_dir, thresholds, thresholds_in_filename=thresholds_in_filename) # save all the output & return the file path
 
 
 if __name__ == "__main__":

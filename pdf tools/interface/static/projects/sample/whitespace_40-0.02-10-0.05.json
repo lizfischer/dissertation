@@ -1,8 +1,8 @@
 {
     "thresholds": {
-        "h_width": 40.0,
+        "h_width": 40,
         "h_blank": 0.02,
-        "v_width": 5.0,
+        "v_width": 10,
         "v_blank": 0.05
     },
     "pages": [
@@ -33,6 +33,256 @@
                     "start": 1120,
                     "end": 1366,
                     "width": 246
+                }
+            ]
+        },
+        {
+            "image": "interface/static/projects\\sample/binary_images/10.tiff",
+            "num": 10,
+            "height": 1374,
+            "width": 1016,
+            "vertical_gaps": [
+                {
+                    "start": 0,
+                    "end": 79,
+                    "width": 79
+                },
+                {
+                    "start": 731,
+                    "end": 1016,
+                    "width": 285
+                }
+            ],
+            "horizontal_gaps": [
+                {
+                    "start": 0,
+                    "end": 144,
+                    "width": 144
+                },
+                {
+                    "start": 313,
+                    "end": 381,
+                    "width": 68
+                },
+                {
+                    "start": 1209,
+                    "end": 1374,
+                    "width": 165
+                }
+            ]
+        },
+        {
+            "image": "interface/static/projects\\sample/binary_images/11.tiff",
+            "num": 11,
+            "height": 1368,
+            "width": 1021,
+            "vertical_gaps": [
+                {
+                    "start": 0,
+                    "end": 252,
+                    "width": 252
+                },
+                {
+                    "start": 884,
+                    "end": 1021,
+                    "width": 137
+                }
+            ],
+            "horizontal_gaps": [
+                {
+                    "start": 0,
+                    "end": 141,
+                    "width": 141
+                },
+                {
+                    "start": 997,
+                    "end": 1059,
+                    "width": 62
+                },
+                {
+                    "start": 1171,
+                    "end": 1368,
+                    "width": 197
+                }
+            ]
+        },
+        {
+            "image": "interface/static/projects\\sample/binary_images/12.tiff",
+            "num": 12,
+            "height": 1368,
+            "width": 1021,
+            "vertical_gaps": [
+                {
+                    "start": 0,
+                    "end": 101,
+                    "width": 101
+                },
+                {
+                    "start": 759,
+                    "end": 1021,
+                    "width": 262
+                }
+            ],
+            "horizontal_gaps": [
+                {
+                    "start": 0,
+                    "end": 144,
+                    "width": 144
+                },
+                {
+                    "start": 781,
+                    "end": 848,
+                    "width": 67
+                },
+                {
+                    "start": 1198,
+                    "end": 1368,
+                    "width": 170
+                }
+            ]
+        },
+        {
+            "image": "interface/static/projects\\sample/binary_images/13.tiff",
+            "num": 13,
+            "height": 1370,
+            "width": 1017,
+            "vertical_gaps": [
+                {
+                    "start": 0,
+                    "end": 246,
+                    "width": 246
+                },
+                {
+                    "start": 882,
+                    "end": 1017,
+                    "width": 135
+                }
+            ],
+            "horizontal_gaps": [
+                {
+                    "start": 0,
+                    "end": 134,
+                    "width": 134
+                },
+                {
+                    "start": 509,
+                    "end": 568,
+                    "width": 59
+                },
+                {
+                    "start": 1164,
+                    "end": 1370,
+                    "width": 206
+                }
+            ]
+        },
+        {
+            "image": "interface/static/projects\\sample/binary_images/14.tiff",
+            "num": 14,
+            "height": 1370,
+            "width": 1017,
+            "vertical_gaps": [
+                {
+                    "start": 0,
+                    "end": 104,
+                    "width": 104
+                },
+                {
+                    "start": 760,
+                    "end": 1017,
+                    "width": 257
+                }
+            ],
+            "horizontal_gaps": [
+                {
+                    "start": 0,
+                    "end": 134,
+                    "width": 134
+                },
+                {
+                    "start": 841,
+                    "end": 899,
+                    "width": 58
+                },
+                {
+                    "start": 1139,
+                    "end": 1184,
+                    "width": 45
+                },
+                {
+                    "start": 1195,
+                    "end": 1370,
+                    "width": 175
+                }
+            ]
+        },
+        {
+            "image": "interface/static/projects\\sample/binary_images/15.tiff",
+            "num": 15,
+            "height": 1364,
+            "width": 1028,
+            "vertical_gaps": [
+                {
+                    "start": 0,
+                    "end": 263,
+                    "width": 263
+                },
+                {
+                    "start": 898,
+                    "end": 1028,
+                    "width": 130
+                }
+            ],
+            "horizontal_gaps": [
+                {
+                    "start": 0,
+                    "end": 132,
+                    "width": 132
+                },
+                {
+                    "start": 761,
+                    "end": 851,
+                    "width": 90
+                },
+                {
+                    "start": 1195,
+                    "end": 1364,
+                    "width": 169
+                }
+            ]
+        },
+        {
+            "image": "interface/static/projects\\sample/binary_images/16.tiff",
+            "num": 16,
+            "height": 1364,
+            "width": 1028,
+            "vertical_gaps": [
+                {
+                    "start": 0,
+                    "end": 102,
+                    "width": 102
+                },
+                {
+                    "start": 759,
+                    "end": 1028,
+                    "width": 269
+                }
+            ],
+            "horizontal_gaps": [
+                {
+                    "start": 0,
+                    "end": 138,
+                    "width": 138
+                },
+                {
+                    "start": 797,
+                    "end": 852,
+                    "width": 55
+                },
+                {
+                    "start": 1197,
+                    "end": 1364,
+                    "width": 167
                 }
             ]
         },
@@ -313,261 +563,6 @@
                     "start": 1212,
                     "end": 1374,
                     "width": 162
-                }
-            ]
-        },
-        {
-            "image": "interface/static/projects\\sample/binary_images/10.tiff",
-            "num": 10,
-            "height": 1374,
-            "width": 1016,
-            "vertical_gaps": [
-                {
-                    "start": 0,
-                    "end": 79,
-                    "width": 79
-                },
-                {
-                    "start": 731,
-                    "end": 1016,
-                    "width": 285
-                }
-            ],
-            "horizontal_gaps": [
-                {
-                    "start": 0,
-                    "end": 144,
-                    "width": 144
-                },
-                {
-                    "start": 313,
-                    "end": 381,
-                    "width": 68
-                },
-                {
-                    "start": 1209,
-                    "end": 1374,
-                    "width": 165
-                }
-            ]
-        },
-        {
-            "image": "interface/static/projects\\sample/binary_images/11.tiff",
-            "num": 11,
-            "height": 1368,
-            "width": 1021,
-            "vertical_gaps": [
-                {
-                    "start": 0,
-                    "end": 252,
-                    "width": 252
-                },
-                {
-                    "start": 884,
-                    "end": 1021,
-                    "width": 137
-                }
-            ],
-            "horizontal_gaps": [
-                {
-                    "start": 0,
-                    "end": 141,
-                    "width": 141
-                },
-                {
-                    "start": 997,
-                    "end": 1059,
-                    "width": 62
-                },
-                {
-                    "start": 1171,
-                    "end": 1368,
-                    "width": 197
-                }
-            ]
-        },
-        {
-            "image": "interface/static/projects\\sample/binary_images/12.tiff",
-            "num": 12,
-            "height": 1368,
-            "width": 1021,
-            "vertical_gaps": [
-                {
-                    "start": 0,
-                    "end": 101,
-                    "width": 101
-                },
-                {
-                    "start": 759,
-                    "end": 1021,
-                    "width": 262
-                }
-            ],
-            "horizontal_gaps": [
-                {
-                    "start": 0,
-                    "end": 144,
-                    "width": 144
-                },
-                {
-                    "start": 781,
-                    "end": 848,
-                    "width": 67
-                },
-                {
-                    "start": 1198,
-                    "end": 1368,
-                    "width": 170
-                }
-            ]
-        },
-        {
-            "image": "interface/static/projects\\sample/binary_images/13.tiff",
-            "num": 13,
-            "height": 1370,
-            "width": 1017,
-            "vertical_gaps": [
-                {
-                    "start": 0,
-                    "end": 246,
-                    "width": 246
-                },
-                {
-                    "start": 882,
-                    "end": 1017,
-                    "width": 135
-                }
-            ],
-            "horizontal_gaps": [
-                {
-                    "start": 0,
-                    "end": 134,
-                    "width": 134
-                },
-                {
-                    "start": 509,
-                    "end": 568,
-                    "width": 59
-                },
-                {
-                    "start": 1164,
-                    "end": 1370,
-                    "width": 206
-                }
-            ]
-        },
-        {
-            "image": "interface/static/projects\\sample/binary_images/14.tiff",
-            "num": 14,
-            "height": 1370,
-            "width": 1017,
-            "vertical_gaps": [
-                {
-                    "start": 0,
-                    "end": 104,
-                    "width": 104
-                },
-                {
-                    "start": 735,
-                    "end": 741,
-                    "width": 6
-                },
-                {
-                    "start": 760,
-                    "end": 1017,
-                    "width": 257
-                }
-            ],
-            "horizontal_gaps": [
-                {
-                    "start": 0,
-                    "end": 134,
-                    "width": 134
-                },
-                {
-                    "start": 841,
-                    "end": 899,
-                    "width": 58
-                },
-                {
-                    "start": 1139,
-                    "end": 1184,
-                    "width": 45
-                },
-                {
-                    "start": 1195,
-                    "end": 1370,
-                    "width": 175
-                }
-            ]
-        },
-        {
-            "image": "interface/static/projects\\sample/binary_images/15.tiff",
-            "num": 15,
-            "height": 1364,
-            "width": 1028,
-            "vertical_gaps": [
-                {
-                    "start": 0,
-                    "end": 263,
-                    "width": 263
-                },
-                {
-                    "start": 898,
-                    "end": 1028,
-                    "width": 130
-                }
-            ],
-            "horizontal_gaps": [
-                {
-                    "start": 0,
-                    "end": 132,
-                    "width": 132
-                },
-                {
-                    "start": 761,
-                    "end": 851,
-                    "width": 90
-                },
-                {
-                    "start": 1195,
-                    "end": 1364,
-                    "width": 169
-                }
-            ]
-        },
-        {
-            "image": "interface/static/projects\\sample/binary_images/16.tiff",
-            "num": 16,
-            "height": 1364,
-            "width": 1028,
-            "vertical_gaps": [
-                {
-                    "start": 0,
-                    "end": 102,
-                    "width": 102
-                },
-                {
-                    "start": 759,
-                    "end": 1028,
-                    "width": 269
-                }
-            ],
-            "horizontal_gaps": [
-                {
-                    "start": 0,
-                    "end": 138,
-                    "width": 138
-                },
-                {
-                    "start": 797,
-                    "end": 852,
-                    "width": 55
-                },
-                {
-                    "start": 1197,
-                    "end": 1364,
-                    "width": 167
                 }
             ]
         }

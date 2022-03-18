@@ -22,7 +22,7 @@ def write_output(outfile):
 # https://stackoverflow.com/questions/59582008/preserving-indentation-with-tesseract-ocr-4-x
 def get_formatted_text(df):
     try:
-        sorted_blocks = df.groupby('block_num').first().sort_values('top').sort_values('left').index.tolist()
+        sorted_blocks = df.groupby('block_num').first().sort_values('left').sort_values('top').index.tolist()
         text = ''
         for block in sorted_blocks:
             curr = df[df['block_num'] == block]

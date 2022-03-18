@@ -15,7 +15,7 @@ def main():
     return render_template('select_project.html', projects=projects)
 
 
-@app.route('/project/<projectID>')
+@app.route('/<projectID>/project')
 def project(projectID):
     return render_template('project.html', projectID=projectID)
 
@@ -59,7 +59,7 @@ def initialize_project(file):
 
 
 from split_pages import split_pdf
-@app.route('/split/<projectID>')
+@app.route('/<projectID>/split')
 def split_file(projectID):
     project_folder = os.path.join((app.config['UPLOAD_FOLDER']), projectID)
     file = os.path.join(project_folder, f"{projectID}.pdf")  # FIXME - shouldn't manually add extension
@@ -70,7 +70,7 @@ def split_file(projectID):
 
 
 from image_generation import export_pdf_images, export_binary_images
-@app.route('/binarize/<projectID>')
+@app.route('/<projectID>/binarize')
 def binarize(projectID):
     project_folder = os.path.join((app.config['UPLOAD_FOLDER']), projectID)
     if os.path.exists(os.path.join(project_folder, "binary_images")) and os.path.exists(
@@ -92,7 +92,7 @@ def binarize(projectID):
 
 from find_gaps import find_gaps
 from whitespaceHelpers import Thresholds
-@app.route('/margins/<projectID>', methods=['GET', 'POST'])
+@app.route('/<projectID>/margins', methods=['GET', 'POST'])
 def find_margins(projectID):
     project_folder = os.path.join((app.config['UPLOAD_FOLDER']), projectID)
 
@@ -100,14 +100,20 @@ def find_margins(projectID):
         print("POST")
         thresh = Thresholds(h_width=float(request.form['h_width']), h_blank=float(request.form['h_blank']),
                             v_blank=float(request.form['v_blank']), v_width=float(request.form['v_width']))
-        session["thresholds"] = thresh.toJSON()
         gaps_file = find_gaps(f"{project_folder}/binary_images", thresholds=thresh)
+    # TODO: Make it so this gets the most recent whitespace_*.json file
     elif os.path.exists(os.path.join(project_folder, "whitespace.json")):
         gaps_file = f"interface/static/projects/{projectID}/whitespace.json"
     else:
         gaps_file = find_gaps(f"{project_folder}/binary_images", thresholds=Thresholds())
 
-    whitespace_to_annotations(gaps_file, projectID)  # turn the output of gap detection into annotations for Annotorious
+
+    with open(gaps_file, "r") as infile:
+        data = json.load(infile)
+        thresholds_used = data["thresholds"]
+        pages_data = data["pages"]
+
+    whitespace_to_annotations(pages_data, projectID)  # turn the output of gap detection into annotations for Annotorious
 
     # Pair up images & annotation files so the template can match them up
     data = []
@@ -116,7 +122,8 @@ def find_margins(projectID):
         d = {"id": image, "image": f"projects/{projectID}/pdf_images/{image}.jpg",
              "annotations": f"projects/{projectID}/annotations/{image}-annotations.json"}
         data.append(d)
-    return render_template('margins.html', projectID=projectID, data=data, thresh=Thresholds(**json.loads(session["thresholds"])))
+
+    return render_template('margins.html', projectID=projectID, data=data, thresh=thresholds_used)
 
 
 ##
@@ -151,16 +158,13 @@ class Annotation:
         }
 
 
-def whitespace_to_annotations(whitespace_file, projectID):
+def whitespace_to_annotations(pages_data, projectID):
     project_folder = os.path.join((app.config['UPLOAD_FOLDER']), projectID)
     annotation_folder = os.path.join(project_folder, "annotations")
     if not os.path.exists(annotation_folder):
         os.mkdir(annotation_folder)
 
-    with open(whitespace_file, "r") as infile:
-        whitespace = json.load(infile)
-
-    for image in whitespace:
+    for image in pages_data:
         num = image["num"]
         annotations = []
         anno_file = os.path.join(annotation_folder, f"{num}-annotations.json")
