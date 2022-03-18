@@ -117,7 +117,8 @@ def find_margins(projectID):
 
     # Pair up images & annotation files so the template can match them up
     data = []
-    images = [Path(name).stem for name in os.listdir(os.path.join(project_folder, "pdf_images"))]
+    images = [int(Path(name).stem) for name in os.listdir(os.path.join(project_folder, "pdf_images"))]
+    images.sort()
     for image in images:
         d = {"id": image, "image": f"projects/{projectID}/pdf_images/{image}.jpg",
              "annotations": f"projects/{projectID}/annotations/{image}-annotations.json"}

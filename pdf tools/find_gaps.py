@@ -62,8 +62,9 @@ def process_page(im_path, thresholds, viz=False):
 
 
 def find_gaps(image_dir, thresholds=ws.Thresholds(),
-              viz=False, thresholds_in_filename=False, return_data=False): # TODO: This function could probably be shorter
-    print("\n*** Detecting margins & whitespace... ***")
+              viz=False, thresholds_in_filename=False, return_data=False, verbose = True): # TODO: This function could probably be shorter
+    if verbose:
+        print("\n*** Detecting margins & whitespace... ***")
     output_dir = "/".join(image_dir.split("/")[:-1])
 
     imgs = os.listdir(image_dir) # List all images in the given directory

@@ -20,11 +20,14 @@ def write_output(outfile):
 
 # mostly copied from stackoverflow... Made a few changes to make it actually show mutliple blocks
 # https://stackoverflow.com/questions/59582008/preserving-indentation-with-tesseract-ocr-4-x
-def get_formatted_text(df):
+def get_formatted_text(df, sort=True):
     try:
-        sorted_blocks = df.groupby('block_num').first().sort_values('left').sort_values('top').index.tolist()
+        if sort:
+            block_order = df.groupby('block_num').first().sort_values('left').sort_values('top').index.tolist()
+        else:
+            block_order = df.groupby('block_num').first().index.tolist()
         text = ''
-        for block in sorted_blocks:
+        for block in block_order:
             curr = df[df['block_num'] == block]
             sel = curr[curr.text.str.len() > 3]
             char_w = (sel.width / sel.text.str.len()).mean()
