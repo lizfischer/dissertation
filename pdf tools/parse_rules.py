@@ -9,6 +9,7 @@ import pandas as pd
 import numpy as np
 pd.set_option("display.max_rows", 10, "display.max_columns", None)
 import re
+from tqdm import tqdm
 
 # direction: positive is above, negative is below
 def ignore_helper(projectID, direction, n_gaps, min_size, blank_thresh):
@@ -77,11 +78,10 @@ def ocr_page(projectID, page_num, start=None, end=None):
 
 
 
-# validate inputs for simple_separate
-# split = strong | weak
+# validate inputs for simple_separate TODO: Expand validation
+# split = "strong" | "weak" | "regex"
 # ignore = [start, end]
 def simple_separate_val(projectID, gap_size, blank_thresh, ignore, split, regex=None):
-    # Validate parameters TODO
     valid_types = ["strong", "weak", "regex"]
     if split not in valid_types:
         raise ValueError(f"Invalid split type: '{split}'. Split type should be one of {valid_types}")
@@ -96,9 +96,12 @@ def simple_separate_val(projectID, gap_size, blank_thresh, ignore, split, regex=
         raise ValueError(f"Invalid shape for 'ignore'. Expected [starts, ends] but received: {ignore}")
     return True
 
+
+# IN SIMPLE SEPARATE, NEW ENTRIES START:
 # After gap of a certain size, OR at the top of the page IF the first line of text meets certain conditions
 # option to always start a new entry at the top ("strong split"), or never do so ("weak split")
 # So the options are: Always, never, or first-line regex
+# FIXME: Can I decompose this method more?
 def simple_separate(projectID, gap_size, blank_thresh, ignore, split, regex=None):
     simple_separate_val(projectID, gap_size, blank_thresh, ignore, split, regex)
 
@@ -116,7 +119,7 @@ def simple_separate(projectID, gap_size, blank_thresh, ignore, split, regex=None
     active_entry = ""
 
     # For each page in numerical order NB: this relies on find_gaps returning a SORTED list
-    for p in gaps_data[11:14]:
+    for p in tqdm(gaps_data[:3]):
         n = p["num"]
         print(f"\nPage {n}")
         # OCR the page
@@ -150,11 +153,9 @@ def simple_separate(projectID, gap_size, blank_thresh, ignore, split, regex=None
             needs_split = re.search(regex, text)
 
             if needs_split:  # Start a new entry
-                print("Yes, split")
                 if active_entry: separated_entries.append(active_entry)
                 active_entry = text
             else:  # Do NOT start a new entry, append current selection to previous entry instead
-                print("No, don't split")
                 active_entry += f"\n\n{text}"
 
         # If there are NO gaps, move to the next page
@@ -185,7 +186,10 @@ def simple_separate(projectID, gap_size, blank_thresh, ignore, split, regex=None
     return separated_entries
 
 
-# Text to the left of a certain line,  and (after gap of certain size or at the top of a page)
+# IN INDENT SEPARATE, NEW ENTRIES START:
+# When there is text to the left of a certain line, AND after gap of certain size or at the top of a page
+# By default, checks for ex-dented text *anywhere* in the block, but can specify first-line only.
+# Default anywhere in case ex-dented block gets put somewhere other than first due to a crooked page eg.
 def indent_separate():
     pass
 
@@ -198,6 +202,5 @@ if __name__ == '__main__':
            {"direction": 'above', "n_gaps": 1, "min_size": 10.0, "blank_thresh": 0.02},
            {"direction": 'below', "n_gaps": 1, "min_size": 5.0, "blank_thresh": 0.001})
 
-    simple_separate(projectID, 40.0, 0.01, [starts, ends], "regex", regex="^\d{1,4}\s+[A-Z]+")
-    page = 2
-    # ocr_page("sample", page, starts[page], ends[page])
+    entries = simple_separate(projectID, 40.0, 0.01, [starts, ends], "regex", regex="^\d{1,4}\s+[A-Z]+")
+    print(entries)
