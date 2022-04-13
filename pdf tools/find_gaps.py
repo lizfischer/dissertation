@@ -44,7 +44,7 @@ def process_page(im_path, thresholds, viz=False):
                                                   blank_thresh=thresholds.h_blank)
         vertical_gaps = ws.find_gaps_directional(img_binary, 0, width_thresh=thresholds.v_width,
                                                   blank_thresh=thresholds.v_blank)
-    except IndexError:  # QUESTION: When was this erroring out?
+    except IndexError:  # FIXME: When was this erroring out?
         horizontal_gaps = []
         vertical_gaps = []
     except ValueError:

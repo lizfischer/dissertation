@@ -1,44 +1,45 @@
 import copy
-import sys, os
-from PyPDF2 import PdfFileReader, PdfFileWriter
+import os
+import sys
+import PyPDF2
 
 
-def split_pdf(file, out_dir, splitPCT=.5):
+def split_pdf(file, out_dir, split_pct=.5):
     with open(file, "rb") as infile:
-        pdfIn = PdfFileReader(infile)
-        pdfOut = PdfFileWriter()
+        pdf_in = PyPDF2.PdfFileReader(infile)
+        pdf_out = PyPDF2.PdfFileWriter()
 
-        numPages = pdfIn.getNumPages()
+        numPages = pdf_in.getNumPages()
 
         for i in range(numPages):
-            pageLeft = pdfIn.getPage(i)
+            pageLeft = pdf_in.getPage(i)
             pageRight = copy.copy(pageLeft)
 
             w = float(pageLeft.mediaBox[2])
             h = float(pageLeft.mediaBox[3])
 
             pageLeft.cropBox.lowerLeft = (0, h)
-            pageLeft.cropBox.upperRight = (w * splitPCT, 0)
-            pdfOut.addPage(pageLeft)
+            pageLeft.cropBox.upperRight = (w * split_pct, 0)
+            pdf_out.addPage(pageLeft)
 
-            pageRight.cropBox.lowerLeft = (w * splitPCT, h)
+            pageRight.cropBox.lowerLeft = (w * split_pct, h)
             pageRight.cropBox.upperRight = (w, 0)
-            pdfOut.addPage(pageRight)
+            pdf_out.addPage(pageRight)
 
         file_name = os.path.basename(file).split('.')[0]
         outfile_name = f"{file_name}_split.pdf"
         outfile_full = os.path.join(out_dir, outfile_name)
 
         with open(outfile_full, "wb") as outfile:
-            pdfOut.write(outfile)
+            pdf_out.write(outfile)
             return outfile_full, outfile_name
 
 
 def main():
     args = sys.argv
     print(args)
-    #splitPages("input/Pforzheimer_Vol3.pdf")
+    # split_pages_bool("input/Pforzheimer_Vol3.pdf")
 
 
 if __name__ == '__main__':
-     main()
+    main()

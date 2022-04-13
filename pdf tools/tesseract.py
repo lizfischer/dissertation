@@ -5,6 +5,7 @@ import json
 from tqdm import tqdm
 import pandas as pd
 import numpy as np
+
 pd.set_option("display.max_rows", None, "display.max_columns", None)
 
 THRESHOLD = 50  # number of pixels before identified start to begin looking for entry text
@@ -132,8 +133,3 @@ def do_recognize(margin_data):
     all_entries.append(active_entry)
     write_output(outfile)
     return outfile
-
-
-if __name__ == "__main__":
-    start_time = time.time()
-    do_recognize("margins_out.json")

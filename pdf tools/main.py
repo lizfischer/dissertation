@@ -2,7 +2,6 @@ import image_generation
 import find_gaps
 import tesseract
 import dump_to_txt
-from whitespaceHelpers import test_thresholds
 import split_pages
 
 
@@ -14,18 +13,12 @@ def process_pdf(input_file):
     dump_to_txt.save_txt(ocr)
 
 
-def test_mode(input_file):
-    pdf_im = image_generation.export_pdf_images(input_file)
-    binary_images = image_generation.export_binary_images(pdf_im)
-    test_thresholds(binary_images)
-
-
-def new_process_pdf(input_file_name, splitPages):
+def new_process_pdf(input_file_name, need_split):
     working_file_name = input_file_name
     # Step One - Do pages need to be split apart?
-    if splitPages:
-        PAGE_SPLIT_POINT = 0.5
-        working_file_name = split_pages.split_pdf(working_file_name, PAGE_SPLIT_POINT)
+    if need_split:
+        page_split_point = 0.5
+        working_file_name = split_pages.split_pdf(working_file_name, page_split_point)
 
     # Step Two - Generate Images from PDF
     pdf_image_directory = image_generation.export_pdf_images(working_file_name)
