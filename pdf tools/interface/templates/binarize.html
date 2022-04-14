@@ -11,7 +11,7 @@
           readOnly: true
     };
     var anno = Annotorious.init(config);
-    anno.loadAnnotations("{{ url_for('static', filename="projects/"+projectID+'/annotation.json') }}");
+    anno.loadAnnotations("{{ url_for('static', filename="projects/"+project_id+'/annotation.json') }}");
 </script>
 
 {% endblock %}

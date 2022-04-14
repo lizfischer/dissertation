@@ -28,10 +28,10 @@ def main():
     return render_template('select_project.html', projects=projects)
 
 
-# TODO: Add "save output" options(s) so ppl don't have to dig into the folders
+
 @app.route('/<project_id>/project')
 def project(project_id):
-    return render_template('project.html', projectID=project_id)
+    return render_template('project.html', project_id=project_id)
 
 
 @app.route('/<project_id>/cleanup')
@@ -48,7 +48,7 @@ def cleanup(project_id):
                 os.remove(path)
 
     flash('Project files cleaned up')
-    return redirect(url_for("project", projectID=project_id))
+    return redirect(url_for("project", project_id=project_id))
 
 
 @app.route('/<project_id>/export')
@@ -71,7 +71,7 @@ def export_txt(project_id):
     data = io.BytesIO()
     with zipfile.ZipFile(data, mode='w') as z:  # open ZIP
         for i in range(0, len(entries)):  # For all entries
-            with open(os.path.join(txt_folder, f"{i}.txt"), "w") as f:
+            with open(os.path.join(txt_folder, f"{i}.txt"), "w", encoding="utf8") as f:
                 f.write(entries[i])  # save that entry to a file
             z.write(os.path.join(txt_folder, f"{i}.txt"), f"{project_id}_{i}.txt")
     data.seek(0)
@@ -102,7 +102,7 @@ def upload():
             return redirect(request.url)
         if file and allowed_file(file.filename):
             project_name = initialize_project(file)
-            return redirect(url_for('project', projectID=project_name))
+            return redirect(url_for('project', project_id=project_name))
     return render_template("upload.html")
 
 
@@ -128,7 +128,7 @@ def split_file(project_id):
     file = os.path.join(project_folder, f"{project_id}.pdf")  # FIXME - shouldn't manually add extension
     new_name = split_pdf(file, project_folder)[1]
     new_path = url_for('static', filename=f'projects/{project_id}/{new_name}')
-    return render_template('split.html', projectID=project_id, new_file=new_path)
+    return render_template('split.html', project_id=project_id, new_file=new_path)
     # TODO change this to a page w/ form submission
 
 
@@ -148,7 +148,7 @@ def binarize(project_id):
         images = export_pdf_images(pdf_path, project_id)
         export_binary_images(images, cleanup=False)
 
-    return render_template('binarize.html', projectID=project_id, folder=images.replace("interface/static/", ""))
+    return render_template('binarize.html', project_id=project_id, folder=images.replace("interface/static/", ""))
 
 
 @app.route('/<project_id>/margins', methods=['GET', 'POST'])
@@ -160,7 +160,6 @@ def find_margins(project_id):
         thresh = Thresholds(h_width=float(request.form['h_width']), h_blank=float(request.form['h_blank']),
                             v_blank=float(request.form['v_blank']), v_width=float(request.form['v_width']))
         gaps_file = find_gaps(f"{project_folder}/binary_images", thresholds=thresh)
-    # TODO: Make it so this gets the most recent whitespace_*.json file
     elif os.path.exists(os.path.join(project_folder, "whitespace.json")):
         gaps_file = f"interface/static/projects/{project_id}/whitespace.json"
     else:
@@ -182,7 +181,7 @@ def find_margins(project_id):
              "annotations": f"projects/{project_id}/annotations/{image}-annotations.json"}
         data.append(d)
 
-    return render_template('margins.html', projectID=project_id, data=data, thresh=thresholds_used)
+    return render_template('margins.html', project_id=project_id, data=data, thresh=thresholds_used)
 
 
 ##
@@ -229,14 +228,16 @@ def whitespace_to_annotations(pages_data, project_id):
         # First vertical gap, start at end of the gap
         annotation = Annotation(image["vertical_gaps"][0]["end"], 0, 1, image['height'])
         annotations.append(annotation.json)
+        # NOTE: SHOWING ONLY the first gap since this is only needed for left-margin detection atm...
         # Middle gaps, give the midpoint
-        for v in image["vertical_gaps"][1:-1]:
-            x = v['start'] + v['width'] / 2
-            annotation = Annotation(x, 0, 1, image['height'])
-            annotations.append(annotation.json)
+        # for v in image["vertical_gaps"][1:-1]:
+        #    x = v['start'] + v['width'] / 2
+        #    annotation = Annotation(x, 0, 1, image['height'])
+        #    annotations.append(annotation.json)
         # Last vertical gap, start at start of the gap
-        annotation = Annotation(image["vertical_gaps"][-1]["start"], 0, 1, image['height'])
-        annotations.append(annotation.json)
+        #if len(image["vertical_gaps"]) > 2 :
+        #    annotation = Annotation(image["vertical_gaps"][-1]["start"], 0, 1, image['height'])
+        #annotations.append(annotation.json)
 
         # First horizontal gap, start at end of the gap
         # annotation = Annotation(0, image["horizontal_gaps"][0]["end"], image['width'], 1)
@@ -256,12 +257,22 @@ def whitespace_to_annotations(pages_data, project_id):
     return annotation_folder
 
 
-@app.route('/rules', methods=['GET', 'POST'])
-def rule_builder():
-    form_data = None
-    if request.method == 'POST':
-        form_data = request.form
-    return render_template('rules.html', form_data=form_data)
+def ignore_handler(project_id, form_data):
+    # Handle Ignore Rules
+    ignore_rule_1 = {"direction": form_data['ignore-position-0'],
+                     "n_gaps": form_data['ignore-num-0'],
+                     "min_size": form_data['ignore-width-0'],
+                     "blank_thresh": form_data['ignore-blank-0']}
+    ignore_rule_2 = {"direction": form_data['ignore-position-1'],
+                     "n_gaps": form_data['ignore-num-1'],
+                     "min_size": form_data['ignore-width-1'],
+                     "blank_thresh": form_data['ignore-blank-1']}
+
+    if not ignore_rule_1["min_size"]: ignore_rule_1 = None;
+    if not ignore_rule_2["min_size"]: ignore_rule_2 = None;
+    starts, ends, lefts, rights = parse_rules.ignore(project_id, ignore_rule_1, ignore_rule_2)
+
+    return [starts, ends, lefts, rights]
 
 
 @app.route('/<project_id>/simple', methods=['GET', 'POST'])
@@ -270,30 +281,37 @@ def simple_separate_ui(project_id):
 
     if request.method == 'POST':
         form_data = request.form
+        ignore_data = ignore_handler(project_id, form_data)
 
-        # Handle Ignore Rules
-        ignore_rule_1 = {"direction": form_data['ignore-position-0'],
-                         "n_gaps": form_data['ignore-num-0'],
-                         "min_size": form_data['ignore-width-0'],
-                         "blank_thresh": form_data['ignore-blank-0']}
-        ignore_rule_2 = {"direction": form_data['ignore-position-1'],
-                         "n_gaps": form_data['ignore-num-1'],
-                         "min_size": form_data['ignore-width-1'],
-                         "blank_thresh": form_data['ignore-blank-1']}
-        if ignore_rule_1["min_size"]:
-            if ignore_rule_2["min_size"]:
-                starts, ends, lefts, rights = parse_rules.ignore(project_id, ignore_rule_1, ignore_rule_2)
-            else:
-                starts, ends, lefts, rights = parse_rules.ignore(project_id, ignore_rule_1)
-            entries = parse_rules.simple_separate(project_id,
-                                                  gap_size=float(form_data["gap-width"]),
-                                                  blank_thresh=float(form_data["gap-blank"]),
-                                                  split=form_data["split-type"],
-                                                  regex=form_data["regex-text"],
-                                                  ignore=[starts, ends, lefts, rights])
+        entries = parse_rules.simple_separate(project_id,
+                                              gap_size=float(form_data["gap-width"]),
+                                              blank_thresh=float(form_data["gap-blank"]),
+                                              split=form_data["split-type"],
+                                              regex=form_data["regex-text"],
+                                              ignore=ignore_data)
 
-            project_folder = os.path.join((app.config['UPLOAD_FOLDER']), project_id)
-            with open(os.path.join(project_folder, "entries.json"), "w") as outfile:
-                json.dump(entries, outfile, indent=4)
-            status = "done!"
-    return render_template('simple_sep.html',  status=status)
+        project_folder = os.path.join((app.config['UPLOAD_FOLDER']), project_id)
+        with open(os.path.join(project_folder, "entries.json"), "w") as outfile:
+            json.dump(entries, outfile, indent=4)
+        status = "done!"
+    return render_template('simple_sep.html',  project_id=project_id, status=status)
+
+
+@app.route('/<project_id>/indent', methods=['GET', 'POST'])
+def indent_separate_ui(project_id):
+    status = None
+
+    if request.method == 'POST':
+        form_data = request.form
+        ignore_data = ignore_handler(project_id, form_data)
+        entries = parse_rules.indent_separate(project_id,
+                                      indent_type=form_data["indent-type"],
+                                      margin_thresh=float(form_data["hanging-blank"]),
+                                      indent_width=float(form_data["regular-width"]),
+                                      ignore=ignore_data)
+
+        project_folder = os.path.join((app.config['UPLOAD_FOLDER']), project_id)
+        with open(os.path.join(project_folder, "entries.json"), "w") as outfile:
+            json.dump(entries, outfile, indent=4)
+        status = "done!"
+    return render_template('indent_sep.html', project_id=project_id, status=status)

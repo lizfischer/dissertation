@@ -1,0 +1,165 @@
+{
+    "thresholds": {
+        "h_width": 40,
+        "h_blank": 0.02,
+        "v_width": 10,
+        "v_blank": 0.05
+    },
+    "pages": [
+        {
+            "image": "interface/static/projects\\2021MMM_bracket_fillable/binary_images/1.tiff",
+            "num": 1,
+            "height": 1700,
+            "width": 2200,
+            "vertical_gaps": [
+                {
+                    "start": 0,
+                    "end": 59,
+                    "width": 59
+                },
+                {
+                    "start": 140,
+                    "end": 249,
+                    "width": 109
+                },
+                {
+                    "start": 251,
+                    "end": 265,
+                    "width": 14
+                },
+                {
+                    "start": 371,
+                    "end": 392,
+                    "width": 21
+                },
+                {
+                    "start": 402,
+                    "end": 422,
+                    "width": 20
+                },
+                {
+                    "start": 523,
+                    "end": 552,
+                    "width": 29
+                },
+                {
+                    "start": 555,
+                    "end": 585,
+                    "width": 30
+                },
+                {
+                    "start": 609,
+                    "end": 631,
+                    "width": 22
+                },
+                {
+                    "start": 640,
+                    "end": 687,
+                    "width": 47
+                },
+                {
+                    "start": 690,
+                    "end": 732,
+                    "width": 42
+                },
+                {
+                    "start": 733,
+                    "end": 794,
+                    "width": 61
+                },
+                {
+                    "start": 795,
+                    "end": 820,
+                    "width": 25
+                },
+                {
+                    "start": 823,
+                    "end": 850,
+                    "width": 27
+                },
+                {
+                    "start": 866,
+                    "end": 889,
+                    "width": 23
+                },
+                {
+                    "start": 960,
+                    "end": 971,
+                    "width": 11
+                },
+                {
+                    "start": 1282,
+                    "end": 1294,
+                    "width": 12
+                },
+                {
+                    "start": 1324,
+                    "end": 1403,
+                    "width": 79
+                },
+                {
+                    "start": 1405,
+                    "end": 1426,
+                    "width": 21
+                },
+                {
+                    "start": 1439,
+                    "end": 1536,
+                    "width": 97
+                },
+                {
+                    "start": 1539,
+                    "end": 1563,
+                    "width": 24
+                },
+                {
+                    "start": 1575,
+                    "end": 1587,
+                    "width": 12
+                },
+                {
+                    "start": 1605,
+                    "end": 1624,
+                    "width": 19
+                },
+                {
+                    "start": 1625,
+                    "end": 1671,
+                    "width": 46
+                },
+                {
+                    "start": 1781,
+                    "end": 1801,
+                    "width": 20
+                },
+                {
+                    "start": 1804,
+                    "end": 1822,
+                    "width": 18
+                },
+                {
+                    "start": 1832,
+                    "end": 1849,
+                    "width": 17
+                },
+                {
+                    "start": 1963,
+                    "end": 2060,
+                    "width": 97
+                },
+                {
+                    "start": 2141,
+                    "end": 2200,
+                    "width": 59
+                }
+            ],
+            "horizontal_gaps": [
+                {
+                    "start": 1645,
+                    "end": 1700,
+                    "width": 55
+                }
+            ]
+        }
+    ]
+}

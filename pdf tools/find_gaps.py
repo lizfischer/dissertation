@@ -62,7 +62,7 @@ def process_page(im_path, thresholds, viz=False):
 
 
 def find_gaps(image_dir, thresholds=ws.Thresholds(),
-              viz=False, thresholds_in_filename=False, return_data=False, verbose = True): # TODO: This function could probably be shorter
+              viz=False, thresholds_in_filename=False, return_data=False, verbose = True):
     if verbose:
         print("\n*** Detecting margins & whitespace... ***")
     output_dir = "/".join(image_dir.split("/")[:-1])

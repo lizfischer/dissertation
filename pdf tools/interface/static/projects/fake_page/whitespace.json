@@ -1,0 +1,45 @@
+{
+    "thresholds": {
+        "h_width": 40.0,
+        "h_blank": 0.02,
+        "v_width": 0.0,
+        "v_blank": 0.4
+    },
+    "pages": [
+        {
+            "image": "interface/static/projects\\fake_page/binary_images/1.tiff",
+            "num": 1,
+            "height": 978,
+            "width": 755,
+            "vertical_gaps": [
+                {
+                    "start": 0,
+                    "end": 125,
+                    "width": 125
+                },
+                {
+                    "start": 661,
+                    "end": 755,
+                    "width": 94
+                }
+            ],
+            "horizontal_gaps": [
+                {
+                    "start": 0,
+                    "end": 65,
+                    "width": 65
+                },
+                {
+                    "start": 401,
+                    "end": 458,
+                    "width": 57
+                },
+                {
+                    "start": 875,
+                    "end": 978,
+                    "width": 103
+                }
+            ]
+        }
+    ]
+}

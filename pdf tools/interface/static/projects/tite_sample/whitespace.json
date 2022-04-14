@@ -1,9 +1,9 @@
 {
     "thresholds": {
-        "h_width": 40.0,
-        "h_blank": 0.02,
-        "v_width": 10.0,
-        "v_blank": 0.05
+        "h_width": 50.0,
+        "h_blank": 0.0,
+        "v_width": 50.0,
+        "v_blank": 0.6
     },
     "pages": [
         {
@@ -14,30 +14,25 @@
             "vertical_gaps": [
                 {
                     "start": 0,
-                    "end": 134,
-                    "width": 134
+                    "end": 181,
+                    "width": 181
+                },
+                {
+                    "start": 184,
+                    "end": 702,
+                    "width": 518
                 }
             ],
             "horizontal_gaps": [
                 {
                     "start": 0,
-                    "end": 77,
-                    "width": 77
+                    "end": 76,
+                    "width": 76
                 },
                 {
-                    "start": 92,
-                    "end": 143,
-                    "width": 51
-                },
-                {
-                    "start": 1750,
-                    "end": 1801,
-                    "width": 51
-                },
-                {
-                    "start": 1817,
+                    "start": 1818,
                     "end": 1912,
-                    "width": 95
+                    "width": 94
                 }
             ]
         },
@@ -48,31 +43,26 @@
             "width": 702,
             "vertical_gaps": [
                 {
-                    "start": 8,
-                    "end": 59,
-                    "width": 51
+                    "start": 0,
+                    "end": 105,
+                    "width": 105
                 },
                 {
-                    "start": 635,
+                    "start": 109,
                     "end": 702,
-                    "width": 67
+                    "width": 593
                 }
             ],
             "horizontal_gaps": [
                 {
                     "start": 0,
-                    "end": 142,
-                    "width": 142
+                    "end": 141,
+                    "width": 141
                 },
                 {
-                    "start": 899,
-                    "end": 941,
-                    "width": 42
-                },
-                {
-                    "start": 1751,
+                    "start": 1753,
                     "end": 1912,
-                    "width": 161
+                    "width": 159
                 }
             ]
         },
@@ -84,25 +74,25 @@
             "vertical_gaps": [
                 {
                     "start": 0,
-                    "end": 91,
-                    "width": 91
+                    "end": 137,
+                    "width": 137
                 },
                 {
-                    "start": 667,
+                    "start": 140,
                     "end": 710,
-                    "width": 43
+                    "width": 570
                 }
             ],
             "horizontal_gaps": [
                 {
                     "start": 0,
-                    "end": 130,
-                    "width": 130
+                    "end": 129,
+                    "width": 129
                 },
                 {
-                    "start": 1736,
+                    "start": 1737,
                     "end": 1889,
-                    "width": 153
+                    "width": 152
                 }
             ]
         },
@@ -113,36 +103,36 @@
             "width": 710,
             "vertical_gaps": [
                 {
-                    "start": 583,
+                    "start": 0,
+                    "end": 53,
+                    "width": 53
+                },
+                {
+                    "start": 55,
                     "end": 710,
-                    "width": 127
+                    "width": 655
                 }
             ],
             "horizontal_gaps": [
                 {
                     "start": 0,
-                    "end": 63,
-                    "width": 63
+                    "end": 62,
+                    "width": 62
                 },
                 {
-                    "start": 77,
+                    "start": 78,
                     "end": 130,
-                    "width": 53
+                    "width": 52
                 },
                 {
-                    "start": 397,
-                    "end": 454,
-                    "width": 57
+                    "start": 399,
+                    "end": 453,
+                    "width": 54
                 },
                 {
-                    "start": 1735,
-                    "end": 1782,
-                    "width": 47
-                },
-                {
-                    "start": 1785,
+                    "start": 1800,
                     "end": 1889,
-                    "width": 104
+                    "width": 89
                 }
             ]
         },
@@ -154,30 +144,30 @@
             "vertical_gaps": [
                 {
                     "start": 0,
-                    "end": 126,
-                    "width": 126
+                    "end": 175,
+                    "width": 175
+                },
+                {
+                    "start": 191,
+                    "end": 702,
+                    "width": 511
                 }
             ],
             "horizontal_gaps": [
                 {
                     "start": 0,
-                    "end": 77,
-                    "width": 77
+                    "end": 76,
+                    "width": 76
                 },
                 {
                     "start": 92,
-                    "end": 144,
-                    "width": 52
+                    "end": 143,
+                    "width": 51
                 },
                 {
-                    "start": 1755,
-                    "end": 1802,
-                    "width": 47
-                },
-                {
-                    "start": 1817,
+                    "start": 1818,
                     "end": 1912,
-                    "width": 95
+                    "width": 94
                 }
             ]
         },
@@ -188,14 +178,14 @@
             "width": 702,
             "vertical_gaps": [
                 {
-                    "start": 1,
-                    "end": 53,
-                    "width": 52
+                    "start": 0,
+                    "end": 99,
+                    "width": 99
                 },
                 {
-                    "start": 628,
+                    "start": 102,
                     "end": 702,
-                    "width": 74
+                    "width": 600
                 }
             ],
             "horizontal_gaps": [
@@ -205,14 +195,14 @@
                     "width": 143
                 },
                 {
-                    "start": 205,
-                    "end": 262,
-                    "width": 57
+                    "start": 206,
+                    "end": 261,
+                    "width": 55
                 },
                 {
-                    "start": 1750,
+                    "start": 1754,
                     "end": 1912,
-                    "width": 162
+                    "width": 158
                 }
             ]
         },
@@ -224,25 +214,25 @@
             "vertical_gaps": [
                 {
                     "start": 0,
-                    "end": 88,
-                    "width": 88
+                    "end": 138,
+                    "width": 138
                 },
                 {
-                    "start": 666,
+                    "start": 139,
                     "end": 710,
-                    "width": 44
+                    "width": 571
                 }
             ],
             "horizontal_gaps": [
                 {
                     "start": 0,
-                    "end": 134,
-                    "width": 134
+                    "end": 133,
+                    "width": 133
                 },
                 {
-                    "start": 1739,
+                    "start": 1743,
                     "end": 1889,
-                    "width": 150
+                    "width": 146
                 }
             ]
         },
@@ -253,36 +243,26 @@
             "width": 710,
             "vertical_gaps": [
                 {
-                    "start": 583,
+                    "start": 0,
+                    "end": 51,
+                    "width": 51
+                },
+                {
+                    "start": 52,
                     "end": 710,
-                    "width": 127
+                    "width": 658
                 }
             ],
             "horizontal_gaps": [
                 {
                     "start": 0,
-                    "end": 69,
-                    "width": 69
+                    "end": 68,
+                    "width": 68
                 },
                 {
-                    "start": 83,
-                    "end": 134,
-                    "width": 51
-                },
-                {
-                    "start": 1375,
-                    "end": 1419,
-                    "width": 44
-                },
-                {
-                    "start": 1740,
-                    "end": 1791,
-                    "width": 51
-                },
-                {
-                    "start": 1806,
+                    "start": 1809,
                     "end": 1889,
-                    "width": 83
+                    "width": 80
                 }
             ]
         },
@@ -294,8 +274,13 @@
             "vertical_gaps": [
                 {
                     "start": 0,
-                    "end": 132,
-                    "width": 132
+                    "end": 180,
+                    "width": 180
+                },
+                {
+                    "start": 190,
+                    "end": 702,
+                    "width": 512
                 }
             ],
             "horizontal_gaps": [
@@ -305,19 +290,14 @@
                     "width": 71
                 },
                 {
-                    "start": 86,
+                    "start": 87,
                     "end": 138,
-                    "width": 52
+                    "width": 51
                 },
                 {
-                    "start": 1752,
-                    "end": 1804,
-                    "width": 52
-                },
-                {
-                    "start": 1813,
+                    "start": 1814,
                     "end": 1912,
-                    "width": 99
+                    "width": 98
                 }
             ]
         },
@@ -328,26 +308,26 @@
             "width": 702,
             "vertical_gaps": [
                 {
-                    "start": 7,
-                    "end": 57,
-                    "width": 50
+                    "start": 0,
+                    "end": 104,
+                    "width": 104
                 },
                 {
-                    "start": 633,
+                    "start": 106,
                     "end": 702,
-                    "width": 69
+                    "width": 596
                 }
             ],
             "horizontal_gaps": [
                 {
                     "start": 0,
-                    "end": 138,
-                    "width": 138
+                    "end": 137,
+                    "width": 137
                 },
                 {
-                    "start": 1745,
+                    "start": 1748,
                     "end": 1912,
-                    "width": 167
+                    "width": 164
                 }
             ]
         }
