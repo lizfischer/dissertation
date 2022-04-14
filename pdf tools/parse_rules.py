@@ -48,18 +48,20 @@ def ignore_helper(project_id, direction, n_gaps, min_size, blank_thresh):
 
 
 # rule1 and rule 2 should each take the form {direction: 'above'|'below', n_gaps: #, min_size: #, blank_thresh: #}
-def ignore(project_id, rule1, rule2=None):
+# Returns none for starts, ends, lefts, and rights if no rules specified
+def ignore(project_id, rule1=None, rule2=None):
     print("\n***Finding which sections to ignore...***")
     starts, ends, lefts, rights = None, None, None, None
 
-    if rule1["direction"] == "above":
-        starts = ignore_helper(project_id, "above", rule1["n_gaps"], rule1["min_size"], rule1["blank_thresh"])
-    elif rule1["direction"] == "below":
-        ends = ignore_helper(project_id, "below", rule1["n_gaps"], rule1["min_size"], rule1["blank_thresh"])
-    elif rule1["direction"] == "left":
-        lefts = ignore_helper(project_id, "left", rule1["n_gaps"], rule1["min_size"], rule1["blank_thresh"])
-    elif rule1["direction"] == "right":
-        lefts = ignore_helper(project_id, "right", rule1["n_gaps"], rule1["min_size"], rule1["blank_thresh"])
+    if rule1:
+        if rule1["direction"] == "above":
+            starts = ignore_helper(project_id, "above", rule1["n_gaps"], rule1["min_size"], rule1["blank_thresh"])
+        elif rule1["direction"] == "below":
+            ends = ignore_helper(project_id, "below", rule1["n_gaps"], rule1["min_size"], rule1["blank_thresh"])
+        elif rule1["direction"] == "left":
+            lefts = ignore_helper(project_id, "left", rule1["n_gaps"], rule1["min_size"], rule1["blank_thresh"])
+        elif rule1["direction"] == "right":
+            lefts = ignore_helper(project_id, "right", rule1["n_gaps"], rule1["min_size"], rule1["blank_thresh"])
 
     if rule2:
         if rule2["direction"] == "above" and not starts:
@@ -222,12 +224,74 @@ def simple_separate(project_id, gap_size, blank_thresh, ignore, split, regex=Non
 
 
 # TODO: Indent separate parser
-# IN INDENT SEPARATE, NEW ENTRIES START:
-# When there is text to the left of a certain line, AND after gap of certain size or at the top of a page
-# By default, checks for ex-dented text *anywhere* in the block, but can specify first-line only.
-# Default anywhere in case ex-dented block gets put somewhere other than first due to a crooked page eg.
-def indent_separate():
-    pass
+# Indent separate
+# type - hanging or regular
+
+def indent_separate_val(project_id, indent_type, margin_thresh, indent_width, ignore):
+    valid_types = ["hanging", "regular"]
+    if indent_type not in valid_types:
+        raise ValueError(f"Invalid indent type: '{indent_type}'. Split type should be one of {valid_types}")
+
+    if not isinstance(margin_thresh, float):
+        raise TypeError(f"Invalid margin threshold: '{margin_thresh}'. Expecting float, received {type(margin_thresh)}")
+
+    if not isinstance(indent_width, float):
+        raise TypeError(f"Invalid margin threshold: '{indent_width}'. Expecting float, received {type(indent_width)}")
+
+    if len(ignore) != 4:
+        raise ValueError(f"Invalid shape for 'ignore'. Expected [starts, ends, lefts, rights] but received: {ignore}")
+
+    return True
+
+
+def indent_separate(project_id, indent_type, margin_thresh, indent_width, ignore):
+    indent_separate_val(project_id, indent_type, margin_thresh, indent_width, ignore)
+
+    starts = ignore[0]
+    ends = ignore[1]
+    lefts = ignore[2]
+    rights = ignore[3]
+
+    print("\n***Starting simple separate...***")
+    # Do gap recognition at the set threshold
+    thresh = Thresholds(v_blank=margin_thresh)
+    binary_im_dir = f"interface/static/projects/{project_id}/binary_images"
+    gaps_data = find_gaps(binary_im_dir, thresholds=thresh, return_data=True, verbose=False)
+
+    # Establish list of entries & var to track the active entry
+    separated_entries = []
+    active_entry = ""
+
+    # For each page in numerical order NB: this relies on find_gaps returning a SORTED list
+    for p in tqdm(gaps_data):  # NOTE: This is the place to limit pages if desired for testing
+        n = p["num"]
+        print(f"\nPage {n}")
+
+        # OCR the page
+        start = starts[n] if starts else 0
+        end = ends[n] if ends else p["height"]
+        left = lefts[n] if lefts else 0
+        right = rights[n] if rights else p["width"]
+
+        ocr = ocr_page(project_id, n, start, end, left, right)
+
+        # Find left margin
+        all_vertical_gaps = next((pg for pg in gaps_data if pg["num"] == n), None)["vertical_gaps"]  # find this page
+        left_margin_line = all_vertical_gaps[0]["end"]
+
+        # Group by line
+        lines = ocr.groupby(["block_num", "par_num", "line_num"])
+        line_starts = lines.first()
+
+        # Go through line by line
+        for line in lines:
+            first_word = line[1].iloc[0]
+            if indent_type is "hanging":
+                is_start = first_word["left"] < left_margin_line - 5  # NOTE: 5 fudge pixels-- this could be a variable?
+            else:  # indent_type is "regular"
+                is_start = first_word["left"] > left_margin_line + indent_width-5
+
+            # TODO: Get text between, etc.
 
 
 def test():
