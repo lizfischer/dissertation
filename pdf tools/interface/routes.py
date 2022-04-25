@@ -14,7 +14,7 @@ import parse_rules
 from find_gaps import find_gaps
 from image_generation import export_pdf_images, export_binary_images
 from interface import app
-from split_pages import split_pdf
+from split_pages import split_images
 from whitespaceHelpers import Thresholds
 
 
@@ -122,14 +122,30 @@ def initialize_project(file):
     return project_name
 
 
-@app.route('/<project_id>/split')
+@app.route('/<project_id>/split', methods=['GET', 'POST'])
 def split_file(project_id):
     project_folder = os.path.join((app.config['UPLOAD_FOLDER']), project_id)
-    file = os.path.join(project_folder, f"{project_id}.pdf")  # FIXME - shouldn't manually add extension
-    new_name = split_pdf(file, project_folder)[1]
-    new_path = url_for('static', filename=f'projects/{project_id}/{new_name}')
-    return render_template('split.html', project_id=project_id, new_file=new_path)
+    pdf_images = os.path.join(project_folder, "pdf_images")
+    split_images = os.path.join(project_folder, "split_images")
+    if request.method == 'GET':
+        if not os.path.exists(pdf_images):  # If pdf hasn't been converted to images
+            file = os.path.join(project_folder, f"{project_id}.pdf")  # FIXME - shouldn't manually add extension
+            export_pdf_images(file, project_id)
+        image_dir = pdf_images
+        if os.path.exists(split_images):  # If split has happened
+            image_dir = split_images
+
+    ui_dir = get_frontend_dir(image_dir, project_id)
+    images = [os.path.join(ui_dir, i) for i in os.listdir(image_dir)]
+    return render_template('split.html', project_id=project_id, images=images)
     # TODO change this to a page w/ form submission
+
+def get_frontend_dir(directory, project_id):
+    static_dir = os.path.normpath(url_for('static', filename='projects'))
+    directory = os.path.normpath(directory)
+    after = directory.split(project_id)[1][1:]
+    new = os.path.join(static_dir, project_id, after)
+    return new
 
 
 @app.route('/<project_id>/binarize')

@@ -4,6 +4,12 @@ import sys
 import PyPDF2
 
 
+def split_images(project_id, split_pct=.5):
+
+
+    pass
+
+
 def split_pdf(file, out_dir, split_pct=.5):
     with open(file, "rb") as infile:
         pdf_in = PyPDF2.PdfFileReader(infile)

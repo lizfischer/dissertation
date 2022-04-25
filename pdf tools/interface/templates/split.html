@@ -2,8 +2,66 @@
 
 {% block module %}
 
-<object data="{{ new_file }}"
-        type="application/pdf"
-    style="display: block; width: 100%; min-height: 90vh"></object>
+<form method="post">
+<!-- TODO make pct adjustable-->
+    <input name="split_pct" type="text" value="1" maxlength="2" size="1">
+    <input type="submit" value="Submit">
+</form>
+
+
+<div id="imgviewer" style="width:600px; height:800px"></div>
+<style>
+    #imgviewer {
+        border: 1px black solid;
+    }
+    #imgviewer > div {
+        width: 95%;
+        height: 95%;
+    }
+    #imgviewer img {
+        height:100%;
+        width: 100%;
+        object-fit: contain;
+        border: 1px green solid;
+    }
+</style>
+<script type="text/javascript">
+$(document).ready(function (){
+    var images = {{ images|tojson }};
+    var pct = 0.52
+    function addAnno(pct){
+        var anno = Annotorious.init({
+            image: "activeImage",// image element or ID
+            disableEditor: true,
+            allowEmpty: true,
+            readOnly: true
+          });
+
+        var x = $("#activeImage").get(0).naturalWidth*pct
+        var height = $("#activeImage").get(0).naturalHeight
+        line = "xywh=pixel:"+x+",0,1,"+height
+        console.log(line)
+        anno.addAnnotation({
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "id": "#a88b22d0-6106-4872-9435-c78b5e89fede",
+              "type": "Annotation",
+              "body": [],
+              "target": {
+                "selector": {
+                  "type": "FragmentSelector",
+                  "conformsTo": "http://www.w3.org/TR/media-frags/",
+                  "value": line
+                }
+              }
+            });
+    }
+
+
+    initViewer(images);
+    addAnno(pct);
+
+});
+
+</script>
 
 {% endblock %}
