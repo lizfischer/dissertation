@@ -2,10 +2,12 @@
 <head>
     <title>{% block title %}{% endblock %}</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
-
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <!-- Annotorious-->
     <link rel="stylesheet" href="{{ url_for('static', filename='annotorious.min.css') }}">
     <script type="text/javascript" src="{{ url_for('static', filename='annotorious.min.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='openseadragon/openseadragon.min.js') }}"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='imageViewer.js') }}"></script>
 
 </head>
 
