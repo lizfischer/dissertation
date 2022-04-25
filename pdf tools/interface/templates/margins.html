@@ -23,7 +23,9 @@
 <script>
     (function() {
       var anno = Annotorious.init({
-        image: {{page["id"]}}// image element or ID
+          image: {{page["id"]}},// image element or ID,
+          readOnly: true,
+          disableEditor: true
       });
 
       anno.loadAnnotations("{{ url_for('static', filename=page["annotations"]) }}");
