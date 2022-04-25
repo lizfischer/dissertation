@@ -1,0 +1,70 @@
+{
+    "thresholds": {
+        "h_width": 40,
+        "h_blank": 0.02,
+        "v_width": 10,
+        "v_blank": 0.05
+    },
+    "pages": [
+        {
+            "image": "interface/static/projects\\cordell/binary_images/1.tiff",
+            "num": 1,
+            "height": 1934,
+            "width": 1153,
+            "vertical_gaps": [
+                {
+                    "start": 0,
+                    "end": 136,
+                    "width": 136
+                },
+                {
+                    "start": 1056,
+                    "end": 1153,
+                    "width": 97
+                }
+            ],
+            "horizontal_gaps": [
+                {
+                    "start": 0,
+                    "end": 122,
+                    "width": 122
+                },
+                {
+                    "start": 1703,
+                    "end": 1910,
+                    "width": 207
+                }
+            ]
+        },
+        {
+            "image": "interface/static/projects\\cordell/binary_images/2.tiff",
+            "num": 2,
+            "height": 1937,
+            "width": 1153,
+            "vertical_gaps": [
+                {
+                    "start": 0,
+                    "end": 166,
+                    "width": 166
+                },
+                {
+                    "start": 1086,
+                    "end": 1153,
+                    "width": 67
+                }
+            ],
+            "horizontal_gaps": [
+                {
+                    "start": 0,
+                    "end": 124,
+                    "width": 124
+                },
+                {
+                    "start": 1705,
+                    "end": 1913,
+                    "width": 208
+                }
+            ]
+        }
+    ]
+}
