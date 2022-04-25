@@ -1,0 +1,60 @@
+{
+    "thresholds": {
+        "h_width": 40,
+        "h_blank": 0.02,
+        "v_width": 10,
+        "v_blank": 0.05
+    },
+    "pages": [
+        {
+            "image": "interface/static/projects\\indent_sample/binary_images/1.tiff",
+            "num": 1,
+            "height": 4773,
+            "width": 2923,
+            "vertical_gaps": [
+                {
+                    "start": 0,
+                    "end": 136,
+                    "width": 136
+                },
+                {
+                    "start": 2645,
+                    "end": 2923,
+                    "width": 278
+                }
+            ],
+            "horizontal_gaps": [
+                {
+                    "start": 0,
+                    "end": 250,
+                    "width": 250
+                },
+                {
+                    "start": 561,
+                    "end": 613,
+                    "width": 52
+                },
+                {
+                    "start": 1668,
+                    "end": 1825,
+                    "width": 157
+                },
+                {
+                    "start": 1964,
+                    "end": 2040,
+                    "width": 76
+                },
+                {
+                    "start": 4225,
+                    "end": 4529,
+                    "width": 304
+                },
+                {
+                    "start": 4549,
+                    "end": 4773,
+                    "width": 224
+                }
+            ]
+        }
+    ]
+}
