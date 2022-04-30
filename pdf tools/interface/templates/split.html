@@ -4,8 +4,9 @@
 
 <form method="post">
 <!-- TODO make pct adjustable-->
-    <input name="split_pct" type="text" value="1" maxlength="2" size="1">
-    <input type="submit" value="Submit">
+    <input name="split_pct" type="text" value="{{ pct }}" maxlength="4" size="1">
+    <input type="button" value="Test split percent">
+    <input type="submit" value="Split PDF">
 </form>
 
 
@@ -28,7 +29,7 @@
 <script type="text/javascript">
 $(document).ready(function (){
     var images = {{ images|tojson }};
-    var pct = 0.52
+    var pct = {{pct}}
     function addAnno(pct){
         var anno = Annotorious.init({
             image: "activeImage",// image element or ID

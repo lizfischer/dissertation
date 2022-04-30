@@ -127,17 +127,22 @@ def split_file(project_id):
     project_folder = os.path.join((app.config['UPLOAD_FOLDER']), project_id)
     pdf_images = os.path.join(project_folder, "pdf_images")
     split_images = os.path.join(project_folder, "split_images")
+    image_dir = pdf_images
+
+    if not os.path.exists(pdf_images):  # If pdf hasn't been converted to images
+        file = os.path.join(project_folder, f"{project_id}.pdf")  # FIXME - shouldn't manually add extension
+        export_pdf_images(file, project_id)
+    elif os.path.exists(split_images):  # If split has happened
+        image_dir = split_images
+
     if request.method == 'GET':
-        if not os.path.exists(pdf_images):  # If pdf hasn't been converted to images
-            file = os.path.join(project_folder, f"{project_id}.pdf")  # FIXME - shouldn't manually add extension
-            export_pdf_images(file, project_id)
-        image_dir = pdf_images
-        if os.path.exists(split_images):  # If split has happened
-            image_dir = split_images
+        pct = .5
+    elif request.method == 'POST':
+        pct = float(request.form['split_pct'])
 
     ui_dir = get_frontend_dir(image_dir, project_id)
     images = [os.path.join(ui_dir, i) for i in os.listdir(image_dir)]
-    return render_template('split.html', project_id=project_id, images=images)
+    return render_template('split.html', project_id=project_id, images=images, pct=pct)
     # TODO change this to a page w/ form submission
 
 def get_frontend_dir(directory, project_id):
@@ -197,7 +202,7 @@ def find_margins(project_id):
              "annotations": f"projects/{project_id}/annotations/{image}-annotations.json"}
         data.append(d)
 
-    return render_template('margins.html', project_id=project_id, data=data, thresh=thresholds_used)
+    return render_template('margins.html', project_id=project_id, data=data[0:10], thresh=thresholds_used)
 
 
 ##

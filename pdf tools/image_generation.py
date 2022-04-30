@@ -32,13 +32,15 @@ def export_pdf_images(input_file, project_id):
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
-    pil_images = pdf2image.convert_from_path(input_file, use_cropbox=True, thread_count=5)
-
+    info = pdf2image.pdfinfo_from_path(input_file, userpw=None, poppler_path=None)
+    maxPages = info["Pages"]
     i = 1
-    print("*** Saving images... ***")
-    for image in tqdm(pil_images):
-        image.save(f"{output_dir}/{i}.jpg")
-        i += 1
+    for page in range(1, maxPages + 1, 10):
+        pil_images = pdf2image.convert_from_path(input_file, use_cropbox=True, dpi=200, first_page=page, last_page=min(page + 10 - 1, maxPages))
+        print(f"*** Saving images {page}-{page+9}... ***")
+        for image in tqdm(pil_images):
+            image.save(f"{output_dir}/{i}.jpg")
+            i += 1
     return output_dir
 
 
