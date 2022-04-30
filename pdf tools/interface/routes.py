@@ -299,16 +299,13 @@ def simple_separate_ui(project_id):
         form_data = request.form
         ignore_data = ignore_handler(project_id, form_data)
 
-        entries = parse_rules.simple_separate(project_id,
-                                              gap_size=float(form_data["gap-width"]),
-                                              blank_thresh=float(form_data["gap-blank"]),
-                                              split=form_data["split-type"],
-                                              regex=form_data["regex-text"],
-                                              ignore=ignore_data)
+        parse_rules.simple_separate(project_id,
+                                          gap_size=float(form_data["gap-width"]),
+                                          blank_thresh=float(form_data["gap-blank"]),
+                                          split=form_data["split-type"],
+                                          regex=form_data["regex-text"],
+                                          ignore=ignore_data)
 
-        project_folder = os.path.join((app.config['UPLOAD_FOLDER']), project_id)
-        with open(os.path.join(project_folder, "entries.json"), "w") as outfile:
-            json.dump(entries, outfile, indent=4)
         status = "done!"
     return render_template('simple_sep.html',  project_id=project_id, status=status)
 

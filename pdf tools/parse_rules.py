@@ -7,6 +7,8 @@ import pytesseract
 from PIL import Image
 import pandas as pd
 import re
+import os
+import json
 from tqdm import tqdm
 
 pd.set_option("display.max_rows", 10, "display.max_columns", None)
@@ -83,7 +85,6 @@ def ocr_page(project_id, page_num, start=None, end=None, left=None, right=None):
 
     # Get the image & run Tesseract
     image_path = f"interface/static/projects/{project_id}/pdf_images/{page_num}.jpg"
-    print(f"\n***Doing OCR for pg {page_num}...***")
     df = pytesseract.image_to_data(Image.open(image_path), output_type='data.frame', config=custom_config).dropna()
 
     # Remove ignored areas at start & end
@@ -97,6 +98,15 @@ def ocr_page(project_id, page_num, start=None, end=None, left=None, right=None):
     if right:
         content = content[content["left"] < right]
     return content
+
+
+def write_entries(project_id, entries):
+    project_folder = f"interface/static/projects/{project_id}"
+    file = os.path.join(project_folder, "entries.json")
+    data = {"project_id": project_id, "entries": entries}
+    with open(file, "w") as outfile:
+        json.dump(data, outfile, indent=4)
+    return file
 
 
 # TODO: Rethinking the available rules
@@ -130,7 +140,7 @@ def simple_separate_val(project_id, gap_size, blank_thresh, ignore, split, regex
 # option to always start a new entry at the top ("strong split"), or never do so ("weak split")
 # So the options are: Always, never, or first-line regex
 # FIXME: Can I decompose this method more?
-def simple_separate(project_id, gap_size, blank_thresh, ignore, split, regex=None):
+def simple_separate(project_id, gap_size, blank_thresh, ignore, split, regex=None, save_interval=25):
     simple_separate_val(project_id, gap_size, blank_thresh, ignore, split, regex)
 
     starts = ignore[0]
@@ -139,19 +149,52 @@ def simple_separate(project_id, gap_size, blank_thresh, ignore, split, regex=Non
     rights = ignore[3]
 
     print("\n***Starting simple separate...***")
+    print("\n**Finding gaps...**")
     # Do gap recognition at the set threshold
     thresh = Thresholds(h_width=gap_size, h_blank=blank_thresh)
     binary_im_dir = f"interface/static/projects/{project_id}/binary_images"
     gaps_data = find_gaps(binary_im_dir, thresholds=thresh, return_data=True, verbose=False)
 
+    print("\n**Separating entries gaps...**")
+
+
     # Establish list of entries & var to track the active entry
     separated_entries = []
-    active_entry = ""
+    active_entry = {"text": "", "pages": []}
+
+    def save_entry():
+        nonlocal active_entry
+        nonlocal separated_entries
+        if active_entry: separated_entries.append(active_entry)
+        if len(separated_entries) % save_interval + 1 == 0:  # Write to file every so often
+            write_entries(project_id, separated_entries)
+
+    def get_bounds(df_slice):
+        df_slice["right"] = df_slice["left"] + df_slice["width"]
+        df_slice["bottom"] = df_slice["top"] + df_slice["height"]
+        x = df_slice["left"].min()
+        y = df_slice["top"].min()
+        w = df_slice["right"].max() - x
+        h = df_slice["bottom"].max() - y
+        return f"{x},{y},{w},{h}"
+
+    def new_entry(df_slice, pg):
+        nonlocal active_entry
+        save_entry()  # save the previous entry first!
+        active_entry = {"text": get_formatted_text(df_slice),
+                        "pages": [{"page": pg, "xywh": get_bounds(df_slice)}]
+                        }
+
+    def add_to_entry(df_slice, pg):
+        nonlocal active_entry
+        t = get_formatted_text(df_slice)
+        active_entry["text"] += f"\n\n{t}"
+        active_entry["pages"].append({"page": pg, "xywh": get_bounds(df_slice)})
+
 
     # For each page in numerical order NB: this relies on find_gaps returning a SORTED list
     for p in tqdm(gaps_data):  # NOTE: This is the place to limit pages if desired for testing
         n = p["num"]
-        print(f"\nPage {n}")
 
         # OCR the page
         start = starts[n] if starts else 0
@@ -165,6 +208,7 @@ def simple_separate(project_id, gap_size, blank_thresh, ignore, split, regex=Non
         all_page_gaps = next((pg for pg in gaps_data if pg["num"] == n), None)["horizontal_gaps"]  # find this page
         gaps_within_content = [g for g in all_page_gaps if g["start"] > start and g["end"] < end]
 
+        # FIRST GAP
         n_gaps_considered = 0
         # If there are no gaps, select the whole page
         if len(gaps_within_content) == 0:
@@ -177,12 +221,12 @@ def simple_separate(project_id, gap_size, blank_thresh, ignore, split, regex=Non
         # Decide what to do with the selected text (top of page) based on the split method specified
         # If strong, start a new entry
         if split == "strong":
-            if active_entry: separated_entries.append(active_entry)
-            active_entry = get_formatted_text(
-                active_selection)  # TODO: save more complicated entry data? Image info, bounding, etc. ALSO save text as text instead of DF slice?
+            new_entry(active_selection, n)
+            # active_entry = get_formatted_text(active_selection)
         # If weak, append to previous entry
         elif split == "weak":
-            active_entry += f"\n\n{get_formatted_text(active_selection)}"
+            add_to_entry(active_selection, n)
+            # active_entry += f"\n\n{get_formatted_text(active_selection)}"
         # If regex, test regex and then either append or start new
         elif split == "regex" and regex:
             # Get text
@@ -190,15 +234,16 @@ def simple_separate(project_id, gap_size, blank_thresh, ignore, split, regex=Non
             needs_split = re.search(regex, text)
 
             if needs_split:  # Start a new entry
-                if active_entry: separated_entries.append(active_entry)
-                active_entry = text
+                new_entry(active_selection, n)
             else:  # Do NOT start a new entry, append current selection to previous entry instead
-                active_entry += f"\n\n{text}"
+                add_to_entry(active_selection, n)
+                # active_entry += f"\n\n{text}"
 
-        # If there are NO gaps, move to the next page
+        # If there are NO gaps on the page, move to the next page
         if len(gaps_within_content) == 0: continue
 
-        # While there is *another* gap on the page select the text between the "last" gap and the "next" gap
+        # GAPS AFTER THE FIRST
+        # While there are more gaps on the page, select the text between the "last" gap and the "next" gap
         while n_gaps_considered < len(gaps_within_content):
             upper_bound = gaps_within_content[n_gaps_considered - 1]["start"]
             lower_bound = gaps_within_content[n_gaps_considered]["start"]
@@ -206,21 +251,22 @@ def simple_separate(project_id, gap_size, blank_thresh, ignore, split, regex=Non
             active_selection = active_selection[active_selection["top"] < lower_bound]  # above next gap
 
             # Start a new entry and add the selected text to it
-            separated_entries.append(active_entry)
-            active_entry = get_formatted_text(active_selection)
+            new_entry(active_selection, n)
+            # active_entry = get_formatted_text(active_selection)
 
             # Increment gaps considered (entry will get "finished" when the next entry starts)
             n_gaps_considered += 1
 
-        # When there are no gaps left, select the text between the last gap & the bottom of the page
+        # WHEN THERE ARE NO GAPS LEFT
+        # select the text between the last gap & the bottom of the page
         upper_bound = gaps_within_content[n_gaps_considered - 1]["start"]
         active_selection = ocr[ocr["top"] > upper_bound]
-        # Start a new entry and add the selected text to it
-        separated_entries.append(active_entry)
-        active_entry = get_formatted_text(active_selection)
+        # start a new entry and add the selected text to it
+        new_entry(active_selection, n)
+        # active_entry = get_formatted_text(active_selection)
 
-    separated_entries.append(active_entry)
-    return separated_entries
+    save_entry()
+    return write_entries(project_id, separated_entries)
 
 
 # TODO: Indent separate parser
@@ -265,7 +311,6 @@ def indent_separate(project_id, indent_type, margin_thresh, indent_width, ignore
     # For each page in numerical order NB: this relies on find_gaps returning a SORTED list
     for p in tqdm(gaps_data):  # NOTE: This is the place to limit pages if desired for testing
         n = p["num"]
-        print(f"\nPage {n}")
 
         # OCR the page
         start = starts[n] if starts else 0
@@ -292,21 +337,3 @@ def indent_separate(project_id, indent_type, margin_thresh, indent_width, ignore
                 is_start = first_word["left"] > left_margin_line + indent_width-5
 
             # TODO: Get text between, etc.
-
-
-def test():
-    project_id = "swinfield sample"
-
-    starts, ends, lefts, rights = ignore(project_id,
-                                         {"direction": 'above', "n_gaps": 2, "min_size": 10.0, "blank_thresh": 0.02},
-                                         {"direction": 'left', "n_gaps": 1, "min_size": 10.0, "blank_thresh": 0.05})
-
-    entries = simple_separate(project_id, 50.0, 0.02, [starts, ends, lefts, rights], "regex",
-                              regex="^[a-zA-Z]{3,5}[.]? *[0-9]{1,2}[.]? *[—,-]")
-    for entry in entries:
-        print(entry[0:60].replace('\n', ' '), entry[-60:].replace('\n', ' '))
-
-
-# TEST
-if __name__ == '__main__':
-    test()

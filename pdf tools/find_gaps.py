@@ -78,7 +78,7 @@ def find_gaps(image_dir, thresholds=ws.Thresholds(),
             continue # If you can't, skip it
         all_data.append(data) # add this image's data to the list of data
         if i % 20 == 0: # Every 20 images, save the output
-            write_output(all_data, output_dir)
+            write_output(all_data, output_dir, thresholds)
 
     # For getting the data straight in memory, not writing to file
     if return_data:
