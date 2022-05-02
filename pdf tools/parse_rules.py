@@ -10,8 +10,16 @@ import re
 import os
 import json
 from tqdm import tqdm
+import pathlib
 
 pd.set_option("display.max_rows", 10, "display.max_columns", None)
+
+
+def file_number(x, prefix=None):
+    name = pathlib.Path(x).stem
+    if prefix:
+        name = name.split(prefix)[-1]
+    return(int(name))
 
 
 def ignore_helper(project_id, direction, n_gaps, min_size, blank_thresh):

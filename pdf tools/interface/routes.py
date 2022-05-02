@@ -141,7 +141,7 @@ def split_file(project_id):
         pct = float(request.form['split_pct'])
 
     ui_dir = get_frontend_dir(image_dir, project_id)
-    images = [os.path.join(ui_dir, i) for i in os.listdir(image_dir)]
+    images = sorted([os.path.join(ui_dir, i) for i in os.listdir(image_dir)], key=parse_rules.file_number)
     return render_template('split.html', project_id=project_id, images=images, pct=pct)
     # TODO change this to a page w/ form submission
 
