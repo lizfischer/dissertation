@@ -339,7 +339,7 @@ def indent_separate(project_id, indent_type, margin_thresh, indent_width, ignore
         # Go through line by line
         for line in lines:
             first_word = line[1].iloc[0]
-            if indent_type is "hanging":
+            if indent_type == "hanging":
                 is_start = first_word["left"] < left_margin_line - 5  # NOTE: 5 fudge pixels-- this could be a variable?
             else:  # indent_type is "regular"
                 is_start = first_word["left"] > left_margin_line + indent_width-5
