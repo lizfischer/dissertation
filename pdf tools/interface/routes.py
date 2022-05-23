@@ -145,6 +145,7 @@ def split_file(project_id):
     return render_template('split.html', project_id=project_id, images=images, pct=pct)
     # TODO change this to a page w/ form submission
 
+
 def get_frontend_dir(directory, project_id):
     static_dir = os.path.normpath(url_for('static', filename='projects'))
     directory = os.path.normpath(directory)
@@ -195,14 +196,23 @@ def find_margins(project_id):
 
     # Pair up images & annotation files so the template can match them up
     data = []
-    images = [int(Path(name).stem) for name in os.listdir(os.path.join(project_folder, "pdf_images"))]
-    images.sort()
-    for image in images:
-        d = {"id": image, "image": f"projects/{project_id}/pdf_images/{image}.jpg",
-             "annotations": f"projects/{project_id}/annotations/{image}-annotations.json"}
-        data.append(d)
 
-    return render_template('margins.html', project_id=project_id, data=data[0:10], thresh=thresholds_used)
+    image_dir = os.path.join(project_folder, "pdf_images")
+    ui_img_dir = get_frontend_dir(image_dir, project_id)
+    image_paths = sorted([os.path.join(ui_img_dir, i) for i in os.listdir(image_dir)], key=parse_rules.file_number)
+
+    anno_dir = os.path.join(project_folder, "annotations")
+    ui_anno_dir = get_frontend_dir(anno_dir, project_id)
+    anno_paths = sorted([os.path.join(ui_anno_dir, i) for i in os.listdir(anno_dir)], key=parse_rules.file_number)
+    data = {"images": [i for i in image_paths],
+            "annotations": [a for a in anno_paths]}
+    # for image in images:
+    #    d = {"id": image, "image": f"projects/{project_id}/pdf_images/{image}.jpg",
+    #         "annotations": f"projects/{project_id}/annotations/{image}-annotations.json"}
+    #    data.append(d)
+    # data = data[0:10]
+
+    return render_template('margins.html', project_id=project_id, data=data, thresh=thresholds_used)
 
 
 ##
