@@ -1,10 +1,11 @@
-function initViewer(images){
+function initViewer(images, url_for=true){
 
     var currentImg = 0;
     var img = new Image();
     img.id = 'activeImage';
     img.src = images[currentImg];
     goTo(currentImg);
+
 
     var nextButton = $('<input />', {
         type: 'button',
@@ -55,8 +56,34 @@ function initViewer(images){
         console.log(currentImg)
     }
 
-    $("#imgviewer").append(prevButton);
-    $("#imgviewer").append(pgNum);
-    $("#imgviewer").append(nextButton);
+    var topBar = $('<div />', {
+        id: 'viewer-controls'
+    }).appendTo("#imgviewer");
+
+    $("#viewer-controls").append(prevButton);
+    $("#viewer-controls").append(pgNum);
+    $("#viewer-controls").append(nextButton);
     $("#imgviewer").append(img);
+    console.log("Done!")
+}
+
+
+function waitForElm(selector) {
+    return new Promise(resolve => {
+        if (document.querySelector(selector)) {
+            return resolve(document.querySelector(selector));
+        }
+
+        const observer = new MutationObserver(mutations => {
+            if (document.querySelector(selector)) {
+                resolve(document.querySelector(selector));
+                observer.disconnect();
+            }
+        });
+
+        observer.observe(document.body, {
+            childList: true,
+            subtree: true
+        });
+    });
 }

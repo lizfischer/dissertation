@@ -6,6 +6,7 @@
     <!-- Annotorious-->
     <link rel="stylesheet" href="{{ url_for('static', filename='annotorious.min.css') }}">
     <script type="text/javascript" src="{{ url_for('static', filename='annotorious.min.js') }}"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='imageViewer.css') }}">
     <script type="text/javascript" src="{{ url_for('static', filename='imageViewer.js') }}"></script>
 
 </head>
@@ -19,5 +20,6 @@
   {% for message in get_flashed_messages() %}
     <div class="flash">{{ message }}</div>
   {% endfor %}
+
   {% block content %}{% endblock %}
 </section>
