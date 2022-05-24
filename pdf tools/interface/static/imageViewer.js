@@ -23,6 +23,22 @@ function initViewer(images, url_for=true){
             click: previousImage
         }
     });
+    var firstButton = $('<input />', {
+        type: 'button',
+        value: '|<--',
+        id: 'nextBtn',
+        on: {
+            click: firstImage
+        }
+    })
+    var lastButton = $('<input />', {
+        type: 'button',
+        value: '-->|',
+        id: 'nextBtn',
+        on: {
+            click: lastImage
+        }
+    })
     var pgNum = $('<input />', {
         type: 'text',
         value: currentImg + 1,
@@ -55,14 +71,22 @@ function initViewer(images, url_for=true){
         }
         console.log(currentImg)
     }
+    function firstImage() {
+        goTo(0)
+    }
+    function lastImage() {
+        goTo(images.length-1);
+    }
 
     var topBar = $('<div />', {
         id: 'viewer-controls'
     }).appendTo("#imgviewer");
 
+    $("#viewer-controls").append(firstButton);
     $("#viewer-controls").append(prevButton);
     $("#viewer-controls").append(pgNum);
     $("#viewer-controls").append(nextButton);
+    $("#viewer-controls").append(lastButton);
     $("#imgviewer").append(img);
     console.log("Done!")
 }
