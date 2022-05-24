@@ -64,7 +64,7 @@ def export(project_id):
 def export_txt(project_id):
     project_folder = os.path.join(app.config['UPLOAD_FOLDER'], project_id)
     with open(os.path.join(project_folder, "entries.json"), 'r') as infile:
-        entries = json.load(infile)
+        entries = json.load(infile)["entries"]
 
     txt_folder = os.path.join(project_folder, "txt")
     if not os.path.exists(txt_folder):
@@ -75,6 +75,7 @@ def export_txt(project_id):
         for i in range(0, len(entries)):  # For all entries
             with open(os.path.join(txt_folder, f"{i}.txt"), "w", encoding="utf8") as f:
                 f.write(entries[i])  # save that entry to a file
+                f.write(entries[i]["text"])  # save that entry to a file
             z.write(os.path.join(txt_folder, f"{i}.txt"), f"{project_id}_{i}.txt")
     data.seek(0)
     shutil.rmtree(txt_folder)  # remove temp files
@@ -82,7 +83,7 @@ def export_txt(project_id):
         data,
         mimetype='application/zip',
         as_attachment=True,
-        attachment_filename='data.zip'
+        attachment_filename=f'{project_id}.zip'
     )
 
 
