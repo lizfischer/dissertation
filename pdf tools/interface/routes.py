@@ -10,11 +10,10 @@ from flask import render_template, request, redirect, url_for, flash, send_file
 from werkzeug.utils import secure_filename
 
 import parse_rules
-import split_pages
 from find_gaps import find_gaps
 from image_generation import export_pdf_images, export_binary_images
 from interface import app
-from split_pages import split_images
+from image_generation import export_pdf_images, export_binary_images, split_images
 from whitespaceHelpers import Thresholds
 
 

@@ -1,8 +1,41 @@
 import pdf2image
 import os
+import os, pathlib
 import shutil
 import cv2
 from tqdm import tqdm
+
+from models import Page
+
+
+def split_images(project, split_pct=.5):
+    pdf_images = project.get_image_dir()
+    split_folder = input_folder
+
+    if not os.path.exists(split_folder):
+        os.mkdir(split_folder)
+
+    for file in os.listdir(pdf_images):
+        path = os.path.join(pdf_images, file)
+        name = pathlib.Path(path).stem
+        print(path)
+        # Read the image
+        img = cv2.imread(path)
+        print(img.shape)
+        height = img.shape[0]
+        width = img.shape[1]
+
+        # Cut the image in half
+        width_cutoff = int(width * split_pct)
+        s1 = img[:, :width_cutoff]
+        s2 = img[:, width_cutoff:]
+
+        a_half = os.path.join(split_folder, file.replace(name, name+"-a"))
+        b_half = os.path.join(split_folder, file.replace(name, name+"-b"))
+        cv2.imwrite(a_half, s1)
+        cv2.imwrite(b_half, s2)
+    return split_folder
+
 
 
 def export_binary_images(in_dir, cleanup=False):
