@@ -5,7 +5,6 @@ import random
 import shutil
 import string
 import zipfile
-from pathlib import Path
 
 from flask import render_template, request, redirect, url_for, flash, send_file
 from werkzeug.utils import secure_filename
@@ -16,7 +15,6 @@ from find_gaps import find_gaps
 from image_generation import export_pdf_images, export_binary_images
 from interface import app
 from split_pages import split_images
-from split_pages import split_images, split_pdf
 from whitespaceHelpers import Thresholds
 
 
@@ -74,7 +72,6 @@ def export_txt(project_id):
     with zipfile.ZipFile(data, mode='w') as z:  # open ZIP
         for i in range(0, len(entries)):  # For all entries
             with open(os.path.join(txt_folder, f"{i}.txt"), "w", encoding="utf8") as f:
-                f.write(entries[i])  # save that entry to a file
                 f.write(entries[i]["text"])  # save that entry to a file
             z.write(os.path.join(txt_folder, f"{i}.txt"), f"{project_id}_{i}.txt")
     data.seek(0)
@@ -125,23 +122,27 @@ def initialize_project(file):
     return project_name
 
 
+
+
 @app.route('/<project_id>/split', methods=['GET', 'POST'])
 def split_file(project_id):
     project_folder = os.path.join((app.config['UPLOAD_FOLDER']), project_id)
     pdf_images = os.path.join(project_folder, "pdf_images")
-    split_images = os.path.join(project_folder, "split_images")
+    split_folder = os.path.join(project_folder, "split_images")
     image_dir = pdf_images
+    file = os.path.join(project_folder, f"{project_id}.pdf")
 
     if not os.path.exists(pdf_images):  # If pdf hasn't been converted to images
-        file = os.path.join(project_folder, f"{project_id}.pdf")  # FIXME - shouldn't manually add extension
         export_pdf_images(file, project_id)
-    elif os.path.exists(split_images):  # If split has happened
-        image_dir = split_images
+    elif os.path.exists(split_folder):  # If split has happened
+        image_dir = split_folder
 
     if request.method == 'GET':
         pct = .5
     elif request.method == 'POST':
         pct = float(request.form['split_pct'])
+        image_dir = split_images(project_id, pct)
+        pct = None
 
     ui_dir = get_frontend_dir(image_dir, project_id)
     images = sorted([os.path.join(ui_dir, i) for i in os.listdir(image_dir)], key=parse_rules.file_number)
