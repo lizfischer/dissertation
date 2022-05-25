@@ -1,14 +1,38 @@
 import copy
-import os
+import os, pathlib
 import sys
 import PyPDF2
-
+from interface import app
+import cv2
 
 def split_images(project_id, split_pct=.5):
+    project_folder = os.path.join((app.config['UPLOAD_FOLDER']), project_id)
+    pdf_images = os.path.join(project_folder, "pdf_images")
+    split_folder = os.path.join(project_folder, "split_images")
 
+    if not os.path.exists(split_folder):
+        os.mkdir(split_folder)
 
-    pass
+    for file in os.listdir(pdf_images):
+        path = os.path.join(pdf_images, file)
+        name = pathlib.Path(path).stem
+        print(path)
+        # Read the image
+        img = cv2.imread(path)
+        print(img.shape)
+        height = img.shape[0]
+        width = img.shape[1]
 
+        # Cut the image in half
+        width_cutoff = int(width * split_pct)
+        s1 = img[:, :width_cutoff]
+        s2 = img[:, width_cutoff:]
+
+        a_half = os.path.join(split_folder, file.replace(name, name+"-a"))
+        b_half = os.path.join(split_folder, file.replace(name, name+"-b"))
+        cv2.imwrite(a_half, s1)
+        cv2.imwrite(b_half, s2)
+    return split_folder
 
 def split_pdf(file, out_dir, split_pct=.5):
     with open(file, "rb") as infile:
