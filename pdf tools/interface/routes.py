@@ -1,6 +1,5 @@
 import io
 import json
-import os
 import random
 import shutil
 import string
@@ -9,11 +8,12 @@ import zipfile
 from flask import render_template, request, redirect, url_for, flash, send_file
 from werkzeug.utils import secure_filename
 
+
 import parse_rules
 from find_gaps import find_gaps
-from image_generation import export_pdf_images, export_binary_images
-from interface import app
 from image_generation import export_pdf_images, export_binary_images, split_images
+
+from models import *
 from whitespaceHelpers import Thresholds
 
 
@@ -22,18 +22,67 @@ from whitespaceHelpers import Thresholds
 
 @app.route('/')
 def main():
-    projects = [name for name in os.listdir((app.config['UPLOAD_FOLDER']))
-                if os.path.isdir(os.path.join((app.config['UPLOAD_FOLDER']), name))]
-    return render_template('select_project.html', projects=projects)
+    #projects = [name for name in os.listdir((app.config['UPLOAD_FOLDER']))
+    #            if os.path.isdir(os.path.join((app.config['UPLOAD_FOLDER']), name))]
 
+    return render_template('select_project.html', projects=Project.objects)
 
 
 @app.route('/<project_id>/project')
 def project(project_id):
-    return render_template('project.html', project_id=project_id)
+    name = Project.objects(id=project_id).first().name
+    return render_template('project.html', project_id=project_id, project_name=name)
 
 
-@app.route('/<project_id>/cleanup')
+@app.route('/upload', methods=['GET', 'POST'])
+def upload():
+    if request.method == 'POST':
+        # check if the post request has the file part
+        if 'file' not in request.files:
+            flash('No file part')
+            return redirect(request.url)
+        file = request.files['file']
+        # If the user does not select a file, the browser submits an
+        # empty file without a filename.
+        if file.filename == '':
+            flash('No selected file')
+            return redirect(request.url)
+        if not allowed_file(file.filename):
+            flash('Invalid file format')
+            return redirect(request.url)
+        if file and allowed_file(file.filename):
+            new_project = initialize_project(file)
+            return redirect(url_for('project', project_id=new_project.id))
+    return render_template("upload.html")
+
+
+def allowed_file(filename):
+    return '.' in filename and \
+           filename.rsplit('.', 1)[1].lower() in app.config['ALLOWED_EXTENSIONS']
+
+
+def initialize_project(file):
+    filename = secure_filename(file.filename)
+    project_name = filename.split(".")[0]
+
+    #project_folder = os.path.join(app.config['UPLOAD_FOLDER'], project_name)
+    #os.mkdir(project_folder)
+
+
+    db_project = Project(name=project_name, file=filename)
+    db_project.save()
+
+    project_folder = os.path.join(app.config['UPLOAD_FOLDER'], str(db_project.id))
+    os.mkdir(project_folder)
+    file_path = os.path.join(project_folder, filename)
+    file.save(file_path)
+
+    #db_project.update(file=file_path)
+
+    return db_project
+
+
+@app.route('/<project_id>/cleanup')  # TODO: Mongo-ify
 def cleanup(project_id):
     files_to_save = [f"{project_id}.pdf", "entries.json"]
     project_folder = os.path.join(app.config['UPLOAD_FOLDER'], project_id)
@@ -50,14 +99,14 @@ def cleanup(project_id):
     return redirect(url_for("project", project_id=project_id))
 
 
-@app.route('/<project_id>/export')
+@app.route('/<project_id>/export') # TODO: Mongo-ify
 def export(project_id):
     project_folder = os.path.join(app.config['VIEW_UPLOAD_FOLDER'], project_id)
     path = os.path.join(project_folder, "entries.json")
     return send_file(path, as_attachment=True)
 
 
-@app.route('/<project_id>/export_txt')
+@app.route('/<project_id>/export_txt') # TODO: Mongo-ify
 def export_txt(project_id):
     project_folder = os.path.join(app.config['UPLOAD_FOLDER'], project_id)
     with open(os.path.join(project_folder, "entries.json"), 'r') as infile:
@@ -83,69 +132,26 @@ def export_txt(project_id):
     )
 
 
-@app.route('/upload', methods=['GET', 'POST'])
-def upload():
-    if request.method == 'POST':
-        # check if the post request has the file part
-        if 'file' not in request.files:
-            flash('No file part')
-            return redirect(request.url)
-        file = request.files['file']
-        # If the user does not select a file, the browser submits an
-        # empty file without a filename.
-        if file.filename == '':
-            flash('No selected file')
-            return redirect(request.url)
-        if not allowed_file(file.filename):
-            flash('Invalid file format')
-            return redirect(request.url)
-        if file and allowed_file(file.filename):
-            project_name = initialize_project(file)
-            return redirect(url_for('project', project_id=project_name))
-    return render_template("upload.html")
-
-
-def allowed_file(filename):
-    return '.' in filename and \
-           filename.rsplit('.', 1)[1].lower() in app.config['ALLOWED_EXTENSIONS']
-
-
-def initialize_project(file):
-    filename = secure_filename(file.filename)
-    project_name = filename.split(".")[0]  # TODO: Change project ID to something unique
-
-    project_folder = os.path.join(app.config['UPLOAD_FOLDER'], project_name)
-    os.mkdir(project_folder)
-
-    file.save(os.path.join(project_folder, filename))
-    return project_name
-
-
-
-
 @app.route('/<project_id>/split', methods=['GET', 'POST'])
 def split_file(project_id):
-    project_folder = os.path.join((app.config['UPLOAD_FOLDER']), project_id)
-    pdf_images = os.path.join(project_folder, "pdf_images")
-    split_folder = os.path.join(project_folder, "split_images")
-    image_dir = pdf_images
-    file = os.path.join(project_folder, f"{project_id}.pdf")
+    project = Project.objects(id=project_id).first()
+    project_folder = project.get_folder()
+    file = project.get_pdf()
 
-    if not os.path.exists(pdf_images):  # If pdf hasn't been converted to images
-        export_pdf_images(file, project_id)
-    elif os.path.exists(split_folder):  # If split has happened
-        image_dir = split_folder
+    pdf_img_folder = project.get_image_dir()
+    image_dir = pdf_img_folder
 
+    if len(project.pages) == 0:  # If pdf hasn't been converted to images yet
+        export_pdf_images(project)
     if request.method == 'GET':
         pct = .5
     elif request.method == 'POST':
         pct = float(request.form['split_pct'])
-        image_dir = split_images(project_id, pct)
-        pct = None
+        image_dir = split_images(project, pct)
+        flash('Successfully split pages')
 
-    ui_dir = get_frontend_dir(image_dir, project_id)
-    images = sorted([os.path.join(ui_dir, i) for i in os.listdir(image_dir)], key=parse_rules.file_number)
-    return render_template('split.html', project_id=project_id, images=images, pct=pct)
+    image_paths = [page.get_ui_img() for page in project.pages]
+    return render_template('split.html', project=project, images=image_paths, pct=pct)
     # TODO change this to a page w/ form submission
 
 

@@ -48,7 +48,8 @@
 $(document).ready(function(){
     var images = {{ images|tojson }};
     initViewer(images);
-    var pct = {{pct}}
+    var pct = {{pct|tojson}}
+
     var annotorious = Annotorious.init({
         image: "activeImage",// image element or ID
         disableEditor: true,

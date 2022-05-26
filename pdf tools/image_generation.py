@@ -1,5 +1,5 @@
+import mongoengine
 import pdf2image
-import os
 import os, pathlib
 import shutil
 import cv2
@@ -9,33 +9,42 @@ from models import Page
 
 
 def split_images(project, split_pct=.5):
-    pdf_images = project.get_image_dir()
-    split_folder = input_folder
+    image_dir = project.get_image_dir()
 
-    if not os.path.exists(split_folder):
-        os.mkdir(split_folder)
+    # Save original, un-split page data
+    project.modify(original_pages=project.pages)
+    project.modify(pull_all__pages=project.pages)
 
-    for file in os.listdir(pdf_images):
-        path = os.path.join(pdf_images, file)
-        name = pathlib.Path(path).stem
+    seq = 1
+    for page in project.original_pages:
+        path = pathlib.Path(page.get_img())
+        name = str(path.name)
         print(path)
         # Read the image
-        img = cv2.imread(path)
-        print(img.shape)
+        img = cv2.imread(str(path))
         height = img.shape[0]
         width = img.shape[1]
 
-        # Cut the image in half
+        # Cut the image @ pct point
         width_cutoff = int(width * split_pct)
-        s1 = img[:, :width_cutoff]
-        s2 = img[:, width_cutoff:]
+        a_img = img[:, :width_cutoff]
+        b_img = img[:, width_cutoff:]
 
-        a_half = os.path.join(split_folder, file.replace(name, name+"-a"))
-        b_half = os.path.join(split_folder, file.replace(name, name+"-b"))
-        cv2.imwrite(a_half, s1)
-        cv2.imwrite(b_half, s2)
-    return split_folder
+        new_a = f"{path.stem}-a{path.suffix}"
+        new_b = f"{path.stem}-b{path.suffix}"
+        cv2.imwrite(str(path).replace(name, new_a), a_img)
+        cv2.imwrite(str(path).replace(name, new_b), b_img)
 
+        a_half = Page(parent_id=project.id, sequence=seq, image=new_a)
+        b_half = Page(parent_id=project.id, sequence=seq+1, image=new_b)
+
+        project.pages.append(a_half)
+        project.pages.append(b_half)
+        project.save()
+
+        seq += 2
+    project.update(is_split=True)
+    return True
 
 
 def export_binary_images(in_dir, cleanup=False):
@@ -57,22 +66,34 @@ def export_binary_images(in_dir, cleanup=False):
     return output_dir
 
 
-def export_pdf_images(input_file, project_id):
+def export_pdf_images(project):
     print("\n*** Converting PDF to images... ****")
 
-    output_dir = f"interface/static/projects/{project_id}/pdf_images"
+    input_file = project.get_pdf()
+    output_dir = project.get_image_dir()
 
+    # Make images folder
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
+    # Get pdf info
     info = pdf2image.pdfinfo_from_path(input_file, userpw=None, poppler_path=None)
+
+    # Iterate pages, saving 10 at a time
     maxPages = info["Pages"]
     i = 1
     for page in range(1, maxPages + 1, 10):
         pil_images = pdf2image.convert_from_path(input_file, use_cropbox=True, dpi=200, first_page=page, last_page=min(page + 10 - 1, maxPages))
         print(f"*** Saving images {page}-{page+9}... ***")
         for image in tqdm(pil_images):
-            image.save(f"{output_dir}/{i}.jpg")
+            # Save file to disk
+            file_name = f"{i}.jpg"
+            image_path = os.path.join(output_dir, file_name)
+            image.save(image_path)
+            # Save page to databse
+            page = Page(parent_id=project.id, sequence=i, image=file_name)
+            project.pages.append(page)
+            project.save()
             i += 1
     return output_dir
 
