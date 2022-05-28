@@ -163,10 +163,11 @@ def process_page(im_path, thresholds, viz=False):
 
 
 def find_gaps(project, thresh=Thresholds(),
-              viz=False, thresholds_in_filename=False, return_data=False, verbose = True):
+              viz=False, return_data=False, verbose=True):
     if verbose:
         print("\n*** Detecting margins & whitespace... ***")
 
+    all_pages = []
     for page in project.pages: # for every page
         image_path = page.get_binary()
         try:
@@ -183,8 +184,15 @@ def find_gaps(project, thresh=Thresholds(),
             g = Gap(start=gap["start"], end=gap["end"], width=gap["width"], direction="horizontal")
             whitespace.gaps.append(g)
         whitespace.annotation = whitespace_to_annotations(data, page)
-        page.whitespace = whitespace
-        project.has_gaps = True
-        project.save()
 
-    return True
+        if return_data:
+            all_pages.append(whitespace)
+        else:
+            page.whitespace = whitespace
+            project.has_gaps = True
+            project.save()
+
+    if return_data:
+        return all_pages
+    else:
+        return True

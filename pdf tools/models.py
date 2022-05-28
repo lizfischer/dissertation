@@ -2,7 +2,7 @@
 import mongoengine as mongo
 from interface import app
 import os
-
+import json
 
 class BoundingBox(mongo.EmbeddedDocument):
     page = mongo.IntField()
@@ -41,22 +41,35 @@ class PageWhitespace(mongo.EmbeddedDocument):
     image_path = mongo.StringField(required=True)
     threshold = mongo.EmbeddedDocumentField(Thresholds, required=True)
     sequence = mongo.IntField()
-    gaps = mongo.ListField(mongo.EmbeddedDocumentField(Gap), default=list)
+    gaps = mongo.SortedListField(mongo.EmbeddedDocumentField(Gap), ordering="start", default=list)
     annotation = mongo.StringField()
 
+    def get_horizontal(self):
+        return [g for g in self.gaps if g["direction"] == "horizontal"]
 
-# class WhitespaceData(mongo.EmbeddedDocument):
-#     thresholds = mongo.EmbeddedDocumentField(Thresholds, required=True)
-#     pages = mongo.ListField(mongo.EmbeddedDocumentField(PageWhitespace))
+    def get_vertical(self):
+        return [g for g in self.gaps if g["direction"] == "horizontal"]
+
+    def get_nth_horizontal(self, n):
+        return self.get_horizontal()[n]
+
+    def get_nth_vertical(self, n):
+        return self.get_vertical()[n]
 
 
 class Page(mongo.EmbeddedDocument):
     parent_id = mongo.ObjectIdField(required=True)
     sequence = mongo.IntField(required=True)
+
     image = mongo.StringField(required=True)
     height = mongo.IntField()
     width = mongo.IntField()
+
     whitespace = mongo.EmbeddedDocumentField(PageWhitespace)
+    ignore_start = mongo.IntField()
+    ignore_end = mongo.IntField()
+    ignore_left = mongo.IntField()
+    ignore_right = mongo.IntField()
 
     def get_ui_img(self):
         return os.path.join(app.config['VIEW_UPLOAD_FOLDER'], str(self.parent_id), "images", str(self.image))
@@ -73,7 +86,7 @@ class Project(mongo.Document):
     file = mongo.StringField()
     original_pages = mongo.SortedListField(mongo.EmbeddedDocumentField(Page), ordering="sequence")
     pages = mongo.SortedListField(mongo.EmbeddedDocumentField(Page), ordering="sequence")
-    # entries = mongo.ListField(mongo.EmbeddedDocumentField(Entry))
+    entries = mongo.ListField(mongo.EmbeddedDocumentField(Entry))
     # whitespace = mongo.ListField(mongo.EmbeddedDocumentField(WhitespaceData))
     is_split = mongo.BooleanField(default=False)
     is_binarized = mongo.BooleanField(default=False)
@@ -90,3 +103,22 @@ class Project(mongo.Document):
 
     def get_binary_dir(self):
         return os.path.join(app.config['UPLOAD_FOLDER'], str(self.id), "binary")
+
+    def entries_to_json(self, file=False):
+        data = [e.to_json() for e in self.entries]
+        if file:
+            path = os.path.join(self.get_folder(), "entries.json")
+            with open(path, "w") as f:
+                json.dump(data, f, indent=4)
+            return os.path.abspath(path)
+        return json
+
+    def entries_to_txt(self, dir=None):
+        if not dir:
+            dir = os.path.join(self.get_folder(), "txt")
+        if not os.path.exists(dir):
+            os.mkdir(dir)
+        for i in range(0, len(self.entries)):
+            with open(os.path.join(dir, f"{self.name}_entry-{i}.txt"), 'w') as f:
+                f.write(self.entries[i].text)
+        return dir

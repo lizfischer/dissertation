@@ -194,7 +194,7 @@ def find_margins(project_id):
 
 
 
-def ignore_handler(project_id, form_data):
+def ignore_handler(project, form_data):
     # Handle Ignore Rules
     ignore_rule_1 = {"direction": form_data['ignore-position-0'],
                      "n_gaps": form_data['ignore-num-0'],
@@ -207,28 +207,28 @@ def ignore_handler(project_id, form_data):
 
     if not ignore_rule_1["min_size"]: ignore_rule_1 = None;
     if not ignore_rule_2["min_size"]: ignore_rule_2 = None;
-    starts, ends, lefts, rights = parse_rules.ignore(project_id, ignore_rule_1, ignore_rule_2)
+    parse_rules.ignore(project, ignore_rule_1, ignore_rule_2)
 
-    return [starts, ends, lefts, rights]
 
 
 @app.route('/<project_id>/simple', methods=['GET', 'POST'])
 def simple_separate_ui(project_id):
+    project = Project.objects(id=project_id).first()
+
     status = None
 
     if request.method == 'POST':
         form_data = request.form
-        ignore_data = ignore_handler(project_id, form_data)
+        ignore_handler(project, form_data)
 
-        parse_rules.simple_separate(project_id,
+        parse_rules.simple_separate(project,
                                           gap_size=float(form_data["gap-width"]),
                                           blank_thresh=float(form_data["gap-blank"]),
                                           split=form_data["split-type"],
-                                          regex=form_data["regex-text"],
-                                          ignore=ignore_data)
+                                          regex=form_data["regex-text"])
 
         status = "done!"
-    return render_template('simple_sep.html',  project_id=project_id, status=status)
+    return render_template('simple_sep.html',  project=project, status=status)
 
 
 @app.route('/<project_id>/indent', methods=['GET', 'POST'])

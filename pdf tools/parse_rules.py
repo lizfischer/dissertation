@@ -1,7 +1,7 @@
 # Given a gaps file & some rules, break a series of images into entries
 
 from find_gaps import find_gaps
-from models import Thresholds
+from models import *
 from tesseract import get_formatted_text
 import pytesseract
 from PIL import Image
@@ -24,77 +24,82 @@ def file_number(x, prefix=None):  # TODO Needs to account for split columns -a -
     return(int(name))
 
 
-def ignore_helper(project_id, direction, n_gaps, min_size, blank_thresh):
-    binary_im_dir = f"interface/static/projects/{project_id}/binary_images"
+def ignore_helper(project, direction, n_gaps, min_size, blank_thresh):
     n_gaps = int(n_gaps)
     min_size = int(min_size)
     blank_thresh = float(blank_thresh)
 
     if direction == "above" or direction == "below":
-        thresh = Thresholds(h_width=min_size, h_blank=blank_thresh)
+        thresholds = Thresholds(h_width=min_size, h_blank=blank_thresh)
     elif direction == "left" or direction == "right":
-        thresh = Thresholds(v_width=min_size, v_blank=blank_thresh)
+        thresholds = Thresholds(v_width=min_size, v_blank=blank_thresh)
     else:
-        thresh = None
-    page_data = find_gaps(binary_im_dir, thresholds=thresh, return_data=True, verbose=False)
+        thresholds = None
+    whitespace_data = find_gaps(project, thresh=thresholds, return_data=True, verbose=False)
 
-    boundaries = {}
+    i = 0
+    for ws in whitespace_data:
+        pg = project.pages[i]
 
-    for page in page_data:
         if direction == "above":  # ignore text above
             # The 0-start gap is ALWAYS ignored because it is a margin with no text detected at this threshold
-            capture_start = page["horizontal_gaps"][n_gaps]["start"] + page["horizontal_gaps"][n_gaps]["width"] / 2
-            boundaries[page["num"]] = capture_start
+            gap = ws.get_nth_horizontal(n_gaps)
+            start = int(gap["start"] + gap["width"]/2)
+            pg.ignore_start = start
         elif direction == "below":  # ignore text below
             # The last gap is ALWAYS ignored because it is a margin with no text detected at this threshold
-            capture_end = page["horizontal_gaps"][-n_gaps - 1]["start"] + page["horizontal_gaps"][n_gaps - 1][
-                "width"] / 2
-            boundaries[page["num"]] = capture_end
+            gap = ws.get_nth_horizontal(-n_gaps - 1)
+            end = int(gap["start"] + gap["width"]/2)
+            pg.ignore_end = end
         elif direction == "left":  # ignore text to the left
-            left_edge = page["vertical_gaps"][n_gaps - 1]["end"] - 2  # + page["vertical_gaps"][n_gaps-1]["width"]/2
-            boundaries[page["num"]] = left_edge
+            gap = ws.get_nth_vertical(n_gaps - 1)
+            left = gap["end"] - 2
+            # left_edge = page["vertical_gaps"][n_gaps - 1]["end"] - 2  # + page["vertical_gaps"][n_gaps-1]["width"]/2
+            pg.ignore_left = left
         elif direction == "right":  # ignore text to the left
-            right_edge = page["vertical_gaps"][n_gaps - 1]["start"] + 2  # page["vertical_gaps"][n_gaps-1]["width"]/2
-            boundaries[page["num"]] = right_edge
-    return boundaries
+            gap = ws.get_nth_vertical(n_gaps - 1)
+            right = gap["start"] + 2
+            pg.ignore_right = right
+
+        project.save()
+        i += 1
 
 
 # rule1 and rule 2 should each take the form {direction: 'above'|'below', n_gaps: #, min_size: #, blank_thresh: #}
 # Returns none for starts, ends, lefts, and rights if no rules specified
-def ignore(project_id, rule1=None, rule2=None):
+def ignore(project, rule1=None, rule2=None):
     print("\n***Finding which sections to ignore...***")
-    starts, ends, lefts, rights = None, None, None, None
+    # starts, ends, lefts, rights = None, None, None, None
 
     if rule1:
         if rule1["direction"] == "above":
-            starts = ignore_helper(project_id, "above", rule1["n_gaps"], rule1["min_size"], rule1["blank_thresh"])
+            starts = ignore_helper(project, "above", rule1["n_gaps"], rule1["min_size"], rule1["blank_thresh"])
         elif rule1["direction"] == "below":
-            ends = ignore_helper(project_id, "below", rule1["n_gaps"], rule1["min_size"], rule1["blank_thresh"])
+            ends = ignore_helper(project, "below", rule1["n_gaps"], rule1["min_size"], rule1["blank_thresh"])
         elif rule1["direction"] == "left":
-            lefts = ignore_helper(project_id, "left", rule1["n_gaps"], rule1["min_size"], rule1["blank_thresh"])
+            lefts = ignore_helper(project, "left", rule1["n_gaps"], rule1["min_size"], rule1["blank_thresh"])
         elif rule1["direction"] == "right":
-            lefts = ignore_helper(project_id, "right", rule1["n_gaps"], rule1["min_size"], rule1["blank_thresh"])
+            rights = ignore_helper(project, "right", rule1["n_gaps"], rule1["min_size"], rule1["blank_thresh"])
 
     if rule2:
         if rule2["direction"] == "above" and not starts:
-            starts = ignore_helper(project_id, 1, rule2["n_gaps"], rule2["min_size"], rule2["blank_thresh"])
+            starts = ignore_helper(project, 1, rule2["n_gaps"], rule2["min_size"], rule2["blank_thresh"])
         elif rule2["direction"] == "below" and not ends:
-            ends = ignore_helper(project_id, -1, rule2["n_gaps"], rule2["min_size"], rule2["blank_thresh"])
+            ends = ignore_helper(project, -1, rule2["n_gaps"], rule2["min_size"], rule2["blank_thresh"])
         elif rule2["direction"] == "left" and not lefts:
-            lefts = ignore_helper(project_id, "left", rule2["n_gaps"], rule2["min_size"], rule2["blank_thresh"])
+            lefts = ignore_helper(project, "left", rule2["n_gaps"], rule2["min_size"], rule2["blank_thresh"])
         elif rule2["direction"] == "right" and not rights:
-            lefts = ignore_helper(project_id, "right", rule2["n_gaps"], rule2["min_size"], rule2["blank_thresh"])
+            rights = ignore_helper(project, "right", rule2["n_gaps"], rule2["min_size"], rule2["blank_thresh"])
         else:
             print("Rule 2 ignored because it would replace rule 1")
 
-    return starts, ends, lefts, rights
 
-
-def ocr_page(project_id, page_num, start=None, end=None, left=None, right=None):
+def ocr_page(page, start=None, end=None, left=None, right=None):
     custom_config = r'-c preserve_interword_spaces=1 --oem 1 --psm 1 -l eng+ita'  # TODO: Add language customization?
 
     # Get the image & run Tesseract
-    image_path = f"interface/static/projects/{project_id}/pdf_images/{page_num}.jpg"
+    image_path = page.get_img()
+
     df = pytesseract.image_to_data(Image.open(image_path), output_type='data.frame', config=custom_config).dropna()
 
     # Remove ignored areas at start & end
@@ -110,10 +115,10 @@ def ocr_page(project_id, page_num, start=None, end=None, left=None, right=None):
     return content
 
 
-def write_entries(project_id, entries):
-    project_folder = f"interface/static/projects/{project_id}"
+def write_entries(project):
+    project_folder = project.get_folder()
     file = os.path.join(project_folder, "entries.json")
-    data = {"project_id": project_id, "entries": entries}
+    data = project.entries_to_json()
     with open(file, "w") as outfile:
         json.dump(data, outfile, indent=4)
     return file
@@ -129,7 +134,7 @@ def write_entries(project_id, entries):
 # validate inputs for simple_separate TODO: Expand validation
 # split = "strong" | "weak" | "regex"
 # ignore = [start, end]
-def simple_separate_val(project_id, gap_size, blank_thresh, ignore, split, regex=None):
+def simple_separate_val(split, regex=None):
     valid_types = ["strong", "weak", "regex"]
     if split not in valid_types:
         raise ValueError(f"Invalid split type: '{split}'. Split type should be one of {valid_types}")
@@ -140,8 +145,8 @@ def simple_separate_val(project_id, gap_size, blank_thresh, ignore, split, regex
             re.compile(regex)
         except re.error:
             raise ValueError(f"Non-valid regex pattern: {regex}")
-    if len(ignore) != 4:
-        raise ValueError(f"Invalid shape for 'ignore'. Expected [starts, ends, lefts, rights] but received: {ignore}")
+    # if len(ignore) != 4:
+    #     raise ValueError(f"Invalid shape for 'ignore'. Expected [starts, ends, lefts, rights] but received: {ignore}")
     return True
 
 
@@ -150,23 +155,16 @@ def simple_separate_val(project_id, gap_size, blank_thresh, ignore, split, regex
 # option to always start a new entry at the top ("strong split"), or never do so ("weak split")
 # So the options are: Always, never, or first-line regex
 # FIXME: Can I decompose this method more?
-def simple_separate(project_id, gap_size, blank_thresh, ignore, split, regex=None, save_interval=25):
-    simple_separate_val(project_id, gap_size, blank_thresh, ignore, split, regex)
-
-    starts = ignore[0]
-    ends = ignore[1]
-    lefts = ignore[2]
-    rights = ignore[3]
+def simple_separate(project, gap_size, blank_thresh, split, regex=None, save_interval=25):
+    simple_separate_val(split=split, regex=regex)
 
     print("\n***Starting simple separate...***")
     print("\n**Finding gaps...**")
     # Do gap recognition at the set threshold
-    thresh = Thresholds(h_width=gap_size, h_blank=blank_thresh)
-    binary_im_dir = f"interface/static/projects/{project_id}/binary_images"
-    gaps_data = find_gaps(binary_im_dir, thresholds=thresh, return_data=True, verbose=False)
+    thresholds = Thresholds(h_width=gap_size, h_blank=blank_thresh)
+    find_gaps(project, thresh=thresholds, verbose=False)
 
     print("\n**Separating entries gaps...**")
-
 
     # Establish list of entries & var to track the active entry
     separated_entries = []
@@ -174,10 +172,15 @@ def simple_separate(project_id, gap_size, blank_thresh, ignore, split, regex=Non
 
     def save_entry():
         nonlocal active_entry
-        nonlocal separated_entries
-        if active_entry: separated_entries.append(active_entry)
-        if len(separated_entries) % save_interval + 1 == 0:  # Write to file every so often
-            write_entries(project_id, separated_entries)
+        nonlocal project
+        if active_entry["text"] != "":
+            e = Entry(text=active_entry["text"])
+            for p in active_entry["pages"]:
+                x,y,w,h = p["xywh"].split(",")
+                e.boxes.append(BoundingBox(page=p["page"], x=x, y=y, w=w, h=h))
+            project.entries.append(e)
+            project.save()
+
 
     def get_bounds(df_slice):
         df_slice["right"] = df_slice["left"] + df_slice["width"]
@@ -203,19 +206,19 @@ def simple_separate(project_id, gap_size, blank_thresh, ignore, split, regex=Non
 
 
     # For each page in numerical order NB: this relies on find_gaps returning a SORTED list
-    for p in tqdm(gaps_data):  # NOTE: This is the place to limit pages if desired for testing
-        n = p["num"]
+    for page in tqdm(project.pages[:3]):  # NOTE: This is the place to limit pages if desired for testing
+        n = page.sequence
 
         # OCR the page
-        start = starts[n] if starts else 0
-        end = ends[n] if ends else p["height"]
-        left = lefts[n] if lefts else 0
-        right = rights[n] if rights else p["width"]
+        start = page.ignore_start if page.ignore_start else 0
+        end = page.ignore_end if page.ignore_end else page.height
+        left = page.ignore_left if page.ignore_left else 0
+        right = page.ignore_right if page.ignore_right else page.width
 
-        ocr = ocr_page(project_id, n, start, end, left, right)
+        ocr = ocr_page(page, start, end, left, right)
 
-        # Get relevant gaps (ie take the ignore boundaries into account)
-        all_page_gaps = next((pg for pg in gaps_data if pg["num"] == n), None)["horizontal_gaps"]  # find this page
+        # Get relevant gaps (ie take the ignore boundaries into account) # find this page
+        all_page_gaps = page.whitespace.get_horizontal()
         gaps_within_content = [g for g in all_page_gaps if g["start"] > start and g["end"] < end]
 
         # FIRST GAP
@@ -276,7 +279,7 @@ def simple_separate(project_id, gap_size, blank_thresh, ignore, split, regex=Non
         # active_entry = get_formatted_text(active_selection)
 
     save_entry()
-    return write_entries(project_id, separated_entries)
+    return write_entries(project)
 
 
 # TODO: Indent separate parser
