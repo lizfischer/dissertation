@@ -206,7 +206,7 @@ def simple_separate(project, gap_size, blank_thresh, split, regex=None, save_int
 
 
     # For each page in numerical order NB: this relies on find_gaps returning a SORTED list
-    for page in tqdm(project.pages[:3]):  # NOTE: This is the place to limit pages if desired for testing
+    for page in tqdm(project.pages):  # NOTE: This is the place to limit pages if desired for testing
         n = page.sequence
 
         # OCR the page
