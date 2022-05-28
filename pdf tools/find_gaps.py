@@ -5,6 +5,8 @@ import whitespaceHelpers as ws
 np.set_printoptions(threshold=sys.maxsize)
 from models import *
 import random, string
+import uuid
+
 
 ##
 # Saves a dataframe to the given directory with the name "whitespace.json"
@@ -28,7 +30,7 @@ def write_output(df, output_dir, thresholds, thresholds_in_filename=False):
 
 class Annotation:
     def __init__(self, x, y, w, h, text=""):
-        self.id = ''.join(random.choice(string.ascii_lowercase + string.digits) for _ in range(16))  # TODO: Make unique
+        self.id = uuid.uuid1()
         self.text = text
         self.x = x
         self.y = y
