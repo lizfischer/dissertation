@@ -27,8 +27,8 @@ def main():
 
 @app.route('/<project_id>/project')
 def project(project_id):
-    name = Project.objects(id=project_id).first().name
-    return render_template('project.html', project_id=project_id, project_name=name)
+    project = Project.objects(id=project_id).first()
+    return render_template('project.html', project=project)
 
 
 @app.route('/upload', methods=['GET', 'POST'])

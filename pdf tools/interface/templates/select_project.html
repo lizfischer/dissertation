@@ -3,8 +3,8 @@
 {% block content %}
 <h1>Select a project</h1>
 <ul>
-    {% for name in projects %}
-        <li><a href="{{ url_for('project', project_id = name) }}">{{ name }}</a> </li>
+    {% for p in projects %}
+        <li><a href="{{ url_for('project', project_id = p.id) }}">{{ p.name }}</a> </li>
     {% endfor %}
 </ul>
 <a href="{{ url_for('upload') }}">New Project</a>
