@@ -111,7 +111,7 @@ class Project(mongo.Document):
             with open(path, "w") as f:
                 json.dump(data, f, indent=4)
             return os.path.abspath(path)
-        return json
+        return data
 
     def entries_to_txt(self, dir=None):
         if not dir:
