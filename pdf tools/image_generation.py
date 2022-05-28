@@ -47,23 +47,20 @@ def split_images(project, split_pct=.5):
     return True
 
 
-def export_binary_images(in_dir, cleanup=False):
+def export_binary_images(project):
     print("\n*** Binarizing images... ***")
-    output_dir = in_dir.replace("pdf_images", "binary_images")
+    image_dir = project.get_image_dir()
 
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
-
-    images = os.listdir(in_dir)
-
-    for i in tqdm(range(len(images))):
-        img = cv2.imread(f'{in_dir}/{images[i]}', cv2.IMREAD_GRAYSCALE)
+    for page in project.pages:
+        img_path = page.get_img()
+        img = cv2.imread(img_path, cv2.IMREAD_GRAYSCALE)
         (thresh, im_bw) = cv2.threshold(img, 128, 255, cv2.THRESH_BINARY)
+        cv2.imwrite(img_path.replace('.jpg', '.tiff'), im_bw)
+        page.height, page.width = img.shape
+        project.save()
 
-        cv2.imwrite(f"{output_dir}/{images[i].replace('.jpg', '.tiff')}", im_bw)
-    if cleanup:
-        shutil.rmtree(in_dir)
-    return output_dir
+    project.modify(is_binarized=True)
+    return True
 
 
 def export_pdf_images(project):

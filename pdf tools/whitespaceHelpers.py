@@ -2,21 +2,6 @@ import numpy as np
 import cv2
 
 
-class Thresholds:
-    def __init__(self, h_width=40, h_blank=0.02, v_width=10, v_blank=0.05):
-        self.h_width = h_width
-        self.h_blank = h_blank
-        self.v_width = v_width
-        self.v_blank = v_blank
-        # self.minor_h_width = 15
-        # self.minor_v_width = 15
-
-    def toJSON(self):
-        return {"h_width": self.h_width,
-                "h_blank": self.h_blank,
-                "v_width": self.v_width,
-                "v_blank": self.v_blank}  # json.dumps(self, default=lambda o: o.__dict__, sort_keys=True)
-
 
 def get_binary_image(im_path):
     image = cv2.imread(im_path, cv2.IMREAD_GRAYSCALE)

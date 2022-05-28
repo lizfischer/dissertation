@@ -1,7 +1,7 @@
 # Given a gaps file & some rules, break a series of images into entries
 
 from find_gaps import find_gaps
-from whitespaceHelpers import Thresholds
+from models import Thresholds
 from tesseract import get_formatted_text
 import pytesseract
 from PIL import Image
@@ -15,10 +15,12 @@ import pathlib
 pd.set_option("display.max_rows", 10, "display.max_columns", None)
 
 
-def file_number(x, prefix=None):
+def file_number(x, prefix=None):  # TODO Needs to account for split columns -a -b etc
     name = pathlib.Path(x).stem
     if prefix:
         name = name.split(prefix)[-1]
+    if '-' in name:
+        name = name.split('-')[0]
     return(int(name))
 
 

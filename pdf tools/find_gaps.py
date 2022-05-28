@@ -1,12 +1,10 @@
 import numpy as np
 import json
-import os
 import sys
-from tqdm import tqdm
-import cv2
 import whitespaceHelpers as ws
 np.set_printoptions(threshold=sys.maxsize)
-
+from models import *
+import random, string
 
 ##
 # Saves a dataframe to the given directory with the name "whitespace.json"
@@ -25,6 +23,112 @@ def write_output(df, output_dir, thresholds, thresholds_in_filename=False):
 
 
 ##
+# Turn the output of gap detection into annotations for Annotorious
+##
+
+class Annotation:
+    def __init__(self, x, y, w, h, text=""):
+        self.id = ''.join(random.choice(string.ascii_lowercase + string.digits) for _ in range(16))  # TODO: Make unique
+        self.text = text
+        self.x = x
+        self.y = y
+        self.w = w
+        self.h = h
+        self.json = {
+            "@context": "http://www.w3.org/ns/anno.jsonld",
+            "id": f"#{self.id}",
+            "type": "Annotation",
+            "body": [{
+                "type": "TextualBody",
+                "value": f"{self.text}"
+            }],
+            "target": {
+                "selector": {
+                    "type": "FragmentSelector",
+                    "conformsTo": "http://www.w3.org/TR/media-frags/",
+                    "value": f"xywh=pixel:{x},{y},{w},{h}"
+                }
+            }
+        }
+
+# Old annotation function
+
+# def whitespace_to_annotations(pages_data, project_id):
+#     project_folder = os.path.join((app.config['UPLOAD_FOLDER']), project_id)
+#     annotation_folder = os.path.join(project_folder, "annotations")
+#     if not os.path.exists(annotation_folder):
+#         os.mkdir(annotation_folder)
+#
+#     for image in pages_data:
+#         num = image["num"]
+#         annotations = []
+#         anno_file = os.path.join(annotation_folder, f"{num}-annotations.json")
+#
+#         # First vertical gap, start at end of the gap
+#         annotation = Annotation(image["vertical_gaps"][0]["end"], 0, 1, image['height'])
+#         annotations.append(annotation.json)
+#         # NOTE: SHOWING ONLY the first gap since this is only needed for left-margin detection atm...
+#         # Middle gaps, give the midpoint
+#         # for v in image["vertical_gaps"][1:-1]:
+#         #    x = v['start'] + v['width'] / 2
+#         #    annotation = Annotation(x, 0, 1, image['height'])
+#         #    annotations.append(annotation.json)
+#         # Last vertical gap, start at start of the gap
+#         #if len(image["vertical_gaps"]) > 2 :
+#         #    annotation = Annotation(image["vertical_gaps"][-1]["start"], 0, 1, image['height'])
+#         #annotations.append(annotation.json)
+#
+#         # First horizontal gap, start at end of the gap
+#         # annotation = Annotation(0, image["horizontal_gaps"][0]["end"], image['width'], 1)
+#         # annotations.append(annotation.json)
+#         # Middle gaps, give the midpoint
+#         for h in image["horizontal_gaps"][1:-1]:
+#             y = h['start'] + h["width"] / 2
+#             annotation = Annotation(0, y, image['width'], 1, text=h["width"])
+#             annotations.append(annotation.json)
+#         # Last horizontal gap, start at start of the gap
+#         # annotation = Annotation(0, image["horizontal_gaps"][-1]["start"], image['width'], 1)
+#         # annotations.append(annotation.json)
+#
+#         # Save file
+#         with open(anno_file, "w") as outfile:
+#             json.dump(annotations, outfile, indent=4)
+#     return annotation_folder
+
+def whitespace_to_annotations(data, page):
+    annotations = []
+    # First vertical gap, start at end of the gap
+    annotation = Annotation(data["vertical_gaps"][0]["end"], 0, 1, page.height)
+    annotations.append(annotation.json)
+
+    # Middle vertical gaps, give the midpoint
+    for v in data["vertical_gaps"][1:-1]:
+       x = v['start'] + v['width'] / 2
+       annotation = Annotation(x, 0, 1, page.height)
+       annotations.append(annotation.json)
+
+    # Last vertical gap, start at start of the gap
+    if len(data["vertical_gaps"]) > 2 :
+       annotation = Annotation(data["vertical_gaps"][-1]["start"], 0, 1, page.height)
+    annotations.append(annotation.json)
+
+    # First horizontal gap, start at end of the gap
+    annotation = Annotation(0, data["horizontal_gaps"][0]["end"], page.width, 1)
+    annotations.append(annotation.json)
+
+    # Middle horizontal gaps, give the midpoint
+    for h in data["horizontal_gaps"][1:-1]:
+        y = h['start'] + h["width"] / 2
+        annotation = Annotation(0, y,  page.width, 1, text=h["width"])
+        annotations.append(annotation.json)
+
+    # Last horizontal gap, start at start of the gap
+    annotation = Annotation(0, data["horizontal_gaps"][-1]["start"],  page.width, 1)
+    annotations.append(annotation.json)
+
+    return json.dumps(annotations)
+
+##
 # Given an image and a set of threshold values, find the whitespace on a page
 #
 # Thresholds should contain:
@@ -36,7 +140,6 @@ def write_output(df, output_dir, thresholds, thresholds_in_filename=False):
 # Returns ALL the qualifying gaps on a page. This can be used to later classify
 # different kinds of gaps (margin, header, etc)
 def process_page(im_path, thresholds, viz=False):
-    page_num = int(im_path.split('/')[-1].replace(".tiff", ""))  # TODO: make this more robust
     img, img_binary = ws.get_binary_image(im_path)
     height, width = img_binary.shape
     try:
@@ -53,41 +156,35 @@ def process_page(im_path, thresholds, viz=False):
     if viz:
         ws.visualize(img_binary, horizontal_gaps, vertical_gaps)
 
-    return {"image": im_path,
-            "num": page_num,
-            "height": height,
+    return {"height": height,
             "width": width,
             "vertical_gaps": vertical_gaps,
             "horizontal_gaps": horizontal_gaps}
 
 
-def find_gaps(image_dir, thresholds=ws.Thresholds(),
+def find_gaps(project, thresh=Thresholds(),
               viz=False, thresholds_in_filename=False, return_data=False, verbose = True):
     if verbose:
         print("\n*** Detecting margins & whitespace... ***")
-    output_dir = "/".join(image_dir.split("/")[:-1])
 
-    imgs = os.listdir(image_dir) # List all images in the given directory
-    all_data = [] # empty data container
-    for im in tqdm(imgs): # for every image (showing progress bar)
-        i = int(im.split('.')[0]) # get the image number from the file name
-        image_path = f"{image_dir}/{im}" # get the path of the image
+    for page in project.pages: # for every page
+        image_path = page.get_binary()
         try:
-            data = process_page(image_path, thresholds, viz=viz) # Try to process the page
+            data = process_page(image_path, thresh, viz=viz) # Try to process the page
         except ValueError:
             continue # If you can't, skip it
-        all_data.append(data) # add this image's data to the list of data
-        if i % 20 == 0: # Every 20 images, save the output
-            write_output(all_data, output_dir, thresholds)
 
-    # For getting the data straight in memory, not writing to file
-    if return_data:
-        sorted_pages = sorted(all_data, key=lambda x: x["num"])
-        return sorted_pages
+        whitespace = PageWhitespace(image_path=image_path, threshold=thresh, sequence=page.sequence)
 
-    return write_output(all_data, output_dir, thresholds, thresholds_in_filename=thresholds_in_filename) # save all the output & return the file path
+        for gap in data["vertical_gaps"]:
+            g = Gap(start=gap["start"], end=gap["end"], width=gap["width"], direction="vertical")
+            whitespace.gaps.append(g)
+        for gap in data["horizontal_gaps"]:
+            g = Gap(start=gap["start"], end=gap["end"], width=gap["width"], direction="horizontal")
+            whitespace.gaps.append(g)
+        whitespace.annotation = whitespace_to_annotations(data, page)
+        page.whitespace = whitespace
+        project.has_gaps = True
+        project.save()
 
-
-if __name__ == "__main__":
-    IMAGE_DIR = f"interface/static/projects/sample/binary_images"
-    find_gaps(IMAGE_DIR)
+    return True

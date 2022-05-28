@@ -1,8 +1,6 @@
 import io
 import json
-import random
 import shutil
-import string
 import zipfile
 
 from flask import render_template, request, redirect, url_for, flash, send_file
@@ -14,7 +12,6 @@ from find_gaps import find_gaps
 from image_generation import export_pdf_images, export_binary_images, split_images
 
 from models import *
-from whitespaceHelpers import Thresholds
 
 
 # TODO: Split some of this into different files
@@ -165,136 +162,36 @@ def get_frontend_dir(directory, project_id):
 
 @app.route('/<project_id>/binarize')
 def binarize(project_id):
-    project_folder = os.path.join((app.config['UPLOAD_FOLDER']), project_id)
-    if os.path.exists(os.path.join(project_folder, "binary_images")) and os.path.exists(
-            os.path.join(project_folder, "pdf_images")):
-        images = f"interface/static/projects/{project_id}/pdf_images"
-    else:
-        split = False  # FIXME: check for split true/false
-        if split:
-            pdf = f"{project_id}_split.pdf"  # FIXME
-        else:
-            pdf = f"{project_id}.pdf"  # FIXME
-        pdf_path = os.path.join(project_folder, pdf)
-        images = export_pdf_images(pdf_path, project_id)
-        export_binary_images(images, cleanup=False)
+    project = Project.objects(id=project_id).first()
+    project_folder = project.get_folder()
 
-    return render_template('binarize.html', project_id=project_id, folder=images.replace("interface/static/", ""))
+    if len(project.pages) == 0:  # If pdf hasn't been converted to images yet
+        export_pdf_images(project)
+    if not project.is_binarized:
+        export_binary_images(project)
+    flash("Successfully binarized images!")
+    return redirect(url_for('project', project_id=project.id))
 
 
 @app.route('/<project_id>/margins', methods=['GET', 'POST'])
 def find_margins(project_id):
-    project_folder = os.path.join((app.config['UPLOAD_FOLDER']), project_id)
+    project = Project.objects(id=project_id).first()
+    project_folder = project.get_folder()
 
     if request.method == 'POST':
         print("POST")
         thresh = Thresholds(h_width=float(request.form['h_width']), h_blank=float(request.form['h_blank']),
                             v_blank=float(request.form['v_blank']), v_width=float(request.form['v_width']))
-        gaps_file = find_gaps(f"{project_folder}/binary_images", thresholds=thresh)
-    elif os.path.exists(os.path.join(project_folder, "whitespace.json")):
-        gaps_file = f"interface/static/projects/{project_id}/whitespace.json"
-    else:
-        gaps_file = find_gaps(f"{project_folder}/binary_images", thresholds=Thresholds())
+        find_gaps(project, thresh=thresh)
+    elif not project.has_gaps:
+        find_gaps(project, thresh=Thresholds())
 
-    with open(gaps_file, "r") as infile:
-        data = json.load(infile)
-        thresholds_used = data["thresholds"]
-        pages_data = data["pages"]
+    map = []
+    for page in project.pages:
+        map.append({"img": page.get_ui_img(), "anno": page.whitespace.annotation})
 
-    whitespace_to_annotations(pages_data, project_id)  # turn output of gap detection into annotations for Annotorious
+    return render_template('margins.html', project=project, data=map, thresh=project.pages[0].whitespace.threshold)
 
-    # Pair up images & annotation files so the template can match them up
-    data = []
-
-    image_dir = os.path.join(project_folder, "pdf_images")
-    ui_img_dir = get_frontend_dir(image_dir, project_id)
-    image_paths = sorted([os.path.join(ui_img_dir, i) for i in os.listdir(image_dir)], key=parse_rules.file_number)
-
-    anno_dir = os.path.join(project_folder, "annotations")
-    ui_anno_dir = get_frontend_dir(anno_dir, project_id)
-    anno_paths = sorted([os.path.join(ui_anno_dir, i) for i in os.listdir(anno_dir)], key=parse_rules.file_number)
-    data = {"images": [i for i in image_paths],
-            "annotations": [a for a in anno_paths]}
-    # for image in images:
-    #    d = {"id": image, "image": f"projects/{project_id}/pdf_images/{image}.jpg",
-    #         "annotations": f"projects/{project_id}/annotations/{image}-annotations.json"}
-    #    data.append(d)
-    # data = data[0:10]
-
-    return render_template('margins.html', project_id=project_id, data=data, thresh=thresholds_used)
-
-
-##
-# Turn the output of gap detection into annotations for Annotorious
-##
-
-class Annotation:
-    def __init__(self, x, y, w, h, text=""):
-        self.id = ''.join(random.choice(string.ascii_lowercase + string.digits) for _ in range(16))  # TODO: Make unique
-        self.text = text
-        self.x = x
-        self.y = y
-        self.w = w
-        self.h = h
-        self.json = {
-            "@context": "http://www.w3.org/ns/anno.jsonld",
-            "id": f"#{self.id}",
-            "type": "Annotation",
-            "body": [{
-                "type": "TextualBody",
-                "value": f"{self.text}"
-            }],
-            "target": {
-                "selector": {
-                    "type": "FragmentSelector",
-                    "conformsTo": "http://www.w3.org/TR/media-frags/",
-                    "value": f"xywh=pixel:{x},{y},{w},{h}"
-                }
-            }
-        }
-
-
-def whitespace_to_annotations(pages_data, project_id):
-    project_folder = os.path.join((app.config['UPLOAD_FOLDER']), project_id)
-    annotation_folder = os.path.join(project_folder, "annotations")
-    if not os.path.exists(annotation_folder):
-        os.mkdir(annotation_folder)
-
-    for image in pages_data:
-        num = image["num"]
-        annotations = []
-        anno_file = os.path.join(annotation_folder, f"{num}-annotations.json")
-
-        # First vertical gap, start at end of the gap
-        annotation = Annotation(image["vertical_gaps"][0]["end"], 0, 1, image['height'])
-        annotations.append(annotation.json)
-        # NOTE: SHOWING ONLY the first gap since this is only needed for left-margin detection atm...
-        # Middle gaps, give the midpoint
-        # for v in image["vertical_gaps"][1:-1]:
-        #    x = v['start'] + v['width'] / 2
-        #    annotation = Annotation(x, 0, 1, image['height'])
-        #    annotations.append(annotation.json)
-        # Last vertical gap, start at start of the gap
-        #if len(image["vertical_gaps"]) > 2 :
-        #    annotation = Annotation(image["vertical_gaps"][-1]["start"], 0, 1, image['height'])
-        #annotations.append(annotation.json)
-
-        # First horizontal gap, start at end of the gap
-        # annotation = Annotation(0, image["horizontal_gaps"][0]["end"], image['width'], 1)
-        # annotations.append(annotation.json)
-        # Middle gaps, give the midpoint
-        for h in image["horizontal_gaps"][1:-1]:
-            y = h['start'] + h["width"] / 2
-            annotation = Annotation(0, y, image['width'], 1, text=h["width"])
-            annotations.append(annotation.json)
-        # Last horizontal gap, start at start of the gap
-        # annotation = Annotation(0, image["horizontal_gaps"][-1]["start"], image['width'], 1)
-        # annotations.append(annotation.json)
-
-        # Save file
-        with open(anno_file, "w") as outfile:
-            json.dump(annotations, outfile, indent=4)
-    return annotation_folder
 
 
 def ignore_handler(project_id, form_data):
