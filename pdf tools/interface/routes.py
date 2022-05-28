@@ -98,34 +98,30 @@ def cleanup(project_id):
 
 @app.route('/<project_id>/export') # TODO: Mongo-ify
 def export(project_id):
-    project_folder = os.path.join(app.config['VIEW_UPLOAD_FOLDER'], project_id)
-    path = os.path.join(project_folder, "entries.json")
-    return send_file(path, as_attachment=True)
+    project = Project.objects(id=project_id).first()
+
+    path = project.entries_to_json(file=True)
+    return send_file(path, as_attachment=True, attachment_filename=f"{project.name}_entries.json")
 
 
 @app.route('/<project_id>/export_txt') # TODO: Mongo-ify
 def export_txt(project_id):
-    project_folder = os.path.join(app.config['UPLOAD_FOLDER'], project_id)
-    with open(os.path.join(project_folder, "entries.json"), 'r') as infile:
-        entries = json.load(infile)["entries"]
+    project = Project.objects(id=project_id).first()
 
-    txt_folder = os.path.join(project_folder, "txt")
-    if not os.path.exists(txt_folder):
-        os.mkdir(txt_folder)
+    dir = project.entries_to_txt()
 
     data = io.BytesIO()
+    files = os.listdir(dir)
     with zipfile.ZipFile(data, mode='w') as z:  # open ZIP
-        for i in range(0, len(entries)):  # For all entries
-            with open(os.path.join(txt_folder, f"{i}.txt"), "w", encoding="utf8") as f:
-                f.write(entries[i]["text"])  # save that entry to a file
-            z.write(os.path.join(txt_folder, f"{i}.txt"), f"{project_id}_{i}.txt")
+        for i in range(0, len(files)):  # For all entries
+            z.write(os.path.join(dir, files[i]), files[i])
     data.seek(0)
-    shutil.rmtree(txt_folder)  # remove temp files
+    shutil.rmtree(dir)  # remove temp files
     return send_file(  # Download ZIP
         data,
         mimetype='application/zip',
         as_attachment=True,
-        attachment_filename=f'{project_id}.zip'
+        attachment_filename=f'{project.name}.zip'
     )
 
 
