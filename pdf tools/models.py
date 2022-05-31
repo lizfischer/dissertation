@@ -4,7 +4,6 @@ import json
 
 from interface import db
 from sqlalchemy.orm import validates
-from sqlalchemy import event
 
 thresholds = db.Table('thresholds',
                       db.Column('threshold_id', db.Integer, db.ForeignKey('threshold.id'), primary_key=True),
