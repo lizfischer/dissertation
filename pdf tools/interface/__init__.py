@@ -1,5 +1,7 @@
 from flask import Flask
 from flask_mongoengine import MongoEngine
+from flask_sqlalchemy import SQLAlchemy
+from flask_migrate import Migrate
 
 app = Flask(__name__)
 app.config.update(
@@ -13,6 +15,11 @@ app.config.update(
 )
 
 db = MongoEngine(app)
+
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///test.db?check_same_thread=False'
+sqldb = SQLAlchemy(app)
+migrate = Migrate(app, sqldb)
+
 
 from interface import routes
 

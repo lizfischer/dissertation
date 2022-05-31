@@ -15,53 +15,44 @@ import pathlib
 pd.set_option("display.max_rows", 10, "display.max_columns", None)
 
 
-def file_number(x, prefix=None):  # TODO Needs to account for split columns -a -b etc
-    name = pathlib.Path(x).stem
-    if prefix:
-        name = name.split(prefix)[-1]
-    if '-' in name:
-        name = name.split('-')[0]
-    return(int(name))
-
-
 def ignore_helper(project, direction, n_gaps, min_size, blank_thresh):
     n_gaps = int(n_gaps)
     min_size = int(min_size)
     blank_thresh = float(blank_thresh)
 
     if direction == "above" or direction == "below":
-        thresholds = Thresholds(h_width=min_size, h_blank=blank_thresh)
+        thresholds = get_or_create(db.session, Threshold, h_width=min_size, h_blank=blank_thresh)
     elif direction == "left" or direction == "right":
-        thresholds = Thresholds(v_width=min_size, v_blank=blank_thresh)
+        thresholds = get_or_create(db.session, Threshold, v_width=min_size, v_blank=blank_thresh)
     else:
         thresholds = None
-    whitespace_data = find_gaps(project, thresh=thresholds, return_data=True, verbose=False)
 
-    i = 0
+    find_gaps(project, thresh=thresholds, return_data=True, verbose=False)
+    whitespace_data = project.get_whitespace(thresholds)
+    i = 1
     for ws in whitespace_data:
-        pg = project.pages[i]
+        pg = project.get_page(i)
 
         if direction == "above":  # ignore text above
             # The 0-start gap is ALWAYS ignored because it is a margin with no text detected at this threshold
             gap = ws.get_nth_horizontal(n_gaps)
-            start = int(gap["start"] + gap["width"]/2)
-            pg.ignore_start = start
+            start = int(gap.start + gap.width/2)
+            pg.set_ignore("start", start)
         elif direction == "below":  # ignore text below
             # The last gap is ALWAYS ignored because it is a margin with no text detected at this threshold
             gap = ws.get_nth_horizontal(-n_gaps - 1)
-            end = int(gap["start"] + gap["width"]/2)
-            pg.ignore_end = end
+            end = int(gap.start + gap.width/2)
+            pg.set_ignore("end", end)
         elif direction == "left":  # ignore text to the left
             gap = ws.get_nth_vertical(n_gaps - 1)
-            left = gap["end"] - 2
-            # left_edge = page["vertical_gaps"][n_gaps - 1]["end"] - 2  # + page["vertical_gaps"][n_gaps-1]["width"]/2
-            pg.ignore_left = left
+            left = gap.end - 2
+            # left_edge = page["vertical_gaps"][n_gaps - 1].end - 2  # + page["vertical_gaps"][n_gaps-1]["width"]/2
+            pg.set_ignore("left", left)
         elif direction == "right":  # ignore text to the left
             gap = ws.get_nth_vertical(n_gaps - 1)
-            right = gap["start"] + 2
-            pg.ignore_right = right
+            right = gap.start + 2
+            pg.set_ignore("right", right)
 
-        project.save()
         i += 1
 
 
@@ -158,10 +149,13 @@ def simple_separate_val(split, regex=None):
 def simple_separate(project, gap_size, blank_thresh, split, regex=None, save_interval=25):
     simple_separate_val(split=split, regex=regex)
 
+    print("\n***Removing old entry data...***")
+    project.clear_entries()
+
     print("\n***Starting simple separate...***")
     print("\n**Finding gaps...**")
     # Do gap recognition at the set threshold
-    thresholds = Thresholds(h_width=gap_size, h_blank=blank_thresh)
+    thresholds = Threshold(h_width=gap_size, h_blank=blank_thresh)
     find_gaps(project, thresh=thresholds, verbose=False)
 
     print("\n**Separating entries gaps...**")
@@ -175,12 +169,10 @@ def simple_separate(project, gap_size, blank_thresh, split, regex=None, save_int
         nonlocal project
         if active_entry["text"] != "":
             e = Entry(text=active_entry["text"])
+            project.add_entry(e)
             for p in active_entry["pages"]:
                 x,y,w,h = p["xywh"].split(",")
-                e.boxes.append(BoundingBox(page=p["page"], x=x, y=y, w=w, h=h))
-            project.entries.append(e)
-            project.save()
-
+                e.add_box(BoundingBox(page=p["page"], x=x, y=y, w=w, h=h))
 
     def get_bounds(df_slice):
         df_slice["right"] = df_slice["left"] + df_slice["width"]
@@ -206,7 +198,7 @@ def simple_separate(project, gap_size, blank_thresh, split, regex=None, save_int
 
 
     # For each page in numerical order NB: this relies on find_gaps returning a SORTED list
-    for page in tqdm(project.pages):  # NOTE: This is the place to limit pages if desired for testing
+    for page in tqdm(project.get_pages()):  # NOTE: This is the place to limit pages if desired for testing
         n = page.sequence
 
         # OCR the page
@@ -218,8 +210,8 @@ def simple_separate(project, gap_size, blank_thresh, split, regex=None, save_int
         ocr = ocr_page(page, start, end, left, right)
 
         # Get relevant gaps (ie take the ignore boundaries into account) # find this page
-        all_page_gaps = page.whitespace.get_horizontal()
-        gaps_within_content = [g for g in all_page_gaps if g["start"] > start and g["end"] < end]
+        all_page_gaps = page.get_whitespace(thresholds).get_horizontal()
+        gaps_within_content = [g for g in all_page_gaps if g.start > start and g.end < end]
 
         # FIRST GAP
         n_gaps_considered = 0
@@ -228,7 +220,7 @@ def simple_separate(project, gap_size, blank_thresh, split, regex=None, save_int
             active_selection = ocr
         # If there are gaps, select up to the first gap
         else:
-            active_selection = ocr[ocr["top"] < gaps_within_content[0]["start"]]
+            active_selection = ocr[ocr["top"] < gaps_within_content[0].start]
             n_gaps_considered += 1  # we've looked up to the first gap
 
         # Decide what to do with the selected text (top of page) based on the split method specified
@@ -258,8 +250,8 @@ def simple_separate(project, gap_size, blank_thresh, split, regex=None, save_int
         # GAPS AFTER THE FIRST
         # While there are more gaps on the page, select the text between the "last" gap and the "next" gap
         while n_gaps_considered < len(gaps_within_content):
-            upper_bound = gaps_within_content[n_gaps_considered - 1]["start"]
-            lower_bound = gaps_within_content[n_gaps_considered]["start"]
+            upper_bound = gaps_within_content[n_gaps_considered - 1].start
+            lower_bound = gaps_within_content[n_gaps_considered].start
             active_selection = ocr[ocr["top"] > upper_bound]  # below last gap
             active_selection = active_selection[active_selection["top"] < lower_bound]  # above next gap
 
@@ -272,7 +264,7 @@ def simple_separate(project, gap_size, blank_thresh, split, regex=None, save_int
 
         # WHEN THERE ARE NO GAPS LEFT
         # select the text between the last gap & the bottom of the page
-        upper_bound = gaps_within_content[n_gaps_considered - 1]["start"]
+        upper_bound = gaps_within_content[n_gaps_considered - 1].start
         active_selection = ocr[ocr["top"] > upper_bound]
         # start a new entry and add the selected text to it
         new_entry(active_selection, n)
@@ -313,7 +305,7 @@ def indent_separate(project_id, indent_type, margin_thresh, indent_width, ignore
 
     print("\n***Starting simple separate...***")
     # Do gap recognition at the set threshold
-    thresh = Thresholds(v_blank=margin_thresh)
+    thresh = Threshold(v_blank=margin_thresh)
     binary_im_dir = f"interface/static/projects/{project_id}/binary_images"
     gaps_data = find_gaps(binary_im_dir, thresholds=thresh, return_data=True, verbose=False)
 
@@ -335,7 +327,7 @@ def indent_separate(project_id, indent_type, margin_thresh, indent_width, ignore
 
         # Find left margin
         all_vertical_gaps = next((pg for pg in gaps_data if pg["num"] == n), None)["vertical_gaps"]  # find this page
-        left_margin_line = all_vertical_gaps[0]["end"]
+        left_margin_line = all_vertical_gaps[0].end
 
         # Group by line
         lines = ocr.groupby(["block_num", "par_num", "line_num"])

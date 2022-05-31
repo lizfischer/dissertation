@@ -53,49 +53,6 @@ class Annotation:
             }
         }
 
-# Old annotation function
-
-# def whitespace_to_annotations(pages_data, project_id):
-#     project_folder = os.path.join((app.config['UPLOAD_FOLDER']), project_id)
-#     annotation_folder = os.path.join(project_folder, "annotations")
-#     if not os.path.exists(annotation_folder):
-#         os.mkdir(annotation_folder)
-#
-#     for image in pages_data:
-#         num = image["num"]
-#         annotations = []
-#         anno_file = os.path.join(annotation_folder, f"{num}-annotations.json")
-#
-#         # First vertical gap, start at end of the gap
-#         annotation = Annotation(image["vertical_gaps"][0]["end"], 0, 1, image['height'])
-#         annotations.append(annotation.json)
-#         # NOTE: SHOWING ONLY the first gap since this is only needed for left-margin detection atm...
-#         # Middle gaps, give the midpoint
-#         # for v in image["vertical_gaps"][1:-1]:
-#         #    x = v['start'] + v['width'] / 2
-#         #    annotation = Annotation(x, 0, 1, image['height'])
-#         #    annotations.append(annotation.json)
-#         # Last vertical gap, start at start of the gap
-#         #if len(image["vertical_gaps"]) > 2 :
-#         #    annotation = Annotation(image["vertical_gaps"][-1]["start"], 0, 1, image['height'])
-#         #annotations.append(annotation.json)
-#
-#         # First horizontal gap, start at end of the gap
-#         # annotation = Annotation(0, image["horizontal_gaps"][0]["end"], image['width'], 1)
-#         # annotations.append(annotation.json)
-#         # Middle gaps, give the midpoint
-#         for h in image["horizontal_gaps"][1:-1]:
-#             y = h['start'] + h["width"] / 2
-#             annotation = Annotation(0, y, image['width'], 1, text=h["width"])
-#             annotations.append(annotation.json)
-#         # Last horizontal gap, start at start of the gap
-#         # annotation = Annotation(0, image["horizontal_gaps"][-1]["start"], image['width'], 1)
-#         # annotations.append(annotation.json)
-#
-#         # Save file
-#         with open(anno_file, "w") as outfile:
-#             json.dump(annotations, outfile, indent=4)
-#     return annotation_folder
 
 def whitespace_to_annotations(data, page):
     annotations = []
@@ -130,10 +87,11 @@ def whitespace_to_annotations(data, page):
 
     return json.dumps(annotations)
 
+
 ##
 # Given an image and a set of threshold values, find the whitespace on a page
 #
-# Thresholds should contain:
+# Threshold should contain:
 # h_width: the minimum width of a horizontal space (in px)
 # h_blank: The % of pixels in a horizontal line that are blank to "count" the line as blank
 # v_width: the minimum width of a vertical space (in px)
@@ -164,37 +122,35 @@ def process_page(im_path, thresholds, viz=False):
             "horizontal_gaps": horizontal_gaps}
 
 
-def find_gaps(project, thresh=Thresholds(),
+def find_gaps(project, thresh=None,
               viz=False, return_data=False, verbose=True):
+
     if verbose:
         print("\n*** Detecting margins & whitespace... ***")
+    if not thresh:
+        thresh = Threshold.get_default()
 
-    all_pages = []
-    for page in project.pages: # for every page
+    if project.has_whitespace(thresh):
+        return True
+
+    for page in project.get_pages(): # for every page
         image_path = page.get_binary()
         try:
             data = process_page(image_path, thresh, viz=viz) # Try to process the page
         except ValueError:
-            continue # If you can't, skip it
+            continue  # If you can't, skip it
 
-        whitespace = PageWhitespace(image_path=image_path, threshold=thresh, sequence=page.sequence)
+        whitespace = Whitespace(threshold=thresh)
 
         for gap in data["vertical_gaps"]:
             g = Gap(start=gap["start"], end=gap["end"], width=gap["width"], direction="vertical")
-            whitespace.gaps.append(g)
+            whitespace.add_gap(g)
         for gap in data["horizontal_gaps"]:
             g = Gap(start=gap["start"], end=gap["end"], width=gap["width"], direction="horizontal")
-            whitespace.gaps.append(g)
-        whitespace.annotation = whitespace_to_annotations(data, page)
+            whitespace.add_gap(g)
+        whitespace.set_annotation(whitespace_to_annotations(data, page))
 
-        if return_data:
-            all_pages.append(whitespace)
-        else:
-            page.whitespace = whitespace
-            project.has_gaps = True
-            project.save()
+        page.add_whitespace(whitespace)
+        project.set_gaps(True)
 
-    if return_data:
-        return all_pages
-    else:
-        return True
+    return True

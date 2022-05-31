@@ -11,12 +11,11 @@ from models import Page
 def split_images(project, split_pct=.5):
     image_dir = project.get_image_dir()
 
-    # Save original, un-split page data
-    project.modify(original_pages=project.pages)
-    project.modify(pull_all__pages=project.pages)
+    if project.is_split:
+        project.remove_split_pages()
 
     seq = 1
-    for page in project.original_pages:
+    for page in project.get_pages(original_only=True):
         path = pathlib.Path(page.get_img())
         name = str(path.name)
         print(path)
@@ -35,15 +34,14 @@ def split_images(project, split_pct=.5):
         cv2.imwrite(str(path).replace(name, new_a), a_img)
         cv2.imwrite(str(path).replace(name, new_b), b_img)
 
-        a_half = Page(parent_id=project.id, sequence=seq, image=new_a)
-        b_half = Page(parent_id=project.id, sequence=seq+1, image=new_b)
+        a_half = Page(sequence=seq, image=new_a, type="split", width=a_img.shape[1], height=a_img.shape[0])
+        b_half = Page(sequence=seq+1, image=new_b, type="split", width=b_img.shape[1] , height=b_img.shape[0])
 
-        project.pages.append(a_half)
-        project.pages.append(b_half)
-        project.save()
+        project.add_page(a_half)
+        project.add_page(b_half)
 
         seq += 2
-    project.update(is_split=True)
+    project.set_split(True)
     return True
 
 
@@ -51,15 +49,13 @@ def export_binary_images(project):
     print("\n*** Binarizing images... ***")
     image_dir = project.get_image_dir()
 
-    for page in project.pages:
+    for page in project.get_pages():
         img_path = page.get_img()
         img = cv2.imread(img_path, cv2.IMREAD_GRAYSCALE)
         (thresh, im_bw) = cv2.threshold(img, 128, 255, cv2.THRESH_BINARY)
         cv2.imwrite(img_path.replace('.jpg', '.tiff'), im_bw)
-        page.height, page.width = img.shape
-        project.save()
 
-    project.modify(is_binarized=True)
+    project.set_binarized(True)
     return True
 
 
@@ -87,11 +83,13 @@ def export_pdf_images(project):
             file_name = f"{i}.jpg"
             image_path = os.path.join(output_dir, file_name)
             image.save(image_path)
-            # Save page to databse
-            page = Page(parent_id=project.id, sequence=i, image=file_name)
-            project.pages.append(page)
-            project.save()
+
+            # Save page to database
+            width, height = image.size
+            page = Page(sequence=i, image=file_name, type="original", width=width, height=height)
+            project.add_page(page)
             i += 1
+
     return output_dir
 
 

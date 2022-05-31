@@ -14,21 +14,21 @@ from image_generation import export_pdf_images, export_binary_images, split_imag
 from models import *
 
 
-# TODO: Split some of this into different files
 
+
+
+# TODO: Split some of this into different files
 
 @app.route('/')
 def main():
-    #projects = [name for name in os.listdir((app.config['UPLOAD_FOLDER']))
-    #            if os.path.isdir(os.path.join((app.config['UPLOAD_FOLDER']), name))]
-
-    return render_template('select_project.html', projects=Project.objects)
+    projects = Project.query.all()
+    return render_template('select_project.html', projects=projects)
 
 
 @app.route('/<project_id>/project')
 def project(project_id):
-    project = Project.objects(id=project_id).first()
-    return render_template('project.html', project=project)
+    p = Project.query.filter_by(id=project_id).first()
+    return render_template('project.html', project=p)
 
 
 @app.route('/upload', methods=['GET', 'POST'])
@@ -62,24 +62,18 @@ def initialize_project(file):
     filename = secure_filename(file.filename)
     project_name = filename.split(".")[0]
 
-    #project_folder = os.path.join(app.config['UPLOAD_FOLDER'], project_name)
-    #os.mkdir(project_folder)
-
-
     db_project = Project(name=project_name, file=filename)
-    db_project.save()
+    db_project.create()
 
     project_folder = os.path.join(app.config['UPLOAD_FOLDER'], str(db_project.id))
     os.mkdir(project_folder)
     file_path = os.path.join(project_folder, filename)
     file.save(file_path)
 
-    #db_project.update(file=file_path)
-
     return db_project
 
 
-@app.route('/<project_id>/cleanup')  # TODO: Mongo-ify
+@app.route('/<project_id>/cleanup')  # TODO: DB-ify
 def cleanup(project_id):
     files_to_save = [f"{project_id}.pdf", "entries.json"]
     project_folder = os.path.join(app.config['UPLOAD_FOLDER'], project_id)
@@ -96,7 +90,7 @@ def cleanup(project_id):
     return redirect(url_for("project", project_id=project_id))
 
 
-@app.route('/<project_id>/export') # TODO: Mongo-ify
+@app.route('/<project_id>/export') # TODO: DB-ify
 def export(project_id):
     project = Project.objects(id=project_id).first()
 
@@ -104,11 +98,11 @@ def export(project_id):
     return send_file(path, as_attachment=True, attachment_filename=f"{project.name}_entries.json")
 
 
-@app.route('/<project_id>/export_txt') # TODO: Mongo-ify
+@app.route('/<project_id>/export_txt') # TODO: DB-ify
 def export_txt(project_id):
-    project = Project.objects(id=project_id).first()
+    p = Project.query.filter_by(id=project_id).first()
 
-    dir = project.entries_to_txt()
+    dir = project.entries_to_txt() #FIXME
 
     data = io.BytesIO()
     files = os.listdir(dir)
@@ -127,14 +121,15 @@ def export_txt(project_id):
 
 @app.route('/<project_id>/split', methods=['GET', 'POST'])
 def split_file(project_id):
-    project = Project.objects(id=project_id).first()
+    project = Project.query.filter_by(id=project_id).first()
     project_folder = project.get_folder()
     file = project.get_pdf()
 
     pdf_img_folder = project.get_image_dir()
     image_dir = pdf_img_folder
 
-    if len(project.pages) == 0:  # If pdf hasn't been converted to images yet
+    pages = project.get_pages(original_only=True)
+    if len(pages) == 0:  # If pdf hasn't been converted to images yet
         export_pdf_images(project)
     if request.method == 'GET':
         pct = .5
@@ -143,25 +138,17 @@ def split_file(project_id):
         image_dir = split_images(project, pct)
         flash('Successfully split pages')
 
-    image_paths = [page.get_ui_img() for page in project.pages]
+    image_paths = [page.get_ui_img() for page in project.get_pages()]
     return render_template('split.html', project=project, images=image_paths, pct=pct)
     # TODO change this to a page w/ form submission
 
 
-def get_frontend_dir(directory, project_id):
-    static_dir = os.path.normpath(url_for('static', filename='projects'))
-    directory = os.path.normpath(directory)
-    after = directory.split(project_id)[1][1:]
-    new = os.path.join(static_dir, project_id, after)
-    return new
-
-
 @app.route('/<project_id>/binarize')
 def binarize(project_id):
-    project = Project.objects(id=project_id).first()
+    project = Project.query.filter_by(id=project_id).first()
     project_folder = project.get_folder()
 
-    if len(project.pages) == 0:  # If pdf hasn't been converted to images yet
+    if len(project.get_pages()) == 0:  # If pdf hasn't been converted to images yet
         export_pdf_images(project)
     if not project.is_binarized:
         export_binary_images(project)
@@ -171,23 +158,25 @@ def binarize(project_id):
 
 @app.route('/<project_id>/margins', methods=['GET', 'POST'])
 def find_margins(project_id):
-    project = Project.objects(id=project_id).first()
+    project = Project.query.filter_by(id=project_id).first()
     project_folder = project.get_folder()
 
     if request.method == 'POST':
         print("POST")
-        thresh = Thresholds(h_width=float(request.form['h_width']), h_blank=float(request.form['h_blank']),
-                            v_blank=float(request.form['v_blank']), v_width=float(request.form['v_width']))
+        thresh = Threshold(h_width=float(request.form['h_width']), h_blank=float(request.form['h_blank']),
+                           v_blank=float(request.form['v_blank']), v_width=float(request.form['v_width']))
         find_gaps(project, thresh=thresh)
     elif not project.has_gaps:
-        find_gaps(project, thresh=Thresholds())
+        thresh = Threshold.get_default()
+        find_gaps(project, thresh=thresh)
+    else:
+        thresh = Threshold.get_default()  # fixme change to get most recent
 
     map = []
-    for page in project.pages:
-        map.append({"img": page.get_ui_img(), "anno": page.whitespace.annotation})
+    for page in project.get_pages():
+        map.append({"img": page.get_ui_img(), "anno": page.get_whitespace(thresh).annotation})
 
-    return render_template('margins.html', project=project, data=map, thresh=project.pages[0].whitespace.threshold)
-
+    return render_template('margins.html', project=project, data=map, thresh=thresh)
 
 
 def ignore_handler(project, form_data):
@@ -206,10 +195,9 @@ def ignore_handler(project, form_data):
     parse_rules.ignore(project, ignore_rule_1, ignore_rule_2)
 
 
-
 @app.route('/<project_id>/simple', methods=['GET', 'POST'])
 def simple_separate_ui(project_id):
-    project = Project.objects(id=project_id).first()
+    project = Project.query.filter_by(id=project_id).first()
 
     status = None
 
