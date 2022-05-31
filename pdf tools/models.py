@@ -1,4 +1,3 @@
-# from interface import db
 from interface import app
 import os
 import json
