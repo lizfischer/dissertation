@@ -3,7 +3,7 @@ from interface import app
 import os
 import json
 
-from interface import sqldb as db
+from interface import db
 from sqlalchemy.orm import validates
 from sqlalchemy import event
 

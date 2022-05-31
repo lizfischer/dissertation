@@ -14,11 +14,11 @@ app.config.update(
     }
 )
 
-db = MongoEngine(app)
+#db = MongoEngine(app)
 
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///test.db?check_same_thread=False'
-sqldb = SQLAlchemy(app)
-migrate = Migrate(app, sqldb)
+db = SQLAlchemy(app)
+migrate = Migrate(app, db)
 
 
 from interface import routes

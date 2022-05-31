@@ -15,8 +15,6 @@ from models import *
 
 
 
-
-
 # TODO: Split some of this into different files
 
 @app.route('/')
