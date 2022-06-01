@@ -136,11 +136,10 @@ pdf tools/outputs*
 pdf tools/input*
 *.pdf
 
-pdf tools/temp/*
+pdf-tools/temp/*
 
-pdf tools/interface/static/projects/*/annotations/*
-pdf tools/interface/static/projects/*/binary_images/*
-pdf tools/interface/static/projects/*/pdf_images/*
-pdf tools/interface/static/projects/*
+pdf-tools/interface/static/projects/*/annotations/*
+pdf-tools/interface/static/projects/*/binary_images/*
+pdf-tools/interface/static/projects/*/pdf_images/*
+pdf-tools/interface/static/projects/*
 
-pdf tools/linuxEnv/*
