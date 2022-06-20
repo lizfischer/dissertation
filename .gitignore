@@ -132,6 +132,7 @@ dmypy.json
 .pyre/
 dimev/.idea/workspace.xml
 
+pdf tools/*
 pdf-tools/outputs*
 pdf-tools/input*
 *.pdf
