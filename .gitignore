@@ -143,7 +143,4 @@ pdf-tools/interface/static/projects/*/binary_images/*
 pdf-tools/interface/static/projects/*/pdf_images/*
 pdf-tools/interface/static/projects/*
 
-pdf-tools/interface/test.db
-pdf-tools/interface/test.db-journal
-pdf-tools/interface/test.db-journal
-pdf-tools/interface/pdf_tools.db
+*.db
