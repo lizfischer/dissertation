@@ -145,3 +145,4 @@ pdf-tools/interface/static/projects/*
 
 *.db
 *.db-journal
+data processing\Pforzheimer*.txt
