@@ -143,6 +143,5 @@ pdf-tools/interface/static/projects/*/binary_images/*
 pdf-tools/interface/static/projects/*/pdf_images/*
 pdf-tools/interface/static/projects/*
 
-*.db
 *.db-journal
 data processing\Pforzheimer*.txt
