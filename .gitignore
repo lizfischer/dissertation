@@ -141,7 +141,7 @@ pdf-tools/temp/*
 pdf-tools/interface/static/projects/*/annotations/*
 pdf-tools/interface/static/projects/*/binary_images/*
 pdf-tools/interface/static/projects/*/pdf_images/*
-pdf-tools/interface/static/projects/*
+pdf-tools/interface/static/projects*
 
 *.db-journal
 data processing\Pforzheimer*.txt
