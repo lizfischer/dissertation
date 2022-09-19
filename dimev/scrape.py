@@ -4,8 +4,6 @@ from bs4 import BeautifulSoup
 
 def scrape_texts():
     for num in range(1, 6890):
-    #num = 1098
-
         print(num)
         url = f"https://www.dimev.net/record.php?recID={num}"
         page = requests.get(url)
@@ -30,25 +28,6 @@ def scrape_texts():
 
 
 def scrape_mss():
-    with open("DIMEV-Shelfmark-LIst.tsv", "r") as f:
-        shelfmarks = f.readlines()
-        shelfmarks = [x.strip() for x in shelfmarks]
-
-    for id in shelfmarks:
-        print(id)
-        url = f"https://www.dimev.net/Records.php?MSS={id}"
-        page = requests.get(url)
-        soup = BeautifulSoup(page.content, 'html.parser')
-
-        ms_name = soup.body.findAll(text="Found Records:")[0].find_next("div").text
-        print(ms_name)
-        with open('mss-out.tsv', 'a', encoding='utf-8') as f:
-           f.write(f"{id}\t{ms_name}\n")
-
-
-
-
-def scrape_mss_2():
     url = f"https://www.dimev.net/Manuscripts.php?loc=&repos="
     page = requests.get(url)
     soup = BeautifulSoup(page.content, 'html.parser')
@@ -67,5 +46,5 @@ def scrape_mss_2():
                 print(shelfmark, name)
                 f.write(f"{shelfmark}\t{name}\t{loc.text}\n")
 
-
-scrape_mss_2()
+scrape_texts()
+scrape_mss()
