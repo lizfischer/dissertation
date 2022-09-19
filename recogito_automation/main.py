@@ -13,21 +13,21 @@ def init_browser(headless):
     firefox_service = Service(firefox_driver)
     firefox_options = Options()
     firefox_options.headless = headless
-    browser = webdriver.Firefox(service=firefox_service, options=firefox_options)
-
-    return browser
+    return webdriver.Firefox(service=firefox_service, options=firefox_options)
 
 
 def get_tag_sample(vocab_file):
-    with open('myfile.txt') as f:
+    with open(vocab_file) as f:
         return f.readline().strip()
 
 
 def login(browser, wait, username, password, redirect=None):
     browser.get("https://recogito.pelagios.org/login")
-    username_field = browser.find_element(By.ID, "USERNAME")
+    wait.until(lambda browser: browser.find_element(By.ID, "username"))
+
+    username_field = browser.find_element(By.ID, "username")
     username_field.send_keys(username)
-    password_field = browser.find_element(By.ID, "PASSWORD")
+    password_field = browser.find_element(By.ID, "password")
     password_field.send_keys(password)
     password_field.submit()
     wait.until(lambda browser: browser.find_element(By.CLASS_NAME, 'user'))
@@ -49,22 +49,33 @@ def find_doc_links(browser, wait):
     return doc_links
 
 
-def upload_tags(browser, wait, doc_links, vocab_file, tag_sample):
+def rename_batches(browser):
+    doc_links = find_doc_links(browser, wait)
     for d in doc_links:
-        settings_url = d.replace("part/1/edit", "settings?tab=preferences")
-        browser.get(settings_url)
-        wait.until(lambda browser: browser.find_element(By.ID, "upload-vocabulary"))
-        time.sleep(1)
-        browser.find_element(By.ID, "upload-vocabulary").send_keys(os.path.abspath(vocab_file))
-        wait.until(lambda browser: browser.find_element(By.XPATH, f"//td[contains(text(),'{tag_sample}')]"))
+
+        pass
+
+
+def upload_tags_helper(browser, wait, vocab_file, tag_sample, doc_link):
+    settings_url = doc_link.replace("part/1/edit", "settings?tab=preferences")
+    browser.get(settings_url)
+    wait.until(lambda browser: browser.find_element(By.ID, "upload-vocabulary"))
+    time.sleep(1)
+    browser.find_element(By.ID, "upload-vocabulary").send_keys(os.path.abspath(vocab_file))
+    wait.until(lambda browser: browser.find_element(By.XPATH, f"//td[contains(text(),'{tag_sample}')]"))
+
+
+def upload_tags(browser, wait, vocab_file, tag_sample):
+    for d in doc_links:
+        upload_tags_helper(browser, wait, vocab_file, tag_sample, doc_link=d)
 
 
 if __name__ == "__main__":
     USERNAME = "lizfischer0"
     PASSWORD = "yFsdIcq6MLTG*!6a!o#"
-    RECOGITO_FOLDER_URL = "https://recogito.pelagios.org/lizfischer0#95d2d801-4cd7-45a4-9d88-0bbf9605997f"
-    VOCAB_FILE = "D:\Desktop\dissertation\data processing\\tite tagging vocab.txt"
-    HEADLESS = True
+    RECOGITO_FOLDER_URL = "https://recogito.pelagios.org/lizfischer0#b939d0fc-0da1-4801-9760-adfec2bdc36c"  # "https://recogito.pelagios.org/lizfischer0#95d2d801-4cd7-45a4-9d88-0bbf9605997f"
+    VOCAB_FILE = "D:\Desktop\dissertation\data processing\\pforz tagging vocab.txt"
+    HEADLESS = False
 
     tag_sample = get_tag_sample(VOCAB_FILE)
 
@@ -73,4 +84,5 @@ if __name__ == "__main__":
 
     login(browser, wait, USERNAME, PASSWORD, RECOGITO_FOLDER_URL)
     doc_links = find_doc_links(browser, wait)
-    upload_tags(browser, wait, doc_links, VOCAB_FILE, tag_sample)
+    rename_batches(browser, doc_links)
+    #upload_tags(browser, wait, VOCAB_FILE, tag_sample)
