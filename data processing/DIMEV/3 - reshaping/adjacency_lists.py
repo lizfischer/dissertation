@@ -18,7 +18,7 @@ with open('all_records.json', 'r') as infile:
 #             writer.writerow([p[0], p[1], text_label, 'Undirected'])
 
 # Text-Text
-with open('rel_text-text.csv', 'w') as outfile:
+with open('../4 - gephi/rel_text-text.csv', 'w') as outfile:
     writer = csv.writer(outfile, lineterminator='\n')
     writer.writerow(['Source', 'Target', 'Label', 'Type'])
     mss = {}

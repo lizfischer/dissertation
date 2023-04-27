@@ -27,14 +27,14 @@ relationships_df = pd.DataFrame(relationships)
 relationships_df = relationships_df.replace(r'^\s*','', regex=True).replace(r'\n',r'\\n', regex=True)
 relationships_df = relationships_df.rename(columns={'text': 'Source', 'witness': 'Target'})
 
-relationships_df.to_csv('relationships.tsv',  sep='\t', index=False)
+relationships_df.to_csv('rel_text-ms.tsv',  sep='\t', index=False)
 
 
 # MS Info
 ms_df = pd.read_csv('mss_info.csv', sep='|', encoding='cp1252')
 ms_df = ms_df.rename(columns={'ID': 'Id', 'Name': 'Label'})
 ms_df['Type'] = 'MS'
-ms_df.to_csv('mss_info_revised.tsv',  sep='\t', index=False)
+ms_df.to_csv('nodes_mss.tsv',  sep='\t', index=False)
 
     # record = {'_id': dimev_num,
     #           '_header': header,
