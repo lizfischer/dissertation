@@ -1,0 +1,28 @@
+{
+    "_id": 1349,
+    "_header": "For God is lord of all thing / As prophets tellen I-mene",
+    "Note": "Latin, French and English versions of each distich following one another.",
+    "Author(s)": "Cato",
+    "Subjects": "precepts",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "Macaronic": "Latin, French",
+    "_description": "\u2018Great Cato\u2019 \u2014 644 lines in quatrains",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nffor god is lord of alle \u00feingAs prophetes tellen i\n                    mene\u00feou schalt him in werk honoureAnd wi\u00fe \u00fei\n                    \u00feou\u021dtes clene\u2026\n",
+            "Last Lines": "\n\u2026Alle \u00feat reden and wolle recorden\u00feis smale\n                    techinges bi deneGod hem graunte \u00feorw his graceOf heore sunnes be\n                    clene Amen.\n",
+            "Note": "\nInterspersed with Latin and French verse; written in\n                    half-lines.",
+            "Attributed Title": "\nIncipit liber catonis (f. 310rb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nGoldberg,  Max Otto. \n             Die Catonischen Distichen\u2026.\n         Leipzig: Joachim & J\u00fcstel, 1883: 15-24.\nGoldberg,  Max Otto. \n             \u201cEin englischer Cato.\u201d \n             Anglia\n         7 (1884): 165-77: 169-77.\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 562-609.\n\n",
+            "folio": "ff. 310rc-314rb"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nffor god is lord of alle \u00feingAs prophetes tellen I\n                    mene\u00deou schalt hym in werk honoureAnd wi\u00fe \u00fei\n                    \u00feouhtes clene\u2026\n",
+            "Last Lines": "\n\u2026Alle \u00feat reden & wollen recorden\u00deis smale\n                    techyng bi deneGod hem graunt \u00feorwh his graceOf heore synnes be\n                    clene Amen\n",
+            "Attributed Title": "\nHere ende\u00fe Catoun (f. 123ra, rubric)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 119va-123ra"
+        }
+    }
+}

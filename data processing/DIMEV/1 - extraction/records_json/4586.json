@@ -1,0 +1,40 @@
+{
+    "_id": 4586,
+    "_header": "Saint Ecgwine the holy man was here of England",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Ecgwine, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Ecgwine in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nSEint Egwyne \u00fee holy mon was here of EngelondeBisschop he was\n                    of Wircetre as ich vndurstonde\u2026\n",
+            "Last Lines": "\n\u2026Now Ihesu for \u00fee loue of him lete vs here such lyf\n                    lede\u00deat we mote to heuene come and for\u021diue vs vre misdede.\n                    Amen.\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 52vb-53ra"
+        },
+        "BLCottJulDIX": {
+            "First Lines": "\nSEint egwine \u00fee holiman was here of englondebischop he was of Worchestre as ich vn\u00feerstonde\u2026\n",
+            "Last Lines": "\n\u2026nou ihesu crist for \u00fee loue of seint egwine lat ous such lif lede\u00feat we mote to heuen come & for \u021dif ous our misdede\n",
+            "Note": "\n\u201cCapitulum xCv\u201d added to left margin by later hand (f. 266v).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Julius MS D IX.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Julius_D_IX. \n",
+            "folio": "ff. 266v-268v"
+        },
+        "BLEge1993": {
+            "First Lines": "\nSEint egwine \u00fee holi mon wes hey of engelondeBisceop he was of Winchestre as icham vnderstonde\u2026\n",
+            "Last Lines": "\n\u2026Now ihu vor \u00fee loue of him lete vs such lif lede\u00deat we moten to heuene come & vor \u021def vs oure misdede\n",
+            "folio": "ff. 221v-222v"
+        },
+        "BLSto949": {
+            "First Lines": "\nSeynt Egewyn \u00fee holy man was herre of engelondeBischop he was of wurcestre as ich am vnderstonde\u2026\n",
+            "Last Lines": "\n\u2026Nou ihesus for \u00fee loue of him let vs suche lyf lede\u00feat we moten to heuene come & vorgiue vs our mysdede\n",
+            "Note": "\n\u201cAmen\u201d at end.",
+            "folio": "ff. 142v-144"
+        },
+        "BLAdd10626": {
+            "First Lines": "\nSeint Egwyn \u00fee holy man was here in englondeBischepe of\n                    Wircetre he was as y vnder stonde\u2026\n",
+            "Last Lines": "\n\u2026\u00deo \u00feey openede \u00feis fysch in his wombe \u00feey\n                    founde\u00dee keye of \u00fee veterus \u00feat was caste in avene\n                    grounde\u2026\n",
+            "Note": "\nLines 1-46 only.",
+            "folio": "ff. 7-7v"
+        }
+    }
+}

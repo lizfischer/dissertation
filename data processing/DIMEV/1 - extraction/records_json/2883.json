@@ -1,0 +1,26 @@
+{
+    "_id": 2883,
+    "_header": "Jesu of a maid Thou wouldest be born",
+    "Note": "Stanzas 1 and 4 similar to lines 1-4 of 5079.",
+    "Subjects": "carols, Nativity",
+    "Versification": "\u2014 four-line \u2014 aabb",
+    "Macaronic": "Latin",
+    "_description": "A song of Jesus the Saviour \u2014 five quatrains (aabb) with \u2018Miserere nobis\u2019 refrain and four-line burden: \u2018Iesu fili virginis / miserere nobis\u2019 (repeated)",
+    "_witnesses": {
+        "OxfLinLat141": {
+            "First Lines": "\nJhesu of a maydyn woldyst be borneTo sawe mankynd \u00feat was\n                    forlorneAnd all for owr mysmiserere nobis\u2026\n",
+            "Last Lines": "\n\u2026That we mow se \u00fei fasIn hewen blysse miserere\n                        nobis\n\n",
+            "Note": "\nThree stanzas.",
+            "Editions": "\nPalti,  Kathleen. \n             \u201cAn Unpublished Fifteenth-Century Carol Collection: Oxford, Lincoln\n                College MS Lat. 141.\u201d \n             Medium Aevum.\n         77 (2008): 260-78: 269.\n",
+            "folio": "ff. 4v-5"
+        },
+        "BLAdd5665": {
+            "First Lines": "\nJhesu of a mayde thow woldest be bornTo saue mankynde that was\n                    forlorn\u2026\n",
+            "Last Lines": "\n\u2026And thow deidist vpon the rode treeFor owre\n                        mysseMiserere nobis\n\n",
+            "Note": "\n2 stanzas and burden only; music by Richard Smert.",
+            "Attributed Title": "\nde natiuitate (f. 29v)",
+            "Editions": "\n\nFehr,  Bernhard. \n             \u201cDie Lieder der Hs. Add. 5665 (Ritson\u2019s Folio-MS).\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         106 (1901): 262-85: 275.\nStevens,  John,\n                        ed.  \n             Mediaeval Carols.\nMusica Britannica\n         4. London: Stainer and Bell, 1952, 2nd ed. 1958: 86.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon, 1977 (see\n            also Greene (1935)\nXGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977): 48.\n\n",
+            "folio": "ff. 29v-30"
+        }
+    }
+}

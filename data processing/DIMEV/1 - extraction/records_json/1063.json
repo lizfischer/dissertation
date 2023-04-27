@@ -1,0 +1,21 @@
+{
+    "_id": 1063,
+    "_header": "Complain I may wheresoever I go",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 327.",
+    "Subjects": "complaints, lovers\u2019",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "The forsaken lover \u2014 three stanzas rhyme royal",
+    "_witnesses": {
+        "BodRawC813": {
+            "First Lines": "\nCompleyn I may wher Soo euer I gooSythe I haue done my besye\n                    peyne\u2026\n",
+            "Last Lines": "\n\u2026Sythe that on hur my loue ys losteWhome of all creatures I\n                    trustyde most\n",
+            "Editions": "\n\nPadelford,  Frederick Morgan. \n             \u201cLiedersammlungen des xvi. Jahrhunderts\u2026IV.\u201d \n             Anglia\n         31 (1908): 309-96: 359-60.\nJansen,  Sharon L.,  and  Kathleen H. Jordan, eds.  \n             The Welles Anthology: MS. Rawlinson C.813: A Critical Edition.\n         Binghamton, NY: Medieval & Renaissance Texts and Studies,\n            1991: 190-1.\n\n",
+            "folio": "ff. 46v-47"
+        },
+        "BLAdd5465": {
+            "Note": "\nFormerly 649.5; first stanza only, with music.",
+            "Editions": "\n\nSmith,  John Stafford. \n             A Collection of English Songs, composed about the year 1500.\n         London: Bland, 1779: no. 13.\nFehr,  Bernhard. \n             \u201cDie Lieder des Fairfax MS (Add. 5465 Brit. Mus.).\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         106 (1901): 48-70: 59.\nStevens,  John,\n                        ed.  \n             Music and Poetry in the Early Tudor Court.\n         London: Methuen, 1961: 365.\n\n",
+            "folio": "ff. 46v-48"
+        }
+    }
+}

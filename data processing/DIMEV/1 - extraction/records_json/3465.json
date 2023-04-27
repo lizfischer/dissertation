@@ -1,0 +1,45 @@
+{
+    "_id": 3465,
+    "_header": "Men may find in old books",
+    "Note": "For the longer version cf. 1276.",
+    "Author(s)": "Hugh Campeden",
+    "Title(s)": "Sydrac and Boctus",
+    "Subjects": "dialogues; didactic verse; doctrine, religious; catechisms, scientific and biblical lore",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Sydrac and Boctus, the didactic dialogue on morals and doctrines, with 1084 questions \u2014 abridged version. Translated by Hugh Campeden from the French (cf. Bodl. SC 2451); Sydrach (1486)\nXSydrach, Philosophe. La fontaine de toutes sciences. Paris: [Pierre Levet] for Antoine V\u00e9rard [and Nicole Gilles], 20 Feb. 1486/87",
+    "_witnesses": {
+        "BodLauMis559": {
+            "First Lines": "\nMEn may fynde in oolde bookesWho soo \u00feat in them\n                    lookis\u2026\n",
+            "Last Lines": "\n\u2026Soo \u00feat he at his lyves endeVnto the blis of heuene to\n                    wende\n",
+            "Editions": "\nBurton,  Tom L.,\n                        ed.  \n             Sidrak and Bokkus.\n             2 vols. \n             EETS\n         o.s. 311, 312 (1998-1999). \n",
+            "folio": "ff. 3-155"
+        },
+        "CamTCC1287": {
+            "First Lines": "\nMan may finde in olde bokeswho so euer ther in\n                    lookes\u2026\n",
+            "Last Lines": "\n\u2026And that it mutte so beeSeith alle amen for\n                    charite\n",
+            "Attributed Title": "\nThis boke is callid Sidrake grounded vpon scripture the whiche was\n                    translated owte of frenche in to englishe compiled and made a fore the\n                    Incarnacion of owre lorde Ihesu criste declaringe sadde and notable wisdomes\n                    celestiall Instrucciones and questiones for the helth of mannes soule with many\n                    othur vertuous and holsom thinges here after ensewynge with a parcell of the\n                    seven sciences (f. 1ra)",
+            "folio": "ff. 1ra-37vb"
+        },
+        "BLSl2232": {
+            "folio": "f. 10"
+        },
+        "SocAnt252": {
+            "First Lines": "\nMEn may ffynde in old bokisWho so in them seech &\n                    lokis\u2026\n",
+            "Last Lines": "\n\u2026In goddes hous he ou\u021dit wele \u00feanHis shepe wele kepe\n                    & knowe\u2026\n",
+            "Note": "\nIncomplete. Lacks quires [3-5], [7-9]. Catchphrase at the foot of f.\n                        77v: \u2018And by his owne liff\u2019.",
+            "folio": "ff. 1-77v"
+        },
+        "PULTayM3": {
+            "First Lines": "\n\u2026Whens comyth ther fathede and whyThat aman hathe in his\n                    bodyShall men wymmen chastysyn and wysseWith betyng when they done\n                    amys\u2026\n",
+            "Last Lines": "\n\u2026ffor that they yong takith comynlyIn age he fyndith hit\n                    redely\u2026\n",
+            "Note": "\nBegins and ends imperfectly.",
+            "folio": "ff. 1ra-39vb"
+        },
+        "NorthantsROBru": {
+            "First Lines": "\nW[ ] be[ ]le wis erst on Adamffor\u00fei may it mou\u021dt\n                    deyeAnd \u021dif y \u00fee so\u00fee sal al seye\u00deat soule was or\n                    \u00fee body me \u00feynk\u2026\n",
+            "Last Lines": "\n\u2026Pirttes hym is aungel \u00feat hym ledesA wiked aungel he has\n                    also\n",
+            "Note": "\nFragment: Questions 282-303 of Oxford,  Bodleian Library Laud misc. 559 (SC 1222).",
+            "folio": "1ra-2vb"
+        }
+    }
+}

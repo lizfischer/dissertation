@@ -1,0 +1,19 @@
+{
+    "_id": 6608,
+    "_header": "Whoso hath an evil tongue",
+    "Subjects": "proverbs; tongue, destructive power of; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A proverbial saying about evil tongues, trans. Latin, \u2018Cui mala lingua datur semper que sunt mala fatur\u2019 \u2014 one couplet",
+    "_witnesses": {
+        "BodDou52": {
+            "Editions": "\nF\u00f6rster,  Max. \n             \u201cDie Mittelenglische Sprichw\u00f6rtersammlung in Douce 52.\u201d \n             Festschrift zum XII Deutschen Neuphilolgentage in M\u00fcnchen\n                1906.\n            E. Stollreither, ed. \n         Erlangen (1906): 40-64: 49.\n",
+            "folio": "f. 21"
+        },
+        "RylandsLat394": {
+            "Transcription": "\nWho os hase an euel tongeeuer he spekes \u00feat is wronge\n",
+            "Note": "\nWritten on one line, as prose.",
+            "Editions": "\nPantin,  William A. \n             \u201cA Medieval Collection of Latin and English Proverbs\u2026from Rylands\n                Latin MS. 394.\u201d \n             Bulletin of the John Rylands Library\n         14 (1930): 81-114: 99.\n",
+            "folio": "f. 11"
+        }
+    }
+}

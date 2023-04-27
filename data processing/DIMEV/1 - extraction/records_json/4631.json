@@ -1,0 +1,61 @@
+{
+    "_id": 4631,
+    "_header": "Saint John tells us a tale",
+    "Note": "For the Narratio occurring separately see 5184; for the text of the Gospel in the \u2018expanded\u2019 Cycle see 4938.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Thomas of Canterbury, saint; sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Second Sunday after Epiphany in the Northern Homily Cycle, with a short Narratio, The Mother of St. Thomas of Canterbury",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nSaynte Ione tellis vs a taleIn \u00feis gospell of a\n                    bridale\u2026\n",
+            "Last Lines": "\n\u2026Oure lorde lene vs grace \u00feat we mayeDrink wyne wi\u00fe\n                    him \u00feat lastis aye\n",
+            "folio": "ff. 38-40"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Ion telle\u00fe vs a taleIn vr gospel of a\n                    Bruytdale\u2026\n",
+            "Last Lines": "\n\u2026Vr lord \u021dif vs grace \u00feat we mayDrinke wi\u00fe him\n                    wyn \u00feat laste\u00fe ay. Amen.\n",
+            "Attributed Title": "\nNupcie facte sunt in Cana Galilee (f. 176ra)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 176ra-176rc"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nSEynt Ione telles vs a taleIn oure godspelle of a\n                    bridale\u2026\n",
+            "Last Lines": "\n\u2026Ihesu til vs \u021dou birle \u00feis wyneIn \u00fei grete\n                    blisse \u00feat may noght fyne\n",
+            "Attributed Title": "\nDominica secunda post octavam epiphanie secundum Iohannem (p.\n                    61)",
+            "folio": "pp. 61-64"
+        },
+        "CULDd11": {
+            "First Lines": "\n\u2026And se\u00fe\u00fee whan men drunkin are\u00fean \u021dyue\n                    \u00feei hem wyn weykere\u2026\n",
+            "Last Lines": "\n\u2026oure lord \u021dyue vs grace \u00feat we maydrinke wi\u00fe\n                    him wyn pat lasti\u00fe ay\n",
+            "Note": "\nLines 1-48 missing due to lost folio.",
+            "folio": "ff. 67-68"
+        },
+        "CULGg531": {
+            "First Lines": "\nSant Iohn tels vs a taleIn oure gospell of a\n                    brydall\u2026\n",
+            "Last Lines": "\n\u2026Oure lord lene vs grace \u00feat we mayDrynk with hym wyne\n                    \u00feat lastes ay\n",
+            "Attributed Title": "\nDominica secunda Post octavas Epiphanie secundum Iohannem (f.\n                    37)",
+            "folio": "ff. 37-39"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nSaint Iohn telles vs a taileIn our gospell of a\n                    brydaile\u2026\n",
+            "Last Lines": "\n\u2026Our lorde len vs \u00feat we mayDrynk wyth hym wyne \u00feat\n                    lastes ay\n",
+            "folio": "ff. 35-37"
+        },
+        "EDCPCM": {
+            "First Lines": "\nsain Ion telles us a talleIn our godspel of a\n                    bridale\u2026\n",
+            "Last Lines": "\n\u2026Our lauerd len us \u00feat we maiDrinc wit him wyn \u00feat\n                    lastes ay\n",
+            "Attributed Title": "\nDominica prima post octavam epiphanie secundum Johannem (f.\n                    30ra)",
+            "Editions": "\n\nSmall,  John,\n                        ed.  \n             English Metrical Homilies\u2026.\n         Edinburgh: W. Paterson, 1862: 119-25.\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n\n",
+            "folio": "ff. 30ra-31ra"
+        },
+        "Lam260": {
+            "folio": "f. 14va"
+        },
+        "MinULZ822": {
+            "First Lines": "\nSeint Ion tellyth vs a taleIn oure gospell of a\n                    brydale\u2026\n",
+            "Last Lines": "\n\u2026Oure loueryd lene vs grace \u00feat we mayDryng with hym wyne\n                    \u00feat lestyth ay\n",
+            "folio": "ff. 27v-29v"
+        }
+    }
+}

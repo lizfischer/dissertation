@@ -1,0 +1,46 @@
+{
+    "_id": 644,
+    "_header": "As it befell of a rich king",
+    "Note": "For other MSS see 601 and 4973.",
+    "Title(s)": "Melancholy King; Northern Homily Cycle",
+    "Subjects": "exempla",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Oxford, Bodleian Library Arch. Selden B. 26 (SC 3340): f. 203v.",
+    "_description": "The Melancholy King, in the Northern Homily Cycle \u2014 in couplets",
+    "_witnesses": {
+        "BodSelSup52": {
+            "folio": "f. 203v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nAs hit bi fel of a riche kyng\u00deat neuer mihte lau\u021dwhe in\n                    gladyng\u2026\n",
+            "Last Lines": "\n\u2026Now God for \u00fei deiteTo good ende bring vs \u021dif\n                    \u00fei wille be. Amen.\n",
+            "Attributed Title": "\nHou a kyng ferde hys brothur wyt oon (f. 195vb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDie Evangelien-Geschichten der Homiliensammlung des Ms. Vernon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         57 (1877): 241-316: 279.\n",
+            "folio": "f. 195vb-195vc"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nAls it felle of a riche kyng\u00deat neuermore lough in no\n                    gladyng\u2026\n",
+            "Last Lines": "\n\u2026\u00deat we may thorewe tholemodnesCome to \u00feat blisse\n                    \u00feat es endles\n",
+            "Attributed Title": "\nNarracio de o reg[ ] dolente propter penam mort[ ] (p. 209, partly\n                    cropped)",
+            "folio": "pp. 209-211"
+        },
+        "CULDd11": {
+            "First Lines": "\nAs it be fel of a riche king\u00deat neuere myhte lawh in\n                    glading\u2026\n",
+            "Last Lines": "\n\u2026& bringe vs to \u00feat ilke blis\u00deer meke men\n                    wi\u00fe crist is\n",
+            "folio": "ff. 131v-132v"
+        },
+        "MinULZ822": {
+            "First Lines": "\nAls it fell of a ryche kynge\u00feat neuer myght laght in\n                    gladynge\u2026\n",
+            "Last Lines": "\n\u2026and brynge vs to \u00feat blystfull velde\u00feat crystyn men\n                    with cryste may welde\n",
+            "folio": "ff. 95v-96v"
+        },
+        "HunHM129": {
+            "First Lines": "\nAs hit fell off a ryche kynge\u00deat neuyr myght lagh in\n                    gladdynge\u2026\n",
+            "Last Lines": "\n\u2026And brynge vs to \u00feat blesfull belde\u00deat \u00feolmode\n                    men with crist schall welde\n",
+            "Note": "\nThis MS begins four lines earlier, with last four lines of 5955 treated as first four of\n                    this.",
+            "Attributed Title": "\nnarracio (f. 110)",
+            "folio": "ff. 110-111"
+        }
+    }
+}

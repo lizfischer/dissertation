@@ -1,0 +1,21 @@
+{
+    "_id": 5346,
+    "_header": "The Jews used of old custom",
+    "Note": "For the ordinary version see 5347.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "_description": "Gospel, \u2018Domnica prima post octavas epiphanie\u2019 (should be \u2018infra Octtavas Epiphanie\u2019), in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 118va"
+        },
+        "BLHar4196": {
+            "First Lines": "\n\u00dee iews vsed of ald customVnto ierusalem forto com\u2026\n",
+            "Last Lines": "\n\u2026His grace vnto vs here gif heThurgh prayer of his moder fre\n",
+            "Note": "\nPreceded by Latin, \u201cCum esset ihesu crist annorum duodecim\u201d; ends \u201cAmen.\u201d",
+            "Attributed Title": "\nRemansio Cristi in templo Dominica i post octobas epiphanie Euangelium secundum Lucam (rubric, ff. 31vb-32ra)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): I.272-279.\n",
+            "folio": "ff. 32ra-33ra"
+        }
+    }
+}

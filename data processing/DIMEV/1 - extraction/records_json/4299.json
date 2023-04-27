@@ -1,0 +1,21 @@
+{
+    "_id": 4299,
+    "_header": "Our Father in heaven I-hallowed be Thy name",
+    "Subjects": "Lord\u2019s Prayer",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Pater Noster in five couplets",
+    "_witnesses": {
+        "CamEmm27": {
+            "First Lines": "\nVre fader in heuene yhal\u021ded be \u00fey name\u00dey kynedom to\n                    us mote come fore \u00fear is blisse and game\u2026\n",
+            "Last Lines": "\n\u2026Led us neuere Louerd into no fondingeac Lus us vt of vuele\n                    and \u021dif us \u00fey blessinge\n",
+            "Note": "\nEnds, \u2018Amen id est so mote hit boe\u2019.",
+            "Attributed Title": "\nPater noster (f. 162ra)",
+            "Editions": "\nPerson,  Henry Axel. \n             Cambridge Middle English Lyrics.\n         Seattle: University of Washington Press, 1953; rev. ed. 1962: 27.\n",
+            "folio": "f. 162ra"
+        },
+        "Pavia": {
+            "Editions": "\n\nThomson,  S. H. \n             \u201cA Thirteenth-Century \u2018Oure Fader\u2019 in a Pavia\n                Manuscript.\u201d \n             Modern Language Notes\n         49 (1934): 235-51: 236.\nHussey,  Maurice. \n             \u201cThe Petitions of the Paternoster in Medieval English\n                Literature.\u201d \n             Medium \u00c6vum\n         27 (1958): 8-16: 10.\n\n",
+            "folio": "f. 41v"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "_id": 5638,
+    "_header": "Think man whereof thou art wrought",
+    "Subjects": "devotional verse",
+    "Versification": "\u2014 ten-line \u2014 ababababcc",
+    "_description": "A mystical poem \u2014 seven l0-line stanzas with an \u2018O and I\u2019 refrain",
+    "_witnesses": {
+        "BodDonC13": {
+            "First Lines": "\nThink man whar to \u00feou ert wro\u021dt \u00feat is sa wlonk in\n                    wedethink hou \u00feou was hidir bro\u021dt & of \u00fein end take\n                    hede\u2026\n",
+            "Last Lines": "\n\u2026With an o and an I do as I \u00fee lereIf \u021dou wil\n                    \u00feat solace se \u00feat seyntis syttis sere\n",
+            "Note": "\nAt the end: Explicit.",
+            "folio": "f. 166va"
+        },
+        "CULGg132": {
+            "First Lines": "\nThynk man qware off thou art wrought\u00feat art so wlonk in\n                    wadeThynk hou \u00feu art hedyr bought& of thyn end take\n                    hede\u2026\n",
+            "Last Lines": "\n\u2026With an O and an I thynk qwat I ye lereIff \u00feu wil\n                    \u00feat solace se \u00feer seyntis syttes sere\n",
+            "Editions": "\n\nBrunner,  Karl. \n             \u201cWith an O and an J. I.\u201d \n             Anglia\n         54 (1930): 288-91: 290-1.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 422; 1977, 439 (first four lines only).\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 256-8.\n\n",
+            "folio": "ff. 3-3v"
+        }
+    }
+}

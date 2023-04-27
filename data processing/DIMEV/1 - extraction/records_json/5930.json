@@ -1,0 +1,30 @@
+{
+    "_id": 5930,
+    "_header": "Thus musing in my mind greatly marveling",
+    "Subjects": "love, vicissitudes of",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "On a variable mistress \u2014 in eight-line stanzas",
+    "_witnesses": {
+        "CamFitzMus": {
+            "Note": "\nCambridge UK,  Fitzwilliam Museum Mus 1005 comprises the bottom half of the Drexel page\n                        (5903-3).",
+            "folio": "f. 1"
+        },
+        "BLAdd5465": {
+            "Editions": "\n\nSmith,  John Stafford. \n             A Collection of English Songs, composed about the year 1500.\n         London: Bland, 1779: no. 16.\nPearce,  Charles William. \n             A Collection of Songs and Madrigals by English Composers of the close\n                of the 15th Century.\nPlainsong and Medieval Music Society.\n         London: Quaritch, 1891: no. 4.\nFehr,  Bernhard. \n             \u201cDie Lieder des Fairfax MS (Add. 5465 Brit. Mus.).\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         106 (1901): 48-70: 56.\nStevens,  John,\n                        ed.  \n             Music and Poetry in the Early Tudor Court.\n         London: Methuen, 1961: 359.\nStevens,  John,\n                        ed.  \n             Early Tudor Songs and Carols.\nMusica Britannica\n         36. London: Stainer and Bell, 1975. \n\n",
+            "folio": "f. 24v"
+        },
+        "NYPLDrexFr4183": {
+            "Transcription": "\n\u2026love shuld comOn euery syde \u00fee way she pryde [ ][ ]\n                    thyng cowde flye nor gooBut styll went she yt had byn yeWhen hyt was\n                    no thyng sooWhen hyt was no thyng Soo[ ] love to comA dew my love\n                    I wyll remove[ ]yst wold I had ben doneWhen I so sone grant yow your\n                    boneSeyyng ye wyll not come seyng ye wyll not come\n",
+            "Note": "\nVariant; parts of two verses of a song; portions of pages cut away to\n                    fit as endleaves to seventeenth-century song book.",
+            "Editions": "\nStevens,  John,\n                        ed.  \n             Early Tudor Songs and Carols.\nMusica Britannica\n         36. London: Stainer and Bell, 1975. \n",
+            "folio": "f. 159"
+        },
+        "ChicagoUL253": {
+            "First Lines": "\nThus musyng in my mind gretly meuelynghow euer soch adauersete in\n                    one person may be\u2026\n",
+            "Last Lines": "\n\u2026Wherefore I thynke to haue a specyall remedyTo lett yt ouer\n                    pas & thynke ther on no more\n",
+            "Note": "\nInserted in a prose Brut.",
+            "Editions": "\nEdwards,  A. S. G. \n             \u201cAn Unrecorded Copy of Index of Middle English Verse 3724.5.\u201d \n             Notes and Queries\n         n.s. 43 [241] (1996): 403: 403.\n",
+            "folio": "f. 132v"
+        }
+    }
+}

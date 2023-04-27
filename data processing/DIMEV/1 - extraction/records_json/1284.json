@@ -1,0 +1,21 @@
+{
+    "_id": 1284,
+    "_header": "Father and Son and Holy Ghost / That I clepe and call most",
+    "Subjects": "prayers",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "A prayer for \u2018three boons\u2019 \u2014 fifteen 6-line stanzas",
+    "_witnesses": {
+        "BodRawlitg2": {
+            "First Lines": "\nffadur and sone & holi gost\u00feat i clepe & calle most\n                    \u2026\n",
+            "Last Lines": "\n\u2026And alle \u00feo \u00feat cristen beeAmen par\n                    charite\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 291-22.\n",
+            "folio": "ff. 58-62"
+        },
+        "BLAdd37787": {
+            "First Lines": "\nFader & son & holygostTo \u00fee I clepe & calle\n                    most\u2026\n",
+            "Last Lines": "\n\u2026And graunt me \u00feeose bonus &reAnd all \u00feat\n                    cristen be. Amen for charite.\n",
+            "folio": "ff. 142-143v"
+        }
+    }
+}

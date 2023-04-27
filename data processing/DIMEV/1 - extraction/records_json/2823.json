@@ -1,0 +1,21 @@
+{
+    "_id": 2823,
+    "_header": "Jesu Christ our Lord so sweet",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Saturday after Third Sunday in Lent, in the \u2018expanded\u2019 Northern Homily Cycle \u2014 in couplets",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 148va"
+        },
+        "BLHar4196": {
+            "First Lines": "\nIhesu crist oure lord so sweteWent to \u00fee mount of olyuete\u2026\n",
+            "Last Lines": "\n\u2026\u00feat lord be loued with more & les\u00feat so may wirk what his will es\n",
+            "Note": "\nPreceded by Latin, \u201cParexit ihesu crist in montem Oliueti.\u201d",
+            "Attributed Title": "\nSabbato post terciam dominicam quadragesime Secundum Iohannem (rubric, f. 52vb)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): II.90-93.\n",
+            "folio": "ff. 52vb-53rb"
+        }
+    }
+}

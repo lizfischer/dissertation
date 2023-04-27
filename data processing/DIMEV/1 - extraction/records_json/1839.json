@@ -1,0 +1,63 @@
+{
+    "_id": 1839,
+    "_header": "He may be thy boot",
+    "Subjects": "sermons, verse in",
+    "Versification": "\u2014 one-line",
+    "_description": "A tag in the Fasciculus morum, the introductory line to an aphorism",
+    "_witnesses": {
+        "Bod187": {
+            "Transcription": "\nfor he may be \u00fey bote& saue \u00fey synne\n",
+            "folio": "f. 178vb"
+        },
+        "Bod410": {
+            "Transcription": "\nHe may be \u00fei bote And bete \u00fei bale\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 58"
+        },
+        "BodLauMis213": {
+            "Transcription": "\nhe may be \u00fei bote & bete \u00fei synne & cetera\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 101"
+        },
+        "BodLauMis568": {
+            "Transcription": "\nhe may be \u00fey betteAnd bote \u00fey synne\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 71vb"
+        },
+        "BodRawC670": {
+            "Transcription": "\nHe may be \u00fey bote and bote \u00fey synne\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 203.\n",
+            "folio": "f. 100v"
+        },
+        "CamGon71": {
+            "Transcription": "\nhe may be \u00fei bote & bete \u00fei synne& sic\n                    sauaberis\n",
+            "Note": "\nIncomplete in this MS.",
+            "folio": "f. 64v"
+        },
+        "CamStJohn159": {
+            "Transcription": "\nhe may be \u00fei bot& bat \u00fei syn & sic\n                    saluabis\n",
+            "Note": "\nWritten as prose; lapses into Latin.",
+            "folio": "f. 130v"
+        },
+        "EDU82": {
+            "folio": "f. 126v"
+        },
+        "Lincoln44": {
+            "Transcription": "\nhe may be \u00fey bote et bot \u00fey syne & c[etera]\n",
+            "folio": "f. 204ra"
+        },
+        "Spalding": {
+            "Transcription": "\nHe may be thy bote & bote \u00fei syn\n",
+            "Note": "\nWritten as\n                    prose.",
+            "folio": "f. 106"
+        },
+        "WorcF19": {
+            "Transcription": "\nhe may be \u00fey bote & bete \u00fey sinne\n",
+            "Note": "\nWenzel lists as \u2018A\u2019 under \u2018Other English\n                    Phrases\u2019, Fasc. Morum p. 203; written as prose.",
+            "folio": "f. 205ra"
+        },
+        "VaticanOtto": {
+            "folio": "f. 65"
+        }
+    }
+}

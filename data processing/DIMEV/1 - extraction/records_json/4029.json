@@ -1,0 +1,28 @@
+{
+    "_id": 4029,
+    "_header": "O precious treasure incomparable",
+    "Author(s)": "Thomas Hoccleve",
+    "Title(s)": "La Male Regle de T. Hoccleue",
+    "Subjects": "advice, moral; dialogues",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "Thomas Hoccleve, La Male Regle de T. Hoccleue \u2014 fifty-six 8-line stanzas",
+    "_witnesses": {
+        "CantFrag": {
+            "First Lines": "\nI haue her[.] said of men ful [..]re agoThat pros[......] ys blynd\n                    ande se ne mayAnde ver[.]fye y may wel hit is so[..]r I myself haue\n                    put hit in a say\u2026\n",
+            "Last Lines": "\n\u2026hyt syttyth a god to be of grace freeffor yeue me lord and i\n                    no more wole trespace\n",
+            "Note": "\nFoliation refers to the most recent (pencil) foliation. Stanzas 5, 6, 9,\n                    10, 12, 14, 45, 44, 51 written separately as a ballade, added to flyleaf in the\n                    fifteenth century; f. 207 fire-damaged along outer edge, with loss of\n                    text.",
+            "Attributed Title": "\nBala[de] (f. 207v); A balade Anglice (Register P, index to both\n                    O and P)",
+            "Editions": "\n\n\nHistorical Manuscripts Commission Ninth Report: Calendar of the\n                Manuscripts of the Most Hon. The Marquis of Salisbury, K. G., etc., preserved at\n                Hatfield House, Hertfordshire.\n         24 vols. (1883-84, with addenda to 1976): App. 108 (2 stanzas only).\nSmith,  Reginald Anthony Lendon. \n             Canterbury Cathedral Priory.\n         Cambridge: at the UP, 1943: 198-9 (1 stanza only).\nTrudgill,  Marian,  and  J. A. Burrow.  \n             \u201cA Hocclevean Balade.\u201d \n             Notes & Queries\n         n.s. 45 (1998): 178-80: Lines 57-64 and 49-56 edited, textual variants for\n                        all lines given.\n\n",
+            "folio": "ff. 207v-208"
+        },
+        "HunHM111": {
+            "First Lines": "\nO precious tresor inconparableO ground & roote of\n                    prosperitee\u2026\n",
+            "Last Lines": "\n\u2026As may myn hurtes all \u00feat me greeueExyle cleene &\n                    voide me of pyne\n",
+            "Attributed Author": "\nCy ensuyt la male regle de T. Hoccleue (f.\n                    16v)",
+            "Attributed Title": "\nCy ensuyt la male regle de T. Hoccleue (f. 16v)",
+            "Facsimiles": "\nBurrow,  John,  and  A. I. Doyle, eds.  \n             Thomas Hoccleve: A Facsimile of the Autograph Verse\n                Manuscripts.\nEETS\n         s.s. 19 (2002). \n",
+            "Editions": "\n\nMason,  George,\n                        ed.  \n             Poems by Thomas Hoccleve Never Before Printed.\n         London: Roworth, 1796: 27.\nFurnivall,  Frederick James,\n                        ed.   Hoccleve\u2019s Works: The Minor Poems. vol. 1.  EETS\n         e.s. 61 (1892); repr. with Gollancz (1925)\nXGollancz,  Israel. \n             Hoccleve\u2019s Works: The Minor Poems. vol. 2.  EETS\n         e.s. 73 (1925); repr. with 61, 1970 73; rev. J.\n            Mitchell and A. Ian Doyle, 1970: 25-39).\nMorley,  Henry,\n                        ed.  \n             Shorter English Poems.\n         London, NY: Cassell, Petter, Galpin, 1876: 57-64.\nHammond,  Eleanor Prescott. \n             English Verse between Chaucer and Surrey.\n         Durham, NC: Duke UP, 1927: 60-6.\n\n",
+            "folio": "ff. 16v-26"
+        }
+    }
+}

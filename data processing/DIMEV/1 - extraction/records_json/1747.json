@@ -1,0 +1,15 @@
+{
+    "_id": 1747,
+    "_header": "Hail prince royal most amiable in sight",
+    "Subjects": "occasional verse; pageant verses; Arthur, prince of Wales",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Ceremonial verses at Coventry Pageant (1498) to welcome Prince Arthur \u2014 seven stanzas rhyme royal",
+    "_witnesses": {
+        "CovLeet": {
+            "First Lines": "\nHayle prynce roiall most amyable in sightWhom the Court eternall\n                    thurgh prudent governaunce\u2026\n",
+            "Last Lines": "\n\u2026That shuld your noble persone in eny wyse distraynWhich\n                    welcome is to this your chamber & to me right fayn\n",
+            "Editions": "\n\nSharp,  Thomas. \n             A Dissertation on the Pageants\u2026performed at Coventry.\n         Coventry: Merridew, 1825: 154-7.\nCraig,  Hardin,\n                        ed.  \n             Two Coventry Corpus Christi Plays.\nEETS\n         e.s. 87 (1902; 2nd ed. 1957); repr. 1967: 116-18.\nHarris,  Mary Dormer,\n                        ed.  \n             The Coventry Leet Book.\n             4 vols. in 2 \n             EETS\n         o.s. 134-5, 138, 146 (1907-13); repr. 1971: 589-91.\n\n",
+            "folio": "f. 281v"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "_id": 1713,
+    "_header": "Hail glorious Virgin ground of all our grace",
+    "Author(s)": "John Lydgate (attrib.)",
+    "Subjects": "hymns, to Virgin Mary; Virgin Mary, joys of",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "A hymn on the Five Joys, ascribed to an anchoress of Maunsfeld by Shirley (1713-1, Oxford, Bodleian Library Ashmole 59 (SC 6943)) and to Lydgate by Stow (1713-3, London, British Library Addit. 29729) \u2014 five 8-line stanzas",
+    "_witnesses": {
+        "BodAsh59": {
+            "First Lines": "\nHEille glorious virgyne grounde of al oure graceHeyle mayde and\n                    moder in virgyniteeHeyle whame \u00fee sone of god cheesse for his\n                    placeSent frome above \u00feane frome \u00fee faders\n                    place\u2026\n",
+            "Last Lines": "\n\u2026Heyle sawe to seeke vs synners sende socour\u00feees ioyes\n                    fyve surmountinge in oure mynde\n",
+            "Attributed Title": "\nNowe folowe\u00fee here nexst a devoute and holy salutacoun of oure ladye\n                    made by an holy Ankaresse of Maunsffeld (f. 68); An holy salutacoun by an\n                    Ankasse (RT)",
+            "Editions": "\nBarratt,  Alexandra,\n                        ed.  \n             Women\u2019s Writing in Middle English.\n         London: Longman, 1992: 277-9.\n",
+            "folio": "ff. 68-69v"
+        },
+        "BlCottCalAII": {
+            "First Lines": "\nHeyl gloryous virgyne ground of all our graceHeyl modere of crist\n                    in pure virginite\u2026\n",
+            "Last Lines": "\n\u2026Heyl salue to seke vs synners send socoureThese Ioyes fyve\n                    empryntynge in oure mynd\n",
+            "Note": "\nEnds \u2018Amen\u2019 at end of last line and \u2018Explicit\u2019\n                    in lower margin in scribe\u2019s hand, f. 135.",
+            "Attributed Title": "\nQuinque Gaudia (in upper margin, f. 135); Quinque vulnera quinque\n                        gaudia (f. 1, sixteenth-century list of contents, encompassing 6132 as well)",
+            "Editions": "\n\nMacCracken,  Henry Noble. \n             \u201cLydgatiana.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         131 (1913): 40-63: 49-50.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 53-4.\n\n",
+            "folio": "f. 135"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nHeyl gloryous virgyne ground of all owr graceheyl mother of cryst\n                    in pure virginite\u2026\n",
+            "Last Lines": "\n\u2026heyl salve to seke vs synners sende socourethes Ioyes fyve\n                    empryntynge in your mynde\n",
+            "Note": "\n: Ends, \u2018Amen / finis\u2019 (f. 131) by scribe (John\n                    Stow).",
+            "Editions": "\n\nMacCracken,  Henry Noble. \n             \u201cLydgatiana.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         131 (1913): 40-63: 49-50.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 53-4.\n\n",
+            "folio": "ff. 130v-131"
+        }
+    }
+}

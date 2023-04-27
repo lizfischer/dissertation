@@ -1,0 +1,14 @@
+{
+    "_id": 1427,
+    "_header": "Forsooth I shall praise thee",
+    "Subjects": "aphorisms; learning, value of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A tag translating Latin \u2018Nimirum a me licebis\u2026\u2019 which follows it, in a series of Latin sentences with English translations \u2014 one couplet",
+    "_witnesses": {
+        "OxfLinLat129": {
+            "Transcription": "\nffor so\u00fee I schal preyse \u00fee\u021dyf \u00feu spedilych teche\n                    me\n",
+            "Note": "\nIn a series of Latin sentences with English translations in a\n                    schoolbook; written as prose.",
+            "folio": "f. 93"
+        }
+    }
+}

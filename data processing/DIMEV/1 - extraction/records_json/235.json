@@ -1,0 +1,48 @@
+{
+    "_id": 235,
+    "_header": "After that harvest Inned had his sheaves",
+    "Author(s)": "Thomas Hoccleve",
+    "Title(s)": "Complaint",
+    "Subjects": "complaints; madness; frames, literary",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Thomas Hoccleve, \u2018Complaint,\u2019 first of several works in verse and prose that form Hoccleve\u2019s Series, followed by 508 \u2014 fifty-nine stanzas rhyme royal. For the full series, see 508, 2621, 4879, and 5663.",
+    "_witnesses": {
+        "BodLauMis735": {
+            "First Lines": "\nAffter \u00feat hervest ynned had his shevesAnd \u00feat \u00fee\n                    bronne sesoun of mighelmes\u2026\n",
+            "Last Lines": "\n\u2026ffor thi \u021destys and \u00fei benefices allAnd vn to\n                    \u00fei mercy and grace I call\n",
+            "folio": "ff. 1-5"
+        },
+        "BodSelSup53": {
+            "First Lines": "\nAftir tat heruest Inned had hise sheuesAnd that the groun sesoun of\n                    Mihelmesse\u2026\n",
+            "Last Lines": "\n\u2026And thi \u021distis and benefices alleAnd vn to thi mercy and\n                    grace I calle\n",
+            "Editions": "\nGray,  Douglas. \n             The Oxford Book of Late Medieval Verse and Prose.\n         Oxford: Clarendon, 1985: 56-8.\n",
+            "folio": "ff. 76;  78-83v"
+        },
+        "Bod221": {
+            "First Lines": "\nAfter \u00feat herveste ynned had his schevesAnd \u00feat \u00fee\n                    broune sesoun of unghelmesse\u2026\n",
+            "Last Lines": "\n\u2026ffor \u00fei \u021deftis and thy benefaces allAnd vnto thy\n                    mercy and grace I call\n",
+            "Attributed Title": "\nHere endith my complaynte and begynnes a dialogg (f.\n                    6v)",
+            "folio": "ff. 1-6v"
+        },
+        "CovAcc3251": {
+            "First Lines": "\nAffter \u00fee hevest ynned had his shevesAnd \u00feat the brome\n                    sesoun of myghelmasse\u2026\n",
+            "Last Lines": "\n\u2026ffor thy yifftis and thi benefites allAnd vn to \u00fei\n                    mercie and grace I call\n",
+            "Attributed Title": "\nIncipit prologus de Incendio Amoris (f. 40rb); hic\n                        finit questus siue planctus Thome Occleue (f. 43rb)",
+            "folio": "ff. 40rb-43rb"
+        },
+        "DULCosViii9": {
+            "First Lines": "\nAfter that hervest Inned had his shevesand that the brome season of\n                    myhelmesse\u2026\n",
+            "Last Lines": "\n\u2026for thy giftes and benefices allAnd vnto thy mercye and grace\n                    I sall\n",
+            "Attributed Author": "\nThomas hocclive (f. 3)",
+            "Facsimiles": "\nBurrow,  John,  and  A. I. Doyle, eds.  \n             Thomas Hoccleve: A Facsimile of the Autograph Verse\n                Manuscripts.\nEETS\n         s.s. 19 (2002). \n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.   Hoccleve\u2019s Works: The Minor Poems. vol. 1.  EETS\n         e.s. 61 (1892); repr. with Gollancz (1925)\nXGollancz,  Israel. \n             Hoccleve\u2019s Works: The Minor Poems. vol. 2.  EETS\n         e.s. 73 (1925); repr. with 61, 1970 73; rev. J.\n            Mitchell and A. Ian Doyle, 1970: 95-110.\n",
+            "folio": "ff. 3-8v"
+        },
+        "YaleBei493": {
+            "First Lines": "\nAffter \u00feat Hervest ynned Had His shevesAnd \u00feat \u00fee\n                    broune sesoun of Mighelmesse\u2026\n",
+            "Last Lines": "\n\u2026ffor thy \u021defftys and thy benefices allAnd vn to thy\n                    mercy and grace I call\n",
+            "Attributed Title": "\nHere endith my compleynt and begynneth a dialogg (f.\n                    6v)",
+            "folio": "ff. 1-6v"
+        }
+    }
+}

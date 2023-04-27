@@ -1,0 +1,63 @@
+{
+    "_id": 3348,
+    "_header": "Man for mischief thou thee amend",
+    "Note": "For the Prologue see 317.",
+    "Subjects": "adultery, tales of; tales",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "Bibliographic Ghosts": "",
+    "_description": "Story of the adulterous Falmouth Squire \u2014 49 quatrains (abab)",
+    "_witnesses": {
+        "BodRawPoe118": {
+            "First Lines": "\nMan of \u00fei myschefe \u00feou \u00fee amendeAnd to my termys\n                    \u00feou take goode hede\u2026\n",
+            "Last Lines": "\n\u2026And graunt vs grace aftyr \u00fei wylleTo be welwar of ffows\n                    breche\n",
+            "Editions": "\n\nHorstmann,  Carl. \n             \u201cNachtr\u00e4ge zu den Legenden 5: The Messengers of Death.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         79 (1887): 411-70: 419.\nShuffleton,  George. \n             Ashmole 61: A Compilation of Popular Middle English Verse.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008: 351-6; 558-64; 623.\n\n",
+            "folio": "ff. 113v-116"
+        },
+        "BodAsh61": {
+            "First Lines": "\nMan fro myscheff thou thee amend\n                    And to my talkyng thou take god hede\u2026\n",
+            "Last Lines": "\nFro dedly synne God thee defende\n                    And unto blys thi saull schall fare\n                    Amen quod Rate\u2026\n",
+            "Attributed Author": "\nAmen quod Rate (f. 138v)",
+            "Editions": "\nShuffleton,  George. \n             Ashmole 61: A Compilation of Popular Middle English Verse.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008: Item 35b.\n",
+            "folio": "ff. 136v-138v"
+        },
+        "CULEe435a": {
+            "First Lines": "\nThe elder to hel toke the weyThe yonger to paradeys\n                    vreyte\u2026\n",
+            "Last Lines": "\n\u2026fro dedeley syn thaw the defendeAnd streyyt to bles they\n                    sowle schall ffare\n",
+            "Note": "\nWanting lines 1-70.",
+            "folio": "ff. 1-2v"
+        },
+        "CULFf238": {
+            "First Lines": "\nMan for myschefe \u00feu \u00fee amendeAnd to my talkyng \u00feu\n                    take gode hede\u2026\n",
+            "Last Lines": "\n\u2026ffro dedely synne \u00feu the defendeAnd streght to blys\n                    \u00fey soule shall fare\n",
+            "Facsimiles": "\nMcSparran,  Frances,  and  Pamela R. Robinson.  \n             \u201cIntroduction.\u201d \n             Cambridge University Library MS Ff.2.38.\n         London: Scolar Press, 1979. \n",
+            "Editions": "\nWright,  Thomas. \n             \u201cAnecdota Literaria: Legendary Poem, From MS. Bibl. Publ. Cantab.\n                Ff.ii.38, of the Fifteenth Century.\u201d \n             Retrospective Review\n         2 (Nov., 1853): 101-4. \n",
+            "folio": "ff. 56rb-57va"
+        },
+        "CULFf548": {
+            "First Lines": "\nMan for thy myschif \u00feu the amendAnd to my talkyng \u00feu take\n                    god [h]ede\u2026\n",
+            "Last Lines": "\n\u2026ffro dedly synne \u00feu \u00fee defendeAnd streght to blisse\n                    \u00fei saule shall fare\n",
+            "Editions": "\n\nHartshorne,  Charles Henry. \n             Ancient Metrical Tales.\n         London: W. Pickering, 1829: 169.\nLeonard,  A. L. \n             \u201cZwei mittelenglisch Geschichten aus der H\u00f6lle.\u201d \n         Diss. Zurich, 1891: 51.\nDowning,  Janay Young A.,\n                        ed.  \n             \u201cA Critical Edition of Cambridge University MS Ff.5.48.\u201d \n         2 vols. Diss. University of Washington, 1969: 186-95.\n\n",
+            "folio": "ff. 48;  67-70"
+        },
+        "BLHar5396": {
+            "First Lines": "\nMan for myschefe \u00feu \u00fee amendeAnd to my talkyng \u00feu take god hede\u2026\n",
+            "Last Lines": "\n\u2026ffro dedly synne \u00feu \u00fee defendeAnd stre\u021dt to blysse \u00fey sowle schall fare\n",
+            "Note": "\nEnds \u201cExplicit.\u201d",
+            "Attributed Title": "\nA tale against [\u00a0]edlock breking (added to upper margin by a later hand, f. 276)",
+            "folio": "ff. 276-280v"
+        },
+        "Lam306": {
+            "First Lines": "\nMan ffrome myschefe thou \u00fee a mendeAnd to my talkynge thou\n                    take gode hede\u2026\n",
+            "Last Lines": "\n\u2026ffrom dedely synne thou the defendeAnd stryghte to blisse thi\n                    soule shall fare\n",
+            "Attributed Title": "\nExplicit (f. 110); a story of too skwyrys that were brethern the\n                    wyche dwellyd here yn / ynglond yn the towne of ffalmowtht yn\n                    Dorsetschere the tone / was dampnyd for brekyng of his wedlock the tother was\n                    sauyd (f. 110, in a hand different from that of the scribe)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Political, Religious and Love Poems, from Lambeth MS. 306 and other\n                sources.\nEETS\n         o.s. 15 (1866); repr. 1962; rev. ed. 1903: 96-102; rev. ed. 126-32.\n",
+            "folio": "ff. 107-110"
+        },
+        "TokyoTak32": {
+            "First Lines": "\n[m]an of thy myschef thee amendeAnd of this mater take good\n                    hede\u2026\n",
+            "Last Lines": "\n\u2026That wee may with Awngelys bryghtteIn heuene blysse with\n                    owten eende\n",
+            "Attributed Title": "\nHere begynnyht a tale of the dignite of / wedlok and of thee\n                    perelis that is in / thee brekynge ther offe (f. 162v)",
+            "folio": "ff. 162vb-164ra"
+        }
+    }
+}

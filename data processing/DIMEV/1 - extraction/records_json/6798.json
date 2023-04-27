@@ -1,0 +1,62 @@
+{
+    "_id": 6798,
+    "_header": "Worship women wine and unwieldy age",
+    "Note": "For closely related texts see 5558 and 5559; same as stanza 2 of 4006; this poem does not occur in London, British Library Addit. 16165 or in London, British Library Addit. 34360 [olim Phillipps 9053], pace MacCracken (1934)\nXMacCracken, Henry Noble. John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS o.s. 192 (1934); repr. 1961, xvii.",
+    "Author(s)": "John Lydgate (?)",
+    "Subjects": "women, against; advice, moral; old age; wine",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "Bibliographic Ghosts": "; London, British Library Addit. 16165 ; London, British Library Addit. 34360 [olim Phillipps 9053]",
+    "_description": "Four things that make a man fall from Reason, perhaps by Lydgate \u2014 one stanza rhyme royal",
+    "_witnesses": {
+        "BodAsh59": {
+            "folio": "f. 72"
+        },
+        "BodFair16": {
+            "Transcription": "\nWurship wommen wyne vnweldy ageMaken men to foune for lakke of ther\n                    resounElde causeth dulnesse and dotageWorship causeth chaunge of\n                    condiciounExcesse of wyne blyndeth discreciounAnd bookes alle that\n                    Poetes wroot and raddeSeyn women moste maken men to madde\n",
+            "Attributed Title": "\nQuatuor infatuant honor etas femina vinum (f. 195)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 709.\n",
+            "folio": "f. 195"
+        },
+        "CamTCC599": {
+            "First Lines": "\nWyne women worshyp vnweldy ageMake men to foune for lak of theyre\n                    resons\u2026\n",
+            "Facsimiles": "\n\nFletcher,  Bradford Y. \n             \u201cIntroduction.\u201d \n             Manuscript Trinity R.3.19. A Facsimile.\n         Norman, OK: Pilgrim, 1987. \n\nDigital Facsimile of Trinity College Cambridge MS R.3.19.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.19. \n\n",
+            "Editions": "\nSkeat,  Walter William. \n             The Chaucer Canon.\n         Oxford: Clarendon, 1900: 24.\n",
+            "folio": "f. 205v"
+        },
+        "BLHar116": {
+            "Transcription": "\nWorship women wyne and vnweldy age Make men foune for lak\n                    of thir resonsElde causith dulnesse and dotageWorship causeth chaunge\n                    of condicionsExcesse of wyne blyndeth discrecionsAnd bokes that poetys\n                    wrote and raddeSeyn that women most make men madde\n",
+            "Attributed Title": "\nFour thyngys that make a man to falle (f. 125)",
+            "Editions": "\nF\u00f6rster,  Max. \n             \u201cKleine Mitteilungen zur mittelenglische Lehrdichtung, VI.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         104 (1900): 293-309: 301 (MS cited incorrectly as BL Harley\n                        4733).\n",
+            "folio": "f. 125"
+        },
+        "BLHar2251": {
+            "First Lines": "\nWorship wymmen wyne and vnweldy ageMake men fonde for lak in theyr\n                    Reason\u2026\n",
+            "Last Lines": "\n\u2026And bookes that poetis wrote and RaddeSay women most make men\n                    to be madde\n",
+            "Attributed Author": "\nNote wele this / ffoure thynges ther ben that make / a man to falle from\n                    Reasoun / Quatuor infatuam honor / Etas femina & vinum / Ye wilbe\n                    shent Dane Iohn / Lydegate for your triew seyeng (f. 150v,\n                    margin)",
+            "Editions": "\nBrusendorff,  Aage. \n             The Chaucer Tradition.\n         Copenhagen, 1925; repr. Oxford: Clarendon, 1967: 465.\n",
+            "folio": "f. 150v"
+        },
+        "BLHar7578": {
+            "Transcription": "\nWorshipe women wine unwisely ageMaketh men to fonne for lake of\n                    theire resonElde causeth dulnesse and dotageWorshipe causeth chaunge\n                    of conditiounsExcesse of wine blyndeth discrecionAnd bookes alle that\n                    poeetes wrote & raddeSeyne wimmen most maken men to maade\n",
+            "Attributed Title": "\nQuatuor infatuant honor etas femma vinum (f. 20)",
+            "folio": "f. 20r2"
+        },
+        "NLS1931": {
+            "First Lines": "\nWorship wemen wyne & vnweldy agemakithe men to fon for lak in\n                    \u00fear resons\u2026\n",
+            "Last Lines": "\n\u2026And bookes that poyettes wrot and raddsaythe women makithe\n                    men foll oftte to be made\n",
+            "Facsimiles": "\nHardman,  Phillipa. \n             The Heege Manuscript: A Facsimile of National Library of Scotland MS\n                Advocates 19.3.1.\n         Leeds Texts and Monographs, n.s. 16. Leeds: School of English,\n            2000. \n",
+            "folio": "f. 175"
+        },
+        "PierpontM775": {
+            "Editions": "\nB\u00fchler,  Curt F.,\n                        ed.  \n             The Dicts and Sayings of the Philosophers.\nEETS\n         o.s. 211 (1941); repr. 1991: 368.\n",
+            "folio": "f. 320"
+        },
+        "CopenThott110": {
+            "Attributed Title": "\n\nQuattuor infatuant hominem; honor Etas Femina et vinum\n",
+            "folio": "f. 164"
+        },
+        "RomeEC1306": {
+            "folio": "f. 75"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "_id": 134,
+    "_header": "A noble story writ I find / A pope that wrote\u2026",
+    "Note": "For other MSS see 2777 and 4979.",
+    "Author(s)": "Saint Gregory",
+    "Title(s)": "The Trentale of St Gregory",
+    "Subjects": "Trental of St Gregory; Gregory, saint; exempla",
+    "_description": "The Trentale of St Gregory",
+    "_witnesses": {
+        "BlCottCalAII": {
+            "First Lines": "\nA nobull story wryte y fyndeA pope hit wrote to haue yn\n                    mynde\u2026\n",
+            "Last Lines": "\n\u2026Pray we all hit may so beAnd say Amen for charyte\n",
+            "Note": "\n\u2018Explicit\u202d by scribe in lower margin, f.\n                    88ra.",
+            "Attributed Title": "\nTrentale sancti gregorii (f. 86vb, by scribe in upper\n                    margin); Trentale (as RT on f. 87v); The Trentall of St Gregory (f.\n                    1, sixteenth-century list of contents)",
+            "folio": "ff. 86vb-88ra"
+        },
+        "NLWPen394": {
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             Political, Religious and Love Poems, from Lambeth MS. 306 and other\n                sources.\nEETS\n         o.s. 15 (1866); repr. 1962; rev. ed. 1903: 114-33.\nHorstmann,  Carl,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 1.\nEETS\n         o.s. 98 (1892; repr. 1973): 260-8.\n\n",
+            "folio": "p. 33"
+        }
+    }
+}

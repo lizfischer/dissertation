@@ -1,0 +1,18 @@
+{
+    "_id": 5670,
+    "_header": "This cross that here painted is",
+    "Subjects": "illustrations, verse accompanying; cross",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Text attached to a picture of the Rood of Bromholm",
+    "_witnesses": {
+        "CamFitz55": {
+            "Transcription": "\nThys cros that heyr peyntyd isSyng of the cros of bromholm\n                    is\n",
+            "Note": "\nWritten onto right and left sides of frame around illustration of the\n                    cross of Bromholm.",
+            "Editions": "\nJames,  Montague Rhodes. \n             A Descriptive Catalogue of Manuscripts in the Fitzwilliam\n                Museum.\n         Cambridge: at the UP, 1895: 139.\n",
+            "folio": "f. 57v"
+        },
+        "PriO4": {
+            "folio": "Prayer roll"
+        }
+    }
+}

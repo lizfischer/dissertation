@@ -1,0 +1,25 @@
+{
+    "_id": 5128,
+    "_header": "That blissful bairn in Bethlehem born",
+    "Subjects": "mass, virtues of",
+    "Versification": "\u2014 five-line \u2014 aabab",
+    "_description": "The Virtues of the Mass \u2014 281 5-line stanzas",
+    "_witnesses": {
+        "BodAddA268": {
+            "First Lines": "\nThat blesset barn in ledlem borne\u00feat let his brayne be thrille\n                    with thorneffor mones mysdedeLet neuer \u00feer saules thur\u021d syn\n                    be lorne\u2026\n",
+            "Last Lines": "\n\u2026That barne best bryng vs to blisWith hym to belde\n",
+            "folio": "ff. 139rb-145vb"
+        },
+        "BLRoy17Cxvii": {
+            "First Lines": "\n[\u00de]At blyssful barme in bedlem borne\u00feat lete hys brayne\n                    be thyrled with thorneffor mans myd dede\u2026\n",
+            "Last Lines": "\n\u2026he pyght saynt clement a pope I wyus\u00feat barne best bryng\n                    vs to blyswyt hym to beyldNow as I wretyn to more &\n                    lesseVycis[?] & vertus of \u00fee messeAls wele as \u00feat I\n                    kanffor my syght es ay warsse\u00feer for blame me no man\n",
+            "folio": "ff. 155v-162v"
+        },
+        "YaleBei317": {
+            "First Lines": "\nThat blyssyd childe yn bedlem born\u00feat suffred his brayn be\n                    \u00feirlyd with \u00feornffor mannys mysdede\u2026\n",
+            "Last Lines": "\n\u2026The childe \u00feat best ys brynge vs to blys with hym to\n                    byelde\n",
+            "Attributed Title": "\nHere folowyth \u00fee medys and grace \u00feat is gevyn vnto theym \u00feat\n                    devoutly heryth \u00fee masse (f. 22); Explicit modus audiendi missam cum\n                        indulgencia eiusdem Deo gracias (f. 27v)",
+            "folio": "ff. 22-27v"
+        }
+    }
+}

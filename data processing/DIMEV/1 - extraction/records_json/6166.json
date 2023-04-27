@@ -1,0 +1,66 @@
+{
+    "_id": 6166,
+    "_header": "We find written of Saint Bernard",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Bernard of Clairveaux, saint",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Pater noster for St. Bernard\u2019s palfrey, a Narratio in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nWe find writen of saynte bernarde\u00feat anes fore to a cytee\n                    warde\u2026\n",
+            "Last Lines": "\n\u2026Oure lorde fullfill oure langyngeAnd till his blisse he vs\n                    all bringe Amen .\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 61v-62v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nWE fynde I write \u00feat seynt BernardEode enes to a Cite\n                    ward\u2026\n",
+            "Last Lines": "\n\u2026Vre lord folfulle vre longyngeAnd to his blisse vs alle\n                    brynge\n",
+            "Attributed Title": "\nPater noster for seynt bernardes palfray (f.\n                    180vb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDie Evangelien-Geschichten der Homiliensammlung des Ms. Vernon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         57 (1877): 241-316: 261.\n",
+            "folio": "f. 180vb1"
+        },
+        "CULAdd8335": {
+            "folio": "p. 114"
+        },
+        "CULDd11": {
+            "folio": "f. 88v"
+        },
+        "CULGg531": {
+            "folio": "f. 59"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nWe fynde wryten \u00feat saint barnardWent a tyme to a cety\n                    ward\u2026\n",
+            "Last Lines": "\n\u2026Oure lorde fullfill oure langyngeAnd to \u00fee blys of heuen\n                    vs brynge\n",
+            "folio": "ff. 60v-61v"
+        },
+        "BLCottTibEVII": {
+            "folio": "f. 137ra"
+        },
+        "BLHar2391": {
+            "First Lines": "\nWe fynd wretyn of Sayn barnarde\u00feat ones to a cyte he farde\u2026\n",
+            "Last Lines": "\n\u2026Owr lord fulfyld owre longyngAnd tyll hys blys he vs all bryng\n",
+            "Note": "\nEnds \u201cAmen.\u201d",
+            "Attributed Title": "\nDominica in quinquagesima (left margin, f. 173), plus \u201cA tale\u201d written above this",
+            "folio": "ff. 173-174"
+        },
+        "BLHar4196": {
+            "First Lines": "\nWe find wretin of saint bernardHow he went vnto a cete ward\u2026\n",
+            "Last Lines": "\n\u2026And heue oure hertes in heuyn king\u00fean will he grant vs oure asking\n",
+            "Attributed Title": "\nNarracio de sancto bernardo (rubric, f. 41rb)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): II.28-30.\n",
+            "folio": "ff. 41rb-41vb"
+        },
+        "Lam260": {
+            "folio": "f. 22vb"
+        },
+        "MinULZ822": {
+            "First Lines": "\nWe fynde wrytene \u00feat saynte barnardeWente a tyme till a cyte\n                    warde\u2026\n",
+            "Last Lines": "\n\u2026oure lorde fulfyll oure langyngeand tyll hys blys vs all\n                    brynge\n",
+            "folio": "ff. 36v-37"
+        },
+        "HunHM129": {
+            "folio": "f. 56"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "_id": 292,
+    "_header": "Alas mourning I sing mourning I call",
+    "Subjects": "mystery plays, English songs in; songs",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Fragment of an English song [\u2018cantant\u2019] in the Cornish mystery play of the Three Marys in the Ordinale de Resurrexione Domini Nostri Jhesu Christi",
+    "_witnesses": {
+        "Bod791": {
+            "Transcription": "\nellas mornyngh y syngh mornyng y calour lord ys deyd that bogthe ovs\n                    al\n",
+            "Note": "\n\u2018Cantant\u2019 in left margin against text; 1695 English\n                    trans. in Oxford,  Bodleian Library Corn e.2 (SC 28556), p. 278; 1695 Cornish transcript in Oxford,  Bodleian Library Corn. e.3 (SC 28557), p. 427",
+            "Editions": "\n\nNorris,  Edwin. \n             The Ancient Cornish Drama.\n         Oxford: UP, 1859; repr. New York: Blom, 1968: 2.58, 60.\nPeter,  Thurstan Collins. \n             The Old Cornish Drama.\n         London: Stock, 1906: 31.\nHalliday,  Frank Ernest,\n                        ed.  \n             The Legend of the Rood\u2026from the Cornish Miracle Plays.\n         London: Duckworth, 1955: 13.\nRobbins,  Rossell Hope. \n             \u201cMiddle English Lyrics: Handlist of New Texts.\u201d \n             Anglia\n         83 (1965): 35-47: 39.\n\n",
+            "folio": "f. 64v"
+        }
+    }
+}

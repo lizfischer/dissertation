@@ -1,0 +1,33 @@
+{
+    "_id": 2525,
+    "_header": "In June when Titan was in the Crabs head",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018A Sayenge of the Nyghtyngale\u2019",
+    "Subjects": "dream poems; Christ, sufferings of; Christ, love to sinners",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lydgate, \u2018A Sayenge of the Nyghtyngale\u2019 \u2014 fifty-four stanzas rhyme royal",
+    "_witnesses": {
+        "CamTCC600": {
+            "First Lines": "\nIn Juygne whan Tytan was in \u00fee Crabbes hedTowardes even\n                    \u00fee saphyre huwed sky\u2026\n",
+            "Last Lines": "\n\u2026As flour eerdeyned for to releeve manWhich bare \u00fee frut\n                    \u00feat sloughe our foo Sathan\n",
+            "Attributed Title": "\n\u2026and filowing nowe here nexst beginne\u00fee a seying of \u00fee\n                    Nightingale ymagyned and compyled by lydegate daun Johan \u00fee Monk of Bury\n                    (p. 337); A devoute meditacion made by Lidegate of \u00fee Nightyngale\n                    (RT)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 221-34.\n",
+            "folio": "pp. 347-348"
+        },
+        "BLHar2251": {
+            "First Lines": "\nIN Iune whan Titan was in Crabbes hedeTowardes Even the Saphyre\n                    huwed sky\u2026\n",
+            "Last Lines": "\n\u2026As flour ordeyned for to Releve manWhiche bare the fruyt that\n                    slough oure foo Sathan\n",
+            "Attributed Author": "\nOf this Balade Dan Iohn / lydgate made nomore (f.\n                    234v)",
+            "Editions": "\nGlauning,  Otto,\n                        ed.  \n             Lydgate\u2019s Two Nightingale Poems.\nEETS\n         e.s. 80 (1900); repr. 1987: 16-28.\n",
+            "folio": "ff. 229-234v"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nIn Iuygne whan tyton was in \u00fee crabes hedtowardes euen \u00fee\n                    saphyre huwed sky\u2026\n",
+            "Last Lines": "\n\u2026as flour ordayned for to releue manwhich bore \u00fee frute\n                    \u00feat slough our foo sathan\n",
+            "Note": "\nIn heading, false start to writing \u2018Iohn\u2019 before\n                    \u2018daune\u2019 is crossed through.",
+            "Attributed Author": "\ndaune Iohn lidgate (f. 161)",
+            "Attributed Title": "\nhere folowinge begynneth a sayenge of \u00fee nightingalle Imagened and\n                    cumpyled by I daune Iohn lidgate (f. 161)",
+            "folio": "ff. 161-166"
+        }
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "_id": 3127,
+    "_header": "Litany is a song as ye may oft I-see",
+    "Title(s)": "Letania maior et minor; South English Legendary",
+    "Subjects": "litanies",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018Letania maior et minor\u2019, in the South English Legendary \u2014 56 lines",
+    "_witnesses": {
+        "BodLauMis463": {
+            "First Lines": "\nLEtanie is a song \u00feat \u021de mowe ofte seoto bidde eche halwe\n                    aftur o\u00feer oure help to beo\u2026\n",
+            "Last Lines": "\n\u2026\u00fee feste of holy thorsday & eke of witsondayIn\n                    \u00fee gospell who so loke \u00feere he it finde may\n",
+            "Note": "\nTwo columns per page, one full-line, the other half-line.",
+            "folio": "ff. 42va-42vb"
+        },
+        "Bod779": {
+            "First Lines": "\nLetanye is asong as \u021de mowe ofte I seto bidde ech halwe after\n                    o\u00feer oure help for to be\u2026\n",
+            "Last Lines": "\n\u2026 \u00deat we holde so \u00feis precessionis & \u00fee fasting\n                    witoute synne\u00feat frut an er\u00fee com wel for\u00fe to helping to\n                    alle man kinne\n",
+            "Note": "\nNo heading so treated as part of 4697.",
+            "folio": "ff. 143v-144"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nLetanye is a song \u00feat \u021de mouwen ofte i seoTo bidde vche\n                    seint aftur o\u00feur vre help forto beo\u2026\n",
+            "Last Lines": "\n\u2026Nou for \u00feulke hei\u021de feste \u00feat is Godes soneLet\n                    vs vr sunnes bete her \u00fee fend to ouercome. A.M.E.N.\n",
+            "Note": "\nHere treated as continuation of 5287.",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 19va2"
+        },
+        "BodAsh43": {
+            "First Lines": "\nLEtanye is asong as \u021de mowe ofte iseTo bidde ech halwe after\n                    o\u00feer our help uorte be\u2026\n",
+            "Last Lines": "\n\u2026Vor it nys no neode wenne hi be\u00fe \u00feer to sette hem here\n                    alsoVor sette hem here & ek \u00feer it nere no\u021dt wel\n                    ido\n",
+            "Attributed Title": "\nletany (f. 61)",
+            "folio": "ff. 61-62"
+        },
+        "BodTan17": {
+            "First Lines": "\nAfterward \u00fee fourti\u00fee \u00feat he ros fro de\u00fe to\n                    lyueHe steigh in to heuyn with his woundis fyueAs it falli\u00fe on\n                    halwe \u00feorisday \u00feat he gan to heue sty\u021deBut arst holi chirche\n                    halt \u00fee feste of letanyeLetanye is a song as \u021de moun ofte I\n                    seTo bidde eche halwe aftir o\u00feer oure help for to\n                    be\u2026\n",
+            "Last Lines": "\n\u2026\u00feat we holde so \u00fee processiouns & \u00fee fasting\n                    wit oute sinne\u00feat \u00fee frut on er\u00fee come wel for\u00fe to\n                    helpe of man kinne\u2026\n",
+            "Note": "\nBegins f. 77, mid-page, possibly a longer unique version, describing two\n                    feasts of litany, one the greater \u2014 St. Mark\u2019s Day and one the\n                    lesser \u2014 Rogation; ending imperfectly at bottom f.\n                    77v.",
+            "folio": "ff. 77-77v"
+        },
+        "BodAddC38": {
+            "folio": "f. 105"
+        },
+        "OxfTri57": {
+            "First Lines": "\nLetanie ys a song \u00feat \u021de mowe ofte y seoTo bidde ech\n                    halwe after o\u00feer oure help for to beo\u2026\n",
+            "Last Lines": "\n\u2026ffor it nys no ned whanne hy bu\u00fe \u00feer to sette hem here\n                    al soffor to sette hem here & ek \u00feereit were no\u021dt wel y\n                    do\n",
+            "Note": "\nWritten as stanzas of 6 lines, aabbcc.",
+            "Attributed Title": "\nA rogaciones (RT)",
+            "folio": "f. 33v"
+        },
+        "CamCCC145": {
+            "First Lines": "\nLetanie is a song as \u021de mowe\u00fe ofte iseTo bidde ech halwe\n                    after o\u00feer oure help forto be\u2026\n",
+            "Last Lines": "\n\u2026ffor it nis no neod wanne hi beo\u00fe \u00feere to sette is here\n                    alsofforto sette is here & eke \u00feere hit nere no\u021dt wel\n                    ido\n",
+            "Attributed Title": "\nLetanie maior et minor (f. 60v)",
+            "folio": "ff. 60v-61v"
+        },
+        "CamMagPep2344": {
+            "First Lines": "\nLetanye is a song as \u021de mowe ofte yseoTo bydde ech halwe after\n                    o\u00feer oure help ffor to beo\u2026\n",
+            "Last Lines": "\n\u2026ffor hit nys no neod whan hi beo\u00fe \u00feer to sette ham her\n                    alsoTo sette ham her and eke \u00feer hit nore no neode to do\n",
+            "Attributed Title": "\nLetanya (RT)",
+            "folio": "pp. 261-262"
+        },
+        "CamStJohn28": {
+            "First Lines": "\nletany\u021de is a song as \u021de moun oftyn seto prey\u021de\n                    euery seynt after o\u00feer \u00feat he oure helpe be\u2026\n",
+            "Last Lines": "\n\u2026\u00fee feste of holy \u00ferusday & eke of witsonedayIn\n                    \u00fee gospel ho so loki\u00fe \u00feer hem fynden he may\n",
+            "Note": "\nFollowed by \u2018Ioachym & Anne\u2019 referring reader to go back\n                    to folio 25 to contiue text.",
+            "Attributed Title": "\nRose (f. 83v)",
+            "folio": "ff. 83-83v"
+        },
+        "CamTCC605": {
+            "First Lines": "\nLEtanie is a songe as \u021de mowe wel yseTo bydde echehalwe after\n                    o\u00feer oure helpe to be\u2026\n",
+            "Last Lines": "\n\u2026God for loue of seint marke ous \u021dyue here suche\n                    grace\u00deat we mot in heuene at oure ende habbe a place\n",
+            "Facsimiles": "\n\nDigital Facsimile of Trinity College Cambridge MS R.3.25.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.25. \n",
+            "folio": "ff. 62-62v"
+        },
+        "BLCottJulDIX": {
+            "First Lines": "\nLEtani is a song as \u021de mowe ou\u021dte iseto bidde ech halwe efter o\u00feer our help for to be\u2026\n",
+            "Last Lines": "\n\u2026for hit nis no ned whan hi ber \u00feere to sette hit here alsofor to sette hom here & ek \u00feere hit nere nout wel ido\n",
+            "Note": "\n\u201cCapitulum xxxiiii\u201d added to left margin by later hand (f. 64v).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Julius MS D IX.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Julius_D_IX. \n",
+            "folio": "ff. 64v-65"
+        },
+        "BLEge1993": {
+            "First Lines": "\nLetanie is a song as \u021de mowe ofte iseoTo bidde ech seint after o\u00feer oure help vorte beo\u2026\n",
+            "Last Lines": "\n\u2026God vor \u00fee loue of seint mark vs \u021deue such grace\u00deat we mote after oure ende in hauene habbe a place\n",
+            "Note": "\nEnds \u201cAmen\u201d (f. 143).",
+            "folio": "ff. 142v-143"
+        },
+        "BLEge2810": {
+            "First Lines": "\nLetanie is a song as \u021de mowe oft yseto buche ech alwe after o\u00feer vr elp fort to be\u2026\n",
+            "Last Lines": "\n\u2026vor hit nis no neode wan hii be\u00fe \u00feer to sette hire alsovor to sette is here & ek \u00feere it nere no\u021dt wel ydo\n",
+            "folio": "ff. 185-185v"
+        },
+        "BLEge2891": {
+            "First Lines": "\nLEtanie is a song as \u021de mowe\u00fe ofte iseoTo bidde ech halwe after o\u00feer oure help to beo\u2026\n",
+            "Last Lines": "\n\u2026ffor it nis no neod wanne hi beo\u00fe \u00feere to sette is here alsoffor to sette is here and eke \u00feere it nere no\u021dt wel ydo\n",
+            "Attributed Title": "\nLetania maior de rogacionibus (rubric in margin, f. 70v)",
+            "folio": "ff. 70v-71"
+        },
+        "BLHar2277": {
+            "First Lines": "\n\u00dee letanie is a song as \u021de mowe ofte iseoTo bidde ech halwe after o\u00feer oure help to beo\u2026\n",
+            "Last Lines": "\n\u2026ffor hit nis no neod whan hi beo\u00fe \u00feere to sette his her alsoTo sette hem here & eke \u00feere hit nere no\u021dt wel ido\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 2277.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_2277. \n",
+            "folio": "ff. 35-36"
+        },
+        "BLAdd10301": {
+            "First Lines": "\nLEtanye is a song as \u021de mowe ofte y seTo bidde eche halwe\n                    after o\u00feer oure helpe for to be\n",
+            "Last Lines": "\n\u2026For it nis no nede wanne hy be\u00fe \u00feere to sette it here\n                    alsoFor to sette it here & eke \u00feere it nere no\u021dt wel y\n                    do\n",
+            "Attributed Title": "\nLetania Maior de rogacionibus (f. 72v, by scribe in\n                    margin beside first line); Letania Minor, Letania Maior,\n                        Letania Minor (f. 72v, down margin )",
+            "folio": "ff. 72v-73"
+        },
+        "Lam223": {
+            "First Lines": "\nLetanye is a songe \u00feat we may ofte s[\u2018g\u2019 erased]To\n                    pray ich holow after \u00feer oure helpe forto be\u2026\n",
+            "Last Lines": "\n\u2026\u00deat he fordo not \u00feat fruyt \u00feat helpe shal al\n                    monkyndeNow Ihesu Crist bringe vs to \u00feat blisse \u00feat \u00feow\n                    wonest ynne\n",
+            "folio": "ff. 4v-5"
+        },
+        "Winches33": {
+            "folio": "f. 36v"
+        },
+        "TokyoTak54": {
+            "First Lines": "\nThe letanye is a songe as \u021de mowe oft seTo preye eche seint\n                    after o\u00feer our helpe for to be\u2026\n",
+            "Last Lines": "\n\u2026It is no nede whan \u00feei ben \u00feer to sette hem here\n                    alsoTo sette hem here & eke \u00feer it were but wel ido\n",
+            "folio": "ff. 73v-74v"
+        }
+    }
+}

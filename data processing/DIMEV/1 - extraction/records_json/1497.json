@@ -1,0 +1,18 @@
+{
+    "_id": 1497,
+    "_header": "Gaudete iusti in domino",
+    "Title(s)": "The Battle of Barnet",
+    "Subjects": "political poems; Edward IV, return of",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc, ababbccd, ababbcbd, abacdcdb",
+    "Macaronic": "Latin",
+    "_description": "The Battle of Barnet \u2014 four 8-line stanzas, with refrain, \u2018Conuertimini ye comons and drede your kyng / For now regneth ryghtwysly oure souerayn\u2019",
+    "_witnesses": {
+        "CamTCC601": {
+            "First Lines": "\n\nGaudete iusti in dominoffor now regneth ryghtwysly oure\n                    souerayn\u2026\n",
+            "Last Lines": "\n\u2026Ye that be hys frendys yow prestys to prayConuertimini\n                    ye comons and drede your kyng\n",
+            "Attributed Author": "\nLydgate (added later after Finis)",
+            "Editions": "\nMacCracken,  Henry Noble. \n             \u201cLydgatiana.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         130 (1913): 286-311: 309.\n",
+            "folio": "f. 244v"
+        }
+    }
+}

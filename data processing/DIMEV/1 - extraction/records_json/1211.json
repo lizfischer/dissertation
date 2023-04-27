@@ -1,0 +1,15 @@
+{
+    "_id": 1211,
+    "_header": "Ever as man liveth longer",
+    "Subjects": "aphorisms; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Aphorism translating Latin \u2018Quanto longiorem paciencam ante iudicium &c\u2019",
+    "_witnesses": {
+        "CamTCC323": {
+            "Transcription": "\nEueir asse mon liuit lengoreSo is dom iwrt strengore\n",
+            "Note": "\nLatin version follows.",
+            "Editions": "\nJames,  Montague Rhodes. \n             Catalogue of the\n                    Western Manuscripts in the Library of Trinity College, Cambridge.\n         4 vols. Cambridge: at the UP, 1900-1904: 1.144.\n",
+            "folio": "f. 46"
+        }
+    }
+}

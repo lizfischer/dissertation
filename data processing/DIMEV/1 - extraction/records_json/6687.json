@@ -1,0 +1,42 @@
+{
+    "_id": 6687,
+    "_header": "Will ye not I-hear this English tale that is here I-write",
+    "Note": "For other MSS see 1507.",
+    "Title(s)": "South English Legendary",
+    "Subjects": "Thomas of Canterbury, saint, life of; saints\u2019 lives",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Life of St. Thomas of Canterbury, beginning with the story of Gilbert, father of St. Thomas, in the South English Legendary",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nWOlle \u021de nou vndurstonde hou hit is i writeOf seint Thomas of\n                    Canterburi hou he was bi \u021dite\u2026\n",
+            "Last Lines": "\n\u2026\u00feerto \u00feei hedde wel luytel help and were ful sore\n                    agasteAc vr lord for seint Thomas loue his grace sone on hem\n                    caste\u2026\n",
+            "Note": "\nImperfect at end due to loss of folios 81-88.",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 73rb-80vb"
+        },
+        "BodLauMis108": {
+            "First Lines": "\nWolle \u021de nou\u00fee i heore \u00feis englische tale \u00feat is\n                    here i write Of Seint Thomas of Caunterburi al hou he was bi\n                    \u021dite\u2026\n",
+            "Last Lines": "\n\u2026\u00deei beon swy\u00fee repentaunt ase \u00feis kni\u021dtes\n                    weren ich wene\u021duyt ne libbeth heo nou\u021dt half heore lif ant\n                    \u00feat was bi heom isene\n",
+            "Note": "\nContinues with 4768 as\n                    if part of this text.",
+            "Attributed Title": "\nIci poez oyer coment Seint Thomas de kaunterbures nasqui e de queo manere\n                    gent de pere e de mere (f. 61)",
+            "folio": "ff. 61-87v"
+        },
+        "BodLauMis463": {
+            "Note": "\nOmits Gilbert; formerly 728.",
+            "folio": "ff. 61-87v"
+        },
+        "BLSto949": {
+            "First Lines": "\nEngelond glad glad \u00feou be for \u00feou mayht wel e\u00fee& \u00feou al so al holi churche for one monnes de\u00fee\u2026\n",
+            "Last Lines": "\n\u2026ffor \u00fee sauter sei\u00fe \u00feat suche men \u00feat of trecherie be\u00feNe scholle naut half hor dayes lybbe as we alle yse\u00fe\n",
+            "folio": "ff. 110v-141"
+        },
+        "Lam223": {
+            "First Lines": "\nWole \u021de now here now hit is y writeOf saynt Thomas of\n                    Canterburye how he was y gete\u2026\n",
+            "Last Lines": "\n\u2026Now Ihesu for \u00feat love \u00feat saynt Thomas on\n                    \u00feo\u021dt\u021ceve vs part of \u00feat ioye \u00feat he so dere\n                    bo\u021dt Amen\n",
+            "Note": "\nSome defacing of the text has been carried out by an antipapist whose\n                    focus seems to have been St. Thomas.",
+            "Attributed Title": "\nSaynt Thomas of Canterbury",
+            "Editions": "\n\nHorstmann,  Carl,\n                        ed.  \n             The Early South-English Legendary.\nEETS\n         o.s. 87 (1887; repr. 1987): 106-77.\nThiemke,  Hermann,\n                        ed.  \n             Die mittelenglische Thomas Beket-Legende des\n                Gloucesterlegendar.\nPalaestra\n         131. Berlin: Mayer & M\u00fcller, 1919: 1 (lines 1-210).\n\n",
+            "folio": "ff. 257v-290v"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "_id": 2420,
+    "_header": "If thou wise be will / Six keep thou which I thee ken",
+    "Note": "See Walther (1963)\nXWalther, Hans. Proverbia sententiaque latinitatis medii aevi. 6 vols. G\u00f6ttingen, 1963-69, no. 29126-7; Walther (1969)\nXWalther, Hans. Initia carmina ac versuum medii aevi posterioris latinorum. G\u00f6ttingen, 1959; 2nd ed. 1969, no. 17963; Whiting (1968)\nXWhiting, Bartlett Jere. Proverbs, Sentences, and Proverbial Phrases from English Writings Mainly before 1500. Cambridge, MA: Belknap, 1968, S75; for French text cf. New York, Pierpont Morgan Library M771, f.43.",
+    "Title(s)": "Book of Vices and Virtues",
+    "Subjects": "tongue, destructive power of; advice, moral; translations",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "Six rules against the sins of the tongue \u2014 one quatrain translating two Latin hexameters inserted in two MSS of the Book of Vices and Virtues, and also occuring separately",
+    "_witnesses": {
+        "BLAdd17013": {
+            "Transcription": "\n\u021cif \u00feou wis be wilsixe kepe \u00feou whilke I \u00fee\n                    kenneWhat \u00feou seist whom tilof whom how whi where\n                    whenne\n",
+            "Note": "\nWritten as prose",
+            "Editions": "\nFrancis,  Winthrop Nelson,\n                        ed.  \n             The Book of Vices and Virtues: A Fourteenth-Century English Translation\n                of the Somme le Roi of Lorens d\u2019Orleans.\nEETS\n         o.s. 217 (1942); repr. 1987: lxii, 54.\n",
+            "folio": "f. 17vb"
+        },
+        "OxfMert248": {
+            "Transcription": "\nIf yow wise worze wille\u00fei sex kepen wylke I \u00fee kenWat\n                    yow says and womme tysof womme to womme ow and wen\n",
+            "Note": "\nOccurs separately.",
+            "Editions": "\nWenzel,  Siegfried. \n             \u201cUnrecorded Middle-English Verses.\u201d \n             Anglia\n         92 (1974): 55-78: 64.\n",
+            "folio": "f. 167ra"
+        },
+        "NLS18721": {
+            "Transcription": "\n\u021dif \u00feu wis wor\u00fee wel\u00deese sex kep wich i \u00fee\n                    kenneWat \u00feu seyst wam tilOf wam & wy wer an wanne\n",
+            "Note": "\nOccurs separately in John Grimestone\u2019s sermon notebook,\n                    translating Si sapiens fore vis\u2026 which precedes it.",
+            "Attributed Title": "\nDe Sapientia (f. 151va)",
+            "Editions": "\nWilson,  Edward. \n             A Descriptive Index of the English Lyrics in John of Grimestone\u2019s\n                Preaching Book.\nMedium \u00c6vum Monographs\n         n.s. 2. Oxford, 1973: 61.\n",
+            "folio": "f. 151va"
+        },
+        "HunHM147": {
+            "Transcription": "\n\u021dif \u00feou wys be wilsix kep \u00feou whilke I \u00fee\n                    kenneWhat \u00feou seist whom tilof whom how why where\n                    whenne\n",
+            "Note": "\nritten as prose.",
+            "Editions": "\nFrancis,  Winthrop Nelson,\n                        ed.  \n             The Book of Vices and Virtues: A Fourteenth-Century English Translation\n                of the Somme le Roi of Lorens d\u2019Orleans.\nEETS\n         o.s. 217 (1942); repr. 1987: lxii, 54.\n",
+            "folio": "f. 21"
+        }
+    }
+}

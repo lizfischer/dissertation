@@ -1,0 +1,22 @@
+{
+    "_id": 5973,
+    "_header": "To England be thee right as ye may see",
+    "Subjects": "Scotland; Edward IV, right of succession; chronicles, verse in",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Verses appended to Hardyng\u2019s Chronicle, on the title of Edward IV to Scotland \u2014 seven stanzas rhyme royal",
+    "_witnesses": {
+        "BLHar661": {
+            "First Lines": "\nTo Engelonde haue ye Right as ye may seeBy Brutus Cronycle Saxons\n                    and Normandes\u2026\n",
+            "Last Lines": "\n\u2026Make theyin all oone and passe furth where ye lusteTo other\n                    londes ye nede noone other truste\n",
+            "Attributed Title": "\nThe Kynges Titles to all his londes briefly reported with a mocion to\n                    adyoyne Scotlande to Engelonde (f. 188v)",
+            "Editions": "\nEllis,  Sir Henry,\n                        ed.  \n             The Chronicle of John Hardyng.\n         London: Rivington, 1812: 415-20.\n",
+            "folio": "ff. 188v-189"
+        },
+        "HarEng1054": {
+            "First Lines": "\nTo Englond be \u00fee ryght as ye may seBy Brutus Cronicles Saxons\n                    and NormandesTo Wale the same and Scotland als pardeWho that the gifte\n                    and ryght vele vndyrstondes\u2026\n",
+            "Last Lines": "\n\u2026Make hem all on pas forth where ye lysteTo othyr londes\n                    \u00fee nede none othir triste\n",
+            "Editions": "\nPeterson,  Clifford. \n             \u201cJohn Harding and Geoffrey of Monmouth: Two Unrecorded Poems and a\n                Manuscript.\u201d \n             Notes and Queries\n         n.s. 27 [225] (1980): 202-4: 202-4.\n",
+            "folio": "ff. 143v-144"
+        }
+    }
+}

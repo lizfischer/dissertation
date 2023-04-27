@@ -1,0 +1,21 @@
+{
+    "_id": 650,
+    "_header": "As Jesu went in the Jewry",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Monday after Passion Sunday, in \u2018expanded\u2019 Northern Homily Cycle \u2014 in couplets",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 159rb"
+        },
+        "BLHar4196": {
+            "First Lines": "\nAls ihesu crist went in \u00fee iewryvnto him had \u00feai grete enuy\u2026\n",
+            "Last Lines": "\n\u2026And als a water his hert \u00fean flowesfful of grace and gude vertuse\n",
+            "Note": "\nPreceded by Latin, \u201cMiserunt principes & pharisei.\u201d",
+            "Attributed Title": "\nfferia ii proxima secundum Iohannem (rubric, f. 63rb)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): II. 146-147.\n",
+            "folio": "ff. 63rb-63va"
+        }
+    }
+}

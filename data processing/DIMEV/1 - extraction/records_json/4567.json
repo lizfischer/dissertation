@@ -1,0 +1,114 @@
+{
+    "_id": 4567,
+    "_header": "Saint Brendan the holy man was here of our land",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Brendan, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Brendan in the South English Legendary \u2014 738 lines in couplets",
+    "_witnesses": {
+        "BodAddC38": {
+            "folio": "f. 109v"
+        },
+        "BodAsh43": {
+            "First Lines": "\nSEyn Brendan \u00fee holi mon was of IrlondeMonek he was of harde\n                    lyue as ic vnderstonde\u2026\n",
+            "Last Lines": "\n\u2026An albei \u00feus was se\u00fe\u00fee arered as is bodi was\n                    idoNou god ous bringe to \u00feulke Ioie as is soule wende to\n",
+            "Attributed Title": "\nsyn brendan (f. 71v)",
+            "Editions": "\n\nHorstmann,  Carl. \n             \u201cDie altenglische Legende von St. Brendan aus Ms. Ashmole 43, fol.\n                71b.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         53 (1874): 17-48: 17-37.\nB\u00e4lz,  Martha. \n             Die Mittelenglische Brendanlegende des Gloucesterlegendars.\n         Berlin: Mayer & M\u00fcller, 1909. \n\n",
+            "folio": "ff. 71v-80v"
+        },
+        "Bod779": {
+            "First Lines": "\nSeint brandan \u00fee holy monk was \u021dond in erlondMonk he was\n                    of hard lyf as ich ondirstond\u2026\n",
+            "Last Lines": "\n\u2026An abbey \u00feer is arered \u00feat his body was In\n                    doNou\u021d god vs brynge to \u00feylke Ioye as his soule wente\n                    to\n",
+            "Attributed Title": "\nSeint Patricis \u00fee holy monk (f. 1)",
+            "folio": "ff. 1-1v;  3-10"
+        },
+        "BodLauMis108": {
+            "First Lines": "\nSEint brendan \u00fee holi man was here of ovre londeMonek he was\n                    of harde liue as ich me under stonde\u2026\n",
+            "Last Lines": "\n\u2026And a fair Abbeie \u00feare is ared ase is bodi was idoGod\n                    bringue us to \u00feulke Ioye \u00feat is soule wende to\n",
+            "Attributed Title": "\nVita sancti Brendani Abbatis de Hybernia (f. 104)",
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             The Early South-English Legendary.\nEETS\n         o.s. 87 (1887; repr. 1987): 220-40.\n",
+            "folio": "ff. 104-110"
+        },
+        "BodLauMis463": {
+            "First Lines": "\nSEint Brandan \u00fee holi man was \u021donder of yrlondeMonk he\n                    was of hard lif As I vnderstonde\u2026\n",
+            "Last Lines": "\n\u2026An abbeye \u00feer is arered \u00feare his body was doNou god\n                    bs bringe to \u00feilke ioye \u00feat his soule wente to\n",
+            "Note": "\nTwo columns per page, one full-line, the other half-line.",
+            "folio": "ff. 46ra-50rb"
+        },
+        "BodTan17": {
+            "First Lines": "\nSEint Brandon \u00fee holi man was of irlondeMonk he was of hard\n                    liif as I vndirstonde\u2026\n",
+            "Last Lines": "\n\u2026An abbei \u00feere is a rerid \u00feere his bodi was I doGod\n                    vs bringe to \u00feat ioye \u00feere as his soule wente to\n",
+            "folio": "ff. 99v-107v"
+        },
+        "OxfTri57": {
+            "First Lines": "\nSeint Brandan \u00fee holy man was \u021dend of yrlondeMonk he was\n                    of hard lyf as ich vnderstonde\u2026\n",
+            "Last Lines": "\n\u2026And an abbeye \u00feere ys arered as his body was y doNow god\n                    vs bringe to \u00feulke ioye as his soule wente to\n",
+            "Attributed Title": "\nVita sancti Brandani (rubric marginal heading by scribe, f. 39);\n                        Brandanus (RT)",
+            "folio": "ff. 39-46"
+        },
+        "CamCCC145": {
+            "First Lines": "\nSein brandon \u00fee holy man was \u021dend of irlondeMonk he was\n                    of hard lyf as ich vnderstonde\u2026\n",
+            "Last Lines": "\n\u2026In abbey \u00feer is arered as is body was idoNou god us\n                    bringe to \u00feulke ioie as is soule wende to\n",
+            "Editions": "\nD\u2019Evelyn,  Charlotte,  and  A. J. Mill, eds.  \n             The South English Legendary: Corpus Christi College Cambridge MS. 145\n                and British Museum MS. Harley 2277, with variants from Bodley MS. Ashmole 43 and\n                British Museum MS. Cotton Julius D.ix.\nEETS\n         o.s. 235 (1959), 236 (1956); repr. 1967: 1.180-204.\n",
+            "folio": "ff. 67v-77"
+        },
+        "CamMagPep2344": {
+            "First Lines": "\nSeint Brandan \u00fee holy man was ykend in IrlondeMounk he was of\n                    hard lif as \u021de shulle\u00fe vnderstonde\u2026\n",
+            "Last Lines": "\n\u2026And an abbey is \u00feer arered where his body is ydoNow god\n                    vs bringe to \u00feat ioye \u00feat his soule wente to\n",
+            "Attributed Title": "\nBrendanus (RT)",
+            "folio": "pp. 273-288"
+        },
+        "CamTCC605": {
+            "First Lines": "\nSEint brandan \u00fee holy man was of erlondeMonke he was of hard\n                    lyf as ic vnderstonde\u2026\n",
+            "Last Lines": "\n\u2026An abbay was su\u00fe ymade \u00feer his body was idogod ous\n                    bringe to \u00fee Ioie \u00feat his saule wende to\n",
+            "Attributed Title": "\nBrandan (RT)",
+            "Facsimiles": "\n\nDigital Facsimile of Trinity College Cambridge MS R.3.25.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.25. \n",
+            "folio": "ff. 215-222v"
+        },
+        "BLAdd10301": {
+            "First Lines": "\nSEin Brandan \u00fee holy man was \u021dend of irlondeMonke he was\n                    of hard lif as y vnder stonde\u2026\n",
+            "Last Lines": "\n\u2026On abbey \u00feer is arered as is bodywas y doNou god vs\n                    bringe to \u00feat Ioye as is soule wende to\n",
+            "Attributed Title": "\nDe sancto Brandane (f. 80, by scribe in margin beside first line);\n                        Brandano (RT)",
+            "folio": "ff. 80-90v"
+        },
+        "BLCottJulDIX": {
+            "First Lines": "\nSEint brendam \u00fee holiman was of yrlondMonk he was of hard lif as ich vn\u00feerstonde\u2026\n",
+            "Last Lines": "\n\u2026an abbei \u00feer was su\u00fe\u00fee arerd as his bodi was idonou god ous bringe to dilke ioie as his soule wente to\n",
+            "Note": "\n\u201cCapitulum xli\u201d added to left margin by later hand (f. 74v).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Julius MS D IX.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Julius_D_IX. \n",
+            "folio": "ff. 74v-83v"
+        },
+        "BLEge2891": {
+            "First Lines": "\nSEin brandan \u00fee holy man was \u021dend of irlondeMonk he was of hard lif as ich vnder stonde\u2026\n",
+            "Last Lines": "\n\u2026An abbey \u00feere is arered as is body was idoNou god us bringe to \u00feulke ioie as is soule wende twu\n",
+            "Note": "\nLines 491-570 wanting.",
+            "Attributed Title": "\nDe sancto brandano (rubric n margin, f. 77v)",
+            "folio": "ff. 77v-86"
+        },
+        "BLHar2277": {
+            "First Lines": "\nSEint Brendan \u00fee holi man was \u021dund of IrlandeMonek he was of hard lyf as ich vnderstonde\u2026\n",
+            "Last Lines": "\n\u2026An abbei \u00feer is arered \u00feeras his bodi was idoNou god ous bringe to \u00feulke ioye \u00feat his soule wende to\n",
+            "Note": "\nEnds \u201cAmen.\u201d",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 2277.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_2277. \n",
+            "Editions": "\n\nWright,  Thomas. \n             St. Brendan, A Legend of the Sea.\nPercy Society\n         14. London: Richards, 1844. \nHorstmann,  Carl,\n                        ed.  \n             The Early South-English Legendary.\nEETS\n         o.s. 87 (1887; repr. 1987): 220-40 (lines 68-247).\nSampson,  George. \n             The Cambridge Book of Prose and Verse.\n         Cambridge: at the UP, 1924: 345-7 (extracts).\n\n",
+            "folio": "ff. 41v-51"
+        },
+        "Lam223": {
+            "First Lines": "\nSAynt Brendan \u00fee holy mon he was of IrlondMonke he was of\n                    Ardee as \u021de shul vnderstonde\u2026\n",
+            "Last Lines": "\n\u2026A fayre Abbay \u00feere is bylde \u00feere as his bones\n                    lyneGod send vs all into \u00feat ioye \u00feere as his soule is ynne\n                    Amen\n",
+            "Attributed Title": "\nSaynt Brendan (RT)",
+            "folio": "ff. 112v-122v"
+        },
+        "LeedsRipon": {
+            "First Lines": "\n\u2026Wele save[ ]There bre[ ]Seynt B[ ]ffor neuer a[\n                    ]\u2026\n",
+            "Last Lines": "\n\u2026And a fayre[ ]God bryng [ ]\n",
+            "Note": "\nFragment, binding strip, with only beginnings of last nine\n                    lines.",
+            "folio": "binding strip"
+        },
+        "Wisbech": {
+            "Transcription": "\n\u00deer ich was \u00feis o\u00feer dai \u00feo ower bro\u00feer\n                    \u00fe[\u2026]& was into \u00fee py[ne] i ladde & wel sone\n                    ha[\u2026]\u2026\u2026Seint Brendan sede inis [name] ich hote\n                    o[\u2026]\u00deat \u021de ne touche hym [no\u021dt toni\u021dt] arto\n                    m[\u2026]\n",
+            "Note": "\nTwo binding strips (fragments) now pieced together to form a single\n                    leaf; damaged by damp and cut off at edges; correspond to lines 538-590, 594-645\n                    of D\u2019Evelyn  and  Mill (1959)\nXCharlotte D\u2019Evelyn,   and  A. J. Mill.  \n             The South English Legendary: Corpus Christi College Cambridge MS. 145\n                and British Museum MS. Harley 2277, with variants from Bodley MS. Ashmole 43 and\n                British Museum MS. Cotton Julius D.ix.\nEETS\n         o.s. 235 (1959), 236 (1956); repr. 1967.",
+            "folio": "f. 1"
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "_id": 489,
+    "_header": "An holy man at preaching sat / And thought that sermon wonder sweet",
+    "Title(s)": "Northern Homily Cycle ; Devil in Church",
+    "Subjects": "Satan; exempla",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Devil in Church, in the Northern Homily Cycle \u2014 in couplets",
+    "_witnesses": {
+        "BodSelSup52": {
+            "First Lines": "\nA holy man satt at aprechyng& had \u00feer of grett\n                    lykyng\u2026\n",
+            "Last Lines": "\n\u2026Now Ihesu cryst rtow hys my\u021dtbryng vs all to heuyn\n                    bry\u021dt\n",
+            "Note": "\nTwelve couplets only.",
+            "folio": "f. 199v"
+        },
+        "BodAsh42": {
+            "First Lines": "\nA hali man at prechinge gon siteAnd tho\u021dt \u00fee prechinge\n                    ferli swete\u2026\n",
+            "Last Lines": "\n\u2026Oure lorde vs schelde fra his stelingeAnd to \u00fee blisse\n                    of heuene vs bringe\n",
+            "Note": "\nTwelve couplets.",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "f. 114v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nAN holy mon at Sarmoun seeteAnd \u00fehou\u021dte \u00feat sarmoun\n                    wonder swete\u2026\n",
+            "Last Lines": "\n\u2026AMEN I rede we alle syngeffor of \u00feat blis is non\n                    endynge. Amen.\n",
+            "Attributed Title": "\nHou \u00fee deuel entyset men to slep wen \u00feey scholde hyre godes\n                    wordes (f. 186vb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDie Evangelien-Geschichten der Homiliensammlung des Ms. Vernon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         57 (1877): 241-316: 276.\n",
+            "folio": "f. 186vb-186vc"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nAn holi man sat at o prechyngAnd had yere of ful grete\n                    likyng\u2026\n",
+            "Last Lines": "\n\u2026Nowe ihesu crist fordo his myghtAnd bryng vs alle to heuen\n                    bright\n",
+            "folio": "pp. 183-184"
+        },
+        "CULDd11": {
+            "First Lines": "\nAn holi man at a sarmoun sete& \u00feouhte \u00fee sarmoun\n                    wunder swete\u2026\n",
+            "Last Lines": "\n\u2026Amen I rede we alle syngfor of \u00feat blisse is non\n                    endyng\n",
+            "Attributed Title": "\nNarracio (f. 120v)",
+            "folio": "f. 120v"
+        },
+        "Lam260": {
+            "folio": "f. 36ra"
+        },
+        "MinULZ822": {
+            "First Lines": "\nAne haly man at a sermon setteand thoght \u00fee sermon wondyr\n                    swete\u2026\n",
+            "Last Lines": "\n\u2026oure lorde vs schelde fra his be gyllyngand to \u00fee blysse\n                    of heuen vs bryng\n",
+            "folio": "ff. 83v-84"
+        },
+        "HunHM129": {
+            "First Lines": "\nAn holy man at sermonne seteAnd \u00feoght \u00fee sermonde wondyr\n                    swete\u2026\n",
+            "Last Lines": "\n\u2026Oure loueryd vs schyld fro his stellyngeAnd to \u00fee bles\n                    of heuyn vs brynge\n",
+            "Note": "\nThis MS begins four lines earlier, with last four lines of 4672.",
+            "Attributed Title": "\nnarracio (f. 97v)",
+            "folio": "ff. 97v-98"
+        }
+    }
+}

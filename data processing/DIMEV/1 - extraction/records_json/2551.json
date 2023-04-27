@@ -1,0 +1,36 @@
+{
+    "_id": 2551,
+    "_header": "In my youth full wild I was",
+    "Note": "See 5560.",
+    "Title(s)": "\u2018I wiyte my silf myn owne woo\u2019",
+    "Subjects": "advice; sinners; virtues",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "\u2018I wiyte my silf myn owne woo\u2019 \u2014 eighteen 8-line stanzas with this refrain",
+    "_witnesses": {
+        "BodTan407": {
+            "Editions": "\nLouis,  Cameron,\n                        ed.  \n             The Commonplace Book of Robert Reynes of Acle: an edition of Tanner MS\n                407.\n         New York: Garland, 1980: 183.\n",
+            "folio": "ff. 18v-19"
+        },
+        "BodRawC86": {
+            "First Lines": "\nIn my youth full wylde I wasMy self \u00feat tyme I cowde not\n                    knowe\u2026\n",
+            "Last Lines": "\n\u2026love \u00fey lorde and thynke on \u00feisOr wite \u00fey self\n                    \u00feyn owne woo\n",
+            "Note": "\nOmits stanzas 10-16 and 18.",
+            "Editions": "\nPatterson,  Frank A. \n             The Middle English Penitential Lyric.\nColumbia University Studies in English.\n         New York: Columbia Press, 1911: 57-9.\n",
+            "folio": "ff. 71-72v"
+        },
+        "BlCottCalAII": {
+            "First Lines": "\nIn my \u021dow\u00fee full wylde y wasMy self \u00feat tyme\n                    kow\u00fee I not knoweI wolde haue my wyll in euery placend \u00feat\n                    hath brow\u021dte me now full lowe\u2026\n",
+            "Last Lines": "\n\u2026ffor to haue so gode an endeThat we mowe amende our\n                    wo\n",
+            "Note": "\nOmits stanzas 14-l6. Begins with a two-line introduction incorporating\n                    the refrain, \u2018I may say & so may mo / I wyte my sylfe myne owene\n                    woo\u2019 before first line; ends \u2018Explicit\u2019 beneath last line, f.\n                        108vb.",
+            "Attributed Title": "\nMyn owene woo (in upper margin of f. 108 above col. b and as RT on f.\n                        108v); mine owne woo (f. 1, sixteenth-century list of\n                    contents)",
+            "Editions": "\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.197-200.\n",
+            "folio": "ff. 108rb-108vb"
+        },
+        "Lam853": {
+            "First Lines": "\nIN my \u021donge age ful wielde y wasMi silf \u00feat tyme cowde y\n                    not knoweY wolde haue my wil in euery place& \u00feat ha\u00fe now\n                    brou\u021dt me ful lowe\u2026\n",
+            "Last Lines": "\n\u2026And sende ys grace so to amendeHis blisse \u00feat we may\n                    come vntoHeere to make so good an eende\u00feat wee not cause oure\n                    owne wooDeo gracias\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Hymns to the Virgin and Christ\u2026and other religious poems.\nEETS\n         o.s. 24 (1867); repr. 1973: 35-9.\n",
+            "folio": "pp. 226-233"
+        }
+    }
+}

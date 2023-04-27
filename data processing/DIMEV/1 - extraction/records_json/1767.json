@@ -1,0 +1,17 @@
+{
+    "_id": 1767,
+    "_header": "Harken all good men if ye been wise and sly",
+    "Note": "This text is a later recension of 2165.",
+    "Title(s)": "South English Legendary",
+    "Subjects": "Virgin Mary, assumption of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Assumption of the Virgin Mary, in one MS of the South English Legendary \u2014 364 long lines in couplets",
+    "_witnesses": {
+        "Lam223": {
+            "First Lines": "\nHErkenes alle gode men \u021dif \u021de ben wise & slyeAnd I\n                    wole to \u021dow rede \u00fee Assumpcioun of Marie\u2026\n",
+            "Last Lines": "\n\u2026Wonderly \u00feai \u00feider come & wonderly \u00feai went\n                    \u00feen\u00deur\u021d hir bedes crist toke \u021deme for his moder bone of\n                    all monkynne . Amen\n",
+            "Attributed Title": "\nAssumpcion beata Marie (RT)",
+            "folio": "ff. 43-48"
+        }
+    }
+}

@@ -1,0 +1,356 @@
+{
+    "_id": 1904,
+    "_header": "He that whilom did his diligence",
+    "Note": "See also 1108, 2669, 2749, 4097, 4289, 4905, 5581, 3538.5, 5862, 6367.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "Fall of Princes",
+    "Subjects": "Fortune; advice, to princes",
+    "Versification": "\u2014 seven-line, eight-line \u2014 ababbcc, ababbcbc",
+    "Bibliographic Ghosts": "Cambridge UK, St John\u2019s College K.30 (233), f. 94; Oxford, Bodleian Library e Musaeo 181 (SC 3556) ; London, British Library Harley 2202: see 4289.",
+    "_description": "John Lydgate, Fall of Princes \u2014 36365 lines in the complete text, in rhyme royal and 8-line stanzas (ababbcbc)",
+    "_witnesses": {
+        "BodArcSelB10": {
+            "Note": "\nCopied from \n            Lydgate, John, The prouerbes of Lydgate, de Worde, [1510?] ; extract only.",
+            "folio": "f. 200;  202"
+        },
+        "BodAsh59": {
+            "First Lines": "\nRome Remembre of \u00fey fundacounAnd of what people \u00feou toke\n                    \u00fey gynnyng\u00fey bylding gane of fals discencounOf slaughtre of\n                    murdre and of gret robbing\u2026\n",
+            "Last Lines": "\n\u2026Now was she mannysshe now was she ffemynyneNow coude she\n                    rayne now koude she falsly shyne\n",
+            "Note": "\n29 stanzas on folios 13-16v, 11 stanzas of folios\n                        28v-29v, 31 lines on folio 59, and 9 stanzas on folio\n                    183.",
+            "Attributed Author": "\nLenvoye by Lidegate (f. 15); Tragedye made by Lidegate (RT, f.\n                    59)",
+            "Attributed Title": "\n\u00fee Tragedye of Rome by Lidegate (f. 13); Here folowe\u00fee a balade\n                    by a gode Clerk made \u00feat is cleped presbiter Johannes to advertyse \u00fee\n                    hye prynces \u00feat haue \u00fee power of \u00fee pepul to govrne hem &\n                    counsel and vertue (f. 28)",
+            "folio": "ff. 13-16v;  28v-29v;  59r-v;  183-183v"
+        },
+        "Bod263": {
+            "First Lines": "\nHE that whilom dede his dilligence The book of bochas in frensh to\n                    translate\u2026\n",
+            "Last Lines": "\n\u2026Now on the wheel now set in louh degre Who wil encrece bi\n                    vertu must Ascende\n",
+            "Editions": "\n\nBergen,  Henry,\n                        ed.  \n             Lydgate\u2019s Fall of Princes.\n         Washington, D.C.: Carnegie Institute, 1923. \nBergen,  Henry,\n                        ed.  \n             Lydgate\u2019s Fall of Princes.\n             4 vols. \n             EETS\n         e.s. 121-24 (1924-27); repr. 1967: cxxi.\nHammond,  Eleanor Prescott. \n             \u201cPoet and Patron in the Fall of Princes: Lydgate and Humphrey of\n                Gloucester.\u201d \n             Anglia\n         38 (1914): 121-36: 129-34 (Envoy to Bk III, ch. 8).\nGray,  Douglas. \n             The Oxford Book of Late Medieval Verse and Prose.\n         Oxford: Clarendon, 1985: 64-8 (\u2018Complaint of Canace\u2019 only).\n\n",
+            "folio": "pp. 1-447"
+        },
+        "BodDig181": {
+            "First Lines": "\nAll though so be in euery maner Ageffolkis been dyuers of\n                    Condicions\u2026\n",
+            "Last Lines": "\n\u2026Bothe circumspect not hasty but prudentAnd yeuyth no credence\n                    without auysement\n",
+            "Note": "\n19 stanzas",
+            "Attributed Title": "\nWhere Bochas repreuyth hem \u00feat yeue hasti credence to euery report or\n                    tale (f. 52)",
+            "folio": "ff. 52-53v"
+        },
+        "BodHat2": {
+            "First Lines": "\nHE that whilom did his diligenceThe book of Bochas in\n                    frenssh\u2026\n",
+            "Last Lines": "\n\u2026Now on the wheel now set in lowe degreWho list encrece be\n                    vertu must ascende\n",
+            "Note": "\n19 stanzas.",
+            "folio": "ff. 4-168v"
+        },
+        "BodeMus1": {
+            "First Lines": "\nHe that sumtyme dude his diligensThe boke of bochas in englissh to\n                    translate\u2026\n",
+            "Last Lines": "\n\u2026The ffame arose hou al that regiounBy hur falcenesse stood at\n                    dyuysioun\n",
+            "Note": "\nEnds imperfectly.",
+            "folio": "ff. 1ra-43v"
+        },
+        "BodRawC448": {
+            "First Lines": "\nHE that some tyme dyd his delygenceThe boke of Bochas in frensh to\n                    translate\u2026\n",
+            "Last Lines": "\n\u2026Nowe on the wheell now sett In low[ ]Who will encrese by\n                    vertu must assen[ ]\n",
+            "Note": "\nPreceded by table of contents; only a fragment of f. 185 survives; at\n                    the end: \u2018ffinis totius libri\u2019.",
+            "folio": "ff. 1ra-186ra"
+        },
+        "OxfBal329": {
+            "First Lines": "\n\u2026SOdeyn departyng oute of \u00feis feliciteIn to miserie\n                    & mortal heuenesse\u2026\n",
+            "Last Lines": "\n\u2026Now oon \u00fee whele now sette in louh degreWho wyll encrese\n                    bi vertu most ascende\n",
+            "Note": "\nBegins I.967.",
+            "folio": "ff. 127-171r"
+        },
+        "OxfCCC242": {
+            "First Lines": "\n\u2026It is remembrid of his worthynesWhil \u00feat he was\n                    flouryng in yong age\u2026\n",
+            "Last Lines": "\n\u2026his victories his Marciall RenounsRadde & Remembrid in\n                    dyuers Regiouns\n",
+            "Note": "\nMissing one leaf at beginning and imperfect at end.",
+            "folio": "ff. 1ra-160vb"
+        },
+        "CamFitzMc182": {
+            "First Lines": "\nPrinces considere in euery ageffolkis bene diuerse of there\n                    condicionTo pley and turne and change in \u00feer corage\u00a1it is\n                    \u00feere none to myne opinion\u2026\n",
+            "Last Lines": "\n\u2026Holde vp the balaunce of dome in youre manhedeThat lawe in\n                    Iuges be not coruptid with mede\n",
+            "Note": "\nExtract from Lydgate\u2019s Fall of Princes14 x RR, preceding\n                    text ends on f. 51, \u2018Explicit\u2019 and this begins with decorated\n                    initial, so treated as separate work.",
+            "folio": "ff. 51v-52v"
+        },
+        "CamMagPep2011": {
+            "First Lines": "\nO noble prynces off hige discressiounSithe in this worlde ys none\n                    abydynge\u2026\n",
+            "Last Lines": "\n\u2026lyke to Syrennes with voyse MelodiousAnoynt youre Eres to\n                    make you lecherous\n",
+            "Note": "\nBook II, lines 4586-4592 and Book III, 1569-1582 and\n                    1590-1638.",
+            "Attributed Title": "\nA lenvoye to all prynces that be disposed to be lecherous (f. 77); Explicit\n                    desolacioun of Rome (f. 78)",
+            "Editions": "\n\nEdwards,  A. S. G. \n             \u201cLydgate\u2019s \u201cFall of Princes\u201d: unrecorded\n                readings.\u201d \n             Notes & Queries\n         16 (1969): 170-1. \nEdwards,  A. S. G. \n             \u201cSelections from Lydgate\u2019s Fall of Princes: a Checklist.\u201d \n             The Library\n         5th ser. vol. 26 (1971): 337-42. \n\n",
+            "folio": "ff. 77-78"
+        },
+        "BLSl4031": {
+            "folio": "ff. 1-190"
+        },
+        "CamTCC600": {
+            "First Lines": "\n\u00deis Tragedye gyve\u00fee a gret warnyngBy clere ensaumples of\n                    manyfolde resoun\u2026\n",
+            "Last Lines": "\n\u2026Lyche to Syryns with voyce melodyousBlaundisshe youre erys to\n                    make yowe lechcherous\n",
+            "Note": "\nExtract (Book III, c. 4); 10 stanzas only.",
+            "Attributed Title": "\nLoo here my lordes begynne\u00fee a balade ryal nowe late made by daun\n                    Johan Lydegate \u00fee Munk of Bury ymagyned by him with in \u00fee tyme of his\n                    translacion of Bocas by \u00fee commandement of my lord of Gloucestre (p. 368);\n                    Balade of Bochas (RT).",
+            "folio": "pp. 368-370"
+        },
+        "BLAdd21410": {
+            "First Lines": "\n[B]e discending of a sodeine leueneWher throu\u021d here place was\n                    into asshes brent\u2026\n",
+            "Last Lines": "\n\u2026Now on the whell now sette in lowe degreWho list encres by\n                    vertu must ascende\n",
+            "Note": "\nBegins imperfectly at Bk. I, ch. 8, stanza 63.",
+            "folio": "ff. 1-168"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nthis tragedye gyueth a gret varnyngeby clere ensampelles of\n                    manyfould resoun\u2026\n",
+            "Last Lines": "\n\u2026lych ten syryns with voyce melodyusblaundishe your erys to\n                    make youe lecherus\n",
+            "Note": "\nEnds \u2018ffynis\u2019 (f. 170v).",
+            "Attributed Author": "\ndane Iohn lydgate \u00fee munke of bury (f. 169v)",
+            "Attributed Title": "\nLoo here my lordes begynneth a balade ryall now late made by dane Iohn\n                    lydgate \u00fee munke of bury ymagyned by him with in \u00fee tyme of his\n                    translation of bocus by \u00fee commaundement of my lord of glocester (f.\n                        169v)",
+            "folio": "ff. 169v-170v"
+        },
+        "BLAdd39659": {
+            "First Lines": "\nHe that whilom dide his dilligenceThe book of Bochas in frenssh to\n                    translate\u2026\n",
+            "Last Lines": "\n\u2026Go forth I praye excuse thi self & meWho lovith most\n                    vertu hihest shal ascende\n",
+            "Attributed Title": "\nIncipit Liber Bochasii casu Principum (f. 1, rubricated). Final\n                    stanza of the \u2018Wordis of the translatour vnto his book\u2019 is\n                    missing.",
+            "folio": "ff. 1-185"
+        },
+        "BLHar172": {
+            "First Lines": "\n\u2026[A]lle thow o be in euery manyer age[ ]folkys [ ] dyuerse of\n                    condicions\u2026\n",
+            "Last Lines": "\n\u2026Of corages in highe or lowe degreSo ys ther trewly a grete\n                    dyuersitee\u2026\n",
+            "Note": "\nFragment, a single leaf written both sides.",
+            "folio": "ff. 1*-1*v"
+        },
+        "BLHar367": {
+            "First Lines": "\nRome Remember of thy foundationand of what people thow toke\n                    begenninge\u2026\n",
+            "Last Lines": "\n\u2026let the states of theyr birthe honorablevoyde all Rascall and\n                    wedden theyr semplable\n",
+            "Note": "\nWritten by the hand of John Stow.",
+            "Attributed Title": "\nThe tragedy of Rome (by scribe, John Stow, f. 83v)",
+            "folio": "ff. 83v-86"
+        },
+        "BLHar1245": {
+            "First Lines": "\nHE that whilom did his diligenceThe booke of of Bochas in french to translate\u2026\n",
+            "Last Lines": "\n\u2026now on \u00fee whele now sett in louh degrewho wil encres by vertu must ascende\n",
+            "Attributed Author": "\nJohannis Bochas (see title)",
+            "Attributed Title": "\nExplicit liber Iohannis Bochasii de casu principum (f. 182va)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 1245.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_1245. \n",
+            "folio": "ff. 1ra-184ra"
+        },
+        "BLHar1766": {
+            "First Lines": "\nThis famous werk to putte in RemembraunceThe sodeyn Chaunge tretyng\n                    of many Estat\u2026\n",
+            "Last Lines": "\n\u2026Now on the wheel now set in lowh degreWhoo wyl encrese by\n                    vertu must ascende Explicit\n",
+            "Editions": "\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 399-402.\n",
+            "folio": "ff. 1-265v"
+        },
+        "BLHar2251": {
+            "First Lines": "\nSOdeyne departyng from this felicyteIn to myserye and mortal\n                    hevynesse\u2026 [f. 81v]\nBVt whan that Bochas cast his booke asideSole in his studye as he\n                    sat writynge\u2026 [f. 126]\nO thow pouert meke hymble and debonayreWhiche ay that keepest the\n                    lawes of nature\u2026 [f. 143v]\n",
+            "Last Lines": "\n\u2026To sende yow myght grace and prosperteEuere in vertu to\n                    encrese and ascende [f. 125v]\n\u2026To grucche or froune whan the trawth is lernedThough ther be\n                    som that be wele gouerned [f. 143]\n\u2026There is more trust in vertuous symplesseThanne in presumyng\n                    in vicious false Richesse [f. 145v]\n",
+            "Note": "\nAccording to Dixon (1995)\nXDixon,  Lori J. \n             \u201cThe Canterbury Tales Miscellanies: A Contextual Study of\n                Manuscripts Anthologizing Individual Canterbury Tales.\u201d \n         Diss. University of Delaware, 1995, pp. 392-6, the extracts are as\n                    follows: I.967-1001; I.904-64; IX.2370-2433; I.1380-6; I.1394-1400; I.1338-78;\n                    I.1520-33; 1.1814-25; I.1830-41; I.2050-70; I.3102-29; I.3816-43; 1.4215-37;\n                    I.4240-2; I.4551-7; I.5503-9; I.5517-23; I.5524-30; I.5538-51; I.6301-35;\n                    I.7050-70; II.778-805; II.512-625; II.1429-63; II.1863-76; II.1429-63;\n                    II.1884-95; II.2171-84; II.2192-8; II.2185-91; II.2199-2233; II.2346-66;\n                    II.2374-2464; II.2472-8; II.2486-2520; II.2521-7; II.2234-8; II.2528-48;\n                    II.2934-61; II.3326-46; II.3536-56; II.3697-3731; II.3935-55; II.4222-63;\n                    II.4404-59; III.1569-1638; III.2164-70; III.2178-91; III.2199-2205;\n                    III.3683-3717; III.4019-32; III.4040-6; III.4033-9; III.4047-60; III.3837-43;\n                    III.3851-71; II.4460-80; II.4488-4592; III.890-931; III.4208-35; III.5118-52;\n                    IV.638-86; IV.904-38; IV.1422-49; IV.1968-2002; IV.2297-2331; IV.2927-68;\n                    IV.3445-92; IV.3717-44; V.841-75; V.1590-1621; V.1846-85; V.2131-58; V.2509-36;\n                    V.3118-38; VI.1709-57; VII.775-95; I.2171-2338; VIII.3137-64; IX.1478-1512;\n                    IX.3022-56; IX.3589-3604; II.3347-3493; II.3494-3556; I.4845-4970; I.4705-4844;\n                    I.3788-94; I.3431-58; I.3522-35; I.3795-3801; I.4558-64; I.4572-92; I.4649-62;\n                    I.4971-84; I.5104-31; I.5195-5201; I.5510-16; I.5153-59; I.2822-8; I.2500-20;\n                    I.1807-13; I.4719-25; I.6511-45; I.6553-87; I.6595-6601; III.2465-71; I.2843-9;\n                    I.6644-71; I.6679-6706; I.6623-9; I.6616-22; I.6609-15; I.4488-94; I.4663-76;\n                    I.6336-56; I.6371-7; I.6490-6; I.6427-68; I.6504-6510; I.6707-13; I.6721-7;\n                    I.6126-6300.",
+            "folio": "ff. 81v-125v;  126-143;  143-145v"
+        },
+        "BLHar2255": {
+            "First Lines": "\nMyn auctour now Bochas writ no lenger processeOf Iulius deth\n                    compleynyng but a whyle\u2026\n",
+            "Last Lines": "\n\u2026lyk a myrour of ContemplaciounTo folk that cast them in vertu\n                    to be stable\n",
+            "folio": "ff. 94v-95v"
+        },
+        "BLHar3486": {
+            "First Lines": "\nHe \u00feat whilome didd his diligeunce\u00dee boke of bochas in\n                    fraynshe to translate\u2026\n",
+            "Last Lines": "\n\u2026In \u00feat tym arblast nouther bowParaventur \u00feat tym\n                    bot littil know\n",
+            "folio": "ff. 1-177v"
+        },
+        "BLHar4011": {
+            "First Lines": "\nThis tragedy geuyth us ful warnynghow many a prince for \u00feer\n                    foule leuyng\u2026\n",
+            "Last Lines": "\n\u2026lat this conceyte ay yn your hertis myneBy ensample of Rome\n                    how al go\u00fee to Ruyne\n",
+            "Note": "\nExtract, containing only the Envoy to Humphrey Duke of Gloucester and\n                    description of the \u2018desolacyon\u2019 of Rome, in that order.",
+            "Attributed Author": "\nQuod Willelmus Woodeward (rubric after last line, f.\n                    2vb)",
+            "Attributed Title": "\nLenvoye to humfray late Duke of Glowceter whome god assoyle (rubric, f.\n                        1vb); The desolacyon of Rome made by lydgate in Balade wise\n                    (rubric, f. 2ra)",
+            "folio": "ff. 1va-2vb"
+        },
+        "BLHar4197": {
+            "First Lines": "\nHe that whilom ded hys diligenceThe booke of Bokas in frensh to translate\u2026\n",
+            "Last Lines": "\n\u2026and Tragedyes in especiallbe rad & song all feestys funerall\u2026\n",
+            "Note": "\nA few lines wanting at end.",
+            "folio": "ff. 1-163"
+        },
+        "BLHar4203": {
+            "First Lines": "\nHE that whilom did his diligenceThe boke of Bochas in ffrensh to translate\u2026\n",
+            "Last Lines": "\n\u2026Now on the wheel now set in lowe degreWho lyst encresse be vertu must ascende\n",
+            "Note": "\nBelow last line, \u201cExplicit liber totum\u201d and \u201cNunc finem feci da michi quod merui\u201d (f. 181vb)",
+            "Attributed Author": "\nSy fyne le liure de John Bochas des cas des nobles hommes & femmes translate du latyn en francoys par laurence du premyer fait. Clerk de la diose de troye & fut compile ceste translacion le xxv-e Iour dauril Mil CCCC & ix et cest assauoyr le lundy apres pasques closes (f. 181v below first column, rubric)",
+            "Attributed Title": "\nle liure de John Bochas des cas des nobles hommes (f. 181v below first column, rubric)",
+            "folio": "ff. 1ra-181vb"
+        },
+        "BLLan699": {
+            "First Lines": "\nWAs evir prince myht hym silff assureOff fortune the sauour to\n                    restreyne\u2026\n",
+            "Last Lines": "\n\u2026There hih noblesse whil attemperaunceWith hir thre sustren\n                    hadde ther gouernaunce\n",
+            "Note": "\nExtracts from The Fall of Princes about King Arthur, Constantine,\n                    and the \u2018golden worlde\u2019.",
+            "Attributed Title": "\nIncipit Arthurus conquestorum (f. 50v)",
+            "folio": "ff. 51-66v;  91v-94v"
+        },
+        "BLRoy18Bxxxi": {
+            "folio": "ff. 1-216"
+        },
+        "BLRoy18Div": {
+            "First Lines": "\nHE that whilom dede his diligenceThe book of bochas in french to\n                    translate\u2026\n",
+            "Last Lines": "\n\u2026Now on the wheel now sett in low degreWho will encrese bi\n                    vertu most ascende\n",
+            "Note": "\nLines 372-420 on the Duke of Gloucester from this MS (f. 4) formerly\n                        711; treated as is separate in editions listed\n                    below. Decorated with ornate borders and coat of arms.",
+            "Editions": "\n\nTurner,  Sharon. \n             History of England from the Norman Conquest to the Accession of Edward\n                the First\u2026from the Accession of Edward the First to the Death of Henry\n                V\u2026comprising the Reigns of Henry VI, Edward IV, Edward V, Richard III and\n                Henry VII.\n         3 vols. London: Longman, Hurst, Rees, Orme and Brown, 1814, 1815, 1823;\n            many editions: 3.155 (lines 372-420 only).\nFurnivall,  Frederick James,\n                        ed.  \n             The Babees Book, etc.\nEETS\n         o.s. 32 (1868); rev. ed.  Early English Meals and\n                Manners London: Tr\u00fcbner, 1876; repr. 1973: lxxxv-vi (rev.ed.; lines 372-420 only).\nFurnivall,  Frederick James,\n                        ed.  \n             The Boke of Norture, by John Russell, ab. 1460-70 A.D.\nRoxburghe Club\n         87. Bungay: J. Childs and Son, 1867: xv-xvi (lines 372-420 only).\n\n",
+            "folio": "ff. 1-168"
+        },
+        "BLRoy18Dv": {
+            "Editions": "\nHammond,  Eleanor Prescott. \n             \u201cPoet and Patron in the Fall of Princes: Lydgate and Humphrey of\n                Gloucester.\u201d \n             Anglia\n         38 (1914): 121-36: 129-34 (Prologue to Bk III).\n",
+            "folio": "ff. 1-217"
+        },
+        "Belvoir": {
+            "First Lines": "\nHE that whilom did his diligenceThe boke of Bochas in frensche to\n                    translate\u2026\n",
+            "Last Lines": "\n\u2026Now on the wheel nowe set in lowe degreWho will encrece b[ ]\n                    must ascende\n",
+            "Note": "\n36,316 lines.",
+            "Attributed Title": "\nffinis tocius libri quod Boch[as] (f. 178v)",
+            "folio": "ff. 1-178v"
+        },
+        "NLSGaelic37": {
+            "First Lines": "\n\u2026Quhen sche It knew sche maid no taryingbot Plane and hole\n                    sche gane It to declayr Suche doubil trust \u00feer is in vepingSuche\n                    weping wyffis ewill mot \u00feai fair\u2026\n",
+            "Last Lines": "\n\u2026In sted of blew quhiche stedfast is and clene Sche louit changeus\n                    of mony diuerse grene \n",
+            "Note": "\nTwo stanzas rhyme royal extracted from the story of\n                    Samsoun.",
+            "folio": "p. 184"
+        },
+        "GULHun5": {
+            "First Lines": "\n\u2026As they had of ffortune the maystryHer enchaunted with\n                    theire potacions\u2026\n",
+            "Last Lines": "\n\u2026Now on \u00fee whele now set in lowe degreWho will encrese by\n                    vertu most ascende\n",
+            "Note": "\nMissing one leaf at beginning.",
+            "Attributed Title": "\nHere endith the Boke of John Bochas of the fall of princes (f.\n                        211ra)",
+            "folio": "ff. 1ra-211ra"
+        },
+        "Lam256": {
+            "First Lines": "\n\u2026Yit of his mercy and beneuolenceWithoute vengeaunce rigour\n                    or disdein\u2026\n",
+            "Last Lines": "\n\u2026Now on the whele now set in lowe degreWho will encrece be\n                    vertu must Ascende\n",
+            "Note": "\nMissing one leaf at beginning.",
+            "Attributed Author": "\nffinis libri Bochasij (f. 179v); ffinis tocius\n                        libri / Of your charite pray for the writer of this book (f.\n                    180)",
+            "folio": "ff. 1-180"
+        },
+        "Longleat254": {
+            "folio": "ff. 1-185"
+        },
+        "RylandsEng2": {
+            "First Lines": "\nHE that sumtyme dide his diligenceThe book of Bochas in frenssh to\n                    translate\u2026\n",
+            "Last Lines": "\n\u2026Now on the wheel now set on lowe degreWho will encrece by\n                    vertue must ascende\n",
+            "Note": "\nCopy text for STC 3175; text ends f. 183rb, then envoy of 5\n                    stanzas (183rb-183va), closing of \u2018Bochas\u2019, (8\n                    stanzas, 183va-184ra), words of the translator (5 stanzas,\n                        183vb-184ra) and final envoy (=855).",
+            "Attributed Title": "\nHere begynneth the book callyd 1 Bochas descriuyng the falle of Pryncys\n                    pryncessys and othir nobles translatid in to Inglissh bi John Ludgate Monke of\n                    the Monastery of seynt Edmundes Bury atte commaundemet of the worthi prynce\n                    hymfrey duk of Gloucestre begynnyg at Adam & endyng wt kyng John\n                    taken prisoner in ffraunce bi Prynce Edward (rubric; f.\n                    1ra).",
+            "folio": "ff. 1ra-184ra"
+        },
+        "Berkeley": {
+            "folio": "ff. 1-206"
+        },
+        "ChicagoUL565": {
+            "Note": "\nMissing lines 1-65 of Prologue and ends imperfectly.",
+            "folio": "ff. 1-278"
+        },
+        "Chicago333": {
+            "First Lines": "\nHe \u00feat did some tyme his besi diligenceThe boke of Bokas in\n                    frensh to translate\u2026\n",
+            "Last Lines": "\n\u2026[ ] lowe degre[ ]crese [ ]tu [ ] ascende\n",
+            "Note": "\nLast few leaves damaged by damp, with text in last stanza mostly\n                    obliterated.",
+            "Attributed Title": "\nExplicit Liber Bochacii (f. 201rb)",
+            "folio": "ff. 1ra-201rb"
+        },
+        "Plimpton255": {
+            "First Lines": "\n\u2026Aftir Narcisus was a tewelle wentAnd to John Bochas declarid\n                    had his woe\u2026\n",
+            "Last Lines": "\n\u2026Of Andromedus the surfettis shewingThat ye be grace may haue\n                    a good endyng\u2026\n",
+            "Note": "\nBegins imperfectly at Book I, ch. xv, stanza 19.",
+            "folio": "ff. 1ra-54vb"
+        },
+        "PierpontM124": {
+            "First Lines": "\nHE that whilom did hys diligenceThe booke of Bochas in frenssh to\n                    translate\u2026\n",
+            "Last Lines": "\n\u2026fortunes wheele by reuoluciondooth oon clymbe vp an other to\n                    [ ]\n",
+            "Note": "\nAdded stanza as colophon, f. 185vb: Noble Prynces [ ]ll\n                    all the[ ] thingespaised of res[ ] of [ ]yis \u00fere and\n                    see\u2026\u2026maugre fortunes mutabilitieYe shall to god [\n                    ].",
+            "folio": "ff. 1ra-185vb"
+        },
+        "PierpontM4": {
+            "First Lines": "\nNoble prynces of highe discressiounSith in this worlde ys none\n                    abydynge\u2026\n",
+            "Last Lines": "\n\u2026Hathe thurgh false lustes aforne manasydBy sleight of women\n                    derked and defacyd\n",
+            "Note": "\nEnvoy only, with heading, \u2018A lenvoye to all prynces and lordes /\n                    that be dysposyd to be lecherous\u2019 (f. 74); 11 x RR.",
+            "folio": "ff. 74v-75v"
+        },
+        "PhilFree314": {
+            "First Lines": "\n\u2026For they were gone out so fer a straySo disseuerid he ne\n                    coude hem mere\u2026\n",
+            "Last Lines": "\n\u2026That I neuer by non conspiracieWrou\u021dt or compassed agein\n                    his regalie\u2026\n",
+            "Note": "\nPart of New York,  Columbia University Library Plimpton 255 = folio 42; begins Book II, second\n                    verseone leaf only; 32 stanzas RR.",
+            "folio": "ff. 1ra-1vb"
+        },
+        "PhilRos43916": {
+            "First Lines": "\nHE that whilom did his diligenceThe book of Bochas in french to\n                    translatt\u2026\n",
+            "Last Lines": "\n\u2026Whan two tyrauntis be bothe of one assentWith [multitude?] to\n                    accomplissh there entent\n",
+            "Note": "\nEnds imperfectly at bottom of page.",
+            "folio": "ff. 1ra-213vb"
+        },
+        "PULGar139": {
+            "First Lines": "\nHE \u00feat whilom dide his diligenceThe boke of Bochas in frensh\n                    to translate\u2026\n",
+            "Last Lines": "\n\u2026Now on \u00fee whele now set in lowe degreWho will encres be\n                    vertu most ascende\n",
+            "Note": "\nPages numbered 1-419; seems by content to end incomplete, but space left\n                    for further text on this column and next, and blank page that\n                    follows.",
+            "folio": "ff. 1ra-210ra"
+        },
+        "PULTayM2": {
+            "First Lines": "\nHE that whil [ ] his diligenc[e]The book of Bochas in frensch to\n                    translateOut of latyn he callid was laurence\u2026\n",
+            "Last Lines": "\n\u2026Now on \u00fee whele nowe sete on low degreWho will encresse\n                    by vertu mooste ascende\n",
+            "Note": "\nIncludes envoy.",
+            "folio": "ff. 1ra-223va"
+        },
+        "HunHM268": {
+            "First Lines": "\n\u2026This sciences were called liberalOnly of fredam ffraunchise\n                    & liberte\u2026\n",
+            "Last Lines": "\n\u2026Of Intrusioun began first this quarelleAgeyn Romeyns when\n                    that he gan rebelle\u2026\n",
+            "Note": "\nBegins imperfectly at 1.4257 due to four quires missing at front of\n                    volume; and missing several further quires and folia; Second missing quire at\n                    front probably to be identified as London,  British Library Sloane 2452 (see Edwards (1972)\nXEdwards,  A. S. G. \n             \u201cThe Huntington Fall of Princes and Sloane 2452.\u201d \n             Manuscripta\n         16 (1972): 37-40).",
+            "folio": "ff. 1-158v"
+        },
+        "Urbana84": {
+            "First Lines": "\n\u2026And to prynces for they be stableffor to come ful faste for\n                    alle grete astate\u2026\n",
+            "Last Lines": "\n\u2026With mortal suerde in nature repreuableageyne \u00fee child\n                    ys ofte seyne vengable\u2026\n",
+            "Note": "\nImperfect at beginning and end.",
+            "folio": "ff. 1ra-386vb"
+        },
+        "McGill143": {
+            "First Lines": "\n\u2026Al this thynges remembryd in certeyn\u2026\n",
+            "Last Lines": "\n\u2026Be rad and songe at feestys fvneral\u2026\n",
+            "Note": "\nFragment: four non-consecutive folios from a single MS copy: Book V,\n                    lines 799-882; Book VII, lines 355-522; Book IX, lines 2434-2587; Book IX, lines\n                    3225-3449; described Edwards (1974)\nXEdwards,  A. S. G. \n             \u201cThe McGill Fragment of Lydgate\u2019s \u2018Fall of\n                Princes\u2019.\u201d \n             Scriptorium\n         28 (1974): 75-7, 75-77.",
+            "folio": "ff. 1ra-4vb"
+        },
+        "Victoria": {
+            "folio": "ff. 1-122"
+        },
+        "TokyoTak30": {
+            "First Lines": "\nHE that whilom did his diligenceThe book of Bochas in frensh to\n                    translate\u2026\n",
+            "Last Lines": "\n\u2026ffor ther Princes supprised were with deedeThrou\u021d lak of\n                    vitaill in that gret nede\n",
+            "Note": "\nFragment",
+            "folio": "ff. 1ra-10vb"
+        },
+        "TokyoTak40": {
+            "First Lines": "\n\u2026Thys seyde Bochas auctoure of thys bookeWhych of storyes has\n                    grete intelligenceSom he leffte and some he tookeSuch as he leffte was\n                    of no neclygence\u2026\n",
+            "Last Lines": "\n\u2026By holde of fortune the mutabiliteHow suddenly she made hem\n                    to discende[ ] that ys written to oure doctryne\n",
+            "Note": "\nBegins and ends imperfectly.",
+            "folio": "ff. 1-255v"
+        },
+        "TokyoTak78": {
+            "First Lines": "\n\u2026Touching \u00feis mordre odius forto herewhan \u00fet\n                    oropastes ocupied in dede\u00fee croune of perse \u00fee stori do\u00fe vs\n                    lereTher was a prince ful notable & entere\u2026\n",
+            "Last Lines": "\n\u2026And forto put hem more in assuranceTo haue victorie\n                    \u00feuru\u021d \u00feer hei\u021d renovn\u2026\n",
+            "Note": "\nSingle leaf bearing lines 3.1717-1913.",
+            "folio": "ff. 1-1v"
+        },
+        "TokyoTak79": {
+            "First Lines": "\n\u2026PRinces Princessis seeth hou deceptorieBen all this worldli\n                    reuolucions\u2026\n",
+            "Note": "\nSingle leaf bearing lines 1.4551-4774.",
+            "folio": "ff. 1-1v"
+        },
+        "Leiden": {
+            "Note": "\nMissing stanzas 1-20 of Prologue.",
+            "folio": "ff. 65v-80v;  104-106v"
+        },
+        "AudleyFall": {
+            "folio": "ff. 1-147"
+        },
+        "Tregaskis": {
+            "folio": "1 leaf"
+        },
+        "Maggs1953": {
+            "Note": "\n1 leaf from Bk III",
+            "folio": "1 leaf"
+        },
+        "Sotheby1983": {
+            "folio": "1 leaf"
+        },
+        "Sotheby1976": {
+            "Note": "\nA copy made in 1817 by Philip Absolom.",
+            "folio": ""
+        }
+    }
+}

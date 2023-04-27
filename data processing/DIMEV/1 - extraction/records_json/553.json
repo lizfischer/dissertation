@@ -1,0 +1,34 @@
+{
+    "_id": 553,
+    "_header": "And ye will please god greatly / Use privy penance discretely",
+    "Note": "For similar series of precepts see 560, 560, 4810, 4840.",
+    "Subjects": "precepts; aphorisms",
+    "Versification": "\u2014 two-line, three-line \u2014 aa, aaa",
+    "_description": "Good counsel, including precepts in -ly \u2014 varying number of lines, a triplet and couplets",
+    "_witnesses": {
+        "BodAsh59": {
+            "First Lines": "\nLove gentyl Ihesu ferventlyAdversete take pacyentlyProsperyty\n                    vse it mekelyHeven to reioyse \u00feus esely\u2026\n",
+            "Last Lines": "\n\u2026Nowe lorde Ihesu I crye \u00feee nowe mercyTo do penaunce or\n                    \u00feat I hens dye\n",
+            "Note": "\n18 lines.",
+            "folio": "f. 73"
+        },
+        "Bod393": {
+            "First Lines": "\nPreuy penawus discretlyDevoute prayr clerly\u2026\n",
+            "Last Lines": "\n\u2026Be sobre sad & chastAnd telle no wordis in\n                    wast\n",
+            "Note": "\nSeven lines only; written as prose.",
+            "folio": "f. 31rb"
+        },
+        "CULDd61": {
+            "First Lines": "\nAnd ye will please god gretlyUse preuey penaunce discretlyAnd\n                    deuoute prayers clerlyMesurably eate and drynke\u2026\n",
+            "Last Lines": "\n\u2026And god schalbe godWhen goollde ys goon\n",
+            "Note": "\n17 lines.",
+            "Editions": "\nPerson,  Henry Axel. \n             Cambridge Middle English Lyrics.\n         Seattle: University of Washington Press, 1953; rev. ed. 1962: 25.\n",
+            "folio": "f. 142v"
+        },
+        "BLEge1995": {
+            "Transcription": "\nIn mesure ete slepe and drynkeWake a monge pray and thykeBe\n                    goodely sadde and chasteLoke ye speke noo wordys wasteAs ye wolde\n                    chesse mete and drynkeSo ye loke to speke and thynke\n",
+            "Note": "\n6 lines.",
+            "folio": "f. 78v"
+        }
+    }
+}

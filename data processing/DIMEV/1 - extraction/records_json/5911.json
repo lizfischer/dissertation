@@ -1,0 +1,57 @@
+{
+    "_id": 5911,
+    "_header": "Through ferly death together aren folde",
+    "Subjects": "sermons, verse in; death; dialogues",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "On sudden death, a tag in the Fasciculus morum \u2014 two couplets translating \u2018the punning speeches of the Parisian literati\u2019 (Wenzel (1978)\nXWenzel, Siegfried. Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle English Poems. Cambridge, MA: Medieval Academy of America, 1978, 171)",
+    "_witnesses": {
+        "Bod187": {
+            "Transcription": "\n\u00feorow ferly de\u00fe to gederys arn faldebo\u00fee yvyl lyf\n                    & yvyl de\u00fe \u00feat bu\u00fe caldy rede suche lyf \u00feu\n                    forsakeWith suche de\u00fe left \u00feu be y take\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 160rb"
+        },
+        "Bod410": {
+            "Transcription": "\nThorw sodayn deth be hennes caldEuyl lyf and euyl deth faldEuyl\n                    lyf than we forsakeLest euyl deth vs hen take\n",
+            "Note": "\nVariant version; written as prose.",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 170.\n",
+            "folio": "ff. 38v-39"
+        },
+        "BodLauMis213": {
+            "Transcription": "\nthurgh sodayn deth he hennes Caldeuel liff and euel de\u00fee\n                    falsEuyl liff \u00feen we for sakelest euel de\u00fee vs henne\n                    take\n",
+            "Note": "\nWritten as prose, two couplets separated by Latin, \u2018Et alius\n                    rundit\u2019.",
+            "folio": "f. 55v"
+        },
+        "BodRawC670": {
+            "Transcription": "\n\u00deourgh ferly deth to-gedur arn faldBothe euel lyf & euel\n                    deth caldI rede such lyf \u00feou forsakeWyth suche deth lest \u00feou\n                    be take\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 170.\n",
+            "folio": "f. 69v"
+        },
+        "CamGon71": {
+            "Transcription": "\nThorow ferly dede to gedder ere falneboth euel lyue & yuel dede\n                    calneI rede swylk lyue \u00feu for sakeWith swylk dede \u00feu be\n                    take\n",
+            "Note": "\nTwo couplets, separated by Latin prose.",
+            "folio": "f. 47v"
+        },
+        "EDU82": {
+            "Transcription": "\nThorowe ferly dethe to geder arn faldeBothe yuell lyfe and yuell\n                    dethe ycaldeI rede suche lyfe thou forsakeWyth suche dethe lest thou\n                    be take\n",
+            "folio": "f. 83v"
+        },
+        "Lincoln44": {
+            "Transcription": "\n\u00feorwe ferly de\u00fe to geder arn faldebo\u00fe yuel lyfe and\n                    yuil y calde\n",
+            "folio": "f. 187va"
+        },
+        "Spalding": {
+            "First Lines": "\n\u00deoru\u021d ferly dede to gedyr is falleuyll lyff & euyll\n                    dede cald\u2026\n",
+            "Last Lines": "\n\u2026I Rede sech life be forsakeWyth sech deyde lest \u00feu be\n                    take\n",
+            "Note": "\nTwo couplets separated by Latin prose text; written as\n                    prose.",
+            "folio": "f. 74"
+        },
+        "WorcF19": {
+            "Transcription": "\n\u00feorw ferly de\u00fe to geder arn faldy rede sich lif \u00feow\n                    forsake with suche deth lest \u00feu be take\n",
+            "Note": "\n2 x 2 separated, here second line missing, written as\n                    prose.",
+            "folio": "f. 189ra"
+        },
+        "VaticanOtto": {
+            "folio": "f. 41v"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "_id": 6534,
+    "_header": "Whilom there was an high and mighty prince",
+    "Note": "See 5116; facs. X\nLyf of St. Ursula [facsimiles from de Worde 1509, STC 24541.3 and STC 17014.7]\nRoxburghe Club 24. London: From the Shakespeare Press, by W. Bulmer and Co., 1818.",
+    "Author(s)": "Gilbert Banester",
+    "Title(s)": "Tale of Guiscardo and Ghismonda",
+    "Subjects": "tales; lovers",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Gilbert Banester, The Tale of Guiscardo and Ghismonda (Version A) \u2014 in rhyme royal",
+    "_witnesses": {
+        "BodRawC86": {
+            "First Lines": "\n\u2026Eche to othir \u00feay suffir most payneThe wykked daunger\n                    and envyous Ielosye\u2026\n",
+            "Last Lines": "\n\u2026Is lord and gouernour comfort ayenst baleGraunt \u00fees\n                    lovers Ioy so endith my tale\n",
+            "Note": "\n610 lines in rhyme royal, except 17-line prologue in couplets; plus\n                    fragmentary prologue of 17 lines (f. 143; tale itself, \u2018Whylome was\n                    \u00feer an hygh & myghty prynce\u2026\u2019, begins f. 143v)\n                    and missing envoy; possibly text on f. 142v part of prologue, since\n                    title appears there: see 4096.",
+            "Editions": "\nWright,  Herbert Gladstone,\n                        ed.  \n             Early English Versions of the Tales of Guiscardo and Ghismonda and\n                Titus and Gisippus from the Decameron.\nEETS\n         o.s. 205 (1937); repr. 1988: 2-38.\n",
+            "folio": "ff. 143-155"
+        },
+        "BLAdd12524": {
+            "First Lines": "\nWhilom ther was ane hyght & myghty princeIn Salern tawker\n                    \u00feei clepyd hys name\u2026\n",
+            "Last Lines": "\n\u2026Speke to Gilbert banester which at the mociouneOff Iohn\n                    Raynere this made aftir \u00fee sentence\n",
+            "Note": "\n625 lines, with Envoy; a nineteenth-century transcript by John Holmes is\n                        London,  British Library Addit. 20775.",
+            "Attributed Title": "\nIncipit llegenda Gismond (f. 17v)",
+            "Editions": "\nWright,  Herbert Gladstone,\n                        ed.  \n             Early English Versions of the Tales of Guiscardo and Ghismonda and\n                Titus and Gisippus from the Decameron.\nEETS\n         o.s. 205 (1937); repr. 1988: 2-38.\n",
+            "folio": "ff. 17v-28v"
+        }
+    }
+}

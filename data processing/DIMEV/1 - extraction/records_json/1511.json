@@ -1,0 +1,18 @@
+{
+    "_id": 1511,
+    "_header": "Give where gifts may avail",
+    "Subjects": "aphorisms; charity",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A moral couplet",
+    "_witnesses": {
+        "BodRawA389": {
+            "Transcription": "\nGyff where gyftes may aweyleffor luff ys feynte where gyftes do\n                    feyle\n",
+            "folio": "f. 105v"
+        },
+        "CamTCC1486": {
+            "Transcription": "\nGyf where gyftys may a waylLoue ys feynte when gyftys\n                    faylle\n",
+            "Note": "\nCopied three times to end flyleaf.",
+            "folio": "f. 161"
+        }
+    }
+}

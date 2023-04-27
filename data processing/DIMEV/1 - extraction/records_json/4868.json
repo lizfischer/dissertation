@@ -1,0 +1,32 @@
+{
+    "_id": 4868,
+    "_header": "Sir John the Rose one thing there is compiled",
+    "Author(s)": "William Dunbar",
+    "Title(s)": "Flyting of Dunbar and Kennedie",
+    "Versification": "\u2014 eight-line \u2014 ababbccb",
+    "_description": "William Dunbar, \u2018The Flyting of Dunbar and Kennedie\u2019 \u2014 552 lines in 8-line stanzas",
+    "_witnesses": {
+        "CULLl510": {
+            "First Lines": "\nSchir John \u00fee ros \u00feair is ane thing compylitIn generale\n                    be kennede and quinten\u2026\n",
+            "Last Lines": "\n\u2026Substance & geir & thow ane werdie tucheOne mont\n                    falcon about thy craig to rax\n",
+            "Note": "\n8-line stanzas, ababbcbc, ends incomplete at line 368.",
+            "folio": "f. 58"
+        },
+        "CamMagPep2553": {
+            "First Lines": "\nSchir Johne the rose thair is ane thing compleitIn generalle be\n                    sone kennedye and quyntend\u2026\n",
+            "Last Lines": "\n\u2026\u00dee mewit rebald \u00feow shall doune to [ ] rostMy\n                    Laurite Lettres and the I louse\u2026\n",
+            "Note": "\nAnother copy of lines 1-28 by Richard Maitland, facing the first page of\n                    the original copy in this MS.",
+            "Attributed Author": "\nquod dunbar (p. 53); Quod kennedy to dunbar (p. 63)",
+            "folio": "p. 56 (formerly 52)"
+        },
+        "Banna": {
+            "First Lines": "\nSchir Iohine \u00fee ross ane thing thair is compildIn generale be\n                    kennedy and quinting\u2026\n",
+            "Last Lines": "\n\u2026Tail tellar rebellar Indwellar with the diuillisSpink sink\n                    qith stink ad tertara termagorum\n",
+            "Note": "\nHeadings, \u2018Quod Dumbar to Kennedie\u2019 and \u2018Quod Kennedie\n                    to Dumbar\u2019; note at end, \u2018Iuge \u021de now heir quha gat the\n                    war\u2019 (f. 154).",
+            "Attributed Title": "\nThe flyting of Dunbar and Kennedie Heir efter followis Iocound and mirrie\n                    (f. 147)",
+            "Facsimiles": "\nFox,  Denton,  and  William A. Ringler.  \n             The Bannatyne Manuscript: National Library of Scotland Advocates\u2019\n                MS. 1.1.6\n         London: Scolar Press, in Association with The National Library of\n            Scotland, 1980. \n",
+            "Editions": "\n\nRamsay,  Allan,\n                        ed.  \n             The Ever Green.\n         2 vols. Edinburgh, 1724; repr. Ramsay and Early Scottish Poets, London,\n            n.d.: 2.47-75, repr..\nMackay,  Charles. \n             The Poetical Works of Allan Ramsay.\n         2 vols. London: Virture, 1866-68; repr. of \n                Alan\n                Ramsay\n            ,  The Evergreen; alt. title:  Ramsay\n                and the Earlier Scots Poets : 267-73.\nMackay,  Charles. \n             The Poetical Works of Allan Ramsay.\n         2 vols. London: Virture, 1866-68; repr. of \n                Alan\n                Ramsay\n            ,  The Evergreen; alt. title:  Ramsay\n                and the Earlier Scots Poets : 1.351-58 (extracts).\nLaing,  David. \n             The Poems of William Dunbar.\n         2 vols. Edinburgh: Laing and Forbes, 1834; Supplement, 1865: 2.65-86.\nMurdoch,  James Barclay. \n             The Bannatyne Manuscript.\n             4 vols. in 11 parts, paged continuously. \n             Hunterian Club\n         16, 32, 40, 46, 50, 55-56, 64-67 Glasgow: Anderson, 1873-1896: 3.420-37.\nRitchie,  W. Tod,\n                        ed.  \n             The Bannatyne Manuscript.\n             4 parts in 4 vols. \n             Scottish Text Society\n         3rd ser. 5 (1928); n.s. 22 (1928); n.s. 23 (1930); n.s. 26 (1934)\n            Edinburgh and London: Blackwood, 1928-34; ed. by Ritchie et al: 3.44.\nMacKenzie,  William Mackay. \n             The Poems of William Dunbar.\n         Edinburgh, 1932: 5-20 (lines 1-315 and C&M print).\nSchipper,  Jakob. \n             The Poems of William Dunbar.\n         Vienna: Kaiserliche Akademie der Wissenschaften, 1894: 150-89.\nSchipper,  Jakob,\n                        ed.  \n             The Poems of William Dunbar.\n             4 vols. \n             Denkschriften der kaiserlichen Akademie der Wissenschaften,\n                Philosophische-Historische Klasse\n         40/2; 40/4; 41/4; 42/4. Vienna, 1892-93: 50-99.\nPaterson,  James. \n             The Works of William Dunbar.\n         Edinburgh: Stillie, 1863: 313-14.\nBaildon,  Henry Bellyse. \n             The Poems of William Dunbar.\n         Cambridge: University Press, 1907: 71-88.\n\n",
+            "folio": "ff. 147-154"
+        }
+    }
+}

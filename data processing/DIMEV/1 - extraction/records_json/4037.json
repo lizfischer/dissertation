@@ -1,0 +1,21 @@
+{
+    "_id": 4037,
+    "_header": "O quem mirabilia good Lord thy works been",
+    "Subjects": "chronicles, verse in; kings of England; John, king; Otto IV, king of Germany; Philip II, king of France",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "Macaronic": "Latin",
+    "Bibliographic Ghosts": "Fabyan, Robert , The chronicle of Fabyan whiche he hym selfe nameth the concordaunce of historyes, nowe newely printed, [and] in many places corrected, as to the dylygent reader it may apere. 1542. Cum priuilegio ad imprimendum solum, [London]: Printed by Iohn Reynes, dwellynge at the sygne of saynte George in Pauls churcheyarde, [1542] : not in 1542 version.",
+    "_description": "Ballade on King John of England, King Philip of France, and Emperor Otto, inserted in Part VII of Fabyan\u2019s Chronicle, Septima Pars, Johannis \u2014 three stanzas rhyme royal",
+    "_witnesses": {
+        "BLCottNeroCXI": {
+            "First Lines": "\n\nO Quem mirabilia good lord thy werkis beenIn pvnyshment of\n                    Synners by thy mygth wondirsly\u2026\n",
+            "Last Lines": "\n\u2026Wherfor I maye conclude In factis horvmThat multa\n                        sunt fflagella peccatorvm\n\n",
+            "folio": "ff. 61-61v"
+        },
+        "HarEng766": {
+            "First Lines": "\n\nO quam Mirabilia good lord thy werkis beenIn pvnyshment of\n                    Synners by thy myght wonderslyAs by old storyes It is playnly seenOn\n                    Synner the other hath Correct Vtterly\u2026\n",
+            "Last Lines": "\n\u2026Wherfor I may conclude In factus horvmThat mvlta sunt\n                        fflagella peccatorvm\n\n",
+            "folio": "ff. 32-32v"
+        }
+    }
+}

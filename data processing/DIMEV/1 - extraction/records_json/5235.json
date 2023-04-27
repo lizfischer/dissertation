@@ -1,0 +1,36 @@
+{
+    "_id": 5235,
+    "_header": "The cock sayeth in his tongue",
+    "Note": "Cf. 2319, 3596, and 4798; Wenzel (1974)\nXWenzel, Siegfried. \u201cUnrecorded Middle-English Verses.\u201d Anglia 92 (1974): 55-78 says 3 couplets, with 3596 and 4798.",
+    "Title(s)": "Gesta Romanorum",
+    "Subjects": "birds, as narrators",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "London, British Library Harley 7333, f. 224v; occurs on f. 180 (see 3596)",
+    "_description": "Rhyming comment of the first cock in the story of the Three Cocks in the Gesta Romanorum \u2014 one couplet",
+    "_witnesses": {
+        "CULIi38": {
+            "Transcription": "\n\u00fee cok sei\u00fe in ys song\u00feat to \u00fey lord \u00feou\n                    dest gret wornge\n",
+            "Note": "\nIntroduced by Latin, Gallus cantauerat & domicella veritas\n                        dixit\u2026.",
+            "Editions": "\nErb,  Peter C. \n             \u201cVernacular Material for Preaching in MS Camb. Univ. Lib.\n                Ii.III.8.\u201d \n             Mediaeval Studies\n         33 (1971): 63-84: 83.\n",
+            "folio": "f. 61v"
+        },
+        "BLAdd9066": {
+            "Transcription": "\nwhat seith the cokke in his songefor sothe she said thou doest thi\n                    lorde wronge\n",
+            "Editions": "\nHerrtage,  Sidney John Hervon,\n                        ed.  \n             The Early English Version of the Gesta Romanorum.\nEETS\n         e.s. 33 (1879); repr. 1962: 175.\n",
+            "folio": "f. 19v1"
+        },
+        "BLHar5259": {
+            "Transcription": "\nThe cocke saithe in hys songge\u00feat thove dooste thyn housbande\n                    wrongge\n",
+            "Note": "\nWritten as prose.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 525.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_525. \n",
+            "Editions": "\nHerbert,  John Alexander. \n             Catalogue of Romances in the Department of MSS. in the British\n                Museum.\n         Vol. 3. London, 1910: 3.206.\n",
+            "folio": "f. 60v1"
+        },
+        "Lam78": {
+            "Transcription": "\nThe koc sey\u021dth in hys songthat thow doost thyn hosbownd\n                    wrong\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\n\nHerrtage,  Sidney John Hervon,\n                        ed.  \n             The Early English Version of the Gesta Romanorum.\nEETS\n         e.s. 33 (1879); repr. 1962: 175.\nMadden,  Frederick. \n             The Old English Versions of the Gesta Romanorum.\nRoxburghe Club.\n         55. London: Nicol, 1838: 146.\n\n",
+            "folio": "f. 143va1"
+        }
+    }
+}

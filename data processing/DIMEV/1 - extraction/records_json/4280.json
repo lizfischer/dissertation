@@ -1,0 +1,21 @@
+{
+    "_id": 4280,
+    "_header": "Once forsworn",
+    "Subjects": "proverbs",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "London, Lincoln\u2019s Inn Hale 186 [Catalogue number XL]: folios missing in Michaelmas 18 Edward III so ends incomplete.",
+    "_description": "A proverbial tag said to have been spoken by Stonore in year books of the reign of Edward III, Michaelmas, 18 Edward III \u2014 one couplet",
+    "_witnesses": {
+        "BLAdd25184": {
+            "Transcription": "\nOnes forsworneevere forlorne\n",
+            "Editions": "\nPike,  Luke Owen,  and  Alfred J. Horwood, eds.  \n             Year Books of the Reign of King Edward the Third. 15 vols\n                 Rolls Series\n         31b (1883-1911; repr. Kraus, 1964); trans. by the editors: 12.291.\n",
+            "folio": ""
+        },
+        "BLHar741": {
+            "Transcription": "\n Onis forsuoryneuir forlorne\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\n\nPike,  Luke Owen,  and  Alfred J. Horwood, eds.  \n             Year Books of the Reign of King Edward the Third. 15 vols\n                 Rolls Series\n         31b (1883-1911; repr. Kraus, 1964); trans. by the editors: 12.291.\nWoodbine,  George E. \n             \u201cThe Language of English Law.\u201d \n             Speculum\n         18 (1943): 395-436: 431, n. 5.\n\n",
+            "folio": "f. 151"
+        }
+    }
+}

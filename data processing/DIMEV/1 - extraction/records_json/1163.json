@@ -1,0 +1,25 @@
+{
+    "_id": 1163,
+    "_header": "Early in a summerstide / I saw in London as I went",
+    "Title(s)": "These Lettres XII shall save Mery Englond",
+    "Subjects": "Yorkist lords; political verse",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "\u2018These Lettres XII shall save Mery Englond\u2019, on the Yorkist Lords \u2014 in quatrains",
+    "_witnesses": {
+        "Lam306": {
+            "First Lines": "\n[E]rly in a somerstidey sawe in london as y\n                    wente\u2026\n",
+            "Last Lines": "\n\u2026and after this life bryng you and mevnto euer lasting joie\n                    amen for charitExplicit\n",
+            "Note": "\n68 lines",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Political, Religious and Love Poems, from Lambeth MS. 306 and other\n                sources.\nEETS\n         o.s. 15 (1866); repr. 1962; rev. ed. 1903: 1-3.\n",
+            "folio": "ff. 134-135"
+        },
+        "TCD432": {
+            "First Lines": "\nYerly be \u00fee morowe in a somer tydeI saw in a strete in london\n                    as I went\u2026\n",
+            "Last Lines": "\n\u2026Hur entent & purpos may last & endureTo \u00fee\n                    plesaunce of god & \u00fee welfare of vs all\n",
+            "Note": "\n72 lines.",
+            "Attributed Title": "\nOn the Yorkist Lords (added modern hand; f. 72)",
+            "Editions": "\nRobbins,  Rossell Hope,\n                        ed.  \n             Historical Poems of the XIV and XV Centuries.\n         New York: Columbia UP, 1959: 218-21.\n",
+            "folio": "ff. 72-73r"
+        }
+    }
+}

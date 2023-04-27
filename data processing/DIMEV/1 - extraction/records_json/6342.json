@@ -1,0 +1,20 @@
+{
+    "_id": 6342,
+    "_header": "When I was poor then was I free",
+    "Subjects": "money",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Riches bring sorrow \u2014 three couplets",
+    "_witnesses": {
+        "Bod622": {
+            "First Lines": "\nWan y was pore \u00fean was y freWenne y gan gedere \u00feo let y\n                    be\u2026\n",
+            "Last Lines": "\n\u2026Alas richesse so mich in thouthTo day y was riche and now\n                    haue y nouth\n",
+            "Editions": "\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 2.18.\n",
+            "folio": "f. 116"
+        },
+        "BLCottCleoDVIII": {
+            "Transcription": "\nWhan I was pore \u00fean was I freWhan I gan geder \u00fean lete I\n                    beWhat I was ryche \u00fean was I hardAnd er I wyste I died amyd\n                    wardAlas ryches so muche in \u00feow\u021dtTo day I was ryche &\n                    now haue I ry\u021dt now\u021dt\n",
+            "Attributed Title": "\nExemplium (f. 1v)",
+            "folio": "f. 1v2"
+        }
+    }
+}

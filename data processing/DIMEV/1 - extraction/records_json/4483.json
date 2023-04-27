@@ -1,0 +1,41 @@
+{
+    "_id": 4483,
+    "_header": "Right as all strings are ruled in an harp",
+    "Title(s)": "\u2018De regimene principum bonum consilium\u2019; Liber Pluscardiensis",
+    "Subjects": "counsel; princes, advice to; advice, to princes; political poems; chronicles, verse in",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "\u2018De regimene principum bonum consilium\u2019 inserted in the Liber Pluscardiensis \u2014 44 rhyme royal stanzas",
+    "_witnesses": {
+        "BodFair8": {
+            "First Lines": "\nRyght as all strynges ar rewlyt in a harpeIn an acord & tunyt\n                    all be an vth\u2026\n",
+            "Last Lines": "\n\u2026But gudly causes \u00feou offendes to \u00fee croun&\n                    forfettes bayt to god & \u00fein office\n",
+            "Note": "\nEnds imperfectly in stanza 41. Transcripts: Glasgow,  Mitchell Library 308876 (olim Marchmount House), f.\n                        256v; Oxford,  Bodleian Library Jones 8 (SC 8915), ff.\n                    562v-567.",
+            "Editions": "\n\nStevenson,  Joseph,\n                        ed.  \n             The Life and Death of King James I of Scotland.\nMaitland Club\n         42. Edinburgh, 1837: 32.\nCraigie,  William Alexander. \n             The Maitland Folio Manuscript, Containing Poems by Sir Richard\n                Maitland, Dunbar, Douglas, Henryson, and others.\n             2 vols. \n             Scottish Text Society\n         n.s. 7 (1919), 20 (1927); Edinburgh and London: Blackwood, 1919,\n            1927: 2.74-91.\n\n",
+            "folio": "ff. 190-191vb"
+        },
+        "BodJones8": {
+            "First Lines": "\nRyt as all stryngs ar rewlyt in a harpIn an acord & tunyt all\n                    be an uth\u2026\n",
+            "Last Lines": "\n\u2026But gudly cause you offends to the CrouneAnd forfetts bayt to\n                    god & \u00fein office\n",
+            "Note": "\n40 stanzas and 4 lines.",
+            "folio": "ff. 562v-567"
+        },
+        "CamMagPep2553": {
+            "First Lines": "\nRicht as all stringis ar cupillit in ane harpeIn ane accord and\n                    tunit with I ane vthe\u2026\n",
+            "Last Lines": "\n\u2026It \u00feat I say twichand thy maiestieIs for the proffitt of\n                    thy realme and the\n",
+            "Note": "\n308 lines.",
+            "Attributed Title": "\nDe regimine principum bonum consilium (p. 96); ffinis bonum\n                        regimen pro consilio principum (p. 105)",
+            "Editions": "\nCraigie,  William Alexander. \n             The Maitland Folio Manuscript, Containing Poems by Sir Richard\n                Maitland, Dunbar, Douglas, Henryson, and others.\n             2 vols. \n             Scottish Text Society\n         n.s. 7 (1919), 20 (1927); Edinburgh and London: Blackwood, 1919,\n            1927: 1.115-25.\n",
+            "folio": "pp. 96-105"
+        },
+        "Marchmont": {
+            "folio": "f. 256v"
+        },
+        "Banna": {
+            "First Lines": "\nIustice wald haif ane godly presedentand auditor of the complaints\n                    of the pure\u2026\n",
+            "Last Lines": "\n\u2026and put abak quhill grit caus be decyditSyne levand all for\n                    pouerty may nocht bydit\n",
+            "Note": "\nSingle stanza extract corresponding to lines 127-133 of edited version\n                    in STS, 2nd ser., 7 or lines 127-133 of the edited version in STS,\n                    2nd ser., 20.",
+            "Facsimiles": "\nFox,  Denton,  and  William A. Ringler.  \n             The Bannatyne Manuscript: National Library of Scotland Advocates\u2019\n                MS. 1.1.6\n         London: Scolar Press, in Association with The National Library of\n            Scotland, 1980. \n",
+            "folio": "f. 76"
+        }
+    }
+}

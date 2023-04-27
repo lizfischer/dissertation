@@ -1,0 +1,43 @@
+{
+    "_id": 4178,
+    "_header": "Of joy and bliss is all my song care to believe",
+    "Note": "A revision of 6380, incorporating former 38; see Pickering (1975)\nXPickering, Oliver S. The South English Nativity of Mary and Christ.\nMiddle English Texts 1. Heidelberg: Universit\u00e4tsverlag/ Carl Winter, 1975.",
+    "Title(s)": "Concepcio Marie ; South English Legendary",
+    "Subjects": "prologues; Virgin Mary, conception of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Conception of Mary and the Expanded Nativity in the South English Legendary, beginning with an 84-line prologue \u2014 280 lines in couplets with internal rhyme, plus 898 lines",
+    "_witnesses": {
+        "Bod779": {
+            "First Lines": "\n\u2026Aftir \u00feat anne wit childe was & \u00feat wit ry\u021dt\n                    kinde\u021che bar \u00feat swete barn \u00feat euer wor\u00fe in\n                    mynde\u2026\n",
+            "Last Lines": "\n\u2026\u021che was mayde widue & wif \u021de so is non \u00feat\n                    ha\u00fe \u00fee \u00ferenow god for \u00fee loue of here bring vs \u00feer\n                    \u021dhe be\u2026\n",
+            "folio": "f. 272v"
+        },
+        "BodAsh43": {
+            "First Lines": "\nA good mon \u00feat men clupede isacar was bi olde daweIn bedlehem\n                    \u00feat do\u021dtren hadde two In \u00fee olde lawe\u2026\n",
+            "Last Lines": "\n\u2026Ac na\u00feeles \u00feer wi\u00fe\u00feoute me mai ifynde\n                    someAc \u021dif god wole hi mowe amende ar hi to de\u00fee come\n",
+            "Note": "\nOpening stanza formerly 38.",
+            "folio": "ff. 209v-212"
+        },
+        "BodLauMis622": {
+            "First Lines": "\nOff ioye & blisse is my song care to bileue& to herie hym\n                    among \u00feat al our sorou\u021d schal reue\u2026\n",
+            "Last Lines": "\n\u2026\u00feorou\u021d whiche preciouse de\u00fe god vs grant \u00feat\n                    grace\u00feat we mowe after our de\u00fe in heuen haue a place\n",
+            "Note": "\nPrologue only, separately.",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Adam Davy\u2019s 5 Dreams about Edward II, etc. from Bodleian Laud\n                Misc. 622.\nEETS\n         o.s. 69 (1878; repr. 1973): 93-6.\n",
+            "folio": "ff. 71ra-71va"
+        },
+        "CamMagPep2344": {
+            "First Lines": "\nA goed man \u00feat me clupede Ysachar was by olde daweIn Bethleem\n                    \u00feat dou\u021dtren hadde two in \u00fee olde lawe\u2026\n",
+            "Last Lines": "\n\u2026 Ak na\u00feeles \u00feer wi\u00fe oute me may ffynde someAk\n                    \u021dif god wole hi mowe amende ar hi to de\u00fee come\n",
+            "Note": "\nOpening formerly 38.",
+            "Attributed Title": "\nAnna (RT)",
+            "folio": "pp. 353-358"
+        },
+        "BLEge1993": {
+            "First Lines": "\nOff ioie and blisse is now mi \u00feou\u021dt care to bli[...]Vor te herien him among \u00feat al oure s[.]r schal ieue\u2026\n",
+            "Last Lines": "\n\u2026Ac na\u00feeles al \u00feer withoute me may \u021det finde someAc \u021dif god wole heo amende\u00fe hem ar heo to de\u00fee come\n",
+            "Note": "\nOnly complete copy of Nativity; continues with 938 and 6335.",
+            "Editions": "\nHorstmann,  Carl. \n             Altenglische Legenden.\n         Paderborn: F. Schoningh, 1875: 64-81; 81-109.\n",
+            "folio": "ff. 27-30"
+        }
+    }
+}

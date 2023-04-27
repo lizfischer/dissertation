@@ -1,0 +1,19 @@
+{
+    "_id": 5712,
+    "_header": "This is my song in my old age",
+    "Note": "See also 4929, 6515.",
+    "Subjects": "old age; death, fear of",
+    "Versification": "\u2014 twelve-line \u2014 ababababbaba",
+    "_description": "A song of Old Age with the burden, \u2018Timor mortis conturbat me\u2019 \u2014 nine twelve-line stanzas",
+    "_witnesses": {
+        "Longleat29": {
+            "First Lines": "\n\u00feys is my song in my old ageWyle y was \u021donge y\n                    myght nat see \u00fee streyte waye to my last age\u2026\n",
+            "Last Lines": "\n\u2026So \u00feat who neuer haue cause to saytimor mortis conturbat\n                    meAmen ffor charite\n",
+            "Editions": "\nGreene,  Richard Leighton. \n             \u201cA Middle English Timor Mortis Poem.\u201d \n             Modern Language Review\n         28 (1933): 234-38: 235-7.\n",
+            "folio": "ff. 145v-146v"
+        },
+        "NLWPork10": {
+            "folio": "f. 195"
+        }
+    }
+}

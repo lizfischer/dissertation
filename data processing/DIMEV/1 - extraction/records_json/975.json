@@ -1,0 +1,166 @@
+{
+    "_id": 975,
+    "_header": "Child of discipline incline to me thy ear",
+    "Note": "Cf. 680, 5320; Singer (1928)\nXSinger, Dorothea Waley. Catalogue of Latin and Vernacular Alchemical Manuscripts. 3 vols. Brussels: Lamertin, 1928-31, 810; Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 577.",
+    "Author(s)": "George Ripley",
+    "Title(s)": "The Twelve Gates; The Compende of Alkemye",
+    "Subjects": "alchemy; Edward IV, work dedicated to",
+    "Versification": "\u2014 seven-line, two-line \u2014 ababbcc, aa",
+    "Bibliographic Ghosts": "London, British Library Sloane 299: (preface only): deleted by Robbins and Cutler (1965)\nXRossell Hope Robbins, and John L. Cutler. Supplement to the Index of Middle English Verse. Lexington, Kentucky: University of Kentucky Press, 1965",
+    "_description": "The Twelve Gates or The Compende of Alkemye by George Ripley, 1471, including Preface, Twelve Gates, Recapitulation and Admonition, sometimes with a dedicatory prologue to Henry IV \u2014 in rhyme royal and couplets",
+    "_witnesses": {
+        "BodAsh1445": {
+            "First Lines": "\nO onorable lord and most victorious knightIn [ ] and fortune\n                    aboundantlye endued\u2026\n",
+            "Last Lines": "\n\u2026Praysing without ceasyng his gloryous maiestieWithin his\n                    kingdom he graunt vs to se\n",
+            "Note": "\nIncludes the prefixed address to Edward IV; subtitles as follows:\n                    \u2018Callcinacion (f. 7); \u2018Here endith the xij gates and here folowith\n                    the Recapytulacyone\u2019 (f. 33); \u2018Recapitulacione\u2019 (f.\n                        33v); \u2018Aadmonycion\u2019 (f. 35).",
+            "Attributed Author": "\nThe Compounde of george Riple (f. 1)",
+            "Attributed Title": "\nThe Compounde of george Riple (f. 1); Here endith the xij gates and here\n                    folowith the Recapytulacyone (f. 33)",
+            "folio": "ff. 1-36v"
+        },
+        "BodAsh1479": {
+            "First Lines": "\nHere beginnyth the compende of AlkamyMade by a chanon of\n                    brydlyngton\u2026\n",
+            "Last Lines": "\n\u2026praysing with out seasing his glorius magestewhich he in his\n                    kingdome vs gravnt for to se\n",
+            "Attributed Title": "\nThe philosophers treasuer (f. 1)",
+            "folio": "ff. 1-30v"
+        },
+        "BodAsh1485": {
+            "First Lines": "\nIn the beginninge when God made all of noughtea globous matter\n                    & darke vnder confusion\u2026\n",
+            "Last Lines": "\n\u2026praysinge without ceasinge his glorious maiestyewhich he in\n                    his kingdome grante vs for to see\n",
+            "Note": "\nImperfect.",
+            "Attributed Author": "\nSir George Ripplye channon of Brillington (f. 3); \u2026Sir George Ripley\n                    Chanon of Bridlington compiled by him Anno Domini 1471 (f. 46)",
+            "Attributed Title": "\nThe 12 gates of Sir George Ripplye channon of Brillington, otherwise called\n                    his Compound of Alchymye (f. 3); Heere endeth the compounde of Alchumye called\n                    the xij gates of Sir George Ripley Chanon of Bridlington compiled by him Anno\n                    Domini 1471 (f. 46)",
+            "folio": "Part III ii, ff. 3-46"
+        },
+        "BodAsh1486I": {
+            "First Lines": "\nHEr begynnyth \u00fee compownd off Alkamy made by a chanon of\n                    bryglyngton\u2026\n",
+            "Last Lines": "\n\u2026medyll not with mercury precypytatenether with\n                    Inperfy\u021dte bodys iubyfycate\u2026\n",
+            "Note": "\nImperfect at end due to loss of folios.",
+            "Attributed Author": "\nHEr begynnyth \u00fee compownd off Alkamy made by a chanon of bryglyngton\n                    (f. 49v)",
+            "Attributed Title": "\nHEr begynnyth \u00fee compownd off Alkamy made by a chanon of bryglyngton\n                    (f. 49v)",
+            "folio": "ff. 49v-71v"
+        },
+        "BodAsh1490": {
+            "First Lines": "\nChilde of this discipline Incline to thin EareAnd herke to my\n                    doctrine wyth all thy diligence\u2026\n",
+            "Last Lines": "\n\u2026praisinge with out ceasinge his glorious maiestiwhich he in\n                    his kingdom vs graunt for to see\n",
+            "Attributed Author": "\n\u2026by a Channon of Briglington (f. 114)",
+            "Attributed Title": "\nHeare Beginne the Book off Alcamie And the compounde therof made by a\n                    Channon of Briglington (f. 114); Explicit tractatus philosophie qui vocatur\n                    Alkamie. Anno 1472. 1520. And laste newe written by Simon Forman 1584 the 31 of\n                    December {Jupiter} (f. 136v)",
+            "folio": "ff. 114-136v"
+        },
+        "BodeMus63": {
+            "First Lines": "\nChilde of this discipline inclyne to me thinne eareAnd harken my\n                    doctyne [sic] withe all Dillygence\u2026\n",
+            "Last Lines": "\n\u2026praysinge with out Cessing his glorious maiestriewhich he in\n                    his kingdome vs graunte for to se\n",
+            "Attributed Author": "\ngeorge Riple (f. 41)",
+            "Attributed Title": "\nHere begynithe the Compende of Alkamie made by A Channon of\n                    Bridlington\u2026 Sir george Riple (f. 41)",
+            "folio": "ff. 41-65"
+        },
+        "BodRawPoe121": {
+            "First Lines": "\nChilde of this discepline incline to me thine eareand harken vnto\n                    my doctrine with all thie dilligence\u2026\n",
+            "Last Lines": "\n\u2026praisinge without ceasinge his glorious maiestyewhich he in\n                    his kingdome graunte vs for to see\n",
+            "Note": "\nPost-medieval transcript.",
+            "Attributed Title": "\nHere begeneth the Compounde of Alcamye made by acanon of Bridlingtoun\n                    \u2026 georg Riplye\u2026 (f. 35v)",
+            "folio": "ff. 35v-69v"
+        },
+        "BodRawPoe182": {
+            "First Lines": "\nChilde off this discypline enclyne to thyne eareAnd harken to my\n                    doctryne with all thy diligence\u2026\n",
+            "Last Lines": "\n\u2026 praysinge without sesynge his glorious maiestiewhich hee in\n                    his kingdome vs grant for to see\n",
+            "Attributed Author": "\na Canon of briglington \u2026 George Rypla (f. 1)",
+            "Attributed Title": "\nHere beginneth the Compound of Alcamy made by a Canon of briglington\n                    \u2026 George Rypla\u2026 (f. 1)",
+            "folio": "ff. 2-36v"
+        },
+        "OxfCCC172": {
+            "First Lines": "\nHere foloweth the compend of Alkymyemade by a channon of\n                    Brydlyngton\u2026\n",
+            "Last Lines": "\n\u2026This [ ] make [ ] Elixer [ ] Aurum potabileBy \u00fee Grace\n                    & will of god to whom all honour & glorie\n",
+            "Note": "\nIncluding Preface, 12 gates, Recapitulation and Admonition / copied from\n                    1591 print of Thomas Orwin, by Raph Rabbards Gentleman; title begins f. 7; text\n                    on f. 12v; begins 2 x 8 abababab; then RR, beginning f.\n                        12v\u2018O lyght incomprehensyble & gloryous magesty / Whose\n                    lumynous levys obtayneth our speculacion\u2026\u2019; includes Dedicatory\n                    epistle to Henry IV (\u2018O Honorable Lord & most Victorious\n                    Knight\u2026\u2019) at end (ff. 38-41).",
+            "folio": "ff. 7-41"
+        },
+        "CULFf223": {
+            "First Lines": "\nChylde of Discyplyne inclyne to me thy eareAnd [ ] my doctryne\n                    wythe all thy dylygens\u2026\n",
+            "Last Lines": "\n\u2026& that he wyll for one of his Dommes day me kenAnd grawnt\n                    me in his blydde to reinge for euer with hym Amen\n",
+            "Note": "\nEnds f. 32v with \u2018Explicit\u2019 and\n                    \u2018Finis\u2019 but further text attached on f. 32A and both sides of f. 33,\n                    damaged and worn.",
+            "Attributed Author": "\nMade by A Chanon of Brydlyngton (f. 1v)",
+            "Attributed Title": "\nHere begynnythe the Compende of Alkymye / Made by A Chanon of\n                    Brydlyngton\u2026 (plus 12 lines as introduction, rhyming ababababcdcdcd, f.\n                        1v)",
+            "folio": "ff. 1v-32"
+        },
+        "CULKk630": {
+            "First Lines": "\nIn the begynnyng when \u00feu mad all thyng of no\u021dghteA\n                    globous matere & derke vnderconfusioun\u2026\n",
+            "Last Lines": "\n\u2026lyeke as In blackenes moystour doth hym sheweBe colouris\n                    varyante ay newe & Newer\u2026\n",
+            "Note": "\nVariant; written as prose; ends imperfectly in chapter on\n                    \u2018congelacyon\u2019.",
+            "Attributed Author": "\nGeorge Ripla (f. 41v)",
+            "folio": "ff. 41v-45v"
+        },
+        "CamGon399": {
+            "First Lines": "\nO honorable And most victorious knightwith great grace and vertewe\n                    abondantly endewed\u2026\n",
+            "Last Lines": "\n\u2026In smelltand smokes \u00feu shalt haue much wovneth for\n                    sicknesse scarsly \u00feu shalt go\u2026\n",
+            "Note": "\nIncludes dedicatory Epistle to Henry IV as prologue (ff. 1-8); ends\n                    imperfectly.",
+            "Attributed Title": "\nThe boke wherin ys conteined the most secrete treasure called alchamie\n                    maide by mr George Replay munke of bridlington devided into 12\n                    chapters with his recapitulation & other many profitable experimentis and\n                    sentenses of philosophers (Part II, f. i); The compound of Alkamie (f.\n                        8v)",
+            "folio": "Part II, ff. 1-55v"
+        },
+        "CamTCC1120": {
+            "First Lines": "\n\u2026After all thys I wyll ye vnderstondefor thy sauegarde what I\n                    have don\u2026\n",
+            "Last Lines": "\n\u2026\u00fee soule of Saturne & also Marthafyceof which gey\n                    tincture I mad to sheu\u2026\n",
+            "Note": "\nFragment of another copy of Ripley\u2019s work: second copy of six\n                    stanzas (numbers 266-271), repeating ff. 129-129v.",
+            "folio": "Part I, ff. 128-128v"
+        },
+        "CamTCC1312": {
+            "First Lines": "\nIN \u00fee begynnyng when gode made all of no\u021dghteA globos\n                    matere & derke vnder confusyoun\u2026\n",
+            "Last Lines": "\n\u2026preysyng with ouo\u021dte sessyng hys gloryouse magesteWhyche\n                    he In hys kyngdome vs graunte for to see\n",
+            "Attributed Author": "\nQuod Georgeus Rypla canonicus de Brydlyngtoun / Cuius anime propicietur\n                        deus dicamus omnes (f. 37); \u2026Cuius Rypla georga canonicus quis\n                        auctor erat\u2026(f. 37v)",
+            "Attributed Title": "\nExplycyt Alkimice tractatus philosophie Cuius Rypla georga canonicus\n                        quis auctor erat m. quadragentes septuagesima vniusque teneratis annis qui\n                        scriptus compositus que fuit auctori preve prece queso Innanis Illi purgamen\n                        lene prius vitam sit ut amen (f. 37v)",
+            "folio": "ff. 27-37v"
+        },
+        "BLHar367": {
+            "First Lines": "\nO hyghe in compdensybell & gloryvs in magesteWhos lyght bemes\n                    assendit howr owr speculasion\u2026\n",
+            "Last Lines": "\n\u2026praysynge with out sesynge his gloryouse maiestewhiche he in\n                    his kyngdome vs graunt for to se\n",
+            "Note": "\nVariant version. To left of first few lines, in space left for initial,\n                    a later hand adds, \u2018Written by John Stow in his owne hand writene\u2019\n                    (f. 55); in second line \u2018howr\u2019 written and crossed through before\n                    \u2018owr\u2019 (f. 55)",
+            "Attributed Author": "\nRipley (f. 75)",
+            "Attributed Title": "\nExplicit alkimee tractatus philosophie Ciuis Ripley [\u2026] erit M\n                        quadramgentis sextuaginta vnus qui [\u2026]antri Ann[\u2026] fuit autore\n                        lector parte queso proci[\u2026] [\u2026]amen [\u2026]amen\n                        [\u2026]setinit amen Hic autor prosequesturesit [\u2026] prote\n                        [\u2026]ise [\u2026]diuitras dat corporeas transp[\u2026]aces\n                        [\u2026] (f. 75)",
+            "folio": "ff. 55-75"
+        },
+        "BLHar853": {
+            "First Lines": "\nHeare beginneth the compounde of Alchemyemade by a Cannon of Brydlington after his learninge in Italye\u2026\n",
+            "Last Lines": "\n\u2026thus shall yow haue boeth greate Elixer & Antum potabileby the grace and wille of god to whome be laude eternally\n",
+            "Attributed Title": "\nThus endeth the compend vppon the Philosophers stonne (f. 25)",
+            "folio": "ff. 1-25"
+        },
+        "BLSl3809": {
+            "First Lines": "\n\u2026O hygh Incomparabyl and gloryus maieste\u2026\n",
+            "Note": "\nBegins imperfectly.",
+            "folio": "ff. 4-34v"
+        },
+        "NLW734B": {
+            "folio": "pp. 27-?"
+        },
+        "Appleby": {
+            "First Lines": "\n\u2026It is more ne[ ]re in sum thinge then in somtherfore take\n                    [h]ede what I to the wrightLor and knowlege neuer ys the comyet thou\n                    shalt not ine yt wight\u2026\n",
+            "Last Lines": "\n\u2026a temperiment not so thicke as the body isnor so thin as\n                    watter withouten miss\u2026\n",
+            "Note": "\nFragment of 74 stanzas: begins in 12th verse of Preface and ends in\n                    penultimate verse of 4th Gate; missing 3rd folio (between pp. 4 and 5); with\n                    extensive marginal glosses and notes in English by the scribe.",
+            "folio": "pp. 1-12"
+        },
+        "EDULaiii164": {
+            "First Lines": "\nChyld of \u00feis discipline incline to me thi ereand herkyn to my\n                    doctrine with alle \u00fei diligenceThese wordis of wysdome in mynde\n                    \u00feu bere\u2026\n",
+            "Last Lines": "\n\u2026Preysinge withowte cessinge hys gloryouse magesteWhech he in\n                    his kyndom vs graunt for to be\n",
+            "folio": "pp. 3-19"
+        },
+        "Scott": {
+            "Editions": "\nBrydges,  Sir Samuel Egerton. \n             Censura Literaria.\n         10 vols. London: Longman, 1805-09; 2nd ed., 1815: 8.319-21 (preface only).\n",
+            "folio": ""
+        },
+        "Longleat178": {
+            "folio": ""
+        },
+        "Petworth97": {
+            "folio": ""
+        },
+        "SouthCL1597": {
+            "folio": "pp. 1-30"
+        },
+        "PhilUPSmith4": {
+            "First Lines": "\nO honorable lorde & moste victoriouse knightWith grace &\n                    fortune aboundantly endewed\u2026\n",
+            "Last Lines": "\n\u2026praysinge withowte seasinge his gloriouse maiestieWith he in\n                    his kingdome vs graunte for to see\n",
+            "Note": "\nRipley\u2019s 12 Gates, include. Introductory lines, Preface, 12 Gates,\n                    Recapitulation and Admonition, in rhyme royal; preface thirty 8-line stanzas,\n                    ababbcbc.",
+            "Attributed Author": "\nGeorge Ripley (ff. 10v, 13)",
+            "Attributed Title": "\nGeorge Ripley vnto kinge Edwarde \u00fee 4th (f. 10v); George\n                    Ripley Chanon Regular of Brillington Intituled his twelve gates (f.\n                    13)",
+            "folio": "ff. 10v-30v"
+        }
+    }
+}

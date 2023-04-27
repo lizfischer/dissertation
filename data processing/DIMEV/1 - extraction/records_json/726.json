@@ -1,0 +1,28 @@
+{
+    "_id": 726,
+    "_header": "At Tweeds mouth there stands a noble town",
+    "Note": "Formerly 384.",
+    "Author(s)": "William Dunbar (attrib.)",
+    "Title(s)": "\u2018The Freiris of Berwick\u2019",
+    "Subjects": "friars; Berwick (Scot.)",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018The Freiris of Berwick\u2019, sometimes ascribed to William Dunbar \u2014 589 lines in couplets (with introductory couplet: \u2018As it befell and happinit into deid &c.\u2019)",
+    "_witnesses": {
+        "CamMagPep2553": {
+            "First Lines": "\nAs it befell and hapnit vpon deidVpon ane rever the quhilk is\n                    callit tweidAt tweidis mouth \u00feair standis ane nobill\n                    toun\u2026\n",
+            "Last Lines": "\n\u2026And thus my taill I end heir of the freyrChryst send ws peice\n                    and lat ws nevir haue weyr\n",
+            "Attributed Title": "\nffinis the freiris of berwik (p. 129)",
+            "Editions": "\n\nPinkerton,  John,\n                        ed.  \n             Ancient Scottish Poems Never Before in Print.\n         2 vols. London and Edinburgh, 1786: 1.65-85.\nBaildon,  Henry Bellyse. \n             The Poems of William Dunbar.\n         Cambridge: University Press, 1907: 211-24.\nCraigie,  William Alexander. \n             The Maitland Folio Manuscript, Containing Poems by Sir Richard\n                Maitland, Dunbar, Douglas, Henryson, and others.\n             2 vols. \n             Scottish Text Society\n         n.s. 7 (1919), 20 (1927); Edinburgh and London: Blackwood, 1919,\n            1927: 1.133-48.\n\n",
+            "folio": "pp. 113-129"
+        },
+        "Banna": {
+            "First Lines": "\nAs It befell and happinnit in to deidVpoun a rever The quhilk is\n                    callit tweid\u2026\n",
+            "Last Lines": "\n\u2026This is the story that hapnit of that freirNo moir thair is\n                    bot Chryst ws help most deir\n",
+            "Note": "\n567 lines in this MS.",
+            "Attributed Title": "\nHeir Begynnis the freiris of berwik (f. 348v)",
+            "Facsimiles": "\nFox,  Denton,  and  William A. Ringler.  \n             The Bannatyne Manuscript: National Library of Scotland Advocates\u2019\n                MS. 1.1.6\n         London: Scolar Press, in Association with The National Library of\n            Scotland, 1980. \n",
+            "Editions": "\n\nSibbald,  John. \n             Chronicle of Scottish Poetry\u2026.\n         4 vols. Edinburgh and London, 1802: 2.372-90.\nLaing,  David. \n             The Poems of William Dunbar.\n         2 vols. Edinburgh: Laing and Forbes, 1834; Supplement, 1865: 2.3-32.\nMurdoch,  James Barclay. \n             The Bannatyne Manuscript.\n             4 vols. in 11 parts, paged continuously. \n             Hunterian Club\n         16, 32, 40, 46, 50, 55-56, 64-67 Glasgow: Anderson, 1873-1896: 4.1004-20.\nSmall,  John, Ae. James George Mackay,  George Powell McNeill,   and  Walter Gregor, eds.  \n             The Poems of William Dunbar.\n             5 pts. \n             Scottish Text Society\n         2, 4, 16, 21, 29. Edinburgh, 1884-93: 285-34.\nRitchie,  W. Tod,\n                        ed.  \n             The Bannatyne Manuscript.\n             4 parts in 4 vols. \n             Scottish Text Society\n         3rd ser. 5 (1928); n.s. 22 (1928); n.s. 23 (1930); n.s. 26 (1934)\n            Edinburgh and London: Blackwood, 1928-34; ed. by Ritchie et al: 4.261-77.\nMacKenzie,  William Mackay. \n             The Poems of William Dunbar.\n         Edinburgh, 1932: 182-95.\nFurrow,  Melissa M.,\n                        ed.  \n             Ten Fifteenth-Century Comic Poems.\nGarland Medieval Texts\n         13. New York and London: Garland, 1985: 327-62.\n\n",
+            "folio": "ff. 348v-354v"
+        }
+    }
+}

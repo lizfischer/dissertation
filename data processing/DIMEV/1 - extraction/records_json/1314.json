@@ -1,0 +1,23 @@
+{
+    "_id": 1314,
+    "_header": "First calcine and after that putrify",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 411; cf. 5696; sometimes used as a conclusion to 4236; see also Singer (1928)\nXSinger, Dorothea Waley. Catalogue of Latin and Vernacular Alchemical Manuscripts. 3 vols. Brussels: Lamertin, 1928-31, 8.",
+    "Title(s)": "\u2018Secretum super corpus spiritum et animam\u2019",
+    "Subjects": "alchemy",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "An English verse extract from the pseudo-Democritus, \u2018Secretum super corpus spiritum et animam\u2019 \u2014 twenty lines in rough quatrains with irregular rhymes",
+    "_witnesses": {
+        "BodAsh759": {
+            "First Lines": "\nffyrst calcyn and after that putrefiedissolue distille sublyme\n                    destende and frye\u2026\n",
+            "Last Lines": "\n\u2026And that he can by craft hym so bakeTruly at thende his werk\n                    shall hym not rewe\n",
+            "folio": "ff. 78-78v"
+        },
+        "BodAsh1487": {
+            "First Lines": "\nffirst Calcyne, and after putrefiedissolue, distill, sublyme,\n                    discend, and frye\u2026\n",
+            "Last Lines": "\n\u2026and that he can bye craft so hyme bakeTrulye at the ende, his\n                    worke shall hyme not rewe\n",
+            "Note": "\nHeading, \u2018An other Conclusion\u2019 (f. 74v); 19 lines\n                    only.",
+            "Editions": "\nAshmole,  Elias. \n             Theatrum Chemicum Britannicum.\n         London: J. Grimond, 1652: 33.\n",
+            "folio": "Part II, f. 74v"
+        }
+    }
+}

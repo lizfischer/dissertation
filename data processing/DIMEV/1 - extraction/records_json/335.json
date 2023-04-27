@@ -1,0 +1,37 @@
+{
+    "_id": 335,
+    "_header": "All haste is odious whereas discretion",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 115.",
+    "Author(s)": "John Lydgate",
+    "Subjects": "precepts, moral",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, Verses against Haste \u2014 twenty 8-line stanzas with refrain",
+    "_witnesses": {
+        "BodRawC86": {
+            "First Lines": "\nAll hast is odious wher as discreciounOf wilfulnesse hath non\n                    interesse\u2026\n",
+            "Last Lines": "\n\u2026Hast in all perill to crystes passiounEnbrace \u00feat baner\n                    and do \u00feer on A byde\n",
+            "folio": "ff. 84-86"
+        },
+        "CULKk16": {
+            "First Lines": "\nAlle haste is odious where as discressionOff wylfulnesse hath non\n                    intresse\u2026\n",
+            "Last Lines": "\n\u2026Haste in all perylys to Cristus PassiounEnbrace \u00feat\n                    Baner & do \u00feer by a byde\n",
+            "Attributed Author": "\n\u2018Explicit quod Lydgate\u2019 (f. 208v)",
+            "Attributed Title": "\nHere\u2026be gyneth the dite on \u00feis worde / He hasteth weel \u00feat\n                    wysely can a byde (f. 205v)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 759-64.\n",
+            "folio": "ff. 205v-208v"
+        },
+        "BLHar78": {
+            "First Lines": "\nAll hast ys edyns where as dystrecyounof wylfulnes hath non\n                    encrese\u2026\n",
+            "Last Lines": "\n\u2026hast in all perelles to cryst Ihesu ys passyounEnbras there\n                    thy banner & loke there thou abyde\n",
+            "Note": "\n14 stanzas.",
+            "Attributed Author": "\nlydgatt (f. 79, added by later hand)",
+            "folio": "ff. 77v-79"
+        },
+        "BLHar2251": {
+            "First Lines": "\nThe hasty man failith neuer wooHast contrarious enmy to\n                    sadnes\u2026\n",
+            "Last Lines": "\n\u2026hast in al pile vnto cristes passounEnbrace \u00feat banner\n                    and \u00feeron abyde\n",
+            "Note": "\n8 stanzas.",
+            "folio": "ff. 26v-27"
+        }
+    }
+}

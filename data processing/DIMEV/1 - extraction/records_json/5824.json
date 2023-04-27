@@ -1,0 +1,24 @@
+{
+    "_id": 5824,
+    "_header": "Thou First Mover that causest all thing",
+    "Author(s)": "John Lydgate",
+    "Subjects": "Anne, saint; saints, prayers to",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lydgate, an Invocation to St. Anne \u2014 eleven stanzas rhyme royal",
+    "_witnesses": {
+        "BodAsh59": {
+            "First Lines": "\nTHowe first moever \u00feat causest euery thingeTo haue his keping\n                    thorughe \u00fey provydenceAnd rightfully art called lorde and\n                    kyngHavinge \u00fee lordship of eche intelligence\u2026\n",
+            "Last Lines": "\n\u2026He graunte vs mercy in \u00feis exyle hereSith he vs bought\n                    with his blode so dere\n",
+            "Attributed Title": "\nHere begynne\u00fee a devoute Invocacoun to sainte Anne by \u00feat\n                    solempne Religious Lidegate made at \u00fee commaundement of my ladye Anne\n                    Countasse of Stafford (f. 44v)",
+            "folio": "ff. 44v-45v"
+        },
+        "BLAdd16165": {
+            "First Lines": "\n\u00deou first moeuer \u00feat causest euery thingTo haue his\n                    keping thoroughe prouyndence\u2026\n",
+            "Last Lines": "\n\u2026He graunt vs mercy in his exyle heereSich he vs bought with\n                    his blood so deer\n",
+            "Attributed Author": "\nby Lidegate (f. 247)",
+            "Attributed Title": "\nInvocation by Lidegate to Saynte Anne (f. 247)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 130-3.\n",
+            "folio": "ff. 247-248"
+        }
+    }
+}

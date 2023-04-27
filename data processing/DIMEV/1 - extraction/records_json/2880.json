@@ -1,0 +1,21 @@
+{
+    "_id": 2880,
+    "_header": "Jesu my lover and my delight",
+    "Subjects": "prayers, by Christ and His Passion; virtues",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A prayer by the Passion for Chastity \u2014 fourteen couplets",
+    "_witnesses": {
+        "Lam541": {
+            "First Lines": "\nIesu my louer And my deliteIn \u00fei loue make me\n                    perfite\u2026\n",
+            "Last Lines": "\n\u2026\u00fees permisses good iesu grante to me\u00feat in heuyn\n                    blisse y may \u00fee see\n",
+            "Editions": "\nRobbins,  Rossell Hope. \n             \u201cFive Middle English Verse Prayers from Lambeth MS. 541.\u201d \n             Neophilologus\n         38 (1954): 36-41: 40-1.\n",
+            "folio": "ff. 2-2v"
+        },
+        "Mazar514": {
+            "First Lines": "\nIhesu my loue and my delytIn \u00fei loue make me\n                    parfyt\u2026\n",
+            "Last Lines": "\n\u2026Ihesu swete barn bestIn \u00fei loue make me\n                    stedfest\n",
+            "Note": "\n16 lines; immediately follows 3290.",
+            "folio": "f. 7v"
+        }
+    }
+}

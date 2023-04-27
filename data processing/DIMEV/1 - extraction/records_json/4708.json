@@ -1,0 +1,16 @@
+{
+    "_id": 4708,
+    "_header": "Saint Mary mother mild",
+    "Subjects": "hymns, to Virgin Mary and Christ; Virgin Mary and Christ, songs/prayers to",
+    "Versification": "\u2014 ten-line \u2014 ababccdeed",
+    "Macaronic": "Latin",
+    "_description": "A macaronic hymn to the Virgin Mary and Christ \u2014 six 10-line stanzas",
+    "_witnesses": {
+        "CamTCC323": {
+            "First Lines": "\nSeinte mari moder milde mater salutarisfeirest flour of eni\n                    felde uere nuncuparis\u2026\n",
+            "Last Lines": "\n\u2026\u00feat i ne misseof \u00feine\n                    blisseposcente\n\n",
+            "Editions": "\n\nChambers,  Edmund Kerchever,  and  Frank Sidgwick.  \n             Early English Lyrics\u2026.\n         London: Buller, 1907, 1911 et seq: 89-91.\nPatterson,  Frank A. \n             The Middle English Penitential Lyric.\nColumbia University Studies in English.\n         New York: Columbia Press, 1911: 148-9.\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 22-4.\nRickert,  Edith,\n                        ed.  \n             Ancient English Christmas Carols.\n         London: Chatto & Windus, 1910: 3-5.\n\n",
+            "folio": "f. 24v"
+        }
+    }
+}

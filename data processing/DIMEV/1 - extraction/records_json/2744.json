@@ -1,0 +1,20 @@
+{
+    "_id": 2744,
+    "_header": "It is so pretty in every degree",
+    "Note": "Possibly an embryonic carol.",
+    "Subjects": "love lyrics",
+    "Versification": "\u2014 four-line",
+    "_description": "The deluded lover \u2014 four quatrains and 2-line refrain",
+    "_witnesses": {
+        "BLAdd5465": {
+            "Editions": "\n\nHawkins,  Sir Thomas. \n             A General History of the Science and Practice of Music.\n         5 vols. London: T. Payne, 1776: 3.24.\nRimbault,  Edward Francis. \n             A Little Book of Songs and Ballads.\n         London: J. R. Smith, 1851: no. 40.\nFehr,  Bernhard. \n             \u201cDie Lieder des Fairfax MS (Add. 5465 Brit. Mus.).\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         106 (1901): 48-70: 67.\nFl\u00fcgel,  Ewald,\n                        ed.  \n             Neuenglisches Lesebuch.\n         1 Bd. Halle: Niemayer, 1895: 143.\n\n",
+            "folio": "f. 93v"
+        },
+        "NYPLDrexFr4180": {
+            "Transcription": "\n\u2026please alake good Jone what may [ ][ ]y shall be [ ]e [ ]oll\n                    by swyt sent denys by swete seynt denys[ ]Hyt ys so praty in\n                    euery degre a good [ ][ ]avour & in facion lo [ ][ ] see but hit\n                    were an angell of \u00fee [ ][ ] of \u00fee tri[ ][ ][ ] ym\n                    \u00feat wuld of such recreacion \u00feat god hath ordenyd in vs\n                    fyrst\u2026\n",
+            "Note": "\nPortions of pages cut away to fit as endleaves to seventeenth-century\n                    song book.",
+            "Editions": "\nStevens,  John,\n                        ed.  \n             Music and Poetry in the Early Tudor Court.\n         London: Methuen, 1961: 377-8.\n",
+            "folio": "f. 170"
+        }
+    }
+}

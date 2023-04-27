@@ -1,0 +1,25 @@
+{
+    "_id": 4636,
+    "_header": "Saint John the good gospeller",
+    "Note": "For other MSS see 4644; for the version in the \u2018expanded\u2019 Cycle see 4649.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Fourth Sunday in Lent in the Northern Homily Cycle",
+    "_witnesses": {
+        "BLAdd38010": {
+            "First Lines": "\nSaint Iohn \u00fee gud gospellerTelles \u00feat I sall say you\n                    her\u2026\n",
+            "Last Lines": "\n\u2026That may yhe by a tall now hereThat I haue redy rymand\n                    her\n",
+            "folio": "ff. 73-75"
+        },
+        "Lam260": {
+            "folio": "f. 30vb"
+        },
+        "MinULZ822": {
+            "First Lines": "\nSaynt Ion \u00fee gude gospellereTelles \u00feat I sall say\n                    \u021dow here\u2026\n",
+            "Last Lines": "\n\u2026\u00feat may \u021de be a tale now here\u00feat I haue redy\n                    rynnand here\n",
+            "Attributed Title": "\nDominica iiiia quadragessime Secundum Johannem (f.\n                    62)",
+            "folio": "ff. 62-65"
+        }
+    }
+}

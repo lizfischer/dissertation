@@ -1,0 +1,22 @@
+{
+    "_id": 4613,
+    "_header": "Saint Helena was in Britain born and comen of high kindred",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Helena, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Helena in two MSS of the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "BLHar2250": {
+            "First Lines": "\nSaynt elene was in bretayne borne & comen of hegh kynradeHo\n                    leued truly in \u00fee lawe \u00feat gode to moyses made\u2026\n",
+            "Last Lines": "\n\u2026At Rome saynt Elene deede & \u00feo ho buried isOure\n                    lorde for saynt elene loue sende vs heuen blis\n",
+            "Attributed Title": "\nSaynt Elene (RT)",
+            "folio": "ff. 81v-83"
+        },
+        "Lam223": {
+            "First Lines": "\nSAynt Elyn was in bretayn born & comen of hegh kynradeShe loued\n                    truly \u00feat lawe \u00feat god to moyses made\u2026\n",
+            "Last Lines": "\n\u2026At Rome saynt Elyn dyed & \u00feere she biried isOure\n                    lord for saynt Elyn love graunte vs heuen blis Amen\n",
+            "Attributed Title": "\nSaynt Elyn (RT)",
+            "folio": "ff. 102v-105v"
+        }
+    }
+}

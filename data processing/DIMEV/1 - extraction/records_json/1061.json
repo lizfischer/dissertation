@@ -1,0 +1,32 @@
+{
+    "_id": 1061,
+    "_header": "Compatience pierces ruth and mercy stands",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 326.",
+    "Subjects": "Christ, Passion of; Passion",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "\u2018The Passioun of Christ\u2019 \u2014 eight 8-line stanzas",
+    "_witnesses": {
+        "BLAru285": {
+            "First Lines": "\nCompatience persis reuth & marcy stoundisIn myddis my hert and\n                    thirlis throw \u00fee vanis\u2026\n",
+            "Last Lines": "\n\u2026My saule with sanctis saluiour resaifSen \u00feat \u00fei\n                    passioun purgit my trespas\n",
+            "Attributed Title": "\nThe passioun of crist (f. 159v)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Arundel MS 285.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Arundel_MS_285. \n",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 131-3.\nStevenson,  George. \n             Pieces from the Makculloch and the Gray MSS. together with The Chepman\n                and Myllar Prints.\nScottish Text Society\n         65. Edinburgh, 1918: 293-5.\nBennett,  Jack Arthur Walter,\n                        ed.  \n             Devotional Pieces in Verse and Prose from Ms. Arundel 285 and Ms.\n                Harleian 6919.\nScottish Text Society\n         3rd ser. 23. Edinburgh: Blackwood, 1955: 255-7.\nDavies,  Reginald Thorne. \n             Medieval English Lyrics: a critical anthology.\n         London, 1963; Evanston, IL: Northwestern UP, 1964: 274-6.\n\n",
+            "folio": "ff. 159v-161"
+        },
+        "Banna": {
+            "First Lines": "\nCompacience perssis Rewth and mercy stoundisIn myddis my hairt and\n                    thirlis throw \u00fee vanis\u2026\n",
+            "Last Lines": "\n\u2026My saule with sanctis sueit saluatur ressaif Sen that \u00fei\n                    passioun purgis my trespas\n",
+            "Attributed Title": "\nffinis de passioni (f. 34)",
+            "Facsimiles": "\nFox,  Denton,  and  William A. Ringler.  \n             The Bannatyne Manuscript: National Library of Scotland Advocates\u2019\n                MS. 1.1.6\n         London: Scolar Press, in Association with The National Library of\n            Scotland, 1980. \n",
+            "Editions": "\n\nMurdoch,  James Barclay. \n             The Bannatyne Manuscript.\n             4 vols. in 11 parts, paged continuously. \n             Hunterian Club\n         16, 32, 40, 46, 50, 55-56, 64-67 Glasgow: Anderson, 1873-1896: 89-91.\nRitchie,  W. Tod,\n                        ed.  \n             The Bannatyne Manuscript.\n             4 parts in 4 vols. \n             Scottish Text Society\n         3rd ser. 5 (1928); n.s. 22 (1928); n.s. 23 (1930); n.s. 26 (1934)\n            Edinburgh and London: Blackwood, 1928-34; ed. by Ritchie et al: 2.83-5.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 131-3.\n\n",
+            "folio": "ff. 33v-34"
+        },
+        "EDULaiii149": {
+            "First Lines": "\nCompaiens pers rewcht and mercy stundisIn myddis myne hart and\n                    thirlis throw \u00fee banis\u2026\n",
+            "Last Lines": "\n\u2026my saul with sanctes suet saluatour rasaifsen \u00feat\n                    \u00fei passioun purgit my praspas\n",
+            "Editions": "\nStevenson,  George. \n             Pieces from the Makculloch and the Gray MSS. together with The Chepman\n                and Myllar Prints.\nScottish Text Society\n         65. Edinburgh, 1918: 65.\n",
+            "folio": "f. 86va-86vb"
+        }
+    }
+}

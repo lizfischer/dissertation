@@ -1,0 +1,25 @@
+{
+    "_id": 1772,
+    "_header": "Harkeneth all for your prow / What good John us telleth now",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel; John the apostle, saint",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel \u2018In festo sancti Ioh. apost.\u2019, in \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nHerkne\u00fe alle for \u021dor prouWhat goode Ion vs telle\u00fe\n                    nou\u2026\n",
+            "Last Lines": "\n\u2026He vs graunte of his graceTo come to heuene and sen his face\n                    Amen\n",
+            "Attributed Title": "\nDixit Ihesu petro sequere me (f. 218vb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cProprium Sanctorum, Zusatz-Homilien des Ms. Vernon fol. CCXV zur\n                n\u00f6rdlichen Sammlung der Domicalia evangelia.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         81 (1888): 83-114, 300-21: 97.\n",
+            "folio": "ff. 218vb-219ra"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nHErkene\u00fe ale for \u021dor prouWhat good Ion vs telle\u00fe\n                    nou\u2026\n",
+            "Last Lines": "\n\u2026He vs graunt of his graceTo come to heuene & sen his face\n                    Amen\n",
+            "Attributed Title": "\nDixit Ihesus Petro sequere me (f. 22rb)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 22rb-22va"
+        }
+    }
+}

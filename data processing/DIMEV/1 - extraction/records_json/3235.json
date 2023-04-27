@@ -1,0 +1,16 @@
+{
+    "_id": 3235,
+    "_header": "Lord Thy passion / Woe Thee thinketh ariseth thereon",
+    "Subjects": "Passion, meditations on; Christ, Passion of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Oxford, St John\u2019s College 190, f. 135v (possibly confused with the one in Cambridge UK, St John\u2019s College C.12 (62)?); Oxford, Bodleian Library Ashmole 360, Part VII (no SC number), Part VII, f. 45 (probably confused with Brown and Robbins (1943)\nXCarleton Fairchild Brown, and Rossell Hope Robbins. The Index of Middle English Verse. New York: Printed for the Index Society by Columbia University Press, 1943\n6340 which is also on the Passion and has similar folio number).",
+    "_description": "A remembrance of the Passion \u2014 six lines",
+    "_witnesses": {
+        "CamStJohn62": {
+            "First Lines": "\nLoverd \u00fei passionwo \u00fee \u00feenchet arist \u00fear\n                    on\u2026\n",
+            "Last Lines": "\n\u2026nebbes hit wetetant hertes hit swetet\n",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 113.\nJames,  Montague Rhodes. \n             A Descriptive Catalogue of the Manuscripts in the Library of St.\n                John\u2019s College, Cambridge.\n         Cambridge: at the UP, 1913: 85.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 50.\nWoolf,  Rosemary. \n             The English Religious Lyric in the Middle Ages.\n         Oxford: Clarendon, 1968: 20, 370.\n\n",
+            "folio": "f. 126vc"
+        }
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "_id": 4689,
+    "_header": "Saint Mark begins his gospel",
+    "Note": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the First Sunday in Advent in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nSaynt marke beginnes his gospellWi\u00fe wordes \u00feat i will\n                    \u021dow tell\u2026\n",
+            "Last Lines": "\n\u2026Of hir a party i will now tellIf \u00feat \u021de will listen\n                    to my spell\n",
+            "folio": "ff. 3-5"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Mark bi ginne\u00fe his gospelWi\u00fe wordus \u00feat i wole\n                    \u021dou tel\u2026\n",
+            "Last Lines": "\n\u2026Of hire wol a parti telle\u021cif \u021de wol lustne to my\n                    spelle\n",
+            "Note": "\nThis MS breaks between 4689 and 6795 twenty-six lines later, ending 4689, \u2018Hedde\n                    for\u021diuenes and mercie\u2019.",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 167ra2-167rc"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nSeynt Marke begynnes his gospelleWith Wordes \u00feat I sale\n                    \u021dowe tolle\u2026\n",
+            "Last Lines": "\n\u2026When criste come gostly til hire herteOf hire synne rise he\n                    hire gerte\n",
+            "Attributed Title": "\nHic incipiunt euangelia exposita in lingua anglicana a dominica prima\n                        aduentus & cetera (p. 3)",
+            "folio": "pp. 3-6"
+        },
+        "CULDd11": {
+            "First Lines": "\nSEynt mark beginni\u00fe his gospellewi\u00fe wordis \u00feat I\n                    wile \u021dow telle\u2026\n",
+            "Last Lines": "\n\u2026of hire I wile a parti telleif \u021de wile listne to my\n                    spelle\n",
+            "folio": "ff. 40-41v"
+        },
+        "CULGg531": {
+            "First Lines": "\nSaynt marke bygynnes hys spellWyt wordys \u00feat I sall \u021dou\n                    tell\u2026\n",
+            "Last Lines": "\n\u2026Of hyre will I a party tellIf \u021de wyll ly the and styll\n                    dwell\n",
+            "Attributed Title": "\nInicium sancti euangelii secundum Marcum (f. 8)",
+            "folio": "ff. 8-10"
+        },
+        "BLAdd30358": {
+            "First Lines": "\nSaynt mark begynnes \u00feus hys gospellWith wordes \u00feat I sall\n                    \u021dow tell\u2026\n",
+            "Last Lines": "\n\u2026Yf \u021de will lyth vn to my spellOf hyr apertly wyll I\n                    tell\n",
+            "folio": "ff. 4-5v"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nSainte Marke begynnes his gospellWith wordes \u00feat I shall\n                    \u00feow tell\u2026\n",
+            "Last Lines": "\n\u2026Iff \u021de will lyth vnto my spellOf hir apertly will I yow\n                    tell\n",
+            "folio": "ff. 3-5"
+        },
+        "BLHar4196": {
+            "First Lines": "\nSAynt marke bigynnes his godspelleWith wordes \u00feat I sall \u021dow telle\u2026\n",
+            "Last Lines": "\n\u2026Sum vnto bale an sum to blis\u00dean vnto welth oure lorde vs wis\n",
+            "Note": "\nPreceded by Latin, \u201cSicut scriptum est in ysaya & cetera.\u201d",
+            "Attributed Title": "\nFeriorum ii Secundum Marcum (rubric, f. 1va)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): I.148-153.\n",
+            "folio": "ff. 1va-2va"
+        },
+        "EDCPCM": {
+            "First Lines": "\n[S]Ayn mark byginnes his godspelWit wordes \u00feat I wil you\n                    tel\u2026\n",
+            "Last Lines": "\n\u2026Of hir wil ik aperti telleYef ye will list and li\u00fee mi\n                    spel\n",
+            "Attributed Title": "\nIncipit euangelium domine Secundum Marcum (f.\n                    17ra)",
+            "Editions": "\n\nSmall,  John,\n                        ed.  \n             English Metrical Homilies\u2026.\n         Edinburgh: W. Paterson, 1862: 9-20.\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n\n",
+            "folio": "ff. 17ra-17vb"
+        },
+        "Lam260": {
+            "First Lines": "\nSAynt Mathew bygynnes hys gospellWith wordes I wyll \u021dow\n                    tell\u2026\n",
+            "Last Lines": "\n\u2026Off hyre I wyll a parti tellYff \u00feat \u021de wyll lysten\n                    to my spell\n",
+            "folio": "ff. 1vb-2va"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "_id": 6686,
+    "_header": "Will ye I-hearen of twelfth day",
+    "Subjects": "Magi; tales, from Scripture; translations",
+    "Versification": "\u2014 four-line, eight-line \u2014 aaaa, abababab",
+    "_description": "Ballad of Twelfth Day, the story of the Magi and Herod \u2014 ten 4-line stanzas (long lines usually with medial rhyme), or ten 8-line stanzas, abababab",
+    "_witnesses": {
+        "CamTCC323": {
+            "Note": "\nFour stanzas only in a faint scribbling, now erased and mostly\n                    illegible.",
+            "Editions": "\n\nGreg,  Walter Wilson. \n             \u201cA Ballad of Twelfth Day.\u201d \n             Modern Language Review\n         8 (1913): 64-7; 9 (1914): 235-6: 235.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 185-6.\n\n",
+            "folio": "ff. 33;  36v;  41v;  42v"
+        }
+    }
+}

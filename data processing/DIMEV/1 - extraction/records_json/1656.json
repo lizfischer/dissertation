@@ -1,0 +1,28 @@
+{
+    "_id": 1656,
+    "_header": "Grant gracious God grant me this time",
+    "Note": "For a later version, post 1544, cf. Flodden Field, ff. 120-125; London, British Library Addit. 27879, p. 117; pr. Weber (1808)\nXWeber, Henry William. The Battle of Flodden Field. Edinburgh: Ballantyne, 1808; Evans (1810)\nXEvans, Thomas. Old Ballads: historical and narrative, with some of modern date. London: for R. H. Evans by W. Bulmer, 1810; Hales and Furnivall (1867)\nXJohn Wesley Hales, and Frederick James Furnivall. Bishop Percy\u2019s Folio Manuscript: Ballads and Romances. 3 vols. London: Tr\u00fcbner, 1867-68, 1.318-40.",
+    "Title(s)": "Scottish Feilde",
+    "Subjects": "historical poems; Stanley, family history; history, family",
+    "Versification": "\u2014 alliteration \u2014 unrhymed",
+    "_description": "The House of Stanley: Scottish Feilde \u2014 422 alliterative lines",
+    "_witnesses": {
+        "BodDepc130": {
+            "First Lines": "\nthat dred was sone afterRayled full of redd\n                    roses\u2026\n",
+            "Last Lines": "\n\u2026That have hearkened me hereThat heded well my\n                    tale\n",
+            "Note": "\nFacsimile of a very long and narrow piece of parchment which contains\n                    only this poem. Begins imperfectly. At the end:\n                    \u2018Finis\u2019.",
+            "folio": ""
+        },
+        "BLAdd27879": {
+            "Editions": "\n\nHales,  John Wesley,  and  Frederick James Furnivall, eds.  \n             Bishop Percy\u2019s Folio Manuscript: Ballads and Romances.\n         3 vols. London: Tr\u00fcbner, 1867-68: 1.212-34.\nChild,  Francis James. \n             The English and Scottish Popular Ballads.\n         5 vols. in 10 parts. Boston and New York: Houghton, Mifflin,\n            1882-98: 6.355.\nOakden,  J. P.,\n                        ed.  \n             \u201cScottish ffeilde.\u201d \n             Chetham Miscellanies, new series\n             vol. 6. \n             Chetham Society\n         n.s. 94 (1935), item e. \nGray,  Douglas. \n             The Oxford Book of Late Medieval Verse and Prose.\n         Oxford: Clarendon, 1985: 9-10.\n\n",
+            "folio": "pp. 79-90"
+        },
+        "RylandsLyme": {
+            "First Lines": "\n\u2026that dred was some afterPayles full of redd rosesand\n                    riches enoughthere he bekered with a bore\u2026\n",
+            "Last Lines": "\n\u2026that haue hearckened me hereand heard well my tale\n                    Finis\n",
+            "Note": "\nLong strips of parchment, probably originally a roll, now folded; begins\n                    imperfectly with gaps where missing or destroyed by animals; transcription is\n                        Oxford,  Bodleian Library Dep. c.130 [facsimile of Lyme Hall]. Followed by \u2018The names of the lordes and\n                    gentilmen of Scotland that were slaine in deede attis late battaill vpon\n                    brankston more.\u2019",
+            "Editions": "\nRobson,  John,\n                        ed.  \n             \u201cThe Scottish Field.\u201d \n             Chetham Miscellanies.\n            Vol. 2.\n             Chetham Society\n         o.s. 37 (1856). \n",
+            "folio": "ff. 1-5"
+        }
+    }
+}

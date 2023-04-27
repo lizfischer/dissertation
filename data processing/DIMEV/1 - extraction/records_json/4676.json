@@ -1,0 +1,22 @@
+{
+    "_id": 4676,
+    "_header": "Saint Luke the good evangelist",
+    "Note": "For the usual version see 5954.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Thirteenth Sunday after Trinity in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 219vb"
+        },
+        "BLHar4196": {
+            "First Lines": "\nSaint luke \u00fee gude euangelistTels vs how \u00feat ihesus crist\u2026\n",
+            "Last Lines": "\n\u2026And \u00feai two makes man saul full haleAls men may here now bi \u00feis tale\n",
+            "Note": "\nPreceded by Latin, \u201cBeati oculi qui uuident & cetera.\u201d",
+            "Attributed Title": "\nDominica xiii Secundum Lucam (rubric, f. 111vb)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): III.72-79.\n",
+            "folio": "ff. 111vb-113rb"
+        }
+    }
+}

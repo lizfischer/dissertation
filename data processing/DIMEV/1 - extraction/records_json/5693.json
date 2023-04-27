@@ -1,0 +1,33 @@
+{
+    "_id": 5693,
+    "_header": "This hardy fool this bird victorious",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "Balade on a New Year\u2019s Gift of an Eagle presented to King Henry VI in 1428",
+    "Subjects": "Henry VI; occasional verse; envoys",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lydgate, Balade on a New Year\u2019s Gift of an Eagle presented to King Henry VI in 1428 \u2014 eleven stanzas rhyme royal and Envoy",
+    "_witnesses": {
+        "CamTCC600": {
+            "First Lines": "\n\u00deis hardy foole \u00feis bridde victoryous\u00deis staately\n                    foole mooste ImperyalOf his nature fiers and corageousCalled in\n                    scripture \u00fee foole celestyal\u2026\n",
+            "Last Lines": "\n\u2026And to yow pryncesse he wol also \u00feer beHelth and welfare\n                    Ioye and prosparytee\n",
+            "Attributed Author": "\nmade by Ledegate (p. 149)",
+            "Attributed Title": "\n\u00deis balade was gyven vn to \u00fee Kyng Henry \u00fee vj and to his\n                    moder \u00fee qweene kateryne sittyng at \u00fee mete vpon \u00fee yeris day in\n                    \u00fee Castell of Hertford made by Ledegate (p. 149, of which \u2018\u00fee\n                    vj\u2019 is added by a later hand); Balade made to \u00fee Kyng Henry and to\n                    \u00fee qwene Kateryne (RT)",
+            "Editions": "\n\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 649-51.\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 88-90.\n\n",
+            "folio": "pp. 149-152"
+        },
+        "BLHar2251": {
+            "First Lines": "\nTHis hardy sowle this bridde victoriousThis stately sowle most\n                    Imperial\u2026\n",
+            "Last Lines": "\n\u2026And to yow pryncesse he wil also ther beHelth and welfare\n                    Ioye and prosperyte\n",
+            "Editions": "\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             A Selection from the Minor Poems of Don John Lydgate.\nPercy Society\n         2. London: T. Richard, 1840: 213-16.\n",
+            "folio": "ff. 249v-250v"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nThis hardy foole this bryd victoryousthis stately fole moste\n                    imperyall\u2026\n",
+            "Last Lines": "\n\u2026and to youre pryncesse he woll also ther be.helth and\n                    wellfare Ioye and prosperyte\n",
+            "Note": "\nEnds \u2018explicit\u2019 (f. 146v).",
+            "Attributed Author": "\nlidgate (f. 145v)",
+            "Attributed Title": "\nthis balade was gyuen vnto \u00fee kyng henry and to hys moder the quene\n                    kateryne sittyng at \u00fee mete vpon the yeares day in the castell of hertford\n                    made by lidgate & cetera (f. 145v)",
+            "folio": "ff. 145v-146v"
+        }
+    }
+}

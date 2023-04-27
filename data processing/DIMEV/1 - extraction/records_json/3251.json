@@ -1,0 +1,356 @@
+{
+    "_id": 3251,
+    "_header": "Lordings quod he in churches when I preach",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Pardoner\u2019s Prologue; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; preaching; Cupiditas",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the Pardoner\u2019s Prologue of the Canterbury Tales \u2014 136 lines in couplets.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nLOrdynges quod he in chirche whan I precheI peyne me to haue an\n                    hauten speche\u2026\n",
+            "Last Lines": "\n\u2026which I am wonte to preche for to wynnenow holdith youre pees\n                    my tale I wol bigynne\n",
+            "Attributed Title": "\n\u2026And next / folwyng bigynneth his tale Radix malorum est\n                        cupiditas (f. 240v); the Pardoner (RT)",
+            "folio": "ff. 240v-242v"
+        },
+        "BodBar20": {
+            "First Lines": "\nLordynges quod he in chirche when I precheI pyne me to haue a\n                    hauteyn speche\u2026\n",
+            "Last Lines": "\n\u2026Wiche Iames went to preche for to wynneNow holdeth \u021doure\n                    pees my tale I wil begynne\n",
+            "Attributed Title": "\n\u2026and here bygynnyth / The Tale (f. 185)",
+            "folio": "ff. 185-186v"
+        },
+        "Bod414": {
+            "First Lines": "\n[L]Ordinges coth he in church when I precheI peyne me to haue an\n                    haute speche\u2026\n",
+            "Last Lines": "\n\u2026Which I am wont to preche forto wynneNow holdith your peas my\n                    tale I wil begyn\n",
+            "Attributed Title": "\nThe Prolog of the Pardoner (f. 132v)",
+            "folio": "f. 132v-134"
+        },
+        "Bod686": {
+            "First Lines": "\nLordinges quod he in chirche whenne y precheI peyne me to han an\n                    hauten speche\u2026\n",
+            "Last Lines": "\n\u2026Which y am wonte to preche for to wynneNow holde youre pees\n                    my tale y wol bygynne\n",
+            "Attributed Title": "\nHere begynneth the Prologe of \u00fee pardoners tale / Radix omnium\n                        malorum est cupiditas ad Timotheum 6o (f. 152v,\n                    foot); Perdonere (RT); Here endeth the Prologe of the Perdoners / tale\u2026\n                    (f. 154v)",
+            "folio": "ff. 153-154v"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nLordinges quod he in chirches whan I precheI payn me to haue a\n                    hawteine speche\u2026\n",
+            "Last Lines": "\n\u2026Which I am wont to preche for to wynNow hold your pees my\n                    tale I wil begyn\n",
+            "Attributed Title": "\nHere beginneth \u00fee Prolog of the Pardoner Radix omnium / malorum est\n                        cupiditas Ad Timotheum vto (f. 157); The Pardonere (RT); Here\n                    endeth the Prolog of the Pardoner\u2026 (f. 158v)",
+            "folio": "ff. 157-158v"
+        },
+        "BodLauMis600": {
+            "First Lines": "\n\u2026Radix omnium malorum est cupiditasffirst I pronunce\n                    whens \u00feat I come\u2026\n",
+            "Last Lines": "\n\u2026Which I am wonte to preche for to wynneNow holde\u00fe your\n                    pees my tale I wol begynne\n",
+            "Note": "\nVI.287-328 (link), 329-33 lost.",
+            "Attributed Title": "\n\u00fee pardoner (RT)",
+            "folio": "ff. 208-209v"
+        },
+        "BodLauMis739": {
+            "First Lines": "\n[L]Ordynges quod he in chirch whan I precheI peyne me to haue an\n                    hawten speche\u2026\n",
+            "Last Lines": "\n\u2026Which Iames went to preche for to wynneNow holdeth \u021doure\n                    pees my tale I wil begynne\n",
+            "folio": "ff. 217v-219v"
+        },
+        "BodRawPoe149": {
+            "First Lines": "\nLordynges quod he in a chirche when I precheI peyne me to have an\n                    hauten speche\u2026\n",
+            "Last Lines": "\n\u2026Where Iames went to preche soules forto wynNow holde youre\n                    pees my tale I wil begyn\n",
+            "Note": "\nVI.420 omitted.",
+            "Attributed Title": "\nhere begynneth the pardoners tale (f. 94v); fab (f.\n                        94v, margin); the pardoner (RT)",
+            "folio": "ff. 94v-95v"
+        },
+        "BodRawPoe223": {
+            "First Lines": "\nLordinges quod he in chirche whan I precheI peyne me to han an\n                    haute speche\u2026\n",
+            "Last Lines": "\n\u2026Which I am wont to preche for to wynneNow holde your pees my\n                    tale I will begynne\n",
+            "Attributed Title": "\n\u2026And here beginneth the Prolog of the Pardoner (f. 165v);\n                    Pardoner (RT); Here endith the Prolog of the Pardoner\u2026 (f.\n                    167v)",
+            "folio": "ff. 165v-167v"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nLOrdynges quod he in chirche whan I precheI peyne me to haue an\n                    hauteyn speche\u2026\n",
+            "Last Lines": "\n\u2026Whiche I am wonte to preche for to wynneNow hoold youre pees\n                    my tale I wolle begynne\n",
+            "Note": "\nVI.333-4, 346 omitted; spurious lines follow 345.",
+            "Attributed Title": "\nHere bygynneth the Pardoners tale (f. 120)",
+            "folio": "f. 120-121v"
+        },
+        "OxfCCC198": {
+            "First Lines": "\nLordynges quod he in chirches whan I precheI peyne me to haue an\n                    hauteyn speche\u2026\n",
+            "Last Lines": "\n\u2026Which I am wont to preche for to wynneNow holde \u021doure\n                    pees my tale I wolle begynne\n",
+            "Note": "\nVI.334-5 partially lost due to tear; 361 omitted; spurious line follows\n                    362.",
+            "Attributed Title": "\n[tear]bygynne\u00fe \u00fee Pardoneres tale folwynge (f. 195);\n                        Cmxvjm (f. 195, margin); Pardoneres (RT,\n                    rubric)",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "ff. 195-197"
+        },
+        "OxfNew314": {
+            "First Lines": "\nLOrdyngis quod he in chirchis when I precheI peyne me to haue an\n                    haunten speche\u2026\n",
+            "Last Lines": "\n\u2026Which I am wont forto preche & forto wynNow holde your\n                    pees my tale I wol begynne\n",
+            "Note": "\nVI.361, 425-33 omitted; spurious line follows 362.",
+            "Attributed Title": "\n\u2026& begynnyth \u00fee pardoners / tale (f. 188); Pardoner (f. 188,\n                    margin); Pardoner (RT)",
+            "folio": "ff. 188-190"
+        },
+        "OxfTri49": {
+            "First Lines": "\nLordingis quoth he in chirchis when I precheI peyne to haue an\n                    hauten speche\u2026\n",
+            "Last Lines": "\n\u2026wiche Iames wente to preche for to wynnenow holdith youre\n                    pees my tale I wille begynne\n",
+            "Note": "\nVI.404 omitted.",
+            "Attributed Title": "\nPrologus Pardoner (f. 174); Pardoner (RT)",
+            "folio": "ff. 174-176"
+        },
+        "CULDd424": {
+            "First Lines": "\nLordynges quod he in chirches whan I precheI peyne me to haue an\n                    hauteyn speche\u2026\n",
+            "Last Lines": "\n\u2026Which I am wont to preche for to wynneNow holde \u021doure\n                    pees my tale I wol bigynne\n",
+            "Note": "\nVI.333-4, 346 omitted; spurious lines follow 345.",
+            "Attributed Title": "\nRadix omnium malorum est Cupiditas Ad Thymotheum 6o (f.\n                    142); The Perdoners owyn Prologe (f. 142v, above the written\n                    space)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 142v-143v"
+        },
+        "CULGg427": {
+            "First Lines": "\n\u2026And I assolie hym be the autoriteWhich that by bulle is\n                    grauntid on to me\u2026\n",
+            "Last Lines": "\n\u2026Whiche I am wonet to preche for to wynneNow holde \u021doure\n                    pes myn tale I wele begyne\n",
+            "Note": "\nVI.329-86 lost.",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "Editions": "\nFurnivall,  Frederick James. \n             The Cambridge MS (University Library, Gg.4.27) of Chaucer\u2019s\n                Canterbury Tales.\nChaucer Society\n         Series 1, nos. 4, 10, 17, 28, 33, 40, 52, 66. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 304-304v"
+        },
+        "CULIi326": {
+            "First Lines": "\nLOrdynges quod he in chirche when I precheI payne me to haue an\n                    hautyf speche\u2026\n",
+            "Last Lines": "\n\u2026Which I am wonte with preching forto wynneNowe holde your\n                    pease my tale I wil begynne\n",
+            "Note": "\nVI.401 omitted.",
+            "Attributed Title": "\n\u2026And here be gynneth the Pardoner his prologe (f. 171v);\n                    Pardoner (RT); Here endeth the pardoners prologe\u2026 (f. 173)",
+            "folio": "ff. 171v-173"
+        },
+        "CULMm25": {
+            "First Lines": "\nLordynges quod he in chirche when I precheI peyne me to haue an\n                    hauten speche\u2026\n",
+            "Last Lines": "\n\u2026Whiche Iames wente to preche for to wynneNowe holdeth\n                    \u021dour pees my tale I woll begynne\n",
+            "Attributed Title": "\n\u2026And here begynneth \u00fee tale (f. 190); \u00fee pardoner\n                    (RT)",
+            "folio": "ff. 190-191v"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[L]Ordynges quoth he in church when y prechey peyn me to haue a\n                    havteyn speche\u2026\n",
+            "Last Lines": "\n\u2026ffor though my self be a ful vycyous manA morall tale yet\n                    tell you y kan\n",
+            "Note": "\nVI.366-72, 415-18, 423-4, 429-36, 445-6, 461-2 omitted.",
+            "Attributed Title": "\nThe Tale of \u00fee pardoner (f. 200)",
+            "folio": "ff. 200-202"
+        },
+        "CamTCC582": {
+            "First Lines": "\nLordinges in chirches whan I precheI peine me to haue an haunten\n                    speche\u2026\n",
+            "Last Lines": "\n\u2026Wich that I am wont to preche forto winneNow hold youre pees\n                    my tale I will beginne\n",
+            "folio": "ff. 77vb-78vb"
+        },
+        "CamTCC595": {
+            "First Lines": "\nLOrdynges quod he in churches when I precheI peyne me to haue an\n                    hauten speche\u2026\n",
+            "Last Lines": "\n\u2026Whiche I am wont to preche for to wynNowe holde youre peace\n                    my tale I begyn\n",
+            "Note": "\nVI.361, 448 omitted; spurious line follows 362.",
+            "Attributed Title": "\n\u2026And begynneth the Pardeners Prologe (f. 177); Here endeth the\n                    Pardeners Prologe\u2026 (f. 179)",
+            "folio": "ff. 177-179"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nLOrdynges quod he in chirche wher y precheI peyne me for to han an\n                    hanhteyn speche\u2026\n",
+            "Last Lines": "\n\u2026Whiche y am wont to preche for to wynneNow holde your pes my\n                    tale y wil begynne\n",
+            "Note": "\nVI.333-4, 346 omitted; spurious lines follow 345; 363-4\n                    reversed.",
+            "Attributed Title": "\n\u2026& Incipit fabula eiusdem (f. 207v); Pardoner\n                    (RT)",
+            "folio": "ff. 207v-210"
+        },
+        "BLAdd25718": {
+            "First Lines": "\nLordinges quod he in chirche when I precheI peyne me to haue an\n                    hawten speche\u2026\n",
+            "Last Lines": "\n\u2026Whiche I am wonte to preche forto wynneNow hold youre pees my\n                    tale I wol bygynne\n",
+            "Note": "\nVI.356 left blank; 440, 441 inserted in margin.",
+            "Attributed Title": "\nHere begynneth the Pardoners tale (f. 53); Explicit Prohemium\u2026\n                    (f. 55)",
+            "folio": "ff. 53-55"
+        },
+        "BLAdd35286": {
+            "First Lines": "\nLordynges quod he in chirche whan I precheI peyne me to haue an\n                    hauntin speche\u2026\n",
+            "Last Lines": "\n\u2026Which I am wont to preche for to wynneNow holde your pees my\n                    tale I wole bygynne\n",
+            "Attributed Title": "\n\u2026here bigynneth the prologe of pardoners tale (f. 148v);\n                        Radix malorum est cupiditas as Thimotheum 6o (f.\n                        148v, margin); the pardoner (RT)",
+            "Editions": "\nHorobin,  Simon. \n             \u201cA Transcription and Study of British Library MS Additional 35286 of\n                Chaucer\u2019s Canterbury Tales.\u201d \n         Diss. Univ. of Sheffield, 1997. \n",
+            "folio": "ff. 148v-150v"
+        },
+        "BLEge2726": {
+            "First Lines": "\nLordynges koth he in chirches whan I precheI peyn me to haue an\n                    hauten speche\u2026\n",
+            "Last Lines": "\n\u2026Which I am wont to preche for to wynNow hold your pes my tale\n                    I woll begyn\n",
+            "Note": "\nVI.333-4, 346 omitted; 336 inserted in margin; spurious lines follow\n                    345.",
+            "Attributed Title": "\n\u2026& incipit fabula de Radix / Omnium malorum est Cupiditas\n                    (f. 163)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 163v-165"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[L]Ordynges quod he in chirches wher I precheI peyne me for to han\n                    an hauhteyn speche\u2026\n",
+            "Last Lines": "\n\u2026Which I am wont to preche for to wynneNow holde your pes my\n                    tale I will begynne\n",
+            "Note": "\nVI.333-4, 346 omitted; spurious lines follow 345.",
+            "Attributed Title": "\n\u2026Radix omnium malorum est cupiditas Ad Thimoth 6o\n                    (f. 171v); The pardoner is tale (RT)",
+            "folio": "ff. 171v-173"
+        },
+        "BLHar1758": {
+            "First Lines": "\nLOrdyngis quod he in chirche when I precheI peyne me to haue a\n                    hautyn speche\u2026\n",
+            "Last Lines": "\n\u2026Whiche Iames wente to preche for to wynneNow holdeth your\n                    pees my tale I woll begynne\n",
+            "Attributed Title": "\n\u2026and begynneth the tale (f. 151); The Pardoner (RT)",
+            "folio": "ff. 151-152v"
+        },
+        "BLHar7333": {
+            "First Lines": "\nLOrdinges quod he in churchis when I prechI peyne me to have an\n                    haunten spech\u2026\n",
+            "Last Lines": "\n\u2026which I am wont to preche for to wynneNow holde your pese my\n                    tale I wol begynne\n",
+            "Note": "\nVI.361 omitted; spurious line follows 362.",
+            "Attributed Title": "\nHere begynnithe \u00fee Pardoners tale (f. 94ra)",
+            "folio": "ff. 94va-95rb"
+        },
+        "BLHar7334": {
+            "First Lines": "\nLordyngs quod he in chirche whan I precheI peyne me to haue an\n                    hauteyn speche\u2026\n",
+            "Last Lines": "\n\u2026Which I am wont to preche for to wynneNow hold \u021dour pees\n                    my tale I wol byginne\n",
+            "Attributed Title": "\nNarrat (f. 185v); Pardoneres Prohem (RT)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "ff. 185v-187v"
+        },
+        "BLHar7335": {
+            "First Lines": "\n[L]Ordynges quod he in chirchis whan I precheI peyne me to haue an\n                    hauteyn speche\u2026\n",
+            "Last Lines": "\n\u2026Which I am wont to preche for to wynneNow hald your pees my\n                    tale y wol begynne\n",
+            "Attributed Title": "\nHere is the predicacioun / of the pardoner (f. 158v,\n                    margin)",
+            "folio": "ff. 158v-160v"
+        },
+        "BLLan851": {
+            "First Lines": "\nLOrdynges quod he in cherches whan I precheI peyne me to haue an\n                    haunteine speche\u2026\n",
+            "Last Lines": "\n\u2026Whiche I am wont to preche for to wynneNow holde \u021doure\n                    pes my tale I wil beginne\n",
+            "Note": "\nVI.361, 409-27 omitted; spurious line follows 362.",
+            "Attributed Title": "\n\u2026Incipit fabula questoris (f. 173v); \u00fee\n                    Pardonere (RT)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 173v-174v"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nLOrdynges quod he in chirche whan I precheI peyne me to have an\n                    haunteyn speche\u2026\n",
+            "Last Lines": "\n\u2026Whiche Iames to preche for to wynneNow holdith yowre peas my\n                    tale I wil begynne\n",
+            "Note": "\nSpurious lines follow 346.",
+            "Attributed Title": "\n\u2026and begynnyth the / tale of \u00fee Pardoner (f. 218,\n                    margin)",
+            "folio": "ff. 218-220"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nLOrdynges quod he in chirche when I precheI peyne me to haue a\n                    hautyn speche\u2026\n",
+            "Last Lines": "\n\u2026Which Iames wente to preche for to wynneNow holdeth\n                    \u021doure pees my tale I wil bygynne\n",
+            "Attributed Title": "\n\u2026And begynneth the tale (f. 174); quod he in chir[trimmed] (f. 174,\n                    margin); The pardoner (RT)",
+            "folio": "ff. 178-179v"
+        },
+        "BLSl1685": {
+            "First Lines": "\n[tear]dynges quod he in Chirche whan I preche[tear] peyne me to\n                    haue an hautyn speche\u2026\n",
+            "Last Lines": "\n\u2026Whiche Iames wente to preche forto wynneNow holdethe your\n                    pees my tale I will begynne\n",
+            "Attributed Title": "\n\u2026and begynneth \u00fee tale (f. 183); The Pardoner (RT)",
+            "folio": "ff. 183-184v"
+        },
+        "BLSl1686": {
+            "First Lines": "\nLOrdynges quod he in chirches when I precheI peyne me to have an\n                    hawnteyn speche\u2026\n",
+            "Last Lines": "\n\u2026Whiche I am wonte to preche for to wynneNow holde youre pees\n                    my tale I will begynne\n",
+            "Note": "\nVI.361 omitted; spurious line follows 362.",
+            "Attributed Title": "\n\u2026And her begynneth another Prolog for \u00fee same pardoner (f.\n                        221v); [A] nother Prolog of the Pardoner (RT); ",
+            "folio": "ff. 221v-224"
+        },
+        "NLWPen392": {
+            "First Lines": "\nLOrdynges quod he in chirches whan I precheI peyne me to han an\n                    hauteyn speche\u2026\n",
+            "Last Lines": "\n\u2026Which I am wont to preche for to wynneNow holde youre pees my\n                    tale I wol bigynne\n",
+            "Attributed Title": "\nRadix omnium malorum est Cupiditas Ad / Thimotheum 6o /\n                    Here bigynneth the prologe of the Pardoners tale (f.\n                    195v); The Pardoner (RT)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "ff. 195v-197"
+        },
+        "Alnwick455": {
+            "First Lines": "\nLordingis quod he in Chirchis when I prechI peyn me to have an\n                    haunten speche\u2026\n",
+            "Last Lines": "\n\u2026Wich I a wont with preching to wynneNowe hold yeur pese my\n                    tale I woll begynne\n",
+            "Note": "\nVI.333-4, 445-6, 449-50 omitted; 447-8 reversed; spurious lines follow\n                    345.",
+            "Attributed Title": "\nHere begynnyth the Pardonere his prologg (f. 161); Here endith the Pardoner\n                    his prolog\u2026 (f. 163)",
+            "folio": "ff. 161-163"
+        },
+        "GULHun197": {
+            "First Lines": "\nLOrdyngges quod he in Chirche whan I precheI peyne me to haue an\n                    haughton speche\u2026\n",
+            "Last Lines": "\n\u2026Whiche \u00feat I am wonte to preche for to wynneNow holde\n                    your pes my tale y wole begynne\n",
+            "Attributed Title": "\n\u2026And here begynneth the Pardyners Tale Prologus (f. 59va);\n                    The Pardener (RT)",
+            "folio": "ff. 59va-60rb"
+        },
+        "Lichfield29": {
+            "First Lines": "\nLOrdinges quod he in chirche whan I precheI peyne me to haue an\n                    hauteyn speche\u2026\n",
+            "Last Lines": "\n\u2026Which Iames wente to preche for to wynneNow holdeth youre\n                    pees my tale I wol bigynne\n",
+            "Attributed Title": "\n\u2026here begynneth the tale (f. 188); The Pardoner (RT)",
+            "folio": "ff. 188-190"
+        },
+        "Lincoln110": {
+            "First Lines": "\nLOrdyngis quod he in chirche whan I precheI peyne me to\n                    haue an haut speche\u2026\n",
+            "Last Lines": "\n\u2026Whiche iames wente to preche for to wynneNow holdith\n                    \u021doure pes my tale y wol bygyne\n",
+            "Note": "\nVI.356 left blank and supplied later.",
+            "Attributed Title": "\nNow byginnyth \u00fee pardoners tale (f. 173v); The Perdoner\n                    (RT)",
+            "folio": "ff. 173v-175v"
+        },
+        "LonPhys388": {
+            "First Lines": "\nLOrdynges quod he in chirches whan I precheI peyne me to have an\n                    haunteyn speche\u2026\n",
+            "Last Lines": "\n\u2026Whiche I am wont to preche for to wynneNow holde yowre\n                    purpose my tale wil I begynne\n",
+            "Note": "\nVI.451-2 reversed.",
+            "Attributed Title": "\nRadix omnium malorum est cupiditas Ad Thymotheum 6o (f.\n                    233); Explicit Prologus\u2026 (f. 235v)",
+            "folio": "ff. 233-235v"
+        },
+        "RylandsEng113": {
+            "First Lines": "\nlordynges quod he in Chirches whan I precheIn peyne me to haue an\n                    haunte in speche\u2026\n",
+            "Last Lines": "\n\u2026which I am wont to preche for to wynneNow holde your pees my\n                    tale I woll begynne\n",
+            "Note": "\nVI.333-4, 346 omitted; spurious lines follow 345.",
+            "Attributed Title": "\nRadix omnium malorum est Cupiditas ad Thimon Vo (f. 115);\n                    Pardonere (RT)",
+            "folio": "ff. 115-116"
+        },
+        "Petworth7": {
+            "First Lines": "\nLordingges quod he in church whan I precheI peyn me to haue an\n                    hantyn speche\u2026\n",
+            "Last Lines": "\n\u2026whiche Iames went to preche forto wynneNow holde\u00fe\n                    \u021doure pees my tale I wil bygynne\n",
+            "Attributed Title": "\n\u2026And here bygynne\u00fe \u00fee tale (f. 215v); The\n                    pardonere (RT)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 215v-217v"
+        },
+        "Austin143": {
+            "First Lines": "\nlordynges quod he in cherches whan y precheI peyne me to haue an\n                    haunteyn speche\u2026\n",
+            "Last Lines": "\n\u2026which y am wonte to preche forto wynneNowe holde youre pees\n                    my tale y will begynne\n",
+            "Note": "\nVI.333-4, 346 omitted; spurious lines follow 345.",
+            "Attributed Title": "\nRadix omnium malorum est cupiditas ad Thimon 6o (f.\n                        144v); Pardonere (RT); Here endith the prologge of the\n                    Pardonere\u2026 (f. 146)",
+            "folio": "ff. 144v-146"
+        },
+        "PierpontM249": {
+            "First Lines": "\nI preche of no thyng but of couetiseTherfore my teme is and euere\n                    was\u2026\n",
+            "Last Lines": "\nA moral tale \u021dit I you telle canwhich Iames went to preche\n                    forto wynne\n",
+            "Note": "\nVI.424-61 are repeated by the scribe on a singleton inserted following\n                        Parson\u2019s Tale.",
+            "Attributed Title": "\nPardoner (RT)",
+            "folio": "f. 275"
+        },
+        "PhilRos10841": {
+            "First Lines": "\nLordynges quod he in chirche whan y precheI peyne me to haue an\n                    haunten speche\u2026\n",
+            "Last Lines": "\n\u2026Whyche iames went forto wynneNow holde \u021doure pes my tale\n                    y wol begynne\n",
+            "Attributed Title": "\n\u2026And bygynneth / the tale (f. 143v); The Pardonere\n                    (RT)",
+            "folio": "ff. 144-145v"
+        },
+        "PUL100": {
+            "First Lines": "\nLordingis quod he in chirchis when I prechI peyn me to have an\n                    hauten spech\u2026\n",
+            "Last Lines": "\n\u2026wich I am wont with preching forto wynNowe hold your pese my\n                    tale I wol begyn\n",
+            "Note": "\nVI.361-4, 391-4, 415-22, 427-40 omitted.",
+            "Attributed Title": "\nHere begynnth the Pardoner his tale (f. 146v); Pardoner (RT);\n                    Here endith the Pardonere his tale Prolog (f.\n                    148v)",
+            "folio": "ff. 147v-148v"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nLOrdynges quod he in chirches whan I precheI peyne me to han an\n                    hauteyn speche\u2026\n",
+            "Last Lines": "\n\u2026Which I am wont to preche for to wynneNow hoold your pees my\n                    tale I wol bigynne\n",
+            "Attributed Title": "\nHere folweth the Prologe of the Paardoners tale / Radix malorum est\n                        Cupiditas ad Thimotheum 6o (f. 136v); Pardoner\n                    (RT)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 136v-138"
+        },
+        "BNangl39": {
+            "First Lines": "\nlordyngis quod he in chirche whan I precheI peyne me for to haue an\n                    hauntand speche\u2026\n",
+            "Last Lines": "\n\u2026which I am wont to preche for to wynnenow hold your pees my\n                    tale I wil begynne\n",
+            "Note": "\nVI.420 inserted interlinearly.",
+            "Attributed Title": "\nExplicit prohemium\u2026 (f. 65ra)",
+            "folio": "ff. 64vb-65ra"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nLordinges quod he in Chirche whan I precheI peine me to haue an\n                    hautein speche\u2026\n",
+            "Last Lines": "\n\u2026Wich I am wont to preche for to winneNow hold your pees my\n                    tale I wol beginne\n",
+            "Note": "\nVI.333-4, 346 omitted; spurious lines follow 345.",
+            "Attributed Title": "\nHic desinit Prologus de la Pardoner\u2026 (f.\n                    156v)",
+            "folio": "ff. 154v-156v"
+        },
+        "TokyoTak32": {
+            "First Lines": "\nLOrdynggis quod hee in cherchis whanne I precheI peyne me forto\n                    have an havteyn speche\u2026\n",
+            "Last Lines": "\n\u2026wiche Iames wentte to preche for to wynneNow hooldyht yowre\n                    pees my tale I wole by gynne\n",
+            "Attributed Title": "\nHere be gynnyht thee prologe of the pardoner (f. 97rb); Thee\n                    pardoner (RT)",
+            "folio": "ff. 97rb-98ra"
+        },
+        "Bodmer48": {
+            "First Lines": "\nLOrdinges quod he in church when I precheI peyne me to haue and\n                    haut speche\u2026\n",
+            "Last Lines": "\n\u2026Which I am wont to preche forto wynNow holdith youre peas my\n                    tale I wil begyn\n",
+            "Attributed Title": "\nThe prolog of the Pardoner (f. 154v, rubric)",
+            "Facsimiles": "\n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n",
+            "folio": "ff. 154v-156v"
+        }
+    }
+}

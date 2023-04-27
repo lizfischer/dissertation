@@ -1,0 +1,81 @@
+{
+    "_id": 1018,
+    "_header": "Christ that was in Bethlehem born",
+    "Note": "Cf. 1023, 1622, and 3188; edition for which MS not identified [not Sloane 88] Wright and Halliwell-Phillipps (1845)\nXThomas Wright, and James Orchard Halliwell-Phillipps. Reliquiae Antiquae. 2 vols. London: Smith, 1845, 1.315.",
+    "Subjects": "charms; irregular",
+    "Versification": "\u2014 eight-line \u2014 aabbbbbb",
+    "Bibliographic Ghosts": "Boston, MA, Boston Public Library med. 124 (1546) [olim Sowter, Sotheby Sale, May 20, 1947, Lot 371; olim Le Neve, Horae], ff. 109v-110v: French verse.",
+    "_description": "A charm to staunch blood \u2014 varying number of lines and rhyme",
+    "_witnesses": {
+        "BodeMus243": {
+            "Transcription": "\nIesus \u00feat was in bethelem borneand baptized in flem\n                    Jordayne& stint \u00fee water vpon \u00fee stoneso stinte the\n                    bloude of this man N\n",
+            "Note": "\nThird occurrence in MS; four lines: abab; written as prose.",
+            "folio": "f. 3"
+        },
+        "BodLatLitG1": {
+            "First Lines": "\nCrist that was in Bedelem born& baptisyde was in flume\n                    iordane\u2026\n",
+            "Last Lines": "\n\u2026In the name of good & seynt Iohnand the baptyme that\n                    crist toke in flume Iordane\n",
+            "Note": "\n9 lines.",
+            "folio": "f. 10v"
+        },
+        "CamTCC1438": {
+            "Transcription": "\nCryst \u00feat was born in bedlemAnd bapty\u021ded in flem\n                    Iordan\u00feat flod was wod\u00feu sesedyst hys modso sesy\n                    \u00fey blod\n",
+            "Attributed Title": "\nAd restringendum sanguinem (f. ivv)",
+            "folio": "f. ivv"
+        },
+        "BLAdd33381": {
+            "Transcription": "\nCriste was born in bedlembaptised he was in flume Iordanhe man\n                    and child was gode\u00feat flod with stodethorich \u00fee vertu of is\n                    name & is wordSo do hour ache our accesse our wykyd hevil wild\n                    windwater and blod \u00feoruch \u00fee vertu of goddis name and is\n                    word\n",
+            "Note": "\n7 lines, variant. Written as prose.",
+            "folio": "f. 151v2"
+        },
+        "BLAdd33996": {
+            "Transcription": "\nOure lord Ihesu cryst com to flem IordanHe bad \u00fee water come\n                    & hit comHe bad \u00fee water stande & \u00fee water stodSo\n                    per vertu of hym now so \u00fey .N. blod\n",
+            "Editions": "\nHeinrich,  Fritz. \n             Ein mittelenglisches Medizinbuch.\n         Halle: N. Neimeyer, 1896: 122.\n",
+            "folio": "f. 147"
+        },
+        "BLEge833": {
+            "Note": "\n8 lines.",
+            "folio": "f. 20v"
+        },
+        "BLRoy12Bxxv": {
+            "Note": "\n4 lines.",
+            "folio": "f. 60v"
+        },
+        "BLRoy17Aviii": {
+            "Transcription": "\nCrist was born in betlehem& cristend in flom iordane&\n                    als \u00fee flom stode als a stanestand \u00fei blode N neuen his\n                    nameIn nomine patris et filii & spiritus sancti Amen\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nGray,  Douglas.  \u201cNotes on Some Middle English Charms.\u201d  In  Chaucer and Middle English Studies in Honour of Rossell Hope Robbins.\n            Beryl Rowland, ed. \n         London: Allen and Unwin, 1974: 62.\n",
+            "folio": "f. 49v"
+        },
+        "BLSl56": {
+            "Note": "\n14 lines.",
+            "folio": "f. 100v"
+        },
+        "BLSl2584": {
+            "Transcription": "\nGod was bore in betheleemIdo on \u00fee rode tre in ierusalemfulled he was in flum iordanAnd as \u00fee flode with stodeSo staunche \u00feis blodLord \u021dif \u00fei wille bePater noster & Aue maria\n",
+            "Note": "\n6 lines.",
+            "Attributed Title": "\nA charme forto cese blod (f. 103v)",
+            "folio": "f. 103v"
+        },
+        "Wellcome404": {
+            "Transcription": "\nA nother christ that was borne yn bethelem& folued yn fleme\n                    Iurdenalso the flume a stodalso stond thy blod\n",
+            "Note": "\nFolio number (in pencil) supercedes older ink foliation (20) Written as\n                    prose.",
+            "folio": "f. 19"
+        },
+        "Wellcome406": {
+            "Transcription": "\nA no\u00feer crist was I bore in bedlem I fullyd in flymiordane\n                    as \u00fee flym stodeso stonde \u00fei blode\n",
+            "Attributed Title": "\nSey \u00feis charme \u00feries ne darstow no\u021d no\u021dt rech ware\n                    \u00fee man be bote \u00feou cane his name (f. 4v)",
+            "folio": "f. 4v"
+        },
+        "Wellcome542": {
+            "folio": "f. 9"
+        },
+        "HunHM1086": {
+            "Transcription": "\nIhesu that was in bedelem borne& bapty\u021ded in flem\n                    iordenthou command the blode of thys man(here name hym) that hyt\n                    stynte & stonde ageyn\n",
+            "Note": "\nFollowed by prose, \u2018in the honor of oure lordes fyue wondes &\n                    the honour of our lades fyve [ ] say fyve pater noster fyue aues & a crede\n                    Amen.",
+            "Attributed Title": "\nTo staunche blode (f. 176v)",
+            "Editions": "\n\nHanna,  Ralph,\n                        ed.  \n             \u201cThe Index of Middle English Verse and Huntington Library Collections: A\n                Checklist of Addenda.\u201d \n             Publications of the Bibliographical Society of America\n         74 (1980): 235-58: 241.\nDutschke,  C. W. \n             Guide to Medieval and Renaissance Manuscripts in the Huntington\n                Library.\n         2 vols. San Marino, CA: Huntington Library, 1989: 2.391 (lines 1-3).\n\n",
+            "folio": "f. 176v"
+        }
+    }
+}

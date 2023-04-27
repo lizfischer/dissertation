@@ -1,0 +1,26 @@
+{
+    "_id": 2369,
+    "_header": "If it be so that leeches do thee fail",
+    "Note": "For the normal text see 1356; incorporates 4810.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "Dietary",
+    "Subjects": "bloodletting; medicine; calendars",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, \u2018Dietary\u2019, in disarranged order as follows: stanzas 2, 1, 8, 9, 3, 6, 5, l0 \u2014 stanzas 4 and 7 wanting",
+    "_witnesses": {
+        "BLHar116": {
+            "First Lines": "\nIff it be so that leches do the fayleVse good diete by the consaile\n                    of me\u2026\n",
+            "Last Lines": "\n\u2026Ne of gret maistere \u00feat conynge can shewe\u00feit I\n                    counsaile the to be diete after this diatery\n",
+            "Note": "\nLines 97-168 of Lydgate\u2019s Dietary.",
+            "Attributed Title": "\nThe diatory made by the monk of Bury (f. 166, added by fifteenth- to\n                    sixteenth-century hand)",
+            "folio": "f. 166"
+        },
+        "Lam853": {
+            "First Lines": "\nIff so be \u00feat lechis doon \u00feee faileVse good diete bi\n                    \u00fee councel of meMesurable fedyng & temperat trauaileAnd be\n                    not maliciose for noon aduersite\u2026\n",
+            "Last Lines": "\n\u2026ffor\u021dete not \u00feis diete for it is good \u00fe\n                    trewe\u00deou\u021d it b bou\u021dt of no potecarieNe of noon\n                    o\u00feer maister \u00feat greet cunnynge can schewe\u021cit councelle\n                    \u00feee be dietid by \u00feis diatorie\n",
+            "Note": "\nPreceded by a verse incipit; see 5964.5.",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Babees Book, etc.\nEETS\n         o.s. 32 (1868); rev. ed.  Early English Meals and\n                Manners London: Tr\u00fcbner, 1876; repr. 1973: orig. ed. 54-8.\nStevenson,  George. \n             Pieces from the Makculloch and the Gray MSS. together with The Chepman\n                and Myllar Prints.\nScottish Text Society\n         65. Edinburgh, 1918: 296-7.\n\n",
+            "folio": "pp. 1822-185"
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "_id": 4409,
+    "_header": "Pride that is overgart",
+    "Note": "Translates and versifies the thought preceding two Latin hexameters in the text.",
+    "Subjects": "sermons, verse in; aphorisms; translations",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "\u2018Pride goes before destruction\u2019 (6 lines), a tag in the Fasciculus morum",
+    "_witnesses": {
+        "Bod410": {
+            "Transcription": "\nPryde \u00feat is ouergartalgate has unquartat \u00fee latter\n                    ende for whan pride gos by fornshome shewes euermore wende how he\n                    wende\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 4v"
+        },
+        "BodLauMis213": {
+            "Transcription": "\nPruyde \u00feat is ouergarthalgate hat vnquartatte \u00fee\n                    latter endeffor when pryde goith bi foreschame seuet\n                    euermorewende hou he wende\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 5v"
+        },
+        "BodRawC670": {
+            "Transcription": "\nPruyde \u00feat is ouergartAlgate ha\u00fe vnquartAt \u00fee\n                    latter endedFor when pryde go\u00fe byforeSchame sewyth euer\n                    moreWende hou he wende\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 141.\n",
+            "folio": "f. 12v"
+        },
+        "OxfLinLat52": {
+            "Transcription": "\npride \u00feat is ouergairtalgat hath vnwhartffor where pride\n                    gose be foreschame folowos euermoreWende where he wende\n",
+            "folio": "f. 5ra"
+        },
+        "CamGon71": {
+            "Transcription": "\nPryde \u00feat ys vngartalgate hath vnquartat \u00fee latter\n                    endeffor when pryde goth be foreShame folowith euer morevende\n                    were he whende\n",
+            "folio": "f. 15v"
+        },
+        "CamGon364": {
+            "Transcription": "\npride \u00feat is ouere gayrtal gate hait vn quartat \u00fee\n                    lattere endefor qwanne pride goth be foreschame suith\n                    euermorewende quow ye wende\n",
+            "folio": "f. 5vb"
+        },
+        "DULCosViv2": {
+            "Transcription": "\nPruyde \u00feat is owgardalgate hat atte the lattere endefor\n                    qwey Pryde goth be foreschame sweth euer morwende how he\n                    whende\n",
+            "Note": "\nProsified and corrupt version, written as prose.",
+            "Attributed Author": "\nquod Endyng (f. 4v)",
+            "folio": "f. 4v"
+        },
+        "EDU82": {
+            "Transcription": "\nPryde that is ouergartalgate hathe on quartat the last end\n                    foffor when pryde goeth be foreSchame sueth euer morewende when\n                    he wende\n",
+            "folio": "f. 10v"
+        },
+        "Lincoln44": {
+            "Transcription": "\nPryde \u00feat is ouergartalgate ha\u00fe vnquartat \u00fee lat\n                    endeffo wonne prydego\u00fe by fore schamesywer euer more\n                    wendhowe we wend\n",
+            "Note": "\nWritten as prose; seven lines rhyming aabcdbb.",
+            "folio": "f. 158va"
+        },
+        "WorcF19": {
+            "Transcription": "\nPrude \u00feat is ouergartalgat hay [sic] vnquartat\n                    \u00fee later endeffor wenne prude got by foreschame sewyt euer\n                    morewende how a wende\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 162va"
+        },
+        "VaticanOtto": {
+            "folio": "f. 4"
+        }
+    }
+}

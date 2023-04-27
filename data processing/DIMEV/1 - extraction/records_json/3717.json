@@ -1,0 +1,23 @@
+{
+    "_id": 3717,
+    "_header": "Now Bairns Birds bold and blithe",
+    "Subjects": "death, approach of; friendship",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "Against my will I take my Leave \u2014 eight 8-line stanzas with \u2018\u2026take my leue\u2019 refrain",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nNou Bernes Buirdes bolde and bly\u00feeto blessen ow her nou am I\n                    bounde\u2026\n",
+            "Last Lines": "\n\u2026Crist kepe ow out of cares coldeffor nou is tyme to take my\n                    leue\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nRitson,  Joseph,\n                        ed.  \n             Ancient Songs and Ballads from the Reign of King Henry the Second to\n                the Revolution.\n         2 vols. London, 1829; re-ed. \n                William Carew\n                Hazlitt\n             London, 1877: 1.76-78.\nVarnhagen,  Hermann. \n             \u201cDie kleinere gedichte der Vernon und Simeon handschrift.\u201d \n             Anglia\n         7 (1884): 280-315: 289-91.\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 666-8.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 134-6.\nEllis,  George,\n                        ed.  \n             Specimens of the Early English Poets.\n         London: Edwards, 1790; 3 vols, 1801; 5th ed., London: Washburne, 1845;\n            rev. ed., 1 vol., 1863: 1.265-68.\nBrandl,  Alois Leonhard. \n             Mittelenglische Sprach- und Literatureproben.\n         2nd ed. Berlin, 1917; repr. as  Middle English\n                Literature New York: Chelsea, 1949: 144-5.\nLuria,  Maxwell Sidney,  and  Richard L. Hoffman, eds.  \n             Middle English Lyrics.\n         New York: Norton, 1974: 226-8.\n\n",
+            "folio": "f. 407va-407vb"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nNOu Bernes buyurdes bolde & bli\u00feeTo blessen owhere nou am\n                    I bounde\u2026\n",
+            "Last Lines": "\n\u2026Crist kepe ow out of cares coldeffor now is tyme to take me\n                    leue\n",
+            "Attributed Title": "\nExplicit a sonte of I take my leue (f. 129rc)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 129rb-129rc"
+        }
+    }
+}

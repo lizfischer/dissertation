@@ -1,0 +1,132 @@
+{
+    "_id": 4603,
+    "_header": "Saint George the holy man as we findeth I-write",
+    "Note": "For a variant see 4602.",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; George, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. George in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "BodAddC38": {
+            "folio": "f. 103"
+        },
+        "BodAsh43": {
+            "First Lines": "\nSEyn Iorge \u00fee holi mon as we fynde\u00fe iwriteIn \u00fee lond\n                    of capadoce ibore was & bi\u021ditte\u2026\n",
+            "Last Lines": "\n\u2026\u00feer he is in grete Ioie \u00feat last wi\u00fe\u00feouten\n                    endeNou god uor \u00fee loue of him ous let alle \u00feuder\n                    wende\n",
+            "Attributed Title": "\nsyn Iorge (f. 59)",
+            "folio": "ff. 59-60v"
+        },
+        "Bod779": {
+            "First Lines": "\nSeint iorge \u00fee holyman as we fynde\u021d I wryteIn \u00fee\n                    lond of capadocye I bore he was & by \u021dete\u2026\n",
+            "Last Lines": "\n\u2026& \u00feere he is in gret ioye \u00feat last wit outen\n                    ende& god for \u00fee loue of sent iorge vs lete alle \u00feedir\n                    wende\n",
+            "Attributed Title": "\nSeint iorge \u00fee marter (f. 142)",
+            "folio": "ff. 142-143"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSEint George \u00fee holi Mon as we fynde\u00fe i writeIn \u00fee\n                    Lond of Capadose i boren he was and bi \u021dite\u2026\n",
+            "Last Lines": "\n\u2026\u00deer he is in gret Ioye \u00feat laste\u00fe wi\u00fe outen\n                    endeNow God for seynt George loue vs leeue \u00feider wende.\n                    Amen.\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 28ra-28rb"
+        },
+        "BodLauMis108": {
+            "First Lines": "\nSEint George \u00fee holie man ase we finde\u021d i writeIn \u00fee\n                    londe of Cappadoce he was i bore and bi \u021dite\u2026\n",
+            "Last Lines": "\n\u2026\u00deare he is in grete Ioye \u00feat last with outen\n                    endeNov god for seint Georges loue late ore soule \u00feudere\n                    wende\n",
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             The Early South-English Legendary.\nEETS\n         o.s. 87 (1887; repr. 1987): 294-6.\n",
+            "folio": "ff. 130-131"
+        },
+        "BodLauMis463": {
+            "First Lines": "\nSEint George \u00fee holi man as we finde writeIn \u00fee lond of\n                    Capadoce y bore was & ri\u021dite\u2026\n",
+            "Last Lines": "\n\u2026\u00feere he is in gret Ioye \u00feat laste\u00fe wi\u00fe outen\n                    endeNou god for sent George loue vs lete alle \u00feider wende\n",
+            "Note": "\nTwo columns per page, one full-line, the other half-line.",
+            "folio": "ff. 41va-42rb"
+        },
+        "BodRawPoe225": {
+            "First Lines": "\nA \u00feou tretour sayd dacyanWilt \u00feou al way take on\n                    so\u2026\n",
+            "Last Lines": "\n\u2026Whan dacian sey \u00feis don y wisHis wittes were ny\u021dk\n                    hym be nome\n",
+            "Note": "\nFragments.",
+            "folio": "ff. 105ra-116v"
+        },
+        "BodTan17": {
+            "First Lines": "\nSEint George \u00fee holi man as we fynde writeIn \u00fee lond of\n                    capadoce I bore he was & be \u021dite\u2026\n",
+            "Last Lines": "\n\u2026\u00feere he is in gret ioye \u00feat laste\u00fe euere wi\u00fe\n                    outen endeGor for seint georges loue lete vs alle \u00feidir\n                    wende\n",
+            "folio": "ff. 91v-92v"
+        },
+        "OxfTri57": {
+            "First Lines": "\nSeint George \u00fee holy man as we fynde\u00fe y writeIn \u00fee\n                    lond of Cappodoce y bore was & by \u021dyte\u2026\n",
+            "Last Lines": "\n\u2026\u00feere he ys in gret ioye \u00feat laste\u00fe withoute\n                    endeNow god for seint Georgis sone vs lete alle \u00feu\u00feer\n                    wende\n",
+            "Attributed Title": "\nVita sancti Georgii (rubric marginal heading by scribe, f. 32);\n                        Georgius (RT)",
+            "folio": "ff. 32-33"
+        },
+        "CamCCC145": {
+            "First Lines": "\nSein Gorge \u00fee holy man as we vinde\u00fe iwriteIn \u00fee lond\n                    of capadose ybore was and bi \u021dute\u2026\n",
+            "Last Lines": "\n\u2026\u00feer he is in grete ioye \u00feat last wi\u00fe oute\n                    endeNou god for sein Gorges loue us lete al \u00feuder wende\n",
+            "Editions": "\n\nD\u2019Evelyn,  Charlotte,  and  A. J. Mill, eds.  \n             The South English Legendary: Corpus Christi College Cambridge MS. 145\n                and British Museum MS. Harley 2277, with variants from Bodley MS. Ashmole 43 and\n                British Museum MS. Cotton Julius D.ix.\nEETS\n         o.s. 235 (1959), 236 (1956); repr. 1967: 1.155-9.\nWhatley,  Gordon E.,\n                        ed.  \n             Saints\u2019 Lives in Middle English Collections.\n         With Anne B. Thompson and Robert K. Upchurch. MI: Western Michigan\n            University for TEAMS, 2004. \n\n",
+            "folio": "ff. 59-60"
+        },
+        "CamKC13": {
+            "First Lines": "\nSEint George \u00fee holi man as we finde\u00fe of him y writeIn\n                    \u00fee lond of Capadoce y bore was and bi \u021dute\u2026\n",
+            "Last Lines": "\n\u2026\u00deer he his in gret ioie \u00feat laste\u00fe wi\u00fe oute\n                    endeNow god for seint Georges loue lede vs alle \u00feider\n                    wende\n",
+            "folio": "Part II, ff. 43-44v"
+        },
+        "CamMagPep2344": {
+            "First Lines": "\nSeint George \u00fee holy man as we ffynde\u00fe of him ywriteIn\n                    \u00fee lond of Capadoce ybore was and by\u021dite\u2026\n",
+            "Last Lines": "\n\u2026\u00deer he is in gret ioye \u00feat laste\u00fe wi\u00feouten\n                    endeNow god ffor Seint Georges loue lete vs alle \u00feider\n                    wende\n",
+            "folio": "pp. 258-260"
+        },
+        "CamTCC605": {
+            "First Lines": "\nSEint george \u00fee holy man as we fynden y wroteIn \u00fee londe\n                    of capadoce i bore was & by \u021dute\u2026\n",
+            "Last Lines": "\n\u2026\u00deer he is in grete Ioye \u00feat laste\u00fe with oute\n                    endeGod for \u00fee loue of hym ous lete \u00feuder wende\n",
+            "Attributed Title": "\nGeorge (RT)",
+            "folio": "ff. 60v-61"
+        },
+        "BLAdd10301": {
+            "First Lines": "\nSEin george \u00fee holy man as we vinde\u00fe y writeIn \u00fee\n                    lond of capadose y bore was & by \u021dute\u2026\n",
+            "Last Lines": "\n\u2026\u00deer he is in grete Ioye \u00feat last wi\u00fe outen\n                    endeNou god for sein Iorges loue vs lete al \u00feuder wende\n",
+            "Attributed Title": "\nDe sancto georgio (f. 70v, by scribe in margin beside\n                    first line); georgio (RT)",
+            "folio": "ff. 70v-71v"
+        },
+        "BLCottJulDIX": {
+            "First Lines": "\nSEint george \u00fee holiman as we finde\u00fe ywriteIn \u00fee lond of capadoce ibore was & bi\u021dite\u2026\n",
+            "Last Lines": "\n\u2026\u00feer he is in gret ioie \u00feat laste\u00fe withouten en\u00feenou god for seint georges loue ous late al \u00fee\u00feer wende\n",
+            "Note": "\n\u201cCapitulum xxxii\u201d added to right margin by later hand (f. 63).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Julius MS D IX.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Julius_D_IX. \n",
+            "folio": "ff. 63-64"
+        },
+        "BLEge1993": {
+            "First Lines": "\nSeint George \u00fee holi mon as we finde\u00fe iwriteIn \u00fee lond of capadoce ibore was & bi\u021dite\u2026\n",
+            "Last Lines": "\n\u2026\u00deer he is in grete ioie \u00feat last wi\u00fe outen endeGod for georges loue vs lete \u00feider wende\n",
+            "Note": "\nEnds \u201cAmen\u201d (f. 142).",
+            "folio": "ff. 141-142"
+        },
+        "BLEge2810": {
+            "First Lines": "\nSEint george \u00fee holiman as we vindi\u00fe ywriteIn ve londe of capadoce hij bore he was & by\u021dete\u2026\n",
+            "Last Lines": "\n\u2026;\u00feere he is in gret ioye \u00feat lesti\u00fe wy\u00feoute endeNou god for \u00fee loue of him ous lete alle \u00feidir wende\n",
+            "Note": "\nEnds \u201cAmen.\u201d",
+            "folio": "ff. 53-54"
+        },
+        "BLEge2891": {
+            "First Lines": "\nSEin George \u00fee holie man as we finde\u00fe iwriteIn \u00fee lond of capadose Ibore was and bi \u021dute\u2026\n",
+            "Last Lines": "\n\u2026\u00feare he is in gret ioie\u00feat last wi\u00fe oute endeNou god for sein georges loue us lete alle \u00feuder wende\n",
+            "Attributed Title": "\nDe sancto Georgio (rubric in margin, f. 68v)",
+            "folio": "ff. 68v-70"
+        },
+        "BLHar2277": {
+            "First Lines": "\nSEint George \u00fee holi man as we fynde\u00fe iwriteIn \u00fee londe of Capadoce ibore was & bi\u021ditte\u2026\n",
+            "Last Lines": "\n\u2026\u00feer he is wi\u00fe grete ioye \u00feat euermo ileste\u00fe wi\u00feouten endeNou god for \u00fee loue of Seint George ous lete \u00feider wende\n",
+            "Note": "\nIn penultimate line \u201ceuermo\u201d written and expunged after \u201cileste\u00fe\u201d; ends \u201camen.\u201d",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 2277.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_2277. \n",
+            "folio": "ff. 33v-34v"
+        },
+        "Lam223": {
+            "First Lines": "\nSAynt George \u00fee holy kny\u021dt \u00feat regned here biforeIn\n                    \u00fee lond of Capadoce was \u00feat gode mon born\u2026\n",
+            "Last Lines": "\n\u2026And \u00feere he lenges euer in ioye \u00feat lestes withouten\n                    endeGod for saynt Georges love \u00feou graunte vs \u00feider to wende\n                    Amen\n",
+            "Attributed Title": "\nSaynt George (RT)",
+            "folio": "ff. 94-95v"
+        },
+        "TokyoTak54": {
+            "First Lines": "\nSeynt George \u00fee holy man as we finde iwriteIn \u00fee londe of\n                    Capadoce ibore was & bi\u021dete\u2026\n",
+            "Last Lines": "\n\u2026Ther is in gret Ioye \u00feat lasteth wi\u00feout endeNow god\n                    for \u00fee loue of hym lat vs all \u00feidere wende. Amen.\n",
+            "folio": "ff. 72-73"
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "_id": 5157,
+    "_header": "That mantle the king to Wilfred lent",
+    "Subjects": "sermons, verse in; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Durham, Durham University Library Cosin V.iv.2f. 32v: not in this MS; Cambridge UK, Gonville & Caius College 364/619f. 65va: not in this MS.",
+    "_description": "A two-line tag in the Fasciculus morum translating a Latin summary of an exemplum",
+    "_witnesses": {
+        "BodLauMis213": {
+            "Transcription": "\n\u00deat mantel \u00fee kyng to vlfrid lentWit hap hit come wit hap\n                    hit wente\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 58v"
+        },
+        "Bod187": {
+            "Transcription": "\nThe mantel \u00feat \u00fee kyng to wulfryde lentWith hap hyt com\n                    & with ha\u00fe hyt wente\n",
+            "Note": "\nWritten as prose. Followed by 5367.",
+            "folio": "f. 161va"
+        },
+        "Bod410": {
+            "Transcription": "\n\u00feat mantel \u00fee kyng to vlfryd lentwith hap it come with hap\n                    it went\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 40v"
+        },
+        "BodRawC670": {
+            "Transcription": "\n\u00deat mantel \u00fee kyng to Vlfride lenteWith hap hit come with\n                    hap hit wente\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 172.\n",
+            "folio": "f. 71v"
+        },
+        "CamGon71": {
+            "Transcription": "\n\u00feat mantell \u00feat kyng to Wilfride lenteWith it come with\n                    happe it went\n",
+            "folio": "f. 49"
+        },
+        "CamStJohn159": {
+            "Transcription": "\n\u00deat mantell \u00fee kynge to wlfryde lenttWyt wyt hap itt come\n                    wyt hape it went\n",
+            "Note": "\nWritten as verse.",
+            "folio": "f. 88v"
+        },
+        "EDU82": {
+            "Transcription": "\nThat mantell the kyng to vnfride lenttWhyth happ hit come wyth happ\n                    hit wentt\n",
+            "folio": "f. 86v"
+        },
+        "Lincoln44": {
+            "Transcription": "\n\u00deat mantel \u00fee kynge to vlfride lenteWy\u00fe hape hyt come\n                    with hap hit wente\n",
+            "folio": "f. 188bv"
+        },
+        "Spalding": {
+            "Transcription": "\nthe mantill \u00feat \u00fee kyng to Vlfrid lentWith happe it come\n                    with happe it went\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 76v"
+        },
+        "WorcF19": {
+            "Transcription": "\n\u00feat mantel \u00feat kyng to Wilfrid lentOft ha\u00fe hit com oft\n                    ha\u00fe hit went\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 190ar"
+        },
+        "VaticanOtto": {
+            "folio": "f."
+        }
+    }
+}

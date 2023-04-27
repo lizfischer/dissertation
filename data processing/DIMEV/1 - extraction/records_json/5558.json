@@ -1,0 +1,31 @@
+{
+    "_id": 5558,
+    "_header": "There been four things causing great folly",
+    "Note": "Cf. also 6798; this text and also 5559 are both founded on the Latin lines found in MSS Oxford, Bodleian Library Fairfax 16 (SC 3896), f. 196 and London, British Library Harley 7578, f. 20: Quatuor infatuant honor, etas, femina, uinum",
+    "Subjects": "advice, moral",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Four things that make man a fool \u2014 one stanza rhyme royal",
+    "_witnesses": {
+        "CULGg4271b": {
+            "First Lines": "\nThere beone foure thinges causinge gret follyHonour first and\n                    vnwildye age\u2026\n",
+            "Last Lines": "\n\u2026in great honor Learne this of mewith thine estate haue\n                    humilitye\n",
+            "Attributed Title": "\nBon counsaile (f. 35)",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "folio": "f. 35"
+        },
+        "CamTCC600": {
+            "First Lines": "\n\u00feer beon foure thinges causing gret folyehonnour first and\n                    vnweldy aageWymmen an wyne I dare eeke specefyeMake wyse men fallen in\n                    dotage\u2026\n",
+            "Last Lines": "\n\u2026In gret honnour lerne \u00feis of meWith \u00feyne estate\n                    haue humylytee\n",
+            "Attributed Title": "\nYit of \u00fee same [i.e. \u2018A seying of daun Johan\u2019 (p. 8)] (p.\n                    9)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 2.708.\n",
+            "folio": "p. 9"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nther bien fowr thyngs causyng gret folyehonoue fyrst and wnwyldy\n                    age\u2026\n",
+            "Last Lines": "\n\u2026In great honour lerne this of mewhiche thyn estate have\n                    humylytye\n",
+            "Note": "\nBefore heading to 5559, relating to several\n                    short entries that follow, \u2018Here beginneth serten thinges of Iohn lydgat\n                    copied out of \u00fee boke of Iohn sherley / by Iohn stowe\u2019 (f. 132),\n                    apparently added by scribe (John Stow); ); as heading to this text, \u2018yet\n                    of the same\u2019, referring to heading to 5559,\n                    which is \u2018a seyng of dan Iohn lydgat\u2019 (f. 132)",
+            "Attributed Author": "\nIohn lydgat (f. 132)",
+            "folio": "f. 132r2"
+        }
+    }
+}

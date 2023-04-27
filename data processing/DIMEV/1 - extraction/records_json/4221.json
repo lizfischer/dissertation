@@ -1,0 +1,14 @@
+{
+    "_id": 4221,
+    "_header": "Of the Psalter in English here is the ginning",
+    "Subjects": "introductions, to prose texts",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Couplet introducing a Middle English prose translation of the Psalter",
+    "_witnesses": {
+        "CamMagPep2498": {
+            "Transcription": "\nOf \u00fee sautere on englisch here is \u00fee gynnyngeWi\u00fe\n                    \u00fee latyn bifore & Gregories expounynge\n",
+            "Editions": "\n\nJames,  Montague Rhodes. \n             Bibliotheca Pepysiana: A Descriptive Catalogue of the Library of Samuel\n                Pepys. Pt. III: Medieval Manuscripts.\n         London, 1923: 3.107.\nP\u00e5hlsson,  Joel,\n                        ed.  \n             The Recluse: a Fourteenth Century Version of the Ancren Riwle.\n         Lund: Ohlsson, 1911: iv.\n\n",
+            "folio": "p. 263b"
+        }
+    }
+}

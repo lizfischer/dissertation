@@ -1,0 +1,18 @@
+{
+    "_id": 6043,
+    "_header": "To you my best beloved sister dame Alice",
+    "Title(s)": "\u2018Disce Mori\u2019",
+    "Subjects": "prologues, to prose texts",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Metrical Prologue to an English prose treatise, \u2018Disce Mori\u2019 \u2014 three stanzas rhyme royal",
+    "_witnesses": {
+        "BodLauMis99": {
+            "Editions": "\nChadwick,  N. A.,\n                        ed.   \u201cAn Edition of Disce Mori\u201d  (pp. 1-177): Introduction and\n            Seven Deadly Sins.  Diss. Liverpool, 1977. \n",
+            "folio": "f. 1"
+        },
+        "OxfJesus39": {
+            "Editions": "\nJones,  E. A.,\n                        ed.  \n             The \u2018Exhortacion\u2019 from Disce Mori: Edited from Oxford,\n                Jesus College, MS 39.\n         Middle English Texts 36. Heidelberg: Carl Winter\n            Universit\u00e4tsverlag: Hedelberg, 2006. \n",
+            "folio": "p. 5"
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "_id": 5186,
+    "_header": "That witten all that ever been",
+    "Note": "Cf. 6767.",
+    "Subjects": "charters; John of Beverley, saint; Athelstan, king",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A Rhyming Charter of King Athelstan to St. John of Beverlay \u2014 in couplets",
+    "_witnesses": {
+        "BodDod10": {
+            "First Lines": "\nThat witten all that euer beeneThat this Chartet hearen and\n                    seene\u2026\n",
+            "Last Lines": "\n\u2026 God helpe all those ilke menThat helpe to the\n                    Thowen\n",
+            "Note": "\n78 lines.",
+            "Attributed Title": "\nCharta Regis Adlestain ecclesie sancti Johanis Beuerlaii (f.\n                        43v)",
+            "folio": "ff. 43v-44v"
+        },
+        "BodDod95": {
+            "First Lines": "\n\u00feat written alle \u00feat euer been\u00feat \u00feis Chartre\n                    heren and seen\u2026\n",
+            "Last Lines": "\n\u2026God help alle \u00feas ilk men \u00feat helpes to the\n                    thowen\n",
+            "Note": "\n78 lines.",
+            "Attributed Title": "\nThe Ryming Charter of King Athelstan to Seint John of Beuerlay (f.\n                        32v)",
+            "folio": "ff. 32v-33"
+        },
+        "BodDod116": {
+            "First Lines": "\nThat witten all that euer beeneThat this Charter hearen and\n                    seene\u2026\n",
+            "Last Lines": "\n\u2026God Helpe all those ilke men \u00feat helps to the\n                    thowen\n",
+            "Note": "\n78 lines; at the end: \u2018finis\u2019.",
+            "Attributed Title": "\nCarta Adelstani facta sancto Johanni Beuerlai (f. 116)",
+            "folio": "ff. 115-117v"
+        },
+        "BLCottCharIV18": {
+            "First Lines": "\n\u00deat witen alle \u00feat euir been\u00feat \u00feis chartre\n                    heven and seen\u2026\n",
+            "Last Lines": "\n\u2026God help alle \u00feas ilk men\u00feat helpes to \u00fee\n                    thowen\n",
+            "Note": "\nSingle leaf. 81 lines. Written as prose.",
+            "Editions": "\n\nBirch,  Walter de Gray. \n             Cartularium Saxonicum.\n         3 vols. London: Whiting, 1885-93: 2.322.\nDugdale,  Sir William. \n             Monasticon Anglicanum.\n         London: Hodgkinsonne, 1655; rev. eds. R. Dodsworth, J. Stevens,\n            etc: 2.129; repr. Poulson (1829)\nXPoulson,  George. \n             Beverlac; or, The Antiquities and History of the Town of\n                Beverley\u2026.\n         London: Longman etc., 1829.\nKemble,  John Mitchell. \n             Codex Diplomaticus Aevi Saxonici.\n         6 vols. London: Sumptibus Societatis, 1839-48: 2.186.\nThorpe,  Benjamin. \n             Diplomatarium Anglicum Aevi Saxonici\u2026.\n         London: Tr\u00fcbner, etc.: 1865: 180.\nSpeth,  George William,\n                        ed.  \n             Quatuor Coronatorum Antigrapha.\n         Margate: H. Keble, 1889: I, Part 3, p. 29.\nLeach,  Arthur Francis,\n                        ed.  \n             Memorials of Beverly Minster. The Chapter Act Book of the Collegiate\n                Church of S. John of Beverley A. D. 1286-1347. Vol. 2.\nSurtees Society\n         108 (1903): 280-6 (even pp.).\n\n",
+            "folio": ""
+        },
+        "BLLan269": {
+            "First Lines": "\nThat written all that euer beeneThat this charter heven &\n                    seene\u2026\n",
+            "Last Lines": "\n\u2026Send ther writt soone ananThat his manser man be\n                    tan\n",
+            "Note": "\n81 lines.",
+            "Attributed Title": "\nCharta Regis Adelstani Ecclesiae Sancti Johannis Beuerlaei (f.\n                    213)",
+            "Editions": "\nBirch,  Walter de Gray. \n             Cartularium Saxonicum.\n         3 vols. London: Whiting, 1885-93: 2.322.\n",
+            "folio": "f. 213"
+        },
+        "CantM251": {
+            "First Lines": "\n\u00deat wyte alle \u00feat nou\u00fe be\u00fe\u00feat \u00feis\n                    writ y hure\u00fe and yse\u00fe\u2026\n",
+            "Last Lines": "\n\u2026\u00deys writt was y\u021diue at CandelmasseIn \u00fee Suxe\n                    and Tuenty\u00fee more Ne lasse\u00fee Date of Edward houre kynghegod\n                    him \u021diue god endyngge\n",
+            "Note": "\nA much later, and not very accurate transcription bears the same\n                    reference number: \u2018Copy of an Instrument in old English & in\n                    Verse\u2019.",
+            "folio": ""
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "_id": 5954,
+    "_header": "Til his disciples said Christ",
+    "Note": "For the version in the \u2018expanded\u2019 Cycle see 4676.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Thirteenth Sunday after Trinity, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nSaynte luke \u00fee gospellere saise vs\u00feat till his dissiples\n                    saide iesus\u2026\n",
+            "Last Lines": "\n\u2026And \u021de will list to me & litheffor all sinful it mai\n                    make blithe\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 161-164v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nTO his disciples seide cristAs sei\u00fe seint luc \u00fee\n                    Ewangelyst\u2026\n",
+            "Last Lines": "\n\u2026And hose wol listen wel \u00feis taleHe may haue bote of\n                    muche bale\n",
+            "Attributed Title": "\nBeati oculi qui vident quod uos in debitum (f.\n                    203rb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 203rb-203vc"
+        },
+        "CULAdd8335": {
+            "folio": "p. 296"
+        },
+        "CULDd11": {
+            "folio": "f. 164v"
+        },
+        "CULGg531": {
+            "folio": "f. 103"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nTO his disciples seide cristAs sei\u00fe seint luc \u00fee\n                    Euangelist\u2026\n",
+            "Last Lines": "\n\u2026And who so wol listen wel \u00feis taleHe may haue bote of\n                    muche bale\n",
+            "Attributed Title": "\nBeati oculi qui uident quod uos in (f. 8rb)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 8rb-8vb"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nSaint luke \u00fee gospeller sais vsThat till his disciples said\n                    Ihesus\u2026\n",
+            "Last Lines": "\n\u2026And \u021de will listen to me & litheffor all synfull it\n                    may make blithe\n",
+            "folio": "ff. 122v-126"
+        },
+        "Lam260": {
+            "folio": "f. 48ra"
+        },
+        "MinULZ822": {
+            "First Lines": "\nTyll hys disiples sayde crysteAls says luke \u00fee\n                    euangelyste\u00fea eghen he sayde blyssede be\u2026\n",
+            "Last Lines": "\n\u2026and wha sa lystynes wele \u00feis taleyt may be bowte of\n                    mykyll bayll\n",
+            "Attributed Title": "\nDominica tridecima Secundum Lucam (f. 124, bottom)",
+            "folio": "ff. 124v-127v"
+        },
+        "HunHM129": {
+            "First Lines": "\nTo his disciplis said cristAs seith seint Luc \u00fee\n                    wangelist\u2026\n",
+            "Last Lines": "\n\u2026And who so lystyth well \u00feis taleHe may be bet off moche\n                    bale\n",
+            "Attributed Title": "\nDominica tercia decima post festum trinitatis (f.\n                    137v)",
+            "folio": "ff. 137v-140v"
+        }
+    }
+}

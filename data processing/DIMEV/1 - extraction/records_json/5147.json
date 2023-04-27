@@ -1,0 +1,24 @@
+{
+    "_id": 5147,
+    "_header": "That in thy mischief forsaked the nought",
+    "Title(s)": "\u2018He is thi Frende\u2019",
+    "Subjects": "friendship",
+    "Versification": "\u2014 monorhyme \u2014 aaaa",
+    "_description": "\u2018He is thi Frende\u2019 \u2014 four monorhyming lines",
+    "_witnesses": {
+        "Bod622": {
+            "folio": "f. 116"
+        },
+        "CULAdd5943": {
+            "Transcription": "\n\u00feat in \u00fey sorowe forsake \u00fee not\u00feat in \u00fey\n                    wele axe \u00fee nou\u021dt\u00feat in \u00fey ttrespas forbere \u00fee\n                    no\u021dt\u00feat in \u00fey nede ne werie \u00fee nou\u021dt\n",
+            "Facsimiles": "\n\nMayer,  L. S. \n             Music, Cantilenas and Songs.\n         London, 1906 (privately printed); by \"L. S. M.\". \nRastall,  Richard. \n             \u201cIntroduction.\u201d \n             A Fifteenth-Century Song Book: Cambridge University Library Additional\n                MS 5943 made in facsimile.\n         Leeds: Boethius Press, 1973. \n\n",
+            "folio": "f. 78"
+        },
+        "BLCottCleoDVIII": {
+            "Transcription": "\n\u00deat in \u00fei myschief forsaken \u00fee no\u021dth\u00deat in\n                    \u00fei bonchef aske\u00fe \u00fee no\u021dth\u00deat whan \u00feu\n                    trespassest for bere\u00fe \u00fee noth\u00deat in \u00fei nede werni\u00fe\n                    \u00fee no\u021dth\n",
+            "Note": "\n\u00deis is \u00fein frende (f. 1v)",
+            "Facsimiles": "\n\nMayer,  L. S. \n             Music, Cantilenas and Songs.\n         London, 1906 (privately printed); by \"L. S. M.\". \nRastall,  Richard. \n             \u201cIntroduction.\u201d \n             A Fifteenth-Century Song Book: Cambridge University Library Additional\n                MS 5943 made in facsimile.\n         Leeds: Boethius Press, 1973. \n\n",
+            "folio": "f. 1v1"
+        }
+    }
+}

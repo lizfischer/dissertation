@@ -1,0 +1,19 @@
+{
+    "_id": 6203,
+    "_header": "Well is is him that well can",
+    "Author(s)": "John Audelay",
+    "Title(s)": "\u2018De psalterio passionis\u2019",
+    "Subjects": "Passion",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Macaronic": "Latin",
+    "_description": "John Audelay, \u2018De psalterio passionis\u2019 \u2014 chiefly Latin, with a few English rubrics",
+    "_witnesses": {
+        "BodDou302": {
+            "First Lines": "\nWele is him \u00feat wele canSai \u00fee sauter of \u00fee\n                    passion\u2026\n",
+            "Last Lines": "\n\u2026ffele et aceto potarelance vilnerare\n\n",
+            "Attributed Title": "\nDe psalterio passionis (f. 9)",
+            "Editions": "\n\nW\u00fclfing,  J. Ernst. \n             \u201cDer dichter John Audelay und sein werk.\u201d \n             Anglia\n         18 (1896): 175-217: 189-90.\nWhiting,  Ella Keats,\n                        ed.  \n             John Audelay: The Poems.\nEETS\n         o.s. 184 (1931); repr. 1988: 56-8.\n\n",
+            "folio": "ff. 9rb-9va"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "_id": 1886,
+    "_header": "He that made with His hand",
+    "Note": "See 2807, and 1003 for longer version.",
+    "Title(s)": "Arthour and Merlin",
+    "Subjects": "Arthurian literature; Merlin",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Arthour and Merlin (couplet version)",
+    "_witnesses": {
+        "BodDou236": {
+            "First Lines": "\nAfter his fader deyngSote to say with outen\n                    blame\u2026\n",
+            "Last Lines": "\n\u2026To al \u00fey frendes fer & ner\u00fee to helpen with al\n                    her power\n",
+            "Note": "\nBegins and ends imperfectly, 1278 lines.",
+            "Editions": "\nK\u00f6lbing,  Eugen. \n             Arthour and Merlin.\nAltenglische Bibliothek\n         4. Leipzig: Reisland, 1890: 275-355.\n",
+            "folio": "ff. 1-36v"
+        },
+        "BLAdd27879": {
+            "Note": "\n2378 lines.",
+            "Editions": "\nHales,  John Wesley,  and  Frederick James Furnivall, eds.  \n             Bishop Percy\u2019s Folio Manuscript: Ballads and Romances.\n         3 vols. London: Tr\u00fcbner, 1867-68: 1.417.\n",
+            "folio": "p. 145"
+        },
+        "BLHar6223": {
+            "First Lines": "\nHe that made with his hondeWynde wode watar and\n                    londe\u2026\n",
+            "Last Lines": "\n\u2026Bothe by day & also by nyghtFor he thowght hym selffe by\n                    treson\n",
+            "Note": "\nFragment: lines 1-61.",
+            "Editions": "\nTurnbull,  William Barclay David Donald,\n                        ed.  \n             Arthour and Merlin.\nAbbotsford Club\n         12. Edinburgh, 1838: x-xiii.\n",
+            "folio": "ff. 123-123v"
+        },
+        "LincInnH150": {
+            "First Lines": "\nHe \u00feat made wi\u00fe his hondwynd and water wode and\n                    lond\u2026\n",
+            "Last Lines": "\n\u2026he blesse ows alle wi\u00fe his hondand sende ows pes in\n                    Engelond\n",
+            "Note": "\n2490 lines.",
+            "Attributed Title": "\nIncipit the History of Merlin (f. 13, later hand); Explicit\n                        Merlin (f. 27v, by scribe)",
+            "Editions": "\nK\u00f6lbing,  Eugen. \n             Arthour and Merlin.\nAltenglische Bibliothek\n         4. Leipzig: Reisland, 1890: 275-355i.\n",
+            "folio": "ff. 13;  2-3;  14-27v"
+        }
+    }
+}

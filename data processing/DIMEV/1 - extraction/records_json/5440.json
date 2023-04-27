@@ -1,0 +1,23 @@
+{
+    "_id": 5440,
+    "_header": "The property of every shire",
+    "Subjects": "England, counties of, characteristics; mnemonics; utilitarian instructions",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Characteristics of the counties of England \u2014 21 couplets",
+    "_witnesses": {
+        "BodRawShires": {
+            "First Lines": "\nThe propyrte of euery shyreI shal you telle and ye will\n                    here\u2026\n",
+            "Last Lines": "\n\u2026That Lord that for us all dyde dyeSaue all these shires amen\n                    say we\n",
+            "Note": "\n48 lines, in couplets; after is written, \u2018Probata sunt ista\n                        omnia\u2019.",
+            "Editions": "\n\nHearne,  Thomas. \n             The Itinerary of John Leland the Antiquary.\n         Oxford: at the Theatre, 1710, 1769, 1770: 3rd ed. (1770), 5.xxix-xxx.\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 2.41-2.\n\n",
+            "folio": ""
+        },
+        "BLHar7371": {
+            "First Lines": "\nHeruordschir shild & sperWoseterschir wringe\n                    per\u2026\n",
+            "Last Lines": "\n\u2026Cornewall full of tymeWales full of gentlemen\n",
+            "Note": "\n42 lines.",
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.269-70.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 499-500.\n\n",
+            "folio": "f. 80v"
+        }
+    }
+}

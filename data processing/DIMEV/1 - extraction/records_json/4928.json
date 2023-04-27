@@ -1,0 +1,31 @@
+{
+    "_id": 4928,
+    "_header": "Sly men and egleche and of redes wise and bold",
+    "Note": "For the usual text see 4707.",
+    "Title(s)": "South English Legendary",
+    "Subjects": "Mary Magdalene, saint, life of; saints\u2019 lives",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Mary Magdalene according to some MSS of the South English Legendary",
+    "_witnesses": {
+        "BodLauMis108": {
+            "First Lines": "\nSlei\u021de men and egleche and of redes wis and boldeLustines\n                    nou\u00fee to mi speche wise and vnwise \u021dongue and olde\u2026\n",
+            "Last Lines": "\n\u2026O fye Maudeleine \u00feis is \u00fee ri\u021dhte endingueGod\n                    us schilde fram peyne and to heouene us bringue\n",
+            "Editions": "\n\nHorstmann,  Carl,\n                        ed.  \n             The Early South-English Legendary.\nEETS\n         o.s. 87 (1887; repr. 1987): 462-80.\nHorstmann,  Carl. \n             Sammlung altenglischer Legenden.\n         Heilbronn: Henninger, 1878: 148-62.\nReames,  Sherry L.,\n                        ed.  \n             Middle English Legends\n                of Women Saints.\n         With the assistance of Martha G. Blalock and Wendy R. Larson.\n            Kalamazoo, MI: Western Michigan University for TEAMS, 2003. \n\n",
+            "folio": "ff. 190-197"
+        },
+        "CamTCC605": {
+            "First Lines": "\nHEy\u021de men & redy wyse & of wordes boldelustene\u00fe\n                    now to my speche bo\u00fe \u021donge & olde\u2026\n",
+            "Last Lines": "\n\u2026of seint marie magdaleyn \u00feus ys \u00fee ry\u021dt\n                    endynggod ous schulde fra helle pyne & to heuene ous bryng\n",
+            "Attributed Title": "\nMary Magdaleyn (RT)",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cNachtr\u00e4ge zu den Legenden.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         68 (1882): 52-73: (even pages 52-72).\n",
+            "folio": "f. 127v"
+        },
+        "Lam223": {
+            "First Lines": "\nSlegh men of englissh of redes wise of wordes boldelistnes now to\n                    my speche wise & vnwise \u021donge & olde\u2026\n",
+            "Last Lines": "\n\u2026Saynt Marie Maudeleyn \u00feis is \u00fee ri\u021dt\n                    endingeGod vs shylde fro helle pyne & to heuen vs bringe\n                    Amen\n",
+            "Attributed Title": "\nSaynt Marie Maudeleyn (RT)",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cNachtr\u00e4ge zu den Legenden.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         68 (1882): 52-73: (odd pages 53-73).\n",
+            "folio": "ff. 137v-145"
+        }
+    }
+}

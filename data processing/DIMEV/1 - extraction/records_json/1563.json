@@ -1,0 +1,34 @@
+{
+    "_id": 1563,
+    "_header": "God in Thy name make me safe and sound",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Deus in Nomine Tuo saluum me Fac\u2019",
+    "Subjects": "prayers, to God",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "\u2018Deus in Nomine Tuo saluum me Fac\u2019, by Lydgate \u2014 nine 8-line stanzas with slightly varying refrain",
+    "_witnesses": {
+        "BodAsh59": {
+            "First Lines": "\n\u2026ffor why goode lord thou haste me saved & kepteffrom\n                    euery tempest and alle tribulacounBy thy proteccoun whether that I waked or\n                    slepteffrom wykked thoutes and gostly temptacoun\u2026\n",
+            "Last Lines": "\n\u2026Beholdyng them with any gostly EntensciounThat I might Amend\n                    whyles I haue tyme and space\u2026\n",
+            "Note": "\nOne stanza only.",
+            "folio": "ff. 134v"
+        },
+        "BlCottCalAII": {
+            "First Lines": "\nGod in thy name make me safe and soundeAnd in thi vertu me deme\n                    & Iustifie\u2026\n",
+            "Last Lines": "\n\u2026Wyth oyle of mercy to mescheue medcynableHele all hirt of\n                    synne with tyme and space\n",
+            "Note": "\n\u2018Explicit\u2019 by scribe after last line, f. 65.",
+            "Attributed Title": "\nDeus in nomine tuo saluum me fac (by scribe in upper margin, f.\n                        64v); Another poeme Deus in nomine tuo saluum me fac (f.\n                    1, sixteenth-century list of contents)",
+            "Editions": "\n\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 10-12.\nPatterson,  Frank A. \n             The Middle English Penitential Lyric.\nColumbia University Studies in English.\n         New York: Columbia Press, 1911: 72-4.\n\n",
+            "folio": "ff. 64v-65"
+        },
+        "BLHar116": {
+            "First Lines": "\nGode in thy name thou make me safe and soundeAnd in thy vertue me\n                    deme and Iustyfye\u2026\n",
+            "Last Lines": "\n\u2026Wyth oyle of mercy to myschyfe medysynableHele all my harte\n                    of synne with tyme and space\n",
+            "Note": "\nNine 8-line stanzas rhyming ababbcbc, each with a single Latin line\n                    above it, beginning, \u2018Deus in nomine tuo saluum me fac in virtute tua\n                        &c\u2019.",
+            "folio": "ff. 127-128"
+        },
+        "BLHar2255": {
+            "folio": "f. 146v"
+        }
+    }
+}

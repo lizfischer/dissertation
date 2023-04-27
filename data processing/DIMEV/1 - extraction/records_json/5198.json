@@ -1,0 +1,30 @@
+{
+    "_id": 5198,
+    "_header": "The ax was sharp the stock was hard",
+    "Subjects": "historical poems",
+    "Versification": "\u2014 four-line, two-line \u2014 aa",
+    "_description": "A couplet (or couplets) of warning based on the year 1381 \u2014 couplets",
+    "_witnesses": {
+        "OxfStJohn209": {
+            "Transcription": "\nThe ax was sharpe the stokke was hardein the xiiij yere of kyng\n                    Richarde\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\n\nCoxe,  Henry Octavius. \n             Catalogus codicum mss. qui in collegiis aulisque\n                oxoniensibus\u2026.\n         Oxon: e Typographeo academico, 1852: 74.\nWright,  Thomas,\n                        ed.  \n             Political Poems and Songs relating to English History, composed during\n                the period From the Accession of Edward III to that of Richard III.\n             2 vols. \n             Rolls Series\n         14 (1859, 1861); repr. Kraus, 1965: 1.278.\nSisam,  Kenneth. \n             Fourteenth Century Verse and Prose.\n         Oxford: Clarendon, 1921: 161.\nRobbins,  Rossell Hope,\n                        ed.  \n             Historical Poems of the XIV and XV Centuries.\n         New York: Columbia UP, 1959: 273.\nArnold,  Thomas,\n                        ed.  \n             Memorials of St. Edmund\u2019s Abbey.\n             3 vols. \n             Rolls Series\n         96 (1890-96); repr. Kraus, 1965): 3.295.\nDickins,  Bruce,  and  Richard M. Wilson.  \n             Early Middle English Texts.\n         Cambridge: at the University Press, 1951: 10.\nWilson,  Richard Middlewood. \n             The Lost Literature of Medieval England.\n         London: Methuen, 1952: 192.\nKinney,  Thomas L. \n             \u201cThe Temper of Fourteenth-Century English Verse of Complaint.\u201d \n             Annuale Mediaevale\n         7 (1966): 74-89: 74.\n Bad Key: Dobson1970: 305.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 558.\n\n",
+            "folio": "f. 57"
+        },
+        "CULDd142": {
+            "Transcription": "\nMan be war and be no fool\u00feenke apon \u00fee ax and of \u00fee\n                    stool\u00fee stool was hard \u00fee ax was scharp\u00fee iiij\n                    \u021dere of kyng Richard\n",
+            "Note": "\nVariant version.",
+            "Editions": "\n\nRobbins,  Rossell Hope,\n                        ed.  \n             Historical Poems of the XIV and XV Centuries.\n         New York: Columbia UP, 1959: 54.\n Bad Key: Dobson1970: 305.\n\n",
+            "folio": "f. 312"
+        },
+        "BLCottCleoCVIII": {
+            "Transcription": "\n\u00fee ex was scharp \u00fee stok was hard\u00fee fowrt y \u021dere\n                    of kyng rychard\n",
+            "Editions": "\nWenzel,  Siegfried. \n             \u201cUnrecorded Middle-English Verses.\u201d \n             Anglia\n         92 (1974): 55-78: 70.\n",
+            "folio": "f. 134"
+        },
+        "Cox": {
+            "Editions": "\nCox,  James Stevens. \n             Literary Repository\n         4 (1957): 1.\n",
+            "folio": ""
+        }
+    }
+}

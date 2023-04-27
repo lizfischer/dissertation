@@ -1,0 +1,82 @@
+{
+    "_id": 4763,
+    "_header": "Saint Swithin the confessor was here of England",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Swithin, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Swithin in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "BodAsh43": {
+            "First Lines": "\nSEyn Swi\u00fein \u00fee confessour was of engelondeBi side\n                    wynchestre he was ibore as ic vnderstonde\u2026\n",
+            "Last Lines": "\n\u2026Nou seynt swi\u00fein \u00feat our biscop was her in\n                    engelondeBringe ous to \u00fee Ioie of heuene \u00feoru our lordes\n                    sonde\n",
+            "folio": "ff. 98v-100"
+        },
+        "Bod779": {
+            "First Lines": "\nSeint swi\u00fe\u00fein \u00fee comfessour was I bore in\n                    ingelondeby syde \u00fee toun of Winchestre also ich\n                    ondirstonde\u2026\n",
+            "Last Lines": "\n\u2026vor he leet \u00fee stronge brigge wit oute \u00fee toun\n                    arere& ford \u00feerto lym & ston & workmen \u00feat \u00feer\n                    were\n",
+            "Note": "\nWhole text crossed out in MS.",
+            "folio": "ff. 223v-224"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSEint Swith\u00fean \u00fee confessour was her of EngelondeBi syde\n                    Winchestre he was i bore as ich vndurstonde\u2026\n",
+            "Last Lines": "\n\u2026Seint Swi\u00fe\u00fehan \u00feat vre Bisschop was here in\n                    EngelondeBring vs to \u00fee Ioye of heuene \u00feorwh vr lordes sonde\n                    Amen\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 39ra-39va"
+        },
+        "BodLauMis463": {
+            "First Lines": "\nSEint Swithin \u00fee confessour was here in EngelondBiside\n                    Winchestre he was bore as I vnderstond\u2026\n",
+            "Last Lines": "\n\u2026Now seint Swithin \u00feat was bisshop here in\n                    engelondeBringe vs to \u00fee Ioye of heuene \u00feorw oure lordes\n                    sonde\n",
+            "Note": "\nTwo columns per page, one full-line, the other half-line.",
+            "Editions": "\nEarle,  John. \n             Gloucester Fragments.\n         London: Longman, 1861: 78-83.\n",
+            "folio": "ff. 63rb-64rb"
+        },
+        "OxfTri57": {
+            "Editions": "\nEarle,  John. \n             Gloucester Fragments.\n         London: Longman, 1861: 78-83.\n",
+            "folio": "f. 65"
+        },
+        "CamCCC145": {
+            "First Lines": "\nSein swi\u00fe\u00fein \u00fee confessour was her of\n                    engelondeBiside winchestre he was i bore as ich vnder\n                    stonde\u2026\n",
+            "Last Lines": "\n\u2026Nou sein switthin \u00feat oure bissop was here in\n                    engelondeBring us to \u00fee ioie of heuene \u00feoru oure louerdes\n                    sonde\n",
+            "Editions": "\nD\u2019Evelyn,  Charlotte,  and  A. J. Mill, eds.  \n             The South English Legendary: Corpus Christi College Cambridge MS. 145\n                and British Museum MS. Harley 2277, with variants from Bodley MS. Ashmole 43 and\n                British Museum MS. Cotton Julius D.ix.\nEETS\n         o.s. 235 (1959), 236 (1956); repr. 1967: 1.274-9.\n",
+            "folio": "ff. 102v-104v"
+        },
+        "CamMagPep2344": {
+            "First Lines": "\n\u2026Ak \u00feat word now habbe\u00fe ffor\u021dute \u00feis heye men\n                    echonSeint Swythin his Bisschopriche to alle goednesse\n                    drow\u2026\n",
+            "Last Lines": "\n\u2026Now Seint Swythun \u00feat oure Bisschop were her in\n                    EngelondeHelp vs bringe to \u00fee ioye of heuene \u00feorw oure lordes\n                    sonde\n",
+            "Note": "\nBegins imperfectly due to loss of folio(s).",
+            "Attributed Title": "\nSwythinus (RT)",
+            "folio": "pp. 329-331"
+        },
+        "CamTCC605": {
+            "First Lines": "\nSEint swy\u00feyn \u00fee confessoure was here of englondeby sydes\n                    wynchestre boren as ic vnderstonde\u2026\n",
+            "Last Lines": "\n\u2026Now seint swy\u00feyn \u00feat byschop was here in englondTo\n                    bringe ous to \u00fee Ioie of heuene \u00feorw oure lordes sonde\n",
+            "Attributed Title": "\nSwy\u00feyn (RT)",
+            "folio": "ff. 233v-235"
+        },
+        "BLAdd10301": {
+            "First Lines": "\nSEyn swi\u00fe\u00fein \u00fee confessor was her of engelondeBy\n                    syde Wynchestre he was y bore as y vnder stonde\u2026\n",
+            "Last Lines": "\n\u2026Nou Sein Swithim \u00feat oure bissop was here in\n                    engelondeBring vs to \u00fee Ioye of heuene \u00feoru oure lordes\n                    londe\n",
+            "Attributed Title": "\nDe sancto switthino (f. 119, by scribe in margin beside first line);\n                        Swi\u00feino (RT)",
+            "folio": "ff. 119-121"
+        },
+        "BLEge1993": {
+            "First Lines": "\nSeint swi\u00fean \u00fee confessour was here of engelondeBiside winchestre he was bore as ich vnderstonde\u2026\n",
+            "Last Lines": "\n\u2026Seint swithan \u00feat oure bisschop was here in engelondeBringe vs to \u00fee ioie of heuene \u00feorw oure lordes sonde\n",
+            "Note": "\nEnds \u201cAmen\u201d (f. 176).",
+            "folio": "ff. 174-176"
+        },
+        "BLHar2277": {
+            "First Lines": "\nSeint Swi\u00fe\u00fein \u00fee confessour was her of EngelondeBiside Wynchestre he was ibore as ich vnderstonde\u2026\n",
+            "Last Lines": "\n\u2026Nou Seint Swithin \u00feat was bischop her in EngelondeBringe ous to \u00fee ioye of heuene \u00feurf oure louerdes sonde\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 2277.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_2277. \n",
+            "Editions": "\nFurnivall,  Frederick James. \n             Early English Poems and Lives of Saints.\nTransactions of the London Philological Society\n         1858; Pt. 2, Berlin, 1862: 43-7.\n",
+            "folio": "ff. 78-80"
+        },
+        "TokyoTak54": {
+            "First Lines": "\nSeynt Swithan \u00fee Confessour was here in EngelondBeside\n                    Wynchester he was bore as I vnderstonde\u2026\n",
+            "Last Lines": "\n\u2026Seint Swithan \u00feat bisshop was her in EngelondBryng vs to\n                    \u00fee ioie of heuene thorgh our lordis sonde. Amen.\n",
+            "Attributed Title": "\nVita sancti Swithuni confessoris (f. 101v)",
+            "folio": "ff. 101v-103v"
+        }
+    }
+}

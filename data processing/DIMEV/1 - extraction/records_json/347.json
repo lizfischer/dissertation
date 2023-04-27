@@ -1,0 +1,23 @@
+{
+    "_id": 347,
+    "_header": "All manner of men should hold Gods biddings",
+    "Note": "For a shorter version in The Lay Folks\u2019 Catechism, see 671; the rhyming paraphrase of the Ten Commandments occurs separately: see 5843.",
+    "Title(s)": "Lay Folk\u2019s Catechism",
+    "Subjects": "instruction, religious; religous instruction",
+    "Versification": "\u2014 alliteration",
+    "_description": "A Wycliffite expansion of The Lay Folk\u2019s Catechism, by John de Gaytryge, likewise in nonrhyming alliterative verse",
+    "_witnesses": {
+        "Lam408": {
+            "Editions": "\nSimmons,  Thomas Frederick,  and  Henry Edward Nolloth, eds.  \n             \u201cThe Lay Folks\u2019 Catechism.\u201d \n             EETS\n         o.s. 118 (1901); repr. 1987: 3-99.\n",
+            "folio": "f. 1"
+        },
+        "YorkMinXVIL12": {
+            "First Lines": "\nAlle maner of men schulden holde goddis biddingisfor wi\u00feouten\n                    holding of hem may no man be saued\u2026\n",
+            "Last Lines": "\n\u2026\u00feanne shulden men bygynne to werre on enemyes next hemas\n                    meede & neede & kynde techi\u00fe cristene men\n",
+            "Note": "\nPortions on Ten Commandments through the Spiritual Works of\n                    Mercy.",
+            "Attributed Title": "\nhere begynne\u00fe \u00fee ten comaundementis (f. 1ra)",
+            "Editions": "\nSimmons,  Thomas Frederick,  and  Henry Edward Nolloth, eds.  \n             \u201cThe Lay Folks\u2019 Catechism.\u201d \n             EETS\n         o.s. 118 (1901); repr. 1987: 3-99.\n",
+            "folio": "ff. 1ra-50ra"
+        }
+    }
+}

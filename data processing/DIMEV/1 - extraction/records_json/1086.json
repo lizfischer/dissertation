@@ -1,0 +1,31 @@
+{
+    "_id": 1086,
+    "_header": "Cross and courteous Christ this beginning speed",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 336; Ringler Jr. (1988)\nXRingler Jr., William A. Bibliography and Index of English Verse Printed 1476-1558. London: Mansell, 1988",
+    "Title(s)": "Pierce the Ploughmans Crede",
+    "Subjects": "tales; religious controversy",
+    "Versification": "\u2014 alliteration",
+    "_description": "Pierce the Ploughmans Crede \u2014 855 alliterative lines",
+    "_witnesses": {
+        "CamTCC595": {
+            "First Lines": "\nCros and Curteis Crist \u00feis bygynnynge spedeffor \u00fee\n                    faderes frendchipe \u00feat fourmede heueneAnd \u00feoru\u021d \u00fee\n                    speciall spirit \u00feat sprong of hem tweyneAnd alle in on godhed endles\n                    dwelle\u00fe\u2026\n",
+            "Last Lines": "\n\u2026& \u021dyue hem wiit & good will swiche dedes to\n                    werche\u00deat \u00feei maie wynnen \u00fee lif \u00feat euer schal\n                    lesten\n",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             The Vision and the Creed of Piers Ploughman.\n         2 vols. London; Pickering, 1842; 2nd ed., rev. 1856. \nSkeat,  Walter William,\n                        ed.  \n             Pierce the Ploughman\u2019s Crede.\nEETS\n         o.s. 30 (1867): 1-32.\nDean,  James M.,\n                        ed.  \n             Six Ecclesiastical\n                    Satires.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1991. \n\n",
+            "folio": "ff. 317-328"
+        },
+        "BLHar78": {
+            "First Lines": "\n\u2026And a waited on that wold how wondirly biltWith arches on\n                    eche half ekeliche I cornerd\u2026\n",
+            "Last Lines": "\n\u2026With wyndows of glas I wrought as a chircheThan walked I\n                    ferre and went al aboute\u2026\n",
+            "Note": "\nLines 172-207 only.",
+            "Editions": "\nDoyle,  A. I. \n             \u201cAn Unrecognized Piece of Piers the Ploughman\u2019s Creed and Other\n                Works by Its Scribe.\u201d \n             Speculum\n         34 (1959): 428-36: 435-6.\n",
+            "folio": "f 3"
+        },
+        "BLRoy18Bxvii": {
+            "First Lines": "\nCrose and curtys crist thys begynyng spedeffor the ffathers\n                    ffrendshipe that fformyd hevin\u2026\n",
+            "Last Lines": "\n\u2026and gyve them wyt and good will such dedes to werchethat they\n                    may wynnen the lyff that euer shall lasten\n",
+            "Note": "\nLines 172-207 only.",
+            "Attributed Title": "\nOn the Crede (written in a sixteenth-century hand)",
+            "folio": "ff. 1-13v"
+        }
+    }
+}

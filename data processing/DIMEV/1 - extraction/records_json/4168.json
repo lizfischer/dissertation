@@ -1,0 +1,50 @@
+{
+    "_id": 4168,
+    "_header": "Of gifts large in love hath great delight",
+    "Subjects": "utilitarian verse; complexions, four",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Of the Four Complexions (beginning with Sanguineus) \u2014 four stanzas rhyme royal",
+    "_witnesses": {
+        "BodAsh59": {
+            "First Lines": "\nOff gifftes large to love ha\u00fee gret deliteIoyous and gladde\n                    aye of laughing chereOf ruddy colour medele some dele with\n                    whiteDisposde by kynde for to be chauntour\u2026\n",
+            "Last Lines": "\n\u2026Coward of kynde whane he shoulde be a man\u00feowe shalt him\n                    knowe by visage pale and wane\n",
+            "Note": "\nEach stanza followed by Latin hexameter couplet (\u2018Largus\n                        amans\u2026\u2019, Thorndike  and  Kibre (1963)\nXLynn Thorndike,   and  Pearl Kibre.  \n             A Catalogue of Incipits of Mediaeval Scientific Writings in\n                Latin.\n         Cambridge, MA: Medieval Academy of America, 1963, col. 811); omits\n                    stanza on Fleumaticus.",
+            "Attributed Title": "\nHere nexst folowe\u00fee \u00fee foure complexcyons of man kynde with\n                    \u00fee doomis of hem made by discrete Clerkes (f. 71v)",
+            "folio": "ff. 71v-72"
+        },
+        "BodDig88": {
+            "First Lines": "\nIn gyftys large & in love hath grete delyteIocand & gladde\n                    ever of laghyng Chere\u2026\n",
+            "Last Lines": "\n\u2026Coward of kynde when he shuld be a man\u00feou shalt hym\n                    knowe by hys vysage pale & wanne\n",
+            "Note": "\nNames of four complexions precede each stanza.",
+            "folio": "ff. 29-29v"
+        },
+        "CULFf16": {
+            "First Lines": "\nOff yefftis large in loue hayth gret deliteIocund and glad a ay of\n                    laughing chereOff Rody collre colour meynd somdell with\n                    RedeDysposed to be kynde to be a chauntre\u2026\n",
+            "Last Lines": "\n\u2026Coward of lynd whan he schold be manThou shalt hym knowe by\n                    visage pale & wane\n",
+            "Note": "\nHeadings, \u2018Sanguinius\u2019,\n                    \u2018Colericus\u2019, etc. for each stanza.",
+            "Facsimiles": "\nBeadle,  Richard,  and  Alfred E. B. Owen.  \n             The Findern Manuscript: Cambridge University Library MS. F.1.6.\n         London: Scolar Press, 1977. \n",
+            "folio": "f. 162v"
+        },
+        "CamTCC599": {
+            "First Lines": "\nOf yiftis large in love hathe gret deliteIocund and glad ay of\n                    lawyng chereOf Ruddy coloure meynt somdele with whightDisposid be kynd\n                    to be a chauntere\u2026\n",
+            "Last Lines": "\n\u2026Coward of kynd when he shuld be a manThou shalt hym knowe bi\n                    visage pale & wan\n",
+            "Note": "\nEach stanza preceded by Latin verses from which these are translated\n                        (\u2018Natura pingues\u2026\u2019, Thorndike  and  Kibre (1963)\nXLynn Thorndike,   and  Pearl Kibre.  \n             A Catalogue of Incipits of Mediaeval Scientific Writings in\n                Latin.\n         Cambridge, MA: Medieval Academy of America, 1963,\n                    col. 902) and the Latin hexameter couplets (\u2018Largus\n                    amans\u2026\u2019, Thorndike  and  Kibre (1963)\nXLynn Thorndike,   and  Pearl Kibre.  \n             A Catalogue of Incipits of Mediaeval Scientific Writings in\n                Latin.\n         Cambridge, MA: Medieval Academy of America, 1963, col. 811), both from\n                        Regimen sanitatis Salernitanum.",
+            "Facsimiles": "\n\nFletcher,  Bradford Y. \n             \u201cIntroduction.\u201d \n             Manuscript Trinity R.3.19. A Facsimile.\n         Norman, OK: Pilgrim, 1987. \n\nDigital Facsimile of Trinity College Cambridge MS R.3.19.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.19. \n\n",
+            "Editions": "\nPerson,  Henry Axel. \n             Cambridge Middle English Lyrics.\n         Seattle: University of Washington Press, 1953; rev. ed. 1962: 50-2.\n",
+            "folio": "f. 52v-53"
+        },
+        "BLHar2251": {
+            "First Lines": "\nOff yiftes large in love hath grete deliteIocunde and gladde ay of\n                    laughyng chiere\u2026\n",
+            "Last Lines": "\n\u2026Coward of kynde whan he shuld be a manThow shalt hym knowe by\n                    visage pale and wan\n",
+            "Note": "\nHeadings for \u2018Sanguineus\u2019, etc. before each\n                    stanza.",
+            "Editions": "\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 72-3.\n",
+            "folio": "f. 79-79v"
+        },
+        "TokyoTak61": {
+            "First Lines": "\nIn yiftis large loue hathe greet delyteIocund & gladde ay of\n                    laughing chier\u2026\n",
+            "Last Lines": "\n\u2026Coward of kind whan he shuld be a manThou shalt him knowe bi\n                    his visage pale & wan\n",
+            "Note": "\nHeadings for \u2018Sanguineus\u2019, etc. before each\n                    stanza.",
+            "folio": "f. 59"
+        }
+    }
+}

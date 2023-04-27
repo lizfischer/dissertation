@@ -1,0 +1,15 @@
+{
+    "_id": 2773,
+    "_header": "Italicis Olilant Lombards waymenten",
+    "Subjects": "translations; political poems",
+    "Versification": "\u2014 four-line \u2014 aaaa",
+    "Macaronic": "Latin",
+    "_description": "National reactions to ?a political event, or stereotypes \u2014 four macaronic monorhyming lines",
+    "_witnesses": {
+        "CamTCC600": {
+            "Transcription": "\n\nItalicis Olilant Lombardes weymentenTheotonicis Clamant\n                    Duchemen cryenGallicis Cantant ffrenshmen singenAnglicis\n                        subilant And Englisshmen Joyessen Videte\n\n",
+            "Attributed Title": "\nDictum de senioribus\n",
+            "folio": "p. 9"
+        }
+    }
+}

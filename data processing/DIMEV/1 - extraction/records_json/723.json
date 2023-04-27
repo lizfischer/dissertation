@@ -1,0 +1,20 @@
+{
+    "_id": 723,
+    "_header": "At this gate the law is set",
+    "Subjects": "poverty",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Poormen keep away \u2014 two couplets",
+    "_witnesses": {
+        "NLS1844": {
+            "Transcription": "\nAt \u00feis \u021date \u00fee laghe is settePoure men here ne slepes\n                    ne etteBot achilles \u00fee knyght of prawessePlato \u00fee wys and\n                    dyane \u00fee goddesse\n",
+            "Note": "\nImmediately followed by 966 as one work.",
+            "Attributed Title": "\nAnglicum priorum versuum (f. 103)",
+            "Editions": "\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.499.\n",
+            "folio": "f. 103"
+        },
+        "Basel": {
+            "Editions": "\nMeyer,  Gustav,  and  Max Burckhardt.  \n             Die mittelalterlichen Handschriften der Universit\u00e4tsbibliothek\n                Basel, beschreibendes Verzeichnis. Abteilung B, Theologische\n                Pergamenthandschriften.\n         Basel: Verlag der Universit\u00e4tsbibliothek, 1960-1975: 852.\n",
+            "folio": "f. 93Basel"
+        }
+    }
+}

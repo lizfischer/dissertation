@@ -1,0 +1,15 @@
+{
+    "_id": 5412,
+    "_header": "The morrow following Tiburtius and Valerian",
+    "Note": "Formerly included under 6322.",
+    "Subjects": "chronicles, verse in; weather; translations",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "Bibliographic Ghosts": "Fabyan, Robert , The chronicle of Fabyan whiche he hym selfe nameth the concordaunce of historyes, nowe newely printed, [and] in many places corrected, as to the dylygent reader it may apere. 1542. Cum priuilegio ad imprimendum solum, [London]: Printed by Iohn Reynes, dwellynge at the sygne of saynte George in Pauls churcheyarde, [1542]",
+    "_description": "Verses on the terrible snow storm of 22 Edward I, translating five lines of Latin verse which precede them, in Part VII of Fabyan\u2019s Chronicle,\nSeptima Pars, Edwardi Primi \u2014 one 8-line stanza (ababbcbc)",
+    "_witnesses": {
+        "HarEng766": {
+            "Transcription": "\nThe morow ffolowyng Tiburce & ValerianThe blissid Seyntis of Snow\n                    ffill such plentyeThat at that day was no lyvyng manThat myght\n                    Remembre of So grete quantyteThe Northyn wynde blew with such\n                    ffyersteThat howse treis with herbis it ovircastAnd many other harmys\n                    by land & eke by seeOf that wynde cam the while that it did\n                    last\n",
+            "folio": "f. 118v"
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "_id": 4537,
+    "_header": "Saint Anastasia was I-born at Rome by old dawe",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Anastasia, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Anastasia in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "BodAsh43": {
+            "First Lines": "\nSEyn Anastace was ibore at rome bi olde daweOf swi\u00fee heie men\n                    icome al of \u00fee olde lawe\u2026\n",
+            "Last Lines": "\n\u2026& \u00fee maner is to muche aner\u00fee to lye lesingeTo\n                    \u00fee Ioie of heuene \u00feat heo is Inne godes ous bringe\n",
+            "folio": "ff. 219-220v"
+        },
+        "Bod779": {
+            "First Lines": "\nSeint anastas was I bore at rome by olde dawe& of swy\u00fee\n                    hy\u021de men ycome al of \u00fee olde lawe\u2026\n",
+            "Last Lines": "\n\u2026& \u00fee maner is mochil in er\u00fee for to ly\u021de\n                    lesingeIn to \u00fee ioy \u00feat \u021dhe is inne god oure soulus\n                    bringe\n",
+            "Note": "\nComplete text; second occurrence in MS.",
+            "Attributed Title": "\nSeint anastas \u00fee virgine (f. 257v)",
+            "folio": "ff. 257v-258v"
+        },
+        "BodLauMis463": {
+            "First Lines": "\nSEint Anastace was y bore At Rome be olde daweOf swi\u00fee heye\n                    men she come Al of \u00fee olde lawe\u2026\n",
+            "Last Lines": "\n\u2026And \u00fee maner is to myche on eor\u00fee forto leone\n                    lesingTo \u00fee heye ioye \u00feat she is inne god vs alle\n                    bringe\n",
+            "Note": "\nTwo columns per page, one full-line, the other half-line",
+            "folio": "ff. 134vb-135va"
+        },
+        "CamCCC145": {
+            "First Lines": "\nSeint Anastace was ibore at rome by olde daweOf swu\u00fee heie men\n                    icome al of \u00fee olde lawe\u2026\n",
+            "Last Lines": "\n\u2026And \u00fee manere is to muche an eor\u00fee forto luue\n                    lesyngeTo \u00fee ioie of heuene \u00feer he is Inne god oure soule\n                    bringe\n",
+            "Editions": "\nD\u2019Evelyn,  Charlotte,  and  A. J. Mill, eds.  \n             The South English Legendary: Corpus Christi College Cambridge MS. 145\n                and British Museum MS. Harley 2277, with variants from Bodley MS. Ashmole 43 and\n                British Museum MS. Cotton Julius D.ix.\nEETS\n         o.s. 235 (1959), 236 (1956); repr. 1967: 1.586-90.\n",
+            "folio": "ff. 170v-172"
+        },
+        "CamMagPep2344": {
+            "First Lines": "\nSeint Anastace was ybore at Rome by olde daweOf swi\u00fee heye men\n                    as of \u00fee olde lawe\u2026\n",
+            "Last Lines": "\n\u2026And \u00fee manere is to muche in eor\u00fee ffor to leone\n                    lesyngeTo \u00fee ioye \u00feat \u021deo is ynne god oure soules\n                    bringe\n",
+            "Attributed Title": "\nAnastasia (RT)",
+            "folio": "pp. 90-93"
+        },
+        "BLCottJulDIX": {
+            "First Lines": "\nSEint anastase was ibore at rome bi olde daweof sui\u00fee heie men heo com al of \u00fee olde lawe\u2026\n",
+            "Last Lines": "\n\u2026nou god for loue of seint anastase our soule so wisse\u00feat we mote ford wit hire come to heuen blisse\n",
+            "Note": "\n\u201cCapitulum xCi\u201d added to left margin by later hand (f. 222v).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Julius MS D IX.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Julius_D_IX. \n",
+            "folio": "ff. 222v-224"
+        },
+        "BLHar2277": {
+            "First Lines": "\nSEinte Anastace was ibore at Rome bi olde daweOf swi\u00fee he\u021demen icome al of \u00fee olde lawe\u2026\n",
+            "Last Lines": "\n\u2026& \u00fee maner is to moche an vr\u00fee forto leoue lesingeTo \u00fee ioye of heuene \u00feat heo is inne for hire loue god ous bringe\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 2277.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_2277. \n",
+            "folio": "ff. 189v-191"
+        },
+        "GraysInn20": {
+            "Note": "\nA fragment",
+            "folio": "ff. 2-2v"
+        }
+    }
+}

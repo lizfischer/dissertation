@@ -1,0 +1,44 @@
+{
+    "_id": 2628,
+    "_header": "In the time of Arthur an aunter betide",
+    "Title(s)": "The Awntyrs off Arthure at the Terne Wathelyne",
+    "Subjects": "romances; Arthurian literature",
+    "Versification": "\u2014 thirteen-line, alliteration \u2014 ababababcdddc",
+    "_description": "The Awntyrs off Arthure at the Terne Wathelyne \u2014 715 lines in 13-line alliterative stanzas (ababababcdddc).",
+    "_witnesses": {
+        "BodDou309": {
+            "First Lines": "\nIn the Tyme of Authur an Aunter by tyddeBy ye turnen athelan as ye\n                    boke telles\u2026\n",
+            "Last Lines": "\n\u2026In ye tyme of ArthoreThis anter betide\n",
+            "Note": "\nNinteenth-century transcript by Douce in Oxford,  Bodleian Library Douce 309 (SC 21883), f.\n                    1.",
+            "folio": "ff. 1-11v"
+        },
+        "BodDou324": {
+            "First Lines": "\nIN the tyme of Arthur an aunter by tyddeBy \u00fee turnewathelan as\n                    \u00fee boke telles\u2026\n",
+            "Last Lines": "\n\u2026In \u00fee tyme of ArthoreThis anter be tide\n",
+            "Note": "\nNineteenth-century transcript by Douce in Oxford,  Bodleian Library Douce 309 (SC 21883), f.\n                    1.",
+            "Editions": "\n\nAmours,  Fran\u00e7ois Joseph,\n                        ed.  \n             Scottish Alliterative Poems in Riming Stanzas.\n             2 vols. \n             Scottish Text Society\n         27 (1892), 38 (1897); Edinburgh, London: Blackwood, 1892-1897: 1.116-71.\nPinkerton,  John,\n                        ed.  \n             Ancient Scottish Poems Never Before in Print.\n         2 vols. London and Edinburgh, 1786: 3.197.\nSibbald,  John. \n             Chronicle of Scottish Poetry\u2026.\n         4 vols. Edinburgh and London, 1802: 1.xvii-xxvii (lines 1-332 only).\nHanna,  Ralph,\n                        ed.  \n             The Awntyrs off Arthure at the Terne Watthelyn: An Edition Based on the\n                Bodleian Library MS. Douce 324\n         Manchester: University Press, 1974. \nHahn,  Thomas,\n                        ed.  \n             Sir Gawain: Eleven Romances and Tales.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1995: 169-226.\n\n",
+            "folio": "ff. 1-11v"
+        },
+        "Lam491": {
+            "First Lines": "\nIn the tyme of Arthur an auntur bytidIn talkyng of his turmentis\n                    \u00fee tale of hym tellis\u2026\n",
+            "Last Lines": "\n\u2026Thurgh a forest as y forewi\u00fe stif knyghtis and\n                    storeIn \u00fee tyme of ArthurThis auntour\n                    bytydExplicit\n",
+            "folio": "ff. 275-286v"
+        },
+        "Lincoln91": {
+            "First Lines": "\nIn Kyng Arthure tyme ane awntir by tydeBy the Ternewahethelyne als\n                    the buke tellis\u2026\n",
+            "Last Lines": "\n\u2026This fferly byflle full sothely to sayneIn yggillwede\n                    fforeste at \u00fee Ternwathelayne\n",
+            "Note": "\nOne leaf missing between 157 and 158; lower outer corner of f. 159 torn\n                    away, with loss of text.",
+            "Attributed Title": "\nHere By gynnes The Awntyrs off Arthure at the Terne Wathelyn (f.\n                    154)",
+            "Facsimiles": "\nBrewer,  Derek Stanley,  and  A. E. B. Owen.  \n             \u201cIntroduction.\u201d \n             The Thornton Manuscript (Lincoln Cathedral MS. 91).\n         London: Scolar Press, 1975. \n",
+            "Editions": "\n\nAmours,  Fran\u00e7ois Joseph,\n                        ed.  \n             Scottish Alliterative Poems in Riming Stanzas.\n             2 vols. \n             Scottish Text Society\n         27 (1892), 38 (1897); Edinburgh, London: Blackwood, 1892-1897: 1.116-71.\nLaing,  David. \n             Select Remains of the Ancient Popular and Romance Poetry of\n                Scotland.\n         Edinburgh: 1822; rev. \n                J.\n                Small\n            , Edinburgh: Blackwood, 1885; rev. \n                W. C.\n                Hazlitt\n            ,  \u201cEarly Popular Poetry of Scotland\u201d , London: Reeves and\n            Turner, 1895: 1.4.\nMadden,  Frederick,\n                        ed.  \n             Syr Gawayne.\nBannatyne Club. London: R. and J. Taylor, 1839: 95-128.\n\n",
+            "folio": "ff. 154-161"
+        },
+        "PULTayM9": {
+            "First Lines": "\nIN \u00fee tyme of Arthor thys anter be tyddBe syde \u00fee tarne\n                    Wathelan as \u00fee boke tellus\u2026\n",
+            "Last Lines": "\n\u2026In the tyme of king Arthorethis anter be tidde\n",
+            "Note": "\n\u2018finis\u2019 after last line",
+            "Editions": "\nRobson,  John. \n             \u201cThree Early English Metrical Romances.\u201d \n             Camden Society\n         o.s. 18 (1842): 1-26.\n",
+            "folio": "ff. 1-15v"
+        }
+    }
+}

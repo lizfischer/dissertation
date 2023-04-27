@@ -1,0 +1,56 @@
+{
+    "_id": 3058,
+    "_header": "Let no man boast of cunning ne virtue",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Midsomer Rose\u2019",
+    "Subjects": "mutability",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, \u2018Midsomer Rose\u2019 \u2014 fifteen 8-line stanzas",
+    "_witnesses": {
+        "BodAsh59": {
+            "First Lines": "\nLEt noman booste of konnyng ne vertueOf tresore ricchesse or of\n                    sapienceOf worldely watte al com\u00fee of IhesuCounseyle of coumfort\n                    discrecoun prudence\u2026\n",
+            "Last Lines": "\n\u2026Called \u00fee Ryver with \u00fee red stremeTo paradyse\n                    wardes vn to Ihesu oure Roos\n",
+            "Note": "\n14 stanzas (stanza eight is missing).",
+            "Attributed Title": "\nHere folowe\u00fee a balade made of \u00fee transmutacouns of \u00feis\n                    worlde with \u00fee refrayde as a midsomer Roos (f. 31v)",
+            "folio": "ff. 31v-33v"
+        },
+        "CULHh412": {
+            "First Lines": "\nLat no man bost of cunnyng ne verteuOf tresowr richesse nor of\n                    sapience\u2026\n",
+            "Last Lines": "\n\u2026Toward paradyse callyd the rede stremeOf whos .v. wondes\n                    print in \u021dowre hert a rose Explicit\n",
+            "folio": "ff. 89-90v"
+        },
+        "CamJes56": {
+            "First Lines": "\n[L]At no man bost of konnyng nor vertueOf tresoure Riches nor of\n                    Sapience\u2026\n",
+            "Last Lines": "\n\u2026Toward paradise callid \u00fee reede stremeOf whos v woundes\n                    prynte in youre herte A Rose\n",
+            "Editions": "\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             A Selection from the Minor Poems of Don John Lydgate.\nPercy Society\n         2. London: T. Richard, 1840: 22-6.\n",
+            "folio": "ff. 25-27v"
+        },
+        "CamTCC601": {
+            "First Lines": "\nlat noman bost of Connyng nor VertuOf tresour Rychese ner of\n                    sapience\u2026\n",
+            "Last Lines": "\n\u2026Toward paradyse callyd the Rede stremeOf whose v woundes\n                    prynte in your hert a Rose\n",
+            "folio": "ff. 300-301v"
+        },
+        "BLHar2251": {
+            "First Lines": "\nLAte noman boste of konnyng nor vertuOf tresour richesse nor of\n                    sapience\u2026\n",
+            "Last Lines": "\n\u2026Toward paradise callid the Reede streameOf whos fyve woundis\n                    prent in youre hert a Rose\n",
+            "folio": "ff. 15-16v"
+        },
+        "BLHar2255": {
+            "First Lines": "\nLAt noman booste of konnyng nor vertuOf tresour richesse nor of\n                    Sapience\u2026\n",
+            "Last Lines": "\n\u2026Toward paradys callyd the rede stremOff whos five woundys\n                    prent in your hert a Roose Explicit\n",
+            "Editions": "\n\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 780-5.\nDavies,  Reginald Thorne. \n             Medieval English Lyrics: a critical anthology.\n         London, 1963; Evanston, IL: Northwestern UP, 1964: 191-3.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 393-6.\n\n",
+            "folio": "ff. 3v-5v"
+        },
+        "BLRoy18Axiii": {
+            "Transcription": "\nLet no man booste of cunnyng ne vertueNe of wysdome Riches nor of\n                    SapienceNor worldly supporte for all comyth of IesuAs Counsaile\n                    Comforte consolacion and prudence\n",
+            "Note": "\n4 lines only.",
+            "folio": "f. 114"
+        },
+        "HunHM140": {
+            "First Lines": "\nLate no man boste of connyng nor vertueOf tresoure riches nor of\n                    sapience\u2026\n",
+            "Last Lines": "\n\u2026Toward paradice called the red stremeOf whose v woundes prynt\n                    in your hert a rose\n",
+            "Editions": "\n\nGray,  Thomas. \n             \u201cSome Remarks on the Poems of Lydgate.\u201d \n             The Works of Thomas Gray.\n             2 vols. \n            Thomas James Mathias, ed. \n         London, 1814: 2.76 (MSS unspecified).\nNorton-Smith,  John. \n             John Lydgate: Poems.\n         Oxford: Clarendon, 1966: 20 (ed. crit. all MSS except London,  British Library Royal 18 A.XIII).\n\n",
+            "folio": "ff. 87v-89"
+        }
+    }
+}

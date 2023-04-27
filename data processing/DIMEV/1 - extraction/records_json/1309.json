@@ -1,0 +1,26 @@
+{
+    "_id": 1309,
+    "_header": "Fifteen tokens I tellen may / Of XV days ere doomsday [Fiftene toknen ich tellen may / Of XV dayes er domesday]",
+    "Note": "Other MSS prefix a short invocation: see 3000.",
+    "Title(s)": "Les XV singnes de domesday",
+    "Subjects": "Doomsday, signs of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Fifteen Signs before the Day of Judgment",
+    "_witnesses": {
+        "BodAddE6": {
+            "First Lines": "\nXV tokenes tellin y mayXV dayis be forin domis dayAlso him\n                    seyez \u00fee profecieAftir \u00fee wordis of ieromie\u2026\n",
+            "Last Lines": "\n\u2026Wanne we habbin nede & nou\u00fee \u00feou vs bringe out\n                    of \u00fee deuelis mou\u00fee\n",
+            "Note": "\n212 lines.",
+            "folio": "a roll, second item"
+        },
+        "BodDig86": {
+            "First Lines": "\nFiftene toknen ich telles mayOf xv dayes er\n                    domesdai\u2026\n",
+            "Last Lines": "\n\u2026Ihesu crist \u021de \u00feat we motenAr we bended of oure\n                    sunnen debote\n",
+            "Note": "\n212 lines.",
+            "Attributed Title": "\nLes xv singnes de domesdai (f. 120v)",
+            "Facsimiles": "\nTschann,  Judith A.,  and  Malcolm B. Parkes.  \n             \u201cIntroduction.\u201d \n             Facsimile of Oxford, Bodleian Library, MS Digby 86\nEETS\n         s.s. 16 (1996). \n",
+            "Editions": "\nStengel,  Edmund. \n             Coducem Manu Scriptum Digby 86\u2026.\n         Halle: Orphanotrophei, 1871: 53-7.\n",
+            "folio": "ff. 120v-122v"
+        }
+    }
+}

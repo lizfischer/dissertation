@@ -1,0 +1,22 @@
+{
+    "_id": 1856,
+    "_header": "He that had enough to help himself withall",
+    "Author(s)": "Nicolas Bozon",
+    "Title(s)": "Contes moralis\u00e9s",
+    "Subjects": "advice, mora",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A couplet in Nicolas Bozon\u2019s Contes moralis\u00e9s",
+    "_witnesses": {
+        "BLAdd46919": {
+            "Transcription": "\nHe \u00feat has ynouth til helpin him self wit alSithen he ne wolde for soche I ne schal\n",
+            "Note": "\nWritten as prose, introduced by \u201canglico\u201d in text.",
+            "folio": "f. 132v"
+        },
+        "GraysInn12": {
+            "Transcription": "\nHe \u00feat hadd I nou to help him self witalSithen he ne wold I ne\n                    wile ne I ne schal\n",
+            "Note": "\nWritten as prose, lines 4-3 from the bottom.",
+            "Editions": "\n\nSmith,  Lucy Toulmin,\n                        ed.  \n             Les contes moralis\u00e9s de Nicole Bozon.\nSociete des anciens textes francais\n         50. Paris: Firmin Didot, 1889: 44.\nWilson,  Richard Middlewood. \n             \u201cMore Lost Literature II.\u201d \n             Leeds Studies in English\n         6 (1937): 30-49: 45.\nRoss,  Alan S. C. \n             \u201cEnglish in Nicole Bozon\u2019s Contes Moralis\u00e9s.\u201d \n             Neuphilologische Mitteilungen\n         50 (1949): 200-20: 207.\n\n",
+            "folio": "f. 24v"
+        }
+    }
+}

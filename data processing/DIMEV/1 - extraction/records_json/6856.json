@@ -1,0 +1,30 @@
+{
+    "_id": 6856,
+    "_header": "Yet is God a courteous lord",
+    "Subjects": "historical poems; Peasants\u2019 Revolt (1381); evils of the times",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "Moralizing verses on the Earthquake of 1382 \u2014 eleven 8-line stanzas (ababbcbc) with refrain element, \u2018\u2026warning to be ware\u2019",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nYit is God a Curteis lordAnd Mekeliche con schewe his\n                    miht\u2026\n",
+            "Last Lines": "\n\u2026Of his gret godnesse and his grasSende vs such warnyng to be\n                    ware\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nConybeare,  John Josias. \n             \u201cTwo English Poems of the Time of Richard II.\u201d \n             Archaeologia\n         18 (1817): 21-8: 26-8.\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 719-21.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 186-8.\nRobbins,  Rossell Hope,\n                        ed.  \n             Historical Poems of the XIV and XV Centuries.\n         New York: Columbia UP, 1959: 57-60.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 347-9 (selections).\nLuria,  Maxwell Sidney,  and  Richard L. Hoffman, eds.  \n             Middle English Lyrics.\n         New York: Norton, 1974: 155-7.\n\n",
+            "folio": "f. 411rb-411rc"
+        },
+        "BLAdd22283": {
+            "First Lines": "\n\u021cit is god a courteis lordAnd mekeliche con schewe his\n                    miht\u2026\n",
+            "Last Lines": "\n\u2026Of his gret godnesse and his grasSende vs such warnynge to be\n                    ware\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "Editions": "\nWright,  Thomas,\n                        ed.  \n             Political Poems and Songs relating to English History, composed during\n                the period From the Accession of Edward III to that of Richard III.\n             2 vols. \n             Rolls Series\n         14 (1859, 1861); repr. Kraus, 1965: 1.250-2.\n",
+            "folio": "f. 132vb-132vc"
+        },
+        "NLWPen395": {
+            "First Lines": "\n\u021dhit is god a curteys lord & curteysly con schaw his myght\n                    & fayn he wold bryng to acorde may fynd to lyue in trouth & ryght\u2026 \n",
+            "Last Lines": "\n\u2026\u021dhet by war whil we haue space & thanke \u00fee childe\n                    \u00feat mare bare \u00feat of his godnesse & his grace con send suche\n                    warnyng to be ware \n",
+            "Note": "\nSix 8-line stanzas",
+            "Attributed Author": "\nSigned As ?author or ?scribe \u2018Dammary\u2019 on f. 175.",
+            "folio": "ff. 174v-175"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "_id": 6212,
+    "_header": "Well wot her cat",
+    "Note": "Cf. 5228.",
+    "Subjects": "proverbs",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A proverbial couplet",
+    "_witnesses": {
+        "BodDou52": {
+            "Transcription": "\nWelle wot the catte whoos brede he lykkys\n",
+            "Editions": "\n\nF\u00f6rster,  Max. \n             \u201cFr\u00fchmittelenglische Sprichw\u00f6rter.\u201d \n             Englische Studien\n         31 (1902): 1-20: 5.\nF\u00f6rster,  Max. \n             \u201cDie Mittelenglische Sprichw\u00f6rtersammlung in Douce 52.\u201d \n             Festschrift zum XII Deutschen Neuphilolgentage in M\u00fcnchen\n                1906.\n            E. Stollreither, ed. \n         Erlangen (1906): 40-64: 50.\n\n",
+            "folio": "f. 23v"
+        },
+        "CamTCC1149": {
+            "folio": "f. 351"
+        },
+        "BLHar3362": {
+            "Transcription": "\nWel wot \u00fee catWhas berd he\u2026\n",
+            "Note": "\nIncomplete.",
+            "Editions": "\nWright,  Thomas,\n                        ed.  \n             \u201cAnecdota Literaria: Proverbs from Ms. Harley 3362, of the end of the\n                fifteenth century.\u201d \n             Retrospective Review\n         2 (May, 1854): 309. \n",
+            "folio": "f. 4v1"
+        },
+        "BLSl747": {
+            "Editions": "\nF\u00f6rster,  Max. \n             \u201cKleinere mittelenglische texte.\u201d \n             Anglia\n         42 (1918): 145-224; 43 (1919): 191: 203.\n",
+            "folio": "f. 66"
+        }
+    }
+}

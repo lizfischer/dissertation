@@ -1,0 +1,64 @@
+{
+    "_id": 2509,
+    "_header": "In heart clean and buxom",
+    "Subjects": "sermons, verse in; translations",
+    "Versification": "\u2014 three-line \u2014 aaa",
+    "Bibliographic Ghosts": "Oxford, Lincoln College Lat. 52; (listed with question mark in Brown and Robbins (1943)\nXCarleton Fairchild Brown, and Rossell Hope Robbins. The Index of Middle English Verse. New York: Printed for the Index Society by Columbia University Press, 1943)",
+    "_description": "Three lines in the Fasciculus morum translating the divisio of a Latin sermon for the Feast of St. John the Evangelist",
+    "_witnesses": {
+        "BodLauMis213": {
+            "Transcription": "\nIn hert clene & buxumIn speche myld & louesomIn dede fre\n                    & gladsom\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 195v"
+        },
+        "BodLauMis568": {
+            "Transcription": "\nin hert clene & buxumin speche myld & louesome& in\n                    dede fre & gladdsomme\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 111va"
+        },
+        "Bod187": {
+            "Transcription": "\nIn hert clene and buxumIn speche mylde and louesomIn dede fre\n                    and gladsum\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 211va"
+        },
+        "Bod332": {
+            "Transcription": "\nIn hert clene & buxomin speche mylde & lussomIn dede fre\n                    & gladsom\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 184vb"
+        },
+        "OxfCCC218": {
+            "Transcription": "\nIn herte clene and buxomIn speche mylde and louesemIn dede fre\n                    and gladsem\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 200.\n",
+            "folio": "f. 231v"
+        },
+        "CamGon71": {
+            "Transcription": "\nIn hert clene & bucsomIn spech mylde & louesomIn dede\n                    fre & gladsom\n",
+            "folio": "f. 94v"
+        },
+        "Cardiff": {
+            "folio": "f. 240v"
+        },
+        "DULCosViv2": {
+            "Transcription": "\nIn herte clene &c.\n",
+            "Note": "\nIncomplete; portion of first line only.",
+            "folio": "f. 97v"
+        },
+        "EDU82": {
+            "Transcription": "\nIn herte clene and buxumIn speche mylde and lufsomeIn dede free\n                    and gladsome\n",
+            "folio": "f. 277v"
+        },
+        "Spalding": {
+            "Transcription": "\nIn hert clene & buxumIn speche myld & leuesoumIn deyd\n                    fre & gladsum\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 171"
+        },
+        "WorcF19": {
+            "Transcription": "\nIn herte clene & boxsomIn spech milde & lossumIn dede\n                    fre and gladsum\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 230va"
+        },
+        "VaticanOtto": {
+            "folio": "f. 107"
+        }
+    }
+}

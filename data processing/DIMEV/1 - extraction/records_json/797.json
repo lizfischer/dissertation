@@ -1,0 +1,21 @@
+{
+    "_id": 797,
+    "_header": "Behold and see this glorious figure",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 252.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "Balade of the Image of Our Lady",
+    "Subjects": "Virgin Mary, image of; indulgences",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, Balade of the Image of Our Lady \u2014 five 8-line stanzas",
+    "_witnesses": {
+        "BLAdd29729": {
+            "First Lines": "\nBeholde and se this gloriows fygurewhiche sent luke of owr lady\n                    lyvynge\u2026\n",
+            "Last Lines": "\n\u2026criste blesse them both with his holy hondeand for theyr\n                    labor take them to his grace\n",
+            "Note": "\nFirst word of penultimate line (\u2018criste\u2019) written\n                    \u2018xpiste\u2019; a word mis-written between \u2018labor\u2019 and\n                    \u2018take\u2019 in last line is crossed through.",
+            "Attributed Author": "\nIohn lydgat (ff. 9v, 10)",
+            "Attributed Title": "\nA balad made by Iohn lydgat of \u00fee ymage of owr lady (heading, f.\n                        9v), by scribe (John Stow); Explicit A balad of \u00fee Image of\n                    owr lady made by Iohn lidgate (below last line, f. 10), by scribe (John\n                    Stow)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 290-1.\n",
+            "folio": "ff. 9v-10"
+        }
+    }
+}

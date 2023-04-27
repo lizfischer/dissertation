@@ -1,0 +1,23 @@
+{
+    "_id": 1276,
+    "_header": "Father and Son and Holy Ghost / As Thou art Lord of mights most",
+    "Note": "For the abridged version see 2147; see also Boccus and Sydrake, c. 1532 (STC 3186-7), and cf. B\u00fclbring (1902)\nXB\u00fclbring, Karl Daniel. \u201cSidrac in England.\u201d Beitr\u00e4ge zur romanischen und englisch Philologie: Festgabe f\u00fcr Wendelin Foerster. Hallem a.d.S., 1902: 442-78.",
+    "Author(s)": "Hugh Campeden",
+    "Title(s)": "Sydrac and Boctus",
+    "Subjects": "catechisms, scientific and biblical lore; instructional verse; doctrine, religious; translations",
+    "Versification": "\u2014 two-line",
+    "Bibliographic Ghosts": "Princeton, Princeton University Library Taylor Medieval 3 [olim Morent\u2019s Court, Kent, Meyerstein, Sotheby\u2019s 17 Dec. 1952, lot 466]: see 3465",
+    "_description": "Sydrac and Boctus (longer version), translated from the French by Hugh of Campeden \u2014 about 22,250 lines in couplets",
+    "_witnesses": {
+        "BLHar4294": {
+            "First Lines": "\nIf \u00feat \u00feou vndestonde canHa\u00fe vij chambrez and no\n                    moo\u2026\n",
+            "Last Lines": "\n\u2026\u00deere \u00feei begon \u00fee toure to di\u021dt\u00deat\n                    sanke from hem euery ny\u021dt\n",
+            "Note": "\nBegins and ends imperfectly.",
+            "folio": "ff. 1-79v"
+        },
+        "BLLan793": {
+            "Editions": "\n\nNichols Jr.,   Robert E.,\n                        ed.  \n             \u201cSidrak and Bokkus Now First Edited from MS Lansdowne 793.\u201d \n         Diss. University of Washington, 1966. DAI 27.185A. \nBurton,  Tom L.,\n                        ed.  \n             Sidrak and Bokkus.\n             2 vols. \n             EETS\n         o.s. 311, 312 (1998-1999). \n\n",
+            "folio": "f. 1"
+        }
+    }
+}

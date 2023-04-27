@@ -1,0 +1,26 @@
+{
+    "_id": 3149,
+    "_header": "Lo here this lady that ye may see",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "A Mumming at London",
+    "Subjects": "pageant verses; allegories; Fortune; virtues, principal",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A Mumming at London, by Lydgate \u2014 342 lines in couplets",
+    "_witnesses": {
+        "CamTCC600": {
+            "First Lines": "\nLoo here \u00feis lady \u00feat yee may seeLady of\n                    mutabilitee\u2026\n",
+            "Last Lines": "\n\u2026Suche oon as \u00feou lyke\u00fee bestLat ffortune go pley\n                    hir wher hir list\n",
+            "Attributed Title": "\nLo here filowe\u00fee \u00fee deuyse of a desguysing to fore \u00fee gret\n                    estates of \u00feis lande \u00feane being at London madeby Lidegate daun Johan\n                    \u00fee Munk of Buryof dame fortune dame proudence dame Rightwysnesse and dame\n                    ffortitudo beholde\u00fee for it is moral plesaunt and notable. Loo first\n                    kome\u00fee in dame ffortune (p. 55); A desguysing made by Lydgate of \u00fee\n                    foure Cardynale vertues (RT)",
+            "Editions": "\n\nBrotanek,  Rudolph. \n             Die Englischen Maskenspiele.\n         Vienna, Leipzig: W. Braum\u00fcller, 1902: 309-17.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 682-91.\n\n",
+            "folio": "pp. 55-65"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nLoo here this lady that ye may seelady of\n                    mutabilyte\u2026\n",
+            "Last Lines": "\n\u2026suche on as you lyketh bestlat ffortune go playe hir wher hir\n                    liste\n",
+            "Note": "\nEnds \u2018Explicit\u2019 (f. 144).",
+            "Attributed Author": "\nlidgate dan Iohn the munke of bury (f. 140)",
+            "Attributed Title": "\nLo here folowethe the deuyse of a desguysinge to fore the grete estates of\n                    this lond than beinge at london made by lidgate dan Iohn the munke of bury of\n                    dame fortune dame prudence dame rightwysnesse and dame ffortitude behold it for\n                    it is morall plesaunt and notabell to first cometh in dame fortune (f.\n                    140)",
+            "folio": "ff. 140-144"
+        }
+    }
+}

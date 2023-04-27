@@ -1,0 +1,58 @@
+{
+    "_id": 62,
+    "_header": "A hende knight hight Placidas / But a heathen man",
+    "Note": "For a variant text see 5594.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Eustace, saint, legend of; legends",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Legend of St. Eustace, in the Northern Homily Cycle \u2014 in couplets",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nA Hende knight hight placidasBot haythen man full lange he\n                    was\u2026\n",
+            "Last Lines": "\n\u2026Amen Amen i rede we saieffor \u00feare es ioye lastis\n                    aie\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 65v-79"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nAN he\u00feene kniht hihte PlacidasBut he\u00feene Mon longe he\n                    was\u2026\n",
+            "Last Lines": "\n\u2026AMEN I rede \u00feat we sayffor now is ende of \u00feis\n                    play\n",
+            "Attributed Title": "\n\u00dee Story off Placidas (f. 181rb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDie Evangelien-Geschichten der Homiliensammlung des Ms. Vernon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         57 (1877): 241-316: 262-72.\n",
+            "folio": "ff. 181rb-183va"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nAls it bifell in olde daweOf a knyght \u00feat lifed in hethen\n                    lawe\u2026\n",
+            "Last Lines": "\n\u2026And are in heuene with ioy and gleGod gif vs grace we may so\n                    be\n",
+            "Attributed Title": "\nnarracio de sancto Eustachio (p. 121)",
+            "folio": "pp. 121-124"
+        },
+        "CULDd11": {
+            "First Lines": "\nAn hende knyht highte Placidasan hethene man longe he\n                    was\u2026\n",
+            "Last Lines": "\n\u2026Amen I rede we alle sayfor \u00feer is non ende of \u00feat\n                    play\n",
+            "Note": "\nBreak between preceding (3051) and this (62) occurs four\n                    lines earlier in this MS, beginning, \u2018And \u00feat be a knyht I may\n                    \u021dou schawe\u2026\u2019 (f. 91v).",
+            "folio": "ff. 91v-102v"
+        },
+        "CULGg531": {
+            "First Lines": "\nA hend knyght hyght placidasBot hethen man full lang he\n                    was\u2026\n",
+            "Last Lines": "\n\u2026And bryng vs tyll \u00feat mekyll blys\u00deer ay ys ioye\n                    with owt mys\n",
+            "Attributed Title": "\nNarracio (f. 64)",
+            "folio": "ff. 64-72v"
+        },
+        "Lam260": {
+            "folio": "f. 23vb"
+        },
+        "MinULZ822": {
+            "First Lines": "\nAne hende knyght hyght placidasbot hathyne man full lang he\n                    was\u2026\n",
+            "Last Lines": "\n\u2026Amen amen I rede we sayfor bes nane endyng of \u00feat\n                    play\n",
+            "Attributed Title": "\nHic incipit vita et passio sancti Eutacii sociorumque eius (f.\n                    40)",
+            "folio": "ff. 40-52v"
+        },
+        "HunHM129": {
+            "First Lines": "\nA hendy knyght heght placydasBot hethyn man ful lange he\n                    was\u2026\n",
+            "Last Lines": "\n\u2026Amen I rede \u00feat we all sayffor \u00feare is no endynge\n                    of \u00feat play\n",
+            "Attributed Title": "\nnarracio (f. 59v)",
+            "folio": "ff. 59v-73"
+        }
+    }
+}

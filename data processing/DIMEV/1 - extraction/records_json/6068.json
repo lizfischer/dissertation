@@ -1,0 +1,63 @@
+{
+    "_id": 6068,
+    "_header": "True love among men that most is of let",
+    "Subjects": "sermons, verse in; evils of the times",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "On the True-love (vv. 4), a tag in the Fasciculus morum, four lines",
+    "_witnesses": {
+        "Bod410": {
+            "Transcription": "\nTrew lofe \u00feat most is of lettin hattes in hedys In pursys sett\n                    trewlof in gresses springes In maybut trewlof in hert is fer went a\n                    way\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 22v"
+        },
+        "BodLauMis213": {
+            "Transcription": "\nTrew loue \u00feat most is off lettin hattys & hodys in purces i\n                    sette [sic]Trew loue in greses springt\u021d in mayBut trew\n                    loue in hert is fer went a way\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 31"
+        },
+        "BodLauMis111": {
+            "Transcription": "\nTrewloue among men \u00feat most ys of letIn hattes and in hoodes hit\n                    ys y setTreweloue in herbes sprinketh in mayBut trewloue in hertes\n                    vaniseth a way\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 94v"
+        },
+        "BodRawC670": {
+            "Transcription": "\nTrewe loue among men \u00feat most is of letteIn hattes in hodes in\n                    porses is setteTrewe loue in herbers spryngeth in mayBote trewe loue\n                    of herte went is away\n",
+            "Editions": "\n\nSilverstein,  Theodore,\n                        ed.  \n             Medieval English Lyrics.\n         York Medieval Texts. London: Edw. Arnold, 1971: 98.\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 159-60.\n\n",
+            "folio": "f. 41v"
+        },
+        "CamGon71": {
+            "Transcription": "\nTrew loue among men \u00feer nogth es of lettin hat\u021d in\n                    purse\u021d in hode\u021d is settNew loue in herbe\u021d springis no\n                    maybot trew loue of hert when it is away\n",
+            "folio": "f. 32"
+        },
+        "CamGon364": {
+            "Transcription": "\nTreweloue among men \u00feat most is of lethIn hattis in hodis in\n                    pursis is setTreweloue in herb spryngith in maybut trewloue in hertis\n                    wansyth a way\n",
+            "Note": "\nImmediately precedes 2001.",
+            "folio": "f. 36vb"
+        },
+        "CamStJohn159": {
+            "Transcription": "\nTrewlof emang men \u00feat is most of letIn hattys and hudis is\n                    settTrewlof in herbers spryngis in mayBot trew lofe of hert went ys a\n                    way\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 55"
+        },
+        "EDU82": {
+            "Transcription": "\nTrewe love among men \u00feat most is of lettIn hattes in hodes in\n                    purses is settTrewe love in herebes sprynges in mayeBut trewe love of\n                    hert went is a waye\n",
+            "folio": "ff. 49-49v"
+        },
+        "Lincoln44": {
+            "folio": "f. 173vb"
+        },
+        "Spalding": {
+            "Transcription": "\nTrewe lofe amonge men \u00feat most is of letin hattis in hodes in\n                    purses er setTrewe lofe in herbes sprynges in maybot trew lofe of hert\n                    went is a way\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 44"
+        },
+        "WorcF19": {
+            "Transcription": "\nTrewe loue amongis men \u00feat most ys forleteIn hattis in hodis in\n                    purses is setTrewe loue in herbis springis in mayBot trewe loue of\n                    herte went ys way\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 176va"
+        },
+        "VaticanOtto": {
+            "folio": "f. 23v"
+        }
+    }
+}

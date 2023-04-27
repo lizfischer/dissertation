@@ -1,0 +1,55 @@
+{
+    "_id": 1070,
+    "_header": "Consider well with every circumstance",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler TM 331; Ringler Jr. (1988)\nXRingler Jr., William A. Bibliography and Index of English Verse Printed 1476-1558. London: Mansell, 1988 TP 327.5.",
+    "Author(s)": "John Lydgate (attrib.)",
+    "Title(s)": "A wikked tong wol alway deme amis",
+    "Subjects": "tongue, desctructive power of; advice, moral",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "Bibliographic Ghosts": "London, Lambeth Palace Library 344: not in this MS.",
+    "_description": "\u2018A wikked tong wol alway deme amis\u2019, sometimes attributed to John Lydgate \u2014 nineteen rhyme royal stanzas with this refrain.",
+    "_witnesses": {
+        "Bod686": {
+            "First Lines": "\nConsidere wel with euery circumstaunceOf what estate euer \u00feat\n                    \u00feou be\u2026\n",
+            "Last Lines": "\n\u2026Chastiseth \u00fee revers and of wysdom doth \u00feisVoydeth\n                    youre heryng from al \u00feat sey amys\n",
+            "Attributed Title": "\nHere endeth a sotil compiled reson of \u00fee Crabbe And here begynne\u00fe\n                    a resoun de fallacia mundi (f. 191v)",
+            "folio": "ff. 191v-193"
+        },
+        "CULFf16": {
+            "First Lines": "\nConsidre wel wiht euerry circumstaunceOf what estat euer that thow\n                    beRiche stronge myghty or puissancePruden or wyse discrete or a\n                    vised\u2026\n",
+            "Last Lines": "\n\u2026Chastyce the reuerce and of wysdomme dothe thisWydeth youre\n                    hering from all that deme amys\n",
+            "Facsimiles": "\nBeadle,  Richard,  and  Alfred E. B. Owen.  \n             The Findern Manuscript: Cambridge University Library MS. F.1.6.\n         London: Scolar Press, 1977. \n",
+            "folio": "ff. 147-150"
+        },
+        "CamTCC600": {
+            "First Lines": "\nConsidere weel with euery circumstaunceOf what estate euer \u00feat\n                    \u00feou beRyche stronge or mighty of puissauncePrudent or wyse\n                    discreet or avysee\u2026\n",
+            "Last Lines": "\n\u2026Chastyse\u00fee \u00fee reuers of wisdame depe\n                    \u00feisWoyde\u00fee your hering frome all \u00feat deeme\n                    amysse\n",
+            "Attributed Author": "\nby daun Johan \u00fee Monk of Bury cleped Lydegate (p. 15)",
+            "Attributed Title": "\nLo my lordes here begynne\u00fee a balade of gode counseyle translated out\n                    of verses in latyn in to englisshe by daun Johan \u00fee Monk of Bury cleped\n                    Lydegate (p. 15); A morale balade made by Lidegate (RT)",
+            "folio": "pp. 15-19"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nConsider well with euery circumstaunceoff what estat euer that thou\n                    be\u2026\n",
+            "Last Lines": "\n\u2026chasteseth the reuers of wisdome doth thiswydinge your\n                    heringe from all\u00feat deme amysse\n",
+            "Note": "\nFirst word of last line originally written (?)\u2018wydinge\u2019 but\n                    altered by writing over to (?)\u2018widin\u2019.",
+            "Attributed Author": "\ndane Iohn monke of berye cleped lidgate (f. 149v)",
+            "Attributed Title": "\nLo my lordes here beginneth a balad of good counsayle translated out of\n                    vercis in latine into engelisshe by dane Iohn monke of berye cleped lidgate (f.\n                        149v)",
+            "folio": "ff. 149v-151v"
+        },
+        "BLHar2251": {
+            "First Lines": "\nCOnsidre wele with euery circumstaunceOf what estate euer that thow\n                    be\u2026\n",
+            "Last Lines": "\n\u2026Chastice the Revers and of wisdom do thisVoydeth your heryng\n                    from alle that deme amys\n",
+            "folio": "ff. 151-152v"
+        },
+        "HunEL26A13": {
+            "First Lines": "\nCOnsidere welle with eueri circumstaunceOf what estate euer that\n                    thowe be\u2026\n",
+            "Last Lines": "\n\u2026Chastiseth the reuers & of wisdom dothe thisVoideth\n                    \u021dowre heryng from al that sey a mys\n",
+            "Attributed Title": "\nA resoun de fallacia mundi (f. 15)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 839-44.\n",
+            "folio": "ff. 15-17"
+        },
+        "RomeEC1306": {
+            "folio": "f. 76"
+        }
+    }
+}

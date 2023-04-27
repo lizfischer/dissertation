@@ -1,0 +1,71 @@
+{
+    "_id": 1535,
+    "_header": "Go little book be fearful and quake for dread",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "Life of St. Edmund (Lydgate)",
+    "Subjects": "envoys; Henry VI",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lydgate, Envoy to Henry VI at the end of the Life of St. Edmund \u2014 six stanzas rhyme royal",
+    "_witnesses": {
+        "BodAsh59": {
+            "First Lines": "\nGo lytel booke be ferful qwake for dredeffor to appere in any so\n                    heghe presenceTo alle \u00fee folke \u00feat \u00feee shal see or\n                    hereSubmitte \u00fey self with humble reverence\u2026\n",
+            "Last Lines": "\n\u2026Beo\u00fee to his chirche defence and champiounBy cause it is\n                    of youre foundacyoun\n",
+            "Attributed Title": "\nLenvoye au Roy Henry le sysme (f. 23v)",
+            "folio": "ff. 23v-24v"
+        },
+        "BodTan347": {
+            "First Lines": "\nGo lytel booke be ferful qwake for dredeffor to appere in any so\n                    heghe presenceTo alle \u00fee folke \u00feat \u00feee shal see or\n                    hereSubmitte \u00fey self with humble reverence\u2026\n",
+            "Last Lines": "\n\u2026Be to this Chirche dyffence and chaunpyounBe cause it is of\n                    your ffundacioun\n",
+            "Attributed Title": "\nLenvoye au Roy Henry le sysme (f. 23v)",
+            "folio": "ff. 85v-86v"
+        },
+        "OxfCCC61": {
+            "First Lines": "\nGo lytill booke be ferefull quake for dredeffortappere in so High\n                    presence\u2026\n",
+            "Last Lines": "\n\u2026Without \u00feat ffauour & supportacionOf goodely reders\n                    do correccion\n",
+            "Attributed Title": "\nlenuoy sequitur (f. 65v)",
+            "folio": "ff. 65v-66"
+        },
+        "CULEe215": {
+            "First Lines": "\nGOo lityll boke be ferfull and quake for dredeffor to appere in so\n                    hy\u021d presence\u2026\n",
+            "Last Lines": "\n\u2026Bethe to hys chyrche deffence and champyounBe cause it ys of\n                    youre fundacyoun\n",
+            "Attributed Title": "\nSent Edmvnd (f. 104)",
+            "folio": "ff. 104-104v"
+        },
+        "BLHar367": {
+            "First Lines": "\nGo litle boke be ferefull quake for dredefor to appere in any so\n                    highe presence\u2026\n",
+            "Last Lines": "\n\u2026be to the churche defence and championbycawse it is of your\n                    foundation\n",
+            "Note": "\nWritten by the hand of John Stow.",
+            "Attributed Title": "\nlenvoy au Roy henry lesysme (by scribe, John Stow, f.\n                    86v)",
+            "folio": "f. 86v"
+        },
+        "BLHar372": {
+            "First Lines": "\nGo litel book be ferful quak for dreedfor tappere in so hih\n                    presence\u2026\n",
+            "Last Lines": "\n\u2026Beth to his chirch diffence & champiounBe cause it is of\n                    your ffundacioun\n",
+            "Attributed Title": "\nLenvoye (f. 43, margin)",
+            "folio": "ff. 43-43v"
+        },
+        "BLHar2278": {
+            "First Lines": "\nGO litel book be ferfful quaak for dredeffor tappere in so hyh presence\u2026\n",
+            "Last Lines": "\n\u2026Beth to his chyrche Dyffence and ChampiounBe cause yt ys your ffundacioun\n",
+            "Note": "\nAfter the fifth stanza \u201cffinis libri\u201d (rubric and blue, f. 119v) and as heading to the last \u201cRegie\u201d (rubric and blue, f. 119v).",
+            "Attributed Title": "\nLenuoye (rubric, f. 118v)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 2278.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_2278. \n",
+            "Editions": "\nHorstmann,  Carl. \n             Altenglische Legenden: Neue Folge.\n         Heilbronn: Henninger, 1881: 440.\n",
+            "folio": "ff. 118v-119v"
+        },
+        "BLHar4826": {
+            "First Lines": "\nGoo litel book be feerful quak for dreedfor tapere in so hyh\n                    presence\u2026\n",
+            "Last Lines": "\n\u2026Beth to his Chirche dyffence and champyounBe cuase it is of\n                    your fundacioun\n",
+            "Attributed Title": "\nlenvoye (f. 45v, in rubric)",
+            "folio": "ff. 45v-46"
+        },
+        "BLYT47": {
+            "folio": "p. 213"
+        },
+        "Chetham6709": {
+            "First Lines": "\nGoo lytyll Booke be fferefull quake & dreedeffor to Appeere In\n                    soo hygh presenceTo all folke that the shall see or ReedeSubmytte thy\n                    self with humble ReuerenceTo be refourmyd where men fynde\n                    OffenceMekely requeryng voyde of presumpcyonWhere thow faylest to do\n                    Correccyon\n",
+            "Attributed Title": "\nExplicit quod Wilelmus Cotson / Godde grawnte vs grace / Anno Domini\n                        Millesimo . CCCCmo lxxxvto et Ao / Ricardi\n                        Tercij post Conquestum secundo finem feci / In Die Sancte Barnabe Apostoli\n                        Amen (f. 284)",
+            "folio": "f. 284"
+        }
+    }
+}

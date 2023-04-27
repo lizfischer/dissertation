@@ -1,0 +1,25 @@
+{
+    "_id": 5122,
+    "_header": "Tears tolled",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Short rhyming phrases in a Latin sermon \u2014 one couplet",
+    "_witnesses": {
+        "BodAsh360I": {
+            "Note": "\nNoted in Laing (1993)\nXLaing,  Margaret. \n             Catalogue of sources for a Linguistic Atlas of Early Medieval\n                English.\n         Cambridge: UP, 1993, 175.",
+            "folio": ""
+        },
+        "OxfStJohn190": {
+            "Note": "\nNoted in Laing (1993)\nXLaing,  Margaret. \n             Catalogue of sources for a Linguistic Atlas of Early Medieval\n                English.\n         Cambridge: UP, 1993, 175.",
+            "folio": "f. 232"
+        },
+        "CamGon408": {
+            "Transcription": "\nteres tolleteyne bolletloeres wetetand herte\n                    swetet\n",
+            "Editions": "\n\nLaing,  Margaret. \n             Catalogue of sources for a Linguistic Atlas of Early Medieval\n                English.\n         Cambridge: UP, 1993: 29.\nWenzel,  Siegfried. \n             \u201cUnrecorded Middle-English Verses.\u201d \n             Anglia\n         92 (1974): 55-78: no. 62.\n\n",
+            "folio": "f. 135v"
+        },
+        "CamStJohn62": {
+            "Note": "\nNoted in Laing (1993)\nXLaing,  Margaret. \n             Catalogue of sources for a Linguistic Atlas of Early Medieval\n                English.\n         Cambridge: UP, 1993, 175.",
+            "folio": "f. 150v"
+        }
+    }
+}

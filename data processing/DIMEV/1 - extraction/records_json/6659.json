@@ -1,0 +1,24 @@
+{
+    "_id": 6659,
+    "_header": "Whoso would him well advise",
+    "Subjects": "truth; precepts; tongue, destructive power of",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "\u2019Treu\u00fee is best\u2019 \u2014 fourteen 8-line stanzas (ababbcbc)",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nWOse wolde him wel a vyseOf \u00feis wrecched world I\n                    weene\u2026\n",
+            "Last Lines": "\n\u2026We schul him hunte as Cat do\u00fe mysWhon trou\u00fee hym\n                    cleues \u00feat euer is best\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 699-701.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 168-70.\n\n",
+            "folio": "ff. 409vc-410ra"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nHOse wolde hym wel a viseOf \u00feis wrecched world I\n                    wene\u2026\n",
+            "Last Lines": "\n\u2026We schul hym hunte as a cat do\u00fe amysWhen trou\u00fee hym\n                        se cleues \u00feat euer is best\n",
+            "Attributed Title": "\nExplicit A song trou\u00fee is best (f. 131va)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 699-701.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 168-70.\n\n",
+            "folio": "ff. 131rc-131va"
+        }
+    }
+}

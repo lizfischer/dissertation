@@ -1,0 +1,58 @@
+{
+    "_id": 4548,
+    "_header": "Saint Basil telleth soothfastly",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "nuns",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Despised Nun: a Narratio in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Basyl telle\u00fe so\u00fefastly\u00deat in a lond was a\n                    Nonneri\u2026\n",
+            "Last Lines": "\n\u2026God \u021diue vs grace hit clene to bringeTo heuene riche\n                    \u00feer crist is kyng. Amen.\n",
+            "Attributed Title": "\nOf a nonne \u00feat feynede heore self a foul (f.\n                    212vb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDie Evangelien-Geschichten der Homiliensammlung des Ms. Vernon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         57 (1877): 241-316: 308.\n",
+            "folio": "ff. 212vb-213ra"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nSeynt Basyl telles sothfastly\u00deat in a lande was a\n                    nonnery\u2026\n",
+            "Last Lines": "\n\u2026God graunte vs grace it clene to bryngTil heuen blisse at\n                    oure endyng\n",
+            "Attributed Title": "\nA Tale (added to margin by a modern hand, p. 337)",
+            "folio": "pp. 337-341"
+        },
+        "CULDd11": {
+            "First Lines": "\nSEynt Basil telli\u00fe so\u00fefastli\u00deat in a lond was a\n                    nonneri\u2026\n",
+            "Last Lines": "\n\u2026God graunte vs grace it clene to bringeto heuene blisse at\n                    oure endinge\n",
+            "Attributed Title": "\nNarracio (added to right margin by a later hand, f. 204)",
+            "folio": "ff. 204-206"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nSEint Basyl telle\u00fe so\u00fefastly\u00deat in a lond was a\n                    Nonneri\u2026\n",
+            "Last Lines": "\n\u2026God \u021diue vs grace hit clene to bringeTo heuene riche\n                    \u00feer crist is kynge Amen\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 16vc-17rb"
+        },
+        "BLHar2391": {
+            "First Lines": "\nSaynt basyle tells vs sekirly\u00feat in a land was a nunry\u2026\n",
+            "Last Lines": "\n\u2026god lene vs grace in owr werkyngWele to lyf & to heuen vs bryng\n",
+            "Note": "\nEnds \u201cAmen.\u201d",
+            "Attributed Title": "\nDominica xxi (left margin, f. 222v) with \u201cA tale\u201d written below",
+            "folio": "ff. 222v-224"
+        },
+        "Lam260": {
+            "folio": "f. 61ra"
+        },
+        "MinULZ822": {
+            "First Lines": "\nSaynte basyll tels soith fastly\u00feat in a lande was a\n                    Nunry\u2026\n",
+            "Last Lines": "\n\u2026God gyfe vs grace ytt clene to bryngTyll heuene ryke \u00fear\n                    criste es kyng\n",
+            "Attributed Title": "\nNota narratio (added, right margin, f. 177)",
+            "folio": "ff. 177-179"
+        },
+        "HunHM129": {
+            "First Lines": "\nSeint basill tellyth sothfastly\u00deat in a land wos a\n                    nunry\u2026\n",
+            "Last Lines": "\n\u2026Amen I rede we all syngffor off \u00feat ioy is none\n                    endyng\n",
+            "Attributed Title": "\nrelacio (f. 187v)",
+            "folio": "ff. 187v-189v"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "_id": 6789,
+    "_header": "Worlds bliss have good day",
+    "Note": "The first motet with English words",
+    "Subjects": "world, renunciation of; songs",
+    "Versification": "\u2014 two-line, three-line \u2014 aa, aaa",
+    "_description": "A renunciation of the world \u2014 twenty-two lines, 8 couplets and two triplets",
+    "_witnesses": {
+        "CamCCC8": {
+            "First Lines": "\nWorldes blisse haue god dayNou fram min heide wand a\n                    way\u2026\n",
+            "Last Lines": "\n\u2026thech min herte ri\u021dt loue \u00fee\u021dwas herte blod\n                    was ssed for me\n",
+            "Note": "\nFormerly p. 457; accompanied by musical notation; followed by motet\n                        (2528).",
+            "Editions": "\n\nJames,  Montague Rhodes. \n             A Descriptive Catalogue of the Manuscripts in the Library of Corpus\n                Christi College, Cambridge.\n         Cambridge: at the UP, 1912: 1.21.\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 114.\nBukofzer,  Manfred F. \n             \u201cThe First Motet with English Words.\u201d \n             Music & Letters\n         17 (1936): 225-33: 232-3.\nOliver,  Raymond. \n             Poems Without Names: The English Lyric 1200-1500.\n         Berkeley, CA: University of California, 1970: 69.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 102-3.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 8.\nDobson,  Eric John,  and  F. L. Harrison.  \n             Medieval English Songs.\n         New York: Cambridge UP, 1979: 194.\n\n",
+            "folio": "f. A recto, following f. 269"
+        },
+        "NLS18721": {
+            "Transcription": "\n\u2026A iesu \u00fein lyli heuedWith sarpe \u00feornes is\n                    beweued\u00fei faire face is all be spateWith spotele an blod is al be\n                    watffro \u00fei crune to \u00fei to\u00fei bodi is ful of peine &\n                    woLord of \u00fei peines \u00feat ben so sueteLat my soule \u00feer\n                    inne han hete\u2026\n",
+            "Note": "\nLines 9-16 only.",
+            "Editions": "\nWilson,  Edward. \n             A Descriptive Index of the English Lyrics in John of Grimestone\u2019s\n                Preaching Book.\nMedium \u00c6vum Monographs\n         n.s. 2. Oxford, 1973: 42.\n",
+            "folio": "f. 124"
+        }
+    }
+}

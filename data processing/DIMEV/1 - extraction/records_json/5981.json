@@ -1,0 +1,22 @@
+{
+    "_id": 5981,
+    "_header": "To his disciples carped Christ",
+    "Note": "For the ordinary text see 5955.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Ascension Sunday, in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 193vb"
+        },
+        "BLHar4196": {
+            "First Lines": "\nTo his desciples carpe cristAls witnes Iohn \u00fee euangelist\u2026\n",
+            "Last Lines": "\n\u2026Als in a tale we may here tellOf a king how it bifell\n",
+            "Note": "\nPreceded by Latin, \u201cCum uenerit paraclitus & cetera.\u201d",
+            "Attributed Title": "\nDominica infra octava ascencionis Secundum Iohannem (rubric, f. 94ra)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): II.219-220 .\n",
+            "folio": "f. 94va-94vb"
+        }
+    }
+}

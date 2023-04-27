@@ -1,0 +1,30 @@
+{
+    "_id": 4475,
+    "_header": "Rich and poor young and old",
+    "Note": "See 2800 and 3383; cf. , A253.",
+    "Author(s)": "Hendyng",
+    "Title(s)": "Proverbs of Hendyng",
+    "Subjects": "proverbs; sermons, verse in",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "A single stanza (No. 47 of the Oxford, Bodleian Library Digby 86 (SC 1687) text) of the Proverbs of Hendyng, sometimes embedded in the Latin prose Summa de vii viciis of Thomas Aquinas \u2014 six lines.",
+    "_witnesses": {
+        "BLRoy8Exvii": {
+            "Editions": "\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.362.\n",
+            "folio": "f. 109"
+        },
+        "BLHar3823": {
+            "folio": "f. 129"
+        },
+        "NLS18721": {
+            "Transcription": "\nRiche & pore \u021dung & old\u00deerquiles \u021de hauen\n                    \u021dure with in wo[de]Seket soule boteFor wan \u021de wenen\n                    al\u00feerbestTo hauen hel\u00fee pes an rest\u00dee ex is at \u00fee\n                    rote\n",
+            "Note": "\nIn John Grimestone\u2019s preaching notebook.",
+            "Attributed Title": "\nDe Morte (f. 86)",
+            "folio": "f. 87"
+        },
+        "DurCathBI18": {
+            "Transcription": "\nRiche and pouer yunge and haldeto qwiles \u00feu haueste \u00fei wit\n                    in walde\u00feu seth \u00fei saule botefor wane \u00feu wenest alle yn\n                    bestblisse and hele ro and rest\u00fee ax is at \u00fee\n                    rote\n",
+            "Note": "\nIn the Latin prose Summa de vii viciis of Thomas\n                    Aquinas.",
+            "folio": "ff. 37rb-37va"
+        }
+    }
+}

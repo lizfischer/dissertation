@@ -1,0 +1,21 @@
+{
+    "_id": 332,
+    "_header": "All hail Mary full of grace",
+    "Subjects": "Virgin Mary, prayers to",
+    "Versification": "\u2014 eight-line",
+    "_description": "A prayer to the Virgin Mary \u2014 six 8-line stanzas",
+    "_witnesses": {
+        "BLAdd34360": {
+            "First Lines": "\n[A]ll hayle Mary ful of graceOure lord of hevene is with\n                    the\u2026\n",
+            "Last Lines": "\n\u2026Wele art thow bounde so for to doSith Aungelis and devils\n                    knele therto\n",
+            "Editions": "\nMacCracken,  Henry Noble. \n             \u201cLydgatiana.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         131 (1913): 40-63: 45-6.\n",
+            "folio": "ff. 60-60v"
+        },
+        "BLHar2251": {
+            "First Lines": "\nAl hayle Mary ful of graceOure lord of heven is with\n                    the\u2026\n",
+            "Last Lines": "\n\u2026Wele art thow bounde so for to doSith aungelis and devils\n                    knele therto\n",
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 28-9.\n",
+            "folio": "ff. 1v-2"
+        }
+    }
+}

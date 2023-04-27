@@ -1,0 +1,30 @@
+{
+    "_id": 1520,
+    "_header": "Glorious Edmund king of East England",
+    "Author(s)": "Lydgate",
+    "Title(s)": "A prayer to St. Edmund",
+    "Subjects": "Edmund, saint, prayer to; prayers, to saints",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, A prayer to St. Edmund \u2014 twelve 8-line stanzas",
+    "_witnesses": {
+        "BodLauMis683": {
+            "First Lines": "\nGlorious Edmund kyng of Estyng londcallid of marteris charboncle\n                    and Ruby\u2026\n",
+            "Last Lines": "\n\u2026aue rex gentis shal ech day be ther songcallyng to \u00fee\n                    for helpe in ther most neede\n",
+            "Attributed Title": "\nHEre begynneth a praier to seynt Edmund (f. 19)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 124-7.\n",
+            "folio": "ff. 19-21"
+        },
+        "CULKk16": {
+            "First Lines": "\nglosious Edmunde Kyng of EstyngelondeCalde of martyris Charboncle\n                    & Rubie\u2026\n",
+            "Last Lines": "\n\u2026Aue rex gentis schall ech day be ther songeCallynge to the\n                    for helpe in \u00feer mooste neede\n",
+            "Attributed Title": "\nHere\u2026begyneth an holy preyer to Seynt Edmund Kyng Martyr and Mayden\n                    (f. 202); Here enduth \u00feis holy preyere of Seynt Edmunde the whych dan John\n                    Lydgate made (f. 203v)",
+            "folio": "ff. 202-203v"
+        },
+        "BLHar2255": {
+            "First Lines": "\nOur helpe our socour our mediatour moost cheefAs thou art kyng and\n                    Prince of this Cuntre\u2026\n",
+            "Last Lines": "\n\u2026And rex gentis shall ech day be ther songCallyng to the for\n                    helpe in ther most nede\n",
+            "Note": "\nMissing stanzas 1-3",
+            "folio": "ff. 152-153"
+        }
+    }
+}

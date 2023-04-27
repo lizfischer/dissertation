@@ -1,0 +1,39 @@
+{
+    "_id": 6021,
+    "_header": "To Thee O merciful saviour mine Jesu",
+    "Author(s)": "William Dunbar",
+    "Title(s)": "\u2018The tabill of confessioun\u2019",
+    "Subjects": "confession; instruction, religious",
+    "Versification": "\u2014 eight-line, ten-line \u2014 ababbcbc, abababbcbc",
+    "_description": "William Dunbar, \u2018The tabill of confessioun\u2019 \u2014 19 stanzas, usually of 8 lines, ababbcbc, two of 10 lines, abababbcbc, with refrain, \u2018I cry the mercy and lasar to repent\u2019",
+    "_witnesses": {
+        "CamMagPep2553": {
+            "First Lines": "\nTo the o mercifull saluitour myn IesusMy king my lord and my\n                    redeymar sweit\u2026\n",
+            "Last Lines": "\n\u2026 And sauf me Iesu for thy woundis fyveThat cryis the mercy\n                    and lasar to repent\n",
+            "Note": "\n19 stanzas.",
+            "Attributed Author": "\ncompylit be maister williame dunbar (p. 203)",
+            "Attributed Title": "\nheir endis ane confessioun generale compylit be maister williame dunbar (p.\n                    203)",
+            "Editions": "\nCraigie,  William Alexander. \n             The Maitland Folio Manuscript, Containing Poems by Sir Richard\n                Maitland, Dunbar, Douglas, Henryson, and others.\n             2 vols. \n             Scottish Text Society\n         n.s. 7 (1919), 20 (1927); Edinburgh and London: Blackwood, 1919,\n            1927: 1.224-9.\n",
+            "folio": "pp. 199-203"
+        },
+        "BLAru285": {
+            "First Lines": "\nTO THE O MARcifull saluiour myn IhesusMy kyng my lord & my redemer sueit\u2026\n",
+            "Last Lines": "\n\u2026And saist me Ihesu for thy woundis fiveI cry ye marcy and I Laser to repent\n",
+            "Note": "\n21 stanzas.",
+            "Attributed Author": "\nWilliam Dunber (f. 4v)",
+            "Attributed Title": "\nThe tabill off confessioun (RT); Heir endis the tabill of confessioun compilit be M. William Dunber (f. 4v)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Arundel MS 285.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Arundel_MS_285. \n",
+            "Editions": "\nBennett,  Jack Arthur Walter,\n                        ed.  \n             Devotional Pieces in Verse and Prose from Ms. Arundel 285 and Ms.\n                Harleian 6919.\nScottish Text Society\n         3rd ser. 23. Edinburgh: Blackwood, 1955: 1-6.\n",
+            "folio": "ff. 1-4v"
+        },
+        "Banna": {
+            "First Lines": "\nTo the O mercifull salviour IesusMy King My lord and my redemare\n                    sweit\u2026\n",
+            "Last Lines": "\n\u2026And saif me Iesu for thy woundis fyveThat cryis the mercy and\n                    lasar to repent\n",
+            "Note": "\n20 stanzas.",
+            "Attributed Author": "\nffinis quod dumbar (f. 19v)",
+            "Facsimiles": "\nFox,  Denton,  and  William A. Ringler.  \n             The Bannatyne Manuscript: National Library of Scotland Advocates\u2019\n                MS. 1.1.6\n         London: Scolar Press, in Association with The National Library of\n            Scotland, 1980. \n",
+            "Editions": "\nRitchie,  W. Tod,\n                        ed.  \n             The Bannatyne Manuscript.\n             4 parts in 4 vols. \n             Scottish Text Society\n         3rd ser. 5 (1928); n.s. 22 (1928); n.s. 23 (1930); n.s. 26 (1934)\n            Edinburgh and London: Blackwood, 1928-34; ed. by Ritchie et al: 1.13; 2.42.\n",
+            "folio": "ff. 17-19v"
+        }
+    }
+}

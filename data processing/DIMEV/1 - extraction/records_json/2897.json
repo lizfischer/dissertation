@@ -1,0 +1,25 @@
+{
+    "_id": 2897,
+    "_header": "Jesu seeing peoples coming him till",
+    "Subjects": "scripture texts, paraphrases",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A paraphrase of the Beatitudes \u2014 thirteen couplets",
+    "_witnesses": {
+        "BLHar1706": {
+            "First Lines": "\nIhesu seynge peplys comynge hym tylleHe styed and sette hym on a hylle\u2026\n",
+            "Last Lines": "\n\u2026Ioye ye and glad ye wi\u00fe mylde steueneYour mede ys moche in blye of heuene\n",
+            "Note": "\nArabic numbers for each beatitude written in rubric in outer margins.",
+            "Attributed Title": "\nOcto beatitudines (rubric, above first line, f. 208v)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 1706.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_1706. \n",
+            "Editions": "\nHirsh,  John C. \n             \u201cPrayer and Meditation in Late Mediaeval England: MS. Bodley\n                789.\u201d \n             Medium \u00c6vum\n         48 (1979): 55-66: 64.\n",
+            "folio": "ff. 208v-209"
+        },
+        "Ushaw28": {
+            "First Lines": "\nIhesus seyng peples comyng him tillehe steyd and set him on an\n                    hille\u2026\n",
+            "Last Lines": "\n\u2026blesside be pore men milde in spirith\u00fee rewme of heuen\n                    is here be Ryghte\u2026\u2026\u00feis lesson a virtuose chylde shulde\n                    seyoften to his souereyns eueryday\n",
+            "Note": "\nTwo couplets of introduction, nine Beatitudes, and four-line conclusion\n                    in Speculum Christiani, Quarta Tabula\n",
+            "Attributed Title": "\nBenedicciones dei omnipotentis (f. 78)",
+            "folio": "ff. 78-79"
+        }
+    }
+}

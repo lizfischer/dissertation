@@ -1,0 +1,24 @@
+{
+    "_id": 3954,
+    "_header": "O lewd book with the fool rudeness",
+    "Note": "Follows The Cuckoo and the Nightingale (5299).",
+    "Subjects": "love lyrics; envoys; acrostics",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Balade with Envoy to Alison \u2014 three stanzas rhyme royal and 6-line Envoy (ALISON)",
+    "_witnesses": {
+        "BodFair16": {
+            "First Lines": "\nO lewde boke with thy foole rudeneseSith thou hast neyther beaute\n                    ne eloquence\u2026\n",
+            "Last Lines": "\n\u2026Of grace I beseche alegge let your writyngeNow of al goode\n                    syth ye be best lyvynge\n",
+            "Facsimiles": "\nNorton-Smith,  John. \n             \u201cIntroduction.\u201d \n             Bodleian Library MS Fairfax 16.\n         London: Scolar Press, 1979. \n",
+            "folio": "ff. 147v-148"
+        },
+        "BodTan346": {
+            "First Lines": "\nO lewde booke with \u00fei foole rudnes Si\u00fe \u00feou hast\n                    no\u00feir beaute ne eloquence\u2026\n",
+            "Last Lines": "\n\u2026Of grace I biseke alegge be youre writyng Non of al good\n                    si\u00fe \u021ce be best lyving\n",
+            "Attributed Title": "\nExplicit \u00fee Cuck & \u00fee Nighting. (added seventeenth century,\n                    f. 101v)",
+            "Facsimiles": "\nRobinson,  Pamela. \n             \u201cIntroduction.\u201d \n             Manuscript Tanner 346: A Facsimile.\n         Norman, OK: Pilgrim, and Woodbridge: Boydell and Brewer, 1980. \n",
+            "Editions": "\nVollmer,  E. \n             Das mittelenglische Gedicht The Boke of Cupid.\nBonner Beitr\u00e4ge zur germ. und rom. Phil.\n         17. Berlin, 1898: 46-7.\n",
+            "folio": "ff. 101-101v"
+        }
+    }
+}

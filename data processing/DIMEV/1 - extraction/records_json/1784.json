@@ -1,0 +1,27 @@
+{
+    "_id": 1784,
+    "_header": "Harkeneth both young and old",
+    "Note": "See 1787.",
+    "Title(s)": "Otuel",
+    "Subjects": "romances",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "[The Romance of] Sir Otuel \u2014 in couplets",
+    "_witnesses": {
+        "BodDou376": {
+            "First Lines": "\nHerkne\u00fe bo\u00fe \u021dunge and olde\u00feat willen heren of\n                    batailles bolde\u2026\n",
+            "Last Lines": "\n\u2026And for his lond rente \u021diueWi\u00fe \u00fee none he mote\n                    liue\n",
+            "Note": "\nAt the end: \u2018Cetera Desunt\u2019.",
+            "Attributed Title": "\nOtuel a Kni\u021dt (f. 1)",
+            "folio": "pp. 1-72"
+        },
+        "NLS1921": {
+            "First Lines": "\nHErkne\u00fe bo\u00fee \u021dinge & olde\u00feat willen heren\n                    of batailles bolde\u2026\n",
+            "Last Lines": "\n\u2026[ ] fair w[ ][ ] \u00feai [ ]\n",
+            "Note": "\n1738 lines in this MS, many folios mutilated; ends imperfectly due to\n                    lost leaves, and last extant folio (277v) virtually illegible.\n                    Nineteenth-century transcript in Oxford,  Bodleian Library Douce 376 (SC 21951), f. 1.",
+            "Attributed Title": "\nOtuel a kni\u021dt (f. 286ra)",
+            "Facsimiles": "\nPearsall,  Derek,  and  I. C. Cunningham, eds.  \n             The Auchinleck Manuscript. National Library of Scotland\n                Advocates\u2019 MS. 19.2.1.\n         London: Scolar Press, 1977. \n",
+            "Editions": "\n\nTurnbull,  William Barclay David Donald,\n                        ed.  \n             The Romances of Rouland and Vernagu, and Otuel from the Auchinleck\n                Manuscript.\nAbbotsford Club\n         4. Edinburgh, 1836: 31-84.\nHerrtage,  Sidney John Hervon,\n                        ed.  \n             The English Charlemagne Romances VI: The Taill of Rauf Coilyear, with\n                the fragments of Roland and Vernagu and Otuel.\nEETS\n         e.s. 39 (1882); repr. 1969:  65-116.\n\n",
+            "folio": "ff. 268ra-272vb"
+        }
+    }
+}

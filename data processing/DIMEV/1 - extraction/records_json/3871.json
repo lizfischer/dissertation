@@ -1,0 +1,24 @@
+{
+    "_id": 3871,
+    "_header": "O death how bitter is the mind of thee",
+    "Subjects": "death, meditations on; elegies; epitaphs; Cromwell, Ralph, lord Treasurer",
+    "Versification": "\u2014 eight-line \u2014 ababbaba",
+    "_description": "The bitterness of Death, an elegy for the tomb of Ralph, Lord Cromwell, circa 1450 \u2014 eight 8-line stanzas (ababbaba; only two rhymes used throughout)",
+    "_witnesses": {
+        "BlCottCalAII": {
+            "First Lines": "\nO deth how byttere ys \u00fee mynde of theThat menere art of\n                    mornyng & mone\u2026\n",
+            "Last Lines": "\n\u2026Vs to preserue fro all owre gostly fonAnd send vs pees yn\n                    perpetuyte\n",
+            "Note": "\nSeven stanzas. \u2018Amen ffor charite\u2019 by scribe at end (f.\n                    58).",
+            "Attributed Title": "\nO mors quam amara est memoria tua (f. 57v, by scribe in\n                    upper margin); Another poeme O mors quam amara est memoria tua (f. 1,\n                    sixteenth-century list of contents)",
+            "Editions": "\nVarnhagen,  Hermann. \n             \u201cDie kleinere gedichte der Vernon und Simeon handschrift.\u201d \n             Anglia\n         7 (1884): 280-315: 85.\n",
+            "folio": "ff. 57v-58"
+        },
+        "BLHar116": {
+            "First Lines": "\nO deth hough better ys the mynde of the>That mover arte of\n                    moornynge & of moone\u2026\n",
+            "Last Lines": "\n\u2026Hem to preserue from all hir gostely foonAnd send heme pees\n                    inperptuite\n",
+            "Attributed Title": "\n\u2018O mors quam amara est memoria tua\u2019 (rubric, top folio\n                        152v)",
+            "Editions": "\n\nMacCracken,  Henry Noble. \n             \u201cA Meditation upon Death for the Tomb of Ralpyh, Lord Cromwell (c.\n                1450), Lord Treasurer of England.\u201d \n             Modern Language Notes\n         26 (1911): 243-4: 243.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 243-5.\n\n",
+            "folio": "f. 152v"
+        }
+    }
+}

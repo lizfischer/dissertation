@@ -1,0 +1,38 @@
+{
+    "_id": 1350,
+    "_header": "For Gods love in Trinity",
+    "Title(s)": "Amys and Amiloun",
+    "Subjects": "romances; twins",
+    "Versification": "\u2014 twelve-line \u2014 aabaabccbddb",
+    "_description": "Amys and Amiloun \u2014 in 12-line stanzas",
+    "_witnesses": {
+        "BodDou326": {
+            "First Lines": "\nffor goddis love in trinyteAlle that ben hende herkneth to\n                    me\u2026\n",
+            "Last Lines": "\n\u2026The blysse of heuen thei had to medeThat lesteth euer\n                    moo\n",
+            "Note": "\n2395 lines.",
+            "Attributed Title": "\nHic incipit vita de Amys & Amylion (f. 1);  Explicit vita de\n                        Amys & Amylion (f. 13vb)",
+            "folio": "ff. 1ra-13vb"
+        },
+        "BLEge2862": {
+            "First Lines": "\nfOr goddes loue in trinyteAl \u00feat ben hend herkeni\u00fe to me\u2026\n",
+            "Last Lines": "\n\u2026\u00dee blisse of heuen \u00feey had to mede\u00deat laste\u00fe euer more amen\n",
+            "Note": "\nMissing two leaves.",
+            "Attributed Title": "\nAmus & Amylion (running titles split across opening throughout).",
+            "folio": "ff. 135-147v"
+        },
+        "BLHar2386": {
+            "First Lines": "\nffor god ys loue yn trinyteAl \u00feat buth here herkeneth me\u2026\n",
+            "Last Lines": "\n\u2026my lyf y haue for lorebrodyr sayde Sir Amylyonwhy\u2026\n",
+            "Note": "\n894 lines. Ends imperfectly after first word of new line, though space blank for writing further.",
+            "folio": "ff. 131ra-138rb"
+        },
+        "NLS1921": {
+            "First Lines": "\n\u2026ere of hem bli\u00fee[ ]ere of mode[ ] seuen \u021dere\n                    old y was[ ]ede of hem blis\u2026\n",
+            "Last Lines": "\n\u2026\u00deat [ ]Wele [ ]\u2026\n",
+            "Note": "\n2288 lines in this MS, excluding fragments; begins and ends imperfectly\n                    due to portions of folios 48 and 61 being cut away.",
+            "Facsimiles": "\nPearsall,  Derek,  and  I. C. Cunningham, eds.  \n             The Auchinleck Manuscript. National Library of Scotland\n                Advocates\u2019 MS. 19.2.1.\n         London: Scolar Press, 1977. \n",
+            "Editions": "\n\nWeber,  Henry William. \n             Metrical Romances of the Thirteenth, Fourteenth, and Fifteenth\n                Centuries.\n         3 vols. Edinburgh: A. Carstalle, 1810: 2.369-473 (2495 lines).\nLeach,  MacEdward,\n                        ed.  \n             Amis and Amiloun.\nEETS\n         o.s. 203 (1937); repr. 1990: (2508 lines).\nK\u00f6lbing,  Eugen. \n             Altenglische bibliothek.\n         5 vols. Heilbronn, Henninger, 1883-90: Vol. 2 (critical text).\nFoster,  Edward E.,\n                        ed.  \n             Amis and Amiloun,\n                    Robert of Cisyle, and Sir Amadace.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1997. 2nd ed.\n            2007: 1-88.\n\n",
+            "folio": "ff. 48vb-61ara"
+        }
+    }
+}

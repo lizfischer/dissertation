@@ -1,0 +1,26 @@
+{
+    "_id": 3555,
+    "_header": "Most noble prince of Christian princes all",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "A Mumming at Windsor",
+    "Subjects": "pageant verses; occasional verse; Windsor",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "A Mumming at Windsor, by Lydgate \u2014 fourteen stanzas rhyme royal",
+    "_witnesses": {
+        "CamTCC600": {
+            "First Lines": "\nMoost noble prynce of Cristen prynces alleTo youre hyeghnesse lat\n                    his bee plesaunceIn youre presence men may to mynde calleHow \u00feat\n                    whylom \u021doure worthy Reavme of ffraunce\u2026\n",
+            "Last Lines": "\n\u2026Lyst to supporte here sitting in \u00fey seeRight as it fell\n                    \u00feis myracle to see\n",
+            "Attributed Title": "\nNowe folowe\u00fee nexst \u00fee devyse of a momyng to fore \u00fee Kyng\n                    Henry \u00fee sixte being in his Castell of Wyndesore \u00fee fest of his\n                    crystmasse holding \u00feer made by lidegate daun Johan \u00fee munk of Bury\n                    howe \u00feampull and \u00fee floure delys came first to \u00fee Kynges of\n                    ffraunce by myrakle at Reynes (p. 71); Of \u00fee Ampoull And \u00fee floure\n                    delyce (RT)",
+            "Editions": "\n\nBrotanek,  Rudolph. \n             Die Englischen Maskenspiele.\n         Vienna, Leipzig: W. Braum\u00fcller, 1902: 317-19.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 691-4.\n\n",
+            "folio": "pp. 71-74"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nmooste noble prynce of cristen prynces allto your highnes let it be\n                    plesaunt\u2026\n",
+            "Last Lines": "\n\u2026lyst to support here syttinge in thy seeryght as it fell this\n                    myracle to see\n",
+            "Note": "\nEnds \u2018explicit\u2019.",
+            "Attributed Author": "\nlidgate dane Iohn the munke of bury (f. 144)",
+            "Attributed Title": "\nNow foloweth next the deuyse of a momynge to for the kynge henry the sixte\n                    beinge in his castell of wyndsore the fest of hys crystmasse holdinge ther made\n                    by lidgate dane Iohn the munke of bury how pampull and the floure delys came\n                    first to the kynges of fraunce by myracles at reynes (f. 144)",
+            "folio": "f. 144-145v"
+        }
+    }
+}

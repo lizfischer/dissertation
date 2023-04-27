@@ -1,0 +1,39 @@
+{
+    "_id": 6059,
+    "_header": "Toward the end of frosty January",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Look in thy merour and deeme noon othir wiht\u2019",
+    "Subjects": "envoys; birds, as speakers/narrators; humility",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "Bibliographic Ghosts": "San Marino, CA, Henry Huntington Library HM 140 [olim Phillipps 8299]: miswritten for 5966, which is in this MS.",
+    "_description": "John Lydgate, \u2018Look in thy merour and deeme noon othir wiht\u2019 \u2014 twenty-seven 8-line stanzas (ababbcbc) with this refrain, including Envoy",
+    "_witnesses": {
+        "BodArcSelB10": {
+            "First Lines": "\nLoke in thy myrroure and deme non other wyghtThe kynge of soules\n                    moste imperyall\u2026\n",
+            "Last Lines": "\n\u2026Mercy to medle wyth trouthe and equyteAnd loke well theyre\n                    myrours & deme non other wyght\n",
+            "Note": "\n25 stanzas and one line; missing stanzas 1-2.",
+            "folio": "ff. 207-209v"
+        },
+        "BodRawC86": {
+            "First Lines": "\nTowarde thende of ffrosty Ianu IanuaryWhan vatery phebus\n                    had his purpas take\u2026\n",
+            "Last Lines": "\n\u2026Mercy to medel trovth and equyteLoke wele ye myrrours &\n                    deme neuer o\u00feer wyght\n",
+            "Note": "\nTwenty stanzas only.",
+            "Attributed Author": "\nIohn Lidgate (added by hand of the sixteenth century to top margin f.\n                        81v); Lidgate (added by a fifteenth- to sixteenth century-hand to\n                    top left margin, f. 81v)",
+            "folio": "ff. 81v-83v"
+        },
+        "CamJes56": {
+            "First Lines": "\n[T]Owarde the eende of frosty IanuarieWhan watery Phebus had his\n                    purpos take\u2026\n",
+            "Last Lines": "\n\u2026Mercye to medle with trouth and equiteeLooke wele youre\n                    myrrours and deme noon other wight\n",
+            "folio": "ff. 29-33"
+        },
+        "CamTCC601": {
+            "folio": "f. 293"
+        },
+        "BLHar2255": {
+            "First Lines": "\nTOward the Ende of ffroosty IanuaryeWhan watry Phebus had his\n                    purpoos take\u2026\n",
+            "Last Lines": "\n\u2026Mercy to medle with trouthe and equyteLook weel your myrours\n                    and deeme noon othir wiht Explict\n",
+            "Editions": "\n\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             A Selection from the Minor Poems of Don John Lydgate.\nPercy Society\n         2. London: T. Richard, 1840: 156-64.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 765-72.\n\n",
+            "folio": "f. 7v-11v"
+        }
+    }
+}

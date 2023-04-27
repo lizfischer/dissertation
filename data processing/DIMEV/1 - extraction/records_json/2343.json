@@ -1,0 +1,48 @@
+{
+    "_id": 2343,
+    "_header": "If a man or woman more or less / In his head have great\u2026",
+    "Note": "Includes Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 276.",
+    "Subjects": "medicine; recipes, medical",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A collection of medical receipts \u2014 in couplets",
+    "_witnesses": {
+        "CamTCC911": {
+            "First Lines": "\nWho so haue sore pappys or bolnyngMake \u00feis playster for any\n                    thynge\u2026\n",
+            "Last Lines": "\n\u2026& put it in a good grett clovte& \u00feer with wynde\n                    \u00fei hed a bowte\n",
+            "Note": "\n100 lines, with headings above each recipe; a disarranged and defective\n                    text, partly written as prose, corresponding to Stockholm,  Royal Library, Stockholm X.90 as\n                    follows: lines 201-4 with introductory couplet, 327-342, 161-6, 445-454 variant,\n                    8 lines on \u2018dropesye\u2019, 4 lines on \u2018palsey\u2019, 6 lines on\n                    \u2018totheache\u2019, 167-170 variant, 297-302 variant, 8 lines on\n                    \u2018flykkys\u2019, 9-16, 19-26, 33-52.",
+            "folio": "Part II, ff. 1v-3v"
+        },
+        "BLAdd17866": {
+            "First Lines": "\nIff a man or womman more or lesseIn his hede haue grett seiknesse\u2026\n",
+            "Last Lines": "\n\u2026With \u00fee Ious anoynte the feloun wellIn plaister lay one \u00feat other dele\n",
+            "Note": "\nRecorded as beginning on f. 5 in Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943; rubric headings between varying numbers of couplets indicate disease for which the recipe should be applied, as \u201cffor the hede werke\u201d at beginning of the verse (f. 16); follows immediately after 4171 without a break.",
+            "Editions": "\nGarrett,  Robert Max. \n             \u201cMiddle English Rimed Medical Treatise.\u201d \n             Anglia\n         34 (1911): 163-93: 183-93.\n",
+            "folio": "ff. 16-21v"
+        },
+        "StockhX90": {
+            "Note": "\nWith 8 introductory lines.",
+            "Editions": "\n\nStephens,  George. \n             \u201cExtracts in Prose and Verse from an Old English Medical Manuscript\n                preserved in the Royal Library at Stockholm.\u201d \n             Archaeologia\n         30 (1844): 349-418; repr. London, 1844: 349-63.\nHolthausen,  Ferdinand. \n             \u201cMedicinische gedichte aus einer Stockholmer handscrift.\u201d \n             Anglia\n         18 (1896): 293-331: 295-307.\nM\u00fcller,  Gottfried. \n             Aus Mittelenglischen Medizin-texten.\nK\u00f6lner Anglistische Arbeiten\n         10. Leipzig: Tauchitz, 1929. \n\n",
+            "folio": "pp. 35-47"
+        },
+        "PierpontB21": {
+            "First Lines": "\nNow haue y told \u021dou \u00feow y it \u021delpeOf gressys\n                    \u00feat most mown men do helpeHow \u00feei waxyn hey & loweAnd\n                    wherby aman may hem knowe\u2026\n",
+            "Last Lines": "\n\u2026Skwm of \u00fee ouerest twye or thryye& \u00feou lat it\n                    stonde & kele & drye\n",
+            "Note": "\n202 lines.",
+            "folio": "ff. 45v-49v"
+        },
+        "HunHM64": {
+            "First Lines": "\nIn 4 partes of euery manBy gynnes the sickenys that ye\n                    han\u2026\n",
+            "Last Lines": "\n\u2026This is provid trewe IwisTo cleere the sight goode hit\n                    is\n",
+            "Note": "\nWritten as prose, with red highlights for initials of each\n                    line.",
+            "Attributed Title": "\nHEre bygynnys a boke of many medycins for many evilles that spryngithe in\n                    mankynde The whiche medicyns the wyse leche Galian & Aschofus and Ipocras\n                    maden in here tyme & othere lechis sethen have occupyed them for helpynge of\n                    man & hathe wreten hem here in Scripture & for eysy vnderstondynge here\n                    have I drawe hem oute of dyuers longage in to englisshe tonge. Hic incipit\n                        medicine optime probate (f. 113v)",
+            "Editions": "\nHanna,  Ralph,\n                        ed.  \n             \u201cThe Index of Middle English Verse and Huntington Library Collections: A\n                Checklist of Addenda.\u201d \n             Publications of the Bibliographical Society of America\n         74 (1980): 235-58: 244-6 (excerpts).\n",
+            "folio": "ff. 113va-114va"
+        },
+        "TokyoTak46": {
+            "First Lines": "\nModer of gres qwo so hem sekesSays Ipocras ere vnset lekesIn\n                    lechecraft many & feleSeke men with \u00feem to\n                    hele\u2026\n",
+            "Last Lines": "\n\u2026With \u00fee ious anoynte the felon weleIn plaister lay one\n                    \u00feat othere dele\n",
+            "Attributed Title": "\nHic incipient virtutes herbarum (f. 3)",
+            "folio": "ff. 3-20v"
+        }
+    }
+}

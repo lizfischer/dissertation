@@ -1,0 +1,63 @@
+{
+    "_id": 4917,
+    "_header": "Sithen law for will beginneth to slacken",
+    "Subjects": "evils of the times; sermons, verse in",
+    "Versification": "\u2014 five-line \u2014 aabbb",
+    "_description": "On the Degeneracy of the Times (5 lines, aabbb), a tag in the Fasciculus morum",
+    "_witnesses": {
+        "Bod187": {
+            "First Lines": "\nSy\u00fe\u00fee lawe for wyl by gynny\u00fe to slakeAnd falsehede\n                    for slynesse ys y take\u2026\n",
+            "Last Lines": "\n\u2026And wantomnesse ys holdyn solas\u00feenne may yngelonde synge\n                    alas\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 163ra"
+        },
+        "Bod410": {
+            "First Lines": "\nSythen \u00feat lawe for wille bygynne to shakenAnd falshed for\n                    sleyght is I taken\u2026\n",
+            "Last Lines": "\n\u2026And foul fals lecchery is pryuy solasNow may Ingelond syngen\n                    alas\n",
+            "Editions": "\nLittle,  Andrew George. \n             Studies in English Franciscan History.\n         Manchester: Manchester UP; London: Longman\u2019s, 1917: 155, n. 3.\n",
+            "folio": "f. 41v"
+        },
+        "BodLauMis213": {
+            "Transcription": "\nStihen (sic) law for will bygynny\u00fe to slakynAnd falshede\n                    for slegheis turned and takenrobbynge and renyng is holden purchasand\n                    alle maner synne mad solasEnglond may sing alas alas\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 60v"
+        },
+        "BodRawC670": {
+            "Transcription": "\nSithyn law for wyll bygynnyt to slakynAnd falsehed for [sleythe] is i\n                    takynRobbyng and reuyng ys holdyn purchasAnd of vnthewes is made\n                    solasEngelond may synge alas alas\n",
+            "Editions": "\nSilverstein,  Theodore,\n                        ed.  \n             Medieval English Lyrics.\n         York Medieval Texts. London: Edw. Arnold, 1971: 98.\n",
+            "folio": "f. 74v"
+        },
+        "CamGon71": {
+            "Transcription": "\nSyn lawe for will begynnes to slaken& falsed for sleyth now is\n                    takenRobbyng & rewyng is holden purchas& of vnclennes is made\n                    solasEnglond may say & syng Allas allas\n",
+            "Editions": "\nRobbins,  Rossell Hope,\n                        ed.  \n             Historical Poems of the XIV and XV Centuries.\n         New York: Columbia UP, 1959: 145-6.\n",
+            "folio": "f. 50"
+        },
+        "CamStJohn159": {
+            "Transcription": "\nSethen law for wylle begynnes to slakeneAnd falsode for sle\u021dt is\n                    itakeneRobbynge and renynge ys haldyn purchaseAnd of wantonese is\n                    mayden solaseInglande may synge alas alas\n",
+            "Note": "\nWritten as verse.",
+            "folio": "f. 92"
+        },
+        "EDU82": {
+            "First Lines": "\nSyuthen lawe for wyll be gynnes to slakenAnd falshede for sleyth is\n                    taken\u2026\n",
+            "Last Lines": "\n\u2026Robbyng and rewyng is halden purchasAnd of on wantownes is\n                    maden solasEngelonde may synge alas alas\n",
+            "folio": "ff. 89v-90"
+        },
+        "Lincoln44": {
+            "Transcription": "\nSythen law for wille by gyny\u00fe to slakyn& falsed for sleyth\n                    ys y takenRobbyng and rewyng ys holden purchasAnd of on \u00feewys ys\n                    maden solasEngelond may synge alas alas\n",
+            "folio": "f. 190ra"
+        },
+        "Spalding": {
+            "Transcription": "\nRobbyng & reuyng is holden purchasAnd of vnthewes is made\n                    solace\u00feerfore we may say alas alas\n",
+            "Note": "\nOmits first two lines; written as prose.",
+            "folio": "f. 79"
+        },
+        "WorcF19": {
+            "Transcription": "\nSythyn lawe for wille by gynuth to sclakyn& falshede\n                        for sleyth is I takynRobbyng & reuyng his holdyn\n                    purchasAnd of wirthe wys is mad solasEngelond may synge alas\n                    alas\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 191rb"
+        },
+        "VaticanOtto": {
+            "folio": "f. 44v"
+        }
+    }
+}

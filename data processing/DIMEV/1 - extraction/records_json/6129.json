@@ -1,0 +1,24 @@
+{
+    "_id": 6129,
+    "_header": "Upon a time there rose a strife",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel; Bartholomew, saint",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel, \u2018In festo Sancti Bartholomei\u2019, in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nUppon a tyme \u00feer ros a strifA mong \u00fee disciplus\n                    ryf\u2026\n",
+            "Last Lines": "\n\u2026He vs graunte \u00feer to wone\u00deat is mon and godus\n                    sone\n",
+            "Attributed Title": "\nffacta est contencio inter discipulos (f.\n                    224rc)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cProprium Sanctorum, Zusatz-Homilien des Ms. Vernon fol. CCXV zur\n                n\u00f6rdlichen Sammlung der Domicalia evangelia.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         81 (1888): 83-114, 300-21: 305.\n",
+            "folio": "ff. 224rc-224vc"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nUppon a tyme \u00feer ros a strifAmong \u00fee disciples\n                    rif\u2026\n",
+            "Last Lines": "\n\u2026He vs graunt \u00feere to wone\u00deat is mon and godus\n                    sone\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 27rc-27vc"
+        }
+    }
+}

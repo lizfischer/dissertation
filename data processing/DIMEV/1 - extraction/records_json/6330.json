@@ -1,0 +1,38 @@
+{
+    "_id": 6330,
+    "_header": "When I lend I am a friend",
+    "Note": "See modernized editions by Wright and Halliwell-Phillipps (1845)\nXThomas Wright, and James Orchard Halliwell-Phillipps. Reliquiae Antiquae. 2 vols. London: Smith, 1845, 1.208; Hazlitt (1882)\nXHazlitt, William Carew. English Proverbs and Proverbial Phrases, collected from the most authentic sources alphabetically arranged and annotated. London: Reeves and Turner, 1882, 476; Northall (1892)\nXNorthall, G. F. English Folk-rhymes: A Collection of Traditional Verses Relating to Places and Persons, Customs, Superstitions, etc. London: Kegan Paul, Trench, Tr\u00fcbner & Co., 1892, 553; cf. also 2165, 2333, 2757",
+    "Subjects": "money",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Two couplets on the incommodities of lending",
+    "_witnesses": {
+        "CULLl510": {
+            "Transcription": "\nQuhen I len I am ane freindand quhen I craif I am vnkyndThus of\n                    my frend I mak ane foSchrewe me & I mair do so\n",
+            "Note": "\n2 x 2; immediately follows 6554 as if part of same work.",
+            "folio": "f. 57v"
+        },
+        "CamMagPep2553": {
+            "Transcription": "\nquhone I len I am ane freyndand quhone I craif I am vnkyndThus\n                    of my freind I mak ane foSchrew me and I mair do so\n",
+            "Note": "\nWritten two lines of verse per line of MS; immediately follows 6554 without a\n                    break.",
+            "Editions": "\nCraigie,  William Alexander. \n             The Maitland Folio Manuscript, Containing Poems by Sir Richard\n                Maitland, Dunbar, Douglas, Henryson, and others.\n             2 vols. \n             Scottish Text Society\n         n.s. 7 (1919), 20 (1927); Edinburgh and London: Blackwood, 1919,\n            1927: 1.344.\n",
+            "folio": "p. 294"
+        },
+        "CamStJohn28": {
+            "Transcription": "\nWhan I Lend I Ham A ffrendButt Whan I Aske I Am vnkyndSo off my\n                    ffrynd I make my ffoIn god ffe\u2026\n",
+            "Note": "\nSecond occurrence, immediately below first and written in same red ink,\n                    imperfect at end.",
+            "folio": "back flyleaf, verso"
+        },
+        "Banna": {
+            "Transcription": "\nQuhen I len I am a freyndAnd quhen I craif I am vnkyndThus of my\n                    freynd I mak a foI schrew me and I moir do so\n",
+            "Note": "\nImmediately following 6554 and preceding 2994.",
+            "Facsimiles": "\nFox,  Denton,  and  William A. Ringler.  \n             The Bannatyne Manuscript: National Library of Scotland Advocates\u2019\n                MS. 1.1.6\n         London: Scolar Press, in Association with The National Library of\n            Scotland, 1980. \n",
+            "Editions": "\n\nRitchie,  W. Tod,\n                        ed.  \n             The Bannatyne Manuscript.\n             4 parts in 4 vols. \n             Scottish Text Society\n         3rd ser. 5 (1928); n.s. 22 (1928); n.s. 23 (1930); n.s. 26 (1934)\n            Edinburgh and London: Blackwood, 1928-34; ed. by Ritchie et al: 2.324.\nRamsay,  Allan,\n                        ed.  \n             The Ever Green.\n         2 vols. Edinburgh, 1724; repr. Ramsay and Early Scottish Poets, London,\n            n.d.: 107.\n\n",
+            "folio": "f. 147"
+        },
+        "HunHM131": {
+            "Transcription": "\nWhen I leant I was a frendWhen I easke vnkyndwher of my frend I\n                    mad my fotherfor I wh\u2026\n",
+            "Note": "\nAdded to lower margin by a hand of the sixteenth century.",
+            "folio": "f. 30"
+        }
+    }
+}

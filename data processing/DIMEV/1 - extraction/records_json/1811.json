@@ -1,0 +1,45 @@
+{
+    "_id": 1811,
+    "_header": "Have mind on the bliss that never shall blin",
+    "Title(s)": "\u2018\u00fee fyue wittis goostly\u2019",
+    "Subjects": "two-line",
+    "Versification": "\u2014 aa",
+    "_description": "\u2018\u00fee fyue wittis goostly\u2019 \u2014 six couplets",
+    "_witnesses": {
+        "CULFf238": {
+            "First Lines": "\nHaue mynde on the blys \u00feat neuer schall blyneAnd on grete\n                    peyne \u00feat synners shall wynne\u2026\n",
+            "Last Lines": "\n\u2026of fyue ynwyttys \u00fee rewle ys thysThat helpen a man to\n                    heuene blys\n",
+            "Attributed Title": "\nhere sue \u00fee v goostly wyttys (f. 32va)",
+            "Facsimiles": "\nMcSparran,  Frances,  and  Pamela R. Robinson.  \n             \u201cIntroduction.\u201d \n             Cambridge University Library MS Ff.2.38.\n         London: Scolar Press, 1979. \n",
+            "Editions": "\nPerson,  Henry Axel. \n             Cambridge Middle English Lyrics.\n         Seattle: University of Washington Press, 1953; rev. ed. 1962: 24.\n",
+            "folio": "f. 32va-32vb"
+        },
+        "CamMagPep1584": {
+            "First Lines": "\nHaue mynde on \u00fee blis \u00feat nevir schall blynand on \u00fee\n                    great payn \u00feat synnys schall wyn\u2026\n",
+            "Last Lines": "\n\u2026Of fyve in wittes \u00fee Rule is thisThat helpith a man to\n                    heuyn\n",
+            "Attributed Title": "\n\u00deise be \u00fee fywe wyttes gostly (f. 107v); The v wittes\n                    gostly (RT)",
+            "folio": "f. 107v"
+        },
+        "BLHar1706": {
+            "First Lines": "\nHaue mynde on blysse \u00feat neuer schalle blynneAnd on grete peynes \u00feat synners schul wynne\u2026\n",
+            "Last Lines": "\n\u2026Off \u00fei fyue wyttys \u00fee rewle ys \u00feisThat bryngen a man to heuene blysse\n",
+            "Note": "\nLatin terms for the five spiritual senses written in rubric in outer margins beside first lines relatin to each.",
+            "Attributed Title": "\nQuinque sensus spiritualiter (rubric preceding first line, f. 207v)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 1706.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_1706. \n",
+            "folio": "ff. 207v-208"
+        },
+        "BLHar2339": {
+            "First Lines": "\nHaue mynde on \u00fee blis \u00feat neuer schal blynne& on\n                    greet peyne \u00feat synners schal wynne\u2026\n",
+            "Last Lines": "\n\u2026Of fyue in wittis \u00fee rule is \u00feis\u00deat helpen a\n                    man to heuene blis\n",
+            "Attributed Title": "\n\u00deese ben \u00fei fyue wittis goostly (rubricated, f.\n                    121v)",
+            "folio": "f. 121v1"
+        },
+        "Ushaw28": {
+            "First Lines": "\nHaue mynde on \u00feat blisse \u00feat neuer shalle blynne& on\n                    \u00fee grete peynes \u00feat synnes shal wyn\u2026\n",
+            "Last Lines": "\n\u2026of fyue wittis \u00fee rewle is \u00feis\u00feat helpith a\n                    man to heuen blisse\n",
+            "Note": "\nIn the Speculum Christiani, Tercia Tabula, with headings\n                        Memoria, Voluntas, Racio, Intellectus, Ymaginacio.",
+            "Attributed Title": "\nQuinque sensus spirituales (f. 61)",
+            "folio": "ff. 61v-62"
+        }
+    }
+}

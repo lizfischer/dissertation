@@ -1,0 +1,26 @@
+{
+    "_id": 1038,
+    "_header": "Clim clam cat leap over dam",
+    "Author(s)": "Nicholas Bozon",
+    "Title(s)": "Contes moralis\u00e9s",
+    "Subjects": "children\u2019s rhymes; nonsense verse",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A tag in Nicholas Bozon\u2019s Contes moralis\u00e9s \u2014 one couplet",
+    "_witnesses": {
+        "BLAdd46919": {
+            "folio": "f. 125"
+        },
+        "BLHar1288": {
+            "Transcription": "\nclym clam the catte lepe ouer the damme\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\n\nSmith,  Lucy Toulmin,\n                        ed.  \n             Les contes moralis\u00e9s de Nicole Bozon.\nSociete des anciens textes francais\n         50. Paris: Firmin Didot, 1889: 212, 145.\nF\u00f6rster,  Max. \n             \u201cDie Mittelenglische Sprichw\u00f6rtersammlung in Douce 52.\u201d \n             Festschrift zum XII Deutschen Neuphilolgentage in M\u00fcnchen\n                1906.\n            E. Stollreither, ed. \n         Erlangen (1906): 40-64: 59.\n\n",
+            "folio": "f. 99"
+        },
+        "GraysInn12": {
+            "Transcription": "\nClym clam cat lep ouer\n                    dam\n",
+            "Note": "\nWritten as prose, 4 lines from bottom.",
+            "Editions": "\n\nRoss,  Alan S. C. \n             \u201cEnglish in Nicole Bozon\u2019s Contes Moralis\u00e9s.\u201d \n             Neuphilologische Mitteilungen\n         50 (1949): 200-20: 209.\nSmith,  Lucy Toulmin,\n                        ed.  \n             Les contes moralis\u00e9s de Nicole Bozon.\nSociete des anciens textes francais\n         50. Paris: Firmin Didot, 1889: 212, 145.\nWilson,  Richard Middlewood. \n             \u201cMore Lost Literature II.\u201d \n             Leeds Studies in English\n         6 (1937): 30-49: 46.\nOwst,  Gerald Robert. \n             Literature and Pulpit in Medieval England.\n         Cambridge: UP, 1933: 44.\nOrme,  Nicholas. \n             \u201cChildren and Literature in Medieval England.\u201d \n             Medium \u00c6vum\n         68 (1999): 218-46: 221.\n\n",
+            "folio": "f. 42"
+        }
+    }
+}

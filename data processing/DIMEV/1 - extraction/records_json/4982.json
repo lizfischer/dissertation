@@ -1,0 +1,33 @@
+{
+    "_id": 4982,
+    "_header": "Sometime it was the guise among the wise",
+    "Author(s)": "Flavius Vegetius",
+    "Title(s)": "de Re Militari; \u2018Of Knyghthode and Bataile\u2019",
+    "Subjects": "translations; warfare",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "\u2018Of Knyghthode and Bataile\u2019 \u2014 3023 lines in rhyme royal (a translation of Vegetius, De Re Militari",
+    "_witnesses": {
+        "BodAsh45II": {
+            "First Lines": "\nSvm tyme it was \u00fee gise amonge \u00fee wiseTo rede and write\n                    goode & myghti thingesAnd haue \u00feerof the dede in\n                    exercisePlesaunce herin hadde Emperours & kinges\u2026\n",
+            "Last Lines": "\n\u2026Of thy cadence and kepe ortographieThat neither he take of\n                    ner multiplie\n",
+            "Note": "\nEvery leaf has a running title \u2018Of Knyghthode and Bataile\u2019\n                    and the number of the part (the Discourse consists of four parts each\n                    beginning with an illuminated letter). Each leaf contains 8 stanzas marked with\n                    letters A-H. This allows easy reference to any matter from the Table of Contents\n                    on ff. 54-56v: \u2018The tabil vppon the book of Knyghthode and\n                    Bataile aftir the number lef and litterae therof\u2019. At the end on f.\n                        56v: \u2018finis libri\u2019. Originally the manuscript\n                    contained 56 leaves; now 29 leaves are lost.",
+            "Attributed Title": "\nOf Knyghthode and Bataile (RT)",
+            "folio": "ff. 1-53v"
+        },
+        "CamPem243": {
+            "First Lines": "\nSumtyme It was the gise among the wiseTo rede and write goode and\n                    myghti thinges\u2026\n",
+            "Last Lines": "\n\u2026Of thi Cadence And kepe OrtographieThat neither he take of\n                    ner multiplye\n",
+            "Note": "\nWith prologue of eleven 8-line stanzas, ababbcbc, beg. \u2018Hail\n                    halyday deuout alhail kalende / Of Marche wheryn Dauid the\n                    Confessour\u2026\u2019; Prologue ends f. 2v, \u2018The kyng his\n                    Oratoure god graunt his bone / Ay to prevaile in Knyghthode &\n                    bataile\u2019; usual text begins f. 3, as above.",
+            "Attributed Title": "\nSalue festa dies Mauortis\nid est martis\nAuete Kalende Qua deus ad celum subleuat ire Dauid (f. 1)",
+            "Editions": "\nDyboski,  R.,  and  Z. M. Arend, eds.  \n             Knyghthode and Bataille.\nEETS\n          o.s. 201 (1936); repr. 1971. \n",
+            "folio": "ff. 1-55v"
+        },
+        "BLCottTitAXXIII": {
+            "First Lines": "\n[S]omtyme it was the gise among \u00fee wiseTo rede and write goode\n                    and myghte thinges\u2026\n",
+            "Last Lines": "\n\u2026Of thy cadence and kepe ortographieThat neither he take of\n                    ner multiplie\n",
+            "Note": "\nIlluminated initial \u2018S\u2019 has been torn from the\n                    manuscript.",
+            "Attributed Title": "\nOf knyghthode and Baraile (RT)",
+            "folio": "ff. 2-53v"
+        }
+    }
+}

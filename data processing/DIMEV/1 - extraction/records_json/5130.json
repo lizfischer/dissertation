@@ -1,0 +1,17 @@
+{
+    "_id": 5130,
+    "_header": "That fasting withouten alms is of might",
+    "Note": "Attributed to Augustine in the MS.",
+    "Author(s)": "Augustine (attrib.); John Grimestone",
+    "Subjects": "fasting; proverbs",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "On fasting \u2014 one proverbial couplet translating \u2018Tale est ieiunium sine eleemosyna qualis sine oleo lucerna\u2019 which precedes it in John Grimestone\u2019s preaching notebook",
+    "_witnesses": {
+        "NLS18721": {
+            "Transcription": "\n\u00deat fastingge withouten elmesse is of mithAs is \u00fee lampe\n                    withoten olie & lith\n",
+            "Attributed Title": "\nDe Ieiunio (f. 75)",
+            "Editions": "\nWilson,  Edward. \n             A Descriptive Index of the English Lyrics in John of Grimestone\u2019s\n                Preaching Book.\nMedium \u00c6vum Monographs\n         n.s. 2. Oxford, 1973: 20.\n",
+            "folio": "f. 75"
+        }
+    }
+}

@@ -1,0 +1,399 @@
+{
+    "_id": 6537,
+    "_header": "Whilom there was dwelling in Oxenford",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Miller\u2019s Tale; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; fabliau; cuckoldry; herbergage",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the Miller\u2019s Tale in the Canterbury Tales \u2014 666 lines in rhyming couplets",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nWhilom ther was dwelling in OxenfordeA riche choff that gestis\n                    helde to borde\u2026\n",
+            "Last Lines": "\n\u2026and Nicholas is scalded in his tovtethis tale is don &\n                    god saue all the route\n",
+            "Note": "\nI.3291-2 and 3721-2 inserted at foot of page; blanks left in I.3316,\n                    3336; 3339-40 inverted.",
+            "Attributed Title": "\n\u2026And next folwith / his tale of a Carpenter & his wiff & of\n                    hende Nicholas (f. 48); the Miller (RT); Here endith the miller his tale of\n                    Absolon and / hende Nicholas (f. 57v)",
+            "folio": "ff. 48-57v"
+        },
+        "BodBar20": {
+            "First Lines": "\nWylom \u00feer was dwellyng in OxenfordA Riche gnoff \u00feat\n                    gestes held to bord\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is scaldid in his toute\u00deis tale is don and\n                    god saue al \u00fee route\n",
+            "Note": "\nI.3412 blank; 3533-8. 3659, 3721-2 omitted.",
+            "Attributed Title": "\nHere endyth \u00fee milleris tale\u2026 (f. 43); The Miller (RT); Here\n                    endith \u00fee Milleris tale\u2026 (f. 43)",
+            "folio": "ff. 34-43"
+        },
+        "Bod414": {
+            "First Lines": "\n[W]Hilom ther was duelling in OxenfordA riche gnoffe that gestis\n                    held to bord\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is scallid in his touteThis tale is done and god\n                    saue al \u00fee rout\n",
+            "Note": "\nI.3721-2, 3769-70 omitted; 3515-16 reversed.",
+            "Attributed Title": "\nHere begynneth the Millers tale (f. 38v)",
+            "folio": "ff. 38v-46"
+        },
+        "Bod686": {
+            "First Lines": "\n\u2026As brode as is \u00fee boos of a bokelyrHir shoes were laced\n                    vpon hir legges hye\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas was skalded in \u00fee towte\u00deis tale is don\n                    god save al \u00fee rowte\n",
+            "Note": "\nI.3187-265 lost; 3721-2 omitted; 3335-6 reversed.",
+            "Attributed Title": "\nMyllere/Millere (RT); Here eneth \u00fee Millers tale\u2026 (f.\n                    48)",
+            "folio": "ff. 41-48"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nWhilom \u00feer was dwelling at OxenfordA riche knof \u00feat\n                    gestes held to bord\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is scalded in the touteThis tale is done and god\n                    saue al \u00fee route\n",
+            "Note": "\nI.3721-2 omitted.",
+            "Attributed Title": "\nHere endeth \u00fee myllers tale of hende Nicholas & absolon\u2026 (f.\n                    48); The Millers Tale (RT)",
+            "folio": "ff. 37-45"
+        },
+        "BodLauMis600": {
+            "First Lines": "\nWhilom there was dwelling in OxenfordeA rich gnofe that gestes held\n                    to borde\u2026\n",
+            "Last Lines": "\n\u2026Therof quod Absolon be as be mayI shal wel tellen it the to\n                    morowe day\u2026\n",
+            "Note": "\nI.3187-252, 3785-920 lost.",
+            "Attributed Title": "\n\u2026Here begynnie\u00fe \u00fee tale (f. 49v); The Miller\n                    (RT)",
+            "folio": "ff. 50-58v"
+        },
+        "BodLauMis739": {
+            "First Lines": "\n[W]Hilom ther was duellyng in oxenfordeAriche choffe that gestes\n                    held to borde\u2026\n",
+            "Last Lines": "\n\u2026And nycholas is scalded in the touteThis tale is done and god\n                    saue all the route\n",
+            "Note": "\nI.3194, 3209, 3326, 3721-2 omitted.",
+            "folio": "ff. 48v-58v"
+        },
+        "BodRawPoe141": {
+            "First Lines": "\nSOm tyme ther was dwellyng at OxenfordeA ryche gnof that gystes\n                    hulde to borde\u2026\n",
+            "Last Lines": "\n\u2026And Nicolas is skalled in his touteThis tale is don god saue\n                    all the route\n",
+            "Note": "\nI.7721-2 omitted.",
+            "Attributed Title": "\nThe Muller (RT)",
+            "folio": "ff. 10v-21"
+        },
+        "BodRawPoe149": {
+            "First Lines": "\n\u2026Hir forhede shone as bright as eny daySo was it wasshe when\n                    she lefte hir werke\u2026\n",
+            "Last Lines": "\n\u2026Began for to sigh sore and saide allasShall alle the worlde\n                    be lost efte sones now\u2026\n",
+            "Note": "\n1.3187-9, 3490-852 lost.",
+            "Attributed Title": "\nthe Miller (RT)",
+            "folio": "f. 20-21v"
+        },
+        "BodRawPoe223": {
+            "First Lines": "\nWhilom ther was dwelling at OxenfordA riche gnoff that gestes helde\n                    to borde\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is scalded in his touteThis tale is don and god\n                    saue all the route\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\n\u2026And here beginneth his tale folwing (f. 43); The millers tale (RT);\n                    Here endeth (53v); Here is ended the Millers tale (f. 54)",
+            "folio": "ff. 44-53v"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nWhilom ther was dwellyng at OxenfordeA riche gnoffe that gestes\n                    helde to borde\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is scalded in his touteThis tale is doon and god\n                    saue al this route\n",
+            "Note": "\nI.3540, 3721-2 omitted.",
+            "Attributed Title": "\nHere begynneth the Milleris tale (f. 43); Here is ended the Milleris\n                    tale\u2026 (f. 51v)",
+            "folio": "ff. 43-51"
+        },
+        "OxfCCC198": {
+            "First Lines": "\nWhilom \u00feer was dwellyng at OxenfoordA Riche gnoffe \u00feat\n                    gestes heeld to boorde\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is scalded in his touteThis tale is don and god\n                    saue al \u00fee route\n",
+            "Note": "\nI.3721-2 omitted.",
+            "Attributed Title": "\nExplicit fabula Molendinarij (f. 44)",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "ff. 45-54v"
+        },
+        "OxfNew314": {
+            "First Lines": "\nWHilom \u00feerwas dwellyng in OxenfordeA riche chuf that gestis\n                    hadde to borde\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is scalded in \u00fee touteThis tale is doon and\n                    god saue al \u00fee route\n",
+            "Note": "\nI.3196, 3233, 3602, 3651, 3765-72 omitted.",
+            "Attributed Title": "\nHere begynneth the Milleres tale (f. 36); Millere (RT); Here endith \u00fee\n                    Milleres tale\u2026 (f. 45)",
+            "folio": "ff. 36-45"
+        },
+        "OxfTri49": {
+            "First Lines": "\nWhilom ther was dwellyng at oxenfordea riche gnof that gettestis\n                    hilde at borde\u2026\n",
+            "Last Lines": "\n\u2026this tale is I doun and Nicholas is scaldid sore in his\n                    towtethis tale is doun and god saue al this rowte Amen\n",
+            "Note": "\nI.3346, 3690, 3748 omitted; 3368, 3370, 3409-10, 3580 added in\n                    margin.",
+            "Attributed Title": "\nThe Millers tale (f. 44v); Miller (RT); Explicit fabula\n                        molendinarij (f. 53v)",
+            "folio": "ff. 44v-53v"
+        },
+        "CULDd424": {
+            "First Lines": "\nWhilom there was dwellyng in OxenfordA riche gnof that gestes held\n                    to bord\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is skalded in the touteThis tale is don and god\n                    saue al the route\n",
+            "Note": "\nI.3721-2 omitted. Followed by \u2018quod\n                         Wytton\u2019 in the margin of f.\n                    47.",
+            "Attributed Title": "\nHeere bygynneth the Millers tale (f. 40, above the written space); Thus\n                    endeth the Millers tale\u2026 (f. 47v, above the written\n                    space)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 40-47"
+        },
+        "CULGg427": {
+            "First Lines": "\nWHilhom \u00feere was dwelling in oxenfordeA ryche gnoff \u00feat\n                    gestis helde to bord\u2026\n",
+            "Last Lines": "\n\u2026In ronne for to gauryn on \u00feis manThat \u021dit a swoune\n                    he lay bo\u00fee pale & wan\n",
+            "Note": "\nI.3721-2; 3276 inserted at foot; 3209-10 reversed; 3829-54\n                    lost.",
+            "Attributed Title": "\n\u2026& here begynnyth the tale (f. 176)",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "Editions": "\nFurnivall,  Frederick James. \n             The Cambridge MS (University Library, Gg.4.27) of Chaucer\u2019s\n                Canterbury Tales.\nChaucer Society\n         Series 1, nos. 4, 10, 17, 28, 33, 40, 52, 66. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 176-185v"
+        },
+        "CULIi326": {
+            "First Lines": "\nWhilome there was dwellyng in OxinfordeA riche chouf that gestes\n                    helde at borde\u2026\n",
+            "Last Lines": "\n\u2026And nycholas is scalded in the touteThis tale is done god\n                    saue all the route\n",
+            "Attributed Title": "\nMilnere (RT); Here Endeth the mylners tale\u2026 (f.\n                    45v)",
+            "folio": "ff. 37v-45v"
+        },
+        "CULMm25": {
+            "First Lines": "\nWhilom \u00feer was dwellynge in OxenforthA riche knoffe and gestes\n                    held to borde\u2026\n",
+            "Last Lines": "\n\u2026And Nicolas is skalded in his toute\u00deis tale is done and\n                    god saue all \u00fee route\n",
+            "Note": "\nI.3721-1 omitted; 3276 inserted in the margin.",
+            "Attributed Title": "\n\u2026And begynneth \u00fee Tale (f. 35); The Miller (RT); Explicit\n                        fabula molendinarij (f. 45)",
+            "folio": "ff. 35-42"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[W]Hilom there was dwellyng in OxenfordA Riche gnoffe that gestes\n                    helde to bord\u2026\n",
+            "Last Lines": "\n\u2026And nycolas ys scalded in the touteThis tale ys don god save\n                    all this Route\n",
+            "Note": "\nI.3206-7, 3247-8, 3659-70, 3721-2 omitted.",
+            "Attributed Title": "\nThe Milners tale (f. 47v); The M[trimmed] (RT); Here endeth\n                    \u00fee Mylners tale\u2026 (f. 57)",
+            "folio": "ff. 47v-57"
+        },
+        "CamTCC582": {
+            "First Lines": "\nWhilom ther was duelling at OxenfordA riche gnof that gestes hield\n                    to borde\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is scalded in his touteThis tale is don and god\n                    saue al the rout\n",
+            "Note": "\nI.3721-2 omitted; 3231-2, 3613-14, 3623-4 inverted.",
+            "Attributed Title": "\nHiere beginneth the Millers tale (f. 18vb); Hiere endeth The\n                    Millers tale (f. 22vb)",
+            "folio": "ff. 18vb-22vb"
+        },
+        "CamTCC595": {
+            "First Lines": "\nWhilome there was dwellynge in OxenfordeA riche chuf that gestis\n                    had to borde\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is scaldede in the touteThis tale is done and\n                    god saue al this route\n",
+            "Note": "\nI.3721-26 omitted; 3231-2, 3613-14, 3623-4 inverted.",
+            "Attributed Title": "\nHere begynneth the Milleris tale (f. 54v); Here endeth the\n                    Milleris tale (f. 65)",
+            "folio": "ff. 54v-65"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nWHilom ther was dwellyng at OxynfordeA ryche gnof that gestis heeld\n                    to borde\u2026\n",
+            "Last Lines": "\n\u2026And Nycholas is skalded on his towtThis tale is done and god\n                    save al this rowt\n",
+            "Note": "\nI.3721-2 omitted.",
+            "Attributed Title": "\n\u2026& incipit fabula eiusdem (f. 46v); Myller\n                    (RT); Explicit fabula Molendinarij\u2026 (f. 57v)",
+            "folio": "ff. 47-57v"
+        },
+        "BLAdd25718": {
+            "First Lines": "\nWhilom ther was dwellyng at OxenfordA riche gnof that gestes held\n                    to bord\u2026\n",
+            "Last Lines": "\n\u2026For the nightes very the whit pater nosterWhere wentest thou\n                    seint Petres suster\u2026\n",
+            "Note": "\nI.3291-2 omitted; 3487-854 lost.",
+            "Attributed Title": "\nIncipit fabula Molendinarij (f. 26); Molendinarij\n                    (RT)",
+            "folio": "ff. 26-30v"
+        },
+        "BLAdd35286": {
+            "First Lines": "\nWHilom ther was dwellyng in OxenfordA ryche gnof that gestes held\n                    to bord\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is scalled in the towteThis tale is doon and god\n                    Saue al the route\n",
+            "Note": "\nI.3317-18, 3721-2 omitted; 3530 inserted in margin.",
+            "Attributed Title": "\n\u2026Here bygynneth the Millers tale (f. 29); The Miller (RT); Here\n                    endyth the Millers tale\u2026 (f. 37v)",
+            "Editions": "\nHorobin,  Simon. \n             \u201cA Transcription and Study of British Library MS Additional 35286 of\n                Chaucer\u2019s Canterbury Tales.\u201d \n         Diss. Univ. of Sheffield, 1997. \n",
+            "folio": "ff. 29-37v"
+        },
+        "BLEge2726": {
+            "First Lines": "\nWhilom there was dwellyng in OxenfordA riche gnof that gestes held\n                    to borde\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is scalded in the toutThis tale is done and god\n                    save all \u00fee rout\n",
+            "Note": "\nI.3721-2 omitted; 3509 inserted in margin.",
+            "Attributed Title": "\nHere bygynneth the Millers prologe [sic] (f. 40v); Thus\n                    endeth the Millers tale\u2026 (f. 49)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 40v-49"
+        },
+        "BLEge2863": {
+            "First Lines": "\n\u2026Was torned forto lerne AstrologieAnd coude a certeyn of\n                    conclusiouns\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is scalded in his touteThis tale is doon and god\n                    saue all the route\n",
+            "Note": "\nI.3721-2 omitted; 3187-91 lost.",
+            "Attributed Title": "\nThe Millere (RT); here endith the Millers tale\u2026 (f.\n                    33v)",
+            "folio": "f. 25-33v"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[W]hilom ther was dwellyng at OxynfordeA Rche gnof that\n                    gestis heeld to borde\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is scalded on his towteThis tale is don &\n                    god save all this rowte\n",
+            "Note": "\nI.3721-2, 3830 omitted.",
+            "Attributed Title": "\nIncipit fabula (margin f. 47v); The Millers tale (RT);\n                    Thus endith the Millers tale\u2026 (f. 57)",
+            "folio": "ff. 47v-56v"
+        },
+        "BLHar1758": {
+            "First Lines": "\n\u2026Tassid with silk & perlid with latonIn all this worlde\n                    to seke vp & doun\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is scaldid in his touteThis tale is don &\n                    god saue all the route\n",
+            "Note": "\nI.3187-250 lost.",
+            "Attributed Title": "\nThe Millers Tale (RT); Here endeth the Millers tale (f. 40)",
+            "folio": "ff. 34-40"
+        },
+        "BLHar7333": {
+            "First Lines": "\nWhilom \u00feer was dwellyng at OxenfordA Riche knoffe \u00feat\n                    held gestes to borde\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is brent sore in to \u00fee touteThis tale is\n                    don god saue all this rowte\n",
+            "Note": "\nI.3367-71, 3863-6, 3721-2 omitted; 3372 deleted; 3616, 3724 added in\n                    margin; 3343-4 reversed.",
+            "Attributed Title": "\n\u2026and nexte Folouyng bygynne\u00fee \u00fee milners tale (f.\n                        54ra); The Mylners Tale (RT); And thus here endith the Mylners\n                    tale\u2026 (f. 57rb)",
+            "folio": "ff. 54ra-57rb"
+        },
+        "BLHar7334": {
+            "First Lines": "\nWhilom \u00feere was dwellyng at OxenfordA riche gnof \u00feat\n                    gestes heeld to boorde\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is skaldid in his towteThis tale is doon and god\n                    saue al \u00fee route\n",
+            "Note": "\nI.3721-2 omitted.",
+            "Attributed Title": "\n\u2026And bygynneth his tale (f. 43v); The Myllers Tale (RT);\n                    The Meller (RT); HEre endeth \u00fee Millers tale\u2026 (f.\n                    51v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "ff. 42v-51v"
+        },
+        "BLHar7335": {
+            "First Lines": "\n[W]hilom there was dwellyng in OxenfordA riche gnof that gestes\n                    held to borde\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is schalded in the towteThis tale is don and god\n                    saue al the rowte\n",
+            "Note": "\nI.3447-3514 lost; 3317-18, 3570, 3711, 3721-2, 3842\n                    omitted.",
+            "Attributed Title": "\nfabula molend[trimmed] (f. 27, margin)",
+            "folio": "ff. 27-35v"
+        },
+        "BLLan851": {
+            "First Lines": "\nWHilom \u00feere was \u00feere was dwellyng att\n                    OxenfordA riche gnof \u00feat gestis helde to bord\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is scalded in his touteThis tale is done &\n                    god saue al \u00fee route\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\n\u2026Incipit fabula (f. 39v); \u00fee Meller (RT);\n                        Explicit fabula molenderii\u2026 (f. 47v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 39v-47v"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nWHylome \u00feer was dwellenge in OxenfordA Ryche gnoffe that\n                    gestes helde to borde\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is Scallede in his TowteThis tale is doone And\n                    god saue all \u00fee Rowte\n",
+            "Note": "\nI.3652 omitted.",
+            "Attributed Title": "\n\u2026And begynnyth the tale of the myller (f. 47v); Here\n                    endith the talle of the myller\u2026 (f. 58)",
+            "folio": "ff. 47v-58"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nWhilom ther was dwelling in OxenfordeA riche gnoff \u00feat gestes\n                    held to borde\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is scalded in his toute\u00deis tale is don and\n                    god saue al \u00fee rout\n",
+            "Note": "\nI.3194; 3721-2 omitted.",
+            "Attributed Title": "\n\u2026And begynnyth the tale (f. 41v); The Myller (RT);\n                        explicit (f. 50, margin); Here endith the Mylward[es] tale\u2026 (f.\n                    50)",
+            "folio": "ff. 41v-50"
+        },
+        "BLSl1685": {
+            "First Lines": "\nWHylom ther was dwelling in OxenfordA Riche gnoff that gestes helde\n                    to borde\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is scaldid in his touteThis tale is don and god\n                    saue al the route\n",
+            "Note": "\nI.3721-2 omitted.",
+            "Attributed Title": "\n\u2026And bigynneth the tale (f. 34, margin); The Myllere (RT);\n                        Explicit fabula molendinarij (f. 43v)",
+            "folio": "ff. 34-43v"
+        },
+        "BLSl1686": {
+            "First Lines": "\nWHilom there was dwelling at OxenfordA riche gnof that gestis held\n                    to bord\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is scalded in his towteThis tale is doon and god\n                    save alle the route\n",
+            "Note": "\nI.574, 3721-2 omitted; 3409-10 reversed.",
+            "Attributed Title": "\n\u2026And here begynneth the Mellers tale of the Reve (f. 51); [T]He\n                    Mellers tale of the Reve; [T]He tale of the Meller; [t]He Reues tale tolde by\n                    the Meller (RT); [t]He mellers tale (RT); Here endith the Mellers tale of the\n                    Reve\u2026 (f. 61v)",
+            "folio": "ff. 51-61v"
+        },
+        "NLWPen392": {
+            "First Lines": "\nWhilom ther was dwellyng in OxenfordA riche gnof that gestes heeld\n                    to bord\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is scalded in the touteThis tale is doon and god\n                    saue al the route\n",
+            "Note": "\nI.3721-2 omitted; 3431-2 reversed.",
+            "Attributed Title": "\nHere bigynneth the Millerys tale (f. 43); The Millere (RT); Here is ended\n                    the Millerys tale (f. 50v)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "ff. 42-50v"
+        },
+        "Alnwick455": {
+            "First Lines": "\nWhilom there was dwellyng in OxinforthA Riche Chorll \u00feat\n                    gestis had to bord\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is scaldit on the towtThis tale is doon god save\n                    al the rowt\n",
+            "Note": "\nI.3217-83 lost; 3475-90, 3540, 3698, 3721-2, 3247-8, 3767 omitted;\n                    3520-1, 3683-4 reversed.",
+            "Attributed Title": "\n\u2026And here begynnyth he his tale (f. 41v); Here endith the\n                    Millere his tale\u2026 (f. 49v)",
+            "folio": "ff. 41v-49v"
+        },
+        "GULHun197": {
+            "First Lines": "\nWHilom \u00feere was duellyng in OxenforthA riche gnoffe and gestes\n                    hield to boorde\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is scalded in his touteThis tale is done and god\n                    saue all \u00fee route\n",
+            "Note": "\nI.3721-2 omitted.",
+            "Attributed Title": "\n\u2026and begynneth / the Tale as here folweth (f. 17ra); The\n                    Miller (RT); Here endeth the Tale of the Miller\u2026 (f.\n                    20vb)",
+            "folio": "ff. 17ra-20vb"
+        },
+        "Holkham667": {
+            "First Lines": "\nWHilome was dwellinge at OxenfordeA riche gnvf that gestes had to\n                    borde\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is scalded in the touteThis tale ys doone and\n                    god save all the route\n",
+            "Note": "\nFols. 17 and 22 misbound. I.3721-2 omitted.",
+            "folio": "ff. 14vb-19rb"
+        },
+        "Lichfield29": {
+            "First Lines": "\nWhilom therwas dwellynge in OxenfordeA riche gnof \u00feat gestes\n                    heeld to borde\u2026\n",
+            "Last Lines": "\n\u2026And Nicolas is scalded in his touteThis tale is doon &\n                    god saue al \u00feis rout\n",
+            "Note": "\nI.3721-2 omitted.",
+            "Attributed Title": "\n\u2026and bigynneth \u00fee tale (f. 41v); The Mellere (RT);\n                    Thus endeth the Millers tale\u2026 (f. 50)",
+            "folio": "ff. 41v-50"
+        },
+        "Lincoln110": {
+            "First Lines": "\nWhilome ther was dwellynge in oxenfordA Riche gnuffe\n                    that gestis held to bord\u2026\n",
+            "Last Lines": "\n\u2026And nicholas is scalded in his touteThis tale is do and god\n                    saue alle \u00fee route\n",
+            "Note": "\nI.3721-2 omitted; 3397-8 reversed.",
+            "Attributed Title": "\nThe Millere (RT)",
+            "folio": "ff. 37v-46v"
+        },
+        "LonPhys388": {
+            "First Lines": "\nWHilom ther was dwellyng at OxenfordA Riche gnof that gestis hadde\n                    to bord\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is scalded in myddes the touteThis tale is don\n                    and god save al the Route\n",
+            "Note": "\nI.3721-2 omitted; 3435-6 reversed.",
+            "Attributed Title": "\nHere bigynneth the Millers tale (f. 56v); Here endith the\n                    Millers tale\u2026 (f. 68)",
+            "folio": "ff. 56v-68"
+        },
+        "RylandsEng63": {
+            "First Lines": "\n\u2026Whylom ther dwellid in OxinfordA riche chorll that gystis\n                    had to bord\u2026\n",
+            "Last Lines": "\n\u2026Ne clepe ne cry but be in his preyereFor it is Goddis hest\n                    leve and dere\u2026\n",
+            "Note": "\nA fragment comprising lines I.3158-3207, 3511-3588, with 3195-6, 3563,\n                    3567-8 omitted",
+            "Attributed Title": "\n\u2026And owir the leff be gynnyth \u00fee tale (f. 1)",
+            "folio": "f. 1v-2v"
+        },
+        "RylandsEng113": {
+            "First Lines": "\n[W]hilom \u00feer was dwellyng in OxenfordA Riche gnof \u00feat\n                    gestes helde to bord\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is scalded in the touteMyn tale is don and god\n                    safe al \u00feis route\n",
+            "Note": "\nI.3721-2, 3821-2 omitted.",
+            "Attributed Title": "\nHic incipit fabula molendinarij (f. 35); Myller (RT); Explicit\n                        fabula molendinarij (f. 41)",
+            "folio": "ff. 35-41"
+        },
+        "Petworth7": {
+            "First Lines": "\nWhilom \u00feer was dwelling in OxenfordA riche gnof \u00feat\n                    gestes helde to bord\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is scalded in his touteThis tale is don and god\n                    saue al \u00fee route\n",
+            "Note": "\nI.721-2 omitted; 3666 inserted at foot.",
+            "Attributed Title": "\n\u2026And here by / [\u2026]e\u00fe \u00fee Millers Tale (f.\n                        44v); narracio (f. 44v, margin) \u00fee Millers\n                    Tale (RT); Here endeth the Mylers tale\u2026 (f. 54)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 44v-54"
+        },
+        "Austin143": {
+            "First Lines": "\nWhilom there was dwellyng yn OxonfordA Riche Gnoff that gestys\n                    hilde to bord\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is scalded in the touteMy tale is don and god\n                    save all this route\n",
+            "Note": "\nI.721-2, 3821-2 omitted.",
+            "Attributed Title": "\nHic incipit Fabula Molendinarij (f. 35v);\n                        Molendinarius (gutter); Millere (RT); Thus endeth the Millers\n                    tale\u2026 (f. 43v)",
+            "folio": "ff. 35v-43v"
+        },
+        "PierpontM249": {
+            "First Lines": "\nWhilom thewas dwellynge in OxenfordeA riche gnof that gestes heelde\n                    to borde\u2026\n",
+            "Last Lines": "\n\u2026And Nicolas is scalded in his touteThis tale is don and god\n                    save al this route\n",
+            "Note": "\nI.3721-2 omitted.",
+            "Attributed Title": "\n\u2026and bigynnet\u0127 the tale (f. 45v); The Miller (RT); Thus\n                    endeth the Mellers tale\u2026 (f. 54v)",
+            "folio": "ff. 45v-54v"
+        },
+        "PUL100": {
+            "First Lines": "\nWwhilom there dwellid in OxinfordA riche Chorle that gistis had to\n                    bord\u2026\n",
+            "Last Lines": "\n\u2026And Nycholas is skaldit in the toutThis tale is done and God\n                    save al \u00fee rowte\n",
+            "Note": "\nThree-line lombard inital \u2018W\u2019 precedes \u2018whilom\u2019.\n                    I.3198, 3233, 3368, 3383-4, 3563, 3602, 3765-72 omitted.",
+            "Attributed Title": "\n\u2026And here begynnyth the Miller his tale (f. 17v); Miller\n                    (RT); Here endith the Millere his tale\u2026 (f. 26v)",
+            "folio": "ff. 17v-26v"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nWhilom ther was dwellynge at OxenfordA riche gnof that gestes heeld\n                    to bord\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is scalded in the towteThis tale is doon and god\n                    saue al the rowte\n",
+            "Attributed Title": "\nHeere bigynneth the Millere his tale (f. 34v); Miller (RT);\n                    Heere endeth the Millere his tale (f. 41v)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 34v-41v"
+        },
+        "BNangl39": {
+            "First Lines": "\nUhilom \u00feer was duellyng at Oxenforda Riche gnouf\n                    Chuffe \u00feat gestis had at bord\u2026\n",
+            "Last Lines": "\n\u2026and nicholay is skaldid in the toutethis tale is do god saue\n                    al this rout\n",
+            "Note": "\nI.3721-2 omitted; 8 spurious lines follow 3208:\ngrayel myssal and holy Euangelof Marke alkyndys wryten fayre and wel\n                    the book that hight Non est iudiciumhis astrelabyr and his\n                    albyonand his instrumentys euerichonof smale and grete many onfor\n                    to makyn his equacyounsand Rootes of his verificaciouns",
+            "Attributed Title": "\n\u2026Incipit subsequenter fabula (f. 18vb); Explicit\n                        fabula molendinaij\u2026 (f. 22ra)",
+            "folio": "ff. 18rb-22ra"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nWhilom there was duelling in OxenfordeA riche gnof that gestes\n                    helde to boorde\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is scalded in the touteThis tale is doon and god\n                    saue al the route\n",
+            "Note": "\nI.721-2 omitted.",
+            "Attributed Title": "\nAnd hiere beginneth the Millers tale (rubric, f. 39); millers tale\n                    (RT)",
+            "folio": "ff. 39-47"
+        },
+        "TokyoTak32": {
+            "First Lines": "\nWhilum ther was dwellyngge in OxenfordA Riche gnvffe that gestis\n                    hadde to borde\u2026\n",
+            "Last Lines": "\n\u2026And Nicholas is skalded in his towteThis tale is doon god\n                    save all this Rowte\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\nHere bee gynniht the tale (f. 37rb); Thee Mellere (RT);\n                        Explicit fabula Molendinarij (f. 41vb)",
+            "folio": "ff. 37rb-41vb"
+        },
+        "Bodmer48": {
+            "First Lines": "\nWhilom \u00feer was duelling in OxenfordA riche gnoffe \u00feat\n                    gestis held to bord\u2026\n",
+            "Last Lines": "\n\u2026And nicholas is scallid in his touteThis tale is done &\n                    god saue al \u00fee Rout\n",
+            "Note": "\nI.3721-2 omitted.",
+            "Attributed Title": "\nThe Milners tale (f. 42v)",
+            "Facsimiles": "\n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n",
+            "folio": "ff. 42v-51"
+        }
+    }
+}

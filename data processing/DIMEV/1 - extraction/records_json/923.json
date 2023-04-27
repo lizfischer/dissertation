@@ -1,0 +1,37 @@
+{
+    "_id": 923,
+    "_header": "By a forest as I gan walk",
+    "Note": "Content varies among MSS.",
+    "Title(s)": "\u2018Merci Passith Ri\u021dtwisnes\u2019",
+    "Subjects": "dialogues",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "\u2018Merci Passith Ri\u021dtwisnes\u2019, a dialogue between a sinner and Mercy \u2014 twenty 8-line stanzas",
+    "_witnesses": {
+        "BLAdd31042": {
+            "First Lines": "\nBy one foreste als I gan walkeWith owtten a paleys appon a ley\u2026\n",
+            "Last Lines": "\n\u2026With \u021doure freschly face vs fedeAnd thus Mercy passes Rightwysnes\n",
+            "Note": "\n14 stanzas. Ends, \u201cAmen. Explicit Cantus Amen.\u201d",
+            "Attributed Title": "\nA Song how \u00feat Mercy Passeth Rightwisnes (f.\n                    122va)",
+            "Editions": "\n\nBrunner,  Karl. \n             \u201cHandschrift British Museum Additional 31042.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         132 (1914): 316-27: 319-21.\nBazire,  Joyce. \n             \u201c\u2018Mercy and justice\u2019: the Additional MS 31042\n                version.\u201d \n             Leeds Studies in English\n         n.s. 16 (1985): 259-71: 263-6.\n\n",
+            "folio": "ff. 122va-123ra"
+        },
+        "NLWPork10": {
+            "Note": "\n26 stanzas.",
+            "folio": "ff. 203-207v"
+        },
+        "Chichester": {
+            "First Lines": "\nBy a fforest es y gan walkeBy a palys vnder a layY herde twey\n                    men togedyr gan talkeI th\u021dowt to wette what hey wolde\n                    say\u2026\n",
+            "Last Lines": "\n\u2026Now know I wel he hath no perHe that is ffolle of mersy and\n                    ry\u021dthwissnis\n",
+            "Note": "\n26 stanzas.",
+            "Editions": "\nBazire,  Joyce. \n             \u201cMercy and Justice.\u201d \n             Neuphilologische Mitteilungen\n         83 (1982): 178-91: 181-4.\n",
+            "folio": "ff. 18-19v"
+        },
+        "Lam853": {
+            "First Lines": "\nBI a forest as y gan wlkeWith out a paleys in a\n                    leyeI herde two men togidre talkeI \u00feou\u021dte to wite what\n                    \u00feei wolde seie\u2026\n",
+            "Last Lines": "\n\u2026And helpe us ladi att oure moost needeTo \u00fei sone oure\n                    soulis \u00feou wysAnd with his mercy fulli us fede\u00deere mercy\n                    passi\u00fe ri\u021dtwijsnes AMEN\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             Hymns to the Virgin and Christ\u2026and other religious poems.\nEETS\n         o.s. 24 (1867); repr. 1973: 95-100.\nConlee,  John W.,\n                        ed.  \n             Middle English Debate Poetry: A Critical Anthology.\n         East Lansing, MI: Colleagues Press, 1991: 201-9.\n\n",
+            "folio": "pp. 66-73"
+        }
+    }
+}

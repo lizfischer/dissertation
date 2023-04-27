@@ -1,0 +1,24 @@
+{
+    "_id": 2454,
+    "_header": "In a pistle that Paul wrought",
+    "Subjects": "Paul, saint; advice, spiritual",
+    "Versification": "\u2014 twelve-line \u2014 ababababbcbc",
+    "_description": "Each Man ought Himself to know \u2014 nine 12-line stanzas",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nIN a Pistel \u00feat Poul wrou\u021dtI fond hit writen & seide\n                    riht \u00feis\u2026\n",
+            "Last Lines": "\n\u2026\u00deat cristes face mai ben vr foodeffor vche mon\n                    ou\u021dte him self to knowe\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nVarnhagen,  Hermann. \n             \u201cDie kleinere gedichte der Vernon und Simeon handschrift.\u201d \n             Anglia\n         7 (1884): 280-315: 294-7.\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 672-5.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 139-42.\n\n",
+            "folio": "ff. 407vc2-408ra"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nIN a Pistel \u00feat Poul wrouhtI founde hit writen & seide\n                    riht \u00feis\u2026\n",
+            "Last Lines": "\n\u2026\u00deat cristes face may ben vr foodeffor vche mon ou\u021dt\n                    hym self to knowe\n",
+            "Attributed Title": "\nExplicit A song knowe \u00fei self (f. 129vb)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "Editions": "\nFurnivall,  Frederick James. \n             Early English Poems and Lives of Saints.\nTransactions of the London Philological Society\n         1858; Pt. 2, Berlin, 1862: 130-4.\n",
+            "folio": "f. 129va-129vb"
+        }
+    }
+}

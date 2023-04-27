@@ -1,0 +1,30 @@
+{
+    "_id": 4905,
+    "_header": "Sith that ye list to be my hostess",
+    "Subjects": "death; transitoriness of world",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Death\u2019s Warning to the World \u2014 eight stanzas rhyme royal; partly from The Fall of Princes (1904), I.764-70, 806-12, 918-24, 925-31, 960-66.",
+    "_witnesses": {
+        "BodDou322": {
+            "First Lines": "\nSyth that ye lyste to be my costesAnd in youre book to set myne\n                    Image\u2026\n",
+            "Last Lines": "\n\u2026That in thys worlde euery lyuyng creatureffor Adams synne\n                    must dye of nature\n",
+            "Note": "\nFour stanzas only",
+            "Attributed Author": "\nThyese balades that thus ben wryten here be take owte of the book of Iohn\n                    Lucas and sayde to the peple that shall see thys lytell tretyse in tyme to come\n                    (f. 20ra)",
+            "Editions": "\n\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 2.655-57.\nWager,  Willis J. \n             \u201cTwo Poems from the \u2018Booke of John Lucas.\u2019\u201d \n             Philological Quarterly\n         15 (1936): 377-83: 377-83 (extracts).\n\n",
+            "folio": "ff. 19vb-20ra"
+        },
+        "CULFf545": {
+            "First Lines": "\nSeth \u00feat \u00fee list to be myn hostesseAnd in youre boke to\n                    sette myn ymage\u2026\n",
+            "Last Lines": "\n\u2026That in this worlde eche liuyng creatureffor Adames synne\n                    must die of nature\n",
+            "Attributed Title": "\nDictamen vel lugubre carmen terribilissimi Mortis (f. 13)",
+            "folio": "ff. 13-13v"
+        },
+        "BLHar1706": {
+            "First Lines": "\nSyth that ye lyste to be my costysAnd in youre boke to sett my ymage\u2026\n",
+            "Last Lines": "\n\u2026That in thys worlde eny lyuyng creatureffor Adams synne must dye of nature\n",
+            "Note": "\nIn a loose rhyme, abab; preceded by a drawing of a skeleton with \u201cdeth\u201d written on and around it (f. 19va).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 1706.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_1706. \n",
+            "folio": "f. 19va-19vb"
+        }
+    }
+}

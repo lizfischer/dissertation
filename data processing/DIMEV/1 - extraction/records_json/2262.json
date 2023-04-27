@@ -1,0 +1,20 @@
+{
+    "_id": 2262,
+    "_header": "I saw three headless playen at a ball",
+    "Subjects": "riddles",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Riddling verses \u2014 two couplets",
+    "_witnesses": {
+        "BodEngPoete1": {
+            "Transcription": "\nI saw iij hedles playen at a ballon hanles man served hem\n                    allwhyll iij movthles men lay & lowiij legles a way hem\n                    drow\n",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             Songs and Carols from a manuscript\u2026of the Fifteenth\n                Century.\nPercy Society\n         23. London: Richards, 1847: 35 (as part of 3343).\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 241.\nSilverstein,  Theodore,\n                        ed.  \n             Medieval English Lyrics.\n         York Medieval Texts. London: Edw. Arnold, 1971: 144-5.\n\n",
+            "folio": "f. 26v"
+        },
+        "BodRawD328": {
+            "Transcription": "\niij heddelyse men playd at ballI heddelyse man seruit them\n                    all\n",
+            "Note": "\nTranslating \u2018Tres homines assifoli ad pilam\n                    ludebant\u2026\u2019 (4 lines), which precedes.",
+            "Editions": "\nMeech,  Sanford Brown. \n             \u201cA Collection of Proverbs in Rawlinson MS D 328.\u201d \n             Modern Philology\n         38 (1940-41): 113-32: 125.\n",
+            "folio": "f. 144"
+        }
+    }
+}

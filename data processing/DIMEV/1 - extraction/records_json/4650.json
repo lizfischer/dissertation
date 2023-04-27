@@ -1,0 +1,21 @@
+{
+    "_id": 4650,
+    "_header": "Saint John witness well always",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Friday after the Second Sunday after Trinity in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 205vb"
+        },
+        "BLHar4196": {
+            "First Lines": "\nSaint Iohn witnes wele alwaysHow crist to his desciples sais\u2026\n",
+            "Last Lines": "\n\u2026To gader samen \u00fee werldes gude\u00feat rises and falles als dose \u00fee flode\n",
+            "Note": "\nPreceded by Latin, \u201cCum autem inducent uos & cetera.\u201d",
+            "Attributed Title": "\nfferia vi secundum Iohannem (rubric, f. 106ra)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): II.282-284.\n",
+            "folio": "ff. 106ra-106va"
+        }
+    }
+}

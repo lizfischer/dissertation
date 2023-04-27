@@ -1,0 +1,48 @@
+{
+    "_id": 4803,
+    "_header": "Seely berne that not is gone",
+    "Subjects": "scripture texts, Engl. trans. of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Psalter in couplets",
+    "_witnesses": {
+        "Bod425": {
+            "First Lines": "\nNoght funden in me wickednes\u00feat in mouth noht speke men\n                    werkes\u2026\n",
+            "Last Lines": "\n\u2026loues him in chimbes of mirie and blisAlkin gaste loue louerd\n                    \u00feat is\n",
+            "Note": "\nMissing Psalms 1-15; between psalms cviii and cix, on ff. 66v-70v are\n                    English poetical versions of the Four Sequences or Capitula from the Gospels; at\n                    the end: \u2018Qui scripsit carmen sit benedittus Amen\u2019.",
+            "folio": "ff. 1-66;  72-93"
+        },
+        "Bod921": {
+            "First Lines": "\nSeli bern \u00feat noght is ganeIn \u00fee rede of wicked\n                    mane\u2026\n",
+            "Last Lines": "\n\u2026Loues him in chimbes of mir\u00fee and blisseAlkyn gast loue\n                    louerd \u00feat isse\n",
+            "Note": "\nPsalms start with Latin first lines.",
+            "folio": "ff. 1-99v"
+        },
+        "CamCCC278": {
+            "First Lines": "\nSeli beern \u00feat nouht is gonIn \u00fee red of wichked\n                    man\u2026\n",
+            "Last Lines": "\n\u2026Looues him in chimbes of miryly and blisseAlle kingost looue\n                    louerd \u00feat isse\n",
+            "folio": "ff. 1-90"
+        },
+        "BLCottVitAXVI": {
+            "First Lines": "\nSEli bern \u00feat noght is ganIn \u00fee rede of wicked man\u2026\n",
+            "Last Lines": "\n\u2026Loues him in chimbes of mirthe and blisseAlkine gaste loue lauerd \u00feat isse\n",
+            "Note": "\nLatin headings or glosses in right margins throughout; last parallel with final line is \u2018Laudate eum,\u2019",
+            "Editions": "\n\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 2.130-273.\nStevenson,  Joseph. \n             Anglo-Saxon and Early English Psalter.\n             2 vols. \n             Surtees Society\n         16 (1843), 19 (1847). \n\n",
+            "folio": "f. 1-104"
+        },
+        "BLEge614": {
+            "First Lines": "\nSeli beerne \u00feat noght is ganIn \u00fee red of wicked\n                    man\u2026\n",
+            "Last Lines": "\n\u2026Heryhes him in bimbes of mirthis \u00feat isseLett iche gast\n                    heryhes louard hysse\n",
+            "Note": "\nLarge initial has been cut away. This has also removed the initial\n                    letters of the words \u2018Seli\u2019 and \u2018in\u2018, which have\n                    subsequently been replaced by a later hand (f. 2).",
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 2.130-273.\n",
+            "folio": "ff. 2-99"
+        },
+        "BLHar1770": {
+            "First Lines": "\nSeli berne \u00feat noht is ganIn \u00fee red of wiked man\u2026\n",
+            "Last Lines": "\n\u2026Loues him in chimbes of mir\u00fee and blisseAlkin gast looue lauerd \u00feat isse\n",
+            "Note": "\nPreceded by Latin line, \u201cBeatus Ihesu qui non abiit\u201d (f. 158).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 1770.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_1770. \n",
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 2.130-273.\n",
+            "folio": "ff. 158-241"
+        }
+    }
+}

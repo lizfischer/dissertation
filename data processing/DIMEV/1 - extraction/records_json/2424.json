@@ -1,0 +1,16 @@
+{
+    "_id": 2424,
+    "_header": "If thy poor friend",
+    "Title(s)": "Distichs",
+    "Subjects": "translations; advice",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "A fragmentary text of Cato\u2019s Distichs, corresponding to I.20-II.5 of the original Latin text, consisting of the Latin of each distich, followed by the Anglo-Norman text and the Middle English \u2014 32 six-line stanzas",
+    "_witnesses": {
+        "BodEngmiscc291": {
+            "First Lines": "\nIf \u00fei pore frendeGif \u00fee with loueli\n                    hend\u2026\n",
+            "Last Lines": "\n\u2026\u00deat in pes wil lifeAls \u00feing askis &\n                    tyme\n",
+            "Editions": "\nHorrall,  Sarah M. \n             \u201cAn Unknown Middle English Translation of the Distichs of Cato.\u201d \n             Anglia\n         99 (1981): 25-37: 30-6.\n",
+            "folio": "ff. 3;  4"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "_id": 5388,
+    "_header": "The man that lust to liven in ease",
+    "Title(s)": "\u2018Who says \u00fee sooth he shall be shent\u2019",
+    "Subjects": "devotional verse",
+    "Versification": "\u2014 twelve-line \u2014 ababababbcbc",
+    "Bibliographic Ghosts": "London, British Library Addit. 22283 [Simeon]: not in this MS.",
+    "_description": "\u2018Who says \u00fee sooth he shall be shent\u2019 \u2014 eight l2-line stanzas, with refrain, \u2018he schal be schent\u2019",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\n\u00deE Mon \u00feat luste to liuen in eseOr eny worschupe her to\n                    ateyne\u2026\n",
+            "Last Lines": "\n\u2026\u00feis lesson lerne\u00fe alle at meho sei\u00fe \u00fee\n                    so\u00fee he schal be schent\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nVarnhagen,  Hermann. \n             \u201cDie kleinere gedichte der Vernon und Simeon handschrift.\u201d \n             Anglia\n         7 (1884): 280-315: 301-4.\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 2.683-6.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 152-4.\n\n",
+            "folio": "f. 408vb-408vc"
+        },
+        "CamTCC1450": {
+            "First Lines": "\nWho so wyll leue yn eseand hys worschypp woll not a\n                    layne\u2026\n",
+            "Note": "\nNote added by later hand at heading, after explicit to previous text\n                        (2453).",
+            "folio": "f. 23"
+        }
+    }
+}

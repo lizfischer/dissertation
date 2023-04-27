@@ -1,0 +1,69 @@
+{
+    "_id": 2786,
+    "_header": "Jerusalem in English is / As mickle to say as sight of peace",
+    "Note": "Portions of the text show verbal similarities to the Pricke of Conscience. For the text in the \u2018expanded\u2019 Cycle see 570.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Tenth Sunday after Trinity, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nJErusalem on Englisch isAs muche to seyn as siht of\n                    pes\u2026\n",
+            "Last Lines": "\n\u2026God \u021dif vs grace \u00feat we mayCome \u00feer is euere\n                    gomen and play. Amen\n",
+            "Attributed Title": "\nCum appropinquasset Ihesu Ierusalem (f. 201va)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 201va-202rb"
+        },
+        "BodAsh42": {
+            "First Lines": "\nIerusalem on ynglihsse esAls mikil to saie als fight of\n                    pes\u2026\n",
+            "Last Lines": "\n\u2026God giue vs grace \u00feat we maieCome to heuene \u00feare\n                    euer es plaie . Amen .\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 150v-154"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nAls seynt Luk \u00feis day telles vsToward Jerusalem come\n                    ihesus\u2026\n",
+            "Last Lines": "\n\u2026Al myghti god \u00feedire vs bryngAnd graunte vs alle gode\n                    endyng\n",
+            "Attributed Title": "\nDominica xa post festum trinitatis secundum Lucam (p.\n                    248)",
+            "folio": "pp. 248-254"
+        },
+        "CULDd11": {
+            "First Lines": "\nIErusalem forso\u00fee on Englische isals mekil to seyne as \u00fee\n                    sighte of pes\u2026\n",
+            "Last Lines": "\n\u2026& to \u00feat ioye bringevs he\u00deat for vs deyde on\n                    \u00fee rode tre\n",
+            "Attributed Title": "\nDominica 10a euangelium secundum Lucam. Cum appropinquasset\n                        ihesus ierusalem videns ciuitatem & ce. (f.\n                    156v)",
+            "folio": "ff. 156v-159"
+        },
+        "CULGg531": {
+            "First Lines": "\nJerusalem on Inglisch esAls mykyll at say as syght of\n                    pes\u2026\n",
+            "Last Lines": "\n\u2026God gyf vs grace \u00feat we mayCome \u00feider \u00fear uer\n                    es gammen and play Amen\n",
+            "Attributed Title": "\n\u00deis es \u00fee gospell of \u00fee tende sonday (f. 104v,\n                    with two lines Latin scripture)",
+            "folio": "ff. 104v-107v"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nErusalem on Englische isAs muche to sei as sight of\n                    pes\u2026\n",
+            "Last Lines": "\n\u2026God \u021dif vs grae \u00feat we mayCome \u00feer is euer\n                    gomen and play. Amen\n",
+            "Attributed Title": "\nCum appropinquasset Ihesus Ierusalem (f. 6va)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 6va-7rb"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nJerusalem oun ynglihsse esAls mikill at say als sight of\n                    pes\u2026\n",
+            "Last Lines": "\n\u2026God gif vs grace \u00feat we mayComon to heuen \u00feair euer\n                    es play. Amen\n",
+            "folio": "ff. 112-116"
+        },
+        "Lam260": {
+            "folio": "f. 45rb"
+        },
+        "MinULZ822": {
+            "First Lines": "\nSaynt luke says Ierusalem one ynglys eseals mykyll at say als cyte\n                    of pese\u2026\n",
+            "Last Lines": "\n\u2026god gyfe vs grace \u00feat we maycum \u00feider er euer es\n                    gam & play\n",
+            "Attributed Title": "\nDominica decima Secundum Lucam (f. 115v)",
+            "folio": "ff. 115v-118"
+        },
+        "HunHM129": {
+            "First Lines": "\nIerusalem on englys esAs moche to say as syght of\n                    pes\u2026\n",
+            "Last Lines": "\n\u2026God gyff vs gras \u00feat we all mayCum \u00feeddyr \u00feare\n                    euer is gamyn and play\n",
+            "Attributed Title": "\nDominica decima post festum trinitatis (f.\n                    128v)",
+            "folio": "ff. 128v-131v"
+        }
+    }
+}

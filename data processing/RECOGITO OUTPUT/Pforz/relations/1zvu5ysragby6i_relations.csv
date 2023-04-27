@@ -1,0 +1,12 @@
+"source","relation","target","source_id","source_tags","target_id","target_tags"
+"Britwell","Sold to","Clawson","18f60186-d324-4012-87ba-defea93bceb0","","0c61c042-73c2-46ce-8c06-458ffa3ac273",""
+"Octavius G. 
+Gilchrist","Sold to","Ashburnham","f5351661-7c48-41ee-becc-d49d7c1e53c6","","2b1face0-b117-423b-b02b-70bfb5bf8e90",""
+"Hibbert","Sold to","Britwell","34eb9d12-43a5-452a-b198-c16197262688","","18f60186-d324-4012-87ba-defea93bceb0",""
+"E.M.Cox","Sold to","Clawson","6713a45a-a0ab-43c5-9b92-884873b03f87","","81a881fb-32a2-4ea9-8349-7aafd2d0ba8c",""
+"Wiper","Sold to","Forman","d08b8d61-41ec-477d-8e93-f8389d4f177c","","531ea3ca-8c91-4765-8700-7207f7f0c9ce",""
+"Frederick Perkins","Sold to","Huth","02a4b4a4-a11e-4e08-ac1b-06f6eda232e2","","56b0cae2-45ab-4fc8-8eba-c23455d79067",""
+"Hoe","Sold to","Halsey","36ff089d-4654-4a66-affe-f62bd8d9fc63","","8711f4ec-c7a8-4b92-94fe-81a27fb585e1",""
+"Philip Lord Hardwicke","Sold to","Shakespeare Library","f33ff870-160a-47a5-937f-75746124d908","","1bc4e777-4bac-46a3-a887-1a52fcf1312d",""
+"Waldron","Sold to","Philip Lord Hardwicke","fa3dec9e-2f24-4e12-97ac-1a7448db7222","","f33ff870-160a-47a5-937f-75746124d908",""
+"Ashburnham","Sold to","Hoe","2b1face0-b117-423b-b02b-70bfb5bf8e90","","36ff089d-4654-4a66-affe-f62bd8d9fc63",""

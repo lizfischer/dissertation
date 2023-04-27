@@ -1,0 +1,36 @@
+{
+    "_id": 5799,
+    "_header": "This worldly joy is only fantasy",
+    "Title(s)": "Leaulte vault Richesse",
+    "Subjects": "transitoriness, of world",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "\u2018Leaulte vault Richesse,\u2019 on the Instability of Worldly Joy \u2014 one eight-line stanza (ababbcbc)",
+    "_witnesses": {
+        "BodArcSelB24": {
+            "First Lines": "\nThis warldly Ioy Is onely fantasyof quhich non erdly wicht can be\n                    content\u2026\n",
+            "Last Lines": "\n\u2026Presume nocht gevin \u00feat god has some bot lentWithin\n                    schort tyme the quhiche he thinkis to name\n",
+            "Facsimiles": "\nBoffey,  Julia,  and  A. S. G. Edwards, eds.  \n             Chaucer, Works. Bodleian Library MS Arch Selden B.24: Facsimile\n                Edition.\n         Cambridge: D. S. Brewer, 1995. \n",
+            "Editions": "\n\nSkeat,  Walter William,\n                        ed.  \n             The Complete Works of Geoffrey Chaucer.\n         7 vols. Oxford: Clarendon, 1894-7: 1.47.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 260.\n\n",
+            "folio": "f. 138"
+        },
+        "CULLl510": {
+            "First Lines": "\nThe warldlie Ioy is onlie fantesieQuhair of na eirdlie wicht can be\n                    content\u2026\n",
+            "Last Lines": "\n\u2026Preswme not gevin \u00feat god hes to \u00fee lentWithin\n                    short tyme \u00fee quhilk he thinkis to craiff\n",
+            "folio": "f. 56v"
+        },
+        "CamMagPep2553": {
+            "First Lines": "\nThis wardlie Ioy is onlie fantasieQuhairof no eirthlie wycht can be\n                    content\u2026\n",
+            "Last Lines": "\n\u2026Preswme not gevin \u00feat god hes to \u00fee lentWithin\n                    schort tyme \u00fee quhilk he thinkis to craif\n",
+            "Editions": "\n\nPinkerton,  John,\n                        ed.  \n             Ancient Scottish Poems Never Before in Print.\n         2 vols. London and Edinburgh, 1786: 243.\nCraigie,  William Alexander. \n             The Maitland Folio Manuscript, Containing Poems by Sir Richard\n                Maitland, Dunbar, Douglas, Henryson, and others.\n             2 vols. \n             Scottish Text Society\n         n.s. 7 (1919), 20 (1927); Edinburgh and London: Blackwood, 1919,\n            1927: 1.341.\n\n",
+            "folio": "p. 292"
+        },
+        "Banna": {
+            "First Lines": "\nThis warldis ioy is only bot fantesyoff quhilk non erdly wicht can\n                    be content\u2026\n",
+            "Last Lines": "\n\u2026presome nocht gevin That god hes done bot lentWithin schort\n                    tyme the quhilk he thinkis to craue\n",
+            "Note": "\nNineteenth-century transcript by Kennedy is Edinburgh,  Edinburgh University Library La.IV.27,\n                    unnumbered loose leaf.",
+            "Facsimiles": "\nFox,  Denton,  and  William A. Ringler.  \n             The Bannatyne Manuscript: National Library of Scotland Advocates\u2019\n                MS. 1.1.6\n         London: Scolar Press, in Association with The National Library of\n            Scotland, 1980. \n",
+            "Editions": "\n\nMurdoch,  James Barclay. \n             The Bannatyne Manuscript.\n             4 vols. in 11 parts, paged continuously. \n             Hunterian Club\n         16, 32, 40, 46, 50, 55-56, 64-67 Glasgow: Anderson, 1873-1896: 202.\nRitchie,  W. Tod,\n                        ed.  \n             The Bannatyne Manuscript.\n             4 parts in 4 vols. \n             Scottish Text Society\n         3rd ser. 5 (1928); n.s. 22 (1928); n.s. 23 (1930); n.s. 26 (1934)\n            Edinburgh and London: Blackwood, 1928-34; ed. by Ritchie et al: 2.183.\n\n",
+            "folio": "f. 74v"
+        }
+    }
+}

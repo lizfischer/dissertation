@@ -1,0 +1,72 @@
+{
+    "_id": 84,
+    "_header": "A knight there was in land while great man withall and wise",
+    "Title(s)": "South English Legendary",
+    "Subjects": "Virgin Mary, miracles of; miracles",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Saved by learning Two Words, a miracle of the Virgin, in the South English Legendary \u2014 in couplets",
+    "_witnesses": {
+        "BodLauMis463": {
+            "First Lines": "\nA Knight \u00feer was in lond while gret man with all & wisAtte\n                    last he him bithoughte \u00feat \u00fee world was of litel\n                    pris\u2026\n",
+            "Last Lines": "\n\u2026An y seye hou god it was Oure lady to grete\u021cet we wole\n                    more telle Of hire \u00feat is so suete\n",
+            "Note": "\nTwo columns per page, one full-line, the other half-line.",
+            "folio": "ff. 55vb-56ra"
+        },
+        "OxfTri57": {
+            "First Lines": "\nA kny\u021dt \u00feer was a londe whyse gret man with alle &\n                    wysatte laste he be \u00feo\u021dte \u00feat \u00fee worlde was of lite\n                    prys\u2026\n",
+            "Last Lines": "\n\u2026And y se\u021de how guod it was oure Leuedy to grete\u021cut\n                    we wille\u00fe telle more of here for hy is guod & swete\n",
+            "Attributed Title": "\nMiraculum Marie (f. 54v)",
+            "folio": "f. 54v"
+        },
+        "CULAdd3039": {
+            "First Lines": "\nA knyght \u00feer was whilome in lande a grete lorde & wyseAnd\n                    ate laste he hym be thoght \u00feis worlde was of litil prisHe put hym to\n                    religioune & al \u00feis worlde forsokeffor to serue god & our lady\n                    to \u00feaim he hym betoke\u2026\n",
+            "Last Lines": "\n\u2026&sagh \u00feat it was nedeful \u00feinge our lady for to\n                    greteBlissed mote scho euer be bo\u00fee maiden & modre\n                    swete\n",
+            "Note": "\n13 couplets.",
+            "folio": "f. 110"
+        },
+        "CamCCC145": {
+            "First Lines": "\nA kni\u021dt \u00feer was a londe wile gret man wi\u00fe alle\n                    iwisAtte laste he him bi\u00feo\u021dte \u00feat \u00fee worle was of lite\n                    pris\u2026\n",
+            "Last Lines": "\n\u2026And iseie hou god it was oure leuedi forto grete\u021cute we\n                    wolle\u00fe telle more of hure he is so god & swete\n",
+            "Editions": "\nD\u2019Evelyn,  Charlotte,  and  A. J. Mill, eds.  \n             The South English Legendary: Corpus Christi College Cambridge MS. 145\n                and British Museum MS. Harley 2277, with variants from Bodley MS. Ashmole 43 and\n                British Museum MS. Cotton Julius D.ix.\nEETS\n         o.s. 235 (1959), 236 (1956); repr. 1967: 234.\n",
+            "folio": "ff. 88-88v"
+        },
+        "CamMagPep2344": {
+            "First Lines": "\nA kni\u021dt \u00feer was in londe while gret man wi\u00fe alle\n                    ywisAtte laste he him by \u00feou\u021dte \u00feat \u00fee world was of\n                    lutel pris\u2026\n",
+            "Last Lines": "\n\u2026\u00deere alle yseye how goed hit is oure lady to\n                    grete\u021cut telle we wolle\u00fe more of hure ffor \u021deo is so goed\n                    & swete\n",
+            "Attributed Title": "\nMiraculum [Sancte Marie] (RT)",
+            "folio": "pp. 307-308"
+        },
+        "CamTCC605": {
+            "First Lines": "\nA kny\u021dt \u00feer was wyle grete man mydalle & wyseAtte laste he hym by\u00feo\u021dt \u00feat \u00fee worle was of lyte prise\u2026\n",
+            "Last Lines": "\n\u2026\u00feer by me may yse hou goud hit ys to greteof oure leuedy marie \u00feat is so mylde & swete\n",
+            "Facsimiles": "\n\nDigital Facsimile of Trinity College Cambridge MS R.3.25.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.25. \n",
+            "folio": "f. 247"
+        },
+        "BLAdd10301": {
+            "First Lines": "\nA kni\u021dt \u00feer was a londe wile gret man wi\u00fe alle y\n                    wisAtte laste he him by \u00feo\u021dte \u00feat \u00fee worle was of lite\n                    pris\u2026\n",
+            "Last Lines": "\n\u2026And yseie hou gode it was oure lady forto grete\u021dut we\n                    wulle\u00fe telle more of hure \u021do is so gode & swete\n",
+            "Attributed Title": "\nMiraculum (RT)",
+            "folio": "ff. 102v-103"
+        },
+        "BLCottCleoDIX": {
+            "First Lines": "\n[A] kni\u021dt \u00feer was a lond while gret man wi\u00fe al\n                    iwisAte laste he him bi\u00feou\u021dt \u00feat \u00fee world was of lute\n                    pris\u2026\n",
+            "Last Lines": "\n\u2026And isei\u021de hou gode hit was oure leuedi forto\n                    grete\u021cut we wolle\u00fe telle more of hire for \u021deo is so gode\n                    & swete\n",
+            "Note": "\nFolio number reflects the most recent foliation. Space left for enlarged\n                    \u2018A\u2019, which was left blank.",
+            "folio": "ff. 154-154v"
+        },
+        "BLCottJulDIX": {
+            "First Lines": "\nA kni\u021dt \u00feer was alonde while gret man with alle & wisate laste he him bi\u00feo\u021dte \u00feat \u00fee worle was of lute pris\u2026\n",
+            "Last Lines": "\n\u2026& seie hou god hit was our ladi forto grete\u021dut we wollet telle more of hire heo is so gud & suete\n",
+            "Note": "\n\u201cCapitulum Cvi\u201d added to right margin by later hand (f. 304).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Julius MS D IX.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Julius_D_IX. \n",
+            "folio": "f. 304r1"
+        },
+        "BLHar2277": {
+            "First Lines": "\nA kni\u021dt was while a riche man \u00feat honurede moche mid alleOure leuedi & alle hire festes \u00feat in \u00fee \u021der do\u00fe falle\u2026\n",
+            "Last Lines": "\n\u2026Of oure leuedi faire Miracles we seo\u00fe al day & grete\u00dee\u021d we habbe of summe itold \u021dut nole we no\u021dt lete\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 2277.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_2277. \n",
+            "Editions": "\nTryon,  Ruth Wilson. \n             \u201cMiracles of Our Lady in Middle English Verse.\u201d \n             PMLA\n         38 (1923): 308-81: 319-20.\n",
+            "folio": "f. 63r1"
+        }
+    }
+}

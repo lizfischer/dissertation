@@ -1,0 +1,64 @@
+{
+    "_id": 74,
+    "_header": "A Jews child in Buterie while by old daw",
+    "Title(s)": "South English Legendary",
+    "Subjects": "Virgin Mary, miracles of; miracles",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The little Jew, a miracle of the Virgin, in the South English Legendary \u2014 in couplets",
+    "_witnesses": {
+        "BodLauMis463": {
+            "First Lines": "\nA Giewes child in a time while bi olde daweWi\u00fe Cristen\n                    children ofte pleied as children wile fawe\u2026\n",
+            "Last Lines": "\n\u2026Elles \u00feei hadden shrewen beo ffor \u00fee miracle of\n                    \u00feilk childeMani miracles man may telle of oure lady suete &\n                    mylde\n",
+            "Note": "\nTwo columns per page, one full-line, the other half-line.",
+            "folio": "ff. 54va-55ra"
+        },
+        "OxfTri57": {
+            "First Lines": "\nA gewes child in o tyme whyse be olde dawewith cristene children\n                    ofte playde as children wille\u00fe fawe\u2026\n",
+            "Last Lines": "\n\u2026Elles hy hadde scherewen y beo for \u00fee meracle of \u00feulke\n                    childeManye meracles me may \u021dut telle of oure leuedy swete &\n                    mylde\n",
+            "Attributed Title": "\nMiraculum Marie (RT, f. 52v)",
+            "folio": "ff. 52v-53"
+        },
+        "CULAdd3039": {
+            "First Lines": "\nA Jewes childe in Bitury somtyme as story\u021d sayWith crestyn\n                    childre oft he \u021dode amange \u00feaim to playOn \u00fee Pasche day it\n                    befell \u00feat cristen childre gon draghVn to \u00fee kirke with cristen\n                    folke as it was \u00feer laghe\u2026\n",
+            "Last Lines": "\n\u2026\u00deis miracle verraly befell of \u00feis ilk\n                    childe\u00deurgh vertu of our swete lady \u00feat euermore is meke &\n                    mylde\n",
+            "folio": "f. 107v"
+        },
+        "CamCCC145": {
+            "First Lines": "\nA Giwes child in buturie wile bi olde daweWi\u00fe cristene\n                    childrene ofte pleide as children wolle\u00fe \u021dute vawe\u2026\n",
+            "Last Lines": "\n\u2026Elles hi hadde ssrewen i be for miracle of \u00feulke\n                    childeOf mo miracle me may \u021dute telle of oure leuedi swete &\n                    milde\n",
+            "Editions": "\nD\u2019Evelyn,  Charlotte,  and  A. J. Mill, eds.  \n             The South English Legendary: Corpus Christi College Cambridge MS. 145\n                and British Museum MS. Harley 2277, with variants from Bodley MS. Ashmole 43 and\n                British Museum MS. Cotton Julius D.ix.\nEETS\n         o.s. 235 (1959), 236 (1956); repr. 1967: 227.\n",
+            "folio": "ff. 85v-86"
+        },
+        "CamMagPep2344": {
+            "First Lines": "\nA Gyewes child in Bytinye som tyme by olde daweWi\u00fe cristene\n                    children pleyde as children wolle\u00fe ffawe\u2026\n",
+            "Last Lines": "\n\u2026Elles hi hadde schrewen ybeo nere miracle of \u00feulke\n                    childeOf mo miracles ich wolle \u021dou telle of oure lady swete &\n                    mylde\n",
+            "Attributed Title": "\nMiraculum Sancte Marie (RT)",
+            "folio": "pp. 303-304"
+        },
+        "BLCottCleoDIX": {
+            "First Lines": "\n[A] Giewes child in butterne iwhile bi old daweWi\u00fe cristen\n                    children ofte he pleide as children wolle\u00fe fawe\u2026\n",
+            "Last Lines": "\n\u2026Elles hi hadde schrewen ibeo for miracle of \u00feulc\n                    childeOf mo miracles me mai telle \u021dut of marie swete &\n                    milde\n",
+            "Note": "\nFolio number reflects the most recent foliation. Space left for enlarged\n                    \u2018A\u2019, which was left blank.",
+            "folio": "ff. 151v-152"
+        },
+        "BLCottJulDIX": {
+            "First Lines": "\nA Iwes child in buterie som time be olde dauewit cristin children ofte pleide os children wollet \u021dut fawe\u2026\n",
+            "Last Lines": "\n\u2026elles hi hadde schreuen ibe for miracle of Vilke childeof mo miracles me mai \u021dut telle of our ladi suete & milde\n",
+            "Note": "\n\u201cCapitulum Ciii\u201d added to right margin by later hand (f. 301v).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Julius MS D IX.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Julius_D_IX. \n",
+            "folio": "ff. 301v-302"
+        },
+        "BLEge2891": {
+            "First Lines": "\nA Giwes child in buturie wile bi olde daweWi\u00fe cristene children ofte pleide as children wolle\u00fe \u021dute fawe\u2026\n",
+            "Last Lines": "\n\u2026Elles hi hadde ssrewen ibeo nere miracle of \u00feulke childeOf mo miracle ichelle \u021dut telle of oure leuedi swete & milde\n",
+            "folio": "ff. 94v-95"
+        },
+        "BLHar2277": {
+            "First Lines": "\nA gywes child in o tyme while bi olde daweWi\u00fe cristene childerne ofte pleide as childerne wolle\u00fe \u021dut fawe\u2026\n",
+            "Last Lines": "\n\u2026Elles hit hadde schrewon ibeo for miracle of \u00feulke childeMeni miracles me mai \u021dut telle of oure leuedi suete & milde\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 2277.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_2277. \n",
+            "Editions": "\nTryon,  Ruth Wilson. \n             \u201cMiracles of Our Lady in Middle English Verse.\u201d \n             PMLA\n         38 (1923): 308-81: 313-14.\n",
+            "folio": "ff. 60v-61"
+        }
+    }
+}

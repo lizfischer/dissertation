@@ -1,0 +1,20 @@
+{
+    "_id": 5651,
+    "_header": "Thirty virtues shall have he",
+    "Note": "mass, virtues of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018The XXX Virtues of the Mass\u2019 \u2014 136 lines in couplets",
+    "_witnesses": {
+        "BodRawPoe32": {
+            "First Lines": "\nxxx vertewis schal haue hethat wolle the masse hire or\n                    se\u2026\n",
+            "Last Lines": "\n\u2026And louyth the masse with alle youre myndeAnd god wolle sende\n                    you a gode ende\n",
+            "folio": "ff. 35v-37v"
+        },
+        "YaleBei317": {
+            "First Lines": "\nThe needes & graces of \u00fee masse beholdeAlle [ ] puple\n                    bothe yonge & oldeAs yn this booke foloweth wryten yn dedeThat yn\n                    youre workes \u00fee bettir ye may spede\u2026\n",
+            "Last Lines": "\n\u2026And \u00feat \u00ferough grace it may so beAlmyghty god\n                    graunte yn trynyte\n",
+            "Note": "\nThirty-four 4-line stanzas (aabb) plus 16-line prologue and 14-line\n                    epilogue.",
+            "folio": "ff. 1v-3v"
+        }
+    }
+}

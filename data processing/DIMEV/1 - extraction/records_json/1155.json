@@ -1,0 +1,47 @@
+{
+    "_id": 1155,
+    "_header": "Drightin dear with blissful bields",
+    "Note": "Sometimes extracted from Cursor Mundi and treated as separate work. Cf. 915.",
+    "Title(s)": "\u2018The Book of Penance\u2019; Cursor Mundi",
+    "Subjects": "penance; religious observance",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018The Book of Penance\u2019 (Prologue and three parts), appended to the Cursor Mundi (3474) in some MSS \u2014 in couplets",
+    "_witnesses": {
+        "BodFair14": {
+            "First Lines": "\nLorde dere wi\u00fe blisful beldis\u00feat al \u00feis werlde with\n                    wilde weldis\u2026\n",
+            "Last Lines": "\n\u2026for alle \u00feat euer festinis wittedrunkenis stailis\n                    hit\u2026\n",
+            "Note": "\nEnds incomplete toward the end of Part II due to loss of\n                    folio(s).",
+            "Attributed Title": "\nA predicacioun of \u00fee fai\u00fe (f. 110vb)",
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 1470-1586.\n",
+            "folio": "ff. 110vb-121vb"
+        },
+        "BodRawPoe175": {
+            "First Lines": "\nAll myghty god \u00feat all has wroghtHeuen & ayre & erth\n                    of noght\u2026\n",
+            "Last Lines": "\n\u2026He graunt vs grace \u00feis to full fyllAnd sythen his blys\n                    to com vn tyll\n",
+            "Note": "\nOpening lines differ.",
+            "Attributed Title": "\nHere bigyns a schort tretyce of schryft (f. 80va)",
+            "folio": "ff. 80va-93rb"
+        },
+        "BlCottGalEIX": {
+            "First Lines": "\nHEre will I tell a schort treticemade of \u00fee seuyn dedly\n                    vice\u2026\n",
+            "Last Lines": "\n\u2026oure blisced fader \u00feou it fulfilland schild vs euer fro\n                    alkinis ill AMEN\n",
+            "Note": "\nLacks Prologue, part I, and lines 1-1456 of part II.",
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 1470-1586.\n",
+            "folio": "ff. 67ra-75ra"
+        },
+        "BLCottVesAIII": {
+            "First Lines": "\n[D]rightin dere wit blisful beildes\u00deat all \u00fee werld wit\n                    wisdom ledes\u2026\n",
+            "Last Lines": "\n\u2026And steres his cristendame froAnd liuers him to \u00fee find\n                    his foo\n",
+            "Note": "\nSpace was left for enlarged initial \u2018D\u2019, which was left\n                    blank.",
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 1470-1586.\n",
+            "folio": "ff. 143ra-163ra"
+        },
+        "GottingenTheo107": {
+            "First Lines": "\ndrightin dere mid blisful beildes\u00feat al \u00feis werld wid\n                    wisdom weildis\u2026\n",
+            "Last Lines": "\n\u2026And \u00fee angels wor[ ] \u00fearOf a sinful re[ ]id\n                    sare\n",
+            "Note": "\nLines 1-83 only. Catchwords \u2018[ ]n of a hundreth sele of\n                    dede\u2019 at bottom indicates once continued; imperfect due to loss of\n                    folios.",
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 1470-1586.\n",
+            "folio": "ff. 169rb-169vb"
+        }
+    }
+}

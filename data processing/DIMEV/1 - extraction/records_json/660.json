@@ -1,0 +1,49 @@
+{
+    "_id": 660,
+    "_header": "As much as gnaws",
+    "Note": "Ringler Jr. (1988)\nXRingler Jr., William A. Bibliography and Index of English Verse Printed 1476-1558. London: Mansell, 1988, TP 178.5.",
+    "Author(s)": "John Trevisa; Virgil; Ranulf Higden",
+    "Title(s)": "Polychronicon",
+    "Subjects": "chronicles, verse in; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Glasgow, Glasgow University Library Hunterian 83 (T.3.21): this is Brut chronicle, not Polychronicon; New York, Pierpont Morgan Library M875 [olim Helmingham Hall]: this is Trevisa\u2019s De Proprietatibus, not Polychronicon; Manchester, Chetham\u2019s Library 11379 [Mun. A.6.90]: this copy of Trevisa\u2019s tran. of Higden\u2019s Polychronicon missing Book II, chapter 18 to Book III, c. chapter 27 once on folios now lost between ff. 74 and 75.",
+    "_description": "A translation of lines in Virgil in Trevisa\u2019s translation of Higden\u2019s Polychronicon (Book II, Cap. 44) \u2014 two couplets",
+    "_witnesses": {
+        "CamStJohn204": {
+            "Transcription": "\nas moche as gnawesbestes Inne\u00fe dawesSo moche eft\n                    bringe\u00fedew cold in a ny\u021dt\n",
+            "Editions": "\nBabington,  Churchill,  and  Joseph Rawson Lumby, eds.  \n             Polychronicon Ranulphi Higden Monachi Cestrensis.\n             9 vols. \n             Rolls Series\n         41 (1865-66; repr. Kraus, 1964): 2.39.\n",
+            "folio": "f. 66ra"
+        },
+        "BLAdd24194": {
+            "Transcription": "\nAs mech as gnawesbestes longe Inne\u00fe dawes\n",
+            "folio": "f. 67vb"
+        },
+        "BLCottTibDVII": {
+            "Transcription": "\nAs moche as gnawesbestes long in \u00fee dawesso moche eft\n                    brynge\u00fedeu cold wel schort in a ny\u021dt\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 40v"
+        },
+        "BLHar1900": {
+            "Transcription": "\nAs myche as gnawesbestes long Inne\u00fee dawesSo myche efte\n                    brynge\u00fedewe colde in a ny\u021dt\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 79v"
+        },
+        "BLSto65": {
+            "Transcription": "\nAs muche as gnawesbestis longe inne \u00fee dawesSo muche eft\n                    brynge\u00fedew coold wel schort in a ni\u021dte\n",
+            "Note": "\nWritten as prose. Folio number reflects the most recent\n                    foliation.",
+            "folio": "f. 30ra"
+        },
+        "AbeUL21": {
+            "Transcription": "\nas moche as gnawes longe jnne\u00fe dawes so moche eft\n                    bryngi\u00fe dew cold in a ny\u021dt\n",
+            "folio": "f. 42rb"
+        },
+        "HunHM28561": {
+            "Transcription": "\nas myche as gnawesbestes longe Inne \u00fee dawesSo myche este\n                    bringe\u00fedewe colde in a ny\u021dt\n",
+            "Note": "\nWritten as prose in Polychronicon, Book I, cap. 44.",
+            "folio": "f. 76rb"
+        },
+        "Schoyen194": {
+            "folio": ""
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "_id": 856,
+    "_header": "Black beth thy banks thy ripes also",
+    "Subjects": "chronicles, verse in; illustrations, verse accompanying; Scotland",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Verses appended to Hardyng\u2019s Chronicle (1174), on the four infernal rivers surrounding a castle (the devil\u2019s fortress) in a map of Scotland (equated with Hades) \u2014 three stanzas rhyme royal based on 855",
+    "_witnesses": {
+        "BodArcSelB10": {
+            "First Lines": "\nBlak be thy bankes and thy Ripes alsoThow sorowfulo se ful of\n                    stremes blak\u2026\n",
+            "Last Lines": "\n\u2026The souner must they meked be and tamedWilde hawkes to hand\n                    than hennys rather be reclaimed\n",
+            "Editions": "\nPeterson,  Clifford. \n             \u201cJohn Harding and Geoffrey of Monmouth: Two Unrecorded Poems and a\n                Manuscript.\u201d \n             Notes and Queries\n         n.s. 27 [225] (1980): 202-4: 202-3.\n",
+            "folio": "f. 185"
+        },
+        "BLHar661": {
+            "First Lines": "\nBlak been thi bankes and thi ripes alsoThou sorowfull see full of\n                    stremys blak\u2026\n",
+            "Last Lines": "\n\u2026The soner muste \u00feei be meked & tamedWilde haukes to\n                    hande \u00fean hennys ra\u00feer been reclaymed\n",
+            "Note": "\nAppended to Hardyng\u2019s Chronicle above and within a drawing\n                    of a castle, all ritten in rubric.",
+            "Editions": "\nEllis,  Sir Henry,\n                        ed.  \n             The Chronicle of John Hardyng.\n         London: Rivington, 1812: 419-20.\n",
+            "folio": "f. 188"
+        },
+        "HarEng1054": {
+            "First Lines": "\nBlak beth bankes and \u00fee Rypes AlsoThow sorowfull se ful of\n                    stremes blakWher Pluto kynge of helles regneth in woIn hys palais of\n                    pride with bostes and crak\u2026\n",
+            "Last Lines": "\n\u2026\u00dee souner must thay meked be and tamedWilde hawkes to\n                    hand \u00fean hennys \u00fee ra\u00feer be reclamed\n",
+            "Note": "\nSecond and third stanzas written as prose.",
+            "folio": "f. 138"
+        }
+    }
+}

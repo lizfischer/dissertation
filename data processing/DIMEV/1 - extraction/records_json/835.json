@@ -1,0 +1,66 @@
+{
+    "_id": 835,
+    "_header": "Better is to suffer and fortune abide",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 267; Ringler Jr. (1988)\nXRingler Jr., William A. Bibliography and Index of English Verse Printed 1476-1558. London: Mansell, 1988, TP 241.5; also = lines 9-10 of 6621.7; and concluding couplet of 5112; this list also includes formerly separate 512.8.",
+    "Subjects": "aphorisms",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Golden Mean \u2014 a couplet",
+    "_witnesses": {
+        "BodFair16": {
+            "Transcription": "\nBetter is to suffre and fortune abydeAnd hastely to clymbe and\n                    sodeynly to slyde\n",
+            "Note": "\nWritten as separate text between the end of 2262 and the beginning of 3190.",
+            "Facsimiles": "\nNorton-Smith,  John. \n             \u201cIntroduction.\u201d \n             Bodleian Library MS Fairfax 16.\n         London: Scolar Press, 1979. \n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967: 425.\n",
+            "folio": "f. 194"
+        },
+        "BodLauMis108": {
+            "Transcription": "\nBetter ys to suffre and fortune abide\u00dean hastyly falle &\n                    so\u00feenly slyde\n",
+            "Note": "\nFollows 779 and 1833.",
+            "folio": "f. 238v"
+        },
+        "OxfBal354": {
+            "Transcription": "\nBetter yt ys suffre & fortune to abydeThan hastely to clyme &\n                    sodeynly to slyde\n",
+            "Note": "\nIn a collection of six proverbial couplets: 6621.7, 5794, 2662, 3009.",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 139.\n",
+            "folio": "p. 3415"
+        },
+        "BLHar665": {
+            "Transcription": "\nBetter it is tarye and fortun to abydThen hastely to clymbe and Sodenly to slydeBetter it is a poere housoulde  then to hym fetters of goulde\n",
+            "Note": "\nFour lines.",
+            "folio": "f. 281"
+        },
+        "BLRoy17Dvi": {
+            "Transcription": "\nBetter yt ys to\u2026\n",
+            "Note": "\nIncomplete; added to back flyleaf.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Royal MS 17 D VI.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Royal_MS_17_D_VI. \n",
+            "folio": "f. 150v2"
+        },
+        "BL1379a27": {
+            "Note": "\nMarginal addition in a printed book.",
+            "folio": "sig. L.i"
+        },
+        "NLWPen356": {
+            "folio": "p. 196"
+        },
+        "BrechinSTC3215": {
+            "Transcription": "\nBetter it is fortoun to abydThan haistilie to clim and sudenly to\n                    slyd\n",
+            "Note": "\nIn a sixteenth-century hand scribbled in the inner margin, and again\n                    same page, outer margin (partly cropped), with other later texts on next page by\n                    same hand, all ed. Ritchie.",
+            "Editions": "\nRitchie,  Robert Lindsay Graeme,\n                        ed.  \n             The Buik of Alexander.\n             4 vols. \n             Scottish Text Society\n         n.s. 12 (1925), 17 (1921), 21 (1927), 25 (1929) Edinburgh, London:\n            Blackwood, 1921-29: 2.xviii.\n",
+            "folio": "sig. E.viiia"
+        },
+        "DULCosViii9": {
+            "Transcription": "\nBetter hyt hys serten to abydethen hastly to clym and hastly to\n                    clyde\n",
+            "Note": "\nAdded upside-down to lower margin by John Hancok, who also copied 1912,\n                        3010, 4131, 5708.",
+            "Facsimiles": "\nBurrow,  John,  and  A. I. Doyle, eds.  \n             Thomas Hoccleve: A Facsimile of the Autograph Verse\n                Manuscripts.\nEETS\n         s.s. 19 (2002). \n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.   Hoccleve\u2019s Works: The Minor Poems. vol. 1.  EETS\n         e.s. 61 (1892); repr. with Gollancz (1925)\nXGollancz,  Israel. \n             Hoccleve\u2019s Works: The Minor Poems. vol. 2.  EETS\n         e.s. 73 (1925); repr. with 61, 1970 73; rev. J.\n            Mitchell and A. Ian Doyle, 1970: 228.\n",
+            "folio": "f. 85v"
+        },
+        "Banna": {
+            "Transcription": "\nBettir is to suffer and fortoun abydThan haistely to clym and\n                    soddonly to slyd\n",
+            "Note": "\nThird occurrence in MS; immediately preceded by 418; signed \u2018quod quhay to quhome\u2019 (f.\n                    147).",
+            "Facsimiles": "\nFox,  Denton,  and  William A. Ringler.  \n             The Bannatyne Manuscript: National Library of Scotland Advocates\u2019\n                MS. 1.1.6\n         London: Scolar Press, in Association with The National Library of\n            Scotland, 1980. \n",
+            "folio": "f. 147"
+        }
+    }
+}

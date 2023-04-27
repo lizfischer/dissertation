@@ -1,0 +1,28 @@
+{
+    "_id": 4244,
+    "_header": "Oft bringeth on day",
+    "Note": "Cf. Smith (1935)\nXSmith, William George. The Oxford Dictionary of English Proverbs. Oxford: Clarendon, 1935; rev. ed. 1948.",
+    "Subjects": "proverbs; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Oxford, Bodleian Library Rawlinson C.641 (SC 12487). f. 13v: Formerly listed as in Oxford, Bodleian Library Digby 53 (SC 1654); Hamer (1995)\nXHamer, Richard. A Manuscript Index to the Index of Middle English Verse. London: British Library, 1995 changes to Oxford, Bodleian Library Rawlinson C.641 (SC 12487), but not found in this MS.",
+    "_description": "A proverb similar to modern \u2018what a difference a day makes\u2019 \u2014 one couplet, translating Latin, \u2018Sepe dat vna dies quod non dat circulus anni\u2019",
+    "_witnesses": {
+        "BodDou52": {
+            "Transcription": "\nOft bryngeth on day\u00feat all \u00fee \u021dere not may\n",
+            "Editions": "\n\nF\u00f6rster,  Max. \n             \u201cFr\u00fchmittelenglische Sprichw\u00f6rter.\u201d \n             Englische Studien\n         31 (1902): 1-20: 16.\nF\u00f6rster,  Max. \n             \u201cDie Mittelenglische Sprichw\u00f6rtersammlung in Douce 52.\u201d \n             Festschrift zum XII Deutschen Neuphilolgentage in M\u00fcnchen\n                1906.\n            E. Stollreither, ed. \n         Erlangen (1906): 40-64: 44.\n\n",
+            "folio": "f. 13v"
+        },
+        "BodRawC641": {
+            "Transcription": "\nOn dai bringd, thet al ier ne mai\n",
+            "Note": "\nfollowed by the Latin \u2018Quod donare mora nequit annua, dat\n                        brevis hora. / Anno cura datur, tamen una dies operatur\u2019. Variant\n                    text?",
+            "Editions": "\nF\u00f6rster,  Max. \n             \u201cFr\u00fchmittelenglische Sprichw\u00f6rter.\u201d \n             Englische Studien\n         31 (1902): 1-20: 16.\n",
+            "folio": "f. 13v"
+        },
+        "RylandsLat394": {
+            "Transcription": "\nOfte bryngeth o day\u00feat after alle \u00fee \u021dere ne\n                    may\n",
+            "Note": "\nFollowed by Latin which it translates.",
+            "Editions": "\nPantin,  William A. \n             \u201cA Medieval Collection of Latin and English Proverbs\u2026from Rylands\n                Latin MS. 394.\u201d \n             Bulletin of the John Rylands Library\n         14 (1930): 81-114: 95.\n",
+            "folio": "f. 6"
+        }
+    }
+}

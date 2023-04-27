@@ -1,0 +1,15 @@
+{
+    "_id": 1964,
+    "_header": "Here endeth the book / Of virtue and of sin",
+    "Title(s)": "Speculum Vitae",
+    "Subjects": "colophons",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "Colophon to the Speculum Vitae (423), which immediately precedes \u2014 two cross-rhymed quatrains joined with rhyming tails",
+    "_witnesses": {
+        "TCD423": {
+            "First Lines": "\nHere endi\u00fe \u00fee bookOf vertu and of\n                    Synne\u2026\n",
+            "Last Lines": "\n\u2026And for hys synne wepe& in hys hert rewe\n",
+            "folio": "f. 103"
+        }
+    }
+}

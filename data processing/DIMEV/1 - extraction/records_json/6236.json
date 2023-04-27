@@ -1,0 +1,21 @@
+{
+    "_id": 6236,
+    "_header": "What is this world but only vanity",
+    "Subjects": "transitoriness, of world",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "A warning against the uncertainties of this world \u2014 one stanza rhyme royal",
+    "_witnesses": {
+        "BodDou45": {
+            "First Lines": "\nWhat is this worlde but oonly vanyteWho trustith fortune sounest\n                    hath a falle\u2026\n",
+            "Last Lines": "\n\u2026Is to thynk on welth \u00feat is gon and pastAnd in olde age\n                    in mysery tobe cast\n",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 260.\nOliver,  Raymond. \n             Poems Without Names: The English Lyric 1200-1500.\n         Berkeley, CA: University of California, 1970: 90.\n\n",
+            "folio": "ff. 115v-116"
+        },
+        "BLRoy17Dvi": {
+            "Transcription": "\nWhat is this worlde but oonly vaniteWho trusteth fortune sannest hath a falleEueri man beware of prodigalite\u2026\n",
+            "Note": "\nThese three lines only; same three lines repeated by a later hand below; added to front flyleaf.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Royal MS 17 D VI.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Royal_MS_17_D_VI. \n",
+            "folio": "f. 1v1"
+        }
+    }
+}

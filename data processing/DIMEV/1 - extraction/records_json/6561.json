@@ -1,0 +1,37 @@
+{
+    "_id": 6561,
+    "_header": "Who shall give unto mine head a well",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018A lamentacioun of our lady Maria\u2019",
+    "Subjects": "Virgin Mary, lament of",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, \u2018A lamentacioun of our lady Maria\u2019 \u2014 in 8-line stanzas (ababbcbc) with varying refrain",
+    "_witnesses": {
+        "BodLauMis683": {
+            "First Lines": "\nWho shal yeve vn to myn hed a welleof bitter terys my sorwys to\n                    compleyne\u2026\n",
+            "Last Lines": "\n\u2026But shewe to them his mercy and his graceThat for ther love\n                    was naylled to a tre\n",
+            "Attributed Title": "\nHEre begynneth a lamentacioun of our lady (f. 78)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 324-9.\n",
+            "folio": "ff. 78-81"
+        },
+        "OxfStJohn56": {
+            "folio": "f. 73v"
+        },
+        "CamJes56": {
+            "folio": "f. 19v"
+        },
+        "BLHar2251": {
+            "First Lines": "\nWho shal gyve vnto my hede a welleOf bitter teeris my sorw to\n                    compleyne\u2026\n",
+            "Last Lines": "\n\u2026But shew to the his mercy and his graceThat for theyr love\n                    was nayled to a tre\n",
+            "Attributed Title": "\nQuis dabit capiti meo fontem lacarimus (f. 42v)",
+            "folio": "ff. 42v-44v"
+        },
+        "BLHar2255": {
+            "First Lines": "\nWho shal give vnto myn heed a welleOf bittir teerys my sorwes to\n                    compleyne\u2026\n",
+            "Last Lines": "\n\u2026but shewe to them his mercy and his graceThat for ther love\n                    was nailed to a tre\n",
+            "Attributed Title": "\nQuis dabit capiti / meo fontem lacarimus (f. 66v, in\n                    margin, in rubric)",
+            "Editions": "\nHolthausen,  Ferdinand. \n             Liebe des Vokes: eine Festschrift zum sechzij\u00e4hrigen Jubil\u00e4um\n                der\u2026Franz Joseph I.\n            Karl Gerstenberger von Reichsegg, ed. \n         Vienna, 1908. \n",
+            "folio": "ff. 66v-70v"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "_id": 2784,
+    "_header": "Jankin by name",
+    "Subjects": "scribes; bookplates",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "A Book tag \u2014 four lines",
+    "_witnesses": {
+        "OxfQueens383": {
+            "Transcription": "\nJenkyn by nameCalf wroote that here is biforeSchild hym fro\n                    blameGod \u00feat for man was y bore\n",
+            "Editions": "\n\nCoxe,  Henry Octavius. \n             Catalogus codicum mss. qui in collegiis aulisque\n                oxoniensibus\u2026.\n         Oxon: e Typographeo academico, 1852: 89.\nBowers,  Robert Hood,\n                        ed.  \n             The Gast of Gy.\n         Leipzig: B. Tauchnitz, 1938: 41.\n\n",
+            "folio": "f. 162v"
+        }
+    }
+}

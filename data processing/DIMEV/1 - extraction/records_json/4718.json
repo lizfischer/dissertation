@@ -1,0 +1,21 @@
+{
+    "_id": 4718,
+    "_header": "Saint Matthew the apostle of Christ",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel; Matthew, saint",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018In festo Sancti Mathei appostoli et euangeliste historia\u2019 in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 263va"
+        },
+        "BLHar4196": {
+            "First Lines": "\nSaint Mathew \u00fee appostell of crist\u00feat named es Ewangelist\u2026\n",
+            "Last Lines": "\n\u2026and folow we crist for heuen blisalweldand god \u00feat wai us uis\n",
+            "Note": "\nEnds \u201cAMEN.\u201d",
+            "Attributed Title": "\nIn festo sancti Mathei Appostoli et euangelis historia (rubric, f. 179ra)",
+            "Editions": "\nHorstmann,  Carl. \n             Altenglische Legenden: Neue Folge.\n         Heilbronn: Henninger, 1881: 131-7.\n",
+            "folio": "ff. 179ra-181va"
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "_id": 1980,
+    "_header": "Here is an herb men call lunary",
+    "Note": "For a Latin version see London, British Library Sloane 692, f. 79; and for an English prose version see London, British Library Harley 2407, f. 5v.",
+    "Subjects": "alchemy",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "An alchemical poem on the herb \u2018Lunary\u2019 (Moonwort) \u2014 twenty-two couplets; see Singer (1928)\nXSinger, Dorothea Waley. Catalogue of Latin and Vernacular Alchemical Manuscripts. 3 vols. Brussels: Lamertin, 1928-31, 853.",
+    "_witnesses": {
+        "CamTCC1137": {
+            "First Lines": "\nThere is an hearbe men call lunaireI blessed might his maker\n                    be\u2026\n",
+            "Last Lines": "\n\u2026and of his mother yt is so freeAmen good lord for\n                    charitye\n",
+            "folio": "Part I, ff. 24-24v"
+        },
+        "BLHar2407": {
+            "First Lines": "\nHer ys an erbe men calle lunayrieIblesset mowte hys maker bee\u2026\n",
+            "Last Lines": "\n\u2026and of hys modere that ys so freeamen good lord for cherite\n",
+            "folio": "ff. 7-7v"
+        },
+        "BLSl1098": {
+            "Note": "\n40 lines.",
+            "Editions": "\nAshmole,  Elias. \n             Theatrum Chemicum Britannicum.\n         London: J. Grimond, 1652: 348-9.\n",
+            "folio": "f. 9"
+        },
+        "YaleBeiOsfa16": {
+            "First Lines": "\nThere is a herbe \u00feat men call lunariBlesed may his maker\n                    be\u2026\n",
+            "Last Lines": "\n\u2026to wich blis god bryng the & meAmen for\n                    charite\n",
+            "Note": "\nPage numbered \u201840\u2019; written by a sixteenth-century hand;\n                    ends \u2018Explicit\u2019.",
+            "folio": "f. 4va"
+        }
+    }
+}

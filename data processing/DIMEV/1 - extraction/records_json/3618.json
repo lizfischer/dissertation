@@ -1,0 +1,27 @@
+{
+    "_id": 3618,
+    "_header": "My ladies and my mistresses each one",
+    "Note": "For one stanza occurring separately see 6543; cf. Dodsley (1827)\nXDodsley, Robert. A Select Collection of Old Plays. 12 vols. London: H. Nichols, 1780, 1827, 12.308.",
+    "Title(s)": "Ragmanys Rolle",
+    "Subjects": "women, praise of; women, good qualities of; old age, praise of; marriage",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "Ragmanys Rolle \u2014 208 lines in twenty-six 8-line stanzas",
+    "_witnesses": {
+        "Bod638": {
+            "First Lines": "\nMy ladies & my mastressys echonlike hit vnto youre humble\n                    womanhede\u2026\n",
+            "Last Lines": "\n\u2026And yn the Rolle last as yn wrytyngeI rede that this game\n                    ende yn youre hood\n",
+            "Attributed Title": "\nRagmanys Rolle (scribal, 214v, RT); Explicit Ragmanys Rolle\n                    (scribal, 218v)",
+            "Facsimiles": "\nRobinson,  Pamela. \n             \u201cIntroduction.\u201d \n             Manuscript Bodley 638: A Facsimile.\n         Norman, OK: Pilgrim, and Woodbridge: Boydell and Brewer, 1982. \n",
+            "Editions": "\nFreudenberger,  Andreas,\n                        ed.  \n             Ragman Roll: Ein sp\u00e4tmittelenglisches Gedicht.\n         Erlangen: K.B. Hof, 1909: 2-16.\n",
+            "folio": "ff. 214v-218v"
+        },
+        "BodFair16": {
+            "First Lines": "\nMy ladyes and my maistresses echonelyke hit vnto your humbyble\n                    wommanhede\u2026\n",
+            "Last Lines": "\n\u2026and in the rolle last as in wrytyngeI rede that this game\n                    ende in your hood\n",
+            "Attributed Title": "\nHere begynnyth Ragman roell (f. 47); Explicit Ragman roell (f.\n                    50)",
+            "Facsimiles": "\nNorton-Smith,  John. \n             \u201cIntroduction.\u201d \n             Bodleian Library MS Fairfax 16.\n         London: Scolar Press, 1979. \n",
+            "Editions": "\n\nDodsley,  Robert,\n                        ed.  \n             A Select Collection of Old Plays.\n         12 vols. London: H. Nichols, 1780, 1827: 12.308.\nWright,  Thomas. \n             Anecdota Literaria.\n         London: John Russell Smith, 1844: 83.\nHazlitt,  William Carew. \n             Remains of the Early Popular Poetry of England.\n         London: J. R. Smith, 1864-6: 1.69-78.\nFreudenberger,  Andreas,\n                        ed.  \n             Ragman Roll: Ein sp\u00e4tmittelenglisches Gedicht.\n         Erlangen: K.B. Hof, 1909: 2-16.\n\n",
+            "folio": "ff. 47-50"
+        }
+    }
+}

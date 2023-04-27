@@ -1,0 +1,40 @@
+{
+    "_id": 6302,
+    "_header": "When M.CCCCC together be knit",
+    "Note": "\u2018Declaratio\u2019 is 5375.",
+    "Title(s)": "\u2018Prophetia Regis Anglie\u2019",
+    "Subjects": "Merlin; prophecies, political",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018Prophetia Regis Anglie\u2019, the Prophecy of Merlyon of the conquest of France \u2014 26 couplets",
+    "_witnesses": {
+        "BLHar2338": {
+            "First Lines": "\nWhanne M & ccccc togedre be knetand xxx & vi with hem are met\u2026\n",
+            "Last Lines": "\n\u2026This manys sone all n[\u00a0\u00a0\u00a0]Aboute all \u00fee werd in [\u00a0\u00a0\u00a0]y\u2026\n",
+            "Note": "\nEighteen lines only, ends incomplete; incorporates 5375 as second half.",
+            "Attributed Title": "\nProphetia Regis Anglie (rubric, f. 28v)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 2338.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_2338. \n",
+            "folio": "f. 28v"
+        },
+        "BLLan762": {
+            "Note": "\n52 lines.",
+            "Editions": "\nScattergood,  V. John. \n             Politics and Poetry in the Fifteenth Century.\n         London: Blandford Press, 1971: 383-5.\n",
+            "folio": "ff. 52r2-53v"
+        },
+        "BodArcSelB8": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 216.",
+            "folio": "ff. 296-296v"
+        },
+        "BodRawC813": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 216.",
+            "folio": "ff. 104v-105"
+        },
+        "BodRawD1062": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 216.",
+            "folio": "ff. 117v-118"
+        },
+        "BodAsh241": {
+            "Note": "\n\u201c[M]id-seventeenth c.\u201d See Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 216.",
+            "folio": "ff. 203-204"
+        }
+    }
+}

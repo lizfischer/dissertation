@@ -1,0 +1,23 @@
+{
+    "_id": 2385,
+    "_header": "If that lorel lords this understood",
+    "Subjects": "clergy, criticism/satire of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A treatise in reproof of worldiness in the clergy",
+    "_witnesses": {
+        "BodeMus198": {
+            "First Lines": "\nGif \u00feat lorel lordes \u00feis understodeAnd \u00feise\n                    bisshoppis \u00feat cunne litel gode\u2026\n",
+            "Last Lines": "\n\u2026\u00feat to houre lyf is ful profitable[ ] oure soule\n                    amendable\n",
+            "Note": "\n126 lines; the poem in this MS is not incorporated into the Prick of\n                        Conscience: Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943 confuses it with the copy in Oxford,  Bodleian Library Ashmole 60 (SC 6922); the text is very faded and at places completely\n                    unreadable.",
+            "Editions": "\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             The Thornton Romances: The Early English Metrical Romances of Perceval,\n                Isumbras, Eglamour, and Degrevant.\nCamden Society\n         o.s. 30 (1844); repr. F.S. Ellis, Kelmscott Press, 1897: 259-61 (latter portion only).\n",
+            "folio": "ff. 172-173v"
+        },
+        "BodAsh60": {
+            "First Lines": "\n\u021dif lorel lordis \u00feis vnderstode And \u00feise bischopis\n                    \u00feat kunnen litil goodeAnd \u00feise conkunnynge abbotis and\n                    priourisAnd many othere rekles doctouris\u2026\n",
+            "Last Lines": "\n\u2026ffor \u00feer is difference as y weneBytwene techyng and\n                    prechyng euene\n",
+            "Note": "\n212 lines; at the beginning of the MS there are four extracts (18\n                    couplets on f. 1; 26 couplets on ff. 1v-2; 29 couplets and one line\n                    on ff. 3-3v, 50 couplets on ff. 4-5; 43 couplets on ff.\n                        6-7v) intermixed with Latin prose; extract on f. 3v is\n                    incomplete because of missing leaf.",
+            "Editions": "\n\nFurnivall,  Frederick James. \n             Ballads from Manuscripts.\n         London: Ballad Society, 1863; repr. New York: AMS, 1968: 1.63.\nAllen,  Hope Emily. \n             Writings Attributed to Richard Rolle.\n         New York: Modern Language Association of America, 1927: 391-2 (extracts).\n\n",
+            "folio": "ff. 1-7v"
+        }
+    }
+}

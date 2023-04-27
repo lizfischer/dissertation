@@ -1,0 +1,36 @@
+{
+    "_id": 4979,
+    "_header": "Some time in Rome a pope there was",
+    "Note": "For other versions, cf. 134, 762, 2777, and 4980.",
+    "Title(s)": "Trentalle Sancti Gregorii",
+    "Subjects": "tales; Gregory, saint",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The trental of Saint Gregory \u2014 101 couplets",
+    "_witnesses": {
+        "CULKk16": {
+            "First Lines": "\nSum tyme in rome a pope \u00feer wasthat hadde a moder fayre of\n                    face\u2026\n",
+            "Last Lines": "\n\u2026fowre aungellys he sey with her gooIn to blysse there god\n                    bryng ows to\n",
+            "Note": "\nEnds, \u2018Explicit quod Rycardus ffox\u2019 (f.\n                        245v)",
+            "Editions": "\nKaufmann,  Albert. \n             Trentalle Sancti Gregorii; eine mittelenglische Legende.\nErlanger Beitr\u00e4ge\n         3. Erlangen and Leipzig: Deichert, 1889: 25.\n",
+            "folio": "ff. 242v-245v"
+        },
+        "BLHar3810": {
+            "First Lines": "\nSum tyme in rome a pope ther was\u00feat had a moder fayre of face\u2026\n",
+            "Last Lines": "\n\u2026And that it so may beIhesu of pyte thow graunte it me\n",
+            "Editions": "\nJordan,  Richard. \n             \u201cDas \u2018Trentalle Gregorii\u2019 in der Handschrift Harley\n                3810.\u201d \n             Englische Studien\n         40 (1909): 351-71: 351.\n",
+            "folio": "Part I. ff. 76v-84v"
+        },
+        "NLWPork20": {
+            "folio": "f. 94"
+        },
+        "NLS1931": {
+            "First Lines": "\nSome tyme in rome a pope \u00feer was\u00feat hade a modur ffull\n                    fayre of face\u2026\n",
+            "Last Lines": "\n\u2026here endes \u00fee trentall of gergoriGod of oure soles haue\n                    merci\n",
+            "Note": "\nFollowed by 762.",
+            "Attributed Title": "\nExplycyt trentalle sancti gregorii (f. 216)",
+            "Facsimiles": "\nHardman,  Phillipa. \n             The Heege Manuscript: A Facsimile of National Library of Scotland MS\n                Advocates 19.3.1.\n         Leeds Texts and Monographs, n.s. 16. Leeds: School of English,\n            2000. \n",
+            "Editions": "\n\nTurnbull,  William Barclay David Donald,\n                        ed.  \n             The Visions of Tundale.\n         Edinburgh: T.G. Stevenson, 1843: 77-83.\nKaufmann,  Albert. \n             Trentalle Sancti Gregorii; eine mittelenglische Legende.\nErlanger Beitr\u00e4ge\n         3. Erlangen and Leipzig: Deichert, 1889: 25.\nB\u00fclbring,  Karl Daniel. \n             \u201cDas \u2018Trentalle Sancti Gregorii\u2019 in der Edinburgher\n                Handschrift.\u201d \n             Anglia\n         13 (1891): 301-08: 303-8.\n\n",
+            "folio": "ff. 213-216"
+        }
+    }
+}

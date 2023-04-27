@@ -1,0 +1,22 @@
+{
+    "_id": 637,
+    "_header": "As I went through a garden green",
+    "Subjects": "Nativity; Mary; songs",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "Macaronic": "Latin",
+    "_description": "Verbum caro factum est, the Virgin Mary\u2019s song of the Nativity \u2014 seven 8-line stanzas including this Latin refrain",
+    "_witnesses": {
+        "BLSl2593": {
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             Songs and Carols.\nWarton Club\n         4. London: Richards, 1856: 53-5.\nFehr,  Bernhard. \n             \u201cDie Lieder des HS. Sloane 2593.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         109 (1902): 33-72: 58.\nRickert,  Edith,\n                        ed.  \n             Ancient English Christmas Carols.\n         London: Chatto & Windus, 1910: 174-6.\n\n",
+            "folio": "f. 18v"
+        },
+        "NLS1931": {
+            "First Lines": "\naS I paddis \u00feoru a garden greneI fond a herbere made full\n                    newe\u2026\n",
+            "Last Lines": "\n\u2026ffor I hard when sche sange & saidVerbum caro factum\n                        est\n\n",
+            "Attributed Title": "\nVerbum caro factum est (f. 94v)",
+            "Facsimiles": "\nHardman,  Phillipa. \n             The Heege Manuscript: A Facsimile of National Library of Scotland MS\n                Advocates 19.3.1.\n         Leeds Texts and Monographs, n.s. 16. Leeds: School of English,\n            2000. \n",
+            "Editions": "\n\nTurnbull,  William Barclay David Donald,\n                        ed.  \n             The Visions of Tundale.\n         Edinburgh: T.G. Stevenson, 1843: 157-9.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 115-17.\nStevick,  Robert D.,\n                        ed.  \n             One Hundred Middle English Lyrics.\n         Indianapolis: Bobbs-Merrill, 1964: 108-10.\nSaupe,  Karen,\n                        ed.  \n             Middle English Marian\n                    Lyrics.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1998: 78-80; 203-6.\n\n",
+            "folio": "ff. 94v-95v"
+        }
+    }
+}

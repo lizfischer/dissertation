@@ -1,0 +1,44 @@
+{
+    "_id": 4522,
+    "_header": "S missed in the middle and mark there a P",
+    "Title(s)": "The Ireland Prophecy",
+    "Subjects": "prophesies, political; political poems",
+    "Versification": "\u2014 alliteration",
+    "_description": "An alliterative political prophecy",
+    "_witnesses": {
+        "BLCottRollsII23": {
+            "First Lines": "\nS mysed in myndes and marke \u00feere a PS set by hem self savand a\n                    I\u2026\n",
+            "Last Lines": "\n\u2026And of cristen coown[?] mon he berehethenes mon haly holde at\n                    his will\n",
+            "Note": "\n36-line version",
+            "folio": "a roll, Art. 14"
+        },
+        "BLAdd24663": {
+            "Note": "\n86-line version. Late sixteenth century.",
+            "folio": "ff. 14v-16"
+        },
+        "SocAnt101": {
+            "First Lines": "\nS misid in \u00fee middes in merked A Pthe toth correctid in\n                        ther\nthaire tides mikel tene\u2026\n",
+            "Last Lines": "\n\u2026Of all cristyne crowne must he bereAnd hethenesse must hooly\n                    hold as he wille\n",
+            "Note": "\n82-line version. Late fifteenth century.",
+            "Editions": "\nWeiskott,  Eric. \n             \u201c The Ireland Prophecy: Text and Metrical Context.\u201d \n             Studies in Philology\n         117 (2017): 245-7: 257-63 (critical edition).\n",
+            "folio": "f. 72v"
+        },
+        "NLWPen26": {
+            "First Lines": "\nAs I mused in my dys meckyll towart\u2026\n",
+            "Note": "\n56-line version. Late fifteenth century. Formerly listed as 621.",
+            "folio": "pp. 112-113"
+        },
+        "NLWPen94": {
+            "Note": "\n56-line version. Late sixteenth/early seventeenth century.",
+            "folio": "pp. 258-259"
+        },
+        "NLWAd.441C": {
+            "Note": "\n86-line version. Sixteenth century.",
+            "folio": "pp. 34-35"
+        },
+        "NLWLan119": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 213.",
+            "folio": "p. 179"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "_id": 813,
+    "_header": "Behold this great Prince Edward the Second",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 25.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Of the Sodein Fal of Princes in oure Dayes\u2019",
+    "Subjects": "princes, fall of; political verse; Edward II, death of; Richard II; Thomas, Duke of Gloucester; Louis, duke of Orleans; Robert de Vere, duke of Ireland (1386-88); John, Duke of Burgundy; Charles VII, King of France",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lydgate, \u2018Of the Sodein Fal of Princes in oure Dayes\u2019 \u2014 seven stanzas rhyme royal",
+    "_witnesses": {
+        "CamTCC600": {
+            "First Lines": "\nBeholde \u00feis gret prynce Edwarde \u00fee secoundeWhich of\n                    diuers landes lord was and KyngBut so governed was he nowe\n                    vnderstondeBy suche as caused foule his vndoyng\u2026\n",
+            "Last Lines": "\n\u2026And his destrucioun if I shal not lyeffor bouned he was and\n                    did in meschef dye\n",
+            "Attributed Title": "\nHere folowen seven balades made by daun John Lydegate of \u00fee sodeine\n                    fal of certain princes of ffrance and Englande nowe late in oure dayes (p. 359);\n                    \u00dee fal of Prynces (RT)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 660-1.\n",
+            "folio": "pp. 359-361"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nbe holde thys greate prynce edward \u00fee secondewhich of diuers\n                    landes lord was and kynge\u2026\n",
+            "Last Lines": "\n\u2026and his distruccyon If I shall not lyeffor bourned he was and\n                    did in myscheffe dye\n",
+            "Attributed Author": "\ndane Iohn lydgate (f. 169)",
+            "Attributed Title": "\nHere foloweth seuen balades mad by dane Iohn lydgate of \u00fee sodeine\n                    fall of certayne princes of ffraunce and engelond now late in our dayes (f.\n                    169)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 660-1.\n",
+            "folio": "ff. 169-169v"
+        },
+        "BLHar2251": {
+            "First Lines": "\nBEholde this grete prynce Edward the secundeWhiche of dyuers landes\n                    lord was and kyng\u2026\n",
+            "Last Lines": "\n\u2026And his distruccioun If i shal nat lyeffor banned he was and\n                    dide in myschief dye\n",
+            "Editions": "\n\nHammond,  Eleanor Prescott. \n             \u201cTwo Tapestry Poems by Lydgate: the Life of St. George and the Falls of\n                Seven Princes.\u201d \n             Englische Studie\n         43 (1910-11): 10-26. \nRobbins,  Rossell Hope,\n                        ed.  \n             Historical Poems of the XIV and XV Centuries.\n         New York: Columbia UP, 1959: 174-5.\n\n",
+            "folio": "ff. 228-228v"
+        }
+    }
+}

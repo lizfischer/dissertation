@@ -1,0 +1,32 @@
+{
+    "_id": 1816,
+    "_header": "Having a conceit in my simple wit",
+    "Author(s)": "John Lydgate",
+    "Subjects": "scripture texts, commentary on; envoys",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, \u2018De Profundis\u2019 \u2014 twenty-one 8-line stanzas (ababbcbc) including envoy",
+    "_witnesses": {
+        "BodLauMis683": {
+            "First Lines": "\nHauyng a conseit in my sympill wytWich of newe ys come to\n                    memorye\u2026\n",
+            "Last Lines": "\n\u2026maugre the malys of Infernal dirknessisschal them conveie in\n                    to thy regne of glorye\n",
+            "Note": "\nLacks stanzas 20-21.",
+            "Attributed Title": "\nHere begynnyth Deprofundis in Englyssh (f. 8)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 77-84 (with st. 20-21 from London,  British Library Harley 2255).\n",
+            "folio": "ff. 8-11v"
+        },
+        "CamJes56": {
+            "First Lines": "\n[H]auyng a conceyte in my symple witeWhich of newe is come to\n                    mencion\u2026\n",
+            "Last Lines": "\n\u2026With deprofundis whan \u00feat it be sentAt his chirch to\n                    hyng it on the wall\n",
+            "Note": "\n22 stanzas, including envoy.",
+            "folio": "ff. 58-60v"
+        },
+        "BLHar2255": {
+            "First Lines": "\nHAvyng a conceyt in my symple witWhich of newe is come to\n                    memorye\u2026\n",
+            "Last Lines": "\n\u2026With Deprofundis whan so that it be sentAt his chirche to\n                    hang it on the wal\n",
+            "Attributed Author": "\nExplicit quod lydgate (f. 43v)",
+            "Attributed Title": "\nDeprofundis clamam ad te domine / domine exandi vocem meam (f. 40,\n                    in rubric)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 83-84 (st. 20-21 only; see 1816-1).\n",
+            "folio": "ff. 40-43v"
+        }
+    }
+}

@@ -1,0 +1,386 @@
+{
+    "_id": 2502,
+    "_header": "In Flanders whilom was a company",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Pardoner\u2019s Tale; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; Flanders; Cupiditas; Death",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the Pardoner\u2019s Tale of the Canterbury Tales \u2014 506 lines in couplets.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nIN fflaundres whilum was a companyeof yonge folke that haunted\n                    folye\u2026\n",
+            "Last Lines": "\n\u2026and as we dide lete vs laugh & pleyeanoon thei kissed\n                    & riden forth here weye\n",
+            "Attributed Title": "\nthe Pardoner (RT); Here endith the Pardonere his tale\u2026 (f.\n                        249v)",
+            "folio": "ff. 242v-249v"
+        },
+        "BodBar20": {
+            "First Lines": "\nIn flaundres wilom was a companyeOf \u021dong folke \u00feat\n                    haunted folie\u2026\n",
+            "Last Lines": "\n\u2026And as we did lete vs lawhe and pleieAnon \u00feei kussed and\n                    riden forth her weie\n",
+            "Note": "\nVI.791-2 reversed.",
+            "Attributed Title": "\nhere endith \u00fee / pardoners tale\u2026 (f. 193v)",
+            "folio": "ff. 186v-193v"
+        },
+        "Bod414": {
+            "First Lines": "\n[I]N fflaundirs whilom was a cumpanyeOf yong fok that hauntid\n                    folye\u2026\n",
+            "Last Lines": "\n\u2026And as we did lat us laugh and pleyeAnd anon they kist and\n                    ridde furth her wey\n",
+            "Note": "\nVI.872 omitted; 791-2 reversed.",
+            "Attributed Title": "\nThe Pardoners tale (f. 14)",
+            "folio": "ff. 134-140"
+        },
+        "Bod686": {
+            "First Lines": "\nIn flaundres whilome was a compaignyeOf yonge folke \u00feat\n                    hauntedden folye\u2026\n",
+            "Last Lines": "\n\u2026And as we deden lete vs lagh and pleyAnon they kiste and\n                    riden forth hir wey\n",
+            "Note": "\nVI.669 omitted; spurious line inserted at foot to follow\n                    670.",
+            "Attributed Title": "\n\u2026And here begynneth his tale (f. 154v); Perdoner (RT);\n                    Here endeth the Perdoners tale\u2026 (f. 161)",
+            "folio": "ff. 154v-161"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nIn fflaundres whilom was a companyOf yong folk that haunted\n                    foly\u2026\n",
+            "Last Lines": "\n\u2026And as we deden lete vs lagh and playAnoon thei kissed and\n                    riden forth her way\n",
+            "Attributed Title": "\n\u2026And next beginneth / \u00fee Pardoners tale (f. 158v);\n                    The Pardoner (RT); Here endeth \u00fee Pardoners tale\u2026 (f.\n                    164v)",
+            "folio": "ff. 158v-164v"
+        },
+        "BodLauMis600": {
+            "First Lines": "\nIn flaundres whilom was a companyeOf yonge fok \u00feat haunted\n                    folie\u2026\n",
+            "Last Lines": "\n\u2026And as we dide lete vs laugh and plaiAnd anoon \u00feei kist\n                    and riden for\u00fe her wai\n",
+            "Note": "\nVI.791-2 reversed.",
+            "Attributed Title": "\n\u00fee pardoner (RT); Here ende\u00fe \u00fee Pardoner\u2026 (f.\n                        216v)",
+            "folio": "ff. 209v-216v"
+        },
+        "BodLauMis739": {
+            "First Lines": "\n[I]N flaundres whilome was a companyeOf \u021dong men \u00feat\n                    haunted folye\u2026\n",
+            "Last Lines": "\n\u2026And as we did lete vs lawh and playAnd anone \u00feei kissed\n                    and ryden forth her waye\n",
+            "Note": "\nVI.530, 872 omitted; 791-2 reversed.",
+            "folio": "ff. 219v-227"
+        },
+        "BodRawPoe149": {
+            "First Lines": "\nIN flaundres whilom was a companyOf yonge folke that hauntid\n                    foly\u2026\n",
+            "Last Lines": "\n\u2026And as we did late vs laugh and playAnd anon thei kist and\n                    reden forth her way\n",
+            "Note": "\nVI.420, 872 omitted; 791-2 reversed; 945 inserted in\n                    margin.",
+            "Attributed Title": "\nfab (f. 95v, margin); the pardoner (RT); here endith the\n                    pardoners tale\u2026 (f. 99)",
+            "folio": "ff. 95v-99"
+        },
+        "BodRawPoe223": {
+            "First Lines": "\nIn flaundres whilom was a companyeOf yong folk that haunted\n                    foly\u2026\n",
+            "Last Lines": "\n\u2026And as we did let us lau\u021de and pleyAnon they kissed and\n                    riden forth her wey\n",
+            "Note": "\nVI.809-10, 817-18, 867, 926 omitted; spurious line follows\n                    868.",
+            "Attributed Title": "\n\u2026And here beginneth his tale folwing (f. 167v); Pardoner\n                    (RT); Here endith the Pardoners tale\u2026 (f. 175)",
+            "folio": "ff. 167v-175"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nIn fflaundres whilom was a companyeOf yonge folke that haunteden\n                    folie\u2026\n",
+            "Last Lines": "\n\u2026And as we diden late vs laughe & pleyeAnoon they kyste\n                    and riden forth hire weye\n",
+            "Attributed Title": "\nHere is ended the Pardoners tale\u2026 (f. 127v)",
+            "folio": "ff. 121v-127v"
+        },
+        "OxfCCC198": {
+            "First Lines": "\nIN fflaundres whilom was a companyeOf \u021dong folk \u00feat\n                    haunteden folye\u2026\n",
+            "Last Lines": "\n\u2026and as we dide let vs laughe and pleyeAnon \u00feey kisse and\n                    ryden for\u00fe here weye\n",
+            "Note": "\nVI.603-4, 62 omitted; 679-80 reversed; spurious lines follow 487,\n                    488.",
+            "Attributed Title": "\nPardoneres (RT, rubric); Explicit fabula Pardoner (f. 204,\n                    margin)",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "ff. 197-204"
+        },
+        "OxfNew314": {
+            "First Lines": "\nIN flaundris sumtyme was a companyOf yonge folk \u00feat hauntedyn\n                    foly\u2026\n",
+            "Last Lines": "\n\u2026And as we did let vs law\u021de and pleyAnon they kissid and\n                    riden forth her wey\n",
+            "Note": "\nVI.622, 869 omitted; spurious lines follow 488, 870, 926; 679-80, 697-8,\n                    959-60 reversed.",
+            "Attributed Title": "\nPardoner (RT); Here endith \u00fee Pardoneris tale\u2026 (f.\n                        197v)",
+            "folio": "ff. 190-197v"
+        },
+        "OxfTri49": {
+            "First Lines": "\nIN fflaundres whilome was a companieof yonge folke that hauntid\n                    foly\u2026\n",
+            "Last Lines": "\n\u2026and as we dedyn late vs laugh and playand now thei kissid and\n                    ride forth hir wey\n",
+            "Note": "\nVI.507-8, 646, 810, 872 omitted; 791-2 reversed.",
+            "Attributed Title": "\nIncipit fabula (f. 176); Pardoner (RT); Explicit fabula\n                        Pardoner\u2026 (f. 182v)",
+            "folio": "ff. 176-184v"
+        },
+        "CULDd424": {
+            "First Lines": "\nIN fflaundres whilom was a compaignyeOf \u021donge folk that\n                    haunteden folye\u2026\n",
+            "Last Lines": "\n\u2026And as we diden lat vs laughe and pleyeAnoon they kisten\n                    & reden forth here weye\n",
+            "Note": "\nPardoner\u2019s Tale ends on f. 149v, leaving the\n                    final third of the verso and following recto blank.",
+            "Attributed Title": "\nEt nunc narrat fabulam suam (f. 143v, margin)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 144-149v"
+        },
+        "CULGg427": {
+            "First Lines": "\nIN flaunderys whilhom dwellede a cumpanyeOf \u021donge folk that\n                    hauntedyn folye\u2026\n",
+            "Last Lines": "\n\u2026And as we ded lat vs laughe & pleyeAnon they kyste &\n                    rede forth here weye\n",
+            "Note": "\nVI.743-4 omitted; 646, 810, 896 inserted at foot; 672 inserted in\n                    margin.",
+            "Attributed Title": "\nHere begynnyth the Pardounner his tale (f. 305, rubric); Here endith the\n                    pardonneris tale (f. 311v)",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "Editions": "\nFurnivall,  Frederick James. \n             The Cambridge MS (University Library, Gg.4.27) of Chaucer\u2019s\n                Canterbury Tales.\nChaucer Society\n         Series 1, nos. 4, 10, 17, 28, 33, 40, 52, 66. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 305-312v"
+        },
+        "CULIi326": {
+            "First Lines": "\nIn flaundres some tyme were a companyeOf yonge folke that hauntyd\n                    folye\u2026\n",
+            "Last Lines": "\n\u2026And as we ryde lete vs laughe and playAnoone they kissed and\n                    riden forth her way\n",
+            "Note": "\nVI.560, 646, 682, 696, 743-4, 746, 858, 870, 952 omitted; 679-80, 959-60\n                    reversed; spurious lines follow 487, 488, 868.",
+            "Attributed Title": "\n\u2026And here begynneth his tale (f. 173); Pardoner (RT); Here Endeth the\n                    pardoner his tale\u2026 (f. 178v)",
+            "folio": "ff. 173-178v"
+        },
+        "CULMm25": {
+            "First Lines": "\nIN flaundres whilom was a companyeOf \u021donge folke \u00feat\n                    haunted folye\u2026\n",
+            "Last Lines": "\n\u2026And as we dide let us lagh and pleyeAnd onon \u00feei kissed\n                    and riden forth \u00feer weye\n",
+            "Note": "\nVI.872-7, 882 omitted; 791-2 reversed.",
+            "Attributed Title": "\nffabula (f. 191v, margin); \u00fee pardoner (RT); Here\n                    endeth \u00fee pardoners tale\u2026 (f. 197)",
+            "folio": "ff. 191v-197"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[I]N fflaundres somtyme was a CompanyOf yong fok that haunted\n                    folye\u2026\n",
+            "Last Lines": "\n\u2026Nay nay quoth he than haue y cristes curseThe pepull at her\n                    wordes lowhNo more of this for hit is right ynowhBut Iesu sende us\n                    \u00feat graceThat in heuen to haue oure euer dwellyng plase\n",
+            "Note": "\nVI.513-34, 541-50, 553-74, 579-88, 599-602, 541-50, 553-74, 579-88,\n                    599-602, 641-18, 684, 699-704, 757-8, 806-9, 821-2, 872, 889-92, 927-42, 947-60,\n                    963-8 omitted; 791-2 reversed; spurious lines follow 962 (see\n                    above).",
+            "folio": "ff. 202-207v"
+        },
+        "CamTCC582": {
+            "First Lines": "\nIn fflaundres whilom were a companieOf yong folk \u00feat haunted\n                    foly\u2026\n",
+            "Last Lines": "\n\u2026And as we did late vs laughe and pleyeAnon they kissed and\n                    riden forth her weye\n",
+            "Note": "\nVI.926 omitted.",
+            "Attributed Title": "\nNarrat (f. 78va); Hiere endith the Pardoners tale\u2026\n                    (f. 81va)",
+            "folio": "ff. 78va-81va"
+        },
+        "CamTCC595": {
+            "First Lines": "\nIN flaundres somtyme was a compenyeOf yonge folke that haunten\n                    folye\u2026\n",
+            "Last Lines": "\n\u2026And as we did let vs laughe and pleyAnone they kyssede and\n                    riden forth her wey\n",
+            "Note": "\nVI.527-628, 826, 869 omitted; spurious lines follow 487, 488, 870,\n                    926.",
+            "Attributed Title": "\n\u2026And begynneth the Pardeners Take (f. 179); Here endeth the\n                    Pardoneres Tale\u2026 (f. 185v)",
+            "folio": "ff. 179v-185v"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nIn fflaundris whilom was a companyeOf yong folke that haunteden\n                    folye\u2026\n",
+            "Last Lines": "\n\u2026And as we did tofore lat vs lauh and pleyeAnoon they kysten\n                    and riden forth ther wey\n",
+            "Note": "\nVI.468, 478-9 omitted.",
+            "Attributed Title": "\nIncipit narracio ffabule (f. 210); Pardoner (RT); Explicit fabula\n                        Questoris\u2026 (f. 220)",
+            "folio": "ff. 210-220"
+        },
+        "BLAdd25718": {
+            "First Lines": "\nIn fflaundres whilom was acompanyOf Ioglours that haunted\n                    foly\u2026\n",
+            "Last Lines": "\n\u2026And as we did let vs laughe and pleyeAnon thei kysse and ride\n                    forth her weye\n",
+            "Note": "\nVI.480, 926 omitted.",
+            "Attributed Title": "\n\u2026Incipit fabula (f. 55); Here endeth the Pardoners tale (f.\n                        63v; only three lines and explicit on verso, with the rest\n                    blank)",
+            "folio": "ff. 55-63v"
+        },
+        "BLAdd35286": {
+            "First Lines": "\nIn flaundre whilom was a compaignyOf yonge folk that haunted\n                    folye\u2026\n",
+            "Last Lines": "\n\u2026And as we did lat vs laugh and pleyeAnon thei kisse and riden\n                    forth hir weye\n",
+            "Note": "\nVI.646 omitted.",
+            "Attributed Title": "\nhere bigynneth the Pardoners tale (f. 150v); the pardoner\n                    (RT)",
+            "Editions": "\nHorobin,  Simon. \n             \u201cA Transcription and Study of British Library MS Additional 35286 of\n                Chaucer\u2019s Canterbury Tales.\u201d \n         Diss. Univ. of Sheffield, 1997. \n",
+            "folio": "ff. 150v-157v"
+        },
+        "BLEge2726": {
+            "First Lines": "\nIN fflaundres whilom was a companyeOf yong folk \u00feat haunteden\n                    folye\u2026\n",
+            "Last Lines": "\n\u2026And as we deden let vs laugh and pleyeAnon they kisten and\n                    riden forth her weie\n",
+            "Attributed Title": "\nSic desinit fabula de le Pardoner\u2026 (f. 171)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 165-171"
+        },
+        "BLEge2863": {
+            "First Lines": "\n\u2026Allas \u00fee schort \u00ferote the tendre mouthMaketh\n                    \u00feat Est West north & south\u2026\n",
+            "Last Lines": "\n\u2026And as we dide late vs lawhe & playAnoon \u00feei kissed\n                    and riden forth her way\n",
+            "Note": "\nVI.463-516, 563-670 lost; 872, 907 omitted; 791-2 reversed.",
+            "Attributed Title": "\nThe Pardoner (RT)",
+            "folio": "ff. 138-142v"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[I]N fflaundris whilom was a companyeOff yonge folk that haunteden\n                    folye\u2026\n",
+            "Last Lines": "\n\u2026And as we dede tofore lat vs lauh and pleyeAnoon thei kisten\n                    and riden foorth ther weye\n",
+            "Note": "\nVI.478-9 omitted.",
+            "Attributed Title": "\nIncipit Narracio (f. 173v); The pardoner is tale (RT);\n                    Heer eendith the pardoneris tale\u2026 (f. 180)",
+            "folio": "ff. 173v-180"
+        },
+        "BLHar1758": {
+            "First Lines": "\nIN fflaundris whilom was a companyeOf yong folk that haunted\n                    folye\u2026\n",
+            "Last Lines": "\n\u2026And as we dide lete vs laugh & pleieAnd anon thei kissed\n                    and riden forth her weie\n",
+            "Note": "\nVI.872 omitted; 791-2 reversed. Large blank space between the end of the\n                        Pardoner\u2019s Tale and the spurious \u2018Shipman\u2019s\n                    Prologue\u2019.",
+            "Attributed Title": "\nThe Pardoner (RT); Here endith the tale of the Pardoner\u2026 (f.\n                    158)",
+            "folio": "ff. 152v-158"
+        },
+        "BLHar7333": {
+            "First Lines": "\nIN flaunderis whilom was a companyOf yong folke that haunten\n                    foly\u2026\n",
+            "Last Lines": "\n\u2026So graunt yow his prdon to resseyveffor that is best I wolle\n                    yow not disseyve\n",
+            "Note": "\nVI.46, 622, 695, 869, 919-68 omitted; 679-80 reversed; spurious lines\n                    follow 487, 620, 696, 870.",
+            "Attributed Title": "\nHere Endithe the Pardoner his tale\u2026 (f. 97rb)",
+            "folio": "ff. 95vb-97rb"
+        },
+        "BLHar7334": {
+            "First Lines": "\nIN fflaundres whilom was a companyeOf \u021donge folkes \u00feat\n                    haunted folye\u2026\n",
+            "Last Lines": "\n\u2026And as we dede let vs laugh and playAnoon \u00feay kisse and\n                    riden for\u00fe her way\n",
+            "Note": "\nVI.478-9 omitted; 711-12 reversed; blank lines follow 717, 718 with\n                        \u2018caret versus\u2019 noted in the margin.",
+            "Attributed Title": "\nNarrat (f. 187v); Pardoneres Tale (RT); Here endeth\n                    \u00fee pardoneres tale\u2026 (f. 194)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "ff. 187v-194"
+        },
+        "BLHar7335": {
+            "First Lines": "\n[I]N fflandres was whilom a compaignyeOf yonge folk that hauntedyn\n                    folye\u2026\n",
+            "Last Lines": "\n\u2026Ther cam a priue theef men clepen dethThat in this contre al\n                    the peple sleth\u2026\n",
+            "Note": "\nVI.565-77, 595-610, everything after 676 lost; 560-4, 588-91 partially\n                    lost. Catchphrase \u2018And with his spere\u2019 at the foot of f.\n                        163v.",
+            "Attributed Title": "\nffirst he repreuyth the vice of glotonye (f. 160v, placed as\n                    heading to the Tale)",
+            "folio": "ff. 160v-163v"
+        },
+        "BLLan851": {
+            "First Lines": "\nBot \u00fean spak oure Hoste vnto Maister schipman Maister quod he\n                    to us summe tale tel \u021de can Where withe \u021de myht glad al \u00feis\n                    company If it were \u021doure pleseinge I wote wele sekurlye Sertes\n                    quod \u00feis Schipman a tale I can tell And \u00feerfore herkene\u00fe\n                    hyderward how \u00feat I wil spell In flaundres whilom was a\n                    compaignieOf \u021donge folke \u00feat hawten folye\u2026\n",
+            "Last Lines": "\n\u2026And as we dide now late vs lauhe & pleieAnone \u00feei\n                    kisse and reden for\u00fee \u00feeire weye\n",
+            "Note": "\nIntroduced by a spurious 6-line link. VI.466, 603-4, 622, 646 omitted;\n                    679-80 reversed; spurious lines follow 487, 488, 620.",
+            "Attributed Title": "\n\u00fee Pardonere (RT); Explicit fabula questoris\u2026 (f.\n                        180v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 174v-180v"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nIn flaundres whilom was a companyOf yong folk that haunted\n                    foly\u2026\n",
+            "Last Lines": "\n\u2026And as we dide late vs laugh and playAnd anon they kyssed and\n                    ryden forth ther way\n",
+            "Note": "\nVI.872 omitted; 555-6 reversed. Blank space of ten lines follows the end\n                    of Pardoner\u2019s Tale with no explicit.",
+            "folio": "ff. 220-227v"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\n[I]N flaundres whilome was a companyeOf \u021dong folk \u00feat\n                    haunted folye\u2026\n",
+            "Last Lines": "\n\u2026And as we dide lete vs lawh and playAnd anoon \u00feei kissed\n                    and riden forth her way\n",
+            "Note": "\nVI.530, 872 omitted; 791-2 reversed",
+            "Attributed Title": "\nHere begynneth the tale (f. 179v); The pardoner (RT)",
+            "folio": "ff. 179v-185v"
+        },
+        "BLSl1685": {
+            "First Lines": "\nIn flaundres whilome was a companyeOf yonge folke \u00feat haunted\n                    folye\u2026\n",
+            "Last Lines": "\n\u2026And as we dyd let vs lau\u021de and playAnd anone \u00feei\n                    kyssed and riden forth her way\n",
+            "Note": "\nVI.872-7 omitted; 791-2 reversed.",
+            "Attributed Title": "\nThe Pardonere (RT); Here endeth \u00fee tale of \u00fee Pardonere\u2026\n                    (f. 191v)",
+            "folio": "ff. 184v-191v"
+        },
+        "BLSl1686": {
+            "First Lines": "\nIn fflaunders whilom was on a companyeOf yong folke that haunteden\n                    folie\u2026\n",
+            "Last Lines": "\n\u2026And as we dede lete vs laughe and pleieAnd with that worde\n                    they riden forthe here weye\n",
+            "Note": "\nVI.603-4, 622 omitted; 679-80 reversed; spurious lines follow 487, 488,\n                    620; 466 blank; 846, 884 inserted at foot.",
+            "Attributed Title": "\n\u2026And here begynneth his tale folowyng (f. 224); [A] tale of the\n                    Pardoner (RT); Here endith the Pardoners tale\u2026 (f.\n                    232v)",
+            "folio": "ff. 224-232v"
+        },
+        "NLWPen392": {
+            "First Lines": "\nIN fflaundres whilom was a companyOf yonge folk that haunteden\n                    folye\u2026\n",
+            "Last Lines": "\n\u2026And as we diden lat vs lawe and pleyeAnon they kiste and\n                    ryden for\u00fe hir weye\n",
+            "Attributed Title": "\n[tear]ere begynneth the Pardoners tale (f. 195v); The Pardoner\n                    (RT); Here is ended the Pardoners tale (f. 203v)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "ff. 197v-203v"
+        },
+        "Alnwick455": {
+            "First Lines": "\nIn fflaundris whilom was a companyOf yong folk that hauntid\n                    foly\u2026\n",
+            "Last Lines": "\n\u2026And as ye did so let vs lau\u021de and pleyAnon they kissid\n                    and rode forth hir wey\n",
+            "Note": "\nVI.889-92 omitted; 479-80 follow 477; spurious lines follow 715,\n                    716.",
+            "Attributed Title": "\n\u2026And here begynnyth he his tale (f. 163); Here endith the Pardonere\n                    his tale\u2026 (f. 169v)",
+            "folio": "ff. 163-169v"
+        },
+        "GULHun197": {
+            "First Lines": "\nIN fflaundres whilom was a companyeOf yong folk \u00feat haunted\n                    folye\u2026\n",
+            "Last Lines": "\n\u2026And as we dide lete vs laugh and pleyeA noone \u00feei kyssed\n                    and riden foth her weye\n",
+            "Note": "\nVI.809-10, 817-18, 867 omitted; spurious line follows 868.",
+            "Attributed Title": "\nThe tale of Pardyner (f. 60rb); the Pardoner (RT)",
+            "folio": "ff. 60rb-62va"
+        },
+        "Lichfield29": {
+            "First Lines": "\nIN fflaundres whilom ther was a companyeOf yong folke that haunted\n                    folye\u2026\n",
+            "Last Lines": "\n\u2026And as we dide late vs lawgh and playAnd anon \u00feei cussed\n                    and riden forth her way\n",
+            "Note": "\nVI.615, 858 omitted.",
+            "Attributed Title": "\nThe Pardoner (RT); Here endeth the pardoner his tale\u2026 (f.\n                        196v)",
+            "folio": "ff. 190-196"
+        },
+        "Lincoln110": {
+            "First Lines": "\nIN flaundris sumtyme was a companyeOf \u021donge folk that hauntid\n                    folye\u2026\n",
+            "Last Lines": "\n\u2026And as we dede lete vs lau\u021de and pleyeAnon \u00feey\n                    kissede and reden forth hir weye\n",
+            "Note": "\nVI.746, 809-10 omitted; 356, 660 left blank and supplied later; 791-2\n                    reversed. About a third of f. 182 left blank with \u2018hic deficit\n                        prologus\u2019 written in the margin.",
+            "Attributed Title": "\nPerdoner (RT); Here endith the pardoners tale (f. 182, heavily stained); ",
+            "folio": "ff. 175v-182"
+        },
+        "LonPhys388": {
+            "First Lines": "\nIN flaundris whilom was a companyeOf yong folk that haunteiden\n                    folie\u2026\n",
+            "Last Lines": "\n\u2026And as we dide late vs laugh and pleyeAnon they kist and\n                    riden furth theyr wey\n",
+            "Note": "\nVI.879-80 reversed; spurious line follows 488.",
+            "Attributed Title": "\n\u2026Incipit ffabula (f. 235v); Explicit fabula\n                    (f. 244, margin)",
+            "folio": "ff. 235v-244"
+        },
+        "RylandsEng113": {
+            "First Lines": "\nIn fflaundres whilom was a CompenyeOf yong folk that haunted\n                    ffolie\u2026\n",
+            "Last Lines": "\n\u2026And as we dede lete vs laugh and pleyAnon \u00feei kisten and\n                    reden forth here wey\n",
+            "Note": "\nVI.879-80 reversed; spurious line follows 488.",
+            "Attributed Title": "\nPardonere (RT); Here endith the pardoners tale\u2026 (f.\n                    120v)",
+            "folio": "ff. 116-120v"
+        },
+        "Petworth7": {
+            "First Lines": "\nIN fflaundres whilom was a companyeOf yonge folk \u00feat haunted\n                    folye\u2026\n",
+            "Last Lines": "\n\u2026And as we did lat vs lau\u021de and playAnd anon \u00feei\n                    kissed and riden for\u00fe her way\n",
+            "Note": "\nVI.872 omitted; 791-2 reversed; 743 inserted at foot.",
+            "Attributed Title": "\nThus ende\u00fe \u00fee pardoners tale\u2026 (f. 224); The Pardonere\n                    (RT)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 217v-224"
+        },
+        "Austin46": {
+            "First Lines": "\n\u2026And \u00feanne shal al this gold departed beeMy deere freend\n                    bitwixe me and thee\u2026\n",
+            "Last Lines": "\n\u2026And as we diden lat vs laughe & pleye[A]noon they kiste\n                    and riden forth hire weye\n",
+            "Note": "\nFragment, VI.463-830 lost.",
+            "Attributed Title": "\nHeere endeth the Pardoners / tale (f. 1va)",
+            "folio": "ff. 1ra-1va"
+        },
+        "Austin143": {
+            "First Lines": "\nIn fflaundres whilom was a companieOf yonge folke that haunteden\n                    folie\u2026\n",
+            "Last Lines": "\n\u2026And as we deden let vs laugh and pleyAnon they kisten and\n                    riden furth there wey\n",
+            "Note": "\nVI.791-2 omitted.",
+            "Attributed Title": "\n\u2026And begynneth his tale et cetera (f. 146); Pardonere (RT);\n                    Here endeth the Pardoners tale\u2026 (f. 152)",
+            "folio": "ff. 146v-152"
+        },
+        "PierpontM249": {
+            "First Lines": "\nIn fflaundres whilom ther was a companyeOf yong folk that haunted\n                    folye\u2026\n",
+            "Last Lines": "\n\u2026And as we dide late vs lawgh and playAnd anoon they cussed\n                    and riden forth her way\n",
+            "Note": "\nVI.615, 872 omitted; 791-2 reversed.",
+            "Attributed Title": "\nHere endeth the pardoners tale\u2026 (f. 196v); The Pardoner\n                    (RT)",
+            "folio": "ff. 190v-196v"
+        },
+        "PhilRos10841": {
+            "First Lines": "\nIN flaundres whylom was a companyeOf \u021donte folke that haunted\n                    folye\u2026\n",
+            "Last Lines": "\n\u2026And as we dede lette vs law\u021d and pleyeAnon they kyssede\n                    and ryden forth here weye\n",
+            "Note": "\nVI.872 omitted; 791-2 reversed.",
+            "Attributed Title": "\nThe Pardoner (RT); Here endeth the tale of the pardonere (f. 152)",
+            "folio": "ff. 145v-151v"
+        },
+        "PUL100": {
+            "First Lines": "\nIn fflaundris whilom were a companyOf \u021dong folk that hauntyn\n                    foly\u2026\n",
+            "Last Lines": "\n\u2026Thus endid be these homycidis toAnd eke the Empoysoner\n                    also\n",
+            "Note": "\nVI.547-50, 555-61, 565-6, 571-8, 599-602, 617-20, 622, 627-8, 643-8,\n                    895-968 omitted; 679-80, 697-98 reversed; spurious lines follow 488,\n                    870.",
+            "Attributed Title": "\nPardonere (RT); Here endith the Pardoner his tale (f. 154)",
+            "folio": "ff. 149-154"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nIN fflaundres whilom was a compaignyeOf yonge folk that haunteden\n                    folye\u2026\n",
+            "Last Lines": "\n\u2026And as we diden lat vs laughe and pleyeAnon they kiste and\n                    ryden forth hir weye\n",
+            "Attributed Title": "\nHere bigynneth the Pardoners tale (f. 138); Pardoner (RT); Heere is ended\n                    the Pardonerss tale (f. 143)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 138-143"
+        },
+        "BNangl39": {
+            "First Lines": "\nIn flaundres whilom was a compaignyof yong folk that hauntid\n                    foly\u2026\n",
+            "Last Lines": "\n\u2026and as we did let vs laugh and playanon thei kissid and ridyn\n                    forth her way\n",
+            "Attributed Title": "\n\u2026& subsequenter / incipit fabula perdonarij sic (f.\n                        65ra); Explicit fabula perdonarij\u2026 (f.\n                        67vb)",
+            "folio": "ff. 65ra-67vb"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nIn fflaunders whilom was a companyeOf yong folk \u00feat haunted\n                    folie\u2026\n",
+            "Last Lines": "\n\u2026And as we deden lete vs laugh and pleyeAnon they kisten and\n                    riden forth her weie\n",
+            "Note": "\nVI.485, 872-7 omitted.",
+            "Attributed Title": "\n\u2026Et Incipit / ffabula eiusdem sub forma que sequitur (f.\n                        156v); Incipit ffabula de la Pardoner (f. 156v,\n                    margin); Pardoners tale (RT); Sic desinit ffabula de la Pardoner\u2026\n                    (f. 162)",
+            "folio": "ff. 156v-162"
+        },
+        "TokyoTak32": {
+            "First Lines": "\nIN flawndris whilum was a cvmpanyeOf yonge folk that hawntede\n                    folye\u2026\n",
+            "Last Lines": "\n\u2026And as wee dede lete vs lawghe & pleyeAnd a noon they\n                    kysseden and rood foorht her weye\n",
+            "Note": "\nvI.872 omitted; 791-2 reversed.",
+            "Attributed Title": "\nHere be gynnyht thee tale (f. 98ra); Thee pardoner (RT); Here\n                    endyht thee Pardoneris tale (f. 101rb)",
+            "folio": "ff. 98ra-101rb"
+        },
+        "Bodmer48": {
+            "First Lines": "\nIN flaundres whilom was a cumpaniOf yong folk that haunted\n                    folye\u2026\n",
+            "Last Lines": "\n\u2026And as we did lat vs laugh and pleyAnd anon thei kissed &\n                    riden fur\u00fe her wey\n",
+            "Note": "\nVI.872 omitted; 791-2 reversed.",
+            "Attributed Title": "\nThe Pardoners tale of \u00fere hazardours (f. 156v,\n                    rubric)",
+            "Facsimiles": "\n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n",
+            "folio": "ff. 156v-163"
+        }
+    }
+}

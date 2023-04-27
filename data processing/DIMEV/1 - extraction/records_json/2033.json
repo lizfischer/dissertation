@@ -1,0 +1,322 @@
+{
+    "_id": 2033,
+    "_header": "Ho quod the Knight good sir no more of this",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Nun\u2019s Priest\u2019s Prologue; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; prologues; interuptions",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the Nun\u2019s Priest\u2019s Prologue of The Canterbury Tales \u2014 53 lines in couplets, occurring in two forms, one lacking lines VII.2771-90.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nHOo sir quod the knyght no more of thisthat ye han seide is right I\n                    now I wis\u2026\n",
+            "Last Lines": "\n\u2026and thus he seide to vs euerychonthis swete prest this goodly\n                    man sir Iohn\n",
+            "Note": "\n\u2018Short Form\u2019, lacking lines VII.2771-90.",
+            "Attributed Title": "\nHere the Knyght interipteth and stynteth / the Monke of his tale (margin,\n                    f. 206); prolog (RT); here the Ost com / maunded the Nonnes prest to / telle his\n                    tale of Chaunteclere / and Perelote (f. 206, margin, next to VII.2808); Here\n                    endith the Nonnys Prest his prolog / and next folwyng bigynneth his tale (f.\n                    206)",
+            "folio": "f. 206"
+        },
+        "BodBar20": {
+            "First Lines": "\nHO quod the knyght good sir no more of \u00feis\u00feat \u021de\n                    haue saide is right I nowh Iwys\u2026\n",
+            "Last Lines": "\n\u2026And \u00feus he saide to vs euerychon\u00deis swete preost\n                    \u00feis goode man sir Iohan\n",
+            "Note": "\nVII.2771-2, omitted.",
+            "Attributed Title": "\n\u2026and here / bygynnyth \u00fee the prologe of the Nonne Preost (f.\n                        245v); Here endithe the prolog\u2026 (f. 246)",
+            "folio": "ff. 245v-246"
+        },
+        "Bod414": {
+            "First Lines": "\n[H]O quod the knight good sire nomore of \u00feisThat ye haue seid\n                    it is ri\u021dt enough y wis\u2026\n",
+            "Last Lines": "\n\u2026And thus he seid to us euerichoneThis swete prest this good\n                    man ser Iohn\n",
+            "Note": "\nVII.2774, 2813 omitted.",
+            "folio": "ff. 172-172v"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nHO quod \u00fee knight gode sir no more of thisThat ye haue seid is\n                    right I now I wis\u2026\n",
+            "Last Lines": "\n\u2026And thus he seid to vs eueri choneThis swete prest this\n                    goodly man sir Iohn\n",
+            "Attributed Title": "\n\u2026And next beginneth \u00fee prolog of the Nonne Preste (rubric, f.\n                    216); The Nonne (RT); Here endeth the prolog\u2026 (rubric, f. 224)",
+            "folio": "ff. 216-217"
+        },
+        "BodLauMis600": {
+            "First Lines": "\nHO sire quod \u00fee knight no more of \u00feis\u00deat ye han said\n                    is right I nough Iwis\u2026\n",
+            "Last Lines": "\n\u2026And \u00feus he saide vn to vs euery chone\u00deis swete\n                    prest \u00feis goodli man sir Iohne\n",
+            "Attributed Title": "\n\u2026Here begyneth the prolog of the nonne prestes tale of the cok / and\n                    of \u00fee henne (f. 258); \u00fee nonne prest (RT)",
+            "folio": "ff. 258-259"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nHo quod oure oste good sire no more of thisThat ye han seide is\n                    right ynow I wys\u2026\n",
+            "Last Lines": "\n\u2026And thus he seide vnto vs euerychonThis swete preest this\n                    goodly man sir Iohn\n",
+            "Attributed Title": "\nHere the Knyght stynteth the Monke of his tale (rubric, f.\n                    165v)",
+            "folio": "ff. 165v-166"
+        },
+        "OxfCCC198": {
+            "First Lines": "\nHo quod \u00fee knight goode sire nomore of \u00feis\u00feat\n                    \u021de han sayde is right ynough ywis\u2026\n",
+            "Last Lines": "\n\u2026And \u00feus he seyde to vs euerychonThis swete prest\n                    \u00feis goode man sire Iohn\n",
+            "Note": "\n\u2018Short Form\u2019, lacking lines VII.2771-90.",
+            "Attributed Title": "\nprologus (rubric, top); explicit prologus Capitulum xxii\n                    (margin)",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "f. 247"
+        },
+        "OxfNew314": {
+            "First Lines": "\nHO quod our ost sir no more of thisThat ye haue said ys ynou\u021d\n                    ywis\u2026\n",
+            "Last Lines": "\n\u2026And thus he saide to vs euerichonThis swete preest this ioly\n                    man sir Iohn\n",
+            "Note": "\n\u2018Short Form\u2019, lacking lines VII.2771-90.",
+            "Attributed Title": "\nHere endith \u00fee prolog of \u00fee Nonnys prest\u2026 (rubric, f.\n                        249)v)",
+            "folio": "ff. 249-249v"
+        },
+        "OxfTri49": {
+            "First Lines": "\nO quod the knyght goode sire no more of thisthat ye haue seide is\n                    right I now I wis\u2026\n",
+            "Last Lines": "\n\u2026and thus he saide to vs euery chonthis swete preste this sely\n                    man sir Iohn\n",
+            "Attributed Title": "\nChauntecler (RT)",
+            "folio": "ff. 230v-231"
+        },
+        "CULDd424": {
+            "First Lines": "\nHoo quod the knyght good sire nomore of thisThat \u021de han seid\n                    is right I now I wys\u2026\n",
+            "Last Lines": "\n\u2026Thanne spak oure hoost with rude speche & boldeAnd seide\n                    vnto the Nonnes preest anoon\u2026\n",
+            "Note": "\nThe collation includes missing leaves; f. 188 is missing, taking with it\n                    lines VII.2810-20 of the Prologue.",
+            "Attributed Title": "\nHeere bigynneth the Prologe of the Nonnes Preest (f. 187v, above\n                    the written space)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "f. 187v"
+        },
+        "CULIi326": {
+            "First Lines": "\nNOwe quod the knyght sir no more of thisThat ye haue saide is right\n                    Enough y wis\u2026\n",
+            "Last Lines": "\n\u2026And thus he saide to vs euerychoneThis swete preest this\n                    gostly man sir Iohn\n",
+            "Note": "\nVII.2791-2 follow 2770.",
+            "Attributed Title": "\nNonnes preste (RT); Here endeth the prologe of the nonnes preest\u2026 (f.\n                        211v)",
+            "folio": "f. 211-211v"
+        },
+        "CULMm25": {
+            "First Lines": "\nHo quod \u00fee knyght gode sir no more of \u00feisThat ye han said\n                    is right ynogh y wys\u2026\n",
+            "Last Lines": "\n\u2026And \u00feus he seide to us euyerchonThis swete preste\n                    \u00feis good man sir Ione\n",
+            "Attributed Title": "\n\u2026Here begynneth \u00fee prologe of \u00fee none priste tale (f.\n                        163v); \u00fee Nonne preste (RT); Here endith \u00fee\n                    prologe\u2026 (f. 164v)",
+            "folio": "ff. 163v-164v"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[H]Oo quoth the knyght sir no more of thisThat ye haue seid hit ys\n                    y nowh ywysse\u2026\n",
+            "Last Lines": "\n\u2026And \u00feus his tale told to us euerychoneThis swete preste\n                    this godeman sir Iohn\n",
+            "Note": "\nVII.2817-18 omitted.",
+            "Attributed Title": "\nThe prolog of the Nonnes Preste (f. 256)",
+            "folio": "ff. 256-256v"
+        },
+        "CamTCC582": {
+            "First Lines": "\nO quod the kni\u021dte nomore of thisThat ye haue seid is ri\u021dt\n                    Inou\u021d I wiss\u2026\n",
+            "Last Lines": "\n\u2026And thus he seide vnto vs euerichonThis swete preest this\n                    gode man Sir Iohn\n",
+            "Note": "\n\u2018Short Form\u2019, lacking lines VII.2771-90.",
+            "Attributed Title": "\nA Prolog of the Nonnes prest (f. 81va)",
+            "folio": "ff. 81va-81vb"
+        },
+        "CamTCC595": {
+            "First Lines": "\nHO quoth oure hoste sir no more of thisThat ye haue seide ys ynough\n                    ywys\u2026\n",
+            "Last Lines": "\n\u2026And thus he seide to vs everychoneThis swete preste this\n                    gostly man sir Iohn\n",
+            "Note": "\n\u2018Short Form\u2019, lacking lines VII.2771-90.",
+            "Attributed Title": "\nHere endeth the Prologe of the Nonnes Preste\u2026 (f. 261)",
+            "folio": "ff. 260v-261"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nHO quod oure hoost sire nomore of thisThat ye han seid is riht\n                    Inouh I wis\u2026\n",
+            "Last Lines": "\n\u2026And thus he seide vnto vs everichoonThis swete preest this\n                    goodly man sire Iohn\n",
+            "Attributed Title": "\n\u2026Incipit prohemium Sacerdotus Monialium (f. 274);Explicit\n                        prohemium fabule presbiteri monialium\u2026 (f. 275)",
+            "folio": "ff. 274-275"
+        },
+        "BLAdd35286": {
+            "First Lines": "\nHoo quod this Knyght good syr no more of thisThat he han seide is\n                    right ynogh I wis\u2026\n",
+            "Last Lines": "\n\u2026And thus he seide vnto vs euerychonThis swete preest this\n                    goodly man syr Iohn\n",
+            "Attributed Title": "\n\u2026Here bigynneth the prologe of the Nonnes Prest (f. 200v);\n                    the nonnes prest (RT); Here endeth the prologe of the Nonnest Prest (f.\n                    201)",
+            "Editions": "\nHorobin,  Simon. \n             \u201cA Transcription and Study of British Library MS Additional 35286 of\n                Chaucer\u2019s Canterbury Tales.\u201d \n         Diss. Univ. of Sheffield, 1997. \n",
+            "folio": "ff. 200v-201"
+        },
+        "BLEge2726": {
+            "First Lines": "\nHO koth the knyght gode sir no more of thisThat ye han seid is\n                    right ynough ywis\u2026\n",
+            "Last Lines": "\n\u2026And \u00feus he seid vn to vs euerychoneThis swete preest\n                    this godely man Sir Iohn\n",
+            "Attributed Title": "\n\u2026And begynneth the prolog of the Nonnes preest (f. 208v);\n                    Here endeth the prologe of \u00fee Nonnes preest\u2026 (f. 209)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 208v-209"
+        },
+        "BLEge2863": {
+            "First Lines": "\nHO quod the knight good sire no more of this\u00feat \u021de han\n                    seide is right I now I wys\u2026\n",
+            "Last Lines": "\n\u2026Where as men han ben in grete wel\u00fee & eseTo heren of\n                    her sodeyn fal allas\u2026\n",
+            "Note": "\nVII.2774-2820 lost.",
+            "Attributed Title": "\n\u2026and here begynneth \u00fee prologe of \u00fee Nonne preest (f.\n                    176); The Nonne preest (RT)",
+            "folio": "f. 176v"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[H]O quod our host sir no more of thisThat ye han said is riht I\n                    nouh Iwys\u2026\n",
+            "Last Lines": "\n\u2026And thus he seide on to vs everichoonThis sweete\n                        pr[\u2026]st preest this goodly man sire Iohn\n",
+            "Attributed Title": "\n\u2026Incipit prohemium Sacerdotis Monialium (f. 225); the nonesse\n                    is tale (RT)",
+            "folio": "ff. 225-225v"
+        },
+        "BLHar1758": {
+            "First Lines": "\nHO quod the knyght good sir no more of thisThat ye han seid is\n                    right y now y wis\u2026\n",
+            "Last Lines": "\n\u2026And thus he seide to vs euerichonThis swete preest this good\n                    man sir Iohn\n",
+            "Note": "\nAbout two-thirds of the verso is left blank before the\n                    \u2018Monk-Nun\u2019s Priest link\u2019.",
+            "Attributed Title": "\nHere / begynneth the prolog of the Nonnes Preest (f. 192v);\n                    Nonnes Preest (RT); Here endith the Prolog And begynneth the tale (f.\n                    193)",
+            "folio": "ff. 192v-193"
+        },
+        "BLHar7333": {
+            "First Lines": "\nO quod the kny\u021dt gode sire nomere of this\u00deat ye haue\n                    saide is ry\u021dt I now I wis\u2026\n",
+            "Last Lines": "\n\u2026And \u00feus he saide vnto vs euerychoneThis swete prest\n                    \u00feis gooli man sir Iohn\n",
+            "Note": "\n\u2018Short Form\u2019, lacking lines VII.2771-90.",
+            "Attributed Title": "\nHere stintith \u00fee kny\u021dt \u00fee monk of his tale (f.\n                        112ra, rubric)",
+            "folio": "f. 112ra-112rb"
+        },
+        "BLHar7334": {
+            "First Lines": "\nHO sire quod \u00fee knight no more of \u00feisThat \u021de han\n                    said is right ynough y wis\u2026\n",
+            "Last Lines": "\n\u2026And \u00feus he sayd vnto vs euerich oonThis sweete prest\n                    this goodly man sir Iohn\n",
+            "Attributed Title": "\n\u2026& here bygynne the pro / loge of the Nonne Preestes tale of the\n                    Kok and the Hen (f. 237); \u00dee prologe of \u00fee prestes tale (RT);\n                        Explicit prologus (rubric, in margin, f. 238)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "ff. 237v-238"
+        },
+        "BLLan851": {
+            "First Lines": "\nHoo quod \u00fee knyht good sir no more of \u00feis\u00feat \u021de\n                    haue said it is y nowhe y wis\u2026\n",
+            "Last Lines": "\n\u2026And \u00feus he seide to vs euerychonThis swete preste\n                    \u00feis goodman sir Iohn\n",
+            "Attributed Title": "\n\u2026Incipit prologus (f. 217); \u00fee priste (RT)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 217-217v"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nHO quod the knyght no more of thisThat ye have sayde is right I now\n                    I wis\u2026\n",
+            "Last Lines": "\n\u2026And thus he sayde to vs euerichonThis swete prist this goode\n                    man sir Iohn\n",
+            "Attributed Title": "\n\u2026and bygynnyth the prolog of the None Prest (rubric, in margin, f.\n                        273v); Here endithe the prolog\u2026 (rubric, in margin, f.\n                        274v)",
+            "folio": "ff. 273v-274v"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nHO quod \u00fee knyght good sire no more of thisThat \u021de han\n                    seide is right I now I wys\u2026\n",
+            "Last Lines": "\n\u2026And \u00feus he seide to vs euerychonThis swete preest\n                    \u00feis good man sire Iohn\n",
+            "Note": "\nVII.2777 omitted.",
+            "Attributed Title": "\nHere begynneth the prolog of the Nonne Preest (f. 226); The Nonne prest\n                    (RT); Here endith the prolog\u2026 (f. 226v)",
+            "folio": "ff. 226-226v"
+        },
+        "BLSl1685": {
+            "First Lines": "\nHoo quod \u00fee kny\u021dt gode sir no more of thys\u00deat\n                    \u021de han sayde ys ri\u021dt ynowe\u021d y wys\u2026\n",
+            "Last Lines": "\n\u2026And \u00feus he sayde to vs euereicheonThys swete preost\n                    \u00feis gode man Sir Iohn\n",
+            "Attributed Title": "\n\u2026Here / begynneth the proloog of the Nunne Preoste (f.\n                        213v); Here endeth \u00fee Prologg\u2026 (f.\n                    214v)",
+            "folio": "ff. 213v-214v"
+        },
+        "BLSl1686": {
+            "First Lines": "\nHO quod the knight good sir no more of thisThat ye han seide is\n                    right I nouh I wis\u2026\n",
+            "Last Lines": "\n\u2026And thus he saide to vs euerichoonThis swete preste this good\n                    man sir Iohn\n",
+            "Attributed Title": "\n\u2026and / here begynneth the prolog of the Prest (f. 281); Here endit\u0127\n                    the Prolog of the Nonnes Preest (f. 281v)",
+            "folio": "ff. 281-281v"
+        },
+        "NLW21972D": {
+            "First Lines": "\n[\u2026]par[\u2026]ee no re[\u2026][\u2026]e ne\n                    compleyne\u2026\n",
+            "Last Lines": "\n\u2026And seyde vnto \u00fee nonnes preest anoonCome nere thow\n                    preest come hider thow Sir Iohn\n",
+            "Note": "\nThe first of three damaged leaves, this one containing lines\n                    VII.2784-2820 of the Prologue on the recto.",
+            "Attributed Title": "\nHere endeth the prologe\u2026(f. 1, foot)",
+            "Facsimiles": "\nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n",
+            "Editions": "\nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000: Contains a digital facsimile and transcription of the\n                        Merthyr Fragments.\n",
+            "folio": "f. 1"
+        },
+        "NLWPen392": {
+            "First Lines": "\nHO quod the knyght good sire namoore of thisThat ye han seyd is\n                    right ynow ywis\u2026\n",
+            "Last Lines": "\n\u2026And this he syde vn to vs euerichonThis sweet preest this\n                    goodly man sir Iohn\n",
+            "Note": "\n\u2018Short Form\u2019, lacking lines VII.2771-90.",
+            "Attributed Title": "\nThis is the prologe of the Nonnes p[torn] (f. 99); Explicit (f. 99,\n                    foot)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "f. 99"
+        },
+        "Alnwick455": {
+            "First Lines": "\nLO quod the kny\u021dte good sir no more of thisThat yee have seyd\n                    is ri\u021dt I now\u021d I wis\u2026\n",
+            "Last Lines": "\n\u2026And thus he seyd on to vs everychonThis swete Preest this\n                    gentil preest sire Iohn\n",
+            "Attributed Title": "\n\u2026And here / begynnyth the Nonnys prest his prologg (f. 273); Here\n                    endith the nonnys prestis prologg\u2026 (f. 274)",
+            "folio": "ff. 273-274"
+        },
+        "Lichfield29": {
+            "First Lines": "\nHo sire quod the knyght good sir no more of \u00feisThat \u021de\n                    han seide is right ynowe ywis\u2026\n",
+            "Last Lines": "\n\u2026And thus he seide to vs euerechonThis swete preste \u00feis\n                    good man Sir Iohn\n",
+            "Attributed Title": "\n\u2026and heer / bygynneth the prologe of the None Preeste (f. 241); The\n                    prologe (margin, f. 241); The prologe of \u00fee nonne preest (RT); Here endeth\n                    the prologe of the non prest his tale\u2026 (f. 241v)",
+            "folio": "ff. 241-241v"
+        },
+        "Lincoln110": {
+            "First Lines": "\nHO quod \u00fee kny\u021dt good sir no more of \u00feis\u00feat\n                    \u021de han seid is ri\u021dt y now ywys\u2026\n",
+            "Last Lines": "\n\u2026And \u00feus he seide vn to vs euery chone\u00feis swete\n                    preest \u00feis gentil man sir Ion\n",
+            "Attributed Title": "\n\u2026Heere bigynnyth \u00fee prolog of \u00fee Nunnes / preest (f.\n                        231v)",
+            "folio": "ff. 231v-232v"
+        },
+        "LonPhys388": {
+            "First Lines": "\nHO quod the knyght goode sir no more of thisThat ye han seid is\n                    Right Inow I wis\u2026\n",
+            "Last Lines": "\n\u2026And thus he saide vnto vs euerichonThis swete priest this\n                    goodely man sir Iohn\n",
+            "Note": "\n\u2018Short Form\u2019, lacking lines VII.2771-90.",
+            "Attributed Title": "\nIncipit prologus Prisbiteri (f. 300v); Explicit\n                        Prologus (f. 301v)",
+            "folio": "ff. 300v-301v"
+        },
+        "RylandsEng113": {
+            "First Lines": "\nHo quod the knyght good ser no more of \u00feis\u00feat ye haue\n                    seid is right I now I wis\u2026\n",
+            "Last Lines": "\n\u2026And \u00feus he seid vnto vs euerychonThis good Prest\n                    \u00feis goodly man sir Iohn\n",
+            "Attributed Title": "\n\u2026and begynneth \u00fee prologe of \u00fee Nonnes Prest (f. 247,\n                    foot)",
+            "folio": "f. 147v"
+        },
+        "Petworth7": {
+            "First Lines": "\nHo quod \u00fee kny\u021dt no more good of \u00feisThat \u021de han\n                    said is ri\u021dt ynowe ywis\u2026\n",
+            "Last Lines": "\n\u2026And \u00feus seide to vs euerychonMy tale I wil bygynne\n                    anon\n",
+            "Note": "\n\u2018Short Form\u2019, lacking lines VII.2771-90.",
+            "Attributed Title": "\n\u2026And here / bygynneth the non preest his prologe (f. 258); The\n                    prologe (f. 258, margin); Thus ende\u00fe \u00fee prologe of \u00fee nonne\n                    preste (f. 258v)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 258-258v"
+        },
+        "Austin143": {
+            "First Lines": "\nhoo quod the knyght good syre na more of thisThat ye haue sayd ys\n                    ryght y nowgh y wys\u2026\n",
+            "Last Lines": "\n\u2026And \u00feus he sayde to vs euerychonThis good preste this\n                    goodly man syre Iohn\n",
+            "Attributed Title": "\n\u2026and / begynnyth the Prologe of the nonnys Prest (f. 186)",
+            "folio": "ff. 186-186v"
+        },
+        "ChicagoUL564": {
+            "First Lines": "\nHoo quod \u00fee knyht nomore of this\u00feat \u021de haue seyd is\n                    ryht ynowh ywys\u2026\n",
+            "Last Lines": "\n\u2026And \u00feus he seyde vn to vs eurychonThys swete prest\n                    \u00feis gode man sir Iohn\n",
+            "Note": "\n\u2018Short Form\u2019, lacking lines VII.2771-90.",
+            "folio": "ff. 158v-159"
+        },
+        "PierpontM249": {
+            "First Lines": "\nLo\n                    sire quod the knyght goode sir nomore of thisThat ye han seide ys right\n                    ynowe ywys\u2026\n",
+            "Last Lines": "\n\u2026And thus he seide to vs euerychonThis swete preest this good\n                    sir Iohn\n",
+            "Attributed Title": "\n\u2026Of the prologe / of the Nonne Prest here ys the bygynneng (f.\n                        230v); Here endeth the prologe of the Nonne Preest his /\n                    tale\u2026 (f. 231",
+            "folio": "ff. 230v-231"
+        },
+        "PhilRos10841": {
+            "First Lines": "\nHO quod the knyght good sire no more of thisThat yee han seyd is\n                    ryght Inowgh I wis\u2026\n",
+            "Last Lines": "\n\u2026And thus he seyde to vs euerichon\u00deis sweete prest this\n                    good man sire Ion\u2026\n",
+            "Note": "\nVII.2791 omitted.",
+            "Attributed Title": "\n\u2026And here begynned the / Prolog of the Nonne preest (f.\n                        34v); The Nonne Preest (RT)",
+            "folio": "ff. 34v-35"
+        },
+        "PUL100": {
+            "First Lines": "\nNowe quod our Ost Sire no more of thisThat yee have seid is right\n                    Inow I wis\u2026\n",
+            "Last Lines": "\n\u2026And thus he seid to vs everichonThis swet prest \u00feis\n                    goodly man sire Iohn\n",
+            "Note": "\n\u2018Short Form\u2019, lacking lines VII.2771-90.",
+            "Attributed Title": "\nHere / begynnyth the Nonnys Prestis prolog (rubric, f. 191); Prologg (Rt);\n                    Here endith the Nonnys Prestis prolog\u2026 (f. 191v,\n                    foot)",
+            "folio": "ff. 191-191v"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nHoo quod the knyght good sire namoore thisTha ye han seyd is right\n                    ynough ywis\u2026\n",
+            "Last Lines": "\n\u2026And thus he seyde vn to vs euerichonThis sweete preest this\n                    goodly man sir Iohn\n",
+            "Attributed Title": "\nHeere stynteth the knyght the monk of his tale / The Prologe of the Nonnes\n                    preestes tale (f. 178); Explict (f. 178v)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 178-178v"
+        },
+        "BNangl39": {
+            "First Lines": "\nHO quod the knyght goode no more of \u00feis\u00feat yee haue seid\n                    is right ynough ywis\u2026\n",
+            "Last Lines": "\n\u2026and this he seid vnto vs euerychonthis swete preest this\n                    goodly man sir Iohn\n",
+            "Note": "\n\u2018Short Form\u2019, lacking lines VII.2771-90.",
+            "Attributed Title": "\n\u2026sed consequenter incipiunt ver / ba militis ad monachum sic\n                    (f. 73va)",
+            "folio": "ff. 73va2-73vb"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nHo quod the kni\u021dt goode Sir nomore of thisThan ye han saide is\n                    ri\u021dt Inou\u021d I wys\u2026\n",
+            "Last Lines": "\n\u2026And thus he seid to vs euerichonThis swete prest this goodli\n                    man Sir Iohn\n",
+            "Attributed Title": "\n\u2026And / hiere beginneth the prolog / of the Nonnes Preest (f. 205);\n                    Hiere endeth the Prolog of / the Nonnes preest\u2026 (f.\n                    205v)",
+            "folio": "ff. 205-205v"
+        },
+        "TokyoTak32": {
+            "First Lines": "\nHOo quod thee knyght good sire no more of thisThat yee haue seyd is\n                    Ryght I nowgh I wis\u2026\n",
+            "Last Lines": "\n\u2026And thus hee seyde to vs EverichonThis prest this godde man\n                    sire Iohn\n",
+            "Attributed Title": "\nHere bee gynnyht thee prologe of the Nvnnis / presttis tale (f.\n                        128rb)",
+            "folio": "ff. 128ra-128rb"
+        },
+        "Bodmer48": {
+            "First Lines": "\nHo quod \u00fee knight good sir no more of \u00feis\u00feat ye haue\n                    seid is right ynow y wis\u2026\n",
+            "Last Lines": "\n\u2026& \u00feus he seid to vs euerichone\u00feis swete prest\n                    \u00feis good man sir Ion\n",
+            "Note": "\nVII.774 omitted.",
+            "Attributed Title": "\nThe Prolog of \u00fee Nonnes Prest (rubric, f. 202)",
+            "Facsimiles": "\n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n",
+            "folio": "ff. 202-202v"
+        }
+    }
+}

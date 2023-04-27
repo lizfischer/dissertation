@@ -1,0 +1,64 @@
+{
+    "_id": 6586,
+    "_header": "Who will be whole and keep him from sickness",
+    "Note": "Compare a similar poem in rhyme royal in the Secrees of Old Philisofres, Steele (1894)\nXSteele, Robert. Lydgate and Burgh\u2019s Secrees of Old Philisoffres: A version of the \u2018Secreta Secretorum\u2019.\nEETS e.s. 66 (1894); repr. 1973, 41; see also in further editions of Shepheardes Kalendar, STC 22409-22423.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "A Doctryne for Pestilence",
+    "Subjects": "pestilence; medicine",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, \u2018A Doctryne for Pestilence\u2019 \u2014 three 8-line stanzas followed without a break by 1356 except in U. S. National Library of Medicine MS E 4.",
+    "_witnesses": {
+        "BodLauMis683": {
+            "First Lines": "\nWho wil be hooll & kepe hym fro siknesseAnd resist the strook\n                    of pestylence\u2026\n",
+            "Last Lines": "\n\u2026the morwe sleep callid gyldyn in sentencegretly helpeth ageyn\n                    the mystis blak\n",
+            "Note": "\nPreceded, not followed, by 1356.",
+            "Attributed Title": "\nHEre begynneth a doctryne for pestilence (f. 62)",
+            "folio": "ff. 62-62v"
+        },
+        "BodRawC48": {
+            "First Lines": "\nwho wil be hool and keep hym fro sekenesseAnd resiste the stroke of\n                    pestilence\u2026\n",
+            "Attributed Title": "\nDoctrina patris ad ffilium (f. 128v)",
+            "folio": "ff. 128v-130"
+        },
+        "CamJes56": {
+            "Note": "\nWith an extra stanza",
+            "folio": "f. 44"
+        },
+        "BLAdd10099": {
+            "First Lines": "\nWho wyll be hole and kepe hym frome seknesAnd Resiste the\n                        stok stroke of pestilence\u2026\n",
+            "Last Lines": "\n\u2026\u00fee morowe slepe called gilden in sentenceGretely helpith\n                    ayeyn mistis blake\n",
+            "Attributed Title": "\nIncipit doctrina sana (f. 211)",
+            "folio": "f. 211"
+        },
+        "BLLan699": {
+            "First Lines": "\nWhoo will been holle & kepe hym from sekenesseAnd resiste the\n                    strok of pestilance\u2026\n",
+            "Last Lines": "\n\u2026The morwe sleep callid gyldene in sentenceGretly helpith a\n                    yeen the mystis blake\n",
+            "Note": "\nFollowed immediately by 1356.",
+            "Attributed Title": "\nIncipit dietarium (f. 85v)",
+            "Editions": "\n\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 702.\nCohen,  Helen Louise. \n             The Ballade.\n         New York: Columbia UP, 1915: 263.\nB\u00fchler,  Kurt. \n             \u201cLydgate\u2019s Rules of Health in MS Lansdowne 699.\u201d \n             Medium \u00c6vum\n         3 (1934): 51-6: 52.\n\n",
+            "folio": "f. 85v1"
+        },
+        "NatLibMed514": {
+            "First Lines": "\nWho woll bene holl & kep hym fro seknesseAnd resiste \u00fee stroke of pestelence\u2026\n",
+            "Last Lines": "\n\u2026The morow slepe called golden insentenceGrettely helpyth ageyns \u00fee mystis blakeExplicit\n",
+            "Note": "\nNote that 1356 precedes 3588 rather than following here as is typically the case.",
+            "Facsimiles": "\n\nDigital Facsimile of U.S. National Library of Medicine (Bethesda, MD) MS E 4.\n         https://collections.nlm.nih.gov/bookviewer?PID=nlm:nlmuid-100899906-bk. \n",
+            "folio": "ff. 66v-67"
+        },
+        "HunHM183": {
+            "Editions": "\nBrydges,  Sir Samuel Egerton. \n             Censura Literaria.\n         10 vols. London: Longman, 1805-09; 2nd ed., 1815: 7.345-49 (new ser.).\n",
+            "folio": "f. 5va1"
+        },
+        "TCD537": {
+            "First Lines": "\nWho wilbe hole & kepe him selfe from sicknesand easiste the\n                    stroke of pestilencelet him be glade & voide all hevinesflee\n                    wicked ayres eschewe the presence\u2026\n",
+            "Last Lines": "\n\u2026the morowe sleepe called golden sentencegreatly holpeth\n                    agaynste \u00fee mystes blacke\n",
+            "Note": "\nFollowed immediately by 1356.",
+            "Attributed Title": "\nHere followeth the governance of healthe (p. 74)",
+            "folio": "p. 74"
+        },
+        "Leiden": {
+            "Note": "\nEight additional stanzas.",
+            "folio": "f. 98v"
+        }
+    }
+}

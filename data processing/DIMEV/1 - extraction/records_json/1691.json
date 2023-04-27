@@ -1,0 +1,47 @@
+{
+    "_id": 1691,
+    "_header": "Hail be Thou Mary the mother of Christ",
+    "Title(s)": "Ave regina celorum",
+    "Subjects": "hymns, to Virgin Mary; Virgin Mary, hymns to",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "Macaronic": "Latin",
+    "_description": "Ave regina celorum \u2014 six 8-line stanzas (ababbcbc), each with Latin final line",
+    "_witnesses": {
+        "OxfBal354": {
+            "First Lines": "\nHayle be thow mary moder of crystHayle be thou blessed \u00feat\n                    bare a child\u2026\n",
+            "Last Lines": "\n\u2026for me & all crystyn thow prayPro salute\n                    fideliumExplicit\n",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 165-6.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 59-60.\n\n",
+            "folio": "pp. 315-316"
+        },
+        "CamTCC652": {
+            "First Lines": "\nHayll mary the mod[ ]and hayll the bles[ ]\u2026\n",
+            "Last Lines": "\n\u2026hall that Gabryell on [ ]Saynge Aue regina celi [\n                    ]\n",
+            "Note": "\nStanza 1 only; right edge torn.",
+            "Editions": "\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.252.\n",
+            "folio": "f. 172"
+        },
+        "Lam853": {
+            "First Lines": "\nHEil be \u00feou marie \u00fee modir of cristHeil \u00fee\n                    blessidist \u00feat euere bare childHeil \u00feat conceyuedist al wi\u00fe\n                    list\u00dee sone of god bo\u00fee meeke & mylde\u2026\n",
+            "Last Lines": "\n\u2026Heil cheefest of chastite for so\u00fee to sayLady kepe vs so\n                    in oure last day\u00deat we may come to \u00fei kingdomFor me &\n                    alle cristen \u00feou prayPro salute fidelum Amen\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Hymns to the Virgin and Christ\u2026and other religious poems.\nEETS\n         o.s. 24 (1867); repr. 1973: 4-5.\n",
+            "folio": "pp. 24-26"
+        },
+        "NLS1931": {
+            "First Lines": "\nHeyle be \u00feu mary \u00feo moder of clrysteHeyle be\n                    \u00feo bleste \u00feat euer bare chylde\u2026\n",
+            "Last Lines": "\n\u2026for hus and for all odur \u00feu preyEt pro salute\n                        fidelium\n\n",
+            "Attributed Title": "\nAve regina celorum (RT)",
+            "Facsimiles": "\nHardman,  Phillipa. \n             The Heege Manuscript: A Facsimile of National Library of Scotland MS\n                Advocates 19.3.1.\n         Leeds Texts and Monographs, n.s. 16. Leeds: School of English,\n            2000. \n",
+            "Editions": "\n\nTurnbull,  William Barclay David Donald,\n                        ed.  \n             The Visions of Tundale.\n         Edinburgh: T.G. Stevenson, 1843: 145-6.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 41-2.\n\n",
+            "folio": "ff. 65-65v"
+        },
+        "TCD516": {
+            "First Lines": "\nHaile be \u00feu maide modir of cristhaile be \u00feu blessidest\n                    \u00feat euer bare childe\u2026\n",
+            "Last Lines": "\n\u2026ffor me and al cristen \u00feu praypro salute\n                    fidelium\n\n",
+            "Attributed Author": "\nquod Benett (f. 26)",
+            "Attributed Title": "\nA deuow deuowte salutacioun of Aue regina celorum (f.\n                    25v)",
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 41-2.\n",
+            "folio": "ff. 25v-26"
+        }
+    }
+}

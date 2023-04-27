@@ -1,0 +1,15 @@
+{
+    "_id": 5488,
+    "_header": "The sun is brighter than the moon",
+    "Subjects": "Virgin Mary, songs in honour of; translations",
+    "Versification": "\u2014 four-line \u2014 abcb",
+    "_description": "In praise of the Virgin Mary \u2014 four lines translating \u2018Sol luna lucider\u2019",
+    "_witnesses": {
+        "OxfBal230": {
+            "Transcription": "\n\u00dee sonne is brithere \u00feane \u00fee mone\u00fee mone\n                    \u00feane \u00fee stere\u00fee louerd \u00feat alle \u00feinge\n                    yschopmakede his moder herre\n",
+            "Note": "\nTranslating \u2018Sol luna lucidior\u2026\u2019 which precedes\n                    it.",
+            "Editions": "\nMynors,  Roger Aubrey Baskerville,\n                        ed.  \n             Catalogue of Manuscripts in Balliol College Library.\n         Oxford: Clarendon, 1962: 241.\n",
+            "folio": "f. 122vb"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "_id": 3554,
+    "_header": "Most noble prince of Christian princes all",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "To King Henry VI on his Coronation",
+    "Subjects": "Henry VI, coronation; occasional verse; historical poems; envoys",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "To King Henry VI on his Coronation, by Lydgate \u2014 eighteen 8-line stanzas (ababbcbc) including 3-stanza Envoy",
+    "_witnesses": {
+        "BodAsh59": {
+            "First Lines": "\nMOost noble prynce of cristen Prynces allefflouring in yow\u00fee\n                    and vertuous InnosenceWhome god allone list of his grace to\n                    calle\u00feis daye testate of knightly excellence\u2026\n",
+            "Last Lines": "\n\u2026And god shal sende \u00feee frome \u00fee heven dovneGrace\n                    and gode hure to \u00fey roial estate\n",
+            "Attributed Title": "\nNowe here folowe\u00fee nexst a balade made by \u00feat solempne clerk\n                    Lidegate daun Johan . presented to kynge henry \u00fee sixst his soverin Lorde.\n                    \u00fee daye of \u00feat royal solempnysacoun of his coronacoun at Westminster\n                    (f. 54)",
+            "folio": "ff. 54-56v"
+        },
+        "CamTCC600": {
+            "First Lines": "\nMoost noble Prynce of cristin prynces allefflouring in you\u00fee\n                    and vertuous InnocenceWhome god aboue lift of his grace calle\u00deis\n                    day testaate of knyghtly excellence\u2026\n",
+            "Last Lines": "\n\u2026And god shal sende frome \u00fee heven adounGrace and goode\n                    hure vn to \u00fey Royale state\n",
+            "Attributed Title": "\nLoo here filowing beginne\u00fe a balade whiche daun Johan Lidegate \u00fee\n                    Munk of Bury made vn to \u00fee Kyng \u00feis Iune yeere of his coronacion (p.\n                    154); Balade of \u00fee Kynges Coronacion (RT)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 324-30.\n",
+            "folio": "pp. 154-158"
+        },
+        "BLHar2251": {
+            "First Lines": "\nMOst noble prince of cristen princes allefflowryng in yowth and\n                    vertuous Innocence\u2026\n",
+            "Last Lines": "\n\u2026And god shal sh sende from the heven downeGrace\n                    and goode hure vnto thy Royal estate\n",
+            "Note": "\nOmits Envoy.",
+            "Editions": "\nWright,  Thomas,\n                        ed.  \n             Political Poems and Songs relating to English History, composed during\n                the period From the Accession of Edward III to that of Richard III.\n             2 vols. \n             Rolls Series\n         14 (1859, 1861); repr. Kraus, 1965: 2.141-5.\n",
+            "folio": "ff. 251v-253v"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nMost noble prince of cristen prences alleflowryng in youthe of\n                    vertuous per innocence\u2026\n",
+            "Last Lines": "\n\u2026And god shall send the from heven adownegrace and good cure\n                    to thy royall astat\n",
+            "Attributed Author": "\nAmen Iohn lidgat monke of bury wreten by Iohn Stowe (all except\n                    \u2018Amen\u2019 in rubric after last line, f. 86; written by the scribe, John\n                    Stow)",
+            "Attributed Title": "\nher beginyth a tretys of the kynges coronacion henry the vj Made by the\n                    monke of bury Iohn lidgatt inne 1430 \u00fee v of november (f. 84 as heading, by\n                    scribe, John Stow)",
+            "folio": "ff. 84-86"
+        }
+    }
+}

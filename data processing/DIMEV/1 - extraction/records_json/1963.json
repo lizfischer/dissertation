@@ -1,0 +1,13 @@
+{
+    "_id": 1963,
+    "_header": "Here endeth the Bible",
+    "Subjects": "rubrics",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Concluding rubric at end of Wycliffite Bible",
+    "_witnesses": {
+        "TCD67": {
+            "Transcription": "\nHere endi\u00fe \u00fee bibleJhesu helpe us for we ben\n                    feble\n",
+            "folio": "f. 235v"
+        }
+    }
+}

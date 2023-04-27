@@ -1,0 +1,37 @@
+{
+    "_id": 4270,
+    "_header": "On Her is all my life i-long",
+    "Note": "Critical edition Dobson and Harrison (1979)\nXEric John Dobson, and F. L. Harrison. Medieval English Songs. New York: Cambridge UP, 1979, 130-1.",
+    "Subjects": "Virgin Mary, prayers to; prayers, to Virgin Mary; songs",
+    "Versification": "\u2014 ten-line \u2014 ababaababa",
+    "_description": "An orison to the Virgin Mary \u2014 five 10-line stanzas (ababababab)",
+    "_witnesses": {
+        "OxfJesus29": {
+            "First Lines": "\nON hire is al my lif i longof hwam ich wille\n                    synge\u2026\n",
+            "Last Lines": "\n\u2026Nu and euer moTo longe Ich habbe soth ibeo\u2026\n",
+            "Note": "\nLines 1-31 only.",
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             An Old English Miscellany: A Bestiary, Kentish Sermons, Proverbs of\n                Alfred and Religious Poems of the Thirteenth Century.\nEETS\n         o.s. 49 (1872); repr. 1988: 158-62.\n",
+            "folio": "part II, f. 180v"
+        },
+        "CamTCC323": {
+            "First Lines": "\nOn hire is al mi lif ylongOf vam ic wille singenAnd herien him\n                    \u00feer among\u2026\n",
+            "Last Lines": "\n\u2026Of my lif ic ne recchelauedi merci\n",
+            "Note": "\nLines 1-31 only.",
+            "Attributed Title": "\nAlius exemplum de eodem (f. 81v)\n",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 56-60.\nChambers,  Edmund Kerchever,  and  Frank Sidgwick.  \n             Early English Lyrics\u2026.\n         London: Buller, 1907, 1911 et seq: 94-6.\nStevick,  Robert D.,\n                        ed.  \n             One Hundred Middle English Lyrics.\n         Indianapolis: Bobbs-Merrill, 1964: 18-20.\n\n",
+            "folio": "ff. 81v-82"
+        },
+        "BLCottCalAIX": {
+            "First Lines": "\nOn hire is al mi lif ilongOf h\u01bfam ich wule singe\u2026\n",
+            "Last Lines": "\n\u2026For mine sunnes ich am soriOf \u00feis \u01bforld ich ne reccheleudi merci amen\n",
+            "Note": "\nWritten as prose.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Caligula MS A IX.\n         http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Caligula_A_IX. \n",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 56-60.\nMorris,  Richard,\n                        ed.  \n             An Old English Miscellany: A Bestiary, Kentish Sermons, Proverbs of\n                Alfred and Religious Poems of the Thirteenth Century.\nEETS\n         o.s. 49 (1872); repr. 1988: 158-62.\nWright,  Thomas,\n                        ed.  \n             The Owl and the Nightingale.\nPercy Society\n         11. London: Richard, 1843: 65-6.\nPatterson,  Frank A. \n             The Middle English Penitential Lyric.\nColumbia University Studies in English.\n         New York: Columbia Press, 1911: 95-6.\nSaupe,  Karen,\n                        ed.  \n             Middle English Marian\n                    Lyrics.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1998: 130-2; 250-2.\n\n",
+            "folio": "ff. 246va-246vb"
+        },
+        "BLRoy2Fviii": {
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 56-60.\n",
+            "folio": "f. 1v"
+        }
+    }
+}

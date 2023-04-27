@@ -1,0 +1,38 @@
+{
+    "_id": 1296,
+    "_header": "Father ours that is heaven",
+    "Note": "This version of the Pater noster without the Exposition occurs in the Lay Folk\u2019s Mass Book (Simmons (1879)\nXSimmons, Thomas Frederick. The Lay Folks\u2019 Mass Book.\nEETS o.s. 71 (1879); repr. 1968, 46-7).",
+    "Title(s)": "Pater noster",
+    "Subjects": "Lord\u2019s Prayer, exposition of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Pater noster, followed by Exposition \u2014 134 couplets",
+    "_witnesses": {
+        "BodFair14": {
+            "First Lines": "\nFader ours \u00feat is in heiuenblessed bi \u00fei name to\n                    neyuen\u2026\n",
+            "Last Lines": "\n\u2026& shilde vs fra alkin illeAmen leue fader \u00feou hit\n                    fulfille\n",
+            "Attributed Title": "\npater noster (f. 108ra)",
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 1437-55.\n",
+            "folio": "ff. 108ra-109va"
+        },
+        "BlCottGalEIX": {
+            "First Lines": "\nCrist him self made \u00feis prayereWharfore it es with outen\n                    pere\u00feare es no prayer \u00feat ordand esso medeful of \u00fee\n                    mikilnes\u2026\n",
+            "Last Lines": "\n\u2026oure blisced fader \u00feou it fulfilland schild vs euer fro\n                    alkins ill\n",
+            "Note": "\nFollowed by \u2018AMEN\u2019 on next line (f.\n                    75ra).",
+            "Attributed Title": "\nPater noster qui es in celis (in engrossed initials with decorated\n                    red \u2018P\u2019, top f. 73vb)",
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 1437-55.\n",
+            "folio": "ff. 73vb-75ra"
+        },
+        "BLCottVesAIII": {
+            "First Lines": "\nffader vrs \u00feat es in heuenHalud be \u00fei nam to\n                    neuen\u2026\n",
+            "Last Lines": "\n\u2026And sceild us all fra alkin ilAmen leif fader \u00feou it ful\n                    fill\n",
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 1437-55.\n",
+            "folio": "ff. 140rb-141vb"
+        },
+        "GottingenTheo107": {
+            "First Lines": "\nfAdir vr \u00feat es in heuenHalud be \u00fei nam to\n                    neuen\u2026\n",
+            "Last Lines": "\n\u2026Bot schild vs fra alkin illAmen fadir \u00feu it\n                    fulfill\n",
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 1437-55.\n",
+            "folio": "ff. 165vb-167va"
+        }
+    }
+}

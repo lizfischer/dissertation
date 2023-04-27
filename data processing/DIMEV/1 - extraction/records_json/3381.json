@@ -1,0 +1,47 @@
+{
+    "_id": 3381,
+    "_header": "Man that life upholdest / think when thou art oldest",
+    "Subjects": "sermons, verse in; advice, spiritual",
+    "Versification": "\u2014 six-line \u2014 aaaabb, aabaab",
+    "Bibliographic Ghosts": "Cambridge UK, St John\u2019s College F.22 (159)",
+    "_description": "Do good while you may (6 lines), a tag in the Fasciculus Morum; listed by Wenzel (1978)\nXWenzel, Siegfried. Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle English Poems. Cambridge, MA: Medieval Academy of America, 1978 as \u2018When \u00feou \u00fey lyfe vp-holdyste\u2026\u2019",
+    "_witnesses": {
+        "BodLauMis213": {
+            "Transcription": "\nMan that lyfe vp holdestthenke wen \u00feu a toldestAnd do good\n                    at thi yateWhen thu with deth vnboldestthow shalt not they thow\n                    woldestffor than is al to late\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 130v-131"
+        },
+        "Bod187": {
+            "First Lines": "\nMan \u00feat lif vpholdyst\u00feenke wanne \u00feu a\n                    coldyst\u2026\n",
+            "Last Lines": "\n\u2026\u00feu shalt nat now \u00feu woldystffor \u00feenne hyt ys\n                    to late\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 186vb"
+        },
+        "Bod410": {
+            "First Lines": "\nMan \u00feat lyf vt holdest thenk whan \u00feu art\n                    oldest\u2026\n",
+            "Last Lines": "\n\u2026\u00feu shalt not you \u00feu woldestfor \u00fean is all to\n                    late\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 67"
+        },
+        "BodRawC670": {
+            "Transcription": "\nWhen \u00feou \u00fey lyfe vp holdyste\u00deynke wan \u00feou arte\n                    oldysteAnd do gode at \u00fee \u021dateWen \u00feou with deth\n                    vnboldeste[\u00feou shalt not \u00feou \u00feou woldest]For \u00fean\n                    is al to late\n",
+            "Editions": "\n\nFoster,  Frances Allen,\n                        ed.  \n             \u201cSome English Words from the Fasciculus Morum.\u201d \n             Essays and Studies in Honor of Carleton Brown.\n            Percy Waldron Long, ed. \n         New York: NYU Press; London: Humphrey Milford, Oxford University Pres,\n            1940: 149-57: 157.\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 190.\n\n",
+            "folio": "f. 114"
+        },
+        "CamGon364": {
+            "First Lines": "\nMan \u00feat lyf vp holdest\u00feynke whon \u00feou\n                    coldest\u2026\n",
+            "Last Lines": "\n\u2026\u00fean schal nougth \u00feou \u00feowh \u00feou woldestffor\n                    \u00fean is al to late\n",
+            "folio": "f. 111va"
+        },
+        "Lincoln44": {
+            "Transcription": "\nMan \u00feat lyf vp holdest\u00feenke \u00fee wen \u00feu art\n                    oldestwen \u00feu wyt \u00fee\u00fe vndoldest\u00feu ne schuld \u00fee\n                    \u00fei woldestand do goude at \u00fei \u021datefor \u00fean it is all\n                    to late\n",
+            "folio": "f. 200vb"
+        },
+        "WorcF19": {
+            "First Lines": "\nMan \u00feat lyf vpholdis\u00feenk wen \u00feu\n                    acoldest\u2026\n",
+            "Last Lines": "\n\u2026\u00feu schal no\u021dt yf \u00feu woldistfor \u00feen y al\n                    to late\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 211va"
+        }
+    }
+}

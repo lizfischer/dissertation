@@ -1,0 +1,53 @@
+{
+    "_id": 4113,
+    "_header": "O ye men that by me wend",
+    "Note": "For other translations, see 5026, 6231, 6839, 6843.",
+    "Subjects": "sermons, verse in; scripture texts, Engl. trans. of; Christ, appeal of, to man",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "\u2018O vos omnes qui transitis\u2019, etc. (vv. 4), translating Lam. 1.12 \u2014 a tag in the Fasciculus morum; Wenzel (1978)\nXWenzel, Siegfried. Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle English Poems. Cambridge, MA: Medieval Academy of America, 1978, prints \u2018A \u021de men\u2026\u2019",
+    "_witnesses": {
+        "Bod410": {
+            "Transcription": "\nA \u021de men \u00feat by me wende a byde a whyle & loke on\n                    meloke wher \u021de can knowe or fynde such sorweos I suffre vp on\n                    \u00fee tre\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 25"
+        },
+        "BodLauMis213": {
+            "Transcription": "\nA \u021de men \u00feat be me wendea byde a whyle & loke one\n                    meloke where \u021de con knaw or fyndesoche sorow as I suffyr vp one\n                    \u00feis tre\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 34v"
+        },
+        "BodRawC670": {
+            "Transcription": "\nA \u021de men \u00feat by me wendennAbydes a while & loke on\n                    me\u021def \u021de fyndenn in any endeSuche sorow as her \u021de se on\n                    me\n",
+            "Editions": "\n\nWoolf,  Rosemary. \n             The English Religious Lyric in the Middle Ages.\n         Oxford: Clarendon, 1968: 43.\nSilverstein,  Theodore,\n                        ed.  \n             Medieval English Lyrics.\n         York Medieval Texts. London: Edw. Arnold, 1971: 78.\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 165.\n\n",
+            "folio": "f. 45v"
+        },
+        "CamGon71": {
+            "Transcription": "\nAll \u00fee men \u00feat by me wenden Abyde a wyle & loke on\n                    meIf \u021de fynden In any swylk sorw as \u021de sen on me\n",
+            "folio": "f. 34v"
+        },
+        "CamGon364": {
+            "Transcription": "\nHa \u021de men \u00feat by me wendeabydyth aqwyle & lokyth on\n                    meIf \u021de fynde in ony endeSwych peyne as \u021de fynde in\n                    me\n",
+            "folio": "f. 40vb"
+        },
+        "EDU82": {
+            "Transcription": "\nAl \u021de men that be the waye wendA byde a whyle & loketh on\n                    me\u00a1yfe \u00a1e fynde in any othersyche sorowe as here \u021de see on\n                    me\n",
+            "folio": "f. 54"
+        },
+        "Lincoln44": {
+            "Transcription": "\nA\u021den men by me wende\u00feA byde\u00fe a whyle an loke on\n                    meIf \u021de fynde yn eny endesuche sorwe as here \u021de sen on\n                    me\n",
+            "folio": "f. 175vb"
+        },
+        "Spalding": {
+            "Transcription": "\nYe men \u00feat by ye ware [wyd]a byde a whyle & loke on\n                    meif ye fynde in any endeswylk sorow als ye may se in me\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 48v"
+        },
+        "WorcF19": {
+            "Transcription": "\nAl \u00fee men \u00feat by me wendynAbyd a qwyll & loke on\n                    meIf \u00feu fynde In ani endeSuche sorn als \u00fee seie on\n                    me\n",
+            "folio": "f. 178rb"
+        },
+        "VaticanOtto": {
+            "folio": "f. 26v"
+        }
+    }
+}

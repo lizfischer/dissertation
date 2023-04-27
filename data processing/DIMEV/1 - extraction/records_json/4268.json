@@ -1,0 +1,26 @@
+{
+    "_id": 4268,
+    "_header": "On foot should be all Scots war",
+    "Title(s)": "Scottichronicon; Scotia sit guerra pedibus",
+    "Subjects": "Scots, battle actions; chronicles, verse in; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "London, British Library Harley 712.",
+    "_description": "Scotia sit guerra pedibus \u2014 seven couplets translating seven Latin lines in Fordun\u2019s Scottichronicon (Book 12, chap. 10)",
+    "_witnesses": {
+        "CamTCC1421": {
+            "First Lines": "\nOn fut suld be all scottes weirBe hyll \u2026\n",
+            "Note": "\n14 lines, added to bottom of page in fifteenth to sixteenth\n                    century.",
+            "folio": "f. 47"
+        },
+        "EDU186": {
+            "folio": ""
+        },
+        "ColumbaHse": {
+            "First Lines": "\nOne fuyt suld be all scottis weirBe hill & moss \u00feame self\n                    to weir\u2026\n",
+            "Last Lines": "\n\u2026This Is the Counsel & intentOf gud kinge Robertis\n                    testamen[t]\n",
+            "Note": "\n7 x 2, added to lower margin of page by another hand, same as adds to\n                    Latin version, \u2018Scotica sit guerra peditis mons mosseta\n                    terva\u2026\u2019 to lower margin f. 156v; in Book XXVI, ch. xi,\n                    xii and xiii (all on f. clvii).",
+            "Editions": "\n\nHearne,  Thomas,\n                        ed.  \n             Johannis de Fordun, Scotichronicon.\n         2 vols. Oxford: Sheldonian, 1722; Edinburgh, 1759: 2.232.\nPinkerton,  John,\n                        ed.  \n             Ancient Scottish Poems Never Before in Print.\n         2 vols. London and Edinburgh, 1786: 1.lxxxvi.\nLaing,  David. \n             Select Remains of the Ancient Popular and Romance Poetry of\n                Scotland.\n         Edinburgh: 1822; rev. \n                J.\n                Small\n            , Edinburgh: Blackwood, 1885; rev. \n                W. C.\n                Hazlitt\n            ,  Early Popular Poetry of Scotland, London: Reeves and\n            Turner, 1895.: 185; 1885, 186 (from MS olim Hector\n                        Boece).\n\n",
+            "folio": "f. 157"
+        }
+    }
+}

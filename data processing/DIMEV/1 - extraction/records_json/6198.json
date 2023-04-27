@@ -1,0 +1,15 @@
+{
+    "_id": 6198,
+    "_header": "Welcome most excellent high and Victorious",
+    "Subjects": "Henry VII; Bristol; pageant verses; occasional verse",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Pageant verses spoken by Iusticia to Henry VII in A.D. 1486 at Bristol \u2014 four stanzas rhyme royal",
+    "_witnesses": {
+        "BLCottJulBXII": {
+            "First Lines": "\nWelcome moost excellent high & victoriousWelcome delicate Rose\n                    of this mor brytaigne\u2026\n",
+            "Last Lines": "\n\u2026That from vertue to vertue ye may procedeAnd in all your\n                    Iourneys send you Right good spede\n",
+            "Note": "\nFolio number reflects the most recent foliation.",
+            "folio": "ff. 20-20v"
+        }
+    }
+}

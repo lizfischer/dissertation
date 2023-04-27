@@ -1,0 +1,26 @@
+{
+    "_id": 5467,
+    "_header": "The smaller peasen the more to pot",
+    "Subjects": "women; adultery; body, parts of; comic verse; erotic verse",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Fairness of a woman corresponds to her flightiness, translating a Latin distich, \u2018Quo minor est pisa tanto plures capitolla / Quo mage formosa mulier mage luxuriosa\u2019 \u2014 one couplet",
+    "_witnesses": {
+        "BodDou52": {
+            "Transcription": "\nThe smaller pesun the more to pottThe fayrer woman the more\n                    gylott\n",
+            "Note": "\nFollowed by a Latin distich on the same subject.",
+            "Editions": "\nF\u00f6rster,  Max. \n             \u201cDie Mittelenglische Sprichw\u00f6rtersammlung in Douce 52.\u201d \n             Festschrift zum XII Deutschen Neuphilolgentage in M\u00fcnchen\n                1906.\n            E. Stollreither, ed. \n         Erlangen (1906): 40-64: 53.\n",
+            "folio": "f. 26v"
+        },
+        "BLSl1210": {
+            "Note": "\nFollows 4434.",
+            "Editions": "\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 2.40.\n",
+            "folio": "f. 134"
+        },
+        "RylandsLat394": {
+            "Transcription": "\nThe smallere peses \u00fee mo to pottethe feyrer woman \u00fee more\n                    gyglotte\n",
+            "Note": "\nLatin distich follows.",
+            "Editions": "\n\nPantin,  William A. \n             \u201cA Medieval Collection of Latin and English Proverbs\u2026from Rylands\n                Latin MS. 394.\u201d \n             Bulletin of the John Rylands Library\n         14 (1930): 81-114: 103.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 561.\n\n",
+            "folio": "f. 16v"
+        }
+    }
+}

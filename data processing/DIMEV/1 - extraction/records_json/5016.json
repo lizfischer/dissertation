@@ -1,0 +1,20 @@
+{
+    "_id": 5016,
+    "_header": "Sovereigns and sirs if it be your wille",
+    "Subjects": "Anne, saint, life of; saints\u2019 lives",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "The Life of St. Anne \u2014 460 lines in quatrains",
+    "_witnesses": {
+        "BodTan407": {
+            "First Lines": "\nSOuereynys and serys \u021dyf it be \u021dour wylleTo here and to\n                    lere of thyng that is good \u2026\n",
+            "Last Lines": "\n\u2026And god saue vs alle \u00feat al thyng may saueAnd bryng vs\n                    to \u00fee blys \u00feat lestyth with owtyn ende\n",
+            "folio": "ff. 21-29"
+        },
+        "BLHar4012": {
+            "First Lines": "\nSOueraines & frendis if hit be your willTo here and to lere a\n                    \u00feinge \u00feat is good\u2026\n",
+            "Last Lines": "\n\u2026God saue vs all \u00feat all \u00feinge may haue &\n                    saueAnd bringe vs to his blis \u00feat lasti\u00fee withoute\n                    ende\n",
+            "Editions": "\nParker,  Roscoe E.,\n                        ed.  \n             The Middle English Stanzaic Versions of the Life of St. Anne.\nEETS\n         o.s. 174 (1928); repr. 1987: 110-26.\n",
+            "folio": "ff. 130-139v"
+        }
+    }
+}

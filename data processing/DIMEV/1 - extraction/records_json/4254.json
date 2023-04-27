@@ -1,0 +1,23 @@
+{
+    "_id": 4254,
+    "_header": "Omnipotentem semper adorant",
+    "Subjects": "God, hymns to; hymns, to God; Creation",
+    "Versification": "\u2014 eight-line \u2014 ababcdcd",
+    "Macaronic": "Latin",
+    "_description": "An aureate macaronic song of praise to the Lord of Creation \u2014 nine 8-line stanzas",
+    "_witnesses": {
+        "BodAsh189": {
+            "First Lines": "\n\nOmnipotentem semper adorantOperacyons heuenly & yerthly\n                    all\u2026\n",
+            "Last Lines": "\n\u2026The societe of seyntes he to us sendeEt benedicunt omne\n                        per euum\n\n",
+            "Note": "\nAt the end: \u2018Explicit\u2019.",
+            "folio": "ff. 107v-108v"
+        },
+        "BLAdd60577": {
+            "First Lines": "\n\nOmnipotentem semper adorant\u2026\n",
+            "Last Lines": "\n\u2026The societe of seyntys he to vs sendeEt benedicunt omne\n                        per euum\n\n",
+            "Note": "\nAt end, \u2018Pettantem danpnare caue nam labimur omnes / Aut sumus\n                        aut fuimus aut possumus esse quod hic est\u2019 (f. 64).",
+            "Facsimiles": "\nWilson,  Edward. \n             \u201cIntroduction.\u201d \n             The Winchester Anthology. A Facsimile of British Library Additional\n                Manuscript 60577. With an account of the music by \n                    Iain\n                    Fenlon. \n         Cambridge: D. S. Brewer, 1981. \n",
+            "folio": "ff. 63-64"
+        }
+    }
+}

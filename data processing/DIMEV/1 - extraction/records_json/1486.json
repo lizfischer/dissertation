@@ -1,0 +1,25 @@
+{
+    "_id": 1486,
+    "_header": "Gabriel that angel bright",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 456.",
+    "Subjects": "carols, Annunciation; Virgin Mary, Annunciation to",
+    "Versification": "\u2014 four-line, two-line \u2014 aaab, aa",
+    "Macaronic": "Latin",
+    "_description": "Annunciation carol \u2014 five quatrains (aaab) including refrain, \u2018Regina celi letare,\u2019 plus burden (bb): Now synge we syng we \u2018Regina celi letare\u2019",
+    "_witnesses": {
+        "BodEngPoete1": {
+            "First Lines": "\nGabriell \u00feat angell bry\u021dtBry\u021dter \u00fean \u00fee\n                    sonne is ly\u021dt \u2026\n",
+            "Last Lines": "\n\u2026To saue \u00fee solves \u00feat war forlostLetare\n",
+            "Editions": "\n\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977:  169-70; 1977, 150.\nWright,  Thomas,\n                        ed.  \n             Songs and Carols from a manuscript\u2026of the Fifteenth\n                Century.\nPercy Society\n         23. London: Richards, 1847: 33-4.\n\n",
+            "folio": "f. 26"
+        },
+        "OxfBal354": {
+            "First Lines": "\nGabryell that angell bryghtBryghtter than the son\n                    lyght\u2026\n",
+            "Last Lines": "\n\u2026hou kepe & save vs all from teneRegina celi\n                    letareExplicit\n",
+            "Note": "\n4 stanzas.",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977:  169-70; 1977, 150.\nFl\u00fcgel,  Ewald. \n             \u201cEnglische Weihnachtslieder aus einter Handschrift des Balliol College\n                zu Oxford.\u201d \n             Forschungen zur deutschen Philologie. Festgabe f\u00fcr Rudolf\n                Hildebrands.\n         Leipzig: Deit, 1894: 52-84: 65.\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 236.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 10.\nRickert,  Edith,\n                        ed.  \n             Ancient English Christmas Carols.\n         London: Chatto & Windus, 1910: 29.\nSegar,  Mary Gertrude,\n                        ed.  \n             A Mediaeval Anthology.\n         London, NY: Longmans, Green, 1915: 84.\n\n",
+            "folio": "p. 4642"
+        }
+    }
+}

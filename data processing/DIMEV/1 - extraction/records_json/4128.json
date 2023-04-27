@@ -1,0 +1,24 @@
+{
+    "_id": 4128,
+    "_header": "Of a true love clean and derne",
+    "Title(s)": "\u2018Of Clene Maydenhod\u2019",
+    "Subjects": "Virgin Mary",
+    "Versification": "\u2014 eight-line \u2014 abababab",
+    "_description": "\u2018Of Clene Maydenhod\u2019 \u2014 seventeen 8-line stanzas",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nOff A trewe loue clene & derneIchaue I write \u00fee a\n                    Ron\u2026\n",
+            "Last Lines": "\n\u2026\u00deat to \u00fee siht of \u00fei swete faceOn domes day we\n                    may come tille\n",
+            "Note": "\nOf Clene Maydenhod: see 4155.",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Stacions of Rome.\nEETS\n         o.s. 25 (1867); repr. 1973: supplement.\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 2.464-68.\nSegar,  Mary Gertrude,\n                        ed.  \n             A Mediaeval Anthology.\n         London, NY: Longmans, Green, 1915: 27-31 (13 stanzas only).\n\n",
+            "folio": "ff. 299rc2-299vb"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nOf a trewe loue clene and derneIchaue I write \u00fee\n                    aron\u2026\n",
+            "Last Lines": "\n\u2026\u00deat to \u00fee siht of \u00fei swete faceOn domes day we\n                    may come tille Amen\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 90ra-90rc"
+        }
+    }
+}

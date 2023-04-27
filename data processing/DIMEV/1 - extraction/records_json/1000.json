@@ -1,0 +1,29 @@
+{
+    "_id": 1000,
+    "_header": "Christ made to man a fair present / His bloody body with love I-brent",
+    "Note": "Stanza 4 = stanza 4 of 5850.",
+    "Subjects": "Christ, love of; Christ, sufferings of",
+    "Versification": "\u2014 four-line \u2014 aaaa",
+    "_description": "A song of the Love of Christ \u2014 44 lines mostly in 4-line stanzas but also couplets, six-line monorhyming stanzas, and six-line stanzas rhyming aabaab",
+    "_witnesses": {
+        "CamTCC353": {
+            "First Lines": "\nCrist made to man a fair presenthis blody body wi\u00fe loue\n                    ybrentThat blisful body his lyf ha\u00fe sentffor loue of man whom\n                    synne ha\u00fe blent\u2026\n",
+            "Last Lines": "\n\u2026Thanne shal my loue be trewe & fynAnd loue in loue shal\n                    make fyn\n",
+            "Note": "\nWritten by the same hand as 2459.",
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.166-7.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 235-7.\n\n",
+            "folio": "ff. 147rb-147va"
+        },
+        "GULHun512": {
+            "First Lines": "\nCrist maki\u00fe to man a fair presentHis blody body wi\u00fe loue\n                    brent\u2026\n",
+            "Last Lines": "\n\u2026\u00deanne schulde myn be trewe al tymAnd loue in loue schal\n                    make it fyn\n",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 113-14.\nDavies,  Reginald Thorne. \n             Medieval English Lyrics: a critical anthology.\n         London, 1963; Evanston, IL: Northwestern UP, 1964: 139-41.\n\n",
+            "folio": "ff. 34-35"
+        },
+        "HunHM127": {
+            "First Lines": "\nCrist made to man a faire presentHis blody body wi\u00fe loue y\n                    brent\u2026\n",
+            "Last Lines": "\n\u2026\u00fean schal my loue be trewe & finand loue in loue\n                    schal make fin\n",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 113-14.\nDavies,  Reginald Thorne. \n             Medieval English Lyrics: a critical anthology.\n         London, 1963; Evanston, IL: Northwestern UP, 1964: 139-41.\n\n",
+            "folio": "f. 51ra-51rb"
+        }
+    }
+}

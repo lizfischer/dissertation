@@ -1,0 +1,30 @@
+{
+    "_id": 3036,
+    "_header": "Laud of our Lord up to the heaven is raised",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "The Miracles of St. Edmund",
+    "Subjects": "Edmund of Abingdon, saint; miracles",
+    "Versification": "\u2014 eight-line, seven-line \u2014 ababbcbc, ababbcc",
+    "_description": "John Lydgate, The Miracles of St. Edmund \u2014 one opening rhyme royal, and fifty-seven 8-line stanzas",
+    "_witnesses": {
+        "BodLauMis683": {
+            "First Lines": "\nLaude of our lord vp to \u00fee hevene is reysedabooff \u00fee\n                    sonne and briht sterris cleere\u2026\n",
+            "Last Lines": "\n\u2026wolde interrupte his royal dygnytebe derogacyoun doon to his\n                    ffraunchyse\n",
+            "Attributed Title": "\nHere gynneth a myracle of Seynt Edmund (f. 42)",
+            "folio": "ff. 42-52v"
+        },
+        "BodAsh46": {
+            "First Lines": "\nLaude of our lord vp to the hevene is ReysedAbove the sonne and\n                    bryght sterrys CleereAnd in his seyntes Our lord Ihesu is preysedAs\n                    offte is seyn be ther devout prayeere\u2026\n",
+            "Last Lines": "\n\u2026Wolde interupte his Royal digniteBe deregacioun doon to his\n                    ffraunchyse\n",
+            "Note": "\n58 stanzas; at the end: \u2018Explicit\u2019.",
+            "Editions": "\nHorstmann,  Carl. \n             Altenglische Legenden: Neue Folge.\n         Heilbronn: Henninger, 1881: 440-5.\n",
+            "folio": "ff. 87-96v"
+        },
+        "BodTan347": {
+            "First Lines": "\n[L]Ande of our lord vp to hevene is reysedAbove the sonne and\n                    bryght sterrys cleer\u2026\n",
+            "Last Lines": "\n\u2026Wolde Interupe his Royal digniteBy derogacioun doon to his\n                    ffranchyse\n",
+            "Attributed Title": "\nA Requeste of the Translatour vn to seynt Edmond in Conservacioun of his\n                    ffranchyse (preceding final stanza)",
+            "folio": "ff. 88v-98"
+        }
+    }
+}

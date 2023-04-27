@@ -1,0 +1,21 @@
+{
+    "_id": 1175,
+    "_header": "Eftsoons yet John as he did ere",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Friday after Fourth Sunday in Advent, in \u2018expanded\u2019 Northern Homily Cycle \u2014 in couplets",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 122vb"
+        },
+        "BLHar4196": {
+            "First Lines": "\nEft sones \u021dit iohn als he did areOf ihesu crist witnes he bare\u2026\n",
+            "Last Lines": "\n\u2026And for to wend here in his wayAnd cum to lif \u00feat lastes ay\n",
+            "Note": "\nPreceded by Latin, \u201cIOhannes testimonium peribeba.\u201d",
+            "Attributed Title": "\nFeria vi quarte ebdomade aduentus domini Euangelium secundum Iohannem (rubric, f. 10ra)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): I.199-200.\n",
+            "folio": "f. 10ra-10rb"
+        }
+    }
+}

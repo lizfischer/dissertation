@@ -1,0 +1,107 @@
+{
+    "_id": 6369,
+    "_header": "When life is most loved and death is most hated",
+    "Note": "For other MSS that lack this couplet see 1170.",
+    "Title(s)": "Erthe upon Erthe",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "Bibliographic Ghosts": "San Marino, CA, Henry Huntington Library HM 144 [olim Huth 7] , f. 13v: actually in San Marino, CA, Henry Huntington Library HM 744 [olim Ashburnham 133; olim Gollancz].",
+    "_description": "\u2018Erthe upon Erthe\u2019 (B version) \u2014 in quatrains, with an introductory couplet",
+    "_witnesses": {
+        "BodLauMis23": {
+            "Editions": "\nMurray,  Hilda M. R.,\n                        ed.  \n             The Middle English Poem Erthe upon Erthe, printed from 24\n                manuscripts.\nEETS\n         o.s. 141 (1911); repr. 1964. \n",
+            "folio": "f. 111v"
+        },
+        "BodRawPoe32": {
+            "First Lines": "\nWhanne life is most louydAnd deth is most hatid\u2026\n",
+            "Last Lines": "\n\u2026So that erthe for the ertheStyd vp to thi holy\n                    hille\n",
+            "Note": "\n35 quatrains",
+            "Editions": "\n\nMurray,  Hilda M. R.,\n                        ed.  \n             The Middle English Poem Erthe upon Erthe, printed from 24\n                manuscripts.\nEETS\n         o.s. 141 (1911); repr. 1964. \nFiedler,  H. G. \n             \u201cEarth upon Earth.\u201d \n             Modern Language Review\n         3 (1908): 218-27: 222.\n\n",
+            "folio": "ff. 32v-35"
+        },
+        "CamStJohn127": {
+            "First Lines": "\nWhan lyf is louyd & de\u00fe ys most hatidDe\u00fe drawi\u00fe\n                    his draw\u021dtis & maket man ful nakid\u2026\n",
+            "Last Lines": "\n\u2026Wyte er\u00fee uppon er\u00fee \u00feat owre ne be for\n                    loreAnd brynge owre er\u00fee \u00feer boote is \u00feer fore\n",
+            "Note": "\nImmediately follows Edmund Rich\u2019s Speculum Ecclesie, 14\n                    monorhyming quatrains with introductory couplet.",
+            "Editions": "\n\nF\u00f6rster,  Max. \n             \u201cDie \u00e4lteste Fassung des mittelenglishce Gedichtes Earth Upon\n                Earth.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         138 (1919): 39-61: 50.\nPope,  Nancy. \n             \u201cErthe upon Erthe Revisited.\u201d \n             Journal of the Early Book Society\n         21 (2018): 53-95: 80-3.\n\n",
+            "folio": "ff. 44-45"
+        },
+        "CamTCC181": {
+            "Note": "\nFormerly listed under 1170.",
+            "Editions": "\nMurray,  Hilda M. R.,\n                        ed.  \n             The Middle English Poem Erthe upon Erthe, printed from 24\n                manuscripts.\nEETS\n         o.s. 141 (1911); repr. 1964. \n",
+            "folio": "f. 170"
+        },
+        "BLAdd37788": {
+            "First Lines": "\nWhanne lyf is moost loued & dee\u00fe is moost hated\u00feanne\n                    dee\u00fe drawet his drau\u021dt & maki\u00fe man ful\n                    nakid\u2026\n",
+            "Last Lines": "\n\u2026but \u00feat \u00feis er\u00fee in \u00feis er\u00fee be worching\n                    \u00fei willeso \u00feat er\u00fee fro \u00feis er\u00fee sti\u021d up to\n                    \u00fein hi\u021d hille\n",
+            "Note": "\nWritten as prose. \u201cThis copy of \u2018Erthe\u2019 begins with the introductory couplet, but Babington (1860)\nXBabington,  Churchill. \n             The Repressor of Over Much Blaming of the Clergy, by Reginald\n                Pecock.\n             2 vols. \n             Rolls Series\n         19 (1860; repr. Kraus, 1966)\u2019s work on Tenison\u2019s manuscript (1.lxxii, n.) assigned the couplet to the end of the preceding item rather than to the beginning of \u2018Erthe,\u2019 thereby causing confusion in all the Middle English verse indices to date\u201d (Nancy Pope, personal communication February 27, 2017).",
+            "Editions": "\nPope,  Nancy. \n             \u201cErthe upon Erthe Revisited.\u201d \n             Journal of the Early Book Society\n         21 (2018): 53-95: 72-4 (see note 18, p. 75).\n",
+            "folio": "ff. 83v-85v"
+        },
+        "BLEge1995": {
+            "First Lines": "\nWhenne lyfe ys moste louyde and dethe ys moste hatydeDethe drawythe\n                    hys draught and makythe man nakyde\u2026\n",
+            "Last Lines": "\n\u2026And pray to god a pon erthe that alle the erthe hath\n                    wroughtThat erthe owte of the erthe to blys may be brought\n",
+            "Editions": "\nMurray,  Hilda M. R.,\n                        ed.  \n             The Middle English Poem Erthe upon Erthe, printed from 24\n                manuscripts.\nEETS\n         o.s. 141 (1911); repr. 1964. \n",
+            "folio": "ff. 55-55v"
+        },
+        "BLHar1671": {
+            "First Lines": "\nWanne lyf is moste louydAnd dethe ys most hatyd\u2026\n",
+            "Last Lines": "\n\u2026And y pray to god Apon erth that all erth hath wroughtThat\n                    erth out of erth to blysse may be brought\n",
+            "Note": "\nFirst four lines are added in the margin by a different\n                    hand.",
+            "Editions": "\nMurray,  Hilda M. R.,\n                        ed.  \n             The Middle English Poem Erthe upon Erthe, printed from 24\n                manuscripts.\nEETS\n         o.s. 141 (1911); repr. 1964. \n",
+            "folio": "f. 1*"
+        },
+        "BLHar4486": {
+            "First Lines": "\nWhen lyffe is most loued & deth is moste hatedThen dethe\n                    draweth his drawght & makyth man full naked\u2026\n",
+            "Last Lines": "\n\u2026But that this erthe in this erthe be euer worshyng thy\n                    wylleSo that this erthe fro \u00feis erthe may stie vp to thy\n                    hille\n",
+            "Editions": "\nMurray,  Hilda M. R.,\n                        ed.  \n             The Middle English Poem Erthe upon Erthe, printed from 24\n                manuscripts.\nEETS\n         o.s. 141 (1911); repr. 1964. \n",
+            "folio": "f. 146"
+        },
+        "NLS19111": {
+            "Note": "\n3 lines only, repeated on the same folio. The introductory couplet also occurs on fol. 70r (Nancy Pope, personal communication, February 27, 2017).",
+            "Editions": "\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.505.\n",
+            "folio": "f. 178v"
+        },
+        "Lam223": {
+            "Transcription": "\nWhere lyffe ys most lofyt & dethe ys most hatytThen dravste hys\n                    dreght & makys mon fall nakyt\n",
+            "Note": "\nFirst two lines only",
+            "Attributed Author": "\nquod Petrus Raynstroft (f. 296, in the same hand as these lines which is\n                    different and later than the hand of the Legenda Aurea).",
+            "Editions": "\n\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.363.\n Bad Key: James1930-3: 363.\n\n",
+            "folio": "f. 296"
+        },
+        "Lam853": {
+            "First Lines": "\nER\u00fee out of er\u00fee is wondirly wrou\u021dtEr\u00fee of\n                    er\u00fee ha\u00fe gete a dignyte of nou\u021dt\u2026\n",
+            "Last Lines": "\n\u2026But \u00feat \u00feis er\u00fee on \u00feis er\u00fee be euere\n                    worchinge \u00fei willeSo \u00feat \u00feis er\u00fee from \u00feis\n                    er\u00fee may stie up to \u00fein hi\u021d hille AMEN\n",
+            "Attributed Title": "\nWhanne liif is moost loued and dee\u00fe is moost hatid \u00feanne\n                    doo\u00fe dee\u00fe drawe his draw\u021dt and maki\u00fe man ful nakid De terra\n                    plasmasti me & cetera (p. 35, rubric)",
+            "Editions": "\n\nMurray,  Hilda M. R.,\n                        ed.  \n             The Middle English Poem Erthe upon Erthe, printed from 24\n                manuscripts.\nEETS\n         o.s. 141 (1911); repr. 1964. \nFurnivall,  Frederick James,\n                        ed.  \n             Hymns to the Virgin and Christ\u2026and other religious poems.\nEETS\n         o.s. 24 (1867); repr. 1973: 88-90.\nKaiser,  Rolf,\n                        ed.  \n             Alt- und mittelenglische Anthologie.\n         Berlin, 1954; 3rd ed.; trans. as  Medieval English: a\n                Old English and Middle English Anthology Berlin West, 1958: 286.\n\n",
+            "folio": "pp. 35-39"
+        },
+        "Wellcome673": {
+            "First Lines": "\nWhen lyfe is moost louedAnd de\u00fee is moost hatedThen\n                    de\u00fee drawi\u00fe his drau\u021dtAnd maki\u00fe men\n                    naked\u2026\n",
+            "Last Lines": "\n\u2026And pray to god vpon er\u00fee \u00feat all ha\u00fe made of\n                    nou\u021dt\u00deat er\u00fee out of er\u00fee to blysse may be\n                    brou\u021dt\n",
+            "Note": "\nFormerly listed under 1171; moved as per Louis (1992)\nXLouis,  Cameron. \n             \u201cProverbs, Precepts, and Monitory Pieces.\u201d \n             A Manual of the Writings of Middle English.\n            \n                \n                    Albert E.\n                    Hartung\n                \n            \n         Vol. 9, fascicle 22. New Haven, CT: Connecticut Academy of Arts and\n            Sciences, 1993; ed. Hartung et. al, #\n                    3386.",
+            "Editions": "\nKane,  George. \n             \u201cThe Middle English Verse in MS Wellcome 1493.\u201d \n             London Medieval Studies\n         2, Part. I (1951): 50-67: 66-7.\n",
+            "folio": "f. 9"
+        },
+        "RylandsLat201": {
+            "Note": "\nImmediately followed by 4490.",
+            "Editions": "\nFawtier,  E. C.,  and  R. Fawtier.  \n             \u201cFrom Merlin to Shakespeare: Adventures of an English Prophecy.\u201d \n             Bulletin of the John Rylands Library\n         5 (1918-20): 388-92: 389.\n",
+            "folio": "f. 227"
+        },
+        "HunHM744": {
+            "First Lines": "\nWhan liif is most loued and dee\u00fe most hatid[\u00fe]anne\n                    dee\u00fe drawid his drau\u021dt and maki\u00fe man ful nakidErde out of\n                    er\u00fee is wondirly wrou\u021dtEr\u00fee of erde ha\u00fee gete a dignite\n                    of nou\u021dt\u2026\n",
+            "Last Lines": "\n\u2026but \u00feat \u00feis er\u00fee in \u00feis er\u00fee be euer\n                    worchinge \u00fei willeso \u00feat er\u00fee fro \u00feis er\u00fee may\n                    sti\u021de up to \u00fein hi\u021d hille\n",
+            "Note": "\nWritten as prose; wrongly listed as in San Marino, CA,  Henry Huntington Library HM 144 [olim Huth 7] in Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943 \u2014 in quatrains with introductory\n                    couplet.",
+            "Editions": "\nPope,  Nancy. \n             \u201cErthe upon Erthe Revisited.\u201d \n             Journal of the Early Book Society\n         21 (2018): 53-95: 74-76.\n",
+            "folio": "ff. 11v-12v"
+        },
+        "CamStJohn80": {
+            "First Lines": "\nWhane lyffe ys moste louyde deth ys mo\u2026\n",
+            "Note": "\nFragmentary, incomplete copy, added to flyleaf at back of\n                    volume.",
+            "folio": "f. 121"
+        },
+        "BLAdd60577": {
+            "Note": "\nIntroductory couplet only. Followed immediately by 3353.",
+            "folio": "f. 92"
+        }
+    }
+}

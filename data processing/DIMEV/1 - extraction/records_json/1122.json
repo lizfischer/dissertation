@@ -1,0 +1,26 @@
+{
+    "_id": 1122,
+    "_header": "Deus caritas est",
+    "Title(s)": "Deus Caritas",
+    "Subjects": "God, love of; mercy, works of",
+    "Versification": "\u2014 eight-line \u2014 abababab",
+    "Macaronic": "Latin",
+    "_description": "Deus Caritas \u2014 seven 8-line stanzas",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nDeus caritas estA deore god omnipotent\u2026\n",
+            "Last Lines": "\n\u2026\u00feenki\u00fe nou\u00fee On Deus CaritasAnd bring vs alle\n                    to good endyng\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nVarnhagen,  Hermann. \n             \u201cDie kleinere gedichte der Vernon und Simeon handschrift.\u201d \n             Anglia\n         7 (1884): 280-315: 291-2.\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 668-70.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 136-7.\nGuddat-Figge,  G. \n             Catalogue of Manuscripts Containing Middle English Romances.\nM\u00fcnchener Universit\u00e4ts-Schriften\n         4. Munich, 1976: 269.\n\n",
+            "folio": "f. 407vb"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nDEus Caritas estAdeore god omnipotent\u2026\n",
+            "Last Lines": "\n\u2026\u00deenkep nou\u00fee on deus caritasAnd bringe vs alle to\n                    goode endyng\n",
+            "Attributed Title": "\nExplicit Deus caritas (f. 129rc)\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "Editions": "\n\nFurnivall,  Frederick James. \n             Early English Poems and Lives of Saints.\nTransactions of the London Philological Society\n         1858; Pt. 2, Berlin, 1862: 127-9.\nGuddat-Figge,  G. \n             Catalogue of Manuscripts Containing Middle English Romances.\nM\u00fcnchener Universit\u00e4ts-Schriften\n         4. Munich, 1976: 145.\n\n",
+            "folio": "f. 129rc"
+        }
+    }
+}

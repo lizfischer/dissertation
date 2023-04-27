@@ -1,0 +1,23 @@
+{
+    "_id": 4657,
+    "_header": "Saint Kenelm in England was I-come of good strain",
+    "Note": "For the usual version see 4658.",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Kenelm, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A variant of the Life of St. Kenelm in the South English Legendary",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nSEint Kenelm in Engelonde was i come of goode streoneA good kynges\n                    sone he was and his Modur was Qweene\u2026\n",
+            "Last Lines": "\n\u2026At Winchecumbe is \u00feat bodi i don in one schrineIhesu for\n                    \u00fee loue of him vs schilde from helle pyne Amen\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 39va-39vb"
+        },
+        "Lam223": {
+            "First Lines": "\nSAynt kenelme of Englond was comen of godestreneA kynges sone he\n                    was & his moder a quene\u2026\n",
+            "Last Lines": "\n\u2026At Wynchcombe is \u00feat body done in a shryneNow Ihesu for\n                    \u00fee love of hym vs shilde fro helle pyne Amen\n",
+            "Attributed Title": "\nSaynt kenelme (RT)",
+            "folio": "ff. 132-134v"
+        }
+    }
+}

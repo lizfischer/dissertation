@@ -1,0 +1,27 @@
+{
+    "_id": 1613,
+    "_header": "God that shaped both heaven and hell",
+    "Note": "For a similar versions with many identical lines, see 1477.",
+    "Title(s)": "\u2018The Stasyons of Ierusalem\u2019",
+    "Subjects": "travel poems",
+    "Versification": "\u2014 two-line, four-line \u2014 aa, abab",
+    "_description": "\u2018The Stasyons of Ierusalem\u2019 \u2014 in couplets with occasional quatrains",
+    "_witnesses": {
+        "BodAsh61": {
+            "First Lines": "\nGod that schupe both heuen & helleTo \u00fee lord I make my\n                    moneAnd gyne me grace \u00fee sothe to telleOf \u00fee pylgryme Age\n                    \u00feat I haue gone\u2026\n",
+            "Last Lines": "\n\u2026Off \u00fee lord to haue in myndffor to be hold \u00fei\n                    blyssyd face\n",
+            "Note": "\nSigned by ?scribe: \u2018Amen quod\n                     Rate\u2019 (f. 135v).",
+            "Attributed Author": "\nAmen quod Rate (f. 135v)",
+            "Attributed Title": "\nThe stasyons of Ierusalem (f. 128)",
+            "Editions": "\n\nHorstmann,  Carl. \n             Altenglische Legenden: Neue Folge.\n         Heilbronn: Henninger, 1881: 356-66.\nMeech,  Sanford Brown,  and  Hope Emily Allen, eds.  \n             The Book of Margery Kempe.\nEETS\n         o.s. 212 (1940); repr. 1961: 288.\nShuffleton,  George. \n             Ashmole 61: A Compilation of Popular Middle English Verse.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008: 330-48; 547-58; 620-2.\n\n",
+            "folio": "ff. 128-135v"
+        },
+        "HunHM144": {
+            "First Lines": "\nGOd \u00feat made bothe heuen & helleTo the lorde I make my\n                    mone\u2026\n",
+            "Last Lines": "\n\u2026And at oure dethe to haue thi mercy & thi graceThat we in\n                    heuyn may haue a place\n",
+            "Note": "\nAdded conclusion, \u2018Amen for charite I pray Crist Ihesu haue mery\n                    on me\u2019 (f. 80v).",
+            "Attributed Title": "\nHere begynnyth the Pilgrymage and the wayes of Ierusalem (f. 67)",
+            "folio": "ff. 67-80v"
+        }
+    }
+}

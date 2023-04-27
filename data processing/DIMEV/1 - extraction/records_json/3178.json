@@ -1,0 +1,16 @@
+{
+    "_id": 3178,
+    "_header": "Look now friar",
+    "Author(s)": "Giraldus Cambrensis",
+    "Title(s)": "Speculum Ecclesie",
+    "Subjects": "friars",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A monkish pledge and response in Giraldus Cambrensis, Speculum Ecclesie \u2014 two couplets",
+    "_witnesses": {
+        "BLCottTibBXIII": {
+            "Transcription": "\nLoke nu frereHu strong ordre is here\u2026\n",
+            "Editions": "\n\nBrewer,  J. S., James F. Dimock,   and  George F. Warner, eds.  \n             Giraldi Cambrensis opera.\n             8 vols. \n             Rolls Series\n         21 (1861-91; repr. Kraus, 1964): 4.209.\nWilson,  Richard Middlewood. \n             \u201cMore Lost Literature in Old and Middle English.\u201d \n             Leeds Studies in English\n         5 (1936): 1-49: 39.\nWilson,  Richard Middlewood. \n             The Lost Literature of Medieval England.\n         London: Methuen, 1952: 174.\n\n",
+            "folio": "Dist. I, cap. xiii"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "_id": 21,
+    "_header": "A child is born I-wis / That all this world shall bless",
+    "Note": "For an alternate version, see 4260.",
+    "Subjects": "carols, Nativity; Virgin Mary, lullay songs of",
+    "Versification": "\u2014 four-line, three-line \u2014 aaab, aab",
+    "_description": "A Christmas carol \u2014 six quatrains (aaab) including refrain, \u2018for Ihesu ys hys name\u2019, plus burden: \u2018Lollay lay lay lay / my dere modyr lullay / Lullay my chyld\u2019",
+    "_witnesses": {
+        "CamStJohn259": {
+            "First Lines": "\nA chyld ys born e wys\u00deat all \u00feis word xall\n                    blys\u2026\n",
+            "Last Lines": "\n\u2026for us he deyd on trefor Ihesu ys hys name\n",
+            "Editions": "\n\nJames,  Montague Rhodes. \n             A Descriptive Catalogue of the Manuscripts in the Library of St.\n                John\u2019s College, Cambridge.\n         Cambridge: at the UP, 1913: 97.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 97; 1977, 85-6.\nGreene,  Richard Leighton,\n                        ed.  \n             A Selection of English Carols.\nClarendon Medieval and Tudor Series.\n         Oxford: Clarendon, 1962: 97.\n\n",
+            "folio": "ff. 6v-7"
+        },
+        "WestmAb20": {
+            "First Lines": "\nA babe ys born I wys\u00feis word to joy and\n                    blys\u2026\n",
+            "Last Lines": "\n\u2026On \u00fee holy thursdayto heven he toke hys way\u00deer\n                    to a byde for euer and day& Ihesus Christ [is hys name]\n",
+            "Note": "\nFive stanzas = 1, 2, 6, 5 and one not in Cambridge UK,  St John\u2019s College S.54 (259); does\n                    not include burden but treats first stanza as burden, beginning first stanza\n                    \u2018On Cristmasse day at morne\u2026\u2019.",
+            "Editions": "\n\nRobinson,  J. A.,  and  Montague Rhodes James.  \n             The Manuscripts of Westminster Abbey.\n         Cambridge, 1909: 76.\nGreene,  Richard Leighton. \n             \u201cThe Traditional Survival of Two Medieval Carols.\u201d \n             Journal of English Literary History\n         7 (1940): 223-38: 225-6.\n\n",
+            "folio": "f. 20"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "_id": 5569,
+    "_header": "There is a bush that is foregrow",
+    "Subjects": "historical poems; allegories; Richard II",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "Sarcastic verses against King Richard\u2019s Ministers \u2014 fifteen six-line stanzas (aabccb)",
+    "_witnesses": {
+        "StaffordRO": {
+            "First Lines": "\n\u00deer is a busch \u00feat is forgroweCrop hit well & hold\n                    hit loweor ellis hit wolle be wilde\u2026\n",
+            "Last Lines": "\n\u2026Our lene bestes to have resteIn place \u00feat hem\n                    lyketh\u00feat were in point to spylle\n",
+            "Editions": "\n\nHamper,  William. \n             \u201cSarcastic Verses, written by an Adherent to the House of Lancaster, in\n                the last year of the Reign of Richard the Second, A.D. 1399.\u201d \n             Archaelogia\n         21 (1827): 88-91: 89-91.\nWright,  Thomas,\n                        ed.  \n             Political Poems and Songs relating to English History, composed during\n                the period From the Accession of Edward III to that of Richard III.\n             2 vols. \n             Rolls Series\n         14 (1859, 1861); repr. Kraus, 1965: 1.363-6.\n\n",
+            "folio": ""
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "_id": 1371,
+    "_header": "For love of Jesu my sweet heart",
+    "Note": "Follows 1367.",
+    "Subjects": "sermons, verse in",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A couplet in a Latin homily, Amore Langueo (and repeated passim)",
+    "_witnesses": {
+        "CULKk424": {
+            "Transcription": "\nffor loue of ihesu \u00feat ys myn hertey morne & syke wyt terys\n                    smert\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Preachers, Poets and the English Lyric.\n         Princeton: Princeton Univ. Press, 1986: 237-8.\n",
+            "folio": "f. 145rb"
+        },
+        "OxfBal149": {
+            "Transcription": "\nFor loue of Iesu my swete hertey morne & seke wy\u00fe teres\n                    smert\n",
+            "Note": "\nWritten as prose in a Latin sermon on Easter.",
+            "Editions": "\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.131.\n",
+            "folio": "f. 31v"
+        },
+        "OxfMagd93": {
+            "Transcription": "\nfor the loue of ihesu that is myn herty morne y syke with teres\n                    smert\n",
+            "Note": "\nWritten as prose, second occurrence in \u2018Amore\n                    Langueo\u2019.",
+            "folio": "f. 153"
+        },
+        "TCD277": {
+            "Transcription": "\nfor luf of ihesu my swete hertI morn & sygh with terys\n                    smert\n",
+            "folio": "p. 186"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "_id": 2988,
+    "_header": "Keep well ten and flee from seven / spend well five and come to heaven",
+    "Note": "Sometimes followed by 1867.",
+    "Subjects": "advice, spiritual; mnemonics",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Number rhymes \u2014 a single couplet",
+    "_witnesses": {
+        "BodRawPoe32": {
+            "Transcription": "\nMyspend we nott fyveAnd fle we sevenKepe we wel x & com to\n                    heven\n",
+            "Note": "\nA part of 323.",
+            "Editions": "\n\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 80-1.\nZupitza,  Julius. \n             \u201cThe Prouerbis of Wysdom.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         90 (1893): 241-68: 247.\n\n",
+            "folio": "f. 55"
+        },
+        "OxfBal354": {
+            "Transcription": "\nKepe well x & fflee from sevynSpende well v & cum to\n                    hevyn\n",
+            "Note": "\nFollowed immediately by 1867.",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 225.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 140.\nBloomfield,  Morton. \n             The Seven Deadly Sins\u2026.\n         East Lansing, MI: Michigan State College Press, 1952: 208.\n\n",
+            "folio": "p. 4461"
+        },
+        "CULEe435a": {
+            "Transcription": "\nKepe well x Bewar off vijSpend well v & Com to heuenso be\n                    hyt Ihesu Amen\n",
+            "folio": "f. 5v"
+        },
+        "CULEe437": {
+            "Transcription": "\nKepe well x And flee from vijRule well v And com to hevyn\n",
+            "Note": "\nRepeated literatum, f. vir.",
+            "Editions": "\n\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 80-1.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 566.\nLuria,  Maxwell Sidney,  and  Richard L. Hoffman, eds.  \n             Middle English Lyrics.\n         New York: Norton, 1974: 122.\n\n",
+            "folio": "f. vv"
+        },
+        "BLHar2252": {
+            "Transcription": "\nKepe well & flee from vijSpend well v & com to\n                    hevyn\n",
+            "folio": "f. 166"
+        },
+        "BLHar2391": {
+            "Transcription": "\nKepe x & leyfe viiMisspend not v & go to heuen\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 80-1.\n",
+            "folio": "f. 134r3"
+        }
+    }
+}

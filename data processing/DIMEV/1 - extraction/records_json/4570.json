@@ -1,0 +1,29 @@
+{
+    "_id": 4570,
+    "_header": "Saint Bridget of high men in Scotland she came",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Bridget, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Bridget (shorter version) in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "BodLauMis108": {
+            "First Lines": "\nSEinte Bride of hei\u021de men In scotlond heo camOf riche men and\n                    of gret power In lawe of cristindom\u2026\n",
+            "Last Lines": "\n\u2026\u00dee furste dai of feuerer hire liif heo brou\u021dte to\n                    endeGod us graunti alle forth with hire to blisse of heuene\n                    wende\n",
+            "Attributed Title": "\nVita sancte Brigide virginis (f. 93v)",
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             The Early South-English Legendary.\nEETS\n         o.s. 87 (1887; repr. 1987): 192-3.\n",
+            "folio": "ff. 93v-94v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSEint Bride of wel he\u021de men in to Scotlonde comRiche and of\n                    gret power in lawe of cristendom\u2026\n",
+            "Last Lines": "\n\u2026God lete vs for\u00fe wi\u00fe hire to \u00fee blisse of heuene\n                    wende\u00deat God ha\u00fe i ordeyned \u00feat laste\u00fe wi\u00fe outen\n                    ende. A.M.E.N.\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 16rb2-16va"
+        },
+        "Lam223": {
+            "First Lines": "\nSAynt Bride of hegh men out of Scotlond comeRiche & of grete\n                    power in lawe of cristendome\u2026\n",
+            "Last Lines": "\n\u2026\u00dee firste day of ffebruare hir lyf she bro\u021dt to\n                    endeSich blisse as she disserved her Ihesu Crist vs sende Amen\n",
+            "Attributed Title": "\nSaynt Bride (RT)",
+            "folio": "ff. 62-63"
+        }
+    }
+}

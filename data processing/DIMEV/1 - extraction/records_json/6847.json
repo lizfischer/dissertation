@@ -1,0 +1,24 @@
+{
+    "_id": 6847,
+    "_header": "Ye that will let good men blood",
+    "Note": "For main version, see 5395",
+    "Subjects": "bloodletting; utilitarian instructions",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Variant version of instructions for bloodletting \u2014 in couplets",
+    "_witnesses": {
+        "CamTCC921": {
+            "Transcription": "\nFor to kenne \u00fee veynes to late blodeTo \u00fee \u00feat lates\n                    many gode men blodeAnd wynnes \u00feer with \u00fei worldes fodeTake\n                    hede \u00feat \u00feou doo but godeSomme veynes vse \u00feey\n                    sykerle\u2026\u2026\u2026\n",
+            "Note": "\n37 lines, ends imperfectly.",
+            "Attributed Title": "\nModus qui docet ad minuendum sanguinem (f. 33)",
+            "folio": "ff. 33-33v"
+        },
+        "BLEge2572": {
+            "First Lines": "\n\u021ce that wyll lette gude men blodeAnd vaynes wyth all\n                    \u021dowre liues fodeSome vaynes vse \u021deAnd mony other lette\n                    \u021de beTherefore nowe wyll I them scheweAnd tell \u021dowe them\n                    apone a raweAnd where they lye euer ylke oneAnd for what thynge they\n                    shall be tone\u2026\n",
+            "Last Lines": "\n\u2026And wemen that hath tynt ther floureslete them blede in there\n                    bowres\u2026\n",
+            "Note": "\n56 lines, ends imperfectly.",
+            "Attributed Title": "\nTo knawe the vaynes to let blode one (f. 69)",
+            "Editions": "\nFurnivall,  Frederick James,  and  Percy Furnivall, eds.  \n             Vicary\u2019s Anatomie of the Bodie of Man.\nEETS\n         e.s. 53 (1888; repr. 1973): 228-9.\n",
+            "folio": "ff. 69-70"
+        }
+    }
+}

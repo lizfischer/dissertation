@@ -1,0 +1,59 @@
+{
+    "_id": 2867,
+    "_header": "Jesu Lord our heaven king / Grant us all\u2026",
+    "Title(s)": "Syr Egyllamore of Artas",
+    "Subjects": "romances",
+    "Versification": "\u2014 twelve-line \u2014 aabccbddbeeb",
+    "_description": "Syr Egyllamore of Artas \u2014 generally in 12-line stanzas (aabccbddbeeb)",
+    "_witnesses": {
+        "BodDou261": {
+            "First Lines": "\nThan hys doughter so freeSo dyd she that gentyll\n                    knyght\u2026\n",
+            "Last Lines": "\n\u2026Deare Jesus brynge vs to thy blysseThat lasteth without\n                    ende\n",
+            "Note": "\nFragment; transcript of an early print.",
+            "Attributed Title": "\nIHS 1564 Here endeth Syr Eglamoure of Arttys (f. 48)",
+            "folio": "ff. 26-48"
+        },
+        "CULFf238": {
+            "First Lines": "\nIhesu lorde oure heuyn kyngeGraunt vs all thy dere\n                    blessynge\u2026\n",
+            "Last Lines": "\n\u2026Ihesu brynge vs to that blysThat lastyth with owten ende\n                    Amen\n",
+            "Note": "\n1341 lines.",
+            "Attributed Title": "\nHere\u2026begynnethe Syr Egyllamoure of artas (f. 70vb); Here\n                    endyth Sir Egtyllamowre of artas\u2026 (colophon, f. 79rb)",
+            "Facsimiles": "\nMcSparran,  Frances,  and  Pamela R. Robinson.  \n             \u201cIntroduction.\u201d \n             Cambridge University Library MS Ff.2.38.\n         London: Scolar Press, 1979. \n",
+            "Editions": "\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             The Thornton Romances: The Early English Metrical Romances of Perceval,\n                Isumbras, Eglamour, and Degrevant.\nCamden Society\n         o.s. 30 (1844); repr. F.S. Ellis, Kelmscott Press, 1897: 121-76.\n",
+            "folio": "ff. 71ra-79rb"
+        },
+        "BlCottCalAII": {
+            "First Lines": "\nIhesu crist of heuen kyngGraunt vs all good\n                    endyng\u2026\n",
+            "Last Lines": "\n\u2026Ihesu brynge vs to hys blysThat neuyr schall haue\n                    ende\n",
+            "Attributed Title": "\nEglamour of Artas (by scribe, upper margin f. 5v); Eglamour (RT\n                    on verso leaves thereafter); Explicit Eglamour of Artas (by scribe, f.\n                        13rb); Another old english poeme intitled Eglamore of Artois (f.\n                    1, sixteenth-century list of contents)",
+            "Editions": "\nHudson,  Harriet,\n                        ed.  \n             Four Middle English\n                    Romances: Sir Isumbras, Octavian, Sir Eglamour of Artois, Sir\n                Tryamour.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1996. 2nd ed.\n            2006. \n",
+            "folio": "ff. 5va-13rb"
+        },
+        "BLEge2862": {
+            "First Lines": "\nIhu \u00feat is heuyn kingSend vs al good endyng\u2026\n",
+            "Last Lines": "\n\u2026But \u021de amende him of his fareHe leuy\u00fe not \u00feis \u00fere ny\u021dte\u2026\n",
+            "Note": "\nFragment: lines 1-160; one leaf only survives. Most of second column on f. 148v illegible so lines are from bottom of first column, 40 more lines in column b.",
+            "Attributed Title": "\nSir Egleamoure (running title, fol. 148).",
+            "Editions": "\nK\u00f6lbing,  Eugen. \n             \u201cAmis and Amiloun zugleich mit der altfranz\u00f6sischen Quelle, nebst\n                einter Bilage Amicus ok Amilius Rimur.\u201d \n             Altenglische Bibliothek\n         2 Heilbronn: Henninger, 1884: 193.\n",
+            "folio": "ff. 148-148v"
+        },
+        "BLAdd27879": {
+            "Note": "\n1291 lines.",
+            "Editions": "\nHales,  John Wesley,  and  Frederick James Furnivall, eds.  \n             Bishop Percy\u2019s Folio Manuscript: Ballads and Romances.\n         3 vols. London: Tr\u00fcbner, 1867-68: 2.341-89.\n",
+            "folio": "p. 296"
+        },
+        "Lincoln91": {
+            "First Lines": "\nIhesu \u00feat es heuens kyngGyff vs alle his\n                    blyssyng\u2026\n",
+            "Last Lines": "\nIn rome \u00feis romance crouned esNow Ihesu brynge vs to his\n                    blysse\u00deat lastis with owttyn ende AmenAmen Amen par\n                        charyte Amen\n",
+            "Note": "\nParts of ff. 144, 145, 146 torn away with loss of text.",
+            "Attributed Title": "\nIncipit sir Eglamour of Artasse (f. 138va)",
+            "Facsimiles": "\nBrewer,  Derek Stanley,  and  A. E. B. Owen.  \n             \u201cIntroduction.\u201d \n             The Thornton Manuscript (Lincoln Cathedral MS. 91).\n         London: Scolar Press, 1975. \n",
+            "Editions": "\nSchleich,  Gustav,\n                        ed.  \n             Sir Eglamour.\nPalestra\n         53. Berlin: Mayer & M\u00fcllert, 1904; repr. New York: A. S. Cook,\n            1911. \n",
+            "folio": "ff. 138va-147rb"
+        },
+        "UMich225": {
+            "Note": "\nFragment.",
+            "folio": ""
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "_id": 5792,
+    "_header": "This world is full of stableness",
+    "Author(s)": "John Lydgate",
+    "Subjects": "satires; envoys",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "Bibliographic Ghosts": "Oxford, Bodleian Library Bodley 779 (SC 2567), f. 189: see 6698.",
+    "_description": "John Lydgate, \u2018Ri\u021dt as the crabbe goth forward\u2019 \u2014 seven eight-line stanzas with this refrain (Envoy included)",
+    "_witnesses": {
+        "Bod686": {
+            "First Lines": "\nThis worlde is ful of stablenesseTher is \u00feer inne no\n                    variaunce\u2026\n",
+            "Last Lines": "\n\u2026\u00fee heuenly signe maketh demonstraunceRight as \u00fee\n                    Crab goth forewarde\n",
+            "Attributed Title": "\nHere begynne\u00fe \u00fee Tretis of \u00fee Crabbe (f. 190), Hererendeth\n                    \u00fee tresi of \u00fee Crabbe And begynne\u00fe a tretis of \u00fee\n                    rammeshorne (at the end)",
+            "folio": "ff. 190-190v"
+        },
+        "CamTCC600": {
+            "First Lines": "\n\u00deis worlde is ful of stabulnesse\u00feer is \u00feer Inne no\n                    varyaunceBut trouthe feyth and gentylesseSecrenesse and\n                    assuraqunce\u2026\n",
+            "Last Lines": "\n\u2026Howe \u00feat \u00fee Crabbe goo\u00fee bakward\u00dee\n                    hevenly signe make\u00fee demonstraunce\n",
+            "Attributed Author": "\nTake\u00fee heede my lordes for here folowe\u00fee a balade of \u00fee\n                    same sentence made in oure englisshe langage by daun Iohan Lidegate of Bury\n                    \u00fee Munke noue Iuge\u00fee yee \u00feat beo\u00fee kunyng which yowe\n                    lyke\u00fee \u00fee beter \u00fee ffrensh or \u00feenglissh (p. 50)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 465-7 (with a French version).\n",
+            "folio": "pp. 50-52"
+        },
+        "BLHar2251": {
+            "First Lines": "\nThis world is ful of stabilnesseThere is therin no\n                    variaunce\u2026\n",
+            "Last Lines": "\n\u2026The heuenly signe makith demonstraunceHow worldly thynges goo\n                    forward\n",
+            "Editions": "\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             A Selection from the Minor Poems of Don John Lydgate.\nPercy Society\n         2. London: T. Richard, 1840: 58-60.\n",
+            "folio": "ff. 39-39v"
+        },
+        "BLHar4011": {
+            "First Lines": "\n\u2026Plente is foundyn No in gardScharsite is gone vn to\n                    myshaunce\u2026\n",
+            "Last Lines": "\n\u2026To gyue ensampull in substaunceRi\u021d;t as the crabbe goth\n                    forward\n",
+            "Note": "\nFragment only: lines 30-40.",
+            "folio": "f. 1"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nThis world is full of stabellnesther is ther in no\n                    varyaunce\u2026\n",
+            "Last Lines": "\n\u2026\u00fee heuenly signe maketh demonstrauncehow \u00feat\n                    \u00fee Crabbe goth bakward\n",
+            "Attributed Author": "\ndane Iohn lidgate of bury \u00fee munke (f. 154)",
+            "Attributed Title": "\nHere foloweth a balade of made in our engelishe langage by dane Iohn\n                    lidgate of bury \u00fee munke translated out of frenche in to engelishe (f.\n                    154)",
+            "folio": "ff. 154-155"
+        },
+        "HunEL26A13": {
+            "First Lines": "\nThis worlde is ful of stablenesseTher is ther ynne no\n                    veriaunce\u2026\n",
+            "Last Lines": "\n\u2026The heueneli signe maketh demonstraunceRight as the Crabbe\n                    gothe forewarde\n",
+            "Attributed Title": "\nA sotel resoun of the Crabbe (f. 14)",
+            "folio": "ff. 14-14v"
+        }
+    }
+}

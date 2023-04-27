@@ -1,0 +1,22 @@
+{
+    "_id": 3811,
+    "_header": "Now to speak will I not spare",
+    "Subjects": "speech",
+    "Versification": "\u2014 eight-line \u2014 abababab",
+    "_description": "On Speaking for one\u2019s self \u2014 one eight-line stanza, cross-rhymed",
+    "_witnesses": {
+        "Lincoln105": {
+            "First Lines": "\nNow to speke will I noght spareSen speche has made me forto\n                    spede\u2026\n",
+            "Last Lines": "\n\u2026ne lenger lyfe with owten kare\u00fean till euer ilke worde\n                    take hede\n",
+            "Note": "\nAdded to last flyleaf.",
+            "Editions": "\nWoolley,  Reginald Maxwell. \n             Catalogue of the Manuscripts of Lincoln Cathedral Chapter\n                Library.\n         London: Milford, 1927: 68.\n",
+            "folio": "f. 119v"
+        },
+        "YaleBei163": {
+            "Transcription": "\nTher schalbe never man wyn in his chaffereThat ever wulle by and\n                    nowght wulle bedeNe no man lyve wyth out careWho so wulle of euery\n                    word take hede\n",
+            "Note": "\nLast four lines only; immediately follows 4490 and 5330 as if a third stanza; headed\n                    \u2018Disce\u2019.",
+            "Editions": "\n\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.477.\nLass,  Roger. \n             \u201cThree Middle English Cautionary Lyrics from a Yale University\n                Ms.\u201d \n             Anglia\n         83 (1965): 172-5: 173.\n\n",
+            "folio": "f. 29"
+        }
+    }
+}

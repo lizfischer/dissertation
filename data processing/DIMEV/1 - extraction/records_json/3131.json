@@ -1,0 +1,21 @@
+{
+    "_id": 3131,
+    "_header": "Lither look and twinkling",
+    "Subjects": "lechery; sermons, verse in",
+    "Versification": "\u2014 five-line \u2014 aaaaa",
+    "_description": "Signs of Lechery \u2014 five lines",
+    "_witnesses": {
+        "CamTCC43": {
+            "Transcription": "\nLi\u00feer lok and tuinglingtiheng and tikelingopin brest &\n                    singing\u00feeise mid outin lesingarin toknes of horelyng\n",
+            "Note": "\nImmediately followed by 3679.",
+            "Editions": "\n\nF\u00f6rster,  Max. \n             \u201cKleine Mitteilungen zur mittelenglische Lehrdichtung, VI.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         104 (1900): 293-309: 304.\nJames,  Montague Rhodes. \n             Catalogue of the\n                    Western Manuscripts in the Library of Trinity College, Cambridge.\n         4 vols. Cambridge: at the UP, 1900-1904: 1.57.\nBrown,  Carleton Fairchild. \n             \u201cTexts and the Man.\u201d \n             MHRA Bulletin\n         2 (1928): 97-111: 104.\n\n",
+            "folio": "f. 24"
+        },
+        "BLCottCleoCVI": {
+            "Transcription": "\nLi\u00feer lok and tuinklingtihing and tikelingopin brest and singing\u00feeise mid outin lesingarin toknes of horelinge\n",
+            "Note": "\nOlim f. 21v. Added to lower left margin, written as prose.",
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 2.14.\nPeter,  John Desmond. \n             Complaint and Satire in Early English Literature.\n         Oxford: Clarendon, 1956: 101.\n\n",
+            "folio": "f. 22v"
+        }
+    }
+}

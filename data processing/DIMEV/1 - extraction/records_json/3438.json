@@ -1,0 +1,23 @@
+{
+    "_id": 3438,
+    "_header": "Mary the mild of whom I mean / Is Gods mother\u2026",
+    "Note": "For other MSS which place the rubric at the beginning of the story itself see 5161; for another version, see 6660.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Virgin Mary, miracles of; miracles; exempla",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Abbess who went with Child: Narratio in the Northern Homily Cycle \u2014 preceded by eighteen introductory lines",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nMarie \u00fee mylde of whaim i meneEs goddes modir & maiden\n                    clene\u2026\n",
+            "Last Lines": "\n\u2026In to \u00feat contre \u00feare scho es qwene\u00feidir scho\n                    bringe vs all bedene . Amen\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 235v-238"
+        },
+        "BLHar2391": {
+            "First Lines": "\nMary \u00fee mylde of wham I meneEs god\u021d moder & maydys clene\u2026\n",
+            "Last Lines": "\n\u2026In to \u00feat countre \u00fear scho es qwene\u021deder scho bryng vs all be dene\n",
+            "Note": "\nEnds \u201c\"Amen.\u201d",
+            "folio": "f. 156v"
+        }
+    }
+}

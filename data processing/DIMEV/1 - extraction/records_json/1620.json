@@ -1,0 +1,39 @@
+{
+    "_id": 1620,
+    "_header": "God turn us every dream to good",
+    "Note": "Ringler Jr. (1988)\nXRingler Jr., William A. Bibliography and Index of English Verse Printed 1476-1558. London: Mansell, 1988, TP 506.5.",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "House of Fame",
+    "Subjects": "Fame; Fortune; dreams; speech, advice concerning",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Chaucer\u2019s Hous of Fame \u2014 2158 lines in couplets (ends incomplete)",
+    "_witnesses": {
+        "Bod638": {
+            "First Lines": "\nGod turne vs euery dreme to goodffor a ys wondre by the\n                    rode\u2026\n",
+            "Last Lines": "\n\u2026Be he semyd for to beA man of grete auctoryte\n",
+            "Note": "\nFolios 187, 190 torn.",
+            "Attributed Title": "\nThe hows Of ffame (ff.141v-142 and RT)",
+            "Facsimiles": "\nRobinson,  Pamela. \n             \u201cIntroduction.\u201d \n             Manuscript Bodley 638: A Facsimile.\n         Norman, OK: Pilgrim, and Woodbridge: Boydell and Brewer, 1982. \n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 560.\n\n",
+            "folio": "ff. 141v-193v"
+        },
+        "BodFair16": {
+            "First Lines": "\nGOd turne vs euery dreme to goodeffor hyt is wonder be the\n                    Roode\u2026\n",
+            "Last Lines": "\n\u2026Thus in dreaming and in gameEnded this litel booke of\n                    Fame\n",
+            "Note": "\nLast 12 lines and explicit added by hand of 17th century;\n                    original hand ends, \u2018But he semed for to be / A man of grete\n                    auctorite\u2019 (f. 183v).",
+            "Attributed Title": "\nThe house of ffame (f. 154v); Here endeth the booke of Fame (f.\n                        183v)",
+            "Facsimiles": "\nNorton-Smith,  John. \n             \u201cIntroduction.\u201d \n             Bodleian Library MS Fairfax 16.\n         London: Scolar Press, 1979. \n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             A One-Text Print of the Minor Poems.\n         2 pts. London: Tr\u00fcbner, 1871, 1880; repr. New York and London:\n            Johnson, 1967. \nSkeat,  Walter William,\n                        ed.  \n             The Complete Works of Geoffrey Chaucer.\n         7 vols. Oxford: Clarendon, 1894-7: 3.1-64.\nRobinson,  F. N.,\n                        ed.  \n             The Works of Geoffrey Chaucer.\n         Oxford: Clarendon, 1933; 2nd ed. 1957: 332-53; 1957, 282-303.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 257-62.\nBenson,  Larry Dean,\n                        ed.  \n             The Riverside Chaucer.\n         3rd ed. Boston: Houghton Mifflin, 1987: 348-73.\n\n",
+            "folio": "ff. 154v-183v"
+        },
+        "CamMagPep2006": {
+            "First Lines": "\ngOd turne vs euery drem to godeffor it is wonder thyng by \u00fee\n                    rode\u2026\n",
+            "Last Lines": "\n\u2026Ma dam quod he soth to tellI am that ilk shrew I\n                    wys\u2026\n",
+            "Note": "\nEnds ln. 1843.",
+            "Attributed Title": "\nTitle added p. 91, top, but now trimmed and illegible.",
+            "Facsimiles": "\nEdwards,  A. S. G. \n             \u201cIntroduction.\u201d \n             Manuscript Pepys 2006: A Facsimile. Magdalen College,\n                Cambridge.\n         Norman, OK: Pilgrim, and [Woodbridge, Suffolk]: Boydell and Brewer,\n            1985. \n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Odd Texts of the Minor Poems.\n             2 vols. \n             Chaucer Society\n         1st ser. 23, 60. London: Tr\u00fcbner, 1868, 1880; repr. New York and\n            London: Johnson, 1967. \n",
+            "folio": "pp. 91-114"
+        }
+    }
+}

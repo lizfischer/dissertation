@@ -1,0 +1,18 @@
+{
+    "_id": 111,
+    "_header": "A man that hath little to doon",
+    "Note": "For a version in 7-line stanzas and early prints, see 2557.",
+    "Title(s)": "Generides",
+    "Subjects": "romances",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Generides (Version A) \u2014 10086 lines in couplets",
+    "_witnesses": {
+        "PierpontM876": {
+            "First Lines": "\n[A] man that hath litel to dooneWerk he may make him\n                    soone\u2026\n",
+            "Last Lines": "\n\u2026Eternallie there to beSeith Amen al for charitie\n",
+            "Attributed Title": "\n[H]Ere begynneth a royal historie of the excellent knight Generides king\n                    Aufrens son king of Ynde\u2026 (f. 103); beginning of \u2018Here endeth\u2019\n                    on f. 152va, but rest destroyed",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Royal Historie of the Excellent Knight Generides.\nRoxburghe Club\n         85. Hertford: S. Austin, 1865. \n",
+            "folio": "ff. 103va-152va"
+        }
+    }
+}

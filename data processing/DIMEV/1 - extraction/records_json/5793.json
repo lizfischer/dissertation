@@ -1,0 +1,40 @@
+{
+    "_id": 5793,
+    "_header": "This world is full of variance",
+    "Note": "The Envoy alone occurs separately in two MSS (4120); non-source-specific edition is Wright and Halliwell-Phillipps (1845)\nXThomas Wright, and James Orchard Halliwell-Phillipps. Reliquiae Antiquae. 2 vols. London: Smith, 1845, 2.70.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Beware of Doublenesse\u2019",
+    "Subjects": "duplicity; mutability; dice; Fortune, complaint against; women, warnings to; envoys",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, \u2018Beware of Doublenesse\u2019 \u2014 thirteen eight-line stanzas (ababbcbc) with Envoy, each ending with the word, \u2018Doublenesse\u2019, plus one 8-line Latin stanza after envoy",
+    "_witnesses": {
+        "BodFair16": {
+            "First Lines": "\nThis worlde is ful of variaunceIn euery thing whoo taketh\n                    hede\u2026\n",
+            "Last Lines": "\n\u2026Sette on youre brest your self tassureA myghty shelde of\n                    doublenesse\n",
+            "Facsimiles": "\nNorton-Smith,  John. \n             \u201cIntroduction.\u201d \n             Bodleian Library MS Fairfax 16.\n         London: Scolar Press, 1979. \n",
+            "Editions": "\n\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 438-42.\nDavies,  Reginald Thorne. \n             Medieval English Lyrics: a critical anthology.\n         London, 1963; Evanston, IL: Northwestern UP, 1964: 189-91.\nTydeman,  William,\n                        ed.  \n             English Poetry 1400-1580.\n         London: Heinemann, 1970: 30.\n\n",
+            "folio": "ff. 199-199*v"
+        },
+        "BodAsh59": {
+            "First Lines": "\nThis worlde is nowe full of al variaunceIn every thing who \u00feat\n                    ta\u00fee gode hede\u00feat feyth and truste with sure\n                    constaunceExyled been right far it is no drede\u2026\n",
+            "Last Lines": "\n\u2026Sette on youre brest youre selff tassureA mighty sheelde of\n                    doubulnesse\n",
+            "Note": "\nEleven stanzas (stanzas 8, 10 are missing).",
+            "Attributed Title": "\nNowe here folowe\u00fee a balade made by Lidegate of wymen ffor desporte\n                    and game per Antyfrasim (f. 47v); Lenvoye with refrayde of\n                    doubulnesse (f. 49)",
+            "Editions": "\nBlack,  William Henry. \n             Catalogi Codicum Manuscriptorum Bibliothecae Bodleianae\u2026Pars X,\n                A\u2026Catalogue of the Manuscripts bequeathed\u2026by Elias Ashmole.\n         Oxford: Clarendon, 1845: 61+2.\n",
+            "folio": "ff. 47v-48"
+        },
+        "BLHar7578": {
+            "First Lines": "\n[T]his worlde is false of variaunceIn euery thinge whoo taketh\n                    hede\u2026\n",
+            "Last Lines": "\n\u2026Sett oon youre breste youre silfe to assureA mighty shelde of\n                    doublenesse\n",
+            "Note": "\nInitial \u2018T\u2019 is missing, with space left for illuminated\n                    initial.",
+            "folio": "ff. 17v2-18v"
+        },
+        "BLAdd16165": {
+            "First Lines": "\n\u00deis worlde is ful of varyanceIn euery thing who take\u00fee\n                    heed\u2026\n",
+            "Last Lines": "\n\u2026Set on youre brest youre self tassureA mighty shelde of\n                    doublenesse\n",
+            "Attributed Author": "\nBy Lydegate (f. 252)",
+            "Attributed Title": "\nBalade of wymen constance; Balade made by Lydegate (f. 252)",
+            "folio": "ff. 252-253v"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "_id": 1680,
+    "_header": "Hail and holy ay be Thy name",
+    "Note": "A type of acrostic, each stanza beginning with a word of \u2018Heil Marie\u2019 (1731).",
+    "Subjects": "acrostics; Virgin Mary, hymns to; hymns, to Virgin Mary",
+    "Versification": "\u2014 eight-line \u2014 abababab",
+    "_description": "A hymn to the Virgin Mary on the Angelic Salutation \u2014 fifteen 8-line stanzas (abababab)",
+    "_witnesses": {
+        "CULGg432": {
+            "First Lines": "\nHeil & holy ay be \u00fei nameffulsum leuedi hende and\n                    swete\u2026\n",
+            "Last Lines": "\n\u2026\u00feat we \u00fei blisse isemoten in heuenlich woniinge\n                    Amen\n",
+            "Editions": "\nHeuser,  Wilhelm. \n             \u201cAve Maria.\u201d \n             Anglia\n         27 (1904): 320-30: 326-9.\n",
+            "folio": "ff. 23vb-24va"
+        }
+    }
+}

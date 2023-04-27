@@ -1,0 +1,27 @@
+{
+    "_id": 59,
+    "_header": "A great lord in a land gan wone",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Wise Son, story of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Story of the Wise Son, in the Northern Homily Cycle \u2014 in couplets",
+    "_witnesses": {
+        "BodSelSup52": {
+            "First Lines": "\nA grett lord in land con wone\u00feat had Afayr chyld to\n                    son\u2026\n",
+            "Last Lines": "\n\u2026& ryse apon \u00fee last dayTo com to \u00feat blys\n                    \u00feat lastes ay\n",
+            "folio": "ff. 235v-237"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nA grete lorde in a lande gon wonne\u00deat had a faire childe to\n                    sonne\u2026\n",
+            "Last Lines": "\n\u2026And rise vpon \u00fee last dayAnd wende to blisse \u00feat\n                    lastes ay\n",
+            "Attributed Title": "\nnarracio de filio dimitis sancto monacho inuita patre qui videbat\n                        iuuenes mori sicut & senes (p. 364)",
+            "folio": "pp. 364-366"
+        },
+        "CULDd11": {
+            "First Lines": "\nA Gret lord in a land gan wone\u00feat had a fayr child to\n                    sone\u2026\n",
+            "Last Lines": "\n\u2026And rise vp on \u00fee laste day& wend to blis \u00feat\n                    lasti\u00fe ay\n",
+            "Attributed Title": "\nnarracio de filio dimitis sancto monacho inuita patre qui videbat\n                        iuuenes mori sicut & senes (p. 364)",
+            "folio": "ff. 214v-215v"
+        }
+    }
+}

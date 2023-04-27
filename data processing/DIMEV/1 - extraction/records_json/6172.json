@@ -1,0 +1,33 @@
+{
+    "_id": 6172,
+    "_header": "We readen oft and find I-write",
+    "Note": "Opening lines closely resemble Lai de Freine, 6173",
+    "Title(s)": "Sir Orfeo",
+    "Subjects": "romances; lais, Breton",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Sir Orfeo \u2014 in couplets",
+    "_witnesses": {
+        "BodAsh61": {
+            "First Lines": "\nMery tyme is in AperelleThat mekyll schewys of manys wylleIn\n                    feldys & medewys flowys spryngIn grouys & wodes foules\n                    syng\u2026\n",
+            "Last Lines": "\n\u2026And \u00feat it may so bePrey we All for charyte\n",
+            "Attributed Title": "\nkyng orfew (f. 151); Explicet Orfew (at the end)",
+            "Editions": "\n\nHalliwell-Phillipps,  James Orchard. \n             Illustrations of the Fairy Mythology of A Midsummer Night\u2019s\n                Dream.\n         London: Shakespeare Society, 1845: 36; rpr..\nHazlitt,  William Carew. \n             Fairy Tales, legends and romances\u2026.\n         London: Kerslake, 1875. \nB.,  . \n             \u201cSyr Orfeo\u201d \n             Scottish Antiquary, or Northern Notes & Queries\n         16 (1901): 30-8: 30-8.\nBliss,  Alan Joseph,\n                        ed.  \n             Sir Orfeo.\n         Oxford: Clarendon, 1954. \nShuffleton,  George. \n             Ashmole 61: A Compilation of Popular Middle English Verse.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008: 386-99; 579-87; 626-7.\n\n",
+            "folio": "ff. 151-156"
+        },
+        "BLHar3810": {
+            "First Lines": "\nWe reden oft & fynde i writAs clerkes don vs to [    ]\u2026\n",
+            "Last Lines": "\n\u2026Amen Amen for charyteLord vs graunt \u00feat it so be\n",
+            "Note": "\n510 lines.",
+            "Attributed Title": "\nExplicit orpheo Regis (f. 10)",
+            "Editions": "\n\nRitson,  Joseph,\n                        ed.  \n             Ancient English Metrical Romances.\n         3 vols. London, 1802; rev. Edmund Goldsmid and repr. Edinburgh:\n            Goldlsmid, 1884: 2.248-69.\nFrench,  Walter Hoyt,  and  Charles Brockway Hale.  \n             Middle English Metrical Romances.\n         New York: Prentice-Hall, 1930: 323-???.\nBliss,  Alan Joseph,\n                        ed.  \n             Sir Orfeo.\n         Oxford: Clarendon, 1954. \n\n",
+            "folio": "Part I, ff. 1-10"
+        },
+        "NLS1921": {
+            "First Lines": "\n\u2026Orfeo was a kingIn Inglond an hei\u021de\n                    lording\u2026\n",
+            "Last Lines": "\n\u2026\u00deus com sir orfeo out of his careGod graunt ous alle\n                    wele to fare\n",
+            "Note": "\n604 lines in couplets; begins imperfectly, due to loss of most of leaf\n                    (f. 299a), of which only a stub remains.",
+            "Editions": "\n\nCook,  Albert Stanburrough. \n             A Literary Middle English Reader.\n         Boston and New York: Ginn, 1915: 88-107.\nZielke,  Oscar,\n                        ed.  \n             Sir Orfeo.\n         Breslau: Koebner, 1880: (602 lines).\nSisam,  Kenneth. \n             Fourteenth Century Verse and Prose.\n         Oxford: Clarendon, 1921: 13 (604 lines).\nBliss,  Alan Joseph,\n                        ed.  \n             Sir Orfeo.\n         Oxford: Clarendon, 1954. \nLaing,  David. \n             Select Remains of the Ancient Popular and Romance Poetry of\n                Scotland.\n         Edinburgh: 1822; rev. \n                J.\n                Small\n            , Edinburgh: Blackwood, 1885; rev. \n                W. C.\n                Hazlitt\n            ,  \u201cEarly Popular Poetry of Scotland\u201d , London: Reeves and\n            Turner, 1895: 1.64-80.\nFord,  Boris. \n             The Age of Chaucer, with an Anthology of Medieval Poems.\n         Hammersmith, Melbourne, etc.: Penguin, 1954: 271-87.\nStevick,  Robert D.,\n                        ed.  \n             Five Middle English Narratives.\n         Indianapolis: Bobbs-Merrill, 1967: 3-26.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 76-98.\nSpearing,  A. C.,  and  J. E. Spearing.  \n             Poetry of the Age of Chaucer.\n         London: Edward Arnold, 1974: 50-7.\nLaskaya,  Anna,  and  Eve Salisbury, eds.  \n             The Middle English\n                    Breton Lays.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1995: 15-59.\n\n",
+            "folio": "ff. 300ra-303ra"
+        }
+    }
+}

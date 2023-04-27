@@ -1,0 +1,17 @@
+{
+    "_id": 3833,
+    "_header": "O blessed Alban O martyr most benign",
+    "Note": "An extract from 5966 (lines 1696-1716, 1724-1730, 1717-1723) occurring separately.",
+    "Subjects": "hymns, to saints; Alban, saint",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Hymn to St. Alban \u2014 five stanzas rhyme royal",
+    "_witnesses": {
+        "CamFitz40-1950": {
+            "First Lines": "\nO blessid Albone o Martir moste benygneCallid of Bretayne Steward\n                    moste notable\u2026\n",
+            "Last Lines": "\n\u2026Callid kynge Offa Which had a vysiounWhere thou were buried\n                    in Brutys Albioun\n",
+            "Note": "\nAdded by a contemporary hand.",
+            "Attributed Title": "\nOracio ad prothomartire Albanum (f. 135)",
+            "folio": "f. 135"
+        }
+    }
+}

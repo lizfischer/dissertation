@@ -1,0 +1,23 @@
+{
+    "_id": 929,
+    "_header": "By diverse ways and operations",
+    "Author(s)": "William Dunbar",
+    "Subjects": "law, attack on administration of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "William Dunbar, \u2018Aganis the Solistaris in Court\u2019 \u2014 thirteen couplets",
+    "_witnesses": {
+        "CULLl510": {
+            "First Lines": "\nBe diuers wyis and operatiounesMen makis in court \u00feair\n                    solistatiounes\u2026\n",
+            "Last Lines": "\n\u2026Me think his gracious countinanceIn riches is my\n                    suffucience\n",
+            "Attributed Author": "\nQuod dumbar (f. 10)",
+            "folio": "f. 10"
+        },
+        "CamMagPep2553": {
+            "First Lines": "\nBE dyuers wayis and operatiounisMen makis in court \u00feair\n                    Solistatiounes\u2026\n",
+            "Last Lines": "\n\u2026me think his gracious countenenceIn Riches is my\n                    sufficence\n",
+            "Note": "\nSecond occurrence in MS",
+            "Attributed Author": "\nQuod dumbar aganis \u00fee Solistaris in court (p. 316)",
+            "folio": "p. 316"
+        }
+    }
+}

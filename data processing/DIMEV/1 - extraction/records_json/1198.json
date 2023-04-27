@@ -1,0 +1,15 @@
+{
+    "_id": 1198,
+    "_header": "Enok first with a benign cheer",
+    "Note": "Adapted from 6060.",
+    "Subjects": "pageant verses; occasional verse; chronicles, verse in; Henry VI, return to London, 1432",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Pageant verses by Enok and Eli at the return of Henry VI to London, A.D. 1432, in Fabyan\u2019s Chronicle, Part VII, Septima Pars, Henrici Sexti \u2014 two stanzas rhyme royal",
+    "_witnesses": {
+        "HarEng766": {
+            "First Lines": "\nEnnok first with a benygne cherePrayed God to vphold his\n                    prosperitieAnd that noon Enymyes haue of the powereNor that noo Child\n                    of false Inyquytie\u2026\n",
+            "Last Lines": "\n\u2026And specially among kynges alleIn Enymyes handes that thou\n                    neuer fall\n",
+            "folio": "ff. 359v-360"
+        }
+    }
+}

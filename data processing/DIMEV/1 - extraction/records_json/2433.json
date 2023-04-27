@@ -1,0 +1,23 @@
+{
+    "_id": 2433,
+    "_header": "Ilke a wise wight should wake / And wait with work heaven to win",
+    "Title(s)": "Mak no Tarijng til to-Morn",
+    "Subjects": "aphorisms",
+    "Versification": "\u2014 eight-line, alliterative \u2014 ababbcbc",
+    "_description": "\u2018Mak no Tarijng til to-Morn\u2019 \u2014 nine 8-line stanzas with this refrain",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nIlke a wys wiht scholde wakeAnd waite with werk heuen to\n                    wynne\u2026\n",
+            "Last Lines": "\n\u2026He \u021diue vs grace to wone him by\u00deen schal vs tyde no\n                    teone to Morn\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 725-7.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 194-6.\n\n",
+            "folio": "f. 411va2-411vb"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nIlke a wys wiht scholde wakeAnd wayte wi\u00fe werke heuen to\n                    wynne\u2026\n",
+            "Last Lines": "\n\u2026He \u021deue vs grace to wone him by\u00deen schal vs tyde no\n                    teone to morn\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 133ra-133rb"
+        }
+    }
+}

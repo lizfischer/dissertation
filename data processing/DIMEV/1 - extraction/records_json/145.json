@@ -1,0 +1,329 @@
+{
+    "_id": 145,
+    "_header": "A prentice whilom dwelt in our city",
+    "Note": "The Cook\u2019s Tale is often regarded as fragmentary. In twenty-five manuscripts of the Canterbury Tales, the Tale of Gamelyn (3090) serves as a continuation of sorts.",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Cook\u2019s Tale; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; London; apprenticeship; fabliau; debauchery; herbergage",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the Cook\u2019s Tale of the Canterbury Tales \u2014 58 lines in couplets.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nA prentis whilom dwelt in oure Citeand of a crafft of vitaillers\n                    was he\u2026\n",
+            "Last Lines": "\n\u2026and hadde a wiff that helde for a contynauncea shoppe &\n                    swyved for hir sustynaunce\n",
+            "Attributed Title": "\n\u2026And / next folwith his tale of a prentise of londoun (f.\n                        64v); The Cook (RT); Here endith the Cook his tale\u2026 (f.\n                        65v)",
+            "folio": "ff. 64v-65v"
+        },
+        "BodBar20": {
+            "First Lines": "\nA Prentise whilom dwellid in oure CiteAnd of a craft of vitailes\n                    was he\u2026\n",
+            "Last Lines": "\n\u2026And hade a wif \u00feat held for contynaunceA shoppe and\n                    swyuet for hure sustynaunce\n",
+            "Note": "\nFollowed by the Tale of Gamelyn (3090).",
+            "Attributed Title": "\n\u2026and here begynnyth \u00fee tale (f. 52, rubric); The Coke (RT); But\n                    herof I wolle passe as now / And of \u021dong Gamelyn I wil telle \u021dow (f.\n                        52v)",
+            "folio": "ff. 50-51v"
+        },
+        "Bod686": {
+            "First Lines": "\nA prentys whilom dwelled in oure siteeAnd of a crafte of vitallers\n                    was he\u2026\n",
+            "Last Lines": "\n\u2026A wife he hadde that helde her contenaunceA shoppe and ever\n                    sche pleyed for his sustenaunceWhat thorowe hym selfe and his felawe\n                    \u00feat soughtVnto a myschefe bothe \u00feey were broghtThe tone y\n                    dampned to preson perpetuallyThe tother to deth for he couthe not of\n                    clergyeAnd therfore yonge men lerne while ye mayThat with mony dyvers\n                    thoghtes beth prycked al \u00fee dayRemembre you what myschefe cometh of\n                    mysgouernaunceThus mowe ye lerne worschep and come to substaunceThenke\n                    how grace and governaunce hath broght hem a bouneMany pore mannys son chese\n                    state of \u00fee towneEuer rewle the after \u00fee beste man of\n                    nameAnd god may grace \u00fee to come to \u00fee same\n",
+            "Note": "\nForty-five alliterating couplets are added throughout the text,\n                    including the twelve final lines transcribed above: six lines following I.4382;\n                    eight lines following 4388; two lines following 4390; six lines following 4398;\n                    four lines following 4410; and four lines following 4412.",
+            "Attributed Title": "\nHere begynneth the Cookes tale (f. 54v); Here endeth the Cokes\n                    tale (f. 55v)",
+            "Editions": "\nBowers,  John M.,\n                        ed.  \n             The Canterbury Tales:\n                    Fifteenth-Century Continuations and Additions.\n         Kalamazoo, MI: Medieval Institute Publications, 1992: 34-9.\n",
+            "folio": "ff. 54v-55v"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nA prentise dwelled whilom in oure CiteOf a craft of vvitelers was\n                    hee\u2026\n",
+            "Last Lines": "\n\u2026And had a wife \u00feat held for contenaunceA shop and swifed\n                    for his sustenaunceBut here of I will passe as noweAnd of yong\n                    Gamelyne I will tell yowe\n",
+            "Note": "\nI.4375-6 omitted. Followed by the Tale of Gamelyn (3090).",
+            "Attributed Title": "\n\u2026And next bigynneth / \u00fee Cokes tale of \u00fee prentise of\n                    london (f. 64v); The Cokes tale (RT)",
+            "folio": "ff. 64v-65"
+        },
+        "BodLauMis600": {
+            "First Lines": "\nA prentys whilom duelled in oure citeeAnd of a craft of vitailers\n                    was he\u2026\n",
+            "Last Lines": "\n\u2026And hadde a wif \u00feat helde for contenaunceA shoppe and\n                    swyued for hire sustenaunce\n",
+            "Note": "\nI.4339-40 reversed. Followed by the Tale of Gamelyn (3090). An initial\n                    lombard \u2018H\u2019 is placed where an incipit should occur between the end\n                    of the Cook\u2019s Prologe and the start of the Cook\u2019s\n                    Tale, but no incipit follows the initial.",
+            "Attributed Title": "\n\u00fee prolog of \u00fee coke (RT [sic]); HEre begynne\u00fe\n                    \u00fee cokes tale . Gamelyn . (f. 62v)",
+            "folio": "ff. 61v-62v"
+        },
+        "BodLauMis739": {
+            "First Lines": "\n[A] Prentys whilom dwellyd in oure citeAnd of a craft of vytalers\n                    was he\u2026\n",
+            "Last Lines": "\n\u2026And had a wyf that held forth contynaunceA shoppe and swyfed\n                    for hir sustenaunceBut here of I will passe as nowOf \u021dong Gamelyn\n                    I will telle \u021dow\n",
+            "Note": "\nFollowed by the Tale of Gamelyn (3090).",
+            "folio": "ff. 66v-67v"
+        },
+        "BodRawPoe141": {
+            "First Lines": "\nA Prentys som tyme dwelled in oure cyteAnd of a craft of vytaile\n                    was he\u2026\n",
+            "Last Lines": "\n\u2026And had a wyf that hured for a contynaunceA shoppe &\n                    swyued for hur sustynaunceAnd thus with horedom & bryberyeTo geder\n                    thei vsed all thei honged hyeffor who so euel byeth shal make a sory\n                    saleAnd thus I make an ende of my tale\n",
+            "Note": "\nI.4381-2 reversed; spurious lines follow 4394, 4396, and 4422 (the\n                    latter transcribed above).",
+            "Attributed Title": "\nHere bigynneth the Cookes tale (f. 28); The Cook (RT)",
+            "folio": "ff. 28-29"
+        },
+        "BodRawPoe223": {
+            "First Lines": "\n\u2026And ther they setten steuene for to meteAnd playen at the\n                    dys in such a strete\u2026\n",
+            "Last Lines": "\n\u2026And had a wif that helde for contenaunceA shoppe and swyued\n                    for her sustenaunce\n",
+            "Note": "\nPrologue and I.4365-82 lost.",
+            "Attributed Title": "\nHere endith the Cookes tale (f. 61v)",
+            "folio": "ff. 61-61v"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nA Prentise whilom dwelled in oure CiteeOf a crafte of vitaillers\n                    was he\u2026\n",
+            "Last Lines": "\n\u2026And hadde a wife that helde for countenaunceA shoppe and\n                    swyued for sustynaunce\n",
+            "Note": "\nFollowed by the Tale of Gamelyn (3090).",
+            "Attributed Title": "\nNarrat (f. 57v); here begynnytht the Cokys tale\n                        &cetera (f. 58v)",
+            "folio": "ff. 57v-58v"
+        },
+        "OxfCCC198": {
+            "First Lines": "\nA Prentys whilom dwelled in oure CiteeAnd of a craft of vitaillers\n                    was he\u2026\n",
+            "Last Lines": "\n\u2026And hadde a wyf \u00feat heeld for contynanceA schoppe and\n                    swyued for hire sustynance\n",
+            "Note": "\nFollowed by the Tale of Gamelyn (3090).",
+            "Attributed Title": "\nIncipit fabula (f. 61v);\n                            C.miiij.m (f. 61v,\n                    margin)",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "ff. 61v-62"
+        },
+        "OxfNew314": {
+            "First Lines": "\nA Prentys whilom duelt yn our citeOf acraft of vitaillers was\n                    he\u2026\n",
+            "Last Lines": "\n\u2026And hadde A wif \u00feat held for contenaunceA shoppe and\n                    swyued for hir sustenaunce\n",
+            "Note": "\nI.4351-2 omitted.",
+            "Attributed Title": "\n\u2026and begynneth his / tale (f. 52); Cook (f. 52, margin); Cook (RT);\n                    Here endith \u00fee cokys tale\u2026 (f. 52v)",
+            "folio": "ff. 52-52v"
+        },
+        "OxfTri49": {
+            "First Lines": "\nA prentise whilom duellid in hour citeand of crafte of vitaileris\n                    was he\u2026\n",
+            "Last Lines": "\n\u2026and had a wif that held for cuntenauncea schop and swiue for\n                    hir coisutenaunce sustinaunce\n",
+            "Note": "\nFollowed by the Tale of Gamelyn (3090).",
+            "Attributed Title": "\nPrologus Coci (f. 59v); Coke (RT)",
+            "folio": "ff. 59v-60v"
+        },
+        "CULDd424": {
+            "First Lines": "\nA prentys whilom dwelled in oure CiteeOf a craft of vetayleres was\n                    he\u2026\n",
+            "Last Lines": "\n\u2026And had a wyf \u00feat held for countenaunceA shoppe and\n                    swyued for hire sustenaunce\n",
+            "Note": "\nA thirteen-line gap follows, with the explicit on the following\n                    recto.",
+            "Attributed Title": "\nThe Cookes Tale (f. 53); Sic desinit fabula Coci\u2026 (f. 54,\n                    above the written space)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 53-53v"
+        },
+        "CULIi326": {
+            "First Lines": "\nA prentyse dwelled whilome in oure citeOf a crafte of vytillers was\n                    he\u2026\n",
+            "Last Lines": "\n\u2026And hadde a wyfe that helde for countenaunceA shoppe and\n                    swyved for hir sustenaunceBut here of I wil passe as noweAnd of yonge\n                    Gamelyn I will telle you\n",
+            "Note": "\nI.4375-6 omitted. Followed by the Tale of Gamelyn (3090).",
+            "Attributed Title": "\nHere endeth the prologe of the Coke / And here begynneth his tale (f. 52);\n                    Coke (RT)",
+            "folio": "ff. 51v-52"
+        },
+        "CULMm25": {
+            "First Lines": "\nA Prentys whilom dwelled in oure CiteeAnd of a Crafte of viteyllers\n                    was he\u2026\n",
+            "Last Lines": "\n\u2026And had a wyffe yat he held for continanceA schoppe and\n                    swived for hire sustenaunceBut herof I will passe as noweAnd of\n                    \u021donge gamelyne I will tell \u021dowe\n",
+            "Note": "\nFollowed by the Tale of Gamelyn (3090).",
+            "Attributed Title": "\n\u2026and here begynneth \u00fee tale (f. 48); The Cokes tale\n                    (RT)",
+            "folio": "ff. 48-48v"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[A] Prentys whilom dwelled in oure CyteAnd of crafte a vyteler was\n                    he\u2026\n",
+            "Last Lines": "\n\u2026And had a wyf that held for countenaunsA schop and swyued for\n                    hur sustynaunsBut her of woll y passe as nowAnd of Gamelyn y woll tell\n                    yow\n",
+            "Note": "\nFollowed by the Tale of Gamelyn (3090).",
+            "Attributed Title": "\nThe Cokes Tale (f. 64v); The C[trimmed] (RT); The Cokes Tale (f.\n                    65)",
+            "folio": "ff. 64v-65"
+        },
+        "CamTCC582": {
+            "First Lines": "\nA Prentice whilom duellid in oure CiteAnd of craft of Vitaillers\n                    was he\u2026\n",
+            "Last Lines": "\n\u2026An had a wif that helde for contenaunceA shoppe and swiued\n                    for her sustenaunce\n",
+            "Attributed Title": "\nA Tale of the Cook of Londoun (f. 25vb)",
+            "folio": "ff. 25vb-26ra"
+        },
+        "CamTCC595": {
+            "First Lines": "\nA Prentes whilom dwelt in oure CiteOf Craft of vitaillers was\n                    he\u2026\n",
+            "Last Lines": "\n\u2026And had wiff that holde for contenaunceA shoppe and swyvede\n                    for his sustenaunce\n",
+            "Note": "\nI.4351-2 omitted.",
+            "Attributed Title": "\n\u2026And begynneth his tale (f. 73); Here endeth the Cokes tale\u2026\n                    (f. 73v)",
+            "folio": "ff. 73-73v"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nA Preyntes whilom dwelt in our CyteAnd of a craft of vitelers was\n                    he\u2026\n",
+            "Last Lines": "\n\u2026And hadde a wyf that helde for contynaunceA shoppe and\n                    swyvyng for her sustinaunce\n",
+            "Attributed Title": "\n\u2026& Incipit Fabula euisdem (f. 66); Coke (RT); Explicit\n                        fabula coqui\u2026 (f. 67)",
+            "folio": "ff. 66-67"
+        },
+        "BLAdd35286": {
+            "First Lines": "\nA Prentis whilom dwelled in our CiteeAnd of a crafte of vitailers\n                    was he\u2026\n",
+            "Last Lines": "\n\u2026And hadde a wif that heeld for contenanceA shoppe and swyued\n                    for hir sustance\n",
+            "Attributed Title": "\n\u2026Here bigynneth the Cookes tale (f. 215); the Cook (RT)",
+            "Editions": "\nHorobin,  Simon. \n             \u201cA Transcription and Study of British Library MS Additional 35286 of\n                Chaucer\u2019s Canterbury Tales.\u201d \n         Diss. Univ. of Sheffield, 1997. \n",
+            "folio": "ff. 215-215v"
+        },
+        "BLEge2726": {
+            "First Lines": "\nA prentys whilom dwelled in oure CiteeOf a Craft of vitailers was\n                    he\u2026\n",
+            "Last Lines": "\n\u2026And hade a wyf \u00feat held for contenaunceA Shop and swyfed\n                    for hir sustenaunce\n",
+            "Note": "\nAn eighteenth-century copy of Tale of Gamelyn (3090), with the\n                    notation \u2018The Cokes | Tale as it | is in MS. | Laud K50\u2019 [=Oxford,  Bodleian Library Laud misc. 600 (SC 1476)], is inserted between what were ff. 55-56, with f. 56\n                    now refoliated as f. 64.",
+            "Attributed Title": "\nThus endeth the Cokes tale\u2026 (f. 56)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "f. 55v-64"
+        },
+        "BLEge2863": {
+            "First Lines": "\n\u2026Wel bet is roten appel out of hoordThan \u00feat it rotie\n                    all \u00fee remenant\u2026\n",
+            "Last Lines": "\n\u2026And had a wyf \u00feat held for contynaunceA shoppe and\n                    swyfed for here sustenaunceBut hereof I wil passe as nowAnd of\n                    \u021donge Gamelyn I will telle \u021dow\n",
+            "Note": "\nPrologue (I.4325-4364) and 4365-4405 lost. Followed by the\n                        Tale of Gamelyn (3090).",
+            "Attributed Title": "\nThe Coke (RT)",
+            "folio": "f. 37"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[A] Prentys whilom dwelt in our citeAnd of a craft of vitilers was\n                    he\u2026\n",
+            "Last Lines": "\n\u2026And hadde a wyf that held for contynaunceA shoppe &\n                    swyvyng for her sustinaunce\n",
+            "Attributed Title": "\nChaunces maad no moor of the cookis tale\u2026 (f.\n                    64v)",
+            "folio": "ff. 63v-64v"
+        },
+        "BLHar7333": {
+            "First Lines": "\nA Prentis whilome dwellid in oure CiteeAnd of a craffte of\n                    victaleris was he\u2026\n",
+            "Last Lines": "\n\u2026And had A wyff \u00feat held for covntenaunceA shoppe And\n                    swyued for her sustenaunce\n",
+            "Attributed Title": "\nOff \u00feis tale chauncier made namore / Nowe this eondith here \u00fee\n                    cookes tale\u2026 (f. 60ra)",
+            "folio": "f. 59vb-60ra"
+        },
+        "BLHar7334": {
+            "First Lines": "\nA Prentys dwelled whilom in oure CiteeOf a craft of vitaillers was\n                    he\u2026\n",
+            "Last Lines": "\n\u2026And \u00feus \u00fee ioly prentys had his leueNow let hym\n                    ryot al \u00fee night or leue\n",
+            "Note": "\nI.4375-6, 4415-22 omitted; 4413-14 written as one one at foot. Followed\n                    by the Tale of Gamelyn (3090).",
+            "Attributed Title": "\nicy commencera le / fable de Gamelyn (f. 58v, foot of the\n                    page, scribe\u2019s informal hand)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "ff. 58-58v"
+        },
+        "BLLan851": {
+            "First Lines": "\nA Prentis whilom duelled in oure CiteAnd of a craft of vitaillers\n                    was he\u2026\n",
+            "Last Lines": "\n\u2026And had a wife \u00feat helde for countinanceA schoppe and\n                    swyued for his sustenanceffye \u00feer one it is so foule I wil nowe tell\n                    no for\u00feereffor schame of \u00fee harlotrie \u00feat sewe\u00fe\n                    afterA velany it were \u00feare of more to spellBot of a knyhte &\n                    his sonnes My tale I wil for\u00fee tell\n",
+            "Note": "\nFollowed by the Tale of Gamelyn (3090).",
+            "Attributed Title": "\n\u2026Incipit fabula (f. 53v); \u00fee Coke\n                    (RT)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 53v-54v"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nA prentyse whylome dwelte in ower CytteAnd of A craffte of\n                    vitayllers was he\u2026\n",
+            "Last Lines": "\n\u2026And hadde a wyfe \u00feat helde ffor countenaunceA schoppe\n                    and swyuede ffor her sustynaunce\n",
+            "Note": "\nFollowed by the Tale of Gamelyn (3090).",
+            "Attributed Title": "\n\u2026And begynnythe / the tale of the Coke (f. 65v); Her\n                    endeth o tale of the Cooke & her folowyth a nother / tale of the same cooke\n                    (f. 67)",
+            "folio": "ff. 65v-675"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nA Prentys whilom dwelled in oure citeeAnd of a draft of vitalere\n                    was he\u2026\n",
+            "Last Lines": "\n\u2026And had a wif \u00feat held for contynanceA shope and swyfed\n                    for hire sustynanceBut here of I wil passe as nowAnd of \u021dong\n                    Gamelyne I wil telle \u021dow\n",
+            "Note": "\nFollowed by the Tale of Gamelyn (3090).",
+            "Attributed Title": "\n\u2026And begynneth \u00fee tale (f. 56); The Cook\n                    (RT)",
+            "folio": "ff. 56-56v"
+        },
+        "BLSl1685": {
+            "First Lines": "\nA Prentis whilom dwellid in oure citeeAnd of a craft of vitalers\n                    was he\u2026\n",
+            "Last Lines": "\n\u2026And had a wif \u00feat held for contynaunceA shope and swyfed\n                    for hir sustynaunceBut here of I wil passe as nowAnd of \u021dong\n                    Gamelyne I wil telle \u021dou\n",
+            "Note": "\nI.4392 omitted. Followed by the Tale of Gamelyn (3090).",
+            "Attributed Title": "\n\u2026and be gynnyth \u00fee tale (f. 50v, margin); The Cook\n                    (RT)",
+            "folio": "ff. 50v-51v"
+        },
+        "BLSl1686": {
+            "First Lines": "\nA Prentys whilom dwellid in oure citeAnd of A craft of vitaillers\n                    was he\u2026\n",
+            "Last Lines": "\n\u2026And had a wyf that helde for contenaunceA shoppe and swyved\n                    for hir sustenaunce\n",
+            "Note": "\nFollowed by the Tale of Gamelyn (3090).",
+            "Attributed Title": "\n\u2026And here begynneth his tale folwyng (f. 70); [T]He Cookes tale\n                    (RT)",
+            "folio": "ff. 70-71"
+        },
+        "NLWPen392": {
+            "First Lines": "\nA Prentis whilom dwelled in oure CiteeAnd of a craft of vitaillers\n                    was he\u2026\n",
+            "Last Lines": "\n\u2026And hadde a wyf that heeld for contenaunceA shoppe and swyued\n                    for hir sustenaunce\n",
+            "Attributed Title": "\nHere bigynneth the Cook his tale (f. 57); Of this Cokes tale / maked\n                    Chaucer na / moore (f. 57v, margin, hand of scribe)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "ff. 57-57v"
+        },
+        "GULHun197": {
+            "First Lines": "\nA Prentys whilom duelled in oure CiteAnd of a crafte of vitailers\n                    was he\u2026\n",
+            "Last Lines": "\n\u2026And had a wyfe \u00feat he held for countynaunceA shoppe and\n                    swyved for hir sustenaunceBut hereof I wole passe as nowAnd of yong\n                    Gamelyn I wole telle yow\n",
+            "Note": "\nFollowed by the Tale of Gamelyn (3090).",
+            "Attributed Title": "\n\u2026and now / begynneth the Tale of the Coke (f. 23vb); The\n                    Coke (RT)",
+            "folio": "f. 23vb-24ra"
+        },
+        "Lichfield29": {
+            "First Lines": "\nA Prentys whilom dwelled in oure CiteAnd of a craft of vitaillers\n                    was he\u2026\n",
+            "Last Lines": "\n\u2026And hadde wyf \u00feat heeld for countenaunceA shoppe and\n                    swyued for hir sustenaunceBut here of I wol passe as nowAnd of\n                    \u021donge Gamelyn I wol telle \u021dow\n",
+            "Note": "\nFollowed by the Tale of Gamelyn (3090).",
+            "Attributed Title": "\n\u2026And now bigynneth \u00fee tale (f. 57); Cook (RT)",
+            "folio": "ff. 57-57v"
+        },
+        "Lincoln110": {
+            "First Lines": "\n\u2026And for there is no theef withouten a lowkThat helpeth hym\n                    to waste and to sowk\u2026\n",
+            "Last Lines": "\n\u2026And had a wyff that held for countenaunceA shoppe and swyued\n                    for hir sustenaunce\n",
+            "Note": "\nI.4365-414 lost.",
+            "folio": "f. 53"
+        },
+        "LonPhys388": {
+            "First Lines": "\nA Prentice whilom dwelled in oure citeeAnd of craft a vitailler was\n                    he\u2026\n",
+            "Last Lines": "\n\u2026And had a wif that hield for countenaunceA shoppe and swyved\n                    for hir sustenaunceOf this Cookes tale makith Chauncer no more\n",
+            "Attributed Title": "\n\u2026Incipit fabula (f. 77); Here endith the Cookes tale\u2026\n                    (f. 78)",
+            "folio": "ff. 77-78"
+        },
+        "RylandsEng113": {
+            "First Lines": "\nA Prentis whilom dwelde in oure CiteOf a Crafte of \u00fee\n                    vitallers was hee\u2026\n",
+            "Last Lines": "\n\u2026& had a wife \u00feat helde for countenaunceA shoppe and\n                    swyved for here sustenaunce\n",
+            "Attributed Title": "\n\u2026Incipit fabula Coci Londoun (f. 46); ffabula Coci\n                        londoun (f. 46, margin); Explicit fabula Coci londoun (f.\n                        46v)",
+            "folio": "ff. 46-46v"
+        },
+        "Petworth7": {
+            "First Lines": "\nA Prentis whilom dwelled in oure CiteAnd of a craft of vitalers was\n                    he\u2026\n",
+            "Last Lines": "\n\u2026And a had a wif \u00feat helde for\n                    countenaunceA Shop and swyued for her sustenaunceBut here of I wil pas\n                    as noweAnd of yonge Gamelyn I wil telle \u021dou\n",
+            "Note": "\nFollowed by the Tale of Gamelyn (3090).",
+            "Attributed Title": "\n\u2026And here bygynne\u00fe \u00fee Cokes tale (f. 61); The Cokes Tale\n                    (f. 61, margin)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 61-62"
+        },
+        "Austin143": {
+            "First Lines": "\nA prentise whilom dwelde in oure CiteOf a crafte of vitellers was\n                    he\u2026\n",
+            "Last Lines": "\n\u2026And hadde a wif that hilde for countenaunceA Shoppe and\n                    swyvid for hure sustenaunce\n",
+            "Attributed Title": "\n\u2026Incipit Fabula Coci (f. 50); Fabula Coci (f. 50,\n                    margin); Finitur fabula Coci (f. 51)",
+            "folio": "ff. 50-5q"
+        },
+        "ChicagoUL564": {
+            "First Lines": "\nA prentys sumtyme dwelled in oure citeAnd of a craft of vitayllers\n                    was he\u2026\n",
+            "Last Lines": "\n\u2026And had a wyf \u00feat hyred for continanceA shop &\n                    swyued for her sustinanceAnd \u00feus with hordam and briberieTogeder\n                    \u00feei vsed tyl hanged hyeFor who so euel byeth shal make a sory\n                    saleAnd \u00feus I make an ende of my tale \n",
+            "Note": "\nI.4381-2 reversed; spurious lines after 4394, 4396, 4422 (for the latter\n                    see transcription above).",
+            "folio": "ff. 9v-10v"
+        },
+        "PierpontM249": {
+            "First Lines": "\nA Prentys whilom dwelled in oure\n                    cite\u2026\n",
+            "Last Lines": "\n\u2026A shoppe and swyued for hir sustenaunceBut hereof I wol passe\n                    as nowAnd of yonge Gamelyn I wol telle yow\n",
+            "Note": "\nFollowed by the Tale of Gamelyn (3090).",
+            "Attributed Title": "\n\u2026And now bygynneth the tale (f. 61v)",
+            "folio": "f. 61v-62"
+        },
+        "PhilRos10842": {
+            "First Lines": "\nA prentise whylom dwellid in this CeteOf a craft of vittellers was\n                    he\u2026\n",
+            "Last Lines": "\n\u2026For he was clepid Perkyn reveloureHe was as ful of love and\n                    paramoure\u2026\n",
+            "Note": "\nAll after I.4372 lost.",
+            "Attributed Title": "\n\u2026and here begynnyth his tale (f. 2v)",
+            "folio": "ff. 2v"
+        },
+        "PUL100": {
+            "First Lines": "\nA Prentise whylom dwelt in our CeteOf a Craft of vitelers was\n                    he\u2026\n",
+            "Last Lines": "\n\u2026nd had a wyfe that he held for contenaunceA Shoppe and swyvid\n                    for her sustenaunce\n",
+            "Attributed Title": "\nHere begynneth the Cokis tale (f. 34); Here endith the Cooke his\n                    tale\u2026 (f. 34v)",
+            "folio": "f. 34-34v"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nA Prentys whilom dwelled in oure CiteeAnd of a craft of vitailliers\n                    was hee\u2026\n",
+            "Last Lines": "\n\u2026And hadde a wyf that heeld for contenanceA shoppe and swyued\n                    for hir sustenance\n",
+            "Note": "\nThe remainder of 47v and the following folio are left\n                    blank.",
+            "Attributed Title": "\nHeere bigynneth the Cookes tale (f. 47); Cook (RT)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 47-47v"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nA prentys whilom duellid in oure citeOf a craft of vitaillers was\n                    he\u2026\n",
+            "Last Lines": "\n\u2026And had a wif that helde for contenaunceA shoppe and swifed\n                    for hir sustenaunce\n",
+            "Attributed Title": "\nHiere beginneth the tale of the Cook of Londoun (f. 52v); cookes\n                    tale (RT); Thus endith the Cookes tale (f. 53)",
+            "folio": "ff. 52v-53"
+        },
+        "TokyoTak32": {
+            "First Lines": "\nA prentyis whilvm dwelde in owre CiteeAnd of a craft offe vetaleris\n                    was hee\u2026\n",
+            "Last Lines": "\n\u2026And hadde a wyif that heeld forht cvntenawnceA schoppe and\n                    swivede for here svstenawnce\n",
+            "Note": "\nI.4408 inserted vertically in space between columns. Followed by the\n                        Tale of Gamelyn (3090).",
+            "Attributed Title": "\nExplicit the cokis tale (f. 45rb)",
+            "folio": "f. 45ra-45rb"
+        },
+        "BodAsh45III": {
+            "First Lines": "\nA prentys whilom dwelled in oure citee\n",
+            "Note": "\nChaucer\u2019s Cook\u2019s Tale, beginning line I.4365 of the\n                        Canterbury Tales.",
+            "folio": "ff. 1-2v"
+        }
+    }
+}

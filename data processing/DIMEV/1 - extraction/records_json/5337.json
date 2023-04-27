@@ -1,0 +1,19 @@
+{
+    "_id": 5337,
+    "_header": "The Holy Rood I-found was as I you now may tell",
+    "Title(s)": "South English Legendary ; Sancta Crux",
+    "Subjects": "Cross; composite texts",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Sancta Crux, a composite text combining separate pieces in the South English Legendary as follows: lines 5-126 = \u2018Invention of the Cross\u2019, lines 21-142; lines 135-334 = \u2018Early History\u2019, lines 3-204; lines 335-354 = \u2018Invention\u2019, lines 1-20; lines 357-390 = \u2018St. Quiriac\u2019, lines 1-24; lines 391-518 = \u2018Exaltation\u2019, lines 1-128; lines 519-614 = \u2018Miracles\u2019 of the Cross.",
+    "_witnesses": {
+        "BodLauMis108": {
+            "First Lines": "\n\u00deE holie rode i founde was ase ich eov nou\u00fee may\n                    telleCostantyn \u00fee Aumperour muche he\u00feene folk gan a\n                    quelle\u2026\n",
+            "Last Lines": "\n\u2026Nou\u021de god for \u00fee rode loue \u00feat \u00feou were on\n                    idobringue us to \u00fee hei\u021de Ioye \u00feat \u00feou us bou\u021dtest\n                    to\n",
+            "Editions": "\n\nHorstmann,  Carl. \n             \u201cDie Legenden des ms. Laud 108.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         4 (1872): 395-414: 401 (lines 1-10 only).\nHorstmann,  Carl,\n                        ed.  \n             The Early South-English Legendary.\nEETS\n         o.s. 87 (1887; repr. 1987): 1-19.\n\n",
+            "folio": "ff. 23-29v"
+        },
+        "Winches33": {
+            "folio": "ff. 39v"
+        }
+    }
+}

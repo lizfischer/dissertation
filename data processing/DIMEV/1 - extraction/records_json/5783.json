@@ -1,0 +1,20 @@
+{
+    "_id": 5783,
+    "_header": "This word that we Pater call",
+    "Note": "Cf. lines 369-372 of the Speculum Vitae (423).",
+    "Subjects": "Lord\u2019s Prayer",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Four lines on the significance of \u2018Pater\u2019 \u2014 two couplets",
+    "_witnesses": {
+        "CamTH16": {
+            "Transcription": "\nThis Worde \u00feat we Pater calleAskes of vs his chylder\n                    alleLuf and drede and obedyenceSeruyce honour &\n                    reuerence\n",
+            "Attributed Title": "\nPater Noster (f. 88v)",
+            "Editions": "\nJames,  Montague Rhodes. \n             A Descriptive Catalogue of the Manuscripts in the Library of Trinity\n                Hall, Cambridge.\n         Cambridge: at the UP, 1907: 34.\n",
+            "folio": "f. 88v"
+        },
+        "BLRoy5Avi": {
+            "Editions": "\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.255, 360.\n",
+            "folio": "f. 78"
+        }
+    }
+}

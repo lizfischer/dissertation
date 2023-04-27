@@ -1,0 +1,24 @@
+{
+    "_id": 5139,
+    "_header": "That I eat and drink may have",
+    "Note": "Cf. 5138, 5140, and 5142.",
+    "Subjects": "devotional verse; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gifts come back to God \u2014 two couplets translating a Latin distich Sunt mea si qua dedi\u2026",
+    "_witnesses": {
+        "BLAdd8151": {
+            "Transcription": "\n\u00feat I ete & \u00feat I drynke \u00feat may I haue\u00feat I\n                    loue fals mene long I may hit craue\u00feat I dele for my soule \u00feat\n                    may I fynde\u00feat I lefe my sekatoures \u00feat is long\n                    byhynde\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Queene Elizabethes Achademy, etc.\nEETS\n         e.s. 8 (1869); repr. 1973: 85.\n",
+            "folio": "f. 200v2"
+        },
+        "BLRoy17Bxvii": {
+            "Transcription": "\n\u00deat I hete & \u00feat drinke \u00feat may I haue\u00deat I\n                    leue fals men long I may hit\u2026\u00deat I dele for my soule \u00feat\n                    may I fynd\u00deat I leeue my secatours \u00feat is long\n                    by\u2026\n",
+            "Note": "\nDamage to manuscript.",
+            "Editions": "\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.364.\n",
+            "folio": "f. 2v2"
+        },
+        "NLWPen356": {
+            "folio": "p. 298"
+        }
+    }
+}

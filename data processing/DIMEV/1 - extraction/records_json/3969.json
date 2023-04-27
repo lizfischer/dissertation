@@ -1,0 +1,21 @@
+{
+    "_id": 3969,
+    "_header": "O Lord omnipotent Father of our creation",
+    "Title(s)": "\u2018Psalmi passionis domini\u2019",
+    "Subjects": "hymns, of the Passion ; crucifixion",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "Macaronic": "Latin",
+    "_description": "\u2018Psalmi passionis domini\u2019 \u2014 twenty-four stanzas rhyme royal with Latin lines of psalm between stanzas",
+    "_witnesses": {
+        "CamTCC601": {
+            "First Lines": "\no Lord omnipotent fadyr of owre creacyounAll thyng producyng only\n                    by volunteThy son transmysyng from hys habytacyounTendryst oure nature\n                    with pure virgynyte\u2026\n",
+            "Last Lines": "\n\u2026That mynde and dede be set the to honoureWith lastyng feyth\n                    vnto my dedly howre\n",
+            "Attributed Title": "\nIncipiunt Psalmi Passionis domini (f. 174v);\n                        Expliciunt Psalmi Passionis Domini (f. 177v)",
+            "Editions": "\nMacCracken,  Henry Noble. \n             \u201cLydgatiana.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         130 (1913): 286-311: 299.\n",
+            "folio": "f. 174v-177v"
+        },
+        "CamFitz56": {
+            "folio": "ff. 123-142v"
+        }
+    }
+}

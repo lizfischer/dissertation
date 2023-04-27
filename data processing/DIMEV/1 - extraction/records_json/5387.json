@@ -1,0 +1,24 @@
+{
+    "_id": 5387,
+    "_header": "The man that is of woman I-bore",
+    "Subjects": "death, approach of",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "\u2019\u00dere Messagers of Deeth\u2019 \u2014 fifty-six quatrains",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\n\u00deE Mon \u00feat is of wommon I boreHis lyf nis heere but a\n                    \u00ferowe\u2026\n",
+            "Last Lines": "\n\u2026Graunt vs alle his blessyngAMEN AMEN par charite\n",
+            "Attributed Title": "\nA Tretys of \u00fereo messagers of de\u00fe (see 1945)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nHorstmann,  Carl. \n             \u201cNachtr\u00e4ge zu den Legenden 5: The Messengers of Death.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         79 (1887): 411-70: 432.\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 2.443-8.\n\n",
+            "folio": "ff. 297vc2-298rb"
+        },
+        "BLAdd22283": {
+            "First Lines": "\n\u00deE mon \u00feat is of wommon I boreHis lyf nis here but a\n                    \u00ferowe\u2026\n",
+            "Last Lines": "\n\u2026\u00deat here sitte\u00fe in TriniteGraunte vs alle his\n                    blessyngAmen. Amen par Charite\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "Editions": "\nKaluza,  Max. \n             \u201cKleinere Publikationem aus mittelenglishe: Handschriften II, Die Boten\n                des Todes.\u201d \n             Englische Studien\n         14 (1890): 165-88: 184.\n",
+            "folio": "ff. 88vb-89ra"
+        }
+    }
+}

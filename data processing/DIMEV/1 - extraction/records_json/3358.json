@@ -1,0 +1,24 @@
+{
+    "_id": 3358,
+    "_header": "Man if thou wilt hear / Right good thing thou might lere",
+    "Note": "Part of the \u2018Continuation\u2019 of Handlyng Synne (1283) for which see Sullivan (1978)\nXSullivan, S. A. \u201cHandlyng Synne in Its Tradition: A Study of Robert Mannyng of Brunne\u2019s Handlyng Synne and Its Relation to Other Instructional Works, in Order to Establish the Place of the Poem in Its Genre.\u201d Diss. Cambridge, 1978. Other sections are 378, 1598, 3099, 3339, 3355.",
+    "Subjects": "mercy, works of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Seven Works of Mercy, some illustrated by Narrationes \u2014 229 lines in couplets",
+    "_witnesses": {
+        "CULIi49": {
+            "First Lines": "\nMan if \u00feu wylt hereRyth good thyng \u00feu ma\u021dt\n                    lere\u2026\n",
+            "Last Lines": "\n\u2026Qua we ben dede \u00feat we may wendeTo blys \u00feat neuer\n                    xal haue ende\n",
+            "Attributed Title": "\nHic incipiunt Septem facta elemosine (f. 173)",
+            "folio": "ff. 173-177"
+        },
+        "BLHar3954": {
+            "First Lines": "\nMan \u021dyf \u00feu wylt hereRyth good thyng \u00feu myth lere\u2026\n",
+            "Last Lines": "\n\u2026Quan we ben dede \u00feat we moun wendeTo blys \u00feat neuer xal han endeAmen Amen Amen\n",
+            "Attributed Title": "\nHic incipiunt vii facta elemosine sicut euangeliste testatur (rubric above first line, f. 81rb)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 3954.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_3954. \n",
+            "Editions": "\nBraekman,  W. L. \n             \u201cA Middle English Didactic Poem on the Works of Mercy.\u201d \n             Neuphilologische Mitteilungen\n         79 (1978): 145-51: 145.\n",
+            "folio": "ff. 81rb-82vb"
+        }
+    }
+}

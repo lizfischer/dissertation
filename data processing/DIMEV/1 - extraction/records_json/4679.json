@@ -1,0 +1,63 @@
+{
+    "_id": 4679,
+    "_header": "Saint Luke the gospeller will say",
+    "Note": "For the version in the \u2018expanded\u2019 Cycle see 4684.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Fourteenth Sunday after Trinity in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nSaynte luke \u00fee gospellere gan saieIn oure gospell of to\n                    daie\u2026\n",
+            "Last Lines": "\n\u2026Of a preste \u00feat \u00feorghe his folieffell in \u00fee\n                    synne of liccherie\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 174-175"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Luc \u00fee gospelere wol sayIn vre gospel of to\n                    day\u2026\n",
+            "Last Lines": "\n\u2026And neuere mihte for\u021diuenesse haueTil he him of synne\n                    schraue\n",
+            "Attributed Title": "\nDum iret Ihesu in Jerusalem transibatur per (f.\n                    205rc)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 205rc-205va"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nSEynt Luk \u00fee godspellere wille vs sayIn oure godspelle of\n                    \u00feis day\u2026\n",
+            "Last Lines": "\n\u2026\u00deat may \u021de by a tale here se\u00deat I wille telle\n                    & \u021de here me\n",
+            "Attributed Title": "\nDominica xiiia post festum trinitatis secundum lucam (p.\n                    282)",
+            "folio": "pp. 282-283"
+        },
+        "CULDd11": {
+            "First Lines": "\nSEynt Luke Euangelist wile sayin oure Gospel as \u00feis\n                    dayWhan crist walkid in manhede\u2026\n",
+            "Last Lines": "\n\u2026& neuere for\u021difnes myhte hauetil he him of his synne\n                    schraue\n",
+            "Attributed Title": "\nDominica 14a post festum sancte trinitatis Euangelium\n                        secundum Lucam (f. 181v)",
+            "folio": "ff. 182-182v"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nSEint luc \u00fee gospeler wol sayIn vre gospel of to\n                    day\u2026\n",
+            "Last Lines": "\n\u2026And neuer miht for\u021diuensse haueTil he hym of synne\n                    schraue\n",
+            "Attributed Title": "\nDum nec Ihesus in Ierulsalem transibat per (f.\n                    10rb)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 10rb1"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nSaint luke \u00fee gospeller gone sayeIn oure gospell of to\n                    daye\u2026\n",
+            "Last Lines": "\n\u2026That neuer my\u021dte forgyfnes haueOr he of his synne hyme\n                    schraue\n",
+            "folio": "ff. 134-135"
+        },
+        "Lam260": {
+            "folio": "f. 51va"
+        },
+        "MinULZ822": {
+            "First Lines": "\nSaynt Luke \u00fee gospellere wyll sayIn oure gospell of \u00feis\n                    daye\u00feat when Criste welbe in his manhede\u2026\n",
+            "Last Lines": "\n\u2026and neuer myght for gyffnes haueare he of hys syne hym\n                    schrafe\n",
+            "Attributed Title": "\nDominica xiiii Secundum Lucam (f. 137, bottom)",
+            "folio": "ff. 137v-138"
+        },
+        "HunHM129": {
+            "First Lines": "\nSeint Luc \u00fee gospellere woll sayIn oure gospell off \u00feis\n                    day\u2026\n",
+            "Last Lines": "\n\u2026And neuyr moght forgifnys haueAr he hym of his syn\n                    schraue\n",
+            "Attributed Title": "\nDominica quarta decima post festum trinitatis (f.\n                    149v)",
+            "folio": "ff. 149v-150"
+        }
+    }
+}

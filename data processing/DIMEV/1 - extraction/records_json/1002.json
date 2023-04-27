@@ -1,0 +1,15 @@
+{
+    "_id": 1002,
+    "_header": "Christ of the thief which on Thy right hand was",
+    "Note": "Formerly included under 6322.",
+    "Subjects": "chronicles, verse in; epitaphs",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Epitaph for Richard I, translating Latin verses which precede it, in Part VII of Fabyan\u2019s Chronicle, Septima Pars, Richardi I \u2014 three stanzas rhyme royal",
+    "_witnesses": {
+        "HarEng766": {
+            "First Lines": "\nCrist of the theef which on the Right hand wasAnd axid mercy to vs\n                    thow made a praye\u2026\n",
+            "Last Lines": "\n\u2026In Erth is seperat \u00feat lyuyng more \u00fean onewas &\n                    of grace ffound lyk to hym none\n",
+            "folio": "ff. 18-18v"
+        }
+    }
+}

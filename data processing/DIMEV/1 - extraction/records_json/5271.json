@@ -1,0 +1,19 @@
+{
+    "_id": 5271,
+    "_header": "The first day of yule han we in mind",
+    "Subjects": "carols, Nativity",
+    "Versification": "\u2014 four-line \u2014 aaab",
+    "_description": "A Christmas carol \u2014 eight quatrains (aaab) and 3-line burden: \u2018Make we myrth / For crystes byrth / & syng we yole tyl candelmes\u2019",
+    "_witnesses": {
+        "BodEngPoete1": {
+            "First Lines": "\n\u00fee fyrst day of \u021dole haue we in myndHow god was man born\n                    of owr kynd\u2026\n",
+            "Last Lines": "\n\u2026To shew hyr clen \u00feat neue was fylyd& therwith endyth\n                    crystmes\n",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             Songs and Carols from a manuscript\u2026of the Fifteenth\n                Century.\nPercy Society\n         23. London: Richards, 1847: 24-5.\nHusk,  William Henry. \n             Songs of the Nativity.\n         London, 1867: 8.\nRickert,  Edith,\n                        ed.  \n             Ancient English Christmas Carols.\n         London: Chatto & Windus, 1910: 223-4.\nReed,  Ernest Bliss. \n             Christmas Carols Printed in the Sixteenth Century\nHuntington Library Publications.\n         Cambridge, MA: Harvard UP, 1932 [= Kele, ca. 1550]: xxx-xxxi.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 7-8; 1977, 4-5.\nGreene,  Richard Leighton,\n                        ed.  \n             A Selection of English Carols.\nClarendon Medieval and Tudor Series.\n         Oxford: Clarendon, 1962: 56.\nDavies,  Reginald Thorne. \n             Medieval English Lyrics: a critical anthology.\n         London, 1963; Evanston, IL: Northwestern UP, 1964: 167-8.\n\n",
+            "folio": "ff. 22-22v"
+        },
+        "BLSl2593": {
+            "Editions": "\n\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 7-8.\nWright,  Thomas,\n                        ed.  \n             Specimens of Old Christmas Carols, etc.\nPercy Society\n         4. London: T. Richard, 1841: 17-18.\nWright,  Thomas,\n                        ed.  \n             Specimens of Old Christmas Carols, etc.\nPercy Society\n         4. London: T. Richard, 1841: 98-9.\n\n",
+            "folio": "ff. 33v-34"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "_id": 5321,
+    "_header": "The head of the image is steadfast faith",
+    "Subjects": "visions; Nebuchadnezzar",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The interpretation of Nebuchadnezzar\u2019s vision of the image \u2014 fourteen couplets in a Latin text",
+    "_witnesses": {
+        "OxfCCC132": {
+            "First Lines": "\nThe hed off \u00fee ymage ys stedfast fayth & me[r]velus\n                    greteTo godys byddyng & holy kyrke ay Sogete\u2026\n",
+            "Last Lines": "\n\u2026The fete & \u00fee leggys as slaw & ful heuyTo god\n                    warkys all way frowarde & vnlusty\n",
+            "Note": "\nSeparate couplets intermingled in Latin prose.",
+            "folio": "ff. 63v-67v"
+        },
+        "BLRoy8Fvi": {
+            "folio": "f. 25v"
+        },
+        "BLLan344": {
+            "First Lines": "\nTe hede of \u00feis ymage is stedescast ffayth & mekenesse\n                    greteTo goddis biddinge & holi kyrke ay sogette\u2026\n",
+            "Last Lines": "\n\u2026The fete & \u00fee leggis are slaw & ful heuiTo goode\n                    werkys al wey froward & unlusti\n",
+            "Note": "\nWritten as prose and rubricated. Folios have been re-numbered to include\n                    the flyleaves, and foliation here refers to the new numbers.",
+            "folio": "ff. 70-77"
+        }
+    }
+}

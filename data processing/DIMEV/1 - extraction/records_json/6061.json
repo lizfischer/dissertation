@@ -1,0 +1,21 @@
+{
+    "_id": 6061,
+    "_header": "Tprut! Scot riveling",
+    "Author(s)": "Langtoft",
+    "Title(s)": "Chronicle",
+    "Subjects": "Scots, songs against; chronicles, verse in",
+    "Versification": "\u2014 three-line \u2014 aab",
+    "_description": "English abuse of Scots \u2014 three lines in Langtoft\u2019s Chronicle (not quoted by Mannyng) in two MSS only",
+    "_witnesses": {
+        "BodFair24": {
+            "Transcription": "\nTprut skot riuelingIn vnseli timingCrope \u00feu out of\n                    cage\n",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             The Political Songs of England.\nCamden Society\n         o.s. 6 (1839): 391.\nWilson,  Richard Middlewood. \n             The Lost Literature of Medieval England.\n         London: Methuen, 1952: 207.\n\n",
+            "folio": "f. 4"
+        },
+        "CollArmsAr14": {
+            "Transcription": "\nTprut scot RiuelingWi\u00fe mikel mistimingCrop \u00feu ut of\n                    kage\n",
+            "Editions": "\nWright,  Thomas,\n                        ed.  \n             The Political Songs of England.\nCamden Society\n         o.s. 6 (1839): 391.\n",
+            "folio": "f. 139v1"
+        }
+    }
+}

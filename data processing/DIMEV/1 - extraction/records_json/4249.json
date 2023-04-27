@@ -1,0 +1,23 @@
+{
+    "_id": 4249,
+    "_header": "Old and young that here be",
+    "Title(s)": "Life of St. Margaret",
+    "Subjects": "Margaret, saint, life of; saints\u2019 lives",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Life of St. Margaret (later version)",
+    "_witnesses": {
+        "BodAsh61": {
+            "First Lines": "\nOld & \u021dong \u00feat here belystyns A whyle vnto\n                    meWhat I schall \u021dou seyHow it be fell vpon a\n                    dey\u2026\n",
+            "Last Lines": "\n\u2026pray we All \u00feat may so beAmen Amen for\n                    charyte\n",
+            "Attributed Title": "\nMargaret (f. 145)",
+            "Editions": "\n\nHorstmann,  Carl. \n             Altenglische Legenden: Neue Folge.\n         Heilbronn: Henninger, 1881: 236-41.\nShuffleton,  George. \n             Ashmole 61: A Compilation of Popular Middle English Verse.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008: 372-85; 569-75; 625.\n\n",
+            "folio": "ff. 145-150v"
+        },
+        "YaleBei365": {
+            "First Lines": "\nO Olde & yowng \u00feat ben herelystyn and to me\n                    clare\u2026\n",
+            "Last Lines": "\n\u2026In thys lekenes sente to \u00fee vsffor to stroye thy fayre\n                    bodyWith hys crafte of negramency\n",
+            "Editions": "\nSmith,  Lucy Toulmin,\n                        ed.  \n             A Commonplace Book of the Fifteenth Century.\n         Norwich: Kerrison, Goose, 1886: 107-18.\n",
+            "folio": "ff. 39-44"
+        }
+    }
+}

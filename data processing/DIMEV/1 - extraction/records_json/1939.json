@@ -1,0 +1,15 @@
+{
+    "_id": 1939,
+    "_header": "Herb florenti to a herb with flower spread",
+    "Subjects": "sermons, verse in; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Macaronic": "Latin",
+    "_description": "Verse translation of phrases in a Latin sermon \u2014 three couplets with Latin internal rhymes",
+    "_witnesses": {
+        "CULKk424": {
+            "First Lines": "\nherbe florenti To a \u021derbe with floure spredNubi volitanti To a\n                    cloud with wynd yled\u2026\n",
+            "Last Lines": "\n\u2026cursori diligenti To a currour of lytyl reste& ruibre\n                    defici[ ]ti And to an vn couen geste\n",
+            "folio": "f. 220rb"
+        }
+    }
+}

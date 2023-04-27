@@ -1,0 +1,17 @@
+{
+    "_id": 4204,
+    "_header": "Of Saint George our Ladys knight",
+    "Subjects": "George, saint; introductions, to prose texts",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Introductory couplet to an English prose prayer",
+    "_witnesses": {
+        "BodDou1": {
+            "Transcription": "\nOf saynt George oure ladyes knyghtOf whome no torment coude haue\n                    myght\n",
+            "folio": "f. 77v"
+        },
+        "Thompson": {
+            "Note": "\nHamer (1995)\nXHamer,  Richard. \n             A Manuscript Index to the Index of Middle English Verse.\n         London: British Library, 1995 lists as unidentified, missing or\n                    destroyed.",
+            "folio": "f. 13v"
+        }
+    }
+}

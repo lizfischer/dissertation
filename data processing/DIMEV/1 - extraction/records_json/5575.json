@@ -1,0 +1,26 @@
+{
+    "_id": 5575,
+    "_header": "There is full little sickerness",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018That now is hay \u00feat sumtyme was grasse\u2019",
+    "Subjects": "mutability; transitoriness, of life; envoys",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "?John Lydgate, \u2018That now is hay \u00feat sumtyme was grasse\u2019, possibly by Lydgate \u2014 seventeen eight-line stanzas (ababbcbc), including envoy, with this refrain",
+    "_witnesses": {
+        "BodRawC86": {
+            "First Lines": "\nTher is full lytel sicurnessehere in this worlde but\n                    transmutacioun\u2026\n",
+            "Last Lines": "\n\u2026Oute of \u00feat place maye be no fallTher is no hey but all\n                    fressh grasse\n",
+            "Note": "\nNine stanzas only, but scribe considered finished, wrote\n                    \u2018ffinis\u2019 (f. 142)",
+            "Attributed Title": "\nfabula (rubric, left margin, f. 141)",
+            "folio": "ff. 141-142"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nTher is full lytell sikerneshere in this worlde but\n                    transmutacion\u2026\n",
+            "Last Lines": "\n\u2026owt of that place may be no fallther is no heye but all fresh\n                    grase\n",
+            "Note": "\nPreceded by a note (f. 127v) by scribe (John Stow):\n                    \u2018here begyneth a balade whych Iohn lydgate the monke of bery wrote made at\n                    \u00fee commaundement of \u00fee quene kateryn as in here sportes she wallkyd by\n                    the medowes that were late mowen in the monthe of Iulii\u2019.",
+            "Attributed Author": "\nIohn lydgate (f. 127v); Explicit lidgat (f. 129v);\n                    finis qod lydgat of bery (f. 129v)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 809-13.\n",
+            "folio": "ff. 127v-129v"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "_id": 5640,
+    "_header": "Think of the latemost day when we shall faren",
+    "Note": "Cf. 6339.",
+    "Subjects": "death",
+    "Versification": "\u2014 four-line \u2014 aaaa",
+    "_description": "On Death \u2014 in monorhyming quatrains",
+    "_witnesses": {
+        "BodDig86": {
+            "First Lines": "\n\u00deench of \u00fee latemeste dai hou we schulen fareHout of\n                    \u00feisse worlde mid serewe and mid kare\u2026\n",
+            "Last Lines": "\n\u2026And lete hous hatie \u00fee wou and louien \u00fee\n                    ri\u021dtteAnd bringe hous at \u00feen hendedai into heuene li\u021dtte\n                    amen\n",
+            "Note": "\n114 lines.",
+            "Facsimiles": "\nTschann,  Judith A.,  and  Malcolm B. Parkes.  \n             \u201cIntroduction.\u201d \n             Facsimile of Oxford, Bodleian Library, MS Digby 86\nEETS\n         s.s. 16 (1996). \n",
+            "Editions": "\nStengel,  Edmund. \n             Coducem Manu Scriptum Digby 86\u2026.\n         Halle: Orphanotrophei, 1871: 101.\n",
+            "folio": "ff. 198-200"
+        },
+        "OxfJesus29": {
+            "First Lines": "\nI here\u00fe of one \u00feinge \u00feat ye owen of \u00feencheYe\n                    \u00feat werye\u00fe \u00feat riche schrud and sytte\u00fe on\n                    eurebence\u2026\n",
+            "Last Lines": "\n\u2026And lete vs hatye \u00feat wouh and luu\u00fee \u00feat\n                    ryhteAnd bringe vre saule to heoueriche lyhte\n",
+            "Note": "\n132 lines including sixteen introductory lines.",
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             An Old English Miscellany: A Bestiary, Kentish Sermons, Proverbs of\n                Alfred and Religious Poems of the Thirteenth Century.\nEETS\n         o.s. 49 (1872); repr. 1988: 168-85.\n",
+            "folio": "Part II, ff. 182v-184v"
+        },
+        "CamTCC323": {
+            "First Lines": "\n\u00deene latemeste dai wenne we sulen farrenvt of \u00feisse\n                    worlde wid pine & wid care\u2026\n",
+            "Last Lines": "\n\u2026& lete us hatiin \u00feat wawe & louien \u00feat\n                    risteand bring us at hure endesid in to houene liste\n",
+            "Note": "\n108 lines.",
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 46-54.\n",
+            "folio": "ff. 43v-45v"
+        },
+        "BLCottCalAIX": {
+            "First Lines": "\nI here\u00f0 of \u00feinge one \u00feat \u021de ohen of \u00feenche\u021ce \u00feat \u01bferie\u00f0 riche schrud and sitte\u00f0 on oure benche\u2026\n",
+            "Last Lines": "\n\u2026And lete us hatie \u00feat \u01bfoh and luuie[?] \u00feat ri\u021dteAnd bringe ure sa\u01bfle to heoueriche li\u021dteAmen\n",
+            "Note": "\n132 lines; sixteen introductory lines. Written as prose.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Caligula MS A IX.\n         http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Caligula_A_IX. \n",
+            "Editions": "\n\nMorris,  Richard,\n                        ed.  \n             An Old English Miscellany: A Bestiary, Kentish Sermons, Proverbs of\n                Alfred and Religious Poems of the Thirteenth Century.\nEETS\n         o.s. 49 (1872); repr. 1988: 168-85.\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 46-54.\nWright,  Thomas,\n                        ed.  \n             The Owl and the Nightingale.\nPercy Society\n         11. London: Richard, 1843: App., 70-80.\nKaiser,  Rolf,\n                        ed.  \n             Alt- und mittelenglische Anthologie.\n         Berlin, 1954; 3rd ed.; trans. as  Medieval English: a\n                Old English and Middle English Anthology Berlin West, 1958: 231-3 (112 lines only).\n\n",
+            "folio": "ff. 247rb-248va"
+        }
+    }
+}

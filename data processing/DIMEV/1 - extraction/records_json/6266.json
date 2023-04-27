@@ -1,0 +1,29 @@
+{
+    "_id": 6266,
+    "_header": "When Adam delved and Eve span",
+    "Note": "Printed in Walsingham, Historia breuis, Binneman, 1574 (STC 25004) and Stow, Annales (STC 23334-23340; editions without indication of source include Riley (1863)\nXRiley, Henry Thomas. Thomae Walsingham, Quondam Monachi S. Albani, Historia Anglicana. 2 vols. Rolls Series 28a (1863-64); repr. Kraus, 1964, 2.32; Thompson (1874)\nXThompson, Sir Edward Maunde. Chronicon Angliae ab anno Domini 1328 usque ad annum 1388.\nRolls Series 64 (1874); repr. Kraus 1965, 321; Owst (1933)\nXOwst, Gerald Robert. Literature and Pulpit in Medieval England. Cambridge: UP, 1933, 291; Smith (1935)\nXSmith, William George. The Oxford Dictionary of English Proverbs. Oxford: Clarendon, 1935; rev. ed. 1948, 571; Meech (1940)\nXMeech, Sanford Brown. \u201cA Collection of Proverbs in Rawlinson MS D 328.\u201d Modern Philology 38 (1940-41): 113-32, 121; Eberhard (1917)\nXEberhard, Oscar. Der Bauernaufstand vom Jahr 1381 in der englischen Poesie.\nAnglistische Forshungen 51 Heidelberg: Winter, 1917, 24; Robbins (1960)\nXRobbins, Rossell Hope. \u201cMiddle English Poems of Protest.\u201d Anglia 78 (1960): 193-203, 202.",
+    "Subjects": "proverbs; Adam and Eve",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "London, British Library Harley 3352: error for London, British Library Harley 3362.",
+    "_description": "A proverbial saying employed by John Ball in the Wat Tyler insurrection (1381); also found in German, Dutch, etc. Cf. 1596, lines 98-99; 3921, lines 1-4; also many early chronicles. For further references, cf. Meech (1940)\nXMeech, Sanford Brown. \u201cA Collection of Proverbs in Rawlinson MS D 328.\u201d Modern Philology 38 (1940-41): 113-32, 130.",
+    "_witnesses": {
+        "BodRawD328": {
+            "Transcription": "\nWhanne Adam dalfe & eue spanneho was \u00feo a\n                    gentelman\n",
+            "Note": "\nTranslating roughly, \u2018Cum vauga quadam\u2026\u2019, which\n                    follows; English portion all written on one line.",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             Songs and Carols.\nWarton Club\n         4. London: Richards, 1856: 103.\nSisam,  Kenneth. \n             Fourteenth Century Verse and Prose.\n         Oxford: Clarendon, 1921: 152.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 558.\n\n",
+            "folio": "f. 142v"
+        },
+        "OxfBal354": {
+            "Transcription": "\nWhan Adam delffid & eve spanwho was than a Ientilman\n",
+            "Note": "\nIn a collection of 55 proverbs in Latin and English; translating\n                        \u2018Cum vanga quadam tellurem foderat Adam\u2026\u2019, which\n                    follows.",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 131.\n",
+            "folio": "p. 42001"
+        },
+        "BLHar3362": {
+            "Transcription": "\nwhan Adam dalf & Eve spanwho was then a gentleman\n",
+            "Note": "\nAdded to margin by a later hand; previously listed as in Harley 3352.",
+            "folio": "f. 5"
+        }
+    }
+}

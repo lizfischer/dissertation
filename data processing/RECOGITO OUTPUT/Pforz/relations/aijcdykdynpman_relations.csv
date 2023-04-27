@@ -1,0 +1,4 @@
+"source","relation","target","source_id","source_tags","target_id","target_tags"
+"Grafton","Sold to","Gossett","0a233e36-eeae-49ef-9800-28e97644db0d","","e9b7077b-7d9e-420f-8330-70515e35835d",""
+"Gossett","Sold to","Heber","e9b7077b-7d9e-420f-8330-70515e35835d","","8f2fdf13-08cf-4bf8-8e5d-d17beeaa6e9e",""
+"Heber","Sold to","Britwell","8f2fdf13-08cf-4bf8-8e5d-d17beeaa6e9e","","ea88c7b9-0a35-450f-9e82-d2c4da1c4e3e",""

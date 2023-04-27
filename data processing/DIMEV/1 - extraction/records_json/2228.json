@@ -1,0 +1,31 @@
+{
+    "_id": 2228,
+    "_header": "I mourn for love thou may see",
+    "Note": "Cf. 1367.",
+    "Subjects": "sermons, verse in",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A couplet in a Latin homily \u2018Amore Langueo\u2019",
+    "_witnesses": {
+        "OxfBal149": {
+            "Transcription": "\ny morne for loue \u00feu may see\u00feat makide me deye for\n                    \u00fee\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.131.\n",
+            "folio": "f. 31v"
+        },
+        "OxfMagd93": {
+            "Transcription": "\ny morne for loue thou may seethat makith me dye for the\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 152v"
+        },
+        "CULKk424": {
+            "Transcription": "\nI morne for loue \u00feu may se\u00feat makyth me to dye for\n                    \u00fee\n",
+            "folio": "f. 144rb"
+        },
+        "TCD277": {
+            "Transcription": "\nI morne for luffe (line 4 on page)I morn for lofe \u00feu may\n                    see\u00feat made me drery for \u00fee (lines 6-7)\n",
+            "Note": "\nIn a sermon for Good Friday.",
+            "Attributed Title": "\nAmore Langueo (p. 185); Sermo de passione Cristi in die\n                        parasceues facienda (added, p. 185)",
+            "folio": "p. 186"
+        }
+    }
+}

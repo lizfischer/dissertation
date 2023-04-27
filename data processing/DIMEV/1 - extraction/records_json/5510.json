@@ -1,0 +1,36 @@
+{
+    "_id": 5510,
+    "_header": "The true process of English policy",
+    "Note": "Non-source-specific editions Hakluyt (1598)\nXHakluyt, . The Libel of English Policy. London, 1598; repr. Glasgow, 1903; ed. Rhys, London, 1907; ed. Benham, Seattle, 1922.; Benham (1922)\nXBenham, Allen Rogers. The Processe of the Libel of English Policye. Seattle: Washington State University, 1922, 2nd ed. rev., 1926; Selden (1635)\nXSelden, John. Mare Clausum. London: Stanesby, 1635, 261. For the \u2018A\u2019 Text, see 5508; for the \u2018B\u2019 Text, 1st version, see 5509.",
+    "Title(s)": "The Libel of English Policy",
+    "Subjects": "advice, to magistrates; envoys; political verse; merchants; prologues",
+    "Versification": "\u2014 two-line, seven-line \u2014 aa, ababbcc",
+    "_description": "The Libel of English Policy, the \u2018B\u2019 Text, 2nd version \u2014 in couplets, with a Prologue of seven stanzas rhyme royal and Envoy of fifteen lines",
+    "_witnesses": {
+        "BLHar78": {
+            "First Lines": "\n\u2026A good shippe and entred into hitWith viij kynges and downe\n                    did they sitte\u2026\n",
+            "Last Lines": "\n\u2026Of moost estate his magnanimiteLike to Edgare and the said\n                    Edward\u2026\n",
+            "Note": "\nB Text (2); a single leaf, lines 968-1042.",
+            "folio": "ff. 53-53v"
+        },
+        "BLHar271": {
+            "First Lines": "\nThe trewe prosses of englysch polecieIs outward to kepe \u00fee\n                    Regne in reste\u2026\n",
+            "Last Lines": "\n\u2026I offer \u00fee tham to be graciousTo myn excuse farwell my\n                    own trete\n",
+            "folio": "ff. 1-25v"
+        },
+        "RylandsEng955": {
+            "First Lines": "\nThe true possesse of englishe pollesyeof owtter ward to kepe the\n                    realme in restof our england that no man may denyThe soth to saye it\n                    is one of the best\u2026\n",
+            "Last Lines": "\n\u2026The seconde person in dyvyne ysHe vs assume and brynge vs to\n                    hys blysse\n",
+            "Note": "\nMissing portions added to ff. 3-3v and 15v by a\n                    sixteenth-century hand, to ff. 6-7v by another sixteenth-century\n                    hand; \u2018hony soit qui mal y pance\u2019 on fol. 1 by a fifteenth-century\n                    hand; note bottom f. 27, \u2018presented to \u00fee L. Archb. Chicheley by John\n                    Lidgate anno domini 1436\u2019 by a sixteenth-century hand.",
+            "Attributed Title": "\nA processe of englishe pollesy touching keeping of the narrow sea (added by\n                    a sixteenth-century hand to front cover); The bible of pollicie (f. 1, added by\n                    a sixteenth-century hand); A treatise or a lible of englishe pollesie for keping\n                    of the narrowe sea what proffet cometh therby what worshipp & preseruation\n                    vnto our realme of England (f. 3, by a sixteenth-century hand)",
+            "folio": "ff. 3-27"
+        },
+        "BosPLMed92": {
+            "First Lines": "\nThe trewe processe of englysh policyeAs toward to kepe the Regne in\n                    ResteOf Ingeland \u00feat no man may denyeThe sooth to say hit is oon\n                    the beste\u2026\n",
+            "Last Lines": "\n\u2026Of high wytte\u021d lordes right fameuxTo examyne thy dulle\n                    RudyteeI offre the theym to be gracieuxTo myn excuse far weel myn owne\n                    tretee\n",
+            "Note": "\nMS written in Calais c. 1470 by scribe, V.\n                            C. Moris and another hand; owned by \u2018William\n                    Caston\u2019 and given by him to \u2018William Sonnyng\u2019 in 1471; coat of\n                    arms of Thomas Wall on f. 1; transcript of the seventeenth century inserted at\n                    end of MS.",
+            "Attributed Title": "\nHere begynneth the prologe of the byble of Englysh polecie exortyng all\n                    Engeland to kepe the see enuiron and namely to kepe the narow se Schewyng what\n                    proffit commeth \u00feer of and also worschip to the Royaume of Ingeland &\n                    to all Inglysh men (f. 167); Thus endeth the trewe processe of the byble of\n                    englysh polycye Exortyng all Ingeland to kepe the see envyron And namely the\n                    narow see schewyng what worship and saluacion commeth ther of to the Regne of\n                    Engeland (f. 184)",
+            "folio": "ff. 167v-184v"
+        }
+    }
+}

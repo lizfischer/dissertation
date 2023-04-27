@@ -1,0 +1,21 @@
+{
+    "_id": 61,
+    "_header": "A hart harboreth",
+    "Subjects": "lodging, terms of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A list of proper terms",
+    "_witnesses": {
+        "NLWPork10": {
+            "First Lines": "\nA hart harborowthA kny\u021dt herborovtheA Boke logytheA\n                    squyer logythe\u2026\n",
+            "Last Lines": "\n\u2026A Cheynen fynnydeA Perche and a roche I schallydA Tenche\n                    in lollyA Plays I savssyd\n",
+            "folio": "ff. 187v-188v"
+        },
+        "YaleBei365": {
+            "First Lines": "\nHhert hfrbprkthknyth hfrbprprrkth\u2026\n",
+            "Last Lines": "\n\u2026Schuldryng of lenyngB Cony skttkng\n",
+            "Note": "\nPartly in code of vowels represented by the letter in alphabet that\n                    follows them (\u2018f\u2019 for \u2018e\u2019, \u2018p\u2019 for\n                    \u2018o\u2019, etc.).",
+            "Editions": "\nSmith,  Lucy Toulmin,\n                        ed.  \n             A Commonplace Book of the Fifteenth Century.\n         Norwich: Kerrison, Goose, 1886: 12.\n",
+            "folio": "f. 1v"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "_id": 5276,
+    "_header": "The first six years of mans birth and age",
+    "Note": "Cf. Kalendar of Shepherdes (Sommer (1892)\nXSommer, Heinrich Oskar. The Kalender of Shepherdes; the edition of Paris 1503 in facsimile, reprint of Pynson\u2019s 1506. London: Paul, Trench, Tr\u00fcbner, 1892).",
+    "Subjects": "human life, compared to months of the year; months, compared to man\u2019s life; ages of man\u2019s life",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "Man\u2019s life compared to the months of the year (six years = one month), adapted from the French \u2014 twelve cross-rhymed quatrains",
+    "_witnesses": {
+        "LeedsBro15": {
+            "First Lines": "\nThe fyrst vij yeres of manys birth [a]nd [age]May well be compared\n                    to Ianyuerffor in this monthe ys no strenght ne corageMore then in a\n                    childe of the age of [ ]\u2026\n",
+            "Last Lines": "\n\u2026Nature with age wyll hym on message sendeThe tyme ys come\n                    that he must go hym selue\n",
+            "folio": "ff. 1-6v"
+        }
+    }
+}

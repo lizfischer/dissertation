@@ -1,0 +1,22 @@
+{
+    "_id": 5662,
+    "_header": "This book showeth to clerks mystical cunning",
+    "Author(s)": "Thomas Norton",
+    "Title(s)": "Certayne Principall Questions drawen oute of Raymundes Questyonary",
+    "Subjects": "prologues, to prose texts",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Prologue to Certayne Principall Questions drawen oute of Raymundes Questyonary [actually a translation of Norton\u2019s Latin Prologue to his Ordinal; cf. 6014] \u2014 twenty couplets",
+    "_witnesses": {
+        "BodAsh1478": {
+            "First Lines": "\nThis Booke shewith to clerkes misticall commingeThis booke to\n                    laymen of iustice is any mentinge\u2026\n",
+            "Last Lines": "\n\u2026fortune to hime shall chance\u00fee time & hour of small\n                    Esperaunce\n",
+            "folio": "Part II,  ff. 90-90v"
+        },
+        "BodAsh1479": {
+            "First Lines": "\nThys bokes vnto clarkes declaryth syence great& here in laye\n                    men maye increase of Iustyce geat\u2026\n",
+            "Last Lines": "\n\u2026good lorde lete \u00feat daye come must hertely we desyerwe\n                    trustyth to se \u00fei glory o lorde we \u00fee requyer\n",
+            "Note": "\n10 stanzas. Follows Norton\u2019s Latin Prologue to the Ordinal. At the\n                    beginning on f. 299v: \u2018The inglyshe of thys latten\u2019. At\n                    the end: \u2018thus endyth \u00fee ordynall of Mr norton made by hym in anno\n                    1477. Coppyed by Rychard Waultowne alias Walton the 20 of october anno 1565 to\n                    our god gyve alle honor. finis Telos\u2019.",
+            "folio": "Part II,  ff. 299v-300"
+        }
+    }
+}

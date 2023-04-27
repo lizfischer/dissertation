@@ -1,0 +1,65 @@
+{
+    "_id": 2067,
+    "_header": "Honoured be Thou Jesu our Saviour",
+    "Author(s)": "Thomas Hoccleve",
+    "Title(s)": "P\u00e8lerinage de l\u2019\u00e2me",
+    "Subjects": "Easter; songs",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Thomas Hoccleve, Angels\u2019 song on Easter Day, in the English translation of the P\u00e8lerinage de l\u2019\u00e2me \u2014 five stanzas rhyme royal",
+    "_witnesses": {
+        "Bod770": {
+            "First Lines": "\nHonourid be \u00feou ihesu our saviour\u00feat for mankinde were\n                    don on rode\u2026\n",
+            "Last Lines": "\n\u2026\u00feat an \u00fee wel & ground of all vertuHonourid be\n                    \u00feou blisful lord ihesu\n",
+            "Attributed Title": "\n\u00fee song of angele on ester day (f. 95)",
+            "folio": "f. 95ra-95rb"
+        },
+        "OxfCCC237": {
+            "First Lines": "\nHonowryd be \u00feowe Ihesu owre saueowreThat for mankynd wer doon\n                    vppon \u00fee roode\u2026\n",
+            "Last Lines": "\n\u2026That art \u00fee well & grounde of all vertueHonowred be\n                    \u00feowe blessid lord Ihesu\n",
+            "folio": "ff. 129-129v"
+        },
+        "OxfUni181": {
+            "folio": "f. 144"
+        },
+        "CamGon124": {
+            "First Lines": "\nhonowred be \u00feow Jhesu sauiour\u00feat for mankynde were don\n                    opon \u00fee rode\u2026\n",
+            "Last Lines": "\n\u2026\u00feat art \u00fee welle & grownde of alle\n                    vertuhonowred be \u00feow blysful lord Jhesu\n",
+            "Attributed Title": "\ntho aungeles songen vp on astir daye (p. 240)",
+            "folio": "pp. 240-241"
+        },
+        "CULKk17": {
+            "First Lines": "\nHonourid be \u00feou Jhesu saueourThat for mankynde wer don vp on\n                    \u00fee roode\u2026\n",
+            "Last Lines": "\n\u2026That art \u00fee welle & ground of al uertuhonouryd be\n                    \u00feou blysful lord Jhesu\n",
+            "Attributed Title": "\nher endith \u00fee drem of \u00fee pilgrimage of \u00fee soule (f.\n                        124v)",
+            "folio": "ff. 120-120v"
+        },
+        "BLAdd34193": {
+            "First Lines": "\nHonoure be \u00feou ihesuoure saueoure \u00feat for man kinde were\n                    done on \u00fee rode\u2026\n",
+            "Last Lines": "\n\u2026\u00feou arte \u00fee welle and grounde of all vertuhonourede\n                    be \u00feou blessede lorde ihesu\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 93v-94"
+        },
+        "BLAdd37049": {
+            "Editions": "\nDoty,  Brant Lee,\n                        ed.  \n             \u201cAn Edition of British Museum MS Additional 37049: a Religious\n                Miscellany.\u201d \n         Diss. Michigan State, 1969: 419.\n",
+            "folio": "f. 76"
+        },
+        "BLEge615": {
+            "First Lines": "\nHOnured be thu Ihu saueoure\u00feat for mankende were do on the rode\u2026\n",
+            "Last Lines": "\n\u2026Thu art the ground & welle of alle vertueHonured be thu blisful lord Ihu\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             \u201cHoccleve\u2019s Works: The Regement of Princes and fourteen minor\n                poems.\u201d \n             EETS\n         e.s. 72 (1897); repr. 1988: xlviii-xlix.\n",
+            "folio": "ff. 100-100v"
+        },
+        "HatCP270": {
+            "folio": "unfoliated"
+        },
+        "NYPLSpenc19": {
+            "First Lines": "\nHonoured be thow Ihesu saueourThat for mankynde were don on the\n                    rode\u2026\n",
+            "Last Lines": "\n\u2026That art the grounde and welle of all vertuhonoured be thow\n                    blesful lord Ihesu\n",
+            "Attributed Title": "\nThe aungeles song vpon ester day (f. 128)",
+            "folio": "ff. 128-128v"
+        },
+        "MelSLV096G94": {
+            "folio": "f. 205v"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "_id": 2161,
+    "_header": "I Edward King",
+    "Title(s)": "\u2018Charta Sancti Edwardi Regis de concessione ballivae suae\u2019",
+    "Subjects": "forests; charters; Edward the Confessor, saint",
+    "Versification": "\u2014 two-line, four-line \u2014 aa, aaaa",
+    "_description": "\u2018Charta Sancti Edwardi Regis de concessione ballivae suae\u2019 \u2014 twenty-two lines",
+    "_witnesses": {
+        "BLCottJulFX": {
+            "First Lines": "\nIche Edward Kinge haue yeouen of my forest the kepingeOf the\n                    hundred of Chalmer & dansing to Randolf peperking\u2026\n",
+            "Last Lines": "\n\u2026An Sweyn of Essex our brother and taken hym many ot\u2026And\n                    our steward Howelyn that besought me for hym\n",
+            "Note": "\nTwo verse lines per manuscript line. Some damage to\n                    manuscript.",
+            "Attributed Title": "\nCharta Sancti Edwardi Regis de concessione ballivae suae (f.\n                    141)",
+            "folio": "f. 141"
+        },
+        "HunEL34A9": {
+            "First Lines": "\nIche Edward Kingehaue geuen of my forest kepingeof the\n                    hundrede of Chelmar & dansingeto Randolfe Peperking & to his\n                    kindlinge\u2026\n",
+            "Last Lines": "\n\u2026and Swayne of Essex our brotherand taken hym many\n                    otherand our Steward Hawlynthat besought me for hym\n",
+            "Note": "\nLate sixteenth-century copy; introduced by note, \u2018In recepto in\n                        Scaccario: In Carta Foresta Essex Rotulo Quinto\u2019 (f.\n                        77v); 22 lines, in two monorhyming quatrains and the rest mostly\n                    couplets.",
+            "folio": "ff. 77v-78"
+        }
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "_id": 5095,
+    "_header": "Take earth of earth earths brother",
+    "Note": "See also 4236; for a variant prose version see Oxford, Bodleian Library Ashmole 759 (SC 6954), f. 124r-v (same first few lines only). All texts show extreme variations, some MSS are followed by further couplets. Further variants exist in sixteenth- and seventeenth-century MSS: see Singer (1928)\nXSinger, Dorothea Waley. Catalogue of Latin and Vernacular Alchemical Manuscripts. 3 vols. Brussels: Lamertin, 1928-31, 857.",
+    "Author(s)": "Pearce the Black Monk (attrib.)",
+    "Subjects": "alchemy",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Oxford, Bodleian Library Ashmole 1280 (SC 8216), pp. 23-30: this MS all Latin texts; Bristol, Clifton College Norton\u2019s Ordinal of Alchemy , now lost; previously ed. bad key, vi-vii; Ashmole (1652)\nXAshmole, Elias. Theatrum Chemicum Britannicum. London: J. Grimond, 1652, 269-74 (variant).",
+    "_description": "Verses on the Elixir, ascribed to Pearce the Black Monk \u2014 in couplets",
+    "_witnesses": {
+        "BodAsh759": {
+            "First Lines": "\nTake erth of erth erthis broderWater and erth it is non\n                    other\u2026\n",
+            "Last Lines": "\n\u2026Vppon venus and mercuryWhich medecyn wold make the\n                    mery\n",
+            "Note": "\n72 lines; followed by 4236.",
+            "folio": "ff. 127-128"
+        },
+        "BodAsh1445": {
+            "First Lines": "\nTake Eearth of earth Earths BrotherAnd water of the earth that is\n                    another \u2026\n",
+            "Last Lines": "\n\u2026Now haue you heard the making of our StoneThe beginning &\n                    ending is all one\n",
+            "Note": "\n184 lines, divided into seven parts, with later emendations in\n                    Ashmole\u2019s hand.",
+            "Attributed Author": "\nPiearcie the Black Monke upon \u00fee Elixir. Seene of many but knowne to\n                    a few (f. 49)",
+            "folio": "Part VIII, ff. 49-52v"
+        },
+        "BodAsh1450": {
+            "First Lines": "\nTake earthe of earthe earthes brotherwater and earthe it is none\n                    other\u2026\n",
+            "Last Lines": "\n\u2026 nowe haue ye hearde the making of our stonethe begynning and\n                    thende & all is one\n",
+            "Note": "\n105 lines; immediately followed by 4236 as if part of same work.",
+            "folio": "pp. 23-27"
+        },
+        "BodAsh1480": {
+            "First Lines": "\nIn arsnick sublymed ther is a waye strayghtewhite mereur calsyned\n                    \u20279\u2027 tymes his weighte\u2026\n",
+            "Last Lines": "\n\u2026 nowe haue heard the making of or stonethe\n                    begynyng and endyng all is one\n",
+            "Note": "\nFragment, last 24 lines only.",
+            "folio": "f. 59v"
+        },
+        "BodAsh1485": {
+            "First Lines": "\nTake earthe of earthe earthes brotherand water of earthe that is\n                    another\u2026\n",
+            "Last Lines": "\n\u2026\u2026and all the richesse that ye of speedeto doe god\n                    worshippe with almes deede\n",
+            "Note": "\n56 lines; addition to usual text continues ff. 48v-50 with\n                    repeated fragment, beginning, \u2018All ye that haue soughte many a\n                    daye\u2026\u2019 for 110 more lines.",
+            "Attributed Author": "\nAn Allegorye supposed to be made by Thomas Norton (f.\n                    47v)",
+            "folio": "ff. 47v-50"
+        },
+        "BodAsh1486": {
+            "Transcription": "\nTake erth of erth er\u00feis bro\u00feerwater of erth is \u00fee\n                    otherffyer of \u00feat beris \u00fee prisbut of \u00fei erth loke\n                    \u00feu be wyse\n",
+            "Note": "\nFragment: 4 lines only. Occurs among additional sets of verses which\n                    follow 4210.",
+            "folio": "Part I, f. 18vb"
+        },
+        "BodAsh1490": {
+            "First Lines": "\nTake Earthe of Earthe is brotherAnd water of Earth That is\n                    another\u2026\n",
+            "Last Lines": "\n\u2026And it muste and more me Dissayuable to mans body\n",
+            "Note": "\n148 lines written as prose, including the additional portion beginning,\n                    \u2018In Arsnick sublimed a waie ther is streighte\u2019 also found in some\n                    other copies.",
+            "folio": "ff. 142-143"
+        },
+        "BodAsh1492": {
+            "First Lines": "\nTake Earth of Earths & Earths BrotherWater & Earth it is\n                    none other\u2026\n",
+            "Last Lines": "\n\u2026Now haue you heard the making of our stoneThe beginning &\n                    the End all is one\n",
+            "Note": "\n104 lines; immediately followed by 4236 as if part of same work.",
+            "folio": "Part VIII, pp. 127-129"
+        },
+        "CamTCC925": {
+            "First Lines": "\nTake earthe of earth earthes brotherWater & earthe it is none\n                    other\u2026\n",
+            "Last Lines": "\n\u2026Nowe have you hard the makinge of or stoneThe begynninge\n                    & ende & all is one\n",
+            "Note": "\n105 lines, written in 16th century; immediately followed by\n                        4236 as if part of same\n                    work.",
+            "folio": "ff. 86-87v"
+        },
+        "CamTCC1119": {
+            "First Lines": "\nTak earth of Earth earth brethrenAnd water of the Earth\n                        yt is an other\u2026\n",
+            "Last Lines": "\n\u2026Nowe haue ye heard the making of our stoneThe beginning and\n                    ending all is one\n",
+            "Note": "\nSecond occurrence in MS, 56 lines of the usual text plus the variant\n                    second portion beginning, \u2018Al yee that haue sought many a daye\u2019 (133\n                    lines).",
+            "folio": "ff. 83v-86"
+        },
+        "BLSl288": {
+            "First Lines": "\nTake Earthe of Earthe Earthes brotherAnd water of Earthe that is an\n                    other\u2026\n",
+            "Last Lines": "\n\u2026And all cometh of one imageBut water of the wood maketh the\n                    mariage\n",
+            "Note": "\n52 lines.",
+            "Attributed Author": "\nEx rotula Richardi Hypesley",
+            "folio": "ff. 164-164v"
+        },
+        "BLSl317": {
+            "First Lines": "\nTake earthe owt of earthe earthes brotherAnd water of earthe that\n                    is an other\u2026\n",
+            "Last Lines": "\n\u2026holie ghost thie gyft this isgraunt it to vs wt heaven\n                    blisse\n",
+            "Note": "\n64 lines, at end \u2018Amen\u2019.",
+            "folio": "f. 94ra-94rb"
+        },
+        "BLSl320": {
+            "Transcription": "\nTake earthe of earthe, earthes brotherwater of earthe is the\n                    otherffyer of that beares the pryceBut of \u00fee earthe loke \u00feu\n                    be wyse\n",
+            "Note": "\nFragment or abbreviated form, 4 lines only, written 16th\n                    century.",
+            "folio": "f. 1"
+        },
+        "BLSl1091": {
+            "First Lines": "\nTake erth off erth the whych is erthis brotherand water off the\n                    erth that is no other\u2026\n",
+            "Last Lines": "\n\u2026Now haue ye hard \u00fee makyng off our stonThe begynyng and\n                    endyng all is oon\n",
+            "Note": "\nVariant text, 183 lines, at end \u2018explicit dei\n                    gratias\u2019.",
+            "folio": "ff. 105-108"
+        },
+        "BLSl1092": {
+            "First Lines": "\nTake earthe of earthe earthes brother& water of earthe that is\n                    an other\u2026\n",
+            "Last Lines": "\n\u2026& drawe from hym a water cleerethe which water hathe no\n                    peere\n",
+            "Note": "\nImperfect: 28 lines only.",
+            "folio": "f. 62"
+        },
+        "BLSl1098": {
+            "First Lines": "\nTake Earthe of earthe wyth hys brethrenthat is water & ayre\n                    wyth mo wyth them\u2026\n",
+            "Last Lines": "\n\u2026When thou haste water of ayre & ayreof fyre & fire of\n                    earthe then haste thou tharte\n",
+            "Note": "\nAbbreviated variant: 20 lines only.",
+            "folio": "f. 47"
+        },
+        "BLSl1842": {
+            "First Lines": "\n\u2026I haue a daughter that highte saturneof my daughter without\n                    any dread\u2026\n",
+            "Note": "\nFragment, 37 lines, immediately followed by 4236 as if part of same work.",
+            "folio": "ff. 18-18v"
+        },
+        "BLSl2170": {
+            "First Lines": "\n\u2026I haue a daughter that highte saturneof my daughter without\n                    any dread\u2026\n",
+            "Note": "\nImmediately followed by 4236 as if part of same work.",
+            "folio": "ff. 74v-76v"
+        },
+        "BLSl3580B": {
+            "First Lines": "\nOf all thynges there needethe no butt 4 in generall I saye\n                    so\u2026\n",
+            "Last Lines": "\n\u2026This ys \u00fee makinge of our stone.The truthe I haue tolde\n                    you euery chone\n",
+            "Note": "\n68 lines, followed by 4236.",
+            "folio": "ff. 181-182"
+        },
+        "BLSl3667": {
+            "First Lines": "\nTake Earth of Earths Earths brotherwater & Earth yt is non\n                    other\u2026\n",
+            "Note": "\n105 lines; immediately followed by 4236 as if part of same work.",
+            "Attributed Author": "\nRaymonde lully (added by later hand)",
+            "folio": "ff. 118-119v"
+        },
+        "BLSl3688": {
+            "First Lines": "\nTake earthe owt of earthe Earthes BrotherAnd Water and Earthe it is\n                    non other\u2026\n",
+            "Last Lines": "\n\u2026Nowe have ye harde \u00fee makinge of our StonneThe\n                    Begynnynge and Endinge all is one\n",
+            "Note": "\n198 lines.",
+            "Attributed Author": "\nArnoldus de villa nova",
+            "Attributed Title": "\nDe mango opera of Arnoldus de villa nova",
+            "folio": "ff. 74v-78"
+        },
+        "BLSl3747": {
+            "First Lines": "\nTake erth of erth erthes broderWater and erth it is non\n                    other\u2026\n",
+            "Last Lines": "\n\u2026Nowe haue ye herde the makyng of our stoneThe begynnyng and\n                    ende and all is on\n",
+            "Note": "\n105 lines, followed by 4236.",
+            "folio": "ff. 106v-108"
+        },
+        "Wellcome519": {
+            "First Lines": "\nTake Earthe of Earthe Earthes brotherwater & earthe\n                    it is none other\u2026\n",
+            "Last Lines": "\n\u2026 & all \u00fee Riches \u00feat is spedeto do god\n                    worshippe with almes dedefinis\n",
+            "Note": "\n156 lines.",
+            "folio": "ff. 69v-72v"
+        },
+        "Wellcome577": {
+            "First Lines": "\nTake earth of earth earthes brotherand water of earth that is\n                    another\u2026\n",
+            "Last Lines": "\n\u2026And all commeth of one Imagebut the water of the wood maketh\n                    the mariag\n",
+            "Note": "\n52 lines.",
+            "folio": "ff. 52v-53v"
+        },
+        "Petworth99": {
+            "folio": "ff. 13-16"
+        },
+        "BosHistSoc": {
+            "First Lines": "\nTake erth of earth Earths BrotherAnd water of Earth \u00feat ys an\n                    other\u2026\n",
+            "Last Lines": "\n\u2026Now haue ye here \u00fee makyng of owr stoneThe begynnyng\n                    & endyng & all ys on\n",
+            "Note": "\n186 lines.",
+            "Attributed Title": "\nExplicit erth of erth Elyxeare (f. 155rb)",
+            "folio": "ff. 154rb-155rb"
+        },
+        "YaleBeiOsfa16": {
+            "First Lines": "\nTak earth out of erthe erthes awn bro\u00feerAnd watter of that\n                    earth thene as another\u2026\n",
+            "Last Lines": "\n\u2026now haue ye hard the makyng of our stonethe begynyng &\n                    end all is one\n",
+            "Note": "\n177 lines, with portions of 4236; folios marked pages 37, 38, 39, 40; written by a\n                    hand of the sixteenth century; ends \u2018fynis Explicit\u2019.",
+            "folio": "ff. 3ra-3vb"
+        },
+        "PhilUPSmith4": {
+            "First Lines": "\nTake earthe of earthe earthes BrotherWater & earthe it is none\n                    other\u2026\n",
+            "Last Lines": "\n\u2026& all \u00fee Riches \u00feat is spedeto God worshipe is\n                    almes dede\n",
+            "folio": "ff. 76-77v"
+        },
+        "CopenRoy3500": {
+            "Note": "\nImmediately followed by 4236.",
+            "folio": "ff. 18-20"
+        },
+        "TCD389": {
+            "First Lines": "\nTake earth of earth earthes brotherand water of earth that is none\n                    other\u2026\n",
+            "Last Lines": "\n\u2026Now haue yow heard the making of our stonebegynnig and endnig\n                    and all is one\n",
+            "Note": "\n196 lines.",
+            "Attributed Title": "\nThe verses (f. 101)",
+            "folio": "ff. 101-103v"
+        }
+    }
+}

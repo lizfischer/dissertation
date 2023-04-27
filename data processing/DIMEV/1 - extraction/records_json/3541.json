@@ -1,0 +1,26 @@
+{
+    "_id": 3541,
+    "_header": "Most christian Princess by influence of grace",
+    "Author(s)": "John Lydgate",
+    "Subjects": "pageant verses; occasional verse; Margaret, queen of England",
+    "Versification": "\u2014 seven-line, eight-line \u2014 ababbcc, ababbcbc",
+    "_description": "Pageant Verses for Queen Margaret\u2019s Entry into London (1445) probably by Lydgate \u2014 170 lines in rhyme royal and 8-line stanzas (ababbcbc), seven items in all",
+    "_witnesses": {
+        "BLHar542": {
+            "First Lines": "\nMoost cristen princesse by influence of gracedoughter of Iherusalem\n                    owr plesaunce\u2026\n",
+            "Last Lines": "\n\u2026with fruition of the Trinitieby contemplation of his\n                    glorie\n",
+            "Note": "\nSeven stanzas only (lines 1-39, 155-70), each with an English and Latin\n                    heading to explain where the stanza would be read, e.g., \u2018At leden hall\n                    madam grace Chaunceler de diem\u2019 (f. 101v); ends \u2018deo\n                        gracias Amen\u2019 on next line after last line (f. 102); written in\n                    the hand of John Stow.",
+            "Attributed Title": "\nThe speches in the pagiants at \u00fee comynge of qwene margaret wyfe to\n                    henry the syxt of that name kynge of england the 28 of maye in the yere of owr\n                    lorde 1445 \u00fee 23 of hys reigne (f. 101)",
+            "Editions": "\nWithington,  Robert. \n             \u201cQueen Margaret\u2019s Entry into London, 1445.\u201d \n             Modern Philology\n         13 (1915-16): 53-7: 55-7.\n",
+            "folio": "ff. 101-102"
+        },
+        "BLHar3869": {
+            "First Lines": "\nMost cristen Princesse by influence of graceDoughter of Ierusalem oure plesaunce\u2026\n",
+            "Last Lines": "\n\u2026With fruicioun of the TryniteBy contemplacioun of hys glorie\n",
+            "Note": "\nAt top of page, \u201cAtte the Brigge foot in Suthwerke / Pees and plente\u201d (f. 2); ends \u201cdeo gracias Amen\u201d (f. 4v).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 3869.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_38690. \n",
+            "Editions": "\nBrown,  Carleton Fairchild. \n             \u201cLydgate\u2019s Verses on Queen Margaret\u2019s Entry into\n                London.\u201d \n             Modern Language Review\n         7 (1912): 225-34: 226-31.\n",
+            "folio": "ff. 2-4v"
+        }
+    }
+}

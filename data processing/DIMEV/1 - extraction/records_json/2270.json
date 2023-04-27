@@ -1,0 +1,15 @@
+{
+    "_id": 2270,
+    "_header": "I shall please my lord by working",
+    "Title(s)": "Officium pro Mortuis",
+    "Subjects": "death",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A 29-line verse mnemonic for the incipits of the Officium pro Mortuis",
+    "_witnesses": {
+        "OxfMert68": {
+            "First Lines": "\nI shall please my lorde by worchyngin the Regioun of them \u00feat\n                    be lyvyng\u2026\n",
+            "Last Lines": "\n\u2026Lord I enqwere in my though of my moder wombe why hast thou\n                    me brought\n",
+            "folio": "ff. 95va;  97rb;  98vb;  100va;  102ra;  103vb;  105rb;  107rb;  109ra;  110vb"
+        }
+    }
+}

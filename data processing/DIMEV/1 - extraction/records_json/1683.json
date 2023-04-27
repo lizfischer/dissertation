@@ -1,0 +1,16 @@
+{
+    "_id": 1683,
+    "_header": "Hail be Thou hend heaven Queen",
+    "Note": "Cf. 1680.",
+    "Subjects": "Virgin Mary, hymns to; hymns, to Virgin Mary; acrostics",
+    "Versification": "\u2014 eight-line \u2014 abababab",
+    "_description": "A hymn to the Virgin Mary, with a word-type acrostic (Aue Maria) \u2014 twelve 8-line stanzas",
+    "_witnesses": {
+        "OxfCCC155": {
+            "First Lines": "\nHaile be \u00feou hende heven qwene\u00feat thurgh chastite was\n                    chosen with childe\u2026\n",
+            "Last Lines": "\n\u2026Als present \u021de \u00feis prayere hereHayle be \u00feu\n                    heven quene\n",
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 30-3.\n",
+            "folio": "ff. 248v-250v"
+        }
+    }
+}

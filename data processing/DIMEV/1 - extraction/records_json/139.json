@@ -1,0 +1,18 @@
+{
+    "_id": 139,
+    "_header": "A philosopher a good clerk secular",
+    "Author(s)": "John Lydgate (?)",
+    "Subjects": "envoys; advice; marriage, against",
+    "Versification": "\u2014 seven-line, eight-line \u2014 ababbcc, ababbcbc",
+    "_description": "Advice to an old gentleman who wished for a young wife, perhaps by Lydgate \u2014 seventy-two rhyme royal stanzas and Envoy of two 8-line stanzas",
+    "_witnesses": {
+        "BLHar372": {
+            "First Lines": "\nA philisophre a good clerk seculerhad a frend \u00feat sum what was\n                    aged\u2026\n",
+            "Last Lines": "\n\u2026farwel & worche as ferforthe as \u00feou as\n                    \u00feou dare\u00feat lif & godes take none abreggement\n",
+            "Note": "\nUnique witness; advice of an old gentleman who wished for a young wife;\n                    72 rhyme royal stanzas and one 8-line stanza as envoy.",
+            "Attributed Title": "\nThe prohemy of a Mariage betwix an olde man and a yong wif and the counsail\n                        &c (f. 45, right margin beside first line); Explicit (f.\n                    51)",
+            "Editions": "\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             A Selection from the Minor Poems of Don John Lydgate.\nPercy Society\n         2. London: T. Richard, 1840: 27-46.\n",
+            "folio": "ff. 45-51"
+        }
+    }
+}

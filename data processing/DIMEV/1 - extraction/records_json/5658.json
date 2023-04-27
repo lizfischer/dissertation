@@ -1,0 +1,24 @@
+{
+    "_id": 5658,
+    "_header": "This book is I-come to the end",
+    "Note": "Cf. 3760.",
+    "Title(s)": "Ayenbite of Inwyt",
+    "Subjects": "envoys",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "One couplet in Ayenbite of Inwyt",
+    "_witnesses": {
+        "BLAru57": {
+            "Transcription": "\n\u00deis boc is ycome to \u00fee endeHeuene blisse god ous zende. Amen\n",
+            "Note": "\nWritten as prose.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Arundel 57.\n         http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Arundel_MS_57. \n",
+            "Editions": "\n\nMorris,  Richard,\n                        ed.  \n             Dan Michel: Ayenbite of Inwyt.\nEETS\n         o.s. 23 (1866); rev. P. Gradon; repr. 1965: 263.\nStevenson,  Joseph,\n                        ed.  \n             The Ayenbite of Inwyt.\nRoxburghe Club\n         72. London, 1855: 211.\n\n",
+            "folio": "f. 94r1"
+        },
+        "CamTCC1137": {
+            "First Lines": "\nThys booke hy\u021dt ypocrasoon of \u00fee beste surgens \u00feat euer was\u2026\n",
+            "Last Lines": "\n\u2026Pray we for all to heuene kyngeHe \u021deue her soulys goode wonyngw\n",
+            "Note": "\nStands alone, not as an introduction or epilogue; written two lines of verse per line in the manuscript except last two lines written as separate lines; ends \u201cAmen ffinitus medicinis incipit hic liber coquinare,\u201d but remainder of leaf blank.",
+            "folio": "f. 61v"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "_id": 5140,
+    "_header": "That I gave that is mine",
+    "Note": "A translation of a Latin distich found in Cambridge UK, Trinity College B.14.39 (323) f. 87v, printed by James (1900)\nXJames, Montague Rhodes. Catalogue of the Western Manuscripts in the Library of Trinity College, Cambridge. 4 vols. Cambridge: at the UP, 1900-1904, 1.447 (Sunt mea si\u2026). Cf. Walther (1963)\nXWalther, Hans. Proverbia sententiaque latinitatis medii aevi. 6 vols. G\u00f6ttingen, 1963-69, no.30764; see also 5139 and 5142.",
+    "Subjects": "sermons, verse in",
+    "Versification": "\u2014 four-line \u2014 aabb",
+    "Bibliographic Ghosts": "Oxford, Balliol College 239, f. 77v (Mynors pointed out that Latin text against avarice on this page has similar subject to 5140); Cambridge UK, Pembroke College 32, f. 153: same as 5138.",
+    "_description": "A tag in the Fasciculus Morum \u2014 one quatrain",
+    "_witnesses": {
+        "Bod187": {
+            "Transcription": "\nThat y \u021daf \u00feat ys myn\u00feat was my \u00feat y\n                    etteBut \u00feat y lefte by hynde meWho hyt shal haue y can nat\n                    se\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 167va"
+        },
+        "Bod410": {
+            "Transcription": "\n\u00feat I \u021daf \u00feat is myn\u00feat I ete \u00feat was\n                    myn\u00feat I last by hynd me whoit shal haue I kon not se\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 46v"
+        },
+        "BodLauMis213": {
+            "Transcription": "\n\u00feat y \u021daff \u00feat is myne\u00feat y \u021dete \u00feat\n                    was myne\u00feat y laft by hynd mewho it schalle haue I can not\n                    se\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 70"
+        },
+        "BodRawC670": {
+            "Transcription": "\nThat y \u021daf \u00feat ys myn\u00deat I eet \u00feat was\n                    mynnThat I lefte behynde meWho hit schallhaue I con no\u021dt\n                    se\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 181.\n",
+            "folio": "f. 82v"
+        },
+        "CamGon71": {
+            "Transcription": "\n\u00deat I \u021daf \u00feat is myn\u00feat I ete \u00feat was\n                    myn\u00feat I left be hynd me who schal haue can I nogth\n                    see\n",
+            "folio": "f. 54"
+        },
+        "CamGon364": {
+            "Transcription": "\n\u00deat I gaf \u00feat is mynthat I ete \u00feat was mynbut\n                    \u00feat y let be hynde meI ne wot qwos it schulden be\n",
+            "folio": "f. 76ra"
+        },
+        "CamStJohn159": {
+            "Transcription": "\n\u00deat I \u021def \u00feat ys myne\u00feat I ete \u00feat was\n                    myne\u00feat I lost behynde meWho it sall hafe I can no\u021dt\n                    se\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nReichl,  Karl,\n                        ed.  \n             Religi\u00f6se Dichtung im Englischen Hochmittelalter: Untersuchen und\n                Edition der Handschrift B. 14.39 des Trinity College in Cambridge.\nM\u00fcnchener Universit\u00e4ts Schriften, Text und Untersuchungen zur\n                Englische Philologie 1\n         Munich: Wilhelm Fink, 1973: 498.\n",
+            "folio": "f. 103v"
+        },
+        "EDU82": {
+            "Transcription": "\nThat I \u021daue that is mynethat I ete that was myneThat I\n                    lefte be hynde mewhoo hit schal haue I can not see\n",
+            "folio": "f. 100v"
+        },
+        "Lincoln44": {
+            "Transcription": "\n\u00feat y \u021daue \u00feat ys myn\u00feat I hete \u00feat was\n                    myn\u00feat I laft by hynd mehe sal it haue I kan no\u021dt\n                    se\n",
+            "folio": "f. 194ra"
+        },
+        "Spalding": {
+            "Transcription": "\nThat I gaf that is mynethat I ete \u00feat was mynethat I left\n                    be hynde meWho shall it haue I kan not se\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 85"
+        },
+        "WorcF19": {
+            "Transcription": "\n\u00feat y gaf \u00feat ys myne\u00feat y hete \u00feat was\n                    mine\u00feat y last be kynd me wo\n",
+            "Note": "\nThree lines only, written as prose.",
+            "folio": "f. 195ra"
+        },
+        "VaticanOtto": {
+            "folio": "f. 50"
+        }
+    }
+}

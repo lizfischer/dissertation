@@ -1,0 +1,26 @@
+{
+    "_id": 3120,
+    "_header": "Listeneth lords lief in land / Sothly saws I will you tell",
+    "Note": "In London, British Library Harley 3954, lines 37-92, 109-182 are embedded in DIMEV 429 beginning folio 70v.",
+    "Subjects": "Christ, life of; debates",
+    "Versification": "\u2014 eight-line \u2014 abababab",
+    "_description": "\u2018A Disputisoun bi-twene Child Ihesu and Maistres of the Lawe of Jewus\u2019 \u2014 in 8-line stanzas (abababab)",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nLustne\u00fe lordes leoue in londeSo\u00feeli sawes I wol \u021dou\n                    telle\u2026\n",
+            "Last Lines": "\n\u2026Preye we crist \u00feat we so donTo geten \u00fee gle in his\n                    glorie Amen.\n",
+            "Note": "\nLines 1-215 only.",
+            "Attributed Title": "\nHer is a disputison bi twene chid [sic] Ihesu & Maistres of\n                    \u00fee lawe of Iewes (f. 301rc)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nHorstmann,  Carl. \n             Altenglische Legenden.\n         Paderborn: F. Schoningh, 1875: 212-14.\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 479-84.\nConlee,  John W.,\n                        ed.  \n             Middle English Debate Poetry: A Critical Anthology.\n         East Lansing, MI: Colleagues Press, 1991: 168-77.\n\n",
+            "folio": "ff. 301rc-301vb"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nListne\u00fe lordes leoue in londeSo\u00fely sawes I wol \u021dow telle\u2026\n",
+            "Last Lines": "\n\u2026I rede \u00fein errour \u00feou forsake\u00feou spekest of \u00feyng \u00feat may not be\u2026\n",
+            "Note": "\nLines 1-104 only, eight folios missing between f. 91 and 92.  Prose text ff. 92-118.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 91vb-91vc"
+        }
+    }
+}

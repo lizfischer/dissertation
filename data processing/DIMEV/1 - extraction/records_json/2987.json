@@ -1,0 +1,52 @@
+{
+    "_id": 2987,
+    "_header": "Keep thy sight fro vanity",
+    "Title(s)": "\u2018The Five Bodyly Wyttys\u2019",
+    "Subjects": "wits, five bodily",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018The Five Bodyly Wyttys\u2019 \u2014 six couplets",
+    "_witnesses": {
+        "CULFf238": {
+            "First Lines": "\nKepe thy syght fro vanyteThat \u00feu noght coueyte \u00feat euell\n                    may be\u2026\n",
+            "Last Lines": "\n\u2026These ben the wyttys fyueThat cysten men schoulden reule in\n                    lyue\n",
+            "Attributed Title": "\nThe v bodyly wyttis (f. 32va)",
+            "Facsimiles": "\nMcSparran,  Frances,  and  Pamela R. Robinson.  \n             \u201cIntroduction.\u201d \n             Cambridge University Library MS Ff.2.38.\n         London: Scolar Press, 1979. \n",
+            "folio": "f. 32va"
+        },
+        "CamMagPep1584": {
+            "First Lines": "\nKepe thy sight fro vaniteThat \u00feu coveite not \u00feat evil may\n                    be\u2026\n",
+            "Last Lines": "\n\u2026Theis bene \u00fee wittis fyveThat cristyn men schulde Rule\n                    in lyve\n",
+            "Attributed Title": "\nThes be the v wittes bodely (f. 107); The v wittes bodely (RT)",
+            "folio": "f. 107"
+        },
+        "BLHar1706": {
+            "First Lines": "\nKepe \u00fei sy\u021dte fro vanyteThat \u00feou not couyte \u00feat yuel may be\u2026\n",
+            "Last Lines": "\n\u2026\u00feise ben \u00fee wyttys fyueThat crysten men schulde rewle in lyue\n",
+            "Note": "\nLatin terms for five bodily senses written in rubric in outer margins beside first line relating to each.",
+            "Attributed Title": "\nQuinque sensus corporaliter (rubric preceding first line (f. 207v)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 1706.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_1706. \n",
+            "folio": "f. 207v"
+        },
+        "BLHar2339": {
+            "First Lines": "\nKepe \u00fei si\u021dt fro vanytee\u00deat \u00feu not coueite\n                    \u00feat yuel mai be\u2026\n",
+            "Last Lines": "\n\u2026\u00deese ben \u00fee wittis fyue\u00deat cristen men\n                    schulden rule in lyue\n",
+            "Attributed Title": "\n\u00deese ben \u00fei fyue bodily wittis (rubricated, f. 121)",
+            "folio": "ff. 121-121v"
+        },
+        "Lam491": {
+            "First Lines": "\nKepe \u00fei syght fro vanity\u00feat \u00feu not couet \u00feat il\n                    may be\u2026\n",
+            "Last Lines": "\n\u2026\u00deise ben \u00feo wyttes fyve\u00feat rulen al crysten\n                    men on lyve\n",
+            "Attributed Title": "\nHere begynnes \u00fee fyve Inwyttes (f. 295)",
+            "Editions": "\nB\u00fclbring,  Karl Daniel. \n             \u201c\u00fcber die Handschrift Nr. 491 der Lambeth-Bibliothek.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         86 (1891): 383-92: 388.\n",
+            "folio": "ff. 295ra-295va"
+        },
+        "Ushaw28": {
+            "First Lines": "\nKepe \u00fei sight frome vanyte\u00deat \u00feu not couet \u00feat\n                    wel mey be\u2026\n",
+            "Last Lines": "\n\u2026\u00feies been \u00fei wittes fyue\u00feat cristen men shulde\n                    rewle in lyue\n",
+            "Note": "\nIn the Speculum Christiani, Terci Tabula, with headings\n                        Visus, Auditus, Odoratus, Gustus, Tactus.",
+            "Attributed Title": "\nQuinque sensus corporales (f. 61)",
+            "Editions": "\nB\u00fclbring,  Karl Daniel. \n             \u201c\u00fcber die Handschrift Nr. 491 der Lambeth-Bibliothek.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         86 (1891): 383-92: 388.\n",
+            "folio": "ff. 61-61v"
+        }
+    }
+}

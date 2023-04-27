@@ -1,0 +1,27 @@
+{
+    "_id": 4786,
+    "_header": "Say me wight in the broom",
+    "Subjects": "dialogues; marriage; women, against",
+    "Versification": "\u2014 six-line \u2014 aabbcc",
+    "_description": "Tell me, Wight in the Broom \u2014 one 6-line stanza, couplets",
+    "_witnesses": {
+        "CamTCC323": {
+            "Transcription": "\nSay me viit in \u00fee bromteche me wou i sule don\u00feat min\n                    hosebondeme louien woldeHold \u00feine tunke stille& hawe al\n                    \u00feine wille\n",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 32.\nJames,  Montague Rhodes. \n             Catalogue of the\n                    Western Manuscripts in the Library of Trinity College, Cambridge.\n         4 vols. Cambridge: at the UP, 1900-1904: 1.441.\nDickins,  Bruce,  and  Richard M. Wilson.  \n             Early Middle English Texts.\n         Cambridge: at the University Press, 1951: 119.\nSilverstein,  Theodore,\n                        ed.  \n             Medieval English Lyrics.\n         York Medieval Texts. London: Edw. Arnold, 1971: 40.\nLuria,  Maxwell Sidney,  and  Richard L. Hoffman, eds.  \n             Middle English Lyrics.\n         New York: Norton, 1974: 63.\n\n",
+            "folio": "f. 28"
+        },
+        "BLAdd11579": {
+            "Transcription": "\nSey wist y \u00fee bromHwat ys me for to donIch haue \u00fee\n                    werreste bonde\u00feat ys in oni londe\n",
+            "Note": "\nIn the second line, it appears that the scribe originally copied\n                    \u2018Wwat\u2019, which he corrected to \u2018Hwat\u2019.",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 32.\nWright,  Thomas. \n             A selection of Latin stories.\nPercy Society\n         8. London: Richard, 1842: 24.\nHerbert,  John Alexander. \n             Catalogue of Romances in the Department of MSS. in the British\n                Museum.\n         Vol. 3. London, 1910: 3.529 (couplet only).\nCoulton,  George Gordon. \n             Life in the Middle Ages.\n         Cambridge: at the UP, 1931, and New York: Macmillan, 1931: 1.149.\nOliver,  Raymond. \n             Poems Without Names: The English Lyric 1200-1500.\n         Berkeley, CA: University of California, 1970: 37.\n\n",
+            "folio": "f. 29r1"
+        },
+        "Lam78": {
+            "Transcription": "\nWy\u021dt in the bromHwat schal I donI haue an\n                    housebondeThe worst in thys londe\u021dyf thyn housebonde ys\n                    ylleHwan he chyt hold de stylle \n",
+            "Note": "\nWritten as prose.",
+            "Attributed Title": "\nDe muliere que per pacienciam virum suum sibi fecit mansuetum (f.\n                        79va)",
+            "Editions": "\nPickering,   Oliver S. \n             \u201cA Third Text of \u2018Say me viit in \u00fee brom.\u2019\u201d \n             English Studies\n         63 (1982): 20-2: 21-2.\n",
+            "folio": "f. 79va-79vb"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "_id": 4495,
+    "_header": "Right early on Ash Wednesday",
+    "Author(s)": "William Dunbar",
+    "Title(s)": "\u2018The twa cummeris\u2019",
+    "Subjects": "penance",
+    "Versification": "\u2014 five-line stanza \u2014 aabab",
+    "_description": "William Dunbar, \u2018The twa cummeris\u2019 \u2014 six 5-line stanzas with refrain",
+    "_witnesses": {
+        "CULLl510": {
+            "First Lines": "\nAirlie on as woddinsdayat \u00fee wyne sat cummeris\n                    tway\u2026\n",
+            "Last Lines": "\n\u2026Bot than to mend \u00feai had guid hopThat Lentrand sould not\n                    mak \u00feame leine\n",
+            "Attributed Author": "\nQuod Dumbar (f. 19v)",
+            "folio": "f. 19v"
+        },
+        "CamMagPep2553": {
+            "First Lines": "\nAirlie on als wodinsdayat \u00fee wyne sat cumeris\n                    tway\u2026\n",
+            "Last Lines": "\n\u2026bot thane to mend tha had gud hopThat lentrune swld nocht mak\n                    thame lene\n",
+            "Note": "\nFormerly pp. 57-58.",
+            "Attributed Author": "\nquod dumbar (p. 54)",
+            "Editions": "\n\nPinkerton,  John,\n                        ed.  \n             Ancient Scottish Poems Never Before in Print.\n         2 vols. London and Edinburgh, 1786: 1.113-14.\nCraigie,  William Alexander. \n             The Maitland Folio Manuscript, Containing Poems by Sir Richard\n                Maitland, Dunbar, Douglas, Henryson, and others.\n             2 vols. \n             Scottish Text Society\n         n.s. 7 (1919), 20 (1927); Edinburgh and London: Blackwood, 1919,\n            1927: 1.64-5.\n\n",
+            "folio": "pp. 53-54"
+        },
+        "AbeSeis2": {
+            "First Lines": "\nRicht arly onn ask wednisdaydrinkande \u00fee wyne sat cummaris\n                    twa\u2026\n",
+            "Last Lines": "\n\u2026be \u00feane to mend \u00feai had gude hopeThat lange lentrin\n                    suld nocht mak \u00feaim leen\n",
+            "Attributed Author": "\nQuod Dunbar (at end, p. 460)",
+            "Editions": "\nSmall,  John, Ae. James George Mackay,  George Powell McNeill,   and  Walter Gregor, eds.  \n             The Poems of William Dunbar.\n             5 pts. \n             Scottish Text Society\n         2, 4, 16, 21, 29. Edinburgh, 1884-93: 3.249-50.\n",
+            "folio": "p. 460"
+        },
+        "Banna": {
+            "First Lines": "\nRycht airlie on ask weddinsdayDrynkand the wyne satt cumeris\n                    tway\u2026\n",
+            "Last Lines": "\n\u2026Be than to mend thay had gud howpThis lang lentroun makis me\n                    lene\n",
+            "Attributed Author": "\nquod dumbar (f. 137)",
+            "Facsimiles": "\nFox,  Denton,  and  William A. Ringler.  \n             The Bannatyne Manuscript: National Library of Scotland Advocates\u2019\n                MS. 1.1.6\n         London: Scolar Press, in Association with The National Library of\n            Scotland, 1980. \n",
+            "Editions": "\n\nSibbald,  John. \n             Chronicle of Scottish Poetry\u2026.\n         4 vols. Edinburgh and London, 1802: 1.232-3.\nPaterson,  James. \n             The Works of William Dunbar.\n         Edinburgh: Stillie, 1863: 93.\nMurdoch,  James Barclay. \n             The Bannatyne Manuscript.\n             4 vols. in 11 parts, paged continuously. \n             Hunterian Club\n         16, 32, 40, 46, 50, 55-56, 64-67 Glasgow: Anderson, 1873-1896: 3.386-7.\nSmall,  John, Ae. James George Mackay,  George Powell McNeill,   and  Walter Gregor, eds.  \n             The Poems of William Dunbar.\n             5 pts. \n             Scottish Text Society\n         2, 4, 16, 21, 29. Edinburgh, 1884-93: 160.\nSchipper,  Jakob. \n             The Poems of William Dunbar.\n         Vienna: Kaiserliche Akademie der Wissenschaften, 1894: 73-4.\nSchipper,  Jakob,\n                        ed.  \n             The Poems of William Dunbar.\n             4 vols. \n             Denkschriften der kaiserlichen Akademie der Wissenschaften,\n                Philosophische-Historische Klasse\n         40/2; 40/4; 41/4; 42/4. Vienna, 1892-93: 2.72-4.\nBaildon,  Henry Bellyse. \n             The Poems of William Dunbar.\n         Cambridge: University Press, 1907: 25.\nRitchie,  W. Tod,\n                        ed.  \n             The Bannatyne Manuscript.\n             4 parts in 4 vols. \n             Scottish Text Society\n         3rd ser. 5 (1928); n.s. 22 (1928); n.s. 23 (1930); n.s. 26 (1934)\n            Edinburgh and London: Blackwood, 1928-34; ed. by Ritchie et al: 3.14-15.\nMacKenzie,  William Mackay. \n             The Poems of William Dunbar.\n         Edinburgh, 1932: 84.\nKinsley,  James. \n             William Dunbar, Poems.\n         Oxford: Clarendon, 1958; repr. 1979: 77-8.\n\n",
+            "folio": "f. 137"
+        }
+    }
+}

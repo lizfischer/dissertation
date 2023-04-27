@@ -1,0 +1,17 @@
+{
+    "_id": 1500,
+    "_header": "Gaza is a noble town in a far country",
+    "Title(s)": "South English Legendary",
+    "Subjects": "Hilarion, saint, life of; saints\u2019 lives",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Illarion, in one MS of the South English Legendary",
+    "_witnesses": {
+        "Bod779": {
+            "First Lines": "\nGaza is a nobble toun In verre contreIn \u00fee lond of spayne hit\n                    is so men hit telle\u00fe me\u2026\n",
+            "Last Lines": "\n\u2026Now bidde we god for \u00fee loue of seint illarion\u00deat\n                    he vs graunty \u00feat blis \u00feat ending naue\u00fe non\n",
+            "Attributed Title": "\nSeint illarion \u00fee holy monk (f. 190v)",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDes Ms. Bodl. 779 j\u00fcngere Zusatzlegenden zur s\u00fcdlichen\n                Legendensammlung.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         82 (1889): 307-422: 333-6.\n",
+            "folio": "ff. 190v-192"
+        }
+    }
+}

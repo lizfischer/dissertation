@@ -1,0 +1,52 @@
+{
+    "_id": 5299,
+    "_header": "The God of love A benedicite",
+    "Note": "Some MSS add a balade and/or envoy, 3954; non-source-specific editions by Urry (1721)\nXUrry, John. The Works of Geoffrey Chaucer. London: B. Lintot, 1721; Bell (1782)\nXBell, John. The Poetical Works of Geoffrey Chaucer. 14 vols. in 7. The Poets of Great Britain. Edinburgh, 1782; repr. London: Cadell and Davies, 1807; Anderson (1793)\nXAnderson, Robert. The Works of the British Poets, or, Complete Edition of the Poets of Great Britain. 13 vols. Vol. 1. Edinburgh, 1793; London, 1795, 1.?; X\nThe Poems of Geoffrey Chaucer. 5 vols. Chiswick: C. Whittington, 1822; Nicolas and Morris (1866)\nXNicholas Harris Nicolas, and Richard Morris. The Poetical Works of Geoffrey Chaucer.\nAldine Edition of the British Poets. 6 vols; orig. ed., 1845; rev. ed. London: Bell and Daldy, 1866, Bell (1854-5)\nXBell, Robert. Poetical Works of Geoffrey Chaucer. London: J.W. Parker, 1854-6; rev. Walter William Skeat 4 vols. London: G. Bell and Sons, 1878; orig. published 8 vols, 4; Wright (1880)\nXWright, Thomas. Works of Geoffrey Chaucer. New York: Crowell, 1880 [listed in IMEV as \u2018Crowell\u2019].",
+    "Author(s)": "John Clanvowe",
+    "Title(s)": "Book of Cupid ; Cuckoo and the Nightingale",
+    "Subjects": "debates, bird; birds, as narrators; envoys; dream poems",
+    "Versification": "\u2014 five-line \u2014 aabba",
+    "_description": "(?)John Clanvowe, The Book of Cupid, or The Cuckoo and the Nightingale, probably by Clanvowe \u2014 fifty-eight 5-line stanzas (aabba)",
+    "_witnesses": {
+        "BodArcSelB24": {
+            "First Lines": "\nThe lorde of loue a.a. benediciteeHow mighty and how grete a lord\n                    Is he\u2026\n",
+            "Last Lines": "\n\u2026And though thou be for wo In poynt to dyeThat schall full\n                    mikle lessing of thy pyne\n",
+            "Note": "\nLines 1-246.",
+            "Facsimiles": "\nBoffey,  Julia,  and  A. S. G. Edwards, eds.  \n             Chaucer, Works. Bodleian Library MS Arch Selden B.24: Facsimile\n                Edition.\n         Cambridge: D. S. Brewer, 1995. \n",
+            "folio": "ff. 138v-141v"
+        },
+        "Bod638": {
+            "First Lines": "\nThe god of loue a benedicitehow mighti & how grete a lorde is\n                    he\u2026\n",
+            "Last Lines": "\n\u2026Terme of life loue hath withhold meso loude that with that\n                    songe I a woke\n",
+            "Attributed Title": "\nThe boke of Cupide god of loue (f. 11v); Explicit the boke of\n                    Cupyde god of loue (f. 16); The Boke of Cupyde (RT)",
+            "Facsimiles": "\nRobinson,  Pamela. \n             \u201cIntroduction.\u201d \n             Manuscript Bodley 638: A Facsimile.\n         Norman, OK: Pilgrim, and Woodbridge: Boydell and Brewer, 1982. \n",
+            "folio": "ff. 11v-16"
+        },
+        "BodFair16": {
+            "First Lines": "\nThe god of love a benediciteHow myghty and how grete a lorde is\n                    he\u2026\n",
+            "Last Lines": "\n\u2026Terme of lyve love hath withholde meSo lovde that with that\n                    songe I awoke\n",
+            "Note": "\nAdds a balade.",
+            "Attributed Title": "\nThe Boke of Cupide god of Loue (f. 35v); Explicit liber\n                        Cupidinis (f. 39v)",
+            "Facsimiles": "\nNorton-Smith,  John. \n             \u201cIntroduction.\u201d \n             Bodleian Library MS Fairfax 16.\n         London: Scolar Press, 1979. \n",
+            "Editions": "\n\nVollmer,  E. \n             Das mittelenglische Gedicht The Boke of Cupid.\nBonner Beitr\u00e4ge zur germ. und rom. Phil.\n         17. Berlin, 1898: 28-44.\nScattergood,  V. John,\n                        ed.  \n             The Works of Sir John Clanvowe.\n         Ipswich: D. S. Brewer, 1965; Totowa, NJ: Rowman and Littlefield,\n            1975: 35-53 (with variants).\nSymons,  Dana M.,\n                        ed.  \n             Chaucerian Dream\n                    Visions and Complaints.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2004. \n\n",
+            "folio": "ff. 35v-39v"
+        },
+        "BodTan346": {
+            "First Lines": "\nThe god of loue a benediciteHov my\u021dti and hou gret a lord is\n                    he\u2026\n",
+            "Last Lines": "\n\u2026Terme of life love ha\u00fe withhold meSo loude \u00feat I\n                    with \u00feat song a woke\n",
+            "Note": "\nAdds a balade, with envoy (3954).",
+            "Attributed Title": "\nOf \u00fee Cuckow & \u00fee Nightingale (added, seventeenth century, f.\n                    97)",
+            "Facsimiles": "\nRobinson,  Pamela. \n             \u201cIntroduction.\u201d \n             Manuscript Tanner 346: A Facsimile.\n         Norman, OK: Pilgrim, and Woodbridge: Boydell and Brewer, 1980. \n",
+            "Editions": "\n\nEllis,  Frederick Startridge,\n                        ed.  \n             The Floure and the Leafe, and the Boke of Cupide, god of love, or The\n                cuckow and the Nightingale.\n         Hammersmith: Kelmscott, 1896. \nVollmer,  E. \n             Das mittelenglische Gedicht The Boke of Cupid.\nBonner Beitr\u00e4ge zur germ. und rom. Phil.\n         17. Berlin, 1898: 1-46.\nConlee,  John W.,\n                        ed.  \n             Middle English Debate Poetry: A Critical Anthology.\n         East Lansing, MI: Colleagues Press, 1991: 251-65.\n\n",
+            "folio": "ff. 97-101"
+        },
+        "CULFf16": {
+            "First Lines": "\nthe god of loue A benedicitehow myghty and howe grete a lord ys\n                    heffor he kan make of low hertys hyeAnd of hye lowe and lyke for to\n                    dye\u2026\n",
+            "Last Lines": "\n\u2026Terme of lyfe loue hath wytholde meSo lowde that I wyth that\n                    song be gan awake\n",
+            "Note": "\nWith two extra 7-line stanzas.",
+            "Attributed Title": "\nExplicit Clanvowe (by scribe, f. 28); Geffrey Chaucers Poem of the Cuckow\n                    and the Nightingale (added seventeenth-eighteenth century, f. 22)",
+            "Facsimiles": "\nBeadle,  Richard,  and  Alfred E. B. Owen.  \n             The Findern Manuscript: Cambridge University Library MS. F.1.6.\n         London: Scolar Press, 1977. \n",
+            "folio": "ff. 22-28"
+        }
+    }
+}

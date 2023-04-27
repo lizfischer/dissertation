@@ -1,0 +1,33 @@
+{
+    "_id": 2575,
+    "_header": "In September at the falling of the leaf",
+    "Author(s)": "Geoffrey Chaucer (attrib.)",
+    "Title(s)": "\u2019The Boke called Assemble de Damys\u2019",
+    "Subjects": "women, as speakers/narrators; love, courts of",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "\u2019The Boke called Assemble de Damys\u2019, ascribed to Chaucer \u2014 755 lines in rhyme royal stanzas, including eleven introductory stanzas and three concluding stanzas",
+    "_witnesses": {
+        "CamTCC599": {
+            "First Lines": "\nIn Septembre at the fallyng of the leefThe fresshe season was all\n                    to gedyr don\u2026\n",
+            "Last Lines": "\n\u2026My felovs all and me must aftyr soonRede well my dreme fo now\n                    my tale ys doon\n",
+            "Attributed Author": "\nBy Chaucer (f. 55, added by later hand)",
+            "Attributed Title": "\nHere begynneth the Boke callyd Assemble de Damys (f. 55); Here endeth the\n                    book of assemble de Damys (f. 65v)",
+            "Facsimiles": "\n\nFletcher,  Bradford Y. \n             \u201cIntroduction.\u201d \n             Manuscript Trinity R.3.19. A Facsimile.\n         Norman, OK: Pilgrim, 1987. \n\nDigital Facsimile of Trinity College Cambridge MS R.3.19.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.19. \n\n",
+            "Editions": "\n\nStowe,  John,\n                        ed.  \n             The Workes of Geffrey Chaucer\u2026with diuers addicions, with the\n                Siege of Thebes, compiled by J. Lidgate.\n         London, J. Kyngston for J. Wight, 1561 (STC 5075). \nSpeght,  Thomas,\n                        ed.  \n             The Workes of\u2026Geffrey Chaucer.\n         London, [A. Islip,] imp. G. Bishop, 1598; rev. ed. A. Islip, 1602 (STC\n            5077, 5080): repr. Urry (1721)\nXUrry,  John. \n             The Works of Geoffrey Chaucer.\n         London: B. Lintot, 1721, 433.\nBell,  John,\n                        ed.  \n             The Poetical Works of Geoffrey Chaucer.\n             14 vols. in 7. \n             The Poets of Great Britain.\n         Edinburgh, 1782; repr. London: Cadell and Davies, 1807: 10.167.\nAnderson,  Robert. \n             The Works of the British Poets, or, Complete Edition of the Poets of\n                Great Britain.\n         13 vols. Vol. 1. Edinburgh, 1793; London, 1795: 1.455.\nChalmers,  Alexander,\n                        ed.  \n             The Works of the English Poets from Chaucer to Cowper.\n         London, 1810; repr. New York: Greenwood, 1969: 1.526-32.\n\n",
+            "folio": "ff. 55-65v"
+        },
+        "BLAdd34360": {
+            "First Lines": "\n[I]N septembre at fallyng of the leefThe fressh season was al\n                    togydre done\u2026\n",
+            "Last Lines": "\n\u2026My felawes al and I must after soneRede wele my dreame for\n                    now my tale is done\n",
+            "Editions": "\n\nPearsall,  Derek,\n                        ed.  \n             The Floure and Leafe and the Assembly of Ladies.\n         New York: Barnes & Noble, 1962; repr. Kalamazoo, MI: Western\n            Michigan UP, 1990: 105-26.\nBarratt,  Alexandra,\n                        ed.  \n             Women\u2019s Writing in Middle English.\n         London: Longman, 1992: 295-9 (excerpt).\n\n",
+            "folio": "f. 37-49"
+        },
+        "Longleat258": {
+            "First Lines": "\n[I]n Septembre at the falling of the leefThe fresshe saison was al\n                    togedre doon\u2026\n",
+            "Last Lines": "\n\u2026My felawes al and I must after soonRede well my dreme for now\n                    my tale is don\n",
+            "Attributed Title": "\nHere endith the boke of / Assemble de Dames (f. 75v)",
+            "Editions": "\nChaucer,  Geoffrey. \n             The Workes of Geffray Chaucer newly printed, with dyuers workes whiche\n                were neuer in print before Ed. William Thynne, 1532: repr. Skeat (1894)\nXSkeat,  Walter William. \n             The Complete Works of Geoffrey Chaucer.\n         7 vols. Oxford: Clarendon, 1894-7,\n                        7.380-404.\n",
+            "folio": "ff. 58-75v"
+        }
+    }
+}

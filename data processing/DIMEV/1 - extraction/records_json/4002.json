@@ -1,0 +1,16 @@
+{
+    "_id": 4002,
+    "_header": "O mortal man call to remembrance",
+    "Subjects": "death, approach of; mortality",
+    "Versification": "\u2014 twelve-line \u2014 ababababbcbc",
+    "Macaronic": "Latin",
+    "_description": "De Profundis \u2014 eleven 12-line stanzas (ababababbcbc), each with Latin heading",
+    "_witnesses": {
+        "BLHar2252": {
+            "First Lines": "\nO Mortall man Call to RemembraunceThe day shalle com \u00feat\n                    \u00feu moste nedis dye\u2026\n",
+            "Last Lines": "\n\u2026Delyver them oute of paynes mortallAnd we shall remembre this\n                    psalme de profundis\n\n",
+            "Editions": "\nBesserman,  Lawrence, Gail Gilman,   and  Victor Weinblatt.  \n             \u201cThree Unpublished Middle English Poems from the Commonplace Book of\n                John Colyns (B.M. MS Harley 2252).\u201d \n             Neuphilologische Mitteilungen\n         71 (1970): 212-38: 222-8.\n",
+            "folio": "ff. 23-24v"
+        }
+    }
+}

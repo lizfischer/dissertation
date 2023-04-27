@@ -1,0 +1,21 @@
+{
+    "_id": 1838,
+    "_header": "He maketh himself great in richesse",
+    "Note": "See Walther (1969)\nXWalther, Hans. Initia carmina ac versuum medii aevi posterioris latinorum. G\u00f6ttingen, 1959; 2nd ed. 1969, no. 7859.",
+    "Subjects": "aphorisms; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A couplet translating \u2018Hic bene se ditat qui semper inania uitat\u2019",
+    "_witnesses": {
+        "NLS18721": {
+            "Transcription": "\nHe makt himself in gret richesse\u00deat nith an day flet\n                    wrechednesse\n",
+            "Note": "\nPreceded by Hic bene se ditat qui semper inancia\n                    vitat.",
+            "Attributed Title": "\nDe Cupiditate (f. 32v)",
+            "Editions": "\nWilson,  Edward. \n             A Descriptive Index of the English Lyrics in John of Grimestone\u2019s\n                Preaching Book.\nMedium \u00c6vum Monographs\n         n.s. 2. Oxford, 1973: 10.\n",
+            "folio": "f. 32v"
+        },
+        "NLS1921": {
+            "Facsimiles": "\nPearsall,  Derek,  and  I. C. Cunningham, eds.  \n             The Auchinleck Manuscript. National Library of Scotland\n                Advocates\u2019 MS. 19.2.1.\n         London: Scolar Press, 1977. \n",
+            "folio": "f. 32v"
+        }
+    }
+}

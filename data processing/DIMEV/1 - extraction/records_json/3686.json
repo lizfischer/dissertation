@@ -1,0 +1,42 @@
+{
+    "_id": 3686,
+    "_header": "Ne thirst man never in land",
+    "Note": "Critical edition, Hausknecht (1885)\nXHausknecht, Emil. Floris and Blanchfleur.\nSammlung Englischer Denkm\u00e4ler 5. Berlin: Weidmann, 1885 (1296 lines).",
+    "Title(s)": "Floris and Blaunchfleur",
+    "Subjects": "romances",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Floris and Blaunchfleur \u2014 in couplets",
+    "_witnesses": {
+        "CULGg4272": {
+            "First Lines": "\n\u2026Heo tok fer\u00fe a wel fair \u00feingOf hire finger a riche\n                    Ryng\u2026\n",
+            "Last Lines": "\n\u2026\u00feat we him mote louie so\u00feat we mote to heuene\n                    go\n",
+            "Note": "\n824 lines.",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "Editions": "\nLumby,  Joseph Rawson,\n                        ed.  \n             King Horn, Floriz and Blaunchfleur, The Assumption of Our Lady.\n            \n                G. H.\n                McKnight\n            \n             EETS\n         1901, o.s. 14 (1866); repr. 1990: 51-74, 101-14.\n",
+            "folio": "pp. 1a-10b"
+        },
+        "BLCottVitDIII": {
+            "First Lines": "\n\u2026wi\u00fe \u00feoute wene\u2026\u00feat maide to his\n                    quene\u2026\n",
+            "Last Lines": "\n\u2026& bere\u00fe him \u00feer\u2026After \u00fees\n                    childe\u2026Hem to for berre\u2026Twene\u2026\n",
+            "Note": "\n451 lines. Badly damaged.",
+            "Editions": "\nLumby,  Joseph Rawson,\n                        ed.  \n             King Horn, Floriz and Blaunchfleur, The Assumption of Our Lady.\n            \n                G. H.\n                McKnight\n            \n             EETS\n         1901, o.s. 14 (1866); repr. 1990: 51-74, 101-14.\n",
+            "folio": "ff. 6-8v"
+        },
+        "BLEge2862": {
+            "First Lines": "\nNe thirst man neuer in londeAfter feirer Children fonde\u2026\n",
+            "Last Lines": "\n\u2026Hom he went with royal arrayAnd was crowned with in a short day\n",
+            "Note": "\n1083 lines.",
+            "Attributed Title": "\nfflorence & Blaunchefloure (running titles split across openings throughout).",
+            "Editions": "\n\nTaylor,  Albert Booth,\n                        ed.  \n             Floris and Blanchfleur.\n         Oxford: Clarendon, 1927. \nFrench,  Walter Hoyt,  and  Charles Brockway Hale.  \n             Middle English Metrical Romances.\n         New York: Prentice-Hall, 1930: 824.\nSands,  Donald B.,\n                        ed.  \n             Middle English Verse Romances.\n         New York: Holt, Rinehart and Winston, 1966: 282-309.\nStevick,  Robert D.,\n                        ed.  \n             Five Middle English Narratives.\n         Indianapolis: Bobbs-Merrill, 1967: 98-139.\n\n",
+            "folio": "ff. 98-111"
+        },
+        "NLS1921": {
+            "First Lines": "\n\u2026I ne kan telle \u021dou nowtHou richeliche \u00fee sadel was\n                    wrout\u2026\n",
+            "Last Lines": "\n\u2026Amen sigge\u021d al soAnd ich schal helpe \u021dou \u00feer\n                    to\n",
+            "Note": "\n861 lines in this MS, imperfect at beginning due to lost\n                    folios.",
+            "Facsimiles": "\nPearsall,  Derek,  and  I. C. Cunningham, eds.  \n             The Auchinleck Manuscript. National Library of Scotland\n                Advocates\u2019 MS. 19.2.1.\n         London: Scolar Press, 1977. \n",
+            "Editions": "\n\nTaylor,  Albert Booth,\n                        ed.  \n             Floris and Blanchfleur.\n         Oxford: Clarendon, 1927. \nHartshorne,  Charles Henry. \n             Ancient Metrical Tales.\n         London: W. Pickering, 1829: 81.\nLaing,  David,\n                        ed.  \n             A Penni Worth of Witte, Florice and Blauncheflour\u2026.\nAbbotsford Club\n         29. Edinburgh, 1857: 15-44.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 68-73 (extracts).\nKooper,  Eric,\n                        ed.  \n             Sentimental and\n                    Humorous Romances.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2006: 1-52.\n\n",
+            "folio": "ff. 100ra-104vb"
+        }
+    }
+}

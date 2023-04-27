@@ -1,0 +1,22 @@
+{
+    "_id": 4190,
+    "_header": "Of Mary mild now will I mean",
+    "Note": "For the earlier text of which this is a free redaction, see 2165.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Virgin Mary, assumption of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Assumption of the Virgin Mary in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 255"
+        },
+        "BLHar4196": {
+            "First Lines": "\nOf mari milde now will I mene\u00feat of all heuyns es corond quene\u2026\n",
+            "Last Lines": "\n\u2026so \u00feat we may bide albideneWhare he es king and sche es quene\n",
+            "Note": "\nEnds \u201cAMEN.\u201d",
+            "Attributed Title": "\nAssumpcio beate marie Virginis (rubric, f. 170va)",
+            "Editions": "\nHorstmann,  Carl. \n             Altenglische Legenden: Neue Folge.\n         Heilbronn: Henninger, 1881: 112-18.\n",
+            "folio": "ff. 170va-173rb"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "_id": 370,
+    "_header": "All that I in word and deed / I thank hit God all folks king",
+    "Note": "For a later recension see 365.",
+    "Title(s)": "Gregorius",
+    "Subjects": "Gregory, pope; saint\u2019s life",
+    "Versification": "\u2014 eight-line \u2014 ababcdcd",
+    "_description": "Gregorius \u2014 in 8-line stanzas",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nAlle \u00feat ich in word and dedeI \u00feonke hit God al folkes\n                    kyng\u2026\n",
+            "Last Lines": "\n\u2026\u00dee Pope ha\u00fe granted hem to medeand\n                    halred dawes to pardoun\n",
+            "Note": "\n\u2018Pope\u2019 partially erased.",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nKeller,  Carl. \n             Die mittelenglische Gregoriuslegende.\n         Heidelberg: Winter; New York: Stechert, 1914. \nHorstmann,  Carl. \n             \u201cGregorius auf dem Steine. Aus Ms. Vernon p. 44.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n            \n                \n                \n            \n         55 (1876): 407-38: 422-38.\n\n",
+            "folio": "ff. 45ra-47rb"
+        },
+        "BodRawPoe225": {
+            "First Lines": "\nAl \u00feat I can in word & dedeI thanke it god bothe lord\n                    & kyng\u2026\n",
+            "Last Lines": "\n\u2026\u00feer my\u021dtte men sen bothe elde & \u021dongeHe\n                    \u00feat was sek hol a n[ ]\n",
+            "Note": "\nEnds imperfectly, the last folio is damaged; \u2018b\u2019 of folio\n                    reference is not column designation.",
+            "Editions": "\nKeller,  Carl. \n             Die mittelenglische Gregoriuslegende.\n         Heidelberg: Winter; New York: Stechert, 1914. \n",
+            "folio": "ff. 105b-115v"
+        },
+        "NLS1921": {
+            "First Lines": "\n\u2026\u00deerl him graunted his wille ywis \u00feat \u00fee kni\u021dt\n                    him hadde ytold\u00fee barouns \u00feat were of miche pris bi forn him\n                    \u00feai weren y[ ]\u2026\n",
+            "Last Lines": "\n\u2026\u00deer ich him feterd fast & bond he me suffred & stille\n                    lay& \u00fee keye wi\u00fe mi ri\u021dt hond in to [ ] y cast\n                    away\n",
+            "Note": "\nLines 1-268 missing in this MS; begins imperfectly at line 269; ends\n                    imperfectly. Lines correspond to 269-1330 of Vernon text. Long-line couplets or\n                    quatrains, abab, written two verse lines to a line of MS.",
+            "Facsimiles": "\nPearsall,  Derek,  and  I. C. Cunningham, eds.  \n             The Auchinleck Manuscript. National Library of Scotland\n                Advocates\u2019 MS. 19.2.1.\n         London: Scolar Press, 1977. \n",
+            "Editions": "\n\nKeller,  Carl. \n             Die mittelenglische Gregoriuslegende.\n         Heidelberg: Winter; New York: Stechert, 1914. \nTurnbull,  William Barclay David Donald,\n                        ed.  \n             Legendae Catholicae.\n         Edinburgh, 1840: 1-67.\nSchulz,  Fritz. \n             Die Englische Gregorlegende.\n         K\u00f6nigsberg: Hartungschen, 1876: 25.\n\n",
+            "folio": "ff. 1-6v"
+        },
+        "Kendal": {
+            "Note": "\nLines corresponding to 127-90, 572-653 of Vernon text.",
+            "folio": "fragment in binding"
+        }
+    }
+}

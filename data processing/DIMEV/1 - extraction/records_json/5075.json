@@ -1,0 +1,47 @@
+{
+    "_id": 5075,
+    "_header": "Sweet Jesu king of bliss",
+    "Note": "This hymn was later combined with 2899 in an expanded version, 5077; cf. also 2900 and 2936. The quatrain (=stanza 14 of London, British Library Harley 2253) appears separately as \u2018Ora pro Anglia, Sancta Maria, quod Thomas Cantuaria\u2019, in some early prints of Chaucer; cf. Purves (1870)\nXPurves, David Laing. The Canterbury Tales and Faerie Queene. Edinburgh: Nimmo, 1870, 292; & Gilman (1879)\nXGilman, . The Poetical Works of Geoffrey Chaucer. Boston: Houghton, Osgood, 1879, 3.655.",
+    "Subjects": "hymns, to Christ; Christ, hymns to",
+    "Versification": "\u2014 four-line \u2014 aaaa",
+    "_description": "A hymn based on the Iesu dulcis memoria \u2014 fifteen monorhyming quatrains",
+    "_witnesses": {
+        "BodDig86": {
+            "First Lines": "\nSwete ihesu king of blisseMin herte loue min herte\n                    lisse\u2026\n",
+            "Last Lines": "\n\u2026Of \u00fei loue \u00feat is so swoteAnd wite hit \u00feat hit\n                    springe mote\n",
+            "Note": "\nStanzas 1-3 only",
+            "Facsimiles": "\nTschann,  Judith A.,  and  Malcolm B. Parkes.  \n             \u201cIntroduction.\u201d \n             Facsimile of Oxford, Bodleian Library, MS Digby 86\nEETS\n         s.s. 16 (1996). \n",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 91-2.\nStengel,  Edmund. \n             Coducem Manu Scriptum Digby 86\u2026.\n         Halle: Orphanotrophei, 1871: 62-3.\nStengel,  Edmund. \n             Coducem Manu Scriptum Digby 86\u2026.\n         Halle: Orphanotrophei, 1871: 4-5.\nBennett,  Jack Arthur Walter,  and  G. V. Smithers, eds.  \n             Early Middle English Verse and Prose.\n         Oxford: Clarendon, 1966: 131.\nOliver,  Raymond. \n             Poems Without Names: The English Lyric 1200-1500.\n         Berkeley, CA: University of California, 1970: 97.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 23-4.\nLuria,  Maxwell Sidney,  and  Richard L. Hoffman, eds.  \n             Middle English Lyrics.\n         New York: Norton, 1974: 92.\n\n",
+            "folio": "f. 134v"
+        },
+        "CamFitz355a": {
+            "First Lines": "\nSwete ihesu heuene kingffayr & best of alle\n                    thyng\u2026\n",
+            "Last Lines": "\n\u2026\u00deou bringe us owt of \u00feis moringTo come to \u00fee\n                    at owre ending\n",
+            "Note": "\nStanza 14 of London,  British Library Harley 2253 version only; follows 6299\n",
+            "Editions": "\nBrydges,  Sir Samuel Egerton,  and  Joseph Haslewood.  \n             The British Bibliographer.\n         4 vols. London: T. Bersley, vol. 1: 1810; vols. 2, 3: 1812; vol. 4:\n            1814: 2.200.\n",
+            "folio": "f. 1"
+        },
+        "BLHar2253": {
+            "First Lines": "\nSuete Iesu king of blyssemyn huerte loue min huerte\n                    lisse\u00feou art suete myd ywisse\u2026\n",
+            "Last Lines": "\n\u2026\u00fee vnderfonge in fourme of bredant se\u00fe\u00fee to\n                    heouene \u00feou vs led \n",
+            "Facsimiles": "\nKer,  Neil Ripley. \n             \u201cIntroduction.\u201d \n             Facsimile of British Museum MS. Harley 2253.\nEETS\n         o.s. 255 (1965). \n",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 7-9.\nWright,  Thomas. \n             Specimens of Lyric Poetry composed in England in the Reign of Edward\n                the First.\nPercy Society\n         4. London: Richard, 1842: 57-9.\nB\u00f6ddeker,  Karl. \n             Altenglische Dichtungen des MS. Harl. 2253.\n         Berlin: Weidmann, 1878: 191-3.\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 2.9-11.\nBrook,  George Leslie. \n             The Harley Lyrics.\n         Manchester: Manchester UP, 1948; rev. ed. 1956; 3rd ed. 1964: 51.\nLuria,  Maxwell Sidney,  and  Richard L. Hoffman, eds.  \n             Middle English Lyrics.\n         New York: Norton, 1974: 99-101.\nFein,  Susanna Greer,\n                        ed.  \n             The Complete Harley 2253 Manuscript, Volume 2.\n         Kalamazoo, Michigan: Medieval Institute Publications, 2009: Booklet 5, no. 50.\n\n",
+            "folio": "ff. 75rb-75va"
+        },
+        "WiltCorp": {
+            "Note": "\nOne stanza only; listed in Hamer (1995)\nXHamer,  Richard. \n             A Manuscript Index to the Index of Middle English Verse.\n         London: British Library, 1995 as unidentified,\n                    missing or destroyed",
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 245.\n",
+            "folio": ""
+        },
+        "GSmith": {
+            "Note": "\nFourteen stanzas; listed in Hamer (1995)\nXHamer,  Richard. \n             A Manuscript Index to the Index of Middle English Verse.\n         London: British Library, 1995 as unidentified,\n                    missing or destroyed",
+            "folio": ""
+        },
+        "YaleBei492": {
+            "First Lines": "\nSwete ihesu king of blisseMin herd loue min herte\n                    lise\u2026\n",
+            "Last Lines": "\n\u2026\u00feu bring me out of \u00feis longingTo come to \u00fee at\n                    min ending\n",
+            "Note": "\nFourteen quatrains",
+            "folio": "ff. 104vb-105ra"
+        }
+    }
+}

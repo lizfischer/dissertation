@@ -1,0 +1,14 @@
+{
+    "_id": 6150,
+    "_header": "Wake well annot",
+    "Subjects": "sermons, verse in",
+    "_description": "A fragment of a popular song in a Latin sermon \u2014 four short lines",
+    "_witnesses": {
+        "BLCottFausAV": {
+            "Transcription": "\nwake wel anot\u00fei mayden boure& get \u00fee fra\n                    Walterotfor he es lichure\n",
+            "Note": "\nWritten as prose. Folio number reflects the most recent\n                    foliation.",
+            "Editions": "\n\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: xxxix.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 555.\n\n",
+            "folio": "f. 10"
+        }
+    }
+}

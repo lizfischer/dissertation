@@ -1,0 +1,101 @@
+{
+    "_id": 3207,
+    "_header": "Lord in Thine anger up take me not / And in Thy wrath blame thou not me",
+    "Note": "For other MSS which begin with an introductory stanza see 5978; for the Fifty-first Psalm separately see 3481; for st. 21 occurring separately see 6107.",
+    "Author(s)": "Richard Maydestone",
+    "Subjects": "psalms, penitential; scripture texts, paraphrases; paraphrases",
+    "Versification": "\u2014 eight-line \u2014 abababab",
+    "Macaronic": "Latin",
+    "_description": "Maydestone\u2019s version of the Penitential Psalms \u2014 in 8-line stanzas (abababab)",
+    "_witnesses": {
+        "BodAsh61": {
+            "First Lines": "\nLord in thyn Anger vp take me nou\u021dtAnd in thy wreth blame\n                    \u00feu not meffor certys synne hath me throu\u021dt sou\u021dtThat I\n                    wer laste nere helpe of the \u2026\n",
+            "Last Lines": "\n\u2026In heuen kyndom to haue sesynAll my\u021dhty god in persons\n                    three\n",
+            "Attributed Title": "\nSeptem psalmi penitensiales (f. 108)",
+            "Editions": "\n\nAdler,  Guido,  and  M. Kaluza.  \n             \u201c\u00fcber die Richard Rolle de Hampole zugeschriebene Paraphrase der\n                sieben Busspsalmen.\u201d \n             Englische Studien\n         10 (1887): 215-55: 232.\nShuffleton,  George. \n             Ashmole 61: A Compilation of Popular Middle English Verse.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008: 279-10; 532-9; 615-19.\n\n",
+            "folio": "ff. 108-119v"
+        },
+        "BodDig102": {
+            "First Lines": "\nLord in \u00feyn angur vbbraide me nou\u021dtAnd in \u00fey wratthe\n                    \u00feou blame not me\u2026\n",
+            "Last Lines": "\n\u2026Into heuene kyngdom me resseyuenThis graunte me god in\n                    persones \u00fere\n",
+            "Note": "\nWritten as prose",
+            "folio": "ff. 128-136"
+        },
+        "BodDou232": {
+            "First Lines": "\nLord in \u00fein angre vnder take me now\u021dtAnd in thy welthe\n                    blame \u00feou now\u021dt me\u2026\n",
+            "Last Lines": "\n\u2026In heuyn kyngdom me to cesynThis graunt o god & personis\n                    thre Amen Amen etc\n",
+            "folio": "ff. 1-28"
+        },
+        "BodEngPoete17": {
+            "First Lines": "\n\u2026[ ]eng[ ] I \u00feouge hit sweteTo suffere sorwe &\n                    stormes strongffor si\u00feen Adam \u00fee lawe lote\u2026\n",
+            "Last Lines": "\n\u2026[ ] shal seen and goostly knowen[ ] owen ordys in [ ]\n                    \u2026\n",
+            "Note": "\nFragment of two bifolia, the inner one complete, the outer one with most\n                    of top half torn away, in a notebook of Elizabeth Barrett Browning. Six complete\n                    and two partial lines on f. 9; same on f. 9v; 22 lines on each of\n                        10-11v; first parts of 9 lies on f. 12; ends of 9 lines on\n                        12v.",
+            "folio": "ff. 9-12v"
+        },
+        "BLAdd11306": {
+            "First Lines": "\n\u2026\u00feyn angyr up take me naw\u021dtNe in \u00fey wrethe\n                    blame naw\u021dt me\u2026\n",
+            "Last Lines": "\n\u2026In heuene kyngdom me to sesyn\u00deis graunte god in persons\n                    \u00fere\n",
+            "Note": "\nDamaged, with partial loss of lines at beginning of text. Manuscript is\n                    paginated.",
+            "folio": "pp. 1-24"
+        },
+        "BLAdd36523": {
+            "First Lines": "\nLord in \u00fein anger vptake me noghtNy in \u00fei wrath blame\n                    \u00feu not me\u2026\n",
+            "Last Lines": "\n\u2026At \u00fein ryght hand make my sete\u00deis grace me graunte\n                    oon god and persones thre\n",
+            "Attributed Title": "\nExpliciunt septem psalmi penitentiales (f.87v)",
+            "folio": "ff. 71v-87v"
+        },
+        "BLAdd39574": {
+            "First Lines": "\nLord in \u00fei anger vptake me noghtIn thy wreth blame \u00feow\n                    not me\u2026\n",
+            "Last Lines": "\n\u2026In to \u00fee kingdom of heuene me resseyuen\u00deus graunte\n                    me god in persoonys \u00fere\n",
+            "Note": "\nEach stanza preceded by scripture it translates, e.g. first is\n                        \u2018DOmine ne in furore tuo arguas me neque in ira tua corripias\n                        me\u2019.",
+            "Editions": "\nDay,  Mabel,\n                        ed.  \n             The Wheatley Manuscript: Middle English Verse and Prose in British\n                Museum MS. Additional 39574.\nEETS\n         o.s. 155 (1921; repr. 1971): 20-59.\n",
+            "folio": "ff. 15v-45"
+        },
+        "BLHar3810": {
+            "First Lines": "\nLord in \u00feyn anger vptake me nou\u021dt& in \u00fey wra\u00fe blame not me\u2026\n",
+            "Last Lines": "\n\u2026In heven kyndam me to sesen\u00feis grant me god in personys \u00fere\n",
+            "Note": "\nAfter end, \u201cAmen\u201d (f. 34).",
+            "folio": "Part I, ff. 17-34"
+        },
+        "BLRoy17Cxvii": {
+            "First Lines": "\nLord in \u00fein anger vpbrayd me noghtAnd in \u00fei wreth blame\n                    \u00feou noght meffor certys syn has me thurgh soght\u00deat I ware\n                    lost warne helpe of \u00fee\u2026\n",
+            "Last Lines": "\n\u2026And graunte vs grace we be not losteOwte of \u00feis warld\n                    wen we sal wendeAmen Amen par charite amen\n",
+            "Note": "\nThe text is faded (from damp?) throughout.",
+            "Attributed Title": "\nDomine ne in furore tuo arguas me (f. 83ra)",
+            "folio": "ff. 83ra-90ra"
+        },
+        "Longleat30": {
+            "First Lines": "\nLord in thin argure [sic] vptake me nou\u021dtAnd in \u00fei\n                    wrath blame \u00feou nou\u021dt me\u2026\n",
+            "Last Lines": "\n\u2026In heuen kyngdom me to lesenGraunt god in persones thre\n                    Amen\n",
+            "Note": "\nWith Rubric Latin texts at head of each stanza, the first beginning\n                        \u2018Domine ne in furore tuo arguas me\u2026.\u2019",
+            "Attributed Title": "\nHere begynneth \u00fee seuen psalmis in englys (f. 26)",
+            "folio": "ff. 26-46v"
+        },
+        "NLWPork20": {
+            "Note": "\nEnds imperfectly at line 944.",
+            "folio": "f. 95"
+        },
+        "TCD156": {
+            "First Lines": "\nLord in \u00feyn angire vndirtake me no\u021dtAnd in \u00feyn\n                    wrathe blame \u00feu no\u021dt me\u2026\n",
+            "Last Lines": "\n\u2026& lumen oculorum meorum & ipsum non est\n                    mecumMy hert in me I trowblilyt it is\n",
+            "Note": "\nDomine ne in furore tuo arguas me / neck in ira tua corripias me\n                    just above, and Latin lines throughout; ends imperfectly.",
+            "Attributed Title": "\nIncipit opus translacionis vijtepsalmorum\n                    \u00fee\u2026(f. 135v)",
+            "Editions": "\nEllis,  Frederick Startridge,\n                        ed.  \n             Psalmi Penitentiales.\n         Hammersmith: Kelmscott Press, 1894. \n",
+            "folio": "ff. 135v-141v"
+        },
+        "PierpontM99": {
+            "First Lines": "\nLord yn \u00fein anger vptake me nou\u021dtAnd in \u00fei wra\u00fe\n                    blame \u00feu nou\u021dt me\u2026\n",
+            "Last Lines": "\n\u2026\u00deu heuene kyndom me to seysyn\u00deis graunte god yn\n                    persones \u00fere\n",
+            "Note": "\nPassages of Latin prose precede each 8-line stanza of English which\n                    translate them, beg. before first verse, \u2018Domine ne in furore tuo arguas\n                    me\u2026.\u2019",
+            "Editions": "\nEllis,  Frederick Startridge,\n                        ed.  \n             Psalmi Penitentiales.\n         Hammersmith: Kelmscott Press, 1894. \n",
+            "folio": "ff. 92-132"
+        },
+        "HunHM142": {
+            "First Lines": "\nLord in thyn argure [sic] uptake me noughtAnd in \u00fei\n                    wra\u00fe blame \u00feou not me\u2026\n",
+            "Last Lines": "\n\u2026In heuen kyngdom me to sesenGraunt god in persones\n                    thre\n",
+            "Note": "\nWith Rubric Latin texts at head of each stanza, the first beg.,\n                        \u2018Domine ne in furore tuo arguas me\u2026.\u2019",
+            "Attributed Title": "\nHere begynneth \u00fee vii psalmis in englisse (f.\n                    22v)",
+            "folio": "ff. 22v-41v"
+        }
+    }
+}

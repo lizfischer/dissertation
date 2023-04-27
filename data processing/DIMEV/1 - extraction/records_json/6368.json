@@ -1,0 +1,21 @@
+{
+    "_id": 6368,
+    "_header": "When John the Baptist Zachary son",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Friday after Third Sunday in Lent, in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 146ra"
+        },
+        "BLHar4196": {
+            "First Lines": "\nWhen Ion \u00fee baptist zacari sunThurgh herod was in preson done\u2026\n",
+            "Last Lines": "\n\u2026\u00feus calles crist man saul ogainIf it haue bene with sins slain\n",
+            "Note": "\nPreceded by Latin, \u201cOportebat ihesum transire per samariam.\u201d",
+            "Attributed Title": "\nfferia vi post terciam dominicam quadragesime Secundum Iohannem (rubric, f. 50rb)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): II.76-90.\n",
+            "folio": "ff. 50rb-52vb"
+        }
+    }
+}

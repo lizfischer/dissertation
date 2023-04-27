@@ -1,0 +1,17 @@
+{
+    "_id": 531,
+    "_header": "And said lo Adam is one of us",
+    "Note": "Probably extracts of a longer work; see Pickering (1973)\nXPickering, Oliver S. \u201cThe Temporale Narratives of the South English Legendary.\u201d Anglia 91 (1973): 425-55, 433. For a prose version, derived from the same Latin original, see Horstmann (1878)\nXHorstmann, Carl. Sammlung altenglischer Legenden. Heilbronn: Henninger, 1878, 103-18.",
+    "Subjects": "Adam and Eve, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Life of Adam and Eve, two insertions in one manuscript of the Old Testament History (6345) \u2014 528 lines in couplets",
+    "_witnesses": {
+        "CamTCC605": {
+            "First Lines": "\nAnd seyde lo adam ys on of ous to connyng wel & goudIch hote\n                    \u00feat \u021de honoury hym wit wel mylde mod\u2026\n",
+            "Last Lines": "\n\u2026Ihesu crist of heuene \u00feat bore was of a mayde\n                    \u021dynge\u021dyf ous oure saules helpe & goud endynge\n",
+            "Note": "\nBegins imperfectly.",
+            "Facsimiles": "\n\nDigital Facsimile of Trinity College Cambridge MS R.3.25.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.25. \n",
+            "folio": "ff. 1;  1v-6v"
+        }
+    }
+}

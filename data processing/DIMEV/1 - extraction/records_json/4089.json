@@ -1,0 +1,26 @@
+{
+    "_id": 4089,
+    "_header": "O well of sweetness replete in every vein",
+    "Note": "A slightly different version occurs in The myracles of oure blessyd Lady, Westminster: Wynkyn de Worde, [1496] , no. 15, ed. Whiteford (1990)\nXWhiteford, P. The Myracles of Oure Lady edited from Wynkyn de Worde\u2019s edition.\nMiddle English Text 23. Heidelberg, 1990, 54.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Legend of Dan Joos\u2019",
+    "Subjects": "Virgin Mary, miracles of; miracles",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lydgate, \u2018Legend of Dan Joos\u2019, a miracle of the Virgin Mary \u2014 twenty stanzas rhyme royal",
+    "_witnesses": {
+        "CamTCC601": {
+            "First Lines": "\no welle of swetnes replete in euery veyneThat all mankynde\n                    preserued hast fro dethAnd all oure ioy fro langour dydest restreyneAt\n                    thy natiuite o flowre of Nazareth\u2026\n",
+            "Last Lines": "\n\u2026In honour of the that done thy psalmes redeAs was Dan Joos so\n                    quyte hem for hyr mede\n",
+            "Note": "\nSecond occurrence in MS.",
+            "Attributed Author": "\nLydgate (added by later hand, ff. 236, 237v)",
+            "folio": "ff. 236-237v"
+        },
+        "BLHar2251": {
+            "First Lines": "\nO welle of swetnes replete in euery veyneThat almankynd preserued\n                    hast fro deth\u2026\n",
+            "Last Lines": "\n\u2026In honoure of the that these psalmes ReedeAs was dane Ioos so\n                    quyte hem for his mede Amen\n",
+            "Note": "\nOmits stanzas 14-17.",
+            "Editions": "\n\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             A Selection from the Minor Poems of Don John Lydgate.\nPercy Society\n         2. London: T. Richard, 1840: 62-6.\nFurnivall,  Frederick James,\n                        ed.  \n             Originals and Analogues of some of Chaucer\u2019s Canterbury\n                Tales.\nChaucer Society\n         2nd ser. 7, 10, 15, 20, 22. London: Tr\u00fcbner, 1872-87: 3.286-8.\n\n",
+            "folio": "ff. 70v-72"
+        }
+    }
+}

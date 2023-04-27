@@ -1,0 +1,97 @@
+{
+    "_id": 1601,
+    "_header": "God that died upon a tree",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 490; prose chronicles ending at 1419 give only a prose paraphrase; those continuing to 1430 give fuller prose paraphrase with last part in verse; only complete text is London, British Library Cotton Galba E.VIII; each MS shows considerable variants",
+    "Author(s)": "John Page (attrib.)",
+    "Title(s)": "The Siege of Rouen",
+    "Subjects": "Rouen, siege of; Henry V",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Oxford, Bodleian Library e Musaeo 63 (SC 3652): see Oxford, Bodleian Library e Musaeo 124 (SC 3562); San Marino, CA, Henry Huntington Library HM 131 [olim Buccleuch, Quaritch Cats. 303, 304]: see Urbana, University of Illinois at Urbana-Champaign 116 [olim Duke of Buccleuch; olim Lord Amherst of Hackney; olim Harmsworth, Sotheby Sale Oct. 15, 1945, lot 1951].",
+    "_description": "The Siege of Rouen, ascribed to John Page, sometimes inserted into the prose Brut \u2014 in couplets",
+    "_witnesses": {
+        "BodeMus124": {
+            "First Lines": "\nGod that deyede vppon the rode treAnd bou\u021dt vs alle with hys\n                    blode so fre\u2026\n",
+            "Last Lines": "\n\u2026ffor \u00feow \u00fee stormes were neuere so greteDrye vnder\n                    hede \u00feey myghte \u00feer trede\n",
+            "Note": "\nLines 1-946 only; ends imperfectly due to loss of folio.",
+            "Editions": "\nConybeare,  John Josias. \n             \u201cPoem, entitled The Siege of Rouen: written in the Reign of Henry the\n                Fifth.\u201d \n             Archaelogia\n         21 (1827): 43-78: 48-78.\n",
+            "folio": "ff. 28-42v"
+        },
+        "OxfBal354": {
+            "First Lines": "\nGod that dyed vpon a tree& bowghte vs with his blode so\n                    free\u2026\n",
+            "Last Lines": "\n\u2026That for vs dyed vpon a treSay we all amen for\n                    Charyte\n",
+            "Attributed Title": "\nThe Siege / of Rone (p. 261); Here endith \u00fee Sege of Rone (p.\n                    282)",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "folio": "pp. 261-282"
+        },
+        "CULHh69": {
+            "First Lines": "\nAnd more they shulde vndertakeA castell for oure d kyng\n                    doo make\u2026\n",
+            "Last Lines": "\n\u2026That for vs died vpon a treAmen sey we all for\n                    charitee\n",
+            "Note": "\n76 couplets.",
+            "folio": "ff. 158v-161"
+        },
+        "CamTCC1413": {
+            "First Lines": "\n\u2026And more thei shall vndertakeA Castell for oure kyng to\n                    make\u2026\n",
+            "Last Lines": "\n\u2026\u00feat for vs deied vpon a treeAmen say we all for\n                    charite\n",
+            "Note": "\n75\u00bd couplets.",
+            "folio": "ff. 195v-197"
+        },
+        "BLAdd27879": {
+            "Note": "\nBadly damaged; lines 1-119; 176-202, 226-85, 349-76 of the copy in London,  British Library Egerton 1995.",
+            "Editions": "\nHales,  John Wesley,  and  Frederick James Furnivall, eds.  \n             Bishop Percy\u2019s Folio Manuscript: Ballads and Romances.\n         3 vols. London: Tr\u00fcbner, 1867-68: 3.533.\n",
+            "folio": "pp. 523-525"
+        },
+        "BlCottGalEVIII": {
+            "First Lines": "\nAnd at Warwike that Erle so freWe callid ofte it wold not\n                    be\u2026\n",
+            "Last Lines": "\n\u2026That for vs deid vpon atreeAmen sey we alle pur\n                    charite\n",
+            "folio": "ff. 140-143v"
+        },
+        "BLEge1995": {
+            "First Lines": "\nGOd that dyde a pon A treAnd bought vs with hys blode soo\n                    fre\u2026\n",
+            "Last Lines": "\n\u2026That for vs dyde vppon a treeSay amen for Charyte.\n                    Amen\n",
+            "Attributed Title": "\nExplicit \u00fee sege of Rouen (f. 109v)",
+            "Editions": "\n\nGairdner,  James,\n                        ed.  \n             Historical Collections of a Citizen of London.\nCamden Society\n         n.s. 17 (1876): 1.\nBrie,  Friedrich,\n                        ed.  \n             The Brut, or the Chronicles of England.\nEETS\n         o.s. 131 (1906), 136 (1908); repr. 1987: 404.\nHuscher,  Herbert,\n                        ed.  \n             John Page\u2019s Siege of Rouen.\nK\u00f6lner Anglistische Arbeiten\n         1. Leipzig: Tauchnitz, 1927: 1.138 (crit. ed.).\n\n",
+            "folio": "ff. 87-109v"
+        },
+        "BLHar266": {
+            "First Lines": "\n\u2026ffor he ys mercyfull yn sy\u021dtAnd asky\u00fee nothyng but\n                    hys ry\u021dt\u2026\n",
+            "Last Lines": "\n\u2026vnto \u00feat way god ham wyssethat they mowe come to hys\n                    blysse\n",
+            "Note": "\nCouplets occasionally inserted into prose narrative account of the\n                    siege; last cited couplet followed by \u2018Amen\u2019 (f. 142).",
+            "Attributed Title": "\nA verie large Chronicle from the beginning of E. I perfect to anno quo H. 6\n                    (added by sixteenth-century hand to top margin, f. 1)",
+            "folio": "ff. 136v-142v"
+        },
+        "BLHar753": {
+            "First Lines": "\nAtte Warwyk \u00fee erle so freWe cleped after It wold not be\u2026\n",
+            "Last Lines": "\n\u2026\u00feat for vs dyed on a treAmen seyde all for charitee\n",
+            "Note": "\nWritten as prose, often with one couplet taking up a single line of the manuscript. Twentieth-century transcript is London,  British Library Egerton 2257, ff. 17-19 (82\n                    lines only).",
+            "folio": "ff. 177-182v"
+        },
+        "BLHar2256": {
+            "First Lines": "\nAnd at Warwik \u00feat Erle so freWe callid ofte it wold not be\u2026\n",
+            "Last Lines": "\n\u2026\u00feat for vs deide vpon a treAmen sey we alle pur cherite\n",
+            "Note": "\nWritten as verse though inserted in prose Brut, in two columns.",
+            "Editions": "\nMadden,  Frederick. \n             \u201cOld English Poems on the Siege of Rouen, AD 1418.\u201d \n             Archaelogia\n         22 (1829): 350-98: 361 (collated with London,  British Library Harley 753).\n",
+            "folio": "ff. 189ra-193vb"
+        },
+        "Lam331": {
+            "First Lines": "\nAtte Warwick \u00fee erle so freWe called oft it wold not\n                    be\u2026\n",
+            "Last Lines": "\n\u2026\u00deat for vs dide on a treeAmen seid all for\n                    charitee\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 107v-112"
+        },
+        "ChicagoUL254": {
+            "First Lines": "\n\u2026And at Warwyk \u00fee Erle so freWe called ofte it wolde nat\n                    beAnd at the Erle Marchall we were\u00feere was no wyght \u00feat\n                    wolde vs answere\u2026\n",
+            "Last Lines": "\n\u2026for a worde wronge out of wardemyght make you to fare full\n                    hardeTherfore of wordes loke ye be wiseAnd sey no\n                    thing\u2026\n",
+            "Note": "\nLines 637-773 only: Begins and ends imperfectly; verse begins without\n                    indication in midst of prose account of the siege, ends imperfectly at end of\n                    page (further folios missing?); written as prose in the prose Brut. 68 x\n                    2 (last couplet incomplete).",
+            "folio": "ff. 124v-126v"
+        },
+        "Charlemont": {
+            "folio": "f. 23"
+        },
+        "Urbana116": {
+            "First Lines": "\n\u2026Atte Warwyk the erle so ffreWe callid ofte it wolde nat\n                    beAnd at \u00fee erle Marchall we werethere was no wyght \u00feat\n                    wolde vs answere\u2026\n",
+            "Last Lines": "\n\u2026To blysse Cryst you brynge\u00feat for vs deyde on a\n                    treAmen seyde Alle ffor charyte\n",
+            "Note": "\nWritten as prose; for provenance, see De Ricci (1906)\nXDe Ricci,  Seymour. \n             A Handlist of a Collection of Books and Manuscripts Belonging\n                to\u2026Lord Amherst of Hackney.\n         Cambridge: University Press, 1906, 357\n                    (MS 58).",
+            "folio": "ff. 189-195v"
+        }
+    }
+}

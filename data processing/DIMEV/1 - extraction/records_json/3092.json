@@ -1,0 +1,39 @@
+{
+    "_id": 3092,
+    "_header": "Listen goodmen with your leave",
+    "Note": "For other versions, see 104, 6690.",
+    "Title(s)": "Cursor Mundi",
+    "Subjects": "miracles; Conception, feast of; instruction, religious",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Founding of the Feast of the Conception (in Cursor Mundi)",
+    "_witnesses": {
+        "BodFair14": {
+            "First Lines": "\nListenes godemen wi\u00fe \u021dour leuela\u00fe me were \u021dou\n                    to greue\u00feat \u021de mi talkin \u00feink toghfor me \u00feink\n                    neuer mare I nogh\u2026\n",
+            "Last Lines": "\n\u2026haue merci on vs now & ay& namely atte our ending\n                    day\n",
+            "Attributed Title": "\nOf \u00fee concepcioun of our lauedi / puplist bi an angel on \u00fee see\n                    (f. 106rb)",
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 1416-29.\n",
+            "folio": "ff. 106rb-107rb"
+        },
+        "BLCottVesAIII": {
+            "First Lines": "\n[L]isten god men wit your leueWele lath me war yow for to\n                    greue\u2026\n",
+            "Last Lines": "\n\u2026Sco dos us her to serue hir sua\u00deat we be wit hir euer\n                    and .A.\n",
+            "Note": "\nSpace was left for enlarged initial \u2018L\u2019, which was left\n                    blank.",
+            "Editions": "\n\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 1416-29.\nEllis,  Sir Henry,\n                        ed.  \n             Domesday Book.\n         London: Eyre & Spottiswoode, 1833: 2.99 (Introduction).\n\n",
+            "folio": "ff. 138rb-139vb"
+        },
+        "EDCPCM": {
+            "First Lines": "\n[L]istnis mi god men wit \u021dor lefWel lase me war you for to\n                    gref\u2026\n",
+            "Last Lines": "\n\u2026Sco deri vs her to serue hir sua\u00deat we be wit hir euera\n                    a\n",
+            "Note": "\nWith a prologue of 114 lines (from 6690).",
+            "Editions": "\n\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 1416-29.\nSmall,  John,\n                        ed.  \n             English Metrical Homilies\u2026.\n         Edinburgh: W. Paterson, 1862: xv-xxi.\n\n",
+            "folio": "ff. 14rb-15vb"
+        },
+        "GottingenTheo107": {
+            "First Lines": "\n[L]Istes gode men wid \u021dur leueful lath me war \u021du forto\n                    greue\u2026\n",
+            "Last Lines": "\n\u2026Scho do vs here at serue hir sua\u00feat we be wid hir euer\n                    and a Amen\n",
+            "Note": "\nPreceded (f. 163rb) by introductory couplet.",
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 1416-29.\n",
+            "folio": "ff. 163va-165ra"
+        }
+    }
+}

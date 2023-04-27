@@ -1,0 +1,56 @@
+{
+    "_id": 2860,
+    "_header": "Jesu king of high heaven above",
+    "Author(s)": "Guillaume Deguileville",
+    "Title(s)": "P\u00e8lerinage de l\u2019\u00e2me; \u2018Chartre of Pardon\u2019",
+    "Subjects": "soul, pilgrimage of",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "Bibliographic Ghosts": "Cambridge UK, Cambridge University Library Kk.1.6, ff.30v-32: incorrect reference?",
+    "_description": "The \u2018Chartre of Pardon\u2019, in the English translation of Deguileville\u2019s P\u00e8lerinage de l\u2019\u00e2me \u2014 fourteen stanzas rhyme royal",
+    "_witnesses": {
+        "Bod770": {
+            "First Lines": "\nIHesu king of heuen aboueto Micher my chier lieu\n                    tenaunt\u2026\n",
+            "Last Lines": "\n\u2026I \u021deue it hem \u00feat schul my merci haueWi\u00fe out\n                    whiche no wi\u021dt ne wil y haue\n",
+            "folio": "ff. 21va-22ra"
+        },
+        "OxfCCC237": {
+            "First Lines": "\nIhesu kyng of heuene aboueTho mychaell my chefe\n                    lefetenaunt\u2026\n",
+            "Last Lines": "\n\u2026I \u021deve it hem \u00feat schull my mercy haueWhich ontyn\n                    weche no wyghte ne wolle I haue\n",
+            "Attributed Title": "\nThe chartour of mercye (f. 43)",
+            "folio": "ff. 43-44v"
+        },
+        "OxfUni181": {
+            "folio": "f. 36"
+        },
+        "CamGon124": {
+            "First Lines": "\nJHesu kyng of hy\u021de heuen abouevn to michel my chiere\n                    heutenaunt\u2026\n",
+            "Last Lines": "\n\u2026I \u021deue hit \u00feeim \u00feat schal my mercy\n                    haueWi\u00feouten wich no wy\u021dt ne wul I saue\n",
+            "folio": "pp. 29-32"
+        },
+        "BLAdd34193": {
+            "First Lines": "\nJhesu kynge of heuen aboueTo mychael my chefe\n                    lu\u00fetenaunte\u2026\n",
+            "Last Lines": "\n\u2026I \u021diue hem \u00feat schall my mercy haueWi\u00fe oute\n                    whiche no wighte will I haue\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 28-28v"
+        },
+        "BLEge615": {
+            "First Lines": "\nIhu kyng of hie heuen a boveVn to Michael my chief lieu tenaunt\u2026\n",
+            "Last Lines": "\n\u2026I geve it him \u00feat schal myn mercy craveWithowt wich no wight wil I crave\n",
+            "Note": "\nLast line begins with crossed-through \u2018Witowt.\u2019",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             \u201cHoccleve\u2019s Works: The Regement of Princes and fourteen minor\n                poems.\u201d \n             EETS\n         e.s. 72 (1897); repr. 1988: xxviii-xxxi.\n",
+            "folio": "ff. 26-27v"
+        },
+        "HatCP270": {
+            "folio": ""
+        },
+        "NYPLSpenc19": {
+            "First Lines": "\nIhesu kyng of high heuene aboueVn to michael my chief lien\n                    tenaunt\u2026\n",
+            "Last Lines": "\n\u2026I \u021deue it hem that shulle my mercy haueWith oute which\n                    no wyght wole I saue\n",
+            "Attributed Title": "\nThe chartre of pardoun (f. 34)",
+            "folio": "ff. 34-35v"
+        },
+        "MelSLV096G94": {
+            "folio": "f. 121v"
+        }
+    }
+}

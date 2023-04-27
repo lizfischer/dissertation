@@ -1,0 +1,50 @@
+{
+    "_id": 426,
+    "_header": "Almighty God in Trinity",
+    "Note": "For other MSS see 1059; and for a prose version see Oxford, Bodleian Library Bodley 789 (SC 2643), ff. 1-51v.",
+    "Author(s)": "Robert of Brunne",
+    "Title(s)": "\u2018Medytacyuns of \u00fee Soper of our Lord Ihesu\u2019",
+    "Subjects": "Eucharist, meditations on",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Robert of Brunne, \u2018Medytacyuns of \u00fee Soper of our Lord Ihesu\u2019 \u2014 1142 lines in couplets",
+    "_witnesses": {
+        "Bod415": {
+            "First Lines": "\nAlmyghty god in triniteNow & euer wy\u00fe vs\n                    be\u2026\n",
+            "Last Lines": "\n\u2026To \u00feat pes perelles we preie \u00feou vs bringgeThat\n                    liuest & reinest wi\u00fe outen endingge\n",
+            "Attributed Author": "\nBonauenture Cardynall (f. 80)",
+            "Attributed Title": "\nHere bygynnen medytacyuns of \u00fee soper of our lord Ihesus and also of\n                    hys passyun and eke of \u00fee peynes of his swete moder mayden Marye \u00fee\n                    whyche made yn latyn Bonauenture Cardynall (f. 80)",
+            "folio": "ff. 80-87"
+        },
+        "CamTCC305": {
+            "First Lines": "\nAlmy\u021dti god in trinitenow & euere wi\u00fe vs beffor\n                    \u00fei loues passiounal \u00feis congregacioun\u2026\n",
+            "Last Lines": "\n\u2026To \u00feat pees pereles we preie \u00feou vs bringe\u00deat\n                    lyue\u00fe and regne\u00fe wi\u00feouten endyng\n",
+            "folio": "ff. 152v-162"
+        },
+        "BLAdd36983": {
+            "First Lines": "\nAlmyghty God in treniteNow & euer with us\n                    be\u2026\n",
+            "Last Lines": "\n\u2026\u00deat satt in derknes of de\u00fe & disese\u00deu\n                    liste hem & lede hem in \u00fee way of pace\n",
+            "Note": "\nMissing final couplet.",
+            "Attributed Author": "\ncompiled of bon aventure a gode clerk & a cardinall of Rome (f.\n                        118rb)",
+            "Attributed Title": "\nHere begynneth \u00fee meditation of \u00fee pascion of crist & of\n                    \u00fee lamentation of oure lady Saint Mary \u00feat sche made for her son when\n                    sche se hym torment among \u00fee Iewis (f. 118rb)",
+            "folio": "ff. 118va-127rb"
+        },
+        "BLHar1701": {
+            "First Lines": "\nAlle my\u021dty god yn trynyteNow & euer wy\u00fe vs\n                    be\u2026\n",
+            "Last Lines": "\n\u2026To \u00feat pes pereles we prey \u00feou vs bryng\u00deat\n                    leuyst and reynest with oute endyng\n",
+            "Note": "\nThe text starts on the lower half of the page, spanning both\n                    columns.",
+            "Attributed Author": "\nBonauenture Cardynall (f. 1)",
+            "Attributed Title": "\nHere bygynne\u00fe medytacyuns of \u00fee soper of oure lorde Ihesu And\n                    also of hys passyun and eke of \u00fee peynes of hys swete modyr mayden marye\n                    \u00fee whyche made yn latyn Bonauenture Cardynall (rubricated RT, f.\n                    1)",
+            "folio": "ff. 84ra-91vb"
+        },
+        "Lam559": {
+            "First Lines": "\nAlmy\u021dgti god in trintienowh & euer with thou\n                    be\u2026\n",
+            "Last Lines": "\n\u2026to that peace thou vs bringethat lyuyth and regnith with\n                    outin endynge. Amen\n",
+            "Note": "\nWritten as prose. Fol. 120 is very worn.",
+            "Attributed Title": "\nHere begynneth the passion of oure lord Ihesu criste (f. 89, foot of page,\n                    in rubric); Here endith cristes passion\u2026 (f. 120, rubric)",
+            "folio": "ff. 89v-120;  133-134"
+        },
+        "Folger420312": {
+            "folio": "f. 84v"
+        }
+    }
+}

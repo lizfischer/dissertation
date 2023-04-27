@@ -1,0 +1,30 @@
+{
+    "_id": 2013,
+    "_header": "Heried and blessed must he be",
+    "Note": "See Singer (1928)\nXSinger, Dorothea Waley. Catalogue of Latin and Vernacular Alchemical Manuscripts. 3 vols. Brussels: Lamertin, 1928-31, 183.",
+    "Title(s)": "The Mirror ofLight",
+    "Subjects": "alchemy; epilogues, to prose texts",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A concluding ascription to The Mirror of Light, a prose tract on \u2018phylosoferys stonys and the perfytenes of tham\u2019 \u2014 two couplets",
+    "_witnesses": {
+        "CamTCC916": {
+            "Transcription": "\nHeryyd and blessyd mote he beThat hyest ysin trenyteHere endys\n                    the merowre of lytysThat bladythe all crystyn wytys Amen\n",
+            "Editions": "\nSinger,  Dorothea Waley. \n             Catalogue of Latin and Vernacular Alchemical Manuscripts.\n         3 vols. Brussels: Lamertin, 1928-31: 1.160, 3.1134.\n",
+            "folio": "f. 77v"
+        },
+        "CamTCC1137": {
+            "Transcription": "\nheried and blessid mote he bethat hiest isin trynitethus endeth\n                    the mirror of lighteswhich glades all wightes\n",
+            "Note": "\nAt end of Latin version.",
+            "folio": "Part II, p. 37"
+        },
+        "BLHar3542": {
+            "Transcription": "\nHerid be god & blessid mote he beThat heyist sit in triniteHere endit \u00fee Myrrour of ly\u021dtenysThe wyche gladyth all Wyttes\n\n",
+            "Note": "\nAt end of Latin version. Second occurrence in this manuscript.",
+            "Editions": "\nSinger,  Dorothea Waley. \n             Catalogue of Latin and Vernacular Alchemical Manuscripts.\n         3 vols. Brussels: Lamertin, 1928-31: 1.160, 3.1134.\n",
+            "folio": "f. 41v"
+        },
+        "CopenRoy248": {
+            "folio": "f. 1v"
+        }
+    }
+}

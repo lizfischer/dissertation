@@ -1,0 +1,17 @@
+{
+    "_id": 1819,
+    "_header": "He beheld ladies with laughing cheer",
+    "Title(s)": "The Song of Roland",
+    "Subjects": "romances",
+    "Versification": "\u2014 two-line, alliteration \u2014 aa",
+    "_description": "The Song of Roland \u2014 1049 lines in alliterative couplets",
+    "_witnesses": {
+        "BLLan388": {
+            "First Lines": "\nHe beheld ladys with laughinge cheerThen lightid gwynylon and com\n                    In in fer\u2026\n",
+            "Last Lines": "\n\u2026Angry in hert thus gan he nevynbroder let be all siche\n                    sawes\n",
+            "Note": "\nEnds imperfectly. Folio number reflects the most recent\n                    foliation.",
+            "Editions": "\n\nHerrtage,  Sidney John Hervon,\n                        ed.  \n             The English Charlemagne Romances II: The Sege of Melayne, the romance\n                of Duke Rowland and Sir Otuell of Spayne.\nEETS\n         e.s. 35 (1880); repr. 1973: 107-36.\nMichel,  Francisque,\n                        ed.  \n             La Chanson de Roland.\n         Paris: Silvestre, 1837: App. VIII, 279-84 (extracts only; 100 lines).\n\n",
+            "folio": "ff. 381-395v"
+        }
+    }
+}

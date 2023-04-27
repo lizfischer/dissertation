@@ -1,0 +1,20 @@
+{
+    "_id": 3180,
+    "_header": "Look out here Mayor with thy piled pate",
+    "Subjects": "London, mayor of; students; warnings; political poems",
+    "Versification": "\u2014 irregular \u2014 aabccb, abab, aa",
+    "_description": "Student abuse of the Mayor of London (not Cambridge as in Brown and Robbins (1943)\nXCarleton Fairchild Brown, and Rossell Hope Robbins. The Index of Middle English Verse. New York: Printed for the Index Society by Columbia University Press, 1943) in A.D. 1418 \u2014 thirty irregular lines",
+    "_witnesses": {
+        "BLHar247": {
+            "First Lines": "\nLoke out here maier with thy pilles pateAnd see wich a sorowe is\n                    fast on thy gate\u2026\n",
+            "Last Lines": "\n\u2026That meche sorow to him be dithAnd well mote he\n                    fare\n",
+            "Note": "\nStowe\u2019s transcript, 30 lines. Ssigned after last line by same\n                    hand, \u2018Amen quod he \u00feat beshreud the maiers very visage\u2019 (f.\n                        129v); page formerly folded into four with title fit along one\n                    folded section.",
+            "Attributed Title": "\nA lybell mad agaynste the mayre of london (written along left edge (f.\n                        129v)",
+            "folio": "ff. 129-129v"
+        },
+        "Cole": {
+            "Editions": "\n\nHartshorne,  Charles Henry. \n             Ancient Metrical Tales.\n         London: W. Pickering, 1829: 255.\nWright,  Thomas. \n             Essays on Subjects Connected with the Literature, Popular\n                Superstitions, and History of England in the Middle Ages.\n         London: J. R. Smith, 1846: 2.266.\nCooper,  Charles Henry. \n             Annals of Cambridge.\n         Cambridge: Warwick, 1842: 5.1.\nCoulton,  George Gordon. \n             Social Life in Britain from the Conquest to the Reformation.\n         Cambridge: at the UP, 1914: 66.\nWilson,  Richard Middlewood. \n             The Lost Literature of Medieval England.\n         London: Methuen, 1952: 200.\n\n",
+            "folio": "f. 129"
+        }
+    }
+}

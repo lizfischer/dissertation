@@ -1,0 +1,29 @@
+{
+    "_id": 1564,
+    "_header": "God is a substance forever durable",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 482; Ringler Jr. (1988)\nXRingler Jr., William A. Bibliography and Index of English Verse Printed 1476-1558. London: Mansell, 1988, TP 491.",
+    "Subjects": "God, goodness of",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "God\u2019s goodness \u2014 one stanza rhyme royal",
+    "_witnesses": {
+        "BodHat2": {
+            "First Lines": "\nGod is a substaunce foreuer dureableEterne Omnipotent mercifull\n                    & iuste\u2026\n",
+            "Last Lines": "\n\u2026In whose feare & loue all that shall here endureShall\n                    after this life of better life be sure\n",
+            "Note": "\nScribe\u2019s signature: Per me gulielmum molleum manu propria (f.\n                    168v)",
+            "Editions": "\n\nBergen,  Henry,\n                        ed.  \n             Lydgate\u2019s Fall of Princes.\n             4 vols. \n             EETS\n         e.s. 121-24 (1924-27); repr. 1967: 75.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 86.\n\n",
+            "folio": "f. 168v"
+        },
+        "NLWMost129": {
+            "folio": "f. 19"
+        },
+        "Banna": {
+            "First Lines": "\nGod is a substance for evir durableEterne omnipotent mercifull and\n                    Iust\u2026\n",
+            "Last Lines": "\n\u2026In quhais feir and Luve all \u00feat sall endeurSall eftir\n                    this Lyif off bettir Lyif be seur\n",
+            "Note": "\nSecond occurrence in MS; used as introduction to first part of MS,\n                    \u2018contenand ballattis of theoligie\u2019 (f. 43).",
+            "Attributed Title": "\nGod (p. 60)",
+            "Facsimiles": "\nFox,  Denton,  and  William A. Ringler.  \n             The Bannatyne Manuscript: National Library of Scotland Advocates\u2019\n                MS. 1.1.6\n         London: Scolar Press, in Association with The National Library of\n            Scotland, 1980. \n",
+            "Editions": "\nRitchie,  W. Tod,\n                        ed.  \n             The Bannatyne Manuscript.\n             4 parts in 4 vols. \n             Scottish Text Society\n         3rd ser. 5 (1928); n.s. 22 (1928); n.s. 23 (1930); n.s. 26 (1934)\n            Edinburgh and London: Blackwood, 1928-34; ed. by Ritchie et al: 1.40. 3.2.\n",
+            "folio": "p. 60"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "_id": 1771,
+    "_header": "Harken words wonder good / How Jesu Christ was done on Rood",
+    "Note": "Sometimes ascribed to Skelton, but in error; some stanzas incorporated into Towneley Play XXVI \u2014 see Taylor (1907)\nXTaylor, G. C. \u201cThe English Corpus Christi Play and the Middle English Lyric.\u201d Modern Philology 5 (1907-08): 1-38, 26-7.",
+    "Title(s)": "The Complaint of Christ on the Cross",
+    "Subjects": "Christ, complaint of, to man; Passion, meditations on",
+    "Versification": "\u2014 seven-line \u2014 aaabccb",
+    "_description": "The Complaint of Christ on the Cross, a meditation \u2014 twenty three 7-line stanzas (aaabccb)",
+    "_witnesses": {
+        "BLAru285": {
+            "First Lines": "\nNow herkynnis wordis wunder gudeHow Ihesu crist hang on \u00fee rude\u2026\n",
+            "Last Lines": "\n\u2026And grant ws grace to se thy faceIn hewin but end\n",
+            "Note": "\nEnds, \u201cAmen.\u201d",
+            "Attributed Title": "\nThe Dollorus complaint of oure lorde Apoune \u00fee croce Crucifyit (rubric, f. 164v)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Arundel MS 285.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Arundel_MS_285. \n",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 151-6.\nBennett,  Jack Arthur Walter,\n                        ed.  \n             Devotional Pieces in Verse and Prose from Ms. Arundel 285 and Ms.\n                Harleian 6919.\nScottish Text Society\n         3rd ser. 23. Edinburgh: Blackwood, 1955: 261-5.\n\n",
+            "folio": "ff. 164v-168"
+        },
+        "BLAdd37049": {
+            "First Lines": "\nHerkyn wordes swete & goodeLofely speche with mylde\n                    mode\u2026\n",
+            "Note": "\nSeven stanzas corresponding to 1-9 and twelve stanzas corresponding to\n                    10-23.",
+            "Attributed Title": "\nTake gode hede wele of \u00feis medytacion (f. 67v); On galows\n                    hy\u2026(f. 45v, cropped)",
+            "Facsimiles": "\nWoolf,  Rosemary. \n             The English Religious Lyric in the Middle Ages.\n         Oxford: Clarendon, 1968: plate 2 (facing 204, f. 67v\n                        only).\n",
+            "Editions": "\nDoty,  Brant Lee,\n                        ed.  \n             \u201cAn Edition of British Museum MS Additional 37049: a Religious\n                Miscellany.\u201d \n         Diss. Michigan State, 1969: 369-71, 283.\n",
+            "folio": "ff. 67v;  45v"
+        },
+        "EDU205": {
+            "First Lines": "\nHerkyne wordes wonder gudHow Ihesu crist wes done one\n                    Rud\u2026\n",
+            "Last Lines": "\n\u2026grant ws to lyf clen[ ]And gyf grace to se[ ]\n",
+            "Note": "\nStanzas 1-20 only, ends imperfectly; stanza 5 formerly edited as if a\n                    separate work, 2140\n",
+            "Attributed Title": "\nTake gode hede wele of \u00feis medytacion (f. 67v); On galows\n                    hy\u2026(f. 45v, cropped)",
+            "Editions": "\nStevenson,  George. \n             Pieces from the Makculloch and the Gray MSS. together with The Chepman\n                and Myllar Prints.\nScottish Text Society\n         65. Edinburgh, 1918: 33-7.\n",
+            "folio": "ff. 200v-201"
+        }
+    }
+}

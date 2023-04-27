@@ -1,0 +1,31 @@
+{
+    "_id": 2021,
+    "_header": "Hi sunt qui psalmos corrumpunt nequitur almos",
+    "Note": "Cf. 1173.3, 2783, and 6084.",
+    "Subjects": "Tutivillus; religious observance",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Macaronic lines on Tutivillus \u2014 four lines in a Latin treatise cautioning priests and other clerics regarding the saying of divine offices",
+    "_witnesses": {
+        "OxfBal354": {
+            "Transcription": "\nVersus posterior non prius incipiaturQuam suus anterior perfecto fine\n                    fruaturTres sunt qui psalmoscorrumpunt nequiter almosQuos sacra\n                    scriptura dampnat vetant quoque iuraMomelers foreskippers ouerskippers sunt\n                    tria mala\n",
+            "Note": "\nSix lines in this MS, including two lines preceding usual\n                    beginning.",
+            "Attributed Title": "\nFor a syngar (p. 422)",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 204.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 137.\n\n",
+            "folio": "p. 422"
+        },
+        "CULFf114": {
+            "Transcription": "\n\nHij sunt qui psalmos corrumpunt nequiter almosOurelepers\n                    forskyppers bebbers momelers quoque stutters\n",
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 2.xxxiii.\n",
+            "folio": "f. 185v"
+        },
+        "BLLan762": {
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.291.\nWright,  Thomas. \n             A selection of Latin stories.\nPercy Society\n         8. London: Richard, 1842: 225.\n Bad Key: Wright1856: 543.\n\n",
+            "folio": "f. 101v"
+        },
+        "BLSl1584": {
+            "Editions": "\nWright,  Thomas,\n                        ed.  \n             The Latin Poems Commonly Attributed to Walter Mapes.\nCamden Society\n         o.s. 16 (1841): 514843.\n",
+            "folio": "f. 13v"
+        }
+    }
+}

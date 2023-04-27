@@ -1,0 +1,16 @@
+{
+    "_id": 4473,
+    "_header": "Rex regum rich kirk",
+    "Subjects": "inscriptions",
+    "Versification": "\u2014 five-line \u2014 abbac",
+    "Macaronic": "Latin",
+    "_description": "A Latin and English rhymed inscription naming the donor of a book \u2014 five lines",
+    "_witnesses": {
+        "OxfCCC59": {
+            "Transcription": "\n\nRex regum riche kirkLux dux princeps ouer al\n                    \u00feingffre Cuntis suete \u00feingWalterum protege\n                        WaldirkQui me communi librum dedit utilitati\n\n",
+            "Note": "\nFive lines naming the donor of the MS; MS incorrectly identified by\n                    Morris as CCCO 54 instead of 59.",
+            "Editions": "\n\nMorris,  Richard,\n                        ed.  \n             Old English Homilies of the Twelfth Century: From the Unique MS.\n                B.14.52 in the Library of Trinity College, Cambridge\n             Vol. 2. \n             EETS\n         o.s. 53 (1873); repr. 1973: 255-9.\nBrown,  Carleton Fairchild. \n             \u201cA Thirteenth-Century Manuscript from Llanthony Priory.\u201d \n             Speculum\n         3 (1928): 587-95: 588.\n\n",
+            "folio": "f. 3"
+        }
+    }
+}

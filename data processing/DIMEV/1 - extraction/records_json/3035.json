@@ -1,0 +1,56 @@
+{
+    "_id": 3035,
+    "_header": "Laud honor praisings thanks infinite",
+    "Author(s)": "Gavin Douglas",
+    "Title(s)": "The XIII Bukes of Eneados",
+    "Subjects": "translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The XIII Bukes of Eneados, translated by Gavin Douglas \u2014 in couplets",
+    "_witnesses": {
+        "CamTCC1184": {
+            "First Lines": "\nLAwd honour praysynges thankes InfynytTo the and thy dulie ornat\n                    fresch endit\u2026\n",
+            "Last Lines": "\n\u2026Nor alter not my wordes I \u021dou prayllo \u00feis is all\n                    now bew schirres haue gud day\n",
+            "Attributed Author": "\nQd Gawinus Douglas (f. 329v)",
+            "Attributed Title": "\nIncipit prologus in Virgilii Eneados (f. 2); Heyr begynnys the\n                    prolong of Virgyll prynce of latyn poetis in hys twelf bukes of Eneasos compilit\n                    and translatit furth of Latyn in our Scottis langage by ane Right nobill and\n                    wirschipfull clerk Master Gawyn Dowglas provest of Sanct Gylys kyrk in Edinburgh\n                    & person of lyntoun in louthiane quhilk eftyr was bischop of Dunkeld (f.\n                    1)",
+            "Editions": "\n\nDundas,  George,\n                        ed.  \n             The \u00c6neid of Virgil translated into Scottish Verse.\nBannatyne Club\n         64. Edinburgh: Constable, 1839. \nColdwell,  David F. C.,\n                        ed.  \n             Virgil\u2019s Aeneid Translated into Scottish Verse by Gavin\n                Douglas.\n             4 vols. \n             Scottish Text Society\n         3rd ser. 25, 27-8, 30 Edinburgh and London: Blackwood,\n            1957-64. \nGray,  Douglas. \n             The Oxford Book of Late Medieval Verse and Prose.\n         Oxford: Clarendon, 1985: 324-31 (extracts).\nBawcutt,  Priscilla J.,  and  Felicity Riddy, eds.  \n             Longer Scottish Poem.\n         vol. 1: 1375-1650. Edinburgh: Scottish Academic Pr., 1987: 236-47 (extract).\n\n",
+            "folio": "ff. 2-329v"
+        },
+        "EDUDk749": {
+            "First Lines": "\n[L]aude honor prasingis thankis InfyniteTo \u00fee and \u00fei\n                    deulce ornate fresch endite\u2026\n",
+            "Last Lines": "\n\u2026Nor altir nocht my wordis I \u021dow prayello \u00feis is all\n                    now bew schirris haue guid day\n",
+            "Note": "\nIncludes epilogue of \u2018\u00fee tyme and dait of \u00fee translation\n                    of \u00feis buik\u2019.",
+            "Attributed Author": "\nQuod Gawinus Douglas (f. 367v)",
+            "Attributed Title": "\nThe proloug of \u00fee first buik of eneados (f. 1)",
+            "Editions": "\n\nSibbald,  John. \n             Chronicle of Scottish Poetry\u2026.\n         4 vols. Edinburgh and London, 1802:  1.428 (extracts).\nSmall,  John,\n                        ed.  \n             The Poetical Works of Gavin Douglas.\n         4 vols. Edinburgh: Wm Paterson, and London: H. Sotheran, 1874: vols. 2, 3, 4.\n\n",
+            "folio": "ff. 1-367v"
+        },
+        "EDUDc143": {
+            "First Lines": "\nLaude honour praysingis thankis InfiniteTo \u00fee and \u00fei\n                    dulce ornate fresche endite\u2026\n",
+            "Last Lines": "\n\u2026Nor alter nocht my wourdis I \u021dou prayLo \u00feis is all\n                    bew schirris haue gude day\n",
+            "Note": "\nIncludes epilogue of \u2018the tyme space & date Off \u00fee\n                    translacioun of \u00feis buke\u2019 (ff. 300-300v), couplets. First\n                    four lines also copied by a later hand, f. 1.",
+            "Attributed Author": "\nQuod Gawinus douglas (f. 300v)",
+            "Attributed Title": "\nHere begynnys the buke of virgile contenand in \u00fee self xiii\n                        (sic) bukis translatit out of latyne in Inglis be an reuerend fader\n                    in god gawane douglas bischop vm quhile of dunkeld (f. 2)",
+            "Editions": "\nRuddiman,  Thomas,\n                        ed.  \n             Virgil\u2019s \u00c6neas translated into Scottish Verse.\n         Edinburgh, 1710. \n",
+            "folio": "ff. 2-300v"
+        },
+        "Banna": {
+            "First Lines": "\n\u2026He plasmatour of thingis vniuersallThow reneware of kynd\n                    that creat all\u2026\n",
+            "Last Lines": "\n\u2026Bot all weilfair Eiss and evirlestand IoyeQuhais he plesance\n                    Lord lat ws nevir miss\n",
+            "Note": "\nPrologue to Book Ten only; prob. copied from printed \n            The \u00b7xiii. bukes of Eneados of the famose poete Virgill translatet out of Latyne verses into\n                Scottish metir, bi the Reuerend Father in God, Mayster Gawin Douglas Bishop of Dunkel [and] unkil\n                to the Erle of Angus. Euery buke hauing hys perticular prologe, Imprinted at Londo[n: By\n            William Copland], 1553 .",
+            "Attributed Author": "\nMaister gawyn dowglass (f. 9); ffinis quod Maister gawyne dowglas (f.\n                        11v)",
+            "Attributed Title": "\nThe prollog of the tent buik of Virgill compyld be the noble poet Maister\n                    gawyn dowglass bischop of dumkeld of godis workis to be inconprehensible be man\n                    wit or ressone As for Example of the trinitie (f. 9)",
+            "Editions": "\nRuddiman,  Thomas,\n                        ed.  \n             Virgil\u2019s \u00c6neas translated into Scottish Verse.\n         Edinburgh, 1710. \n",
+            "folio": "ff. 9-11v"
+        },
+        "Lam117": {
+            "First Lines": "\nLaude Honoure praysingis thankis infinitto the and thy dulce ornate\n                    fresche endyte\u2026\n",
+            "Last Lines": "\n\u2026Nor alter nocht my words I \u021dow praylo \u00feis is all\n                    now bew schirris haue gude day\n",
+            "Attributed Author": "\nQuod Gawynne Dowglas (f. 426v)",
+            "Attributed Title": "\nHeir endis \u00fee buke of vifgill written be the hand of\n                            Johanne mudy with master thomas bellenden of auchinnovll Justis Clerke and endit\n                    \u00fee 2d febry Annorum xlv. (f.\n                    426v)",
+            "folio": "ff. 2-426v"
+        },
+        "Longleat252A": {
+            "folio": ""
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "_id": 463,
+    "_header": "Among holy gospels all it is not good to believe",
+    "Note": "For variant versions in short lines see 874 and 2479.",
+    "Title(s)": "South English Legendary ; Euangelium In principio",
+    "Subjects": "scripture texts, Engl. trans. of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018Euangelium In principio\u2019, in the South English Legendary \u2014 in couplets",
+    "_witnesses": {
+        "Bod779": {
+            "First Lines": "\nIn \u00fee by gynnyng of \u00fee fadir \u00fee sone was &\n                    is& \u00fee sone was a nente god & god was sone I\n                    wis\u2026\n",
+            "Last Lines": "\n\u2026now seynt Jhon \u00fee euangelist \u00feat gode mon art &\n                    hendepraye to hym \u00feat vs made \u00fee Ioye of heuene vs\n                    sende\n",
+            "Note": "\nWithout prologue of 26 lines.",
+            "Attributed Title": "\nEwangelium Sancti Johannis (f. 23v)",
+            "folio": "ff. 23v-25v"
+        },
+        "OxfCCC431": {
+            "First Lines": "\nAmong o\u00feer gospels hit ys no\u021dt to byleue\u00deo holy\n                    gospel of Seint Iohan of godes grace hit ne\n                    \u021deue[fore-edge]\u2026\n",
+            "Last Lines": "\n\u2026A wys Ion \u00fee euangelist \u00feat god man ert &\n                    hendeBide \u00feat god to \u00feulke ioie \u00feat \u00feow ert inne vs\n                    sende\n",
+            "Note": "\nPortion of text lost due to mutilation of leaves.",
+            "folio": "ff. 1-2"
+        },
+        "CamMagPep2344": {
+            "First Lines": "\nAmong holy gospelles alle hit is nou\u021dt goed to by leue\u00dee\n                    holy gospel of Seint Ion \u021dif god vs grace \u021deue\u2026\n",
+            "Last Lines": "\n\u2026Now with Ion \u00fee Ewangelist \u00feat goed man art and\n                    hende\u00deou ffor vs bydde \u00feat to \u00feulke ioye \u00feat \u00feou\n                    art ynne Ihesu criste vs sende\n",
+            "Attributed Title": "\nEwangelium In principio (RT)",
+            "folio": "pp. 93-97"
+        }
+    }
+}

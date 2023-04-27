@@ -1,0 +1,31 @@
+{
+    "_id": 1942,
+    "_header": "Here are nine points of great virtue",
+    "Note": "For prose versions see Oxford, Bodleian Library Eng. poet. a.1 (SC 3938) [Vernon MS]; Oxford, Bodleian Library Rawlinson C.285 (SC 12143), f. 52, with rhymes; London, British Library Harley 1704, f. 48v; London, British Library Harley 1706, pr. Horstmann (1895)\nXHorstmann, Carl. Yorkshire Writers. 2 vols. London, Sonnenschein; New York: Macmillan, 1895-96, 1.110-11; and for a Latin text see Cambridge UK, Gonville & Caius College 140/80, f. 132. For another text which begins with a short preface see 375.",
+    "Title(s)": "Novem Virtutes",
+    "Subjects": "virtues, principal",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Novem Virtutes \u2014 114 lines in couplets with Latin interpolations",
+    "_witnesses": {
+        "BodRawPoe34": {
+            "First Lines": "\nHer be ix poyntes of gret vertuThat owr told swet\n                    ihesu\u2026\n",
+            "Last Lines": "\n\u2026\u00feat ys erthly mor than meThat by com man and dyed for\n                    the\n",
+            "folio": "ff. 9vb-10va"
+        },
+        "CULFf114": {
+            "First Lines": "\nHer er ix poyntes of gret vertu\u00feat our Lord cald swete\n                    ihesu\u2026\n",
+            "Last Lines": "\n\u2026\u00feat is here hartly more \u00fean me\u00feat become man\n                    and dyede for \u00fee\n",
+            "Attributed Title": "\nNouem virtutes (f. 5); Expliciunt nouem virtutes (f. 7, Latin\n                    portion ends)",
+            "folio": "ff. 5-6v"
+        },
+        "CULIi49": {
+            "First Lines": "\nHere bethe ix poynltys of gret vertuThat oure lorde tolde swete\n                    Ihesu\u2026\n",
+            "Last Lines": "\n\u2026That is hertyly me more then meThat be com ma\n                    & deyd for the Amen\n",
+            "folio": "ff. 63v-65v"
+        },
+        "BLHar2409": {
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 2.455-6.\n",
+            "folio": "f. 75v"
+        }
+    }
+}

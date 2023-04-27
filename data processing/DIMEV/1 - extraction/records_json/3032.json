@@ -1,0 +1,21 @@
+{
+    "_id": 3032,
+    "_header": "Late as I went on mine playing / I set my heart all in solace",
+    "Subjects": "Christ, appeal of, to man",
+    "Versification": "\u2014 eight-line",
+    "Macaronic": "Latin",
+    "_description": "Appeal of Christ to Man \u2014 fourteen 8-line stanzas with the refrain, \u2018Quid vltra debui facere\u2019",
+    "_witnesses": {
+        "BodRawC86": {
+            "First Lines": "\nLate as I Wente on myn pleyngeI set my herte all in\n                    solase\u2026\n",
+            "Last Lines": "\n\u2026I wyll befor \u00fee at \u00feynne endeQuid vltra debui\n                        facere\n\n",
+            "Editions": "\n\nSandison,  Helen Estabrook. \n             The \u2018Chanson d\u2019Aventure\u2019 in Middle English.\nBryn Mawr College Monographs,  Monograph Series 12. Bryn Mawr, PA: Bryn Mawr College, 1913: 110-13.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 159-62.\n\n",
+            "folio": "ff. 65-66v"
+        },
+        "BodDoufrD48": {
+            "Note": "\nLines 10-24;\n                    33-40.",
+            "Editions": "\nReed,  Ernest Bliss. \n             Christmas Carols Printed in the Sixteenth Century\nHuntington Library Publications.\n         Cambridge, MA: Harvard UP, 1932 [= Kele, ca. 1550]: 11.\n",
+            "folio": ""
+        }
+    }
+}

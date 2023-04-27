@@ -1,0 +1,35 @@
+{
+    "_id": 609,
+    "_header": "As I me lay alone in bed",
+    "Note": "For the usual version see 2668.",
+    "Author(s)": "Thomas Brampton",
+    "Title(s)": "Seven Penitential Psalms",
+    "Subjects": "psalms, penitential",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "Macaronic": "Latin",
+    "_description": "A variant version of Thomas Brampton\u2019s Seven Penitential Psalms: 124 8-line stanzas with refrain, \u2018Ne reminiscaris domine\u2019",
+    "_witnesses": {
+        "CULFf238": {
+            "First Lines": "\n\u2026\u00deis cyrcumstaunce \u00feat long \u00feer tylleMake me\n                    clene from worde & wylleAnd clense me from vnhonesteTherfore y\n                    putt to the \u00feys bylle\u2026\n",
+            "Last Lines": "\n\u2026And all \u00feat maken \u00feer laste endeWyth ne\n                        reminiscaris domine\n\n",
+            "Note": "\nBegins imperfectly at line 451 due to missing folios 22-27.",
+            "Attributed Title": "\nHere endy\u00fe the seuene salmes\u2026 (f. 31v)",
+            "Facsimiles": "\nMcSparran,  Frances,  and  Pamela R. Robinson.  \n             \u201cIntroduction.\u201d \n             Cambridge University Library MS Ff.2.38.\n         London: Scolar Press, 1979. \n",
+            "Editions": "\nKreuzer,  James R. \n             \u201cThomas Brampton\u2019s Metrical Paraphrase of the Seven Penitential\n                Psalms: A Diplomatic Edition of the Version in MS Pepys 1584 and MS Cambridge\n                University Ff 2.38 with Variant Readings from All Known Manuscripts.\u201d \n             Traditio\n         7 (1949-51): 359-403: 370-85.\n",
+            "folio": "ff. 28ra-31va"
+        },
+        "CamMagPep1584": {
+            "First Lines": "\nAs I lay in my bedAnd sikenes Revid me of my restWhat maner\n                    life \u00feat I had ledffor to thynke me thoughte it\n                    best\u2026\n",
+            "Last Lines": "\n\u2026And all \u00feat makith \u00feair last endWith Ne\n                        reminiscaris domine\n\n",
+            "Attributed Title": "\nThe sele of mercy (Tab. Cont., f. 1); Her\u2026begynnyth the seale of\n                    mercy (f. 28); Her endith the seale of mercy or the vii Salmes (f.\n                        47v)",
+            "Facsimiles": "\nMcSparran,  Frances,  and  Pamela R. Robinson.  \n             \u201cIntroduction.\u201d \n             Cambridge University Library MS Ff.2.38.\n         London: Scolar Press, 1979. \n",
+            "Editions": "\nKreuzer,  James R. \n             \u201cThomas Brampton\u2019s Metrical Paraphrase of the Seven Penitential\n                Psalms: A Diplomatic Edition of the Version in MS Pepys 1584 and MS Cambridge\n                University Ff 2.38 with Variant Readings from All Known Manuscripts.\u201d \n             Traditio\n         7 (1949-51): 359-403: 370-85.\n",
+            "folio": "ff. 28-47v"
+        },
+        "CamTCC600": {
+            "Note": "\nLatin text as heading to each stanza.",
+            "Attributed Title": "\nLoo heere begynnen \u00fee sevene salmes translated oute of Latyne in to\n                    englisshe by an hooly and gret Clerk \u00feat was reclused in \u00fee west\n                    partie of England (scribe, f. 197) \u2026whosse name was ffrater Thomas\n                    Bramptone sa\u021de Theologie doctor fratrum minorum pauperculus confessor de\n                    latino in Anglicum Anno domini MCCCCxiiii ad dei honorem & incrementum\n                    deuocionis (added sixteenth century, f. 197)",
+            "folio": "pp. 197-233"
+        }
+    }
+}

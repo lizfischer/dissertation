@@ -1,0 +1,13 @@
+{
+    "_id": 4283,
+    "_header": "One feler then three and fewer than five",
+    "Subjects": "translations; riddles",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "Tag translating Latin, \u2018vno plures tribus & pauciores quinque\u2026\u2019 which follows it, in a series of Latin sentences with English translations in a schoolbook \u2014 written as prose",
+    "_witnesses": {
+        "OxfLinLat129": {
+            "Transcription": "\nOn feler \u00feen thre & fewer \u00fean fyvyy hadde vp on my\n                    c[r]ule strokes ful ryveOn feler \u00feen thre & feler \u00fean\n                    fyvey plokkyd appullys ful ryve\n",
+            "folio": "f. 98"
+        }
+    }
+}

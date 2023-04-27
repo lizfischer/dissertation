@@ -1,0 +1,26 @@
+{
+    "_id": 6699,
+    "_header": "Winter eateth / What summer getteth",
+    "Subjects": "food; proverbs; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A proverbial saying about famine after winter, translating \u2018Brume tempestas vorat hec que procreat estas\u2019 \u2014 one short couplet",
+    "_witnesses": {
+        "BodRawD328": {
+            "Editions": "\nMeech,  Sanford Brown. \n             \u201cA Collection of Proverbs in Rawlinson MS D 328.\u201d \n             Modern Philology\n         38 (1940-41): 113-32: 118.\n",
+            "folio": "f. 140v"
+        },
+        "OxfBal354": {
+            "Transcription": "\nWynter etythewhat somer getith\n",
+            "Note": "\nSecond occurrence in MS.",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 203.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 128.\n\n",
+            "folio": "p. 42012"
+        },
+        "RylandsLat394": {
+            "Transcription": "\nWyntur alle etus\u00feat sommer be getus\n",
+            "Note": "\nWritten as one line.",
+            "Editions": "\n\nPantin,  William A. \n             \u201cA Medieval Collection of Latin and English Proverbs\u2026from Rylands\n                Latin MS. 394.\u201d \n             Bulletin of the John Rylands Library\n         14 (1930): 81-114: 92.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 560.\n\n",
+            "folio": "f. 2"
+        }
+    }
+}

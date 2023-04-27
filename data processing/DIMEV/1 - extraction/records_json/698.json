@@ -1,0 +1,18 @@
+{
+    "_id": 698,
+    "_header": "At Alexander tell I you can / In Emperors time Zenon",
+    "Title(s)": "South English Legendary ; De sancta Theodora",
+    "Subjects": "Theodora, saint",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "De sancta Theodora, in one MS of the South English Legendary \u2014 in couplets",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nAt Alisaundre tel i ow conIn \u00fee Emperours tyme\n                    Zenon\u2026\n",
+            "Last Lines": "\n\u2026God graunte vs grace wel to doAnd \u021diue us heuene blisse\n                    also. AMEN\n",
+            "Attributed Title": "\nDe sancta Theodora (f. 93ra)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             Sammlung altenglischer Legenden.\n         Heilbronn: Henninger, 1878: 35-41.\n",
+            "folio": "ff. 93ra-93vc"
+        }
+    }
+}

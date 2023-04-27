@@ -1,0 +1,27 @@
+{
+    "_id": 1595,
+    "_header": "God that art of mights most",
+    "Title(s)": "Sir Gowther",
+    "Subjects": "romances; lais, Breton",
+    "Versification": "\u2014 twelve-line \u2014 aabccbddbeeb",
+    "_description": "Sir Gowther, a \u2018Breton lai\u2019 \u2014 in 12-line stanzas",
+    "_witnesses": {
+        "BLRoy17Bxliii": {
+            "First Lines": "\nGOd that art of myghtis mostffader and sone and holy\n                    gost\u2026\n",
+            "Last Lines": "\n\u2026To heuyn blys here sowles wendWith angelys bryght of\n                    ble\n",
+            "Note": "\n691 vv.",
+            "Attributed Title": "\nExplicit vita sancti (f. 131v)",
+            "Editions": "\n\nBreul,  Karl,\n                        ed.  \n             Sir Gowther: Eine Englische Romanze aus dem xv.\n                Jahrhundert\u2026.\n         Oppeln: E. Franck, 1886. \nUtterson,  Edward Vernon. \n             Select Pieces of Early English Popular Poetry.\n         London: Davison, 1817: 1.157.\n\n",
+            "folio": "ff. 116-131v"
+        },
+        "NLS1931": {
+            "First Lines": "\n\u2026[ ] \u021dht wemen nereAnd makyd horn with\n                    chyld\u2026\n",
+            "Last Lines": "\n\u2026Gyff vs my\u021dt with hym to won\u00feat lord \u00feat is\n                    most of meyn Amen\n",
+            "Note": "\n757 lines; begins imperfectly.",
+            "Attributed Title": "\nsir gwother (RT); Explicit sir go\u00feer (f. 27v)",
+            "Facsimiles": "\nHardman,  Phillipa. \n             The Heege Manuscript: A Facsimile of National Library of Scotland MS\n                Advocates 19.3.1.\n         Leeds Texts and Monographs, n.s. 16. Leeds: School of English,\n            2000. \n",
+            "Editions": "\n\nBreul,  Karl,\n                        ed.  \n             Sir Gowther: Eine Englische Romanze aus dem xv.\n                Jahrhundert\u2026.\n         Oppeln: E. Franck, 1886. \nLaskaya,  Anna,  and  Eve Salisbury, eds.  \n             The Middle English\n                    Breton Lays.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1995: 263-307.\n\n",
+            "folio": "ff. 11-27v"
+        }
+    }
+}

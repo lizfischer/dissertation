@@ -1,0 +1,29 @@
+{
+    "_id": 3353,
+    "_header": "Man have this in thy mind",
+    "Subjects": "evils of the age; marriage, advice on",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Advice on marriage \u2014 one monorhyming quatrain",
+    "_witnesses": {
+        "BodEngPoete1": {
+            "Transcription": "\nMan haue \u00feis in \u00fei mynd\u00feat \u00feou doost with thyn\n                    hond \u00feat shalt \u00feou fyndWyves be rekeles chyldren be on\n                    kyndExcetutors be covet[ ]old \u00feat \u00feei fynd\n",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             Songs and Carols from a manuscript\u2026of the Fifteenth\n                Century.\nPercy Society\n         23. London: Richards, 1847: 35.\nMasters,  James Edwin,\n                        ed.  \n             Rymes of the Minstrels.\n         Shaftesbury, Dorset: High House Press, 1927; anonymous: 17.\n\n",
+            "folio": "f. 26v"
+        },
+        "BLHar2316": {
+            "Transcription": "\nMan of \u00fee self \u00feu haf god mynde\u00feat \u00feu dost wiht \u00fei hand \u00feat schaltu findenhilder ben foryetele and wiues ben vnkynde\u00feat \u00feat comed in \u00fee seccures hendes often it is bi hynden\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nWright,  Thomas. \n             A selection of Latin stories.\nPercy Society\n         8. London: Richard, 1842: 83.\n",
+            "folio": "f. 56v"
+        },
+        "GULHun230": {
+            "Transcription": "\nMan on the molde haue this in myndethat thowe Soyth here \u00feat\n                    sall thou fyndWemen ben laches and chyldryn on kyndsecturs cum aftur\n                    and Tak qwat they fynd\n",
+            "Note": "\nAdded to end flyleaf by sixteenth-century hand; included in 2728.",
+            "folio": "f. 248v"
+        },
+        "BLAdd60577": {
+            "Note": "\nVariant text (preceded by 6369).",
+            "folio": "f. 92"
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "_id": 2594,
+    "_header": "In the beginning of this little work",
+    "Note": "For extracts see 2146, 6137; Idley\u2019s epitaph is 6838.",
+    "Author(s)": "Peter Idley",
+    "Title(s)": "Instructions",
+    "Subjects": "manners, treatises on; precepts; instruction, religious",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Peter Idley\u2019s Instructions to His Son in rhyme royal: divided into two Books, of which the Second is based on Robert of Brunne\u2019s Handlyng Synne \u2014 rhyme royal.",
+    "_witnesses": {
+        "BodLauMis416": {
+            "First Lines": "\nNow be side thise iije ar many AlegiounOf dremys full\n                    vnsure and stable\u2026\n",
+            "Last Lines": "\n\u2026God gyf vs grace our defautes to amendAnd welth and\n                    prosperite Ayen vs to send\n",
+            "Note": "\nBegins imperfectly in Bk I; Bk II begins f. 35. At the end:\n                    \u2018Explicit the x comaundementis\u2019. On f. 35: \u2018Here begynnyth a\n                    tretyce of the vij dedly synnes\u2019, followed by, \u2018Of the vij dedly\n                    synnys now will I telle / The maister of hem and gouernaunce is callid pride /\n                    \u2026And no tendir hert had vpon \u00fee poure / Wher for \u00feou art with\n                    out help or socoure\u2019.",
+            "folio": "ff. 1-35"
+        },
+        "BodDig181": {
+            "First Lines": "\nIn the begynnyng of this litle werkeI pray god my penne to\n                    lede\u2026\n",
+            "Last Lines": "\n\u2026Safe only nature \u00fee which doth me spedeTo the my Childe\n                    to \u00feis simple dede\n",
+            "Note": "\nBook I only; begins with a Latin prologue which ends with: \u2018Volens\n                    igitur ego Petrus Idyllearte filium meum Thomam bonis operibus ac moribus\n                    conformare ac de amore dei et proximi ac aliarum rerum necnon de forma vite\n                    instruere sic incipio\u2019. At the end: \u2018Explicit liber consolaconis\n                    & consilii\u2019.",
+            "folio": "ff. 10v-30v"
+        },
+        "CULEe437": {
+            "First Lines": "\nIn the begynnyng of this litell werkePray to god my penne he\n                    leede\u2026\n",
+            "Last Lines": "\n\u2026As in her errour appresyng for to wynneAs to fore god\n                    lecherie were noo synne\n",
+            "Note": "\nIncomplete at end.",
+            "Editions": "\n\nD\u2019Evelyn,  Charlotte. \n             Peter Idley\u2019s Instructions to His Son.\n         Boston: Modern Language Association of America; and London: Oxford UP,\n            1935: 81-210.\nMeissner,  F. \n             \u201cPeter Idel.\u201d \n         Diss. Greifswald, 1903: 34-50 (stanzas 1-50 only).\n\n",
+            "folio": "ff. 1-108"
+        },
+        "CamMagPep2030": {
+            "First Lines": "\n\u2026Late not thy tonge clak as a mylleMedyl not off eche mannys\n                    mater\u2026\n",
+            "Last Lines": "\n\u2026But inwerde slethe be hert and wylleAnd thou touche pyche it\n                    clevyth stylle\n",
+            "Note": "\nStanzas 1-7 wanting, not quite complete at end.",
+            "Attributed Author": "\nPers Ideley (RT; ff. 20-43)",
+            "Attributed Title": "\nThe Commandementis (RT; ff. 45-92, passim); Sinnis (RT; ff. 97-132,\n                    passim)",
+            "Editions": "\nJones III,  Harold G. \n             \u201cPeter Idley\u2019s Instructions to His Son.\u201d \n             Neuphilologische Mitteilungen\n         74 (1973): 686-9: 686 [lost leaf, now in University of\n                        Missouri].\n",
+            "folio": "ff. 19-132v"
+        },
+        "BLAru20": {
+            "First Lines": "\nThe fyrst comandment off all \u00fee laweys \u00feu xalt haue no mo\n                    godd but on\u2026\n",
+            "Last Lines": "\n\u2026\u00feat seynt gregory tellys \u00fee pope off romeOf a Iew\n                    conuertyd was to crystyndome\n",
+            "Note": "\nSome text missing: begins with Book 2.",
+            "folio": "ff. 43-70v"
+        },
+        "BLHar172": {
+            "First Lines": "\nIN the begynnyng of thys lytill werkelate vs pray to god my penne\n                    soo to lede\u2026\n",
+            "Last Lines": "\n\u2026Save only nature the whiche dothe me leedTo the myn own child\n                    for this symple deed\n",
+            "Note": "\nBk I only.",
+            "Attributed Author": "\nPeter Idle Esquire of Kent (f. 21, added by a hand of sixteenth century,\n                    possibly John Stow); quod peter Idle Esquire (f. 51v, added by a hand\n                    of sixteenth century, possibly John Stow)",
+            "Attributed Title": "\nExplicit liber consolacionis et consilii (f. 51v, by\n                    scribe)",
+            "folio": "ff. 21-51v"
+        },
+        "TCD160": {
+            "First Lines": "\nLet not thy tong clake as a mylleMedle not of yche mannes\n                    matier\u2026\n",
+            "Last Lines": "\n\u2026dayly payne woo and sorrowe and neuer RestNow men make her\n                    mettyng and sec her steuen\u2026\n",
+            "Note": "\nBegins imperfectly at st.8; ends imperfectly; some leaves\n                    missing.",
+            "folio": "Part I,  ff. 14-56v"
+        },
+        "BodEngPoetd45": {
+            "First Lines": "\nBy twee the ij partyes the body layeA mervelous sight hit was to\n                    see\u2026\n",
+            "Last Lines": "\n\u2026ffor if ye do your almes is in vayne[ ] thanke but maugre\n                    this is [ ]\n",
+            "Note": "\nBegins and ends imperfectly because of the loss of folios.",
+            "folio": "ff. 1-37v"
+        }
+    }
+}

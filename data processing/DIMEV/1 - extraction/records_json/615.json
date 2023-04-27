@@ -1,0 +1,20 @@
+{
+    "_id": 615,
+    "_header": "As I me rose in a morning",
+    "Subjects": "Virgin Mary, lullay songs of",
+    "Versification": "\u2014 four-line, two-line \u2014 aaab, aa",
+    "_description": "Song of the Virgin Mary lulling her Child \u2014 five quatrains and burden: \u2018Modyr whyt os lyly flowr / Yowr lullyng lessyth my langovr\u2019",
+    "_witnesses": {
+        "BodEngPoete1": {
+            "First Lines": "\nAs I vp ros in a mornyngMy thowth was on a mayd\n                    \u021dyng\u2026\n",
+            "Last Lines": "\n\u2026Therfor be mery and glade& make vs mery owr\n                    savowr\n",
+            "Note": "\nSix stanzas.",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             Songs and Carols from a manuscript\u2026of the Fifteenth\n                Century.\nPercy Society\n         23. London: Richards, 1847: 50-1.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 98-9; 1977, 88.\nRickert,  Edith,\n                        ed.  \n             Ancient English Christmas Carols.\n         London: Chatto & Windus, 1910: 68-9.\nSaupe,  Karen,\n                        ed.  \n             Middle English Marian\n                    Lyrics.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1998: 76-7; 201-3.\n\n",
+            "folio": "ff. 34-34v"
+        },
+        "BLSl2593": {
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             Songs and Carols.\nWarton Club\n         4. London: Richards, 1856: 48-9.\nWright,  Thomas,\n                        ed.  \n             Songs and Carols.\nWarton Club\n         4. London: Richards, 1856: 141 (composite text).\n\n",
+            "folio": "f. 16v"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "_id": 5938,
+    "_header": "Thy greyhound must be headed like a snake",
+    "Note": "Formerly 42.5; Tilley (1950)\nXTilley, Morris Palmer. A Dictionary of the Proverbs in England in the 16th and 17th Centuries. Ann Arbor, MI: University of Michigan, 1950 S 283; bad key, TP 18.5; Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 2.",
+    "Subjects": "dogs; greyhounds; hunting; utilitarian verse",
+    "Versification": "\u2014 two-line, three-line \u2014 aa, aaa",
+    "_description": "The qualities of a good greyhound \u2014 varying numbers of couplets or couplets and triplets",
+    "_witnesses": {
+        "BLEge1995": {
+            "Transcription": "\nThy greyhounde moste be heddyd lyke a snakeI neckyd lyke a\n                    drakeI brestyde lyke a lyonI fotyd lyke a noyuonI\n                    syded lyke a noyuonI fotyde lyke a catteI taylyd lyke a\n                    ratteThenne ys the grehounde welle I shapte\n",
+            "Attributed Title": "\nThe Condyscyons of A grehounde ande of hys propyrnyng propyrteys\n                    (f. 55v)",
+            "Editions": "\nMooney,  Linne R. \n             \u201cPractical Didactic Works in Middle English.\u201d \n         Diss. Toronto, 1981: 433.\n",
+            "folio": "f. 55v"
+        },
+        "TCD661": {
+            "Transcription": "\nhe shuld be heddyd lyke a snakeand nekkyd lyke a drakefootyd\n                    lyke a cattTaylled lyke a rattSydyd lyke a temeand chyned lyke a\n                    beme\n",
+            "Attributed Title": "\nThe properties of a good greyhounde (p. 64)",
+            "folio": "p. 64"
+        }
+    }
+}

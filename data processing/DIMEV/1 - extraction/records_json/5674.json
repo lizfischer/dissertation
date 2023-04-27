@@ -1,0 +1,72 @@
+{
+    "_id": 5674,
+    "_header": "This day Saint Matthew tells us",
+    "Note": "For the version in the \u2018expanded\u2019 Cycle see 4727.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Twentieth Sunday after Trinity, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nTO daye saynte mathew tellis vs\u00feat to \u00fee folk ones saide\n                    iesus\u2026\n",
+            "Last Lines": "\n\u2026Gretinge \u021damirynge & tethe gnaistingeI rede \u00feat\n                    we be warr for thi\n",
+            "Note": "\nEnds imperfectly.",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 212v-215v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nTO day seint Matheu telle\u00fe vs\u00deat to \u00fee folk spac\n                    Ihesus\u2026\n",
+            "Last Lines": "\n\u2026But fewe beo chosun to comen \u00feer toffor fewe men don as\n                    \u00feei schulde do\n",
+            "Note": "\nEnds imperfectly.",
+            "Attributed Title": "\nSimile est Regnum celorum homini Regi (f.\n                    211rc)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 211rc-212ra"
+        },
+        "CULAdd8335": {
+            "First Lines": "\n\u00deis day Seynt Matheu telles vs\u00deat til \u00fee folk spak\n                    ihesus\u2026\n",
+            "Last Lines": "\n\u2026Of \u00fei halowes \u00feat are in heuene\u00deat loues\n                    \u00fee with \u00feeire mery steuene\n",
+            "Attributed Title": "\nDominica xxa post festum trinitatis secundum Mathium (p.\n                    327)",
+            "folio": "pp. 327-334"
+        },
+        "CULDd11": {
+            "First Lines": "\nSEynt Mathew \u00feis day telli\u00fe vs\u00feat to \u00fee folk\n                    spak ihesusand seyde to hem \u00feat heuene riche\u2026\n",
+            "Last Lines": "\n\u2026of \u00fein halewis \u00feat arn in heuene\u00feat worschipe\n                    the with hire mery steuene\n",
+            "Attributed Title": "\nDominica vicesima post festum sancte trinitatis Euangelium secundum\n                        Mathium Simile est regnum celorum homini regi qui fecit nupcias &\n                        cetera (f. 200)",
+            "folio": "ff. 200-203"
+        },
+        "CULGg531": {
+            "First Lines": "\n\u00deis day seynt Matheu telles vs\u00feat tyll \u00fee folk sayd\n                    ihesusHe sayd tyl \u00feam \u00feat heue rykeYs til a werldes kyng\n                    lyke\u2026\n",
+            "Last Lines": "\n\u2026Bot foue er chosen to come \u00feare toffor foue wyll lyf als\n                    \u00feai suld do\n",
+            "Attributed Title": "\ndominica xxma secundum Matheum\u2026 (f.\n                    141v)",
+            "folio": "ff. 141v-145"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nTO day seint Matheu telles vs\u00deat to \u00fee folke spac\n                    Ihesus\u2026\n",
+            "Last Lines": "\n\u2026But few beo chosun to comen \u00feertoffor fewe men don as\n                    \u00feei schuld do\n",
+            "Attributed Title": "\nSimile est regum celorum homini regi (f. 15va)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 15va2-16rc"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nTo day saynt mathewe tellys vsIn to \u00fee folke Anes sayd\n                    Ihesus\u2026\n",
+            "Last Lines": "\n\u2026To \u00feis bridale er \u00feai caldeffor \u00feai for\n                    cristen men er talde\u2026\n",
+            "Note": "\nEnds imperfectly.",
+            "folio": "ff. 173-174v"
+        },
+        "Lam260": {
+            "folio": "f. 59va"
+        },
+        "MinULZ822": {
+            "First Lines": "\nTo day sante mathew telles vs\u00feat tyll \u00fee folke spake\n                    Ihesusand sayde tyll \u00feame \u00feat heuen ryke\u2026\n",
+            "Last Lines": "\n\u2026Oure lorde Ihesu teche vs \u00feat wayVnto \u00feat Ioy\n                    \u00feat lastes ay\n",
+            "Attributed Title": "\nDominica xxa Secundum matheum (f.\n                    172v)",
+            "folio": "ff. 172v-175v"
+        },
+        "HunHM129": {
+            "First Lines": "\nTo day seint mathew tellyth vs\u00deat to \u00fee folk spak\n                    ihesus\u2026\n",
+            "Last Lines": "\n\u2026Bot few be chossyn to cum \u00feare toffor few men lyuyth as\n                    \u00feay schold do\n",
+            "Attributed Title": "\nDominica vicesima post festum trinitatis (f.\n                    181v)",
+            "folio": "ff. 181v-184v"
+        }
+    }
+}

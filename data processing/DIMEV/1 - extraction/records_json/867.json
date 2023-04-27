@@ -1,0 +1,48 @@
+{
+    "_id": 867,
+    "_header": "Blessed lady O princess of mercy",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "Fifteen Joys of Our Lady",
+    "Subjects": "Virgin Mary, joys of",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lydgate, \u2018Fifteen Joys of Our Lady\u2019 \u2014 twenty-eight stanzas rhyme royal",
+    "_witnesses": {
+        "BodLatLitE47": {
+            "First Lines": "\nO blyssyd lady o princesse of mercyModyr callyd of grace and of\n                    pety\u2026\n",
+            "Last Lines": "\n\u2026\u00deer may be made non comparisonffor thilk ioy of ioys\n                    soueraygnest\u2026\n",
+            "Note": "\nLeaves misbound; order should be 211, 203, 212, 216, 215, 214, 213, 218,\n                    217; 25 stanzas plus 4 lines of 26th, on the fifteenth joy; ends\n                    incomplete.",
+            "folio": "ff. 211;  203;  212-216;  218;  217"
+        },
+        "CamTCC601": {
+            "First Lines": "\nO blessyd Lady o princes of mercyModyr callyd of grace and of\n                    pyteWelle of goodnes that sprang most souerenlyClere as crystall in\n                    thy virginite\u2026\n",
+            "Last Lines": "\n\u2026To loue the best in to my lyfys endeAnd ioy euerlastyng when\n                    I shall hens wende\n",
+            "Attributed Author": "\nJohn Lydgate (added by later hand, ff. 170, 172v)",
+            "Attributed Title": "\nThe xv ioyes of our lady secundum lydgate (added by later hand, f.\n                    170)",
+            "folio": "ff. 170-172v"
+        },
+        "BLCottTitAXXVI": {
+            "First Lines": "\nBlessed lady O pryncesse of mercyModer ecallyd of grace and of\n                    pyte\u2026\n",
+            "Last Lines": "\n\u2026The forto sewe vnto my lyvys endeAnd my sovle saue whanne I\n                    schale hens wende\n",
+            "Attributed Author": "\nby daun Iohn the monke of Bury (f. 157v)",
+            "Attributed Title": "\nTo my lordes and ladyes here Begynnen \u021de fyfftene Ioyes of oure lady\n                    cleped \u021de XV Ioes (f. 157v); \u021de fifftene Ioyes of oure\n                    ladye (RT)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 260-7.\n",
+            "folio": "ff. 157v-160v"
+        },
+        "LawSoc2": {
+            "folio": "f. 1"
+        },
+        "TokyoTak4": {
+            "First Lines": "\nBlessed lady princesse of mercyModir callild of grace and\n                    pyte\u2026\n",
+            "Last Lines": "\n\u2026To loue the best vnto my lyfes endeAnd Ioy euerlastynge whan\n                    I shal hens wende\n",
+            "Note": "\nThird text after Speculum (MS unfoliated; second text after table\n                    of chapters of Speculum Viate).",
+            "Attributed Title": "\nffiftene Ioyes of oure lady",
+            "folio": ""
+        },
+        "TokyoTak17": {
+            "First Lines": "\nBlessid Lady O princesse of mercyModir called of grace and of\n                    Pite\u2026\n",
+            "Last Lines": "\n\u2026To love the beste in to my lyvis endeAnd Ioye euer lasting\n                    whan y shall hense wende\n",
+            "Note": "\nBetween each stanza a scroll with refrain, \u2018Aue\n                    Maria\u2019.",
+            "folio": "ff. 2-7v"
+        }
+    }
+}

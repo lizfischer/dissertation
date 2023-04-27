@@ -1,0 +1,26 @@
+{
+    "_id": 6358,
+    "_header": "When Jesu Christ baptized was",
+    "Subjects": "carols, Epiphany",
+    "Versification": "\u2014 four-line \u2014 aaab",
+    "Macaronic": "Latin",
+    "_description": "An Epiphany carol \u2014 four quatrains (aaab) including refrain, \u2018Hic est filius meus dilectus ipsum audite,\u2019 plus burden (bb): \u2018Ihesus autem hodie / Egressus est de virgine\u2019",
+    "_witnesses": {
+        "OxfBal354": {
+            "First Lines": "\nWhen Ihesu Crist baptised was\u00dee Holy Gost dessendid by\n                    grace\u2026\n",
+            "Last Lines": "\n\u2026At owr last end we pray \u00fee say thanHic est filius\n                        meus dilectus ipsum auditeExplicit\n",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 196.\nFl\u00fcgel,  Ewald. \n             \u201cEnglische Weihnachtslieder aus einter Handschrift des Balliol College\n                zu Oxford.\u201d \n             Forschungen zur deutschen Philologie. Festgabe f\u00fcr Rudolf\n                Hildebrands.\n         Leipzig: Deit, 1894: 52-84: 55.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 4.\n\n",
+            "folio": "pp. 3753-376"
+        },
+        "BLAdd5665": {
+            "First Lines": "\nWhen jhesus criste bapty\u021ded wasThe holy gost descended with\n                    grace\u2026\n",
+            "Last Lines": "\n\u2026Atte oure last ende we pray the say thanHic est filius\n                        meus [ipsum audite]\n\n",
+            "Note": "\nMusic by John Trouluffe and Richard Smert.",
+            "Attributed Author": "\nHyt ys gode to be gracius sayde john trouluffe (f. 40v), Well\n                    Fare thyn herte sayde smerte (f. 41)",
+            "Attributed Title": "\nEpiphanie (ff. 40v, 41)",
+            "Editions": "\n\nFehr,  Bernhard. \n             \u201cDie Lieder der Hs. Add. 5665 (Ritson\u2019s Folio-MS).\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         106 (1901): 262-85: 274-5.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 90; 1977, 79-80.\nStevens,  John,\n                        ed.  \n             Mediaeval Carols.\nMusica Britannica\n         4. London: Stainer and Bell, 1952, 2nd ed. 1958: 97.\n\n",
+            "folio": "ff. 40v-41"
+        }
+    }
+}

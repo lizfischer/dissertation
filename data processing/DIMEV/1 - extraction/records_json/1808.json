@@ -1,0 +1,21 @@
+{
+    "_id": 1808,
+    "_header": "Have mercy upon me O God",
+    "Subjects": "devotional verse; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The psalm \u2018Miserere\u2019 arranged as a translation of the Asperges \u2014 in couplets with a 4-line pseudo-burden",
+    "_witnesses": {
+        "BLAdd32427": {
+            "First Lines": "\nHaue mercy uppon me o godAfter thy great mercy\u2026\n",
+            "Last Lines": "\n\u2026And according to the multitude of thy mercysDo a wey my\n                    wyckydness\n",
+            "Note": "\nBurden: \u2018Remember your promys made yn baptysm / And crystys\n                    mercyffull bloud shedyng / By the wyche most holy sprynklyng / off all your syns\n                    you haue fre pardun\u2019. Verse is followed by a \u2018glory be\u2019:\n                    \u2018Glory be to the father & to the sun & to the holy goost. As hyt\n                    was yn the begynnyng so now & euer yn the world off worlds so be\n                    hytt\u2019.",
+            "Editions": "\nFrere,  Walter Howard. \n             Antiphonale Sarisburiense: a reproduction in facsimile\u2026.\n         London: Plainsong and Mediaeval Music Society, 1901: 1.78.\n",
+            "folio": "f. 141"
+        },
+        "Salisb152": {
+            "Facsimiles": "\nKingdon,  H. T. \n             \u201cAn Early Vernacular Service.\u201d \n             Wilshire Archaeological & Natural History Magazine\n         18 (1879): 65-6: facing 66.\n",
+            "Editions": "\n\nKingdon,  H. T. \n             \u201cAn Early Vernacular Service.\u201d \n             Wilshire Archaeological & Natural History Magazine\n         18 (1879): 65-6: 65-6.\nWordsworth,  Charles,  and  Henry Littlehales.  \n             The Old Service Books of the English Church.\n         London: 1904: 51.\n\n",
+            "folio": "f. 159v"
+        }
+    }
+}

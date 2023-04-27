@@ -1,0 +1,56 @@
+{
+    "_id": 805,
+    "_header": "Behold man what pain I dree",
+    "Note": "For other versions, see 3100, 3336, 3341, 3981, 4849, 6110, 6111, 6112.",
+    "Author(s)": "Philip the Chancelor",
+    "Subjects": "Christ, appeal of, to man; crucifixion; translations",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "Christ\u2019s Appeal from the Cross to sinful man, a tag in the Fasciculus morum (Foster (1940)\nXFoster, Frances Allen. \u201cSome English Words from the Fasciculus Morum.\u201d Essays and Studies in Honor of Carleton Brown. Percy Waldron Long New York: NYU Press; London: Humphrey Milford, Oxford University Pres, 1940: 149-57, no.27) \u2014 two cross-rhymed quatrains translating the poem \u2018Homo inquit vide quid pro te pacior\u2019 of Philip the Chancelor",
+    "_witnesses": {
+        "Bod410": {
+            "First Lines": "\nBy holde mon what peyne I dryeWhich is my gref which is my\n                    wo\u2026\n",
+            "Last Lines": "\n\u2026Of all my payn haue I no doutebut lest vnkynde I fynde\n                    \u00fee\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 25v"
+        },
+        "BodLauMis213": {
+            "First Lines": "\nBy holde mon what payne I dryeWyche is my greff wych ys my\n                    wo\u2026\n",
+            "Last Lines": "\n\u2026Off all my peyn haue I no dowtebut leste vnkynde I fynde\n                    the\n",
+            "Note": "\nWritten as prose, 8 lines, ababcdcd.",
+            "folio": "f. 34v"
+        },
+        "BodRawC670": {
+            "First Lines": "\nByholde mon what I dreeWhech is my payne qwech is my\n                    woo\u2026\n",
+            "Last Lines": "\n\u2026Of all my pyne haue I no douteBut \u021dif vnkynde I fynde\n                    the\n",
+            "Editions": "\nSilverstein,  Theodore,\n                        ed.  \n             Medieval English Lyrics.\n         York Medieval Texts. London: Edw. Arnold, 1971: 77-8.\n",
+            "folio": "f. 45v"
+        },
+        "CamGon364": {
+            "First Lines": "\nBe hold man qwat I drieqwyche is my peyne qwyche is my\n                    wo\u2026\n",
+            "Last Lines": "\n\u2026of al my peyne haue I no doutebut if vnkende I fynde\n                    \u00fee\n",
+            "folio": "f. 41rb"
+        },
+        "EDU82": {
+            "First Lines": "\nBe holde man what I dryewiche is my pyne wiche is my\n                    woo\u2026\n",
+            "Last Lines": "\n\u2026Off all my pyne haue I noo dowtebut \u021dif vnkynd I fynde\n                    the\n",
+            "folio": "f. 54v"
+        },
+        "Lincoln44": {
+            "First Lines": "\nBy hold man what I dryeWuche is my woTo \u00fee y clepe now I\n                    schall deyby soth wel fer I mot go\u2026\n",
+            "Last Lines": "\n\u2026Of al my pyne haue y no \u00feouteBot \u021dif vnnkynde fynd\n                    y \u00fee\n",
+            "folio": "f. 176ra"
+        },
+        "Spalding": {
+            "First Lines": "\nBe hald man what I dryWhylk is my pyne whylk is my\n                    woo\u2026\n",
+            "Last Lines": "\n\u2026Of all my payne hafe I no doutbot if vnkynd I fynd\n                    \u00fee\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 48v"
+        },
+        "WorcF19": {
+            "First Lines": "\nLo man by hold wat I dereWyche my payn yswyche ys my\n                    wo\u2026\n",
+            "Last Lines": "\n\u2026Of alle my pyne haue y no dou\u021dtBot y vnkynde finde\n                    \u00fee\n",
+            "Note": "\nThis MS 10 lines, abcdecfgfg, written as verse.",
+            "folio": "f. 178va"
+        }
+    }
+}

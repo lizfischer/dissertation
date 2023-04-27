@@ -1,0 +1,70 @@
+{
+    "_id": 5347,
+    "_header": "The Jews woned in sere country",
+    "Note": "For the version in the \u2018expanded\u2019 Cycle see 5346.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel, \u2018Domnica infra Octavas Epiphanie\u2019, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nThe Iewis woned in sere contreAnd a contre hight\n                    Galilee\u2026\n",
+            "Last Lines": "\n\u2026ffor bi him takenynge may we takeYlle feleschipe to\n                    forsake\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 34-35v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\n\u00deE Iewes woned in heore CuntreAnd in a Cuntre \u00feat hihte\n                    Galilee\u2026\n",
+            "Last Lines": "\n\u2026ffor bi him may we ensaumple takeVuel cumpaynye to\n                    forsake\n",
+            "Attributed Title": "\nCum factus esset Ihesu cristi ascendentibus (f.\n                    175rc)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 175rc-175va"
+        },
+        "CULAdd8335": {
+            "First Lines": "\n\u00dee iewes woned in sere contreAnd o contre hight\n                    Galile\u2026\n",
+            "Last Lines": "\n\u2026By him may we ensaumple takeEuele felawschipe to\n                    forsake\n",
+            "Attributed Title": "\nDominica prima post octavan Epiphanie secundum Lucam (p.\n                    54)",
+            "folio": "pp. 54-57"
+        },
+        "CULDd11": {
+            "First Lines": "\nIEwis wonid in sere cuntreWhich was clepid\n                    Calile\u2026\n",
+            "Last Lines": "\n\u2026\u00feat may amende him of his sake& chastise him if he\n                    mystake\u2026\n",
+            "Note": "\nMissing last 37 lines.",
+            "Attributed Title": "\nCum factus esset ihesus annorum duodecim ascendentibus parentibus\n                        ierusalem et cetera (f. 63v)",
+            "folio": "ff. 63v-64v"
+        },
+        "CULGg531": {
+            "First Lines": "\n\u00fee iewes dwelled in sere contreAnd in one \u00feat hyght\n                    galile\u2026\n",
+            "Last Lines": "\n\u2026ffor by hym may we toknyng takeYll felowschep to for\n                    sake\n",
+            "Attributed Title": "\nDominica prima post epiphania secundum lucam (f.\n                    34v)",
+            "folio": "ff. 34v-35v"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nThe iwes weyndid in sere cuntreAnd a cuntre hight\n                    galilee\u2026\n",
+            "Last Lines": "\n\u2026ffor by hym may we ensample takeIll felyschip forto\n                    forsake\n",
+            "folio": "ff. 31v-33"
+        },
+        "EDCPCM": {
+            "First Lines": "\n\u00fee iowes woned in ser cuntreAnd a cuntre hit\n                    galile\u2026\n",
+            "Last Lines": "\n\u2026For bi him we mai bisen bitakIlle felawschip forto\n                    forsak\n",
+            "Attributed Title": "\nDominica infra octavam epiphanie secundum lucam (f.\n                    28rb)",
+            "Editions": "\n\nSmall,  John,\n                        ed.  \n             English Metrical Homilies\u2026.\n         Edinburgh: W. Paterson, 1862: 107-18.\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n\n",
+            "folio": "ff. 28rb-29ra"
+        },
+        "Lam260": {
+            "folio": "f. 13ra"
+        },
+        "MinULZ822": {
+            "First Lines": "\n\u00dee Iwes woned in sere contre& in a contre \u00feat hyght\n                    galalie\u2026\n",
+            "Last Lines": "\n\u2026for by hym ensampyll may we take& yll felichype here for\n                    to for sake\n",
+            "Attributed Title": "\nDominica infra octavas Epiphanie Secundum Lucam (f. 6)",
+            "folio": "ff. 6-7v"
+        },
+        "HunHM129": {
+            "First Lines": "\n\u00dee iowys wonyd in sere contreAnd a contre heght\n                    galyle\u2026\n",
+            "Last Lines": "\n\u2026ffor by hym may we ensapyll takIll felawschyp for to\n                    forsak\n",
+            "Attributed Title": "\nDominica prima post octavam epiphanie (f. 24v)",
+            "folio": "ff. 24v-25v"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "_id": 4285,
+    "_header": "One God is in heaven man of mild steven",
+    "Title(s)": "Speculum Sacerdotale",
+    "Subjects": "Thomas, saint; prayers",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The prayer of the Indian girl recited to St. Thomas of India \u2014 four couplets inserted in the Speculum Sacerdotale",
+    "_witnesses": {
+        "BodRawA362": {
+            "First Lines": "\nO god is in heueneman of mylde steuen\u2026\n",
+            "Last Lines": "\n\u2026He is kynge of alle kyngesand to hym louten alle\n                    \u00feinges\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 69-69v"
+        },
+        "BLAdd36791": {
+            "First Lines": "\nO god is in heueneman of mylde steuene\u2026\n",
+            "Last Lines": "\n\u2026He is kynge of alle kyngisAnd to hym lowte\u00fe alle\n                    \u00feinges\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\n\nWeatherly,  Edward Howell,\n                        ed.  \n             Speculum Sacerdotale.\nEETS\n         o.s. 200 (1936); repr. Kraus: New York, 1971: 252.\nRobbins,  Rossell Hope. \n             \u201cPopular Prayers in Middle English Verse.\u201d \n             Modern Philology\n         36 (1939): 337-50: 349.\n\n",
+            "folio": "ff. 142"
+        }
+    }
+}

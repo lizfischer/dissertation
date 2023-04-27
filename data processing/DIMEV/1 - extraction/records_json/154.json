@@ -1,0 +1,27 @@
+{
+    "_id": 154,
+    "_header": "A shield of red a cross of green",
+    "Title(s)": "\u2018Arms of Christ\u2019",
+    "Subjects": "Christ, \u2018arms\u2019 of; heraldry",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "San Marino, CA, Henry Huntington Library HM 26054 [olim Tollemache, Helmingham Hall], f. 3v: not in this MS.",
+    "_description": "The \u2018Arms of Christ\u2019 \u2014 three couplets",
+    "_witnesses": {
+        "Bod622": {
+            "First Lines": "\nA scheld of red a crosse of greneA croune ywriche with thornes\n                    kene\u2026\n",
+            "Last Lines": "\n\u2026Who this schild in herte wul takeA mong his enimes \u00fear\n                    he no\u021dt quake\n",
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 2.18.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 551.\n\n",
+            "folio": "f. 116"
+        },
+        "BLCottCleoDVIII": {
+            "Transcription": "\nA scheld of red a crosse of greneA crown I wrythe wi\u00fe\n                    \u00feornes keneA spere a sponge wi\u00fe nayles \u00fereA body I\n                    bounde to a treeWho so \u00feis scheld in hert wyl takeAmong hys\n                    enemyes \u00feahre he not quake\n",
+            "folio": "f. 1v3"
+        },
+        "NLS18721": {
+            "First Lines": "\nA scheld of red a cros of greneA corune of \u00feornes wonden\n                    kene\u2026\n",
+            "Last Lines": "\n\u2026Wo so \u00feis seld to him takeffor is forman \u00fear him\n                    nouth quake\n",
+            "Editions": "\nWilson,  Edward. \n             A Descriptive Index of the English Lyrics in John of Grimestone\u2019s\n                Preaching Book.\nMedium \u00c6vum Monographs\n         n.s. 2. Oxford, 1973: 38.\n",
+            "folio": "f. 120vb"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "_id": 2572,
+    "_header": "In Rome was once a rich man / That hight forsooth Euphemian",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Alexius, saint, life of; saints\u2019 lives",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Alexius, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nIn Rome was anes a riche mane\u00feat hight forsothe\n                    eufemyane\u2026\n",
+            "Last Lines": "\n\u2026And lene vs so oure liue to lede\u00feat we mai all haue\n                    heuene to mede\n",
+            "Editions": "\n\nHorstmann,  Carl. \n             Altenglische Legenden: Neue Folge.\n         Heilbronn: Henninger, 1881: 174-88.\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n\n",
+            "folio": "ff. 243-251v"
+        },
+        "CULGg531": {
+            "First Lines": "\nIn Rome was ones a ryche maneHys name was haten\n                    Eufemyan\u2026\n",
+            "Last Lines": "\n\u2026\u00deai may be seker of heuen medeOur lord vs blys and\n                    \u00feeder vs lede\n",
+            "Attributed Title": "\nNarracio (f. 158)",
+            "Editions": "\nHorstmann,  Carl. \n             Altenglische Legenden: Neue Folge.\n         Heilbronn: Henninger, 1881: 174-88.\n",
+            "folio": "ff. 158-162v"
+        },
+        "HunHM129": {
+            "First Lines": "\nIn rome wos onys aryche man\u00deat heygh Sir\n                    Ewfemyan\u2026\n",
+            "Last Lines": "\n\u2026And gyfe vs gras oure liffe to lede\u00deat we may \u00feare\n                    take oure mede\n",
+            "Attributed Title": "\nrelacio (f. 207)",
+            "folio": "ff. 207-213v"
+        }
+    }
+}

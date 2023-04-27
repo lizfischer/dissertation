@@ -1,0 +1,29 @@
+{
+    "_id": 4589,
+    "_header": "Saint Edward the good king right is to have in mind",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Edward the Confessor, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Edward the Confessor in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "Bod779": {
+            "First Lines": "\nseint edward \u00fee gode king ry\u021dt is to haue in mendebore he\n                    was in ingelond I wole telle of what kende\u2026\n",
+            "Last Lines": "\n\u2026god for \u00fee loue of seint edward vs bringe to \u00fee\n                    blis& to \u00fee hy ioy\u021de of heuene \u00feat his soule in\n                    is\n",
+            "folio": "ff. 273-279v"
+        },
+        "BodAsh43": {
+            "First Lines": "\nSEyn edward \u00fee gode kyng ri\u021dt is to habbe in mundeIbore\n                    he was in engelond Ichulle segge of wuch kunde\u2026\n",
+            "Last Lines": "\n\u2026So \u00feat non ne deude \u00feer of after him\n                    desturbinge\u00fee chirch he let halwy as [ ]childermasse dai\n",
+            "Note": "\nIncomplete: the last folios survive only as fragments.",
+            "folio": "ff. 260-269v"
+        },
+        "BLCottJulDIX": {
+            "First Lines": "\nSEint edward \u00fee gode king ri\u021dt is to haue in mendeIbore he was in englond ichol sigge of whiche kende\u2026\n",
+            "Last Lines": "\n\u2026nou god for \u00fee loue of seint edward ous bring to \u00feilke blis& to \u00fee heie Ioie of heuen as his soule Inne is\n",
+            "Note": "\n\u201cCapitulum Ci\u201d added to right margin by later hand (f. 281); ends \u201cAmen\u201d (f. 197v).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Julius MS D IX.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Julius_D_IX. \n",
+            "Editions": "\nMoore,  Grace Edna,\n                        ed.  \n             The Middle English Verse Life of Edward the Confessor.\n         Philadelphia: University of Pennsylvania, 1942: 1-40.\n",
+            "folio": "ff. 281-297v"
+        }
+    }
+}

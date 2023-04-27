@@ -1,0 +1,33 @@
+{
+    "_id": 406,
+    "_header": "All women have virtues noble and excellent",
+    "Note": "For two similar poems see 4967 and 6239. Cf. also 2670; Hughey (1935)\nXHughey, Ruth. The Harington Manuscript at Arundel Castle and related documents. n.p., 1935, 2.211; Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 123.",
+    "Author(s)": "Richard Hatfield",
+    "Subjects": "punctuation poems; women, against",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Richard Hatfeld, A \u2018punctuation\u2019 poem against women (two interpretations according to the punctuation adopted) \u2014 one stanza rhyme royal",
+    "_witnesses": {
+        "BLAdd17492": {
+            "First Lines": "\nAll women have vertues noble & excelentWho can perceyve that\n                    they do offend\u2026\n",
+            "Last Lines": "\n\u2026neuer man may fynd in them srewdnescomonly suche condycyons\n                    they have more & lese\n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald,\n                        ed.  \n             Neuenglisches Lesebuch.\n         1 Bd. Halle: Niemayer, 1895: 39.\nPadelford,  Frederick Morgan. \n             Early Sixteenth Century Lyrics.\n         Boston and London: D.C. Heath, 1907: 94.\nMuir,  Kenneth. \n             \u201cUnpublished Poems in the Devonshire MS.\u201d \n             Proc. Leeds Philosophical and Literary Society\n         6 (1944-52): 253-82: 260.\nHughey,  Ruth. \n             The Harington Manuscript at Arundel Castle and related\n                documents.\n         n.p., 1935: 2.209, 1.185.\n\n",
+            "folio": "f. 18v"
+        },
+        "CamMagPep2553": {
+            "First Lines": "\nAll wemeine Ar guid noblle And excellentQuha can say \u00feat X thay do\n                    offend\u2026\n",
+            "Last Lines": "\n\u2026Newir X man can feind in \u00feam bruikilnesSic quallateis\n                    thay vse mair & les\n",
+            "Editions": "\n\nPinkerton,  John,\n                        ed.  \n             Ancient Scottish Poems Never Before in Print.\n         2 vols. London and Edinburgh, 1786: 244.\nCraigie,  William Alexander. \n             The Maitland Folio Manuscript, Containing Poems by Sir Richard\n                Maitland, Dunbar, Douglas, Henryson, and others.\n             2 vols. \n             Scottish Text Society\n         n.s. 7 (1919), 20 (1927); Edinburgh and London: Blackwood, 1919,\n            1927: 1.433.\n\n",
+            "folio": "p. 356"
+        },
+        "ArunHar": {
+            "Note": "\nTranscript in London,  British Library Addit. 28635, f. 57v.",
+            "Editions": "\nHughey,  Ruth. \n             The Harington Manuscript at Arundel Castle and related\n                documents.\n         n.p., 1935: 2.209.\n",
+            "folio": "f. 107v"
+        },
+        "Longleat258": {
+            "First Lines": "\nAll women haue vertues noble and excellent\u2026\n",
+            "Note": "\nNot by the main scribe but rather a late fifteenth-/early\n                    sixteenth-century hand. Three stanzas all together.",
+            "folio": "f. 32"
+        }
+    }
+}

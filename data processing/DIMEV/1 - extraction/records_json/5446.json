@@ -1,0 +1,14 @@
+{
+    "_id": 5446,
+    "_header": "The psalter of mercy here ended is",
+    "Subjects": "colophons",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "A colophon to a ME prose tract \u2014 four lines",
+    "_witnesses": {
+        "DULCosVv12": {
+            "Transcription": "\nThe sawter of mercy here endyd isWhy it is so callyd marke ye a\n                    ryghtIn euery verse mercy expressyd ysDayle to sey it put to your\n                    myght\n",
+            "Note": "\nWritten entirely in rubric.",
+            "folio": "ff. 9v-10"
+        }
+    }
+}

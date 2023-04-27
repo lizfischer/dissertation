@@ -1,0 +1,61 @@
+{
+    "_id": 2065,
+    "_header": "Honoured be Thou blissful Lord on high",
+    "Author(s)": "Thomas Hoccleve",
+    "Title(s)": "P\u00e8lerinage de l\u2019\u00e2me; \u2018Cantus peregrinorum\u2019",
+    "Subjects": "songs; pilgrims/pilgrimage",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Thomas Hoccleve, \u2018Cantus peregrinorum\u2019, in the English translation of the P\u00e8lerinage de l\u2019\u00e2me \u2014 five stanzas rhyme royal",
+    "_witnesses": {
+        "Bod770": {
+            "Transcription": "\n[H]onourid be \u00feou blisful lord an hy\u021d\u00feat of \u00fee\n                    blissid maiden were I bore\u2026\n",
+            "folio": "ff. 24ra-24va"
+        },
+        "OxfCCC237": {
+            "Transcription": "\nHonoured be \u00feu blisseful lorde an hyghThat of \u00fee blessed\n                    maydyn were I bore\u2026\n",
+            "folio": "ff. 47v-48"
+        },
+        "OxfUni181": {
+            "folio": "f. 40v"
+        },
+        "CamGon124": {
+            "First Lines": "\nhOnoured be \u00feu blisful lord on hye\u00feat of \u00fee blisful\n                    mayden were bore\u2026\n",
+            "Last Lines": "\n\u2026To the we com as fyn off oure LaboureWham wilnith eueri trew\n                    trauayloure\n",
+            "Attributed Title": "\nAnd \u00feis was the noble song \u00feat I herd hem syng (p. 38)",
+            "folio": "pp. 38-39"
+        },
+        "CULKk17": {
+            "First Lines": "\nHonoured be \u00feou blysful lord on hy\u00deat of \u00fee blisful\n                    mayde were bore\u2026\n",
+            "Last Lines": "\n\u2026To \u00fee come3 as fyn of our labourAnd so schal eny trewe\n                    traueylour\n",
+            "Attributed Title": "\nher endith \u00fee drem of \u00fee pilgrimage of \u00fee soule (f.\n                        124v)",
+            "folio": "ff. 34-34v"
+        },
+        "BLAdd34193": {
+            "First Lines": "\nHonourede be \u00feou blistefull lorde and hye\u00feou blisse de\n                    maide were ybore\u2026\n",
+            "Last Lines": "\n\u2026To \u00fee we come os ende of oure laburWhom desireth euer\n                    trwe traueloure\n\n",
+            "folio": "f. 31"
+        },
+        "BLAdd37049": {
+            "Editions": "\nDoty,  Brant Lee,\n                        ed.  \n             \u201cAn Edition of British Museum MS Additional 37049: a Religious\n                Miscellany.\u201d \n         Diss. Michigan State, 1969: 392.\n",
+            "folio": "ff. 70v-71"
+        },
+        "BLEge615": {
+            "First Lines": "\nHonowred be thu blissed lord on hyeThat of the blisful mayde were I bore\u2026\n",
+            "Last Lines": "\n\u2026To the we come as fyne of oure laboureWhom willeth eueri trewe trauayloure\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             \u201cHoccleve\u2019s Works: The Regement of Princes and fourteen minor\n                poems.\u201d \n             EETS\n         e.s. 72 (1897); repr. 1988: xxxii-xxxiii.\n",
+            "folio": "ff. 29-29v"
+        },
+        "HatCP270": {
+            "folio": "unfoliated"
+        },
+        "NYPLSpenc19": {
+            "First Lines": "\nHonored be \u00feou blisful lorde an hyThat of the blisful mayde\n                    were ybore\u2026\n",
+            "Last Lines": "\n\u2026To the we come as fyn of oure labourWhom willeth euery trewe\n                    trauaylour\n",
+            "Attributed Title": "\nCantus peregrimorum (f. 38)",
+            "folio": "ff. 38-38v"
+        },
+        "MelSLV096G94": {
+            "folio": "f. 125"
+        }
+    }
+}

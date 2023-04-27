@@ -1,0 +1,62 @@
+{
+    "_id": 2061,
+    "_header": "Honoured be Thou blissful heaven Queen",
+    "Author(s)": "Thomas Hoccleve",
+    "Title(s)": "\u2018The Angels\u2019 Song\u2019; P\u00e8lerinage de l\u2019\u00e2me",
+    "Subjects": "songs; Virgin Mary",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Thomas Hoccleve, \u2018The Angels\u2019 Song\u2019, in the English translation of the P\u00e8lerinage de l\u2019\u00e2me \u2014 two stanzas rhyme royal",
+    "_witnesses": {
+        "Bod770": {
+            "First Lines": "\nHEried be \u00feou blisful heuen queneand worschepid mot \u00feou\n                    be in euery place\u2026\n",
+            "Last Lines": "\n\u2026ffor \u00feyn estate ImperialNo praising is \u00feat may be\n                    peregal\n",
+            "Attributed Title": "\nSong of \u00fee purificacion (f. 92v)",
+            "folio": "f. 92va"
+        },
+        "OxfCCC237": {
+            "First Lines": "\nHonowred be \u00feowe blestefull heuen queen& worschipyd motte\n                    \u00feowe be in euery place\u2026\n",
+            "Last Lines": "\n\u2026ffor vn to \u00feyne asstaate ymperiallNo preysynge ys\n                    \u00feat may be peregall\n",
+            "folio": "f. 125v"
+        },
+        "OxfUni181": {
+            "folio": "f. 140"
+        },
+        "CamGon124": {
+            "First Lines": "\nhonoured be \u00feu blysful heuen quene& worschipid mot \u00feu\n                    be in eueri place\u2026\n",
+            "Last Lines": "\n\u2026for to \u00feyn estate ImperialNo preysyng is \u00feat may be\n                    paregal\n",
+            "Attributed Title": "\nthe avngeles songe (p. 232)",
+            "folio": "pp. 232-233"
+        },
+        "CULKk17": {
+            "First Lines": "\nHonourid be \u00feou blysful heuene qweneAnd worchepid mote\n                    \u00feou ben euery place\u2026\n",
+            "Last Lines": "\nffor vn to \u00fein estat ImperyalNo preysing is \u00feat may be\n                    paregal\n",
+            "Attributed Title": "\nher endith \u00fee drem of \u00fee pilgrimage of \u00fee soule (f.\n                        124v)",
+            "folio": "f. 117"
+        },
+        "BLAdd34193": {
+            "First Lines": "\nhonoured be \u00feou blistefull heuen queneand worscheped mote\n                    \u00feou be in euery place\u2026\n",
+            "Last Lines": "\n\u2026ffor vnto \u00fei estate ImperiallNo presunge is \u00feat may\n                    be eugale\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 91"
+        },
+        "BLEge615": {
+            "First Lines": "\nHOnured be thu blisful heuene queenAnd worschepid mot \u00feu be in eueri place\u2026\n",
+            "Last Lines": "\n\u2026ffor vnto thin astate imperiallTo praisyng is \u00feat may be peregall\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             \u201cHoccleve\u2019s Works: The Regement of Princes and fourteen minor\n                poems.\u201d \n             EETS\n         e.s. 72 (1897); repr. 1988: xlvii-xlviii.\n",
+            "folio": "ff. 97-97v"
+        },
+        "HatCP270": {
+            "folio": "unfoliated"
+        },
+        "NYPLSpenc19": {
+            "First Lines": "\nHonoured be \u00feu blisful heuene queneAnd worshiped mote \u00feu\n                    ben in euery place\u2026\n",
+            "Last Lines": "\nffor vnto thyn estate imperialeNo praisyng is that may be\n                    paragale\n",
+            "Attributed Title": "\nThe aungeles song (f. 124v)",
+            "folio": "f. 124v"
+        },
+        "MelSLV096G94": {
+            "Note": "\n3 additional stanzas.",
+            "folio": "f. 199v"
+        }
+    }
+}

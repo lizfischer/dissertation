@@ -1,0 +1,49 @@
+{
+    "_id": 6647,
+    "_header": "Whoso will not when he may",
+    "Note": "See Whiting (1968)\nXWhiting, Bartlett Jere. Proverbs, Sentences, and Proverbial Phrases from English Writings Mainly before 1500. Cambridge, MA: Belknap, 1968, W.275; also occurs separately: see 1912.",
+    "Subjects": "sermons, verse in; proverbs",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A proverbial tag in the Fasciculus Morum",
+    "_witnesses": {
+        "Bod187": {
+            "folio": "f. 186bv"
+        },
+        "Bod410": {
+            "folio": "f. 67"
+        },
+        "BodLauMis213": {
+            "Transcription": "\nwho so wilnoght whan he may&cetera\n",
+            "Note": "\nWritten as prose; incomplete, ending with \u2018et\n                    cetera\u2019.",
+            "folio": "f. 130v"
+        },
+        "BodLauMis568": {
+            "folio": "f. 82va"
+        },
+        "BodRawC670": {
+            "Transcription": "\nWho so woll no\u021dt when he mayHe schall no\u021dt when he\n                    [wolde]\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 205.\n",
+            "folio": "f. 114"
+        },
+        "CamGon71": {
+            "folio": "f. 71v"
+        },
+        "CamGon364": {
+            "folio": "f. 111va"
+        },
+        "CamStJohn159": {
+            "folio": "f. 149v"
+        },
+        "Lincoln44": {
+            "Transcription": "\nWo so wul no\u021dt wen he mayhe sall no\u021dt wen he\n                    wulde\n",
+            "Note": "\nFollowed by 3381 after\n                    one Latin line.",
+            "folio": "f. 209vb"
+        },
+        "WorcF19": {
+            "folio": "f. 211va"
+        },
+        "VaticanOtto": {
+            "folio": "f. 75v"
+        }
+    }
+}

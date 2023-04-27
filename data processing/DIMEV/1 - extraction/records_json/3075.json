@@ -1,0 +1,50 @@
+{
+    "_id": 3075,
+    "_header": "Lief Lord my soul Thou spare",
+    "Note": "For another version see 431.",
+    "Title(s)": "\u2018Pety Iob\u2019",
+    "Subjects": "devotional verse",
+    "Versification": "\u2014 twelve-line \u2014 ababababbcbc",
+    "Macaronic": "Latin",
+    "_description": "The nine lessons of the Dirige or \u2018Pety Iob\u2019 \u2014 fifty-seven 12-line stanzas with refrain, Parce michi domine",
+    "_witnesses": {
+        "BodDou322": {
+            "First Lines": "\nLyef lord my soule thow spareThe sothe I sey now\n                    sykerly\u2026\n",
+            "Last Lines": "\n\u2026so that I maye euer with the dwelleThorough Parce mihi\n                        domine\n\n",
+            "Attributed Title": "\nHere begynneth the nyne lessons of the Dirige whych Job made in hys\n                    tribulacioun lying on the Donghyll and ben declared more opynly to lewde mennes\n                    vnderstanding by a solempne worthy and discrete clerke Rychard Hampole and ys\n                    cleped pety Job and ys full profitable to stere synners to compunccioun (f.\n                        10ra); Here endeth the ix lessons of the dirige which Job\n                    made in his tribulacion (col)",
+            "Editions": "\n\nKail,  J.,\n                        ed.  \n             Twenty-Six Political and Other Poems\u2026from Bodleian MSS Digby 102\n                and Douce 322.\nEETS\n         o.s. 124 (1904; repr. 1973): 120-43.\nFein,  Susanna Greer. \n             Moral Love Songs and Laments.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1998. \n\n",
+            "folio": "ff. 10ra-15vb"
+        },
+        "CULFf238": {
+            "First Lines": "\nLeef lord my sowle \u00feu spare\u00fee sothe y seye now\n                    sekerle\u2026\n",
+            "Last Lines": "\n\u2026So that y may euyr with \u00fee dwelleThorow parce michi\n                        domine Amen\n\n",
+            "Attributed Title": "\nHere\u2026be gynne\u00fe \u00fee ix s lessons of dyryge whych\n                    ys clepyd pety joob (f. 6); Parce michy domine (f. 6); Here endyth Pety\n                    Joob\u2026(f. 10)",
+            "Facsimiles": "\nMcSparran,  Frances,  and  Pamela R. Robinson.  \n             \u201cIntroduction.\u201d \n             Cambridge University Library MS Ff.2.38.\n         London: Scolar Press, 1979. \n",
+            "folio": "ff. 6ra-10ra"
+        },
+        "CamMagPep1584": {
+            "First Lines": "\nA leue lord my soule \u00feu spareThe sothe I sey nowe\n                    sikule\u2026\n",
+            "Last Lines": "\n\u2026So that I may euer with \u00fee dwellThoroughe Parce mihi\n                        domine\n\n",
+            "Note": "\nIn eleven-line stanzas, ababababbab.",
+            "Attributed Title": "\n\u2026And begynnyth the ix lessons of dyrige that is clepid Pety\n                    Jobe (f. 47); Parce michi Domine (f. 48); The lesonis of dirige\n                    \u00feat is clepid peti Joob (f. 1, table of contents); Peti Joob (RT); Here\n                    endith Pety Joob and\u2026 (f. 62)",
+            "folio": "pp. 48-62"
+        },
+        "CamTCC601": {
+            "First Lines": "\nEf lord my soule thow spareThe soth I sey now\n                    sikerle\u2026\n",
+            "Last Lines": "\n\u2026So that I may euer with the dwellThorough Parce michi\n                        Domine\n\n",
+            "Note": "\nLatin text as headings to each stanza.",
+            "Attributed Title": "\nHere begynneth the nyne lessons of the Dirige whiche Job made in his\n                    tribulacioun lyeng on the dunghill and bien declarid more openly to lewde mennes\n                    vndirstondyng bi a solempne worthy and a discrete clerke Richard Hampole and is\n                    clepid Pety Job and is ful profitable to stiere synners to compunccioun (f. 38);\n                        Parce michi domine michil enim sunt dies mei (f. 38); Here enden the\n                    ix lessons of Dirige whyche job made in hys tribulacion (col)",
+            "folio": "ff. 38-50v"
+        },
+        "BLHar1706": {
+            "First Lines": "\nLyeff lord my soule thou spareThe soth I sey now\n                    sykerly\u2026\n",
+            "Last Lines": "\n\u2026So that I may euer with the dwelleThorough Parce miche\n                        domine\n\n",
+            "Note": "\nRubric Latin headings to each stanza.",
+            "Attributed Author": "\nRichard Hampole (see title, f. 11ra)",
+            "Attributed Title": "\nHere be gynneth the ix lessons of the diryge whych Job made in his\n                    trybulacyon lying on the donghyll and ben declared more opynly to lewde mennes\n                    vnderstandyng by a solempne worthy and dyscrete clerke Rychard Hampole and ys\n                    cleped pety iob and ys ful profytable to stere synners to conpunccion (f. 11);\n                        Parce michi domine mihil enim sunt dies mei (f. 11); Here endeth the\n                    ix lessons of dirige whiche iob made in hys tribulacion (col)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 1706.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_1706. \n",
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 2.381-9.\n",
+            "folio": "ff. 11-15v"
+        }
+    }
+}

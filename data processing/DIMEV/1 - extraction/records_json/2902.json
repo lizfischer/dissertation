@@ -1,0 +1,16 @@
+{
+    "_id": 2902,
+    "_header": "Jesu that all this world hath wrought",
+    "Subjects": "sermons, verse in; prayers, to Christ; Christ, prayers to; roundels",
+    "Versification": "\u2014 irregular \u2014 monorhyming",
+    "_description": "A prayer to Jesus for mercy occurring in a Latin homily \u2014 thirty-six lines in irregular stanzas, possibly a round",
+    "_witnesses": {
+        "OxfMert248": {
+            "First Lines": "\nIhesu \u00feat made \u00feis world ha\u00fe wro\u021dthaue merci on\n                    me\u2026\n",
+            "Last Lines": "\n\u2026haue merci on me& bring me to \u00fee\u00feat wolde\n                    ben at te\u00feat longe\u00fe to \u00feein \u00fei muchel\n                    blis\u00feat neuer more shal blinne\n",
+            "Note": "\nWritten as prose in two passages interrupted by Latin\n                    prose.",
+            "Editions": "\n\nCoxe,  Henry Octavius. \n             Catalogus codicum mss. qui in collegiis aulisque\n                oxoniensibus\u2026.\n         Oxon: e Typographeo academico, 1852: 96.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 51-2.\n\n",
+            "folio": "f. 66va-66vb"
+        }
+    }
+}

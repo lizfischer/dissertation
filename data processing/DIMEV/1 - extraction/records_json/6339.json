@@ -1,0 +1,34 @@
+{
+    "_id": 6339,
+    "_header": "When I think on doomsday full sore I me a-dread",
+    "Note": "See also 5640.",
+    "Subjects": "Doomsday; dialogues, death and man",
+    "Versification": "\u2014 four-line \u2014 aaaa",
+    "_description": "On Doomsday \u2014 eleven monorhyming quatrains",
+    "_witnesses": {
+        "BodDig86": {
+            "First Lines": "\nUuen I \u00feenke on domesdai wel sore mai me drede\u00deer shal\n                    affter his werc eueric fongen mede\u2026\n",
+            "Last Lines": "\n\u2026ffor his holie nome and for hire swete herendinge\u00deat hoe\n                    houre soule in to heuene bringe amen\n",
+            "Note": "\nOmitting stanzas 7, 12-15, but adding two stanzas between 10 and\n                    11.",
+            "Facsimiles": "\nTschann,  Judith A.,  and  Malcolm B. Parkes.  \n             \u201cIntroduction.\u201d \n             Facsimile of Oxford, Bodleian Library, MS Digby 86\nEETS\n         s.s. 16 (1996). \n",
+            "Editions": "\nStengel,  Edmund. \n             Coducem Manu Scriptum Digby 86\u2026.\n         Halle: Orphanotrophei, 1871: 96-101.\n",
+            "folio": "f. 197v-198"
+        },
+        "OxfJesus29": {
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             An Old English Miscellany: A Bestiary, Kentish Sermons, Proverbs of\n                Alfred and Religious Poems of the Thirteenth Century.\nEETS\n         o.s. 49 (1872); repr. 1988: 162-85.\n",
+            "folio": "Part II, f. 182"
+        },
+        "CamTCC323": {
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 42-6.\n",
+            "folio": "f. 43"
+        },
+        "BLCottCalAIX": {
+            "First Lines": "\nH\u01bfenne ich \u00feenche of domes daiFul sore mie adrede\u2026\n",
+            "Last Lines": "\n\u2026For his holi nome and for hire herendinge\u00feat heo ure sa\u01bfle to heouen ge bringe\n",
+            "Note": "\nWritten as prose.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Caligula MS A IX.\n         http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Caligula_A_IX. \n",
+            "Editions": "\n\nMorris,  Richard,\n                        ed.  \n             An Old English Miscellany: A Bestiary, Kentish Sermons, Proverbs of\n                Alfred and Religious Poems of the Thirteenth Century.\nEETS\n         o.s. 49 (1872); repr. 1988: 162-85.\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 42-6.\nWright,  Thomas,\n                        ed.  \n             The Owl and the Nightingale.\nPercy Society\n         11. London: Richard, 1843: 67-80.\n\n",
+            "folio": "f. 246vb2-247rb"
+        }
+    }
+}

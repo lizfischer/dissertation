@@ -1,0 +1,43 @@
+{
+    "_id": 3675,
+    "_header": "Nas there never carion so loath",
+    "Subjects": "sermons, verse in; death",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "Bibliographic Ghosts": "Cambridge UK, St John\u2019s College F.22 (159)",
+    "_description": "The loathesomeness of Death, a tag in the Fasciculus morum freely rendering a quotation attributed to St. Bernard \u2014 six lines roughly rhyming aabccb",
+    "_witnesses": {
+        "BodLauMis213": {
+            "Transcription": "\nnaster euer careyn so lothas mon When he to pyt gotheand deth\n                    hat\u021d layd so loghffor when dethe draghet\u021d mon from\n                    eyere\u00fee soster wol not se \u00fee brodyrno fadyr \u00fee sone\n                    knawe\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 13"
+        },
+        "BodLauMis111": {
+            "Transcription": "\nNaster nower karoyn so loth as man wen he to pyt gothand deth\n                    hath leyd so loghFor won deth drauth man to \u00fee erthe\u00fei\n                    suster nil nouth seo \u00fee brotherne fader ye \u00fei sone ys\n                    knowe\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 66"
+        },
+        "Bod410": {
+            "First Lines": "\nNaster neuer careyn so lothos man when he to put\n                    goth\u2026\n",
+            "Last Lines": "\n\u2026\u00fee suster nyl not se \u00fee brotherne fader \u00fee\n                    sone knowe\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 10v"
+        },
+        "BodRawC670": {
+            "Transcription": "\nWas \u00feer neuer caren so lotheAs mon when he to put gothAnd\n                    deth has layde so loweFor when deth drawes mon from o\u00feur\u00fee\n                    suster nul not se \u00fee brotherNe fader \u00fee sone i knawe\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 149.\n",
+            "folio": "f. 20v"
+        },
+        "EDU82": {
+            "Transcription": "\nWaster neuer caryon so lotheas man when he to the pytte gotheand\n                    dethe hathe layde so laweffor whan dethe draws men fro otherthe syster\n                    wull not se the brotherne fader the son knawe\n",
+            "folio": "f. 21v"
+        },
+        "Lincoln44": {
+            "Transcription": "\nWas \u00fear neuer caroyne so loythas manne wene ho to pute\n                    go\u00feand de\u00fe ha\u00fe leyd so low de\u00fe for wanne draw\n                    \u00fey manne fro o\u00feersuster vl noght se \u00fei bro\u00feerne\n                    \u00fee fader \u00fee sonne \u00fei kauwe\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 163ra"
+        },
+        "WorcF19": {
+            "folio": "f. 166vb"
+        }
+    }
+}

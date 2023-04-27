@@ -1,0 +1,55 @@
+{
+    "_id": 5978,
+    "_header": "To Gods worship that dear us bought",
+    "Note": "For other MSS which lack the introductory stanza see 3207; for the 51st Psalm occurring separately see 3481.",
+    "Author(s)": "Richard Maydestone",
+    "Subjects": "psalms, penitential; scripture texts, paraphrases; paraphrases",
+    "Versification": "\u2014 eight-line \u2014 abababab",
+    "_description": "Maydestone\u2019s version of the Seven Penitential Psalms \u2014 in 8-line stanzas (abababab)",
+    "_witnesses": {
+        "BodDig18": {
+            "First Lines": "\nTO goddis worschipe \u00feat dere us bou\u021dteTo whom we owen to\n                    make oure mone\u2026\n",
+            "Last Lines": "\n\u2026In heueuen (sic) kyngdom me to ceesenGraunte us oo god &\n                    persones \u00fere\n",
+            "Note": "\nEvery stanza is introduced by Latin first lines of psalms.",
+            "Attributed Title": "\nHere bigynne\u00fe \u00fee prologe of \u00fee seuene salmys in englysche by\n                    Richard hampole heremyte (f. 38)",
+            "Editions": "\nAdler,  Guido,  and  M. Kaluza.  \n             \u201c\u00fcber die Richard Rolle de Hampole zugeschriebene Paraphrase der\n                sieben Busspsalmen.\u201d \n             Englische Studien\n         10 (1887): 215-55: 232-55 (collated with Oxford,  Bodleian Library Eng. poet. e.17 (SC 32690) and\n                            Oxford,  Bodleian Library Digby 102 (SC 1703) (3207 [2]).\n",
+            "folio": "ff. 38-64v"
+        },
+        "BodLauMis174": {
+            "First Lines": "\nTO goddis worchip \u00feat dere vs bou\u021dtTo whom we owen to\n                    make our mone\u2026\n",
+            "Last Lines": "\n\u2026In heuen kyngdom me to seysenGraunt vs oo god & persones\n                    \u00fere\n",
+            "Attributed Title": "\nHere begynyn \u00fee seuen psalmes (f. 1), Here endyn \u00fee vij spalmes\n                    (at the end)",
+            "folio": "ff. 2-24v"
+        },
+        "BodRawA389": {
+            "First Lines": "\nTo goddes worshepe \u00feat vs dere bou\u021dteTo whom we owe to\n                    make oure moon\u2026\n",
+            "Last Lines": "\n\u2026In heuen kyndome me to seesenGraunte \u00feou god and\n                    persones \u00fere\n",
+            "Editions": "\nEdden,  Valerie. \n             Richard Maidstone\u2019s Penitential Psalms.\nMiddle English Texts\n         21. Heidelberg: Universit\u00e4tsverlag/Carl Winter,\n            1990. \n",
+            "folio": "ff. 13-20v"
+        },
+        "BodEngPoete17": {
+            "First Lines": "\nTo suffre sorwe & stormes strongffor sy\u00feen Adam \u00fee\n                    lawe lete\u2026\n",
+            "Last Lines": "\n\u2026[ ]ne\u00fe to euery wi\u021dte[ ]shal seen and goostly\n                    knowen\u2026\n",
+            "Note": "\nFragments of four folios damaged and partly unreadable.",
+            "folio": "ff. 9-12v"
+        },
+        "RylandsEng51": {
+            "First Lines": "\nTo goddes worschipe \u00feat dere vs bou\u021dtTo whom we owen to\n                    make oure moneOf oure synnes \u00feat we han wrou\u021dtIn\n                    \u021dou\u00fee & elde wel many one\u2026\n",
+            "Last Lines": "\n\u2026In heuene kyngdome me to sesenGraunte oon god & persones\n                    \u00fere\n",
+            "Note": "\nA defective text.",
+            "Attributed Title": "\nExplicit comentum super 7 psalmos penitentiales in Anglicis (f.\n                        134v)",
+            "folio": "ff. 117-134v"
+        },
+        "StGeorgEII": {
+            "folio": "f. 32v"
+        },
+        "PhilUPEng1": {
+            "First Lines": "\n\u2026Whan bodiis stinkyn vndir \u00fee stonWhere \u00fee sowlis\n                    ben no wyth can telle\u2026\n",
+            "Last Lines": "\n\u2026In heuene kyngdom me to seseGraunte on god and personys\n                    thre\n",
+            "Note": "\nImperfect at beginning due to loss of folio(s) at front of\n                    volume.",
+            "Attributed Title": "\nHere endi\u00fe the Seuene Psalmis (f. 12v)",
+            "Facsimiles": "\n\nFacsimile of UPenn Ms. Codex 196\n         . \n",
+            "folio": "ff. 1-12v"
+        }
+    }
+}

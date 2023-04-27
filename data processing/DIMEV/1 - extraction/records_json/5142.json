@@ -1,0 +1,70 @@
+{
+    "_id": 5142,
+    "_header": "That I spent that I had",
+    "Subjects": "sermons, verse in; translations; inscriptions; almsgiving",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "On impediments to almsgiving: inscriptions in four rings found in a sarcophagus (4 lines), a tag in the Fasciculus Morum, with each English translation directly following its Latin equivalent",
+    "_witnesses": {
+        "Bod187": {
+            "Transcription": "\n\u00feat y spende \u00feat y haddeThat y \u021daf \u00feat y\n                    haueThat y kepte \u00feat y lostffor y wernyd y am pynyd\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 187vb"
+        },
+        "Bod410": {
+            "Transcription": "\nthat I spent \u00feat I had \u00feat I \u021def \u00feat haue\n                    \u00feat I kept is lost fro myne ffor \u00feat I wernyd now I\n                    pyne\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 68"
+        },
+        "BodLauMis213": {
+            "Transcription": "\nthat I spended I haddethat y yef I hauethat I wist is lost fro\n                    myne ffor that I werned now I pyne\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 133-133v"
+        },
+        "BodRawC670": {
+            "Transcription": "\n\u00deat y spende \u00feat y had\u00deat y \u021deue \u00feat y\n                    haue\u00deat y kepte ys lost fro myneFor [\u00feat] i warnyt now y\n                    pyne\n",
+            "Editions": "\nSilverstein,  Theodore,\n                        ed.  \n             Medieval English Lyrics.\n         York Medieval Texts. London: Edw. Arnold, 1971: 97.\n",
+            "folio": "f. 115v-116"
+        },
+        "OxfCCC218": {
+            "Transcription": "\n\u00deat y \u021dete \u00feat y had\u00deat y \u021deue \u00feat u\n                    haue\u00deat y kepte \u00feat y lost \u00deat I warnid I\n                    bye\n",
+            "folio": "f. 143"
+        },
+        "OxfMagd13": {
+            "Transcription": "\n\u00deat I spendud \u00feat I hadde\u00deat I gife \u00feat I\n                    haue\u00deat I welde I lost from myneFor \u00feat I werned now I\n                    pyne\n",
+            "Note": "\nOccurs separately, copied from Fasciculus.",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 192.\n",
+            "folio": "f. 102"
+        },
+        "CULDd1015": {
+            "folio": "f. 108"
+        },
+        "CamGon364": {
+            "Transcription": "\n\u00feat i spendyd \u00feat I hadde\u00feat I \u021daf \u00feat i\n                    haue\u00feat I wyste I les fro mynffor \u00feat I wernde now i\n                    pyne\n",
+            "folio": "f. 113va"
+        },
+        "CamStJohn159": {
+            "Transcription": "\n\u00deat I spendid \u00feat i hade\u00deat I gafe \u00feat I\n                    hafe\u00deat I kepid \u00feat is lost fro mynffor \u00feat I warnyd\n                    now I pyn\n",
+            "Note": "\nWritten as verse.",
+            "folio": "f. 152"
+        },
+        "EDU82": {
+            "Transcription": "\nThat I hete that I hauedThat I ghaue that I haueThat I kepyd\n                    that I lostThat I warnet that I by\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 191-2.\n",
+            "folio": "f. 171"
+        },
+        "Lincoln44": {
+            "Transcription": "\n\u00feat I spend \u00feat I hade\u00feat I gaue \u00feat I\n                    haue\u00feat I kept \u00feat I lostefor \u00feat I wor not\n                    no\u021dt\n",
+            "folio": "f. 210va"
+        },
+        "Spalding": {
+            "Transcription": "\nThat I spende that I hadthat I gaf that I hauethat I kept is\n                    noght myneffor that I warned nowe I pyne\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 124v"
+        },
+        "WorcF19": {
+            "Transcription": "\n\u00feat y spende y hadde\u00feat y gaf \u00feat y haue\u00feat\n                    y wist y lostso [fro?] myn\u2026\n",
+            "Note": "\nImperfect in this MS, written as prose.",
+            "folio": "f. 211rb"
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "_id": 855,
+    "_header": "Black be thy bands and thy weed also",
+    "Note": "Ringler Jr. (1988)\nXRingler Jr., William A. Bibliography and Index of English Verse Printed 1476-1558. London: Mansell, 1988, TP 253.5",
+    "Subjects": "envoys; patronage, pleas for",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Envoy attached to end of two long verse works \u2014 one or four rhyme royal stanzas",
+    "_witnesses": {
+        "BodArcSelB24": {
+            "First Lines": "\nBlak be thy bandis and thy wede alsoThou soroufull book of mater\n                    disesparit\u2026\n",
+            "Last Lines": "\n\u2026That hast within so many a soroufull clauseSuich be thyne\n                    habyte as thou hast thy cause\n",
+            "Note": "\nOne stanza only at end of Troilus and Criseyde, 5248.",
+            "Editions": "\n\nBrown,  John Thomas Toshach. \n             The Authorship of the Kingis Quair.\n         Glasgow, New York, London: Macmillan, 1896: 72.\nRoot,  Robert Kilburn. \n             The Mansucripts of Chaucer\u2019s Troilus\u2026.\nChaucer Society\n         1st ser. 98. London: Tr\u00fcbner, 1914: 43.\n\n",
+            "folio": "f. 118v"
+        },
+        "RylandsEng2": {
+            "First Lines": "\nBlake be thy bondes and thy wede alsooThou sorowfull book of matier\n                    disespeiredIn tokne of thyn inward mortal wooWhiche is so badde it may\n                    not be enpeired\u2026\n",
+            "Last Lines": "\n\u2026That him translated in Englissh of latyneTherfore now take\n                    him for a man of thyne\n",
+            "Note": "\nFour stanzas at end of Lydgate\u2019s Fall of Princes, 1904.",
+            "Attributed Title": "\nGreneacres a lenvoye vpon John Bochas (f. 184ra)",
+            "Editions": "\nBergen,  Henry,\n                        ed.  \n             Lydgate\u2019s Fall of Princes.\n             4 vols. \n             EETS\n         e.s. 121-24 (1924-27); repr. 1967: 1023.\n",
+            "folio": "f. 184ra"
+        },
+        "PULTayM2": {
+            "First Lines": "\nBlake be thy bondis and In wede alsoThow sorofull booke of mater\n                    dissespeyredIn tokene of thyne Inwarde mortall woo\u2026\n",
+            "Last Lines": "\n\u2026yit was it makid of \u00fei monkys booteThat hym translate in\n                    Englisch of latyne\n",
+            "Attributed Title": "\nGrenatus a lenvoy vpon Bochas (f. 223vb)",
+            "folio": "f. 223vb"
+        }
+    }
+}

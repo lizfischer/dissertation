@@ -1,0 +1,17 @@
+{
+    "_id": 6799,
+    "_header": "Worshipful and discrete that here present be",
+    "Note": "Same as five stanzas of the Prologue to Chaucer\u2019s Monk\u2019s Tale, prefixed to 6367.",
+    "Subjects": "prologues; Edward the Confessor, saint, life of",
+    "Versification": "\u2014 eight-line \u2014 aabbccdd, ababcdcd",
+    "_description": "\u2018Prohemium\u2019 to an extract from the Fall of Princes (1904)",
+    "_witnesses": {
+        "CamTCC599": {
+            "First Lines": "\nwOrship and dyscrete that here present beI wyll yow tell a tale two\n                    or threAnd yef ye lyst to herkyn hedyrwardI shall yow sey the lyfe of\n                    seynt Edward\u2026\n",
+            "Last Lines": "\n\u2026Now art thow sathanas that mayst nat twynOut of mysery whyche\n                    thow art in fall\n",
+            "Attributed Title": "\nhic incipit prohemyum (f. 170v; added by later hand);\n                        Explicit Prohemyom (f. 170v; the latter word added by\n                    later hand).",
+            "Facsimiles": "\n\nFletcher,  Bradford Y. \n             \u201cIntroduction.\u201d \n             Manuscript Trinity R.3.19. A Facsimile.\n         Norman, OK: Pilgrim, 1987. \n\nDigital Facsimile of Trinity College Cambridge MS R.3.19.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.19. \n\n",
+            "folio": "f. 170v"
+        }
+    }
+}

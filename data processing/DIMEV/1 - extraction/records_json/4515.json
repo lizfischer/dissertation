@@ -1,0 +1,40 @@
+{
+    "_id": 4515,
+    "_header": "Rose Mary most virtue virginal",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 1374.",
+    "Author(s)": "William Dunbar",
+    "Title(s)": "\u2018Ane ballat of our lady\u2019",
+    "Subjects": "Virgin Mary, songs in honour of",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "Macaronic": "Latin",
+    "_description": "William Dunbar, \u2018Ane ballat of our lady\u2019 \u2014 six 8-line stanzas with refrain, \u2018O mater Ihesu salve Maria\u2019",
+    "_witnesses": {
+        "BLHar1703": {
+            "First Lines": "\nRose Marye moste of vertue vyrgynallffresche flowre on whome the heavinlye dewe downe fell\u2026\n",
+            "Last Lines": "\n\u2026The fearfull sight of dyvylles deeare ladye dryve awayeRescue thye Servaunte sweete Mayde with all thye myghtOh Mater Iesu salue Maria\n",
+            "Note": "\nEight stanzas with 10 additional stanzas by William Forrest, c.\n                    1558. In penultimate line, \u201cof dyvylles\u201d in right margin with insertion marked in the line after \u201csight\u201d; ends \u201cfinis.\u201d",
+            "Editions": "\nMacCracken,  Henry Noble. \n             \u201cNew Stanzas by Dunbar.\u201d \n             \u201cModern Language Notes\u201d \n         24 (1909): 110-11: 110-11.\n",
+            "folio": "ff. 79v-88"
+        },
+        "NLS18514": {
+            "Transcription": "\n\u2026O chaist [ ] of clene virgine\u00deat closit\n                    cryst\u2026\n",
+            "Note": "\nMostly illegible, added to front flyleaf by a hand of late fifteenth to\n                    sixteenth century.",
+            "folio": "f. iv"
+        },
+        "Asloan": {
+            "First Lines": "\nRos mary most of wertewe virginaleffresche flour in quhom \u00fee\n                    hevinlie dewe dovn fell\u2026\n",
+            "Last Lines": "\n\u2026Benedicta tu in MulieribusO mater Ihesu salue\n                    maria\n",
+            "Note": "\nEquivalent to pages 621-22; nineteenth-century transcription is\n                    Edinburgh, University Library, Laing La.IV.27-28, item 5.",
+            "Attributed Title": "\nHeir followis diuers ballatis of our lady (f. 300v)",
+            "Editions": "\n\nLaing,  David. \n             The Poems of William Dunbar.\n         2 vols. Edinburgh: Laing and Forbes, 1834; Supplement, 1865: 1(Suppl.).283-4.\nSmall,  John, Ae. James George Mackay,  George Powell McNeill,   and  Walter Gregor, eds.  \n             The Poems of William Dunbar.\n             5 pts. \n             Scottish Text Society\n         2, 4, 16, 21, 29. Edinburgh, 1884-93: 272-3.\nSchipper,  Jakob. \n             The Poems of William Dunbar.\n         Vienna: Kaiserliche Akademie der Wissenschaften, 1894: 372-4.\nSchipper,  Jakob,\n                        ed.  \n             The Poems of William Dunbar.\n             4 vols. \n             Denkschriften der kaiserlichen Akademie der Wissenschaften,\n                Philosophische-Historische Klasse\n         40/2; 40/4; 41/4; 42/4. Vienna, 1892-93: 4.69-72.\nBaildon,  Henry Bellyse. \n             The Poems of William Dunbar.\n         Cambridge: University Press, 1907: 197-8.\nCraigie,  William Alexander. \n             The Asloan Manuscript.\n             2 vols. \n             Scottish Text Society\n         n.s. 14, 16. Edinburgh, London: Blackwood, 1923, 192: 2.271-2.\nMacKenzie,  William Mackay. \n             The Poems of William Dunbar.\n         Edinburgh, 1932: 175-7.\nSaupe,  Karen,\n                        ed.  \n             Middle English Marian\n                    Lyrics.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1998: 165-7; 279-81.\n\n",
+            "folio": "ff. 301-301v"
+        },
+        "EDU205": {
+            "First Lines": "\nRoys mary most of vertu virginallfrech flowr one quhome \u00fee\n                    hewynnis dew downe fell\u2026\n",
+            "Last Lines": "\n\u2026And me defend fra lucifere ma fa\u00deat I ma sing in hewyne\n                    apoun myn kneO mater Ihesu salue maria\n",
+            "Note": "\nLines 1-40 only.",
+            "Editions": "\nStevenson,  George. \n             Pieces from the Makculloch and the Gray MSS. together with The Chepman\n                and Myllar Prints.\nScottish Text Society\n         65. Edinburgh, 1918: 24-5.\n",
+            "folio": "f. 183v"
+        }
+    }
+}

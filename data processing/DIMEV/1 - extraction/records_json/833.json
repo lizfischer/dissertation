@@ -1,0 +1,40 @@
+{
+    "_id": 833,
+    "_header": "Betide the time Tiberius",
+    "Note": "For another version, see 242.",
+    "Title(s)": "The Gospel of Nicodemus",
+    "Subjects": "Christ, life of",
+    "Versification": "\u2014 twelve-line \u2014 ababababcdcd",
+    "_description": "The Gospel of Nicodemus \u2014 1752-1812 lines in stanzas of 12 short lines",
+    "_witnesses": {
+        "BLAdd32578": {
+            "First Lines": "\nIt betide \u00feat tyme \u00feat tyberyusRuled all Rome with\n                    ryalte\u2026\n",
+            "Last Lines": "\n\u2026\u00deus fell it in certayneOf ihesu more and\n                    lesse\n",
+            "Note": "\nVariant.",
+            "Attributed Title": "\nExplicit Nichodemus de Passione Christi (f.\n                    140v)",
+            "folio": "ff. 116v-140v"
+        },
+        "BlCottGalEIX": {
+            "First Lines": "\nBItid \u00fee time Tiberiusrewled Rome with realte\u00feat\n                    same tyme Theodosiuswas proued prince in Galile\u2026\n",
+            "Last Lines": "\n\u2026to won whare welth euer esGod grant vs grace amen\n",
+            "Note": "\nFollowed by capitals spelling out \u2018AMEN\u2019 on next\n                    line.",
+            "Attributed Title": "\nHic incipit euangelium nichodemi (rubric, by scribe, f.\n                        57va)",
+            "Editions": "\nHulme,  William Henry,\n                        ed.  \n             The Harrowing of Hell and Gospel of Nicodemus.\nEETS\n         e.s. 100 (1908); repr. 1976: 22-136.\n",
+            "folio": "ff. 57va-66vb"
+        },
+        "BLHar4196": {
+            "First Lines": "\nBy tyd \u00fee tyme TyberiusRewled rome with realte\u2026\n",
+            "Last Lines": "\n\u2026To won whare welth euer esGod graunt vs grace amen\n",
+            "Attributed Title": "\nHic incipit euangelium Nichodemi (rubric. f. 206ra)",
+            "Editions": "\n\nHulme,  William Henry,\n                        ed.  \n             The Harrowing of Hell and Gospel of Nicodemus.\nEETS\n         e.s. 100 (1908); repr. 1976: 22-136.\nHorstmann,  Carl. \n             \u201cEvangelium Nicodemi in Altschottischer Mundart aus Ms. Harl. 4196 fol.\n                206 (14. Jhdt.).\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         53 (1874): 389-424: 391-424.\n\n",
+            "folio": "ff. 206ra-215ra"
+        },
+        "SionArcL402E25": {
+            "First Lines": "\nBitid \u00fee tyme \u00feat TiberiusReweled rome with\n                    realte\u2026\n",
+            "Last Lines": "\n\u2026Of \u00feame \u00fee southe wille kenAnd \u00feus oure endyng\n                    esGod gaunte vs grace Amen\n",
+            "Attributed Title": "\nOf \u00fee passioun of Crist Als Wittenes Nichodeme (f. 13)",
+            "Editions": "\n\nHorstmann,  Carl. \n             \u201cNachtr\u00e4ge zu den Legenden.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         68 (1882): 52-73: 207-24.\nHulme,  William Henry,\n                        ed.  \n             The Harrowing of Hell and Gospel of Nicodemus.\nEETS\n         e.s. 100 (1908); repr. 1976: 22-136.\n\n",
+            "folio": "ff. 13-38v"
+        }
+    }
+}

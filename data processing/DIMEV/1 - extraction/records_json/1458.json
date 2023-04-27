@@ -1,0 +1,25 @@
+{
+    "_id": 1458,
+    "_header": "Friendship faileth and fully fadeth / Faithful friends few",
+    "Title(s)": "Fy on a feynt Frende",
+    "Subjects": "friends, fickleness of",
+    "Versification": "\u2014 alliterative, eight-line \u2014 ababbcbc",
+    "_description": "\u2018Fy on a feynt Frende\u2019 \u2014 nine 8-line stanzas, ababbcbc, alliterating and with a refrain, \u2018And \u00feer fy on a feynt frende\u2019",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nFrenschipe faile\u00fe & fullich fade\u00feffei\u00feful\n                    frendes fewe we fynde\u2026\n",
+            "Last Lines": "\n\u2026Do we so \u00feat crist beo payetAnd \u00feenne we hauen a\n                    syker frend\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nVarnhagen,  Hermann. \n             \u201cDie kleinere gedichte der Vernon und Simeon handschrift.\u201d \n             Anglia\n         7 (1884): 280-315: 304-6.\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 686-8.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 155-7.\n\n",
+            "folio": "ff. 408vc-409ra"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nFRenschupe faile\u00fe & fullich fade\u00fe[F]ei\u00feeful\n                    frendes fewe we fynde\u2026\n",
+            "Last Lines": "\n\u2026Dow we so \u00feat crist be payidAnd \u00feenne we hauen a\n                    syker frend\n",
+            "Note": "\nThe initial \u2018F\u2019 is supplied by the ornamental letter of the\n                    first line.",
+            "Attributed Title": "\nExplicit A song ffy on a feynt frend (f. 130va)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 130va"
+        }
+    }
+}

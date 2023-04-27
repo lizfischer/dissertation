@@ -1,0 +1,33 @@
+{
+    "_id": 5685,
+    "_header": "This ender night in Dumfermline",
+    "Author(s)": "William Dunbar",
+    "Title(s)": "\u2018The Wooing of the King quhen he wes in Dumfermeling\u2019",
+    "Subjects": "patronage, pleas for",
+    "Versification": "\u2014 seven-line \u2014 aabbcbc",
+    "_description": "William Dunbar, \u2018The Wooing of the King quhen he wes in Dumfermeling\u2019 (The Tod and the Lamb) \u2014 ten seven-line stanzas",
+    "_witnesses": {
+        "CULLl510": {
+            "First Lines": "\nThis hindir nycht in dumfermelingTo me was tauld ane wonderous\n                    thing\u2026\n",
+            "Last Lines": "\n\u2026And ay \u00fee lame cryit Ladie helpAnd \u00feat me thocht a\n                    feirlie cace\n",
+            "Note": "\nStanzas 1 and 2 only.",
+            "folio": "f. 58"
+        },
+        "CamMagPep2553": {
+            "First Lines": "\nThis hyndir nycht in dumfermlingTo me wes tauld ane wondrous\n                    thing\u2026\n",
+            "Last Lines": "\n\u2026And \u00feis Repoirt I with my penHow at Dumfermling fell the\n                    cace\n",
+            "Attributed Author": "\nQuod Dumbar (p. 337)",
+            "Editions": "\nCraigie,  William Alexander. \n             The Maitland Folio Manuscript, Containing Poems by Sir Richard\n                Maitland, Dunbar, Douglas, Henryson, and others.\n             2 vols. \n             Scottish Text Society\n         n.s. 7 (1919), 20 (1927); Edinburgh and London: Blackwood, 1919,\n            1927: 1.407-9.\n",
+            "folio": "pp. 335-337"
+        },
+        "Banna": {
+            "First Lines": "\nThis hindir nycht in dumfermelingTo me wes tawld ane windir\n                    thing\u2026\n",
+            "Last Lines": "\n\u2026And this report I with my penHow at Dumfermling\n                        thair fell the cace\n",
+            "Note": "\nFollows \u00fee wowing of the king quhen he wes in dumfermeling (f.\n                    116).",
+            "Attributed Author": "\nquod dumbar (f. 116v)",
+            "Facsimiles": "\nFox,  Denton,  and  William A. Ringler.  \n             The Bannatyne Manuscript: National Library of Scotland Advocates\u2019\n                MS. 1.1.6\n         London: Scolar Press, in Association with The National Library of\n            Scotland, 1980. \n",
+            "Editions": "\n\nRamsay,  Allan,\n                        ed.  \n             The Ever Green.\n         2 vols. Edinburgh, 1724; repr. Ramsay and Early Scottish Poets, London,\n            n.d.: 1.200-3.\nSibbald,  John. \n             Chronicle of Scottish Poetry\u2026.\n         4 vols. Edinburgh and London, 1802: 1.243-6.\nLaing,  David. \n             The Poems of William Dunbar.\n         2 vols. Edinburgh: Laing and Forbes, 1834; Supplement, 1865: 1.83-5.\nSchipper,  Jakob. \n             William Dunbar.\nSein Leben und seine Gedichte.\n         Strassburg: Tr\u00fcbner, 1884: 118-21.\nSchipper,  Jakob. \n             The Poems of William Dunbar.\n         Vienna: Kaiserliche Akademie der Wissenschaften, 1894: 35-6.\nSmall,  John, Ae. James George Mackay,  George Powell McNeill,   and  Walter Gregor, eds.  \n             The Poems of William Dunbar.\n             5 pts. \n             Scottish Text Society\n         2, 4, 16, 21, 29. Edinburgh, 1884-93: 1.36-8.\nMurdoch,  James Barclay. \n             The Bannatyne Manuscript.\n             4 vols. in 11 parts, paged continuously. \n             Hunterian Club\n         16, 32, 40, 46, 50, 55-56, 64-67 Glasgow: Anderson, 1873-1896: 2.330-3.\nKaufmann,  Johannes. \n             Trait\u00e9 de la langue\u2026Dunbar.\n         Bonn: Wever, 1873: 23.\nSchipper,  Jakob,\n                        ed.  \n             The Poems of William Dunbar.\n             4 vols. \n             Denkschriften der kaiserlichen Akademie der Wissenschaften,\n                Philosophische-Historische Klasse\n         40/2; 40/4; 41/4; 42/4. Vienna, 1892-93: 34-6.\nBaildon,  Henry Bellyse. \n             The Poems of William Dunbar.\n         Cambridge: University Press, 1907: 2-4.\nRitchie,  W. Tod,\n                        ed.  \n             The Bannatyne Manuscript.\n             4 parts in 4 vols. \n             Scottish Text Society\n         3rd ser. 5 (1928); n.s. 22 (1928); n.s. 23 (1930); n.s. 26 (1934)\n            Edinburgh and London: Blackwood, 1928-34; ed. by Ritchie et al: 2.309-11.\nMacKenzie,  William Mackay. \n             The Poems of William Dunbar.\n         Edinburgh, 1932: 51-3.\n\n",
+            "folio": "ff. 116-116v"
+        }
+    }
+}

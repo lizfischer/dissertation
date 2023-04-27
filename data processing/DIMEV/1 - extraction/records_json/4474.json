@@ -1,0 +1,25 @@
+{
+    "_id": 4474,
+    "_header": "Rex salamon summus of sapience",
+    "Subjects": "Virgin Mary, prayers to; prayers, to Virgin Mary",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "Macaronic": "Latin",
+    "_description": "An aureate prayer to the Virgin Mary \u2014 in macaronic 8-line stanzas with refrain, \u2018Sonet vox tua in auribus\u2019",
+    "_witnesses": {
+        "BodAsh59": {
+            "First Lines": "\nOR dilectus meus shewde dileccoundesired me vnder his\n                    vmbracounI \u00fee fader of \u00fee doughters affeccounVirgyne Syon no\n                    variacyoun\u2026\n",
+            "Last Lines": "\n\u2026O filia Syon laudabilis nimisIam sonet vox tua in\n                        auribus\n\n",
+            "Note": "\nNine stanzas.",
+            "Attributed Author": "\nA glorious preyer / Til oure Ladye by Lidegate (f.\n                    21v)",
+            "Attributed Title": "\nA glorious preyer / Til oure Ladye by Lidegate (f.\n                    21v)",
+            "folio": "ff. 21v-22v"
+        },
+        "BLHar2251": {
+            "First Lines": "\nREx Salamon summus of sapienceThe whiche the sterrid cercle hath\n                    set in substaunce\u2026\n",
+            "Last Lines": "\n\u2026Thus was I exalted fro stede RuynesExultet celum\n                    laudibusO filia Syon luadabilis nimisSonet vox tua in\n                    auribus\n",
+            "Note": "\nEight stanzas",
+            "Editions": "\nEdwards,  A. S. G.,  and  A. W. Jenkins.  \n             \u201cA Hymn to the Virgin: By Lydgate?\u201d \n             Medieval Studies\n         35 (1973): 60-6: 64-6.\n",
+            "folio": "ff. 17-18"
+        }
+    }
+}

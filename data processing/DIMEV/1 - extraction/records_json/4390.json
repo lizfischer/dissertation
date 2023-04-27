@@ -1,0 +1,32 @@
+{
+    "_id": 4390,
+    "_header": "Praising be to God at this beginning",
+    "Author(s)": "Stephen Scrope",
+    "Title(s)": "Epitre d\u2019Oth\u00e9a",
+    "Subjects": "prologues; dedications; Humphrey, duke of Buckingham; Fastolf, John, sir",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Dedicatory prologue to Stephen Scrope\u2019s version of Christine de Pisan\u2019s Epitre d\u2019Oth\u00e9a (addressed to Humphrey, Duke of Buckingham or to Sir John Fastolf) \u2014 in couplets (with succeeding verse introductions to each of the 100 chapters, one quatrain for chap. VI and following)",
+    "_witnesses": {
+        "CamStJohn208": {
+            "First Lines": "\nPraisyng be to god at this begynnyngIn alle my wordes and soo\n                    folowyng\u2026\n",
+            "Last Lines": "\n\u2026ffor a womman lerned AugustusTo be worshipid & taught him\n                    \u00feus\n",
+            "Note": "\nProse \u2018Glose\u2019 and \u2018Allegorie\u2019 applied to last\n                    \u2018Texte\u2019 continue to f. 60.",
+            "Attributed Title": "\nProlouge of the pistell Othea (f. 1); Othea dedicated to the Duke of\n                    Bockingham (added by later hand, f. iiv)",
+            "Editions": "\nBarratt,  Alexandra,\n                        ed.  \n             Women\u2019s Writing in Middle English.\n         London: Longman, 1992: 140-9 (excerpts).\n",
+            "folio": "ff. 1-59v"
+        },
+        "Longleat253": {
+            "Note": "\nLacks the Prologue.",
+            "Editions": "\nWarner,  Sir George Frederic,\n                        ed.  \n             The Epistle of Othea to Hector, or, The Boke of Knyghthode.\nRoxburghe Club\n         141. London: Nichols, 1904: 5-6 (and interspersed verse, passim).\n",
+            "folio": "f. 4v"
+        },
+        "PierpontM775": {
+            "First Lines": "\nOthea of prudence manyd goddesseThat settith good hertis in\n                    worthinesse\u2026\n",
+            "Last Lines": "\n\u2026ffor a woman serued AugustusTo be worshipid & tau\u021dt\n                    him thus\n",
+            "Note": "\nWith a dedication, formerly listed separately as 1371; prose ends f.\n                        274v.",
+            "Attributed Title": "\nHere begynneth th Pistill of Othea the goddesse whiche sent it to Hector\n                    whan he was xv yere of age (f. 200v)",
+            "Editions": "\nB\u00fchler,  Kurt. \n             \u201cThe Revisions and Dedications of the Epistle of Othea.\u201d \n             Anglia\n         76 (1958): 266-70: 266).\n",
+            "folio": "ff. 200v-274"
+        }
+    }
+}

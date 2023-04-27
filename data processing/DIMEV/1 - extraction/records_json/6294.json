@@ -1,0 +1,22 @@
+{
+    "_id": 6294,
+    "_header": "When eight days were all fulfilled",
+    "Note": "For another version see 4678.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel; Circumcision, feast of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel, \u2018In circumcisione domini\u2019, in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 110vb"
+        },
+        "BLHar4196": {
+            "First Lines": "\nWhen aght daies war al fulfildeOf ihesu birth right als he wilde\u2026\n",
+            "Last Lines": "\n\u2026And in oure tung \u00feat sauiowreVnto wham be euer honowre\n",
+            "Note": "\nPreceded by the Latin, \u201cPostquam impleti sunt dies octo.\u201d",
+            "Attributed Title": "\nIn circumcisione domini euangelium secundum Lucam (rubric, f. 27rb)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): I.247-250.\n",
+            "folio": "ff. 27rb-27vb"
+        }
+    }
+}

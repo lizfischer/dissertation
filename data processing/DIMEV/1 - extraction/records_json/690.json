@@ -1,0 +1,17 @@
+{
+    "_id": 690,
+    "_header": "As we find written in the creed",
+    "Title(s)": "Scottish Legendary ; Legend of the Seven Sleepers",
+    "Subjects": "legends",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Legend of the Seven Sleepers, in the Scottish Legendary \u2014 in couplets",
+    "_witnesses": {
+        "CULGg26": {
+            "First Lines": "\nas we find wrytine in \u00fee credgud cristine men mon trew of\n                    ned\u2026\n",
+            "Last Lines": "\n\u2026& now in hewine fore his gud dedgud reward has til his\n                    med\n",
+            "Attributed Title": "\nsleiparis (RT, 157v-162v)",
+            "Editions": "\n\nHorstmann,  Carl. \n             Barbours des schottischen Nationaldichters Legendensammlung.\n         Heilbronn: Henninger, 1881: 1.203-10.\nMetcalfe,  William Musham,\n                        ed.  \n             Legends of the Saints, in the Scottish dialect of the fourteenth\n                century\u2026.\n             6 pts. in 3 vols. \n             Scottish Text Society\n         13, 18, 23, 25, 35, 37. Edinburgh, London: Blackwood, 1896: 1.2.426-40.\n\n",
+            "folio": "ff. 157v-163"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "_id": 4151,
+    "_header": "Of benefice at every feast",
+    "Note": "Cf. 4161 and 5058.",
+    "Author(s)": "William Dunbar",
+    "Title(s)": "To the King",
+    "Subjects": "patronage, pleas for",
+    "Versification": "\u2014 five-line \u2014 aabab",
+    "_description": "William Dunbar, To the King \u2014 six five-line stanzas with refrain",
+    "_witnesses": {
+        "CULLl510": {
+            "First Lines": "\nOff benefice sir at every feistQuha monyest hes makis maist\n                    requeist\u2026\n",
+            "Last Lines": "\n\u2026Quha maist hes maist dois \u00feane repentAnd hes maist\n                    compte to part amang \u00feame\n",
+            "Note": "\n6 x 5, aabab, incl. refrain ending \u2018amang\n                    \u00feame\u2019.",
+            "Attributed Author": "\nQuod dumbar (f. 10v)",
+            "folio": "ff. 10-10v"
+        },
+        "CamMagPep2553": {
+            "First Lines": "\nOff Benefice schir at everie feistQuha monyast hes makis maist\n                    requeist\u2026\n",
+            "Last Lines": "\n\u2026Quha maist hes \u00fean sall maist repentWith largest compt\n                    to pairt amang \u00feame\n",
+            "Note": "\nSecond occurrence in MS.",
+            "Attributed Author": "\nQuod Dumbar (p. 322)",
+            "Editions": "\n\nCraigie,  William Alexander. \n             The Maitland Folio Manuscript, Containing Poems by Sir Richard\n                Maitland, Dunbar, Douglas, Henryson, and others.\n             2 vols. \n             Scottish Text Society\n         n.s. 7 (1919), 20 (1927); Edinburgh and London: Blackwood, 1919,\n            1927: 1.385-6.\nPinkerton,  John,\n                        ed.  \n             Ancient Scottish Poems Never Before in Print.\n         2 vols. London and Edinburgh, 1786: 1.104-5.\nSibbald,  John. \n             Chronicle of Scottish Poetry\u2026.\n         4 vols. Edinburgh and London, 1802: 1.315 (extracts).\nLaing,  David. \n             The Poems of William Dunbar.\n         2 vols. Edinburgh: Laing and Forbes, 1834; Supplement, 1865: 1.159-60.\nPaterson,  James. \n             The Works of William Dunbar.\n         Edinburgh: Stillie, 1863: 275-6.\nMacKenzie,  William Mackay. \n             The Poems of William Dunbar.\n         Edinburgh, 1932: 28.\n\n",
+            "folio": "pp. 321-322"
+        }
+    }
+}

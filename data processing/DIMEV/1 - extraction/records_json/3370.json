@@ -1,0 +1,43 @@
+{
+    "_id": 3370,
+    "_header": "Man may long lives ween / Ac oft him lie the wrench",
+    "Note": "See also 3405.",
+    "Subjects": "death, approach of; songs",
+    "Versification": "\u2014 ten-line \u2014 ababbaabbb",
+    "_description": "Admonition to prepare for Death \u2014 five 10-line stanzas",
+    "_witnesses": {
+        "BodLauMis471": {
+            "First Lines": "\nMan may longe liwes wenenac offte hym lege\u00fet se\n                    wrench\u2026\n",
+            "Last Lines": "\n\u2026awinnet him a \u00feusend \u00feine o\u00feer mo ne do\n                    \u00feu so\n",
+            "Note": "\nLines 1-2 occur also at f. 133 in the prose Sermo Dominica in\n                        Sexagesima; written as prose.",
+            "Editions": "\n\nKluge,  Friedrich. \n             Mittelenglisches Lesebuch.\n         Halle: Neimeyer, 1912. \nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 15-18.\nZupitza,  Julius. \n             \u201cZu R. Morris, An Old English Miscellany, pp. 156-159.\u201d \n             Anglia\n         1 (1878): 410-14: 411-12.\nStevick,  Robert D.,\n                        ed.  \n             One Hundred Middle English Lyrics.\n         Indianapolis: Bobbs-Merrill, 1964: 6-8 (critical text).\n\n",
+            "folio": "f. 65"
+        },
+        "OxfJesus29": {
+            "First Lines": "\nMon may longe lyues weneAc ofte him lye\u00fe \u00fee\n                    wrench\u2026\n",
+            "Last Lines": "\n\u2026Wurche\u00fe him \u00feyne euer moMon ne do \u00feu nouht\n                    swo\n",
+            "Editions": "\n\nMorris,  Richard,\n                        ed.  \n             An Old English Miscellany: A Bestiary, Kentish Sermons, Proverbs of\n                Alfred and Religious Poems of the Thirteenth Century.\nEETS\n         o.s. 49 (1872); repr. 1988: 156-9.\nHall,  Joseph. \n             Selections from Early Middle English, 1130-1250.\n         2 parts. Oxford: Clarendon, 1920, 1951: 1.29.\n\n",
+            "folio": "Part II, ff. 179v-180v"
+        },
+        "BLAru57": {
+            "Transcription": "\nMan may longe his lyues weneand ofte him lye\u021de\u00fe his wrenchAse nayrweder went in to repeand nerliche make\u00fe his blench\u00feer ne is no\u00feer king ne kneue\u00feet ne ssel drinke of dea\u00fees drenchman \u00feeruore \u00fee be \u00feencher \u00feou nalle of \u00fei bench\u00fei zenne aquench\n",
+            "Note": "\nFirst stanza only. Written as prose.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Arundel 57.\n         http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Arundel_MS_57. \n",
+            "Editions": "\n\nMorris,  Richard,\n                        ed.  \n             Dan Michel: Ayenbite of Inwyt.\nEETS\n         o.s. 23 (1866); rev. P. Gradon; repr. 1965: 129-30.\nStevenson,  Joseph,\n                        ed.  \n             The Ayenbite of Inwyt.\nRoxburghe Club\n         72. London, 1855: 101.\n\n",
+            "folio": "f. 51v"
+        },
+        "BLCottCalAIX": {
+            "First Lines": "\nNon mai longe liues \u01bfeneac ofte him liue\u00f0 \u00fee wrench\u2026\n",
+            "Last Lines": "\n\u2026Wurche\u00fe him pine euer moMon ne do \u00feu no\u00fet s\u01bfo\n",
+            "Note": "\nWritten as prose.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Caligula MS A IX.\n         http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Caligula_A_IX. \n",
+            "Editions": "\n\nMorris,  Richard,\n                        ed.  \n             An Old English Miscellany: A Bestiary, Kentish Sermons, Proverbs of\n                Alfred and Religious Poems of the Thirteenth Century.\nEETS\n         o.s. 49 (1872); repr. 1988: 156-9.\nWright,  Thomas,\n                        ed.  \n             The Owl and the Nightingale.\nPercy Society\n         11. London: Richard, 1843: 63-5.\n\n",
+            "folio": "ff. 246ra-246va"
+        },
+        "MaidstA13": {
+            "Note": "\nWith music.",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 15-8.\nReese,  Gustave. \n             Music in the Middle Ages.\n         New York: Norton, 1940: 243.\nStevick,  Robert D.,\n                        ed.  \n             One Hundred Middle English Lyrics.\n         Indianapolis: Bobbs-Merrill, 1964: 6-8 (critical text).\nLuria,  Maxwell Sidney,  and  Richard L. Hoffman, eds.  \n             Middle English Lyrics.\n         New York: Norton, 1974: 153-4.\nDobson,  Eric John,  and  F. L. Harrison.  \n             Medieval English Songs.\n         New York: Cambridge UP, 1979: 122.\n\n",
+            "folio": "f. 93v"
+        }
+    }
+}

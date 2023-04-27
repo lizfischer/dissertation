@@ -1,0 +1,18 @@
+{
+    "_id": 4919,
+    "_header": "Sithen the first that were here or may be",
+    "Subjects": "historical poems; Whitby Haven, naval battle of, 1451",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "Description of the English naval victory over the French at Whitby Haven in 1451 \u2014 120 lines in 8-line stanzas",
+    "_witnesses": {
+        "TCD516": {
+            "First Lines": "\nSythen the furste \u00feat were here or may beWretyn in brute\n                    cronycle or yeste\u2026\n",
+            "Last Lines": "\n\u2026And amende \u00fee diuisioun in oure lordes partyAmen pray\n                        we we all for charite\n",
+            "Note": "\nSigned \u2018q[uo]d Benet\u2019.",
+            "Attributed Author": "\nquod Benet (f. 195v)",
+            "Attributed Title": "\nCronica (194)",
+            "Editions": "\nRobbins,  Rossell Hope. \n             \u201cVictory at Whitby, A.D. 1451.\u201d \n             Studies in Philology\n         67 (1970): 495-504: 499.\n",
+            "folio": "ff. 194v-195v"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "_id": 5282,
+    "_header": "The fool nice cackler",
+    "Note": "Cf. 184.",
+    "Author(s)": "Lawrence Breton",
+    "Subjects": "love, nature of; sermons, verse in",
+    "Versification": "\u2014 six-line \u2014 aaaaaa",
+    "_description": "Seven Hindrances to Love, in sermon, \u2018Panem de celo prestitisti eis\u2019 by Franciscan Lawrence Bretoun \u2014 six short monorhyming lines in a Latin sermon",
+    "_witnesses": {
+        "OxfMert248": {
+            "First Lines": "\nSwynes hallefendes falle\u2026\n",
+            "Last Lines": "\n\u2026Lif reuereLoue lettere\n",
+            "Note": "\n7 short lines, monorhyming.",
+            "Editions": "\nPfander,  Homer Garrison. \n             \u201cThe Popular Sermon of the Medieval Friar in England.\u201d \n         Diss. New York University, 1937: 50.\n",
+            "folio": "f. 132ra"
+        },
+        "CULIi38": {
+            "Transcription": "\n\u00dee fole nice gogeler\u00dee fole nice gagaler vel\n                    kakeler\u00dee fole nice knokker\u00dee wys a uice loker\u00dee\n                    wys a uise tonge keper\u00dee wys a uise hond holder\n",
+            "Note": "\nAlternates with Latin prose lines; and individual lines repeated ff.\n                    70-71 interspersed with Latin prose commentary.",
+            "Editions": "\nStemmler,  Theo. \n             \u201cMore English Texts from MS. Cambridge University Library\n                Ii.III.8.\u201d \n             Anglia\n         93 (1975): 1-16: 5.\n",
+            "folio": "f. 68"
+        }
+    }
+}

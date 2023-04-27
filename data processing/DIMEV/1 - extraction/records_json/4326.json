@@ -1,0 +1,26 @@
+{
+    "_id": 4326,
+    "_header": "Our marvelous God that most is of might",
+    "Note": "For other versions, see 4730 and Utley (1972)\nXUtley, Francis Lee. \u201cDialogues, Debates, and Catechisms.\u201d In A Manual of the Writings of Middle English, 1050-150 Vol. 3, fascicle 7. New Haven: Connecticut Academy of Arts and Sciences, 1972: 669-745, 829-902, 688-700, 864-5.",
+    "Title(s)": "Spiritus Guidonis; The Gast of Gy",
+    "Subjects": "dialogues, death and man",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "\u2018Spiritus Guidonis\u2019 \u2014 in quatrains",
+    "_witnesses": {
+        "CamMagPep2125": {
+            "First Lines": "\noWre merueyllous god \u00feat most ys of my\u021dtalwey he\n                    wurche\u00fe to fastne oure fey\u2026\n",
+            "Last Lines": "\n\u2026And graunte vs to lyue as \u00fey wille yseuere \u00fee while\n                    we be\u00fe lyuynge\n",
+            "Note": "\nWritten two lines of verse per line of text in M.",
+            "Attributed Title": "\nExplicit reuelacio spiritus Guydonis (f. 139)",
+            "folio": "ff. 131-139"
+        },
+        "LeedsBro501": {
+            "First Lines": "\nLOrde and god alway lovere of all mankyndeYs wont wondrys to werke\n                    al day al oure feyth to amendeA thowsend \u021dere ccc xxti and\n                    thre be \u00feat \u00fee boke makyth spellOn this half gods natyuyte to\n                    telle a wondyr thing be fell\u2026\n",
+            "Last Lines": "\n\u2026Mercyfull god graunt vs \u00feat blys all wey there in to haue\n                    duellyngDresse vs to go as thi wyl ys Euer whil we be here levyngAmen\n                    to that ioye he vs bryngWhen we make oure endyng\n",
+            "Note": "\nWritten two lines of verse per line of text in M.",
+            "Attributed Title": "\nHere begynnyth a notabyll matere and a gret myracule don be oure lord ihesu\n                    cryst and shewyd In the \u021deer of his incarnacion M ccc xxiii and in the xvi\n                    day of decembyr in the Cete of Aleste Whiche myracule ys of a certeyn man that\n                    was callyd Gy\u2026 (f. 92)",
+            "Editions": "\nLightbown,  J. A. \n             \u201cA Shorter Metrical Version of The Gast of Gy.\u201d \n             Modern Language Review\n         47 (1952): 323-9: 323-9.\n",
+            "folio": "ff. 92-99v"
+        }
+    }
+}

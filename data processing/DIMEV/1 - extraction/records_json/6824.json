@@ -1,0 +1,32 @@
+{
+    "_id": 6824,
+    "_header": "Ye holy priests remembreth in your heart",
+    "Note": "In MSS 1 and 2 this piece follows 6820 without break.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "An exortacion to Prestys",
+    "Subjects": "priesthood; envoys; mass, virtues of",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, \u2018An exortacion to Prestys\u2019 \u2014 six 8-line stanzas (ababbcbc), including envoy",
+    "_witnesses": {
+        "OxfBal354": {
+            "First Lines": "\nYe holy prestes remembryth in your hartToward masse when ye do you\n                    dresseWith love & dred first mekely doth adverteThe\n                    vertues dygnyte the noblesse\u2026\n",
+            "Last Lines": "\n\u2026Mekely compyled vnder direccounDyrecte of hart both to more\n                    & lasseOf humble will & no presumpcounTo folke desposid euery\n                    day to say there masse\n",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "folio": "pp. 330-331"
+        },
+        "CamGon174": {
+            "First Lines": "\nYe holy prystis remember in youre hertTowarde masse when \u021de do\n                    you dresse\u2026\n",
+            "Last Lines": "\n\u2026Of humble wyll & no presumpcionTo prestis dysposyd ech\n                    day to syng \u00feer masse\n",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 84-6 (Envoy only).\n",
+            "folio": "pp. 453-454"
+        },
+        "CamTCC601": {
+            "First Lines": "\nyE holy prestes remembreth in your herte Toward masse when ye do\n                    yow dresse With loue and drede furst mekely doth aduerte The dignite\n                    of vertuous noblesse\u2026\n",
+            "Last Lines": "\n\u2026lat hym nat out of youre mynde pas Repast of Aungelles in the\n                    heuynly mansyon\n",
+            "Attributed Author": "\nby John Lydgate (added by later hand, f. 205); Lydgate (added by later\n                    hand, f. 205v)",
+            "Attributed Title": "\nAn exortacion to Prestys when they shall sey theyre Masse (f. 205, by\n                    scribe)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 84-6.\n",
+            "folio": "ff. 205-205v"
+        }
+    }
+}

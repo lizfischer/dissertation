@@ -1,0 +1,29 @@
+{
+    "_id": 5270,
+    "_header": "The first day of the year",
+    "Subjects": "calendars; astrology/astronomy",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Calculating leap year by the computus \u2014 four couplets",
+    "_witnesses": {
+        "BodAsh1404": {
+            "Transcription": "\nThe first of the yereFlet \u00fee thrid hole to \u00fee nereAnd\n                    at the fer\u00fee lepe yereWhile \u00feou levest in ertheThrid eke\n                    \u00fee kennyththe Sonday what letter on rennythAnd in what\n                    yerethe solsicle without wer\n",
+            "Editions": "\nMeans,  Laurel. \n             \u201c\u2018Ffor as moche as yche man may not haue \u00fee astrolabe:\u2019\n                Popular Middle English Variations on the Computus.\u201d \n             Speculum\n         67 (1992): 595-623: 606.\n",
+            "folio": "ff. 81-81v"
+        },
+        "CamTCC1473": {
+            "folio": "ff. 38-38v"
+        },
+        "BLRoy17Di": {
+            "folio": "f. 88"
+        },
+        "Wellcome26": {
+            "Note": "\nVariant\n                    text.",
+            "folio": "ff. 61-62v"
+        },
+        "HunHM505": {
+            "Note": "\nVariant text.",
+            "Editions": "\nHanna,  Ralph,\n                        ed.  \n             \u201cThe Index of Middle English Verse and Huntington Library Collections: A\n                Checklist of Addenda.\u201d \n             Publications of the Bibliographical Society of America\n         74 (1980): 235-58: 254.\n",
+            "folio": "f. 59v"
+        }
+    }
+}

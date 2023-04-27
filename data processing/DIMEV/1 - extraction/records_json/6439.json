@@ -1,0 +1,30 @@
+{
+    "_id": 6439,
+    "_header": "When the feet coldeth",
+    "Note": "For other versions, see 2377, 6383, 6437, 6447, 6462, and see Robbins (1970)\nXRobbins, Rossell Hope. \u201cSigns of Death in Middle English.\u201d Mediaeval Studies 32 (1970): 282-98.",
+    "Subjects": "death, signs of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Signs of death \u2014 fourteen to twenty-two lines in couplets.",
+    "_witnesses": {
+        "BLHar7322": {
+            "First Lines": "\nWhanne \u00fee ffet coldet\u021dand \u00fee tunge\n                    ffoldet\u021d\u2026\n",
+            "Last Lines": "\n\u2026And of \u00feat erer was hisNou shal he hauen mys\n",
+            "Note": "\n14 lines.",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Political, Religious and Love Poems, from Lambeth MS. 306 and other\n                sources.\nEETS\n         o.s. 15 (1866); repr. 1962; rev. ed. 1903: 220-1; rev. ed. 249-50.\n",
+            "folio": "f. 7v"
+        },
+        "BLRoy7Eiv": {
+            "First Lines": "\nWan his fet coldetand the tonge foldet\u2026\n",
+            "Last Lines": "\n\u2026Quia sic hoc cognitarent for al \u00fee worl hus wynea nolden\n                    don a dedlische sene\n",
+            "Note": "\nLonger version, conflated with 2377.",
+            "Editions": "\nWenzel,  Siegfried. \n             \u201cUnrecorded Middle-English Verses.\u201d \n             Anglia\n         92 (1974): 55-78: 760.\n",
+            "folio": "f. 335"
+        },
+        "OxfOriel10": {
+            "First Lines": "\nWhanne his fete coldelthAnd pe tonge foldeth\u2026\n",
+            "Last Lines": "\n\u2026In \u00fey myrpe \u00feenke in \u00feisAnd \u00feou shalt\n                    neuer do amys\n",
+            "Editions": "\nFletcher,  Alan J. \n             \u201cA Death Lyric from the Summa predicantium, MS Oriel College 10.\u201d \n             Notes and Queries\n         n.s. 24 [222] (1977): 11-12: 11.\n",
+            "folio": "f. 126"
+        }
+    }
+}

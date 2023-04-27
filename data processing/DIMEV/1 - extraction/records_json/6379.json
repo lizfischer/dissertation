@@ -1,0 +1,24 @@
+{
+    "_id": 6379,
+    "_header": "When men beth merriest at their meal",
+    "Subjects": "mortality; transitoriness, of life",
+    "Versification": "\u2014 twelve-line \u2014 ababababbcbc",
+    "_description": "\u2018\u00deenk on \u021desterday\u2019 \u2014 fifteen l2-line stanzas (ababababbcbc) with refrain, \u2018\u00deenk on \u021desterday\u2019",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nWhon Men beo\u00fe muriest at heor Mele[W]i\u00fe mete & drink\n                    to maken hem glade\u2026\n",
+            "Last Lines": "\n\u2026Whon men beo\u00fe murgest at heor MeleI rede \u021de\n                    \u00feenke on \u021duster day\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nVarnhagen,  Hermann. \n             \u201cDie kleinere gedichte der Vernon und Simeon handschrift.\u201d \n             Anglia\n         7 (1884): 280-315: 297-301.\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 2.675-80.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 143-8.\nDavies,  Reginald Thorne. \n             Medieval English Lyrics: a critical anthology.\n         London, 1963; Evanston, IL: Northwestern UP, 1964: 117-19.\nStevick,  Robert D.,\n                        ed.  \n             One Hundred Middle English Lyrics.\n         Indianapolis: Bobbs-Merrill, 1964: 68-74.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 352-4.\nSilverstein,  Theodore,\n                        ed.  \n             Medieval English Lyrics.\n         York Medieval Texts. London: Edw. Arnold, 1971: 68-71.\n\n",
+            "folio": "ff. 408ra-408va"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nWHon men beo\u00fe muriest at heor meleWith mete & drink to\n                    maken hem glade\u2026\n",
+            "Last Lines": "\n\u2026Whon men beo\u00fe murgest at heor MeleI rede \u021de\n                    \u00feenke on \u021dusterday\n",
+            "Attributed Title": "\nExplicit A song of \u021dusterday (f. 130ra)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "Editions": "\nFurnivall,  Frederick James. \n             Early English Poems and Lives of Saints.\nTransactions of the London Philological Society\n         1858; Pt. 2, Berlin, 1862: 133-9.\n",
+            "folio": "ff. 129vb-130ra"
+        }
+    }
+}

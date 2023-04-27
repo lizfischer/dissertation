@@ -1,0 +1,69 @@
+{
+    "_id": 2766,
+    "_header": "It was upon a holiday / As Luke in our gospel gan say",
+    "Note": "For the version in the \u2018expanded\u2019 Cycle see 4683.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Seventeenth Sunday after Trinity, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nHit was vppon an holy dayAs Luc in vre gospel wol\n                    say\u2026\n",
+            "Last Lines": "\n\u2026And I wol telle \u021dou for\u00feiHou God hire heled\n                    gostly\n",
+            "Attributed Title": "\nCum Intrassett Ihesu in domum cuidam (f. 208rb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 208rb-208vb"
+        },
+        "BodAsh42": {
+            "First Lines": "\nIt was apon a halidaieAls luke in oure gospel gon\n                    saie\u2026\n",
+            "Last Lines": "\n\u2026Of \u00feis woman i will \u021dow tellAnd \u021de will lithen\n                    to my spell\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 192v-195v"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nAls Seynt Luk til vs wille sayIt was vpon an haly\n                    day\u2026\n",
+            "Last Lines": "\n\u2026And slake \u00fee bondes of oure synneAnd graunte vs \u00feat\n                    blisse \u00feat \u00feou art inne Amen\n",
+            "Attributed Title": "\nDominica xvija post festum trinitatis secundum lucam (p.\n                    306)",
+            "folio": "pp. 306-311"
+        },
+        "CULDd11": {
+            "First Lines": "\nAS seynt Luke to vs wile sayit was vp on an\n                    haliday\u2026\n",
+            "Last Lines": "\n\u2026& slake \u00fee bondis of oure synneand graunte vs\n                    \u00fee blisse \u00feat \u00feu art inne Amen\n",
+            "Attributed Title": "\nDominica xvij post festum sancte trinitatis. Euangelium secundum Lucam.\n                        Cum intraret ihesus in domum cuiusdam principis phariseorum sabbato\n                        manducare & ce. (p. 192))",
+            "folio": "ff. 192-194"
+        },
+        "CULGg531": {
+            "First Lines": "\n\u00deat man may well do chariteTo hele man on haly\n                    day\u2026\n",
+            "Last Lines": "\n\u2026Of \u00feis woman I wyll \u021dow tellAnd \u021de wyll lysten\n                    to my spell\n",
+            "Note": "\nLines 1-83 missing because ff. 121-28 missing.",
+            "folio": "f. 129"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nHIt was vppon an holy dayAs luc in vre gospel wol\n                    say\u2026\n",
+            "Last Lines": "\n\u2026And I wol telle \u021dow for \u00feiHow god hir heled\n                    gostly\n",
+            "Attributed Title": "\nCum intrasset Ihesus in domum cuiusdum (f.\n                    12vc)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 12vc-13rc"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nIt was apon a haly dayAls luke in owre gospell wyl\n                    saye\u2026\n",
+            "Last Lines": "\n\u2026Of \u00feis woman I wyll \u021dow tellAnd \u021de wyll listen\n                    to my spell\n",
+            "folio": "ff. 152-155v"
+        },
+        "Lam260": {
+            "folio": "f. 55vb"
+        },
+        "MinULZ822": {
+            "First Lines": "\nIt was apone a halydayAls Luke in oure gospell wyll\n                    say\u2026\n",
+            "Last Lines": "\n\u2026And I wyll tell \u021dow forthyHow god helyde hyre\n                    gastly\n",
+            "Attributed Title": "\nDominica xxvii post festum sancte Trinitatis Secundum Lucam (f.\n                    156)",
+            "folio": "ff. 156-158v"
+        },
+        "HunHM129": {
+            "First Lines": "\nHit wos a pon an holy dayAs Luc in oure gospell will\n                    say\u2026\n",
+            "Last Lines": "\n\u2026And I woll tell \u021dow forthiHow god hir helid\n                    gostely\n",
+            "Attributed Title": "\nDominica septima decima post festum trinitatis (f. 165)",
+            "folio": "ff. 165-1658"
+        }
+    }
+}

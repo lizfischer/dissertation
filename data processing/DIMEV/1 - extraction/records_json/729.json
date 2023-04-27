@@ -1,0 +1,32 @@
+{
+    "_id": 729,
+    "_header": "Atwix dread and trembling reverence",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "Exposition of the Pater Noster",
+    "Subjects": "Lord\u2019s Prayer, exposition of; envoys",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, Exposition of the Pater Noster \u2014 forty-two 8-line stanzas, including envoy",
+    "_witnesses": {
+        "BodLauMis683": {
+            "First Lines": "\nA twyxe dred and tremblyng reuerencea stoned I am for fer dar nat\n                    be hold\u2026\n",
+            "Last Lines": "\n\u2026that I may ffynde supportacyounBy goddes ffavour to correcte\n                    of ther grace\n",
+            "Attributed Title": "\nHEre begynneth the Pater noster (f. 81)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 60-71.\n",
+            "folio": "ff. 81-87"
+        },
+        "CamJes56": {
+            "First Lines": "\n[A]twix drede and tremblyng ReuerenceAstonyd I am for fere dar nat\n                    beholde\u2026\n",
+            "Last Lines": "\n\u2026That I may fynde supportacionBy goodly fauoure to corret of\n                    \u00feeire grace\n",
+            "Attributed Title": "\nIncipit Pater Noster (f. 47v)",
+            "Editions": "\nMahir,  Otto,\n                        ed.  \n             Eine religi\u00f6se Gedichte John Lydgates.\n         Oberviechtach: Adolf Mahir, 1910: 1-14.\n",
+            "folio": "ff. 47v-53"
+        },
+        "BLHar2255": {
+            "First Lines": "\nAtwixe dreed and tremblyng reuerenceAstonyd I am for feer dar not\n                    beholde\u2026\n",
+            "Last Lines": "\n\u2026That I may fynde SupportaciounBy goodly favour to correcte of\n                    ther grace\n",
+            "Attributed Author": "\nExplicit quod Iohn lydgate (f. 39v, in margin)",
+            "Attributed Title": "\nPater noster (f. 32v, in rubric)",
+            "folio": "ff. 32v-39v"
+        }
+    }
+}

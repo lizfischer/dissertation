@@ -1,0 +1,21 @@
+{
+    "_id": 1739,
+    "_header": "Hail Mary well Thee be",
+    "Title(s)": "Ave Maria; Speculum Sacerdotale",
+    "Subjects": "Virgin Mary, hymns to; hymns, to Virgin Mary",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Ave Maria \u2014 two couplets inserted in the Speculum Sacerdotale",
+    "_witnesses": {
+        "BodRawA362": {
+            "Transcription": "\nHeyle Marye wele \u00fee befful of grace and god wi\u00fe\n                    \u00feeeAmonge alle wymmen blyssed \u00feou beand \u00fee fruyte\n                    \u00feat come\u00fe of \u00fee\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 3"
+        },
+        "BLAdd36791": {
+            "Transcription": "\nHayle mare wele the beffull of grace god is with theAmonge alle\n                    wymen blessy thow beAnd the fruyt that cometh of the\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nWeatherly,  Edward Howell,\n                        ed.  \n             Speculum Sacerdotale.\nEETS\n         o.s. 200 (1936); repr. Kraus: New York, 1971: 40.\n",
+            "folio": "f. 23v"
+        }
+    }
+}

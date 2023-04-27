@@ -1,0 +1,311 @@
+{
+    "_id": 6295,
+    "_header": "When ended was my tale of Melibee",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Monk\u2019s Prologue; \u2018Words of the Host to the Monk\u2019; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; links; marriage; tragedy",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the Monk\u2019s Prologue of the Canterbury Tales \u2014 102 lines in rhyming couplets.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nWhan ended was this tale of Mellibeand of Prudence & hir\n                    benignite\u2026\n",
+            "Last Lines": "\n\u2026as it cometh now to my remembrauncehaue me excused of myn\n                    ignoraunce\n",
+            "Attributed Title": "\nHere endith Chauncers his tale of Mellibe / and Prudence And next sueth the\n                    Monkis prolog (f. 193v); the Monkes prolog (RT); Here endith the\n                    Monke his prolog\u2026 (f. 195)",
+            "folio": "ff. 193v-195"
+        },
+        "BodBar20": {
+            "First Lines": "\nWhen endid was \u00fee tale of MellibeAnd of prudence & of her\n                    benignite\u2026\n",
+            "Last Lines": "\n\u2026As it comyth now to my rememranceHaue me excusit of my\n                    ignorance\n",
+            "Attributed Title": "\nHere endith Mellibeus and here by gynnethe / The prolog of \u00fee monke\n                    tale (f. 232); Here endith / \u00fee tale\u2026 (f. 233v)",
+            "folio": "ff. 232-233v"
+        },
+        "Bod414": {
+            "First Lines": "\n[W]hen endid was the tale of MelibeeAnd of Prudence and hir\n                    benygnite\u2026\n",
+            "Last Lines": "\n\u2026As it cometh now vnto my remembranceHaue me excusid of myn\n                    ignoraunce\n",
+            "Note": "\nVII.1912-13 omitted.",
+            "Attributed Title": "\nHere begynne\u00fe the Prolog of the Monke (f. 161)",
+            "folio": "ff. 161-162v"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nWhan ended was \u00fee tale of MelibeAnd of prudence and hir\n                    benignite\u2026\n",
+            "Last Lines": "\n\u2026As it now cometh to my remembraunceHaue me excused of myn\n                    ignoraunce\n",
+            "Attributed Title": "\nHere endeth Chaucers tale of Melibe and Dame Prudence / And next beginneth\n                    the Prolog of the Monke (f. 206); The Monke (RT); Here endeth the Prolog of the\n                    Monke\u2026 (f. 207)",
+            "folio": "ff. 206-207"
+        },
+        "BodRawPoe141": {
+            "First Lines": "\nWHenne ended was the tale of MellybleAnd of prudence & of hur\n                    benignyte\u2026\n",
+            "Last Lines": "\n\u2026As hit cometh now to my remembranceHaueth me excused of myn\n                    ignorance\n",
+            "Attributed Title": "\nHere endeth chaucers tale of Melibee & prudence / Here bygynneth the\n                    prolog of the monkes tale (f. 114); The Monke (RT); Here endeth the\n                    prolog\u2026 (f. 116)",
+            "folio": "ff. 114-116"
+        },
+        "BodRawPoe149": {
+            "First Lines": "\nWhen endid was the tale of mellibeAnd of prudence and of hir\n                    benignite\u2026\n",
+            "Last Lines": "\n\u2026As it may come to my remembraunceI haue me\n                    exscused of myn ignorance\n",
+            "Attributed Title": "\nhere endith mellibes tale and here / begynneth the monkes prologe (f. 114);\n                    the monke (RT)",
+            "folio": "ff. 114v-115"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nWhan ended was the tale of MelibeAnd of Prudence & hire\n                    benygnyte\u2026\n",
+            "Last Lines": "\n\u2026As it now cometh vnto me remembraunceHaue me excused of myn\n                    ignoraunce\n",
+            "Attributed Title": "\nHere is ended Chaucers tale of Melibee / Chaucer de casibus Virorum\n                        illustrium (f. 154v); Explicit prohemium\u2026 (f.\n                        155v)",
+            "folio": "ff. 154v-155v"
+        },
+        "OxfCCC198": {
+            "First Lines": "\nWhan ended was \u00fee tale of MellibeAnd of Prudence and hire\n                    benignite\u2026\n",
+            "Last Lines": "\n\u2026As it come\u00fe now to my remembraunceHaue\u00fe me excused\n                    of myn ignoraunce\n",
+            "Attributed Title": "\nHere ende\u00fe Chaucers tale of Mellibe (f. 234v); Prologus\n                        Monachi (f. 234v, margin); Explicit prologus monachi\n                    (f. 236, margin)",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "ff. 234v-236"
+        },
+        "OxfNew314": {
+            "First Lines": "\nWhenne endid was \u00fee tale of MellibeAnd of Prudence & of\n                    her benignite\u2026\n",
+            "Last Lines": "\n\u2026As it comyth to my remembraunceHaue me excusid of myn\n                    ignoraunce\n",
+            "Attributed Title": "\nHere endith Chausers tale of Mellibe and Prudens / his wif and Sophie his\n                    dou\u021dtir and begynneth \u00fee / monkis prolog (f. 237); Monk (RT); Here\n                    endith \u00fee Monkis prolog\u2026 (f. 239v)",
+            "folio": "ff. 237-238v"
+        },
+        "OxfTri49": {
+            "First Lines": "\nWhan endid was the tale of Mellebeand of prudence and of hir\n                    benignite\u2026\n",
+            "Last Lines": "\n\u2026as comyth nowe in to my remembrauncehaue me excusid of myn\n                    ignoraunce\n",
+            "Note": "\nVII.1945, 1961-2 omitted; 1913-14 reversed.",
+            "Attributed Title": "\nExplicit (f. 219v); Monke (RT)",
+            "folio": "ff. 219v-221"
+        },
+        "CULDd424": {
+            "First Lines": "\nWhan ended was my tale of MelibeAnd of Prudence & hire\n                    benygnetee\u2026\n",
+            "Last Lines": "\n\u2026As it cometh vn to my remembraunceHaue me excused of myn\n                    ignoraunce\n",
+            "Attributed Title": "\nHeere is ended Chaucers tale of Melibe & bygynneth / the Prologe of the\n                    Monkes tale (f. 177); Heere endeth \u00fee prologe\u2026 (f.\n                    178v)",
+            "folio": "ff. 177-178v"
+        },
+        "CULGg427": {
+            "First Lines": "\n\u2026ffor I am perlious with knyf in hondeAl be it that I dar nat\n                    hire with stonde\u2026\n",
+            "Last Lines": "\n\u2026As it comyth to myn remembraunceHaue me excusede of myn\n                    ygnoraunce\n",
+            "Note": "\nVII.1889-1918 lost.",
+            "folio": "f. 351-351v"
+        },
+        "CULIi326": {
+            "First Lines": "\nWhenne ended was the tale of MellebeAnd of prudence and hir\n                    benignite\u2026\n",
+            "Last Lines": "\n\u2026As it nowe cometh to my RemembraunceHaue me excused of my\n                    Ignoraunce\n",
+            "Note": "\nVII.1934 omitted; spurious lines follow 1896.",
+            "Attributed Title": "\nHere endeth Chawcers tale of Mellebe / and Prudence and Sophia his dougher\n                    / here next foloweth the monkes tale (f. 202); Prologe of the monke (RT); Here\n                    endeth the prologe of the monke\u2026 (f. 203)",
+            "folio": "ff. 202-203"
+        },
+        "CULMm25": {
+            "First Lines": "\nWhen ended was \u00fee tale of mellibeAnd of prudence and of here\n                    benignite\u2026\n",
+            "Last Lines": "\n\u2026And it cometh nowe to my remembraunceHaue me excused of myne\n                    ignorance\n",
+            "Attributed Title": "\nHere begynneth \u00fee prologe of \u00fee monke (f. 67, above the written\n                    space); \u00dee prologe of \u00fee monke (RT); Explicit prologus\u2026\n                    (f. 68)",
+            "folio": "ff. 67-68"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[W]Han ended was \u00fee tale of MellibeAnd of prudence and hur\n                    benygnyte\u2026\n",
+            "Last Lines": "\n\u2026As fferre as sowneth in to honesteTo tell you a tale and ye\n                    woll here me\n",
+            "Note": "\nVII.1908, 1917-20, 1929-30, 1935-6, 1957-8, 1961-4, 1969-90\n                    omitted.",
+            "Attributed Title": "\nHere endeth \u00fee tale of Mellibe and Prudence (f. 242, with rest of\n                    recto and verso blank); The prolog of \u00fee monk (f. 243); Endeth \u00fee\n                    prolog of Monk (f. 243v, foot)",
+            "folio": "ff. 243-243v"
+        },
+        "CamTCC582": {
+            "First Lines": "\nWhan ended was the tale of MelibeAnd of Prudence and hir\n                    beningnite\u2026\n",
+            "Last Lines": "\n\u2026As it cometh now in my remembraunceHaueth me excusid of my\n                    ignoraunce\n",
+            "Attributed Title": "\nHiere endeth the tale of Melibe / And Prudence compiled be M / Chaucer And\n                    hiere beginneth a / Prolog of the Monke\u2026 (f. 98vb); A Prolog\n                    finisshed of the Monk\u2026 (f. 99va)",
+            "folio": "ff. 99ra-99va"
+        },
+        "CamTCC595": {
+            "First Lines": "\nWhanne endid was the tale of MellebeAnd of Prudence and of hir\n                    benignyte\u2026\n",
+            "Last Lines": "\n\u2026As hit cometh to my remembraunceHaue me excuced of myn\n                    ignoraunce\n",
+            "Attributed Title": "\nHere endeth Chaucers tale of Mel / lebe and Prudence his wiff and / Sophie\n                    his doughter and begynneth / the Monkes Prologe (f. 247); Here endeth the monkes\n                    prologe\u2026 (f. 248v)",
+            "folio": "ff. 247-248v"
+        },
+        "CamTCC599": {
+            "First Lines": "\n[W]Orshipfull and dyscryete that here present beI wyll yow tell a\n                    tale two or threAnd yef ye lyst to herkyn\n                    hedyrward\u2026\n",
+            "Last Lines": "\n\u2026As hit commeth to my remembrauncehaue me excusyd of myne\n                    ignoraunce\n",
+            "Note": "\nA conflation of extracts from Chaucer\u2019s Monk\u2019s Tale\n                    (copied from \n            Chaucer, Geoffrey, Canterbury Tales, [Westminster, William Caxton, 1476] ) and\n                    Lydgate\u2019s Fall of Princes (1904): see 6799 and 6367. From the Monk\u2019s Prologue, the\n                    extract includes VII.1968-90. According to Dixon (1995)\nXDixon,  Lori J. \n             \u201cThe Canterbury Tales Miscellanies: A Contextual Study of\n                Manuscripts Anthologizing Individual Canterbury Tales.\u201d \n         Diss. University of Delaware, 1995, pp. 392-6,\n                    the extracts are as follows: Monk\u2019s Tale, VII.1968-2006; Fall of\n                        Princes, I.470-966; I.967-1001; I.1380-6; I.1394-1400; I.1338-78;\n                    I.1520-33; I.3102-29; I.3788-94; I.3431-58; I.3522-35; I.3795-3801;\n                        Monk\u2019s Tale, VII.2015-2374; VII.2399-2766; Fall of\n                        Princes, I.1814-41; I.2150-70; I.3102-29; I.3816-43; I.4215-37;\n                    I.4240-2; I.4530-43; I.4544-50; I.4551-7; I.5524-30; I.5531-7; I.5538-51;\n                    I.6301-35; I.7050-70; II.778-805; II.512-623; II.1429-63; II.1863-76;\n                    II.1429-63; II.1884-95; II.2171-84; II.2192-8; II.2185-91; II.2199-2233;\n                    II.2521-7; II.2528-48; II.2934-61; II.3326-46; II.3536-56; II.3697-3731;\n                    II.3935-55; II.4222-63; II.4404-59; III.1569-1638; III.2164-70; III.2178-91;\n                    III.2199-2205; III.3683-3717; III.4019-32; III.4040-6; III.4033-9;\n                    III.4047-60.",
+            "Attributed Title": "\nHic Incipit prohemyum (f. 170v)",
+            "Facsimiles": "\n\nFletcher,  Bradford Y. \n             \u201cIntroduction.\u201d \n             Manuscript Trinity R.3.19. A Facsimile.\n         Norman, OK: Pilgrim, 1987. \n\nDigital Facsimile of Trinity College Cambridge MS R.3.19.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.19. \n\n",
+            "folio": "f. 170v"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nWHanne eendid was this tale of MellibeAnd of hir prudence and\n                    benygnyte\u2026\n",
+            "Last Lines": "\n\u2026As it now cometh in to my remembraunceHaueth me excused of\n                    myn ignoraunce\n",
+            "Attributed Title": "\nExplicit fabula ChauceR et / Incipit prohemium fabule Monachi (f.\n                    260); Monke (RT); Explicit prohemium monachi de Tragedies\u2026 (f.\n                        261v)",
+            "folio": "ff. 260-261v"
+        },
+        "BLAdd35286": {
+            "First Lines": "\nWhan ended was my tale of MelibeeAnd of prudence and hir\n                    benygnytee\u2026\n",
+            "Last Lines": "\n\u2026As it nowe cometh vn to my remembranceHaue me excused of myn\n                    ignorance\n",
+            "Attributed Title": "\nHere endeth Chaucers tale of Melibee and Prudence / Here bigynneth the\n                    prologe of the monkes tale (f. 188); the Monk (RT); Here endeth the\n                    prologe\u2026 (f. 189v)",
+            "folio": "ff. 188-189v"
+        },
+        "BLEge2726": {
+            "First Lines": "\nWhan ended was my tale of MelibeeAnd of Prudence and hir\n                    benignitee\u2026\n",
+            "Last Lines": "\n\u2026As it now comth to my remembraunceHave me excused of myn\n                    ignoraunce\n",
+            "Attributed Title": "\nHic desinit fabula de Melibee & Prudence narrata / per Chaucers\n                        & incipit prologus Monachi (f. 197); Hic desinit prologus\n                        Monachi\u2026 (f. 198v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 197v-198v"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[W]Han endid was this tale off MellibeAnd of here prudence and\n                    benignyte\u2026\n",
+            "Last Lines": "\n\u2026As It nouh cometh in to my remembraunceHaveth me excused of\n                    myn ignoraunce\n",
+            "Attributed Title": "\nHere eendith the tale off Mellibe (f. 212); Hic incipit prohemium fabule\n                        Monachi (f. 212v); Explicit prohemium\u2026 (f.\n                        213v)",
+            "folio": "ff. 212v-213v"
+        },
+        "BLHar1758": {
+            "First Lines": "\nWhan endid was this tale of\n                    Melibe\u2026\n",
+            "Last Lines": "\n\u2026As it cometh now to my remembraunceHaue me excusid of myn\n                    ignoraunce\n",
+            "Attributed Title": "\nHere endith Chaucers tale of Melibe and Prudence (f. 182; lower half of the\n                    leaf excised; verso blank); The Monke (RT); Here begynneth the Prolog of the\n                    Monkes Tale (f. 183); Here endith the Prolog\u2026 (f. 184)",
+            "folio": "ff. 183-184"
+        },
+        "BLHar7333": {
+            "First Lines": "\nWhen endid was the tale of Mellebeand of prudence and hir\n                    benignite\u2026\n",
+            "Last Lines": "\n\u2026As it Come\u00fe now to my remembraunceHave me excusid of myn\n                    ignoraunce\n",
+            "Attributed Title": "\nHere Endithe Chauncer his tale (f. 99ra; i.e., the end of the\n                    prose Melibee)",
+            "folio": "ff. 108ra-108va"
+        },
+        "BLHar7334": {
+            "First Lines": "\nWhan ended was my tale of MelibeAnd of prudence and hire\n                    benignite\u2026\n",
+            "Last Lines": "\n\u2026As it come\u00fe now to my remembrauncehaue\u00fe me escused\n                    of myn ignoraunce\n",
+            "Attributed Title": "\nHere endith Chaucer his tale of Melibe / And here bygynne\u00fe \u00fee\n                    prologe of \u00fee monkes tale (f. 226)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "ff. 226-227"
+        },
+        "BLLan851": {
+            "First Lines": "\nWhan endede was \u00fee tale of MellibeAnd of Prudence & of\n                    hire benygnite\u2026\n",
+            "Last Lines": "\n\u2026And it come\u00fe nowe to my remembranceHave me excused of\n                    myne ignoraunce\n",
+            "Attributed Title": "\nExplicit fabula Galfridi Chaucer de Mellibeo Milite / Incipit Prologus\n                        de Monacho (f. 206); \u00fee Monke (RT); Explicit Prologus\u2026\n                    (f. 207v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 206-207v"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nWhan endid was the tale of MelibeeAnd of prudence and hir\n                    benyngnite\u2026\n",
+            "Last Lines": "\n\u2026As it comyth now to my remembraunceHave me excused of myn\n                    ignoraunce\n",
+            "Attributed Title": "\nHere endith the tale of / Melibe & Prudence And / begynnyth the prolog\n                    / of the monke (f. 261, margin); Here endith the prolog\u2026 (f.\n                        262v, margin)",
+            "folio": "ff. 261-262v"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nWhanne ended was \u00fee tale of MellibeAnd of prudence & of\n                    hire benygnite\u2026\n",
+            "Last Lines": "\n\u2026As hit now come\u00fe in to my remembranceHaue\u00fe me\n                    excused of myn ignorance\n",
+            "Attributed Title": "\nHere endith the tale of Mellibe / And here begynneth the prolog of the\n                    Monkes tale (f. 215v); The Monke (RT); Here endith the prolog\u2026\n                    (f. 216v)",
+            "folio": "ff. 215v-216v"
+        },
+        "BLSl1685": {
+            "First Lines": "\nWhan endid was \u00feis tale of MelybeAnd of prudence and of hir\n                    benygnyte\u2026\n",
+            "Last Lines": "\n\u2026As it comyth now to my remembraunceHaue me excused of myne\n                    ignoraunce\n",
+            "Note": "\nMonk\u2019s Prologue follows Prioress\u2019s Tale in\n                    this MS.",
+            "Attributed Title": "\nHere begynneth \u00fee Proloog of \u00fee Monke (f. 201v); The\n                    Monke (RT); Here endeth \u00fee Proloog\u2026 (f. 203)",
+            "folio": "ff. 201v-203"
+        },
+        "BLSl1686": {
+            "First Lines": "\nWhan endid was the tale of MelibeAnd of Prudence and of\n                    [illegible]\u2026\n",
+            "Last Lines": "\n\u2026As it cometh nowe to my remembraunceHaue me excused of my\n                    ignoraunce\n",
+            "Note": "\nVII.1957-8 omitted; blank line left for 1960.",
+            "Attributed Title": "\nHere endith the tale of Melibe and Prudence / And here begynneth the Prolog\n                    of the Monkes tale (f. 267v); [A] Prolog of the Monke (RT); Here\n                    endith the Prolog of the Monkes tale (f. 269)",
+            "folio": "ff. 267v-269"
+        },
+        "NLWPen392": {
+            "First Lines": "\nWHan ended was my tale of MelibeeAnd of Prudence and hire\n                    benygnitee\u2026\n",
+            "Last Lines": "\n\u2026As it now cometh vnto my remembranceHaueth me excused of myn\n                    ignorance\n",
+            "Note": "\nThis section of the MS is likely disordered in the binding.",
+            "Attributed Title": "\nHere bigynneth the prologe of the Monkes [tear] (f. 88)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "ff. 88-89"
+        },
+        "Alnwick455": {
+            "First Lines": "\nWhen endit was the tale of MellebeAnd of prudence and hir\n                    benignite\u2026\n",
+            "Last Lines": "\n\u2026As it comyth now into remembrAunceHave me excusid of my\n                    ignorAunce\n",
+            "Attributed Title": "\nHere endith the tale of Chawcere / And here begynnyth the monk his Prologg\n                    (f. 261); Here endith the Monk his prologg\u2026 (f. 262v)",
+            "folio": "f. 261-262v"
+        },
+        "GULHun197": {
+            "Transcription": "\nWhanne ended was \u00fee tale of melobius & prudenceOure Ooste\n                    swore by goddys dere pacienceI had leuer thanne a barel of aleThat\n                    Goodlief my wife herde this tale\n",
+            "Note": "\nThese lines, adapted from Monk\u2019s Prologue, are written as a\n                    heading; Nun\u2019s Priest\u2019s Tale (142) follows in this\n                    MS, without a prologue.",
+            "folio": "f. 73ra"
+        },
+        "Lincoln110": {
+            "First Lines": "\nWhanne endith was \u00fee tale of MelibeeAnd of prudence and hir\n                    benignite\u2026\n",
+            "Last Lines": "\n\u2026As it comith to my rememburaunceHaue me excusid of myn\n                    ignoraunce\n",
+            "Attributed Title": "\nHere endith Chaunceris tale of Melibee / And bygynny\u00fe \u00fee prolog\n                    of the monkis tale fre (f. 220); The Monk (RT); Here endi\u00fe \u00fee\n                    prologe\u2026 (f. 221v)",
+            "folio": "f. 220-221v"
+        },
+        "LonPhys388": {
+            "First Lines": "\nWhan endid was the tale of MelibeAnd of prudence and hir\n                    benyngnite\u2026\n",
+            "Last Lines": "\n\u2026As it now cometh to remembraunceHave me excused of myn\n                    ignoraunce\n",
+            "Attributed Title": "\nExplicit prologus\u2026 (f. 288)",
+            "folio": "ff. 286v-288"
+        },
+        "RylandsEng113": {
+            "First Lines": "\nWhan endid was my tale of MelibeAnd of Prudence and here\n                    benygnyte\u2026\n",
+            "Last Lines": "\n\u2026As it now comyth into my remembraunceHaue me excused of myn\n                    ingoraunce\n",
+            "Attributed Title": "\nHere endith Chauncers tale of Melibe And / bygynnyth \u00fee Prologe of\n                    \u00fee monkis tale\u2026 (f. 139v); Monk (RT); Here endith the\n                    prologe\u2026 (f. 140v)",
+            "folio": "ff. 139v-140v"
+        },
+        "Petworth7": {
+            "First Lines": "\nWhan ended was my tale of MelebyAnd of Prudence and her\n                    benygnyte\u2026\n",
+            "Last Lines": "\n\u2026As it comme\u00fe nowe in my remembraunceHaue me excused of\n                    myn ignoraunce\n",
+            "Note": "\nVII.1932 omitted; spurious line follows 1933.",
+            "Attributed Title": "\nHere ende\u00fe chaucers tale of melebye / And here bygynne\u00fe \u00fee\n                    prologe of \u00fee monke (f. 246v); here bygynne\u00fe \u00fee\n                    prologe of \u00fee monke (RT); Here bygynne\u00fe [sic] \u00fee prologe\n                    of \u00fee monke\u2026 (f. 247v)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 246v-247v"
+        },
+        "Austin143": {
+            "First Lines": "\nWhan that ended was my tale of MelibeAnd of Prudence and hure\n                    benynite\u2026\n",
+            "Last Lines": "\n\u2026As it now commyth to me RememberaunceHaue me excusyd of myn\n                    Ignoraunce\n",
+            "Note": "\nChange of scribe at VII.1919; second scribe omits running titles until\n                    f. 186v.",
+            "Attributed Title": "\nHere endith Chaunceres tale of Melibe / And begynneth the prologge of the\n                    Monke (f. 175); Monke (RT); [h]Ere endyth the prologe\u2026 (f.\n                    176v)",
+            "folio": "ff. 175v-176v"
+        },
+        "ChicagoUL564": {
+            "First Lines": "\nWhenne ended was \u00fee tale of MellibeAnd of prudence and here\n                    benignete\u2026\n",
+            "Last Lines": "\n\u2026As hit cometh now to my remembraunceHaueth me excused of myn\n                    ignoraunce\n",
+            "Note": "\nVII.1978 omitted.",
+            "folio": "ff. 105v-107"
+        },
+        "PhilRos10841": {
+            "First Lines": "\nWhan eended was the tale of mellibeAnd of prudence and of hire\n                    benignite\u2026\n",
+            "Last Lines": "\n\u2026As it cometh now to my remembraunceHaue me excused of myn\n                    ignoraunce\n",
+            "Note": "\nMonk\u2019s Tale follows Prioress\u2019s Tale in this\n                    MS.",
+            "Attributed Title": "\nThe Monkys Tale (RT); Here endyth the prologe (f. 24v)",
+            "folio": "f. 23v-24v"
+        },
+        "PUL100": {
+            "First Lines": "\nWhen endit was the tale of MellebeAnd of Prudence and here\n                    benignite\u2026\n",
+            "Last Lines": "\n\u2026As it comyth to my remembraunceHave me excusid of myn\n                    Ignoraunce\n",
+            "Note": "\nVII.1931, 1926 omitted; 1985-6 reversed.",
+            "Attributed Title": "\nHere endith the tale of Geffrey Chawcere of Mellebe / and Prudence and\n                    Sophia here doghter / And here begynnyth the Monk his Porolg [sic] (f.\n                    180, rubric); Begyn of \u00fee monk[trimmed] prolog (f. 180, margin); Prolog\n                    Monk (RT); Here endith the monk his Prolog\u2026 (f. 181v, rubric);\n                    end monk prolog (f. 181v, margin)",
+            "folio": "ff. 180-181v"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nWhan ended was my tale of MelibeeAnd of Prudence and hire\n                    benignytee\u2026\n",
+            "Last Lines": "\n\u2026As it now comth vn to my remembraunceHaue me excused of my\n                    ignoraunce\n",
+            "Note": "\nVII.1957-8 omitted.",
+            "Attributed Title": "\nHeere is ended Chaucers tale of Melibee and of dame Prudence (f.\n                        167v); The myry wordes of the hoost to the Monk (f. 168); Monk\n                    (RT); Explicit\u2026 (f. 169)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 168-169"
+        },
+        "BNangl39": {
+            "First Lines": "\nUhan endid was my tale of myllebeand of prudence and hir\n                    benignynte\u2026\n",
+            "Last Lines": "\n\u2026as yt comys now in my Remembrauncehaue me excusid of myn\n                    ignoraunce\n",
+            "Note": "\nVII.1961-2 omitted.",
+            "folio": "ff. 73ra-73va"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nWhan ended was the tale of MelibeAnd of Prudence & hir\n                    benignite\u2026\n",
+            "Last Lines": "\n\u2026As it now comth to my remembraunceHaue me excused of my\n                    gouernaunce\n",
+            "Attributed Title": "\nHic desinit fabula Melibe et / Prudence narrata per Chaucers / Et hic\n                        incipit Prologus Monachi (f. 193, rubric); Hic desinit Prologus\n                        Monachi\u2026 (f. 194)",
+            "folio": "ff. 193-194v"
+        },
+        "TokyoTak32": {
+            "First Lines": "\nWhanne ended was this tale of MelibeAnd of Prudence & of hire\n                    benignite\u2026\n",
+            "Last Lines": "\n\u2026As it comyht now to my remembravnceHaue me now excused of myn\n                    ignoraunce\n",
+            "Attributed Title": "\nHeere bee gynnyht thee Prologe of thee Mvnkis tale (f. 121v);\n                    Prologe of the Mvnk (RT); Explicit prologe (f.\n                    122ra)",
+            "folio": "ff. 121va-122ra"
+        },
+        "Bodmer48": {
+            "First Lines": "\nWhen endid was the tale of MelibeeAnd of prudence & hir\n                    benygnite\u2026\n",
+            "Last Lines": "\n\u2026As it come\u00fe now vnto my remembrauncehaue me excused of\n                    myne ignoraunce\n",
+            "Note": "\nVII.1912-13 omitted.",
+            "Attributed Title": "\nThe Prolog of the Monke (f. 188v)",
+            "Facsimiles": "\n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n",
+            "folio": "ff. 188v-190"
+        }
+    }
+}

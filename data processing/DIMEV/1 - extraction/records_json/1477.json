@@ -1,0 +1,20 @@
+{
+    "_id": 1477,
+    "_header": "From Venice to Port Haifa by the sea",
+    "Note": "For a text with many similar lines see 1613.",
+    "Author(s)": "William Wey",
+    "Title(s)": "Itineraries to Jerusalem",
+    "Subjects": "travel poems",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "William Wey, Itineraries to Jerusalem: Part I only (Parts II and III in Latin) \u2014 352 lines in couplets",
+    "_witnesses": {
+        "Bod565": {
+            "First Lines": "\nffro Venyse to port Iaff by the feeHyt ys ii M myle & hundrys\n                    thre\u2026\n",
+            "Last Lines": "\n\u2026By sydys thys place and sum what nyeAn Angyl bade Ioseph to\n                    hye\n",
+            "Note": "\nEnds imperfectly.",
+            "Attributed Title": "\nIn this boke conteynyd ys the way to Ierusalem and the holy placys in that\n                    sam contre (f. 8)",
+            "Editions": "\n\nWilliams,  G.,\n                        ed.  \n             The Itineraries of William Wey, Fellow of Eton College, to Jerusalem,\n                AD 1458 and AD 1462; and To Saint James of Compostella, AD 1456.\n             2 vols. \n             Roxburghe Club\n         76, 88. London, 1857, 1867: 1.18-19.\nMeech,  Sanford Brown,  and  Hope Emily Allen, eds.  \n             The Book of Margery Kempe.\nEETS\n         o.s. 212 (1940); repr. 1961: 284.\n\n",
+            "folio": "ff. 8-13v"
+        }
+    }
+}

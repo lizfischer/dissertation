@@ -1,0 +1,39 @@
+{
+    "_id": 4994,
+    "_header": "Somewhat musing",
+    "Note": "The music that accompanies all but one of the witnesses is by Robert Fayrfax. See Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 1452.",
+    "Author(s)": "Anthony Wydeville (earl Rivers)",
+    "Subjects": "Rivers, Earl, Anthony Woodville, Lord Scales and second Earl Rivers; Woodville, Anthony, Lord Scales and second Earl Rivers",
+    "Versification": "\u2014 eight-line",
+    "Bibliographic Ghosts": "London, British Library Cotton Vespasian A.XII: not in this MSS.",
+    "_description": "Earl Rivers, written while imprisoned at Pontrefact \u2014 five 8-line stanzas",
+    "_witnesses": {
+        "CamFitzMus": {
+            "Transcription": "\nSomewhat musing and more mourningin remembryng \u00fee vnstedfastnes\n                    \u00feis world beyngof such walyng[ ]rue contraryyngwhat may I gese I\n                    feyr dowteles[ ]hope to fynd a specyall remedylet it ouerpass and\n                    thynk \u00feeron no more\n",
+            "Note": "\nFragment, preceded by end of another stanza or song, \u2018chaunce\n                    wyllyng to dye with verte & vide\u2019; with musical notation. Fallows (1993)\nXFallows,  David. \n             \u201cThe Drexel Fragments of Early Tudor Song.\u201d \n             Royal Musical Association Research Chronicle\n         No. 26 (1993): 5-18. observes that Cambridge UK,  Fitzwilliam Museum Mus 1005, Wells,  Wells Cathedral Library Music MSS, Fayrfax frag., and New York,  New York Public Library Drexel Fragments 4185 all derive from the same\n                    manuscript.",
+            "folio": "ff. 1v"
+        },
+        "BLAdd5465": {
+            "Note": "\nWith musical notation.",
+            "Editions": "\n\nArber,  Edward. \n             The Dunbar Anthology, 1401-1508.\n         London, New York: Frowde, 1901: 180.\nSmith,  John Stafford. \n             A Collection of English Songs, composed about the year 1500.\n         London: Bland, 1779: no. 9.\nTurner,  Sharon. \n             History of England from the Norman Conquest to the Accession of Edward\n                the First\u2026from the Accession of Edward the First to the Death of Henry\n                V\u2026comprising the Reigns of Henry VI, Edward IV, Edward V, Richard III and\n                Henry VII.\n         3 vols. London: Longman, Hurst, Rees, Orme and Brown, 1814, 1815, 1823;\n            many editions: 3.465.\n\nThe Chronicles of the White Rose of York: a series of historical\n                fragments\u2026reign of King Edward the Fourth\n         London: James Bohn, 1845: 209.\nRitson,  Joseph,\n                        ed.  \n             Ancient Songs from the Time of King Henry the Third to the\n                Revolution.\n         London, 1790. Further editions as Ritson,\n                    Joseph, ed.  Ancient Songs and Ballads\n                from the Reign of King Henry the Second to the Revolution. 2 vols. London,\n            1829; re-ed. \n                William Carew\n                Hazlitt\n             London, 1877: 149.\nStevens,  John,\n                        ed.  \n             Music and Poetry in the Early Tudor Court.\n         London: Methuen, 1961: 361-2.\nStevens,  John,\n                        ed.  \n             Early Tudor Songs and Carols.\nMusica Britannica\n         36. London: Stainer and Bell, 1975. \n\n",
+            "folio": "ff. 33v-35"
+        },
+        "BLAdd31922": {
+            "First Lines": "\nSVmwhat musyngin remembryngthunstedfastnesse\u00feis world beyngof such walyng\u2026\n",
+            "Last Lines": "\n\u2026my lyf was lentit is ny spentwelcum fortune but she is mentsuch ys her wont\n",
+            "Note": "\nWords and notation repeated for three voices.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Additional MS 31922.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=2&ref=Add_MS_31922. \n",
+            "Editions": "\n\nStevens,  John,\n                        ed.  \n             Music and Poetry in the Early Tudor Court.\n         London: Methuen, 1961: 423-4.\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts, Besonders aus der Zeit Heinrichs\n                VIII.\u201d \n             Anglia\n         12 (1889): 225-72, 585-97: 254-5.\nStevens,  John,\n                        ed.  \n             Music at the Court of Henry VIII.\nMusica Britannica\n         18. London: Stainer and Bell, 1962: 90-4.\n\n",
+            "folio": "ff. 120v-122"
+        },
+        "WellsMus": {
+            "Note": "\nWith musical notation. Fallows (1993)\nXFallows,  David. \n             \u201cThe Drexel Fragments of Early Tudor Song.\u201d \n             Royal Musical Association Research Chronicle\n         No. 26 (1993): 5-18. observes that Cambridge UK,  Fitzwilliam Museum Mus 1005, Wells,  Wells Cathedral Library Music MSS, Fayrfax frag., and New York,  New York Public Library Drexel Fragments 4185\n                    all derive from the same manuscript.",
+            "folio": ""
+        },
+        "NYPLDrexFr4185": {
+            "Transcription": "\nSumwhat musyng in remembryng\u00fee vnstedfastnes\u00feis\n                    world beyngof such walyngWhat may I gessefor vnkyndneswith\n                    owttyn leseand no redressme doth a wa[ ]with dysplesansto me\n                    grewansand no su\u2026\n",
+            "Note": "\nPortions of pages cut away to fit as endleaves to seventeenth-century\n                    song book. With musical notation. Fallows (1993)\nXFallows,  David. \n             \u201cThe Drexel Fragments of Early Tudor Song.\u201d \n             Royal Musical Association Research Chronicle\n         No. 26 (1993): 5-18. observes that Cambridge UK,  Fitzwilliam Museum Mus 1005, Wells,  Wells Cathedral Library Music MSS, Fayrfax frag., and New York,  New York Public Library Drexel Fragments 4185\n                    all derive from the same manuscript.",
+            "folio": "end flyleaf, verso"
+        }
+    }
+}

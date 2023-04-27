@@ -1,0 +1,29 @@
+{
+    "_id": 315,
+    "_header": "All Christian men both more and less",
+    "Note": "For the usual version see 3124.",
+    "Title(s)": "Northern Passion",
+    "Subjects": "Passion, narratives of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The \u2018expanded version\u2019 of the Northern Passion",
+    "_witnesses": {
+        "BodRawPoe175": {
+            "First Lines": "\nAlle cristen men both more & les\u00feat in \u00feis werld her\n                    wonand es\u2026\n",
+            "Last Lines": "\n\u2026\u00feat we may when we hethen wendeByde in blys with outen\n                    ende\n",
+            "Note": "\nTitle, in rubric, illegible",
+            "Editions": "\nHeuser,  Wilhelm,  and  Frances Allen Foster, eds.  \n             The Northern Passion (Supplement).\nEETS\n         o.s. 183 (1930); repr. 1971: 51-142.\n",
+            "folio": "ff. 55va-76ra"
+        },
+        "BLCottTibEVII": {
+            "folio": "f. 165"
+        },
+        "BLHar4196": {
+            "First Lines": "\nAll cristen men both more and les\u00feat in \u00feis werld here wonand es\u2026\n",
+            "Last Lines": "\n\u2026\u00feat we may when we heuin wendeByde in blis with owten ende\n",
+            "Note": "\nPreceded by Latin, \u201cPassio domini nostri ihesu cristi secundum Marcum Matheum Lucam & Iohannem\u201d; ends \u201cAmen.\u201d",
+            "Attributed Title": "\nFeria vi In parasiue domini (rubric, f. 67rb)",
+            "Editions": "\n\nMorris,  Richard,\n                        ed.  \n             Legends of the Holy Rood, Symbols of the Passion, and\n                Cross-Poems.\nEETS\n         o.s. 46 (1871); repr. 1973: 62-86 (Cross story only).\nFoster,  Frances Allen,\n                        ed.  \n             The Northern Passion.\nEETS\n         o.s. 145, 147 (1913, 1916); repr. 1971: 45.\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): II.168.\n\n",
+            "folio": "ff. 67rb-86rb"
+        }
+    }
+}

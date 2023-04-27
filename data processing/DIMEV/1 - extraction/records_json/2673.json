@@ -1,0 +1,23 @@
+{
+    "_id": 2673,
+    "_header": "In worship of that Maiden sweet / Mild Mary mother and maid",
+    "Title(s)": "Of Wymmen cometh this worldes welle",
+    "Subjects": "women, praise of",
+    "Versification": "\u2014 twelve-line \u2014 ababababbcbc",
+    "_description": "\u2018Of Wymmen come\u00fe \u00feis worldes welle\u2019 \u2014 ten l2-line stanzas with this refrain",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nIn worschupe of \u00feat Mayden sweteMylde Marie Moder and\n                    May\u2026\n",
+            "Last Lines": "\n\u2026\u00deou\u021d I \u00feus schortliche make an endeOf wymmen\n                    come\u00fe \u00feis worldes wele\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 704-8.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 174-7.\nSegar,  Mary Gertrude,\n                        ed.  \n             A Mediaeval Anthology.\n         London, NY: Longmans, Green, 1915: 109 (extracts).\n\n",
+            "folio": "f. 410rb-410rc"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nIN wurschupe of \u00feat mayden swetemyld marie Moder &\n                    May\u2026\n",
+            "Last Lines": "\n\u2026\u00deou\u021d I \u00feus schorliche make an endeOf wymmen\n                    come\u00fe \u00feis worldes wele\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 131vb-131vc"
+        }
+    }
+}

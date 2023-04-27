@@ -1,0 +1,24 @@
+{
+    "_id": 4263,
+    "_header": "On days when I am called to the school",
+    "Note": "Cf. 2332.",
+    "Subjects": "schools/scholars",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "Macaronic": "Latin",
+    "_description": "Ffulgens scola discolus est menator pessimus \u2014 five cross-rhymed quatrains (abab) plus burden (cc): \u2018Frangens scola disculus / est mercator pessimus\u2019",
+    "_witnesses": {
+        "BLAdd14997": {
+            "First Lines": "\nOn days when I am callit to \u00fee scole de matre et materteraThen\n                    my hert begynnys to cole languescunt mentes vicera\u2026\n",
+            "Last Lines": "\n\u2026ffelo be gladde & make gud chere dolentes cum\n                    tripudiisffor all men schall nott thryfe to here que exibentur\n                    studiis\n",
+            "Editions": "\nHammerle,  Karl. \n             \u201cVerstreute me und fr\u00fchne Lyrik.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         166 (1935): 195-204: 203-4.\n",
+            "folio": "f. 44v"
+        },
+        "BLAdd60577": {
+            "First Lines": "\nA mornyngis when I am callide to scoleDe matre vel\n                    materia\u2026\n",
+            "Last Lines": "\n\u2026ffor all wee schall nott thryve to yereQui exhibemur\n                        studio\n\n",
+            "Attributed Title": "\nExplicit bonus cantus (f. 93)",
+            "Facsimiles": "\nWilson,  Edward. \n             \u201cIntroduction.\u201d \n             The Winchester Anthology. A Facsimile of British Library Additional\n                Manuscript 60577. With an account of the music by \n                    Iain\n                    Fenlon. \n         Cambridge: D. S. Brewer, 1981. \n",
+            "folio": "f. 93"
+        }
+    }
+}

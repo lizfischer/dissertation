@@ -1,0 +1,20 @@
+{
+    "_id": 1719,
+    "_header": "Hail holy Ositha maid of great virtue",
+    "Author(s)": "John Lydgate (?)",
+    "Subjects": "prayers, to saints; Ositha, saint",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "Bibliographic Ghosts": "Cambridge UK, Jesus College Q.G.8 (56)",
+    "_description": "A prayer to St. Ositha, perhaps by Lydgate \u2014 a ballade, three 8-line stanzas (ababbcbc) with refrain ending \u2018in there nede\u2019",
+    "_witnesses": {
+        "CamSidney37": {
+            "First Lines": "\nHEyle holy Sitha maide of grete vertuwiche with hole herte and\n                    deuoute obseruance\u2026\n",
+            "Last Lines": "\n\u2026Agayne worldly troubill and fendis violenceSupporte alle tho\n                    that calle the in there nede\n",
+            "folio": "ff. 148-148v"
+        },
+        "BLHar2255": {
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 137.\n",
+            "folio": "f. 116v"
+        }
+    }
+}

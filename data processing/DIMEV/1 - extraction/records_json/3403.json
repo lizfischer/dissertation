@@ -1,0 +1,26 @@
+{
+    "_id": 3403,
+    "_header": "Many men say that in swevenings",
+    "Note": "Three fragments, corresponding to the French text as follows: A, lines 1-1705 = lines 1-1678; B, lines 1706-5810 = lines 1679-5169; C, lines 5811-7698 = lines 10716-12564.",
+    "Author(s)": "Geoffrey Chaucer; Guilliame de Lorris; Jean de Meun",
+    "Title(s)": "The Romaunt of the Rose",
+    "Subjects": "dreams; Courtly Love; allegory",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Romaunt of the Rose \u2014 in couplets (Singer (1928)\nXSinger, Dorothea Waley. Catalogue of Latin and Vernacular Alchemical Manuscripts. 3 vols. Brussels: Lamertin, 1928-31, 806)",
+    "_witnesses": {
+        "GULHun409": {
+            "First Lines": "\n\u2026So mochel pris and the[ ]So worthy is biloued [\n                    ]\u2026\n",
+            "Last Lines": "\n\u2026To Reden in diuinitieAnd longe haue red\n",
+            "Note": "\nBegins imperfectly at line 45 of fragment A due to loss of first leaf;\n                    top right corner of first folio cut away, with loss of ends of lines; altogether\n                    7696 lines of Fragment A: lacks lines 1-44, 333-380, 1387-1482, 2395-2442,\n                    3595-3690, 7385-7576.",
+            "Editions": "\n\nSkeat,  Walter William,\n                        ed.  \n             The Complete Works of Geoffrey Chaucer.\n         7 vols. Oxford: Clarendon, 1894-7: 1.93-259.\nRobinson,  F. N.,\n                        ed.  \n             The Works of Geoffrey Chaucer.\n         Oxford: Clarendon, 1933; 2nd ed. 1957: 664-731; 1957; 564-637.\nBenson,  Larry Dean,\n                        ed.  \n             The Riverside Chaucer.\n         3rd ed. Boston: Houghton Mifflin, 1987: 686-767 (with variants from  Geoffrey Chaucer, Workes, Thynne, 1532 ).\n\n",
+            "folio": "ff. 2-150"
+        },
+        "NLSACC10225": {
+            "First Lines": "\n\u2026ffor often tymes\u2026shall fallIn love among thy paynes\n                    all\u2026\n",
+            "Last Lines": "\n\u2026Syghes and pleyntes with newe wooThat noon yrchon ne pryketh\n                    soo\n",
+            "Note": "\nA one-leaf fragment containing lines 2403-2450, with the recto very\n                    faded.",
+            "Editions": "\nHorobin,  Simon. \n             \u201cA New Fragment of the Romaunt of the Rose.\u201d \n             Studies in the Age of Chaucer\n         28 (2006): 205-15: 109-10.\n",
+            "folio": "recto-verso"
+        }
+    }
+}

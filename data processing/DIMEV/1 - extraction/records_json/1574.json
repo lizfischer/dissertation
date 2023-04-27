@@ -1,0 +1,30 @@
+{
+    "_id": 1574,
+    "_header": "God o love has His cleping",
+    "Title(s)": "Cursor Mundi",
+    "Subjects": "Creed, apostles\u2019, exposition of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "An Exposition of the Creed, in some MSS of Cursor Mundi \u2014 58 couplets",
+    "_witnesses": {
+        "BodFair14": {
+            "First Lines": "\n\u00deis ilk lorde & cumli kingcertis he louis al maner\n                    \u00feing\u2026\n",
+            "Last Lines": "\n\u2026in \u00feis ilk trau\u00fe \u00fei hert \u00feou lift\u00feou\n                    \u00feat wille come to ri\u021dtwis shrift\n",
+            "Note": "\nFollows a prose English version of the Crede.",
+            "Attributed Title": "\nCredo\u2026\u00fee crede expowned (f. 107va)",
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 1430-7.\n",
+            "folio": "ff. 107va-108ra"
+        },
+        "BLCottVesAIII": {
+            "First Lines": "\nGodd o luue has his clepingffor qui \u00feat he luues al\n                    thing\u2026\n",
+            "Last Lines": "\n\u2026In \u00feiskin troth agh \u00feou be tift\u00deat wil her cum\n                    to rightwis scrif\n",
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 1430-7.\n",
+            "folio": "ff. 139vb-140rb"
+        },
+        "GottingenTheo107": {
+            "First Lines": "\ngod of luve has his clepingFor qui \u00feat he luues of\n                    alkin thing\u2026\n",
+            "Last Lines": "\n\u2026In \u00fei skin truth an \u00feu be tift\u00feu \u00feat will\n                    cum to rightwis schrift\n",
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 1430-7.\n",
+            "folio": "ff. 165ra-165vb"
+        }
+    }
+}

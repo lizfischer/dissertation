@@ -1,0 +1,27 @@
+{
+    "_id": 4629,
+    "_header": "Saint John in this gospel telleth",
+    "Note": "For other texts see 114 and 3716.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel; Trinity Sunday",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Trinity Sunday in the \u2018expanded\u2019 Northern Homily Cycle; also used for The Invention of the Cross (3468)",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Ion in \u00feis gospel telle\u00fefful opunly of crist he\n                    spelle\u00fe\u2026\n",
+            "Last Lines": "\n\u2026He vs bringe to \u00feat blis\u00deat for goode men ordeyned\n                    is. Amen.\n",
+            "Note": "\nSecond occurrence in this MS.",
+            "Attributed Title": "\nErat homo ex phariseis nichodemus (f. 221rc)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 221rc-221vc"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nSEint Ion in \u00feis gospel telle\u00fefful openly of crist he\n                    spelle\u00fe\u2026\n",
+            "Last Lines": "\n\u2026He vs brynge to \u00feat blis\u00deat for goode men ordeyned\n                    is Amen\n",
+            "Note": "\nSecond occurrence in this MS.",
+            "Attributed Title": "\nErat homo ex phariseis Nichodem (f. 24vb)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 24vb-25rb"
+        }
+    }
+}

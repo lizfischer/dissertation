@@ -1,0 +1,16 @@
+{
+    "_id": 403,
+    "_header": "All we liven hapfully",
+    "Author(s)": "John Grimestone",
+    "Subjects": "fate; mortality; sermons, verse in",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "Verses translating \u2018Viuimus hic sorte, noli spem ponere morte\u2019 which precedes it \u2014 one quatrain in John Grimestone\u2019s sermon notes",
+    "_witnesses": {
+        "NLS18721": {
+            "Transcription": "\nAlle we liuen hapfulicheNo man ne trost wan he sal\n                    dey\u021de\u00deerfore ne tak nouth wrongfulicheFor peraunter to-morwe\n                    \u00feu gost \u00fei weye\n",
+            "Attributed Title": "\nDe Morte (f. 86)",
+            "Editions": "\nWilson,  Edward. \n             A Descriptive Index of the English Lyrics in John of Grimestone\u2019s\n                Preaching Book.\nMedium \u00c6vum Monographs\n         n.s. 2. Oxford, 1973: 26.\n",
+            "folio": "f. 87v"
+        }
+    }
+}

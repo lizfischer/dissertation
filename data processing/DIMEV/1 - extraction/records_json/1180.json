@@ -1,0 +1,40 @@
+{
+    "_id": 1180,
+    "_header": "Eight is my love if nine go before",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 379; cf. 2576.",
+    "Subjects": "riddles; Christ, name of",
+    "Versification": "\u2014 four-line \u2014 aaaa",
+    "_description": "Riddle on the word \u2018HIESUS\u2019, Jesus \u2014 three or four monorhyming or irregular lines",
+    "_witnesses": {
+        "BodDou257": {
+            "First Lines": "\nViij ys my loue \u021dif ix go biforewer viij y gert a boue iij wer\n                    wel \u00feer fore\u2026\n",
+            "Last Lines": "\n\u2026Water yf rorer and taymys bro\u00feerSo hat my lemman in non\n                    o\u00feer\n",
+            "Editions": "\n\nDouce,  Francis. \n             Catalogue of the Printed Books and Manuscripts bequeathed by Francis\n                Douce, Esq., to the Bodleian Library\n         Oxford: UP, 1840: 41.\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 2.112.\nSilverstein,  Theodore,\n                        ed.  \n             Medieval English Lyrics.\n         York Medieval Texts. London: Edw. Arnold, 1971: 109.\n\n",
+            "folio": "ff. 77-77v"
+        },
+        "OxfBal354": {
+            "Transcription": "\n8 is my trew love do beffore 9 put ynto 5 so wel it will beseme8\n                    twyse told 20 betwen he \u00feat redith this a right wottith what I\n                    menethis goth by \u00fee letters of the [?] as [?]\n",
+            "Note": "\nFour monorhyming lines. Last line partly illegible.",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 253.\nRobbins,  Rossell Hope. \n             \u201cIsabel: A Riddling Mistress.\u201d \n             English Language Notes\n         1 (1963-64): 1-4: 3.\n\n",
+            "folio": "p. 4592"
+        },
+        "CamMagPep1236": {
+            "Transcription": "\nIn 8 is all my loue& 9 be ysette by foreso 8 be yclosyd\n                    abouethan 3 is good therfore\n",
+            "Note": "\nOne quatrain, abab, in this MS; solution, \u2018Ihesu\u2019, written\n                    to right.",
+            "Editions": "\n\nJames,  Montague Rhodes. \n             Bibliotheca Pepysiana: A Descriptive Catalogue of the Library of Samuel\n                Pepys. Pt. III: Medieval Manuscripts.\n         London, 1923: 3.11.\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 80.\nLuria,  Maxwell Sidney,  and  Richard L. Hoffman, eds.  \n             Middle English Lyrics.\n         New York: Norton, 1974: 121.\n\n",
+            "folio": "f. 128"
+        },
+        "CamTCC394": {
+            "Transcription": "\nviii is my trewloff do be fore ixpot v thar to well will it\n                    reymexviii twysse told xx be tweynehe that herith thys wot what I\n                    meyne\n",
+            "Note": "\nVariant, added to flyleaf by a hand of early sixteenth century; followed\n                    by similar six lines in Latin on the wounds of Christ; \u2018Ihessu\u2019\n                    written to right of text, and letters \u2018h, I, e, ss, u\u2019 written above\n                    the numbers.",
+            "Editions": "\nJames,  Montague Rhodes. \n             Catalogue of the\n                    Western Manuscripts in the Library of Trinity College, Cambridge.\n         4 vols. Cambridge: at the UP, 1900-1904: 1.530.\n",
+            "folio": "f. ivv"
+        },
+        "YorkMinXVIO10": {
+            "Transcription": "\nOn viii is all my lofe qwen ix goys beforeqware viii is gyrd abofe\n                    iii is gude \u00feerforeA thowsand & on made mekyll moyneqwen ten\n                    on a hundreth hanges hym all one\n",
+            "Note": "\nVariant spelling \u2018IHC\u2019 and M[ary] and J[ohn] weeping when\n                    X[Crist] hangs on the C[ross].",
+            "folio": "f. 36v"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "_id": 6772,
+    "_header": "Woe and wandreth walketh wide",
+    "Note": "For other MSS see 6771; for the version in the \u2018expanded\u2019 Cycle see 2601.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel, \u2018In nocte natalis domini\u2019, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nWO and serwe walke\u00fe wyde\u00deat come\u00fe of couetise and\n                    pride\u2026\n",
+            "Last Lines": "\n\u2026And also in eor\u00fee to Men be pees\u00feat in riht lyuen\n                    and good wille is\n",
+            "Attributed Title": "\nExunt edictum A Cesare Augusto (f. 170vc)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 170vc-171rb"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nWo and wandreth walkes ful wideAnd \u00feat gars coueytise &\n                    pride\u2026\n",
+            "Last Lines": "\n\u2026And als to men in erthe be pes\u00deat haue gode wille of\n                    synne to ses\n",
+            "Attributed Title": "\nEuangelium in prima missa natalis domini secundum lucam & cetera\n                    (p. 29)",
+            "folio": "pp. 29-31"
+        },
+        "CULDd11": {
+            "First Lines": "\nWo & wandrede walki\u00fe wide\u00feat cam of Couetise &\n                    Pride\u2026\n",
+            "Last Lines": "\n\u2026& also in erthe to men pes be\u00deat in riht loue &\n                    good wis be\n",
+            "Note": "\nNo break marked between this and the following text (132) in this\n                    MS.",
+            "Attributed Title": "\nPastores loquebantur ad inuicem transeamus (f. 52)",
+            "folio": "ff. 52-53"
+        },
+        "HunHM129": {
+            "folio": "f. 10"
+        }
+    }
+}

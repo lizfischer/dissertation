@@ -1,0 +1,19 @@
+{
+    "_id": 3446,
+    "_header": "Masters Gower Chaucer and Lydgate",
+    "Author(s)": "George Ashby",
+    "Title(s)": "Active Policy of a Prince",
+    "Subjects": "political poems; advice, to princes",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "Macaronic": "Latin",
+    "_description": "Active Policy of a Prince, by George Ashby \u2014 131 stanzas rhyme royal.",
+    "_witnesses": {
+        "CULMm442": {
+            "First Lines": "\nMaisters Gower Chaucer & LydgatePrimier poetes of this\n                    nacion\u2026\n",
+            "Last Lines": "\n\u2026Avoidyng from \u00feou al ImpedimentShowing ayenst al\n                    vertuous entente\n",
+            "Note": "\nLatin verse between stanzas.",
+            "Editions": "\nBateson,  Mary,\n                        ed.  \n             George Ashby\u2019s Poems.\nEETS\n         e.s. 76 (1899), repr. 1965: 13-41.\n",
+            "folio": "ff. 2v-19"
+        }
+    }
+}

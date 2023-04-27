@@ -1,0 +1,16 @@
+{
+    "_id": 5857,
+    "_header": "Thou that know thyself guilty",
+    "Subjects": "songs; penance; penitence",
+    "Versification": "\u2014 five-line \u2014 ababc",
+    "Macaronic": "Latin",
+    "_description": "A song urging penance \u2014 three quatrains (abab) plus Latin refrain (c), \u2018Miserere mei deus\u2019 plus burden (cc): \u2018A blyssyd ffull songe \u00feis is to vs / Miserere mei deus\u2019",
+    "_witnesses": {
+        "OxfLinLat141": {
+            "First Lines": "\nThow \u00feat know \u00fei selfe gyltyA \u021dens \u00fei god\n                    \u00feu hast done wrong\u2026\n",
+            "Last Lines": "\n\u2026And syng \u00feis song with myld modMiserere mei\n                    deus\n\n",
+            "Editions": "\nPalti,  Kathleen. \n             \u201cAn Unpublished Fifteenth-Century Carol Collection: Oxford, Lincoln\n                College MS Lat. 141.\u201d \n             Medium Aevum.\n         77 (2008): 260-78: 267.\n",
+            "folio": "ff. 3v-4"
+        }
+    }
+}

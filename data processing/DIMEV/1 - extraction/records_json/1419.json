@@ -1,0 +1,19 @@
+{
+    "_id": 1419,
+    "_header": "For wind or rain for water or cold or heat",
+    "Author(s)": "John Lydgate (attrib.)",
+    "Title(s)": "The Three Kings of Cologne",
+    "Subjects": "Magi; legends, saints\u2019",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "The Three Kings of Cologne, attributed to Lydgate \u2014 859 lines in rhyme royal stanzas",
+    "_witnesses": {
+        "BLAdd31042": {
+            "First Lines": "\nffor wynde or Rayne ffor watere or colde or hete\u00feay neuer ne ceysede whils \u00feay leueande were\u2026\n",
+            "Last Lines": "\n\u2026ffor whose Merites es grace dayly wroghteTo his honour whom \u00feay in Bedlem soghte\n",
+            "Note": "\nAbout 100 lines missing at beginning. Ends \u201cAmen.\u201d",
+            "Attributed Title": "\nExplicit Tractatus Trium Magum (f. 119vb)",
+            "Editions": "\n\nMacCracken,  Henry Noble. \n             \u201cLydgatiana: The Three Kings of Cologne.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         129 (1912): 50-68: 51-68.\nMacCracken,  Henry Noble. \n             \u201cMs. Brit. Mus. Additional 31402.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         132 (1914): 317-27: 319.\n\n",
+            "folio": "ff. 111-119vb"
+        }
+    }
+}

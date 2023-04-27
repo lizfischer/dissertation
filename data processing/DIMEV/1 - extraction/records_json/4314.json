@@ -1,0 +1,324 @@
+{
+    "_id": 4314,
+    "_header": "Our Host gan to swear as he were wood",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "\u2018Physician-Pardoner Link\u2019; \u2018Host\u2019s Words\u2019; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; pity; links",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the \u2018Host\u2019s Words\u2019/\u2018Physician-Pardoner Link\u2019 of the Canterbury Tales \u2014 42 lines in couplets.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nOvre Ost gan swere as he were woodeharrow quod he bi naylis &\n                    be bloode\u2026\n",
+            "Last Lines": "\n\u2026I graunte I wis quod he I most me bithinkevppon some honest\n                    thing while that I drynke\n",
+            "Note": "\nVI.297-8 omitted.",
+            "Attributed Title": "\n\u2026And / next bigynneth Iohn Pardoner his prolog (f. 240); Here endith\n                    the Pardoner his prolog\u2026 (f. 240v)",
+            "folio": "ff. 240-240v"
+        },
+        "BodBar20": {
+            "First Lines": "\nOure oost gan swere as he were woodharow quod he be nayles & be\n                    blood\u2026\n",
+            "Last Lines": "\n\u2026I graunt I wys quod he but I mote thinkeVpon some honest\n                    thing wile \u00feat I drinke\n",
+            "Note": "\nVI.297-8 omitted.",
+            "Attributed Title": "\n\u2026and here / bygynnyth \u00fee prologe of \u00fee pardoner (f.\n                        184v); here endithe \u00fee prologe\u2026 (f. 185)",
+            "folio": "ff. 184v-185"
+        },
+        "Bod414": {
+            "First Lines": "\n[O]ure host gan swere as he were wodeharrow coth he by nailes and\n                    by blood\u2026\n",
+            "Last Lines": "\n\u2026I graunt y wis coth he but I mut thynkVpon sum honest thing\n                    whils that I drynk\n",
+            "Note": "\nVI.297-8 omitted.",
+            "folio": "ff. 132-132v"
+        },
+        "Bod686": {
+            "First Lines": "\nOwre hoost gan to swere as he were wodeharrow quod he by nailes and\n                    by blode\u2026\n",
+            "Last Lines": "\n\u2026I graunte I wyis quod he but y mote \u00feinkeVpon somme\n                    honeste \u00feing while y drynke\n",
+            "Note": "\nVI.297-8 omitted.",
+            "Attributed Title": "\n\u2026And begynneth \u00fee mery / talkyng of \u00fee hoost to \u00fee\n                    Phisicien and \u00fee pardoner (f. 12)",
+            "folio": "ff. 152-152v"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nOure ost gan to swere as he were wodeHarow quod he bi nailes and be\n                    blode\u2026\n",
+            "Last Lines": "\n\u2026I graunte I wis quod he but I must thenkVpon som honest thing\n                    whiles I shall drink\n",
+            "Note": "\nVI.297-8 omitted.",
+            "Attributed Title": "\n\u2026And next biginneth / the Prolog of the Pardoner (f.\n                    156v); The Pardonere (RT)",
+            "folio": "ff. 156v-157"
+        },
+        "BodLauMis739": {
+            "First Lines": "\n[O]Wr oste gan swere as he were woodeHarow quod he by nailes &\n                    by bloode\u2026\n",
+            "Last Lines": "\n\u2026I graunte ywys quod he but I most thynkeVppon som honest\n                    thing while \u00feat I drynkeAnd on \u00feis manere bygan his\n                    tale\n",
+            "Note": "\nSpurious line follows VI.328.",
+            "folio": "ff. 216v-217"
+        },
+        "BodRawPoe149": {
+            "First Lines": "\nOwre oost gan swere as he were woodHarow quod he be nayles and be\n                    blood\u2026\n",
+            "Last Lines": "\n\u2026I graunte y wis quod he bot I moot thynkVpon som honest thyng\n                    whiles I drynk\n",
+            "Note": "\nVI.297-8 omitted.",
+            "Attributed Title": "\n\u2026and / begynneth the pardoners prolog (f. 94); prolog pardoner (f.\n                    94, margin)",
+            "folio": "ff. 94-94v"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nOure oost gan to swere as he were woodHarrow quod he by nailles\n                    & by blood\u2026\n",
+            "Last Lines": "\n\u2026I graunte I wys quod he but I mow thynkeVpon som honest thyng\n                    while that I drynkeRadix omnium malorum est cupiditas\n\n",
+            "Note": "\nVI.297-8 omitted.",
+            "Attributed Title": "\n\u2026The prohemye of the pardoners tale (f. 119v)",
+            "folio": "ff. 119v-120"
+        },
+        "OxfCCC198": {
+            "First Lines": "\nOwre oost gan for to swere as he were woodharrow quod he by nayles\n                    and by blood\u2026\n",
+            "Last Lines": "\n\u2026[torn]wys quod he but I moot \u00feynke[torn]m honest\n                    \u00feing whil \u00feat I drinke\n",
+            "Note": "\nVI.319-28 partially lost (tear).",
+            "Attributed Title": "\nPrologus (f. 194v, margin)",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "ff. 194v-194v"
+        },
+        "OxfNew314": {
+            "First Lines": "\nOur oste gan swere as he were woodHarow quod he be nailis & be\n                    blood\u2026\n",
+            "Last Lines": "\n\u2026I graunte Iwis quod he but I muste thynkeVpon sum honest\n                    thing whilis \u00feat I drynke\n",
+            "Attributed Title": "\n\u2026And / Begynneth \u00fee Pardoneris Prolog (f. 187v); Here\n                    endith \u00fee prolog\u2026 (f. 188)",
+            "folio": "ff. 187v-188"
+        },
+        "OxfTri49": {
+            "Transcription": "\nOure hoste gan swere as he were wodeharowe quoth he be nailis\n                        and be blode\n",
+            "Note": "\nAt the end of Prioress\u2019s Tale, on fol. 174, the scribe\n                    writes VI.287-288 (the \u2018Physician-Pardoner Link\u2019), writes\n                        \u2018vacat\u2019 next to them, and begins the Pardoner\u2019s\n                        Prologue.",
+            "folio": "f. 174"
+        },
+        "CULDd424": {
+            "First Lines": "\nOure hoost bygan to swere as he were woodHarrowe quod he by nayles\n                    and by blood\u2026\n",
+            "Last Lines": "\n\u2026I graunte I wys quod he but I must thynkeVpon som honest\n                    thyng whil that I drynke\n",
+            "Note": "\nVI.297-8 omitted.",
+            "Attributed Title": "\n\u2026& bigynneth the prologe of the Pardonere (f.\n                    141v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "f. 142"
+        },
+        "CULIi326": {
+            "First Lines": "\nOure hoste gan swere as he were wodeHarowe quod he by nayles and by\n                    blode\u2026\n",
+            "Last Lines": "\n\u2026I graunte y wisse quod he but I moste thinkeVpon some honeste\n                    thing whiles that I drynk\n",
+            "Attributed Title": "\n\u2026And thes bene the wordes of the hoste (f. 170v);\n                    Pardonere (RT); Here endeth the wordes of the hoste (f. 171)",
+            "folio": "f. 171"
+        },
+        "CULMm25": {
+            "First Lines": "\nOure ooste gan swere as he were woodeHarrowe quod he by naylles and\n                    by blode\u2026\n",
+            "Last Lines": "\n\u2026I graunte I wys quod he but I mote thynkeVpon some honeste\n                    thyng whils \u00feat I drynke\n",
+            "Note": "\nVI.297-8 omitted.",
+            "Attributed Title": "\nHere begynneth \u00fee prologe of \u00fee pardoner (f. 189v);\n                    \u00fee prologe (RT); Here endith \u00fee prologe\u2026 (f. 190)",
+            "folio": "ff. 189v-190"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[O]ure oste gan swere as he were wodeHarrow quod he by naylez and\n                    by blode\u2026\n",
+            "Last Lines": "\n\u2026I graunte quoth he but y most thynkVp on some honest thynge\n                    while y drynk\n",
+            "Note": "\nVI.297-8, 309-12, 323-4 omitted.",
+            "Attributed Title": "\n\u2026The prologe of \u00fee perdoner (f. 199v)",
+            "folio": "ff. 199v-200"
+        },
+        "CamTCC582": {
+            "First Lines": "\nOure oost gan to swere as he were woodHarrow quod he be nailes and\n                    be blood\u2026\n",
+            "Last Lines": "\n\u2026I graunt quod he but I mot thinkeVpon som honest thing whiles\n                    I drinke\n",
+            "Note": "\nVI.297-8 omitted.",
+            "Attributed Title": "\n\u2026And hiere beginneth a Prolog of the / Pardoner with his tale folwing\n                    (f. 77va)",
+            "folio": "ff. 77va-77vb"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nOwre host gan to swer as he wer woodHorowe quod he by naylys and by\n                    blood\u2026\n",
+            "Last Lines": "\n\u2026I graunte y wys quod he but y most thynkeVpon som honest\n                    thyng wyl that y drynke\n",
+            "Note": "\nVI.297-8 omitted.",
+            "Attributed Title": "\n\u2026& Incipit prologus apparitoris (f. 206v);\n                    Pardoner (RT); Explicit prologus Questoris\u2026 (f.\n                    207v)",
+            "folio": "ff. 206v-207v"
+        },
+        "BLAdd25718": {
+            "First Lines": "\nOure Oste gan to swere as yhe were woodHarow\n                    quod he by nailles and bi blood\u2026\n",
+            "Last Lines": "\n\u2026I graunte ywis quod he but I mot thenkeVppan som honest thing\n                    whiles I mot thenke\u2026\n",
+            "Note": "\nVI.297-8 omitted.",
+            "Attributed Title": "\n\u2026& here bygynneth the Shipmans[sic] tale (f. 53)",
+            "folio": "ff. 52b-53"
+        },
+        "BLAdd35286": {
+            "First Lines": "\nOur hoost gan to swere as he were woodHarrow quod he bi nayles and\n                    bi blood\u2026\n",
+            "Last Lines": "\n\u2026But in the cuppe wol I me bithinkeVpon som honest thing whil\n                    that I drynke\n",
+            "Note": "\nVI.297-8 follow 299-300.",
+            "Attributed Title": "\n\u2026here bigynneth the prologe of the reheytyng of our hoost (f. 148);\n                    the pardoner (RT); Here endeth the reheytyng of our hoost\u2026 (f.\n                        148v)",
+            "Editions": "\nHorobin,  Simon. \n             \u201cA Transcription and Study of British Library MS Additional 35286 of\n                Chaucer\u2019s Canterbury Tales.\u201d \n         Diss. Univ. of Sheffield, 1997. \n",
+            "folio": "ff. 148-148v"
+        },
+        "BLEge2726": {
+            "First Lines": "\nOure Hoste bigan to swere as he were wodeHarrowe koth he by nayles\n                    and by blode\u2026\n",
+            "Last Lines": "\n\u2026I graunt ywis koth he but I most thynkVpon som honest\n                    \u00feing while \u00feat I drynk\n",
+            "Note": "\nVI.297-8 omitted.",
+            "Attributed Title": "\n\u2026& incipit / prologus de le Pardoner (f. 162v);\n                        Sic desinit prologus\u2026 (f. 163)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "f. 163"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[O]Wr host gan to swere as he were woodHarrow quod he bi nailis and\n                    bi blood\u2026\n",
+            "Last Lines": "\n\u2026I graunt I wys quod he but I moste thynkeVp on som honest\n                    thyng whil that I drynk\n",
+            "Note": "\nVI.297-8 omitted.",
+            "Attributed Title": "\nHere gynneth the proheme of the pardoneris tale (f. 171); The pardoner is\n                    tale (RT); Explicit prohemium\u2026 (f. 171v)",
+            "folio": "ff. 171-171v"
+        },
+        "BLHar1758": {
+            "First Lines": "\nOur ost gan swere as he were woodHarrow quod he bi nailes & be\n                    blood\u2026\n",
+            "Last Lines": "\n\u2026I graunt y wis quod he but I mote thynkeVpon som honest thyng\n                    while that I drynke\n",
+            "Attributed Title": "\nHere begynneth the Prolog of the Pardoner (f. 150v); The\n                    Pardoner (RT); Here endith the Prolog\u2026 (f. 151)",
+            "folio": "ff. 150v-151"
+        },
+        "BLHar7333": {
+            "First Lines": "\nOVre host gan swere as he were wodeHarow quod he be nayles & be\n                    blode\u2026\n",
+            "Last Lines": "\n\u2026I graunt quod he but I must thinkeVpon sum honest thing while\n                    that I drynk\n",
+            "Attributed Title": "\nHere begynnythe \u00fee Pardoners Prologe (f. 94rb)",
+            "folio": "ff. 94rb-94va"
+        },
+        "BLHar7334": {
+            "First Lines": "\nOWre ost gan swere as he were woodharrow quod he by nayles and by\n                    blood\u2026\n",
+            "Last Lines": "\n\u2026But in \u00fee cuppe wil I me be\u00feinkevpon some honest\n                    tale whil I drinke\n",
+            "Note": "\nVI.299-300, 305-6 omitted.",
+            "Attributed Title": "\n\u2026And here bygynneth \u00fee prologe of the Pardoner (f. 185);\n                    Pardoneres Tale (RT)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "ff. 185-185v"
+        },
+        "BLHar7335": {
+            "First Lines": "\n[O]ur ost gan to swere as he were woodHarrow quod he by nayles and\n                    by blood\u2026\n",
+            "Last Lines": "\n\u2026But in the cuppe wol y me be thynkeVpon sum honest thyng whil\n                    that y drynke\n",
+            "Note": "\nVI.297-8 follow 299-300.",
+            "folio": "ff. 158-158v"
+        },
+        "BLLan851": {
+            "First Lines": "\nOWre Oste gan swere as he war wodeHarrowe quod he be Nayles &\n                    be blode\u2026\n",
+            "Last Lines": "\n\u2026I graunte I wysse quod he bot I most \u00feenkeVppon sum\n                    honest \u00feinge whiles \u00feat I drinke\n",
+            "Attributed Title": "\n\u2026Incipit prologus questoris (f. 173); \u00fee Pardonere (RT);\n                        Explicit Prologus questoris\u2026 (f. 173v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 173-173v"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nOwre host gan swere as he were woodeHarrow quod he by nayles and by\n                    blood\u2026\n",
+            "Last Lines": "\n\u2026I graunt I wis quod he but I must thynkVpon som honest thyng\n                    while that I drynk\n",
+            "Attributed Title": "\n\u2026And / bygynnythe \u00fee prologe / of the pardoner (f.\n                        217v, margin); Here endith \u00fee prolog\u2026 (f. 218,\n                    margin)",
+            "folio": "ff. 217v-218"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nOure oost gan swere as he were woodHarrow quod he by naylles and by\n                    blood\u2026\n",
+            "Last Lines": "\n\u2026I graunt I wys quod he but I mote \u00feinkVpon some honest\n                    \u00feing while \u00feat I drink\n",
+            "Attributed Title": "\nHere begynneth the prolog of the pardoner (f. 177v, margin);\n                    \u00fee prolog of \u00fee perdoner (f. 177v, margin); The pardoner\n                    (RT); Here endith the prolog\u2026 (f. 178)",
+            "folio": "ff. 177v-178"
+        },
+        "BLSl1685": {
+            "First Lines": "\nEure oste gan swere as he were woodeHarrowe quod he by nayles and\n                    by blood\u2026\n",
+            "Last Lines": "\n\u2026I graunte I wys quod be  but I mot thynkVpon some\n                    honest thynge whyle \u00feat I drynke\n",
+            "Note": "\nVI.297-8 omitted.",
+            "Attributed Title": "\n\u2026Here begynneth \u00fee Prologge of \u00fee Perdoner (f. 182); The\n                    Pardoner (RT); [tear] endeth \u00fee Proloog\u2026 (f. 183)",
+            "folio": "ff. 182-183"
+        },
+        "BLSl1686": {
+            "First Lines": "\nOwre ost gan to swere as he were woodHarrow quod he be nailes and\n                    be blood\u2026\n",
+            "Last Lines": "\n\u2026I graunte I wys but mote I thynkeVpon somme honest thyng\n                    whiles that I drynke\n",
+            "Note": "\nVI.297-8 omitted.",
+            "Attributed Title": "\n\u2026And here begynneth the Prolog of the Pardoners tale (f. 221); [A]\n                    Prolog of the PArdonere (RT); Here endith the Prolog of the Pardoner\u2026 (f.\n                        221v)",
+            "folio": "ff. 221-221v"
+        },
+        "NLWPen392": {
+            "First Lines": "\nOure hoost gan to swere as he were woodharrow quod he by nayles and\n                    by blood\u2026\n",
+            "Last Lines": "\n\u2026I graunte ywis quod he but I moot thynkeVpon som honeste\n                    thyng whil \u00feat I drynke\n",
+            "Note": "\nVI.297-8 omitted.",
+            "Attributed Title": "\nThe myry talkyng of the hoost to the Phisicien and the Pardoner (f.\n                    194)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "ff. 195-195v"
+        },
+        "Lichfield29": {
+            "First Lines": "\nOure ost gan swere as he were woodHarrow quod he by nayles and by\n                    blood\u2026\n",
+            "Last Lines": "\n\u2026I graunte ywis quod he but I mot thinkeVpon som honest thing\n                    while \u00feat I drinke\n",
+            "Attributed Title": "\n\u2026and begynneth \u00fee prologe of the Pardonere (f. 187v);\n                    Prologus (f. 187v, margin); The Pardoner (RT); Explicit\n                        prologus (f. 188, margin)",
+            "folio": "ff. 187v-188"
+        },
+        "Lincoln110": {
+            "First Lines": "\nOVre ost gan swere as he were woodHarow quod he by nayll and bi\n                    blood\u2026\n",
+            "Last Lines": "\n\u2026I graunte I wis quod he but I mote \u00feenkeVpon sum onest\n                    \u00feing while that I drinke\n",
+            "Note": "\nVI.297-8 omitted.",
+            "Attributed Title": "\n\u2026And / Now beginnyth \u00fee tale of \u00fee pardonere (f. 173,\n                    heavily stained)",
+            "folio": "ff. 173-173v"
+        },
+        "LonPhys388": {
+            "First Lines": "\nOWre host gan to swere as he were woodeHarow quod he bi nailes and\n                    bi bloode\u2026\n",
+            "Last Lines": "\n\u2026I graunt I wis quod he but I must drynkeVpon sum honest thyng\n                    while that I thynk\n",
+            "Note": "\nVI.297-8 omitted.",
+            "Attributed Title": "\nIncipit Prologus (f. 232v)",
+            "folio": "ff. 232v-233"
+        },
+        "RylandsEng113": {
+            "First Lines": "\nOure oost begynnyth to swere as he were woodharrowe quod he bi\n                    nayles and bi blood\u2026\n",
+            "Last Lines": "\n\u2026I graunte I wis quod he but I most thynkeVpon some onest\n                    thyng while \u00feat I drynke\n",
+            "Note": "\nVI.297-8 follow 299-300.",
+            "Attributed Title": "\n\u2026And begynnyth \u00fee prologe of \u00fee pardoners tale (f.\n                        114v); Pardoners prologe (f. 114v, margin); Pardoner\n                    (RT); Robulcley / Pardoner (f. 115, margin)",
+            "folio": "ff. 114v-115"
+        },
+        "Petworth7": {
+            "First Lines": "\nOure hoost gan swere as he were woodharrowe quod he by nailles and\n                    by blood\u2026\n",
+            "Last Lines": "\n\u2026I graunt Iwis quod he but I mote \u00feinkVpon som honest\n                    \u00feinge whiles \u00feat I drink\n",
+            "Note": "\nVI.297-8 omitted.",
+            "Attributed Title": "\nThe prologe of \u00fee / Pardonere (f. 215, margin); Thus ende\u00fe\n                    \u00fee prologe of \u00fee pardoner\u2026 (f. 215v)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 215-215v"
+        },
+        "Austin143": {
+            "First Lines": "\nOure Oste begynneth to swere as he were wodeharowe quod he by\n                    nailes and by blode\u2026\n",
+            "Last Lines": "\n\u2026I graunte ywis quod he but y moste thynkevppon som honest\n                    thyng while that y drynke\n",
+            "Note": "\nVI.297-8 follow 299-300.",
+            "Attributed Title": "\n\u2026And begynneth the prologge of the Pardoner (f. 141); Pardoner (RT);\n                    Robulcley (f. 144v, margin)",
+            "folio": "ff. 144-144v"
+        },
+        "PierpontM249": {
+            "First Lines": "\nOure hoost gan swere as he were woodHarrow quod he by nayles and by\n                    blood\u2026\n",
+            "Last Lines": "\n\u2026I graunte Iwis quod he but I mot thinkeVpon som honest thing\n                    while that I drynke\n",
+            "Note": "\nVI.292, 299-300 omitted.",
+            "Attributed Title": "\n\u2026And here bygynneth the prologe of the pardoner (f. 187v);\n                    The prologe Of the Pardoner (RT); Explicit prologus\u2026 (f.\n                    188)",
+            "folio": "ff. 187v-188"
+        },
+        "PhilRos10841": {
+            "First Lines": "\nOure oste gan swere as he were woodHarow quod he by nayles and by\n                    blood\u2026\n",
+            "Last Lines": "\n\u2026I graunte quod he y wys but y moot thynkeVppon som honeste\n                    thynge whyle that y drynke\n",
+            "Note": "\nVI.297-8 omitted.",
+            "Attributed Title": "\n\u2026And by gynneth the prologe of the pardoner (f. 143); Here endeth the\n                    prologe of the pardonere\u2026 (f. 143v)",
+            "folio": "ff. 143-143v"
+        },
+        "PUL100": {
+            "First Lines": "\nOure hoost gan swere as he were woodHarowe quod he be naylis and be\n                    blode\u2026\n",
+            "Last Lines": "\n\u2026I graunte I wis quod he but I must thinkOppon som honest\n                    thing whilis that I drink\n",
+            "Attributed Title": "\n\u2026And here begynnyth the Pardoner his prolog (f. 146v);\n                    Prologg pardonere (RT) Here endith the Pardonere his Prolog (f. 147)",
+            "folio": "ff. 146v-147"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nOVre Hoost gan to swere as he were woodharrow quod he by nayles and\n                    by blood\u2026\n",
+            "Last Lines": "\n\u2026I graunte ywis quod he but I moot thynkeVp on som honeste\n                    thyng whil \u00feat I drynke\n",
+            "Note": "\nVI.297-8 omitted.",
+            "Attributed Title": "\n\u2026The wordes of the Hoost to the Phyisicien and the Pardoner (f. 136);\n                    Pardoner (RT)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 136-136v"
+        },
+        "BNangl39": {
+            "First Lines": "\nOure host began to swere as he were woodharrow quod he by naylis\n                    and by blood\u2026\n",
+            "Last Lines": "\n\u2026but in the cuppe wil I me bethinkevppon sum honest tale whils\n                    I drynke\n",
+            "Note": "\nVI.299-300, 305-6 omitted.",
+            "Attributed Title": "\n\u2026& subsequenter incipit prohemium fa / bule perdonarij hoc\n                        modo sequente (f. 64ra)",
+            "folio": "f. 64ra-64rb"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nOure oost began to swere as he were woodHarrow quod he be nayles\n                    and be blod\u2026\n",
+            "Last Lines": "\n\u2026I graunt I wis quod he but I must thinkVpon som honest thing\n                    whil that I drink\n",
+            "Note": "\nVI.297-8 omitted.",
+            "Attributed Title": "\n\u2026Et incipit Prologus de la Pardoner / cum fabula sua (f.\n                        153v)",
+            "folio": "f. 154"
+        },
+        "TokyoTak32": {
+            "First Lines": "\nOwre Ooste gan to swere as he were woodharrow quod hee by naylis\n                    & by blood\u2026\n",
+            "Last Lines": "\n\u2026I grawnte I wis quod he but I mote thynkeVppon svm honest\n                    thyng while that I drynke\n",
+            "Note": "\nVI.297-8 omitted.",
+            "Attributed Title": "\nThee pardoner (RT); Here endyht thee prologe of the pardoner (f.\n                        97rb)",
+            "folio": "ff. 97ra-97rb"
+        },
+        "Bodmer48": {
+            "First Lines": "\nOure host gan swere as he were wodeharrow quod he bi nailis and bi\n                    blode\u2026\n",
+            "Last Lines": "\n\u2026I graunte ywis quod he but I mot thinkvpon sum honest thing\n                    while \u00feat I drink\n",
+            "Note": "\nVI.297-8 omitted.",
+            "Attributed Title": "\nThe prolog of the Pardoner (f. 154, rubric)",
+            "Facsimiles": "\n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n",
+            "folio": "ff. 154-154v"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "_id": 3376,
+    "_header": "Man sicker help hast thou and prest",
+    "Note": "Cf. 1054 for a different translation of the Latin passage.",
+    "Subjects": "Virgin Mary, attributes of; Christ, attributes of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Virgin Mary and her Son, Man\u2019s Advocates \u2014 three couplets",
+    "_witnesses": {
+        "CamJes13": {
+            "First Lines": "\nSuer help hast thou & prestqwer the modyr hyr sone schewyt hyr\n                    brest\u2026\n",
+            "Last Lines": "\n\u2026ther no may be noo warynggeqwer is of loue so gret\n                    toknygge\n",
+            "folio": "Part III, f. 90"
+        },
+        "BLHar7322": {
+            "Transcription": "\ngod help hastou man & prest\u00fee moder here sone sewet here brest\u00fee sone his fadir ssewet his sidehise wondir wondis depe & wide\u00feanne mai \u00feer be no maner werning\u00feerof so gret loue is so gret tocning\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Political, Religious and Love Poems, from Lambeth MS. 306 and other\n                sources.\nEETS\n         o.s. 15 (1866); repr. 1962; rev. ed. 1903: 235; rev. ed. 264.\n",
+            "folio": "f. 158r4"
+        },
+        "NLS18721": {
+            "Transcription": "\nMan siker helpe has \u00feu & prest\u00fee moder \u00fee sone\n                    sewit hire brest\u00fee sone his fader his blodi side& alle his\n                    wondis depe an wyde\u00feer may ben non werningge\u00feer love is of\n                    so gret sewingge\n",
+            "Note": "\nJohn Grimestone\u2019s sermon notebook.",
+            "Attributed Title": "\nDe Passione Christi (f. 117)",
+            "Editions": "\nWoolf,  Rosemary. \n             The English Religious Lyric in the Middle Ages.\n         Oxford: Clarendon, 1968: 34.\n",
+            "folio": "f. 117"
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "_id": 4415,
+    "_header": "Princes proud that beth in press",
+    "Title(s)": "Roberd of Cisyle",
+    "Subjects": "Robert of Sicily; legends",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Roberd of Cisyle \u2014 in couplets",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nPRinces proude \u00feat be\u00fe in presI wol ou telle \u00feing\n                    not lees\u2026\n",
+            "Last Lines": "\n\u2026Euermore to ben a boue\u00deer Is Ioye cumfort and loue.\n                    AMEN.\n",
+            "Note": "\n444 lines.",
+            "Attributed Title": "\nHer is of kyng Robert of Cicyle (see 1983)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nHorstmann,  Carl. \n             Sammlung altenglischer Legenden.\n         Heilbronn: Henninger, 1878: 209-19.\nFrench,  Walter Hoyt,  and  Charles Brockway Hale.  \n             Middle English Metrical Romances.\n         New York: Prentice-Hall, 1930: 933.\nFord,  Boris. \n             The Age of Chaucer, with an Anthology of Medieval Poems.\n         Hammersmith, Melbourne, etc.: Penguin, 1954: 289-301.\nFoster,  Edward E.,\n                        ed.  \n             Amis and Amiloun,\n                    Robert of Cisyle, and Sir Amadace.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1997. 2nd ed.\n            2007: 89-110.\n\n",
+            "folio": "ff. 300rc2-301rc"
+        },
+        "OxfTri57": {
+            "Editions": "\nHorstmann,  Carl. \n             Sammlung altenglischer Legenden.\n         Heilbronn: Henninger, 1878: 209-19.\n",
+            "folio": "f. 165"
+        },
+        "CULFf238": {
+            "First Lines": "\nPryncis \u00feat be prowde in preseI wyll \u00feat \u00feat ys no\n                    leesYn Tysyll was a nobull kyngeffayre & stronge & some dele\n                    \u021dynge\u2026\n",
+            "Last Lines": "\n\u2026That he graunt vs \u00feat ylk blysseThat he ha\u00fe\n                    ordeyned for all hys\n",
+            "Facsimiles": "\nMcSparran,  Frances,  and  Pamela R. Robinson.  \n             \u201cIntroduction.\u201d \n             Cambridge University Library MS Ff.2.38.\n         London: Scolar Press, 1979. \n",
+            "Editions": "\n\nHorstmann,  Carl. \n             \u201cNachtr\u00e4ge zu den Legenden.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         62 (1879): 397-442: 417-31.\nHalliwell-Phillipps,  James Orchard. \n             Nugae Poeticae: Select Pieces of Old English Popular Poetry,\n                Illustrating the Manners and Arts of the Fifteenth Century.\n         London: J. R. Smith, 1844: 49-63.\nHazlitt,  William Carew. \n             Remains of the Early Popular Poetry of England.\n         London: J. R. Smith, 1864-6: 1.270-88.\n\n",
+            "folio": "ff. 254rb-257vb"
+        },
+        "CULIi49": {
+            "First Lines": "\nPRyncis prowde that ben in presI xal you telle \u00feat is no\n                    les\u2026\n",
+            "Last Lines": "\n\u2026Comfort vs whan we hens wendeIn to \u00feat blysse \u00feat\n                    hath non ende\n",
+            "Attributed Title": "\nHere endyth Kynge Roberd of Cysyle (f. 93v)",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cNachtr\u00e4ge zu den Legenden.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         62 (1879): 397-442: 417-31.\n",
+            "folio": "ff. 87v-93v"
+        },
+        "CamGon174": {
+            "First Lines": "\nPryncys provde that be in preesI schall you tell that is no\n                    leesse\u2026\n",
+            "Last Lines": "\n\u2026Euermore to be a boveffor there is euyr Ioy peas &\n                    loue\n",
+            "Attributed Author": "\n[or scribe?] ffysher iiiiiiiiiii\u021d (p. 458), ffyshar (p. 459),\n                    Sproxton (p. 460)",
+            "Attributed Title": "\nJhesu mercy (pp. 456-7, as RT), \u2018lady helpe\u2019 (pp. 458-9, as\n                    RT); Explicit kyng Roberd of Cesyll (p. 468)",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cNachtr\u00e4ge zu den Legenden.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         62 (1879): 397-442: 417-31.\n",
+            "folio": "pp. 456-468"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nPrinces proude \u00feat beo\u00fe in presI wol ou telle \u00feing not les\u2026\n",
+            "Last Lines": "\n\u2026Euermore to ben aboue\u00deer \u00feat is Ioye cumfort and loue\n",
+            "Note": "\nAfter end, \u201cAmen.\u201d",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 90vc-91vb"
+        },
+        "BLAdd34801": {
+            "First Lines": "\n\u2026When he come in\n                    \u00feat \u00fee blod borst out of mou\u00fe and chyn\u2026\n",
+            "Last Lines": "\n\u2026I schal him clo\u00fee as \u00fei bro\u00feer\n                    Of s[...] \u00feing and non o\u00feer\n",
+            "Note": "\nFragment, 46 lines.",
+            "Editions": "\nHornstein,  Lillian Herlands. \n             \u201cKing Robert of Sicily: A New Manuscript.\u201d \n             PMLA\n         78 (1963): 453-8: 455.\n",
+            "folio": "f. 2"
+        },
+        "BLHar525": {
+            "First Lines": "\nPRincis proude \u00feat bene in preesseA thing I wull yow tell \u00feat is no lees\u2026\n",
+            "Last Lines": "\n\u2026And \u00feat we mow have \u00feat blysThat cryst bought for all his\n",
+            "Note": "\nBelow last line, \u201cAmen\u201d (f. 43v).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 525.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_525. \n",
+            "folio": "ff. 35-43v"
+        },
+        "BLHar1701": {
+            "First Lines": "\nPRynces proude \u00feat be\u00fe yn presI wyl \u021dow telle of\n                    \u00feyng no les\u2026\n",
+            "Last Lines": "\n\u2026God graunte \u00feat hyt so beAmen Amen per\n                    charyte\n",
+            "Editions": "\nUtterson,  Edward Vernon,\n                        ed.  \n             Kyng Roberd of Cysylle.\n         London: Whittingham, 1839. \n",
+            "folio": "ff. 92-95"
+        }
+    }
+}

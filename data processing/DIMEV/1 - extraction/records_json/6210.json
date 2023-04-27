@@ -1,0 +1,22 @@
+{
+    "_id": 6210,
+    "_header": "Well were him that wist / To whom he might trust",
+    "Note": "First two lines same as 6208 and 6209.",
+    "Subjects": "friends, false",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "A warning against false friends \u2014 one 6-line tail-rhyme stanza",
+    "_witnesses": {
+        "BodAsh1438": {
+            "First Lines": "\nWel wer hym \u00feat wyst to wham he moght trist\n                    \u2026\n",
+            "Last Lines": "\n\u2026the falce fro the trewclothyd yn oon wede\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\n\nBlack,  William Henry. \n             Catalogi Codicum Manuscriptorum Bibliothecae Bodleianae\u2026Pars X,\n                A\u2026Catalogue of the Manuscripts bequeathed\u2026by Elias Ashmole.\n         Oxford: Clarendon, 1845: 1186.\nF\u00f6rster,  Max. \n             \u201cDie Mittelenglische Sprichw\u00f6rtersammlung in Douce 52.\u201d \n             Festschrift zum XII Deutschen Neuphilolgentage in M\u00fcnchen\n                1906.\n            E. Stollreither, ed. \n         Erlangen (1906): 40-64: 46.\n\n",
+            "folio": "p. 82"
+        },
+        "BLRoy17Bxlvii": {
+            "Note": "\nLacks lines 3, 6, to form 2 couplets.",
+            "Editions": "\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.366.\n",
+            "folio": "f. 3v"
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "_id": 2516,
+    "_header": "In holy book find we / That this day has names three",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel; Purification, feast of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Feast of the Purification, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nIn holy Bok fynde we\u00deat \u00feis day hath Nomes\n                    \u00fere\u2026\n",
+            "Last Lines": "\n\u2026Now vndurstonde \u021de I weneWhat \u00fee feste of \u00feis\n                    day wol mene\n",
+            "folio": "ff. 177va-178ra"
+        },
+        "BodAsh42": {
+            "First Lines": "\nIN hali boke writen find we\u00feat \u00feis daie hafe names\n                    thre\u2026\n",
+            "Last Lines": "\n\u2026Now vndirstand maie \u021de i weneWhat ye feste of to daie\n                    will mene\n",
+            "folio": "ff. 232-234"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nIN holi boke \u00feen fynde we\u00deat \u00feis day has names\n                    thre\u2026\n",
+            "Last Lines": "\n\u2026Bot to \u00fee worschipe of oure lady\u00deat owe \u00feis\n                    day specialy\n",
+            "Attributed Title": "\nIn Purificacione beate Marie virginis secundum Lucam (p.\n                    80)",
+            "folio": "pp. 80-84"
+        },
+        "CULDd11": {
+            "First Lines": "\nIN holy bokis fynd we\u00deat \u00feis day ha\u00fe namys\n                    thre\u2026\n",
+            "Last Lines": "\n\u2026Now vnderstond \u021de I wenewhat \u00fee feste of \u00feis\n                    day wile mene\n",
+            "Attributed Title": "\nPostquam impleti sunt dies purgacionis et c. (as heading, bottom, f.\n                    74)",
+            "folio": "ff. 74v-76"
+        },
+        "CULGg531": {
+            "First Lines": "\nIn haly buke fynde we\u00deat \u00feis day has names\n                    thre\u2026\n",
+            "Last Lines": "\n\u2026Now may we we vndyrstand & weneWhat \u00fee feste of\n                    \u00feis day wyll mene\n",
+            "Attributed Title": "\nIn purificacione beate marie secundum lucam( f.\n                    45v)",
+            "folio": "ff. 45v-47v"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nIn haly buke fynde weThat \u00feis day has names\n                    thre\u2026\n",
+            "Last Lines": "\n\u2026Now may \u00fee vndirstande and weneWhat \u00fee fest of\n                    \u00feis day will mene\n",
+            "folio": "ff. 44-46"
+        },
+        "BLHar4196": {
+            "First Lines": "\nIn hali writ \u021dit find may weHow \u00feis ilk fest has names thre\u2026\n",
+            "Last Lines": "\n\u2026And bi \u00feis reson es wele senewat \u00feis name candilmes mai mene\n",
+            "Attributed Title": "\nDe miraculis in purificacione (rubric, f. 142va)",
+            "folio": "f. 142va1"
+        },
+        "EDCPCM": {
+            "First Lines": "\niN hali boc find we\u00deat \u00feis dai hafes names\n                    thre\u2026\n",
+            "Last Lines": "\n\u2026Now vnderstand ye I weneQuat \u00fee fest of to daye wil\n                    mene\n",
+            "Attributed Title": "\nIn Purificacione beate Marie secundum lucam (f.\n                    34vb)",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 34vb-35vb"
+        },
+        "Lam260": {
+            "folio": "f. 17va"
+        },
+        "MinULZ822": {
+            "First Lines": "\nIn haly boke fynde we\u00feat \u00feis day has names\n                    thre\u2026\n",
+            "Last Lines": "\n\u2026now vndyrstande \u021de I wenewhat \u00fee fest of \u00feis\n                    day wyll men\n",
+            "Note": "\nNote folio change from Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943.",
+            "Attributed Title": "\nPurificacio beate Marie Secundum Lucam (f. 19, bottom of\n                    page)",
+            "folio": "ff. 19v-21"
+        },
+        "HunHM129": {
+            "First Lines": "\nIn holy boke fyndyt we\u00deat \u00feis day hauyth namys\n                    thre\u2026\n",
+            "Last Lines": "\n\u2026Now vndyrstond \u021de I weneWhat \u00fee fest of \u00feis\n                    day wil mene\n",
+            "Attributed Title": "\nIn die purificacionis beate marie (f. 37v)",
+            "folio": "ff. 37v-40"
+        }
+    }
+}

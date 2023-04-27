@@ -1,0 +1,35 @@
+{
+    "_id": 1160,
+    "_header": "Each man followeth his own fantasy",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler TM 375.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Amor et Pecunia\u2019",
+    "Subjects": "money; advice, moral",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, \u2018Amor et Pecunia\u2019 \u2014 seventeen 8-line stanzas",
+    "_witnesses": {
+        "BodAsh59": {
+            "First Lines": "\nEChe man to folowe his owen fantasyeLyche as it falle\u00fee in\n                    fall\u00fee in his opyniounHis witte enclyninge on to \u00feat\n                    partyeWhere as his herte ha\u00fee made elleccyoun\u2026\n",
+            "Last Lines": "\n\u2026Suche love graunted in trou\u00fee and stabulnesseShal haue\n                    his guerdoun and hys mede\n",
+            "Attributed Author": "\n\u2026by \u00feat Philosofre Lidegate daun Johan (f. 41)",
+            "Attributed Title": "\nNowe folowe\u00fee here nexst a questyoun made in wyse of balade by\n                    \u00feat Philosofre Lidegate daun Johan. Whe\u00feer is moste preferred in\n                    \u00fee worlde \u00feat nowe is / Amor vincit omnia. or Mentiris quod\n                        pecunia (f. 41)",
+            "folio": "ff. 41-43"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nEche man folowith his owne fantasielyke as It fallythe in his\n                    oppinion\u2026\n",
+            "Last Lines": "\n\u2026soche love groundyd in trouthe and stabellnesseshall have of\n                    god his reward and mede\n",
+            "Note": "\nRubric after last line: \u2018deo gracias / Iohn lydgat /\n                    wryttyn by Iohn Stowe\u2019 (f. 126).",
+            "Attributed Author": "\nIohn lydgat (ff. 124v, 126)",
+            "Attributed Title": "\nAmor vincit omnia / mentoris uod pecunia / Iohn lydgate(rubric\n                    heading, f. 124v; by scribe, John Stow)",
+            "folio": "ff. 124v-126"
+        },
+        "BLHar2251": {
+            "First Lines": "\nEche man folwith his owne fantasyeLiche as it fallith in his\n                    oppinioun\u2026\n",
+            "Last Lines": "\n\u2026Such love grounded in love and stablenesseShal have of god\n                    his gwerdoun and his mede\n",
+            "Attributed Author": "\nA demawnde by Lydgate (f. 46v)",
+            "Attributed Title": "\nA demawnde by Lydgate (f. 46v)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 744-9.\n",
+            "folio": "ff. 46v-48v"
+        }
+    }
+}

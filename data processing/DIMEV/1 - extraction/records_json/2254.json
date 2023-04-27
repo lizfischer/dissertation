@@ -1,0 +1,23 @@
+{
+    "_id": 2254,
+    "_header": "I rede that thou be jolly and glad",
+    "Subjects": "friends; anger; songs",
+    "Versification": "\u2014 two-line \u2014 ababa, cdcd",
+    "_description": "On the Choice of Friends \u2014 nine lines in two stanzas (ababa + cdcd)",
+    "_witnesses": {
+        "BodDou381": {
+            "First Lines": "\nI rede [ ] [ ] euer more if ie spie\u2026\n",
+            "Last Lines": "\n\u2026he wol do al that ever he canfor to make men angri as he\n                    ys\n",
+            "Note": "\nDamaged, partly unreadable.",
+            "Editions": "\n\nStainer,  Sir John, John Stainer,  C. Stainer,   and  Edward Williams Byron Nicholson.  \n             Early Bodleian music; sacred & secular songs, together with other\n                MS. compositions in the Bodleian Library, Oxford, ranging from about A.D. 1185 to\n                about A.D. 1505.\n         London, 1901; repr. Farnborough, Hants, England: Gregg, 1967: 2.59-60.\nWooldridge,  Harry Ellis,\n                        ed.  \n             \u201cThe Polyphonic Period, Part 2: Method of Music Art, 1330-1600\u201d \n             The Oxford History of Music.\n         Vol. 2 Oxford, 1905 (2 vols. Oxford, 1901-5): 129.\n\n",
+            "folio": "f. 22v"
+        },
+        "CULAdd5943": {
+            "Transcription": "\nI rede \u00feat \u00feu be ioly & glad& euer more \u00feu a\n                    spyeho be to wrong o\u00feer tosadput hym out of \u00fey\n                    companye& so \u00feu mist bne myry & gladfor by my tru\u00fee\n                    an angri manand hym like out a mysho wol do al \u00feat he canto\n                    make men angeri as he ys\n",
+            "Note": "\nFollowed by secundus Versus but blank staves below.",
+            "Facsimiles": "\n\nMayer,  L. S. \n             Music, Cantilenas and Songs.\n         London, 1906 (privately printed); by \"L. S. M.\". \nRastall,  Richard. \n             \u201cIntroduction.\u201d \n             A Fifteenth-Century Song Book: Cambridge University Library Additional\n                MS 5943 made in facsimile.\n         Leeds: Boethius Press, 1973. \n\n",
+            "Editions": "\n\nMayer,  L. S. \n             Music, Cantilenas and Songs.\n         London, 1906 (privately printed); by \"L. S. M.\": 12-13.\nDobson,  Eric John,  and  F. L. Harrison.  \n             Medieval English Songs.\n         New York: Cambridge UP, 1979: 214 (>critical text).\n\n",
+            "folio": "f. 161"
+        }
+    }
+}

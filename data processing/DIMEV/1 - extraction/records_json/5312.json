@@ -1,0 +1,15 @@
+{
+    "_id": 5312,
+    "_header": "The great sentence I write thee here",
+    "Subjects": "introductions, to prose texts; epilogues, to prose texts; liturgical texts; excommunication",
+    "_description": "The Method of pronouncing sentence of Excommunication \u2014 in prose with a preface of twelve rhyming lines and ten rhyming lines at the conclusion",
+    "_witnesses": {
+        "BLCottClauAII": {
+            "First Lines": "\n\u00dee grete sentens I wryte \u00fee here\u00deat foure tymes in\n                    \u00fee \u021dere\n",
+            "Last Lines": "\n\u2026ssepelle hit reddely for no\u021dt \u00feu wonde\u00deat alle\n                    men \u00fee vndurstande\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\n\nPeacock,  E.,\n                        ed.  \n             John Myrc: Instructions for Parish Priests.\nEETS\n         o.s. 31 (1868); repr. 1973: 21, 24.\nWordsworth,  Charles,  and  Henry Littlehales.  \n             The Old Service Books of the English Church.\n         London: 1904: 271 (preface only).\n\n",
+            "folio": "f. 125v"
+        }
+    }
+}

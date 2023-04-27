@@ -1,0 +1,19 @@
+{
+    "_id": 1172,
+    "_header": "Eat drink sleep less",
+    "Subjects": "precepts; advice, moral",
+    "Versification": "\u2014 five-line \u2014 aaaaa",
+    "_description": "Precepts concluding, \u2018Be man no\u021dt hors no\u00feer asse\u2019 \u2014 five monorhyming lines of varying length",
+    "_witnesses": {
+        "BodLauMis656": {
+            "Transcription": "\nEte drynke slepe lasseWake wepe bide fasteloue masselete\n                    lustes assebe man no\u021dt hors no\u00feer asse\n",
+            "Editions": "\n\nCoxe,  Henry Octavius. \n             Catalogus Codices Laudiani.\n         Oxon: e Typographeo academico, 1858: 1.\nSkeat,  Walter William,\n                        ed.  \n             William Langland: The Vision of Piers Plowman.\n            Vol. 3: Text C.\n             EETS\n         o.s. 54 (1873); repr. 1978: xxvii.\nK\u00f6lbing,  Eugen,  and  M. Day, eds.  \n             The Siege of Jerusalem, from Bodleian MS. Laud Misc. 656.\nEETS\n         o.s. 188 (1932); repr. 1988: vii.\n\n",
+            "folio": "f. iiv"
+        },
+        "CamPeter104": {
+            "Transcription": "\nEte drynke slepe lasseWepe wake byd fastLoue masseLete\n                    lustus passebe man ne\u00feer hors ne\u00feer asse\n",
+            "Editions": "\nJames,  Montague Rhodes. \n             A Descriptive Catalogue of the Manuscripts in the Library of Peterhouse\n                College, Cambridge.\n         Cambridge: at the UP, 1899: 121.\n",
+            "folio": "f. 210ra"
+        }
+    }
+}

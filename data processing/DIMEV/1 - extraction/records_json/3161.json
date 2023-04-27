@@ -1,0 +1,19 @@
+{
+    "_id": 3161,
+    "_header": "Loath to bed",
+    "Subjects": "sins, deadly; proverbs",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "On sloth \u2014 two short couplets translating, \u2018Ad lettum gressum tardat piger in huic q\u021d recessum\u2019 which follows",
+    "_witnesses": {
+        "BodDou52": {
+            "Transcription": "\nlothe to bedde & lothe fro beddeme schall know \u00fee\n                    flow\n",
+            "folio": "f. 21"
+        },
+        "RylandsLat394": {
+            "Transcription": "\nLoth to bedde and loth fro beddeAnd so \u00fee slowesone me\n                    shall knowe\n",
+            "Note": "\nWritten 2 lines text per line of MS.",
+            "Editions": "\nPantin,  William A. \n             \u201cA Medieval Collection of Latin and English Proverbs\u2026from Rylands\n                Latin MS. 394.\u201d \n             Bulletin of the John Rylands Library\n         14 (1930): 81-114: 99.\n",
+            "folio": "f. 10v"
+        }
+    }
+}

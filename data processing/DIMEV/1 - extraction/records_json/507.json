@@ -1,0 +1,26 @@
+{
+    "_id": 507,
+    "_header": "And Diomedes birds they were / Called thereafter",
+    "Note": "Inserted in two MSS of Lydgate\u2019s Troy Book, 3995.",
+    "Title(s)": "Troy Book; Troy fragments (Scottish)",
+    "Subjects": "Troy, tales of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Scottish Troy Fragments (A and B) \u2014 in couplets",
+    "_witnesses": {
+        "BodDou148": {
+            "First Lines": "\n\u2026The kyng when \u00feis consale was doneIn hys hall pryvely\n                    rytht sone\u2026\n",
+            "Last Lines": "\n\u2026Than In his werk al \u00fee endingOf quhiche efter is bot\n                    litill thing\u2026\n",
+            "Note": "\nFragment B: lines 1-918; 1181-1562 continuing to 3118.",
+            "Editions": "\nHorstmann,  Carl. \n             Barbours des schottischen Nationaldichters Legendensammlung.\n         Heilbronn: Henninger, 1881: 218-27; 229-34.\n",
+            "folio": "ff. 290-300v;  307-336v"
+        },
+        "CULKk530": {
+            "First Lines": "\n\u2026The kyng when \u00feis counsell was doneIn hys hall pryvely\n                    ryght sone\u2026\n",
+            "Last Lines": "\n\u2026Inne hye went to pryame \u00fee kyngTo certefye hym of this\n                    thyng\u2026\n",
+            "Note": "\nFragment B: lines 1-1562.",
+            "Attributed Title": "\nher endis the monk ande begynnis barbour (f. 304v)",
+            "Editions": "\nHorstmann,  Carl. \n             Barbours des schottischen Nationaldichters Legendensammlung.\n         Heilbronn: Henninger, 1881: 229-304.\n",
+            "folio": "ff. 304v-308"
+        }
+    }
+}

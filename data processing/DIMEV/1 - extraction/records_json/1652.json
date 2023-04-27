@@ -1,0 +1,20 @@
+{
+    "_id": 1652,
+    "_header": "Grace and manners maketh a man",
+    "Note": "The first line used as motto of Winchester College",
+    "Subjects": "proverbs",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A proverbial couplet",
+    "_witnesses": {
+        "OxfChrCh152": {
+            "Transcription": "\nGrace and good manners maketh mannBut who Louithe him that no good\n                    can\n",
+            "Editions": "\nManly,  John Matthews,  and  Edith Rickert, eds.  \n             The Text of the Canterbury Tales studied on the basis of all known\n                manuscripts.\n         8 vols. Chicago: University of Chicago, 1940: 1.90, 690.\n",
+            "folio": "f. 1"
+        },
+        "BLEge2862": {
+            "Transcription": "\nGrace and good manerers maketh a manBut woe be vnto him \u00feat no good can\n",
+            "Note": "\nAdded to right margin by a hand of sixteenth century.",
+            "folio": "f. 50"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "_id": 2601,
+    "_header": "In the emperor days Octavian",
+    "Note": "For the usual version see 6771 and 6772.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel, \u2018In gallicantu natalis domini\u2019, in the \u2018expanded\u2019 Northern Homily Cycle (\u2018Exit edictum\u2019 and \u2018Et pastores erant\u2019)",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 107vb"
+        },
+        "BLHar4196": {
+            "First Lines": "\nIn \u00fee emperure dais octouianeWhen fiue thowsand \u021deres war gane\u2026\n",
+            "Last Lines": "\n\u2026\u00deat es endles ioy and pese to dureIn cumyng of oure sauioure\n",
+            "Note": "\nPreceded by Latin, \u201cExiit edictum a cesare augusto.\u201d",
+            "Attributed Title": "\nDescripcio mundi uniuersalis in gallicantu Euangelium secundum Lucam (rubric, f. 12va)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): I.212-220.\n",
+            "folio": "ff. 12va-14ra"
+        }
+    }
+}

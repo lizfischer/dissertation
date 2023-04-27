@@ -1,0 +1,37 @@
+{
+    "_id": 467,
+    "_header": "Among these friars within an cloister",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 144; followed without a break by 3488.",
+    "Author(s)": "William Dunbar",
+    "Title(s)": "\u2018Of the passioun of Christ\u2019",
+    "Subjects": "Christ, Passion of; crucifixion; dream visions",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "William Dunbar, \u2018Of the passioun of Christ\u2019 \u2014 twelve 8-line stanzas with refrain: \u2018O mankynd for the lufe of the\u2019",
+    "_witnesses": {
+        "CamMagPep2553": {
+            "First Lines": "\nAmang thir freiris within ane cloisterI enterit in ane\n                    oritorie\u2026\n",
+            "Last Lines": "\n\u2026And tholit to be crucifyidO mankynd for the luif of\n                    the\n",
+            "Note": "\nNo indication of end before 3488 begins.",
+            "Editions": "\n\nSmall,  John, Ae. James George Mackay,  George Powell McNeill,   and  Walter Gregor, eds.  \n             The Poems of William Dunbar.\n             5 pts. \n             Scottish Text Society\n         2, 4, 16, 21, 29. Edinburgh, 1884-93: 239-43.\nSchipper,  Jakob. \n             The Poems of William Dunbar.\n         Vienna: Kaiserliche Akademie der Wissenschaften, 1894: 375-7.\nSchipper,  Jakob,\n                        ed.  \n             The Poems of William Dunbar.\n             4 vols. \n             Denkschriften der kaiserlichen Akademie der Wissenschaften,\n                Philosophische-Historische Klasse\n         40/2; 40/4; 41/4; 42/4. Vienna, 1892-93: 72-5.\nBaildon,  Henry Bellyse. \n             The Poems of William Dunbar.\n         Cambridge: University Press, 1907: 199-201.\nCraigie,  William Alexander. \n             The Maitland Folio Manuscript, Containing Poems by Sir Richard\n                Maitland, Dunbar, Douglas, Henryson, and others.\n             2 vols. \n             Scottish Text Society\n         n.s. 7 (1919), 20 (1927); Edinburgh and London: Blackwood, 1919,\n            1927: 1.229-32.\nMacKenzie,  William Mackay. \n             The Poems of William Dunbar.\n         Edinburgh, 1932: 155-7.\nKinsley,  James. \n             William Dunbar, Poems.\n         Oxford: Clarendon, 1958; repr. 1979: 2-6.\n\n",
+            "folio": "pp. 203-206"
+        },
+        "BLAru285": {
+            "First Lines": "\nAmang thir freris within a ClosterI Enterit in ane oratory\u2026\n",
+            "Last Lines": "\n\u2026And tholit tovt crucifyidO mankind for \u00fee lufe of \u00fee\n",
+            "Note": "\nOn folios 168-169 plus the misbound folio 171-171v.",
+            "Attributed Title": "\nThe Passioun of Crist (rubric, f. 168)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Arundel MS 285.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Arundel_MS_285. \n",
+            "Editions": "\nBennett,  Jack Arthur Walter,\n                        ed.  \n             Devotional Pieces in Verse and Prose from Ms. Arundel 285 and Ms.\n                Harleian 6919.\nScottish Text Society\n         3rd ser. 23. Edinburgh: Blackwood, 1955: 266-7.\n",
+            "folio": "ff. 168-169;  171-171v"
+        },
+        "Asloan": {
+            "First Lines": "\namang \u00feir freris in a closterI ruterit in ane oratoryAnd\n                    knelit dovne\u2026\n",
+            "Last Lines": "\n\u2026And tholit to be crucefyidO mankyng for \u00fee luf of\n                    \u00fee\n",
+            "Note": "\n96 lines only; MS also paginated, = pp. 600-603; nineteenth-century\n                    transcripts in Edinburgh,  Edinburgh University Library La.III.450/1 [olim Laing 450], Part 1, ff. 52-53v (by\n                    Chalmers; ed. Paterson (1863)\nXPaterson,  James. \n             The Works of William Dunbar.\n         Edinburgh: Stillie, 1863, 81-3) and Edinburgh,  Edinburgh University Library La.IV.27,\n                        Edinburgh,  Edinburgh University Library La.IV.28, item 1 (Laing  and  Turnbull (1837)\nXDavid Laing,   and  William Barclay David Donald Turnbull.  \n             Owain Miles &c.\n         Edinburgh, 1837,\n                    1.243-6)..",
+            "Attributed Author": "\nQuod dunbar (f. 292)",
+            "Attributed Title": "\nHeir begynnis \u00fee passioun of Ihesu (f. 290v)",
+            "Editions": "\nCraigie,  William Alexander. \n             The Asloan Manuscript.\n             2 vols. \n             Scottish Text Society\n         n.s. 14, 16. Edinburgh, London: Blackwood, 1923, 192: 2.242-5.\n",
+            "folio": "ff. 290v-292"
+        }
+    }
+}

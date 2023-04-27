@@ -1,0 +1,21 @@
+{
+    "_id": 6692,
+    "_header": "Wille Gris Wille Gris",
+    "Title(s)": "Lanercost Chronicle",
+    "Subjects": "proverbs; aphorisms",
+    "_description": "A saw in the Lanercost Chronicle (A.D. 1244) about a Norfolk peasant boy",
+    "_witnesses": {
+        "OxfBal238": {
+            "Transcription": "\nWille gris Wille gristhenke what \u00feu were and what \u00feu\n                    is\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nMynors,  Roger Aubrey Baskerville,\n                        ed.  \n             Catalogue of Manuscripts in Balliol College Library.\n         Oxford: Clarendon, 1962: 235.\n",
+            "folio": "f. 319va"
+        },
+        "BLCottClauDVII": {
+            "Transcription": "\nWille gris wylle grisThinche twat \u00feou was and qwat \u00feou\n                    es\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\n\nStevenson,  Joseph,\n                        ed.  \n             Chronicon de Lanercost.\nMaitland Club\n         46 Edinburgh, 1839; also  Bannatyne Club 65\n            Edinburgh, 1839.: 52.\nCraik,  George Lillie. \n             A Compendious History of English Literature\n         New York: Scribner, 1869: 1.226.\nPadelford,  Frederick Morgan. \n             The Cambridge History of English Literature.\n         Vol. 2 Cambridge, 1927: 2.558 (American ed.).\nWells,  John Edwin. \n             Manual of the Writings in Middle English, 1050-1400.\n         New Haven, CT: Connecticut Academy of Arts and Sciences, 1916: 1065.\nCoulton,  George Gordon. \n             Life in the Middle Ages.\n         Cambridge: at the UP, 1931, and New York: Macmillan, 1931: 3.22.\n\n",
+            "folio": "f. 184v"
+        }
+    }
+}

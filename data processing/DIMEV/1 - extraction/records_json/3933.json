@@ -1,0 +1,27 @@
+{
+    "_id": 3933,
+    "_header": "O High Empress and queen celestial",
+    "Author(s)": "William Dunbar (attrib.)",
+    "Title(s)": "Ane Ballat of Our Lady",
+    "Subjects": "ballads, religious; Virgin Mary, songs in honour of",
+    "Versification": "\u2014 eight-line \u2014 ababbaba",
+    "_description": "\u2018Ane Ballat of Our Lady\u2019, attributed to William Dunbar\u2014six 8-line stanzas",
+    "_witnesses": {
+        "BodArcSelB24": {
+            "First Lines": "\nO hie Emperice and quene celestiall Princes eterne and flour\n                    Immaculate\u2026\n",
+            "Last Lines": "\n\u2026In euery place blissit mote \u021de be Eternaly abufe all\n                    erdly wicht\n",
+            "Attributed Author": "\nQuod Chaucere (f. 138)",
+            "Facsimiles": "\nBoffey,  Julia,  and  A. S. G. Edwards, eds.  \n             Chaucer, Works. Bodleian Library MS Arch Selden B.24: Facsimile\n                Edition.\n         Cambridge: D. S. Brewer, 1995. \n",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 26-8.\nSaupe,  Karen,\n                        ed.  \n             Middle English Marian\n                    Lyrics.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1998: 161-2; 273-4.\n\n",
+            "folio": "ff. 137v-138"
+        },
+        "Asloan": {
+            "First Lines": "\nO hie emprys and quene celestiale Princis eterne and flour\n                    Immaculat\u2026\n",
+            "Last Lines": "\n\u2026Incomperable \u00fee haly gast als fast In to \u021dour\n                    Innocens dovne has sent\n",
+            "Note": "\n5 stanzas; a post-medieval transcript is Edinburgh, University Library\n                    La.IV.27-28, item 6; ed. Laing (1834)\nXLaing,  David. \n             The Poems of William Dunbar.\n         2 vols. Edinburgh: Laing and Forbes, 1834; Supplement, 1865, 1 (suppl.),\n                    305.",
+            "Attributed Title": "\n\u2018heir followis ane ballat of our lady\u2019 (f. 292)",
+            "Editions": "\nCraigie,  William Alexander. \n             The Asloan Manuscript.\n             2 vols. \n             Scottish Text Society\n         n.s. 14, 16. Edinburgh, London: Blackwood, 1923, 192: 2.245-6.\n",
+            "folio": "ff. 292-292v"
+        }
+    }
+}

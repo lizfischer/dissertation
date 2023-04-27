@@ -1,0 +1,34 @@
+{
+    "_id": 5404,
+    "_header": "The mind of Thy sweet passion Jesu tears it tells",
+    "Note": "For a variant, see 3235, and cf. Woolf (1968)\nXWoolf, Rosemary. The English Religious Lyric in the Middle Ages. Oxford: Clarendon, 1968, 373.",
+    "Subjects": "Passion, meditations on",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Effects of Passion Longing \u2014 1 x 2 in Latin homily, \u2018Amore Langueo\u2019",
+    "_witnesses": {
+        "OxfBal149": {
+            "Transcription": "\n\u00dee mynde of \u00fey swet passion Iesu teres it tellesEne it\n                    bolle\u021d my vesage it wetes & my hert it swetes\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 31v"
+        },
+        "OxfMagd93": {
+            "Transcription": "\nthe mynde of the swete passion teres hit tyllesyene hit bolles\n                    my vysage hit wetes and my herte filleth yn swetnesse\n",
+            "Note": "\nWritten as two lines, ending \u2018tylles\u2019 and\n                    \u2018swetnesse\u2019.",
+            "folio": "f. 152v"
+        },
+        "OxfStJohn190": {
+            "Transcription": "\n\u00dee munde of Cristes passion\u00feat was hure alre\n                    ransunteres hit tollezeches hit bolleznebbes hit wetezand\n                    hertes hit swetes\n",
+            "Editions": "\nWenzel,  Siegfried. \n             \u201cUnrecorded Middle-English Verses.\u201d \n             Anglia\n         92 (1974): 55-78: 71.\n",
+            "folio": "f. 232"
+        },
+        "CULKk424": {
+            "Transcription": "\nThe mynde of \u00fey swete passyon ihesuterys hyt tellysmyn eyes\n                    hyt bollythmy vesage hyt wetyth& myn herte swetyth\n",
+            "folio": "f. 144rb"
+        },
+        "CamGon408": {
+            "Transcription": "\nteres tolleteyne bolletloeres wetetand herte\n                    swetet\n",
+            "Editions": "\nWenzel,  Siegfried. \n             \u201cUnrecorded Middle-English Verses.\u201d \n             Anglia\n         92 (1974): 55-78: 71.\n",
+            "folio": "f. 135v"
+        }
+    }
+}

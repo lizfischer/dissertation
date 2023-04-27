@@ -1,0 +1,22 @@
+{
+    "_id": 4196,
+    "_header": "Of one prophet I will now tell",
+    "Note": "Possibly a continuation of 6345, which it always follows in the MSS. In part an abridgement of 6380. Concluding section on \u2018Signs and Judgment\u2019 also occurs separately; see 4622, 5278.",
+    "Title(s)": "South English Legendary",
+    "Subjects": "Christ, life of; prologues",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Abridged Life of Christ in two MSS of the South English Legendary, preceeded by a five-line Prologue (376).",
+    "_witnesses": {
+        "CamTCC605": {
+            "Note": "\nTwo portions, of 197 and 546 lines",
+            "Facsimiles": "\n\nDigital Facsimile of Trinity College Cambridge MS R.3.25.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.25. \n",
+            "folio": "ff. 22-24;  183-188v"
+        },
+        "BLEge1993": {
+            "First Lines": "\nOf one prophete ich wol now telle ihote was ZakaneIs wif het elisabe\u00fe & godes moder marie\u2026\n",
+            "Last Lines": "\n\u2026\u00dee sonne was blak hit was eclips a\u021den kinnde inowNe mi\u00f1te \u00fee sonne schine lengore \u00fean he to de\u00fee drow\n",
+            "Note": "\n472 lines; lower half of f. 26 ruled but left blank. Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943 lists this as ending on folio 26.",
+            "folio": "ff. 21-26v"
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "_id": 3817,
+    "_header": "Now well may me mirths make",
+    "Subjects": "carols, Nativity",
+    "Versification": "\u2014 four-line \u2014 aaab",
+    "Macaronic": "Latin",
+    "_description": "A macaronic Christmas carol \u2014 five quatrains (aaab) with Latin caudae and burden (b): Letabundus exultet fidelys chorus Alleluia",
+    "_witnesses": {
+        "BodArcSelB26": {
+            "First Lines": "\nNow wel may we merthis makeffor vs ihesu man hode hath\n                    takeonly for our synnes sakeAlleluya\u2026\n",
+            "Last Lines": "\n\u2026So childede \u00fee maide with oute wemPari\n                    forma\n\n",
+            "Facsimiles": "\nStainer,  Sir John, John Stainer,  C. Stainer,   and  Edward Williams Byron Nicholson.  \n             Early Bodleian music; sacred & secular songs, together with other\n                MS. compositions in the Bodleian Library, Oxford, ranging from about A.D. 1185 to\n                about A.D. 1505.\n         London, 1901; repr. Farnborough, Hants, England: Gregg, 1967. \n",
+            "Editions": "\n\nStainer,  Sir John, John Stainer,  C. Stainer,   and  Edward Williams Byron Nicholson.  \n             Early Bodleian music; sacred & secular songs, together with other\n                MS. compositions in the Bodleian Library, Oxford, ranging from about A.D. 1185 to\n                about A.D. 1505.\n         London, 1901; repr. Farnborough, Hants, England: Gregg, 1967: 2.109.\nPadelford,  Frederick Morgan. \n             \u201cEnglish songs in manuscript Selden B.26.\u201d \n             Anglia\n         36 (1912): 79-115: 91.\nStevens,  John,\n                        ed.  \n             Mediaeval Carols.\nMusica Britannica\n         4. London: Stainer and Bell, 1952, 2nd ed. 1958: 14.\nRobbins,  Rossell Hope. \n             Early English Christmas Carols.\n         New York and London: Columbia UP, 1961: 20.\nSaupe,  Karen,\n                        ed.  \n             Middle English Marian\n                    Lyrics.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1998: 65-6; 192-3.\n\n",
+            "folio": "f. 10"
+        },
+        "BLAdd5665": {
+            "Note": "\n3 stanzas and burden.",
+            "Attributed Title": "\n\nde natiuitate\n",
+            "Editions": "\n\nFehr,  Bernhard. \n             \u201cDie Lieder der Hs. Add. 5665 (Ritson\u2019s Folio-MS).\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         106 (1901): 262-85: 273.\nStevens,  John,\n                        ed.  \n             Mediaeval Carols.\nMusica Britannica\n         4. London: Stainer and Bell, 1952, 2nd ed. 1958: 94.\nRickert,  Edith,\n                        ed.  \n             Ancient English Christmas Carols.\n         London: Chatto & Windus, 1910: 177.\n\n",
+            "folio": "ff. 36v"
+        },
+        "Bridgewater": {
+            "First Lines": "\nNow well may we myrthys makeFor Ihesu mankynd hath\n                    take\u2026\n",
+            "Last Lines": "\n\u2026Oute of the wych commyghth a mervelose stremeSo dud \u00feat\n                    mayde wi\u00feowtyn wemePari forma\n\n",
+            "Note": "\nOn the back of a parchment indenture.",
+            "Attributed Title": "\nHoly holy holy holy holy & yffy yffy (head); Holy holy & yfy yffy\n                    holy yffy Holi (end)",
+            "Editions": "\n\n\nHistorical Manuscripts Commission, Third Report, with Appendix.\n         (1872):  App., 316.\nDilks,  T. Bruce. \n             Pilgrims in Old Bridgwater.\n         Bridgewater: East Gate Press, 1927: 35.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 10-11; 1977, 7.\nGreene,  Richard Leighton,\n                        ed.  \n             A Selection of English Carols.\nClarendon Medieval and Tudor Series.\n         Oxford: Clarendon, 1962: 60.\n\n",
+            "folio": "dorse"
+        }
+    }
+}

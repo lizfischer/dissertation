@@ -1,0 +1,78 @@
+{
+    "_id": 2760,
+    "_header": "It was a man as I heard say / That to Saint James took the way",
+    "Note": "For another version, see 4620.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "pilgrims/pilgrimage; legends; miracles",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "London, British Library Addit. 28010",
+    "_description": "The Pilgrim to St. James, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodSelSup52": {
+            "First Lines": "\nyt was aman ose I herd say\u00feat to sant Iamys toke the\n                    way\u2026\n",
+            "Last Lines": "\n\u2026Our lord be \u00feat way vs ledeTo heuyn blys to take our\n                    mede\n",
+            "folio": "ff. 173-176"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nHIt was a mon as I herde say\u00feat to seint Iames hi\u021dt his\n                    way\u2026\n",
+            "Last Lines": "\n\u2026Vre lord beo \u00feis wei vs ledeTo heuene and quit vs\n                    \u00feer vr mede Amen\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nHorstmann,  Carl. \n             \u201cDie Evangelien-Geschichten der Homiliensammlung des Ms. Vernon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         57 (1877): 241-316: 245.\nBoyd,  Beverly May,\n                        ed.  \n             Middle English Miracles of the Virgin.\n         New York: Columbia UP, 1955; San Marino, CA: Huntington Library,\n            1964: 18-23.\n\n",
+            "folio": "ff. 170rb-170va"
+        },
+        "BodAsh42": {
+            "First Lines": "\nIt was a man als i \u021dow saye\u00feat to saynte Iames toke\n                    \u00fee waye\u2026\n",
+            "Last Lines": "\n\u2026Oure lorde be \u00feis gate vs ledeTo heuene & graunte it\n                    vs to mede\n",
+            "folio": "ff. 17-19"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nIt was a man als I herd say\u00deat til seynt James hight his\n                    way\u2026\n",
+            "Last Lines": "\n\u2026Oure lorde be \u00feat way vs ledeTil heuene blisse to take\n                    oure mede Amen\n",
+            "Attributed Title": "\nNarracio de peregrino sancti Jacobi (p. 25)",
+            "folio": "pp. 25-29"
+        },
+        "CULDd11": {
+            "First Lines": "\nIt was a man as I herd say\u00deat to seynt James behihte his\n                    way\u2026\n",
+            "Last Lines": "\n\u2026Oure lord be \u00feis way vs ledeto heuene & quyte vs\n                    \u00feer oure mede Amen\n",
+            "Attributed Title": "\nNarracio (f. 50)",
+            "folio": "ff. 50-52"
+        },
+        "CULGg531": {
+            "First Lines": "\nIt was aman als I harde sayVnto sant Jame heght hys\n                    way\u2026\n",
+            "Last Lines": "\n\u2026Oure lorde by \u00feat ilk way vs ledeTyll heuen & gyfe\n                    vs \u00fear oure mede Amen\n",
+            "Attributed Title": "\nNarracio (f. 21)",
+            "folio": "ff. 21-23"
+        },
+        "BLHar2391": {
+            "First Lines": "\nIt was a man as I \u021dow say\u00feat to sayn Iam tok hys way\u2026\n",
+            "Last Lines": "\n\u2026Owr lord be \u00feis gat vs ledeTo heuen & grant vs it to mede\n",
+            "Note": "\nEnds \u201cAmen quod Johannes smyt.\u201d",
+            "Attributed Title": "\nA tale (left margin, f. 229)",
+            "folio": "ff. 229-230v"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nItt was a man als I harde say\u00feat to Saint James took the way\u2026\n",
+            "Last Lines": "\n\u2026Oure lorde by \u00feat ilk way vs ledeTill heuen and gif vs \u00feair our mede\n",
+            "Note": "\nIncorrectly cited in Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943 as in MS Add 28010.",
+            "folio": "ff. 16-18"
+        },
+        "Lam260": {
+            "First Lines": "\nIT was a man as I \u021dow say\u00deat to saynt Iames toke \u00fee\n                    way\u2026\n",
+            "Last Lines": "\n\u2026Oure lord be \u00feis gat vs ledeto heuen & graunted it\n                    vs to med Amen\n",
+            "folio": "ff. 7rb-7vb"
+        },
+        "EDCPCM": {
+            "First Lines": "\n\u00deis man wend \u00feat sain Iam warehe And said lauerd ic am al\n                    yare\u2026\n",
+            "Last Lines": "\n\u2026Our lauerd in \u00feis wai us ledeTil hem and yeld us\n                    \u00fear our med\n",
+            "Note": "\nNo break in this MS between this and preceding 6049.",
+            "Editions": "\n\nSmall,  John,\n                        ed.  \n             English Metrical Homilies\u2026.\n         Edinburgh: W. Paterson, 1862: 5-9.\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n\n",
+            "folio": "ff. 23va-24rb"
+        },
+        "HunHM129": {
+            "First Lines": "\nHyt was Aian as I herd say\u00feat to seynt Iame heght hys\n                    way\u2026\n",
+            "Last Lines": "\n\u2026Oure louerd in \u00feys wey vs ledeTo heuyn and \u021deld vs\n                    \u00feer oure mede\n",
+            "Attributed Title": "\nNarracio (f. 8)",
+            "folio": "ff. 8-10"
+        }
+    }
+}

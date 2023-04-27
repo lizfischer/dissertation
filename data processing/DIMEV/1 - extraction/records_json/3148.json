@@ -1,0 +1,14 @@
+{
+    "_id": 3148,
+    "_header": "Lo here is noted and put in memory",
+    "Subjects": "chronicles, verse in; Henry V, death of; envoys; elegies",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "The masses to be sung over the tomb of Henry V, translating Latin list which precedes these verses, and followed by Envoy, in Part VII of Fabyan\u2019s Chronicle, Septima Pars, Henrici Quinti \u2014 eight stanzas rhyme royal including 4-stanza Envoy",
+    "_witnesses": {
+        "HarEng766": {
+            "First Lines": "\nLoo here is notid And put in memoryThat ouer this Actes noble and\n                    marciallThis excellent prynce this fifte kyng henryhis Soule to endowe\n                    he was memoriall\u2026\n",
+            "Last Lines": "\n\u2026Aboue the Serarchies he is I trist now stallidThat was on\n                    Erth kyng of kynges called\n",
+            "folio": "ff. 344-345"
+        }
+    }
+}

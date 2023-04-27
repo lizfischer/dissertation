@@ -1,0 +1,26 @@
+{
+    "_id": 5691,
+    "_header": "This flower is fair and fresh of hue",
+    "Author(s)": "John Audelay",
+    "Title(s)": "The Flower of Jesse",
+    "Subjects": "carols, to Virgin Mary; Virgin Mary, carols to",
+    "Versification": "\u2014 six-line \u2014 aaaabb",
+    "Macaronic": "Latin",
+    "_description": "John Audelay, The Flower of Jesse, a song in praise of the Virgin Mary \u2014 seven six-line stanzas (aaaabb) and burden: \u2018There is a floure spr[u]ng of a tre / The rote \u00feerof is callid jesse / A floure of pryce / \u00deer is non seche in paradise\u2019",
+    "_witnesses": {
+        "BodDou302": {
+            "First Lines": "\nThere is afloure sprng of atre\u00fee rote \u00feer of is callid\n                    iesse\u2026\n",
+            "Last Lines": "\n\u2026As fayrist of al& euer was & euer schal\u00feer\n                    is a floure\n",
+            "Attributed Title": "\nAlia cantalena de sancta maria (f. 31v)",
+            "Editions": "\n\nChambers,  Edmund Kerchever,  and  Frank Sidgwick.  \n             Early English Lyrics\u2026.\n         London: Buller, 1907, 1911 et seq: 110-11.\nChambers,  Edmund Kerchever,  and  Frank Sidgwick.  \n             \u201cFifteenth Century Carols by John Audelay, II.\u201d \n             Modern Language Review\n         6 (1911): 68-84: 73-4.\nRickert,  Edith,\n                        ed.  \n             Ancient English Christmas Carols.\n         London: Chatto & Windus, 1910: 160-1.\nSegar,  Mary Gertrude,\n                        ed.  \n             A Mediaeval Anthology.\n         London, NY: Longmans, Green, 1915: 44 (5 stanzas only).\nHaberly,  Loyd. \n             Alia Cantalena de Sancta Maria.\n         Long Crendon, Bucks.: Seven Acres Press, 1926. \nWhiting,  Ella Keats,\n                        ed.  \n             John Audelay: The Poems.\nEETS\n         o.s. 184 (1931); repr. 1988: 202-3.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 129-30; 1977, 115.\nSpeirs,  John. \n             Medieval English Poetry: the non-Chaucerian Tradition.\n         London: Faber, 1957: 72-3 (omits stanzas 3, 4).\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 388-9.\n\n",
+            "folio": "f. 31va-31vb"
+        },
+        "OxfBal354": {
+            "First Lines": "\nThe flowr is fresshe & fayer be heweYtt fadis never but euer ys\n                    neve\u2026\n",
+            "Last Lines": "\n\u2026ffor best of all\u00deat euer was or euer be\n                    shallExplicit\n",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cEnglische Weihnachtslieder aus einter Handschrift des Balliol College\n                zu Oxford.\u201d \n             Forschungen zur deutschen Philologie. Festgabe f\u00fcr Rudolf\n                Hildebrands.\n         Leipzig: Deit, 1894: 52-84: 60.\nFl\u00fcgel,  Ewald,\n                        ed.  \n             Neuenglisches Lesebuch.\n         1 Bd. Halle: Niemayer, 1895: 115.\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 230-1.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 6.\n\n",
+            "folio": "p. 4611"
+        }
+    }
+}

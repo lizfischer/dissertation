@@ -1,0 +1,15 @@
+{
+    "_id": 3749,
+    "_header": "Now have I writ all",
+    "Subjects": "colophons",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "English couplet translating common Latin colophon: \u2018Nunc scripsi totum pro christo da michi potum\u2019",
+    "_witnesses": {
+        "Wellcome405": {
+            "Transcription": "\nNow haw y vryt alle\u021dyf me drynk of gode ale\n",
+            "Note": "\nLatin version precedes English translation in this MS.",
+            "Editions": "\nMoorat,  S. A. J. \n             Catalogue of Western Manuscripts on Medicine and Science. Vol. 1\n                Manuscripts Written before 1650 A.D.\n         London: Historical Medical Library, 1962: 1.273.\n",
+            "folio": "f. 66v"
+        }
+    }
+}

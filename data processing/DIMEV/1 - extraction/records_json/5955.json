@@ -1,0 +1,50 @@
+{
+    "_id": 5955,
+    "_header": "Til his disciples said Jesu Christ / as says Saint John",
+    "Note": "For the version in the \u2018expanded\u2019 Cycle see 5981.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel, \u2018Dominica infra Octave Ascensionis\u2019, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nTO his disciples seide cristAs sei\u00fe seint Ion \u00fee\n                    Ewangelist\u2026\n",
+            "Last Lines": "\n\u2026ffor whon he \u00feenke\u00fe on his endyngGrede of de\u00fe\n                    slake\u00fe his lykyng\n",
+            "Note": "\nWrongly headed: \u2018In die sancte\n                    trinitatis\u2019.",
+            "Attributed Title": "\nIn die sancte trinitatis / Cum venit paraclitus quem ego (f.\n                        195va)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 195va2-195vb"
+        },
+        "BodAsh42": {
+            "First Lines": "\nUNto his dissipils saide cristeAls saise saynte Iohan \u00fee\n                    euangeliste\u2026\n",
+            "Last Lines": "\n\u2026ffor when he thinkis of his endinge\u00fee drede of dede\n                    slakis his likinge\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 129-129v"
+        },
+        "CULAdd8335": {
+            "folio": "p. 208"
+        },
+        "CULDd11": {
+            "folio": "f. 131v"
+        },
+        "CULGg531": {
+            "folio": "f. 77"
+        },
+        "Lam260": {
+            "folio": "f. 39vb"
+        },
+        "MinULZ822": {
+            "First Lines": "\nTyll hys disciplis sayd crysteals says saynt Ion \u00fee\n                    euangelyste\u2026\n",
+            "Last Lines": "\n\u2026ffor when he thynkes on hys endyngdowte of ded sclaes hys\n                    lykyng\n",
+            "Attributed Title": "\nIn octavis ascencionis euangelium Recumbentibus Secundum Iohannem\n                    (f. 95)",
+            "folio": "ff. 95-95v"
+        },
+        "HunHM129": {
+            "First Lines": "\nTo his dysciplys sayd cristAs sayth seint Ion \u00fee\n                    wangelyst\u2026\n",
+            "Last Lines": "\n\u2026ffor worldys welth euer myngyt isWith sum wo and\n                    byttyrnysffor is no emperoure ne kynge\u00feat he ne is sumwhyle in\n                    murnyngeffor when he \u00feynkyth on his endyngeffor doute off deth\n                    sleyth hys lykynge\n",
+            "Note": "\nThis MS ends four lines earlier, with last four lines above treated as\n                    first four of 644.",
+            "Attributed Title": "\nDominica infra octavam ascensionis (f. 109v) ",
+            "folio": "ff. 109v-110"
+        }
+    }
+}

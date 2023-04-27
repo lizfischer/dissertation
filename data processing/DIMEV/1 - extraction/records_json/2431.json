@@ -1,0 +1,23 @@
+{
+    "_id": 2431,
+    "_header": "I-heareth of one little tale that I you will tell",
+    "Subjects": "Christ, Passion of; Passion, meditations o",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Passion of Our Lord \u2014 706 lines in couplets",
+    "_witnesses": {
+        "BodAsh1449": {
+            "First Lines": "\nHere\u00fe uv one lutele tale . \u00feat ich eu wille telleAs we\n                    vynde\u00fe hit iwrite in \u00fee godspelle\u2026\n",
+            "Last Lines": "\n\u2026\u00feet heo hyne myhte wreye and don of lyf dayeAs hit nehyh\n                    lechte to\n",
+            "Attributed Title": "\nIci cumence la passiun Ihu Crist en engleis. Incip. prologus (p.\n                    163)",
+            "folio": "pp. 163-166"
+        },
+        "OxfJesus29": {
+            "First Lines": "\nIhere\u00fe ny one lutele tale \u00feat ich eu wille telleAs we\n                    vynde\u00fe hit i write in \u00fee godspelle\u2026\n",
+            "Last Lines": "\n\u2026And heo vre erende bere sois hire ywuneMid alle o\u00feer\n                    halewe to hire swete sune Amen\n",
+            "Note": "\nTranscript by Lhuyd in Oxford,  Bodleian Library Ashmole 1449 (SC 7554), pp.163-6.",
+            "Attributed Title": "\nIci cumence la passyun ihesu crist en engleys (f. 144)",
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             An Old English Miscellany: A Bestiary, Kentish Sermons, Proverbs of\n                Alfred and Religious Poems of the Thirteenth Century.\nEETS\n         o.s. 49 (1872); repr. 1988: 37-57.\n",
+            "folio": "Part II, ff. 144-155"
+        }
+    }
+}

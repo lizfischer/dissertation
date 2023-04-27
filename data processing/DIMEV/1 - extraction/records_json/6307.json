@@ -1,0 +1,330 @@
+{
+    "_id": 6307,
+    "_header": "When folk had laughen at this nice cas",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Reeve\u2019s Prologue; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; links; prologues; contest",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the Reeve\u2019s Prologue of the Canterbury Tales \u2014 66 lines in couplets.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nWhan folk had laughwen at this nyce casof Absolon & hende\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026he can wel in myn yghe seen a stalkebut in his owne he can\n                    nought seen a balke\n",
+            "Attributed Title": "\n\u2026And next folwith the Revis prolog (f. 57v); the Revis\n                    prolog (RT); Here endith the Revis prolog\u2026 (f. 58)",
+            "folio": "ff. 57v-58"
+        },
+        "BodBar20": {
+            "First Lines": "\nWhen folke han laughen at \u00feis nyce casOf Absalon and hende\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026He con wel in myn Eye Seen a stalkeBut in his owen he con not\n                    se a balke\n",
+            "Attributed Title": "\n\u2026and / here by gynnyth \u00fee prologe of \u00fee / Reves tale (f.\n                    43); The Reve (RT); here endith \u00fee prologe of \u00fee Reves tale\u2026 (f.\n                    44)",
+            "folio": "ff. 43-44"
+        },
+        "Bod414": {
+            "First Lines": "\n[W]han folk han laught at this nyce caasOf Absolon and of hend\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026He can wel in myn eye se a stalkeBut in his owne he can not\n                    se a balke\n",
+            "Note": "\nI.3011-12 omitted.",
+            "Attributed Title": "\nThe Prolog of the Reve (f. 46)",
+            "folio": "ff. 46-47"
+        },
+        "Bod686": {
+            "First Lines": "\nWhan folke han laughen at \u00feis nyce casOf Absolon and hende\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026He kan wel in myn ye seen a stalkeBut in his owne he ne kan\n                    seen a balke\n",
+            "Attributed Title": "\n\u2026And begynneth \u00fee prologe of \u00fee Reues tale (f. 48); Reue\n                    (RT)",
+            "folio": "ff. 48-49"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nWhan folk had loughen at \u00feis nice caasOf absoloun and hende\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026He can wel in myn ey finde a stalkeBut in his own he can not\n                    se a balke\n",
+            "Attributed Title": "\n\u2026And next / beginneth the Prolog of \u00fee Carpenters tale (f. 45);\n                    Prolog of the Carpenters (RT); here endeth the Prolog of the Carpenters\n                    tale\u2026 (f. 45v)",
+            "folio": "ff. 45-45v"
+        },
+        "BodLauMis739": {
+            "First Lines": "\n[W]Han folk hade laughen at this nyce caasOf Absolon and hend\n                    Nycholas\u2026\n",
+            "Last Lines": "\n\u2026he can wele in myn eye see a stalkeBut in his owne\n                    he can no\u021dt seen a balke\n",
+            "folio": "ff. 59-59v"
+        },
+        "BodRawPoe141": {
+            "First Lines": "\nWhen folk han laughe of this nyse casOf Absolon & of hende\n                    Nicolas\u2026\n",
+            "Last Lines": "\n\u2026He can wel fynden in myn eye a stalkeBut in his owne he\n                    connot fynde a balke\n",
+            "Attributed Title": "\nHere bigynneth the prolog of the Reues tale (f. 21); The Reue (RT); Here\n                    endeth the prolog\u2026 (f. 22)",
+            "folio": "ff. 21-22"
+        },
+        "BodRawPoe223": {
+            "First Lines": "\nWhan folk had laughen at this nise caasOf Absolon and hende\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026He can wel in myn ye seen a stalkBut in his owne ye he cannot\n                    seen a balk\n",
+            "Attributed Title": "\n\u2026And here beginneth the Prolog of the Reue (f. 54); Here endith the\n                    Prolog of the Reue\u2026 (f. 55)",
+            "folio": "ff. 54-55"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nWhan folke hadde laughen at thys nyce caasOf Absolon and hende\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026He kan wele in myn ye seen a stalkeBut in his owen he kan not\n                    seen a balke\n",
+            "Note": "\nI.3875 inserted in margin.",
+            "Attributed Title": "\n\u2026Here begynnyth the Reues tale prologe (f.\n                    51v)",
+            "folio": "ff. 51v-52"
+        },
+        "OxfCCC198": {
+            "First Lines": "\nWhan folk hand laughen at \u00feis nyce casOf Absolon and heende\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026He can wel in myn ye seen a stalkeBut in his owne he can\n                    nought seen a balke\n",
+            "Attributed Title": "\n\u2026Here bygynne\u00fe \u00fee Reeues tale (f. 54v);\n                        Coiiio (f. 54v, margin)",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "ff. 54v-55"
+        },
+        "OxfNew314": {
+            "First Lines": "\nWhanne folk hadde law\u021dyn at \u00feis nyce caasOf Absolon and\n                    of end gentil Nicholas\u2026\n",
+            "Last Lines": "\n\u2026He can wel in myn ye se a stalkBut in his owen he can not se\n                    a balk\n",
+            "Attributed Title": "\n\u2026and / here begynneth the Reves prolog (f. 45); The ende of the Revys\n                    Prolog\u2026 (f. 45v)",
+            "folio": "ff. 45-45v"
+        },
+        "OxfTri49": {
+            "First Lines": "\nWhenne folke had lawghe at this nys casof absolone and hende\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026He caun wel in myn eie now se a stalkeBut in his owne he can\n                    nat se a balke\n",
+            "folio": "ff. 53v-54v"
+        },
+        "CULDd424": {
+            "First Lines": "\nWHane folk han laughen at \u00feis nyce casOf Absolon and hende\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026He can wel in myn eye sen a stalkeBut in his owen he can nat\n                    sen a balke\u2026\n",
+            "Attributed Title": "\n\u2026& bygynneth the prologe of the Reve (f.\n                    47v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 47v-48"
+        },
+        "CULGg427": {
+            "First Lines": "\n\u2026For sekyrly whan I was boryn anonDeth drow \u00fee tappe of\n                    lyf & let it gon\u2026\n",
+            "Last Lines": "\n\u2026He can wel in myn eye sen a stalkeBut in hese owene he can\n                    not sen a balke\n",
+            "Note": "\nI.3855-90 lost.",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "Editions": "\nFurnivall,  Frederick James. \n             The Cambridge MS (University Library, Gg.4.27) of Chaucer\u2019s\n                Canterbury Tales.\nChaucer Society\n         Series 1, nos. 4, 10, 17, 28, 33, 40, 52, 66. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "f. 186"
+        },
+        "CULIi326": {
+            "First Lines": "\nWhen folkes hadde laghen of this nyce caasOf Absalon and hende\n                    nycholas\u2026\n",
+            "Last Lines": "\n\u2026He can wele in myn Eye se a stalkeBut in his owne eye he can\n                    not se a balke\n",
+            "Attributed Title": "\n\u2026and / begynneth the prologe of the Reve / Prologus Reve (f.\n                        45v); Prologus Reve (RT)",
+            "folio": "ff. 45v-46"
+        },
+        "CULMm25": {
+            "First Lines": "\nWhan folke hauen laghen at \u00feis nyce caseOff Absolon and hende\n                    Nicolas\u2026\n",
+            "Last Lines": "\n\u2026He can well in myn eye seen a stalkeBut in his owne he can\n                    not sene a balke\n",
+            "Attributed Title": "\nHere begynneth \u00fee prologe of \u00fee Reves tale (f. 42v);\n                        Capitulum tercium (f. 42v, margin); The prologe of \u00fee\n                    Reue (RT)",
+            "folio": "ff. 42v-43"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[W]Han folke haue lawghen at \u00feis nyse caseOf Absolon and hende\n                    Nycolas\u2026\n",
+            "Last Lines": "\n\u2026And kan well in myn y\u021de see a stalkeBut in his own he\n                    kan not see a balke\n",
+            "Note": "\nI.3891-4, 3899-902, 3911-12 omitted.",
+            "Attributed Title": "\n\u2026The prolog of \u00fee Carpenter (f. 57)",
+            "folio": "ff. 57-57v"
+        },
+        "CamTCC582": {
+            "First Lines": "\nWhan folk han laughen at the nice caasOf Absolon & hende\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026He can well in myn yhe seen a stalkBut in his ougne he can\n                    nat sene a balke\n",
+            "Attributed Title": "\nHiere endeth the prolog of the / Reue\u2026 (f. 23ra)",
+            "folio": "ff. 22vb-23ra"
+        },
+        "CamTCC595": {
+            "First Lines": "\nWhan folke had he laughen at this nyse caasOf Absolon\n                    and hende Nicholas\u2026\n",
+            "Last Lines": "\n\u2026He can welle in myn eye se a stalkeBut in his owne he cannot\n                    se a balke\n",
+            "Attributed Title": "\n\u2026And begynneth the Reves Prologe (f. 65); Here endeth the Reues\n                    Prologe\u2026 (f. 66)",
+            "folio": "ff. 65-66"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nWhanne folke have lawhen at this nyce casOf Absolon and hende\n                    Nycholas\u2026\n",
+            "Last Lines": "\n\u2026He kan se wel in myn eye a stalkeBut in his owne he kan nat\n                    fynde a balke\n",
+            "Note": "\nI.3873-4 omitted.",
+            "Attributed Title": "\n\u2026& incipit prologus de le Reeve (f. 57v);\n                    prologus (RT)",
+            "folio": "ff. 57v-58v"
+        },
+        "BLAdd35286": {
+            "Transcription": "\nWhan folk han laughen at this nyce casOf Absolon and hende\n                    NicholasDiuerse folk dyuersly thei seideBut for the moore part thei\n                    lough and pleyde\u2026\n",
+            "Note": "\nI.3859-930 lost.",
+            "Attributed Title": "\n\u2026Here bigynneth the prolog of the Reues tale (f. 37v); The\n                    Reue (RT)",
+            "Editions": "\nHorobin,  Simon. \n             \u201cA Transcription and Study of British Library MS Additional 35286 of\n                Chaucer\u2019s Canterbury Tales.\u201d \n         Diss. Univ. of Sheffield, 1997. \n",
+            "folio": "f. 37v"
+        },
+        "BLEge2726": {
+            "First Lines": "\nWhan folke han laughen at this nyce casOf Absolon and hend\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026He can wele in myn yie se a stalkBut in his owen he can nat\n                    se a balk\n",
+            "Attributed Title": "\n\u2026and begynneth \u00fee prologe of \u00fee Reve (f. 49)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 49-49v"
+        },
+        "BLEge2863": {
+            "First Lines": "\nWhan folk han lawhen at this nyce caasOf Absolon and hende\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026We olde men I drede so fare weTil we be roten can we not be\n                    ripe\u2026\n",
+            "Note": "\nI.3876-920 lost.",
+            "Attributed Title": "\n\u2026And here byginneth \u00fee prologe of the Reue (f.\n                    33v)",
+            "folio": "f. 33v"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[W]Han folk hadde lawhen at this nyce casOf Absolon & hende\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026He can se wel in myn eye a stalkeBut in his owne he kan nat\n                    fynde a balke\n",
+            "Note": "\nI.3873-4 omitted.",
+            "Attributed Title": "\n\u2026Heer bigynneth the prolog of the Reve (f. 57v); prolog of\n                    the Reve (RT)",
+            "folio": "ff. 57-57v"
+        },
+        "BLHar1758": {
+            "First Lines": "\nWhan folk han laughen at this nyce caasOf Absolon & hende\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026He can well in myn ye seen a stalkeBut in his owne he can\n                    nought seen a balke\n",
+            "Attributed Title": "\nhere be gynneth the Prolog of the Reuys tale (f. 40); The Reues Tale (RT);\n                    here endeth the Prolog\u2026 (f. 41)",
+            "folio": "ff. 40v-41"
+        },
+        "BLHar7333": {
+            "First Lines": "\nWhan folkes had laughen at \u00feis nyce casOf Absolon\n                    & of hende Nicholas\u2026\n",
+            "Last Lines": "\n\u2026He cane wele in myne eye fynde a stalkeBut in his owne he can\n                    not fynde a balke\n",
+            "Attributed Title": "\n\u2026And next folwyng now begynneth the / Prolog of the Reves Tale (f.\n                        57rb); The prolog of the Reves Tale (RT); \u00deus eondi\u00fee\n                    here \u00fee prologe of \u00fee Revis tale\u2026 (f. 57vb)",
+            "folio": "ff. 57rb-57va"
+        },
+        "BLHar7334": {
+            "First Lines": "\nWhan folk hadde lawhen of \u00feis nyce caasOf absolon and heende\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026he can wel in myn eye see a stalkeBut in his owne he can\n                    nought seen a balke\n",
+            "Attributed Title": "\n\u2026And bygynne\u00fe \u00fee prologe of \u00fee Reeue (f.\n                        51v); The Reeue (RT); HEre ende\u00fe \u00fee prologe of \u00fee\n                    Reue\u2026 (f. 52v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "ff. 51v-52v"
+        },
+        "BLHar7335": {
+            "First Lines": "\n[W]han folk han laughen this nyce casOf Absoloun and hendy\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026He kan wel in myne eye seen a stalkeBut in his owene he kan\n                    nat seen a balke\n",
+            "Attributed Title": "\nPrologus Prepositi (f. 36, margin)",
+            "folio": "ff. 36-36v"
+        },
+        "BLLan851": {
+            "First Lines": "\nWhan folk han lawhen att \u00feis nyce caasOf Absolon & hende\n                    Nicholas\n",
+            "Last Lines": "\n\u2026He can wele in myne eye seen a stalkeBot in his owne he can\n                    nouht sene a balke\n",
+            "Note": "\nI.3896 inserted in margin.",
+            "Attributed Title": "\n\u2026Incipit prologus (f. 47v); \u00fee reve\n                    (RT)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 47v-48"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nWhan folke ha\u00fee laughen atte this nyce caseOf Absolon &\n                    heende Nicholas\u2026\n",
+            "Last Lines": "\n\u2026He can well in myne eye seene A stalkeButte in his owne he\n                    can notte sene a balke\n",
+            "Attributed Title": "\n\u2026And / begynnythe the prolog of the reve (f. 58); Here endith the\n                    prologe of the reve\u2026 (f. 59)",
+            "folio": "ff. 58-59"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nWhan folk han laughwen at \u00feis nyce casOf Absolon and hende\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026He can wel in myn Eye seen a stalkeBut in his owne he can\n                    nou\u021dt seen a balke\n",
+            "Attributed Title": "\n\u2026The prolog of the Reues th tale (f. 50); The reue (RT);\n                    Here endith the prolog\u2026 (f. 50v)",
+            "folio": "ff. 50-50v"
+        },
+        "BLSl1685": {
+            "First Lines": "\nWHanne folk han laughwen at this nyce casOf Absolon and hynde\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026He can wel in myn ye se a stalkBut in his owne he can\n                    nou\u021dt seen a balk\n",
+            "Attributed Title": "\n\u2026Heere bigynneth the prolog of the Reues tale (f. 43v);\n                    The Reue (RT)",
+            "folio": "ff. 43v-44"
+        },
+        "BLSl1686": {
+            "First Lines": "\nWHan folke han laughen at this nyce caasOf Absolon and hende\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026He can wele in myn eye seen A stalkeBut in his owne he can\n                    not seen A balke\n",
+            "Attributed Title": "\n\u2026And here begynneth the Prolog of the Reves tale (f. 61v);\n                    [t]He Prolog of the Reue (RT); Here endith the Prolog of the Reve\u2026 (f.\n                        62v)",
+            "folio": "ff. 61v-62v"
+        },
+        "NLWPen392": {
+            "First Lines": "\nWhan folk hadde laughen at this nyce casOf Absolon and hende\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026He kan wel in myn eye seen a stalkeBut in his owene he kan\n                    noght seen a balke\n",
+            "Attributed Title": "\n\u2026The prologe of the Reues tale (f. 50v)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "ff. 50v-51"
+        },
+        "Alnwick455": {
+            "First Lines": "\nWhen folk had lau\u021den at \u00feis nyce caseOf Absolon and of\n                    end Nicholas\u2026\n",
+            "Last Lines": "\n\u2026He can wele in myne eye fynd a stalkBut in his own he can nat\n                    fynd a balk\n",
+            "Attributed Title": "\n\u2026And here begynnyth the Reve his prologg (f. 49v); Here\n                    endith the Reve his prologg\u2026 (f. 50v)",
+            "folio": "ff. 49v-50v"
+        },
+        "GULHun197": {
+            "First Lines": "\nWhan folk han laghen at this nyce caasOf Absalon and hende\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026He can weel in myne eye seen a stalkeBut in hise owen he can\n                    seen a balke\n",
+            "Attributed Title": "\n\u2026And now begynneth the prologe of / the Reves tale (f.\n                        20vb); The Reve (RT)",
+            "folio": "ff. 20vb-21rb"
+        },
+        "Holkham667": {
+            "First Lines": "\nWhenne folke hadde laughed at this nyce casOf Absloune and hiende\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026He canne well in myne yie seen a stalkeBut in his owen he can\n                    nat seen a balke\n",
+            "folio": "ff. 19rb-19va"
+        },
+        "Lichfield29": {
+            "First Lines": "\nWhan folk han laughen at this nyce caasOf Absolon and heende\n                    Nicolas\u2026\n",
+            "Last Lines": "\n\u2026He can wel in myn eye seen a stalkeBut in his owne he can not\n                    seen a balke\n",
+            "Attributed Title": "\n\u2026And begynneth / the Prologe of the Reue (f. 50); Prolog Reue (RT);\n                        Explicit prologus\u2026 (f. 51)",
+            "folio": "ff. 50-51"
+        },
+        "Lincoln110": {
+            "First Lines": "\nWhanne men had laugh at this nise caasOf absolon and of hende\n                    nycholas\u2026\n",
+            "Last Lines": "\n\u2026He can wel in myn ye sen astalkeBut in his owne he can not se\n                    abalke\n",
+            "Attributed Title": "\nThe prolog of \u00fee Reve (RT)",
+            "folio": "ff. 46v-47"
+        },
+        "LonPhys388": {
+            "First Lines": "\nThan folk had I laughen at this nyce caasOf Absolon and hend\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026He can wele in myn eye see a stalkBut in his owne he can nat\n                    seen a balk\n",
+            "Attributed Title": "\n\u2026The prolog of the Reves tale (f. 68); Explicit\n                    prologus\u2026 (f. 69)",
+            "folio": "ff. 68-69"
+        },
+        "RylandsEng113": {
+            "First Lines": "\nWhan folke had laughed as \u00feis nyce casOf Absolon and of hende\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026he can wel in myn eye se a stalkeBut in his own he can not se\n                    a balke\n",
+            "Attributed Title": "\n\u2026Hic incipit prologus fabule praepositi (f. 41); Reve\n                    (RT)",
+            "folio": "ff. 41-42"
+        },
+        "Petworth7": {
+            "First Lines": "\nWhan folk han laughen at \u00feis nyce casOf absolon and hende\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026he can wel in myn ye seen a stalkBut in his owne he can not\n                    seen a balk\n",
+            "Attributed Title": "\n\u2026And \u00feus bygynne\u00fee \u00fee Prologe of \u00fee Reues tale\n                    (f. 54); Cap. 3m (margin, f. 54); Thus ende\u00fe \u00fee\n                    Prologe of \u00fee Reue\u2026 (f. 55)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 54-55"
+        },
+        "Austin143": {
+            "First Lines": "\nWhenne folke haue laughen at this nyce casOf Absolon and hende\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026he can well in myn ye se a StalkeBut in his owne he cannot\n                    see a Balke\n",
+            "Attributed Title": "\nHere begynneth the prologge of the Reve (f. 43v, foot);\n                        Prologus praepositi (f. 43v, bottom margin); Reve\n                    (RT)",
+            "folio": "ff. 44-44v"
+        },
+        "ChicagoUL564": {
+            "First Lines": "\n\u2026Ne at his tale sawe I no man hym greueBut hit were only\n                    oswalt \u00fee Reue\u2026\n",
+            "Last Lines": "\n\u2026He can wel in myn eye fynde a stalkBut in his owne he can not\n                    see a balk\n",
+            "Note": "\nI.3855-8 lost.",
+            "folio": "ff. 1-2"
+        },
+        "PierpontM249": {
+            "First Lines": "\nWhan folk han laughen at this nyce caasOf Absolon and heende\n                    Nicolas\n",
+            "Last Lines": "\n\u2026He can wel in myn eye seen a stalkeBut in his owne he can not\n                    seen a balke\n",
+            "Attributed Title": "\n\u2026And here bigynneth / the Prologe of the Reve &cetera (f.\n                        54v); Prologus Reve (RT); Explicit prologus\u2026\n                    (f. 55v)",
+            "folio": "ff. 54v-55v"
+        },
+        "PUL100": {
+            "First Lines": "\nWHen folk had laghyn at \u00feis nyce caseOf Absolon and of\n                    Nycholase\u2026\n",
+            "Last Lines": "\n\u2026He can wele in myn ye se astalkBut in his own he can nat se\n                    abalk\n",
+            "Note": "\nI.3870-1 reversed.",
+            "Attributed Title": "\n\u2026And here begynnyth the Reve his Prolog (f. 26v); Prologg\n                    (RT); Here endith the prologg\u2026 (f. 27v)",
+            "folio": "ff. 26v-27v"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nWhan folk had laughen at this nyce casOf Absolon and hende\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026He kan wel in myn eye seen a stalkeBut in his owene he kan\n                    nat seen a balke\n",
+            "Attributed Title": "\n\u2026The Prologe of the Reues tale (f. 41v); Reue\n                    (RT)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 41v-42"
+        },
+        "BNangl39": {
+            "First Lines": "\nUhan folk had laugh at \u00feis nyce caasof absalon and hend\n                    nicholas\u2026\n",
+            "Last Lines": "\n\u2026he can wel in myn eye seen a stalkebut in his owne he can not\n                    see a balke\n",
+            "Note": "\nI.3873-4, 3891-2 omitted.",
+            "Attributed Title": "\n\u2026& susequenter incipit prohemium fa / bula prepositi hoc\n                        modo (f. 22ra); Explicit prohemium fabule\n                    prepositi\u2026 (f. 22rb)",
+            "folio": "f. 22ra-22rb"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nWhan folk han laughen at this nice casOf Absolon and hende\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026He can wel in myn yhe see a stalkBut in his ougne he can nat\n                    se a balk\n",
+            "Attributed Title": "\nHiere beginneth the prolog of the Reue (f. 47)",
+            "folio": "ff. 47-48"
+        },
+        "TokyoTak32": {
+            "First Lines": "\nWhanne folk hade lawghed at this nyce caasOf Absolon and hendy\n                    Nicholas\u2026\n",
+            "Last Lines": "\n\u2026hee can weell in myn Eeye seene a stalkeBut in his owne hee\n                    can nowght seene a balke\n",
+            "Attributed Title": "\nhere be bynnyht the prolog of the Revis tale (f. 41vb); Thee\n                    Revis tale (RT)",
+            "folio": "ff. 41vb-42ra"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "_id": 6762,
+    "_header": "With word and writ I warn thee Sir Eode [Vid word & wrid ic warne \u00fee sire ode]",
+    "Subjects": "almsgiving; warnings",
+    "Versification": "\u2014 six-line \u2014 aaabbb, aabccb",
+    "Macaronic": "Latin",
+    "_description": "A warning to Sir Eode \u2014 twelve lines with intervening Latin lines of similar content",
+    "_witnesses": {
+        "CamTCC323": {
+            "First Lines": "\nVid word & wrid ic Warne \u00fee sire odeDele al \u00fei goid\n                    pouere \u00fead hawit neode\u2026\n",
+            "Last Lines": "\n\u2026god \u00fee hat \u00feat is us bouen\u00fee bere maist\n                    \u00feu y glide\n",
+            "Note": "\nPreceding four lines of Latin verse begin, \u2018Otide te munio verbo\n                    scripto tibi monstro\u2019 (f. 19).",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 20.\n Bad Key: James1900-04: 1.439.\nKaiser,  Rolf,\n                        ed.  \n             Alt- und mittelenglische Anthologie.\n         Berlin, 1954; 3rd ed.; trans. as  Medieval English: a\n                Old English and Middle English Anthology Berlin West, 1958: 256.\n\n",
+            "folio": "f. 19"
+        }
+    }
+}

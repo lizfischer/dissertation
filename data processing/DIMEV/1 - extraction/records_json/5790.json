@@ -1,0 +1,26 @@
+{
+    "_id": 5790,
+    "_header": "This world is dealed all on three",
+    "Subjects": "geography",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A geography in verse \u2014 in couplets",
+    "_witnesses": {
+        "BLRoy13Di": {
+            "First Lines": "\n\u00deis world ys delyd al on threAsie Affrike and\n                    Europe\u2026\n",
+            "Last Lines": "\n\u2026Cornwayle Irlond colriche & IselondBy the see syde of\n                    Irlond\n",
+            "Note": "\n78 lines.",
+            "Editions": "\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.271-3.\n",
+            "folio": "f. 246vb-247ra"
+        },
+        "YaleBei593": {
+            "First Lines": "\nThis wordle is deled on threAsie Affrike and EuropeWole ye now\n                    here of AsieHow fele landis \u00feerynne be\u2026\n",
+            "Last Lines": "\n\u2026Cornwaile Irelond colriche & IselondBy the syde of\n                    Irelond\n",
+            "Note": "\nWritten two lines of verse per line of MS on f. 202v; rhyme\n                    fails frequently.",
+            "folio": "ff. 202v-203"
+        },
+        "Goldschmidt50": {
+            "Note": "\nA verse geographical introduction to a prose Brut; Hamer (1995)\nXHamer,  Richard. \n             A Manuscript Index to the Index of Middle English Verse.\n         London: British Library, 1995 lists as unidentified, missing or destroyed.",
+            "folio": "ff. 1-3"
+        }
+    }
+}

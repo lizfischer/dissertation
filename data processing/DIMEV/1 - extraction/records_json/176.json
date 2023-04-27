@@ -1,0 +1,29 @@
+{
+    "_id": 176,
+    "_header": "A thousand stories I could me rehearse",
+    "Note": "Ringler Jr. (1988)\nXRingler Jr., William A. Bibliography and Index of English Verse Printed 1476-1558. London: Mansell, 1988, TP 50.3.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Balade in Commendation of Our Lady\u2019",
+    "Subjects": "Virgin Mary, songs in honour of",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lydgate, \u2018Balade in Commendation of Our Lady\u2019 \u2014 twenty stanzas rhyme royal",
+    "_witnesses": {
+        "BodAsh59": {
+            "First Lines": "\nA Thowsande stories I kou\u00fee to you reherceOf olde clerkis\n                    touchyng \u00fee matereHowe \u00feat Cupide cane mens hertes presseOf\n                    hees servantes setting \u00feeire hertes a fayre\u2026\n",
+            "Last Lines": "\n\u2026Vnknowing him bare Tryste by gret myracleAnd of Ihesus\n                    manhode truwe tabernacle\n",
+            "Note": "\nWanting stanzas 10-18.",
+            "Attributed Author": "\nBy \u00fee Poete Lidegate\u2026 (RT); \u2026by Lidegate of Bury\u2026\n                    (f. 39v)",
+            "Attributed Title": "\nA devoute Invocacioun to oure ladye By \u00fee Poete Lidegate (RT); Here\n                    folowe\u00fee nexst a devoute balade by Lidegate of Bury made at \u00fee\n                    reverence of oure lady Qwene of mercy (f. 39v)",
+            "Editions": "\nSchirmer,  W. F. \n             Der Stil in Lydgates religi\u00f6ser Dichtung, Kleine\n                Schriften.\n         T\u00fcbingen: Niemeyer, 1950: 50.\n",
+            "folio": "ff. 39v-41"
+        },
+        "BLSl1212": {
+            "First Lines": "\nA thowsand storiis kowde I me reherseOff olde Poetis touchyng this\n                    matere\u2026\n",
+            "Last Lines": "\n\u2026Vnknowyng hym childyng be myrakyllAnd of oure mar figure\n                    tabyrnakyll\n",
+            "Note": "\nSigned \u2018Lucas\u2019 in right margin, owner-scribe(?) of\n                    MS.",
+            "Attributed Title": "\nPallas the dowtyr off Jupiter / goddesse and gouernour of Venus verre (f.\n                    101, by scribe, in space above first line)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 254-60.\n",
+            "folio": "ff. 101-102v"
+        }
+    }
+}

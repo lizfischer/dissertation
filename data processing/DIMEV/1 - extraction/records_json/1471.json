@@ -1,0 +1,65 @@
+{
+    "_id": 1471,
+    "_header": "From the seed of sorrow that is sin",
+    "Note": "See also 1475.",
+    "Author(s)": "Thomas Lavynham",
+    "Title(s)": "Litil Tretys",
+    "Subjects": "prayers, on various themes",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Oxford, Bodleian Library Douce 60 (SC 21634); Oxford, Bodleian Library Rawlinson C.288 (SC 12146).; London, British Library Harley 1288: this verse item is not present in this MS, as the text of Lavenham\u2019s treatise breaks off at f. 75v, making it an incomplete version. See Zutphen and Zupitza (1956)\nXJohannes P. W. M. van Zutphen, and Julius Zupitza. A Litel Tretys by Lavenham. Rome: Inst. Carmelitarum, 1956, xxxvii.",
+    "_description": "A prayer for heaven\u2019s bliss \u2014 one long couplet at the end of Lavynham\u2019s Tretys",
+    "_witnesses": {
+        "BodLauMis23": {
+            "Transcription": "\nFor \u00fees forseid synnes & from alle o\u00feer synnes &\n                    temptaciouns of \u00fee feendCrist kepe vs for his michil miFor \u00fees\n                    forseid synnes & from alle o\u00feer synnes & temptaciouns of \u00fee\n                    feendCrist kepe vs for his michil mi\u021dtAnd sende vs his special\n                    grace\u00feat we mowe be wor\u00fei to be tak in to \u00feat \u021doie of\n                    heuene \u00feat euere more schal laste Amen\n",
+            "folio": "f. 39v"
+        },
+        "CULFf631": {
+            "Transcription": "\nfro thise synnes and alle o\u00feir crist kepe us \u00feour\u021d his holi\n                    grace& take oure soulis after oure deth to his blisful place\n                    Amen\n",
+            "folio": "Part II, f. 60v"
+        },
+        "CamTCC305": {
+            "Transcription": "\nffro \u00feese synnys & from alle oder Criste kepe vs throu\u021de his\n                    grace& take oure soules after our deth to hys blysseful place Amen\n                    Explicit\n",
+            "folio": "f. 278"
+        },
+        "BLHar211": {
+            "Transcription": "\nffro \u00fee seed of sorwe \u00feat is synne god schyld vs \u00feorw his\n                    mercy & grawnt vs his graceThat we mowe after our hennyswendyng come to\n                    heuene \u00feat blissid place\n",
+            "Note": "\nWritten as prose. \u2018Amen\u2019 at end of last line (f.\n                        46v).",
+            "Attributed Author": "\nReuerendus Magister ffrater Ricardus Lauynham Ordinis Beatissime Dei\n                        Genitritis Marie De Mount Carnack (by scribe, red-highlighted, below end\n                    of Treatise, f. 46v)",
+            "Attributed Title": "\nExplicit Tractatus De Septem Peccatis Mortalibus Quem Composuit\n                        Reuerendus Magister ffrater Ricardus Lauynham Ordinis Beatissime Dei\n                        Genitritis Marie De Mount Carnack (by scribe, red-highlighted, below end\n                    of Treatise, f. 46v)",
+            "Editions": "\nZutphen,  Johannes P. W. M. van,  and  Julius Zupitza.  \n             A Litel Tretys by Lavenham.\n         Rome: Inst. Carmelitarum, 1956: xiii, 25.\n",
+            "folio": "f. 46v"
+        },
+        "BLHar1197": {
+            "Transcription": "\nffrom \u00feese synnes and alle o\u00feere crist kepe vs thorwh his graceand take oure soules aftyr oure deeth in to his blysful place\n",
+            "Note": "\nWritten as prose; ends \u201cAmen.\u201d",
+            "folio": "f. 28v"
+        },
+        "BLHar2383": {
+            "Transcription": "\nffro \u00fees synnys And frome all o\u00feer Cryst kepe vs thorowe his\n                    graceAnd take owr sowlis after owr dethe to his blysfull place\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 78"
+        },
+        "BLRoy8Ci": {
+            "folio": ""
+        },
+        "LeedsBro501": {
+            "Transcription": "\nNow from thes sennys & al othyr cryst kepe vs thorw\u021d his\n                    grace& aftyr oure deth vs to bryng to his blyssyd & eternall place\n                    Amen\n",
+            "Attributed Title": "\nHere begynnyth a notabyll tretys of the sevyn dedly synnys & of her\n                    braunchis (f. 68); Explicit tractatus prefatus\n& cetera (f. 74)",
+            "folio": "f. 74"
+        },
+        "DrWilliamsAnc3": {
+            "Transcription": "\nffrome these synnes & frome all other Criste kepe vs thoro his\n                    graceAnd take owre sowles after owre deth to hys blysce full place. Amen.\n                    Explicit\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 145va"
+        },
+        "SocAnt687": {
+            "Transcription": "\nffro \u00feise synnes & fro all o\u00feer cryst kepe vs\n                    \u00ferau\u021de his grace& take oure soules after oure de\u00fee to\n                    his blysse fulle placeAmen\n",
+            "folio": "p. 411"
+        },
+        "Norwich158926": {
+            "Transcription": "\nNow from \u00feese synnys and from alle o\u00feere crist kepe vs \u00feorw\n                    his graceand take oure soule after oure deth to his blisful place\n                    Amen\n",
+            "Attributed Title": "\nExplicit tractatus de septem peccatis mortalibus & de eorum\n                        speciebus (f. 58v)",
+            "folio": "f. 58v"
+        }
+    }
+}

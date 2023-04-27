@@ -1,0 +1,14 @@
+{
+    "_id": 48,
+    "_header": "A ghostly knitting",
+    "Author(s)": "John Waldeby",
+    "Subjects": "sermons, verse in",
+    "Versification": "\u2014 four-line \u2014 aaab",
+    "_description": "A verse tag in a collection of sermons by John Waldeby \u2014 one quatrain",
+    "_witnesses": {
+        "BodLauMis77": {
+            "Transcription": "\nA gostly knyttyngeis schude in couenande\n                    makyngeA bro\u00feerly comunyngebut bro\u00feerli comunynge in \u00fee\n                    pupul ascentyng\n",
+            "folio": "f. 95"
+        }
+    }
+}

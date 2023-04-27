@@ -1,0 +1,16 @@
+{
+    "_id": 395,
+    "_header": "All this world was full of grace",
+    "Subjects": "carols, Nativity",
+    "Versification": "\u2014 four-line, two-line \u2014 aaab, aa",
+    "Bibliographic Ghosts": "Oxford, Magdalen College Lat. 13, f. 2: not in this MS, nor Cambridge UK, Magdalene College 13 (F.4.13).",
+    "_description": "Of the Nativity \u2014 six quatrains and Latin burden: \u2018O O O O / Exultet mundus gaudio\u2019",
+    "_witnesses": {
+        "BLAdd40166c3": {
+            "First Lines": "\nAll this worlde was ful of graceWhen goddes son yborne\n                    was\u2026\n",
+            "Last Lines": "\n\u2026Helpe vs to se god in the faceQuo sedet in\n                    solacio\n\n",
+            "Editions": "\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 19; 1977, 14-15.\n",
+            "folio": "ff. 12v-13"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "_id": 5119,
+    "_header": "Te deum Laudamus To the Lord sovereign",
+    "Author(s)": "John Lydgate (attrib.)",
+    "Subjects": "God, praise to",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "Macaronic": "Latin",
+    "_description": "John Lydgate, a song of Thanksgiving, attributed to Lydgate \u2014 thirteen 8-line stanzas with refrain: \u2018Te laudat omnis spiritus\u2019",
+    "_witnesses": {
+        "BLHar2255": {
+            "First Lines": "\nTe deum laudamus to the lord sovereyneWe creaturys knowlech the as\n                    creatoure\u2026\n",
+            "Last Lines": "\n\u2026O sapiencia of whom al goodnesse sprongTe laudat omnis\n                    spiritus\n",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 21-4.\n",
+            "folio": "ff. 43v-45v"
+        }
+    }
+}

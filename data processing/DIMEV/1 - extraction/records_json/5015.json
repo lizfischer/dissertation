@@ -1,0 +1,16 @@
+{
+    "_id": 5015,
+    "_header": "Sovereign Lord welcome to your city",
+    "Note": "For words of welcome from the Fourteen virgins that precede this, see 1617; see also 6060.",
+    "Author(s)": "John Lydgate",
+    "Subjects": "roundels; pageant verses; occasional verse; Henry VI, return to London, 1432; chronicles, verse in",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lydgate, a roundel (14 lines) sung by Fourteen Virgins, inserted in the pageant verses for the entry of Henry VI into London, in Fabyan\u2019s Chronicle, Part VII, Septima Pars, Henrici Sexti \u2014 two stanzas rhyme royal",
+    "_witnesses": {
+        "HarEng766": {
+            "First Lines": "\nSouerayn lord Welcoom to yowir CitieWelcom our gladnesse welcom our\n                    suffisaunceWelcom welcom right welcom mut ye be\u2026\n",
+            "Last Lines": "\n\u2026Welcom welcom welcom our hertes IoyeWelcom yow be vnto your\n                    owne newe Troye\n",
+            "folio": "f. 358v"
+        }
+    }
+}

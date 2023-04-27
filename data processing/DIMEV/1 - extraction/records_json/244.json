@@ -1,0 +1,26 @@
+{
+    "_id": 244,
+    "_header": "After the stormy time ceasing the rain",
+    "Note": "Possibly Chaucer\u2019s Wretched Engendering; see Brown (1935)\nXBrown, Carleton Fairchild. \u201cChaucer\u2019s Wreched Engendring.\u201d PMLA 50 (1935): 997-1011, 997-1101; Brown (1937)\nXBrown, Beatrice Daw. \u201cChaucer\u2019s Wretched engendrynge.\u201d Modern Philology 35 (1937-38): 325-33.",
+    "Author(s)": "Geoffrey Chaucer (?)",
+    "Title(s)": "\u2018A Holy Meditation\u2019; Wretched Engendering",
+    "Subjects": "meditations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018A Holy Meditation\u2019 \u2014 ninety couplets",
+    "_witnesses": {
+        "BodAsh59": {
+            "First Lines": "\nAffter \u00fee stormy tyme cessinge \u00fee rayneWhane for\n                    \u00feabsence of colde \u00feeorte is fayneAnd \u00fee qwicke thinges\n                    resceyve \u00feeire vygoureTrees and herbes bringen for\u00fee leeff and\n                    floure\u2026\n",
+            "Last Lines": "\n\u2026If \u00feowe do \u00feus \u00feane shal \u00fey soule\n                    weendeTo hevens blisse which \u00feat ha\u00feenoon ende\n",
+            "Attributed Author": "\n\u2026made by \u00fee Religious man Lidegate daun Johan \u00fee Munk of\n                    Bury (f. 49)",
+            "Attributed Title": "\nHere nowe folowe\u00fee an holy meditacioun made by \u00fee Religious man\n                    Lidegate daun Johan \u00fee Munk of Bury (f. 49)",
+            "folio": "ff. 49-52"
+        },
+        "CamTCC600": {
+            "First Lines": "\nAffter \u00fee stormy tyme cessing \u00fee raynWhane for\n                    \u00feabsence of colde \u00feeor\u00fee is faynAnd \u00fee qwyck thinges\n                    resceyue vygourAnd trees bringen foor\u00fee leef and\n                    flour\u2026\n",
+            "Last Lines": "\n\u2026If \u00feou do \u00feus \u00feane shal \u00fey soule weendeTo\n                    heuene blisse which \u00feat ha\u00fee noon eende\n",
+            "Attributed Title": "\nNowe here filowe\u00fee an holy medytacion (p. 111); A devoute Meditacion\n                    (RT, 111-116)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 43-8.\n",
+            "folio": "pp. 111-116"
+        }
+    }
+}

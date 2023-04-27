@@ -1,0 +1,39 @@
+{
+    "_id": 3596,
+    "_header": "My fellow for his sooth saw / hath lost his life and lieth full low",
+    "Note": "Cf. 4798 and 5235.",
+    "Title(s)": "Gesta Romanorum",
+    "Subjects": "tales, beast; exempla; sermons, verse in",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Rhyming comment of the second cock in the Story of the Three Cocks in the Gesta Romanorum \u2014 one couplet",
+    "_witnesses": {
+        "CULIi38": {
+            "Transcription": "\n\u00dee cok sey\u00fe in is sawe\u00feat for so\u00fe slawe ys hys\n                    felawe, vel\u00fee cok sey\u00fe for so\u00fe saweSlawe is his\n                    felawe\n",
+            "Editions": "\nErb,  Peter C. \n             \u201cVernacular Material for Preaching in MS Camb. Univ. Lib.\n                Ii.III.8.\u201d \n             Mediaeval Studies\n         33 (1971): 63-84: 83.\n",
+            "folio": "f. 61v"
+        },
+        "BLHar5259": {
+            "Transcription": "\nMy ffelawe for hys soth sawehath lost his lyfe and luthe ful\n                    lawe\n",
+            "Note": "\nWritten as prose.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 525.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_525. \n",
+            "Editions": "\nHerbert,  John Alexander. \n             Catalogue of Romances in the Department of MSS. in the British\n                Museum.\n         Vol. 3. London, 1910: 3.206.\n",
+            "folio": "f. 60v2"
+        },
+        "BLHar7333": {
+            "Transcription": "\nthe Cok seithe in his songethat thow dost thin husbonde\n                    wrongethen the lady seydehe shulde be dede& so he was in\n                    dede\n",
+            "Editions": "\nHerrtage,  Sidney John Hervon,\n                        ed.  \n             The Early English Version of the Gesta Romanorum.\nEETS\n         e.s. 33 (1879); repr. 1962: 175.\n",
+            "folio": "f. 180vb"
+        },
+        "BLAdd9066": {
+            "Transcription": "\nmy felaw for his soth lawhath lost his lyf and lieth full\n                    lowe\n",
+            "Editions": "\nHerrtage,  Sidney John Hervon,\n                        ed.  \n             The Early English Version of the Gesta Romanorum.\nEETS\n         e.s. 33 (1879); repr. 1962: 175.\n",
+            "folio": "f. 19v2"
+        },
+        "Lam78": {
+            "Transcription": "\nMy felaw for hys soth sawehath lorn hys lyfe and ly\u021d ful\n                    lowe\n",
+            "Note": "\nNew from Wenzel (1974)\nXWenzel,  Siegfried. \n             \u201cUnrecorded Middle-English Verses.\u201d \n             Anglia\n         92 (1974): 55-78, who regards this as couplet 2 of\n                        5235.",
+            "Editions": "\nWenzel,  Siegfried. \n             \u201cUnrecorded Middle-English Verses.\u201d \n             Anglia\n         92 (1974): 55-78. \n",
+            "folio": "f. 143va2"
+        }
+    }
+}

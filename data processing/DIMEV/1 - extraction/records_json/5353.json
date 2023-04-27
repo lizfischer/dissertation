@@ -1,0 +1,40 @@
+{
+    "_id": 5353,
+    "_header": "The king Herod with mickle unright",
+    "Note": "For other MSS see 5725.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "John the Baptist, saint; Herod",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Herod and John the Baptist: Narratio in the Northern Homily Cycle",
+    "_witnesses": {
+        "CULDd11": {
+            "First Lines": "\nKyng herode wi\u00fe moche myhtreste his brother wif \u00feat\n                    hiht\u2026\n",
+            "Last Lines": "\n\u2026vn to \u00fee blisse \u00feat ha\u00fe non endyngeOure lord\n                    crist thedir vs brynge\n",
+            "folio": "ff. 46v-48v"
+        },
+        "CULGg531": {
+            "First Lines": "\n\u00dee kyng herode with mykyll vn ryghtReft hys bro\u00feer wyfe\n                    \u00feat hyght\u2026\n",
+            "Last Lines": "\n\u2026Vnto \u00feat blys \u00feat has nane endyndeOure lorde ihesu\n                    vs \u00feithyr brynge\n",
+            "folio": "ff. 16v-19"
+        },
+        "EDCPCM": {
+            "First Lines": "\n\u00fee king Herode wit mikel unrihtRaeft his bro\u00feer his wif\n                    \u00feat hiht\u2026\n",
+            "Last Lines": "\n\u2026To blis \u00feat may has non endingOur lauerd Iesus\n                    \u00feider us bring\n",
+            "Editions": "\n\nSmall,  John,\n                        ed.  \n             English Metrical Homilies\u2026.\n         Edinburgh: W. Paterson, 1862: 38-46.\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n\n",
+            "folio": "ff. 21rb-22va"
+        },
+        "Lam260": {
+            "First Lines": "\n\u00deis kyng herode with vn rightReft hys bro\u00feer wyf \u00feat\n                    hyght\u2026\n",
+            "Last Lines": "\n\u2026To blys \u00feat neuere may hafe endyngOure lord Ihesu\n                    \u00feidyre vs bryng Amen\n",
+            "Attributed Title": "\nNarracio (f. 3v)",
+            "folio": "ff. 5rb-6rb"
+        },
+        "HunHM129": {
+            "First Lines": "\n\u00dee kinge herod with mokyll vnryghteReft hys brothyr wyff\n                    \u00feat heghte\u2026\n",
+            "Last Lines": "\n\u2026To blys \u00feat may haff no endyngeloueryd ihesu vs thedyr\n                    brynge\n",
+            "Note": "\nBegins two lines earlier, with usual last two lines of 4720.",
+            "Attributed Title": "\nNarracio (f. 3v)",
+            "folio": "ff. 3v-6"
+        }
+    }
+}

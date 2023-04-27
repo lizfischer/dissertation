@@ -1,0 +1,559 @@
+{
+    "_id": 5398,
+    "_header": "The might of the Father Almighty",
+    "Note": "For other MSS see 1953; for the East Midland recension see 5399; for an abridged and altered text see 788; for extracts see 1099, 5628; for a versified list of contents in one manuscripts see 5562.",
+    "Author(s)": "Richard Rolle (attrib.)",
+    "Title(s)": "Pricke of Conscience",
+    "Subjects": "religious instruction; treatises, devotional",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Untraced, Present whereabouts unknown olim Neale, sold Sotheby\u2019s 1920; Hope Allen Addit. MS III; olim Harmsworth; olim Beeleigh Abbey (Christina Foyle), sold Christie\u2019s June 2000 = Wellesley, MA, Wellesley College Pricke of Conscience [De Ricci 8; Sotheby\u2019s Sale 1922, lot 376]; San Marino, CA, Henry Huntington Library HM 130 [olim Phillipps 3126], f. 1: East Midlands recension, 5399.",
+    "_description": "The Pricke of Conscience, sometimes attributed to Richard [Rolle of] Hampole",
+    "_witnesses": {
+        "BodSelSup102": {
+            "Note": "\n26 lines.",
+            "folio": "ff. 15;  16"
+        },
+        "BodAsh41": {
+            "Note": "\nMissing lines l-62.",
+            "folio": "ff. 1-130"
+        },
+        "BodAsh52": {
+            "First Lines": "\n\u00fee myth of \u00fee fader almythty\u00fee wit of \u00fee sone\n                    alwittyAnd \u00fee godnesse of \u00fee\n                    holygostAnd oure lord of mythtes most\u2026\n",
+            "Last Lines": "\n\u2026To whilke place he vs all bringe\u00feat for vs vouched saue\n                    on rode to henge\n",
+            "Note": "\nAt the end: \u2018Amen\u2019.",
+            "folio": "ff. 1-65"
+        },
+        "BodAsh60": {
+            "First Lines": "\nThe my\u021dt of \u00fee fadir almy\u021dttyThe wisdom of \u00fee\n                    sone al wyttyThe grace and \u00fee goodnesse of \u00fee holi gostO god\n                    and oo lord of mi\u021dt most\u2026\n",
+            "Last Lines": "\n\u2026\u021dif he hope \u00feat god is almy\u021dttyAnd he \u00feat\n                    shal it here o\u00feer see\n",
+            "Note": "\nLast 21 lines missing. Between the lines \u2018To eken her peyne for\n                    her synne\u2019 (f. 87v) and \u2018The ei\u021dte peyne as \u00fee\n                    book shewe\u00fe us\u2019 (f. 104) of Part VI is an insertion of Latin prose\n                    which contains 2385.",
+            "Attributed Title": "\nIncipit stimulus consciencie a Ricardo Heremitta de Hampole compositus\n                        gracie dei subdito terminatur (f. 8)",
+            "folio": "ff. 8-138v"
+        },
+        "Bod99": {
+            "First Lines": "\n\u00feE myht of \u00fee fadyr al myhty\u00fee wyt of \u00fee sone\n                    al wyhty\u2026\n",
+            "Last Lines": "\n\u2026To \u00fee qwilk place he us bryng\u00feat for us on rode\n                    hyng\n",
+            "Note": "\nEnds imperfectly at line 8837.",
+            "Attributed Title": "\nIncipit liber qui vocatur stimulus conciencie (f. 8v);\n                        Explicit liber qui vocatur stimulus conciencie (at the end)",
+            "folio": "ff. 8v-156v"
+        },
+        "BodDig14": {
+            "First Lines": "\nThe my\u021dt of the fader almygtythe wyt of the sone al\n                    wytty\u2026\n",
+            "Last Lines": "\n\u2026In to \u00feat place he ous fongeThat for oure hele in rode\n                    gan honge\n",
+            "Attributed Title": "\nHic incipit quidam tractatus magistri Poberti Grosthed episcopi quondam\n                        lincolinensis doctoris que egregii in theologia & vocatur Stumulus\n                        consciencie (f. 1)",
+            "folio": "ff. 1-158v"
+        },
+        "BodDig87": {
+            "folio": "f. 8"
+        },
+        "BodDou126": {
+            "First Lines": "\n\u00deE my\u021dth of fadyr almy\u021dthy\u00fee wyt of \u00fee\n                    sone al wytty\u2026\n",
+            "Last Lines": "\n\u2026\u00fee xiii is bondes of feer brennandeIn wich \u00feey\n                    schul be bounden foot and hande\n",
+            "Note": "\nEnds imperfectly.",
+            "Attributed Title": "\nHic incipit stimulus consciencie (f. 1)",
+            "folio": "ff. 1-68v"
+        },
+        "BodDou141": {
+            "First Lines": "\n\u00feE my\u021dt of \u00fee fader al my\u021dti\u00fee wyt of\n                    \u00fee sone al wytti\u2026\n",
+            "Last Lines": "\n\u2026To whyche place he vs alle brynge\u00feat for vs voched saue\n                    on rode to hynge\n",
+            "Attributed Title": "\nStimulus conscientie (f. 1), Explicit tractatus qui dicitur\n                        stimlus conscientie. Here ende\u00fe \u00fee tretys \u00feat ys called\n                    \u00fee prykke of consciense. Here ende\u00fe \u00fee sermon \u00feat a clerk\n                    made \u00feat was clepyd alquyn to Gy of warwyk (at the end)",
+            "folio": "ff. 1-129v"
+        },
+        "BodDou157": {
+            "First Lines": "\nTHe myghtte of \u00fee ffader almyghttyThe wytte of \u00fee sone\n                    alwytty\u2026\n",
+            "Last Lines": "\n\u2026To wheche place he vs brynge\u00feat of nou\u021dt made alle\n                    \u00feynge\n",
+            "Attributed Title": "\nIncipit stimulus consciencie (f. 1), Explicit stimulus\n                        consciencie (at the end)",
+            "folio": "ff. 1-114v"
+        },
+        "BodeMus76": {
+            "First Lines": "\nThe my\u021dth of the Fader almy\u021dtyThe wysdom of the sone alle\n                    witty\u2026\n",
+            "Last Lines": "\n\u2026To whiche place he vs bryngThat on rode for vs wold\n                    hyng\n",
+            "Attributed Title": "\nHere endith the pryk of Conscience (f. 127)",
+            "folio": "ff. 1-127"
+        },
+        "BodeMus88": {
+            "First Lines": "\nHe say\u00fe in his wordes leued \u00feeyAn loued his louynge as\n                    \u00feey coude sey\u2026\n",
+            "Last Lines": "\n\u2026To \u00fee whyche place he vs alle brynge\u00feat for oure\n                    loue made heuen& erthe & alle \u00feynge\n",
+            "Note": "\nMissing lines 1-319.",
+            "Attributed Title": "\nHere endeth the tretys that ys called the prykke of concience (at the\n                    end)",
+            "folio": "ff. 1-127"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\n\u00deE miht Of \u00fee ffader Almihti\u00dee Wit Of \u00fee sone\n                    Al witti\u2026\n",
+            "Last Lines": "\n\u2026To whuche place he vs alle bringe\u00deat for vre hele on\n                    Roode can hinge Amen\n",
+            "Attributed Title": "\nPrikke of conciens hette \u00feis book / Hose wole mai rede and look (f.\n                        265rc; see 4401)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 265rc2-284ra"
+        },
+        "BodJunius56": {
+            "First Lines": "\nAnd to loue and drede and leten al ylleMany men han likyng tryfels\n                    to here\u2026\n",
+            "Last Lines": "\n\u2026ne \u00fee moder on \u00fee same manereof \u00fee\n                    dau\u021dter \u00feat was her dere\n",
+            "Note": "\nMissing lines 1-181 and ends at line 8426.",
+            "folio": "ff. 1-120v"
+        },
+        "BodLauMis486": {
+            "First Lines": "\nThe my\u021dt of \u00fee fader al my\u021dtyThe wytte of \u00fee\n                    sone al wytty\u2026\n",
+            "Last Lines": "\n\u2026To whuche place he vs alle bryngThat for our hele on ronde\n                    gan kyng\n",
+            "Attributed Title": "\nStimulus consciencie (f. 1)",
+            "folio": "ff. 1-122"
+        },
+        "BodRawA366": {
+            "First Lines": "\nThe myght of the fader al myghtyThe wit of the sone al\n                    witty\u2026\n",
+            "Last Lines": "\n\u2026Bote \u021dit al thise blisses that \u021de haue herd me\n                    neueneBen as nought to regard to the blisses of heuene\n",
+            "Note": "\nEnds imperfectly at line 8998.",
+            "folio": "pp. 1-250"
+        },
+        "BodRawC35": {
+            "First Lines": "\nThe mygh of \u00fee fader al my[ ]The wyt of \u00fee sone al\n                    wytty\u2026\n",
+            "Last Lines": "\n\u2026\u00feat \u00feey mowe to heuene cytewere euere more Ioy\n                    & blysse ys plente Amen\n",
+            "folio": "ff. 1-117v"
+        },
+        "BodRawC319": {
+            "First Lines": "\nHon strong god is & mitthiHon man greued god \u00feat dot not\n                    wele\u2026\n",
+            "Last Lines": "\n\u2026ffor if we schuld neuer helle seNe sinne schuld ne uere\n                    punched be\n",
+            "Note": "\nMissing lines l-l29 and ends at line 9510.",
+            "folio": "ff. 1-138v"
+        },
+        "BodRawC891": {
+            "First Lines": "\nOf such fil\u00fee man maked esOf \u00feis shulde eche man here\n                    haue mynde\u2026\n",
+            "Last Lines": "\n\u2026To qwilk place he vs bryng\u00feat of nou\u021dt made alle\n                    \u00feing\n",
+            "Note": "\nMissing lines 1-427. The last section, \u2018De poenis\n                        purgatorii\u2019, is written after the last lines on ff.\n                        111v-127.",
+            "folio": "ff. 1-127"
+        },
+        "BodRawD913": {
+            "First Lines": "\n[ ]rede of de\u00fe \u00feat he efte schulde drye[ ] for peynes\n                    \u00feat he say wi\u00fe his ey\u021de\u2026\n",
+            "Last Lines": "\n\u2026Wi\u00fe betils of yren hote glowande\u00fee ten\u00fee payne\n                    is gnawyng wr[ ]\n",
+            "Note": "\nSingle leaf, partly unreadable (second of two fragments from two\n                    different MSS).",
+            "folio": "f. 62"
+        },
+        "BodRawPoe138": {
+            "First Lines": "\nTHe myth of \u00fee ffadyr Al myghty\u00fee wyt of \u00fee sone al\n                    wytty\u2026\n",
+            "Last Lines": "\n\u2026To \u00feat schynyng blysse bryng vs he\u00feat wyt hys blod\n                    bowte vs on \u00fee rode tre\n",
+            "Note": "\nOn f. 1: \u2018Assit principio sancta Maria\n                    meo\u2019.",
+            "Attributed Title": "\nExplicit liber vocatur stimulus concientie [N]omen scriptoris saluet\n                        deus omnibus horis (at the end)",
+            "folio": "ff. 1-112v"
+        },
+        "BodRawPoe139": {
+            "First Lines": "\nHEr byginne\u00fe in presenceThe book cald pricke of\n                    conscience\u00fee my\u021dt of \u00fee fader almy\u021dti\u00fee wyt\n                    of \u00fee sone alwitti\u2026\n",
+            "Last Lines": "\n\u2026To \u00fee whiche place he vs alle brynge\u00feaat for our\n                    hele on rode can hynge\n",
+            "folio": "ff. 1-119"
+        },
+        "BodRawPoe175": {
+            "First Lines": "\n\u00fee myght of \u00fee fader all myghty\u00fee witt of \u00fee\n                    son all witty\u2026\n",
+            "Last Lines": "\n\u2026Till whilk place he vs all bryng\u00feat for vs vouched safe\n                    on rode to hyng\n",
+            "Attributed Title": "\nExplicit tractatus qui dicitur stimulus consciencie / Here endes\n                    \u00fee tretyce \u00feat es called \u00fee pryk of conscience (at the\n                    end)",
+            "folio": "ff. 1ra-55rb"
+        },
+        "OxfStJohn57": {
+            "First Lines": "\nThe mi\u021dte of the ffadir Almy\u021dtyThe witt of the son all\n                    witty\u2026\n",
+            "Last Lines": "\n\u2026To \u00fee wiche plase he vs bryngeThat vouche saff for vs on\n                    rode to hyng Amen\n",
+            "Note": "\nFollowed on ff. 135v-137 by extracts from the PC ommitted\n                    from the preceding text.",
+            "Attributed Title": "\nExplicit stimulus consciencie (f. 135)",
+            "folio": "ff. 1-135"
+        },
+        "OxfStJohn138": {
+            "First Lines": "\nDauid seyth thus as wretyn isMen wendyn a wey erly as\n                    gres\u2026\n",
+            "Last Lines": "\n\u2026And felle schendty \u00fees of helle alsoThat arn erant\n                    contrarie they fo\n",
+            "Note": "\nMissing lines 1-721.",
+            "folio": "ff. 1-126v"
+        },
+        "OxfTri15": {
+            "folio": "f. 1"
+        },
+        "OxfTri16A": {
+            "Note": "\nPreceded by a unique Prologue of 22 lines.",
+            "folio": "f. 1"
+        },
+        "OxfUni142": {
+            "First Lines": "\nTHe my\u021dthe of the fader al my\u021dthyThe wit of the sone al\n                    wytty\u2026\n",
+            "Last Lines": "\n\u2026To whyche place he vs bryng\u00feat for oure loue made al\n                    \u00feing\n",
+            "Attributed Title": "\nstimulus consientie (added fifteenth to sixteenth century, f. 4);\n                        Explicit stimulus consciencie (scribal, f. 125v)",
+            "folio": "ff. 4-125v"
+        },
+        "CULAdd6693": {
+            "First Lines": "\nT[ ] \u00fee fadir al my\u021dthi[ ] \u00fee sone al witty[ ]\n                    of \u00fee holy goost[ ] of my\u021dtis moost\u2026\n",
+            "Last Lines": "\n\u2026To which place he vs tille bryng\u00deat for vs feuchid saue\n                    on roode to hyng\n",
+            "Note": "\nFirst page badly worn, with loss of text as indicated.",
+            "folio": "ff. 1-179"
+        },
+        "CULDd1189": {
+            "First Lines": "\n\u00dee myth of \u00fee fadur almy\u021dty\u00fee wytte of \u00fee\n                    sonne al wytty\u2026\n",
+            "Last Lines": "\n\u2026To wyche place he vs al bryng\u00feat for vs vouched saue on\n                    rode to hyng\n",
+            "Attributed Title": "\nExplicit tractatus qui dicitur stimulus consciencie\u2026Here\n                    ende\u00fee \u00fee tretys \u00feat ys cald \u00fee prykke off conciense (f.\n                    162); Here ende\u00fee \u00fee sermon \u00feat a clerk made \u00feat was cleput\n                    Alguyn Togwy of Warwyk (f. 162)",
+            "folio": "ff. 9-162"
+        },
+        "CULDd1269": {
+            "First Lines": "\n\u00dee myth of \u00fee fader almyghti\u00fee wit of \u00fee sone a\n                    wytti\u2026\n",
+            "Last Lines": "\n\u2026To the whiche ioye he vs brynge\u00feat of no\u021dth\n                    ha\u00fe made alle \u00feynge\n",
+            "Attributed Title": "\nHic incipit stimulus consciencie (f. 37)",
+            "folio": "ff. 37-97v"
+        },
+        "CULLl217": {
+            "First Lines": "\n\u2026Off many thynges I knowe and seThat has bene and is &\n                    yet shalbe\u2026\n",
+            "Last Lines": "\n\u2026ffor ther in may he many thynge seThat has bene and is and\n                    yet shal be\n",
+            "Note": "\nMissing lines 1-178; ff. 3-6 missing; at end, \u2018ffinito libro\n                        reddatur gloria christo\u2019 f. 145.",
+            "folio": "ff. 2-145"
+        },
+        "CamGon386": {
+            "First Lines": "\nThe mygth of \u00fee fader almythy& \u00fee wytt of \u00fee\n                    sone al wytty\u2026\n",
+            "Last Lines": "\n\u2026To qweche yo\u021de god hus brenge qwan we henes\n                    wende\u00deat for hus was born of a mayden & ded hup on \u00fee rode\n                    henge\n",
+            "Attributed Author": "\nper Ricardum heremitam (f. 1)",
+            "Attributed Title": "\nHic incipit stimulus conciencie compilatus per Ricardum heremitam\n                    (f. 1); Explicit stimulus conciencie (f. 96)",
+            "folio": "ff. 1-96"
+        },
+        "CamFitzMc131": {
+            "First Lines": "\n\u2026Til his liknes in semely statureAnd made him most worthi\n                    creature\u2026\n",
+            "Last Lines": "\n\u2026It semes \u00feat he is witlesOr ouer mekille herdende in\n                    wickidnes\u2026\n",
+            "Note": "\nBegins imperfectly at line 75; ends imperfectly with last 22 lines\n                    missing, and upper portion of folio 113 torn away.",
+            "Attributed Title": "\nThis bovke is called pricke of consciens (added by later hand, f.\n                    114)",
+            "folio": "ff. 1-113v"
+        },
+        "CamMag18": {
+            "First Lines": "\n\u2026He says a man is borne to trauayll ryhtAs \u00fee soule is\n                    made to flyht\u2026\n",
+            "Last Lines": "\n\u2026To \u00fee whoche place he vs bryng\u00deat vouched sauf for\n                    vs on rode to hyng\n",
+            "Note": "\nMissing lines 1-541.",
+            "Attributed Title": "\nExplicit liber qui dicitur stimulus consciencia (p. 218)",
+            "folio": "pp. 1-218"
+        },
+        "CamPem272": {
+            "First Lines": "\n\u2026With ynne hys modrys wombe hath non oder fodeBut\n                        [illegible] & habundans of blode\u2026\n",
+            "Last Lines": "\n\u2026prykke of conscyence hit hytyth \u00feat oure soules doth\n                    helefor \u021dif a man do\u00fe rede & con vndurstondyng\n                    fele\u2026\n",
+            "Note": "\nMissing lines 1-457, ends at line 9552.",
+            "folio": "ff. 1-143v"
+        },
+        "CamStJohn80": {
+            "First Lines": "\n[\u00dee] myght of [ ][\u00de]e wysdom of [ ]And \u00fee\n                    godnes of \u00fee haly gas[ ]\u2026\n",
+            "Last Lines": "\n\u2026To whilke place he vs bryng\u00feat for vs vouched saue on\n                    rode to hyng\n",
+            "Note": "\nDamage to first folio from damp, with loss of ends of\n                    lines.",
+            "Attributed Author": "\nRich Hampole (added sixteenth century right margin, f. 1); this booke of\n                    stimulus conscienscie was made by Richard Rolle hermit of hampolle (added same\n                    16th century hand, top right margin, f. 118)",
+            "Attributed Title": "\nExplicit trat[a]tus qui dicitur consciencie stimulis / Here endes\n                    \u00fee tretice \u00feat es cald \u00fee key of knowyng (f. 118); this booke of\n                    stimulus conscienscie was made by Richard Rolle hermit of hampolle (added same\n                    16th century hand, top right margin, f. 118)",
+            "folio": "ff. 1-118"
+        },
+        "CamStJohn137": {
+            "First Lines": "\n\u2026God to mannys kynde had grete loueWhan he ordeyned to manys\n                    behoue\u2026\n",
+            "Last Lines": "\n\u2026\u00deat for vs vouched saufe on rode to hynge\u00deer fore\n                    \u00feu vs fecche to \u00fey blisful wonynge[ ][ ] is withouten\n                    endynge\n",
+            "Note": "\nMissing lines 1-68.",
+            "Attributed Title": "\nExplicit tractatus Stimulus consciencie nominatus; Here endi\u00fe\n                    \u00fee tret[ ] \u00feat prik of conscience clepid ys (f.\n                    113v)",
+            "folio": "ff. 1-113v"
+        },
+        "BLAdd11304": {
+            "First Lines": "\n\u00dee myht of \u00fee fadyr alle myhty\u00dee witte of \u00fee\n                    sone alle witty\u2026\n",
+            "Last Lines": "\n\u2026ffro schute peynes god vs schyls\u00deoro prayer of is moder\n                    mylde. Amen\n\n",
+            "Note": "\nText incomplete, missing lines 9473-9624.",
+            "folio": "ff. 72-194"
+        },
+        "BLAdd22283": {
+            "First Lines": "\n\u00deE mi\u021dt of \u00fee ffader almihti[\u00de]E wit of \u00fee\n                    sone al witti\u2026\n",
+            "Last Lines": "\n\u2026To whiche place he vs alle bringe\u00deat for vre hele on\n                    Rode gan hinge. Amen\n",
+            "Note": "\nThe intial \u2018\u00de\u2019 of the second line is supplied by the\n                    illuminated initial of the first line.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 62ra-78va"
+        },
+        "BLAdd24203": {
+            "folio": "f. 1v"
+        },
+        "BLAdd25013": {
+            "Note": "\nMissing lines 1-78.",
+            "folio": "f. 1"
+        },
+        "BLAdd32578": {
+            "First Lines": "\n\u2026Many man has likynge trufuls to hereAnd vanites gladly will\n                    \u00feai lere\u2026\n",
+            "Last Lines": "\n\u2026To \u00fee whilke place he us alle brynge\u00feat for our\n                    hele on rode gan hynge\n",
+            "Note": "\nMissing lines 1-182.",
+            "folio": "ff. 1-103"
+        },
+        "BLAdd33995": {
+            "First Lines": "\n\u00dee might of \u00fee fadir allemighty\u00dee witte of \u00fee\n                    son alle witty\u2026\n",
+            "Last Lines": "\n\u2026Til whilk place he vs alle bryng\u00deat for vs vouched saue\n                    on rode to hyng\n",
+            "Note": "\nTwo columns.",
+            "Attributed Title": "\nHere endes \u00fee tretice \u00feat es called pryk of consuence (explicit,\n                    f. 155ra)",
+            "folio": "f. 102ra-155ra"
+        },
+        "BLAdd36983": {
+            "First Lines": "\n\u2026Some clerkus say \u00feat one schal come\u00deat schall\n                    holde \u00fee Empyre of Rome\u2026\n",
+            "Last Lines": "\n\u2026And how \u00fee worlde as we now se Afftir \u00fee dome als\n                    new mad schall be\u2026\n",
+            "Note": "\nFragment: lines 4085-6407.",
+            "folio": "ff. 159ra-174v"
+        },
+        "BLAdd37049": {
+            "First Lines": "\nAlle \u00fee warld wyde and bradeOure Lord specyally for man\n                    made\u2026\n",
+            "Last Lines": "\n\u2026For a forbyddyn \u00feynge of lytel pryseIn to \u00feis\n                    wretchyd warld as \u00fee may se\n",
+            "Note": "\nLines 933-987 occurring separately.",
+            "Editions": "\nDoty,  Brant Lee,\n                        ed.  \n             \u201cAn Edition of British Museum MS Additional 37049: a Religious\n                Miscellany.\u201d \n         Diss. Michigan State, 1969: 398-400.\n",
+            "folio": "f. 72"
+        },
+        "BLCottAppVII": {
+            "First Lines": "\n\u2026And graunte vs heuen\u2026Before any thing\n                    was\u2026\n",
+            "Last Lines": "\n\u2026And he \u00feat schall here or seAnd mey nou\u021dt\n                    \u00feerby stered be\n",
+            "Note": "\nMissing lines 1-3 entirely and parts of the text on f. 3 is missing due\n                    to manuscript damage. Contains an Epilogue.",
+            "folio": "ff. 3-145v"
+        },
+        "BlCottGalEIX": {
+            "First Lines": "\n\u00dee myght of \u00fee fader almyghty\u00e0e witt of \u00e0e son\n                    alwytty\u2026\n",
+            "Last Lines": "\n\u2026Til whilk place he vs alle bryng\u00e0at for vs vouched safe\n                    on rode to hyng\n",
+            "Note": "\nEnds \u2018Amen\u2019 at end of last line, followed by\n                    explicit.",
+            "Attributed Title": "\nExplicit tractus qui dicitur stimulus conscientie / Here endes\n                    \u00fee tretice \u00feat es called pryk of conscience (by scribe, the Latin in\n                    rubric and the English in engrossed letters of same ink as text, f.\n                        113ra)",
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             The Pricke of Conscience.\nPhilological Society.\n         Berlin: Asher, 1863. \n",
+            "folio": "ff. 76ra-113ra"
+        },
+        "BLEge657": {
+            "First Lines": "\n\u2026ffor \u00fei all \u00feat haue skylle and myndeSuld thing of\n                    \u00fee wrechydnes of this kynde\u2026\n",
+            "Last Lines": "\n\u2026Sw bodyly egh may neuer seApoynte of swylk bryghtnes als\n                    \u00feere salle ben\u2026\n",
+            "Note": "\nMissing lines 1-607 and ends at line 9138.",
+            "folio": "f. 1"
+        },
+        "BLEge3245": {
+            "First Lines": "\n\u00dee myht of \u00fee ffadir almyhetyhe wit of \u00fee sone al witty\u2026\n",
+            "Last Lines": "\n\u2026To \u00fee qwiche place he vs alle bryngthat for our hele on roode gan hyng\n",
+            "Attributed Author": "\nHampool (f. 156, after 1962).",
+            "Attributed Title": "\n\u2026r of \u00fee Holy triniteMy Stimulus consciencie (rubric. f. 2).",
+            "folio": "ff. 2-156"
+        },
+        "BLHar1205": {
+            "First Lines": "\n\u2026[Ther]forre for he is vncertayneWhe\u00feer he shal to ioye or peyne\u2026\n",
+            "Last Lines": "\n\u2026To \u00fee whiche place he alle vs bryngeThat for oure heele on roode can hynge\n",
+            "Note": "\nBegins imperfectly: at top of f. 1, \u201cThe \u00feridde part\u201d; ends \u201cAmen\u201d followed by \u201cExplicit expliceat ludere scriptor eat\u201d (f. 125).",
+            "folio": "ff. 1-125"
+        },
+        "BLHar2394": {
+            "First Lines": "\n\u2026an[\u00a0\u00a0\u00a0\u00a0]and [\u00a0\u00a0] for[\u00a0\u00a0\u00a0]\u00fee same g[\u00a0\u00a0\u00a0]\u00feat wom[\u00a0\u00a0\u00a0]and In th[\u00a0\u00a0\u00a0\u00a0]ffor god was e[\u00a0\u00a0\u00a0 ]and with \u00fee ha[\u00a0\u00a0\u00a0 ]as god In a substance and\u2026\n",
+            "Last Lines": "\n\u2026To whilke place he vs bring\u00feat for our Redemption on the Roode dide hynge\n",
+            "Note": "\nMissing lines 1-11. Damage to first few folios meaning loss of text; medieval text ends imperfectly 127v with sixteenth-century hand adding remaining three pages (to 129); ends \u201cAmen.\u201d",
+            "folio": "ff. 1-129"
+        },
+        "BLHar4196": {
+            "First Lines": "\n\u00deE myght of \u00fee fader all myghty\u00fee witt of \u00fee son all witty\u2026\n",
+            "Last Lines": "\n\u2026Tyll whilk place he vs all bryng\u00feat for us vouched safe on rode to hyng\n",
+            "Note": "\nEnds \u201cAmen.\u201d",
+            "Attributed Title": "\nExplicit tractus qui dicitur stimulus consciencie (rubric, after last line, f. 158va)",
+            "folio": "ff. 215va-258va"
+        },
+        "BLHar6923": {
+            "First Lines": "\n\u00dee myght of \u00fee fader all myghty\u00fee wysdome of \u00fee sone all wy\u021dty\u2026\n",
+            "Last Lines": "\n\u2026Comand doune fra heuen bry\u021dtOf god almyghty richly dy\u021dt\u2026\n",
+            "Note": "\nEnds imperfectly at line 8798.",
+            "folio": "ff. 2-117v"
+        },
+        "BLRoy17Cxvii": {
+            "First Lines": "\n\u2026MOny speke in bokys & redesOf pergatory hot fo[?] it\n                    dredes\u2026\n",
+            "Last Lines": "\n\u2026May avalyle for saules in purgatory\u00deat as bene \u00feer\n                    chesyd worthelyAnd so mot it be Amen for charite\n",
+            "Note": "\nFragment: lines 2692-3807 only. Text damaged by damp and difficult in\n                    places to read.",
+            "folio": "f. 117ra-124rb"
+        },
+        "BLSl1044": {
+            "Note": "\nA single leaf containing lines 2792-2859.",
+            "folio": "No. 235"
+        },
+        "BLSl2275": {
+            "folio": "f. 150"
+        },
+        "NLWPork20": {
+            "folio": "f. 1"
+        },
+        "CantLitD13": {
+            "First Lines": "\n\u00deE mi\u021dte of \u00fee fader Al mi\u021dty\u00dee witte of\n                    sone al wytty\u2026\n",
+            "Last Lines": "\n\u2026And apostles & ewangelistes\u00deat folwide none\n                    o\u021der lawe bote cristes\u2026\n",
+            "Note": "\nDefective at end.",
+            "Attributed Title": "\nExplicit liber Stimulus consciencie (f. 144v, in a\n                    different hand)",
+            "folio": "ff. 1-144v"
+        },
+        "LeedsBro500": {
+            "First Lines": "\n\u00dee my\u021dt of \u00fee fader al my\u021dty\u00fee wytt of\n                    \u00fee sone al witty& \u00fee godnesse of \u00fee holy\n                    gost\u2026\n",
+            "Last Lines": "\n\u2026to \u00fee wiche place vs alle bryngeIhesu kyng ouer vch\n                    kynge\n",
+            "Attributed Title": "\nHic incipit quidam tractatus [ ]hed episcopi lincolliensis qui nominatur\n                        Stimulus consciencie\u2026 (f. 1)",
+            "folio": "pp. 1-294"
+        },
+        "LeedsBro501": {
+            "First Lines": "\n\u2026Concupyscens of flesh ys o thyng\u00feat fallyth to fleshly\n                    lykyngConcupyscens of eyen as I can gessefallyth to worldly\n                    rychesse\u2026\n",
+            "Last Lines": "\n\u2026To whych place he vs all bryng\u00feat for oure hele on rode\n                    ded hyng\n",
+            "Note": "\nBegins imperfectly at line 1130; written two lines of text per line of\n                    manuscript.",
+            "Attributed Title": "\nExplicit tractatus qui vocatur Stimulus conscientie (f.\n                        58v)",
+            "folio": "ff. 1-58"
+        },
+        "Lincoln91": {
+            "First Lines": "\nThe begynnyng es of threffull mekill \u00feer in men may\n                    seeAnd for thi I will or I passeSchewe whate man firste\n                    was\u2026\n",
+            "Last Lines": "\n\u2026Thus may aman see his lyfe ay whareffull of cayteste and of\n                    care\n",
+            "Note": "\nFragment: lines 438-551 only.",
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 1.372-3.\n",
+            "folio": "ff. 276v-277"
+        },
+        "CollArmsAr57": {
+            "First Lines": "\n\u2026\u021dit ben \u00feer moo \u00feen I haue tolde\u00deat\n                    fallen to men whenne \u00feei are old\u2026\n",
+            "Last Lines": "\n\u2026\u00deere schal vche man als wel knowe o\u00feereAs here\n                    do\u00fe any his sister or bro\u00feer\u2026\n",
+            "Note": "\nMissing lines 1-801; ends at line 8278. Catchphrase \u2018And\n                    knowe\u2019 at foot of f. 175v.",
+            "folio": "ff. 133ra-175vb"
+        },
+        "Lam260": {
+            "folio": "f. 101"
+        },
+        "Lam491": {
+            "First Lines": "\nTHe myght of the fader that is almyghty[T]hee wysdome of the son\n                    that is all wytty\u2026\n",
+            "Last Lines": "\n\u2026And \u00feerfore may we reken and redeA thowsande synnes to\n                    one gode dede\u2026\n",
+            "Note": "\nEnds imperfectly at line 2482. \u2018T\u2019 of second line supplied\n                    by large initial of the first line.",
+            "Attributed Author": "\nRic. Hampole (f. 296, later hand)",
+            "Attributed Title": "\nStimulus Conscientia (f. 296, later hand)",
+            "folio": "Part II, ff. 296-323"
+        },
+        "Lam492": {
+            "First Lines": "\n\u00fee myhte of \u00fee fadir alle myhty\u00fee wytte of \u00fee\n                    sone alle wytty\u2026\n",
+            "Last Lines": "\n\u2026Schall \u021deld a countes \u00feat is to seyeOffe sonnes and\n                    douthers \u00feat \u00feei forth brouth\u2026\n",
+            "Note": "\nIncomplete. Catchphrase \u2018ne whiche \u00feei here\u2019 at the\n                    foot of f. 56v.",
+            "Attributed Title": "\nHic inc liber qui vocatur stimulus consciencie et ex dictis doctorum\n                        colligitur atque tractatur et dividitur in septem partes videlicit prima\n                        pars de natura humana secunda de mundo tercia de morte quarta de purgatorio\n                        quinta de die Iudicii sexta de penis inferni septima pars de gaudiis\n                        celi (f. 1, rubric)",
+            "folio": "f. 1-56v"
+        },
+        "StPauls47G3": {
+            "Note": "\nA fragment of the The Pricke of Conscience in  Johannes Buxtorfius, Thesaurus Grammaticus linguae sanctae Hebraeae. Basle, 1616.",
+            "folio": ""
+        },
+        "SionArcL402E25": {
+            "First Lines": "\n\u00dee might of \u00fee fader almyghty\u00fee witte of\n                        son \u00fee son all witty\u2026\n",
+            "Last Lines": "\n\u2026Men sal ham se to \u00fee forrest sideAls wele \u00feat\n                    \u00feat sal be [farre?]\n",
+            "Note": "\nEnds imperfectly at line 9220. Final word on f. 139v\n                    partially rubbed out. \u2018Iste liber pertinet ffratris Iohannem holonde /\n                        Monache Westminster\u2019.",
+            "folio": "ff. 48-133v"
+        },
+        "SocAnt687": {
+            "First Lines": "\n\u00deE mythe of \u00fee ffadyr Alle mythy\u00dee wysdome of\n                    \u00fee sone Alle wytty\u2026\n",
+            "Last Lines": "\n\u2026And \u00fee materys to herte wyl takeIt may hys conscyence\n                    tendyr make\u2026\n",
+            "Note": "\nEnds imperfectly (lost folio).",
+            "folio": "pp. 5-358"
+        },
+        "SocAnt288": {
+            "First Lines": "\n\u2026\u00feat seye a deuyl in his figure Ryth\u00feat he for\n                    drede of \u00feat syth\u2026\n",
+            "Last Lines": "\n\u2026& he \u00feat shal it heryn or se& may nout \u00feer\n                    by steryd be\u2026\n",
+            "Note": "\nBegins at l. 2319 and ends imperfectly at l. 9604. On ff.\n                        1-12v is sixteenth-century transcription of ll. 1384-2320,\n                    modernized.",
+            "folio": "ff. 13-120v"
+        },
+        "Longleat31": {
+            "Note": "\nLines 56-9115 only.",
+            "folio": "f. 1"
+        },
+        "Chetham8008": {
+            "First Lines": "\nOf \u00fee las worlde w[ ]Bot aftyrward w[ ]Of \u00fee more\n                    world [ ]Can I pas fro \u00feis m[ ]\u2026\n",
+            "Last Lines": "\n\u2026\u00dee tretis diuerse honouris may be\u00feat god men in\n                    heuyn schal fele & se\n",
+            "Note": "\nMissing lines l-1047; ends at line 9082; outer edge of first page\n                    damaged by damp.",
+            "folio": "ff. 1-115v"
+        },
+        "RylandsEng90": {
+            "First Lines": "\nThe my\u021dt off \u00fee fadur almy\u021dti[T]he Wisdom off\n                    \u00fee sone al witty[T]he grace and \u00fee goodnesse of \u00fee holi\n                    gostO god and o lord off mi\u021dtes most\u2026\n",
+            "Last Lines": "\n\u2026To which good he ous bringe\u00deat for ous fouched saff to\n                    henge\n",
+            "folio": "ff. 2-62va"
+        },
+        "RylandsEng50": {
+            "First Lines": "\nThe myghte of the f[ader] almyghtiThe witte of the [ ]And\n                    godenes als of the h[oli] gostThe wheche is lord of myghtes\n                    moost\u2026\n",
+            "Last Lines": "\n\u2026To \u00fee wheche place he vs alle bringeThat for oure heele\n                    on roode con hinge\n",
+            "Note": "\nDamaged by damp on first folio.",
+            "Attributed Title": "\nStimulus concientie (f. 1); Explicit hic quidem tractatus vocatus\n                        stimulus conscientie ffinito libro sit laus & gloris cristo (p.\n                    204)",
+            "folio": "pp. 1-204"
+        },
+        "RylandsEng51": {
+            "First Lines": "\n\u2026And \u021daf hym skille witt & myndefforto knowe gode\n                    & illeAnd \u00feerto \u021daf hym witte & skillefforto chese\n                    or forto holde\u2026\n",
+            "Last Lines": "\n\u2026To \u00fee which place he vs alle bringe\u00feat for vs made\n                    heuen er\u00fee & al \u00feinge\n",
+            "Note": "\nMissing lines 1-422.",
+            "Attributed Title": "\nHer ende\u00fe \u00fee pricke of conscience ffinito libro reddatur\n                        gloria cristo Qui scripcit carmen sit benedictus Amen (f.\n                        116v)",
+            "folio": "ff. 5-116v"
+        },
+        "ShrewsS3": {
+            "Note": "\nMissing lines 1-4195; ends at line 7542.",
+            "folio": "f. 1"
+        },
+        "Ushaw50": {
+            "First Lines": "\nAlle \u00feat will knowe \u00fee sciens [ ]What ys \u00fee prikke\n                    of consye[ ]\u2026\n",
+            "Last Lines": "\n\u2026[ ]folwe here kynde & passe it nowht[ ] love\u00fe his\n                    makere & hym worchepis\n",
+            "Attributed Title": "\nIncipit prologue De stimulis Consciencie (f. 1)",
+            "folio": "ff. 1-1v"
+        },
+        "Douai7": {
+            "folio": ""
+        },
+        "HarEng515": {
+            "First Lines": "\n\u2026But gret perel ys \u00feat man ynne\u00deat ha\u00fe wyt\n                    & mynde & wol not lerneRy\u021dtwys werkes and godes laweBy\n                    \u00fee wuche men schul be saue\u2026\n",
+            "Last Lines": "\n\u2026To \u00fee whuche ioye he vs brynge\u00deat of nou\u021dt\n                    ha\u00fe made alle \u00feingeAmen amen so mote hyt beSeye we alle par\n                    charyte\n",
+            "Note": "\nMissing lines 1-160; text much abridged.",
+            "folio": "ff. 1-77"
+        },
+        "CharlotHench10": {
+            "Note": "\nMissing lines 1-156.",
+            "folio": "f. 1"
+        },
+        "Chicago329": {
+            "First Lines": "\nThe mighte of \u00fee fader al my3ty\u00fee wit of \u00fee sone\n                    alle wittyAnd \u00fee goodnesse of \u00fee holy goostGod & lord of\n                    my\u021dtes moost\u2026\n",
+            "Last Lines": "\n\u2026To the whiche ioyes that haue noon endeGod bringe vs thidre\n                    whan we hennes wendeAnd that it mote so beWith herte stedfaste Amen\n                    say we\n",
+            "Attributed Title": "\nHere than endes the tretice alle / Which that men Prik of conscience kalle\n                    / Explicit Expliceat sic benedictus eat / Amen (f. 99/p. 197)",
+            "folio": "ff. 1-99"
+        },
+        "Chicago33": {
+            "First Lines": "\n\u2026And lacket\u00fe \u021dong men \u00feat now are seeneHe is\n                    oft seeke & ay gronande\u2026\n",
+            "Last Lines": "\n\u2026\u00feat han be are & schul be\u00feus may \u00feis\n                    tretis with \u00fee sentence\u2026\n",
+            "Note": "\nBegins imperfectly at line 797; ends imperfectly at line 9571, and\n                    missing lines 8780-9256 due to missing folios between pp. 190-191.",
+            "folio": "pp. 1-198"
+        },
+        "YaleBeiOsa13": {
+            "First Lines": "\n\u2026And no quyk creature bot \u00feayAs in \u00feis booke is\n                    wele contendeWho so wole here hit to \u00fee ende\u2026\n",
+            "Last Lines": "\n\u2026To \u00fee whiche place he vs alle bryng\u00deat for oure\n                    heele on rode con hyng\n",
+            "Note": "\nListed as \u2018Osborn 31\u2019 in Robbins  and  Cutler (1965)\nXRossell Hope Robbins,   and  John L. Cutler.  \n             Supplement to the Index of Middle English Verse.\n         Lexington, Kentucky: University of Kentucky Press, 1965;\n                    begins imperfectly in Prologue because missing first leaf (missing lines\n                    1-37).",
+            "folio": "ff. 2-139"
+        },
+        "PierpontB13": {
+            "First Lines": "\n\u2026He seith lorde thenke \u00feat \u00feou madist meffro erth\n                    & cley here to be\u2026\n",
+            "Last Lines": "\n\u2026To wich place he vs all bryngeThat for vs vowchid saf on rode\n                    to hengeAmen amen seith \u021de\u021cong & olde pur\n                    charite\n",
+            "Note": "\nBeginning imperfectly with Latin verses, \u2018Memento queso quod sicut\n                    lictum feceris me / et in puluerem reduces me\u2019; with \u2018Job\u2019 in\n                    right margin.",
+            "Attributed Title": "\nHere endith \u00fee tretis \u00feat is clepid the keye of knowyng (f.\n                    107)",
+            "folio": "ff. 1-107"
+        },
+        "PhilUPEng1": {
+            "First Lines": "\n\u2026And \u00feer to \u021daf him wit and skilleffor to chese and\n                    for to holdeGood or euyl whe\u00feir he wolde\u2026\n",
+            "Last Lines": "\n\u2026To \u00fee whiche place he vs alle brynge\u00deat for oure\n                    loue on \u00fee rode gan hynge\n",
+            "Note": "\nImperfect at beginning due to loss of folios between 12 and\n                    13.",
+            "Attributed Title": "\nExplicit Tractatus qui dicitur Stimulus consciencie (f.\n                    118)",
+            "Facsimiles": "\n\nFacsimile of UPenn Ms. Codex 196\n         . \n",
+            "folio": "ff. 13-118"
+        },
+        "PhilUPEng8": {
+            "First Lines": "\n[\u00de]e mi\u021dt of \u00fee fader almi\u021dty\u00dee wisdome of\n                    \u00fee son alwitty\u2026\n",
+            "Last Lines": "\n\u2026\u00deat bene ifounde in syn\u00deat wold nou\u021dt hem self\n                    do\u2026\n",
+            "Note": "\nImperfect; includes Prologue, Parts I and II and portion of Part\n                    III.",
+            "folio": "ff. 147ra-159vb"
+        },
+        "PULTayM13": {
+            "First Lines": "\n\u00dee myght of \u00fee fadir all myghty\u00fee wit of \u00fee son\n                    al wytty\u2026\n",
+            "Last Lines": "\n\u2026Till \u00fee wylk place he vs all brynge\u00feat for oure\n                    hele one rode cane hynge\n",
+            "Note": "\nMissing lines 1-76.",
+            "Attributed Title": "\nExplicit tractatus qui dicitur Stimulus Consciencie Here endes\n                    \u00fee tretice \u00feat es calde Prikke of Conscience (f.\n                    126v)",
+            "folio": "ff. 1-126v"
+        },
+        "HunHM139": {
+            "First Lines": "\n\u00dee my\u021dte of \u00feo fadere almy\u021dtty\u00fee witt of\n                    \u00feo sonne al witty\u2026\n",
+            "Last Lines": "\n\u2026to \u00feo whilk place he all vs brynge\u00feat for oure hele\n                    on rode did hynge\n",
+            "Note": "\nBlank space left on f. 12vb and after end on f.\n                        44rb.",
+            "folio": "ff. 1ra-44ra"
+        },
+        "Wellesley8": {
+            "First Lines": "\n\u2026Tyll \u00fei Iugyse salle we commeBot we ne wayte when es\n                    owre dayMercy es bothe all and somme\u00feat we in trayste and eftyr\n                    pray\u2026\n",
+            "Last Lines": "\n\u2026Tyll whylk place he vs bryng\u00feat for vs vowched safe on\n                    rode to hyng\n",
+            "Note": "\nImperfect at beginning; missing lines 7421-8573.",
+            "Attributed Title": "\nExplicit liber qui dicitur Stimulus Consciencie (p. 247)",
+            "folio": "pp. 1-247"
+        },
+        "TCD156": {
+            "First Lines": "\n\u2026Withowten eny begenynge[ ]ning in hym my\u021dt neuer\n                    be\u2026\n",
+            "Last Lines": "\n\u2026And \u00fee ry\u021dt way of lif vs wisseWhar throw we may\n                    come to his blis\n",
+            "Note": "\nJohannes Fleming hunc librum composuit (f.\n                    4).",
+            "folio": "ff. 1-136v"
+        },
+        "TCD157": {
+            "First Lines": "\n\u2026His moder consayued hym sinfullyAnd bare him sithen in hir\n                    body\u2026\n",
+            "Last Lines": "\n\u2026thurgh \u00fee prayer of his moder myldeffolowes vertus &\n                    hates [ ] ffor sua may \u021de to [ ]\n",
+            "Note": "\nMissing lines 1-422.",
+            "folio": "ff. 1-89"
+        },
+        "TCD158": {
+            "First Lines": "\n[T]he myght of \u00fee ffader allmyghtyThe wytt of \u00fee son all\n                    wytty\u2026\n",
+            "Last Lines": "\n\u2026Wha[ ] paynes ys synfull [ ][ ] ffestenes h[ ][ ]w [ ]he\n                    yere [ ]\n",
+            "Note": "\nEnds imperfectly; last page damaged by damp and wear.",
+            "folio": "ff. 1-81v"
+        },
+        "Schoyen689": {
+            "folio": ""
+        }
+    }
+}

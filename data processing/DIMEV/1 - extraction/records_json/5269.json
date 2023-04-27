@@ -1,0 +1,22 @@
+{
+    "_id": 5269,
+    "_header": "The first day of the moon / God wist well what is to doon",
+    "Note": "For other MSS which prefix a Prologue of seven stanzas see 6846; see also 1569.",
+    "Title(s)": "Storia Lune",
+    "Subjects": "utilitarian verse; moon, changes of; lucky and unlucky days",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "The Storia Lune \u2014 116 6-line stanzas",
+    "_witnesses": {
+        "BodDou381": {
+            "First Lines": "\nWo so \u00feat day take sykkenysseOr greveaunce mor or\n                    lesse\u2026\n",
+            "Last Lines": "\n\u2026by or what is to doneSaffely in Euery Place\n",
+            "Note": "\nBegins and ends imperfectly.",
+            "folio": "ff. 7-12v"
+        },
+        "CamMagPep1236": {
+            "First Lines": "\nThe furst day of \u00fee monegod wyst well what was to\n                    done\u2026\n",
+            "Last Lines": "\n\u2026& \u00feu shalt spede well in faythis sayde an\n                    astronemer\n",
+            "folio": "ff. 114v-120v"
+        }
+    }
+}

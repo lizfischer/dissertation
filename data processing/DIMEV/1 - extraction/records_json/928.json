@@ -1,0 +1,62 @@
+{
+    "_id": 928,
+    "_header": "By deeds of Dyane I swear to thee",
+    "Subjects": "marriage, oath for; sermons, verse in; oaths; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A wedding oath, a tag in the Fasciculus morum \u2014 one couplet translating \u2018Iuro tibi sane per mistica sacra Dyane / Me tibi nupturam sponsam comitemque futuram\u2019, which precedes it",
+    "_witnesses": {
+        "Bod410": {
+            "Transcription": "\nBy dedys of dyane I swere to \u00feeHer after to take & wedde\n                    \u00fee\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 24v"
+        },
+        "BodLauMis213": {
+            "Transcription": "\nBy dedes of dyane I swere to \u00feeHere after to take & wedde\n                    \u00fee\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 33v"
+        },
+        "BodLauMis111": {
+            "Transcription": "\nBe dedys of dyane I swere to theHere after to taken and wedden\n                    the\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 97v"
+        },
+        "BodRawC670": {
+            "Transcription": "\nBy dedes of [dyane] I swere to theHer aftur to take and wedde\n                    the\n",
+            "Editions": "\nSilverstein,  Theodore,\n                        ed.  \n             Medieval English Lyrics.\n         York Medieval Texts. London: Edw. Arnold, 1971: 97.\n",
+            "folio": "f. 44"
+        },
+        "CamGon71": {
+            "Transcription": "\nBy \u00fee ath \u00feat I swere to \u00feehere after to take &\n                    wedd \u00fee\n",
+            "folio": "f. 33v"
+        },
+        "CamGon364": {
+            "Transcription": "\nBe dedys of diane I swere to \u00feehere after to taken & wedde\n                    \u00fee\n",
+            "folio": "f. 39rb"
+        },
+        "DULCosViv2": {
+            "Transcription": "\nBy dedys of dyane I swere to \u00feeHer after to take and to wedde\n                    the\n",
+            "folio": "f. 23"
+        },
+        "EDU82": {
+            "Transcription": "\nBy dedes of dyane I swere to thehere after to take and wedde\n                    the\n",
+            "folio": "f. 52v"
+        },
+        "Lincoln44": {
+            "Transcription": "\nBy dedys of dyan y swere to \u00feehere aftir to take and wedde\n                    \u00fee\n",
+            "folio": "f. 175rb"
+        },
+        "Spalding": {
+            "Transcription": "\nBe bedes of diane I swere to thehere after to take and wed\n                    \u00fee\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 47"
+        },
+        "WorcF19": {
+            "Transcription": "\nBy \u00fee othe \u00feat y swere \u00feo to \u00feehere\n                    after to take & wedde me\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 77va"
+        },
+        "VaticanOtto": {
+            "folio": "f. 25v"
+        }
+    }
+}

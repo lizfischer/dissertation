@@ -1,0 +1,15 @@
+{
+    "_id": 1890,
+    "_header": "He that mocketh",
+    "Subjects": "proverbs; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A couplet translating \u2018Qui me deridet non inde risus abibit\u2019",
+    "_witnesses": {
+        "BodRawD328": {
+            "Transcription": "\nHe \u00feat mokytschall no\u021dt be owyn mokyt\n",
+            "Note": "\nEnglish portion all written on one line.",
+            "Editions": "\nMeech,  Sanford Brown. \n             \u201cA Collection of Proverbs in Rawlinson MS D 328.\u201d \n             Modern Philology\n         38 (1940-41): 113-32: 125.\n",
+            "folio": "f. 144"
+        }
+    }
+}

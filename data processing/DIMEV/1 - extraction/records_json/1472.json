@@ -1,0 +1,33 @@
+{
+    "_id": 1472,
+    "_header": "From the time of Brut auctors do specify",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler TM 452; revised version, with fifteen introductory stanzas, then as 5731",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "The Kings of England sithen William Conqueror",
+    "Subjects": "kings of England",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lydgate, \u2018The Kings of England sithen William Conqueror\u2019",
+    "_witnesses": {
+        "BLHar372": {
+            "First Lines": "\nFRoom tyme of brute auctours do specefyetwo hundrid & fowre\n                    & twenty be successioun\u2026\n",
+            "Last Lines": "\n\u2026of vertuous liff and chose hym for his knyhtlong to reioissh\n                    and regne heere in his riht\n",
+            "Note": "\nLydgate, Kings of England, preceded by fifteen introductory\n                    stanzas for the kings from Alfred to Harold, then continues with William the\n                    Conqueror as in 5731; with names\n                    of the kings in outer margins beside each stanza; ends\n                    \u2018explicit\u2019 (f. 53v).",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 710-16.\n",
+            "folio": "ff. 51-53v"
+        },
+        "BLLan210": {
+            "First Lines": "\nfrom tyme of Brewte awtoris do specyfyeij C kyngis & xxiiij by\n                    succesyon\u2026\n",
+            "Last Lines": "\n\u2026of vertuos lyfe god chose hym for hys knyghtLong to reioesse\n                    and reyn in hys ryght\n",
+            "Note": "\nInterspersed through a prose chronicle.",
+            "Attributed Author": "\nVersus of Iohn Lydgate monke of bery (f. 14v)",
+            "folio": "ff. 14v-42v"
+        },
+        "PeterCentLib": {
+            "First Lines": "\nFrom tyme of Brute Autors don specyfyeijCC xxiiij yerys by\n                    succession\u2026\n",
+            "Last Lines": "\n\u2026To reigne in Englond [ ] yereBeryed at Chertsey thus sayth\n                    myn aucter\n",
+            "Note": "\nInterspersed through a prose chronicle",
+            "Attributed Author": "\nVersus of Iohn Lydgate monke of bery (f. 14v)",
+            "folio": "ff. 49-52v"
+        }
+    }
+}

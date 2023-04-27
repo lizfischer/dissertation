@@ -1,0 +1,25 @@
+{
+    "_id": 6143,
+    "_header": "Victorious King our lord full gracious",
+    "Author(s)": "Thomas Hoccleve",
+    "Subjects": "patronage, pleas for; envoys",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "Thomas Hoccleve (?), Virelai to Henry V for money \u2014 three 8-line stanzas of which the third is an envoy",
+    "_witnesses": {
+        "BodFair16": {
+            "First Lines": "\nVictoriouse kyng oure lorde moste graciouseWe humble legemen to\n                    youre highnesse\u2026\n",
+            "Last Lines": "\n\u2026lat nat the strook of Indigence vs mateExcellent prince\n                    Mirour of prowesse\n",
+            "Attributed Title": "\nBalade (f. 198v)",
+            "Facsimiles": "\nNorton-Smith,  John. \n             \u201cIntroduction.\u201d \n             Bodleian Library MS Fairfax 16.\n         London: Scolar Press, 1979. \n",
+            "folio": "ff. 198v-199"
+        },
+        "HunHM111": {
+            "First Lines": "\nVictorious kyng our lord ful graciousWe humble lige men to your\n                    hynesse\u2026\n",
+            "Last Lines": "\n\u2026Lat nat the strook of indigence vs mateO worthy Prince mirour\n                    of prowesse\n",
+            "Attributed Title": "\nItem au Roy que dieu pardoint (f. 40)",
+            "Facsimiles": "\nBurrow,  John,  and  A. I. Doyle, eds.  \n             Thomas Hoccleve: A Facsimile of the Autograph Verse\n                Manuscripts.\nEETS\n         s.s. 19 (2002). \n",
+            "Editions": "\n\nMason,  George,\n                        ed.  \n             Poems by Thomas Hoccleve Never Before Printed.\n         London: Roworth, 1796: 71.\nFurnivall,  Frederick James,\n                        ed.   Hoccleve\u2019s Works: The Minor Poems. vol. 1.  EETS\n         e.s. 61 (1892); repr. with Gollancz (1925)\nXGollancz,  Israel. \n             Hoccleve\u2019s Works: The Minor Poems. vol. 2.  EETS\n         e.s. 73 (1925); repr. with 61, 1970 73; rev. J.\n            Mitchell and A. Ian Doyle, 1970: 62.\n\n",
+            "folio": "ff. 40-40v"
+        }
+    }
+}

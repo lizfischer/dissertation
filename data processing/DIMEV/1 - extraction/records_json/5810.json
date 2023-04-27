@@ -1,0 +1,25 @@
+{
+    "_id": 5810,
+    "_header": "Thomas rides from Rome the man that right kens",
+    "Note": "For the two prophecies generally associated with this piece under the title of the \u2018Scottish Prophecies\u2019 see 6398 and 6434.",
+    "Subjects": "Thomas of Canterbury, saint, miracles of; prophecies, political",
+    "Versification": "\u2014 alliteration",
+    "_description": "Miracles and Prophecies of St. Thomas of Canterbury \u2014 in nonrhyming alliterative verse",
+    "_witnesses": {
+        "BodHat56": {
+            "First Lines": "\nThomas rides fro rome \u00fee man \u00feat right kennesHe faris\n                    forth by a faire towne Pise it is hotyn\u2026\n",
+            "Last Lines": "\n\u2026\u00feou gave me litell by our lord laughyng to make hereIt\n                    is [ ]w & no tris[ ] \u00feat \u00feis boke tellis\n",
+            "Note": "\nImperfect at the end.",
+            "Attributed Title": "\nSeint Thomas of Caunterbery (f. 45)",
+            "Editions": "\n\nBrandl,  Alois Leonhard. \n             \u201cThomas Beckets Weissagung \u00fcber Edward III und Heinrich V.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         102 (1899): 352-7: 354-7.\nTaylor,  Rupert. \n             The Political Prophecy in England.\n         New York: Columbia UP, 1911: 165 (lines 1-30 only).\n\n",
+            "folio": "ff. 45-46v"
+        },
+        "CULKk15": {
+            "First Lines": "\n\u2026Thomas takes the Iuell and Ihesus thankes\u00feat comyne was\n                    to hume fro his Ientyll moder\u2026\n",
+            "Last Lines": "\n\u2026\u00feen the buk was borne vp to \u00fee blysse off our\n                    lordeAnd beket to burgone nuskes hume full Evine\n",
+            "Note": "\n256 lines; begins imperfectly: missing lines 1-28",
+            "Editions": "\n\nStevenson,  Joseph. \n             The Scottish Metrical Romance of Lancelot du Lak.\nMaitland Club\n         48. Edinburgh, 1839: 135-55.\nLumby,  Joseph Rawson,\n                        ed.  \n             Bernardus De Cura Rei Famuliaris, with some early Scottish\n                Prophecies.\nEETS\n         o.s. 42 (1870); repr. 1965: 23-31.\n\n",
+            "folio": "Part IV, ff. 27v-31v"
+        }
+    }
+}

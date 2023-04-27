@@ -1,0 +1,29 @@
+{
+    "_id": 1731,
+    "_header": "Hail Mary full of grace / God is with Thee in every place",
+    "Title(s)": "Ave Maria",
+    "Subjects": "Virgin Mary, hymns to; hymns, to Virgin Mary",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Ave Maria \u2014 two couplets",
+    "_witnesses": {
+        "CULGg432": {
+            "Transcription": "\nHeil marie ful of graceGod is wi\u00fe \u00fee in eurich\n                    placeBlesceb be \u00feou ouer alle wymmenAnd \u00fee fruit of \u00fein\n                    wombe Amen\n",
+            "Note": "\nHeading of 1680.",
+            "Editions": "\n\nHeuser,  Wilhelm. \n             \u201cAve Maria.\u201d \n             Anglia\n         27 (1904): 320-30: 326.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 30.\n\n",
+            "folio": "f. 15v"
+        },
+        "CamEmm27": {
+            "Transcription": "\nHeyl boe \u00feov Marie ful of godes graceGod almi\u021dti is\n                    wi\u00fe \u00fee in eueriche placeYblessed boe \u00feov Leuedy ouer alle\n                    wymmenAnd \u00fee bled of \u00fey wombe blessed boe amen\n",
+            "Note": "\nVariant text.",
+            "Attributed Title": "\nAue Maria (as heading, f. 162ra)",
+            "Editions": "\nPerson,  Henry Axel. \n             Cambridge Middle English Lyrics.\n         Seattle: University of Washington Press, 1953; rev. ed. 1962: 27.\n",
+            "folio": "f. 162ra"
+        },
+        "BLCottCleoBVI": {
+            "Transcription": "\nHeil marie ful of grace\u00fee lauird \u01bfith \u00fee in heuir ilk\n                    placeblisced be \u00feu mang alle wimmemand blisced be \u00fee blosme\n                    of \u00fei wambe\n",
+            "Note": "\nThe MS has been refoliated several times. The folio number here refers\n                    to the most recent, written in the bottom right corner of each recto folio.\n                    Written as prose.",
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.2.\nEllis,  Alexander John,\n                        ed.  \n             On Early English Pronunciation.\n             4 vols. \n             EETS\n         e.s. 2 (1867), 7 (1869), 14 (1871), 23 (1874), repr. 1973; issued\n            jointly by the Philological Society, the EETS, and the Chaucer Society [2nd ser. 1, 4-5,\n            25] London: Tr\u00fcbner; ed. note: with rare exceptions, entries from these volumes are\n            identical; where variants occur, both editions are cited: 7.442.\n\n",
+            "folio": "f. 205v3"
+        }
+    }
+}

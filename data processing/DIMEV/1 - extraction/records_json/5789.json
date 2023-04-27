@@ -1,0 +1,18 @@
+{
+    "_id": 5789,
+    "_header": "This world is but a vanity",
+    "Note": "See 6745.",
+    "Subjects": "carols, of mortality",
+    "Versification": "\u2014 four-line \u2014 aaab",
+    "Macaronic": "Latin",
+    "_description": "Mane nobiscum domine \u2014 a hymn of four quatrains (aaab) with this refrain and 4-line burden: \u2018O blessed lord full of pete / Mane nobiscum domine\u2019 (repeated)",
+    "_witnesses": {
+        "BLAdd5665": {
+            "First Lines": "\nThis worlde ys but a vaniteSubtile & fals and no\n                    surte\u2026\n",
+            "Last Lines": "\n\u2026Helpe vs of this mortaliteMane nobiscum\n                    domine\n\n",
+            "Attributed Title": "\nAd placitum (f. 49v)",
+            "Editions": "\n\nFehr,  Bernhard. \n             \u201cDie Lieder der Hs. Add. 5665 (Ritson\u2019s Folio-MS).\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         106 (1901): 262-85: 277.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 246-7; 1977, 219.\nStevens,  John,\n                        ed.  \n             Mediaeval Carols.\nMusica Britannica\n         4. London: Stainer and Bell, 1952, 2nd ed. 1958: 106.\n\n",
+            "folio": "ff. 49v-50"
+        }
+    }
+}

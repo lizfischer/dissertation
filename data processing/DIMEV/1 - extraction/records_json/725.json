@@ -1,0 +1,386 @@
+{
+    "_id": 725,
+    "_header": "At Sarai in the land of Tartary",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Squire\u2019s Tale; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; gentillesse; marvels; love",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the Squire\u2019s Tale of the Canterbury Tales \u2014 664 lines in couplets.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nAt Sarray in the londe of Tartariether dwelte a kyng that werryed\n                    Russie\u2026\n",
+            "Last Lines": "\n\u2026Appollo whirlith vp his chare so highetil that the god\n                    Mercurious hous the slighe\n",
+            "Note": "\nSpurious lines follow V.670.",
+            "Attributed Title": "\n\u2026And / next folwyng bigynneth his tale (f. 131v); the\n                    Squyere (RT); Here endith the Squyer his tale\u2026 (f. 141)",
+            "folio": "ff. 131v2-141"
+        },
+        "BodBar20": {
+            "First Lines": "\nAt sarray in the lond of TartaryeTher dwellid a kyng that werried\n                    Russye\u2026\n",
+            "Last Lines": "\n\u2026Appollo whirli\u00fe vp his chare so hyeThil \u00feat\n                    Mercuries hows the slye\n",
+            "Note": "\nV.58, 68 omitted; blank line follows 346.",
+            "Attributed Title": "\n\u2026and here bygynnyth \u00fee tale (f. 78v); squyer (RT);\n                    Here endith / The Squiers tale\u2026 (f. 87v)",
+            "folio": "ff. 79-87v"
+        },
+        "Bod686": {
+            "First Lines": "\nAt Sarry in the londe of TartaryeTher dwelled a kyng that werryed\n                    Russie\u2026\n",
+            "Last Lines": "\n\u2026And after wol y speke of kambaloThat faught in lystes with\n                    \u00fee brethren two\u2026\n",
+            "Note": "\nV.669-672 lost; 288 inserted at foot.",
+            "Attributed Title": "\n\u2026And / here begynneth hys tale ffulle (f. 129v); Squyer\n                    (RT)",
+            "folio": "ff. 129v-137v"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nAt Sarri in \u00fee londe of TartaryThere dwelt a king \u00feat\n                    werraied vpon russy\u2026\n",
+            "Last Lines": "\n\u2026Appollo woleth vp his chare so highTil \u00fee god mercurious\n                    hous \u00fee sligh\n",
+            "Note": "\nV.44, 204, 384 omitted; spurious line follows 278. The text ends ten\n                    lines from the top of f. 83. \u2018Explicit 2a pars\u2019 is\n                    written in the margin. The verso is blank. At least the following two folios,\n                    presumably blank, have been cut away, leaving stubs and the final folio of the\n                    quire is also blank, with a catchphrase, \u2018here endeth\u2019, on the\n                    final, blank verso (f. 84v).",
+            "Attributed Title": "\n\u2026And next bigynne\u00fee / \u00fee squiers tale of \u00fee horse of\n                    Brasse (f. 75v); The Squiers tale (RT); Here endeth \u00fee Squiers\n                    tale of \u00fee horse of bras\u2026 (f. 85)",
+            "folio": "ff. 75v-83"
+        },
+        "BodLauMis600": {
+            "First Lines": "\nAT Sarray in \u00fee lande of Tartarie\u00deer duelte a kynge\n                    \u00feat werreide Russie\u2026\n",
+            "Last Lines": "\n\u2026Appollo whirle\u00fe vp his chaar so hieTil \u00feat \u00fee\n                    god mercurius hous \u00fee slie\n",
+            "Attributed Title": "\n\u2026Here begynne\u00fe \u00fee tale of \u00fee Squier (f.\n                        161v); \u00fee Squyer (RT); Explicit secunda pars\u2026\n                    (f. 171)",
+            "folio": "ff. 161v-171"
+        },
+        "BodLauMis739": {
+            "First Lines": "\n[A]t Surray in the land of tartaryTher duellyd a kyng that werriede\n                    Russye\u2026\n",
+            "Last Lines": "\n\u2026Apollo whirleth vp his chare so hieTill that the god\n                    mercurius hows the slie\n",
+            "Note": "\nV.174, 256, 646 omitted.",
+            "Attributed Title": "\nExplicit secunda pars (f. 109)",
+            "folio": "ff. 99-109"
+        },
+        "BodRawPoe141": {
+            "First Lines": "\nAT surry in the lond of TartaryTher dwelled a kyng that werred\n                    bisily\u2026\n",
+            "Last Lines": "\n\u2026ffor Canace or he might hur wynneAnd there I lafte I wol\n                    bygynne\n",
+            "Note": "\nV.26, 509, 549-52, 671-2 omitted; spurious lines follow 25, 510; 663-4\n                    reversed.",
+            "Attributed Title": "\nThe squyer (RT)",
+            "folio": "ff. 47v-58"
+        },
+        "BodRawPoe149": {
+            "First Lines": "\nAt Sarry in the lande of tartaryThere dwellyd a kyng \u00feat\n                    gwerrid vpon russy\u2026\n",
+            "Last Lines": "\n\u2026Appollo wolleth vp his chare so hygheTylle \u00fee god\n                    Mercurious hous the sligh\n",
+            "Note": "\nV.179, 524-5 omitted; 202 inserted in margin; spurious line follows 278.\n                    Blank space of ca. 18 lines follows.",
+            "Attributed Title": "\nhere begynnith the squiers tale (f. 37); the squier (RT); Explicit\n                            2a pars & deficit 3a pars (f. 44,\n                    margin)",
+            "folio": "ff. 37-44"
+        },
+        "BodRawPoe223": {
+            "First Lines": "\nAt sarray in the land of tartaryTher dwelt a kyng that werried\n                    Russy\u2026\n",
+            "Last Lines": "\n\u2026ffor Canacee or that he mi\u021dt hir wynneAnd there I left I\n                    wil agein bigynne\n",
+            "Note": "\nV.671-2 omitted. Following verso ruled but blank.",
+            "Attributed Title": "\n\u2026And here beginneth his tale folwing (f. 79v); Fabula\n                        Armigeri (RT); Explicit prima pars (f. 84v)",
+            "folio": "ff. 79v-89"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nAT Sarray in the londe of TartarieTher dwelte a kynge that werreied\n                    Russye\u2026\n",
+            "Last Lines": "\n\u2026Appollo whirleth vp his chaar so hyeTil that the god\n                    Mercuries hous the slye\n",
+            "Note": "\nHere bygynnyth the Squyers tale (f. 220); Explicit secunda pars\n                        Incipit tercia pars (f. 228v, preceding V.671-2,\n                    rubric).",
+            "folio": "ff. 220-228v"
+        },
+        "OxfCCC198": {
+            "First Lines": "\nAt Sarray in \u00fee land of TartaryeTher dwelt a king \u00feat\n                    werreyed Russye\u2026\n",
+            "Last Lines": "\n\u2026Appollo whirleth vp his char so hyeTil \u00feat \u00fee god\n                    mercurius hous \u00fee slye\n",
+            "Note": "\nFollowing V. 346 is the rubric \u2018The stag of an hert\u2019, with\n                        \u2018Explicit prima pars\u2019 in the margin (f. 95).",
+            "Attributed Title": "\nExplicit ija pars (f. 99v, margin)",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "ff. 90v-99v"
+        },
+        "OxfNew314": {
+            "First Lines": "\nAt Surrey at \u00fee lond of Tartarye\u2026\n",
+            "Last Lines": "\n\u2026Appollo whirlith vs his chare so hi\u021dTil \u00feat god\n                    mercurius hous he \u00fee sli\u021d\n",
+            "Note": "\nV.58, 183, 533-8 omitted; 553-4, 557-8 inserted at foot. The first line\n                    of the Tale spreads over two lines with the incipit sharing the\n                    same space.",
+            "Attributed Title": "\nHere begynneth \u00fee / Squyers tale (f. 69v); Squyers (RT);\n                    Here endith the squieris tale\u2026 (f. 79v)",
+            "folio": "ff. 69v-79v"
+        },
+        "OxfTri49": {
+            "First Lines": "\nAt sarray in the londe of tartariether dwelte a kynge that werred\n                    Russie\u2026\n",
+            "Last Lines": "\n\u2026for Canace or that he myght hir wynneand ther I lefte I wille\n                    ageyn begynne\n",
+            "Note": "\nV.94, 106, 118, 204, 256, 382, 444, 476, 498, 671-2 omitted; 412-13\n                    reversed.",
+            "Attributed Title": "\nIncipit ffabula Armigeri (f. 140v); Squier (RT);\n                        Explicit (f. 149v)",
+            "folio": "ff. 140v-149v"
+        },
+        "CULDd424": {
+            "First Lines": "\nAt Sarray in the lond of TartaryeThere dwelled a kyng that werred\n                    Russye\u2026\n",
+            "Last Lines": "\n\u2026ffor Canacee or that he myght hire winneAnd there I lefte I\n                    wil a\u021dein begynne\u2026\n",
+            "Note": "\nV.69-72, 671-2 omitted.",
+            "Attributed Title": "\n\u2026& incipit fabula Armigeri (f. 119v);\n                        Explicit Secunda pars / Here endith the Squyeres tale as meche as\n                    Chaucer made (f. 127; the remainder of the recto and all of the verso is left\n                    blank)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 119v-127"
+        },
+        "CULGg427": {
+            "First Lines": "\n\u2026\u021do\u2026As on\u2026Afayr \u00feer\u2026And\n                    kepte a\u2026That there na\u2026This noble kyng\u2026Hadde two\n                    sonys o\u2026Of whiche the eldeste\u2026That o\u00feer sone was\n                    clepit\u2026A doughtyr hadde this worthTha \u021dyngeste was and\n                    hyghte CanaceBut for to telle \u021dow al hire beautee\u2026\n",
+            "Last Lines": "\n\u2026And strawe hyre hire cage as ofte as ony silkAnd\n                    \u021deue hym sugere hony breed and mylk\u2026\n",
+            "Note": "\nV.23-32, 66-74 partially lost (tear); 47-65, 615-72 lost.",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "Editions": "\nFurnivall,  Frederick James. \n             The Cambridge MS (University Library, Gg.4.27) of Chaucer\u2019s\n                Canterbury Tales.\nChaucer Society\n         Series 1, nos. 4, 10, 17, 28, 33, 40, 52, 66. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 277-286v"
+        },
+        "CULIi326": {
+            "First Lines": "\nAt Sorray in the lande of TartaryThere swelled a kyng that made\n                    werre in Russye\u2026\n",
+            "Last Lines": "\n\u2026Appollo whirleth vppon his Chare so hyeTill that the god\n                    mercurius house the slye\n",
+            "Note": "\nV.132-217 lost; 26, 270 omitted; spurious line follows 272; blank line\n                    follows 656; 426 left blank and supplied later.",
+            "Attributed Title": "\nHere be gynneth the / Squiers tale (f. 76v); Squier (RT); Here\n                    endeth the squiers tale\u2026 (f. 84)",
+            "folio": "ff. 76v-84"
+        },
+        "CULMm25": {
+            "First Lines": "\nAtte sarray in \u00fee londe of TartaryeTher dwelled a kynge\n                    \u00feat werriede Russye\u2026\n",
+            "Last Lines": "\n\u2026Apollo whirleth up his chare so hieTill \u00feat \u00fee good\n                    mercurius howse \u00fee slye\n",
+            "Note": "\nV.18 inserted in margin; following 346 is \u2018Explicit prima\n                        pars / The stag of an hert\u2019 (f. 95r-v).",
+            "Attributed Title": "\nIncipit fabula armigeri (f. 91v); The Squiere (RT);\n                        Explicit secunda pars\u2026 (f. 99)",
+            "folio": "ff. 91v-99"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[A]t Sarray in the londe of TartaryTher dwelled a kyng \u00feat\n                    werred Russy\u2026\n",
+            "Last Lines": "\n\u2026And ther y lefte y woll ageyn bygynneApollo whirleth up his\n                    chare so hi\u021deTyll \u00feat \u00fee god Mercuryus howse \u00fee\n                    slye\n",
+            "Note": "\nVV.67-72, 263-7, 273-4, 279, 283-8, 291-4, 353-4, 419-22, 464-74, 405-8,\n                    549-50, 555-6, 567-8 omitted; spurious lines follow 262, 463; 275-6, 483-4,\n                    641-2 reversed. Text ends after twelve lines on f. 102 with the rest of the\n                    recto and verso left blank.",
+            "Attributed Title": "\nThe tale of \u00fee Squyer (f. 93v); The Squi[trimmed] (RT);\n                        Explicit secunda pars (f. 102, margin)",
+            "folio": "ff. 93v-102"
+        },
+        "CamTCC582": {
+            "First Lines": "\nAt Sarray in the lond of TartarieTher duellid a king \u00feat\n                    werreid Russie\u2026\n",
+            "Last Lines": "\n\u2026ffor Canace or that he mi\u021dt hir winneAnd there I lefte I\n                    woll again beginne\n",
+            "Note": "\nV.106, 390, 463-4, 671-2 omitted; 146 inserted in margin; 412-13\n                    reversed. Column b on f. 34 is ruled but blank.",
+            "Attributed Title": "\n\u2026And here beginneth his tale / folwing (f. 34ra)",
+            "folio": "ff. 34va-38rb"
+        },
+        "CamTCC595": {
+            "First Lines": "\nAT Surry in the londe of TartaryeThere dwolled a kynge that werred\n                    on russye\u2026\n",
+            "Last Lines": "\n\u2026ffor Canace or that he myght hir wynneAnd there I lefte I\n                    wolle ageyne begynne\n",
+            "Note": "\nV.553-8, 671-2 omitted; 183-4 reversed.",
+            "Attributed Title": "\nHere begynneth the Squyers tale (f. 92); Here endith the Squiers\n                    tale\u2026 (f. 102v)",
+            "folio": "ff. 92-102"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nAT Sarray in the londe of TarrayThere dwelt a kyng that werrid\n                    vpoon russye\u2026\n",
+            "Last Lines": "\n\u2026ffor Canace er that hy myht hir wynneAnd ther y laft y wol\n                    ageyne begynne\n",
+            "Note": "\nV.671-2 omitted; 255-6 reversed.",
+            "Attributed Title": "\n\u2026& Incipit fabula eiusdem (f. 171v); Squyer\n                    (RT); Explicit secunda Pars fabule\u2026 (f. 183v)",
+            "folio": "ff. 171v-183v"
+        },
+        "BLAdd35286": {
+            "First Lines": "\nAt sarray in the lond of TartaryTher dwelte a kyng that werred\n                    Russy\u2026\n",
+            "Last Lines": "\n\u2026Appollo whirleth vp his chare so hyeTil that the god\n                    Mercuries hous the slye\n",
+            "Note": "\nV.479 omitted. V.670-2 is the only text on f. 131, with the rest of the\n                    page left blank.",
+            "Attributed Title": "\nhere bigynneth the squyers tale (f. 122v);the Squyer (RT,\n                    rubric); Explicit prima pars / Sequitur pars secunda (f. 127)",
+            "Editions": "\nHorobin,  Simon. \n             \u201cA Transcription and Study of British Library MS Additional 35286 of\n                Chaucer\u2019s Canterbury Tales.\u201d \n         Diss. Univ. of Sheffield, 1997. \n",
+            "folio": "ff. 122v-131"
+        },
+        "BLEge2726": {
+            "First Lines": "\nAt Sarray in the lond of tartaryeThere dwelled a kyng \u00feat\n                    werred on Surry\u2026\n",
+            "Last Lines": "\n\u2026ffor Canacee or \u00feat he myght hir wynAnd there I left I\n                    woll agayn begyn\n",
+            "Note": "\nV.69-72, 671-2 omitted.",
+            "Attributed Title": "\n\u2026& incipit fabula / eiusdem Armigeri de Equo de stanno (f.\n                    139); Et sic desinit fabula Armigeri\u2026 (f. 147)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 139-147"
+        },
+        "BLEge2863": {
+            "First Lines": "\n\u2026Vnto my firste purpos I wole haue my recoursAnd so bifel\n                    \u00feat after the \u00feridde cours\u2026\n",
+            "Last Lines": "\n\u2026Appollo whirleth vp his chare so hyeTil \u00feat the god\n                    Mercurius hous the slye\n",
+            "Note": "\nV.9-74 lost.",
+            "Attributed Title": "\nSquyer (RT); Here endith \u00fee squier his tale\u2026 (f.\n                    69v)",
+            "folio": "ff. 62-69v"
+        },
+        "BLEge2864": {
+            "First Lines": "\nAt Sarray in the lond of TarryeTher dweld a kyng that werryd vp on\n                    russye\u2026\n",
+            "Last Lines": "\n\u2026ffor Canace er that he myht hir wynneAnd ther I lafte I wol\n                    ayen begynne\n",
+            "Note": "\nV.671-2 omitted; 255-6 reversed; 413 inserted in margin.",
+            "Attributed Title": "\n\u2026Et sequitur / fabula Armigeri / Incipit narracio armigeri (f.\n                        145v); The sqwyer (RT); Explicit secunda pars (f. 154,\n                    margin, foot of page)",
+            "folio": "ff. 145v-154"
+        },
+        "BLHar1758": {
+            "First Lines": "\nAT Sarray in the londe of TartaryeTher dwelt a kyng that werryed\n                        vp on Russy\u2026\n",
+            "Last Lines": "\n\u2026Appollo whirleth vp his char so hyeTill that the god\n                    Mercuryus hous the slye\n",
+            "Note": "\n\u2018Appollo\u2019 is glossed interlinearly as \u2018.i.\n                    sol\u2019.",
+            "Attributed Title": "\n\u2026and begynneth the tale (f. 68); The Squyers Tale (RT); Explicit\n                        prima pars (f. 71v, left margin); The stag of an herte (f.\n                        71v, right margin); Explicit secunda pars (f. 75, right\n                    margin; the rest of the recto and the verso left blank; the following two\n                    leaves, forming the end of the gathering and presumably left blank,\n                    excised)",
+            "folio": "ff. 68-75"
+        },
+        "BLHar7333": {
+            "First Lines": "\nAt Sarry in the londe of tartary\u00feer dwellid a kynge \u00feat\n                    werrid vpon russy\u2026\n",
+            "Last Lines": "\n\u2026Appollo wirlith vp his Chare so hiheTil that god mercurus\n                    hous the sly\u021de\n",
+            "Note": "\nV.27-8, 105, 146, 256 omitted; 106, 147, 255 deleted; 118 inserted in\n                    margin.",
+            "Attributed Title": "\nHere biginnithe the Squier his tale (f. 65va); Here Endith the\n                    Squiers tale\u2026 (f. 68vb)",
+            "folio": "ff. 65va-68vb"
+        },
+        "BLHar7334": {
+            "First Lines": "\nAT Sarray in \u00fee lond of TartaryTher dwelled a kyng \u00feat\n                    werryed russy\u2026\n",
+            "Last Lines": "\n\u2026\u021det right anoon as his dore is vppehe with his feet wil\n                    sporne doun his cuppe\u2026\n",
+            "Note": "\nV.617-72 lost; 272 inserted in margin; 413-14 reversed; catch phrase at\n                    foot of 156v, \u2018And to \u00fee wode\u2019.",
+            "Attributed Title": "\n\u2026And her bygynneth \u00fee Squyeres tale (f. 148v); The\n                    Squyeres tale (RT)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "ff. 149-156v"
+        },
+        "BLHar7335": {
+            "First Lines": "\n[A]t Sarray in the lond of TartaryTher dwellith a kyng that werryed\n                    russy\u2026\n",
+            "Last Lines": "\n\u2026ffor Canace er that he myght here wynneAnd there I lafte y\n                    wol agayn begynne\n",
+            "Note": "\nV.671-2 omitted. The verso of f. 139 is left blank following the last\n                    lines of Squire\u2019s Tale on the recto.",
+            "Attributed Title": "\nffabula Armigeri (f. 129v, margin); The sqwyer tale (f.\n                        129v, added later, apparently by the same hand that writes\n                    \u2018Bleckenden\u2019 in the margin on the same folio)",
+            "folio": "ff. 129v-139"
+        },
+        "BLLan851": {
+            "First Lines": "\nAtt Sarray in \u00fee londe o TartaryTher dwelled a kinge \u00feat\n                    werred Russy\u2026\n",
+            "Last Lines": "\n\u2026ffor Canace ar \u00feat he myht hir wynneAnd \u00feere I left\n                    I \u00feenke a\u021deine begynneBot I wil here now maake a knotteTo\n                    \u00fee time it come next to my lotteffor here be felawes behinde an hepe\n                    treulye\u00feat wolden talk ful besilyeAnd haue her sporte as wele as\n                    IAnd \u00fee daie passe\u00fe fast certanlyTherfore oste take\u00fe\n                    nowe goode heedeWho schall next tell & late him spede\n",
+            "Note": "\nV.414, 671-2 omitted; spurious lines follow 670 (see\n                    above).",
+            "Attributed Title": "\n\u2026Incipit fabula (f. 79); \u00fee Esquier (RT); \u00feesquier\n                    (RT); Explicit fabula Armigeri\u2026 (f. 87)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 79-87"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nAtt sarray in the lande of TartaryThere dwellede A Kynge \u00feat\n                    werryd russy\u2026\n",
+            "Last Lines": "\n\u2026Appollo whyrle\u00fee vppe his chare so hey\u021deTylle\n                    \u00feat the god Mercurius howse \u00fee slye\n",
+            "Attributed Title": "\n\u2026And begynnyth / the tale of the squyre (f. 96v); Here\n                    endith the tale of the squyre\u2026 (f. 106)",
+            "folio": "ff. 96v-106"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nAT sarray in the land of tartaryeTher dwelte a kyng that werriede\n                    Russye\u2026\n",
+            "Last Lines": "\n\u2026Appollo whirleth vp his char so hyeTil \u00feat the god\n                    Mercurius hows the slye\n",
+            "Note": "\nV.174 omitted; following V.346: \u2018Explicit prima pars\u2019\n                    (f. 86v, right margin), \u2018The Stag of an Hart\u2019 (f.\n                        86v, left margin). \u2018Appollo\u2019 glossed interlinearly as\n                        \u2018.i. sol\u2019.",
+            "Attributed Title": "\n\u2026And begynneth the tale (f. 82); The Squyer (RT); Explicit secunda\n                        pars (f. 90v, margin); explicit (f. 90v,\n                    margin)",
+            "folio": "ff. 82-90v"
+        },
+        "BLSl1685": {
+            "First Lines": "\nAT Sarray in \u00fee londe of SarcaryeTheer dwelt a kynge \u00feat\n                    weryd Russye\u2026\n",
+            "Last Lines": "\n\u2026Appollo whirlethe vp hys chare so hy\u021deTylle \u00feat\n                    \u00fee god Marcurius hows \u00fee slye\n",
+            "Note": "\nV.191-264 lost; 68, 146, 480, 518, omitted; 491, 523, 544, 573, 614\n                    inserted in margin; 639-40 reversed; blank line follows 346.",
+            "Attributed Title": "\n\u2026Here bygynneth \u00fee tale (f. 78); The Squyer (RT); Here endith\n                    \u00fee tale of \u00fee Sqyer\u2026 (f. 86v)",
+            "folio": "ff. 78v-86v"
+        },
+        "BLSl1686": {
+            "First Lines": "\nAT sarray in the lond of TartaryThere dwelled that werld\n                    Russy\u2026\n",
+            "Last Lines": "\n\u2026Appollo whirleth vpon his chare so hieTille that the god\n                    Mercurius hous the slie\n",
+            "Note": "\nV.413, 577 omitted; 166 inserted at foot.",
+            "Attributed Title": "\n\u2026And here begynneth his tale folowyng (f. 107); [A] Tale of the\n                    Squyer (RT); Here endith the squires tale\u2026 (f. 118)",
+            "folio": "ff. 107-118"
+        },
+        "NLWPen392": {
+            "First Lines": "\nAT Sarray in the land of TartaryeTher dwelte a kyng that werreyed\n                    Russye\u2026\n",
+            "Last Lines": "\n\u2026[A]ppollo whirleth vp his Char so hyeTil that the god\n                    Mercuries hous the slye\n",
+            "Attributed Title": "\nHere bigynneth the Squiers tale (f. 129); The Squyer (RT); [Incip]it\n                        tercia pars (f. 137v, before V.671)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "ff. 129-137v"
+        },
+        "Alnwick455": {
+            "First Lines": "\nAt Surrey in the lond of TartaryThere dwellid a kyng \u00feat\n                    werrid strongly\u2026\n",
+            "Last Lines": "\n\u2026Gan on hem wynk & bad hem take kepeThat much mete &\n                    labour wol have rest\n",
+            "Note": "\nV.71-4, 245-6, 279-80, 331-6, 350-670 omitted; 247-8\n                    reversed.",
+            "Attributed Title": "\n\u2026And here begynnyth the Squyer his tale (f. 66v, rubric);\n                    Here endith the Squyer his tale\u2026 (f. 71, rubric); Chawcer made noo / end\n                    of this tale (f. 71, margin, rubric)",
+            "folio": "ff. 66v-71"
+        },
+        "GULHun197": {
+            "First Lines": "\nAtte Sarray in \u00fee lond of TartaryeThere duelled a kyng\n                    \u00feat werryed Russye\u2026\n",
+            "Last Lines": "\n\u2026Apollo whirleth vp his chare so highTill \u00feat \u00fee\n                    good Mercurius howse \u00fee slye\n",
+            "Note": "\nThe sixth folio of Q [6] was once misbound before Q [3], and bears the\n                    foliation \u201814\u2019; it is now back in Q [6], between ff. 37 and 38. V.58\n                    omitted; \u2018The Stag of an herte\u2019 follows 346.",
+            "Attributed Title": "\nNow begynneth the tale of Esquyer (f. 14); The Tale of the Esquyer (RT);\n                    Here endeth the tale of the Esquyer\u2026 (f. 40ra)",
+            "folio": "ff. 38ra-40ra"
+        },
+        "Holkham667": {
+            "First Lines": "\nAtte sarray in the londe of tarteryTher dwelte a king \u00feat\n                    werred vpon russy\u2026\n",
+            "Last Lines": "\n\u2026ffor canace er that he might hir wynneAnd there I lefte I\n                    woll ageyn begynne\n",
+            "Note": "\nFour blank lines follow V.670; 671-2 omitted; the second column on f.\n                        42ra is also left blank; 255-6, 413-14 reversed.",
+            "folio": "ff. 37vb-42ra"
+        },
+        "Lichfield29": {
+            "First Lines": "\nAT Sarray in the lande of TartarieTher dwelled a kyng \u00feat\n                    werreyed Russie\u2026\n",
+            "Last Lines": "\n\u2026Thus lete I Canace hir hawk kepyngeI wol no more as now\n                    speken of the ryngeTil it come eft to purpos for to seyn\u2026\n",
+            "Note": "\nV.654-72 lost (resupplied on a seventeenth-century leaf);\n                        \u2018Explicit prima pars The stag of an hert\u2019 follows 346 on\n                    f. 89.",
+            "Attributed Title": "\n\u2026Here begynneth the Squiers tale (f. 84v); The Squier\n                    (RT)",
+            "folio": "ff. 84v-92v"
+        },
+        "Lincoln110": {
+            "First Lines": "\nAT sarray in the land of TartarieThere duelte a kyng that werred in\n                    Russi\u2026\n",
+            "Last Lines": "\n\u2026ffor Canace or that she my\u021dt hir wynneAnd there y lefte\n                    y woll ageyn bigynne\n",
+            "Note": "\nV.22, 114, 671-2 omitted; 489-90 reversed.",
+            "Attributed Title": "\nThe Squyer (RT)",
+            "folio": "ff. 67v-76v"
+        },
+        "LonPhys388": {
+            "First Lines": "\nAt Sarray in the land of TartarieTher dwelly akyng that\n                    werred on Russie\u2026\n",
+            "Last Lines": "\n\u2026Appollo whirlith vp his chare so hieTil that god Mercuius the\n                    slyeOf this squyers tale Chaucer makith nomore\n",
+            "Note": "\nV.27 omitted.",
+            "Attributed Title": "\n\u2026Incipit fabula (f. 98); Explicit pars secunda Incipit pars\n                        tercia (f. 109v, following V.670); Explicit\n                    fabula\u2026 (f. 109v)",
+            "folio": "ff. 98-109v"
+        },
+        "RylandsEng113": {
+            "First Lines": "\nAtt Sarray in \u00fee londe of Tartarie\u00feer dwelled a kyng\n                    \u00feat werred on Russie\u2026\n",
+            "Last Lines": "\n\u2026ffor Canacee or \u00feat he myght here wynneAnd ther I lefte\n                    I wolle ayen bi gynne\n",
+            "Note": "\nV.69-72, 271-4, 281-2, 671-2 omitted.",
+            "Attributed Title": "\n\u2026Et incipit fabula eiusdem et cetera (f. 98); ffabula\n                        Armigeri (f. 98, margin); Squyer (RT); Here endith \u00fee squiers\n                    tale\u2026 (f. 104)",
+            "folio": "ff. 98-104"
+        },
+        "Petworth7": {
+            "First Lines": "\nAt Sarray in \u00fee land of Tartarye\u00feer dwelt a kyng \u00feat\n                    werrid Russye\u2026\n",
+            "Last Lines": "\n\u2026Apollo whirle\u00fe vp his chare so hieTil \u00feat \u00fee\n                    god Mercurius hous \u00fee sclie\n",
+            "Note": "\nLast two lines (V.671-2) marked \u2018va /\n                    cat\u1fbf.",
+            "Attributed Title": "\n\u2026And here by / gynne\u00fee Sqwiers tale (f. 103v); The\n                    Sqwiers Tale (RT); ffabula Armigeri (f. 103v, margin);\n                        Explicit prima pars / The Stag of an hert (f. 108); Explicit\n                        secunda pars / Here ende\u00fe \u00fee squyers tale (f.\n                    112v)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 103v-112v"
+        },
+        "Austin143": {
+            "First Lines": "\nAt Surrie in the londe of TartarieThere dwelde a kynge that werred\n                    on Bussie\u2026\n",
+            "Last Lines": "\n\u2026ffor Canace or that he myght hure wynneAnd there y lefte y\n                    woll ageyne begynne\n",
+            "Note": "\nV.69-72, 147, 271-4, 281-2, 671-2 omitted; 102 inserted in\n                    margin.",
+            "Attributed Title": "\n\u2026Et incpit fabula Armigeri (f. 121v); Squyer (RT);\n                    Here endeth the Squiers tale\u2026 (f. 129v)",
+            "folio": "ff. 121v-129v"
+        },
+        "ChicagoUL564": {
+            "First Lines": "\nAtte surrie in \u00fee lond of tartari\u00feere dwelled a king\n                    \u00feat worred bysyly\u2026\n",
+            "Last Lines": "\n\u2026ffor Cance er he myht her wynneAnd there I laft I wyl\n                    bygynne\n",
+            "Note": "\nV.26, 94, 106, 509, 549-52, 671-2 omitted; spurious lines follows 24;\n                    663-4 reversed.",
+            "folio": "ff. 30v-41"
+        },
+        "PierpontM249": {
+            "First Lines": "\n\u2026This is a verray soth withoute gloseIt faileth nou\u021dt\n                    while it is in youre holde\u2026\n",
+            "Last Lines": "\n\u2026Appollo whirleth vp his char so hyeTill that the god\n                    Mercurius hous the slye\n",
+            "Note": "\nV.9-165 lost.",
+            "Attributed Title": "\nThe Squyer (RT); Explicit prima pars (f. 86); The Stag of an hert\n                    (f. 86, margin); Explicit secunda pars (f. 90v)",
+            "folio": "ff. 84-90v"
+        },
+        "PhilRos10841": {
+            "First Lines": "\nAt sarray in the londe of tartaryeTher dwelt a kynge that werryed\n                    russye\u2026\n",
+            "Last Lines": "\n\u2026Now that thys fawkon gat hir loue a gaynRepentaunt as the\n                    story telleth vs\u2026\n",
+            "Note": "\nThe MS is misbound, with [13].8 following [12].7 (becoming f. 43) and Q\n                    [14] misbound to follow Q [12] (with [14] foliated 44-51, and [13] foliated\n                    52-57). Quires [1-4] and [6-7] are inferred to be lost, with the foliation not\n                    taking account of them. Thus V.9-91 follow II.558-1190 and are in turn followed\n                    by II.79-557; a blank leaf follows, and then V.92, etc. V.656-72 lost; 134-40\n                    omitted.",
+            "Attributed Title": "\n\u2026Her bygynneth the tale of squyer (f. 50v); The Squyer\n                    (RT); Explicit prima pars / The Stag of an hert (f. 61)",
+            "folio": "ff. 50v-51v;  61-64v"
+        },
+        "PhilRos10842": {
+            "First Lines": "\n\u2026Ageyn the swerd of wyntir kene and cold\u2026\n",
+            "Last Lines": "\n\u2026\u2026This myrroure eke that I have in my honde\n",
+            "Note": "\nAn 11-folio fragment, of which this leaf bears V.57-132 of the\n                        Squire\u2019s Tale.",
+            "folio": "f. 7-7v"
+        },
+        "PUL100": {
+            "First Lines": "\nAT Sarry in the lond of TarteryThere dwellid a kyng that verryd\n                    op Russy\u2026\n",
+            "Last Lines": "\n\u2026O Appollo whirlith vp his chare so hy\u021deThil \u00feat God\n                    Mercurious house \u00fee sli\u021de\n",
+            "Attributed Title": "\n\u2026And here begynnythe he his tale (f. 51v); Squyer (RT);\n                    Squyers tale for Chauwser made no more\u2026 (f. 60v)",
+            "folio": "ff. 51v-60v"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nAT Sarray in the land of TartaryeTher dwelte a kyng that werreyed\n                    Russye\u2026\n",
+            "Last Lines": "\n\u2026Appollo whirleth vp his Chaar so hyeTil that the god\n                    Mercurius hous the slye\n",
+            "Note": "\nFolio 122v holds only the final four lines of text with the\n                    intervening rubric signaling part divisions, leaving thirty-seven blank lines on\n                    the remainder of the folio.",
+            "Attributed Title": "\nHeere bigynneth the Squyeres tale (f. 115v); Squier (RT);\n                        Explicit secunda pars / Incipit pars tertia (f. 122v,\n                    following V.670)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 115v-122v"
+        },
+        "BNangl39": {
+            "First Lines": "\nAT sarry in the lond of tartaryether duellid a kyng that werreid\n                    Russye\u2026\n",
+            "Last Lines": "\n\u2026that ther was nowgher such a manAs was this noble kyng callid\n                    Cambustan\n",
+            "Note": "\nV.29-672 omitted.",
+            "Attributed Title": "\n\u2026& subsquenter narrat fabulam / suam hoc modo sequente (f.\n                        57ra); Ista fabula est valde absurda in / terminis et ideo ad\n                        presens preter / mittatur nec vlterius de ea procedatur\u2026 (f.\n                        57ra)",
+            "folio": "f. 57ra"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nAt Sarray in the lond of TartarieTher duellid a king that werred on\n                    Surrie\u2026\n",
+            "Last Lines": "\n\u2026ffor Canace or that he mi\u021dt hir winneAnd ther I left I\n                    wol again beginne\n",
+            "Note": "\nV.69-72, 671-2 omitted.",
+            "Attributed Title": "\n\u2026Et hic incipit fabula sua (f. 130v); ffabula\n                        Armigeri (RT); Sic desinit ffabula Armigeri\u2026 (f.\n                        138v)",
+            "folio": "ff. 130v-138v"
+        },
+        "TokyoTak32": {
+            "First Lines": "\nAtte sarrey in the lond of TartarieThere dwelte a kyng werryngge on\n                    Tartarie\u2026\n",
+            "Last Lines": "\n\u2026ffore Canacee ore hee myghtte here wynneAnd there I lefte I\n                    will ayeen be gynne\n",
+            "Note": "\nV. 102-4, 544, 671-2 omitted.",
+            "Attributed Title": "\nHere be gynnyht the squieris tale (f. 51rb); squieris (RT);\n                        Explicit secunda pars (f. 55va)",
+            "folio": "ff. 51rb-55va"
+        }
+    }
+}

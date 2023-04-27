@@ -1,0 +1,24 @@
+{
+    "_id": 2442,
+    "_header": "In a church as I gan kneel",
+    "Note": "For another version which lacks stanzas 1-3 but inserts two stanzas following 7 and 8 respectively see 4148.",
+    "Subjects": "Virgin Mary, lament of; laments",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "A lament of the Virgin Mary \u2014 twelve 8-line stanzas. Every second stanza ends with \u2018\"ffor thy son dy\u021ded my dere sone dere\u2019",
+    "_witnesses": {
+        "BodAsh61": {
+            "First Lines": "\nIn A chyrch As I gan knelleThys endres dey for to here messeI\n                    saw A sy\u021dht me lykyd welleI schall \u021dou tell how \u00feat it\n                    was\u2026\n",
+            "Last Lines": "\n\u2026Thynke on hys passyoun And hys blysffor thy son dy\u021ded my\n                    dere sone dere\n",
+            "Attributed Title": "\nLamentacio beate Marie (f. 106)",
+            "Editions": "\n\nSandison,  Helen Estabrook. \n             The \u2018Chanson d\u2019Aventure\u2019 in Middle English.\nBryn Mawr College Monographs,  Monograph Series 12. Bryn Mawr, PA: Bryn Mawr College, 1913: 104-9.\nShuffleton,  George. \n             Ashmole 61: A Compilation of Popular Middle English Verse.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008: 274-7; 525-8; 615.\n\n",
+            "folio": "ff. 106-107"
+        },
+        "BodRawC86": {
+            "First Lines": "\nIn A chirche as I gan kneleThis Enders daye to here a\n                    masse\u2026\n",
+            "Last Lines": "\n\u2026Thynke on his passion & he graunteth yow blisffor my\n                    sonne dyede my dere sonne dere\n",
+            "Attributed Title": "\nLamentacio beate Marie (f. 106)",
+            "Editions": "\n\nSandison,  Helen Estabrook. \n             The \u2018Chanson d\u2019Aventure\u2019 in Middle English.\nBryn Mawr College Monographs,  Monograph Series 12. Bryn Mawr, PA: Bryn Mawr College, 1913: 104-9.\nCords,  Rose. \n             \u201cF\u00fcnf mittelenglische Gedichte aus den Handschrifts Rawlinson\n                Poetry 36 und Rawlinson C.86.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         135 (1916): 292-302: 300.\n\n",
+            "folio": "ff. 72v-74"
+        }
+    }
+}

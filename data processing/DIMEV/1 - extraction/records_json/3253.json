@@ -1,0 +1,41 @@
+{
+    "_id": 3253,
+    "_header": "Lordings that be now here / If ye will listen and lere",
+    "Author(s)": "Robert Brunne",
+    "Title(s)": "Metrical Chronicle",
+    "Subjects": "chronicles",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "Bibliographic Ghosts": "London, British Library Cotton Julius A.V: deleted by Robbins and Cutler (1965)\nXRossell Hope Robbins, and John L. Cutler. Supplement to the Index of Middle English Verse. Lexington, Kentucky: University of Kentucky Press, 1965.",
+    "_description": "Robert of Brunne\u2019s Metrical Chronicle \u2014 in two parts of 8365 and about 4500 couplets",
+    "_witnesses": {
+        "BodRawD913": {
+            "Note": "\nFragment: lines 13018-13193.",
+            "Editions": "\nK\u00f6lbing,  Eugen. \n             \u201cReview of  Zwei mittelenglische geschichten aus der\n                    h\u00f6lle, ed. \n                        Anne L.\n                        Leonhard\n                     (Zurich, 1891).\u201d \n             Englische Studien\n         17 (1892): 87-92: 168-71 (Pt. 2).\n",
+            "folio": ""
+        },
+        "InnerTem5117": {
+            "First Lines": "\nLorgynges \u00feat be now hereif \u021de will listen &\n                    lere\u2026\n",
+            "Last Lines": "\nIdus \u00feat is of Maij lest I to write \u00feis rymeB letter &\n                    friday bi ix \u00feat \u021dere \u021dede prime\n",
+            "Note": "\nShifts from two-column format to single at f. 96; same scribe, and\n                    continuous rubric signatures for gathering \u2018m\u2019.",
+            "Attributed Title": "\nIncipit prologus historia britannie / transposita per Robertus in\n                        materna lingua (f. 1, rubric); Explicit Historia britannie trans /\n                        posita in lingua materna per Robertum / Incipiunt Gesta Anglorum sir patrum\n                        de langtoft transposita per eiusdem R Mannyng f. 95va,\n                    rubric); Expliciunt gesta Brittonium & Anglorum in lingua materna per /\n                        Robertum Mannyng transcripsitur Anno xi Millisimo\n                            CCCmotricesimo / viij idus Maij\u2026 (f. 195,\n                    rubric)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Story of England, by Robert Manning of Brunne, A.D. 1338.\n             2 vols. \n             Rolls Series\n         87 (1887): (Part 1, lines 1-198).\nHearne,  Thomas,\n                        ed.  \n             Peter Langtoft\u2019s Chronicle, and Robert Mannyng of Brunne\u2019s\n                Metrical Chronicle.\n         Oxford: at the Theatre, 1725; repr. 1810: (Part 2).\n\n",
+            "folio": "ff. 1ra-195"
+        },
+        "Lam131": {
+            "First Lines": "\n\u2026God gyue me grace wel to spede\u00deys Rym on Englisch for\n                    to Rede\u2026\n",
+            "Last Lines": "\n\u2026\u00fee bost of kyng Philipp fayne wold he \u00feen\n                    fellearyued is Richard at \u00fee depe of Normandie\u2026\n",
+            "Note": "\nBegins imperfectly at line 199; continues to Birth of Christ\n                    only.",
+            "Attributed Author": "\nRobert de Brunne",
+            "Attributed Title": "\nA Chronicle of England in olde Englishe meter (later hand)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Story of England, by Robert Manning of Brunne, A.D. 1338.\n             2 vols. \n             Rolls Series\n         87 (1887): (Part 1, lines 199-17730).\nZetsche,  A. \n             \u201cChronik des Robert von Brunne (von anfang bis zu Christi\n                geburt).\u201d \n             Anglia\n         9 (1886): 43-194: 43-194 (Part 2).\n\n",
+            "folio": "ff. 1ra-131v"
+        },
+        "OxfMert23b6": {
+            "First Lines": "\n[ ] fflaundres [ ] philip a louerd [ ][ ] manore schip he was hire\n                    gouernour\u2026\n",
+            "Last Lines": "\n\u2026[ ]es to se and witnesse it wild nouht lie[ ]d of trestels\n                    and of borde\n",
+            "Note": "\nLines 2040-2239, couplets; flyleaf bound in at beginning of \n            Lycophron, Willem, Lykophronos tou Chalkideos Alexandra (Basle, 1566): Oxford,\n            Balliol College Library, shelfmark 23.b.6 . See Davis (1969)\nXDavis,  Norman. \n             \u201cAnother Fragment of \u2018Richard Coer de Lyon\u2019.\u201d \n             Notes and Queries\n         16 (1969): 447-452, for an\n                    account of this fragment.",
+            "Editions": "\nKer,  Neil Ripley. \n             Fragments of Medieval Manuscripts used as Pastedowns in Oxford\n                Bindings, with a survey of Oxford Binding c. 1515-1620.\nOxford Bibliographical Society\n         n.s. 5. Oxford: Clarendon, 1954: 919.\n",
+            "folio": "flyleaf 1"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "_id": 3786,
+    "_header": "Now now Jesu for Thy circumcision",
+    "Note": "Really a pendant to 2901.",
+    "Subjects": "prayers, of Christ; Passion; Christ, wounds of",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "A prayer by the Seven Times Christ shed his Blood \u2014 four 8-line stanzas (ababbcbc)",
+    "_witnesses": {
+        "BodDou322": {
+            "First Lines": "\nNow now Ihesu for thy CircumcisiounWhen \u00feu was cut so in\n                    flessh and skyn\u2026\n",
+            "Last Lines": "\n\u2026\u00deat in \u00feat kyngdom \u00feat ys so wydeWe may\n                    reioyse euer \u00fey presence\n",
+            "Attributed Title": "\nPrayeres (f. 9vb)",
+            "folio": "f. 9vb"
+        },
+        "BLHar1706": {
+            "First Lines": "\nNowe good ihesu for \u00fei circumcysyonWhan \u00feou was kutte in flessche and skynne\u2026\n",
+            "Last Lines": "\n\u2026\u00feat in \u00feat kyngdome \u00feat ys so wydeWe maye reioyce euer \u00fei presence\n",
+            "Note": "\nSecond occurrence in this MS; Ends \u201cAMEN\u201d below last line (f. 212v).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 1706.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_1706. \n",
+            "folio": "ff. 211v-212v"
+        },
+        "Longleat30": {
+            "First Lines": "\nNow now ihesu for \u00fei circumcisionwhen \u00feou was kut so in\n                    flesch and skyn\u2026\n",
+            "Last Lines": "\n\u2026That in \u00feat kyngdom \u00feat is so wydeWe may reioyce\n                    euer thi presence Amen\n",
+            "Note": "\nNot set out in stanzas; no space left between preceding 2901 and this, only lombard\n                    initial and marginal heading to indicate new text.",
+            "Attributed Title": "\noracio (f. 53, margin)",
+            "folio": "ff. 53-53v"
+        },
+        "HunHM142": {
+            "First Lines": "\nNow now Ihesu for thi CircumcisiounWhen \u00feou was kut so in\n                    fleshe & skyn\u2026\n",
+            "Last Lines": "\n\u2026 That in \u00feat kyngdom \u00feat is so wydeWe may reioyce\n                    euer thi presence\n",
+            "Note": "\nNot set out in stanzas; no space left between preceding 2901 and this, only illuminated\n                    initial and marginal heading to indicate new text.",
+            "Attributed Title": "\nOracio (f. 49)",
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 135-6.\n",
+            "folio": "ff. 49-49v"
+        }
+    }
+}

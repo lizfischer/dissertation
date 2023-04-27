@@ -1,0 +1,47 @@
+{
+    "_id": 1912,
+    "_header": "He that will not when he may / When he will he shall have nay",
+    "Note": "For similar lines in Fasciculus Morum see 6647; cf. also 1867; 2800, st. 39 (CUL only); bad key, 107 (4 lines); Furnivall (1867)\nXFurnivall, Frederick James. The Boke of Norture, by John Russell, ab. 1460-70 A.D.\nRoxburghe Club 87. Bungay: J. Childs and Son, 1867, 45. Further refs. in Meech (1940)\nXMeech, Sanford Brown. \u201cA Collection of Proverbs in Rawlinson MS D 328.\u201d Modern Philology 38 (1940-41): 113-32, 126.",
+    "Subjects": "proverbs; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A proverb \u2014 one couplet translating Qui non vult cum quit um vellet forte nequibit",
+    "_witnesses": {
+        "BodDou52": {
+            "Transcription": "\nWho so wylle not when he mayHe shall not when he wylle\n",
+            "Editions": "\nF\u00f6rster,  Max. \n             \u201cDie Mittelenglische Sprichw\u00f6rtersammlung in Douce 52.\u201d \n             Festschrift zum XII Deutschen Neuphilolgentage in M\u00fcnchen\n                1906.\n            E. Stollreither, ed. \n         Erlangen (1906): 40-64: 57.\n",
+            "folio": "f. 31"
+        },
+        "BodRawD328": {
+            "Transcription": "\nHe \u00feat wylnot whan he maya schall not whan he wyll\n",
+            "Note": "\nTranslating, \u2018Qui non vult dum quid cum vellet forte\n                        nequibit\u2019, which precedes; English portion all written on one\n                    line.",
+            "Editions": "\nMeech,  Sanford Brown. \n             \u201cA Collection of Proverbs in Rawlinson MS D 328.\u201d \n             Modern Philology\n         38 (1940-41): 113-32: 117.\n",
+            "folio": "f. 140"
+        },
+        "CULEe437": {
+            "Transcription": "\nHe that will not when he mayWhen he will he shall naue\n                    naye\n",
+            "folio": "f. iiiv"
+        },
+        "BLHar2247": {
+            "folio": ""
+        },
+        "DULCosViii9": {
+            "Transcription": "\nhe that wyll not whan he mayeWhan he wolde he shall haue\n                    waye\n",
+            "Note": "\nAdded to left margin, bottom to top, immediately following 3010.",
+            "Facsimiles": "\nBurrow,  John,  and  A. I. Doyle, eds.  \n             Thomas Hoccleve: A Facsimile of the Autograph Verse\n                Manuscripts.\nEETS\n         s.s. 19 (2002). \n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.   Hoccleve\u2019s Works: The Minor Poems. vol. 1.  EETS\n         e.s. 61 (1892); repr. with Gollancz (1925)\nXGollancz,  Israel. \n             Hoccleve\u2019s Works: The Minor Poems. vol. 2.  EETS\n         e.s. 73 (1925); repr. with 61, 1970 73; rev. J.\n            Mitchell and A. Ian Doyle, 1970: 28.\n",
+            "folio": "f. 85v"
+        },
+        "RylandsLat394": {
+            "Transcription": "\nWho so wol not whan he maye he shal not whan he wolde\n",
+            "Note": "\nWritten as one line; Latin follows.",
+            "Editions": "\nPantin,  William A. \n             \u201cA Medieval Collection of Latin and English Proverbs\u2026from Rylands\n                Latin MS. 394.\u201d \n             Bulletin of the John Rylands Library\n         14 (1930): 81-114: 108.\n",
+            "folio": "f. 24v"
+        },
+        "PierpontM124": {
+            "Transcription": "\nHe that will not when he mayeWhen he would he shall have\n                    naye\n",
+            "Note": "\nAdded to lower margin by a hand of s. xvi, preceded by Latin text,\n                        \u2018Qui non vult dum quit cum vellet forte nequibit\u2019, which\n                    it translates.",
+            "Editions": "\nBergen,  Henry,\n                        ed.  \n             Lydgate\u2019s Fall of Princes.\n             4 vols. \n             EETS\n         e.s. 121-24 (1924-27); repr. 1967: Part IV, p. 85.\n",
+            "folio": "f. 157v"
+        }
+    }
+}

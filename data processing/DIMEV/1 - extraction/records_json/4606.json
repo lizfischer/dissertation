@@ -1,0 +1,40 @@
+{
+    "_id": 4606,
+    "_header": "Saint Gregory a tale us tells",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Gregory, saint",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Cambridge UK, Cambridge University Library Dd.1.1, f. 202: ends just where this Narracio should begin.",
+    "_description": "Gregory\u2019s Aunts: a Narratio in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Gregori a tale vs telles\u00feer he on \u00feis gospel\n                    spelles\u2026\n",
+            "Last Lines": "\n\u2026Vre lord Ihesu crist vs spedeTo do penaunce and \u00feider vs\n                    lede. Amen.\n",
+            "Attributed Title": "\nDe Tribus sororibus patris beati gregorij (f.\n                    212ra)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cGregorius auf dem Steine. Aus Ms. Vernon p. 44.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n            \n                \n                \n            \n         55 (1876): 407-38: 407-8.\n",
+            "folio": "f. 212ra-212rc"
+        },
+        "CULGg531": {
+            "First Lines": "\nSeyns gregor vs a tale telles\u00deare he a pon \u00feis gospell\n                    spels\u2026\n",
+            "Last Lines": "\n\u2026Oure lorde ihesu cryst vs spedeTo do penance and \u00feeder\n                    vs lede\n",
+            "Note": "\nBegins 4 lines later in this MS, with \u2018He sayd hys fader had\n                    systerys thre\u2026\u2019.",
+            "folio": "ff. 145-146v"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nSEint gregori a tale vs telles\u00deere he on \u00feis gospel\n                    spelles\u2026\n",
+            "Last Lines": "\n\u2026Vre lord Ihesu crist vs spedeTo do penaunce & \u00feider\n                    vs lede. Amen\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 16rc-16va"
+        },
+        "Lam260": {
+            "folio": "f. 60rb"
+        },
+        "HunHM129": {
+            "First Lines": "\nSeint gregory a tale vs tellyth\u00deare he a pon his gospell\n                    spekkyth\u2026\n",
+            "Last Lines": "\n\u2026Oure loueryd ihesu crist vs spedeTo do penauns and\n                    \u00feyddyr vs lede\n",
+            "Attributed Title": "\nrelacio (f. 184v)",
+            "folio": "ff. 184v-186v"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "_id": 2453,
+    "_header": "In a noon tide of a summers day",
+    "Title(s)": "\u2018Reuertere\u2019",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "\u2018Reuertere\u2019 \u2014 fifteen 8-line stanzas",
+    "_witnesses": {
+        "OxfBal354": {
+            "First Lines": "\nIn a tyme of a somers dayThe sune shon full meryly \u00feat\n                    tyde\u2026\n",
+            "Last Lines": "\n\u2026& ofte to fall in wykyd thowghtAnd than ys best\n                        Revertere\n\n",
+            "Note": "\nStanzas 1-3 and 11 only.",
+            "Attributed Title": "\nIncipit (p. 332); Explicit Reuertere (p. 332)",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 168.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 80.\nChambers,  Edmund Kerchever,  and  Frank Sidgwick.  \n             Early English Lyrics\u2026.\n         London: Buller, 1907, 1911 et seq: 195-6.\n\n",
+            "folio": "p. 332"
+        },
+        "CamTCC1450": {
+            "First Lines": "\nyn a noone hete of somerdayThe sone schone full mery that\n                    tyde\u2026\n",
+            "Last Lines": "\n\u2026And ofte to fall yn wykkyd sorteThen ys the beste\n                    keuertere\n",
+            "Note": "\n11 stanzas.",
+            "Attributed Title": "\nExplicit Materia Ista (f. 23)",
+            "folio": "ff. 22-23"
+        },
+        "Lam853": {
+            "First Lines": "\nIN noon tyd of asomers day\u00dee sunne schoon ful myrei \u00feat\n                    tideI took myn hauk al for to playMi spaynel rennyng bi my\n                    side\u2026\n",
+            "Last Lines": "\n\u2026\u00deerfore pray we to heuene kijngEuery man in his\n                    degreeeTo graunte them \u00fee blis euerlastinge\u00deat \u00feis word\n                    weel kan seie reuertere\n",
+            "Note": "\nWritten as prose. Quire [6] bound before Quire [5], which page numbering\n                    takes into account.",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The History of the Holy Grail by Henry Lovelich.\nEETS\n         e.s. 20, 24, 28, 30, 95 (1874-8); repr. in 2 vols, 1973: 1.91-4.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 363-4.\n\n",
+            "folio": "pp. 61-66"
+        }
+    }
+}

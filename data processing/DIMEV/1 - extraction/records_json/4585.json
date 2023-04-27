@@ -1,0 +1,26 @@
+{
+    "_id": 4585,
+    "_header": "Saint Eadburh the holy maid was here of England",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Eadburh, saint, life of",
+    "Versification": "\u2014 couplet \u2014 aa",
+    "_description": "Life of St. Eadburh in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "Bod779": {
+            "First Lines": "\nseint edborw\u021d \u00fee holy mayde was her of ingelondking\n                    edward here fadir was as I ondirstond\u2026\n",
+            "Last Lines": "\n\u2026now bidde we seint edborw \u00feat \u00feus brou\u021dt here lyf\n                    to ende\u00feat we moot for\u00fe wit here to \u00fee ioy of heuin\n                    wende\n",
+            "folio": "ff. 282-283v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSEint Adboruh \u00feat holi Maide was here of Engelonde\u00dee kyng\n                    Edward hire fader was as ich vndurstonde\u2026\n",
+            "Last Lines": "\n\u2026Nou bidde we \u021deorne seint Adborwh \u00feat \u00feus\n                    brou\u021dte hire lyf to ende\u00deat we mote for\u00fe wi\u00fe hire to\n                    \u00fee Ioye of heuene wende. A.M.E.N.\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 32rb-32vb"
+        },
+        "BLEge1993": {
+            "First Lines": "\nSeint Eadborw \u00feat holi maide was here of engelonde\u00dee king edward hire fader was as ich vnderstonde\u2026\n",
+            "Last Lines": "\n\u2026Now bidde we \u021derne seint edborw \u00feat \u00feo brou\u021dte hire lif to ende\u00deat we mote vor\u00fe wi\u00fe hire to \u00fee ioie of heuene wende\n",
+            "folio": "ff. 160-161"
+        }
+    }
+}

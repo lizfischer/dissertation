@@ -1,0 +1,27 @@
+{
+    "_id": 6315,
+    "_header": "When grain of wheat is cast to ground",
+    "Note": "Note that the first word of the text in both witnesses is \u2018But,\u2019 not \u2018When,\u2019 as other versions of the Index have it. We record this item under this heading for consistency, but include a cross-reference under \u2018But\u2019 (cf. the Latin \u2018Nisi granum\u2019).",
+    "Title(s)": "\u2018Nisi granum frumenti cadens in terram\u2019",
+    "Subjects": "wheat; scripture texts, Engl. trans. of",
+    "Versification": "\u2014 thirteen-line \u2014 ababababcdddc",
+    "_description": "\u2018Nisi granum frumenti cadens in terram\u2019, in twenty 13-line stanzas",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nBut greine of whete in eor\u00fee dyeHit schal not newe \u00feis is\n                    to seie\u2026\n",
+            "Last Lines": "\n\u2026God graunt vs \u00feat whon we beo dedTo heuene \u00feat we\n                    may wende. Amen.\n",
+            "Note": "\nThirteen-line stanzas, ababababcdddc; stanzas 1, 9 and 17\n                    defective.",
+            "Attributed Title": "\nNisi granum frumenti cadens in terra\u2026 (f.\n                    215va)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cProprium Sanctorum, Zusatz-Homilien des Ms. Vernon fol. CCXV zur\n                n\u00f6rdlichen Sammlung der Domicalia evangelia.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         81 (1888): 83-114, 300-21: 83-5.\n",
+            "folio": "ff. 215va-216ra"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nBOt greine of whete in eor\u00fee dyeHit schal not nowe \u00feis is\n                    to sey\u2026\n",
+            "Last Lines": "\n\u2026God vs graunt when we ben dedTo heuene \u00feat we may wend\n                    Amen\n",
+            "Note": "\n9 stanzas.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 19va-19vc"
+        }
+    }
+}

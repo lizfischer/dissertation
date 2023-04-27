@@ -1,0 +1,33 @@
+{
+    "_id": 6603,
+    "_header": "Whoso desireth to get and conquer",
+    "Note": "For other versions, see 3030.",
+    "Author(s)": "Thomas Hoccleve",
+    "Subjects": "Virgin Mary, miracles of",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Thomas Hoccleve, A miracle of the Virgin Mary: How Our Lady\u2019s Psalter was first found \u2014 eighteen stanzas rhyme royal",
+    "_witnesses": {
+        "OxfChrCh152": {
+            "First Lines": "\n[W]ho so desyrith to gete and conquereThe blysse of hevene holsom\n                    ys a guyde\u2026\n",
+            "Last Lines": "\n\u2026And in her grace cherly for to stondeHer psalter for to sey\n                    let us fonde Amen\n",
+            "Note": "\nIn Hoccleve\u2019s autograph MS, (6603-3), the first three stanzas are referred to\n                    as the \u2018prologus\u2019, with the tale comprising the final fifteen\n                    stanzas. The same structure is found here, with two spurious linking stanzas\n                        (681) prefaced to the\n                    prologue.",
+            "Attributed Title": "\nHere begynnyth the Ploughmannys Tale of owr lady (f. 229); Here endyth the\n                    Ploughmannys Tale (f. 231)",
+            "Editions": "\n\nBeatty,  Arthur,\n                        ed.  \n             New Ploughman\u2019s Tale: Thomas Hoccleve\u2019s Legend of the\n                Virgin and her sleeveless garment.\nChaucer Society\n         2nd ser. 34. London: Trench, Tr\u00fcbner, 1902. \nBowers,  John M.,\n                        ed.  \n             The Canterbury Tales:\n                    Fifteenth-Century Continuations and Additions.\n         Kalamazoo, MI: Medieval Institute Publications, 1992: 23-32.\n\n",
+            "folio": "ff. 229-231"
+        },
+        "CamTCC601": {
+            "First Lines": "\nWhoso desyreth to gete & conquereThe blysse of heuen holsom ys\n                    a guydeHym to condew & to bryng thereSo good know I noon for\n                    mannys syde\u2026\n",
+            "Last Lines": "\n\u2026And in her grace cherely to stondeHer sawter to sey lat vs\n                    fonde\n",
+            "Attributed Author": "\nJohn Lydgate (added by later hand, then crossed out by same, f.\n                        275vb)",
+            "Attributed Title": "\nHic sequitur quomodo Psalterium beate marie Primo erat inuentum per\n                        quendam Monachum Monasterij sancti Egidij in regne ffrancie miraculose\n                        (274vb); Explicit inuencio Psalterii beate Marie\n                        (275vb)",
+            "folio": "ff. 274vb-275vb"
+        },
+        "HunHM744": {
+            "First Lines": "\nWho so desireith to gete and conquereThe blisse of heuene needful\n                    is a guyde\u2026\n",
+            "Last Lines": "\nAnd in hir grace cheerly for to stondeHir psalteer for to sey let vs\n                    fonde\n",
+            "Attributed Title": "\nItem de beata Virgine (f. 36); \u2026& incipit fabula\n                    (f. 36v); Explicit (f. 39)",
+            "Editions": "\n\nGollancz,  Israel,\n                        ed.  \n             Hoccleve\u2019s Works: The Minor Poems. vol. 2.  EETS\n         e.s. 73 (1925); repr. with 61, 1970: 15-16.\nBoyd,  Beverly May,\n                        ed.  \n             Middle English Miracles of the Virgin.\n         New York: Columbia UP, 1955; San Marino, CA: Huntington Library,\n            1964: 50-5.\n\n",
+            "folio": "ff. 37-39"
+        }
+    }
+}

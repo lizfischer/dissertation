@@ -1,0 +1,112 @@
+{
+    "_id": 1174,
+    "_header": "Edward the Third that was king of this land",
+    "Note": "Ringler Jr. (1988)\nXRingler Jr., William A. Bibliography and Index of English Verse Printed 1476-1558. London: Mansell, 1988, TP 362.5; for later continuations see 6694 and 3658; cf. also Kingsford (1912)\nXKingsford, Charles Lethbridge. \u201cThe First Version of Hardyng\u2019s Chronicle.\u201d English Historical Review 27 (1912): 740-53 462-82.",
+    "Author(s)": "John Hardyng",
+    "Title(s)": "Metrical Chronicle (Hardyng)",
+    "Subjects": "chronicles; envoys",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "Bibliographic Ghosts": "Oxford, All Souls College 33: see 952; London, British Library Harley 293: only prose in this section of the MS",
+    "_description": "John Hardyng, Metrical Chronicle, generally with a dedication to Henry VI; some MSS with concluding Envoy to Edward IV, and other end-matter.",
+    "_witnesses": {
+        "BodArcSelB10": {
+            "First Lines": "\nThe moost substaunce of Power and of mightThorough age distilled in\n                    to debilite\u2026\n",
+            "Last Lines": "\n\u2026And want of golde was lost within a yerThat we had goot in\n                    ten as doth apere\n",
+            "Note": "\nFor epilogue, see 5761.",
+            "folio": "ff. 1-198v"
+        },
+        "BodAsh34": {
+            "First Lines": "\nThe most substaunce of power and of myghtThurgh age destelled in to\n                    debelyteOf me that am this tyme an age wightAnd grete faulte have of\n                    abelyte\n",
+            "Last Lines": "\n\u2026For langer \u00fean ye have hem in subIeccyounTrest never\n                    truthe in hem ne perfeccyoun\n",
+            "Note": "\nEnds with the 240th chapter of Grafton\u2019s edition\n                    (1543).",
+            "folio": "ff. 2-177v"
+        },
+        "BodDou341": {
+            "Note": "\nFragment",
+            "folio": "ff. 1-20v"
+        },
+        "BodDou345": {
+            "First Lines": "\nThe moost substaunce of Power and of mightThorough age distilled in\n                    to debilite\u2026\n",
+            "Last Lines": "\n\u2026At ouer \u00fee flok to seke the Scatred schepeAnd laye hem\n                    in your fold surely to slepe\n",
+            "Note": "\nBegins imperfectly (wanting the dedication and the preface) probably due\n                    to the loss of folios; ends also imperfectly in the 240th chapter; two leaves\n                    missing.",
+            "folio": "ff. 1-152v"
+        },
+        "BodDou378": {
+            "First Lines": "\nffor his peple to serue the goddes threWherby he regnet \u00feertty\n                    yer & thre\u2026\n",
+            "Last Lines": "\n\u2026Wentt he wold to huntyng & to haukyngAll gentyll disportt\n                    as to alord appentt\n",
+            "Note": "\nBegins and ends imperfectly due to the loss of folios; begins at\n                    equivalent of p. 56 of Ellis\u2019s edition.",
+            "folio": "ff. 1-62v"
+        },
+        "BLCottVesAXII": {
+            "First Lines": "\nStaumford he made so callyd to thys dayIn whych he made a vniuersite\u2026\n",
+            "Last Lines": "\n\u2026In all the vii liberall scienceffor to purchese wysdam & sapience\n",
+            "Note": "\nFragment (written in verse lines) inserted in a Latin prose chronicle.",
+            "Attributed Author": "\nsecundum Iohannes herdyng (f. 12v)",
+            "folio": "f. 12v"
+        },
+        "BLEge1992": {
+            "First Lines": "\n[T]he most substance of power and of myghtThurgh age distilled into\n                    debilite\u2026\n",
+            "Last Lines": "\n\u2026To bide euer more vndere his protecconWherfor gode lorde nowe\n                    girde you with your swerde\n",
+            "Note": "\nEnds imperfectly. Space left for enlarged initial \u2018T\u2019, which\n                    was left blank.",
+            "folio": "ff. 1-170v"
+        },
+        "BLHar661": {
+            "First Lines": "\nWhich\u2026after of Marche and of VlsterWith\u2026slayne wase in\n                    grelonde\u2026\n",
+            "Last Lines": "\n\u2026That youre highnes may haue therof knowlageTo comfort with\n                    youre noble high corage\n",
+            "Note": "\nAbbreviated version for Edward IV, 1800 stanzas. Begins imperfectly due\n                    to loss of leaves and damage to tops of leaves at beginning of codex; last few\n                    stanzas intermingled with lists of distances between stops on the route to\n                    Scotland, which continue with prose directions on ff. 185-186, followed by\n                    maps.",
+            "folio": "ff. 1-185"
+        },
+        "BLHar3730": {
+            "First Lines": "\nAs cronicles be fore haue made memorieEnglond and walles as to thaire soffrayne\u2026\n",
+            "Last Lines": "\n\u2026that \u021doure highe highnes \u00feer off may haue knowlegesTo conforte \u021doure highe noble corage\n",
+            "Note": "\nVerses from Epilogue only. In penultimate line \u201chighe\u201d written and expunged before \u201chighnes.\u201d",
+            "folio": "ff. 1-1v"
+        },
+        "BLLan204": {
+            "First Lines": "\nThe while that Troy was regnyng in his myghtThere was in grece a\n                    kinge right excellent\u2026\n",
+            "Last Lines": "\n\u2026As Bretons had of grete antiquyteWhan they it helde in myghty\n                    dignyte\n",
+            "Note": "\n2700 stanzas. Full-page illustrations on fols. 196 and\n                    226v-227.",
+            "Editions": "\nKingsford,  Charles Lethbridge. \n             \u201cThe First Version of Hardyng\u2019s Chronicle.\u201d \n             English Historical Review\n         27 (1912): 740-53: 740-53 (extracts only).\n",
+            "folio": "f. 5-226"
+        },
+        "GULHun400": {
+            "First Lines": "\neDward the iiide that was kyng of this londBe iuste\n                    title and verray rygh descent\u2026\n",
+            "Last Lines": "\n\u2026Thre myle be west ye may Passe ouer forth Into Menteth that\n                    lieth there by north\n",
+            "Note": "\nRegular verse ends f. 180v, \u2018That your highnesse may\n                    have therof knowlege / To comforte with your noble high corage\u2019; followed\n                    by directions on the way to Edinburgh, and on the way from Edinburgh to\n                    Stirling, including two rhyme royal stanzas, both f. 181v, beginning,\n                    \u2018And your wille and noble high corage / Thinketh this is ouer sitill to\n                    your puissaunce\u2026\u2019.",
+            "Attributed Author": "\nThe prolog of John Hardyng maker of this boke (f. 1)",
+            "folio": "ff. 1-181v"
+        },
+        "HarEng1054": {
+            "First Lines": "\nThe moost substauns of power and of mightThorough age distillid in\n                    to debiliteOf me \u00feat am \u00feis tyme an aged WightAnd grete\n                    defaulte haue of habilite\u2026\n",
+            "Last Lines": "\n\u2026That your highnes may haue \u00feerof knowlageTo comfort with\n                    your noble high corage\n",
+            "Note": "\nSome leaves misbound; introduction of 41 stanzas rhyme royal on folios\n                    1-4; text itself on ff. 4v-134.",
+            "Editions": "\nEllis,  Sir Henry,\n                        ed.  \n             The Chronicle of John Hardyng.\n         London: Rivington, 1812: 15-23.\n",
+            "folio": "ff. 1-134"
+        },
+        "PierpontB5": {
+            "First Lines": "\n\u2026[ ]to Irelond extendyngeThe doughtres so dothe also\n                    signifye\u2026\n",
+            "Last Lines": "\n\u2026[ ] fro medsomer to Crystemasse[ ] to his palays Royal[\n                    ] pyerless[ ] Imperiall[ ] princes[ ] Suffolk [ ][ ]eke the\n                    [ ]\u2026\n",
+            "Note": "\nAcephalus and atelous, with water damage all but obliterating text at\n                    beginning and esp. at end; begins at equivalent of p. 117 of Ellis (1812)\nXEllis,  Sir Henry. \n             The Chronicle of John Hardyng.\n         London: Rivington, 1812.",
+            "folio": "ff. 1-115v"
+        },
+        "PULGar142": {
+            "First Lines": "\nThe most substaunce of power and of my\u021dt\u00deurgh age\n                    distilled in debiliteOf me \u00feat am \u00feis tyme an aged wightAnd\n                    grete defaute have of abilitie\u2026\n",
+            "Last Lines": "\n\u2026Than was he made kny\u021dt of \u00fee GartierAt his desire\n                    as saith the Cronycler\u2026\n",
+            "Note": "\nWith prologue by the \u2018maker of \u00feis booke\u2019 (ff.\n                        21-23v); first line of text begins, \u2018As Cronicles telle\n                    & make notificacioun / Ho so payn wele shal know &\n                    vnderstond\u2026\u2019 (f. 23v); ends in reign of Henry V, with\n                    catchwords indicating once continued.",
+            "Attributed Title": "\nHire begynneth \u00fee boke of Brytoun of what blode Brute came & howe\n                    he gate \u00feis Ile & named hit Britayn \u00feat nowe is Englond Wales\n                    & Scotlond (f. 23v)",
+            "folio": "ff. 21-149v"
+        },
+        "Urbana83": {
+            "First Lines": "\nThe moste substance of power & of myghtThurgh age distillid in\n                    to debilite\u2026\n",
+            "Last Lines": "\n\u2026And wantt of gold was lost with in a yere\u00feat we had\n                    gotte in tenne as doth apere\n",
+            "Note": "\nBlank space bottom of f. 224 and on 224v suggests that scribe\n                    considered text complete at this ending.",
+            "folio": "ff. 1-124"
+        },
+        "TokyoTak6": {
+            "First Lines": "\n\u2026ffor which \u00feer aross on [ ] ben aventtidwith full grete\n                    host [ ]neth crone and tonne\u2026\n",
+            "Last Lines": "\n\u2026And wantt of golde was loste within a yere\u00deat we hade\n                    gote in x as doth apere\n",
+            "Note": "\nFirst leaf torn and dirty, so first legible lines listed here; includes\n                    lengthy dedication to Henry VI, ff.\n                    112v-116v.",
+            "folio": "ff. 1-116v"
+        }
+    }
+}

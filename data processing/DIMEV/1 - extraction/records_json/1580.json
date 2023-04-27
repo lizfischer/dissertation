@@ -1,0 +1,21 @@
+{
+    "_id": 1580,
+    "_header": "God save King Henry wheresoever he be",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 486; cf. 1578.",
+    "Author(s)": "Thomas Ashwell",
+    "Subjects": "occasional verse; Henry VII; Elizabeth of York, queen",
+    "_description": "Anthem for marriage of Henry VII and Elizabeth of York, A.D. 1486 \u2014 five lines",
+    "_witnesses": {
+        "CULDd1327": {
+            "Note": "\nWith music by Thomas Ashwell.",
+            "Editions": "\nFlood,   W. H. G. \n             Early Tudor Composers.\n         Oxford: University Press, 1925: 58.\n",
+            "folio": "f. 31"
+        },
+        "CamStJohn234": {
+            "Transcription": "\nGod Save Kyng Herry\n",
+            "Note": "\nJust first four words as a rubric title to another song in Latin,\n                        \u2018Et in terra pax\u2026\u2019, probably to indicate that the\n                    music may also be used for the [presumably well-known] English\n                    song.",
+            "Editions": "\nStrickland,  Agnes. \n             Lives of the Queens of England.\n         12 vols. London, 1840-48; repr. 8 vols. 1851-52 (facs. repr. with\n            intro. Antonia Fraser, 8 vols, Bath 1972): 4.40.\n",
+            "folio": "f. 28v"
+        }
+    }
+}

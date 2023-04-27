@@ -1,0 +1,24 @@
+{
+    "_id": 3128,
+    "_header": "Lithe and listen both old and young",
+    "Note": "For a variant see 3114",
+    "Subjects": "carols, to Virgin Mary",
+    "Versification": "\u2014 four-line \u2014 aaab",
+    "_description": "A carol of the Nativity \u2014 seven quatrains (aaab) and burden: \u2018Of a rose a louely rose / Of a rose I syng a song\u2019",
+    "_witnesses": {
+        "BodEngPoete1": {
+            "First Lines": "\nLyth & lystyn both old & \u021dyngHow \u00fee rose be gane\n                    to spryng\u2026\n",
+            "Last Lines": "\n\u2026In euery ball to ben owr bottSo blessedly yt\n                    sprong\n",
+            "Editions": "\n\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 131-2; 1977, 116-17.\nGreene,  Richard Leighton,\n                        ed.  \n             A Selection of English Carols.\nClarendon Medieval and Tudor Series.\n         Oxford: Clarendon, 1962: 108.\nWright,  Thomas,\n                        ed.  \n             Songs and Carols from a manuscript\u2026of the Fifteenth\n                Century.\nPercy Society\n         23. London: Richards, 1847: 21-2.\nStevick,  Robert D.,\n                        ed.  \n             One Hundred Middle English Lyrics.\n         Indianapolis: Bobbs-Merrill, 1964: 146-7.\nOliver,  Raymond. \n             Poems Without Names: The English Lyric 1200-1500.\n         Berkeley, CA: University of California, 1970: 120-1.\n\n",
+            "folio": "f. 21"
+        },
+        "OxfBal354": {
+            "First Lines": "\nHerkyn to me both old & yongeHow a rose began to\n                    sprynge\u2026\n",
+            "Last Lines": "\n\u2026Now cryst saue all this cumpany& send vs gud lyff &\n                    longExplicit\n",
+            "Note": "\n8 stanzas",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 7-87.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 131-2; 1977, 117.\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 232-3.\nFl\u00fcgel,  Ewald,\n                        ed.  \n             Neuenglisches Lesebuch.\n         1 Bd. Halle: Niemayer, 1895: 116.\nFl\u00fcgel,  Ewald,\n                        ed.  \n             Neuenglisches Lesebuch.\n         1 Bd. Halle: Niemayer, 1895: 62.\nPollard,  Alfred William. \n             Fifteenth Century Prose and Verse. A Volume of Arber\u2019s\n                \u2018English Garner\u2019\u2026.\n         Westminster and New York: Dutton, 1903: 85-6.\nRickert,  Edith,\n                        ed.  \n             Ancient English Christmas Carols.\n         London: Chatto & Windus, 1910: 9.\n\n",
+            "folio": "p. 4621"
+        }
+    }
+}

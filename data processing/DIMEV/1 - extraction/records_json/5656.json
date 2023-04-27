@@ -1,0 +1,31 @@
+{
+    "_id": 5656,
+    "_header": "This book hight Ipocras",
+    "Note": "Cf. 5390, lines 21-29, to which this generally corresponds.",
+    "Subjects": "medicine; prologues, to prose texts",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A verse introduction to a prose medical text \u2014 varying lines, generally in couplets",
+    "_witnesses": {
+        "CamEmm95": {
+            "Transcription": "\nThis boke hi\u021dte ypocrason of the beste surgeons \u00feat euer\n                    was& galien his felawe & socratesto \u00feem \u00feis booke\n                    beryn witnesefor all \u00feey weryn felawes in ferewhile \u00feey\n                    lefde in er\u00fee hereand \u00feorough \u00fee grace of hevyne\n                    kyng\u00feey practiseden medecynes to helpyn [ ]praye we al to ihesu\n                    hevyne kynghe yif here soule gode wonyng\n",
+            "Note": "\nFollowed by \u2018Iste liber Johanni Chaucis & cetera\n                        Constat\u2019 (p. 120).",
+            "folio": "p. 120"
+        },
+        "CamTCC1037": {
+            "Facsimiles": "\n\nDigital Facsimile of Trinity College Cambridge MS O.1.13.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/O.1.13. \n",
+            "Editions": "\nHargreaves,  Henry. \n             \u201cAdditional Information for the Brown-Robbins\n                \u2018Index.\u2019\u201d \n             Notes and Queries\n         n.s. 16 [214] (1969): 446-7: 446.\n",
+            "folio": "f. 61v"
+        },
+        "BLSl468": {
+            "Transcription": "\n\u00feis boke hy\u021dte ypocrasOon \u00fee best surgyen \u00feat\n                    euer was& galien his felow & socratesTo \u00feis bok bere\n                    witnesfor alle \u00feey were felowes in ferewhil \u00feey leueden in\n                    erthe here& \u00feorw \u00fee grace of heuene kynge\u00dee[i]\n                    practised medicynes to help mankendePrey we alle to ihu heuene kyngGod\n                    \u021deue here soules good wonyngAmen\n",
+            "folio": "f. 80v"
+        },
+        "BLHar1735": {
+            "First Lines": "\n\u00feis bok heyght ypocras\u00fee best surgyon \u00feat heuer In \u00feis world was\u2026\n",
+            "Last Lines": "\n\u2026\u00feoro grace of heue kyng\u00feey halp many men with hare lechyng\n",
+            "Note": "\nStands alone, not as an introduction or epilogue.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 1735.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_1735. \n",
+            "folio": "f. 42"
+        }
+    }
+}

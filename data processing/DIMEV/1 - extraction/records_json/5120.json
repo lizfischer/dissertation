@@ -1,0 +1,49 @@
+{
+    "_id": 5120,
+    "_header": "Teach each man with charity",
+    "Title(s)": "\u2018The Seven Works of Mercy gostly\u2019",
+    "Subjects": "mercy, works of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Seven Works of Spiritual Mercy \u2014 eight couplets",
+    "_witnesses": {
+        "CULFf238": {
+            "First Lines": "\nTeche eche man with charyteTo kepe goddes heestes buxum to\n                    beTo counseyle eche man with mylde steuenTo take the wey that\n                    ledy\u00fe to heuene\u2026\n",
+            "Last Lines": "\n\u2026Of these werkys goostly cryst schall appeleWhan he hys dome\n                    schall deme and dele\n",
+            "Attributed Title": "\nHere suen \u00fee vii werkes of merci gostli (f. 32va)",
+            "Facsimiles": "\nMcSparran,  Frances,  and  Pamela R. Robinson.  \n             \u201cIntroduction.\u201d \n             Cambridge University Library MS Ff.2.38.\n         London: Scolar Press, 1979. \n",
+            "folio": "f. 32va"
+        },
+        "CamMagPep1584": {
+            "First Lines": "\nTeche euery man with chariteto kepe goddes hestis buxom to\n                    beTo counceile euery man with mylde stevynTo take \u00feat wey\n                    \u00feat ledith to heuyn\u2026\n",
+            "Last Lines": "\n\u2026Of their workis gostly crist schall appeleWhan he his dome\n                    schall deme and dele\n",
+            "Attributed Title": "\nThes byn the vii werkys of mercy goostely (f. 106v)",
+            "folio": "ff. 106v-107"
+        },
+        "BLHar1706": {
+            "First Lines": "\nTEche eche man wi\u00fe charyteTo kepe goddys hestys and buxom to be\u2026\n",
+            "Last Lines": "\n\u2026Of \u00feise werkys gostly cryste schalle appeleWhan he hys dome schalle deme and dele\n",
+            "Note": "\nLatin terms for spiritual works of charity written in rubric in outer margins beside first line relating to each work.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 1706.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_1706. \n",
+            "folio": "ff. 207-207v"
+        },
+        "BLHar2339": {
+            "First Lines": "\nTeche ech man wi\u00fe chariteTo kepe goddis heestis buxum to\n                    be\u2026\n",
+            "Last Lines": "\n\u2026Of \u00feese werkis gostli christ schal apeleWhane he his\n                    doom schal deme & dele\n",
+            "Attributed Title": "\n\u00deese ben \u00fee vij werkis of merci gostly (rubricated, f.\n                    119)",
+            "folio": "ff. 119-119v"
+        },
+        "Lam491": {
+            "First Lines": "\nTeche ich man with chariteTo kepe godes bydynges\n                    buxumly\u2026\n",
+            "Last Lines": "\n\u2026Of al \u00feis werkes criste wyl appeleWhene he hys dome shal\n                    deme & dele\n",
+            "Attributed Title": "\nHere begynnes \u00fee vij werkes of gostly mercy (f.\n                    295vb)",
+            "Editions": "\nB\u00fclbring,  Karl Daniel. \n             \u201c\u00fcber die Handschrift Nr. 491 der Lambeth-Bibliothek.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         86 (1891): 383-92: 389.\n",
+            "folio": "Part II, f. 295vb"
+        },
+        "Ushaw10": {
+            "First Lines": "\nTeche iche man with chariteto kepe goddes hestis & buxum to\n                    be\u2026\n",
+            "Last Lines": "\n\u2026of \u00feies uerkes gostely criste shal apeeleWhen he his\n                    dome shal deme and deyle\n",
+            "Note": "\nIn Speculum Cristiana, Tercia Tabula.",
+            "folio": "ff. 54v-55"
+        }
+    }
+}

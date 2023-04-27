@@ -1,0 +1,94 @@
+{
+    "_id": 810,
+    "_header": "Behold mine wounds how sore I am dight",
+    "Subjects": "Christ, attributes of; Christ, appeal of, to man; crucifixion",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Christ as Man\u2019s Champion, a tag in the Fasciculus morum (except Cambridge UK, Corpus Christi College 392) \u2014 four lines, in three different versions, the first couplet freely translating a distich from Ovid\u2019s Amores",
+    "_witnesses": {
+        "Bod410": {
+            "Transcription": "\nBe holde my woundes how i am dyghtfor all \u00fei wele I won In\n                    fyghtI am sore wounded byholde my skyn& for my loue \u00feu let me\n                    In\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 23v"
+        },
+        "BodLauMis213": {
+            "Transcription": "\nBy hold my woundes how I am dightffor all \u00fei wole I won &\n                    fightI am fore woundyd by hold my skynand for my loue \u00feu lete me\n                    in\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nGray,  Douglas,\n                        ed.  \n             A Selection of Religious Lyrics.\nClarendon Medieval and Tudor Series.\n         Oxford: Clarendon, 1975: 124.\n",
+            "folio": "f. 32"
+        },
+        "BodLauMis568": {
+            "Transcription": "\nby holde my wondys\n",
+            "Note": "\nReference line only.",
+            "folio": "f. 27va"
+        },
+        "BodRawC670": {
+            "Transcription": "\nBeholde myne woundes how sore I am dy\u021dthFfor all \u00fee wele\n                    \u00feat \u00feou hast I wan hit in fy\u021dtI am sore woundet behold on my\n                    skynLeue lyf for my loue let me comen in\n",
+            "Editions": "\n\nWoolf,  Rosemary. \n             \u201cThe Theme of Christ the Lover-Knight in Medieval English\n                Literature.\u201d \n             Review of English Studies\n         n.s. 13 (1962): 1-16: 7.\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 160.\n\n",
+            "folio": "f. 43"
+        },
+        "OxfCCC218": {
+            "Transcription": "\nBe hold my woundes wide man and seMy bood \u00feat i schedde in\n                    batayl for the\n",
+            "Note": "\nVariant; two lines only.",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 160.\n",
+            "folio": "f. 43v"
+        },
+        "OxfLinLat52": {
+            "Transcription": "\nBy hold my wondes wyde man and seeMy blode \u00feat I schadd in\n                    batell for the\n",
+            "Note": "\nVariant; two lines only.",
+            "folio": "f. 31rb"
+        },
+        "CULDd1015": {
+            "Note": "\nVariant; two lines only.",
+            "folio": "ff. 41-41v"
+        },
+        "CamCCC392": {
+            "Transcription": "\nBy hold my wondys how sore y am dy\u021dtfor al \u00fey welthe\n                    \u00feat \u00feu hast y wan hyt yn fy\u021dty am sore wondyt be hold on my\n                    skynleue lef for my loue lat me com yn\n",
+            "Note": "\nNot in Fasciculus morum but rather in a sermon on Christ\u2019s\n                    Passion, headed, \u2018Maria Ihesu Johannes Dunstanus assint principio\n                        meo\u2019 (f. 253).",
+            "folio": "ff. 255-255v"
+        },
+        "CamGon71": {
+            "Transcription": "\nBy hald my wounde\u021d how sore I am dygthffor all \u00fee wele\n                    \u00feat \u00feu has I wanne wyth rygthI am sore wounded be hald my\n                    scynleue lef for my loue lat me com In\n",
+            "folio": "f. 33"
+        },
+        "CamStJohn159": {
+            "Transcription": "\nBy hold my wondys sore I ame di\u021dtffor all \u00fei wyl \u00feat\n                    \u00feu hast yawn it in fi\u021dtI am sor wondyt be halde on my\n                    skynlef lyfe for my lofe lat me Ine\n",
+            "Note": "\nWritten as verse.",
+            "folio": "f. 56"
+        },
+        "DULCosViv2": {
+            "Transcription": "\nBy hold my wondys how sore \u00feat I am dyhtffor all \u00fei wele\n                    \u00feat \u00feu hasse I wan it in fyghtI am sore wonded by hald in my\n                    skynLeue lyf for my lofe latt me come In\n",
+            "folio": "ff. 21-21v"
+        },
+        "EDU82": {
+            "Transcription": "\nBy holde my wowndes how sore I am dygthffor all the wele that thou\n                    hast I wan the in fygthI am sore wownded by holde on my skynleve lefe\n                    for my lofe lat me com in\n",
+            "folio": "f. 51"
+        },
+        "Lincoln44": {
+            "Transcription": "\nByholde my wondys hov sore y am dy\u021dtffor al \u00fey wel\u00fee\n                    \u00feat \u00feu hast y wan hyt on sy\u021dty sore wondyd by hold on my\n                    skynleue lofe for my luf let me come yn\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 174va"
+        },
+        "Spalding": {
+            "Transcription": "\nBeholde my wondes how sorye I am dyghtffor all \u00fee welth \u00feat\n                    \u00feu has I wan hit in fyghtI am sore woundyde beholde now my\n                    skynleue lofe lat me come in\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 45v"
+        },
+        "WorcF19": {
+            "Transcription": "\nby holdit my wondis how sore y an dyghtffor alle \u00fey welle\n                    \u00feat \u00feu hast q wonne hit with ry\u021dt\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 177ra"
+        },
+        "WorcQ3": {
+            "Transcription": "\nbe holde my wondes wyde how sore I am dy\u021dtAl \u00fee wele\n                    \u00feow hast I wan hit in sy\u021dtI am wounndyt sore by hold on my\n                    scynGentyll lefe fors my loue let me com In\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 44-44v"
+        },
+        "VaticanOtto": {
+            "First Lines": "\nBehold my woundys in thys caasHow sor I am\n                    dyhte\u2026\n",
+            "Last Lines": "\n\u2026Der leman for my lofLate me cum Ine\n",
+            "Note": "\nExpanded version, eight lines.",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 161.\n",
+            "folio": "f. 24v"
+        }
+    }
+}

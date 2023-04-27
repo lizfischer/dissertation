@@ -1,0 +1,24 @@
+{
+    "_id": 1072,
+    "_header": "Considering effectually the great diversity",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 332.",
+    "Subjects": "religion, difficulty of choosing a profession in",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "Macaronic": "Latin",
+    "_description": "The difficulty of choosing a profession in religion \u2014 twenty-one8-line stanzas, with refrain, \u2018Allas quid eligam ignoro\u2019",
+    "_witnesses": {
+        "CULHh412": {
+            "First Lines": "\nConsideryng effectually the gret diuersiteOf sectys conteynyd in\n                    the church present\u2026\n",
+            "Last Lines": "\n\u2026Than durst I be ryght bold thys refreyt for to precheAlas\n                        Quid eligam ignore\n\n",
+            "Editions": "\nPerson,  Henry Axel. \n             Cambridge Middle English Lyrics.\n         Seattle: University of Washington Press, 1953; rev. ed. 1962: 44-8.\n",
+            "folio": "ff. 94-96v"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nConsidring effectually\u00fee grete diversiteof sectes conteynyd in\n                    the chirche present\u2026\n",
+            "Last Lines": "\n\u2026we shall trust in god in avoydyng this sentenceOf allas quid\n                    eligam Ignoro\n",
+            "Note": "\n17 stanzas only. \u2018Explicit\u2019 below last line.",
+            "Attributed Title": "\nQuid eligam ignoro (in upper margin by scribe, f. 3)",
+            "folio": "ff. 3-4v"
+        }
+    }
+}

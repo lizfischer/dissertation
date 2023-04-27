@@ -1,0 +1,25 @@
+{
+    "_id": 6116,
+    "_header": "Unto the royal eagles excellence",
+    "Author(s)": "Thomas Hoccleve",
+    "Subjects": "John, duke of Bedford; occasional verse; princes, advice to; advice, to princes",
+    "Versification": "\u2014 nine-line \u2014 ababbcbbc",
+    "_description": "Thomas Hoccleve, Presentation verses to the Duke of Bedford, Regent of France, with a copy of the De Regimine Principum \u2014 three 9-line stanzas",
+    "_witnesses": {
+        "BLRoy17Dxviii": {
+            "First Lines": "\nUn to the rial egles excellenceI humble Clerk with hertes\n                    lowlynesse\u2026\n",
+            "Last Lines": "\nOf his tresor nat de[ ]eth his nobleyeDele with non so ig[ ]ant as\n                    me\n",
+            "Note": "\nDamage to last few folios due to stain, immediately follows Regiment\n                        of Princes (3581).\n                    Holograph manuscript; ends, \u2018Cest tout\u2019. ",
+            "Editions": "\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 92-3.\n",
+            "folio": "f. 100"
+        },
+        "HunHM111": {
+            "First Lines": "\nUn to the rial egles excellenceI humble Clerc with al hertes\n                    humblesse\u2026\n",
+            "Last Lines": "\n\u2026Of his tresor nat deyneth hir nobleyeDele with noon so\n                    ignorant as me\n",
+            "Attributed Title": "\nCe feust mys en le liure de monseigneur Iohan lors nommez ore Regent de\n                        ffrance & Duc de Bedford (f. 37v)",
+            "Facsimiles": "\nBurrow,  John,  and  A. I. Doyle, eds.  \n             Thomas Hoccleve: A Facsimile of the Autograph Verse\n                Manuscripts.\nEETS\n         s.s. 19 (2002). \n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.   Hoccleve\u2019s Works: The Minor Poems. vol. 1.  EETS\n         e.s. 61 (1892); repr. with Gollancz (1925)\nXGollancz,  Israel. \n             Hoccleve\u2019s Works: The Minor Poems. vol. 2.  EETS\n         e.s. 73 (1925); repr. with 61, 1970 73; rev. J.\n            Mitchell and A. Ian Doyle, 1970: 56-7.\nHammond,  Eleanor Prescott. \n             English Verse between Chaucer and Surrey.\n         Durham, NC: Duke UP, 1927: 76.\n\n",
+            "folio": "ff. 37v-38"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "_id": 4795,
+    "_header": "Say well or be still",
+    "Note": "Cf. 4798.",
+    "Subjects": "advice, moral",
+    "Versification": "\u2014 three-line \u2014 aaa",
+    "_description": "Three lines advocating caution (including \u2018had y wyst\u2019)",
+    "_witnesses": {
+        "BLHar665": {
+            "Transcription": "\nSay well or be styllSuffyr and haue all thy wyllKnow or \u00feou trystAnd be ware of hady wyst\n",
+            "folio": "f. 302r2"
+        },
+        "PierpontB21": {
+            "Transcription": "\nSey \u00fee best or be stylleWyth thy tonge noman thou\n                    qwelleSuffyr and haue thy wylle\n",
+            "Note": "\nhree lines translating four short Latin lines, beg. \u2018Optimam dic\n                    ve tacere\u2026\u2019.",
+            "Editions": "\n\nB\u00fchler,  Kurt. \n             \u201cA Middle English Medical Manuscript from Norwich.\u201d \n             Studies in Medieval Literature in Honor of Professor Albert Cross\n                Baugh.\n            MacEdward Leach, ed. \n         Philadelphia: University of Pennsylvania Press, 1961: 285-98: 287.\nWhiting,  Bartlett Jere. \n             Proverbs, Sentences, and Proverbial Phrases from English Writings\n                Mainly before 1500.\n         Cambridge, MA: Belknap, 1968: S77.\n\n",
+            "folio": "f. iii"
+        }
+    }
+}

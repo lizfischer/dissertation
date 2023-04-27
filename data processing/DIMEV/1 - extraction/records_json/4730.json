@@ -1,0 +1,29 @@
+{
+    "_id": 4730,
+    "_header": "Saint Michael Gods angel clear",
+    "Note": "Cf. 905 and 4326.",
+    "Title(s)": "Gast of Gy",
+    "Subjects": "dialogues, death and man",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018The Gast of Gy\u2019 (Spiritus Guidonis) \u2014 2064 couplets",
+    "_witnesses": {
+        "BodRawPoe175": {
+            "First Lines": "\nSAint Michael \u00fee aungell clereAnd saint Austyn \u00fee doctour\n                    dere\u2026\n",
+            "Last Lines": "\n\u2026Vn tyll \u00feat comforth crist vs kenThurgh prayer of his\n                    moder amen\n",
+            "Attributed Title": "\nHere begyns an tretyce \u00feat es called \u00fee gast of Gy (f.\n                        95v)",
+            "Editions": "\n\nSchleich,  Gustav,\n                        ed.  \n             The Gast of Gy.\nPalaestra\n         1. Berlin: Mayer & M\u00fcller, 1898: 119.\nFoster,  Edward E.,\n                        ed.  \n             Three Purgatory\n                    Poems: The Gast of Guy, Sir Owain, The Vision of Tundale.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2004. \n\n",
+            "folio": "ff. 96ra-108vb"
+        },
+        "BLCottTibEVII": {
+            "Note": "\n2154 lines",
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 2.292-333.\n",
+            "folio": "f. 90"
+        },
+        "TokyoTak32": {
+            "First Lines": "\n[illegible]\n",
+            "Last Lines": "\n\u2026o the frere prech\u2026laceWith the priour\n                    forttotalke\u2026\n",
+            "Note": "\nFragment: 37 lines. Folio is very stained and damaged, with much of the\n                    text illegible.",
+            "folio": "f. 175vb"
+        }
+    }
+}

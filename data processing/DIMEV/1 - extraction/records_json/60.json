@@ -1,0 +1,30 @@
+{
+    "_id": 60,
+    "_header": "A great prince may have no more vice",
+    "Author(s)": "John Shirley",
+    "Title(s)": "The Moste Pitevous Cronicle of th\u2019 Orribill Dethe of the Kyng of Scottes",
+    "Subjects": "epilogues; princes, advice to; advice, to princes; greed; James I, king of Scotland, 1406-1437",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Advice to princes to avoid avarice and seek to win the love and regard of their men, as epilogue at conclusion of a prose account of the death of James Stewart (James I), King of Scotland, 1406-1437, either John Shirley\u2019s translation from the Latin of The Moste Pitevous Cronicle of th\u2019 Orribill Dethe of the Kyng of Scottes or John de Meun\u2019s translation from Latin into French \u2014 four couplets",
+    "_witnesses": {
+        "BLAdd5467": {
+            "First Lines": "\nA grete prynce may have nomore vicene hyme to greve thanne\n                    avarice\u2026\n",
+            "Last Lines": "\n\u2026merk this wele you besecheAdieux to god I you\n                    beteche\n",
+            "Note": "\nAppended to John Shirley\u2019s trans. of The Moste Pitevous\n                        Cronicle of th\u2019 Orribill Dethe of the Kyng of Scottes. Written as\n                    prose.",
+            "Editions": "\n\nStevenson,  Joseph,\n                        ed.  \n             The Life and Death of King James I of Scotland.\nMaitland Club\n         42. Edinburgh, 1837: 66-7.\nPinkerton,  John,\n                        ed.  \n             Ancient Scottish Poems Never Before in Print.\n         2 vols. London and Edinburgh, 1786: 1, Appendix.\n\n",
+            "folio": "f. 84v"
+        },
+        "NLS17122": {
+            "Transcription": "\nA grete man may have no more vicene hym to greeve than avaricene\n                    nys no lorde in his countreethat of his folke nathe love leuee meffor\n                    welle may he be called a lordewhome that hees men love of\n                    recordemerkethe this weel I you besecheand thus to godde I you\n                    beteche\n",
+            "Note": "\nAppended to French prose text, attrib to \u2018Johanes de Mehune\u2019\n                    (f. 25).",
+            "Attributed Author": "\nJohanes de Mehune (f. 25)",
+            "folio": "f. 25"
+        },
+        "BLAdd38690": {
+            "First Lines": "\nA grete man may have no more viceNe hym to grieve \u00feanne Avarice\u2026\n",
+            "Last Lines": "\n\u2026Merke\u00fee \u00feis weel I you besecheAnd \u00feus to godde I you beteche\n",
+            "Note": "\nIncorrectly listed as on f. 16 in Boffey  and  Edwards (2005)\nXJulia Boffey,   and  A. S. G. Edwards.  \n             A New Index of Middle English Verse.\n         London: The British Library, 2005; written as prose.",
+            "folio": "f. 15"
+        }
+    }
+}

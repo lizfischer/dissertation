@@ -1,0 +1,25 @@
+{
+    "_id": 1493,
+    "_header": "Gaude of virgins the freshest flower",
+    "Title(s)": "\u2018Septem gaudia beate Marie\u2018",
+    "Subjects": "Virgin Mary, joys of",
+    "Versification": "\u2014 eight-line",
+    "_description": "\u2018Septem gaudia beate Marie\u2019 \u2014 seven 8-line stanzas",
+    "_witnesses": {
+        "Longleat30": {
+            "First Lines": "\nGAude of virgins \u00fee fresshest floureIn maydenhede a lantern of\n                    odoure\u2026\n",
+            "Last Lines": "\n\u2026Nor neue fade nor neuer decreseBut be fresche and dure and\n                    euer encresePer eterna secula Amen\n",
+            "Note": "\nFourteen monorhyming 3-line stanzas, with rubric Latin headings for\n                    each, including Septem gaudia beate marie before first and Per eterna\n                        secula amen after last.",
+            "Attributed Title": "\nSeptem gaudia beate marie (f. 122v)",
+            "folio": "ff. 22v-23v"
+        },
+        "HunHM142": {
+            "First Lines": "\n\nGAude of uirgins \u00fee freshest floureIn maydenhede a\n                    launtern of odour\u2026\n",
+            "Last Lines": "\n\u2026Nor neuer fade ne neuer decreceBut be freshe and dure and\n                    euer encrece\n",
+            "Note": "\nFourteen monorhyming 3-line stanzas, with rubric Latin headings for\n                    each, including Septem gaudia beate marie before first and Per eterna\n                        secula amen after last.",
+            "Attributed Title": "\nSeptem gaudia beate marie (f. 19)",
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 61-2.\n",
+            "folio": "ff. 19-19v"
+        }
+    }
+}

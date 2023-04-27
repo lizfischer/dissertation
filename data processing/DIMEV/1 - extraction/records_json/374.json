@@ -1,0 +1,21 @@
+{
+    "_id": 374,
+    "_header": "All that loveth gods lore / Old and young less and more",
+    "Title(s)": "Life of St Eustace",
+    "Subjects": "Eustace, saints, life of; saints\u2019 lives",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "Life of St Eustace \u2014 in seventy-one 6-line stanzas",
+    "_witnesses": {
+        "BodAsh61": {
+            "Note": "\nLines 1-30 only; on torn leaf affixed to flyleaf, together with part of\n                    the list of contents of this MS.",
+            "folio": "f. i"
+        },
+        "BodDig86": {
+            "First Lines": "\nAlle \u00feat louie\u00fe Godes loreOlde and \u021donge lasse and\n                    more\u2026\n",
+            "Last Lines": "\n\u2026Wi\u00fe ihesu seinte marie soneEuere wi\u00fe houten\n                    hende\n",
+            "Attributed Title": "\nCi comence la vie seint Eustace qui out noun placidas (f.\n                        122v)",
+            "Facsimiles": "\nTschann,  Judith A.,  and  Malcolm B. Parkes.  \n             \u201cIntroduction.\u201d \n             Facsimile of Oxford, Bodleian Library, MS Digby 86\nEETS\n         s.s. 16 (1996). \n",
+            "folio": "ff. 122v-125v"
+        }
+    }
+}

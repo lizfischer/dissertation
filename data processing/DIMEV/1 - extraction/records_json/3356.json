@@ -1,0 +1,24 @@
+{
+    "_id": 3356,
+    "_header": "Man if thou a wise man art / Of they goods take thy part",
+    "Note": "Compare 1136, 3344.",
+    "Subjects": "possessions, worldly; executors, criticism of",
+    "Versification": "\u2014 six-line, eight-line \u2014 aabaab, abcbdbeb",
+    "_description": "Against leaving goods for executors; one seven-line stanza.",
+    "_witnesses": {
+        "OxfBal354": {
+            "Transcription": "\nMan yff thou a wyseman arteOf thy goodis take thy parteOr thow\n                    hens wendeYf thou leve thy parteIn thy executours awardeThy parte\n                    no parteys at the last end\n",
+            "Note": "\nFollowed immediately by 1137.",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 167.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 138.\n\n",
+            "folio": "p. 3161"
+        },
+        "BLAdd16165": {
+            "First Lines": "\nMan if \u00feow wys arteOf \u00fey gode take \u00fey\n                    parte\u2026\n",
+            "Last Lines": "\n\u2026\u00fey parte no parteat \u00fee latter eende\n",
+            "Note": "\nOne 7-line stanza. More than one verse line per manuscript line, 3-2-2;\n                            John Shirley\u2019s signature and motto at top of\n                    page.",
+            "Editions": "\nHulme,  William Henry,\n                        ed.  \n             The Harrowing of Hell and Gospel of Nicodemus.\nEETS\n         e.s. 100 (1908); repr. 1976: xli.\n",
+            "folio": "f. 1"
+        }
+    }
+}

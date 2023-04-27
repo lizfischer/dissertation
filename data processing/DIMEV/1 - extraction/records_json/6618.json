@@ -1,0 +1,40 @@
+{
+    "_id": 6618,
+    "_header": "Whoso liveth in fleshly will",
+    "Subjects": "sermons, verse in; lechery, warning against",
+    "Versification": "\u2014 eight-line \u2014 abababab",
+    "_description": "A warning against Lechery (8 lines), a tag in the Fasciculus morum",
+    "_witnesses": {
+        "Bod187": {
+            "folio": "f. 206vb"
+        },
+        "Bod410": {
+            "folio": "f. 89"
+        },
+        "BodLauMis213": {
+            "Transcription": "\nWho so lyvyth in flesly wyllAnd it no wyl not leteAfftyr hym\n                    shall lyke yll\u00feat he thowght it so swetelechery wol \u00fei sole\n                    spill\u00feat is so vn to meteWhen thy body lyith in erth\n                    styll\u00fee sole mote all bete\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 180v-181"
+        },
+        "BodRawC670": {
+            "First Lines": "\nWo so leuyth in flescly wyllAnd hit ne woll no\u021dt\n                    lete\u2026\n",
+            "Last Lines": "\n\u2026Whan \u00fei body ly\u00fee in er\u00fee stille\u00dee sowle\n                    mote all bete\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 196.\n",
+            "folio": "f. 146"
+        },
+        "CamGon71": {
+            "Editions": "\nRobbins,  Rossell Hope. \n             \u201cA Warning Against Lechery.\u201d \n             Philological Quarterly\n         35 (1956): 90-5: 91.\n",
+            "folio": "f. 90v"
+        },
+        "Lincoln44": {
+            "Transcription": "\nWo so lyue\u00fe in flechly syne wylleAnd he it wul\n                    no\u021dt letteAfter hym schal leke ylle\u00deat hyt \u00feouth hym so\n                    swetlychery wyl \u00feat soule spyle\u00feat is so vn to meteWen\n                    \u00fei bo\u00feey ly\u00fee ouer style\u00fee schal sall be all to\n                    bett\n",
+            "folio": "ff. 226rb-226va"
+        },
+        "WorcF19": {
+            "folio": "f. 226vb"
+        },
+        "VaticanOtto": {
+            "folio": "f. 101"
+        }
+    }
+}

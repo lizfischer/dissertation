@@ -1,0 +1,25 @@
+{
+    "_id": 6767,
+    "_header": "Witten all that is and is gone",
+    "Note": "Cf. 5186.",
+    "Subjects": "charters; Ripon, abbey of; Aethelstan, king",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A rhymed charter purporting to be from King Athelston to the Abbey of Ripon \u2014 fourteen couplets",
+    "_witnesses": {
+        "BodDod160": {
+            "Editions": "\nFowler,  Joseph Thomas,\n                        ed.  \n             Memorials of the Church of SS. Peter and Wilfrid, Ripon.\n             4 vols. \n             Surtees Society\n         74 (1882), 78 (1886), 81 (1888), 115 (1908): 1.90-3.\n",
+            "folio": "f. 250"
+        },
+        "CamTCC1174": {
+            "First Lines": "\nWiten all \u00feat is and is gane\u00deat ich King\n                    Adelstane\u2026\n",
+            "Last Lines": "\n\u2026And my seile have ich set \u00feartoFor I will \u00feat Na\n                    man this gift undo\n",
+            "Attributed Title": "\nAlia Charta Regis Adelstani (f. 51)",
+            "Editions": "\nFowler,  Joseph Thomas,\n                        ed.  \n             Memorials of the Church of SS. Peter and Wilfrid, Ripon.\n             4 vols. \n             Surtees Society\n         74 (1882), 78 (1886), 81 (1888), 115 (1908): 1.90-3.\n",
+            "folio": "Part I, f. 51"
+        },
+        "PRODL41270": {
+            "Editions": "\n\nFowler,  Joseph Thomas,\n                        ed.  \n             Memorials of the Church of SS. Peter and Wilfrid, Ripon.\n             4 vols. \n             Surtees Society\n         74 (1882), 78 (1886), 81 (1888), 115 (1908): 1.90-3.\nDugdale,  Sir William. \n             Historical Account of the Cathedral of York.\n         1715: 38.\nDugdale,  Sir William. \n             Monasticon Anglicanum.\n         London: Hodgkinsonne, 1655; rev. eds. R. Dodsworth, J. Stevens,\n            etc: 2.133.\nKemble,  John Mitchell. \n             Codex Diplomaticus Aevi Saxonici.\n         6 vols. London: Sumptibus Societatis, 1839-48: 3.188, 189.\nThorpe,  Benjamin. \n             Diplomatarium Anglicum Aevi Saxonici\u2026.\n         London: Tr\u00fcbner, etc.: 1865: 182-3.\nSpeth,  George William,\n                        ed.  \n             Quatuor Coronatorum Antigrapha.\n         Margate: H. Keble, 1889: 1/3, 27.\n\n",
+            "folio": "roll"
+        }
+    }
+}

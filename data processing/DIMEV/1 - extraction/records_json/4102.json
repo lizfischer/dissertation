@@ -1,0 +1,26 @@
+{
+    "_id": 4102,
+    "_header": "O wretched sinner whatsoever you be",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018On the Image of Pity\u2019",
+    "Subjects": "advice, spiritual",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, \u2018On the Image of Pity\u2019 \u2014 five 8-line stanzas",
+    "_witnesses": {
+        "BodAsh59": {
+            "First Lines": "\nO wrechched synner what so ever \u00feowe beWith hert indurate\n                    herder \u00feane \u00fee stooneTurne hider in haste kneele doune beholde\n                    and se\u00fee moder of criste whas hert was woo begone\u2026\n",
+            "Last Lines": "\n\u2026\u00feat holsome stories shewed in figurMay rest with vs in\n                    moste duwe remembrance\n",
+            "Note": "\n4 stanzas only.",
+            "Attributed Title": "\nHere folowe\u00fee a devoute exortacoun to meeve men devoutely to \u00fee\n                    ymage of pyte by orisounes and preyers (f. 68v)",
+            "folio": "ff. 68v-69"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nO wretched synner what so ever thow bewith herte endurat hardar\n                    than \u00fee stone\u2026\n",
+            "Last Lines": "\n\u2026that holsom storyes thus shewyd in fygurMay rest with ws with\n                    dewe remembraunce\n",
+            "Note": "\nEnds, \u2018Amen / finis lidgat\u2019 (f. 130; all by scribe, John\n                    Stow).",
+            "Attributed Author": "\nlidgat (f. 130)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 297-9.\n",
+            "folio": "ff. 129v-130"
+        }
+    }
+}

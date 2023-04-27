@@ -1,0 +1,66 @@
+{
+    "_id": 2064,
+    "_header": "Honoured be Thou blissful Lord Jesu",
+    "Author(s)": "Thomas Hoccleve",
+    "Title(s)": "P\u00e8lerinage de l\u2019\u00e2me; The Angels\u2019 Second Song within Heaven",
+    "Subjects": "illlustrations, verse accompanying",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Thomas Hoccleve, The Angels\u2019 Second Song within Heaven, in the English translation of the P\u00e8lerinage de l\u2019\u00e2me \u2014 five stanzas rhyme royal",
+    "_witnesses": {
+        "Bod770": {
+            "First Lines": "\nHonurid be \u00feou blisful lord ihesuand perisid mot \u00feou be\n                    in euery place\u2026\n",
+            "Last Lines": "\n\u2026\u00feat doon here deuoir as \u00feei mai & cannow\n                    \u00feaukid be \u00feou ihesu god & may\n",
+            "Note": "\nFour stanzas.",
+            "Attributed Title": "\nThe angellez song (f. 25v)",
+            "folio": "f. 25vb"
+        },
+        "OxfCCC237": {
+            "First Lines": "\nHonoured be \u00feu blissefull lord IhesuAnd preysed be \u00feu\n                    moste in euery place\u2026\n",
+            "Last Lines": "\n\u2026That done her devoyr as \u00feei may & kanNow \u00feankyd\n                    be \u00feu Ihesu god & man\n",
+            "Attributed Title": "\nThe Aungelles songe with inne heuen (f. 49v)",
+            "folio": "ff. 49v-50"
+        },
+        "OxfUni181": {
+            "folio": "f. 43"
+        },
+        "CamGon124": {
+            "First Lines": "\nhOnoured be \u00feu blisful lord JhesuAnd preysed mostow ben in\n                    euery place\u2026\n",
+            "Last Lines": "\n\u2026\u00feat don \u00feeire deuoyre as \u00feai may &\n                    canThonkyd be \u00feu Ihesu god & man\n",
+            "Note": "\nFour stanzas.",
+            "folio": "pp. 42-43"
+        },
+        "CULKk17": {
+            "Transcription": "\n\u2026That don \u00feeir deuoyr as \u00feei may canThankyd be\n                    \u00feou Jhesu god and man\n",
+            "Note": "\nLast 2 lines only.",
+            "Attributed Title": "\nher endith \u00fee drem of \u00fee pilgrimage of \u00fee soule (f.\n                        124v)",
+            "folio": "f. 36"
+        },
+        "BLAdd34193": {
+            "First Lines": "\nHonourede be \u00feou blistefull lorde ihesu and preseide mot\n                    \u00feou be\u2026\n",
+            "Last Lines": "\n\u2026\u00feat do \u00feair dener os \u00feai may and canNow\n                    thankede be \u00feou ihesu gode and man\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 32v"
+        },
+        "BLAdd37049": {
+            "Editions": "\nDoty,  Brant Lee,\n                        ed.  \n             \u201cAn Edition of British Museum MS Additional 37049: a Religious\n                Miscellany.\u201d \n         Diss. Michigan State, 1969: 414-16.\n",
+            "folio": "ff. 74v-75"
+        },
+        "BLEge615": {
+            "First Lines": "\nHonured be thu blisful lord IhuAnd preysed mote thu be in eueri place\u2026\n",
+            "Last Lines": "\n\u2026That done hire devoire as thei may & kanThanked be the Ihu god and man\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             \u201cHoccleve\u2019s Works: The Regement of Princes and fourteen minor\n                poems.\u201d \n             EETS\n         e.s. 72 (1897); repr. 1988: xxxvi-xxxvii.\n",
+            "folio": "ff. 31-31v"
+        },
+        "HatCP270": {
+            "folio": "unfoliated"
+        },
+        "NYPLSpenc19": {
+            "First Lines": "\nHonured be thow blisful lord IhesuAnd preysed mote thow be in euery\n                    place\u2026\n",
+            "Last Lines": "\n\u2026That don hir deuour as thei may & canThanked be thow\n                    Ihesu god and man\n",
+            "folio": "ff. 40v-41"
+        },
+        "MelSLV096G94": {
+            "folio": "f. 196"
+        }
+    }
+}

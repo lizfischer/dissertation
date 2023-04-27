@@ -1,0 +1,86 @@
+{
+    "_id": 6164,
+    "_header": "We been executors of this deed",
+    "Note": "The same story is found in a sermon in Cambridge UK, Cambridge University Library Ii.3.8, f. 74v, printed Erb (1971)\nXErb, Peter C. \u201cVernacular Material for Preaching in MS Camb. Univ. Lib. Ii.III.8.\u201d Mediaeval Studies 33 (1971): 63-84, 77-8.",
+    "Subjects": "inscriptions; executors, criticism of; sermons, verse in; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "On false executors, a tag in the Fasciculus morum \u2014 6 lines translating French verse inscriptions cited in a story about a rich cleric.",
+    "_witnesses": {
+        "Bod187": {
+            "First Lines": "\nWe ben assecuteres of \u00feys dedebut of thys mony wat ys\n                    \u021dowr rede\u2026\n",
+            "Last Lines": "\n\u2026By vs owr dyner wo so wulthe dede schal quyten al the\n                    fulle\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 132va"
+        },
+        "Bod410": {
+            "First Lines": "\nWe ben executours of \u00feis dedeNow of \u00feis money what is our\n                    rede\u2026\n",
+            "Last Lines": "\n\u2026bye vs our dyner who so wolle\u00fee dede shal qwyte for all\n                    \u00fee folle\n",
+            "Note": "\nWithout French verses; written as prose.",
+            "folio": "f. 10v"
+        },
+        "BodLauMis213": {
+            "Note": "\nWithout French verses.",
+            "folio": "f. 13v"
+        },
+        "BodLauMis568": {
+            "First Lines": "\nWe bene assecutours of \u00feys dedeBot of \u00feys money what ys\n                    \u021doure rede\u2026\n",
+            "Last Lines": "\n\u2026Bynd owre dyuer ho so wulle\u00fee ded chall qwyte all at\n                    \u00fee ful\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 10vb"
+        },
+        "BodLauMis111": {
+            "First Lines": "\nWe ben ex asse cutours of \u00feis dedebot of \u00feis monay wat is\n                    oure rede\u2026\n",
+            "Last Lines": "\n\u2026Secundus\n                    Tak to \u00fee and I to me\u00fee dede kepeth of no moneTercius by vs\n                    oure dyner wo so wole\u00feis \u00fee dede schal quyten al \u00fee\n                    fulle\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 66v"
+        },
+        "BodRawB190": {
+            "First Lines": "\nBut of \u00feis mone what is oure redeTake to \u00fee and I to\n                    me\u2026\n",
+            "Last Lines": "\n\u2026\u00dee dede\n                    kepes of no moneBy vs oure dyner who so wol\u00dee dede schal quyten\n                    al \u00fee fulle\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nSilverstein,  Theodore,\n                        ed.  \n             Medieval English Lyrics.\n         York Medieval Texts. London: Edw. Arnold, 1971: 79-80.\n",
+            "folio": "f. 21"
+        },
+        "OxfLinLat52": {
+            "Note": "\nWithout French verses.",
+            "folio": "Part I, Chap. 8, f. 12"
+        },
+        "CamGon71": {
+            "First Lines": "\nWe ben executours of \u00feis dedebot of \u00fee money what is\n                    \u021dour rede\u2026\n",
+            "Last Lines": "\n\u2026Byse our dyner who so will\u00fee dede schal quite all\n                    \u00fee full\n",
+            "folio": "f. 20v"
+        },
+        "CamGon364": {
+            "First Lines": "\nWe ben executouris of \u00feis deedebut of \u00feis mony qwat is\n                    yowre rede\u2026\n",
+            "Last Lines": "\n\u2026bryngyth oure deyne qwan \u021de wele\u00fee deede it schal\n                    qwytin as it is skele\n",
+            "Note": "\nWithout French verses.",
+            "folio": "ff. 14rv-14va"
+        },
+        "CamStJohn159": {
+            "First Lines": "\nWe ben secturs of \u00fee dedebot of \u00feis mony what ys your\n                    reyde\u2026\n",
+            "Last Lines": "\n\u2026By vs our diner who so wyll\u00fee dede sall whit all at\n                    \u00fee full\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 45"
+        },
+        "EDU82": {
+            "folio": "f. 22"
+        },
+        "Lincoln44": {
+            "folio": "f. 163rb"
+        },
+        "Spalding": {
+            "Transcription": "\nWe the executours of \u00fee dedebot of this monye what is your\n                    redeTake to \u00feeand I to me\u00fee dede kepes no monyeByes\n                    oure dyner who so wyll\u00fee deyd shall pay for euer deyle\n",
+            "Note": "\nThree separate couplets, each introduced by \u2018Primus\u2019,\n                    \u2018Secundus\u2019, and \u2018Tercius\u2019; written as\n                    prose.",
+            "folio": "f. 18v"
+        },
+        "WorcF19": {
+            "First Lines": "\nWe ben assecutoris of is dedeBot of \u00fee monay wat ys \u00fey\n                    rede\u2026\n",
+            "Last Lines": "\n\u2026He ys oure dyuer wo so\n                    wyll\u00feis dede sall quyte all \u00fee full\n",
+            "Note": "\nPartly written as verse but line divisions confusing.",
+            "folio": "f. 166vb"
+        },
+        "VaticanOtto": {
+            "folio": "f. 9v"
+        }
+    }
+}

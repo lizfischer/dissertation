@@ -1,0 +1,38 @@
+{
+    "_id": 4769,
+    "_header": "Saint Valentine of custom year by year",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Valentine to Our Lady\u2019",
+    "Subjects": "Valentine, saint; Virgin Mary, songs in honour of; envoys",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lydgate, \u2018Valentine to Our Lady\u2019 \u2014 twenty stanzas rhyme royal, including 2-stanza envoy",
+    "_witnesses": {
+        "BodAsh57": {
+            "First Lines": "\nSAinteValentyne of custume yeere by yeereMen haue an vsaunce with\n                    in \u00feis RegyounTo looke and seche Cupides KalundereAnd chese\n                    \u00feeire choys by gret affeccyoun\u2026\n",
+            "Last Lines": "\n\u2026Have on vs mercy whane we for helpe calleffor love of hir\n                    \u00feat \u00feus excelli\u00fee alle\n",
+            "Note": "\n19 stanzas (stanza 3 is missing).",
+            "Attributed Title": "\nHere folowe\u00fee nowe a glorious Invocacoun to oure blessed ladye made by\n                    \u00feat vertuous Lidegate in balade wyse in cheosing of Valantynes at \u00feat\n                    selff feeste with \u00fee Refrayde I love one best of alle (f. 52)",
+            "folio": "ff. 52-54"
+        },
+        "CamTCC600": {
+            "First Lines": "\nSeynt Valentyne of custume yeere by yeereMen haue an vsaunce in\n                    \u00feis RegyounTo looke and serche Cupydes kalundereAnd cheese\n                    \u00feeyre choys by gret affeccioun\u2026\n",
+            "Last Lines": "\n\u2026Haue on vs mercy whane we for help calleffor loue of hir\n                    \u00feat excelle\u00fee alle\n",
+            "Attributed Author": "\nby daun Iohan Lidegate \u00fee Munke of Bury (p. 145)",
+            "Attributed Title": "\nLo here beginne\u00fee a balade made at \u00fee reuerence of our lady by\n                    daun Iohan Lidegate \u00fee Munke of Bury in wyse of chesing loues at saint\n                    Valentynes day (p. 145); Balade for saint Valentynes daye (RT)",
+            "Editions": "\n\nMahir,  Otto,\n                        ed.  \n             Eine religi\u00f6se Gedichte John Lydgates.\n         Oberviechtach: Adolf Mahir, 1910: 31-7.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 304-10.\n\n",
+            "folio": "pp. 145-149"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nSaynt valentyne of custome yeare by yearemen haue an vsaunce in\n                    this regyon\u2026\n",
+            "Last Lines": "\n\u2026haue on vs mercy whan we for helpe calleffor loue of hur\n                    \u00feat excelleth all\n",
+            "Note": "\nEnds \u2018fynes\u2019 (f. 157)",
+            "Attributed Title": "\nLo here beginneth a balade made at the reuerence of our lady by dane Iohan\n                    lidegate \u00fee munke of bury in wyse of chesinge loues at sainte valentynes\n                    daye (f. 155)",
+            "folio": "ff. 155-157"
+        },
+        "BLHar2251": {
+            "First Lines": "\nSEynt Valentyne of custom yeere by yeereMen have an vsaunce in this\n                    Regioun\u2026\n",
+            "Last Lines": "\n\u2026Have on vs mercy whan we for help calleffor love of hir that\n                    excellith alle\n",
+            "folio": "ff. 242v-244v"
+        }
+    }
+}

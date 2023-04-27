@@ -1,0 +1,19 @@
+{
+    "_id": 1491,
+    "_header": "Gaude felix Anna the mother of Mary",
+    "Author(s)": "John Audelay",
+    "Title(s)": "Salutacio in honore sancte Anne matris marie",
+    "Subjects": "hymns, to saints; Saint Anne",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "Macaronic": "Latin",
+    "_description": "John Audelay, Salutacio in honore sancte Anne matris marie, with Gaude anaphora \u2014 six quatrains",
+    "_witnesses": {
+        "BodDou302": {
+            "First Lines": "\n\nGaude felix anna \u00fee moder of MariGaude \u00feou\n                    bro\u021dtis for\u00fe \u00feat bor\u00fe \u00feat al \u00fee word con\n                    glade\u2026\n",
+            "Last Lines": "\n\u2026Gaude \u00feis salutacion to \u00fee here we\n                        sayGaude \u00feou graunt vs of \u00fei grace to haue\n                    remyssioun\n",
+            "Attributed Title": "\nQuicumque hanc salutacionem in honore Sancte Anne matris Marie cotidie\n                        deuote dixerit sine dubio mala morte non morietur (f.\n                    27rb)",
+            "Editions": "\nWhiting,  Ella Keats,\n                        ed.  \n             John Audelay: The Poems.\nEETS\n         o.s. 184 (1931); repr. 1988: 178-9.\n",
+            "folio": "f. 27rb"
+        }
+    }
+}

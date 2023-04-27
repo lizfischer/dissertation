@@ -1,0 +1,18 @@
+{
+    "_id": 380,
+    "_header": "All that will leally live in land",
+    "Author(s)": "Saint Benedict of Nursia",
+    "Title(s)": "The Rule of St Benedict",
+    "Subjects": "monastic rules, in English verse",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Rule of St Benedict \u2014 2516 lines in couplets",
+    "_witnesses": {
+        "BLCottVesAXXV": {
+            "First Lines": "\nAll \u00feat wyll lely lyue in landAls sant Benet has\n                    ordand\u2026\n",
+            "Last Lines": "\n\u2026\u00feen endles lif sal be \u00feair medeVnto \u00feat lif\n                    our lord vs lede\n",
+            "Attributed Title": "\nRegula beati benedicti in anglicis verbis translatis (f.\n                    66)",
+            "Editions": "\n\nB\u00f6ddeker,  Karl. \n             \u201cVersifizirte Benediktinerregel im Northern Dialect.\u201d \n             Englische Studien\n         2 (1879): 60-93: 61-93.\nKock,  E. A.,\n                        ed.  \n             Three Middle-English Versions of the Rule of St. Benet and two\n                contemporary rituals for the ordination of nuns.\nEETS o.s.\n         120 (1902); repr. 1987: 48-118.\n\n",
+            "folio": "ff. 66-119v"
+        }
+    }
+}

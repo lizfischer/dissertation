@@ -1,0 +1,24 @@
+{
+    "_id": 5118,
+    "_header": "Tax has teened us all",
+    "Subjects": "Peasants\u2019 Revolt (1381); historical poems",
+    "Versification": "\u2014 eight-line, six-line \u2014 abababab",
+    "Macaronic": "Latin",
+    "_description": "On the Rebellion of Jack Straw (1381) \u2014 alternate English and Latin lines in 6- and 8-line stanzas",
+    "_witnesses": {
+        "BodDig196": {
+            "First Lines": "\nThe taxe hath tened vs alleProbat hoc mors tot\n                    validorum\u2026\n",
+            "Last Lines": "\n\u2026[ ]od as \u00feou may best[R]egem defende\n                    guberna\n\n",
+            "Note": "\n53 lines.",
+            "Editions": "\n\nRobbins,  Rossell Hope,\n                        ed.  \n             Historical Poems of the XIV and XV Centuries.\n         New York: Columbia UP, 1959: 55-7.\nDobson,  R. Barry.  The Peasant\u2019s Revolt of 1381. London: Macmillan, 1970: 358.\n\n",
+            "folio": "ff. 20v-21"
+        },
+        "CamCCC369": {
+            "First Lines": "\nTax has tenet vs alleprobat hoc more tot\n                    validorum\u2026\n",
+            "Last Lines": "\n\u2026Lorde as \u00feu may bestRegem defende\n                    guverna\n\n",
+            "Note": "\n48 lines, written two lines per line in the manuscript; on penultimate\n                    folio in volume.",
+            "Editions": "\n\nRobbins,  Rossell Hope,\n                        ed.  \n             Historical Poems of the XIV and XV Centuries.\n         New York: Columbia UP, 1959: 275.\nWright,  Thomas,\n                        ed.  \n             Political Poems and Songs relating to English History, composed during\n                the period From the Accession of Edward III to that of Richard III.\n             2 vols. \n             Rolls Series\n         14 (1859, 1861); repr. Kraus, 1965: 1.224.\nWright,  Thomas. \n             Essays on Subjects Connected with the Literature, Popular\n                Superstitions, and History of England in the Middle Ages.\n         London: J. R. Smith, 1846: 2.266.\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 2.283-4.\nKaiser,  Rolf,\n                        ed.  \n             Alt- und mittelenglische Anthologie.\n         Berlin-Charlottenburg: E. Sch\u00fctt, 1954: 373.\nKaiser,  Rolf,\n                        ed.  \n             Alt- und mittelenglische Anthologie.\n         Berlin, 1954; 3rd ed.; trans. as  Medieval English: a\n                Old English and Middle English Anthology Berlin West, 1958: 386.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 558.\n\n",
+            "folio": "Part II, f. 7v"
+        }
+    }
+}

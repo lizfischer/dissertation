@@ -1,0 +1,14 @@
+{
+    "_id": 2041,
+    "_header": "Holy Bede breaketh bond",
+    "Subjects": "sermons, verse in",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "An English tag in a Latin sermon, two lines",
+    "_witnesses": {
+        "OxfMagd27": {
+            "Transcription": "\nHoly Bede breket bond\u00feat ne mai \u00fee rith hond\n",
+            "Editions": "\nCoxe,  Henry Octavius. \n             Catalogus codicum mss. qui in collegiis aulisque\n                oxoniensibus\u2026.\n         Oxon: e Typographeo academico, 1852: 18.\n",
+            "folio": "f. 110v"
+        }
+    }
+}

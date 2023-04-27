@@ -1,0 +1,23 @@
+{
+    "_id": 1725,
+    "_header": "Hail luminary and benign lantern",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Ave regina celorum\u2019",
+    "Subjects": "Virgin Mary, hymns to; hymns, to Virgin Mary",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "Macaronic": "Latin",
+    "_description": "John Lydgate, \u2018Ave regina celorum\u2019 \u2014 six 8-line stanzas (ababbcbc) with this refrain",
+    "_witnesses": {
+        "CamTCC601": {
+            "First Lines": "\nhayle lumynary and benigne lanterneOf Ierusalem the holy ordres\n                    nyne\u2026\n",
+            "Last Lines": "\n\u2026Where more ioy ys then tung may tellAue regina\n                    celorum\n\n",
+            "Attributed Author": "\nLydgate (f. 233)",
+            "folio": "f. 233"
+        },
+        "BLHar2251": {
+            "First Lines": "\nHAile luminary and benyng lanterneOf Ierusalem the holy orders\n                    nyne\u2026\n",
+            "Last Lines": "\n\u2026To blisse above that we al may comeWhere more Ioy is than\n                    tunge may telleAve regina celorum\n",
+            "folio": "ff. 34v-35"
+        }
+    }
+}

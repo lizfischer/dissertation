@@ -1,0 +1,69 @@
+{
+    "_id": 65,
+    "_header": "A holy man stood on a day",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "exempla",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A Man in the Devil\u2019s leash, in the Northern Homily Cycle \u2014 in couplets",
+    "_witnesses": {
+        "BodSelSup52": {
+            "First Lines": "\nA holy man stoyd on adayIn a kyrk \u021derd hys beydes to\n                    say\u2026\n",
+            "Last Lines": "\n\u2026On hym \u00feat hath doyn hym wrang\u00feer apon he thynkes\n                    lang\n",
+            "folio": "ff. 196-197v"
+        },
+        "BodAsh42": {
+            "First Lines": "\nA hali man stode on a daieIn a kirk garthe his bedes to saie\n                    \u2026\n",
+            "Last Lines": "\n\u2026\u00feat ihesu criste \u00fee waie vs ledeTo heuene blisse to\n                    take oure mede\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 107-108v"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nAn holi man stode on o dayIn a kirk \u021derde his bedes to\n                    say\u2026\n",
+            "Last Lines": "\n\u2026\u00deat ihesu crist \u00feat way vs ledeTo heuen blisse to\n                    take oure mede\n",
+            "Attributed Title": "\nnarracio de diabolo ducente quem peccatorem in cathena (p.\n                    164)",
+            "folio": "pp. 164-166"
+        },
+        "CULDd11": {
+            "First Lines": "\nAn holy man stod on a dayin a kirke\u021derd his bedis to\n                    say\u2026\n",
+            "Last Lines": "\n\u2026\u00deat ihesu crist \u00feat wey vs ledeto heuene blisse to\n                    take oure mede\n",
+            "folio": "ff. 221-222"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nA haly man stode opon a dayIn kirke yerde his bedes to\n                    say\u2026\n",
+            "Last Lines": "\n\u2026That ihesu cryst vs \u00feat say ledeTo heuens blys to take\n                    our mede\n",
+            "folio": "ff. 87v-89"
+        },
+        "BLCottTibEVII": {
+            "folio": "f. 162va"
+        },
+        "BLHar2391": {
+            "First Lines": "\nA holy hermit stode on a dayIn a kyrk \u021derde hys bedis to sey\u2026\n",
+            "Last Lines": "\n\u2026\u00feat Ihesu crist \u00fee way vs ledeto heuen blys to tak owre mede\n",
+            "Note": "\nEnds \u201cAmen.\u201d",
+            "Attributed Title": "\nDominica in rammys palmarum (left margin, f. 184v), with \u201cA tale\u201d written above it",
+            "Editions": "\nRosenthal,  Constance Lowegrund. \n             The Vitae Patrum in Old and Middle English Literature.\n         Philadelphia, 1936; repr. Folcroft, PA: Folcroft Library,\n            1974: 161.\n",
+            "folio": "ff. 184v-185v"
+        },
+        "BLHar4196": {
+            "First Lines": "\n\u2026And als he in his prayers stodefful many men vnto kirk \u021dode\u2026\n",
+            "Last Lines": "\n\u2026\u00deeder he bring vs all and sum\u00deat for oure kind wal[d] \u00fee\u00fein cum\n",
+            "Note": "\nMissing lines 1-2 due to loss of folio.",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): I.144-148.\n",
+            "folio": "ff. 1ra-1va"
+        },
+        "Lam260": {
+            "folio": "f. 34ra"
+        },
+        "MinULZ822": {
+            "First Lines": "\nAne haly man stode on a dayin a kyrke hys bedys to\n                    say\u2026\n",
+            "Last Lines": "\n\u2026\u00feat Ihesu cryste he wyll vs ledeTyll heuene blysse to\n                    take oure mede\n",
+            "folio": "ff. 77v-78v"
+        },
+        "HunHM129": {
+            "First Lines": "\nA holy man stode on a dayIn a kyrk \u021darde his beddis to\n                    say\u2026\n",
+            "Last Lines": "\n\u2026\u00deat ihesu \u00feat way vs ledeTo heuyn us blys to mak\n                    oure mede\n",
+            "Attributed Title": "\nnarracio (f. 91)",
+            "folio": "ff. 91-91v"
+        }
+    }
+}

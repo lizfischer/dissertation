@@ -1,0 +1,19 @@
+{
+    "_id": 868,
+    "_header": "Blessed Mary Mother Virginal",
+    "Subjects": "Virgin Mary, prayers to; prayers, to Virgin Mary",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "Mary, Remember me at my last day \u2014 two quatrains",
+    "_witnesses": {
+        "BodDou1": {
+            "First Lines": "\nBlessed mary moder virginallIntegrate mayden sterre of the\n                    see\u2026\n",
+            "Last Lines": "\n\u2026Whan my soule the body parte froSocoure it frome myn enmyes\n                    rage\n",
+            "Attributed Title": "\nTo the glorious virgyn Mary. Quene of heuen and moder of mercy (f.\n                        76v)",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 73-4.\nDavies,  Reginald Thorne. \n             Medieval English Lyrics: a critical anthology.\n         London, 1963; Evanston, IL: Northwestern UP, 1964: 204.\nSaupe,  Karen,\n                        ed.  \n             Middle English Marian\n                    Lyrics.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1998: 54; 183-4.\n\n",
+            "folio": "ff. 77-77v"
+        },
+        "Thompson": {
+            "folio": "f. 12v"
+        }
+    }
+}

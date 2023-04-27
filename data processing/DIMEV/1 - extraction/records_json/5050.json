@@ -1,0 +1,15 @@
+{
+    "_id": 5050,
+    "_header": "Summa totalis",
+    "Subjects": "school lessons; liberal arts, seven",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Macaronic": "Latin",
+    "_description": "On the difficulties of logic \u2014 seven macaronic couplets",
+    "_witnesses": {
+        "CamCCC329": {
+            "Transcription": "\n\nSumma totalisNescio que qualisSed si sit tantamest que\n                        qualis quantamAssencio Ihesu negatyveI cannat\n                        contryveVtrum partycularNescio wel syngularvel\n                        indiffinitaScio non Ita\n\n",
+            "Editions": "\nJames,  Montague Rhodes. \n             A Descriptive Catalogue of the Manuscripts in the Library of Corpus\n                Christi College, Cambridge.\n         Cambridge: at the UP, 1912: 2.153.\n",
+            "folio": "f. 265"
+        }
+    }
+}

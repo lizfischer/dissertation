@@ -1,0 +1,27 @@
+{
+    "_id": 2668,
+    "_header": "In winter when the weather was cold",
+    "Note": "For a variant see 609.",
+    "Author(s)": "Thomas Brampton",
+    "Title(s)": "Seven Penitential Psalms",
+    "Subjects": "psalms, penitential",
+    "Versification": "\u2014 eight-line",
+    "_description": "Thomas Brampton\u2019s version of the Seven Penitential Psalms \u2014 8-line stanzas",
+    "_witnesses": {
+        "CamMagPep2030": {
+            "First Lines": "\n\u2026My synfull werkys bothe more and lesseNe remiscarys\n                    domine\u2026\n",
+            "Last Lines": "\n\u2026And devoutely cry and craveNe ne reminiscarus\n                    domine\n",
+            "Note": "\nBegins at line 7 of stanza 7; lacks stanzas 121-4.",
+            "folio": "ff. 1-17v"
+        },
+        "BLHar1704": {
+            "Note": "\nStanzas 62-116.",
+            "folio": "ff. 13-17"
+        },
+        "BLSl1853": {
+            "Note": "\nStanzas 62-116.",
+            "Editions": "\n\nBlack,  William Henry. \n             \u201cA Paraphrase on the Seven Penitential Psalms.\u201d \n             Percy Society\n         7. London: Richards, 1842. \nKreuzer,  James R. \n             \u201cThomas Brampton\u2019s Metrical Paraphrase of the Seven Penitential\n                Psalms: A Diplomatic Edition of the Version in MS Pepys 1584 and MS Cambridge\n                University Ff 2.38 with Variant Readings from All Known Manuscripts.\u201d \n             Traditio\n         7 (1949-51): 359-403: 359-403.\n\n",
+            "folio": "f. 3"
+        }
+    }
+}

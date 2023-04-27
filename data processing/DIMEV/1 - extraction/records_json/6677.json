@@ -1,0 +1,31 @@
+{
+    "_id": 6677,
+    "_header": "Why war and wrack in land",
+    "Note": "For a later redaction see 3248.",
+    "Title(s)": "Simonie",
+    "Subjects": "Edward II; evils of the times; historical poems; satires; simony",
+    "Versification": "\u2014 six-line \u2014 aabbcc",
+    "_description": "\u00dee simonie, on the Evil Times of the reign of Edward II \u2014 in 6-line stanzas including wheel and bob",
+    "_witnesses": {
+        "Bod48": {
+            "Note": "\n414 lines, including 114 lines not found in other witnesses; two leaves\n                    missing between ff. 325-326.",
+            "Editions": "\n\nRoss,  Thomas W. \n             \u201cOn the Evil Times of Edward II. A new version from Ms Bodley\n                48.\u201d \n             Anglia\n         75 (1957): 173-93: 177.\nRoss,  Thomas W. \n             A Satire of Edward II\u2019s England.\nColorado College Studies\n         8. Colorado Springs: Colorado College, 1966: 17 (comparative text).\nEmbree,  Dan,  and  Elizabeth Urquhart, eds.   The Simonie: A Parallel Text Edition ed. from MSS Advocates\n                19.2.1, Bodley 48, and Peterhouse College 104. Middle English Texts 24. Heidelberg: Carl Winter\n            Universit\u00e4tsverlag: Hedelberg, 1991. \n\n",
+            "folio": "ff. 325v-330v"
+        },
+        "CamPeter104": {
+            "First Lines": "\nWhy werre & wrake in londe & manslaugter ys y comeWhy\n                    honger & derthe on erthe \u00fee \u00feoure hath euer\n                    nome\u2026\n",
+            "Last Lines": "\n\u2026& hongre & pestilence in ech lond as \u021de mow ofte\n                    hereouer albut if we mande vs it wil wel wers be fal\n",
+            "Note": "\nExpanded version: 468 lines; ends imperfectly at line 392 of Edinburgh,  National Library of Scotland, Advocates\u2019 19.2.1 [Auchinleck MS].",
+            "Editions": "\n\nHardwick,  Charles. \n             A Poem on the times of Edward II\nPercy Society\n         28. London: Richard, 1849. \nBrandl,  Alois Leonhard. \n             Mittelenglische Sprach- und Literatureproben.\n         2nd ed. Berlin, 1917; repr. as  Middle English\n                Literature New York: Chelsea, 1949: 184-201.\nRoss,  Thomas W. \n             A Satire of Edward II\u2019s England.\nColorado College Studies\n         8. Colorado Springs: Colorado College, 1966: 17 (comparative text).\nEmbree,  Dan,  and  Elizabeth Urquhart, eds.   The Simonie: A Parallel Text Edition ed. from MSS Advocates\n                19.2.1, Bodley 48, and Peterhouse College 104. Middle English Texts 24. Heidelberg: Carl Winter\n            Universit\u00e4tsverlag: Hedelberg, 1991. \nEmbree,  Dan,  and  Elizabeth Urquhart, eds.   The Simonie: A Parallel Text Edition ed. from MSS Advocates\n                19.2.1, Bodley 48, and Peterhouse College 104. Middle English Texts 24. Heidelberg: Carl Winter\n            Universit\u00e4tsverlag: Hedelberg, 1991. \n\n",
+            "folio": "ff. 210rb-212ra"
+        },
+        "NLS1921": {
+            "First Lines": "\nWhii werre and wrake in londe and manslauht is icomeWhii hungger\n                    and der\u00fee on eor\u00fee \u00fee pore ha\u00fe vndernome\u2026\n",
+            "Last Lines": "\n\u2026But bi seint Iame of galice \u00feat many man ha\u00fe\n                    souht\u00dee pilory and \u00fee cucking stol be\u00fe imad fot\n                    noht\n",
+            "Note": "\n476 lines.",
+            "Facsimiles": "\nPearsall,  Derek,  and  I. C. Cunningham, eds.  \n             The Auchinleck Manuscript. National Library of Scotland\n                Advocates\u2019 MS. 19.2.1.\n         London: Scolar Press, 1977. \n",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             The Political Songs of England.\nCamden Society\n         o.s. 6 (1839): 323-45.\nMeyer,  Paul. \n             \u201cM\u00e9langes de po\u00e9sie anglo-normande.\u201d \n             Romania\n         4 (1875): 370-97: 387 (extract).\nBrandl,  Alois Leonhard. \n             Mittelenglische Sprach- und Literatureproben.\n         2nd ed. Berlin, 1917; repr. as  Middle English\n                Literature New York: Chelsea, 1949: 184-201.\nKaiser,  Rolf,\n                        ed.  \n             Alt- und mittelenglische Anthologie.\n         Berlin, 1954; 3rd ed.; trans. as  Medieval English: a\n                Old English and Middle English Anthology Berlin West, 1958: 359-62 (lines 1-174 only).\nRoss,  Thomas W. \n             A Satire of Edward II\u2019s England.\nColorado College Studies\n         8. Colorado Springs: Colorado College, 1966: 17 (comparative text).\n\n",
+            "folio": "ff. 328-334v"
+        }
+    }
+}

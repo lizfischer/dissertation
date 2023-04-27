@@ -1,0 +1,22 @@
+{
+    "_id": 2803,
+    "_header": "Jesu Christ full of pity",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Cecilia, saint, life of; saints\u2019 lives",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Cecilia, in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "Editions": "\nLovewell,  Bertha Ellen,\n                        ed.  \n             The Life of St. Cecilia from ms. Ashmole 43 and ms. Cotton Tiberius E.\n                VII.\nYale Studies in English\n         3. Boston, New York, 1898: 92-102.\n",
+            "folio": "f. 271rb"
+        },
+        "BLHar4196": {
+            "First Lines": "\nIHesus crist ful of peteto mankind es of mercy fre\u2026\n",
+            "Last Lines": "\n\u2026of ihesu crist oure sawiowireVnto wham be euer honore\n",
+            "Note": "\nEnds, \u201cAmen Amen Amen.\u201d",
+            "Attributed Title": "\nDe sancta Cecilia historia (rubric, f. 191ra)",
+            "Editions": "\n\nK\u00f6lbing,  Eugen. \n             \u201cZu Chaucer\u2019s Caecilien-Legende.\u201d \n             Englische Studien\n         1 (1877): 215-48: 235-40.\nHorstmann,  Carl. \n             Altenglische Legenden: Neue Folge.\n         Heilbronn: Henninger, 1881: 159-64.\n\n",
+            "folio": "ff. 191-193rb"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "_id": 783,
+    "_header": "Bear the well and humbly",
+    "Note": "For a short ME prose tract, \u2018according to Seynt Gregore\u2019, see Oxford, Bodleian Library Bodley 220 (SC 2103), f. 101.",
+    "Author(s)": "Bernard of Clairvaux (attrib.)",
+    "Title(s)": "XII Gradus Humilitatis secundum Bernardum",
+    "Subjects": "humility; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "XII Gradus Humilitatis secundum Bernardum \u2014 seven couplets",
+    "_witnesses": {
+        "NLS18721": {
+            "First Lines": "\nBer \u00fee wel an quemfulicheSpek seldom &\n                    skilfuliche\u2026\n",
+            "Last Lines": "\n\u2026\u021def \u00feu wilth ben meke sothlicheffulfil \u00feese\n                    \u00feinges bisiliche\n",
+            "Note": "\n\u2018Sit bona et placita tua conuersacio\u2019 to the right at\n                    the beginning.",
+            "Attributed Title": "\nDe Gradibus (f. 58)",
+            "Editions": "\nWilson,  Edward. \n             A Descriptive Index of the English Lyrics in John of Grimestone\u2019s\n                Preaching Book.\nMedium \u00c6vum Monographs\n         n.s. 2. Oxford, 1973: 17.\n",
+            "folio": "f/ 58"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "_id": 4032,
+    "_header": "O prudent folks taketh heed",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Bycorne and Chychevache\u2019",
+    "Subjects": "satires; dialogues; marriage",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "Bibliographic Ghosts": "London, British Library Addit. 29729: in London, British Library Harley 2251 instead.",
+    "_description": "John Lydgate, \u2018Bycorne and Chychevache\u2019 \u2014 nineteen stanzas rhyme royal with occasional prose to introduce speakers",
+    "_witnesses": {
+        "CamTCC599": {
+            "First Lines": "\n[O] prudent folkes taketh hedeAnd remembre in your lyuesHow\n                    thys story doth procedeOf the housbondes and her wyfes\u2026\n",
+            "Last Lines": "\n\u2026Of lyfe and deth betwyxt twaynelynked in a double\n                    chayne\n",
+            "Attributed Author": "\nCompyled by Iohn ludgate monke of berye at the request of a worthye\n                    syttesyne of london to be peynted in a perler (added by a later hand, f.\n                    159)",
+            "Attributed Title": "\nExpliciunt Balades of Bycorn and Chicheuache (f. 159)",
+            "Facsimiles": "\n\nFletcher,  Bradford Y. \n             \u201cIntroduction.\u201d \n             Manuscript Trinity R.3.19. A Facsimile.\n         Norman, OK: Pilgrim, 1987. \n\nDigital Facsimile of Trinity College Cambridge MS R.3.19.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.19. \n\n",
+            "folio": "ff. 157v-159"
+        },
+        "CamTCC600": {
+            "First Lines": "\nO prudent folkes take\u00fee heedAnd Remembre\u00fee in youre\n                    lyvesHowe \u00feis story do\u00fee procedeOf \u00fee housbandes and\n                    \u00feeyre wyves\u2026\n",
+            "Last Lines": "\n\u2026Of lyff and deeth bytwix tweyneLynkeld in a double\n                    cheyne\n",
+            "Attributed Title": "\n\u00dee fourome of desguysinges (added by later hand, top f. 10); Loo sirs\n                    \u00fee deuise of a peynted or desteynede clothe for an halle a parlour or a\n                    chaumbre deuysed by Iohan Lidegate at \u00fee request of a wor\u00fey citeseyn\n                    of London ffirst \u00feere shal stonde an ymage in poete wyse seying \u00feees\n                    thre balades (Shirley\u2019s hand, f. 10)",
+            "Editions": "\n\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 433-8.\nHammond,  Eleanor Prescott. \n             English Verse between Chaucer and Surrey.\n         Durham, NC: Duke UP, 1927: 115-18.\n\n",
+            "folio": "pp. 10-15"
+        },
+        "BLHar2251": {
+            "First Lines": "\nO prudent folkes takith heedeAnd remembrith in youre\n                    lyves\u2026\n",
+            "Last Lines": "\n\u2026Of lyf and deth betwixt tweyneLynkeld in a double\n                    cheyne\n",
+            "Editions": "\n\nDodsley,  Robert,\n                        ed.  \n             A Select Collection of Old Plays.\n         12 vols. London: H. Nichols, 1780, 1827: 12.335.\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             A Selection from the Minor Poems of Don John Lydgate.\nPercy Society\n         2. London: T. Richard, 1840: 129-35.\nMontaiglon,  Anatole de. \n             Recueil de po\u00e9sies francoises de Xve et XVIe si\u00e8cles morales,\n                fac\u00e9tieuses, historiques.\n         13 vols. Paris: Jannet, 1855-78: 11.280-3.\nMorley,  Henry,\n                        ed.  \n             Shorter English Poems.\n         London, NY: Cassell, Petter, Galpin, 1876: 54-6.\nNeilson,  William Allan,  and  Kenneth Grant Tremaye Webster.  \n             Chief British Poets of the 14th and 15th Centuries\n         London: Dent; and New York: Dutton, 1916: 220.\n\n",
+            "folio": "ff. 244v-246v"
+        }
+    }
+}

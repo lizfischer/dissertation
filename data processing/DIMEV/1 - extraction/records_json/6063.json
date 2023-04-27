@@ -1,0 +1,25 @@
+{
+    "_id": 6063,
+    "_header": "Treat every man as he is disposed",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Everything drawe\u00fee to his semblable\u2019",
+    "Subjects": "advice, moral",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, \u2018Everything drawe\u00fee to his semblable\u2019 \u2014 twenty-five 8-line stanzas (ababbcbc)",
+    "_witnesses": {
+        "BodAsh59": {
+            "First Lines": "\nTRete every man as he is disposedWith holy men entrete of\n                    holynesse\u00feambissyous man love\u00fee to be glosed\u00fee marcyal\n                    prynce to here of his prowesse\u2026\n",
+            "Last Lines": "\n\u2026Prerogatyff moste souereine of honourVn to his ymage list\n                    make \u00feee semblable\n",
+            "Note": "\n24 lines (stanza 12 is missing).",
+            "Attributed Title": "\nHere nowe folowe\u00fee a balade ryal made by Lydegate affter his resorte\n                    to his religyoun. with \u00fee refrayde / howe every thing drawe\u00fee to his\n                    semblable (f. 18)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 801-8.\n",
+            "folio": "ff. 18-21"
+        },
+        "BLHar2251": {
+            "First Lines": "\nTrete euery man like as he is disposedwith holy men trete of\n                    parfitnesse\u2026\n",
+            "Last Lines": "\n\u2026And by perogatives most souerayne of honoureTo his ymage list\n                    make the semblable\n",
+            "Note": "\n24 stanzas.",
+            "folio": "ff. 19v-22"
+        }
+    }
+}

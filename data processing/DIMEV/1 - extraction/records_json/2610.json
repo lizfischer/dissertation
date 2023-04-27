@@ -1,0 +1,33 @@
+{
+    "_id": 2610,
+    "_header": "In the month of May when the grass groweth green",
+    "Title(s)": "On the Death of the Duke of Suffolk (1450)",
+    "Subjects": "de la Pole, William, duke of Suffolk; historical poems; satires; parodies",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "Macaronic": "Latin",
+    "_description": "On the Death of the Duke of Suffolk (1450) \u2014 macaronic lines in 8-line stanzas (ababbcbc), with refrain, \u2018For Iac Napes soule, Placebo and Dirige\u2019",
+    "_witnesses": {
+        "BLCottVesBXVI": {
+            "First Lines": "\nIn the moneth of Maii when grasse growe\u00fe greneFlagrant in her\n                    floures with swete sauour\u2026\n",
+            "Last Lines": "\n\u2026And \u00feat all Englond ioyfull may synge\u00fee\n                    commendacion with Placebo & Dirige\n",
+            "Note": "\n18 Quatrains, abab.",
+            "Editions": "\n\nRitson,  Joseph,\n                        ed.  \n             Ancient Songs and Ballads from the Reign of King Henry the Second to\n                the Revolution.\n         2 vols. London, 1829; re-ed. \n                William Carew\n                Hazlitt\n             London, 1877: 1.117-20.\nTurner,  Sharon. \n             History of England from the Norman Conquest to the Accession of Edward\n                the First\u2026from the Accession of Edward the First to the Death of Henry\n                V\u2026comprising the Reigns of Henry VI, Edward IV, Edward V, Richard III and\n                Henry VII.\n         3 vols. London: Longman, Hurst, Rees, Orme and Brown, 1814, 1815, 1823;\n            many editions: 3.169-70.\nMadden,  Frederick. \n             \u201cPolitical Poems of the Reigns of Henry VI and Edwrd IV.\u201d \n             Archaeologia\n         29 (1842): 318-47: 320-4.\nWright,  Thomas,\n                        ed.  \n             Political Poems and Songs relating to English History, composed during\n                the period From the Accession of Edward III to that of Richard III.\n             2 vols. \n             Rolls Series\n         14 (1859, 1861); repr. Kraus, 1965: 2.232-4.\nCollier,  John Payne,\n                        ed.  \n             Trevelyan Papers prior to A.D. 1558.\nCamden Society\n         o.s. 67 (1857). \nRobbins,  Rossell Hope,\n                        ed.  \n             Historical Poems of the XIV and XV Centuries.\n         New York: Columbia UP, 1959: 187-9.\n\n",
+            "folio": "ff. 1v-2"
+        },
+        "Lam306": {
+            "First Lines": "\nIn the moneth of may whan gres growes grenefragrans in there\n                    floures with a swet savor\u2026\n",
+            "Last Lines": "\n\u2026for all the fals traytors \u00feat engelond hath soldAnd for\n                    Jake napis sowlle placebo and dirige finis Amen\n",
+            "Note": "\n116 lines.",
+            "Attributed Title": "\nhere folowythe a dyrge made by the comons of Kent / in the tyme of ther\n                    Rysynge when Jake Cade was theyr cappitayn",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             Political, Religious and Love Poems, from Lambeth MS. 306 and other\n                sources.\nEETS\n         o.s. 15 (1866); repr. 1962; rev. ed. 1903: 6.\nGairdner,  James,\n                        ed.  \n             Three Fifteenth-Century Chronicles.\nCamden Society\n         n.s. 28 (1880): 99.\n\n",
+            "folio": "ff. 51-52v"
+        },
+        "TCD516": {
+            "First Lines": "\nIn the monyth of may qwan gresse waxyt greneffragrans in there\n                    flowres with a swete sauour\u2026\n",
+            "Last Lines": "\n\u2026Amen all Ingelond doth Cryeffor all these tratourrys sowlys\n                        placebo & dirigeffor iake napys sowle placebo &\n                        dirige\n\n",
+            "Note": "\n66 lines.",
+            "Attributed Title": "\nPlacebo & dirige (f. 116)",
+            "folio": "ff. 116-116v"
+        }
+    }
+}

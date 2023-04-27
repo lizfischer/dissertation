@@ -1,0 +1,23 @@
+{
+    "_id": 4885,
+    "_header": "Sith Gabriel gan greet",
+    "Title(s)": "Sir Pers of Birmingham",
+    "Subjects": "laments; Peter of Birmingham, lord Tethmoy, death of; Ireland, English settlement of",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "Sir Pers of Birmingham \u2014 in 6-line stanzas (aabccb)",
+    "_witnesses": {
+        "BLHar913": {
+            "First Lines": "\nSith Gabriel gan gretevre ledi mari swete\u2026\n",
+            "Last Lines": "\n\u2026And god pardon ibou\u021dttwo hundred daies and\n                    mo\n",
+            "Note": "\n132 lines; nineteenth-century transcript, London,  British Library Addit. 20091, ff.\n                        50v-57v.",
+            "folio": "ff. 50-51v"
+        },
+        "BLLan418": {
+            "First Lines": "\nSith Gabriell gan greteUre ladi mari swete\u2026\n",
+            "Last Lines": "\n\u2026And god pardon ibroghtTwo hundred daies & mo\n",
+            "Note": "\nnote: \u2018Out of a smale olde book in parchment called the book of\n                    Rosse or of Waterford\u2019 (f. 88). This copy was made in 1608. Folio number\n                    reflects the most recent foliation.",
+            "Editions": "\n\nRitson,  Joseph,\n                        ed.  \n             Ancient Songs and Ballads from the Reign of King Henry the Second to\n                the Revolution.\n         2 vols. London, 1829; re-ed. \n                William Carew\n                Hazlitt\n             London, 1877: 1.70-5.\nHeuser,  Wilhelm. \n             Die Kildare-Gedichte\u2026\nBonner Beitr\u00e4ge zur Anglistik\n         14. Bonn: P. Hanstein, 1904: 161-4.\n\n",
+            "folio": "f. 88"
+        }
+    }
+}

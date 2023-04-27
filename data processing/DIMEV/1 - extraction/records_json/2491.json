@@ -1,0 +1,85 @@
+{
+    "_id": 2491,
+    "_header": "In England by old days / Were kings seven as gest us shows",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Oswald, king; exempla",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "King Oswald and the Hermit, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nIN Engelonde by olde dawesWere kynges vij as Iestes\n                    schawes\u2026\n",
+            "Last Lines": "\n\u2026Vre lord crist \u00feider vs wis\u00deer Ioye wi\u00fe outen\n                    ende is. Amen.\n",
+            "Attributed Title": "\nOf seynt Osewold \u00fee kyng (f. 202rc)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDie Evangelien-Geschichten der Homiliensammlung des Ms. Vernon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         57 (1877): 241-316: 289-90.\n",
+            "folio": "ff. 202rc-202vc"
+        },
+        "BodAsh42": {
+            "First Lines": "\nIN yngelande be alde dawesWas seuene kinges alsgestis vs\n                    schawes\u2026\n",
+            "Last Lines": "\n\u2026And giue vs grace oure life to lede\u00feat we \u00feat ioye\n                    take to oure mede . Amen .\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 155-158v"
+        },
+        "BodEngPoetc4": {
+            "First Lines": "\n[ ]g als gest sayes[ ]gh in north humbland\u2026\n",
+            "Last Lines": "\n\u2026And of hym selfe litill to m[ ]And mykyll of god \u00feat has\n                    hy[ ]\n",
+            "Note": "\n6 small fragments from two folios, all damaged and partly\n                    unreadable.",
+            "folio": "ff. 3-3v"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nBy olde dawes als I vnderstandeWore seuen kynges in\n                    englande\u2026\n",
+            "Last Lines": "\n\u2026Nowe god graunte vs \u00feis mekenesAnd bryng vs til his\n                    blisse endles\n",
+            "Attributed Title": "\nDe sancto Oswaldo et quodam heremita (p. 255)",
+            "folio": "pp. 255-261"
+        },
+        "CULDd11": {
+            "First Lines": "\nIN Engelond be olde dawiswere kingis vij as gestis\n                    schawis\u2026\n",
+            "Last Lines": "\n\u2026Oure lord crist thedir vs wis\u00deer ioye witouten ende is\n                    Amen\n",
+            "folio": "ff. 160-162"
+        },
+        "CULGg531": {
+            "First Lines": "\nIn Ingelande by ald dawesWere geuen kynges als iestes\n                    schawes\u2026\n",
+            "Last Lines": "\n\u2026And our lyfe so in meknes lede\u00deat we \u00feat ioy haf\n                    tyll our mede Amen\n",
+            "folio": "ff. 108v-111"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nN Engelond bi olde dawesWere kynges seuene as Ieste\n                    schawes\u2026\n",
+            "Last Lines": "\n\u2026Vre lord crist \u00feidur vs wis\u00deer Ioye withouten ende\n                    is. Amen\n",
+            "Note": "\nInitial \u2018I\u2019 not supplied.",
+            "Attributed Title": "\nDe hermita & Rege Oswaldo narracio (f. 7rb)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 7rb-7vb"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nIn ynglande be alde daiesWas seuen kynges als gestis vs\n                    schewes\u2026\n",
+            "Last Lines": "\nAnd gyue vs grace our life swa ledeThat we \u00feat ioye take to\n                    oure mede. Amen\n",
+            "folio": "ff. 116v-120"
+        },
+        "BLCottTibEVII": {
+            "folio": "f. 217ra"
+        },
+        "BLHar2391": {
+            "First Lines": "\nIn Ingland be ald dawsAls gestes vs schawis\u2026\n",
+            "Last Lines": "\n\u2026Owr lord vs \u021dedir bryngTo Ioy \u00feat es with owtyn endyng\n",
+            "Note": "\nEnds \u201cAmen.\u201d",
+            "Attributed Title": "\n[\u00a0\u00a0\u00a0\u00a0]cristi (left margin, partially lost due to damage to leaf, f. 198) with \u201cA tale\u201d written above",
+            "folio": "ff. 198-201"
+        },
+        "BLHar4196": {
+            "First Lines": "\nIn igland in elder dawseWar seuyn kinges als clerkes knaws\u2026\n",
+            "Last Lines": "\n\u2026Bot vnto god so to tak hede\u00feat we in heuyn may haue oure mede\n",
+            "Attributed Title": "\nDe vita sancti oswaldi regis (rubric, f. 109rb)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): III.57-64.\n",
+            "folio": "ff. 109rb-110va"
+        },
+        "Lam260": {
+            "folio": "f. 46rb"
+        },
+        "HunHM129": {
+            "First Lines": "\nIn ynglande be hale dawesWas kynges vii als gest vs\n                    schewes\u2026\n",
+            "Last Lines": "\n\u2026and gyfe vs grace swa oure loyfe to lede\u00feat we may\n                    \u00feare take oure mede\n",
+            "Attributed Title": "\nOf \u00fee lyfe of sant oswald (added by later hand, right margin, f.\n                    119)",
+            "folio": "ff. 119-122"
+        }
+    }
+}

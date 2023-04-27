@@ -1,0 +1,65 @@
+{
+    "_id": 2060,
+    "_header": "Honoured be this holy feast day",
+    "Author(s)": "Thomas Hoccleve",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Thomas Hoccleve, Angels\u2019 Song on Epiphany, in the English translation of the P\u00e8lerinage de l\u2019\u00e2me \u2014 four stanzas rhyme royal",
+    "_witnesses": {
+        "Bod770": {
+            "First Lines": "\nWorschepid be \u00feis holy fest day In honour of \u00fee suet well\n                    of lyf\u2026\n",
+            "Last Lines": "\n\u2026In honour of this gret solempnyte Worschippid be the holy\n                    trynyte\n",
+            "Attributed Title": "\nSong of \u00fee assumpcion day of our lady (f. 94)",
+            "folio": "ff. 94rb-94va"
+        },
+        "OxfCCC237": {
+            "First Lines": "\nWorschipyd be \u00feis holy fest dayIn honowre of \u00fee swette\n                    well of lyfe\u2026\n",
+            "Last Lines": "\n\u2026In honowre of \u00feis highe solempnyteworschippid be \u00fee\n                    holy trenyte\n",
+            "folio": "ff. 128-128v"
+        },
+        "OxfUni181": {
+            "folio": "f. 143"
+        },
+        "CamGon124": {
+            "First Lines": "\nhonowred be \u00feis holy feste dayIn worschip of \u00fee swete\n                    welle of lyf\u2026\n",
+            "Last Lines": "\n\u2026In honour of \u00feis hye solempnytehonowred be \u00fee holy\n                    trynyte\n",
+            "Attributed Title": "\nthe aungeles song in \u00fee feste of \u00fee Epyphanie (p. 238)",
+            "folio": "p. 238"
+        },
+        "CULKk17": {
+            "First Lines": "\nHonourid be \u00feis holy feste dayIn worchep of \u00fee swote\n                    welle of lyff\u2026\n",
+            "Last Lines": "\n\u2026In honour of \u00feis hye solempnyteHonourid be \u00fee holy\n                    trinyte\n",
+            "Attributed Title": "\nher endith \u00fee drem of \u00fee pilgrimage of \u00fee soule (f.\n                        124v)",
+            "folio": "ff. 119-119v"
+        },
+        "BLAdd34193": {
+            "First Lines": "\nWorschepede be \u00feis holy feste dayIn honoure of \u00fee swete\n                    welle of life\u2026\n",
+            "Last Lines": "\n\u2026In honoure of \u00feis hy solempnteworschepede be \u00fee\n                    trinite\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 93"
+        },
+        "BLAdd37049": {
+            "Editions": "\nDoty,  Brant Lee,\n                        ed.  \n             \u201cAn Edition of British Museum MS Additional 37049: a Religious\n                Miscellany.\u201d \n         Diss. Michigan State, 1969: 421-2.\n",
+            "folio": "f. 76"
+        },
+        "BLEge615": {
+            "First Lines": "\nHOnured be this blissed holy feste dayIn worshippe of the sweet welle of lisse\u2026\n",
+            "Last Lines": "\n\u2026In honure of this solenniteHonured be the blissed Trinite\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             \u201cHoccleve\u2019s Works: The Regement of Princes and fourteen minor\n                poems.\u201d \n             EETS\n         e.s. 72 (1897); repr. 1988: xlvii-xlviii.\n",
+            "folio": "ff. 99-99v"
+        },
+        "HatCP270": {
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             \u201cHoccleve\u2019s Works: The Regement of Princes and fourteen minor\n                poems.\u201d \n             EETS\n         e.s. 72 (1897); repr. 1988: xlvii-xlviii.\n",
+            "folio": ""
+        },
+        "NYPLSpenc19": {
+            "First Lines": "\nHonoured be this holy feste dayIn worshipe of the swete welle of\n                    lyf\u2026\n",
+            "Last Lines": "\n\u2026In honour of this solempniteHonoured be the holy\n                    trynite\n",
+            "Attributed Title": "\nThe aungeles songe in the feste of the Epyphanye of oure lord (f.\n                    127)",
+            "folio": "ff. 127-127v"
+        },
+        "MelSLV096G94": {
+            "Note": "\nWith additional stanzas",
+            "folio": "f. 204v"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "_id": 1985,
+    "_header": "Here is the root of philosophy",
+    "Title(s)": "\u2018De lapide Philosophorum\u2019",
+    "Subjects": "alchemy; introductions to prose texts",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Four couplets prefixed to a Latin text, ff. 58-64v, \u2018De lapide Philosophorum\u2019 [Singer (1928)\nXSinger, Dorothea Waley. Catalogue of Latin and Vernacular Alchemical Manuscripts. 3 vols. Brussels: Lamertin, 1928-31, 855]",
+    "_witnesses": {
+        "BLHar2407": {
+            "First Lines": "\nHer ys the rote of philosophiWyth hys stalke leuis & progeni\u2026\n",
+            "Last Lines": "\n\u2026thenke thou god of thys syghtwyth devote prayeris day & nyght\n",
+            "Note": "\nWritten entirely in rubric.",
+            "folio": "f. 54v"
+        }
+    }
+}

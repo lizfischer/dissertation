@@ -1,0 +1,17 @@
+{
+    "_id": 5728,
+    "_header": "This lion the young in holy writ I-cleped is",
+    "Title(s)": "South English Legendary",
+    "Subjects": "Leo II, pope; saints\u2019 lives",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of Pope Leo II, in one MS of the South English Legendary",
+    "_witnesses": {
+        "Bod779": {
+            "First Lines": "\n\u00deis lyon \u00fee \u021donge In holywrit I cleped isIn rome he\n                    was pope ic ot to so\u00fee I wis\u2026\n",
+            "Last Lines": "\n\u2026Ihesu crist in heuene vs graunte \u00feedir to goto \u00fee\n                    blis of paradis \u00feat lasti\u00fe euer mo\n",
+            "Attributed Title": "\nSeint lion [\u2018\u00fee pope\u2019 (blacked out)] \u00fee\n                    \u021donge",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDes Ms. Bodl. 779 j\u00fcngere Zusatzlegenden zur s\u00fcdlichen\n                Legendensammlung.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         82 (1889): 307-422: 381-2.\n",
+            "folio": "ff. 217-217v"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "_id": 1766,
+    "_header": "Hard gates I have go",
+    "Subjects": "Christ, complaint to man",
+    "Versification": "\u2014 monorhyme \u2014 aaaa",
+    "_description": "Christ\u2019s lament \u2014 four monorhyming lines",
+    "_witnesses": {
+        "NLS18721": {
+            "Transcription": "\nHarde gates I haue goIt is isene on eueri toTo maken my frend of\n                    my foLoue me man for al my wo\n",
+            "Note": "\nJohn Grimestone\u2019s sermon notebook.",
+            "Attributed Title": "\nDe Passione Christi (f. 117)",
+            "Editions": "\nWilson,  Edward. \n             A Descriptive Index of the English Lyrics in John of Grimestone\u2019s\n                Preaching Book.\nMedium \u00c6vum Monographs\n         n.s. 2. Oxford, 1973: 34.\n",
+            "folio": "f. 119"
+        },
+        "Lincoln44": {
+            "Transcription": "\nHard gatys haue I go\n",
+            "folio": "f. 335v"
+        }
+    }
+}

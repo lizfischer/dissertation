@@ -1,0 +1,20 @@
+{
+    "_id": 2652,
+    "_header": "In time of Decius Caesar",
+    "Title(s)": "Northern Homily Cycle; \u2018De sancto Sixto Episcopo magistro Laurencii\u2019",
+    "Subjects": "exempla",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018De sancto Sixto Episcopo magistro Laurencii\u2019, in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 252rb"
+        },
+        "BLHar4196": {
+            "First Lines": "\nIN tyme of decius cesare\u00feat used fals goddes and fendes lare\u2026\n",
+            "Last Lines": "\n\u2026\u00feat mede god grante vs man and chyldthurght praier of his moder mild\n",
+            "Attributed Title": "\nDe sancto Sixto Episcopo magistro Laurencii (rubric, f. 167va)",
+            "Editions": "\nHorstmann,  Carl. \n             Altenglische Legenden: Neue Folge.\n         Heilbronn: Henninger, 1881: 105-12.\n",
+            "folio": "ff. 167va-170va"
+        }
+    }
+}

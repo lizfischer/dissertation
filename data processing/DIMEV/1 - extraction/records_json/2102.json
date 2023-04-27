@@ -1,0 +1,24 @@
+{
+    "_id": 2102,
+    "_header": "I am a worm and no man",
+    "Subjects": "sermons, verse in; scripture texts, Engl. trans. of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A couplet in a Latin sermon, translating Psalm 22:6",
+    "_witnesses": {
+        "OxfBal149": {
+            "Transcription": "\nY am a worme & no manout castynge of alle men\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 36v"
+        },
+        "CULKk424": {
+            "Transcription": "\ny am a worm & no manowt castyng of al men\n",
+            "Note": "\nIn a sermon for dominica in passione vel in die parasceue on\n                        Amore langueo(possibly by John Bromyard).",
+            "folio": "f. 148rv"
+        },
+        "TCD277": {
+            "Transcription": "\nI am a worm & noght a manschame & owte castyng of\n                    men\n",
+            "Note": "\nIn a sermo de passione Cristi in die parasceues facienda (p.\n                    185).",
+            "folio": "9. 194"
+        }
+    }
+}

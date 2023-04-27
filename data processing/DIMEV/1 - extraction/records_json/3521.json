@@ -1,0 +1,16 @@
+{
+    "_id": 3521,
+    "_header": "Mirror of ghostly shewing",
+    "Note": "For another acrostic on M-O-R-S, see 5245.",
+    "Subjects": "sermons, verse in; death; translations; acrostics",
+    "Versification": "\u2014 four-line \u2014 aaaa",
+    "_description": "A unique 4-line tag in a copy of the Fasciculus morum; the only English in the whole Latin text, rendering in English the Latin moralization of M-O-R-S",
+    "_witnesses": {
+        "CULDd1015": {
+            "Transcription": "\nM \u2014 Merowre of gostly schewyngO \u2014 Orologe \u00feat wyl\n                    wake fro slepyngys dethR \u2014 Robbowre of al erthely\n                    \u00feyngS \u2014 Somenour to \u00fee heye dom comyng\n",
+            "Note": "\nAdded to lower margin by original scribe.",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 152.\n",
+            "folio": "f. 23"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "_id": 6141,
+    "_header": "Vices be wild and virtues lame",
+    "Subjects": "abuses of the age; carols, of complaint",
+    "Versification": "\u2014 four-line \u2014 aaab",
+    "_description": "A song on the Abuses of the Age \u2014 six quatrains (aaab) plus burden (bb): \u2018God \u00feat sittith in trinite / Amend this world yf thy will be\u2019",
+    "_witnesses": {
+        "BodEngPoete1": {
+            "First Lines": "\nVycyce be wyld & vertues lame& now be vicyce turned to\n                    game\u2026\n",
+            "Last Lines": "\n\u2026To send love & peace among vs allA mong all men in\n                    christente\n",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             Songs and Carols from a manuscript\u2026of the Fifteenth\n                Century.\nPercy Society\n         23. London: Richards, 1847: 96-7.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 257-8; 1977, 228.\n\n",
+            "folio": "ff. 60v-61"
+        },
+        "OxfBal354": {
+            "First Lines": "\nVices be wyld & vertues lame& vice is torned in to\n                    game\u2026\n",
+            "Last Lines": "\n\u2026To send love & grace a monge vs allAnd amonge all men in\n                    CristynteExplicit\n",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 252-3.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 27-8.\n\n",
+            "folio": "p. 4751"
+        }
+    }
+}

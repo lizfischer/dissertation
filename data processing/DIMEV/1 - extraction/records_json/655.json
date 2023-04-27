@@ -1,0 +1,24 @@
+{
+    "_id": 655,
+    "_header": "As Jesu wide about went / He saw a man sit present",
+    "Title(s)": "Northern Homily Cycle ; In festo S. Matthei",
+    "Subjects": "sermon texts, Gospel; Matthew, saint, feast of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel In festo S. Matthei, in \u2018expanded\u2019 Northern Homily Cycle \u2014 in couplets",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nAS Ihesu wide a boute wentHe sai a Mon sitte\n                    present\u2026\n",
+            "Last Lines": "\n\u2026\u00deorwh goode dedes also doynge\u00deat grace vs graunte\n                    heuene kynge Amen\n",
+            "Attributed Title": "\nVidet Ihesu hominem sedentem in (f. 225rb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cProprium Sanctorum, Zusatz-Homilien des Ms. Vernon fol. CCXV zur\n                n\u00f6rdlichen Sammlung der Domicalia evangelia.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         81 (1888): 83-114, 300-21: 309.\n",
+            "folio": "ff. 225rb-225va"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nAS Ihesus wide aboute wentHe sai a Mon sitte\n                    present\u2026\n",
+            "Last Lines": "\n\u2026\u00deorwh goode dedus also doinge\u00deat grace vs graunte\n                    heuene kynge Amen.\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 28ra-28rc"
+        }
+    }
+}

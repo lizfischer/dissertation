@@ -1,0 +1,15 @@
+{
+    "_id": 3135,
+    "_header": "Little is lithe by Lytham",
+    "Subjects": "lyrics",
+    "Versification": "\u2014 Monorhymed quatrain with internal rhyme (or eight lines of alternating rhyme) \u2014 abab, alliteration",
+    "_description": "One quatrain (or eight lines?) of rhyming, alliterative verse about places in the northwest of England.",
+    "_witnesses": {
+        "Lam499": {
+            "Transcription": "\nLittel is lithe bi lythumwen stormes arn stronge upon\n                    strikewarthwither ar watires y wythumwen stremes ar stirne with stith\n                    statbernes \u00feat born wer i bethumther men may bringe to brod\n                    bath\u00fee sydes arn sore by sythym\u00feat muche haues mowen imong\n                    math\n",
+            "Note": "\nAdded to the margin of a Latin manuscript. Written as\n                    prose.",
+            "Editions": "\nPickering,   Oliver S. \n             \u201cNewly Discovered Secular Lyrics from Later Thirteenth-Century\n                Cheshire.\u201d \n             Review of English Studies\n         n.s. 43 (1992): 157-80: 168.\n",
+            "folio": "f. 68v"
+        }
+    }
+}

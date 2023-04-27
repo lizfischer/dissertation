@@ -1,0 +1,28 @@
+{
+    "_id": 3400,
+    "_header": "Many a man blames his wife pardie",
+    "Subjects": "carols, of marriage; marriage",
+    "Versification": "\u2014 four-line \u2014 aaab",
+    "_description": "Women will have their word \u2014 fourteen quatrains (aaab) including refrain, \u2018In villa\u2019 plus burden (b): \u2018In villa In villa quid vidistis in villa\u2019",
+    "_witnesses": {
+        "BodEngPoete1": {
+            "First Lines": "\nMany a man blame his wif parde\u00feat he is mor to blame \u00fean\n                    she\u2026\n",
+            "Last Lines": "\n\u2026Hys her shal grow \u00feorow his hoodIn\n                    villa\n\n",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             Songs and Carols from a manuscript\u2026of the Fifteenth\n                Century.\nPercy Society\n         23. London: Richards, 1847: 86-7.\nMasters,  James Edwin,\n                        ed.  \n             Rymes of the Minstrels.\n         Shaftesbury, Dorset: High House Press, 1927; anonymous: 24-6.\n\n",
+            "folio": "ff. 54v-55"
+        },
+        "OxfBal354": {
+            "First Lines": "\nMany a man blamys his wyffe pardeYet she ys more to blame than\n                    heTrow ye \u00feat any suche ther beIn villa\u2026\n",
+            "Last Lines": "\n\u2026Or ellys by god & by the rodeBe he never so wyld &\n                    wodeHys here shall grow thorow his hodeIn\n                    villaExplicit\n",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 269-70.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 109.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 275-6; 1977, 243-4.\n\n",
+            "folio": "p. 503"
+        },
+        "BLAdd22718": {
+            "First Lines": "\nGod wote grete cause these wyffys haue a mongBut dowte ye not there\n                    herts be strong\u2026\n",
+            "Last Lines": "\n\u2026Be he neuer so wylde or wodeSche will make hit here growe\n                    thorow hys hede\n",
+            "Note": "\nStanzas 10-14.",
+            "folio": "f. 86v"
+        }
+    }
+}

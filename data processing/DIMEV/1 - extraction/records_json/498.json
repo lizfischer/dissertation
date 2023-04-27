@@ -1,0 +1,27 @@
+{
+    "_id": 498,
+    "_header": "An priest was on leoden",
+    "Author(s)": "La\u021damon",
+    "Title(s)": "Brut",
+    "Subjects": "chronicles",
+    "Versification": "\u2014 alliteration",
+    "_description": "La\u021damon\u2019s Brut \u2014 in rhyming alliterative lines",
+    "_witnesses": {
+        "BLCottCalAIX": {
+            "First Lines": "\nA preost was on leoden la\u021damon was ihotenHe wes leouena\u00f0es sone li\u00f0e him beo drihten\u2026\n",
+            "Last Lines": "\n\u2026\u00dea \u021det ne com \u00feas ilke dai beo heonne uor\u00f0 alse hi maiI wur\u00f0e \u00feet iwur\u00f0e I wur\u00f0e Godes willeAmen\n",
+            "Note": "\n32241 lines. Written as prose.",
+            "Attributed Title": "\nIncipit hystoria brutonium (f. 3)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Caligula MS A IX.\n         http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Caligula_A_IX. \n",
+            "Editions": "\n\nMadden,  Frederick,\n                        ed.  \n             La\u0292amon\u2019s Brut, or Chronicle of Britain\u2026.\n         3 vols. London: Society of Antiquaries, 1847. \nZupitza,  Julius. \n             Alt- und mittelenglisches Uebungsbuch mit einem\n                W\u00f6rterbuch.\n         8th ed. Vienna and Leipzig: Braum\u00fcller, 1907; 12th ed., ed. Albert\n            Eichler. Wein: Braum\u00fcller, 1922:  101-7 (excerpts).\nHall,  Joseph. \n             Layamon\u2019s Brut.\n         Oxford: Clarendon, 1924; trans. Hall: (selections).\nBrook,  George Leslie,  and  Roy Francis Leslie, eds.  \n             La\u0292amon\u2019s Brut.\n             2 vols. \n             EETS\n         o.s. 250, 277 (1963, 1978). \n\n",
+            "folio": "ff. 3ra-194vb"
+        },
+        "BLCottOthCXIII": {
+            "First Lines": "\n\u2026Eschamus \u00fee kene \u00feat was in kinges studefour and \u00feritti winter he held \u00feat londand \u00feat folke mid blisse \u00fee \u00feoru his liues hende\u2026\n",
+            "Last Lines": "\n\u2026[illegible]\n",
+            "Note": "\n23590 lines; written as prose; begins imperfectly: fire damage, so first complete line is line 21 on 1ra, transcribed as first above; last several leaves illegible.",
+            "Editions": "\n\nMadden,  Frederick,\n                        ed.  \n             La\u0292amon\u2019s Brut, or Chronicle of Britain\u2026.\n         3 vols. London: Society of Antiquaries, 1847. \nZupitza,  Julius. \n             Alt- und mittelenglisches Uebungsbuch mit einem\n                W\u00f6rterbuch.\n         8th ed. Vienna and Leipzig: Braum\u00fcller, 1907; 12th ed., ed. Albert\n            Eichler. Wein: Braum\u00fcller, 1922: 101-7 (excerpts).\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: (excerpt).\n\n",
+            "folio": "ff. 1ra-146vb"
+        }
+    }
+}

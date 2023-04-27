@@ -1,0 +1,19 @@
+{
+    "_id": 205,
+    "_header": "Above all thing",
+    "Note": "Cf. 220; Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 50.",
+    "Subjects": "Henry VIII, birth of; songs",
+    "Versification": "\u2014 six-line",
+    "_description": "A song perhaps celebrating the birth of Prince Henry in A.D. 1511 \u2014 one 6-line tail-rhyme stanza",
+    "_witnesses": {
+        "BLAdd31922": {
+            "First Lines": "\nA boffe all thyngenow lete vs syngeboth day and nyght\u2026\n",
+            "Last Lines": "\n\u2026A dew mornynga dew mornynga dew now let us synga bud is spryngyngeoff the red rose and the whyght\n",
+            "Note": "\nAfter last line, \u201cA boffe.\u201d",
+            "Attributed Author": "\nffaredynge (f. 24v)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Additional MS 31922.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=2&ref=Add_MS_31922. \n",
+            "Editions": "\n\nChappell,  William. \n             \u201cSome Account of an Unpublished Collection of Songs and Ballads by King\n                Henry VIII and his Contemporaries.\u201d \n             Archaeologia\n         41 (1867): 371-86: 382.\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts, Besonders aus der Zeit Heinrichs\n                VIII.\u201d \n             Anglia\n         12 (1889): 225-72, 585-97: 232.\nStevens,  John,\n                        ed.  \n             Music and Poetry in the Early Tudor Court.\n         London: Methuen, 1961: 391.\nStevens,  John,\n                        ed.  \n             Music at the Court of Henry VIII.\nMusica Britannica\n         18. London: Stainer and Bell, 1962: 18.\n\n",
+            "folio": "f. 24v"
+        }
+    }
+}

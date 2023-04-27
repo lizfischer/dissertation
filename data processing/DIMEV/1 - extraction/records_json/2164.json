@@ -1,0 +1,62 @@
+{
+    "_id": 2164,
+    "_header": "I grace dieu queen and heavenly princess",
+    "Author(s)": "Thomas Hoccleve",
+    "Title(s)": "P\u00e8lerinage de l\u2019\u00e2me; \u2018The epistle of grace sent to the seek man\u2019",
+    "Subjects": "translations; grace; letters",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Thomas Hoccleve, \u2018The epistle of grace sent to the seek man\u2019, in the English translation of the P\u00e8lerinage de l\u2019\u00e2me \u2014 twenty-six stanzas rhyme royal",
+    "_witnesses": {
+        "Bod770": {
+            "First Lines": "\nI Grace quene of heuenly princesseas deput by \u00fee souerayne\n                    kyng eterne\u2026\n",
+            "Last Lines": "\n\u2026\u00fey schalt be list up into heue blisEternal myr\u00feis\n                    schaltou neuer mys\n",
+            "Note": "\n25 stanzas.",
+            "Attributed Title": "\nThis is the pistil that grace sent to the seke ssoule (f. 13)",
+            "folio": "ff. 13rb-14va"
+        },
+        "OxfCCC237": {
+            "First Lines": "\nI grace qwene of heuenely pryncesseAs debyte to \u00fee souereygne\n                    eterne\u2026\n",
+            "Last Lines": "\n\u2026\u00deou schalt be lyfte vp in to hevyn blysseEternall\n                    myrthis schalt \u00feu nevyr mysse\n",
+            "Note": "\nFirst stanza written as prose.",
+            "Attributed Title": "\nThis is \u00fee Apistell of grace dien sende \u00feo \u00feilke soule (f.\n                        32v)",
+            "folio": "ff. 32v-35v"
+        },
+        "OxfUni181": {
+            "folio": "f. 23v"
+        },
+        "CamGon124": {
+            "First Lines": "\nI Grace whene & heuenli pryncessAs depute by \u00fee souereyn\n                    kyng eterne\u2026\n",
+            "Last Lines": "\n\u2026Thou schalt be had up in to heuen blysseEternall myrthys\n                    schalt \u00feu neuer mysse\n",
+            "Attributed Title": "\nThis is \u00fee epystyl \u00feat grace dieu send to \u00fee seke soule (p.\n                    7)",
+            "folio": "pp. 7-13"
+        },
+        "CULKk17": {
+            "First Lines": "\nI Grace quene and heuenly princesseAs deput be \u00fee souereyn\n                    kyng eterne\u2026\n",
+            "Last Lines": "\n\u2026Tho xalt be had vp in to heuen blysseEternal blysse xal\n                    \u00feou neuere mysse\n",
+            "Attributed Title": "\nher endith \u00fee drem of \u00fee pilgrimage of \u00fee soule (f.\n                        124v)",
+            "folio": "ff. 21-24v"
+        },
+        "BLAdd34193": {
+            "First Lines": "\nI grate quene of heuenly princesOs depicte by \u021de souereyn\n                    kinge eterne\u2026\n",
+            "Last Lines": "\n\u2026So \u00feat \u00feou shall be lefte vpe into heuen\n                    blisEuerlastenge mirthe shall \u00feou not mys\n",
+            "Note": "\nWritten as prose.",
+            "Attributed Title": "\nThis is \u00fee pistell \u00feat grace dieu sende to the saule\n                        (19v)",
+            "folio": "ff. 19v-21"
+        },
+        "BLEge615": {
+            "First Lines": "\nI grace quen and heuenly princesseAs depute be the souereyn eterne\u2026\n",
+            "Last Lines": "\n\u2026Thu schalt be haued up in to hevene blisseEternall myrthes schalt \u00feu neuer mysse\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             \u201cHoccleve\u2019s Works: The Regement of Princes and fourteen minor\n                poems.\u201d \n             EETS\n         e.s. 72 (1897); repr. 1988: xxiii-xxviii.\n",
+            "folio": "ff. 17v-28"
+        },
+        "NYPLSpenc19": {
+            "First Lines": "\nI Grace quene and heuenly princesseAs depicte by the souereyn kyng\n                    eterne\u2026\n",
+            "Last Lines": "\n\u2026So that thou shalt ben had vp in to heuen blisseEternal\n                    myrthes shaltow neuere misse\n",
+            "Attributed Title": "\nThe Epistil of Grace sent to the sike man",
+            "folio": "ff. 24v-27"
+        },
+        "MelSLV096G94": {
+            "folio": "f. 112"
+        }
+    }
+}

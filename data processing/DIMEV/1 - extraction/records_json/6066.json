@@ -1,0 +1,19 @@
+{
+    "_id": 6066,
+    "_header": "Trouble hearts to set in quiet",
+    "Note": "Formerly 3808 when incorrectly alphabetized after \u2018true\u2019; for translation from Calot, see Floran (1909)\nXFloran, Mary. \u201cDocument relatif \u00e0 l\u2019entr\u00e9e du roi d\u2019Angleterre Henry VI \u00e0 Paris en 1431.\u201d Revue des \u00e9tudes historiques 75 (1909): 411-15, 411.",
+    "Author(s)": "John Lydgate; Laurence Calot",
+    "Title(s)": "\u2018On the English title of Henry VI to the Crown of France\u2019",
+    "Subjects": "translations; Henry VI; France, crown of; historical poems",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "John Lydgate, \u2018On the English title of Henry VI to the Crown of France\u2019, translated from the French of Laurence Calot \u2014 329 lines in couplets",
+    "_witnesses": {
+        "BLHar7333": {
+            "First Lines": "\nTRouble hertis to sette in quyeteAnd make folkys their language for\n                    to lette\n",
+            "Last Lines": "\nGod him graunt oonly of his graceOf mercy \u00feere for to haue a\n                    place\n",
+            "Attributed Title": "\nHere begynneth A remembraunce of a peee dengre / How that the kyng of\n                    Englond Henry the sext / is truly borne heir vnto the Corone of ffraunce / by\n                    lynyall Successioun als wele on his ffader / side Henry the fifthe whom god\n                    assoil as by / Kateryne quene of Englond his modir whom god assoile made by\n                    lydygate John the monke / of Bury at Parys by \u00fee instaunce of my lord / of\n                    Warrewyk (f. 31rb, rubric); Here endith \u00fee genologie of kyng\n                    henry \u00fee Sext\u2026 (f. 32vb, rubric)",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             Political Poems and Songs relating to English History, composed during\n                the period From the Accession of Edward III to that of Richard III.\n             2 vols. \n             Rolls Series\n         14 (1859, 1861); repr. Kraus, 1965: 2.131-40.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 613-22.\n\n",
+            "folio": "ff. 31rb-32vb"
+        }
+    }
+}

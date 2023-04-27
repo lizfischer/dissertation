@@ -1,0 +1,37 @@
+{
+    "_id": 6771,
+    "_header": "Woe and wandreth walks wide",
+    "Note": "For other MSS see 6772; for the version in the \u2018expanded\u2019 Cycle see 2601.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel, \u2018In nocte natalis domini\u2019, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nWaa and wandrethe wackyns wyde\u00feat come of couetise &\n                    pride\u2026\n",
+            "Last Lines": "\n\u2026And in erthe to men be pees\u00feat in right lufe & gude\n                    will es\n",
+            "folio": "ff. 19-20v"
+        },
+        "CULGg531": {
+            "folio": "f. 23"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nWa and wandreth wawes wydeThat commes of couatys and of\n                    pride\u2026\n",
+            "Last Lines": "\n\u2026And als in erth to man be peesThat in right treuth & gud\n                    lyue es\n",
+            "folio": "ff. 18-19v"
+        },
+        "Lam260": {
+            "First Lines": "\nWa & wandreth walkys wyd\u00feat come of couatyse &\n                    pryd\u2026\n",
+            "Last Lines": "\n\u2026& be noght with \u00feire gyleris tane& god sayd\n                    meknes attane\n",
+            "folio": "ff. 7vb-8vb"
+        },
+        "EDCPCM": {
+            "First Lines": "\nwa and wanderet walkes wide\u00deat com of covaitis and\n                    pride\u2026\n",
+            "Last Lines": "\n\u2026And son quen scho deliuerid wasseScho laid hir son bifor\n                    asse\u2026\n",
+            "Note": "\nImperfect at end due to lost folio(s)",
+            "Attributed Title": "\nAd missam in nocte natalis domini secundum lucam (f.\n                    24rb), and Ad missa in mane secundum lucam (f.\n                    24va)",
+            "Editions": "\n\nSmall,  John,\n                        ed.  \n             English Metrical Homilies\u2026.\n         Edinburgh: W. Paterson, 1862: 60-3.\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n\n",
+            "folio": "f. 24va-24vb"
+        }
+    }
+}

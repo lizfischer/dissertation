@@ -1,0 +1,25 @@
+{
+    "_id": 3301,
+    "_header": "Lullay lullay little child",
+    "Note": "Cf. 3300.",
+    "Subjects": "carols, lullaby",
+    "Versification": "\u2014 four-line \u2014 aaab",
+    "_description": "Christ weeps in the cradle for man\u2019s sin \u2014 seven quatrains (aaab) and burden: \u2018Lullay lullay litel child / qwi wepest \u00feou so sore\u2019",
+    "_witnesses": {
+        "BLHar7358": {
+            "First Lines": "\nLollay lollay \u00feu lytel chyld wy wepys \u00feu so sore\u00deu\n                    \u00feat were so sterne & wyld\u00deu art bycome meck &\n                    myldWy\u00fe \u00fee marye \u00feat wente with chyld\u2026\n",
+            "Last Lines": "\n\u2026\u021cet \u00feu schall suffry peynys moIn herte in fot &\n                    hondes toIc wot y wys \u00feat ys al soTo sauy \u00feat were\n                    forlore\n",
+            "Note": "\n6 stanzas = 1, 2, 4, 3, 5, 6 of Edinburgh,  National Library of Scotland, Advocates\u2019 18.7.21.",
+            "Editions": "\nHeuser,  Wilhelm. \n             Die Kildare-Gedichte\u2026\nBonner Beitr\u00e4ge zur Anglistik\n         14. Bonn: P. Hanstein, 1904: 2011-12.\n",
+            "folio": "f. 12v"
+        },
+        "NLS18721": {
+            "First Lines": "\nLullay lullay litel child\u00deu \u00feat were so sterne &\n                    wild\u2026\n",
+            "Last Lines": "\n\u2026\u00feat pine vs helpe ay to fle\u00fee wikede fendes lore\n                    Amen\n",
+            "Note": "\nJohn Grimestone\u2019s sermon notebook.",
+            "Facsimiles": "\nObertello,  Alfredo,\n                        ed.  \n             Liriche religiose ingelsi del secolo quattordicesimo.\n         Milan: Bompiani, 1947: 118.\n",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 80-1.\nCecil,  Lord David. \n             The Oxford Book of Christian Verse.\n         Oxford: Clarendon, 1940: 17-18.\nGreene,  Richard Leighton,\n                        ed.  \n             A Selection of English Carols.\nClarendon Medieval and Tudor Series.\n         Oxford: Clarendon, 1962: 103.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 115; 1977, 103-4.\nLuria,  Maxwell Sidney,  and  Richard L. Hoffman, eds.  \n             Middle English Lyrics.\n         New York: Norton, 1974: 194-5.\nGray,  Douglas,\n                        ed.  \n             A Selection of Religious Lyrics.\nClarendon Medieval and Tudor Series.\n         Oxford: Clarendon, 1975: 13.\n\n",
+            "folio": "f. 6"
+        }
+    }
+}

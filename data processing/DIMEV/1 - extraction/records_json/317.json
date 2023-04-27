@@ -1,0 +1,51 @@
+{
+    "_id": 317,
+    "_header": "All christian men that walk me by / Behold & see",
+    "Note": "See 3348, of which this is prologue; Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 114.",
+    "Title(s)": "Lamentacio Peccatoris",
+    "Subjects": "adultery, tales of; laments, sinners\u2019; prologues; sinner, lament of",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "Lamentacio Peccatoris, Prologue to the Adulterous Falmouth Squire (3348), a lament for the soul of William Basterfield, Knight \u2014 99 lines in the longest text, mostly in 8-line stanzas",
+    "_witnesses": {
+        "BodAsh61": {
+            "First Lines": "\nAll crysten men \u00feat walke by meBe hold & se \u00fee\n                    dulfull sy\u021dhtIt helpys not to calle ne cryffor I am a dampned a\n                    dollfole wy\u021dht \u2026\n",
+            "Last Lines": "\n\u2026ffarewele I here an horn blow\n                    I may no lenger byde with thee\n",
+            "Attributed Author": "\nAmen quod Rate (f. 138v)",
+            "Editions": "\n\nHorstmann,  Carl. \n             Altenglische Legenden: Neue Folge.\n         Heilbronn: Henninger, 1881: 367-8, 529-30.\nFurnivall,  Frederick James,\n                        ed.  \n             Political, Religious and Love Poems, from Lambeth MS. 306 and other\n                sources.\nEETS\n         o.s. 15 (1866); repr. 1962; rev. ed. 1903: 123-6.\nBolle,  Wilhelm. \n             \u201cZur Lyric der Rawlinson-HS C.813.\u201d \n             Anglia\n         34 (1911): 273-307: 292.\nShuffleton,  George. \n             Ashmole 61: A Compilation of Popular Middle English Verse.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008: 349-51; 558-631; 622.\n\n",
+            "folio": "ff. 136-136v"
+        },
+        "BodRawC813": {
+            "First Lines": "\nAll crysten men that walke me bybeholde and See thys dylfull\n                    syght\u2026\n",
+            "Last Lines": "\n\u2026Adewe I here a horne bloweAll cristen men bewarre by\n                    me\n",
+            "Editions": "\n\nLeonard,  A. L. \n             \u201cZwei mittelenglisch Geschichten aus der H\u00f6lle.\u201d \n         Diss. Zurich, 1891. \nBolle,  Wilhelm. \n             \u201cZur Lyric der Rawlinson-HS C.813.\u201d \n             Anglia\n         34 (1911): 273-307: 292.\nPadelford,  Frederick Morgan. \n             \u201cLiedersammlungen des xvi. Jahrhunderts\u2026IV.\u201d \n             Anglia\n         31 (1908): 309-96: 317.\nJansen,  Sharon L.,  and  Kathleen H. Jordan, eds.  \n             The Welles Anthology: MS. Rawlinson C.813: A Critical Edition.\n         Binghamton, NY: Medieval & Renaissance Texts and Studies,\n            1991: 96-100.\n\n",
+            "folio": "ff. 4v-6v"
+        },
+        "OxfCCC237": {
+            "First Lines": "\nAll Cristen men that walkys me byBe hold and see this dolefull\n                    sight\u2026\n",
+            "Last Lines": "\n\u2026ffare well I here an horne bloweAll Cristen men be ware by\n                    me\n",
+            "Note": "\nAdded by a later hand.",
+            "Editions": "\nFein,  Susanna Greer. \n             Moral Love Songs and Laments.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1998. \n",
+            "folio": "ff. 146-146v"
+        },
+        "NLS1931": {
+            "First Lines": "\nAll cristenmen \u00feat walkes me byBe hald & see \u00feis\n                    dylfull sigth\u2026\n",
+            "Last Lines": "\n\u2026And drof an furght fro dey to dey\u00deer for i beyd hyr in\n                    \u00fees cage\n",
+            "Note": "\n64 lines (8 stanzas only).",
+            "Facsimiles": "\nHardman,  Phillipa. \n             The Heege Manuscript: A Facsimile of National Library of Scotland MS\n                Advocates 19.3.1.\n         Leeds Texts and Monographs, n.s. 16. Leeds: School of English,\n            2000. \n",
+            "folio": "ff. 174-175"
+        },
+        "Lincoln91": {
+            "First Lines": "\nAll crystyn men \u00feat wawkes me byeBe hold & see \u00feis\n                    dulful seyghtI beyd nothere to kawl nor to cryeI am so dampyd a woful\n                    weyght\u2026\n",
+            "Last Lines": "\n\u2026Me thynk I heyr a horn bloweAll crystyn men bewar by\n                    me\n",
+            "Note": "\n80 lines (10 stanzas).",
+            "Attributed Title": "\nLamentacio Peccatoris (f. 51v)",
+            "Facsimiles": "\nBrewer,  Derek Stanley,  and  A. E. B. Owen.  \n             \u201cIntroduction.\u201d \n             The Thornton Manuscript (Lincoln Cathedral MS. 91).\n         London: Scolar Press, 1975. \n",
+            "Editions": "\n\nHorstmann,  Carl. \n             Altenglische Legenden: Neue Folge.\n         Heilbronn: Henninger, 1881: 367-8, 529-30.\nPerry,  George G.,\n                        ed.  \n             Religious Pieces in Prose and Verse from R. Thornton\u2019s\n                MS.\nEETS\n         o.s. 26 (1867); repr. 1973: 115-18.\n\n",
+            "folio": "ff. 51v-52"
+        },
+        "Lam560": {
+            "Note": "\nLines 1-17 only.",
+            "folio": "f. 98v"
+        }
+    }
+}

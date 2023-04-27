@@ -1,0 +1,25 @@
+{
+    "_id": 334,
+    "_header": "All harkeneth to me now / a strife will I tellen you",
+    "Note": "For an earlier text see 1258, and cf. 5879.",
+    "Subjects": "Harrowing of Hell",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Harrowing of Hell \u2014 in couplets",
+    "_witnesses": {
+        "BLHar2253": {
+            "First Lines": "\nAlle herkne\u00fe to me noua strif wolle y tellen\n                    ou\u2026\n",
+            "Last Lines": "\n\u2026Ant \u021def vs grace to libbe & endeIn \u00fei seruice\n                    ant to heuene wende\n",
+            "Facsimiles": "\n\nVarnhagen,  Hermann,\n                        ed.  \n             Praemissa est editionis criticae vetustissimi quod sermone anglico\n                conscriptum est dramatis pars prior.\n         Erlangen: Iunge, 1898. \nKer,  Neil Ripley. \n             \u201cIntroduction.\u201d \n             Facsimile of British Museum MS. Harley 2253.\nEETS\n         o.s. 255 (1965). \n\n",
+            "Editions": "\n\nCollier,  John Payne. \n             Five Miracle Plays or Scriptural Dramas.\n         London, 183. \nHalliwell-Phillipps,  James Orchard. \n             The harrowing of hell, a miracle-play written in the reign of Edward\n                the Second, now first pub. from the original manuscript in the British Museum, with\n                an introduction, translation, and notes.\n         London: J. R. Smith, 1840. \nMall,  Eduard,\n                        ed.  \n             The Harrowing of Hell: Das altengliche Spiel von Christi\n                H\u00f6llenfahrt.\n         Breslau: Maruschke & Berendt, 1871. \nB\u00f6ddeker,  Karl. \n             Altenglische Dichtungen des MS. Harl. 2253.\n         Berlin: Weidmann, 1878: 270-84.\nHulme,  William Henry,\n                        ed.  \n             The Harrowing of Hell and Gospel of Nicodemus.\nEETS\n         e.s. 100 (1908); repr. 1976. \nFein,  Susanna Greer,\n                        ed.  \n             The Complete Harley 2253 Manuscript, Volume 2.\n         Kalamazoo, Michigan: Medieval Institute Publications, 2009: Booklet 4, no. 21.\n\n",
+            "folio": "ff. 55va-56vb"
+        },
+        "NLS1921": {
+            "First Lines": "\n\u2026mare[ ]helle fare\u2026\n",
+            "Last Lines": "\n\u2026Lord \u00feou \u021daue me al wi\u00fe skil\u00dee lay sinay\n                    on \u00fee hil\u2026\n",
+            "Note": "\nBegins imperfectly at line 29; ends imperfectly; portions of both folios\n                    35 and 37 cut away, with loss of text; 200 lines plus 44(?) line-ends, excluding\n                    Latin speech-prefixes.",
+            "Facsimiles": "\nPearsall,  Derek,  and  I. C. Cunningham, eds.  \n             The Auchinleck Manuscript. National Library of Scotland\n                Advocates\u2019 MS. 19.2.1.\n         London: Scolar Press, 1977. \n",
+            "Editions": "\n\nVarnhagen,  Hermann,\n                        ed.  \n             Praemissa est editionis criticae vetustissimi quod sermone anglico\n                conscriptum est dramatis pars prior.\n         Erlangen: Iunge, 1898. \nHulme,  William Henry,\n                        ed.  \n             The Harrowing of Hell and Gospel of Nicodemus.\nEETS\n         e.s. 100 (1908); repr. 1976. \nLaing,  David,  and  William Barclay David Donald Turnbull, eds.  \n             Owain Miles &c.\n         Edinburgh, 1837. \n\n",
+            "folio": "ff. 35vb-37ra"
+        }
+    }
+}

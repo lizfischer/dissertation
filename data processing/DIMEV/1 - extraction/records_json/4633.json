@@ -1,0 +1,30 @@
+{
+    "_id": 4633,
+    "_header": "Saint John the Baptist in wilderness",
+    "Note": "Formerly part of 3452; includes former 2707 and 2724; see Pickering (1973)\nXPickering, Oliver S. \u201cThe Temporale Narratives of the South English Legendary.\u201d Anglia 91 (1973): 425-55, 445 ff.",
+    "Title(s)": "South English Legendary",
+    "Subjects": "Christ, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Ministry and Passion of Christ, a temporale narrative from the South English Legendary, a continuation of 6380 \u2014 3048 lines in couplets.",
+    "_witnesses": {
+        "BodLauMis108": {
+            "Note": "\n901 lines, beginning at v. 874",
+            "Editions": "\nHorstmann,  Carl. \n             Leben Jesu: ein Fragment, und Kindheit Jesu, &c.\n         M\u00fcnster: Regensberg, 1873: 29-69.\n",
+            "folio": "ff. 1-10v"
+        },
+        "CamStJohn28": {
+            "First Lines": "\nOure fader \u00feat art in heuene halewed be \u00fei name\n                    beComyn mote \u00fei kyngdam to vs \u00feat we may it\n                    se\u2026\n",
+            "Last Lines": "\n\u2026but make it in heuene \u00feer non of hem may \u00feer neuere\n                    come& \u00feu it schal fynde at \u00fei gret nede qwan \u00fein\n                    o\u00feer is \u00fee be nome\n",
+            "Note": "\nIn this MS incorporated as part of 3452; 58 lines in couplets.",
+            "folio": "ff. 39v-40v"
+        },
+        "CamTCC605": {
+            "First Lines": "\n\u2026Oure fadere \u00feat art in heuene yhalwed \u00fey name\n                    beCome mote \u00fey kynedom \u00feat we hit mote yse\u2026\n",
+            "Last Lines": "\n\u2026\u00feo he hadde yta\u021dt his men hou hii schold bydde hure\n                    bedehe tey\u021dte hem hou hii schold faste al as in one stede\n",
+            "Note": "\n52 line extract, corresponding to vv. 427-74 (former 2707).",
+            "Attributed Title": "\nPater Noster (RT)",
+            "Facsimiles": "\n\nDigital Facsimile of Trinity College Cambridge MS R.3.25.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.25. \n",
+            "folio": "ff. 270-270v"
+        }
+    }
+}

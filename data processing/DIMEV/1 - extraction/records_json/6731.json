@@ -1,0 +1,16 @@
+{
+    "_id": 6731,
+    "_header": "With hic and haec",
+    "Subjects": "alchemy",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Macaronic": "Latin",
+    "_description": "Macaronic alchemical verses sometimes appended to the Latin verses of 5113 \u2014 24 lines",
+    "_witnesses": {
+        "BodAsh1487": {
+            "First Lines": "\nWith hic and haec\u2026\n",
+            "Last Lines": "\n\u2026Sit tibi principium principalis cornice we muste it\n                        keepeReperitur vbique localis (by waye) in everye\n                    streete\n",
+            "Note": "\n24 lines, immediately follows 5113.",
+            "folio": "ff. 74v-75"
+        }
+    }
+}

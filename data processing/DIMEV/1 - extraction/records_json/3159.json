@@ -1,0 +1,18 @@
+{
+    "_id": 3159,
+    "_header": "Lo thus sayeth Arnold of the New Town",
+    "Note": "Cf. 3759.",
+    "Subjects": "alchemy",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Philadelphia, University of Pennsylvania Library Codex 111 [formerly Smith 4], f. 78: this is a prose treatise, \u2018Heare beginnes a tretis of \u00fee vertuse of rosemary after Mr Arnolde of \u00fee newe towne\u2019.",
+    "_description": "Alchemical verses ascribed to \u2018Chavcer\u2019 \u2014 in couplets",
+    "_witnesses": {
+        "BLSl1092": {
+            "folio": "ff. 8v-9"
+        },
+        "BLSl1098": {
+            "Note": "\n44 lines.",
+            "folio": "ff. 17v-18"
+        }
+    }
+}

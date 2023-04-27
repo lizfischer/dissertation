@@ -1,0 +1,18 @@
+{
+    "_id": 2933,
+    "_header": "Jesu that wouldest for mans sake",
+    "Author(s)": "Friar Nicholas Philip",
+    "Subjects": "sermons, verse in; Christ, prayers to; prayers, to Christ",
+    "Versification": "\u2014 four-line",
+    "Bibliographic Ghosts": "Oxford, Bodleian Library Addit. A.11 (SC 28746): Robbins and Cutler (1965)\nXRossell Hope Robbins, and John L. Cutler. Supplement to the Index of Middle English Verse. Lexington, Kentucky: University of Kentucky Press, 1965 apparently confused SC 28746 with SC 29746.",
+    "_description": "A simple prayer to Christ \u2014 two quatrains",
+    "_witnesses": {
+        "BodLatTheD1": {
+            "First Lines": "\nIhesu \u00feat woldist for manys sakeSuffrest \u00fei bonys to\n                    crake\u2026\n",
+            "Last Lines": "\n\u2026& bere \u00fee coroune \u00feat was pynnyng& bryng vs\n                    alle to good endyng\n",
+            "Note": "\nIn a sermon by Friar Nicholas Philip.",
+            "Editions": "\nFletcher,  Alan J. \n             \u201cThe Sermon Booklets of Friar Nicholas Philip.\u201d \n             Medium \u00c6vum\n         55 (1986): 188-202: 196-7.\n",
+            "folio": "f. 175"
+        }
+    }
+}

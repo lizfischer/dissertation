@@ -1,0 +1,31 @@
+{
+    "_id": 1367,
+    "_header": "For love I mourn and sorrow make",
+    "Note": "Followed by 1371; cf. 2228.",
+    "Title(s)": "\u2018Amore langueo\u2019",
+    "Subjects": "sermons, verse in; love lyrics",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018Amore langueo\u2019 \u2014 two couplets as introductio thematis in a Latin homily, Dominica in passione vel in die parasceue, perhaps by John Bromyard",
+    "_witnesses": {
+        "CULKk424": {
+            "Transcription": "\nfor loue y morney persche al for \u00fey sakey hope al yn\n                    \u00fey gracemy lyfe ys on \u00fey face\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Preachers, Poets and the English Lyric.\n         Princeton: Princeton Univ. Press, 1986: 237-8.\n",
+            "folio": "ff. 144vb-145rb"
+        },
+        "OxfBal149": {
+            "Transcription": "\nFor loue I morne & sorowe makeFor morninge y perische for \u00fei\n                    sakeThough y perysche y hope \u00fei graceMy lyue my hope ys in\n                    \u00fei face\n",
+            "Note": "\nWritten as verse; second occurrence; added to lower margin of page by a\n                    hand of the fifteenth century.",
+            "folio": "f. 32"
+        },
+        "OxfMagd93": {
+            "Transcription": "\nfor loue y peryssh al for thy sakeI hope yn thy gracemy loue ys\n                    yn thy swete facethat thou will me take\n",
+            "Note": "\nWritten as prose, here with lines out of order such that rhyme is\n                    abba.",
+            "folio": "ff. 152v-153"
+        },
+        "TCD277": {
+            "Transcription": "\nfor luf I moreneI periche all for \u00fei sakeI hope \u00fei\n                    gracemy lyf es all on \u00fei face\n",
+            "Attributed Title": "\nAmore langueo (p. 185); sermo de passione Cristi in die\n                        parasceues facienda (added, p. 185)",
+            "folio": "p. 187"
+        }
+    }
+}

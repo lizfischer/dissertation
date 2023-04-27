@@ -1,0 +1,17 @@
+{
+    "_id": 4289,
+    "_header": "One sleeth the deer with an hooked arrow",
+    "Note": "New 8-stanza description per Reimer (1998)\nXReimer, Stephen R. \u201cThe Index of Middle English Verse: Some Corrections and Additions towards the Next Edition.\u201d Notes and Queries 45 [243] (1998): 16-22, 19-20; incorporates former 3538.5",
+    "Subjects": "hunting; advice, moral",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "An extract from Lydgate\u2019s Fall of Princes (1904, I.5125-5131, I.3998-4004, II.2535-2548, VIII.1660-1680, and I.1331-1337) \u2014 eight rhyme royal stanzas.",
+    "_witnesses": {
+        "BLHar2202": {
+            "First Lines": "\nOon sleth the deer wythe an hookid arweWhos part is noon yit of the\n                    venyson\u2026\n",
+            "Last Lines": "\n\u2026But where he fynt meeknes & repentanceMercy is maistresse\n                    off his ordinance\n",
+            "Note": "\nTwo-leaf fragment, not originally part of this MS, bound in inverted\n                    order, with text running from f. 72 and continuing on f. 71r-v (with\n                    f. 72v blank, perhaps intended as a cover): Stanza 1 (f. 72): Book I,\n                    lines 5125-5131; Stanza 2 (f. 72): Book I, lines 3998-4004; Stanzas 3 (f. 72)\n                    and 4 (f. 71): Book II, lines 2535-2548; Stanzas 5/6/7 (f. 71): Book VIII, lines\n                    1660-1680; Stanza 8 (f. 71v): Book I, 1331-1337.",
+            "Editions": "\nBowers,  Robert Hood. \n             \u201cThe Middle English \u2018Oon Sleth the Deer Wyth an Hookid\n                Arwe.\u2019\u201d \n             Southern Folklore Quarterly\n         15 (1951): 249-50. \n",
+            "folio": "ff. 72-71v"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "_id": 5365,
+    "_header": "The labors and the most marvelous works",
+    "Note": "MSS which lack the Prologue formerly listed as 168.",
+    "Title(s)": "Court of Sapience",
+    "Subjects": "wisdom; debates",
+    "_description": "The Court of Sapience with a Prologue of ten stanzas and with a concluding \u2018Tractatus de Spe\u2019 and Epilogue",
+    "_witnesses": {
+        "CamTCC601": {
+            "First Lines": "\nAll besy swymyng in the stormy floodOf fruteles worldly\n                    meditacionTo purpose late nothyng semyng so goodAs to lete youthe haue\n                    dominacion\u2026\n",
+            "Last Lines": "\n\u2026But whoso lyst of Musyk forto wytffor verray ground to Boece\n                    I hym remyt\n",
+            "Note": "\nLacking Prologue, so formerly 168; 274\n                    stanzas rhyme royal; Latin prose text interspersed.",
+            "Attributed Author": "\nJohn Lydgate (added by Stow?, f. 83)",
+            "Attributed Title": "\nHere begynneth A breue compilyd Tretyse callyd by the Auctor therof\n                        Curia sapiencie (f. 51); Explicit hic tractatus qui vocatur Curia\n                        Sapiencie (f. 83)",
+            "folio": "ff. 51-83"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nthe laborous & \u00fee most mervelus werkesof sapience syn\n                    fyrste regned nature\u2026\n",
+            "Last Lines": "\n\u2026to them that wyll in hym beset theyr bylevend though they dye\n                    ywys yet shal they lyve\n",
+            "Note": "\nOn f. 120, after last lines of verse, is \u2018Explicit tractatus de\n                        fide et cantus famulesne(?)\u2019 followed by heading to prose lists,\n                    \u2018Thes thynges folowyng is every cristen man & woman holde and bounde\n                    to lerne and to conne to theyr power in waye of theyr salvacion\u2019, all in\n                    hand of scribe (John Stow); explicit naming title of text follows these prose\n                    lists, which are written in two columns.",
+            "Attributed Author": "\nIohn lydgate (ff. 87, 121vb)",
+            "Attributed Title": "\nThe court of sapyence compylyd by Iohn lydgate (f. 87, as heading, added\n                    later[?] by scribe, John Stow); here endyth the court of sapyence compylyd by\n                    dan Iohn lydgate monke of bury on whos sowll god have mercy amen / Iohn stowe\n                    (after prose lists which follow end of verse stanzas, f.\n                    121vb)",
+            "Editions": "\n\nHammond,  Eleanor Prescott. \n             English Verse between Chaucer and Surrey.\n         Durham, NC: Duke UP, 1927: 258-67 (extracts).\nSpindler,  Robert,\n                        ed.  \n             The Court of Sapience.\nBeitrage zur englischen Philologie\n         6. Leipzig: Tauchnitz, 1927; repr. NY: Johnson, 1967. \nCohen,  Helen Louise. \n             The Ballade.\n         New York: Columbia UP, 1915: 280-8l (Envoy only).\n\n",
+            "folio": "ff. 87-120"
+        },
+        "BLHar2251": {
+            "First Lines": "\nAll busy swymmyng in the stormy floodeOf fruytles worldly\n                    meditacioun\u2026\n",
+            "Last Lines": "\n\u2026Mercy Triewth Dame Rightwisnes and peasMercy wold save hir\n                    man and benceaunce cease\u2026\n",
+            "Note": "\nLacking Prologue, so formerly 168; ends\n                    imperfectly.",
+            "folio": "ff. 287v-293v"
+        },
+        "CastleHoward": {
+            "Note": "\nA fragment: lines 3211-81.",
+            "Editions": "\nBrunner,  Karl. \n             \u201cBisher unbekannte Schulfsstrophen des Court of Sapience.\u201d \n             Anglia\n         62 (1938): 258-62: 260-62 (\u2018Tractatus de Spe\u2019 &\n                        Epilogue only).\n",
+            "folio": "f. 35v"
+        },
+        "Plimpton256": {
+            "First Lines": "\n\u2026I you honoure blesse lawde and glorifieAnd to [ ] presence\n                    my boke shall atteyne\u2026\n",
+            "Last Lines": "\n\u2026The trespassure is remyt with outen dredeWhoo trowith in god\n                    mercy shalbe his mede\n",
+            "Note": "\nLacks stanzas 1-8.",
+            "Attributed Title": "\nExplicit tractatus de spe et cantus familie sue (f. 36)",
+            "Editions": "\nB\u00fchler,  Kurt. \n             \u201cNotes on the Plympton Manuscript of the \u2018Court of\n                Sapience,\u2019\u201d \n             Modern Language Notes\n         59 (1944): 5-9: 6-7 (Two stanzas of Proheme only).\n",
+            "folio": "ff. 1-36"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_id": 3553,
+    "_header": "Most mighty lord Jupiter the Great",
+    "Author(s)": "John Lydgate",
+    "Subjects": "pageant verses; London, mercers of",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "A Mumming for the Mercers of London, by Lydgate \u2014 fifteen rhyme royal stanzas",
+    "_witnesses": {
+        "CamTCC600": {
+            "First Lines": "\nMoost mighty lord Iubyter \u00fee greetWhos mansyoun is ouer\n                    \u00fee sonnes beemffrome \u00feens \u00feat Phebus with his feruent\n                    heetReflecte\u00fee his light vpon \u00fee swyfft\n                    streeme\u2026\n",
+            "Last Lines": "\n\u2026To his presence er \u00feat \u00feey fur\u00feer flitteVnder\n                    supporte \u00feat he wol hem admytte\n",
+            "Attributed Author": "\nby daun Johan (p. 171); made by Lidegate (RT)",
+            "Attributed Title": "\nAnd nowe filowe\u00fee a letre made in wyse of balade by daun Johan brought\n                    by a poursuyaunt in wyse of Mommers desguysed tofore \u00fee Mayre of London\n                    Eestfeld vpon \u00fee twelffe\u00fee night of Cristmasse ordeyned Ryallych by\n                    \u00fee worthy Merciers Citeseyns of London (p. 171); Desgysing made to Estfeld\n                    \u00feane Mayre of London made by Lidegate (RT)",
+            "Editions": "\n\nBrotanek,  Rudolph. \n             Die Englischen Maskenspiele.\n         Vienna, Leipzig: W. Braum\u00fcller, 1902: 320-2.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 695-8.\n\n",
+            "folio": "pp. 172-175"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nmoste mighty lord Iubyter the gretwhos mansion is over the sonnes\n                    beme\u2026\n",
+            "Last Lines": "\n\u2026to his presente or\u00feat they furder flytevnder soport that\n                    he woll them admyt\n",
+            "Note": "\nScribe (John Stow) added note regarding Eastfield in left margin beside\n                    heading, \u2018William estfeld meresar mayre anno domini 1430 also \u00fee\n                    second tyme mayre anno 1438\u2019 (f. 132v); ends\n                    \u2018finis\u2019 (f. 134) by scribe (John Stow).",
+            "Attributed Author": "\nIohn lydgat (f. 132v)",
+            "Attributed Title": "\n\u2018Here folowythe a letar made in wyse of balad by daun Iohn lydgat\n                    brought by a pursyvaunt in wyse of momers dysguysyd tofore \u00fee mayre of\n                    london estfeld vpon the twelffthe nyght of cristmasse ordeyned Ryally by the\n                    worthy merciers citesens of london\u2019 (as heading, f. 132v, by\n                    scribe, John Stow)",
+            "folio": "ff. 132v2-134"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "_id": 2605,
+    "_header": "In the honorance of sweet Jesu",
+    "Note": "Translated from French: see Meyer (1889)\nXMeyer, Paul. \u201cVersion anglaise du po\u00e8me fran\u00e7ais des Enfances J\u00e9sus Christ.\u201d Romania 18 (1889): 128-31.",
+    "Subjects": "Christ, life of; translations",
+    "Versification": "\u2014 two-line, four-line \u2014 aa with quatrain, abba, at end",
+    "_description": "The Apocryphal History of the Infancy \u2014 1854 lines",
+    "_witnesses": {
+        "BodLauMis108": {
+            "First Lines": "\nIN \u00fee honurance of swete Ihesu\u00deat is louerd ful of\n                    vertu\u2026\n",
+            "Last Lines": "\n\u2026\u00dee fader \u00feat sit in triniteHit us graunti \u00feat\n                    it so be\n",
+            "Attributed Title": "\nIci comence le enfaunce Ihesu crist (f. 11ra);\n                        Explicit hic infantia Ihesu cristi (f. 22rb)",
+            "Editions": "\n\nHorstmann,  Carl. \n             Leben Jesu: ein Fragment, und Kindheit Jesu, &c.\n         M\u00fcnster: Regensberg, 1873. \nHorstmann,  Carl. \n             Altenglische Legenden.\n         Paderborn: F. Schoningh, 1875: 3-61.\n\n",
+            "folio": "ff. 11ra-22rb"
+        }
+    }
+}

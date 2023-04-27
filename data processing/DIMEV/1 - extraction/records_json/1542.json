@@ -1,0 +1,24 @@
+{
+    "_id": 1542,
+    "_header": "God against nature three wonders hath wrought",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 476.",
+    "Subjects": "carols, Nativity; religious instruction; Incarnation, mystery of",
+    "Versification": "\u2014 nine-line, two-line \u2014 ababbccdd",
+    "_description": "A theological carol about the Incarnation \u2014 seven 9-line stanzas plus burden: \u2018By reason of two & poore of one / This tyme god & man was set at one\u2019",
+    "_witnesses": {
+        "BLCottVesAXXV": {
+            "First Lines": "\nGod against nature thre wonders haith wroughtFirst of the vile\n                    earthe mad man without man\u2026\n",
+            "Last Lines": "\n\u2026And cease ther strifeFor marie was maden widowe and\n                    wife\n",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             Specimens of Old Christmas Carols, etc.\nPercy Society\n         4. London: T. Richard, 1841: 41-4.\nB\u00f6ddeker,  Karl. \n             \u201cEnglische Lieder und Balladen aus dem 16. Jahrhundert.\u201d \n             Jahrbuch f\u00fcr romanische und englische Sprache- und\n                Literatur\n         14 (or n.f. 2) (1875): 81-105 [933]: 2.98.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 60-2; 1977, 50-1.\n\n",
+            "folio": "ff. 131v-132v"
+        },
+        "TokyoTak6": {
+            "First Lines": "\nGod ageynst nature iij thyngys hath wroughtffurst of the vyle erth\n                    made man without man\u2026\n",
+            "Last Lines": "\n\u2026Thanke we hyme thaneThat thus lefte angell and sauyde\n                    mane\n",
+            "Note": "\nAdded by a sixteenth-century hand; Burden and first two stanzas only;\n                    begins with introductory 4-line stanza abab, \u2018Here begynneth a lamentable\n                    complaint\u2019; then title \u2018A carolle\u2019 and then a couplet burden,\n                    \u2018By resone of ij and power of one / This tyme god and man were sett at\n                    one\u2019; then the first two verses in two 9-line stanzas, rhyming\n                    ababbccdd.",
+            "Attributed Title": "\nIn principio si placet (by scribe, following explicit to preceding\n                    work)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             \u201cA Carol: Lord Tollemache\u2019s Helmingham MS. 10, back of last leaf,\n                ab. 1530.\u201d \n             Notes and Queries\n         7th ser. 8 (1889): 484-5: 484.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 185-6.\n\n",
+            "folio": "f. 119v"
+        }
+    }
+}

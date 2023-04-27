@@ -1,0 +1,23 @@
+{
+    "_id": 2452,
+    "_header": "In a morning of May when meadows should spring",
+    "Note": "Cf. 4256. For a critical edition, see Fein (1998)\nXFein, Susanna Greer. Moral Love Songs and Laments. Kalamazoo, MI: Western Michigan University for TEAMS, 1998.",
+    "Title(s)": "The Quatrefoil of Love; The Four Leaves of the Truelove",
+    "Subjects": "Virgin Mary, praise of; allegories",
+    "Versification": "\u2014 thirteen-line stanza, alliterative \u2014 abababab+cdddc",
+    "_description": "The Quatrefoil of Love \u2014 forty 13-line stanzas",
+    "_witnesses": {
+        "BodAddA106": {
+            "First Lines": "\nIn a mornynge of may when medose schuld spryngeBlomes &\n                    blossomes of bryght coloursAls I went by a well of my playngeThurght a\n                    mery orchard byddyng myn owres\u2026\n",
+            "Last Lines": "\n\u2026Als I went on my wayIn A mornynge of maywhen medouse\n                    suld sprynge\n",
+            "folio": "ff. 6v-14v"
+        },
+        "BLAdd31042": {
+            "First Lines": "\nIn a mornenyng of Maye when Medowes sall spryngBlomes & blossomis of brighte colours\u2026\n",
+            "Last Lines": "\n\u2026Als I wente one my wayIn a mornynge of mayWhen medowes sall sprynge\n",
+            "Note": "\nWritten two lines of verse per line of the manuscript.",
+            "Editions": "\n\nGollancz,  Israel. \n             \u201cThe Quatrefoil of Love.\u201d \n             English Miscellany, presented to Dr. Furnivall.\n         Oxford: Clarendon, 1901; repr. New York: Blom, 1961: 112-32: 113-32.\nGollancz,  Israel,  and  M. M. Weale, eds.  \n             The Quatrefoil of Love.\nEETS\n         o.s. 195 (1935); repr. 1987. \n\n",
+            "folio": "ff. 98-101v"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "_id": 5567,
+    "_header": "There is a body of a body",
+    "Note": "Printed Ashmole (1652)\nXAshmole, Elias. Theatrum Chemicum Britannicum. London: J. Grimond, 1652, 434.",
+    "Title(s)": "\u2018The Whole Science\u2019",
+    "Subjects": "alchemy",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018The Whole Science\u2019 (alchemical verses) \u2014 ten or eleven lines in couplets",
+    "_witnesses": {
+        "BodAsh1445": {
+            "First Lines": "\nThere ys a body of a bodyAnd a Saule & a spiryt\n                    \u2026\n",
+            "Last Lines": "\n\u2026And all it cometh out of one kyndeMarke \u00feis well man\n                    & beare it in mynde\n",
+            "Note": "\n11 lines.",
+            "Attributed Title": "\nThe holi Science (f. 36)",
+            "folio": "Part VIII, F, f. 36"
+        },
+        "BLEge845": {
+            "First Lines": "\nTher ys a body of a bodyAnd a Soul & a spyryt\u2026\n",
+            "Last Lines": "\n\u2026And all yt comythe out of oon kyndeMarke this well man & bere yt in mynde\n",
+            "Note": "\nEnds \u2018ffinis\u2019 (f. 16v).",
+            "Attributed Title": "\nThe hoole scyence",
+            "folio": "f. 16v"
+        },
+        "BLHar2407": {
+            "First Lines": "\nTher ys a bodi of a bodiand a soule and a spryte\u2026\n",
+            "Last Lines": "\n\u2026and al hyt cometh owte of on lyndmarke thys wel man in thy mynd\n",
+            "Note": "\nEleven lines.",
+            "Editions": "\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.309.\n",
+            "folio": "f. 90v"
+        },
+        "BLSl1098": {
+            "folio": "f. 14v"
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "_id": 5977,
+    "_header": "To God that is our best leech",
+    "Note": "For prose versions see Lewis, Blake, and Edwards (1985) XR. E. Lewis, N. F. Blake, and A. S. G. Edwards. Index of Printed Middle English Prose. New York: Garland, 1985; see Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 200.",
+    "Subjects": "herbals",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "On the Virtues of Herbs, especially Rosemary \u2014 in couplets",
+    "_witnesses": {
+        "BodAsh1379": {
+            "First Lines": "\nAs in a booke wretyn y fowndof wise doctours in dyuers londAs\n                    eche clerk saith in his degreeAnd yit is proved euery o\u00feer\n                    yere\u2026\n",
+            "Last Lines": "\n\u2026al evyll fro \u00fee stomake it wyl do slakeAlso fro \u00fee\n                    flux of a man \u00feat is ful strong\n",
+            "Note": "\nAlternate introduction; 155 lines; missing line 3 or 4 (to rhyme with\n                    \u2018degree\u2019).",
+            "Attributed Title": "\nHere is vertues & settyng of rosemary by the ij doctours of fysyk\n                    ffollowyng per Galyen & platery (p. 18)",
+            "folio": "pp. 19-28"
+        },
+        "BodAsh1442": {
+            "First Lines": "\nTo god \u00feat is \u00fee onelie leecheof his goodnes we\n                    beseche\u2026\n",
+            "Last Lines": "\n\u2026Whoe graunt vs his blessingeThat is our Etarnall\n                    kinge\n",
+            "Note": "\n290 lines. At the end: \u2018Translatid at this tyme; owt of prose into\n                    Ryme / Owt of a verie olde bouke; thes same meadicins \u00feat I touke / And\n                    hathe them practized with owt fayle; & fownde \u00feem true everie deall /\n                    Prays be gevin to christe Ihesue; whoe ever have \u00fee in his kepinge / James\n                    Mathewe: Amen\u2019.",
+            "Attributed Title": "\nHeare Begynnethe the vertue of Rosemarie According to \u00fee sayenges of\n                    devine docters (p. 1)",
+            "folio": "pp. 1-5"
+        },
+        "BodDig95": {
+            "First Lines": "\nIhesu \u00feat art oure best lecheOf helthe we the besecheAnd\n                    to mayden myld maryeThat modyr ys of all mercye\u2026\n",
+            "Last Lines": "\n\u2026And syth for the Rygth god vs bryngAnd send vs hele tyl our\n                    endyngAmen pur charyte Explicit libellis\n\n",
+            "Note": "\n328 lines, preceded by a prose introduction, ends with colophon,\n                        \u2018Explicit libellis de vertutibus Rose marine secundum salernitanos\n                        ad comitissam de hennand cujus copiam propriam transmisit philippe sue filie\n                        regine anglie. Anno domini millesimo cccxxxviii quem unus anglicus ranstulit\n                        de Latino in suum proprium idioma etc\u2019.",
+            "Attributed Title": "\nHeare Begynnethe the vertue of Rosemarie According to \u00fee sayenges of\n                    devine docters (p. 1)",
+            "folio": "ff. 83-89v"
+        },
+        "CamTCC759": {
+            "First Lines": "\n\u2026of columbyne I wyll \u021dow tellhis flour is blewe lyk to a\n                    bell\u00feis Columbyne beres a blak sedeffor \u00fee squenacy to drynk\n                    ys gud atte nede\u2026\n",
+            "Last Lines": "\n\u2026In all tyme yt be \u021dereffore soth he schal blede no\n                    mere\n",
+            "Note": "\nScattered couplets written on margins of medicinal properties of such\n                    herbs as columbine, mint, etc.",
+            "folio": "ff. 96v-127v"
+        },
+        "BLHar1735": {
+            "Transcription": "\nTake Rosemary & bren It al to colys & \u00feat ys [best]Good for \u00fee coughtyng & stretenes at \u00fee brestAnd kneyd It In a cake of wete dowe \u00feat Is \u00fee bestand hete \u00feere of euer i day xix daysand he schal be houl os Ippocras saysAnd lat no sowryng com \u00feerInneIt Is \u00fee bettere fore \u00fei gyenne\n",
+            "Note": "\nPreceded by a prose introduction, variant text. Seven lines, though the first, incomplete, may not be part of the verse; \u201cbest\u201d supplied because lost to cropping; not on f. 51 as listed in Boffey  and  Edwards (2005)\nXJulia Boffey,   and  A. S. G. Edwards.  \n             A New Index of Middle English Verse.\n         London: The British Library, 2005.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 1735.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_1735. \n",
+            "folio": "f. 52v"
+        },
+        "BLSl3215": {
+            "folio": "ff. 17v-24v"
+        },
+        "Wellcome406": {
+            "First Lines": "\nTo God that is owre best lecheOwre hele holy we be teche&\n                    to \u00feat mayden mylde marieModur ful of mercye\u2026\n",
+            "Last Lines": "\n\u2026To blis he vs bryng a ry\u021dtHe may so welle\u00deat\n                    he \u021dyf vs part of hys ly\u021dtA men so bedde we euelle\n",
+            "Attributed Author": "\nExplicit Garddener (f. 20v)",
+            "Editions": "\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.194-7.\n",
+            "folio": "ff. 14-20v"
+        }
+    }
+}

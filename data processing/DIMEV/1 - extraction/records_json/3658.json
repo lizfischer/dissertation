@@ -1,0 +1,16 @@
+{
+    "_id": 3658,
+    "_header": "My triumphs also written with letters of gold",
+    "Note": "Formerly referred to only in headnote to 1174",
+    "Subjects": "chronicles; England, kings of; Stephen, King of England; kings of England",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Continuation of Hardyng\u2019s chronicle, in which Kings speak of their reigns \u2014 rhyme royal stanzas",
+    "_witnesses": {
+        "BodDou341": {
+            "First Lines": "\n\u2026My triumphes also written with lettres of goldeabowte my\n                    towre standyng at belyngsgateTo thentent my Enemyes shulen BeholdeMy\n                    marciall artes and prowes fortunate\u2026\n",
+            "Last Lines": "\n\u2026With Mawde themperesse to clayme her rightWhom Clare Erle of\n                    glocetour with his myght\u2026\n",
+            "Note": "\nFragment, 20 folios = 1 quire, with original pagination 485-522;\n                    beginning with last stanza on \u2018Belyaus\u2019, then \u2018Gurguyn\u2019;\n                    ending with fourth stanza on King Stephen; written by hand of the sixteenth\n                    century; RR stanzas.",
+            "folio": "ff. 10-20v"
+        }
+    }
+}

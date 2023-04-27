@@ -1,0 +1,26 @@
+{
+    "_id": 5988,
+    "_header": "To love I will begin",
+    "Title(s)": "A Mournyng Song of the Loue of God",
+    "Subjects": "God, love of",
+    "Versification": "\u2014 eight-line \u2014 abababab",
+    "_description": "\u2018A Mournyng Song of the Loue of God\u2019 \u2014 thirty-two 8-line stanzas",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nTO loue I chulle be ginneIhesu bo\u00fee day and\n                    niht\u2026\n",
+            "Last Lines": "\n\u2026fful dreri is here mon\u00dei pyne is al \u00fee\n                    mare\n",
+            "Note": "\nFollowed without break by 2818.",
+            "Attributed Title": "\nA Mournyng song Of \u00fee loue of God (f. 299vb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987: 469-76.\nSegar,  Mary Gertrude,\n                        ed.  \n             A Mediaeval Anthology.\n         London, NY: Longmans, Green, 1915: 14-15 (6 stanzas only).\n\n",
+            "folio": "ff. 299vb-300rb"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nTo loue Ichulle bi ginneIhesu Bo\u00fee day and\n                    niht\u2026\n",
+            "Last Lines": "\n\u2026fful dreri is heore mon\u00dei pyne is al \u00fee\n                    mare\n",
+            "Note": "\nThe \u2018o\u2019 of the first line (second letter) is almost entirely\n                    overpainted by the illuminated initial \u2018T\u2019. Followed without break\n                    by 2818\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 90rc-90vb"
+        }
+    }
+}

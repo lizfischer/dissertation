@@ -1,0 +1,25 @@
+{
+    "_id": 761,
+    "_header": "Be it right or wrong",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 238; Ringler Jr. (1988)\nXRingler Jr., William A. Bibliography and Index of English Verse Printed 1476-1558. London: Mansell, 1988, TP 209; for discussion of stemma and earliest text, see Ringler Jr. (1971)\nXRingler Jr., William A. \u201cThe Nutbrown Maid (a reconstructed text).\u201d English Literary Renaissance 1 (1971): 27-51, 27-51",
+    "Title(s)": "The Notbrowne Mayde",
+    "Subjects": "women, warning to; women, as speakers/narrators; dialogues, lovers\u2019",
+    "Versification": "\u2014 eighteen-line stanza, six-line \u2014 aaaabb",
+    "_description": "The Notbrowne Mayde \u2014 in 18-line stanzas or 6-line stanzas with alternating refrains, \u2018He is a banysshed man\u2019 and \u2018She loved but hym alone\u2019",
+    "_witnesses": {
+        "OxfBal354": {
+            "First Lines": "\nBe it right or wrongeThes men amonge\u2026\n",
+            "Last Lines": "\n\u2026Moche more owght theyto god obey& serue but hym\n                    alon\n",
+            "Attributed Author": "\nExplicit quod Richard Hill (p. 446)",
+            "Attributed Title": "\nThe Nutbrown mayde (p. 440); Here endith \u00fee nutbrown mayde (p.\n                    446)",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\nHales,  John Wesley,  and  Frederick James Furnivall, eds.  \n             Bishop Percy\u2019s Folio Manuscript: Ballads and Romances.\n         3 vols. London: Tr\u00fcbner, 1867-68: 3.174-86.\n",
+            "folio": "pp. 440-446"
+        },
+        "BLAdd27879": {
+            "Note": "\nTwenty 12-line stanzas; incomplete.",
+            "Editions": "\nHales,  John Wesley,  and  Frederick James Furnivall, eds.  \n             Bishop Percy\u2019s Folio Manuscript: Ballads and Romances.\n         3 vols. London: Tr\u00fcbner, 1867-68: 3.174-86.\n",
+            "folio": "p. 420"
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "_id": 3432,
+    "_header": "Mary Mother well Thee be / Mother and Maiden think on me",
+    "Title(s)": "\u2018An Orisoun to \u00fee fyue Ioyes of vre lady\u2019",
+    "Subjects": "Virgin Mary, joys of; prayers, to Virgin Mary",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "\u2018An Orisoun to \u00fee fyue Ioyes of vre lady\u2019 \u2014 eight 6-line stanzas",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nMArie Modur wel \u00fee beeModur and Mayden \u00feenk on\n                    me\u2026\n",
+            "Last Lines": "\n\u2026And let me neuer for no synneffor go \u00feat Ioye \u00feat\n                    \u00feou art InneAmen par Charite Aue\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nHorstmann,  Carl,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 1.\nEETS\n         o.s. 98 (1892; repr. 1973): 133-4.\nPatterson,  Frank A. \n             The Middle English Penitential Lyric.\nColumbia University Studies in English.\n         New York: Columbia Press, 1911: 144-5.\n\n",
+            "folio": "f. 122vb1"
+        },
+        "EDU114": {
+            "First Lines": "\nMary \u00feat hath no p[ ]Here to day my prey[ ]Thow y\n                    vnworthy beTo \u00fee y dare i calle\u2026\n",
+            "Last Lines": "\n\u2026[ ] we \u00fee s[ ][ ] \u00fei swete [ ]\n",
+            "Note": "\nLines 1-24 only; damaged by damp. This occurs on the rear fly\n                    leaf.",
+            "Editions": "\nBorland,  Katherine R. \n             A Descriptive Catalogue of the Western Medieval Manuscripts in\n                Edinburgh University Library\n         Edinburgh: University Press, 1916: 335.\n",
+            "folio": "f. IIv"
+        },
+        "Longleat30": {
+            "First Lines": "\nMAry moder mayden mekeffor \u00feat ioy I the\n                    beseke\u2026\n",
+            "Last Lines": "\n\u2026In to ly\u021dt & iolyte \u00feou bringe vs alle with\n                    theTo reste with outen ende AmenAue maria gracia plena dominus\n                        tecum\n\n",
+            "Note": "\nIncomplete: missing stanzas 1, 2 and 8 but here treated as if complete\n                    (no missing folios or spaces for missing stanzas); rubric Latin heading\n                        \u2018Aue maria gracia plena dominus tecum\u2019 follows each\n                    stanza.",
+            "folio": "ff. 23v-24"
+        },
+        "HunHM142": {
+            "First Lines": "\nMAry moder mayden mekeffor \u00feat ioy I the\n                    beseke\u2026\n",
+            "Last Lines": "\n\u2026In to light and iolyte \u00feou brynge us all with \u00feeTo\n                    reste with owten ende\n",
+            "Note": "\nIncomplete: missing stanzas 1, 2 and 8 but here treated as if complete\n                    (no missing folios or spaces for missing stanzas); rubric Latin headings for\n                    each stanza.",
+            "Editions": "\nSchulz,  Herbert. C., Norma B. Cuthbert,   and  Nayd\u00e9e Noya.  \n             Ten Centuries of Manuscripts in the Huntington Library.\n         San Marino, CA: Huntington Library, 1962: 459-60.\n",
+            "folio": "ff. 19v-20"
+        },
+        "BrusselsIV231": {
+            "First Lines": "\nMAry moder well the beMaide and moder thenk on\n                    me\u2026\n",
+            "Last Lines": "\n\u2026Amen amen so mote hyt beSwete lady pur\n                    chariteMary moder and maide cleneSchylde me to day fro sorow &\n                    tene\n",
+            "Note": "\n25 couplets.",
+            "Attributed Title": "\nOracio Ad sanctam mariam (f. 103v)",
+            "folio": "ff. 103v-105"
+        }
+    }
+}

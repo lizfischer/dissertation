@@ -1,0 +1,23 @@
+{
+    "_id": 1869,
+    "_header": "He that intendeth in his heart to seek",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "A praise of St. Anne",
+    "Subjects": "Anne, saint",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lydgate, A praise of St. Anne \u2014 two stanzas rhyme royal",
+    "_witnesses": {
+        "CamTCC601": {
+            "First Lines": "\nhe that intendeth in hys hert to sekeTo loue the doughtyr of any\n                    woman fre\u2026\n",
+            "Last Lines": "\n\u2026Thys blyssyd maydyn and her modyr fredelyueryng hys sowle\n                    from all aduersite Amen\n",
+            "Attributed Author": "\nLydgate (added after rubric by later hand, possibly\n                    Stow\u2019s)",
+            "folio": "f. 169v"
+        },
+        "BLHar2251": {
+            "First Lines": "\nHE that intendith in his hert to sekeTo love the doughter of any\n                    womman fre\u2026\n",
+            "Last Lines": "\n\u2026This blessid mayden and hir moder freDelyueryng his soule\n                    from all aduersite\n",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 130.\n",
+            "folio": "f. 76v1"
+        }
+    }
+}

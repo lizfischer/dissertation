@@ -1,0 +1,29 @@
+{
+    "_id": 436,
+    "_header": "Almighty God that all hath wrought",
+    "Subjects": "prayers, to God",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "An Invocation to the Creator \u2014 in couplets",
+    "_witnesses": {
+        "BodAddA268": {
+            "First Lines": "\nAll my\u021dty god \u00feat all has wro\u021dtHeuen & hell\n                    & erth of no\u021dtWater & lond day & ny\u021dtSone &\n                    mone to shyne bry\u021dt\u2026\n",
+            "Last Lines": "\n\u2026\u00feere we for syn arn fallen frooThur\u021d Adam & Eue\n                    also\n",
+            "Note": "\n58 lines; ends imperfectly (with \u2018Thur\u021d Adam & Eue\n                    also\u2019), lacks 18 lines found in Cotton Caligula and is not followed by\n                    \u2018The XV signs of the Doomsday\u2019 (The XV tokens telle y may) as in\n                    Cotton Caligula. In Varnhagen\u2019s edition of London,  British Library Cotton Caligula A.II this\n                    poem is treated as a part of the \u2018XV signs\u2019.",
+            "folio": "f. 146ra-146rb"
+        },
+        "BlCottCalAII": {
+            "First Lines": "\nAlmy\u021dty god \u00feat all hath wroghtHeuen & helle &\n                    er\u00fee of noght\u2026\n",
+            "Last Lines": "\n\u2026That we synnefull were fallen froThorow Adam synne & Eue\n                    also\n",
+            "Note": "\nIn this MS 28 couplets, treated as introduction to 3000.",
+            "Attributed Title": "\nQuindecim signa (f. 89, by scribe in upper margin); omitted as a\n                    separate item from sixteenth-century list of contents, f. 1",
+            "Editions": "\nVarnhagen,  Hermann. \n             \u201cZu mittelenglischen gedichten: IV-X.\u201d \n             Anglia\n         3 (1880): 59-67, 275-92, 415-25, 533-51: 543-4.\n",
+            "folio": "f. 89ra-89rb"
+        },
+        "BLEge2810": {
+            "First Lines": "\nAle myghty god \u00feat alle hase wroghteHeuen helle & erth of noghte\u2026\n",
+            "Last Lines": "\n\u2026To lyue in sorw swynke & peyneAy tylle he come to erthe agayne\n",
+            "Note": "\n28 lines.",
+            "folio": "f. 181v"
+        }
+    }
+}

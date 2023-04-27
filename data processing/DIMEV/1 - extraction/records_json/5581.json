@@ -1,0 +1,18 @@
+{
+    "_id": 5581,
+    "_header": "There is no more dreadful pestilence",
+    "Author(s)": "Geoffrey Chaucer; John Lydgate",
+    "Title(s)": "The Tongue",
+    "Subjects": "tongue, destructive power of; composite poems",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "\u2018The Tongue\u2019, a composite poem incorporating three stanzas from Lydgate\u2019s Fall of Princes (1904), I.4621-41, and three stanzas from Chaucer\u2019s Troilus and Criseide (5248), III.302-22 \u2014 seven stanzas rhyme royal.",
+    "_witnesses": {
+        "CULFf16": {
+            "First Lines": "\nTher is nomore dredfull pestelensThan is tonge that can flatere\n                    & fageffor with his corsyd crabbed violensHe enfecteth folkes of\n                    euerey Age\u2026\n",
+            "Last Lines": "\n\u2026As he that is boonde and wol not be freeRyght so farithe hit\n                    now by me\n",
+            "Facsimiles": "\nBeadle,  Richard,  and  Alfred E. B. Owen.  \n             The Findern Manuscript: Cambridge University Library MS. F.1.6.\n         London: Scolar Press, 1977. \n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Odd Texts of the Minor Poems.\n             2 vols. \n             Chaucer Society\n         1st ser. 23, 60. London: Tr\u00fcbner, 1868, 1880; repr. New York and\n            London: Johnson, 1967: App., xi.\n",
+            "folio": "ff. 150-151"
+        }
+    }
+}

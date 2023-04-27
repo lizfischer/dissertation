@@ -1,0 +1,20 @@
+{
+    "_id": 3821,
+    "_header": "Now would I fain",
+    "Note": "Formerly listed under 6322.",
+    "Subjects": "chronicles, verse in; prologues, to prose texts",
+    "Versification": "\u2014 eight-line \u2014 aaabcccb, ababbcbc",
+    "_description": "Prologue to Volume II of Fabyan\u2019s Chronicle, in praise of London and its officers, Part VII, cap. 246 \u2014 twelve 8-line stanzas, aaabcccb, and two 8-line stanzas, ababbcbc",
+    "_witnesses": {
+        "BLCottNeroCXI": {
+            "First Lines": "\nNow wold I ffaynIn wordis playn\u2026\n",
+            "Last Lines": "\n\u2026This Cyte to prayse in eche degreAs yt shuld duely aske of\n                    Ryght\n",
+            "folio": "ff. 30v-31v"
+        },
+        "HarEng766": {
+            "First Lines": "\nNow wold I ffayneIn wordis playneSoom honour sayneAnd\n                    bryng to meynd\u2026\n",
+            "Last Lines": "\n\u2026And to Contynewe the old ffameThe Kyngis Chambre \u00feat\n                    \u00fee right nameLondon to kepe without blameAs it hath hither\n                    till\n",
+            "folio": "ff. 1v-2v"
+        }
+    }
+}

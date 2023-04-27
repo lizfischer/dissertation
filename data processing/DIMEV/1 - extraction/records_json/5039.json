@@ -1,0 +1,25 @@
+{
+    "_id": 5039,
+    "_header": "Stories to read are delightable",
+    "Author(s)": "John Barbour",
+    "Title(s)": "Bruce",
+    "Subjects": "historical poems",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Barbour\u2019s Bruce \u2014 about 13,550 lines in couplets",
+    "_witnesses": {
+        "CamStJohn191": {
+            "First Lines": "\n\u2026It was gret pite for to heirffolk till be tribulit on\n                    \u00feis maner\u2026\n",
+            "Last Lines": "\n\u2026Bryng ws hye vp till hevynis blisQuhar all wayis liff and\n                    liking is\n",
+            "Note": "\nBegins Bk. IV, line 57.",
+            "Attributed Title": "\nExplicit liber excellentissimi et nobilissimi principis roberti de broys\n                        scottorum regis illustrissimi qui hec liber scriptus fuit & finitus in\n                        vigilia sancti iohannis baptiste videlicet decollacio eiusdem per manum I de\n                        R capellam anno domini Millesimo Quadrangentesimo octogesimo septimo (f.\n                        163v)",
+            "Editions": "\n\nSkeat,  Walter William,\n                        ed.  \n             The Bruce by John Barbour.\nEETS\n         e.s. 11 (1870); 21 (1874); 29 (1877); 55 (1889); repr. in 2 vols,\n            1968. \nSkeat,  Walter William,\n                        ed.  \n             The Bruce, etc.\n             2 vols. \n             Scottish Text Society\n         31-33. Edinburgh, London: Blackwood, 1894. \n\n",
+            "folio": "ff. 26-163v"
+        },
+        "NLS1922": {
+            "First Lines": "\nStoryis to rede ar delitabillSuppose \u00feat \u00feai be nocht bot\n                    fabill\u2026\n",
+            "Last Lines": "\n\u2026bring ws hey till hure mekill blisquhar alwayis lestand\n                    liking Is\n",
+            "Editions": "\n\nFreebairn,  Robert,\n                        ed.  \n             The Life and Acts of the Most Victorious Conqueror Robert Bruce, King\n                of Scotland.\n         Edinburgh: n.p., 1714, 1758; anonymous. \nPinkerton,  John,\n                        ed.  \n             The Bruce.\n         3 vols. London: Nicol, 1790. \nJamieson,  John,\n                        ed.  \n             The Bruce; and Wallace.\n         2 vols. Edinburgh: Ballantyne, 1820. \nMackenzie,  William Mackay,\n                        ed.  \n             The Bruce.\n         London: Black, 1909. \nBawcutt,  Priscilla J.,  and  Felicity Riddy, eds.  \n             Longer Scottish Poem.\n         vol. 1: 1375-1650. Edinburgh: Scottish Academic Pr., 1987: 4-24 (extract).\nInnes,  Cosmo,\n                        ed.  \n             The Brus; from a collation of the Cambridge and Edinburgh\n                manuscripts\nSpalding Club\n         28. Aberdeen, 1856: (composite text).\nEyre-Todd,  George. \n             Early Scottish Poetry.\n         Glasgow: W. Hodge, 1891: 73-127 (extracts).\n\n",
+            "folio": "ff. 1ra-65ra"
+        }
+    }
+}

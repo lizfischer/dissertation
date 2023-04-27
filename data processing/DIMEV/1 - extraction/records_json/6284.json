@@ -1,0 +1,58 @@
+{
+    "_id": 6284,
+    "_header": "When Christ was risen from dead to life",
+    "Note": "For a wholly distinct version see 2588.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel; Ascension, feast of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel, \u2018In die Ascensionis\u2019, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nWhen criste was risen fro dede to lyueTo his dissiplis he made him\n                    ryue\u2026\n",
+            "Last Lines": "\n\u2026Als \u021de may se here be a tale\u00feat oure hertes to him\n                    aght to hale\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 126v-127v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nWhon crist was rise from de\u00fe to lyueTo his disciples he made\n                    him ryue\u2026\n",
+            "Last Lines": "\n\u2026As \u021de may here sen bi a tale\u00deat ou\u021dte vr\n                    hertes to him hale\n",
+            "Attributed Title": "\nRecumbentibus vndecim discipulis (f. 191vb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 191vb-191vc"
+        },
+        "CULAdd8335": {
+            "folio": "p. 203"
+        },
+        "CULDd11": {
+            "folio": "f. 129v"
+        },
+        "CULGg531": {
+            "folio": "f. 75"
+        },
+        "BLCottTibEVII": {
+            "folio": "f. 192vb"
+        },
+        "BLHar4196": {
+            "First Lines": "\n\u2026And se\u00fein ffor vs suffer dedBot for \u00feat he oure kind wald take\u2026\n",
+            "Last Lines": "\n\u2026\u00feat may men se here bi a tale\u00feat aght to mak oure hertes hale\n",
+            "Note": "\nLast 33 lines only; incomplete at beginning due to missing folio between 93 and 94.",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): II.216-217.\n",
+            "folio": "f. 94ra"
+        },
+        "Lam260": {
+            "folio": "f. 39rb"
+        },
+        "MinULZ822": {
+            "First Lines": "\nWhen cryste was ressyn fra dede to lyfeTyll hys folowers he made\n                    hym ryfe\u2026\n",
+            "Last Lines": "\n\u2026als \u021de may se here be a tale to schew\u00feat aght oure\n                    hertes to cryste drawe\n",
+            "Attributed Title": "\nIn die ascencione domini Secundum Marcum (f. 93)",
+            "folio": "ff. 93-94"
+        },
+        "HunHM129": {
+            "First Lines": "\nWhen crist was rysyn fro dede to lyueTo his foloweris he made hym\n                    ryue\u2026\n",
+            "Last Lines": "\n\u2026As \u021de may se here by a tale\u00deat aght oure hertys to\n                    hym hale\n",
+            "Attributed Title": "\nIn die ascensionis domini (f. 107v)",
+            "folio": "ff. 107v-108v"
+        }
+    }
+}

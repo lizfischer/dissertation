@@ -1,0 +1,491 @@
+{
+    "_id": 1242,
+    "_header": "Experience though none auctoritee",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Wife of Bath\u2019s Prologue; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; marriage; antifeminism; autobiography; confession",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the Wife of Bath\u2019s Prologue of the Canterbury Tales \u2014 856 lines in couplets, with some versions including additional lines.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nExperience though noon autoritewere in this world is right I nough\n                    for me\u2026\n",
+            "Last Lines": "\n\u2026if I haue licence of this worthi frereyis dame quod he telle\n                    forth and I wol here\n",
+            "Note": "\nIII.381 omitted; includes 44a-f; spurious lines follow 332, 382; 488-9\n                    inserted at foot.",
+            "Attributed Title": "\nHere bigynneth the wiff of Bathe hir prolog (f. 82v); the wiff\n                    of Bathe (RT); Here endith the wiff of Bathe hir prolog\u2026 (f.\n                        94v)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 82v-94v"
+        },
+        "BodBar20": {
+            "First Lines": "\nExperiment though non autoriteWere in \u00feis world is right I\n                    nogh for me\u2026\n",
+            "Last Lines": "\n\u2026\u021cif I haue licence of \u00feis worthi frere\u021cis dame\n                    co\u00fe he telle forth I shal \u021doue here\n",
+            "Note": "\nIII.55, 83-91, 292, 575-84, 605-12, 619-26, 661, 717-20, 757, 778, 837-9\n                    omitted; spurious lines follow 66, 758, 776.",
+            "Attributed Title": "\nHere begynneth the Wyf of Bathe (f. 104); Of bathe (RT)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 104-114v"
+        },
+        "Bod414": {
+            "First Lines": "\n[E]xperience though non auctoriteWere in this world is right enough\n                    for me\u2026\n",
+            "Last Lines": "\n\u2026If I haue licence of this wurthy frereyis dame telle furth\n                    and I shalle here\n",
+            "Note": "\nIII.575-84, 609-12, 717-20 omitted.",
+            "Attributed Title": "\nThe Prolog of the wif of Bathe (f. 64v)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 64v-74"
+        },
+        "Bod686": {
+            "First Lines": "\nExperience thogh non auctoriteWere in \u00feis worlde is right y\n                    now for me\u2026\n",
+            "Last Lines": "\n\u2026If I have licence of \u00feis worthi frereYis dame quod he\n                    telle forth and I wol heere\n",
+            "Note": "\nIII.408, 462, 575-84, 609-12, 619-26, 717-20 omitted.",
+            "Attributed Title": "\n\u2026Here begynne\u00fe \u00fee prologe of \u00fee wife of Bathe (f.\n                        70v); The wife of Bathe (RT); Here endeth the Prolage of the /\n                    wyfe of Bathe\u2026 (f. 80v)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 70v-80v"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nExperience \u00feough none auctoriteWere in \u00feis world is right\n                    y nogh for me\u2026\n",
+            "Last Lines": "\n\u2026If I haue licence of \u00feis worthi FrereYis dame quod he\n                    tell forth & I wil here\n",
+            "Note": "\nIII.575-84, 609-12, 619-26, 706, 717-20, 722 omitted.",
+            "Attributed Title": "\n\u2026And next begynneth \u00fee prolog of \u00fee wife of Bath (f.\n                        109v); The Prolog (RT); Here endeth \u00fee Prolog of \u00fee\n                    Wife of Bathe\u2026 (f. 119)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 109v-119"
+        },
+        "BodLauMis600": {
+            "First Lines": "\nExperiment \u00feough noon auctoriteWere in \u00feis worlde is\n                    right I nough for me\u2026\n",
+            "Last Lines": "\n\u2026And seide \u00feeef \u00feus mychel am I wrekeNow wil I die I\n                    mai no lenger speke\u2026\n",
+            "Note": "\nIII.811-28 lost; 575-84, 609-12, 717-20 omitted; spurious lines follow\n                    332. Fol. 88 is a seventh-century replacement leaf.",
+            "Attributed Title": "\nHEre begynne\u00fe \u00fee prolog of \u00fee wif of Ba\u00fee (f.\n                        75v); the prologe of ba\u00fee (RT)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 76-87v"
+        },
+        "BodLauMis739": {
+            "First Lines": "\n[E]xperience thogh noone auctoriteWere in this worlde is right\n                    ynogh for me\u2026\n",
+            "Last Lines": "\n\u2026So blisse his soule for his mercy dereNow wold I seyn my tale\n                    if \u021de will here\n",
+            "Note": "\nIII.20, 230, 609-12, 619-26, 716-20, 739-48, 826-56 omitted; spurious\n                    line follows 192. Lines 829-56, omitted in this MS, are supplied on\n                    seventeenth-century added leaf, f. 140a).",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 128-140"
+        },
+        "BodRawPoe141": {
+            "First Lines": "\nExperyence though non auctoriteWere in this worlde is ryght Inough\n                    for me\u2026\n",
+            "Last Lines": "\n\u2026Yif I haue licence of this worthy frereYes dame telle forth\n                    your tale & I wol hit here\n",
+            "Note": "\nIII.715-846 lost; 195-6, 255-7, 260, 575-84, 609-12, 619-26, 671\n                    omitted; 185-6, 509-10 reversed.",
+            "Attributed Title": "\nHere bygynneth the prolog of the wyfes tale of Bathe (f. 124); The wyfe of\n                    Bathe (RT)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 124-135"
+        },
+        "BodRawPoe149": {
+            "First Lines": "\nExperyment though non auctoriteWere in this worlde it is right ynow\n                    for me\u2026\n",
+            "Last Lines": "\n\u2026If I have licence of this worthi frereYis dame quod he tel\n                    forth and I wil here\n",
+            "Note": "\nIII.575-84, 609-12, 717-20 omitted; spurious line follows\n                    50.",
+            "Attributed Title": "\n\u2026and he begynnith / the wif of bathes prolog and hir tale foleweth\n                    (f. 58); prologe bathe vxoris (f. 58, margin); the wif of bathe\n                    (RT)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 58-64v"
+        },
+        "BodRawPoe223": {
+            "First Lines": "\nExperience thou\u021d non auctoriteWere in this world is right I\n                    now for me\u2026\n",
+            "Last Lines": "\n\u2026If I haue licence of this worthi frereYes dame telle forth\n                    quod he and I will here\n",
+            "Note": "\nIII.696-766 lost; 575-84, 609-12, 619-26, omitted; spurious lines follow\n                    543, 544.",
+            "Attributed Title": "\n\u2026And here beginneth the Prolog of the wif of Bathe (f. 125); The wif\n                    of bathe (RT); Here endith the Prolog of the wif of Bathe\u2026 (f.\n                    136)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 125-136"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nExperience though noon auctoriteWere in this worlde is right I nogh\n                    for me\u2026\n",
+            "Last Lines": "\n\u2026Yef I haue licence of this worthy frereYis dame quod he telle\n                    forth and I wille here\n",
+            "Note": "\nIncludes III.44a-f; 354 inserted in margin.",
+            "Attributed Title": "\nHere bygynneth the prologe of the tale of the wyfe of Bathe (f. 72); Here\n                    endeth the prologe of the tale\u2026 (f. 83)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 72-82v"
+        },
+        "OxfCCC198": {
+            "First Lines": "\nExperiment \u00feough non auctoriteWere in \u00feis world is right\n                    ynough for me\u2026\n",
+            "Last Lines": "\n\u2026[torn]f \u00feis wor\u00fei frere[torn]for\u00fe \u00fei tale\n                    I wol here\n",
+            "Note": "\nIII.146-217 lost; 10, 575-84, 609-12, 717-20 omitted; 24 left blank,\n                    supplied later by fifteenth-century hand.",
+            "Attributed Title": "\nPrologus vxoris de Bathe Co vijo (f. 100,\n                    margin); Prologus vxoris de Bathe (RT, trimmed on most folios,\n                    rubric)",
+            "Facsimiles": "\n\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n\n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 100-110v"
+        },
+        "OxfNew314": {
+            "First Lines": "\nExperience thou\u021d non auctoriteWere in this worlde is ri\u021dt\n                    ynow for me\u2026\n",
+            "Last Lines": "\n\u2026Yf I haue licence of this worthi frere\u021cis dame quod he\n                    tel forth I wol here\n",
+            "Note": "\nIncludes III.44a-f; 152, 197, 381 omitted (152 supplied later in\n                    margin); 433-4 reversed; spurious line follows 332.",
+            "Attributed Title": "\n\u2026and begynneth the Prolog of the Wif of Bathe (f. 96v);\n                    Bathe (f. 96v, margin); wiff of Bathe (RT); Here endith \u00fee Wiff\n                    of Bathis Prolog\u2026 (f. 109)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 96v-109"
+        },
+        "OxfTri49": {
+            "First Lines": "\nExperience thoughe non auctoritewere in this worlde is right I nowe\n                    for me\u2026\n",
+            "Last Lines": "\n\u2026yf I haue licence of this worthi frereyis dame quod he telle\n                    forthe thi tale I wille here\n",
+            "Note": "\nIII.374, 408, 609-12, 619-26, 699, 717-20, 814 omitted; 672-748 follow\n                    818.",
+            "Attributed Title": "\n\u2026Prologus vxoris Bath (f. 73); Bathe (RT)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 73-85v"
+        },
+        "CULDd424": {
+            "First Lines": "\nExperience though noon auctoriteeWere in this world is right I now\n                    for me\u2026\n",
+            "Last Lines": "\n\u2026If I haue lycence of this worthy Frere\u021cis dame quod he\n                    tell forth & I wyl here\n",
+            "Note": "\nIncludes III.44a-f.",
+            "Attributed Title": "\n\u2026Incipit prologus Vxoris de Bathe (f. 67); Hic desinit\n                        prologus\u2026 (f. 76v)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n\n",
+            "folio": "ff. 67-76v"
+        },
+        "CULGg427": {
+            "First Lines": "\n\u2026But \u00feis word is not take of euery wyghtBut \u00feere as\n                    god lust \u021deue it of hise my\u021dt\u2026\n",
+            "Last Lines": "\n\u2026\u021cif I haue lycens of \u00feis wor\u00fei frere\u021cis\n                    dame telle forth & I schal here\n",
+            "Note": "\nIII.1076 lost; 717-20 omitted.",
+            "Attributed Title": "\n\u2026Here begynnyth the wyf of Bathe hire prologe (f. 210v);\n                    Here endith \u00fee prologe of the wyues tale of Bathe\u2026 (f. 222)",
+            "Facsimiles": "\n\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James. \n             The Cambridge MS (University Library, Gg.4.27) of Chaucer\u2019s\n                Canterbury Tales.\nChaucer Society\n         Series 1, nos. 4, 10, 17, 28, 33, 40, 52, 66. London: Tr\u00fcbner,\n            1868-79. \nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n\n",
+            "folio": "ff. 212-222"
+        },
+        "CULIi326": {
+            "First Lines": "\nO Experience though noone auctoriteWere in this worlde y nough for\n                    me\u2026\n",
+            "Last Lines": "\n\u2026I haue licence of this worthy ffrereYes dame quod he telle\n                    forthe and I wil here\n",
+            "Note": "\nIncludes III.44a-f; 95, 686-9 omitted; blank line follows 96; blank\n                    lines left at 584, 590; 619-26 follow 610; spurious lines follow 136, 332; 433-4\n                    reversed.",
+            "Attributed Title": "\n\u2026and here / Begynneth the wyf of Bathes Prologe (f. 109); Wyfe of\n                    Bathe (RT); Here endeth the wyfes prologe of Bathe\u2026 (f. 119)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 109-119"
+        },
+        "CULMm25": {
+            "First Lines": "\nExperimente thogh non auctoriteWere in \u00feis worlde is\n                    ri\u021dht ynogh for me\u2026\n",
+            "Last Lines": "\n\u2026\u021ciff I haf licence of \u00feis worthy frere\u021cis dame\n                    quod he tell forth \u00fei tale I will her\n",
+            "Note": "\nIII.302, 575-84, 609-12, 717-20 omitted; 378 follows 380.",
+            "Attributed Title": "\nHere begynneth \u00fee prologe of \u00fee wyffe of Bathe (f.\n                        113v); Capitulum vijm (f. 113v,\n                    margin); \u00fee wyffe of bathe (RT)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 113v-123"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[E]Xperyment though none AuctoryteWere in this world ys ry\u021dte\n                    y nowh for me\u2026\n",
+            "Last Lines": "\n\u2026Yf I haue lycence of this worthy ffrere\u021cys dame quoth he\n                    telle forth your tale y wol here\n",
+            "Note": "\nIII.7-8, 75-8, 275-6, 297-302, 340-6, 497-500, 575-84, 609-112, 619-26,\n                    673-8, 681, 686, 717-20, 773-4, 740, 825-6 omitted; spurious line follows\n                    685.",
+            "Attributed Title": "\nThe prolog of \u00fee Wyfe of Bath (f. 130); W[trimmed] (RT)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 130-141v"
+        },
+        "CamTCC582": {
+            "First Lines": "\nExperience thou\u021d non AuctoriteWere in this world is ri\u021dt\n                    I now for me\u2026\n",
+            "Last Lines": "\n\u2026If I haue licence of this worthi FrereYis dame telle forth\n                    and I will hiere\n",
+            "Note": "\nIII.575-84, 609-12, 619-20, 717-20 omitted; spurious lines follow 343,\n                    344.",
+            "Attributed Title": "\nA Prolog of the wif of Bathe (f. 53v)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 53vb-58va"
+        },
+        "CamTCC595": {
+            "First Lines": "\nExperyence though none AuctoriteWere in this worlde right ynough to\n                    me\u2026\n",
+            "Last Lines": "\n\u2026If I haue licence of this worthy frereYes dame quod he telle\n                    forth and I wolle here\n",
+            "Note": "\nIncludes III.441-f; 197 omitted; spurious lines follow 136, 312; 433-4\n                    reversed; 510 follows 536; 656 inserted in margin.",
+            "Attributed Title": "\n\u2026And / begynneth the prologe of the wiff of Bathe (f.\n                    120v); Here endith the Wyff of Bathes Prologe (f. 135)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 120v-135"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nExperience thouh noon auctoriteWere in this worlde is ryht y now to\n                    me\u2026\n",
+            "Last Lines": "\n\u2026Yif y haue lycence of this worthi frereYis dame quod he telle\n                    forth and y wol her\n",
+            "Note": "\nIII.90, 111, 575-84, 609-12, 619-26, 717-20, 777-8 omitted.",
+            "Attributed Title": "\n& Incipit prologus Vxoris de Bathe (f. 88v, foot);\n                    Prolog of Bathe (RT); Explicit Prologus vxoris de Bathe\u2026 (f.\n                        102v)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 88-102v"
+        },
+        "BLAdd35286": {
+            "First Lines": "\nExperience thogh noon auctoriteWere in this world is rygh I nogh\n                    for me\u2026\n",
+            "Last Lines": "\n\u2026Yif I haue licence of this worthi frereYis dame quod he telle\n                    forth and I wol here\n",
+            "Note": "\nIII.619-26, 717-20 omitted; 575-84 follow 586.",
+            "Attributed Title": "\n\u2026Here bigynneth the prologe of the Wyfes tale of bathe (f.\n                        51v); The Wyf of bathe (RT); Here endyth the prologe of the wifes\n                    tale of bathe\u2026 (f. 62v)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\n\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \nHorobin,  Simon. \n             \u201cA Transcription and Study of British Library MS Additional 35286 of\n                Chaucer\u2019s Canterbury Tales.\u201d \n         Diss. Univ. of Sheffield, 1997. \n\n",
+            "folio": "ff. 51v-62v"
+        },
+        "BLEge2726": {
+            "First Lines": "\nExperience though noon auctoriteeWere in this world is right ynough\n                    for me\u2026\n",
+            "Last Lines": "\n\u2026Yf I haue licence of this worthy frereYis dame koth he tell\n                    forth and I woll here\n",
+            "Note": "\nIncludes III.44a-f.",
+            "Attributed Title": "\n\u2026& incipit / Prologus vxoris de Bathe (f. 78v);\n                        Hic desinit prologus vxoris de Bath\u2026 (f.\n                    89v)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 79-89v"
+        },
+        "BLEge2863": {
+            "First Lines": "\n\u2026Wel but \u00feat I axe whi the fifte manWas none housbonde\n                    to \u00fee samarithan\u2026\n",
+            "Last Lines": "\n\u2026Late goo fare wel \u00fee deuel goo \u00feere withThe flour\n                    is goon \u00feere is no more to telle\u2026\n",
+            "Note": "\nIII.1-20, 97-248, 478-856 lost; 378 omitted.",
+            "Attributed Title": "\nThe wyf Of bathe (RT)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 83-86v"
+        },
+        "BLEge2864": {
+            "First Lines": "\nExperience thouh noon AuctoriteWere in this world is riht I nowh\n                    for me\u2026\n",
+            "Last Lines": "\n\u2026Yif I have licence of this worthi freereYis dame quod he\n                    telle forth and I wole heere\n",
+            "Note": "\nIII.575-84, 609-12, 619-26, 717-20, 777-8 omitted.",
+            "Attributed Title": "\nHeer begynneth the prolog of the wyves tale of bathe (f. 81v);\n                    The prolog of the wyff of bathe (RT); hic finitur prologus vxor de\n                    bathe\u2026 (f. 92, margin)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 81v-92"
+        },
+        "BLHar1758": {
+            "First Lines": "\nExperyence though non auctoriteWere in this worlde is right y nough\n                    for me\u2026\n",
+            "Last Lines": "\n\u2026If I haue licence of this worthi ffrereYes dame quod he tell\n                    forth thi tale I will here\n",
+            "Note": "\nIII.382, 575-84, 717-20 omitted; 609-12, 619-26 inserted in margin;\n                    provision made to insert 717-20 in margin.",
+            "Attributed Title": "\nHere begynneth the Prolog of the wif of Bathe (f. 89); The Wif\n                    of Bathe (RT); Here endith the prolog of the Wif of Bathe (f. 97v,\n                    following III.828); The wordis of \u00fee ffrere (f. 97v, preceding\n                    III.829, in the margin) ",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 89-97v"
+        },
+        "BLHar7334": {
+            "First Lines": "\nExperiens \u00feough noon auctoriteWere in \u00feis world it were\n                    ynough for me\u2026\n",
+            "Last Lines": "\n\u2026If I haue licence of \u00feis wor\u00fey frere\u021cis dame\n                    quod he tel for\u00fe and I schal heere\n",
+            "Note": "\nIII.575-84, 605-12, 619-26, 717-20 omitted.",
+            "Attributed Title": "\n\u2026Here bygynneth the prologe of the wyf of Bathe (f. 86v);\n                    The Wyf Of Bathe (RT)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n\n",
+            "folio": "ff. 86v-97"
+        },
+        "BLHar7335": {
+            "First Lines": "\n\u2026And euery hath of god a propre yiftSom this some that as hym\n                        m liketh shift\u2026\n",
+            "Last Lines": "\n\u2026Yif y haue licence of this worthi frereYis dame quod he telle\n                    forth and y wol here\n",
+            "Note": "\nIII.1-102 lost; 575-84, 609-12, 619-26, 717-20 omitted; spurious lines\n                    follow 758.",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 62-72v"
+        },
+        "BLLan851": {
+            "First Lines": "\nThan schortly ansewarde the wife of BathAnd swore a wonder grete\n                    ha\u00feeBy goddes bones I wil tel nextI will nouht close bot say\n                    \u00fee textExperiment \u00feouhe none auctoriteWhere in \u00feis\n                    werlde is riht y nouhe for me\u2026\n",
+            "Last Lines": "\n\u2026\u021cif I haue lycence of \u00feis wor\u00fei frere\u021cis\n                    dame quod he tell for\u00fee \u00fei tale I wil here\n",
+            "Note": "\nFour spurious lines added before III.1 to function as link (see above);\n                    575-84, 609-12, 619-26, 717-20 omitted.",
+            "Attributed Title": "\n\u2026Incipit prologus vxoris de Bath (f. 87); \u00fee Wyf of\n                    Ba\u00fee (RT)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n\n",
+            "folio": "ff. 87-97"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nExperimente \u00feoughe none AuctoryteWere in \u00feis worlde\n                    righte ynoughe For me\u2026\n",
+            "Last Lines": "\n\u2026Yefe I haue lycence of this worthye FryerYesse dame quod he\n                    telle For\u00fee thy tale I woll here\n",
+            "Note": "\nIncludes III.44a-f; 135 omitted; 259 inserted in margin; 138 follows\n                    134; spurious lines follow 137, 332.",
+            "Attributed Title": "\n\u2026And begynnyth \u00fee prolog of the wyf of bathe (f.\n                    123v); Her Endeth the prolog of the Wyf of Baath\u2026 (f.\n                        136v)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 123v-136v"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nOure oost gan tho to loke vp anonGode men quod he herkeneth\n                    euerichonAs euere mote I drynk wyn or aleThis marchande hath I tolde a\n                    mery taleHow Ianuarie hadde a lither IapeHis wyf put in his hood an\n                    apeBut hereof I wil leue of as nowDame wyf of Bath quod he I pray\n                    \u021dowTelle vs a tale now next after \u00feisSire oost quod she so\n                    god my soule blisAs I fully therto wil consenteAnd also it is myn hole\n                    ententeTo done \u021dow alle disporte as \u00feat I canBut holde me\n                    excused I am a womanI can not reherse as these clerkes kuneAnd\n                    ri\u021dt anon she hath hir tal byguneExperience though noon\n                    auctoriteWere in \u00feis world is right I now\u021d for\n                    me\u2026\n",
+            "Last Lines": "\n\u2026So blesse his sowle for his mercy dereNow wole I seyn my tale\n                    if \u021de wil here\u2026\n",
+            "Note": "\nSixteen spurious lines precede III.1 to function as link; 190; 575-84,\n                    609-12, 619-26, 717-20, 739-48, 829-56 omitted; blank line follows 192 with\n                        \u2018deficit\u2019 in margin.",
+            "Attributed Title": "\n\u2026The prolog of the Wyf of Bathe (f. 105, margin); Here endith the\n                    prolog And begynneth the tale (f. 105, following spurious lines added as link\n                    [see above]) The Wyf of Bathe (RT)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 105-115"
+        },
+        "BLSl1685": {
+            "First Lines": "\nExperyment \u00feough non auctoryteWere in \u00feis worlde is\n                    ri\u021dt ynou\u021de for me\u2026\n",
+            "Last Lines": "\n\u2026Yf I haue licence of \u00feis wor\u00fei frere\u021cis dame\n                    quod he telle forthe \u00fei tale I wolle here\n",
+            "Note": "\nIII.216, 378, 57584, 590, 609-12, 619-26, 717-20 omitted; 23-4\n                    reversed.",
+            "Attributed Title": "\n\u2026Here begynnethe \u00fee Prologe of \u00fee wyf of Bathe (f.\n                        102v); The wyf Of Bath (RT); Here endethe the prologe of the Wyf\n                    of Bathe\u2026 (f. 114)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 103-114"
+        },
+        "BLSl1686": {
+            "First Lines": "\nExperiment though non AuctoriteWere in this world is right I nowe\n                    for me\u2026\n",
+            "Last Lines": "\n\u2026Yf I have licence of this worthy frereYis dame quod he telle\n                    forthe thy tale I wille here\n",
+            "Note": "\nIII.138, 575-84, 609-12, 619-26, 717-20 omitted.",
+            "Attributed Title": "\n\u2026And here begynneth \u00fee Prolog of the Wif of Bathe (f. 118);\n                        [A] Tale off the The Prolog off the Wiff of Bathe (RT); [T]He\n                    wiff off Bathes Prolog (RT); Here endith the Prolog of the Wyf of Bathe\u2026\n                    (f. 132)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 118-132"
+        },
+        "NLWPen392": {
+            "First Lines": "\nExperience thogh noon AuctoriteeWere in this world is right ynogh\n                    for me\u2026\n",
+            "Last Lines": "\n\u2026If I haue licence of this worthy frereYis dame quod he tel\n                    forth and I wol heere\n",
+            "Note": "\nIII.575-84, 609-12, 717-20 omitted; 502 inserted in margin.",
+            "Attributed Title": "\nHere bigynneth the prologe of the tale / of the wyf of Bathe (f. 58); Here\n                    endeth the prologe of the wyf of Bathe (f. 68)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "ff. 58-68"
+        },
+        "Alnwick455": {
+            "First Lines": "\nExperiens \u00feou\u021d noon Autoritewere in this world is\n                    ri\u021dt I now\u021d for me\u2026\n",
+            "Last Lines": "\n\u2026Yff I have licence of this worthy Frere\u021cis Dame quod he\n                    tel forth \u021deur tale & I wol heer\n",
+            "Note": "\nIII.263-4, 448-9, 539-42, 575-84, 609-12, 717-20 omitted.",
+            "Attributed Title": "\n\u2026And here begynnyth the Wyff of bath hir prolog (f. 87v);\n                    Here endith the prolog of the Wyff of Bathe (follows 828 on f.\n                    98v)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 87v-98v"
+        },
+        "GULHun197": {
+            "First Lines": "\nExperyment though none auctoriteWere in \u00feis world is right y\n                    nough for me\u2026\n",
+            "Last Lines": "\n\u2026Yf I haue licence of this worthy frereYes dame telle forth\n                    quod he and I wole here\n",
+            "Note": "\nIII.135-7, 575-84, 609-12, 619-26, 717-20, 808 omitted; spurious lines\n                    follow 343, 344.",
+            "Attributed Title": "\n\u2026And now begynneth the prolog of \u00fee wyfe of Bathe (f.\n                        45v); The Wyfe of Bathe (RT)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 45vb-50ra"
+        },
+        "Holkham667": {
+            "First Lines": "\nExperience though none auctoriteeWere in this werlde right ynowe\n                    for me\u2026\n",
+            "Last Lines": "\n\u2026If I haue licence of this worthy frereYis dame quod he tell\n                    forth and I woll here\n",
+            "Note": "\nIII.11-13, 45-50, 53-4. 73-4, 437-8, 575-84, 609-12, 619-26, 717-20,\n                    739-48 omitted; blank line follows 9; 81-2 reversed.",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 50ra-55rb"
+        },
+        "Lichfield29": {
+            "First Lines": "\nExperience though noon auctoriteWere in \u00feis world is right\n                    ynogh for me\u2026\n",
+            "Last Lines": "\n\u2026\u021cif I haue licence of this worthy frere\u021cis dame\n                    quod he tel forth \u00fei tale I wol here\n",
+            "Note": "\nIII.378, 575-84, 609-12, 619-26, 717-20 omitted.",
+            "Attributed Title": "\n\u2026And bigynneth / the prologe of the good wyf of Bathe Prologus (f.\n                        108v, rubric); The wyf Of Bathe (RT); Thus endeth / the prologe\n                    of the Wyf of Bath The wordes of \u00fee Frere (rubric, f. 118v,\n                    following 828)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 108v-119"
+        },
+        "Lincoln110": {
+            "First Lines": "\nExperience \u00feou\u021d non auctoriteWere in \u00feis world is\n                    ri\u021dt I now for me\u2026\n",
+            "Last Lines": "\n\u2026Ief I haue license of \u00feis wor\u00fei frere\u021cis dame\n                    quod he telle forth I shall you here\n",
+            "Note": "\nIII.190, 575-84, 605-12, 619-26, 661, 686, 717-20, 778 omitted; 110 left\n                    blank and supplied later; spurious lines follow 664, 776; 757-8\n                    reversed.",
+            "Attributed Title": "\nThe Wyf of Bathe (RT)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 91v-102v"
+        },
+        "LonPhys388": {
+            "First Lines": "\nExperience though non AuctoriteWere in this world were Right Inow\n                    for me\u2026\n",
+            "Last Lines": "\n\u2026If I had licence of this worthy frereYis dame telforth and I\n                    wil here\n",
+            "Note": "\nText is disordered after 156, producing: 1-156, 429-50, 397-428, 451-78,\n                    223-396, 157-222; III.378, 575-84, 609-12, 615-16, 619-26, 694, 703, 717-20\n                    omitted; 223-4, 479-80, 735-6 reversed; spurious line follows 705.",
+            "Attributed Title": "\n\u2026Incipit prologus Vxoris de bath (f. 129v);\n                        Explicit prologus\u2026 (f. 143)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 130-143"
+        },
+        "RylandsEng113": {
+            "First Lines": "\nExperience \u00feough noon auctoriteWere right y nowgh in \u00feis\n                    wordil for me\u2026\n",
+            "Last Lines": "\n\u2026If I haue licence of this wor\u00fei frereYis dame quod he\n                    tel forth & I schal you here\n",
+            "Note": "\nIncludes III.44a-f.",
+            "Attributed Title": "\n\u2026Incipit prologus fabule vxoris de Bathe (f. 56v);\n                        prologus fabule vxoris de Bathe (f. 56v, margin); Hic\n                        finitur prologus vxoris de Bathe\u2026 (f. 64)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 56v-64"
+        },
+        "Petworth7": {
+            "First Lines": "\nExperience thou\u021de noon autoriteWere in \u00feis world\n                    ri\u021dt ynou\u021de for me\u2026\n",
+            "Last Lines": "\n\u2026If I haue licence of \u00feis wor\u00fei frere\u021dis dame\n                    quod he telle for\u00fe \u021doure tale we wil her\n",
+            "Note": "\nIII.575-84, 609-12, 619-26, 717-20 omitted.",
+            "Attributed Title": "\n\u2026And here bygynne\u00fe \u00fee prologe of \u00fee wif of Bathe\n                    (rubric, f. 129); \u00fee Wiff Of Bath (RT); Explicit prologus\u2026\n                    (rubric, f. 141); Thus ende\u00fe the prologe of \u00fee Wiff of Bath / and here\n                    bygynneth \u00fee Tale (rubric, follows 828 on f. 140v)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n\n",
+            "folio": "ff. 129v-141"
+        },
+        "Austin143": {
+            "First Lines": "\n\u2026Husbondes at the Cherche dore haue y wedded fiveyif y so\n                    ofte myght haue weddid be\u2026\n",
+            "Last Lines": "\n\u2026Yif y haue licence of this worthy FrereYis Dame quod he tell\n                    furth and y shall you here\n",
+            "Note": "\nIncludes III.44a-f; III.1-5 lost.",
+            "Attributed Title": "\nWife of Bathe (RT); Hic finitur Prologus vxoris de Bathe\u2026 (f.\n                    75)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 65-75"
+        },
+        "ChicagoUL564": {
+            "First Lines": "\nExperience \u00feeyh non auctoriteWere in \u00feis world is ryth\n                    ynowh for me\u2026\n",
+            "Last Lines": "\n\u2026\u021cif y haue licence of \u00feis worthy frere\u021cis dame\n                    telle forth \u021doure tale & y wyl hit here\n",
+            "Note": "\nIII.195-6, 255-7, 260, 575-84, 609-12, 619-26, 671, 717-20 omitted;\n                    185-6, 509-10 reversed.",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 120v-134"
+        },
+        "PierpontM249": {
+            "First Lines": "\nExperience though noon auctoriteWere in this world is right ynow\n                    for me\u2026\n",
+            "Last Lines": "\n\u2026\u021cif I have licence of this worthy Frere\u021cis dame\n                    quod he tel forth thy tale I wol here\n",
+            "Note": "\nIII.378, 575-84, 609-12, 717-20 omitted.",
+            "Attributed Title": "\n\u2026And bigynneth / the prologe of the goode Wyf of Bathe (f.\n                        106v); Prologus (f. 106v, margin); The wyf Of\n                    Bathe (RT); Thus endeth the prologe of the Wyf of Bathe / The wordes of the\n                    Frere (follows 828 on f. 117)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 106v-117"
+        },
+        "PhilRos10841": {
+            "First Lines": "\nExperyens thow\u021d non auctoriteWere in thys worlde ryght y now\n                    for me\u2026\n",
+            "Last Lines": "\n\u2026If y haue licence of thys worthy frere\u021cys dam telle\n                    forth thy tale y woll hit here\n",
+            "Note": "\nIII.372-87, 412-51 lost; 388-411 partially lost (folio torn); 500,\n                    575-84, 609-12, 619-26, 717-20 omitted.",
+            "Attributed Title": "\nHere bygynneth \u00fee prologe of the wyff of Bathe (rubric, f. 79); The\n                    Wyff of Bathe (RT); Here endeth \u00fee prologe of \u00fee / good wyff of Bathe\n                    (rubric, follows 828 on f. 89)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 79-89"
+        },
+        "PUL100": {
+            "First Lines": "\nExperyence thogh non AutoryteWere in this world is right I now for\n                    me\u2026\n",
+            "Last Lines": "\n\u2026Yf I have licence of this worthy ffrereDame quod he tel forth\n                    and wee wol here\n",
+            "Note": "\nIII.56-126, 563-629 lost; includes III.44a-f; 152, 157-9, 197, 381, 384\n                    omitted; 433-4 reversed; spurious line follows 332.",
+            "Attributed Title": "\n\u2026And here begynnyth \u00fee wyfe of Bathe her Prolog (rubric, f. 77);\n                    Prologg (RT); Here endith the wyfe of Bathe her prolog\u2026 (rubric, f.\n                    87)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 77-87"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nExperience though noon AuctoriteeWere in this world were right\n                    ynogh to me\u2026\n",
+            "Last Lines": "\n\u2026If I haue licence of this worthy frereYis dame quod he tel\n                    forth and I wol heere\n",
+            "Attributed Title": "\n\u2026The Prologe of the wyues tale of Bathe (f. 63); Biholde the wordes\n                    bitwene the Summonour and the Frere (follows 828 on f. 71v); Heere\n                    endeth the wyf of Bathe hir Prologe\u2026 (f. 72)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n\n",
+            "folio": "ff. 63-72"
+        },
+        "BNangl39": {
+            "First Lines": "\nExperience \u00feough non auctoriteewere in \u00feis world is right\n                    ynough[gutter]\u2026\n",
+            "Last Lines": "\n\u2026yif I haue licence of this wurthi frereyis dame quod he telle\n                    on for I wil heere\n",
+            "Note": "\nIII.61, 260-1, 575-84, 609-12, 619-26, 717-20 omitted; 656-7 reversed;\n                    spurious line follows 66.",
+            "Attributed Title": "\n\u2026& subsequenter incipit prolo / gus fabule vxoris de bathe\n                    (f. 37vb); Explicit Prologus fabule vxoris / de bathe et\n                        consequenter sequntur / verba ffratris ad vxorum\u2026 (follows 828 on\n                    f. 42rb)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 37vb-42rb"
+        },
+        "TokyoTak22": {
+            "First Lines": "\nExperience thogh non auctoritewere in \u00feis worlde is ryght I\n                    nough for me\u2026\n",
+            "Last Lines": "\n\u2026\u021dif I haue licence of \u00feis worthi frere\u021dis dame\n                    telle forth and I schall here\n",
+            "Note": "\nIncludes III.44a-f. 575-84, 686-9, omitted.",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 30-47v"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nExperience thou\u021d non AuctoriteWere in this world is ri\u021dt\n                    Inou\u021d for me \u2026\n",
+            "Last Lines": "\n\u2026Yis dame quod he tell forth and I wol hiereIf I haue licence\n                    of this worthi frere\n",
+            "Note": "\nIncludes III.44a-f.",
+            "Attributed Title": "\n\u2026Et incipit Prologus Vxoris de Bathe (f. 69); A prolog of the\n                    wif of Bathe (RT)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 70-80v"
+        },
+        "TokyoTak32": {
+            "First Lines": "\nExperience thowgh noon AutoriteeWere in this worlde is\n                    Right I nowgh for mee\u2026\n",
+            "Last Lines": "\n\u2026 Enpoysoned hadde for that sche was his fooLucia likerous\n                    louede hiere housbonde soo\n",
+            "Note": "\nIII.753-856 lost; 378, 380, 575-84, 609-12, 619-26, 717-20\n                    omitted.",
+            "Attributed Title": "\n\u2026Here be gynniht the Wyif of bathe prologge (f. 70rb); The\n                    wyif of bathe (RT)",
+            "Facsimiles": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 70rb-74vb"
+        },
+        "Bodmer48": {
+            "First Lines": "\nExperience though none auctoriteWere in this world is ri\u021dt\n                    ynow for me\u2026\n",
+            "Last Lines": "\n\u2026If I haue licence of this worthi frere Yis dame tel furth and\n                    I shal here\n",
+            "Note": "\nIII.452, 575-84, 609-12, 619-26, 717-20, 743-86 omitted.",
+            "Attributed Title": "\nThe wif of Bathis Prolog (rubric, f. 71)",
+            "Facsimiles": "\n\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n\n",
+            "Editions": "\nRobinson,  Peter,\n                        ed.  \n             The Wife of Bath\u2019s Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 1996. \n",
+            "folio": "ff. 71-81v"
+        }
+    }
+}

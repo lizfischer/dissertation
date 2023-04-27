@@ -1,0 +1,30 @@
+{
+    "_id": 6376,
+    "_header": "When Mary was greet with Gabriel",
+    "Title(s)": "\u2018\u00dee Deuelis Perlement\u2019",
+    "Subjects": "devils",
+    "Versification": "\u2014 eight-line",
+    "_description": "\u2018\u00dee Deuelis Perlement\u2019 \u2014 sixty-three 8-line stanzas",
+    "_witnesses": {
+        "BLAdd15225": {
+            "First Lines": "\nWhen marie was great with GabriellAnd had conceiuid and borne a\n                    child\u2026\n",
+            "Last Lines": "\n\u2026Christ keepe vs out of harme & batefor thy holie spirit\n                    soe speciall\n",
+            "Note": "\nFour-line stanzas in this manuscript.",
+            "Editions": "\nRollins,  Hyder E. \n             Old English ballads, 1553-1625, Chiefly from Manuscripts.\n         Cambridge: Cambridge University Press, 1920: 384-404.\n",
+            "folio": "ff. 48-55v"
+        },
+        "BLAdd37492": {
+            "First Lines": "\nWhan marye was grete with GabryelHadde conseyued and born a\n                    chylde\u2026\n",
+            "Last Lines": "\n\u2026God take oure soules to hys rentIn heuene blys from helle\n                    preson\n",
+            "Attributed Title": "\nHere ys wryten the ffendys parlement / How Ihesu wy\u021dth hys passyon hem\n                    blent (explicit, f. 90v)",
+            "folio": "ff. 83-90v"
+        },
+        "Lam853": {
+            "First Lines": "\nWhanne marye was greet with gabrielAnd had conceyued & boren a\n                    childeAlle \u00fee deuelis of \u00fee eir of er\u00fee & of\n                    helleHelden \u00feer paralement of \u00feat maide mylde\u2026\n",
+            "Last Lines": "\n\u2026He helpe us in alle at heuene \u021dateWi\u00fe seintis to\n                    sitte \u00feere in saleCrist kepe us out of harme and hateffor\n                    \u00fein hooli spirit so special\n",
+            "Attributed Title": "\nExplicit parlamentum of feendis (p. 182, rubric)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Hymns to the Virgin and Christ\u2026and other religious poems.\nEETS\n         o.s. 24 (1867); repr. 1973: 41-57.\n",
+            "folio": "pp. 157-182"
+        }
+    }
+}

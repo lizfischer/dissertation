@@ -1,0 +1,62 @@
+{
+    "_id": 2748,
+    "_header": "It is unknow / What man built this city now",
+    "Note": "Cf. 3801.",
+    "Author(s)": "John Trevisa; Ranulf Higden",
+    "Title(s)": "Polychronicon",
+    "Subjects": "Chester castle; chronicles, verse in",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Glasgow, Glasgow University Library Hunterian 83 (T.3.21): this is Brut chronicle; New York, Pierpont Morgan Library M875 [olim Helmingham Hall]: Only Trevisa\u2019s De Proprietatibus here, not Polychronicon.",
+    "_description": "A verse insert on Chester Castle in Trevisa\u2019s translation of Higden\u2019s Polychronicon (Bk I, Cap. 48) \u2014 thirteen doggerel couplets",
+    "_witnesses": {
+        "CamStJohn204": {
+            "First Lines": "\nHit is unknowewhat man bulde \u00feis citee\n                    nowe\u2026\n",
+            "Last Lines": "\n\u2026Of kyng HaraldePoudre \u00feere \u021dit is halde\n",
+            "folio": "f. 69ra"
+        },
+        "BLCottTibDVII": {
+            "First Lines": "\nChestre castel toun as a werename tak\u00fe of a\n                    castel\u2026\n",
+            "Last Lines": "\n\u2026\u00fear babilon looremore ny\u021dt ha\u00fe truthe \u00fee\n                    more\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 44"
+        },
+        "BLHar1900": {
+            "First Lines": "\nIt is vnknowewhat man bulde \u00feis Cite\n                    now\u00feo legecestria\n                    \u00feeshet now toun of legiones\u2026\n",
+            "Last Lines": "\n\u2026Of kyng haraldepouder \u00feere \u021det is y\n                    halde\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 83"
+        },
+        "BLSto65": {
+            "First Lines": "\nIt is unknowewhat man bulde \u00feis cite nowe\u2026\n",
+            "Last Lines": "\n\u2026Of kyng haraldeponder \u00feer \u021dut is y\n                    halde\n",
+            "Note": "\nWritten as prose. Folio number reflects the most recent\n                    foliation.",
+            "folio": "f. 32rb"
+        },
+        "BLAdd24194": {
+            "First Lines": "\nHit is vnknowewhat man bude \u00feis cite noweTho legecestrias\n                    \u00feesHett now toun of legiones\u2026\n",
+            "Last Lines": "\n\u2026Of kyng haraldePoudre \u00feere \u021dit is I\n                    halde\n",
+            "Note": "\nWritten as verse.",
+            "folio": "ff. 70vb-71ra"
+        },
+        "AbeUL21": {
+            "First Lines": "\nChestre Casteltoun as a werename take\u00fe of a\n                    castel\u2026\n",
+            "Last Lines": "\n\u2026poudre \u00feere \u021dit is jhaldeBacchus & Mercurius.\n                    Mars & venus also laverna\n",
+            "Note": "\n29 lines.",
+            "folio": "f. 45ra-45rb"
+        },
+        "Chetham11379": {
+            "First Lines": "\nHyt ys onknowewhat man bulde \u00feis cite nowe\u00feo\n                    legescestria peshet now toun of legiones\u2026\n",
+            "Last Lines": "\n\u2026And fur\u00fee henry kynger\u00fee ys \u00fear ri\u021dtene\n                    dwellyng\n",
+            "folio": "f. 52v"
+        },
+        "Schoyen194": {
+            "folio": ""
+        },
+        "HunHM28561": {
+            "First Lines": "\nIt is vnknowewhat man bulde \u00feis Cite nowe\u2026\n",
+            "Last Lines": "\n\u2026Of king heraldeponder \u00feere yet is y halde\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 79vb-80ra"
+        }
+    }
+}

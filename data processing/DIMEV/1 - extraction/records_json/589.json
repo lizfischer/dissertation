@@ -1,0 +1,38 @@
+{
+    "_id": 589,
+    "_header": "As Holy Kirk makes mind / Intrauit ventris thalamum",
+    "Subjects": "carols, Nativity",
+    "Versification": "\u2014 four-line, two-line \u2014 abab, aa",
+    "Macaronic": "Latin",
+    "_description": "A macaronic carol of the Nativity \u2014 nine quatrains (abab) and two-line burden: \u2018The almyghty Kyng of blys / Assumpsit carnem virginis\u2019",
+    "_witnesses": {
+        "Bod77": {
+            "First Lines": "\n\u2026trauitfro heuene to herth\u2026\n",
+            "Last Lines": "\n\u2026A sterre befInquirente\n\n",
+            "Note": "\nFragments, on binding strips.",
+            "Editions": "\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon, 1977 (see\n            also Greene (1935)\nXGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977): 13-14.\n",
+            "folio": "ff. 1v;  2"
+        },
+        "BLEge3307": {
+            "First Lines": "\nHoly chyrch of hym makyth myndintrauit ventris\n                    thalamum\u2026\n",
+            "Last Lines": "\n\u2026he vs al to blysse bryngQui cruce mori voluit\n",
+            "Note": "\n5 stanzas and variant four-line burden.",
+            "Editions": "\n\nGreene,  Richard Leighton. \n             \u201cReview of Stevens (1952)\nXStevens,  John. \n             Mediaeval Carols.\nMusica Britannica\n         4. London: Stainer and Bell, 1952, 2nd ed. 1958.\u201d \n             Journal of the American Musicological Society\n         7 (1954): 78-82: 80.\nStevens,  John,\n                        ed.  \n             Mediaeval Carols.\nMusica Britannica\n         4. London: Stainer and Bell, 1952, 2nd ed. 1958: 52.\nGreene,  Richard Leighton,\n                        ed.  \n             A Selection of English Carols.\nClarendon Medieval and Tudor Series.\n         Oxford: Clarendon, 1962: 62-3.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon, 1977 (see\n            also Greene (1935)\nXGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977): 13.\n\n",
+            "folio": "ff. 65v-66"
+        },
+        "BLHar275": {
+            "First Lines": "\nJhesus almyghty kyng of blysAssumpsit carnem\n                    virginis\u2026\n",
+            "Last Lines": "\n\u2026He vs all tohis blys bryngeQui mori cruce\n                    voluit\n\n",
+            "Note": "\nVariant text, and burden: \u2018Joy we all now yn this feste / For\n                        verbum caro factum est\u2019. Transcript c. 1818 in London,  British Library Addit. 39864, f. 160.",
+            "Editions": "\n\nWilliams,  John. \n             \u201cMediaeval Rhymes\u201d \n             Notes and Queries\n         2nd ser. 9 (1860): 439-40: 439.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 16-18; 1977, 12-13.\nGreene,  Richard Leighton. \n             \u201cReview of Stevens (1952)\nXStevens,  John. \n             Mediaeval Carols.\nMusica Britannica\n         4. London: Stainer and Bell, 1952, 2nd ed. 1958.\u201d \n             Journal of the American Musicological Society\n         7 (1954): 78-82: 81.\n\n",
+            "folio": "ff. 146v-147"
+        },
+        "NLS1931": {
+            "First Lines": "\nAs holy kyrke makys myndIntrauit ventris\n                    thalamum\u2026\n",
+            "Last Lines": "\n\u2026He hus all to heuyn bryngQui mortem cruce\n                    voluit\n\n",
+            "Facsimiles": "\nHardman,  Phillipa. \n             The Heege Manuscript: A Facsimile of National Library of Scotland MS\n                Advocates 19.3.1.\n         Leeds Texts and Monographs, n.s. 16. Leeds: School of English,\n            2000. \n",
+            "Editions": "\n\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 16-18; 1977, 12.\nTurnbull,  William Barclay David Donald,\n                        ed.  \n             The Visions of Tundale.\n         Edinburgh: T.G. Stevenson, 1843: 13-40.\nBreul,  Karl. \n             \u201cZwei mittelenglische Christmas Carols.\u201d \n             Englische Studien\n         14 (1890): 401-08: 402-3.\nChambers,  Edmund Kerchever,  and  Frank Sidgwick.  \n             Early English Lyrics\u2026.\n         London: Buller, 1907, 1911 et seq: 134-5.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 123-4.\nDavies,  Reginald Thorne. \n             Medieval English Lyrics: a critical anthology.\n         London, 1963; Evanston, IL: Northwestern UP, 1964: 218-19.\n\n",
+            "folio": "ff. 59-59v"
+        }
+    }
+}

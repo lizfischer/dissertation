@@ -1,0 +1,19 @@
+{
+    "_id": 6553,
+    "_header": "Who may the lion flee that by the wood went",
+    "Subjects": "sermons, verse in; scripture, translations from",
+    "Versification": "\u2014 three-line \u2014 aaa",
+    "_description": "Three monorhyming lines in a Latin sermon, translating Esdras 16:6-7",
+    "_witnesses": {
+        "CULIi38": {
+            "Transcription": "\nHo may \u00fee ly[o]un fle \u00feat by \u00fee wode wentHo may\n                    \u00fee [fuyr] quenche in \u00fee drye strem ytentO\u00feer \u00fee archer\n                    for to letten \u00feat stefileche ad ybent\n",
+            "Editions": "\nErb,  Peter C. \n             \u201cVernacular Material for Preaching in MS Camb. Univ. Lib.\n                Ii.III.8.\u201d \n             Mediaeval Studies\n         33 (1971): 63-84: 71.\n",
+            "folio": "f. 72"
+        },
+        "Lincoln44": {
+            "Transcription": "\nQwo may \u00fee hwngri lyon sle \u00feat wod es wentQwo may \u00fee\n                    fyyer qwench in dry herdys hentQwo may \u00fee arw withstownd \u00feat owt\n                    the styf bow es sent\n",
+            "Editions": "\nWenzel,  Siegfried. \n             \u201cUnrecorded Middle-English Verses.\u201d \n             Anglia\n         92 (1974): 55-78: 77.\n",
+            "folio": "f. 334"
+        }
+    }
+}

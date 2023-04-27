@@ -1,0 +1,48 @@
+{
+    "_id": 4342,
+    "_header": "Pallas Evander and his son lieth here",
+    "Author(s)": "John Trevisa; Ranulph Higden",
+    "Title(s)": "Polychronicon",
+    "Subjects": "epitaphs; Pallas the giant",
+    "Versification": "\u2014 three-line \u2014 aaa",
+    "Bibliographic Ghosts": "Manchester, Chetham\u2019s Library 11379 [Mun. A.6.90]: this copy of Trevisa is missing folios between 45 and 46 where text jumps from I.19 to I.31; i.e. no Book I, Chapter 24; Aberdeen, Aberdeen University Library 21: not found in this MS; Glasgow, Glasgow University Library Hunterian 83 (T.3.21): this is Brut Chronicle, not Trevisa; New York, Pierpont Morgan Library M875 [olim Helmingham Hall]: Only Trevisa\u2019s De Proprietatibus here, not Polychronicon.",
+    "_description": "Epitaph of the giant Pallas \u2014 three monorhyming lines in Trevisa\u2019s translation of Higden\u2019s Polychronicon (Book 1, chap. 24)",
+    "_witnesses": {
+        "CamStJohn204": {
+            "Transcription": "\npallas Euander his sone lie\u00fe herehym turnus \u00fee kny\u021dt\n                    wi\u00fe his spereslowe in his manere\n",
+            "Editions": "\n\nBabington,  Churchill,  and  Joseph Rawson Lumby, eds.  \n             Polychronicon Ranulphi Higden Monachi Cestrensis.\n             9 vols. \n             Rolls Series\n         41 (1865-66; repr. Kraus, 1964): 1.125.\nM\u00e4tzner,  Edouard Adolf Ferdinand. \n             Altenglische Sprachproben, I: Poesie.\n         Berlin: Wiedmann, 1867: 2.363.\n\n",
+            "folio": "f. 49ra"
+        },
+        "BLAdd24194": {
+            "Transcription": "\nPallas Euander his sone lie\u00fe herehym turnus \u00fee kny\u021dt\n                    wi\u00fe his sperein his manere\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 51vb"
+        },
+        "BLCottTibDVII": {
+            "Transcription": "\nPallas Euander hys sone ly\u00fe herehym turnus \u00fee kny\u021dt\n                    with hys spereSlou\u021d yn hys manere\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 21"
+        },
+        "BLHar1900": {
+            "Transcription": "\nPallas Euanders sone li\u00fee herehym turnus \u00fee kny\u021dt\n                    wi\u00fe his spereslowe in his maner\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 61v"
+        },
+        "BLSto65": {
+            "Transcription": "\nPallas Euandres sone lyeth hereHym Turnus the knyght with his\n                    spereslowhe in his maner\n",
+            "Note": "\nWritten as prose. Folio number reflects the most recent\n                    foliation.",
+            "folio": "f. 16vb"
+        },
+        "GULHun83": {
+            "folio": ""
+        },
+        "Schoyen194": {
+            "folio": ""
+        },
+        "HunHM28561": {
+            "Transcription": "\nPallas Euanders sone li\u00fe herehim turnus \u00fee kny\u021dt\n                    wi\u00fe his spereslowe in his maner\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 59rb"
+        }
+    }
+}

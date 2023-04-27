@@ -1,0 +1,51 @@
+{
+    "_id": 1194,
+    "_header": "England is right good I ween it is land best",
+    "Note": "For the A text, see 1193; for the C text see 1195.",
+    "Author(s)": "Robert of Gloucester",
+    "Title(s)": "Chronicle",
+    "Subjects": "chronicles",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Robert of Gloucester\u2019s Chronicle, B text \u2014 in couplets",
+    "_witnesses": {
+        "BodDig205": {
+            "First Lines": "\n[E]Nglond is ry\u021dt good I wene hit is londe best\u0152n one ende hit\n                    is ysette of \u00fee worlde al in \u00fee west\u2026\n",
+            "Last Lines": "\n\u2026That of walsche londe clenliche al owteHe wan \u00fee\n                    Signorie were \u00feei neuer so prowte\n",
+            "Attributed Author": "\nRobert of Gloster the Author of this booke (f. 9, added by later\n                    hand)",
+            "folio": "ff. 9-124"
+        },
+        "CULEe431": {
+            "First Lines": "\nInglond ys ryght good I wene hyt ys lond bestIn one ende hyt ys\n                    ysette of the Worlde all in the West\u2026\n",
+            "Last Lines": "\n\u2026That of Walsshe lond clenliche al outeHe wanne the signorye\n                    were they neuere so proute\n",
+            "Note": "\n10600 lines; folios 201-202 missing; note on f. 53 by a\n                    seventeenth-century hand, \u2018This is found to be the Work, which by Mr\n                    Selden is ascribed to Robert of Glocester, who wrote about the time of King\n                    Edward the first. See Titles of Honor pag. 498 edit 1672\u2019;\n                    nineteenth-century transcript is Oxford,  Bodleian Library Rawlinson poet. 13 (SC 14506), pp.\n                    1-308.",
+            "folio": "ff. 53-200v"
+        },
+        "CamMagPep2014": {
+            "First Lines": "\nBut \u021dif \u00feei se nede \u00feat ne made tareyng nouneKyng\n                    Arthure him blessed and boldelyche y nowe\u2026\n",
+            "Last Lines": "\n\u2026That of \u00fee walsshe londe clenlyche al outhe wanne\n                    \u00fee signorye were \u00feei neuer so prout\n",
+            "Note": "\nEquivalent of lines 4216-5811 of the text of London,  British Library Cotton Caligula A.XI.",
+            "Attributed Title": "\npart of Robert of Gloucester\u2019s Poem (added by later hand) (f.\n                    36)",
+            "folio": "ff. 36-62v"
+        },
+        "CamTCC655": {
+            "First Lines": "\nEngelond is swi\u00fee goud ich wene hit is lond bestIn on ende hit\n                    is iset of \u00fee worlde al in \u00fee west\u2026\n",
+            "Last Lines": "\n\u2026\u00deat of \u00fee welische londe clanliche al outI wan\n                    \u00fee seignori\u021de nere hi no so prout\n",
+            "folio": "ff. 2v-159"
+        },
+        "BLSl2027": {
+            "Note": "\nBegins imperfectly.",
+            "folio": "ff. 98-169v"
+        },
+        "UnivLon278": {
+            "First Lines": "\nINglonde ys ryght a merye lond of alle o\u00feere on with \u00fee\n                    bestI sette in \u00fee on ende of \u00fee worlde as here al in \u00fee\n                    west\u2026\n",
+            "Last Lines": "\n\u2026\u00deat of \u00fee welische londe clonliche al outY wan\n                    \u00fee seygorye nere hou no so prou\u021dt\n",
+            "folio": "ff. 1-147"
+        },
+        "HunHM126": {
+            "First Lines": "\nENgelond is swithe good I wene hit is lond bestIn oon ende hit is\n                    yset of \u00fee world al in \u00fee west\u2026\n",
+            "Last Lines": "\n\u2026Edward his sone was \u00feo man of grete prisAt Westmynstre i\n                    crouned strong king & wis\u00deat of \u00fee walische londe clanlich al\n                    outHe wan \u00fee seignorye nere hi no so prout\n",
+            "Note": "\n10280\n                    lines.",
+            "folio": "ff. 1-135"
+        }
+    }
+}

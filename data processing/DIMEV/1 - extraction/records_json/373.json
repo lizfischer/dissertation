@@ -1,0 +1,20 @@
+{
+    "_id": 373,
+    "_header": "All that leven in God listeneth to my lore",
+    "Subjects": "blessings",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A blessing in the Speculum Sacerdotale \u2014 one couplet",
+    "_witnesses": {
+        "BodRawA362": {
+            "Transcription": "\nAlle \u00feat lyuen in god lystene\u00fe to my loreI \u021deue\n                    \u021dou alle my benysoun bo\u00fee lasse & more et cetera\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 25"
+        },
+        "BLAdd36791": {
+            "Transcription": "\nAlle \u00feat leuen in god lystne\u00fe to my loreI yeve yow alle my\n                    beneson bothe lasse and more et cetera\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\n\nWeatherly,  Edward Howell,\n                        ed.  \n             Speculum Sacerdotale.\nEETS\n         o.s. 200 (1936); repr. Kraus: New York, 1971: 121.\nReames,  Sherry L.,\n                        ed.  \n             Middle English Legends\n                of Women Saints.\n         With the assistance of Martha G. Blalock and Wendy R. Larson.\n            Kalamazoo, MI: Western Michigan University for TEAMS, 2003: ff. 96-98, Mary Magdalene only.\n\n",
+            "folio": "f. 68"
+        }
+    }
+}

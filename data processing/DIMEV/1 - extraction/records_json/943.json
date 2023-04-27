@@ -1,0 +1,15 @@
+{
+    "_id": 943,
+    "_header": "By these two trees which here grow upright",
+    "Note": "Adapted from 6060.",
+    "Subjects": "occasional verse; Henry VI, return to London, 1432; chronicles, verse in; pageant verses",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Pageant verses recited by a Tree of Jesse at the return of Henry VI to London, A.D. 1432 \u2014 two stanzas rhyme royal",
+    "_witnesses": {
+        "HarEng766": {
+            "First Lines": "\nBy thise ii Trees which here growe vpryghtfrom Seint Edward abd\n                    also seint LowysThe Rote I take palpaple to eche SightCouered by lyne\n                    from kynges of great pryce\u2026\n",
+            "Last Lines": "\n\u2026Two Riche Coronys Most souerayn & pleasaunceTo bryng In\n                    peas Atwene England & ffraunce\n",
+            "folio": "ff. 360-360v"
+        }
+    }
+}

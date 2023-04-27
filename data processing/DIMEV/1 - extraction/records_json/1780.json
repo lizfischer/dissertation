@@ -1,0 +1,25 @@
+{
+    "_id": 1780,
+    "_header": "Harkeneth all the mild speech / That Matthew here will us teach",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Stephen, saint; sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel \u2018In festo Sancti Stephani\u2019, in \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nHerkne\u00fe alle \u00fee Mylde speche\u00deat Matheu here wol vs\n                    teche\u2026\n",
+            "Last Lines": "\n\u2026To \u00feat blisse he us bringe\u00feat is kyng of alle\n                    kynge. Amen.\n",
+            "Attributed Title": "\nDicebat Ihesu turbis (f. 217vc)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cProprium Sanctorum, Zusatz-Homilien des Ms. Vernon fol. CCXV zur\n                n\u00f6rdlichen Sammlung der Domicalia evangelia.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         81 (1888): 83-114, 300-21: 93.\n",
+            "folio": "ff. 217vc-218vb"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nHErkene\u00fe alle \u00fee milde speche\u00feat Matheu here wol vs\n                    teche\u2026\n",
+            "Last Lines": "\n\u2026To \u00feat blys he vs brynge\u00deat is kyng of alle\n                    \u00feinge. Amen\n",
+            "Attributed Title": "\nDicebat Ihesu turbis (f. 21va)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 21va-22rb"
+        }
+    }
+}

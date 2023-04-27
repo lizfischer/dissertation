@@ -1,0 +1,21 @@
+{
+    "_id": 1977,
+    "_header": "Here is a good confession / That teacheth man to salvation",
+    "Title(s)": "Forma Confitendi",
+    "Subjects": "confession; introductions, to prose texts",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Two couplets prefixed to the Forma Confitendi in prose",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "Transcription": "\nHeer is a good Confession\u00deat teche\u00fe mon to SauacionHow\n                    \u00feat mon schal schriuen him hereTo techen him wel \u00fee\n                    Maneere\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 2.340.\n",
+            "folio": "f. 366vb"
+        },
+        "BLAdd37787": {
+            "Transcription": "\nHere is a goode confessionThat teches man to saluationHow\n                    \u00feat man shalle shryue him hereTo teche him Welle the manere\n",
+            "Editions": "\n\n\nCatalogue of additions to the manuscripts in the British Museum in the\n                years MDCCCCVI-MDCCCCX\u2026.\n         [London]: the Trustees of the British Museum, 1912: 140.\nBaugh,  Nita Scudder. \n             A Worcestershire Miscellany, compiled by John\n                    Northwood, c. 1400, edited from British Museum MS. Add.\n                37,787.\n         Philadelphia, 1956: 87.\nMahoney,  John F. \n             \u201cReview of Baugh (1956)\nXBaugh,  Nita Scudder. \n             A Worcestershire Miscellany, compiled by John\n                    Northwood, c. 1400, edited from British Museum MS. Add.\n                37,787.\n         Philadelphia, 1956.\u201d \n             Speculum\n         34 (1959): 97-9: 98.\n\n",
+            "folio": "f. 3"
+        }
+    }
+}

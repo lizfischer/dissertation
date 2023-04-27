@@ -1,0 +1,25 @@
+{
+    "_id": 6045,
+    "_header": "To you well of honour and worthiness",
+    "Author(s)": "Thomas Hoccleve",
+    "Title(s)": "\u2018Balade au tres noble Roy H[enri] le quint\u2019",
+    "Subjects": "Henry V",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "Thomas Hoccleve, \u2018Balade au tres noble Roy H[enri] le quint\u2019 \u2014 four 8-line stanzas (same three rimes throughout)",
+    "_witnesses": {
+        "CamTCC595": {
+            "First Lines": "\nTo you wele of honor and of worthynesOure christen kinge the heire\n                    and successourvnto Iustinians deuout tenderneIn faithe of Iesu oure\n                    redemptour\u2026\n",
+            "Last Lines": "\n\u2026Obserue it well there to be \u00fee dettourDoeth so and god\n                    in glory shall you stall\n",
+            "Note": "\nAdded to flyleaf by a hand of sixteenth century. Transcript from  Geoffrey Chaucer, Workes, Thynne, 1532 . Followed, without break, by 6826.",
+            "Attributed Title": "\nTo the kinges moste noble grace and To the Lordes and Knightes of the\n                    garter (f. 2)",
+            "folio": "ff. 2-2v"
+        },
+        "HunHM111": {
+            "First Lines": "\nTo yow welle of honur and worthynesseOur right cristen kyng heir\n                    & successour\u2026\n",
+            "Last Lines": "\n\u2026Obserue it wel ther to been yee dettourDooth so and god in\n                    glorie shal yow stalle\n",
+            "Attributed Title": "\nCestes balades ensuyantes feurent faites au tresnoble Roy Henri le quint\n                        que dieu pardoint & au treshonorable conpaignie du Iarter (f.\n                    27)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.   Hoccleve\u2019s Works: The Minor Poems. vol. 1.  EETS\n         e.s. 61 (1892); repr. with Gollancz (1925)\nXGollancz,  Israel. \n             Hoccleve\u2019s Works: The Minor Poems. vol. 2.  EETS\n         e.s. 73 (1925); repr. with 61, 1970 73; rev. J.\n            Mitchell and A. Ian Doyle, 1970: 41-2.\nSkeat,  Walter William,\n                        ed.  \n             The Complete Works of Geoffrey Chaucer.\n         7 vols. Oxford: Clarendon, 1894-7: 7.233-4.\n\n",
+            "folio": "ff. 27-27v"
+        }
+    }
+}

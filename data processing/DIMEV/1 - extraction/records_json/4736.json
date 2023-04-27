@@ -1,0 +1,25 @@
+{
+    "_id": 4736,
+    "_header": "Saint Nicholas that noble clerk",
+    "Subjects": "Nicholas, saint",
+    "_description": "\u2018De Sancto Nichalao Historia\u2019 \u2014 in couplets",
+    "_witnesses": {
+        "BLCottJulDIX": {
+            "First Lines": "\nSEin Mihel \u00fee archangel & his felawes alsobe\u00fe biteyn god & ous to scheue what we scholle do\u2026\n",
+            "Last Lines": "\n\u2026nou god for \u00fee loue of sein Mihel ous lete such lif lede\u00feat we mote to heuen come after \u00feat we be\u00fe de\u00fee\n",
+            "Note": "\n\u201cCapitulum lxii\u201d added to right margin by later hand (f. 136).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Julius MS D IX.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Julius_D_IX. \n",
+            "folio": "ff. 136-137"
+        },
+        "BLCottTibEVII": {
+            "folio": "f. 278vb"
+        },
+        "BLHar4196": {
+            "First Lines": "\nSAint Nicholas \u00fee nobil clerk\u00feat witti was in goddis werk\u2026\n",
+            "Last Lines": "\n\u2026And al \u00feai endid in goddes seruisegod graunt us to end on swilk wise\n",
+            "Attributed Title": "\nHic incipit historia sancto Nicholao Episcopo (rubric, f. 135vb)",
+            "Editions": "\nHorstmann,  Carl. \n             Altenglische Legenden: Neue Folge.\n         Heilbronn: Henninger, 1881: 11-16.\n",
+            "folio": "ff. 135vb-138rb"
+        }
+    }
+}

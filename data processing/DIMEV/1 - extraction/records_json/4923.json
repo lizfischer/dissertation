@@ -1,0 +1,40 @@
+{
+    "_id": 4923,
+    "_header": "Sitteth still withouten strife",
+    "Note": "For other versions, see 379, 382, 2572, 3102, 6486.",
+    "Subjects": "Alexis, saint, life of; saints\u2019 lives",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "Life of St. Alexis \u2014 in 6-line stanzas (earlier version)",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nSitte\u00fe stille with outen strifand i wol tellen of a\n                    lyf\u2026\n",
+            "Last Lines": "\n\u2026Graunt vs alle god endyngand in heuene a wonyng. AMEN Par\n                    Charite.\n",
+            "Note": "\nIn six-line stanzas, aabccb.",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nHorstmann,  Carl. \n             \u201cZwei Alexiuslieder.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         56 (1876): 391-416: 394-401.\nFurnivall,  Frederick James,\n                        ed.  \n             Adam Davy\u2019s 5 Dreams about Edward II, etc. from Bodleian Laud\n                Misc. 622.\nEETS\n         o.s. 69 (1878; repr. 1973): 20-79, 99-100 (lines 1-42).\nSchipper,  Jakob. \n             Englische Alexiuslegenden aus dem XIV. und XV. jahrhundert.\nQuellen und Forschungen\n         20 Strassburg: Tr\u00fcbner, 1877. \n\n",
+            "folio": "ff. 44rb-45ra"
+        },
+        "BodLauMis108": {
+            "First Lines": "\nSitte\u00fe stille wi\u00feouten strif And I schal telle \u021doure\n                    lif\u2026\n",
+            "Last Lines": "\n\u2026Graunte vs alle gode endyngeAnd in heuene a wonyngeAmen\n                    par charite\n",
+            "Attributed Title": "\nVita cuiusdam sancti viri nomine Alex[ ] optima vita (f.\n                        233v)",
+            "Editions": "\n\nHorstmann,  Carl. \n             \u201cLeben des h. Alexius nach Ms. Laud 108.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         51 (1873): 101-10: 101-10.\nHorstmann,  Carl. \n             \u201cZwei Alexiuslieder.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         56 (1876): 391-416: 394-401.\nFurnivall,  Frederick James,\n                        ed.  \n             Adam Davy\u2019s 5 Dreams about Edward II, etc. from Bodleian Laud\n                Misc. 622.\nEETS\n         o.s. 69 (1878; repr. 1973): 20-79, 99-100 (lines 1-42).\nSchipper,  Jakob. \n             Englische Alexiuslegenden aus dem XIV. und XV. jahrhundert.\nQuellen und Forschungen\n         20 Strassburg: Tr\u00fcbner, 1877. \n\n",
+            "folio": "ff. 233v-237ra"
+        },
+        "DULCosVii14": {
+            "First Lines": "\nLitteth (sic) stille withouten stryfAnd I wille tellen yow\n                    of the lyf\u2026\n",
+            "Last Lines": "\n\u2026And in heuen to haue a wonnyngAmen amen for\n                    charite\n",
+            "Note": "\nWritten as prose.",
+            "Attributed Title": "\nUita sancti Alexi confessoris (f. 92); Explicit vita sancti\n                        allexi confessoris (f. 97v)",
+            "folio": "ff. 92-97v"
+        },
+        "NapXIIIB29": {
+            "First Lines": "\n[s]ittith stille with outen trife [sic]ycche wolle yow telle\n                    the life\u2026\n",
+            "Last Lines": "\n\u2026and in heuyn wonnyngAmen amen pur cherite\n",
+            "Note": "\nOn p. 86, following the explicit, is \u2018hic pennam fixi penitet\n                        me si male Scripci.\u2019",
+            "Attributed Title": "\nExplicit vita sancti Alex (p. 86); Explicit vita sancti allexi\n                        confessoris (f. 97v)",
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 2.64-65 (12 lines only).\nFurnivall,  Frederick James,\n                        ed.  \n             Adam Davy\u2019s 5 Dreams about Edward II, etc. from Bodleian Laud\n                Misc. 622.\nEETS\n         o.s. 69 (1878; repr. 1973): 100.\n\n",
+            "folio": "pp. 80a-86b"
+        }
+    }
+}

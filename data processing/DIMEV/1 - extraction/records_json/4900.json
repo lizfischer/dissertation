@@ -1,0 +1,41 @@
+{
+    "_id": 4900,
+    "_header": "Sith that God this world wrought",
+    "Title(s)": "The Siege [or Battle] of Troy",
+    "Subjects": "Troy, legends of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Siege [or Battle] of Troy \u2014 in couplets",
+    "_witnesses": {
+        "BLEge2862": {
+            "First Lines": "\n[s]ithe \u00feat god \u00fei world wrou\u021dtheuen and erthe made of nou\u021dt\u2026\n",
+            "Last Lines": "\n\u2026Now lordingis saunz faileOf Troye \u00feis is \u00fee truthe bataile\n",
+            "Note": "\n1828 lines.",
+            "Attributed Title": "\nThe batell of Troye (running titles split across openings throughout); Explicit bellum de Troye (f. 134).",
+            "Editions": "\nBarnicle,  Mary Elizabeth,\n                        ed.  \n             The Seege or Batayle of Troye.\n         EETS o.s. 172 (1927); repr. 1971. \n",
+            "folio": "ff. 111v-134"
+        },
+        "BLHar525": {
+            "First Lines": "\nSIthyn that god this worlde wroughtHeven and erthe all of nought\u2026\n",
+            "Last Lines": "\n\u2026And that it may so beSeyth all amen for charite\n",
+            "Note": "\n1922 lines.",
+            "Attributed Title": "\nExplicit the Seege of Troye (f. 34v)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 525.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_525. \n",
+            "Editions": "\n\nBarnicle,  Mary Elizabeth,\n                        ed.  \n             The Seege or Batayle of Troye.\n         EETS o.s. 172 (1927); repr. 1971. \nZietsch,  A. \n             \u201cZwei mittelenglische Bearbeitungen der Historia de excidio Trojae des\n                Phrygiers Dares.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         72 (1884): 11-58: 11.\nWager,  Charles Henry Adams,\n                        ed.  \n             The Seege of Troye.\n         New York and London: Macmillan, 1899. \nHibler-Lebmannsport,  Leo,\n                        ed.  \n             Das mittelenglische Versgedicht, The Siege of Troy.\n         2 vols. Graz: Ulr. Mosers Buchhandlung, 1928. \n\n",
+            "folio": "ff. 1-34v"
+        },
+        "CollArmsAr22": {
+            "First Lines": "\nSyth god tyhys worle had wro\u021dtHeuen & Er\u00fee al\n                    \u00feyng of no\u021dtFfele aventures hauet be falleWe \u00feat now\n                    leuyn con no\u021dt telleAnd \u00feerfor wyl \u00feat y alyue dwelleOf\n                    \u00fee batayle of troy wol y telleBut y ne may ham telle owteThay\n                    were so ffale & so stowte\u2026\n",
+            "Last Lines": "\nWith gamen & wyt grete solemnytethay ferden mery & so mot\n                    weAmen amen pur charyte\n",
+            "Note": "\nBlack (1829)\nXBlack,  William Henry. \n             Catalogue of the Arundel Manuscripts in the Library of the College of\n                Arms.\n         Unpublished, 1829, p. 31 notes that in comparison with usual\n                    Siege of Troy MSS this one does not divide into ten \u2018battayles\u2019 and\n                    that only the 1st, 3rd, 6th, 7th and 8th of that longer work are described in\n                    this shorter one. Here it serves as a verse introduction to a prose English\n                    translation of Geoffrey of Monmouth.",
+            "folio": "ff. 1ra-8rb"
+        },
+        "LincInnH150": {
+            "First Lines": "\n[S]ythen god hade \u00feis world wrou\u021dtheouene and eor\u00fee\n                    and al of nou\u021dtMony auturis han by falle\u00deat we no knowen\n                    heom nou\u021dt alle\u2026\n",
+            "Last Lines": "\n\u2026Such a batail as hit was oonNeuer bu\u00fe no neuer schal beo\n                    noon\n",
+            "Note": "\n1988 lines. Guide letter for unexecuted initial\n                    \u2018S\u2019.",
+            "Attributed Title": "\n\u00fee batayle of troye (f. 108v); Bellum Troianum\n                    (added by later hand, f. 90v)",
+            "Editions": "\n\nBarnicle,  Mary Elizabeth,\n                        ed.  \n             The Seege or Batayle of Troye.\n         EETS o.s. 172 (1927); repr. 1971. \nZietsch,  A. \n             \u201cZwei mittelenglische Bearbeitungen der Historia de excidio Trojae des\n                Phrygiers Dares.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         72 (1884): 11-58: 11.\n\n",
+            "folio": "ff. 90v-108v"
+        }
+    }
+}

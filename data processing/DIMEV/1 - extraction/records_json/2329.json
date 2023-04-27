@@ -1,0 +1,23 @@
+{
+    "_id": 2329,
+    "_header": "I wot no better weal",
+    "Note": "For further MSS see Allen (1927)\nXAllen, Hope Emily. Writings Attributed to Richard Rolle. New York: Modern Language Association of America, 1927, 170-7.",
+    "Author(s)": "Richard Rolle",
+    "Title(s)": "English Psalter",
+    "Subjects": "scripture texts, Engl. trans. of",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "One 6-line tail-rhyme stanza in Rolle\u2019s English Psalter (Ps. LXI)",
+    "_witnesses": {
+        "BodHat12": {
+            "First Lines": "\nI wate na better wele\u00fean in my thought to\n                    fele\u2026\n",
+            "Last Lines": "\n\u2026Ihesu in herte to feste& \u021derne na no\u00feer\n                    thinge\n",
+            "Editions": "\nAllen,  Hope Emily. \n             English Writings of Richard Rolle.\n         Oxford: Clarendon, 1931: 16.\n",
+            "folio": "f. 90ra"
+        },
+        "OxfUni64": {
+            "Transcription": "\nI wate na bettere wele\u00fean in my thoght to fele\u00fee life\n                    of his lufyngof all i hold it \u00fee bestihesu in my hert to\n                    festand \u021derne nane o\u00feere thyng\n",
+            "Editions": "\nBramley,  Henry Ramsden. \n             The Psalter, or Psalms of David and certain canticles.\n         Oxford: Clarendon, 1884: 215.\n",
+            "folio": "f. 65va"
+        }
+    }
+}

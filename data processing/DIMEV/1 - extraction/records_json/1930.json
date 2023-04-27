@@ -1,0 +1,24 @@
+{
+    "_id": 1930,
+    "_header": "Hector of Troy through hard fightings",
+    "Note": "Compare Laing (1831)\nXLaing, David. The Buik of\u2026Alexander.\nBannatyne Club 46. Edinburgh, 1831, 1834, 402-6; and 6821; first English printing 1722, ed. Thomas Hearne (ESTCT96011); lists copy in printing of Scotichronicon by Law in 1521.",
+    "Author(s)": "Lonuyon; John de Fordun",
+    "Title(s)": "Voeux du Paon",
+    "Subjects": "Worthies, Nine; chronicles, verse in; translations",
+    "Versification": "\u2014 six-line \u2014 aabbcc",
+    "_description": "\u2018Ane Ballet of the Nine Nobles\u2019, translating Longuyon\u2019s Voeux du Paon \u2014 an extract of ten 6-line stanzas (aabbcc) from Fordun\u2019s Chronicle",
+    "_witnesses": {
+        "ESROGD5": {
+            "First Lines": "\n[H]ectour of troye trow harde fechyngisIn half thirde \u021deris\n                    slew xix kyngis\u2026\n",
+            "Last Lines": "\n\u2026Ande sum thyme wes set so hardeAt had nocht sex til hym\n                    towart [ ]\u021ce gud men \u00feat thir balletis redisDeme quhay\n                    dowchtiast wes [in dedis]\n",
+            "Note": "\nPart of page torn away at gutter, with loss of text at end of\n                    line.",
+            "folio": "f. 420va-c"
+        },
+        "EDU186": {
+            "First Lines": "\nHectour of troy throu hard feichthyngisIn half thrid \u021deris\n                    slew xix kyngis\u2026\n",
+            "Last Lines": "\n\u2026At sum tyme wes set so hardAt hat nocht say till hym\n                    toward\n",
+            "Editions": "\n\nHazlitt,  William Carew. \n             Remains of the Early Popular Poetry of England.\n         London: J. R. Smith, 1864-6: 1.301-3.\nLaing,  David. \n             Select Remains of the Ancient Popular and Romance Poetry of\n                Scotland.\n         Edinburgh: 1822; rev. \n                J.\n                Small\n            , Edinburgh: Blackwood, 1885; rev. \n                W. C.\n                Hazlitt\n            ,  Early Popular Poetry of Scotland, London: Reeves and\n            Turner, 1895.: 186-87; 1885, 189-91 (with Alexander text).\nCraigie,  William Alexander. \n             \u201cThe \u2018Ballet of the Nine Nobels.\u2019\u201d \n             Anglia\n         21 (1899): 359-67: 360-3.\nGollancz,  Israel,\n                        ed.  \n             Parlement of the Thre Ages.\nRoxburghe Club\n         132. London: Nichols, 1897, 1915: App. X.\n\n",
+            "folio": "f. 343ra-b"
+        }
+    }
+}

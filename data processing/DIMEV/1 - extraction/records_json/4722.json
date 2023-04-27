@@ -1,0 +1,23 @@
+{
+    "_id": 4722,
+    "_header": "Saint Matthew the Evangelist",
+    "Note": "For the version in the \u2018expanded\u2019 Cycle see 572.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Twenty-fourth Sunday after Trinity in two MSS of the Northern Homily Cycle",
+    "_witnesses": {
+        "CULAdd8335": {
+            "First Lines": "\nSEynt Matheu \u00fee euangelisteTelles vs here howe ihesu\n                    crist\u2026\n",
+            "Last Lines": "\n\u2026And here of wille I \u021dowe telleA litel tale if \u021de\n                    wille duelle\n",
+            "Attributed Title": "\nDominica xxiiiia secundum Mathium (p. 357)",
+            "folio": "pp. 357-364"
+        },
+        "CULDd11": {
+            "First Lines": "\nSEynt mathew \u00fee Euagelisttelli\u00fe vs here how ihesu\n                    crist\u2026\n",
+            "Last Lines": "\n\u2026And her of I wile \u021dow tellea litil tale if \u021de wile\n                    dwelle\n",
+            "Attributed Title": "\nDominica vicesima quarta post festum sancte trinitatis Euangelium\n                        secundum Matheum (f. 212)",
+            "folio": "ff. 212-214v"
+        }
+    }
+}

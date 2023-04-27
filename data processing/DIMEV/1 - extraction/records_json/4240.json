@@ -1,0 +1,27 @@
+{
+    "_id": 4240,
+    "_header": "Of wine away the moles may ye wash",
+    "Note": "This stanza also appears as the third stanza of 6830, \u2018A tretise for lauandres\u2019, sometimes attrib. to Lydgate. Separate versions of the Latin hexameter couplet (Vinum lacte laua\u2026) occur in London, British Library Harley 3528, f. 38v and London, British Library Royal 17 B.XLVII, f. 3v (with a third concluding line).",
+    "Subjects": "recipes, domestic; utilitarian instructions",
+    "_description": "On removing spots made by wine, water, and milk \u2014 one stanza rhyme royal",
+    "_witnesses": {
+        "BLAdd34360": {
+            "First Lines": "\nOf wyne awey the moles may ye wasshIn mylkes white the fletyng oyle\n                    spot\u2026\n",
+            "Last Lines": "\n\u2026with water clere I purged and made cleneBut thse iij clensith\n                    wyne Mylk and bene\n",
+            "Note": "\nPreceded in the MS by the Latin hexameter couplet of which it is a\n                    translation, \u2018Vinum lacte laua oleum liquore fabarum / Encaustum vino\n                        cetera mundat aqua\u2019.",
+            "Editions": "\nSteele,  Robert. \n             \u201cA Stow MS. of Lydgate.\u201d \n             Academy\n         45 (No. 1149, 12 May 1894): 395: 395.\n",
+            "folio": "f. 77v"
+        },
+        "BLHar2251": {
+            "First Lines": "\nOf wyne awey the moles may ye wassheIn mylkes white the fletynge\n                    oyle spot\u2026\n",
+            "Last Lines": "\nWith water clere I purged and made cleneBut these iij clensith wyne\n                    Mylk and ber\n",
+            "Note": "\nPreceded in the MS by the Latin hexameter couplet of which it is a\n                    translation: \u2018Vinum lacte laua oleum liquore fabarum / Encaustum vino\n                        cetera mundat Aqua\u2019.",
+            "Editions": "\nMooney,  Linne R. \n             \u201cPractical Didactic Works in Middle English.\u201d \n         Diss. Toronto, 1981: 399-400.\n",
+            "folio": "f. 76v2"
+        },
+        "BLLan762": {
+            "Editions": "\nB\u00fchler,  Kurt. \n             \u201cReview of \n                    H. N.\n                    MacCracken\n                ,  John Lydgate: The Minor Poems.\u201d \n             Review of English Studies\n         12 (1936): 236-8: 237.\n",
+            "folio": "f. 24"
+        }
+    }
+}

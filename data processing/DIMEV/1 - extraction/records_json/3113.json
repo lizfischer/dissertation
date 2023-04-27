@@ -1,0 +1,38 @@
+{
+    "_id": 3113,
+    "_header": "Listeneth lordings both great and small",
+    "Subjects": "Thomas of Canterbury, saint; carols, of saints",
+    "Versification": "\u2014 four-line \u2014 aaab",
+    "Macaronic": "Latin",
+    "_description": "Song in honour of St. Thomas of Canterbury \u2014 in quatrains (aaab) with Latin caudae and burden: A a a a / Nu[nc] gaudet ecclesia",
+    "_witnesses": {
+        "OxfBal354": {
+            "First Lines": "\nLystyn lordyngis both gret & smallI will you tell a wonder\n                    tale\u2026\n",
+            "Last Lines": "\n\u2026 & stered his braynes vp so downOptans celi\n                    gawdiaExplicit\n",
+            "Note": "\nStanzas 1-5, 7",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285:  255-6.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984:  31.\nSegar,  Mary Gertrude,  and  Emmeline Paxton, eds.  \n             Some Minor Poems of the Middle Ages.\n         London, NY: Longmans, Green, 1917:  19-20.\n\n",
+            "folio": "pp. 4762-477"
+        },
+        "CamGon383": {
+            "First Lines": "\nHerkennd lordingus grete & smaleyc wol \u021dow telle awonder\n                    tale\u2026\n",
+            "Last Lines": "\n\u2026for fyftene tokenus of gret strifContra regis\n                    consilia\n",
+            "Note": "\n8 x 4 (this ms), aaab, plus burden: \u2018A a a a nunc gaudet\n                    ecclesia\u2019; stanzas 1, 3, 2, 4-6, 8, 9",
+            "Editions": "\n\nBrunner,  Karl. \n             \u201cKirchenleider aus dem 15. Jahrhundert.\u201d \n             Anglia\n         61 (1937): 13-51:  151.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939:  189-90.\nLuria,  Maxwell Sidney,  and  Richard L. Hoffman, eds.  \n             Middle English Lyrics.\n         New York: Norton, 1974:  152-3.\n\n",
+            "folio": "pp. 68-69"
+        },
+        "BLSl2593": {
+            "First Lines": "\nLestenytgh lordynges bothe grete & smaleI xal you telyn a\n                    wonder tale\u2026\n",
+            "Last Lines": "\n\u2026For lii poyntes he les his lyfContra regis\n                    consilia\n\n",
+            "Note": "\n9 stanzas",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             Songs and Carols printed from a manuscript in the Sloane\n                Collection.\n         London: Pickering, 1836: No. 11.\nWright,  Thomas,\n                        ed.  \n             Songs and Carols.\nWarton Club\n         4. London: Richards, 1856: 66-8.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 72; 1977, 60-1.\nRickert,  Edith,\n                        ed.  \n             Ancient English Christmas Carols.\n         London: Chatto & Windus, 1910: 129.\nGreene,  Richard Leighton,\n                        ed.  \n             A Selection of English Carols.\nClarendon Medieval and Tudor Series.\n         Oxford: Clarendon, 1962: 82.\n\n",
+            "folio": "ff. 23v-24"
+        },
+        "PROC4734112": {
+            "First Lines": "\nListenus lordynges grete & smaleI wil you telle a wonder\n                    tale\u2026\n",
+            "Last Lines": "\n\u2026Fore fiute i poyttes of \u2026scefContra regis\n                        consilia\n\n",
+            "Note": "\n9 stanzas",
+            "folio": "f. 1-1v"
+        }
+    }
+}

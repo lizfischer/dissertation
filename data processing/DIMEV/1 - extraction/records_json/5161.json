@@ -1,0 +1,77 @@
+{
+    "_id": 5161,
+    "_header": "That may ye see by a lady",
+    "Note": "For other MSS which place the rubric eighteen lines earlier see 3438; for another version, see 6660.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "nuns; Virgin Mary, miracles of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Abbess who went with Child: Narratio in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodSelSup52": {
+            "First Lines": "\nOf on ded I wyll for \u00feischew yow of hys grett\n                    mercy\u2026\n",
+            "Last Lines": "\n\u2026To \u00feat blys \u00feer Ioy ys ayGod graunt yt vs at our\n                    last day\n",
+            "folio": "ff. 193-195v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\n\u00deAt may we seo by a ladi\u00deat was In a\n                    Nonneri\u2026\n",
+            "Last Lines": "\n\u2026In to \u00feat court \u00feer heo is Qwene\u00deider heo\n                    bringe vs alle bi dene. Amen.\n",
+            "Attributed Title": "\nHou on abbesse wyt chylde was delyuered \u00feorou vr lady (f.\n                        178rb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDie Evangelien-Geschichten der Homiliensammlung des Ms. Vernon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         57 (1877): 241-316: 257.\n",
+            "folio": "ff. 178rb-178va"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nIt was an abbes of a nonnery\u00deat mekil honoured oure swete\n                    lady\u2026\n",
+            "Last Lines": "\n\u2026To \u00feat blisse \u00feere sche is ayGod graunte vs\n                    \u00feat at oure ded day\n",
+            "Attributed Title": "\nNarracio de quodam abbatissam pregnante & liberata per sanctam\n                        Mariam (p. 87)",
+            "folio": "pp. 87-90"
+        },
+        "CULDd11": {
+            "First Lines": "\nAnd \u00feat may \u021de se be a ladi\u00deat was abbes of a\n                    Nunneri\u2026\n",
+            "Last Lines": "\n\u2026In to \u00feat court \u00feer sche is quene\u00feedir sche\n                    bringe vs alle be dene\n",
+            "Attributed Title": "\nnarracio (margin, f. 77)",
+            "folio": "ff. 77-79"
+        },
+        "CULGg531": {
+            "First Lines": "\n\u00deat may \u021de se by a leuedy\u00feat was abbas of a\n                    NunryBot als scho went opon a dayabout \u00fee nedes of hyr\n                    abbay\u2026\n",
+            "Last Lines": "\nvnto \u00feat court \u00feare scho es qwene\u00feidere scho bryng vs\n                    all by denne\n",
+            "Note": "\nBreak between this and preceding 139 is two lines later in this MS, so 3290 begins,\n                    \u2018Bot als scho went opon a day\u2026\u2019",
+            "Attributed Title": "\nnarracio (f. 48v)",
+            "folio": "ff. 48v-50v"
+        },
+        "BLHar4196": {
+            "First Lines": "\nAls \u00feis Abbes went on a dayObout \u00fee nedis of hir Abbay\u2026\n",
+            "Last Lines": "\n\u2026Vnto \u00feat court whare scho es quene\u00feeder scho bring us al bidene\n",
+            "Attributed Title": "\nNarracio bona de Abatista (rubric, f. 143ra)",
+            "folio": "ff. 143ra-143vb"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nThat may we se be a ladyThat was abbas of a\n                    Nunnry\u2026\n",
+            "Last Lines": "\n\u2026That wyfes shuld on \u00fee morn hir lokeffor \u00fee bysshop\n                    agaynes \u00fee morne\u2026\n",
+            "Note": "\nThe item is incomplete: it appears that one folio is missing. There is a\n                    catchword at the bottom of f. 48v indicating that the word at the\n                    beginning of the next folio should be \u2018somonde\u2019. However, the next\n                    folio instead goes straight into the next homily (3106-6).",
+            "folio": "ff. 47v-48v"
+        },
+        "EDCPCM": {
+            "First Lines": "\n\u00deat may ye se bi a lefdy\u00deat was abbes of a\n                    nunrye\u2026\n",
+            "Last Lines": "\n\u2026\u00deat \u00feai haued chesoun hir againAnd wit \u00feair\n                    letteres prayed \u00feaye\u2026\n",
+            "Note": "\nThis MS marks the begining of 3290 two lines later, beginning,\n                    \u2018Bot als scho\u2026\u2019 (i.e. treats first two lines of this as last\n                    two of 169); ends imperfectly:\n                    last 87 lines missing due to loss of folio(s).",
+            "Editions": "\n\nSmall,  John,\n                        ed.  \n             English Metrical Homilies\u2026.\n         Edinburgh: W. Paterson, 1862: 164-67 (with lines 88-172 from Cambridge UK,  Cambridge University Library Gg.5.31).\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n\n",
+            "folio": "f. 36va-36vb"
+        },
+        "Lam260": {
+            "folio": "f. 18vb"
+        },
+        "MinULZ822": {
+            "First Lines": "\n\u00feat may \u021de se be a lauedy\u00feat was abbas of a\n                    Nunery\u2026\n",
+            "Last Lines": "\n\u2026Vnto \u00feat curte \u00feare sche es queneThider scho bryng\n                    vs all be dene\n",
+            "folio": "ff. 22v-24v"
+        },
+        "HunHM129": {
+            "First Lines": "\n\u00deat may we se by a leuedy\u00deat abbas wos off a\n                    nunry\u2026\n",
+            "Last Lines": "\n\u2026In to \u00feat court whar scho is quene\u00feeddyr scho bryng\n                    vs all be dene\n",
+            "Attributed Title": "\nnarracio (f. 41v)",
+            "Editions": "\nCorbett,  Maryann. \n             \u201cA Manuscript Study and Edition of Selections from the Northern\n                Homilies\u201d \n         2 vols. Diss. Minnesota, 1981: 1.99.\n",
+            "folio": "ff. 41v-43v"
+        }
+    }
+}

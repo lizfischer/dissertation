@@ -1,0 +1,26 @@
+{
+    "_id": 3084,
+    "_header": "Like as great waters increasen into floods fele",
+    "Note": "Cf. 6831",
+    "Subjects": "acrostics; sins, deadly; clothing, against extremes of",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "A song of \u2018Galaunt\u2019 (an acrostic of the Deadly Sins) \u2014 rhyme royal stanzas",
+    "_witnesses": {
+        "CamTCC601": {
+            "First Lines": "\nlYKe as grete wateres encresyn in to floddes feleSo that narow\n                    forthese may hem nat susteyn\u2026\n",
+            "Last Lines": "\n\u2026And trysyd to Tyborn and trodyn in the fereElles shall\n                    England wayle that euer they came here\n",
+            "Note": "\n20 stanzas",
+            "Attributed Title": "\nGallant (f. 247)",
+            "folio": "ff. 247-248v"
+        },
+        "RomeEC1306": {
+            "Note": "\n32 stanzas",
+            "folio": "f. 78"
+        },
+        "TokyoTak94": {
+            "First Lines": "\nLike as grett water encresith in to flodes fele\n                    So \u00feat narow foorthis may hem not susteyne\u2026\n",
+            "Last Lines": "\n\u2026And tricede to tybabirton and treden in \u00fee fer\n                    Elles schall englond wayle \u00feat euer cam thei her\n                    Explicit Galaunt\n",
+            "folio": "ff. 210-213v"
+        }
+    }
+}

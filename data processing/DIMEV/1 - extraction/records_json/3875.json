@@ -1,0 +1,19 @@
+{
+    "_id": 3875,
+    "_header": "O Emperess the Emperor",
+    "Note": "Possibly intended for the same burden as the preceding hymn (796), \u2018Stella celi micaris clare / regina celi letare\u2019, f. 78.",
+    "Author(s)": "James Ryman",
+    "Subjects": "hymns, to Virgin Mary; Virgin Mary, hymns to",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "Macaronic": "Latin",
+    "_description": "James Ryman, a macaronic hymn to the Virgin Mary \u2014 eight quatrains (abab) with alternating refrains, \u2018Quem meruisti portare\u2019 (ln. 2) and \u2018Regina celi letare\u2019 (ln. 4)",
+    "_witnesses": {
+        "CULEe112": {
+            "First Lines": "\nO emperesse the emperoureQuem meruisti\n                    portare\u2026\n",
+            "Last Lines": "\n\u2026That we may dwelle with hym & hisRegina celi\n                        letare\n\n",
+            "Attributed Author": "\nRyman (f. 80)",
+            "Editions": "\nZupitza,  Julius,\n                        ed.  \n             \u201cDie Gedichte des Franziskaners Jacob Ryman.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         89 (1892): 167-338: 282.\n",
+            "folio": "ff. 78v-79"
+        }
+    }
+}

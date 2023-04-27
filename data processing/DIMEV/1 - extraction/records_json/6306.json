@@ -1,0 +1,24 @@
+{
+    "_id": 6306,
+    "_header": "When folk are feasted and fed fain would they hear",
+    "Note": "Cf. 6842; also a prose version in Lincoln, Lincoln Cathedral Library 91 [Robert Thornton MS], ff. 1-49.",
+    "Title(s)": "The Wars of Alexander the Great",
+    "Subjects": "romances",
+    "Versification": "\u2014 irregular \u2014 alliteration",
+    "Bibliographic Ghosts": "Present location unknown, James Fairhurst olim sold Keen, 1948: see 5495",
+    "_description": "The Romance of The Wars of Alexander the Great \u2014 about 5800 lines in irregular alliterative lines",
+    "_witnesses": {
+        "BodAsh44": {
+            "First Lines": "\nWHen folk er festid and fed fayn wald \u00feai hereSum farand\n                    \u00feing efter fode to fayn \u00feare her[t]\u2026\n",
+            "Last Lines": "\n\u2026Tiree & Tasse & Tessale oure tributars erePoliponens\n                    & Pentapol & Palestyne \u00fee riche\n",
+            "Note": "\nLines 1-722, 846-5803; lines 23-803 parallel 4262 (A); lines 4019-4714\n                    parallel 4262 (B). ",
+            "Editions": "\n\nSkeat,  Walter William,\n                        ed.  \n             The Wars of Alexander.\nEETS\n         e.s. 47 (1886); repr. 1973. \nStevenson,  Joseph,\n                        ed.  \n             The Alliterative Romance of Alexander.\nRoxburghe Club\n         67. London, 1849. \nDuggan,  H. N.,  and  Thorlac Turville-Petre, eds.  \n             The Wars of Alexander.\nEETS\n         s.s. 10. London: Oxford UP, 1989. \n\n",
+            "folio": "ff. 1-97v"
+        },
+        "TCD213": {
+            "Note": "\nLines 678-3434, 3485-3553.",
+            "Editions": "\n\nSkeat,  Walter William,\n                        ed.  \n             The Wars of Alexander.\nEETS\n         e.s. 47 (1886); repr. 1973. \nStevenson,  Joseph,\n                        ed.  \n             The Alliterative Romance of Alexander.\nRoxburghe Club\n         67. London, 1849. \nDuggan,  H. N.,  and  Thorlac Turville-Petre, eds.  \n             The Wars of Alexander.\nEETS\n         s.s. 10. London: Oxford UP, 1989. \n\n",
+            "folio": "ff. 27-66v"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "_id": 6412,
+    "_header": "When Sunday goeth by D and C",
+    "Note": "For texts without the introduction, see 1215.",
+    "Subjects": "dice; prophecies, political",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Dublin, Trinity College, Dublin 516, f. 118: deleted by Robbins and Cutler (1965)\nXRossell Hope Robbins, and John L. Cutler. Supplement to the Index of Middle English Verse. Lexington, Kentucky: University of Kentucky Press, 1965, confused with 6299.",
+    "_description": "A political prophecy according to the throw of the dice, with an introduction of four lines \u2014 in couplets",
+    "_witnesses": {
+        "BodRawC813": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 217.",
+            "folio": "f. 89v"
+        },
+        "BodAsh337": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 217.",
+            "folio": "f. 116v"
+        },
+        "CULIi611": {
+            "First Lines": "\nWhen sonday gothe by d & cAnd \u00fee prime by j &\n                    ij\u2026\n",
+            "Last Lines": "\n\u2026The lyon \u00fee Redroose & \u00fee flower delyseThe Cock\n                    schall vndoo and \u00fee syse xall tell \u00fee price\n",
+            "Note": "\nOn front pastedown; 14 lines.",
+            "Editions": "\nFurnivall,  Frederick James. \n             Ballads from Manuscripts.\n         London: Ballad Society, 1863; repr. New York: AMS, 1968: 1.477.\n",
+            "folio": "f. iv"
+        },
+        "BLCottRollsII23": {
+            "First Lines": "\n[\u00a0\u00a0\u00a0\u00a0\u00a0]day goth by C D and E and p[\u00a0\u00a0\u00a0\u00a0\u00a0]ly[\u00a0\u00a0\u00a0\u00a0\u00a0] men shall so put S[      ]\u2026\n",
+            "Last Lines": "\n\u2026[\u00a0\u00a0\u00a0\u00a0\u00a0] of [\u00a0\u00a0\u00a0\u00a0\u00a0] fferthere be[\u00a0\u00a0\u00a0\u00a0\u00a0]And C[\u00a0\u00a0\u00a0\u00a0\u00a0]\n",
+            "Note": "\n20 lines, on dorse; mostly illegible at endl.",
+            "folio": "a roll, Art. 22"
+        },
+        "BLHar559": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 217.",
+            "folio": "ff. 7v;  34"
+        },
+        "NLWLan119": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 217.",
+            "folio": "p. 117"
+        },
+        "NLWPen26": {
+            "Note": "\nOne quatrain. See Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 217 re merging this (formerly 6413) with this record.",
+            "folio": "p. 59"
+        },
+        "ChesRecOffddx123": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 217.",
+            "folio": "f. 3"
+        }
+    }
+}

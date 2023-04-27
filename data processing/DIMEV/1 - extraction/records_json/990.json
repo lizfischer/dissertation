@@ -1,0 +1,22 @@
+{
+    "_id": 990,
+    "_header": "Christ give us grace to love well Holy Church",
+    "Subjects": "Holy Church",
+    "Versification": "\u2014 twelve-line, eight-line \u2014 ababcdcdcdcd, abababab",
+    "_description": "Love Holy Church and its Priests \u2014 two 12-line stanzas, ababcdcdcdcd, followed by five 8-line stanzas, abababab",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nCrist \u021diue vs grace to loue wel holi chirchOr elles certes we\n                    don riht nouht\u2026\n",
+            "Last Lines": "\n\u2026Ihesu bring vs and socoureOut of \u00feis world whon we schal\n                    go\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 721-3.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 189-91.\n\n",
+            "folio": "ff. 411rc-411va"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nCrist \u021deue vs grace to loue wel holichirchOr elles certes we\n                    don riht nouht\u2026\n",
+            "Last Lines": "\n\u2026Ihesu bryng vs and socoureOut of \u00feis world whon we schal\n                    go\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 132vc"
+        }
+    }
+}

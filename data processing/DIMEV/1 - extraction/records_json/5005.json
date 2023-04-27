@@ -1,0 +1,26 @@
+{
+    "_id": 5005,
+    "_header": "Sore this deer stricken is",
+    "Note": "Cf. 6503. See Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 1455.",
+    "Author(s)": "William Cornish",
+    "Subjects": "carols, amorous",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "William Cornish, An enigmatic stricken deer carol \u2014 six cross-rhymed quatrains with a 3-line burden: \u2018Blow \u00fey horn hunter and blow \u00fei horne on hye / Ther ys a do in yonder wode in faith she woll not dy / ow blow \u00fei hore hunter and blow \u00fei horne joly hunter\u2019",
+    "_witnesses": {
+        "BLRoyApp58": {
+            "Transcription": "\nBlow thy horne huntercum blow thy horne one hyeIn yonder wode\n                    ther lyeth A dooIn fayth she woll not dyecum blow thy horne hunter\n                    cum blow thy horne Ioly hunter\n",
+            "Note": "\nBurden only.",
+            "Editions": "\n\nChapell,  William. \n             Popular Music of the Olden Time; a collection of ancient songs,\n                ballads, and dance tunes, illustrative of the national music of England.\n         2 vols. London: Cramer, Beale & Chappell, 1853,1859; rev. H. Ellis\n            Wooldridge,  Old English Popular Music 2 vols. London,\n            1893: 1.39-40.\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts, Besonders aus der Zeit Heinrichs\n                VIII.\u201d \n             Anglia\n         12 (1889): 225-72, 585-97: 262.\nStevens,  John,\n                        ed.  \n             Music at the Court of Henry VIII.\nMusica Britannica\n         18. London: Stainer and Bell, 1962: 29.\nSmith,  John Stafford. \n             Musica Antiqua: a Selection of Music \u2026.\n         London: Preston, 1812: 1.31.\nFl\u00fcgel,  Ewald,\n                        ed.  \n             Neuenglisches Lesebuch.\n         1 Bd. Halle: Niemayer, 1895: 152.\n\n",
+            "folio": "f. 7v"
+        },
+        "BLAdd31922": {
+            "First Lines": "\nSore this dere strykyn ys & yet she bled no whyttshe lay so fayre I cowde nott mys lord I was glad of it\u2026\n",
+            "Last Lines": "\n\u2026Here I leue and mak an end now of this hunters loreI thynk his bow ys well vnbent his bolt may fle no more\n",
+            "Note": "\nBurden with notation on f. 39v and top of 40, text on f. 40.",
+            "Attributed Author": "\nW Cornysh (f. 40)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Additional MS 31922.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=2&ref=Add_MS_31922. \n",
+            "Editions": "\n\nChapell,  William. \n             Popular Music of the Olden Time; a collection of ancient songs,\n                ballads, and dance tunes, illustrative of the national music of England.\n         2 vols. London: Cramer, Beale & Chappell, 1853,1859; rev. H. Ellis\n            Wooldridge,  Old English Popular Music 2 vols. London,\n            1893: 1.39-40.\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts, Besonders aus der Zeit Heinrichs\n                VIII.\u201d \n             Anglia\n         12 (1889): 225-72, 585-97: 238-9.\nGreenberg,  Noah. \n             An English Songbook.\n         Garden City, NY: Doubleday, 1961: 88.\nStevens,  John,\n                        ed.  \n             Music and Poetry in the Early Tudor Court.\n         London: Methuen, 1961: 400-1.\nStevens,  John,\n                        ed.  \n             Music at the Court of Henry VIII.\nMusica Britannica\n         18. London: Stainer and Bell, 1962: 29.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon, 1977 (see\n            also Greene (1935)\nXGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977): 284.\nGray,  Douglas. \n             The Oxford Book of Late Medieval Verse and Prose.\n         Oxford: Clarendon, 1985: 176-7.\n\n",
+            "folio": "ff. 39v-40"
+        }
+    }
+}

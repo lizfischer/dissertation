@@ -1,0 +1,25 @@
+{
+    "_id": 2875,
+    "_header": "Jesu mercy mercy I cry",
+    "Note": "Immediately followed by 2937.",
+    "Title(s)": "\u2018A deuoyt meditacione\u2019",
+    "Subjects": "meditations; Christ, prayers to; prayers, to Christ",
+    "Versification": "\u2014 eight-line \u2014 ababcdcd",
+    "_description": "\u2018A deuoyt meditacione\u2019 \u2014 twenty-two 8-line stanzas (ababcdcd) with refrain: \u2018Ihesu mercy for my mysdede\u2019",
+    "_witnesses": {
+        "CamTCC223": {
+            "First Lines": "\nIhesu mercy mercy I ce\u00fe myn vgly synnes \u00feu me\n                    forgyfe\u00fee werlde my flesche \u00fee fende fell\u00fe\u00feai me\n                    besale both sranget styfe\u2026\n",
+            "Last Lines": "\n\u2026Mercy \u00feu graunt amen amenIhesu mercy for my myse\n                    dede\n",
+            "Attributed Title": "\nA deuoyt meditacione (f. 53)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             Political, Religious and Love Poems, from Lambeth MS. 306 and other\n                sources.\nEETS\n         o.s. 15 (1866); repr. 1962; rev. ed. 1903: 103-8; rev. ed. 133-8.\nPatterson,  Frank A. \n             The Middle English Penitential Lyric.\nColumbia University Studies in English.\n         New York: Columbia Press, 1911: 75-80.\n\n",
+            "folio": "ff. 53-55"
+        },
+        "Chetham6691": {
+            "First Lines": "\nIhesu Ihesu mercy I cryMyn huge synnes \u00feou me\n                    forgyf\u00fee werld my flesch \u00fee fend felly\u00feei me be sette\n                    bo\u00fee strong & styf\u2026\n",
+            "Last Lines": "\n\u2026Mercy \u00feou grante amen amenIhesu mercy for my\n                    mysdede\n",
+            "Attributed Title": "\nIncipit oracio deuota ad dominum Ihesum. Oracio (f. 133)",
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 222-70.\n",
+            "folio": "ff. 133-134v"
+        }
+    }
+}

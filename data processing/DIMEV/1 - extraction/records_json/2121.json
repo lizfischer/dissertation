@@ -1,0 +1,76 @@
+{
+    "_id": 2121,
+    "_header": "I am Mercury the mighty Flos Florum",
+    "Note": "Part of this poem occurs as part (ch. 36 seqq.) of the Liber\nPatris Sapientiae, in Ashmole (1652)\nXAshmole, Elias. Theatrum Chemicum Britannicum. London: J. Grimond, 1652, 194-209.",
+    "Title(s)": "Sapientia Patris",
+    "Subjects": "alchemy",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Macaronic": "Latin",
+    "_description": "Sapientia Patris \u2014 in couplets",
+    "_witnesses": {
+        "BodAsh1490": {
+            "First Lines": "\nI am Marcury the mighti flos florumI am moste worthy of all\n                    singularum\u2026\n",
+            "Last Lines": "\n\u2026All is done in howars .3.this may be called gods\n                    pryvitie\n",
+            "Note": "\nSecond occurrence in MS; written as prose.",
+            "folio": "f. 143"
+        },
+        "BodAsh1441": {
+            "Note": "\n59 lines; second occurrence in MS.",
+            "folio": "Part II, pp. 107-108"
+        },
+        "BodAsh1445": {
+            "Note": "\n18 lines.",
+            "folio": "Part VIII, f. 50"
+        },
+        "BodAsh1480": {
+            "First Lines": "\nI am mercury that mightye flose flowerI am moste ryall and richiste\n                    Singuler\u2026\n",
+            "Last Lines": "\n\u2026Seke it fourther as I haue soughtefor other of me you gett\n                    right noughte\n",
+            "Note": "\n61 lines; at the end: \u2018fynes\u2019.",
+            "folio": "ff. 61v-62"
+        },
+        "BodAsh1451": {
+            "First Lines": "\nI am mercury the myghty flos florumI am moste Ryall and rychest of\n                    singlorum\u2026\n",
+            "Last Lines": "\n\u2026Seke forthe folys as ye haue soughtFor in all other thynge ye\n                    fynde hym nowght\n",
+            "Note": "\n62 lines.",
+            "Attributed Title": "\nA fragment of a tratise which (I here say) is called Sapientia\n                        Patris (f. 62v); this title is according to Black\u2019s\n                    Ashmole Catalogue, in Dr. Dee\u2019s hand)",
+            "folio": "Part II, ff. 62v-63v"
+        },
+        "BodeMus63": {
+            "First Lines": "\nI am Mercury the myghtie fflos fflorummost riall and Richest aboue\n                    all ore\u2026\n",
+            "Last Lines": "\n\u2026and her calcination ys a thousand ffouldVnto all mettalls as\n                    precious & swete as gold\n",
+            "Attributed Title": "\nThe Bost of Mercury (f. 70)",
+            "folio": "ff. 70-71"
+        },
+        "CamTCC1119": {
+            "First Lines": "\nI am Mercury the might flos florumI am most royall and\n                    richest of all singulores\u2026\n",
+            "Last Lines": "\n\u2026Of thy desine then may it not missAnd also of heauen that\n                    sweet bliss. Finis\n\n",
+            "Note": "\n42 lines",
+            "folio": "ff. 90v-91v"
+        },
+        "BLSl1092": {
+            "First Lines": "\nI am {Mercury} the mightye flos florumI am moste owrthyest of all\n                    singulorum\u2026\n",
+            "Last Lines": "\n\u2026moother & lotrix of all wourckyngeIn my dawghter theare\n                    been hydd cc\n",
+            "Note": "\n13 lines.",
+            "folio": "f. 13v"
+        },
+        "BLSl1098": {
+            "folio": "ff. 38-38v"
+        },
+        "BLSl3667": {
+            "folio": "f. 117v"
+        },
+        "BosHistSoc": {
+            "folio": "ff. 25v-26"
+        },
+        "YaleBeiOsfa16": {
+            "First Lines": "\nI am {mercury} the hyghty flos florum aloneI am most richest &\n                    ryall of althyngfor of gold & siluer I am gouernore\u2026\n",
+            "Last Lines": "\n\u2026sek furth foles as ye haue soughtfor in all other thynges ye\n                    fynd right noght\n",
+            "Note": "\nBegins with imperfect rhymes, but develops into couplets; pages numbered\n                    41, 42; written by a hand of the sixteenth century; ends\n                    \u2018Explicit\u2019.",
+            "Attributed Title": "\nThe boest of {mercury}(f. 5ra)",
+            "folio": "ff. 5ra-5vb"
+        },
+        "CopenRoy1727": {
+            "folio": "ff. 63-64"
+        }
+    }
+}

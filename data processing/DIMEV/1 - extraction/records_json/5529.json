@@ -1,0 +1,33 @@
+{
+    "_id": 5529,
+    "_header": "The wise man in his book hath this saying",
+    "Note": "Each stanza a Latin proverb, attributed to a prophet, poet, or saint, followed by French translation and comment, and English translation of French.",
+    "Subjects": "proverbs; translations",
+    "Versification": "\u2014 four-line, eight-line, two-line \u2014 aabb, aabbccdd, aa",
+    "Macaronic": "French",
+    "_description": "Proverbs of old Philosophers, in Latin, French, and English \u2014 the English text usually in quatrains (aabb)",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\n\u00dee wyse mon in his bok ha\u00fe \u00feis seying\u00deat\n                    \u00fee biginnyng of good liuyng\u2026\n",
+            "Last Lines": "\n\u2026And god \u00feat made alle \u00feing\u021dif vs alle good\n                    endyngA. M. E. N. Amen.\n",
+            "Note": "\nInterspersed with French and Latin verse; in couplets.",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 2.522-53.\n",
+            "folio": "ff. 307rb-309va"
+        },
+        "BLHar4733": {
+            "First Lines": "\nThe wyse man in his boke hat thys seyngthat the begynnyng of good lyvyngOuer all thyng ys god to drede\u2026\n",
+            "Last Lines": "\n\u2026And god that made all thynge\u021deve vs all good endyng\n",
+            "Note": "\nEnglish text only. Names of philosopher above each quatrain, the first \u201cDauid.\u201d",
+            "Attributed Title": "\nVicarium de Maldone et cetera (rubric, f. 30)",
+            "folio": "ff. 30-40"
+        },
+        "BLAdd22283": {
+            "First Lines": "\n\u00dee wise mon in his bok ha\u00fe \u00feis seing\u00deat \u00fee\n                    biginnynge of gode\u2026 lyuyng\n",
+            "Last Lines": "\n\u2026He \u00feat \u021diftes withouten decertHis freodam he\n                    sulle\u00fe & loose\u00fe apert\u2026\n",
+            "Note": "\nTwo folios missing between ff. 118v and 119.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 118va-18vc"
+        }
+    }
+}

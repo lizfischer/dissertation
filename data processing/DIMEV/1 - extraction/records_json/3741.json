@@ -1,0 +1,20 @@
+{
+    "_id": 3741,
+    "_header": "Now goeth falsehood in every flock",
+    "Subjects": "evils of the time",
+    "Versification": "\u2014 four-line \u2014 aabb",
+    "_description": "Verses claiming Truth is a Prisoner \u2014 a single quatrain",
+    "_witnesses": {
+        "BLHar2316": {
+            "Transcription": "\nNow goot falshed in eueri flokAnd trewthe is sperd vnder a lokNow no man may comen \u021der toBut yef he singge si dedero\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 2.121.\n",
+            "folio": "f. 26v4"
+        },
+        "BLRoy17Bxvii": {
+            "Transcription": "\nHow gos gyle in euer ilk flokAnd treuthe is sperrid vndre a\n                    lokMay no mon \u00feat lok vndoBut if he syng si dedero\n",
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 2.65.\n",
+            "folio": "f. 99r2"
+        }
+    }
+}

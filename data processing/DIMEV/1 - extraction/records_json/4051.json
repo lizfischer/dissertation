@@ -1,0 +1,35 @@
+{
+    "_id": 4051,
+    "_header": "O soothfast sun of all brightness",
+    "Note": "Cf. 1508 for another version.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "Eight Verses of St. Bernard",
+    "Subjects": "paraphrases; devotional verse; Saint Bernard",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "Lydgate\u2019s paraphrase of the Eight Verses of St. Bernard \u2014 in nine or eleven 8-line stanzas (ababbcbc)",
+    "_witnesses": {
+        "BodLauMis683": {
+            "First Lines": "\nO sothfast sun of al brightnesseEnlumyng with thy cleer\n                    lyght\u2026\n",
+            "Last Lines": "\n\u2026Tyl pes be leyd as ffor OstageThat right and mercy may\n                    accorde\n",
+            "Note": "\nVersion I, 9 stanzas; each introduced by Latin prose text.",
+            "Attributed Title": "\nThese be the viij verse folwyng of hooly seynt Bernard who so euer seith\n                    hem euery day devoutly shal neuer be dampned but he may neuer be \u00fee bolder\n                    to syne (f. 27)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 206-9.\n",
+            "folio": "ff. 27-29v"
+        },
+        "CULKk13": {
+            "First Lines": "\nO sothefast sonne of all bryghtnesseEnlumyne with thy clere\n                    lyghte\u2026\n",
+            "Last Lines": "\n\u2026Make me a sygne through y godenesseAnd marke me yn my\n                    forhede\n",
+            "Note": "\nSix stanzas and first two lines of seventh, i.e. lines 1-50\n                    only.",
+            "Attributed Title": "\nVersus Barnardi (f. 18v)",
+            "folio": "Part XII, ff. 18v-19"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nO sothefast son of all bryghtnesenlumen withe thy clere\n                    lyght\u2026\n",
+            "Last Lines": "\n\u2026And when I ere ageynst thy wyllhave mercy or thow do\n                    vengeance\n",
+            "Attributed Author": "\nIohn lydegat (f. 126v); Explicit lidgatt (f.\n                    127v)",
+            "Attributed Title": "\nHere begyneth verses of \u00fee whiche \u00feat lynge herry the v whom god\n                    assoyle by gret devocion vsyd in his chapell at his hy\u021de masses by twene\n                    \u00fee levacion and \u00fee concecracion of \u00fee sacrement / translatid by\n                    \u00fee monke lydegat dan Iohn (f. 126v, by scribe, John\n                    Stow)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 209-11.\n",
+            "folio": "ff. 126v-127v"
+        }
+    }
+}

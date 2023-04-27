@@ -1,0 +1,26 @@
+{
+    "_id": 5380,
+    "_header": "The long nights when every creature",
+    "Note": "Printed Stowe (1561)\nXStowe, John. The Workes of Geffrey Chaucer\u2026with diuers addicions, with the Siege of Thebes, compiled by J. Lidgate. London, J. Kyngston for J. Wight, 1561 (STC 5075) (which was ed. Chalmers (1810)\nXChalmers, Alexander. The Works of the English Poets from Chaucer to Cowper. London, 1810; repr. New York: Greenwood, 1969, 1.564-65).",
+    "Title(s)": "The Balade of Pite; Compleint to his Lady",
+    "Subjects": "laments, lover\u2019s",
+    "Versification": "\u2014 various",
+    "_description": "\u2018The Balade of Pite\u2019 or \u2018A Compleint to his Lady\u2019 \u2014 130 lines in various stanza forms",
+    "_witnesses": {
+        "BLAdd34360": {
+            "First Lines": "\nThe longe nyghtis whan euery creatureShuld have theyr rest in\n                    somwhat be kynde\u2026\n",
+            "Last Lines": "\n\u2026ffor ellis may me last no blisse ne hopeNe dwelle withyn my\n                    trouble careful hert\n",
+            "Note": "\nWritten as part of the \u2018Compleynte to Pite\u2019: see 4375.",
+            "Attributed Title": "\nExplicit Pyte (f. 53)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             More Odd Texts.\nChaucer Society\n         1st ser. 77. London: Tr\u00fcbner, 1886; repr. New York and London:\n            Johnson, 1967. \nSkeat,  Walter William,\n                        ed.  \n             The Complete Works of Geoffrey Chaucer.\n         7 vols. Oxford: Clarendon, 1894-7: .360-64.\nRobinson,  F. N.,\n                        ed.  \n             The Works of Geoffrey Chaucer.\n         Oxford: Clarendon, 1933; 2nd ed. 1957: 621-23; 1957; 528-29.\n\n",
+            "folio": "ff. 51-53"
+        },
+        "BLHar78": {
+            "First Lines": "\n\u00dee long nightes whane euery creatureShoulde haue \u00feeyre\n                    rest in somwhat as be kynde\u2026\n",
+            "Last Lines": "\n\u2026And for no maner gilt but my goode willeAls goode were\n                    \u00feanne vntrewe as truwe to be\u2026\n",
+            "Note": "\nEnds imperfectly; written as part of the \u2018Compleynte to\n                    Pite\u2019: see 4375.",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             Odd Texts of the Minor Poems.\n             2 vols. \n             Chaucer Society\n         1st ser. 23, 60. London: Tr\u00fcbner, 1868, 1880; repr. New York and\n            London: Johnson, 1967. \nBenson,  Larry Dean,\n                        ed.  \n             The Riverside Chaucer.\n         3rd ed. Boston: Houghton Mifflin, 1987: 642-3.\n\n",
+            "folio": "ff. 82-83v"
+        }
+    }
+}

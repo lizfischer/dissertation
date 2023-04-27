@@ -1,0 +1,26 @@
+{
+    "_id": 696,
+    "_header": "At a sermon there I sat / A comely clerk I heard craven",
+    "Note": "For couplet heading, see 1979.",
+    "Title(s)": "A luytel sermoun of good edificacioun",
+    "Subjects": "sermons",
+    "Versification": "\u2014 eight-line",
+    "_description": "Friar Henry, \u2018A luytel sermoun of good edificacioun\u2019 \u2014 ten 8-line stanzas",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nAt A sarmoun \u00feer I seetA comely clerk Ich herde\n                    crauenWyse wordes he \u00feer speek\u00dee Mon \u00feat wolde in herte\n                    hauen\u2026\n",
+            "Last Lines": "\n\u2026& ben I haried in to helle pyneTo Bale \u00feer neuer ne\n                    bote nis nonHe \u00feat al \u00feis world schal demen\u00deou Rihtwys\n                    lord \u00feou rewe on Mon. Amen.\n",
+            "Note": "\nIn monorhyming quatrains; written in half-lines per line in\n                    MS.",
+            "Attributed Title": "\na Luytel Sarmoun (see 1979)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 476-8.\n",
+            "folio": "f. 300rb3-300rc"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nAt a sarmoun \u00feer I setA comly clerk ich herde craueWyse\n                    wordes he \u00feer spek\u00dee mon \u00feat wolde in herte\n                    haue\u2026\n",
+            "Last Lines": "\n\u2026A beon I hari\u021ded in to helle pyneTo Bale \u00feer neuere\n                    ne bote nis notHe \u00feat al \u00feis world schal demen\u00deou\n                    rightwys lord \u00feou rewe on mon Amen\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 90vb2-90vc"
+        }
+    }
+}

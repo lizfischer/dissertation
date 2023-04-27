@@ -1,0 +1,31 @@
+{
+    "_id": 1112,
+    "_header": "Deem the best in every doubt / Til the truth be tried out",
+    "Note": "See Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 344; for a copy formerly listed under this entry, see 1111.",
+    "Subjects": "advice, moral; proverbs",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A moralizing couplet",
+    "_witnesses": {
+        "BodRawC86": {
+            "Transcription": "\nDeame \u00fee best in euery dowteTyl \u00fee trouthe be tryed\n                    oute\n",
+            "folio": "f. 31r5"
+        },
+        "CULIi326": {
+            "Transcription": "\nDeme the beste of euery dowteTyll the trowth be tryed oouteA\n                    harde thynge hit is y wysTo deme a thynge that vnknowen isAqueyntanse\n                    of lordschip wyll y noghtffor furste or laste dere hit woll be\n                    bowght\n",
+            "Note": "\nImmediately preceded (without break) by 6594.",
+            "Editions": "\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.205.\n",
+            "folio": "f. 240"
+        },
+        "BLAdd31922": {
+            "Transcription": "\nDeme \u00fee best of euery dowttyll the trowth be tryed owt\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Additional MS 31922.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=2&ref=Add_MS_31922. \n",
+            "Editions": "\n\nStevens,  John,\n                        ed.  \n             Music and Poetry in the Early Tudor Court.\n         London: Methuen, 1961: 413.\nStevens,  John,\n                        ed.  \n             Music at the Court of Henry VIII.\nMusica Britannica\n         18. London: Stainer and Bell, 1962: 57.\n\n",
+            "folio": "f. 79v"
+        },
+        "BLHar1587": {
+            "Transcription": "\nDeme the best of euery dowteTill the trewth be tried owte\n",
+            "Note": "\nTranslating \u2018In dubiis\n                    servi\u2026\u2019. Repeated twelve-plus times down the page, parallel with repeated copies of the Latin version on f. 211v.",
+            "folio": "f. 212"
+        }
+    }
+}

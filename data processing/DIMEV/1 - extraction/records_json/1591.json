@@ -1,0 +1,29 @@
+{
+    "_id": 1591,
+    "_header": "God that all this world gan make / And died for us on a tree",
+    "Note": "Ringler Jr. (1988)\nXRingler Jr., William A. Bibliography and Index of English Verse Printed 1476-1558. London: Mansell, 1988",
+    "Title(s)": "The Expedition of Henry V into France",
+    "Subjects": "France, expedition to (1415); Henry V; historical poems",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "The Expedition of Henry V into France, in three passus: The Siege of Harfleur, The Battle of Agincourt, the Triumph of London \u2014 in eight-line stanzas with additional refrain lines: \u2018Wot ye right well that thus it was / Gloria tibi Trinitas\u2019",
+    "_witnesses": {
+        "BodRawC86": {
+            "First Lines": "\nGod That all this world gane make& for vs died vpor\n                    vppon a tree\u2026\n",
+            "Last Lines": "\n\u2026ffor nowe all ynglond well may syngBlest be god yn\n                    trenyte\n",
+            "Attributed Author": "\nExplicit Per Johannem Reve ffree Explicet per John Reve (f.\n                    186)",
+            "folio": "ff. 178-186"
+        },
+        "BLCottVitDXII": {
+            "Note": "\nVariant; Passus I, 221 lines; Passus II, 251 lines; lacks\n                    refrain.",
+            "Editions": "\n\nHearne,  Thomas,\n                        ed.  \n             Thomae de Elmham Vita & Gesta Henrici Quinti\u2026.\n         Oxford: e theatro Sheldonianae, 1727: 359.\nNicolas,  Nicholas Harris. \n             History of the Battle of Agincourt\u2026.\n         3rd ed. London: Johnson, 1833: 303-25.\nArber,  Edward. \n             An English Garner: Ingatherings from our history and\n                literature.\n         London, 1882: 8.13.\nPollard,  Alfred William. \n             Fifteenth Century Prose and Verse. A Volume of Arber\u2019s\n                \u2018English Garner\u2019\u2026.\n         Westminster and New York: Dutton, 1903: 2-12.\n\n",
+            "folio": "Part II, f. 214"
+        },
+        "BLHar565": {
+            "First Lines": "\nGod \u00feat all \u00feis world gan makeAnd dyed for vs on a tre\u2026\n",
+            "Last Lines": "\n\u2026The date of Crist I wot it wasA thousand foure hundred and fyfteneGloria tibi trinitas\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 525.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_565. \n",
+            "Editions": "\n\nNicolas,  Nicholas Harris,  and  Edward Tyrrell, eds.  \n             A Chronicle of London, from 1079 to 1483.\n         London: Longman, 1827: 216-33.\nNicolas,  Nicholas Harris. \n             History of the Battle of Agincourt\u2026.\n         3rd ed. London: Johnson, 1833: 301-29.\nArber,  Edward. \n             An English Garner: Ingatherings from our history and\n                literature.\n         London, 1882: 8.13.\nPollard,  Alfred William. \n             Fifteenth Century Prose and Verse. A Volume of Arber\u2019s\n                \u2018English Garner\u2019\u2026.\n         Westminster and New York: Dutton, 1903: 2-12.\nEvans,  Thomas. \n             Old Ballads: historical and narrative, with some of modern\n                date.\n         London: for R. H. Evans by W. Bulmer, 1810: 2.334.\n\n",
+            "folio": "ff. 102-114"
+        }
+    }
+}

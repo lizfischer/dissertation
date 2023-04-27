@@ -1,0 +1,20 @@
+{
+    "_id": 6469,
+    "_header": "When thou least weens veniet mors te superare",
+    "Note": "Same as a portion of 4880, and same as first lines of London, British Library Addit. 60577 [Winchester Anthology] version of 4880.",
+    "Subjects": "death",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Macaronic": "Latin",
+    "_description": "On the inevitability of death \u2014 one macaronic couplet, or quatrain rhyming abab",
+    "_witnesses": {
+        "BLAdd37049": {
+            "Note": "\nPreceding 2625; cf. 5100.",
+            "Editions": "\n\nBrunner,  Karl. \n             \u201cMittelenglische Todesgedichte.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         167 (1935): 20-35: 30.\nDoty,  Brant Lee,\n                        ed.  \n             \u201cAn Edition of British Museum MS Additional 37049: a Religious\n                Miscellany.\u201d \n         Diss. Michigan State, 1969: 213.\n\n",
+            "folio": ""
+        },
+        "YorkMinXVIK6": {
+            "Transcription": "\nWen tho lest wenis veniet mors to superareThus \u00fei graue\n                    grenis ergo mortis memorare\n\n",
+            "folio": "f. 26v"
+        }
+    }
+}

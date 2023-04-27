@@ -1,0 +1,18 @@
+{
+    "_id": 3201,
+    "_header": "Lord God to Thee we call",
+    "Subjects": "psalms,penitential; scripture texts, paraphrase",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A paraphrase of the Fifty-first Psalm \u2014 forty-three couplets",
+    "_witnesses": {
+        "NLS1921": {
+            "First Lines": "\nLorde god to \u00fee we calle\u00deat \u00feou haue merci on ous\n                    alle\u2026\n",
+            "Last Lines": "\n\u2026Fram \u00fee first biginninge\u00deat neuer no schal haue\n                    endinge\n",
+            "Note": "\nPreceded by opening line from Psalm 50, Miserere mei\n                    deus.",
+            "Attributed Title": "\nDauid \u00fee king (f. 280rb)",
+            "Facsimiles": "\nPearsall,  Derek,  and  I. C. Cunningham, eds.  \n             The Auchinleck Manuscript. National Library of Scotland\n                Advocates\u2019 MS. 19.2.1.\n         London: Scolar Press, 1977. \n",
+            "Editions": "\n\nLaing,  David,\n                        ed.  \n             A Penni Worth of Witte, Florice and Blauncheflour\u2026.\nAbbotsford Club\n         29. Edinburgh, 1857: 76-80.\nK\u00f6lbing,  Eugen. \n             \u201cKleine Publicationen aus der Auchinleck-HS: VII. Psalm L.\u201d \n             Englische Studien\n         9 (1886): 49-50: 49-50.\n\n",
+            "folio": "ff. 280rb-280vb"
+        }
+    }
+}

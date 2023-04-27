@@ -1,0 +1,57 @@
+{
+    "_id": 1909,
+    "_header": "He that will his soul leche / Listeneth to me and I woll\u2026",
+    "Note": "For other MSS see 3212; for prose versions cf. Canterbury Cath. Z.8.33, olim Ingilby, f. 1; Aberystwyth, National Library of Wales Brogyntyn ii.1 [olim Porkington 10], f. 132",
+    "Title(s)": "The Stacions of Rome",
+    "Subjects": "treatises, devotional; geographical writings; pilgrims/pilgrimage",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018The Stacions of Rome\u2019 \u2014 in couplets",
+    "_witnesses": {
+        "BLAdd37787": {
+            "First Lines": "\n\u2026\u00fean I haue told here by foreOr telle schuld with alle\n                    myght\u2026\n",
+            "Last Lines": "\n\u2026Graunt vs parte of \u00feis pardoneAnd \u00feer to\n                    his\u2026\n",
+            "Note": "\nThe text is incomplete due to damage to the manuscript. Only the final\n                    seven lines of the text remain, and part of the last line is\n                    missing.",
+            "Editions": "\nBaugh,  Nita Scudder. \n             A Worcestershire Miscellany, compiled by John\n                    Northwood, c. 1400, edited from British Museum MS. Add.\n                37,787.\n         Philadelphia, 1956: 106.\n",
+            "folio": "f. 18"
+        },
+        "BlCottCalAII": {
+            "First Lines": "\nHe \u00feat wyll hys sowle lecheLysteneth to me & y woll\n                    \u021dou teche\u2026\n",
+            "Last Lines": "\n\u2026And six \u00feowsand \u021dere he \u021daf to pardonTo all\n                    \u00feo \u00feat \u00feyder wyll come \n",
+            "Note": "\nLines 1-553.",
+            "Attributed Title": "\nIncypyt \u00fee stacyonys of Rome (f. 83rb, by scribe, written\n                    in upper margin); S of Rome (as RT on verso leaves thereafter); Explicit \u00fee\n                    staciones of Rome (f. 86va, by scribe below last line); The stations\n                    of Rome (f. 1, sixteenth-century list of contents)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Political, Religious and Love Poems, from Lambeth MS. 306 and other\n                sources.\nEETS\n         o.s. 15 (1866); repr. 1962; rev. ed. 1903: 113-44; rev. ed. 143-73 (lines 554-914).\n",
+            "folio": "ff. 83rb-86va"
+        },
+        "BLCottVesDIX": {
+            "First Lines": "\n\u2026ffor no man can that pardone sayPasse we now forthe in owter wey\u2026\n",
+            "Last Lines": "\n\u2026A pater noster and an aueAmen for charyte amen amen amen for charyte\n",
+            "Note": "\nBegins imperfectly (lacking lines 1-100); rubric after end reads \u2018Amen quod Bertran watoun\u2019, followed by a monogram.",
+            "Attributed Author": "\nBertran Watoun",
+            "folio": "ff. 183-188"
+        },
+        "Lam306": {
+            "First Lines": "\nWho so wolle be his soulles lechelyst ynnythe to me I wyll yowe\n                    teche\u2026\n",
+            "Last Lines": "\n\u2026Graunt vs partie of this pardoneAnd there withe gyve us his\n                    benysone\n",
+            "Attributed Title": "\nThe stacyons of Rome (f. 152v); Explicit \u00fee stacions of\n                    Roome (f. 165)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Political, Religious and Love Poems, from Lambeth MS. 306 and other\n                sources.\nEETS\n         o.s. 15 (1866); repr. 1962; rev. ed. 1903: 113-44; rev. ed. 143-73 (lines 554-914).\n",
+            "folio": "ff. 152v-165"
+        },
+        "PROSC69565": {
+            "Note": "\nLines 1-667; after line 19, verse copied as prose.",
+            "Editions": "\nScattergood,  V. John. \n             \u201cAn Inedited Manuscript of The Stacions of Rome.\u201d \n             English Philological Studies\n         11 (1968): 51-4: 51 (unique passages only).\n",
+            "folio": "a roll"
+        },
+        "ChicagoAdd12": {
+            "First Lines": "\nHe \u00feat wil his soule lecheList to me I wil him\n                    [te]chPardoun his soule boteAt grete rome \u00feere is \u00fee\n                    rote\u2026\n",
+            "Last Lines": "\n\u2026graunt vs parte of \u00feis pardounAnd \u00feer to his holy\n                    benisoune\n",
+            "Note": "\nIllustrated at top. Very long thin roll. First two lines rubric. Ends\n                    \u2018Amen\u2019 on same line after \u2018benisoune\u2019. Lines 1-667;\n                    after line 19, verse copied as prose.",
+            "folio": "a roll, membranes 1-5"
+        },
+        "BodWoodEmpt25": {
+            "First Lines": "\nWho so wyll be his soules lecheLysten to me j wyll hym\n                    teche\u2026\n",
+            "Last Lines": "\n\u2026He\u00feen it was & cristen nou[t]Tyll peter & poul\n                    hit hadde bout\n",
+            "Note": "\n12 lines. See Keiser (2003)\nXKeiser,  George R. \n             \u201cVerse Introductions to Middle English Medical Treatises.\u201d \n             English Studies\n         84 (2003): 301-17, 314-15 for the argument\n                    reassigning this text from 6710\n                    to this entry.",
+            "folio": "f. iii"
+        }
+    }
+}

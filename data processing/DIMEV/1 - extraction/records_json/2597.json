@@ -1,0 +1,17 @@
+{
+    "_id": 2597,
+    "_header": "In the city called Assisi / Vir trahens tunc originem",
+    "Author(s)": "James Ryman",
+    "Subjects": "Francis of Assisi, saint; hymns, to saints",
+    "Versification": "\u2014 six-line \u2014 ababcc",
+    "Macaronic": "Latin",
+    "_description": "James Ryman, A macaronic song in praise of St. Francis \u2014 eleven 6-line stanzas (ababcc) with two-line refrain: \u2018Whoys Ioy shalle euer encres / His name is callid ffraunces\u2019",
+    "_witnesses": {
+        "CULEe112": {
+            "First Lines": "\nIn the cite callyd assyseVir trahens tunc\n                    originem\u2026\n",
+            "Last Lines": "\n\u2026Whoys ioy shalle euer encresHis name is callid\n                    ffraunces\n",
+            "Editions": "\nZupitza,  Julius,\n                        ed.  \n             \u201cDie Gedichte des Franziskaners Jacob Ryman.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         89 (1892): 167-338: 316-18.\n",
+            "folio": "ff. 99v-100"
+        }
+    }
+}

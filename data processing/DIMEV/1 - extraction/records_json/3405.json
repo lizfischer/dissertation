@@ -1,0 +1,20 @@
+{
+    "_id": 3405,
+    "_header": "Many men weened / that he ne ween ne tharf",
+    "Note": "See 714.",
+    "Subjects": "proverbs",
+    "_description": "Four lines (lines 160-3) from the Proverbs of Alfred",
+    "_witnesses": {
+        "BodDig86": {
+            "Transcription": "\nMany man wene\u00fe \u00feat he wene Ne \u00fearf longe to liuen\n                    And him Lie\u00fe \u00fee wrench Quod hending\n",
+            "Facsimiles": "\nTschann,  Judith A.,  and  Malcolm B. Parkes.  \n             \u201cIntroduction.\u201d \n             Facsimile of Oxford, Bodleian Library, MS Digby 86\nEETS\n         s.s. 16 (1996). \n",
+            "Editions": "\nVarnhagen,  Hermann. \n             \u201cZu mittelenglischen gedichten: XI - XIII.\u201d \n             Anglia\n         4 (1881): 180-210: 200.\n",
+            "folio": "f. 143"
+        },
+        "BLAdd11579": {
+            "Transcription": "\nMany man wened\u00feat he wen ne partlonge to liueneAnd\n                    hymn lye\u021d \u00fee wreuh\n",
+            "Note": "\nWritten as\n                    prose.",
+            "folio": "f. 72v"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_id": 2441,
+    "_header": "In a chamber as I stood",
+    "Note": "The same refrain occurs also in 2407.",
+    "Title(s)": "Seruice is noon heritage",
+    "Subjects": "satire",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "\u2018Seruice is noon heritage\u2019 \u2014 nine 8-line stanzas (ababbcbc) with this refrain",
+    "_witnesses": {
+        "BodRawPoe36": {
+            "First Lines": "\nIn a Chambre as I stodeThere lordys were and baronis\n                    bold\u2026\n",
+            "Last Lines": "\n\u2026lesyth \u00feer seruice wondyr lyeffor seruice is noon\n                    eritage\n",
+            "Note": "\n7 stanzas.",
+            "Editions": "\nSandison,  Helen Estabrook. \n             The \u2018Chanson d\u2019Aventure\u2019 in Middle English.\nBryn Mawr College Monographs,  Monograph Series 12. Bryn Mawr, PA: Bryn Mawr College, 1913: 119-20.\n",
+            "folio": "ff. 2-2v"
+        },
+        "NLS1931": {
+            "First Lines": "\nIn a chambre as I stode\u00deere lordes were & barons\n                    bold\u2026\n",
+            "Last Lines": "\n\u2026for \u00feis avaunte I dare wele makehis service is gud\n                    heritage\n",
+            "Note": "\nWritten as if it follows lines 1-12 of 631.",
+            "Attributed Title": "\nServes is no heritage (added by later hand, top of f. 91)",
+            "Facsimiles": "\nHardman,  Phillipa. \n             The Heege Manuscript: A Facsimile of National Library of Scotland MS\n                Advocates 19.3.1.\n         Leeds Texts and Monographs, n.s. 16. Leeds: School of English,\n            2000. \n",
+            "folio": "ff. 91-92v"
+        }
+    }
+}

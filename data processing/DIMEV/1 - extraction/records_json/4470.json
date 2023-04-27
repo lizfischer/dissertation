@@ -1,0 +1,37 @@
+{
+    "_id": 4470,
+    "_header": "Rest and refuge to folk disconsolate",
+    "Author(s)": "John Lydgate",
+    "Subjects": "prayers, to saints; Leonard, saint",
+    "Versification": "\u2014 eight-line, six-line \u2014 ababbcbc, aabbcc",
+    "_description": "John Lydgate, a prayer to St. Leonard \u2014 five 8-line (ababbcbc) and one 6-line (aabbcc) stanzas with a \u2018distresse\u2019 refrain",
+    "_witnesses": {
+        "BodLauMis683": {
+            "First Lines": "\nReste and reffuge to folk dysconsolatffader off pyte and\n                    consolacyoun\u2026\n",
+            "Last Lines": "\n\u2026ther to be ffed with selestyal mannaWher as angelis ar wont\n                    to synge osanna\n",
+            "Attributed Title": "\nHEre begynneth a praier to seynt Lethenard (f. 21)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 135-6.\n",
+            "folio": "ff. 21-22"
+        },
+        "CamJes56": {
+            "First Lines": "\n[R]Est and refuge to folke disconsolateffather of pitee and\n                    consolacion\u2026\n",
+            "Last Lines": "\n\u2026\u00deere to be feede with celestiall In annaWhere Aungels\n                    were wont to syng Osanna\n",
+            "Attributed Title": "\nIncipit de sancto Leonardo (f. 75v)",
+            "folio": "ff. 75v-76"
+        },
+        "CamSidney37": {
+            "First Lines": "\nBEst and refugie to folke disconsolateffadir of pyte and\n                    consolacion\u2026\n",
+            "Last Lines": "\n\u2026There to be fedde with celestialle mannaWhere angelys ar\n                    wonte to syng osanna\n",
+            "folio": "ff. 145v-147"
+        },
+        "BLHar2255": {
+            "First Lines": "\nBEste and Refuge to folk disconsolatffadir of pite and\n                    consolacioun\u2026\n",
+            "Last Lines": "\n\u2026Ther to be fed with celestial mannaWher Angelis ar wont to\n                    syngen Osanna Explicit\n",
+            "Editions": "\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             A Selection from the Minor Poems of Don John Lydgate.\nPercy Society\n         2. London: T. Richard, 1840: 205-6.\n",
+            "folio": "ff. 114-115"
+        },
+        "Longleat256": {
+            "folio": ""
+        }
+    }
+}

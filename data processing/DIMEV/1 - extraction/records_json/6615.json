@@ -1,0 +1,39 @@
+{
+    "_id": 6615,
+    "_header": "Whoso list old stories to read",
+    "Note": "Cf. 6533.",
+    "Title(s)": "Parthenope of Blois",
+    "Subjects": "romances",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Parthenope of Blois (Version A) \u2014 in couplets",
+    "_witnesses": {
+        "BodEngPoetc3": {
+            "Editions": "\n\nB\u00f6dtker,  Adan Fredrik Trampe,\n                        ed.  \n             The Middle-English Versions of Partonope of Blois.\nEETS\n         e.s. 10 (1912); repr. 1973. \nBuckley,  William Edward,\n                        ed.  \n             The Old English Version of Partonope of Blois.\nRoxburghe Club\n         82. London, 1862. \n\n",
+            "folio": "ff. 6;  7"
+        },
+        "BodLatMisB17": {
+            "First Lines": "\n\u2026wyth hym they shull be well a pay[ ]off yowre selff be not\n                    dysmayd\u2026\n",
+            "Last Lines": "\n\u2026[ ] found vnstabull[ ] may be pardonabill\n",
+            "Note": "\nFour fragments of bifolia, 200 lines: lines 6142-6344.",
+            "Editions": "\n\nB\u00f6dtker,  Adan Fredrik Trampe,\n                        ed.  \n             The Middle-English Versions of Partonope of Blois.\nEETS\n         e.s. 10 (1912); repr. 1973. \nW\u00fclker,  Richard Paul. \n             \u201cZu Parthenope of Blois.\u201d \n             Anglia\n         12 (1889): 607-20: 607-20.\n\n",
+            "folio": "numbers 157-158"
+        },
+        "BodRawPoe14": {
+            "Note": "\n6280 lines, imperfect.",
+            "Editions": "\nB\u00f6dtker,  Adan Fredrik Trampe,\n                        ed.  \n             The Middle-English Versions of Partonope of Blois.\nEETS\n         e.s. 10 (1912); repr. 1973. \n",
+            "folio": "f. 7v"
+        },
+        "OxfUni188": {
+            "Note": "\n7096 lines; begins and ends imperfectly.",
+            "Editions": "\n\nB\u00f6dtker,  Adan Fredrik Trampe,\n                        ed.  \n             The Middle-English Versions of Partonope of Blois.\nEETS\n         e.s. 10 (1912); repr. 1973. \nBuckley,  William Edward,\n                        ed.  \n             The Old English Version of Partonope of Blois.\nRoxburghe Club\n         82. London, 1862. \n\n",
+            "folio": "f. 1"
+        },
+        "BLAdd35288": {
+            "First Lines": "\nHoo so luste olde stories to redeHe sholle ffynde with owten drede\u2026\n",
+            "Last Lines": "\n\u2026In which faire melior and her love hath beAnd \u00feus Endeth \u00fee Romans of partonope\n",
+            "Note": "\n12195 lines; a leaf missing after f. 19.",
+            "Editions": "\nB\u00f6dtker,  Adan Fredrik Trampe,\n                        ed.  \n             The Middle-English Versions of Partonope of Blois.\nEETS\n         e.s. 10 (1912); repr. 1973. \n",
+            "folio": "ff. 2-154"
+        }
+    }
+}

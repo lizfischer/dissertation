@@ -1,0 +1,25 @@
+{
+    "_id": 1769,
+    "_header": "Harken to my ron / As I you tellen can",
+    "Title(s)": "Le regret de Maximian",
+    "Subjects": "death, approach of; mutability",
+    "Versification": "\u2014 twelve-line \u2014 aabaabccbccb",
+    "_description": "\u2018Le regret de Maximian\u2019 \u2014 generally in 12-line stanzas (aabaabccbddb)",
+    "_witnesses": {
+        "BodDig86": {
+            "First Lines": "\nHerkne\u00fe to mi ronAs hic ou tellen con\u2026\n",
+            "Last Lines": "\n\u2026Min helde ne me biflitenWel heye I shulde hire\n                    honge\n",
+            "Attributed Title": "\nLe regret de maximian (f. 134v)",
+            "Facsimiles": "\nTschann,  Judith A.,  and  Malcolm B. Parkes.  \n             \u201cIntroduction.\u201d \n             Facsimile of Oxford, Bodleian Library, MS Digby 86\nEETS\n         s.s. 16 (1996). \n",
+            "Editions": "\n\nVarnhagen,  Hermann. \n             \u201cZu mittelenglischen gedichten: IV-X.\u201d \n             Anglia\n         3 (1880): 59-67, 275-92, 415-25, 533-51: 278-82.\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 92-100.\n\n",
+            "folio": "f. 134va-134vb"
+        },
+        "BLHar2253": {
+            "First Lines": "\nHerkne to my ron As ich ou telle con\u2026\n",
+            "Last Lines": "\n\u2026amen par charite ant so mote hit be\n",
+            "Facsimiles": "\nKer,  Neil Ripley. \n             \u201cIntroduction.\u201d \n             Facsimile of British Museum MS. Harley 2253.\nEETS\n         o.s. 255 (1965). \n",
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.119-25.\nB\u00f6ddeker,  Karl. \n             Altenglische Dichtungen des MS. Harl. 2253.\n         Berlin: Weidmann, 1878: 245-53.\nFein,  Susanna Greer,\n                        ed.  \n             The Complete Harley 2253 Manuscript, Volume 2.\n         Kalamazoo, Michigan: Medieval Institute Publications, 2009: Booklet 5, no. 68.\n\n",
+            "folio": "ff. 82ra-83"
+        }
+    }
+}

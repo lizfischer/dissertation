@@ -1,0 +1,22 @@
+{
+    "_id": 4438,
+    "_header": "Rabbi Moses the good clerk",
+    "Note": "Cf. Pricke of Conscience, lines 7561-86; and see 454.",
+    "Subjects": "astrology/astronomy",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018Spacium de terra ad celum\u2019 \u2014 twenty-seven lines in couplets",
+    "_witnesses": {
+        "BodRawD939": {
+            "First Lines": "\nRAbe Moyses \u00fee goode ClerkeSpekes and preue\u00fe a wonder\n                    werke\u2026\n",
+            "Last Lines": "\n\u2026\u00feus tellez a mayster Rabe moysesAnd o\u00feer grete\n                    clerkus also it is no lees\n",
+            "Attributed Title": "\nExplicit spacium de terra ad celum (at the end)",
+            "Editions": "\nHahn,  A. \n             \u201cKleine Mitteilungen.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         106 (1901): 351: 350.\n",
+            "folio": "vellum piece # 5"
+        },
+        "CULEe115": {
+            "First Lines": "\nRaby & Moyses \u00fee good clerkTellyth of wonder\n                    werkesHowe god hym selff made planytis 7And by twhene euery planyte ys\n                    an heuen\u2026\n",
+            "Note": "\n23 lines, written as prose and rhyme degenerates in middle before three\n                    couplets at end",
+            "folio": "vellum piece # 5"
+        }
+    }
+}

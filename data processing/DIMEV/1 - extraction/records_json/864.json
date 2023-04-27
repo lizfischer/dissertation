@@ -1,0 +1,48 @@
+{
+    "_id": 864,
+    "_header": "Blessed Edmund king martir & virgin",
+    "Note": "Prologue to 5422 in several mss",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "Banner of St Edmund (Lydgate)",
+    "Subjects": "Edmund, saint; allegories",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "Lydgate\u2019s \u2018Banner of St Edmund\u2019 \u2014 ten 8-line stanzas",
+    "_witnesses": {
+        "BodAsh46": {
+            "First Lines": "\nBlyssed Edmond martir and virgineHad in thre vertues by grace a\n                    souereyn prysBy which he venquysshed al venymes serpentineAdam be\n                    aserpent banysshed ffro paradys\u2026\n",
+            "Last Lines": "\n\u2026The Thrydde Crowne to Receyve in certeyneffor his merytes\n                    aboue the sterrys sevene\n",
+            "folio": "ff. 85v-87"
+        },
+        "BodTan347": {
+            "First Lines": "\n[B]lyssed Edmond martir and virgineHad in thre vertues bygrace a\n                    souereyn prys\u2026\n",
+            "Last Lines": "\n\u2026The thrydde Trowne to receyve in certeyneffor his merytes\n                    abowe the sterrys sevene\n",
+            "folio": "ff. 86v-88"
+        },
+        "OxfCCC61": {
+            "First Lines": "\nA Blissid Edmond king martir & virgineHad in \u00fere virtues\n                    by grace a souerain\u2026\n",
+            "Last Lines": "\n\u2026In \u00feis lyfe here aftirward in heuyneffor his meritis\n                    above \u00fee sterres seuyne\n",
+            "Attributed Title": "\nSequitur descripcio primi vexilli Regis predictis armorum suorum, et\n                        cetera (f. 64v); Explicit applicacio (f. 65v) ",
+            "folio": "ff. 64v-65v"
+        },
+        "CULEe215": {
+            "First Lines": "\nBlyssid Edmund kynge martyr and virgynhad in thre vertuous by grace\n                    of sovereyn pryse\u2026\n",
+            "Last Lines": "\n\u2026The thyrd crowne to resseyue in certeyneffor hys meryte a\n                    bove the sterrys seuyn\n",
+            "Note": "\nFollows 1535 as if part\n                    of same work",
+            "Attributed Title": "\nSent Edmvnd (f. 105)",
+            "folio": "ff. 104v-105v"
+        },
+        "BLHar372": {
+            "First Lines": "\nBlissid Edmund kyng martir & virgynehad in thre vertues bi\n                    grace a souereyne pryce\u2026\n",
+            "Last Lines": "\n\u2026the thridde crown to receyve in certeyneffor his merites\n                    aboue \u00fee sterres seuene\n",
+            "folio": "ff. 43v-44v"
+        },
+        "BLHar2278": {
+            "First Lines": "\nBLyssyd Edmund kyng martir and vyrgyneHadde in thre vertues by grace a souereyn prys\u2026\n",
+            "Last Lines": "\n\u2026Which for our feith suffrede PassiounBlyssyd Edmund kyng martir and virgyne\n",
+            "Note": "\nLast stanza written in rubric.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 2278.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_2278. \n",
+            "Editions": "\n\nHorstmann,  Carl. \n             Altenglische Legenden: Neue Folge.\n         Heilbronn: Henninger, 1881: 376-8.\nHervey,  Lord Francis. \n             Corolla Sancti Edmundi.\n         London: J. Murray, 1907: 405-8.\n\n",
+            "folio": "ff. 2-4v"
+        }
+    }
+}

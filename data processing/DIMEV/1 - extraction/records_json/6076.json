@@ -1,0 +1,18 @@
+{
+    "_id": 6076,
+    "_header": "Trust in my love I shall be true",
+    "Note": "Added in a fifteenth-century hand to The Blickling Homilies.",
+    "Subjects": "lover\u2019s lament",
+    "Versification": "\u2014 four-line",
+    "Bibliographic Ghosts": "Princeton, Princeton University Library Scheide 66, f. x: incorrect shelf-mark listed formerly in Robbins and Cutler (1965)\nXRossell Hope Robbins, and John L. Cutler. Supplement to the Index of Middle English Verse. Lexington, Kentucky: University of Kentucky Press, 1965; see Princeton, Princeton University Library Scheide 71.",
+    "_description": "A lover\u2019s lament \u2014 two cross-rhymed quatrains",
+    "_witnesses": {
+        "PULSchei71": {
+            "First Lines": "\nTrust in my luf hy schall be trwHertly to hold \u00feat I haf\n                    heght\u2026\n",
+            "Last Lines": "\n\u2026And thus hy [?murn] both day & neghtThe more I luf\n                    \u00fee more I may\n",
+            "Note": "\nAdded with other scribbled notes to originally blank page.",
+            "Editions": "\n\nWillard,  Rudolph,\n                        ed.  \n             The Blickling Homilies.\nEarly English Manuscripts in Facsimile\n         10. Copenhagen: Rosenkilde and Bagger, 1960: 65.\nRobbins,  Rossell Hope. \n             \u201cMiddle English Lyrics: Handlist of New Texts.\u201d \n             Anglia\n         83 (1965): 35-47: 45.\n\n",
+            "folio": "f. x"
+        }
+    }
+}

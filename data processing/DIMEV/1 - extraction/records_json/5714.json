@@ -1,0 +1,14 @@
+{
+    "_id": 5714,
+    "_header": "This is the book of William Tucke",
+    "Subjects": "bookplates; Tucke, William, book owner",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A Book Plate of William Tucke (late fifteenth century) \u2014 two couplets",
+    "_witnesses": {
+        "BLAdd10336": {
+            "Transcription": "\nThis is the boke off William TuckeChrist graunte to hym yn erth good\n                    luckeAnd or he dye to send hym graceIn hevyn so hye to purchese a\n                    place\n",
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 2.164.\nBennett,  Henry Stanley. \n             England from Chaucer to Caxton.\n         London: Methuen, 1928: 161.\n\n",
+            "folio": "f. 3v"
+        }
+    }
+}

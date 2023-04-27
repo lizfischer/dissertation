@@ -1,0 +1,103 @@
+{
+    "_id": 4707,
+    "_header": "Saint Mary Magdalene that God forgave her sin",
+    "Note": "For another text see 4928.",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Mary Magdalene, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Mary Magdalene in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "BodAsh43": {
+            "First Lines": "\nSEynt Marie magdaleyn \u00feat god uor \u021def hire sunneLazare\n                    soster & martha In come of kynges kunne\u2026\n",
+            "Last Lines": "\n\u2026Nou seynt Marie Magdaleyn \u00feat bro\u021dte hire lif \u00feus\n                    to endeBidde god \u00feat we mote wi\u00fe hire to \u00fee Ioie of heuene\n                    wende\n",
+            "folio": "ff. 108-112v"
+        },
+        "Bod779": {
+            "First Lines": "\nSeint mary maudeleyn \u00feat god for\u021daf here sinnelasarus\n                    soster & martha \u00feey come of kingus kinne\u2026\n",
+            "Last Lines": "\n\u2026now mary magdalen \u00feat \u00feus brou\u021dt here lyf to\n                    endebidde god \u00feat we moot wit here to \u00fee ioy of heuin\n                    wende\n",
+            "Attributed Title": "\nSeint Mary Maudelein (f. 266v)",
+            "folio": "ff. 266v-270"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSEinte Marie Magdaleyn \u00feat God for \u021daf hire sunneLazarus\n                    suster and Martha \u00feei come of kynges kunne\u2026\n",
+            "Last Lines": "\n\u2026Now seinte Marie Magdaleyn \u00feat \u00feus brouhte hire lyf to\n                    endeBidde God \u00feat we wi\u00fe hire to \u00fee Ioye of heuene weende.\n                    Amen\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 40vb-41vb"
+        },
+        "BodLauMis463": {
+            "First Lines": "\nSEint marie maudeleyn \u00feat god for\u021daf hire sinneLazares\n                    suster & martha comen of kinges kynne\u2026\n",
+            "Last Lines": "\n\u2026Nou seint Marie Maudelein \u00feat brought \u00feus here lif to\n                    endBidde god \u00feat we mote wi\u00fe hire to \u00fee ioye of heuen\n                    wend\n",
+            "Note": "\nTwo columns per page, one full-line, the other half-line.",
+            "folio": "ff. 68vb-71rb"
+        },
+        "OxfTri57": {
+            "folio": "f. 77v"
+        },
+        "CULAdd3039": {
+            "First Lines": "\nSaynet Mary Mawdlayne \u00feat god forgafe hir synneLa\u021dar\n                    sistre & Martha als \u00feai come of kynge\u021d kynneMawdleyne was sho\n                    calde \u00feis gude woman Maryffor of \u00fee castel of Magd[ ]le sho was\n                    tuo myle fro betany\u2026\n",
+            "Last Lines": "\n\u2026\u00deou bliste maudeleyne \u00feat lufed mekil ihesu criste\n                    godde\u021d sonneGrant vs \u00feurgh \u00fei prayer in heuen blis to\n                    wonne\n",
+            "folio": "ff. 138v-141v"
+        },
+        "CamCCC145": {
+            "First Lines": "\nSeinte Marie Magdaleine \u00feat god for\u021daf hure sunneLazares\n                    suster and martha icome of kinges kunde\u2026\n",
+            "Last Lines": "\n\u2026Nou seinte Marie magdalein \u00feat bro\u021dte hure lif \u00feus\n                    to endeBidde god \u00feat we mote wi\u00fe hure to the ioie of heuene\n                    wende\n",
+            "Editions": "\nD\u2019Evelyn,  Charlotte,  and  A. J. Mill, eds.  \n             The South English Legendary: Corpus Christi College Cambridge MS. 145\n                and British Museum MS. Harley 2277, with variants from Bodley MS. Ashmole 43 and\n                British Museum MS. Cotton Julius D.ix.\nEETS\n         o.s. 235 (1959), 236 (1956); repr. 1967: 1.302-15.\n",
+            "folio": "ff. 113-117v"
+        },
+        "CamMagPep2344": {
+            "First Lines": "\nSeint Marie Magdalene \u00feat god ffor\u021daf hure synneLazares\n                    suster and Martha hi come alle of heye kynne\u2026\n",
+            "Last Lines": "\n\u2026Now Seint Marie Magdaleyne \u00feat \u00feus \u00fei lif\n                    brou\u021dtest to endeBide for vs god \u00feat we mote ffram hennes to\n                    \u00fee ioye of heuene wende\n",
+            "Attributed Title": "\nMaria Magdalena (RT)",
+            "folio": "pp. 345-353"
+        },
+        "BLAdd10301": {
+            "First Lines": "\nSEynte Marie Magdalene \u00feat god for at god for \u021daf hure\n                    synneLazares soster & Martha hy come of kynges kynne\n",
+            "Last Lines": "\n\u2026Nou seint Marie Magdaleyn \u00feat bro\u021dte hire lyf \u00feis\n                    to endeBidde god \u00feat we mote wi\u00fe hire to \u00fee Ioye of heuene\n                    wende\n",
+            "Attributed Title": "\nDe sancta Maria Magdalene (f. 130v, by scribe in margin\n                    beside first line); Magdalene (RT)",
+            "folio": "ff. 130v-135v"
+        },
+        "BLCottJulDIX": {
+            "First Lines": "\nSEinte marie magdaleyn \u00feat for \u021def here sinnela\u021daris soster & martha hi come of kinges kenne\u2026\n",
+            "Last Lines": "\n\u2026nou seinte marie magdaleyn \u00feat bro\u021dte here lif \u00feus to endebidde god \u00feat we mote wit hire to \u00fee ioie of heuen wende\n",
+            "Note": "\n\u201cCapitulum l\u201d added to left margin by later hand (f. 105v).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Julius MS D IX.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Julius_D_IX. \n",
+            "folio": "ff. 105v-110"
+        },
+        "BLEge1993": {
+            "First Lines": "\nSeinte Mari Magdalem \u00feat god vor\u021daf hire sunneLazarus soster & mar\u00feas was icome of kinges kunne\u2026\n",
+            "Last Lines": "\n\u2026Now seint Marie magdelem \u00feat brou\u021dte hir lif \u00feus to endeBidde god \u00feat we moten to \u00fee ioie of heuene wende\n",
+            "Note": "\nEnds \u201cAmen\u201d (f. 190).",
+            "folio": "ff. 185v-190"
+        },
+        "BLEge2810": {
+            "First Lines": "\nSEynte marie maudeleyne \u00feat god for \u021daf hire synneLaser hire & martha come of kinges kynne\u2026\n",
+            "Last Lines": "\n\u2026\u00fee bussop aros & \u021deode ner \u00feo \u00feo\u021dte him bet he mi\u021dtebe hold \u00fee sunne \u00fean hire face hym \u00feo\u021dte \u021de ssinde so bri\u021dte\u2026\n",
+            "Note": "\nEnds imperfectly.",
+            "folio": "ff. 83v-87v"
+        },
+        "BLEge2891": {
+            "First Lines": "\n\u2026And sein poul iturnd to cristendom and prechede aboute faste\u00fee giwes were wi\u00fe \u00fee apostles wro\u00fee & in gret wra\u00fe\u00fee out \u00f5an caste\u2026\n",
+            "Last Lines": "\n\u2026Nou seinte marie magdalein \u00feat bro\u021dte hare lif \u00feus to endeBidde god \u00feat we mote wi\u00fe hure to \u00fee ioie of heuene wende\n",
+            "Note": "\nBegins incomplete due to missing folios between 107 and 108.",
+            "folio": "ff. 108-111v"
+        },
+        "BLHar2277": {
+            "First Lines": "\nSEinte Marie magdalene \u00feat god for\u021daf hire sinneLazares soster & Martha hi come of kynges kinne\u2026\n",
+            "Last Lines": "\n\u2026Nou Seinte Marie magdalene \u00feat brou\u021dte hire lyf \u00feus to endeBidde god \u00feat we mote wi\u00fe hire to \u00fee ioye of heuene wende\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 2277.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_2277. \n",
+            "folio": "ff. 88v-92v"
+        },
+        "BLRoy17Cxvii": {
+            "First Lines": "\nSAynt Marie magdalen \u00feat god forgaf hyr syneLazeres syster\n                    & marthas was comen of kynges kyne\u2026\n",
+            "Last Lines": "\n\u2026And dyd \u00fee cerwys of holykyrk as swulk tyme folk to\n                    doneNow saynt Mary magdalene \u00feat broght hyr [\u2026] \u00feer to\n                    ende[Pray god?] \u00feat we mot to \u00fee ioy of heuen\n                    wende\n",
+            "Note": "\nAffected by damp.",
+            "folio": "ff. 99-103v"
+        },
+        "TokyoTak54": {
+            "First Lines": "\nSeynt Mary Mawdeleyn \u00feat god for\u021daf hur synneLazers\n                    suster & Martha commen of kynggis kynn\u2026\n",
+            "Last Lines": "\n\u2026Now seynt mary mawdeleyn \u00feat \u00feus wast bro\u021dt to\n                    endePrey god \u00feat we mote to \u00fee Ioye of heuene wende\n",
+            "Attributed Title": "\nVita beata Marie Magdalene Peccatoris (f. 112v)",
+            "folio": "ff. 112v-116v"
+        }
+    }
+}

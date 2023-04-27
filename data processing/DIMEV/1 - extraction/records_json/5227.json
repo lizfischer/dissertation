@@ -1,0 +1,35 @@
+{
+    "_id": 5227,
+    "_header": "The burn is this world blind",
+    "Note": "All texts show some variations. Cf. 5066;For a secular version see 3644; for late sixteenth-century political adaptations see Rollins (1924)\nXRollins, Hyder E. \u201cAn Analytical Index to the Ballad-Entries (1557-1709) in the Registers of the Company of Stationers of London.\u201d Studies in Philology 21 (1924): 1-324, 56, 205, Nos. 587, 2377.",
+    "Subjects": "Christ, appeal of, to man",
+    "Versification": "\u2014 six-line",
+    "_description": "Christ\u2019s appeal from the Cross \u2014 thirteen 6-line tail-rhyme stanzas with 3-line burden: \u2018Cum ouer the borne Bessey / my lytyll prety bessey / comme ouer the bourne to m[e]\u2019",
+    "_witnesses": {
+        "BodAsh176": {
+            "First Lines": "\nThis borne ys the world blynd& bessy she ys\n                    mankynd\u2026\n",
+            "Last Lines": "\n\u2026christe standeth & clepethcome over the borne bessye to\n                    me\n",
+            "Note": "\nOne stanza and refrain.",
+            "folio": "f. 100"
+        },
+        "CamEmm263": {
+            "First Lines": "\nThe berne hys the world blyndeAnd bessey is\n                    mankynd\u2026\n",
+            "Last Lines": "\n\u2026the water nowe fallytheCrist standethe &\n                    callythe\n",
+            "Note": "\nHand-written on flyleaves of printed book, Bernardi Granollachs\n                    Barchinonensis Lanarium, n.d.; shelf number S1.5.37.",
+            "Editions": "\nBrie,  Friedrich W. D. \n             \u201cSkelton-studien.\u201d \n             Englische Studien\n         37 (1907): 1-86: 25 (extract only).\n",
+            "folio": "ff. i-iiv"
+        },
+        "CamTCC1157": {
+            "First Lines": "\nThe borne is this word blyndeAnd besse ys\n                    mankynde\u2026\n",
+            "Last Lines": "\n\u2026The water hit fallythAnd Crist stondyth &\n                    callythCome ouer the borne besse\n",
+            "Note": "\n12 stanzas; also copy of first stanza and first three lines of second,\n                    crossed out, on f. 54v.",
+            "Editions": "\nWright,  Thomas,\n                        ed.  \n             The Nutbrowne Maid.\n         London, 1836: 25 (extract only).\n",
+            "folio": "ff. 55-56"
+        },
+        "BLAdd5665": {
+            "Note": "\nBurden and stanza 1 only.",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             Captain Cox., His Ballads and Books.\nBallad Society\n         7 (1871); repr. New Shakespeare Society, 1890: clxxxi.\nPearce,  Charles William. \n             A Collection of Songs and Madrigals by English Composers of the close\n                of the 15th Century.\nPlainsong and Medieval Music Society.\n         London: Quaritch, 1891: no. 2.\nStevens,  John,\n                        ed.  \n             Music and Poetry in the Early Tudor Court.\n         London: Methuen, 1961: 348.\n\n",
+            "folio": "f. 143v"
+        }
+    }
+}

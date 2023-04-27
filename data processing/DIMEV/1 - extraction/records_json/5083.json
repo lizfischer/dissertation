@@ -1,0 +1,50 @@
+{
+    "_id": 5083,
+    "_header": "Sweet Lady Saint Mary",
+    "Subjects": "Virgin Mary, prayers to; prayers, to Virgin Mary",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A prayer to the Virgin Mary \u2014 twenty-two lines in couplets",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nSwete lady seinte Mariefful of alle Curtesie\u2026\n",
+            "Last Lines": "\n\u2026And also alle cristene menGod lord Ihesu Amen\n                    AMEN\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nHorstmann,  Carl,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 1.\nEETS\n         o.s. 98 (1892; repr. 1973): 1.20-1 (lines 45-66).\nPatterson,  Frank A. \n             The Middle English Penitential Lyric.\nColumbia University Studies in English.\n         New York: Columbia Press, 1911: 52.\n\n",
+            "folio": "f. 114va2-114vb"
+        },
+        "CULDd1426": {
+            "First Lines": "\nSwete lady virgen seynte maryffulle of grace and\n                    curtesy\u2026\n",
+            "Last Lines": "\n\u2026And alle cristen menSwete ihesu cryste amen\n",
+            "folio": "part III, ff. 44-44v"
+        },
+        "CULIi643": {
+            "First Lines": "\nSWete ladye seynt maryeffull of all curtesye\u2026\n",
+            "Last Lines": "\n\u2026And all cristen menSwete ihesu cryst Amen\n",
+            "Attributed Title": "\noracio bona de sancta maria Sequens (f. 91v)",
+            "folio": "ff. 91v-92"
+        },
+        "BLAdd37787": {
+            "First Lines": "\nSwete lady seynt mariefful of alle curtesye\u2026\n",
+            "Last Lines": "\n\u2026And also alle cristen menSwet Jhesu amen amen\n",
+            "Editions": "\nBaugh,  Nita Scudder. \n             A Worcestershire Miscellany, compiled by John\n                    Northwood, c. 1400, edited from British Museum MS. Add.\n                37,787.\n         Philadelphia, 1956: 102.\n",
+            "folio": "ff. 15-15v"
+        },
+        "BLHar210": {
+            "First Lines": "\nSWete leuedi synte mariefful of grace and curteysieModer of\n                    merci & of piteMin hop of help is al on \u00fee\u2026\n",
+            "Last Lines": "\n\u2026And \u021dif ham god lif and gode hendeAnd ioie whan \u00feei\n                    hennis wendeAnd cristenemen SWete ihesi am\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 35v-36"
+        },
+        "EDU114": {
+            "First Lines": "\nSwete lady seynt maryfful of al curtesy\u2026\n",
+            "Last Lines": "\n\u2026[ ] alle crysten menSwete ihesu amen amen\n",
+            "Note": "\n18 lines only.",
+            "Editions": "\nBorland,  Katherine R. \n             A Descriptive Catalogue of the Western Medieval Manuscripts in\n                Edinburgh University Library\n         Edinburgh: University Press, 1916: 334.\n",
+            "folio": "ff. i-iv"
+        },
+        "Witten198": {
+            "Note": "\nSee Quaritch (1931)\nXQuaritch,  Bernard. \n             A Catalogue of Illuminated and Other Manuscripts together with Some\n                Works on Paleography.\n         London: Bernard Quaritch Ltd. 1931\n",
+            "folio": ""
+        }
+    }
+}

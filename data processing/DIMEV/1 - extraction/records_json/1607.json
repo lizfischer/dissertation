@@ -1,0 +1,24 @@
+{
+    "_id": 1607,
+    "_header": "God that is so full of might",
+    "Note": "For a later recension see 2921; for other versions, see 524, 4742.",
+    "Title(s)": "\u2018Owayne Miles\u2019; St. Patrick\u2019s Purgatory",
+    "Subjects": "Patrick, saint; legends",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018Owayne Miles\u2019 (couplet version), a version of St. Patrick\u2019s Purgatory \u2014 342 lines in couplets",
+    "_witnesses": {
+        "BlCottCalAII": {
+            "First Lines": "\nGod \u00feat ys so full of myghtThat mendede wronge & made\n                    Ryght\u2026\n",
+            "Last Lines": "\n\u2026To \u00feat blysse he vs bryngeThat of all ys lorde &\n                    kynge\n",
+            "Attributed Title": "\nOwayne myles (upper margin, f. 91v, and as RT thereafter on\n                    verso leaves only); Explicit Owayne (after last line on f. 95rb); A\n                    poeme intitled Gwaine miles (f. 1, sixteenth-century list of contents)",
+            "Editions": "\n\nK\u00f6lbing,  Eugen. \n             \u201cZwei mittelenglische bearbeitungen der sage von St. Patrick\u2019s\n                purgatorium.\u201d \n             Englische Studien\n         1 (1877): 57-121: 113-21.\nEasting,  Robert. \n             St Patrick\u2019s Purgatory: two versions of Owayne Miles and the\n                Vision of William of Stranton together with the long text of the Tractatus de\n                purgatorio Sancti Patrici.\n         EETS o.s. 298 (1991). \n\n",
+            "folio": "ff. 91va-95rb"
+        },
+        "BodEngPoetd208": {
+            "First Lines": "\nIt spak of euery maner gospelOf heuene of herthe and of\n                    hel\u2026\n",
+            "Last Lines": "\n\u2026Bryng us to \u00feat halleAnd hys modyr Marie\n",
+            "Editions": "\nEasting,  Robert. \n             \u201cSt Patrick\u2019s Purgatory: Fragments of a Second Copy of the Middle\n                English Stanzaic Owain Miles.\u201d \n             Medium Aevum\n         75 (2006): 84-102: 89-100.\n",
+            "folio": "ff. 15-15v;  18-18v;  27-27v;  22-22v;  25-25v"
+        }
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "_id": 4140,
+    "_header": "Of all the marvel of Merlin how he makes his moan",
+    "Subjects": "prophecies; Merlin",
+    "Versification": "\u2014 four-line, six-line, eight-line, nine-line",
+    "Macaronic": "Latin",
+    "_description": "A late Merlin prophecy \u2014 alliterative lines in various stanzas, quatrains abab, 8-line stanzas, six-line stanzas. nine-line stanzas",
+    "_witnesses": {
+        "BodRawC813": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 214.",
+            "folio": "ff. 104-104v;  122v-123"
+        },
+        "BodRawD1062": {
+            "Note": "\nWritten as prose. See Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020. : 214.",
+            "folio": "ff. 95;  106-107v"
+        },
+        "BodArcSelB8": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 214.",
+            "folio": "ff. 294v-295"
+        },
+        "BodNorthC80": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 214.",
+            "folio": "ff. 11v-12;  9"
+        },
+        "BodAsh1386": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 214.",
+            "folio": "ff. 274;  284"
+        },
+        "BLAdd24663": {
+            "First Lines": "\nAbove all places Merlyn makethe his moneTake heede to his talkinge wher he tellethe\u2026\n",
+            "Last Lines": "\n\u2026When the childe beattethe the mother then the father will take vengeanceThre ffloodes fflowinge in Bryttayne shall cawse greatt connfvsion\n",
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 214 for second entry (first and last line not recorded).",
+            "Editions": "\nWeiskott,  Eric. \n             \u201cA New Text of the  Marvels of Merlin.\u201d \n             Journal of the Early Book Society\n         19 (2016): 227-39: 230-2.\n",
+            "folio": "ff. 4v-6;  32v"
+        },
+        "BLHar2382": {
+            "First Lines": "\nOf al \u00fee merveilis of Merlyn how he made his monetake tent to\n                    his talkyng in tales \u00feer he tellys\u2026\n",
+            "Last Lines": "\n\u2026When \u00fee child smytes \u00fee moder \u00fee fader shal hym\n                    lestreyethe flodes flowyng in hitayne shal cause interdiction\n",
+            "Note": "\n\u2018Explicit\u2019 written below and to right of last line,\n                    by scribe (f. 128).",
+            "Attributed Title": "\nprophecia Merlenis (f. 127v, in upper margin as RT by\n                    scribe)",
+            "folio": "ff. 127v-128"
+        },
+        "BLLan122": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 214.",
+            "folio": "ff. 52;  54-54v;  65"
+        },
+        "BLLan762": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 214 for the first two entries.",
+            "folio": "f. 50-52;  62;  65"
+        },
+        "BLSl2578": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 214.",
+            "folio": "ff. 32v;  56v-57;  70-70v;  98v;  99v-100"
+        },
+        "NLW3041": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 214.",
+            "folio": "pp. 311"
+        },
+        "NLW441C": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.\n",
+            "folio": "p. 57"
+        },
+        "ChesRecOffddx123": {
+            "folio": "ff. 16-16v"
+        },
+        "PROHenVIIISP1232": {
+            "Note": "\n20 lines set out in stanzas beginning, \u201cFlanders and England shall fall at declension.\u201d",
+            "Editions": "\nFurnivall,  Frederick James. \n             Ballads from Manuscripts.\n         London: Ballad Society, 1863; repr. New York: AMS, 1968: 316-7.\n",
+            "folio": "ff. 219v"
+        }
+    }
+}

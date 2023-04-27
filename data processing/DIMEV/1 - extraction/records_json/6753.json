@@ -1,0 +1,342 @@
+{
+    "_id": 6753,
+    "_header": "With this chanon I dwelt have seven year",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Canon\u2019s Yeoman\u2019s Tale; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; alchemy, failure of; corruption",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the Canon\u2019s Yeoman\u2019s Tale of the Canterbury Tales \u2014 762 lines in rhyming couplets.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nWith this Chanoun dwelt haue I seven yereand of his science am I\n                    neuer the nere\u2026\n",
+            "Last Lines": "\n\u2026and there a poynt for endid is my talegod sende euery trewe\n                    man bote of his bale\n",
+            "Note": "\nSpurious line follows VIII.1393.",
+            "Attributed Title": "\n\u2026And next folwyng bigynneth his tale of philosophie (f. 225); the\n                    Chanons yoman (RT); Here endith the Chanons yoman his tale\u2026 (f.\n                        235v)",
+            "folio": "ff. 225-235v"
+        },
+        "BodBar20": {
+            "First Lines": "\nSith this Chanonon dwelled haue I seuen \u021dereAnd of\n                    his science am I neuer \u00fee Nere\u2026\n",
+            "Last Lines": "\n\u2026And ther a poynt for endid is my taleGod sende euery trew man\n                    bote of his bale\n",
+            "Attributed Title": "\n\u2026and here bygynnyth \u00fee tale (f. 172); yoman (RT); Here endith\n                    \u00fee yomans tale\u2026 (f. 180b)",
+            "folio": "ff. 172-180b"
+        },
+        "Bod414": {
+            "First Lines": "\n[W]ith this chanon duellid haue I this vij yerAnd of his science am\n                    I neuer the nere\u2026\n",
+            "Last Lines": "\n\u2026And ther a point for endid is my taleGod send euery true man\n                    boot of his bale\n",
+            "Note": "\nVIII.722-3, 787-9, 814-15, 1200-1 omitted; 1028-9 reversed.",
+            "Attributed Title": "\nThe tale of the Chanons yoman (f. 120v)",
+            "folio": "ff. 120v-128v"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nWIth \u00feis Chanon dwelt haue I seuen yereAnd of his sciens am I\n                    neuer \u00fee nere\u2026\n",
+            "Last Lines": "\n\u2026And \u00feere a pointe for ended is my taleGod send eueri\n                    true man bote of his bale\n",
+            "Note": "\nVIII.781, 818, 872, 1159 omitted; blank line follows 819.",
+            "Attributed Title": "\n\u2026And next / beginneth \u00fee tale of the Chanons yoman (f. 144); The\n                    Chanons yoman (RT); Here endeth the Chanons yomans tale\u2026 (f.\n                    153)",
+            "folio": "ff. 144-153"
+        },
+        "BodLauMis600": {
+            "First Lines": "\n\u2026As on five or five vnces mai wel beOf siluer or of sum\n                    o\u00feer quantite\u2026\n",
+            "Last Lines": "\n\u2026And there apoynt for ended is my taleGod sende euery trew man\n                    bote of his bale\n",
+            "Note": "\nVIII.720-55 lost (resupplied in the seventeenth century on f.\n                        194v).",
+            "Attributed Title": "\n\u00fee chanons yoman (RT); H[blank] (f. 204v)",
+            "folio": "ff. 195-204v"
+        },
+        "BodLauMis739": {
+            "First Lines": "\n[W]yth this chanon dwelled haue I seuene \u021dereAnd of his\n                    science am I neuer \u00fee nere\u2026\n",
+            "Last Lines": "\n\u2026And there a poynte for endyd is my taleGod send euery trwe\n                    man bote of his bale\n",
+            "Note": "\nVIII.941, 1103 omitted.",
+            "folio": "ff. 200v-212"
+        },
+        "BodRawPoe149": {
+            "First Lines": "\nWith this chanon dwelled haue I vij yereAnd of his science am I\n                    nevir the nere\u2026\n",
+            "Last Lines": "\n\u2026And there a poynte for endid is my taleGod sende everi trew\n                    man boot of his bale Amen\n",
+            "Note": "\nVIII.1037-172 lost.",
+            "Attributed Title": "\nhere begynnyth the chanons yomans tale / of multiplicacion (f.\n                        87v); here endith the chanons yomans tale\u2026 (f.\n                    92)",
+            "folio": "ff. 87v-92"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nWith this chanon I dwelte haue this seuene yereAnd of his science\n                    am I neuer the neer\u2026\n",
+            "Last Lines": "\n\u2026And ther a poynt for ended is my taleGod sende euery man bote\n                    of bale Amen\n",
+            "Note": "\nVII.744, 793, 1087, 1289 omitted.",
+            "Attributed Title": "\nHere begynneth tale of the Chanons yeman (f. 240); Here is ended the tale\n                    of the Chanons yeman\u2026 (f. 248v)",
+            "folio": "ff. 240-248v"
+        },
+        "OxfCCC198": {
+            "First Lines": "\nWith \u00feis chanoun dwelled haue I seuen \u021dereAnd of his\n                    science I am neuer \u00fee neer\u2026\n",
+            "Last Lines": "\n\u2026And \u00feere a poynt for ended is my taleGod sende euery\n                    trewe man boote of his bale amen\n",
+            "Attributed Title": "\nChanoun (RT, rubric)",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "ff. 180v-190v"
+        },
+        "OxfNew314": {
+            "First Lines": "\nWith this Chanoun I dwellid vij yeerAnd of his science am I nevir\n                    \u00fee neer\u2026\n",
+            "Last Lines": "\n\u2026And \u00feere Apoynt for endid is my taleGod sende euery good\n                    man bote of his bale\n",
+            "Note": "\nVIII.787-9, 838-9 omitted.",
+            "Attributed Title": "\n\u2026and begynneth / the tale of the Chanons yeman (f. 172); Chanons\n                    yeman (RT); Here endith \u00fee tale of \u00fee Chanons yeman of /\n                    multiplicacion\u2026 (f. 183v)",
+            "folio": "ff. 172-183v"
+        },
+        "OxfTri49": {
+            "First Lines": "\nWyth this Chanoun haue I dwellid seuen yereand of his science I am\n                    neuer the nere\u2026\n",
+            "Last Lines": "\n\u2026and ther a pointe and endid is my talegod sende euery trewe\n                    man bote of bale amen\n",
+            "Note": "\nVIII.802-3, 819-20, 826-9, 884-97, 1003, 1260-5 omitted; spurious lines\n                    follow 818, 825, 1259, 1374, 1375, 1385; 916-17 reversed.",
+            "Attributed Title": "\nChanons yoman (RT); Explicit fabula seruientis Canonici\u2026 (f.\n                        258v)",
+            "folio": "ff. 248v-258v"
+        },
+        "CULDd424": {
+            "First Lines": "\nWith this Chanon I dwelt haue seuene \u021dereAnd of his science am\n                    I heuere the nere\u2026\n",
+            "Last Lines": "\n\u2026And of bodies mollificaciounAnd also of here\n                    induracion\u2026\n",
+            "Note": "\nEverything after VIII.855 lost in this MS.",
+            "Attributed Title": "\n\u2026and / bigynneth his tale of Multiplicacion (f. 204)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 204-205v"
+        },
+        "CULGg427": {
+            "First Lines": "\n\u2026And besye me to telle \u021dow the namysOf orpemynt brend\n                    bonys Iren squamys\u2026\n",
+            "Last Lines": "\n\u2026And there a poynt for endit is myn taleGod sende euery trewe\n                    man bote of his bale\n",
+            "Note": "\nVIII.720-57 lost; 1046-7 omitted; 941 inserted at foot.",
+            "Attributed Title": "\nHere is endit the chanounys manys tale\u2026 (f. 393)",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "Editions": "\nFurnivall,  Frederick James. \n             The Cambridge MS (University Library, Gg.4.27) of Chaucer\u2019s\n                Canterbury Tales.\nChaucer Society\n         Series 1, nos. 4, 10, 17, 28, 33, 40, 52, 66. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 384-393"
+        },
+        "CULIi326": {
+            "First Lines": "\nWith this chanon dwelled have I seven yereAnd of his science ame I\n                    neuer the nere\u2026\n",
+            "Last Lines": "\n\u2026And there a poynte for Endid is my taleGod sende euery true\n                    man bote of euery bale\n",
+            "Note": "\nVIII.855, 1057, 1378-9, 1437 omitted; 1086-7 reversed.",
+            "Attributed Title": "\n\u2026And here begynneth his tale (f. 158v); The chanons yeman\n                    (RT); Here endeth the chanons yemans tale\u2026 (f. 167)",
+            "folio": "ff. 158v-167"
+        },
+        "CULMm25": {
+            "First Lines": "\nWith \u00feis Chanon dwelled haf I seuen \u021dereAnd of his\n                    science am I neuer \u00fee nere\u2026\n",
+            "Last Lines": "\n\u2026And \u00feer a poynte for ended is my taleGod sende euery\n                    trewe man bote of his bale\n",
+            "Attributed Title": "\n\u2026Incipit fabula (f. 178); \u00fee Chanons \u021doman (RT);\n                        Explicit\u2026 (f. 186v)",
+            "folio": "ff. 178-186v"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[W]ith this Chanoun haue y dwellud \u00feis seven yereAnd of his\n                    scyens am y neuer \u00fee nere\u2026\n",
+            "Last Lines": "\n\u2026And \u00feer a poynte for ended ys my taleGod send euery\n                    trewe man bote of his bale Amen\n",
+            "Note": "\nVIII.748-9, 858-9, 880-1, 886-9, 904-5, 210-11, 916-19, 924-5, 948-50,\n                    953-9, 962-5, 972-7, 996-1001, 1006, 1009, 1034-5, 1046-51, 1054-5, 1066-73,\n                    1078-101, 1131-5 omitted; spurious lines follow 1130, 1303.",
+            "Attributed Title": "\n\u2026The tale of \u00fee Chanouns yeman (f. 186); Here endeth \u00fee\n                    Chanounz yeman tale (f. 195)",
+            "folio": "ff. 186-195"
+        },
+        "CamTCC582": {
+            "First Lines": "\nWith this Chanon I dwelled haue vij yereYit of his science am I\n                    neuer \u00fee ner\u2026\n",
+            "Last Lines": "\n\u2026And there a point for endid is my taleGod send eueri trewe\n                    man bote of his bale Amen\n",
+            "Note": "\nVIII.769-7, 989, 1219 omitted; 818-19, 976-7 reversed.",
+            "Attributed Title": "\n\u2026And hiere beginneth his tale folwing / Of Multiplicacioun (f.\n                        71ra)",
+            "folio": "ff. 71ra-75va"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nWyth this Chanoun dwellid I haue seven yeerAnd of his science I am\n                    nevir the neer\u2026\n",
+            "Last Lines": "\n\u2026And ther apoynt for eendid is my taleGod sende every good man\n                    boote of his bale\n",
+            "Note": "\nVIII.838-9, 941 omitted.",
+            "Attributed Title": "\n\u2026Incipit narracio eiusdem de multiplicacione (f.\n                        297v); Chanoun yeman (RT); Explicit fabula famuli\n                    Canonici\u2026 (f. 309)",
+            "folio": "ff. 297v-309"
+        },
+        "BLAdd35286": {
+            "First Lines": "\nWith this Chanoun I dwelte haue vij yeerAnd of his science am I\n                    neuer the nere\u2026\n",
+            "Last Lines": "\n\u2026And ther a poynt for ended is my taleGod send euery trew man\n                    boote of his bale\n",
+            "Attributed Title": "\nHere bygynneth the chanons yemans tale (f. 218); the chanons yeman (RT);\n                    Here endeth the tale of the chanons yeman\u2026 (f. 228)",
+            "Editions": "\nHorobin,  Simon. \n             \u201cA Transcription and Study of British Library MS Additional 35286 of\n                Chaucer\u2019s Canterbury Tales.\u201d \n         Diss. Univ. of Sheffield, 1997. \n",
+            "folio": "ff. 218-228"
+        },
+        "BLEge2726": {
+            "First Lines": "\nWyth this Chanon I dwelt haue vii yereAnd of his science am I neuer\n                    the nere\u2026\n",
+            "Last Lines": "\n\u2026And there appoynt for ended is my taleGod send euery true man\n                    bote of his bale\n",
+            "Note": "\nVIII.1238-9 omitted; spurious line follows 1393.",
+            "Attributed Title": "\n\u2026& incipit fabula sua de Multiplicacione (f.\n                        226v); Hic desinit fabula seruientis Canonici\u2026 (f.\n                    236)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 226v-236"
+        },
+        "BLEge2863": {
+            "First Lines": "\n\u2026Now it is wan and of a ledene heweWho so it vseth sore schal\n                    he rewe\u2026\n",
+            "Last Lines": "\n\u2026And \u00feere apoynt for ended is my taleGod sende euery\n                    trewe man bote of his bale\n",
+            "Note": "\nVIII.720-9, 1108-83, 1260-1335 lost.",
+            "Attributed Title": "\nThe yeman (RT); Here endith the tale of \u00fee Chanouns \u021deman\u2026\n                    (f. 137v)",
+            "folio": "ff. 130-137v"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[W]ith this Chanon dwelled I have sevene yeereAnd of his science I\n                    am nevir the neere\u2026\n",
+            "Last Lines": "\n\u2026And ther a poynt for eended is my taleGod sende every good\n                    man boote of his bale\n",
+            "Note": "\nVIII.838-9, 941 omitted; spurious lines follow 1301.",
+            "Attributed Title": "\nIncipit Narracio famuli Canonici de multiplicacione (f.\n                        243v); The Chanons is tale (RT); Heer eendith the tale of the\n                    Chanoun / is yoman of multiplicacion\u2026 (f. 253v)",
+            "folio": "ff. 243v-253v"
+        },
+        "BLHar1758": {
+            "First Lines": "\nWith this Chanoun dwellid haue I this 7 yereAnd of his science am I\n                    neuyr the nere\u2026\n",
+            "Last Lines": "\n\u2026But taketh hede now sires for goddis loueHe toke his cole of\n                    whiche I spake of a boue\u2026\n",
+            "Note": "\nVIII.1178-481 lost.",
+            "Attributed Title": "\n\u2026And begynneth the tale (f. 145); The Chanounys yeman (RT)",
+            "folio": "ff. 145-149v"
+        },
+        "BLHar7333": {
+            "First Lines": "\nWithe this chanoun I have dwellid vij yeerAnd of his\n                    science I am neuer \u00feener\u2026\n",
+            "Last Lines": "\n\u2026And \u00feer a poynt for endid is my taleGod sende euer gode\n                    man bote of his bale\n",
+            "Note": "\nVIII.838-9, 1182, 1451 omitted.",
+            "Attributed Title": "\nHere Endithe \u00fee Chanounes yoman / of multiplicacioun (f.\n                        93ra, rubric)",
+            "folio": "ff. 89vb-93ra"
+        },
+        "BLHar7334": {
+            "First Lines": "\nWIth \u00feis Chanoun I duelled haue seuen \u021derAnd of his\n                    science am I neuer \u00fee ner\u2026\n",
+            "Last Lines": "\n\u2026And \u00feer a poynt for ended is my taleGod send euery trewe\n                    man boote of his bale\n",
+            "Note": "\nVIII.1057 left blank and supplied later; 1283-4 omitted and inserted at\n                    foot later.",
+            "Attributed Title": "\nNarrat (f. 171v); Chanouns \u021demans Tale (RT); Here\n                    endeth \u00fee chanouns \u021deman his tale (f. 181v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "ff. 171v-181v"
+        },
+        "BLLan851": {
+            "First Lines": "\nWythe \u00feis chanon dwelled haue I seuen \u021dereAnd of his\n                    science am I neuer \u00feenere\u2026\n",
+            "Last Lines": "\n\u2026And \u00feere a pointe for endid is my taleGod sende euery\n                    trewman bote of his bale\n",
+            "Attributed Title": "\n\u2026Incipit ffabula (f. 160); \u00dee \u021doman (RT);\n                        Explicit fabula\u2026 (f. 169)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 160-169"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nWyth this chanoun I dwelt have vij yeereAnd of his science I am\n                    neuer the neere\u2026\n",
+            "Last Lines": "\n\u2026And there apoynt for ended is my taleGod sende euery triew\n                    man bote of his bale\n",
+            "Note": "\nVIII.1238-9 omitted; 1300-1 reversed; spurious line follows\n                    1393.",
+            "Attributed Title": "\n\u2026and begynnyth the / tale of the chanons / yeman (f. 201v,\n                    margin); Here endith the tale of / the chanons yeman\u2026 (f. 213,\n                    margin)",
+            "folio": "ff. 201v-213"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nWIth \u00feis Chanon dweld haue I seuen \u021deerAnd of his science\n                    am I neuere \u00fee neer\u2026\n",
+            "Last Lines": "\n\u2026And \u00feere a poynt for endid is my taleGod sende euery\n                    trewe man bote of his bale\n",
+            "Note": "\nVIII.1103 omitted.",
+            "Attributed Title": "\n\u2026And begynnethe the Tale (f. 165); Incipit fabula (f. 165,\n                    margin); The chanouns yoman (RT); Explicit (f. 174, margin)",
+            "folio": "ff. 165-174"
+        },
+        "BLSl1685": {
+            "First Lines": "\nWyth \u00feis Chanon dwellyd haue I seuen \u021deereAnd of hys\n                    science neuere \u00fee nere\u2026\n",
+            "Last Lines": "\n\u2026And \u00feere a poynte for endid ys my taleGod sende euery\n                    trewe man bote of hys bale\n",
+            "Note": "\nVIII.740-5 omitted.",
+            "Attributed Title": "\n\u2026and be gynne\u00fe \u00fee tale (f. 167v); The Chanon\n                    yoman (RT); Here endethe \u00fee tale of the Chanon yoman\u2026 (f.\n                    178)",
+            "folio": "ff. 167v-178"
+        },
+        "Alnwick455": {
+            "First Lines": "\nWith this Chanoun I have dwellid vii yeerAnd of his science am I\n                    nevir the nere\u2026\n",
+            "Last Lines": "\n\u2026and there a poynt for endit is my taleGod send every tewe man\n                    bote of his bale\n",
+            "Note": "\nVIII.1238-9, 1298-301 omitted; 1302-3 reversed.",
+            "Attributed Title": "\n\u2026And here he begynnyth his tale (f. 172); [trimmed]d tale of \u00fee\n                    / [trimmed]anons yemAn (f. 181v, margin)",
+            "folio": "ff. 172-181v"
+        },
+        "GULHun197": {
+            "First Lines": "\nWith \u00feis chanon duelled haue y vij yeerAnd of hise science am\n                    I neuer the neer\u2026\n",
+            "Last Lines": "\n\u2026And \u00feere a poynte for ended is my taleGod sende euery\n                    true man bote of hise bale\n",
+            "Attributed Title": "\n\u2026Incipit fabula (f. 111ra); The Chanons yoman (RT);\n                    Now is the tale of the chanons yoman ended (f. 115va); Orate pro\n                        salute animarum Galfridi Spirleng Ciuis Norwici Courtholder Clerici maioratus & Comitatis dicte\n                        Ciuitatis ac Thome Spirleng filij sui qui scribendo hunc librum compleuerunt mense Ianuariij\n                        anno domini Millesimo ccccmolxxvjto quo tempore dictus\n                        Galfridus quasi quinquaginta et dictus Thomas quasi Sexdecim etatis\n                        extiterunt annorum (f. 115va)",
+            "folio": "ff. 111ra-115rb"
+        },
+        "Holkham667": {
+            "First Lines": "\nWith this chanon dwelte I haue vij yereAnd of his science I am\n                    neuer the nere\u2026\n",
+            "Last Lines": "\n\u2026And there a pointe for ended is my taleGod sende euery gode\n                    man bote of his bale\n",
+            "Note": "\nVIII.728-807, 838-9, 845-5 omitted; 1054-5. 1266-7 reversed; 1075\n                    inserted at foot.",
+            "folio": "ff. 25ra-29va"
+        },
+        "Lichfield29": {
+            "First Lines": "\nWith this chanoun dwelled haue I vij \u021dereAnd of his science am\n                    I neuere \u00fee nere\u2026\n",
+            "Last Lines": "\n\u2026And there a poynt for ended is my taleGod sende euery trewe\n                    man bote of his bale\n",
+            "Note": "\nVIII.1337-40 omitted.",
+            "Attributed Title": "\n\u2026and begynneth the tale (f. 174); The Chanons \u021doman (RT); Thus\n                    endeth the tale of the Chanons yoman\u2026 (f. 183v)",
+            "folio": "ff. 174-183v"
+        },
+        "Lincoln110": {
+            "First Lines": "\nWith this chanon dwelled haue I vij \u021dereIit of his\n                    science am I neuer \u00fee neer\u2026\n",
+            "Last Lines": "\n\u2026And \u00feere apoynt for endith is my taleGod send eury man\n                    bote of his bale Amen\n",
+            "Note": "\nVIII.797-7, 811, 818, 1046, 1306-7 omitted; 910-11, 976-7 reversed;\n                    spurious line follows 821. Lower half of f. 169 left blank.",
+            "Attributed Title": "\nThe yoman (RT)",
+            "folio": "ff. 159-169"
+        },
+        "LonPhys388": {
+            "First Lines": "\nWyth this chanon dwelt have I this vij yeereAnd of his science am I\n                    neuer the nere\u2026\n",
+            "Last Lines": "\n\u2026And there apoynt for endid is my taleGod sende euery triew\n                    man bote of his bale\n",
+            "Note": "\nVIII.1179, 1238-9 omitted; spurious line follows 1393.",
+            "Attributed Title": "\n\u2026Incipit fabula (f. 213v); Explicit fabula\n                        seruiens Canonici\u2026 (f. 226v)",
+            "folio": "ff. 213v-226v"
+        },
+        "RylandsEng113": {
+            "First Lines": "\nWith \u00feis Chanon dwellid I vij yeerAnd of his science am I\n                    neuer the nere\u2026\n",
+            "Last Lines": "\n\u2026And \u00feere a poynt ffor endid is my taleGod send euery\n                    true man bote of his bale\n",
+            "Note": "\nVIII.1238-9 omitted; spurious line follows 1393.",
+            "Attributed Title": "\n\u2026And bigynnyth his tale of multiplicacioun (f. 160); Chanons yoman\n                    (RT); Here endith \u00fee tale of \u00fee Chanons / yoman of\n                    multiplicacion\u2026 (f. 167)",
+            "folio": "ff. 160-167"
+        },
+        "Petworth7": {
+            "First Lines": "\nWith \u00feis chanon dwelt haue seuene \u021dereAnd of his science\n                    am I neuer \u00feenere\u2026\n",
+            "Last Lines": "\n\u2026And \u00feer a poynte for ended is my taleGod seende euery\n                    trewe man boote of his bale\n",
+            "Attributed Title": "\n\u2026& here bygynne\u00fe \u00fee / Tale (f. 200v, margin,\n                    rubric); The chanons \u021deman (RT, rubric); The chanons \u021deman Tale (RT);\n                    \u00feus ende\u00fe \u00fee chanons \u021deman his tale\u2026 (f. 211,\n                    rubric)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 200v-211"
+        },
+        "Austin143": {
+            "First Lines": "\n[W]yth this Chanon dwellyd I vij yereAnd of his scyence am I neuer\n                    the nere\u2026\n",
+            "Last Lines": "\n\u2026And ther a pont for endyd ys my taleGod send euery trew man\n                    bote of hys bale\n",
+            "Note": "\nVIII.1238-9 omitted; spurious line follows 1393.",
+            "Attributed Title": "\n\u2026And be gynnyth his tale of myltyplycacion (f. 203); Chanons yoman\n                    (RT); Here endyth the Tale of the Chanons yoman of multiplica / cion\u2026 (f.\n                    212)",
+            "folio": "ff. 203-212"
+        },
+        "ChicagoUL564": {
+            "First Lines": "\nWyth \u00feis Chanon I dwelled haue vij \u021dereAnd of \u00feis\n                    science am I neuer \u00fee nere\u2026\n",
+            "Last Lines": "\n\u2026I wylt \u021dow shewe & \u021dif \u021dow lust to leerI\n                    wyl \u021dow teche pleynly \u00fee mateer\u2026\n",
+            "Note": "\nVIII.1058-1481 lost; 876-7 reversed; cathphrase on f. 195v:\n                    \u2018How I can wyrchen\u2019. In the foliation, \u2018186\u2019 is repeated\n                    and \u2018189\u2019 is omitted.",
+            "folio": "ff. 186-192v"
+        },
+        "PierpontM249": {
+            "First Lines": "\nWith this Chanon dwelled have I vij \u021dereAnd of his science am\n                    I neuer the nere\u2026\n",
+            "Last Lines": "\n\u2026And there apoynt for endid is my taleGod sende euery trewe\n                    man bote of his bale\n",
+            "Note": "\nVIII.1337-40 omitted; 915 inserted in margin.",
+            "Attributed Title": "\n\u2026and begynneth the tale (f. 173v); The Chanons \u021doman\n                    (RT); Thus endeth the tale of the Chanons yoman\u2026 (f.\n                    183v)",
+            "folio": "ff. 173v-183v"
+        },
+        "PhilRos10841": {
+            "First Lines": "\nWith thys chanoun dwelled haue I seuen \u021deerAnd of hys science\n                    am y neuer the neer\u2026\n",
+            "Last Lines": "\n\u2026Thou\u021d that he multiplye terme of all hys lyfAnd ther a\n                    poynt for ended ys my tale\n",
+            "Note": "\nVIII.1481 omitted.",
+            "Attributed Title": "\n\u2026And by gynneth \u00fee tale (f. 130); The chanons \u021deman (RT);\n                    Here endyth the chanouns \u021demans tale\u2026 (f. 139v)",
+            "folio": "ff. 130-139v"
+        },
+        "PhilRos10842": {
+            "First Lines": "\n\u2026That can an hundrit fold more sotilte\u2026\n",
+            "Last Lines": "\n\u2026And othir thingis wiche I shall tell more\u2026\n",
+            "Note": "\nAn 11-folio fragment: this leaf containing VIII.1091-167 of the\n                        Canon\u2019s Yeoman\u2019s Tale. Part of the same MS as Manchester,  John Rylands Library Eng. 63 (\u2018Oxford Fragments\u2019). VIII.1131 omitted.",
+            "Attributed Title": "\n\u2026And be gynneth the tale (f. 122v); Here endeth the\n                    secunde nonnes tale\u2026 (f. 127)",
+            "folio": "ff. 8-8v"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nWith this Chanoun I dwelt haue seuen yeerAnd of his science am I\n                    neuer the neer\u2026\n",
+            "Last Lines": "\n\u2026And there a poynt for ended is my taleGod sende euery trewe\n                    man boote of his bale Amen\n",
+            "Note": "\nVIII.1238-9 omitted.",
+            "Attributed Title": "\n\u2026Heere bigynneth the Chanouns yeman his tale (f. 194); Chanouns yeman\n                    (RT); Heere is ended the Chanouns yemannes tale\u2026 (f. 202)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 194-202"
+        },
+        "BNangl39": {
+            "First Lines": "\nUith this Chanoun I duellid haue vij yeerand of his science I am\n                    neuer the neer\u2026\n",
+            "Last Lines": "\n\u2026and that a poynt for endid is my talegod send euery trew man\n                    boote of his bale\n",
+            "Note": "\nVIII.750-1393 omitted.",
+            "Attributed Title": "\n\u2026& subsequenter incipit fabu / la eiusdem hoc modo\n                        sequente (f. 81rb); maior pars istius fabule est\n                        pretermissa / usque huc quia termini sunt valde absurda\u2026 (f.\n                        81rb); Explicit fabula seruientis ca / nonici\u2026 (f.\n                        81vb)",
+            "folio": "ff. 81rb-81vb"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nWith this Chanoun I duelte haue seuene yereAnd of his science am I\n                    neuer the ner\u2026\n",
+            "Last Lines": "\n\u2026And there a point for ended is my taleGod send eueri true man\n                    bote of his bale\n",
+            "Note": "\nVIII.1238-9 omitted; spurious line follows 1393.",
+            "Attributed Title": "\n\u2026Et hic incipit fabula sua de la Multiplicacioun (f. 223);\n                    Yomans tale (RT); Hic desinit fabula seruientis\u2026 (f. 233)",
+            "folio": "ff. 223v-233"
+        },
+        "TokyoTak32": {
+            "First Lines": "\nWiht this Chanown dwelled haue I vij yeerAnd of his science am I\n                    never the neer\u2026\n",
+            "Last Lines": "\n\u2026And theer a poynt for eendid is my taleGod sende every trewe\n                    man bote of his bale\n",
+            "Note": "\nVIII.1238-9 omitted; spurious line follows 1393.",
+            "Attributed Title": "\nThee Chanovnis yoman (RT); Explicit thee Chanovnis yoman\u2026 (f.\n                        94vb)",
+            "folio": "ff. 90ra-94vb"
+        },
+        "Bodmer48": {
+            "First Lines": "\nWith \u00feis chanon duelt haue I \u00feis vij yereAnd of his\n                    science am I neuer \u00fee nere\u2026\n",
+            "Last Lines": "\n\u2026And \u00feere a point for endid is my taleGod send euery true\n                    man bote of his bale\n",
+            "Note": "\nVIII.722-3, 787-9, 814-15, 1200-1 omitted; 1028-9 reversed.",
+            "Attributed Title": "\nThe tale of \u00fee chanouns yoman (f. 139v, rubric)",
+            "Facsimiles": "\n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n",
+            "folio": "ff. 139v-150"
+        }
+    }
+}

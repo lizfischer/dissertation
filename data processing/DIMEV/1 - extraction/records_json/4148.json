@@ -1,0 +1,31 @@
+{
+    "_id": 4148,
+    "_header": "Of all women that ever were born",
+    "Note": "For another version which omits stanzas 5 and 7 and prefixes a narrative preface see 2442.",
+    "Title(s)": "The Lamentation of the Virgin Mary",
+    "Subjects": "Virgin Mary, lament of",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "The Lamentation of the Virgin Mary \u2014 eleven 8-line stanzas with refrain, \u2018For now lyeth dedd my dere sone dere\u2019",
+    "_witnesses": {
+        "CULFf238": {
+            "First Lines": "\nOff all wemen \u00feat euer were borneThat bere chylder a byde\n                    & seeHow my sone lyeth me beforneVpon my skyrte bryng fro \u00fee\n                    tree\u2026\n",
+            "Last Lines": "\n\u2026And ye schall bryng yowre chylder & you certeynTo the\n                    blys where ys my dere sone dere\n",
+            "Facsimiles": "\nMcSparran,  Frances,  and  Pamela R. Robinson.  \n             \u201cIntroduction.\u201d \n             Cambridge University Library MS Ff.2.38.\n         London: Scolar Press, 1979. \n",
+            "Editions": "\n\nWright,  Thomas. \n             The Chester Plays.\n         2 vols. London: Shakespeare Society, 1843, 1847: 2.207-9.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 13-16.\nDavies,  Reginald Thorne. \n             Medieval English Lyrics: a critical anthology.\n         London, 1963; Evanston, IL: Northwestern UP, 1964: 210-11.\n\n",
+            "folio": "ff. 55vb-56rb"
+        },
+        "CULFf548": {
+            "First Lines": "\nOff alle women \u00feat euer were borneThat berys childer abyde and\n                    se\u2026\n",
+            "Last Lines": "\n\u2026And he shall bryng your childer & yow sertaynTo blisse\n                    wher is my dere son dere\n",
+            "Attributed Title": "\nExplicit fabula (f. 74v)",
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 2.213-15.\nDowning,  Janay Young A.,\n                        ed.  \n             \u201cA Critical Edition of Cambridge University MS Ff.5.48.\u201d \n         2 vols. Diss. University of Washington, 1969: 201-4.\nSaupe,  Karen,\n                        ed.  \n             Middle English Marian\n                    Lyrics.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1998: 94-5; 224-5.\n\n",
+            "folio": "ff. 73-74v"
+        },
+        "Chetham8009": {
+            "First Lines": "\nOff all women that euer were bornThat berith children abide and\n                    seHow my son liggith me be ffornVppon my skyrte take ffrome the\n                    tre\u2026\n",
+            "Last Lines": "\n\u2026And \u00feou also with outen dereVppon the blis where is my\n                    son dere\n",
+            "Editions": "\nF\u00f6rster,  Max. \n             \u201cKleinere mittelenglische texte.\u201d \n             Anglia\n         42 (1918): 145-224; 43 (1919): 191: 167-72.\n",
+            "folio": "ff. 119v-121"
+        }
+    }
+}

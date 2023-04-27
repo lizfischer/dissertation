@@ -1,0 +1,65 @@
+{
+    "_id": 2165,
+    "_header": "I had my silver and my friend",
+    "Note": "For a later version expanded into long lines cf. Oxford, Bodleian Library Rawlinson poet. 172 , f.12v; Oxford, Bodleian Library Gough Norfolk 43, f.31v; Arundel Castle, Duke of Norfolk MS Arundel-Harrington, f.16, pr. Hughey (1935)\nXHughey, Ruth. The Harington Manuscript at Arundel Castle and related documents. n.p., 1935, 1.79. For a longer and later text cf. Rimbault (1851)\nXRimbault, Edward Francis. A Little Book of Songs and Ballads. London: J. R. Smith, 1851, 42; Hawkins (1776)\nXHawkins, Sir Thomas. A General History of the Science and Practice of Music. 5 vols. London: T. Payne, 1776, 3.38; Hughey (1935)\nXHughey, Ruth. The Harington Manuscript at Arundel Castle and related documents. n.p., 1935, 2.3-4; cf. also 2333 and 6330.",
+    "Subjects": "money; precepts",
+    "Versification": "\u2014 four-line \u2014 aaaa",
+    "_description": "A warning against lending money \u2014 four monorhyming lines",
+    "_witnesses": {
+        "BodLauMis23": {
+            "Transcription": "\nI had my syluer And my frendI lent my syluer To my frendI askyd\n                    my syluer Of my frendI lost my syluer And my frend\n",
+            "Editions": "\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.1.\n",
+            "folio": "f. 114v"
+        },
+        "BodRawD328": {
+            "Transcription": "\nWhen y lent y ad a fryndeand when y aschede he was own\n                    kende\u00feus off my frynde y made my fowand therfor y woll lene no\n                    more\n",
+            "Note": "\nTranslating, \u2018Quando prestaui amicum\u2026\u2019, which\n                    follows.",
+            "folio": "f. 168"
+        },
+        "OxfMagdEstate": {
+            "Transcription": "\nI had my catel and my frendI lente my catel to my frendI asked\n                    my catel of my frendI loste my catel and my friend\n",
+            "Note": "\nVariant.",
+            "Editions": "\n\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: no. 87.\nO\u2019Donoghue,  Berna,  and  Christopher Woolgar.  \n             \u201cThree Early Fifteenth-Century Poems at Magdalen College,\n                Oxford.\u201d \n             Notes and Queries\n         n.s. 27 [225] (1980): 497-500: 498.\n\n",
+            "folio": "roll, dorse"
+        },
+        "CULEe435a": {
+            "Transcription": "\nI had mey God & mey ffrende[I] lant mey Good to mey\n                    [ffrende]I Axyd mey God off mey ffrende[I] lost me Good & mey\n                    [ffrende]\n",
+            "Note": "\nVariant.",
+            "folio": "f. 5v"
+        },
+        "BLAdd24542": {
+            "Transcription": "\nI once had money and a friend and did them both foreserueI lend my\n                    money to my friend his needful ease to serueI askt my money of my friend no\n                    though the case was strangeI lost my money and my friend and found a foe in\n                    change\n",
+            "Note": "\nNineteenth-century transcript.",
+            "folio": "f. 185v"
+        },
+        "BLAdd37049": {
+            "Note": "\n3 lines.",
+            "Editions": "\nDoty,  Brant Lee,\n                        ed.  \n             \u201cAn Edition of British Museum MS Additional 37049: a Religious\n                Miscellany.\u201d \n         Diss. Michigan State, 1969: 482.\n",
+            "folio": "f. 86v"
+        },
+        "BLCottTitAXXVI": {
+            "Transcription": "\nWhan I lente I fynde a frende& when I aske I am vnkyndethus\n                    of my ffrende I make my foother for wyll I lene nomor\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 173v"
+        },
+        "BLHar116": {
+            "Transcription": "\nI had my good And my frendI lent my good To my frendI askyd my\n                    good Of my frendI lost my good And my frendI made of my frend my\n                    fooI will be war I do no more soo\n",
+            "Note": "\n4 lines, monorhyming, set out with first few words of each line in one\n                    column with a common \u2018good\u2019 to right, then next few words in a\n                    second column with a common \u2018ffrend\u2019 to right. Followed by lines 5-6\n                    of 2333; added to flyleaf by a\n                    hand of the fifteenth to sixteenth century.",
+            "folio": "f. 170v"
+        },
+        "BLHar4800": {
+            "Editions": "\nCumming,  William Patterson,\n                        ed.  \n             The Revelations of St. Birgitta, from Garrett MS. Princeton\n                University.\nEETS\n         o.s. 178 (1929); repr. 1987: xviii.\n",
+            "folio": "f. 54"
+        },
+        "DULCosViii5": {
+            "Transcription": "\nI had my mony ande my frendas many a man hathe in londeI lent my\n                    mony to my frendas dothe bothe fre and bonde\n",
+            "Note": "\nVariant; two more copies, f. 163ra; all added to original\n                    blank flyleaf at end.",
+            "folio": "f. 162vb"
+        },
+        "GULHun409": {
+            "Transcription": "\nI had my frynde and my sylverI lent my frynde To my sylverI\n                    Asked my frynde Of my sylverI loste my frynde And my sylver\n",
+            "Note": "\nSix lines, written as a missing-word puzzle, with \u2018frynde\u2019\n                    and \u2018sylver\u2019 filled in once each to serve all four lines, in reverse\n                    positions; added by a later hand to lower margin.",
+            "folio": "f. 27"
+        }
+    }
+}

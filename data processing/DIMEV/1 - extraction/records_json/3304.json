@@ -1,0 +1,18 @@
+{
+    "_id": 3304,
+    "_header": "Lyarde is an old horse and may not well draw",
+    "Subjects": "satire; husbands; marriage, satires on; friars, criticism/satire of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Lyarde, a satire on friars and husbands \u2014 130 lines in couplets",
+    "_witnesses": {
+        "Lincoln91": {
+            "First Lines": "\nLyarde es ane olde horse & may noght wele draw[e]he sall be\n                    putt in to \u00fee parke holyn for to gnaw[e]\u2026\n",
+            "Last Lines": "\n\u2026Thus endis lyarde at \u00fee laste wordeyf aman thynke mekill\n                    kepe somewhate in horde\n",
+            "Note": "\nSome text of lines 23-29, 63-69 lost due to lower outer corner, f. 148,\n                    torn away.",
+            "Attributed Title": "\nLyarde (f. 148); Here endys Lyarde (f. 149)",
+            "Facsimiles": "\nBrewer,  Derek Stanley,  and  A. E. B. Owen.  \n             \u201cIntroduction.\u201d \n             The Thornton Manuscript (Lincoln Cathedral MS. 91).\n         London: Scolar Press, 1975. \n",
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 2.280-2.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 403-4.\n\n",
+            "folio": "ff. 148rb-149"
+        }
+    }
+}

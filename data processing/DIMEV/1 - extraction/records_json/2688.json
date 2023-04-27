@@ -1,0 +1,41 @@
+{
+    "_id": 2688,
+    "_header": "Ipocras this book made yare / And sente it to the emperor\u2026",
+    "Note": "Cf. 2687 and 6710; a prose version occurs in Cambridge UK, Cambridge University Library Dd.10.44, f. 114.",
+    "Subjects": "introductions, to prose texts; medicine",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A rhymed preface to an English prose tract on medicine \u2014 five couplets",
+    "_witnesses": {
+        "BodAddA106": {
+            "First Lines": "\nIpocras \u00feis buke sent \u021dare To \u00fee emperowre\n                    cesareWytte \u00fee well \u00feat \u00feis buke is gude leche Wit all\n                    thyng it wyll teche\u2026\n",
+            "Last Lines": "\n\u2026Man or woman \u00feat haues natHow \u00feai sall be taken in\n                    cure\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 139"
+        },
+        "BodLauMis553": {
+            "First Lines": "\nYpocras this boke made \u021dareAnd sende to \u00fee\n                    Emperour\u2026\n",
+            "Last Lines": "\n\u2026Of eche maner yuel wat hit heas here after sone \u00feou myt\n                    seMan o\u00feer womman \u00feat ha\u00fe materHe schal be take in to\n                    cure\n",
+            "folio": "f. 30v"
+        },
+        "BLHar3383": {
+            "First Lines": "\nypocras this boke sent to the emperoure GencianWete \u00feu that this boke ys good lechethe all thynge that hit doeth teche\u2026\n",
+            "Last Lines": "\n\u2026Nowe thou man take good gemehow \u00feou mayste thy body \u021deme\n",
+            "Attributed Title": "\nPraefatio rhythmica (top margin, f. 85v)",
+            "folio": "f. 85v"
+        },
+        "BLSl2584": {
+            "First Lines": "\nIpocras \u00feis book made \u021dare& sente it to \u00fee emperor cesare\u2026\n",
+            "Last Lines": "\n\u2026Man or womman \u00feat materisHe schal ben take in to curie\n",
+            "Note": "\nWritten as prose, rubric.",
+            "Editions": "\nPettigrew,  Thomas Joseph. \n             \u201cObservations upon the Extracts from an Ancient English Medical MS. in\n                the Royal Library of Stockholm.\u201d \n             Archaeologia\n         30 (1844): 419-29: 420-1.\n",
+            "folio": "f. 9"
+        },
+        "Wellcome405": {
+            "First Lines": "\n\u00deis is \u00fee bok \u00feat ypocras sentTo \u00fee king his\n                    newue\u00fe\u2026\n",
+            "Last Lines": "\n\u2026Now loke \u00feeron wi\u00fe gode wilEueri man bo\u00fee\n                    lowde & stille\n",
+            "Note": "\nIn rubric.",
+            "Editions": "\nKeiser,  George R. \n             \u201cVerse Introductions to Middle English Medical Treatises.\u201d \n             English Studies\n         84 (2003): 301-17: 312.\n",
+            "folio": "f. 21v"
+        }
+    }
+}

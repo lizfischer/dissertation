@@ -1,0 +1,22 @@
+{
+    "_id": 6573,
+    "_header": "Who that maketh in Christmas a dog to his larder",
+    "Subjects": "advice, moral",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Proverbial moral advice \u2014 two couplets",
+    "_witnesses": {
+        "CamTCC1450": {
+            "Transcription": "\nhoo so makyt at crystysmas a dogge lardynerAnd yn march a sowe\n                    gardynerAnd yn may a foole of euery wysmanys counsayllhe schall neuer\n                    haue goode larderne fayre gardyn nother counsayll well y keptt\n",
+            "Note": "\nBeginning with a couplet but changing to prose or blank verse\n                    thereafter.",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Babees Book, etc.\nEETS\n         o.s. 32 (1868); rev. ed.  Early English Meals and\n                Manners London: Tr\u00fcbner, 1876; repr. 1973: 246.\nRigg,  A. George,\n                        ed.  \n             Glastonbury Miscellany of the Fifteenth Century.\n         Oxford, 1968. \n\n",
+            "folio": "f. 46"
+        },
+        "BLLan762": {
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.233.\nB\u00fchler,  Kurt. \n             \u201cMiddle English Apophthegms in a Caxton Volume: Libri impressi cum notis\n                manuscriptis X.\u201d \n             English Language Notes\n         1 (1963-64): 81-4: 83.\n\n",
+            "folio": "f. 16v"
+        },
+        "BLIB49408": {
+            "folio": "f. 34v"
+        }
+    }
+}

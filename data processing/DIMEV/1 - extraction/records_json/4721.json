@@ -1,0 +1,65 @@
+{
+    "_id": 4721,
+    "_header": "Saint Matthew the Evangelist / telleth us that Jesu Christ",
+    "Note": "For the version in the \u2018expanded\u2019 Cycle see 981.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Twenty-second Sunday after Trinity in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nffor ellis tyne we heuene blisseIf we forgiue oure bro\u00feer\n                    lethe\u2026\n",
+            "Last Lines": "\n\u2026Bakbytars what pyne \u00feai drieBot \u00feai amende\n                    \u00feaim or \u00feai die\n",
+            "Note": "\nBegins imperfectly.",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 224-226v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Matheu \u00fee EwangelistTelle\u00fe vs \u00feat Ihesu\n                    crist\u2026\n",
+            "Last Lines": "\n\u2026What pyne \u00fee Bacbiter schal dryeBut he a mende him or he\n                    dye\n",
+            "Attributed Title": "\nSimile est Regnum celorum homini Regi (f.\n                    213ra)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 213ra-213vb"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nSEynt Matheu \u00fee euangelistTelles vs \u00feat ihesu\n                    crist\u2026\n",
+            "Last Lines": "\n\u2026What payne \u00fee bakbitere sale drygheBot he amende him or\n                    he dyghe\n",
+            "Attributed Title": "\nDominica xxiia secundum Mathium (p. 341)",
+            "folio": "pp. 341-347"
+        },
+        "CULDd11": {
+            "First Lines": "\nSEynt mathew \u00fee Euangelisttelli\u00fe vs \u00feat ihesu\n                    crist\u2026\n",
+            "Last Lines": "\n\u2026What pyne \u00fee bakbitere schal dryeBut he amend him or he\n                    dye\n",
+            "Attributed Title": "\nDominica vicesima Secunda post festum sancte teinitatis Euangelium\n                        secundum Mathium (f. 206)",
+            "folio": "ff. 206-208"
+        },
+        "CULGg531": {
+            "First Lines": "\nSeynt Matheu euangelystTelles vs \u00feat ihesu\n                    cryst\u2026\n",
+            "Last Lines": "\n\u2026What pyne bakbyters dryeBot \u00feai amend \u00feam at\n                    \u00feai dye\n",
+            "Attributed Title": "\ndominica xxiia post trinitatem seundum matheum (f.\n                        147v)",
+            "folio": "ff. 147v-150v"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nSEint Matheu \u00fee EuaungelistTelle\u00fe vs \u00feat Ihesu\n                    crist\u2026\n",
+            "Last Lines": "\n\u2026What pyne \u00fee bakbiters schal drieBut \u00feei amende hem\n                    or \u00feei dye\n",
+            "Attributed Title": "\nSimile est regum celorum homini Regi (f. 17rb)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 17rb-17vb"
+        },
+        "Lam260": {
+            "folio": "f. 61rb"
+        },
+        "MinULZ822": {
+            "First Lines": "\nSaynte mathew \u00fee euangelisteTelles vs at \u00e0hesu crystea\n                    tale till his disciples talde\u2026\n",
+            "Last Lines": "\n\u2026What pyne \u00fee backbytter sall drebot he a mende hym or he\n                    de\n",
+            "Attributed Title": "\nDominica xxiia Secundum Matheum (f. 179)",
+            "folio": "ff. 179-183"
+        },
+        "HunHM129": {
+            "First Lines": "\nSeint mathew \u00fee WangelistTellyth vs \u00feat ihesu\n                    crist\u2026\n",
+            "Last Lines": "\n\u2026What pyne \u00fee bacbytere schal dreyBot he amend hym ar he\n                    dey\n",
+            "Attributed Title": "\nDominica vicesima secunda post festum trinitatis (f.\n                    189v)",
+            "folio": "ff. 189v-192v"
+        }
+    }
+}

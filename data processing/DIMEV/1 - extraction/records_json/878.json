@@ -1,0 +1,59 @@
+{
+    "_id": 878,
+    "_header": "Blissful Lord on high what shall I do",
+    "Author(s)": "Guillaume Deguileville",
+    "Title(s)": "Piteous Complaint of the Soul (P\u00e8lerinage de l\u2019\u00e2me)",
+    "Subjects": "complaints; soul",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "The Piteous Complaint of the Soul, in the English translation of Deguileville\u2019s P\u00e9lerinage de l\u2019Ame \u2014 fifty-two stanzas rhyme royal",
+    "_witnesses": {
+        "Bod770": {
+            "First Lines": "\nO blisful lord an hyegh what schal y door in what place may y my\n                    self hide\u2026\n",
+            "Last Lines": "\n\u2026Among the nedy forto be despendidLet myn estate with somwhat\n                    ben amendid\n",
+            "Attributed Title": "\nThe pitevous compleint of \u00fee soule (f. 7rb)",
+            "folio": "ff. 7rb-9va"
+        },
+        "OxfCCC237": {
+            "First Lines": "\nO blisseful lord an high wat schall I door in wat place may I my\n                    sylfe hide\u2026\n",
+            "Last Lines": "\n\u2026Amonge \u00fee nedy for to be dyspendidlat myn estate with\n                    sumwat bene amendid\n",
+            "Note": "\nFirst 9 lines written as prose",
+            "folio": "ff. 23-28"
+        },
+        "OxfUni181": {
+            "folio": "f. 11"
+        },
+        "CULKk17": {
+            "First Lines": "\nblysful lord an hy what schal I doOr in what place may I my self\n                    hide\u2026\n",
+            "Last Lines": "\n\u2026Among \u00fee nedy for to be dispendidLate myn estate with\n                    somwhat ben amendid\n",
+            "Attributed Title": "\nIncipit liber qui nuncupatur Grace dieu (f. 1); her endith \u00fee\n                    drem of \u00fee pilgrimage of \u00fee soule (f. 124v)",
+            "folio": "ff. 10-15v"
+        },
+        "BLAdd34193": {
+            "First Lines": "\nO blissede lorde on hye what shall I dooOr in what place may I my\n                    selue hyde\u2026\n",
+            "Last Lines": "\n\u2026Amonge \u00fee nedy for to be dispendedeLette myn astate be\n                    sum whatt amendede\n",
+            "Note": "\nWritten as prose.",
+            "Attributed Title": "\nThe peteuous complayn of \u00fee saule (f. 11v)",
+            "folio": "ff. 11v-14v"
+        },
+        "BLEge615": {
+            "First Lines": "\nBlisful lord on heigh what schall I door in what place may I my selfe hide\u2026\n",
+            "Last Lines": "\n\u2026Among the nedi to be dispendedLet myn estate somwhat be amendid\n",
+            "Note": "\nTable of contents ff. 1-4v; prose introduction ff. 5-8.",
+            "Attributed Title": "\nThis is the kalender of the book caled Grace de dieu (f. 1)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             \u201cHoccleve\u2019s Works: The Regement of Princes and fourteen minor\n                poems.\u201d \n             EETS\n         e.s. 72 (1897); repr. 1988: li-lxii.\n",
+            "folio": "ff. 8-13v"
+        },
+        "HatCP270": {
+            "folio": ""
+        },
+        "NYPLSpenc19": {
+            "First Lines": "\nBlisful lord an high what shall I dOr in what place may I my self\n                    hide\u2026\n",
+            "Last Lines": "\n\u2026Among the nedy for to be despendedLet myn estaat with somwhat\n                    ben amended\n",
+            "Attributed Title": "\nThe pitouse compleynt of the soule (f. 14)",
+            "folio": "ff. 14-19v"
+        },
+        "MelSLV096G94": {
+            "folio": "f. 102"
+        }
+    }
+}

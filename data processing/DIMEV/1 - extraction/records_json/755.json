@@ -1,0 +1,62 @@
+{
+    "_id": 755,
+    "_header": "Be glad and blithe Queen of bliss",
+    "Subjects": "Virgin Mary, joys of",
+    "Versification": "\u2014 ten-line, six-line \u2014 abcbddeffe, aabccb",
+    "_description": "On the Seven Joys of the Blessed Virgin in Heaven in Mirk\u2019s Festial (except London, British Library Harley 210) \u2014 of varying length, rhyme and metre",
+    "_witnesses": {
+        "BodGoughet4": {
+            "First Lines": "\nBe glad & bly\u00fee qwene of blysffor \u00fei ioy passyng\n                    is\u2026\n",
+            "Last Lines": "\n\u2026of you for to haue a syghtor \u00feat we he\u00feen\n                    wende\n",
+            "Note": "\n8 stanzas.",
+            "Editions": "\nErbe,  Theodore,\n                        ed.  \n             Mirk\u2019s Festial.\nEETS\n         e.s. 96 (1905); repr. 1987: 332-3.\n",
+            "folio": "ff. 133-133v"
+        },
+        "BodHat96": {
+            "First Lines": "\nBe glad & blythe quene of blysfor thy ioye passyng\n                    ys\u2026\n",
+            "Last Lines": "\n\u2026of the to haue a sy\u021dtor we hens wynd Amen\n                    Amen\n",
+            "Note": "\n8 stanzas, written as prose.",
+            "folio": "ff. 144v-145"
+        },
+        "CULDd1050": {
+            "First Lines": "\nBe glad & blythe queneffor thes ioyes vii neuer shalt thow\n                    mysseWell is the that euer thow ware borethus to ioy euermore with the\n                    kyng of blisse\u2026\n",
+            "Last Lines": "\n\u2026Of the to haue a sy\u021dtOr we hens wynde\n",
+            "Note": "\n8 stanzas, written as prose.",
+            "folio": "f. 145"
+        },
+        "CamGon168": {
+            "First Lines": "\nBe glad & blyth qwen of blisffor \u00fei ioy passyng\n                    is\u2026\n",
+            "Last Lines": "\nOf \u021dow for to haue a sy\u021dtOr \u00feat we hyne\n                    wynd\n",
+            "Note": "\nEight 6-line stanzas, aabccb.",
+            "folio": "pp. 265a-266b"
+        },
+        "BLCottClauAII": {
+            "First Lines": "\nBe gladde and blythe quene of blysseffor \u00feine ioy passing isse\n                    \u2026\n",
+            "Last Lines": "\n\u2026For vs of \u021dow to haue a syghtEr \u00feen we hennys\n                    wende\n",
+            "Editions": "\nHorstmann,  Carl. \n             Altenglische Legenden: Neue Folge.\n         Heilbronn: Henninger, 1881: cxvi.\n",
+            "folio": "ff. 102-102v"
+        },
+        "BLHar210": {
+            "Note": "\nText occurring separately from Festial.",
+            "folio": "f. 87"
+        },
+        "BLHar2403": {
+            "First Lines": "\nBe glad & bly\u00fee quene of blysfor \u00fey ioye passynge\n                    is\u2026\n",
+            "Last Lines": "\n\u2026of \u00fee to haue suche a si\u021dtar we hens\n                    wende\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 151"
+        },
+        "BLHar2417": {
+            "First Lines": "\nBe glad & blythe swete quene of blysffor \u00fey ioye passyng\n                    ys\u2026\n",
+            "Last Lines": "\n\u2026Of \u00fee for to haue asy\u021dtEre \u00feen we hennys\n                    wende\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 70v"
+        },
+        "Southwell7": {
+            "First Lines": "\nBe glad and bly\u00fee quene of blisffor \u00fey ioy passyng\n                    ys\u2026\n",
+            "Last Lines": "\n\u2026Thus to ioyen euyrmoreWyth the kyng of blisse\n",
+            "Note": "\nSeven 6-line stanzas, aabccb.",
+            "folio": "ff. 130v-131v"
+        }
+    }
+}

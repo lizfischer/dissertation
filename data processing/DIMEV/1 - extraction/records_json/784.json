@@ -1,0 +1,16 @@
+{
+    "_id": 784,
+    "_header": "Beau enfant pour apprendre",
+    "Subjects": "schools/scholars; school lessons; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Macaronic": "French",
+    "_description": "Alternating French and English couplets, with English devolving into prose early in work, though occasional couplets in English throughout \u2014 in couplets",
+    "_witnesses": {
+        "CamTCC323": {
+            "First Lines": "\n\nBeau enfant pour apprendreEn franceis deue\u021d bien\n                        entendreffayre chyld for to lerneIn frensh \u021de schal wel\n                    vnder stande\u2026\n",
+            "Last Lines": "\n\u2026Now praye\u00fe god so \u021de may end\u00deat to hys Ioye\n                    \u021de may kome so be hyt\n",
+            "Attributed Title": "\nLiber iste vocatur femina quia sicut femina docet infantem loqui\n                        maternam sic docet iste liber iuuenes rehtorice loqui gallicum prout infra\n                        patebit (f. 88); Capitulum primum docet rethorice loqui de\n                        assimilitudine bestiarum (f. 88)",
+            "folio": "ff. 88-138v"
+        }
+    }
+}

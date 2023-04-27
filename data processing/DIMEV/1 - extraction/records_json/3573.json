@@ -1,0 +1,18 @@
+{
+    "_id": 3573,
+    "_header": "Mourning my heart doth sore oppress",
+    "Subjects": "lover\u2019s lament",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "A lover\u2019s complaint \u2014 seven quatrains with refrain, \u2018Alas I cannot be lovyd agayne\u2019 or \u2018Alas whan shall I be louid agayne\u2019",
+    "_witnesses": {
+        "BLAdd18752": {
+            "Editions": "\nReed,  Ernest Bliss. \n             \u201cThe Sixteenth Century Lyrics in Add. MS. 18,752.\u201d \n             Anglia\n         33 (1909): 344-69: 361.\n",
+            "folio": "f. 89"
+        },
+        "Huddersfield": {
+            "First Lines": "\nmorenyng my hart doithe sore opress\u00feat force constreynithe me\n                    to complayneand where as I shold haue Redressea las I cannot be louid\n                    a gayne\u2026\n",
+            "Last Lines": "\n\u2026then forto loue a faithefull hartA las & cannot be louid\n                    a gayne\n",
+            "folio": "f. 2"
+        }
+    }
+}

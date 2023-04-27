@@ -1,0 +1,46 @@
+{
+    "_id": 4642,
+    "_header": "Saint John the gospeller / Tells as I shall you lere",
+    "Note": "See also 4635.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Twenty-fourth (according to some MSS the Twenty-fifth) Sunday after Trinity in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nSAynte Jone \u00fee gode gospellereTellis als i sall saie \u021dou\n                    here\u2026\n",
+            "Last Lines": "\n\u2026He askid sainte philipe in hyeWhare maie we mete to \u00feis\n                    folk bye\n",
+            "Note": "\nLines 1-10 only.",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "f. 231v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Ion \u00fee gospellereTelle\u00fe \u00feat I schal sei ow\n                    here\u2026\n",
+            "Last Lines": "\n\u2026\u00deat may \u021de bi a tale here\u00deat I haue redi Rymed\n                    here\n",
+            "Attributed Title": "\nCum subleuasset Ihesu oculos / et uidisset quia multitudo maxima (f.\n                        214vc)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 214va-214vb"
+        },
+        "CULGg531": {
+            "First Lines": "\nSeynt Iohn \u00fee gospilereTelles als I sall \u021dow\n                    lere\u2026\n",
+            "Last Lines": "\n\u2026He asked saint Philypp in hyWhar may we mete tyll \u00feis\n                    folk by\u2026\n",
+            "Note": "\nLines 1-8 only.",
+            "Attributed Title": "\nDominica xxxiiiima post trinitatem secundum Iohannem (f.\n                    154v)",
+            "folio": "f. 154v"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nSEint Ion \u00fee gospelerTelle\u00fe \u00feat I schal sei\n                    owhere\u2026\n",
+            "Last Lines": "\n\u2026\u00deat may \u021de bi a tale here\u00feat I have redi rymed\n                    here\n",
+            "Attributed Title": "\nCum subsenasset oculos Ihesus & videsset / quia multitudo maxima\n                        venit (f. 18rc)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 18va-18vb"
+        },
+        "Lam260": {
+            "Note": "\nLines 1-12 only.",
+            "folio": "f. 63ra"
+        },
+        "HunHM129": {
+            "folio": "f. 196v"
+        }
+    }
+}

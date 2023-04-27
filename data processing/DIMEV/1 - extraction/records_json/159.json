@@ -1,0 +1,27 @@
+{
+    "_id": 159,
+    "_header": "A solitary sore complaining",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018A Complaint for my Lady of Gloucester and Holland\u2019",
+    "Subjects": "complaints; Humphrey, duke of Gloucester; Jacqueline of Hainault",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lydgate, \u2018A Complaint for my Lady of Gloucester and Holland\u2019 \u2014 eighteen rhyme royal stanzas",
+    "_witnesses": {
+        "BodAsh59": {
+            "First Lines": "\nA Solytarye ful sore compleyningeHevy sate weeping on a Ryver\n                    sydeYeeris and dayes over awaytingeWhiche with gode hope did evermore\n                    abyde\u2026\n",
+            "Last Lines": "\n\u2026That clere trouth may \u00feanne shewe his faceBo\u00fee\n                    wychche and bawde far aweye to chace\n",
+            "Note": "\nLines 1-110 only; ends imperfectly due to loss of a folio.",
+            "Attributed Author": "\nComplainte made by Lydegate\u2026 (RT); a Chapellayne of my lordes of\n                    Gloucester Humfrey (f. 57)",
+            "Attributed Title": "\nComplainte made by Lydegate Of my ladye of Gloucester & Holand (RT);\n                    \u2026and nexst folowe\u00fee a Pytous complaynte of a Chapellayne of my lordes\n                    of Gloucester Humfrey etc. whome god assoyle \u00feat noble Prynce (f.\n                    57)",
+            "folio": "ff. 57-58v"
+        },
+        "CamTCC600": {
+            "First Lines": "\nA solytarye soore compleynyngSat weping by a water sydeYeeris\n                    and dayes awaytingWhich with goode hope dyd aye abyde\u2026\n",
+            "Last Lines": "\n\u2026Of hye and lowe to reken alleHir godsone after hire do\u00fee\n                    calle\n",
+            "Note": "\nMarginal note beside line 1: \u2018Complaynte for my lady Jaquyt or\n                    Jacomy of holand & cetera wyffe to humfrey duke of glosestar home \u00fee\n                    sayd humfrey wngodly maryed she beynge \u00fee lawfull wyffe of John duke of\n                    brabaunte & besyde her he all so kepte \u00fee company of othar a mongste\n                    \u00fee whiche was one Elianor Chobham who by sorsere & withe craftes causyd\n                    hym to leave \u00fee sayd Jaquyl of holand & to marie her \u00fee sayd\n                    Elianowr who afftar was a traytoresse to kynge henry \u00fee vi\u2019 (f.\n                    363).",
+            "Attributed Title": "\nComplaynte for \u00fee departing Of my ladye of Holond (RT, 363-367); Here\n                    bygynne\u00fee a complaynte of a solitarye persone compleyning \u00feabsence of\n                    \u00fee moste renomed and best beloued pryncesse \u00feat euer of hire estate in\n                    \u00feeos dayes came in to \u00feis Reaume of logres by \u00fee weye of mariage\n                    and so sodeynly vnordynatly departed hens as hit is sayde and spouken in many\n                    Regyouns by \u00fee hegheste estates \u00feer (p. 363)",
+            "Editions": "\n\nHammond,  Eleanor Prescott. \n             \u201cLydgate and the Duchess of Gloucester.\u201d \n             Anglia\n         27 (1904): 381-98: 393-7.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 608-13.\n\n",
+            "folio": "pp. 363-367"
+        }
+    }
+}

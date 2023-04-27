@@ -1,0 +1,13 @@
+{
+    "_id": 5811,
+    "_header": "Thomas Stone is at home",
+    "Subjects": "sermons, verse in",
+    "_description": "Rhyming phrases in a Latin sermon",
+    "_witnesses": {
+        "BLCottFausAV": {
+            "Transcription": "\nThome stone es at hamegod gif \u00fee husband schame\n",
+            "Note": "\nWritten as prose. Folio number reflects the most recent\n                    foliation.",
+            "folio": "f. 10v"
+        }
+    }
+}

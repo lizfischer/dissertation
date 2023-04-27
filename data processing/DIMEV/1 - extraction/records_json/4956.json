@@ -1,0 +1,28 @@
+{
+    "_id": 4956,
+    "_header": "Some be merry and some be sad",
+    "Subjects": "carols, of women; women",
+    "Versification": "\u2014 six-line \u2014 aaabcb",
+    "_description": "Carol on the different kinds of women \u2014 six 6-line stanzas (aaabccb) including refrain, \u2018Yet all be not so / For sum be lewde & sum be shrewed / Go shrew wher so euer ye go\u2019, and burden (dd): \u2018Women women love of women / Make\u00fe bare pursis wi\u00fe sum men\u2019.",
+    "_witnesses": {
+        "BodEngPoete1": {
+            "First Lines": "\nSome be mery & some be sad& some be good & some be\n                    bad\u2026\n",
+            "Last Lines": "\n\u2026& sume be shrewdGo shrew wher so euer ye go\n",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             Songs and Carols from a manuscript\u2026of the Fifteenth\n                Century.\nPercy Society\n         23. London: Richards, 1847: 89-91.\nMasters,  James Edwin,\n                        ed.  \n             Rymes of the Minstrels.\n         Shaftesbury, Dorset: High House Press, 1927; anonymous: 30-1.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 267-8.\nLuria,  Maxwell Sidney,  and  Richard L. Hoffman, eds.  \n             Middle English Lyrics.\n         New York: Norton, 1974: 72-3.\n\n",
+            "folio": "ff. 56v-57"
+        },
+        "OxfBal354": {
+            "First Lines": "\nSum be mery & sum be sade& sum be besy & sum be\n                    bade\u2026\n",
+            "Last Lines": "\n\u2026For sum be lewed & sum be shrewedGo shrew wher so euer ye\n                    goExplicit\n",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 113, 188.\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 276-7.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 267-8; 1977, 236-7.\n\n",
+            "folio": "pp. 5072-508"
+        },
+        "Lam306": {
+            "Transcription": "\nWomen women loue of womenmake bare purs with some menSome be\n                    nyse as a nonne hene\u021dit al thei be nat soosome be lewde some all\n                    be schreudeGo schrewes wher thei gooSum be nyse and some be\n                    fondeAnd some be tame y vndirstondAnd some cane take brede of a manes\n                    handeYit all thai be nat soo\n",
+            "Note": "\nVariant: 7 stanzas.",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             Songs and Carols from a manuscript\u2026of the Fifteenth\n                Century.\nPercy Society\n         23. London: Richards, 1847: 103-4.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 267-8; 1977, 237-8.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 113, 188.\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.248-9.\nFurnivall,  Frederick James,\n                        ed.  \n             Adam of Cobsam: The Wright\u2019s Chaste Wife.\nEETS\n         o.s. 12 (1865); 2nd revised ed.,1869; 3rd ed. 1891; repr.\n            1965: 25-6.\nChambers,  Edmund Kerchever,  and  Frank Sidgwick.  \n             Early English Lyrics\u2026.\n         London: Buller, 1907, 1911 et seq: composite text: 214-15 (ten stanzas).\n\n",
+            "folio": "ff. 135-135v"
+        }
+    }
+}

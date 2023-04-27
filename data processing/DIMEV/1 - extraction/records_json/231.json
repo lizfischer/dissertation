@@ -1,0 +1,14 @@
+{
+    "_id": 231,
+    "_header": "After my book yet wrought I well",
+    "Note": "Cf. Singer (1928)\nXSinger, Dorothea Waley. Catalogue of Latin and Vernacular Alchemical Manuscripts. 3 vols. Brussels: Lamertin, 1928-31, 865.",
+    "Subjects": "alchemical poems",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Alchemical verses \u2014 in couplets",
+    "_witnesses": {
+        "SouthCL1597": {
+            "First Lines": "\nAftyr my boke yet wrought I weleWhyche yever\n                    more\u2026\n",
+            "folio": "pp. 32-33"
+        }
+    }
+}

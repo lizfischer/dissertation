@@ -1,0 +1,23 @@
+{
+    "_id": 1298,
+    "_header": "Father Son and Holy Ghost",
+    "Title(s)": "Oracio devota in anglicis uerbis",
+    "Subjects": "Trinity, prayers to; prayers, to Trinity",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "Oracio devota in anglicis uerbis: to the Trinity \u2014 thirty cross-rhymed quatrains",
+    "_witnesses": {
+        "BodLye30": {
+            "First Lines": "\nFader sone and holy goostLord to the i make my\n                    mone\u2026\n",
+            "Last Lines": "\n\u2026On the to see that comely syghtffadir & sone & holy\n                    goost\n",
+            "Attributed Title": "\nOracio devota in anglicis verbis (f. 62v)",
+            "folio": "ff. 62v-65v"
+        },
+        "NijmegenUL194": {
+            "First Lines": "\nFather and Son and Holy GostLord to the I make my\n                    mone\u2026\n",
+            "Last Lines": "\n\u2026In \u00fee to haue that swete syghteFather and Son and Holy\n                    Goste. Amen\n",
+            "Attributed Title": "\nAnother deuote prayer",
+            "Editions": "\nConnolly,  Margaret. \n             \u201cSome Unrecorded Middle English Verse in a Nijmegen Manuscript.\u201d \n             Notes & Queries\n         46 (1999): 442-4: 443-4.\n",
+            "folio": "ff. 174v-179"
+        }
+    }
+}

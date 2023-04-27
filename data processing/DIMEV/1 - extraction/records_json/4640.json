@@ -1,0 +1,61 @@
+{
+    "_id": 4640,
+    "_header": "Saint John the gospeller says us / That to his disciples said",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Second Sunday after Easter in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Ion \u00fee gospellere sei\u00fe \u00feus\u00deat to his\n                    disciplus seide Ihesus\u2026\n",
+            "Last Lines": "\n\u2026\u00deat may \u021de seo bi a taleOf a \u021dong mon \u00feat\n                    was not hale\n",
+            "Attributed Title": "\nDixit Ihesu discipulis suis Ego sum pastorum (f.\n                    189va)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 189va2-189vc"
+        },
+        "BodAsh42": {
+            "First Lines": "\nSaynte Ione \u00fee gospellere saise vs\u00feat till his dissiples\n                    saide ihesus\u2026\n",
+            "Last Lines": "\n\u2026\u00feis nay \u021de se bi a taleOf a \u021donge man \u00feat\n                    was vnhale\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 117-119"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nSEynt Ione \u00fee gospellere sais vs\u00deat til his disciples\n                    saide ihesus\u2026\n",
+            "Last Lines": "\n\u2026And by a tale \u00feat may we se\u00deat I wille telle if\n                    \u00feat \u021de here me\n",
+            "Attributed Title": "\nDominica prima post octava pasche secundum Iohannem (p.\n                    188)",
+            "folio": "pp. 188-191"
+        },
+        "CULDd11": {
+            "First Lines": "\nSEynt Iohn \u00fee Gospellere seyth vs\u00deat to his disciplis\n                    seyde ihesusI am a good herde man\u2026\n",
+            "Last Lines": "\n\u2026And \u00feat may \u021de seen be a taleof a \u021dong man \u00feat\n                    was not hale\n",
+            "Attributed Title": "\nDominica 2a post Pascha Euangelium secundum Iohannem (f.\n                        122v)",
+            "folio": "ff. 122v-124"
+        },
+        "BLCottTibEVII": {
+            "folio": "f. 189ra"
+        },
+        "BLHar4196": {
+            "First Lines": "\nSaint iohn \u00fee godspellere sais vsvnto his folowers said ihesus\u2026\n",
+            "Last Lines": "\n\u2026\u00feat may men by ensaumple tellBy fore \u00feir daies how it bifell\n",
+            "Note": "\nPreceded by Latin, \u201cEgo sum pastor bonus & cetera.\u201d",
+            "Attributed Title": "\nDominica prima post octava pasche Secundum Iohannem (rubric, f. 90vb)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): II.193-196.\n",
+            "folio": "ff. 90vb-91rb"
+        },
+        "Lam260": {
+            "folio": "f. 36vb"
+        },
+        "HunHM129": {
+            "First Lines": "\nSeint Ion \u00fee gospellere sayth vs\u00feat to his folowerys said\n                    ihesusI am gode hyrd bestis to kepeAnd gode hyrd settyth for his\n                    schepe\u2026\n",
+            "Last Lines": "\n\u2026And \u00feis may \u021de se by a taleOff a \u021dong man\n                    \u00feat wos vnhale\n",
+            "Attributed Title": "\nDominica secunda post octavam pasche (f. 100)",
+            "folio": "ff. 100-100v"
+        },
+        "MinULZ822": {
+            "First Lines": "\nSaynt Iohn \u00fee gospellere tell vs\u00feat tyll hys disciples\n                    sayd IhesusI am a gude hirde bestes to kepe\u2026\n",
+            "Last Lines": "\n\u2026\u00feat may \u021de se here be a taleof a \u021dong man\n                    \u00feat was vnhall\n",
+            "Attributed Title": "\nDominica prima post octavas pasche Secundum Johannem (f.\n                    86)",
+            "folio": "ff. 86-87"
+        }
+    }
+}

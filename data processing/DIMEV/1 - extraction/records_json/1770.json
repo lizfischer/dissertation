@@ -1,0 +1,18 @@
+{
+    "_id": 1770,
+    "_header": "Harken to my tale that I shall to you shew",
+    "Subjects": "nonsense",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Nonsense verse \u2014 in couplets",
+    "_witnesses": {
+        "NLS1931": {
+            "First Lines": "\nHerkyn to my tale \u00feat I schall to yow schewfor of seche\n                    meruels haue ye hard bot few\u2026\n",
+            "Last Lines": "\n\u2026God as he made hus mend hus he meySaue hus and sende hus sum\n                    drynke for \u00feis dey\n",
+            "Note": "\n49 lines; nineteenth-century transcript in London,  British Library Egerton 2257, ff.\n                    169-170.",
+            "Attributed Author": "\nSecundum Recardum Heegge quod ipse fuit ad istud conviuium & non\n                        habuit potacionem\n",
+            "Facsimiles": "\nHardman,  Phillipa. \n             The Heege Manuscript: A Facsimile of National Library of Scotland MS\n                Advocates 19.3.1.\n         Leeds Texts and Monographs, n.s. 16. Leeds: School of English,\n            2000. \n",
+            "Editions": "\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845:  1.81-2, 85-6.\n",
+            "folio": "ff. 60-60v"
+        }
+    }
+}

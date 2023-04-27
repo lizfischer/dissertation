@@ -1,0 +1,114 @@
+{
+    "_id": 4740,
+    "_header": "Saint Oswald the bishop was I-bore in England",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Oswald, bishop, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Southwell, Southwell Cathedral Library 7, f. 191: prose.",
+    "_description": "Life of St. Oswald the Bishop in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "BodAddC38": {
+            "folio": "f. 55"
+        },
+        "BodAsh43": {
+            "First Lines": "\nSEyn Oswald \u00fee biscop was ibore her in engelondeOf heie men he\n                    was icome as ic vnderstonde\u2026\n",
+            "Last Lines": "\n\u2026Vor is loue our lord ha\u00fe \u00feer vair myracle ofte\n                    iwro\u021dtGod lete ous to \u00fee Ioie come \u00feat he is Inne\n                    ibro\u021dt\n",
+            "Attributed Title": "\nseyn Oswald (f. 28)",
+            "folio": "ff. 28v-31v"
+        },
+        "Bod779": {
+            "First Lines": "\nSeint oswold \u00fee bysschop was bore her in ingelondeof grete\n                    lordes he was come as ich ondirstonde\u2026\n",
+            "Last Lines": "\n\u2026ffor \u021deue \u00feu oure mysdedys \u00feat we do\u00fe ofte\n                    amys& brynge vs in to \u00fey kyngdom In \u00fee ioye of heuene\n                    blis\n",
+            "Attributed Title": "\nSeint oswold\u00fee bysschop (f. 79)",
+            "folio": "ff. 78-81"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSEint Oswold was i bore heere in EngelondeOf hei\u021de men he was\n                    i come as ich vndurstonde\u2026\n",
+            "Last Lines": "\n\u2026ffor his loue vr lord ha\u00fe \u00feere feir Miracle i\n                    wrou\u021dtGod lete vs to \u00fee Ioye come \u00feer he is inne i\n                    brou\u021dt. Amen.\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 16va-17rb"
+        },
+        "BodLauMis463": {
+            "First Lines": "\nSEint Oswold \u00fee bisshop Was bore in EnglelondOf heye men he y\n                    comen As I vnderstonde\u2026\n",
+            "Last Lines": "\n\u2026ffor his loue oure lord ha\u00fe ofte fair miracle wroutheGod\n                    let vs to \u00fee ioye come \u00feer he is inne brouhte\n",
+            "Attributed Title": "\nTwo columns per page, one full-line, the other half-line.",
+            "folio": "ff. 14ra-15rb"
+        },
+        "BodTan17": {
+            "First Lines": "\nSEint Oswold \u00fee holi man was bore in IngelondOf hi\u021de men\n                    he was come as I vndirstond\u2026\n",
+            "Last Lines": "\n\u2026ffor his loue oure lord ha\u00fe \u00feere fair meracle ofte\n                    \u00feere wrou\u021dtNow god lete vs to \u00fee ioye come \u00feere he is\n                    inne brou\u021dt\n",
+            "folio": "ff. 25v-28"
+        },
+        "OxfCCC431": {
+            "First Lines": "\n[S]eint oswol[d ]\u00fee bissop was ibore in engelondeOf he\u021de\n                    men he was icome as ich vnderstonde\u2026\n",
+            "Last Lines": "\n\u2026& oure lord ha\u00fe for his loue \u00feere many miracles\n                    y[wro\u021dt]Now god lete vs to \u00fee ioye come \u00feat he is inne\n                    ybro\u021dte\n",
+            "Note": "\nPortion of text lost due to mutilation of leaves.",
+            "Attributed Title": "\nDe sancto osw[aldo] [ ] (f. 26v)",
+            "folio": "ff. 26v-27"
+        },
+        "CamCCC145": {
+            "First Lines": "\nSeint oswold \u00fee bissop was ibore here in EngelondeOf heie men\n                    he was icome as ich vnderstonde\u2026\n",
+            "Last Lines": "\n\u2026ffor his loue oure louerd ha\u00fe \u00feer vair miracle ofte\n                    iwro\u021dtNou god lete us to \u00fee ioie come \u00feat he is Inne\n                    ibro\u021dt\n",
+            "Editions": "\nD\u2019Evelyn,  Charlotte,  and  A. J. Mill, eds.  \n             The South English Legendary: Corpus Christi College Cambridge MS. 145\n                and British Museum MS. Harley 2277, with variants from Bodley MS. Ashmole 43 and\n                British Museum MS. Cotton Julius D.ix.\nEETS\n         o.s. 235 (1959), 236 (1956); repr. 1967: 1.71-8.\n",
+            "folio": "ff. 26v-29v"
+        },
+        "CamMagPep2344": {
+            "First Lines": "\nSeint Oswald \u00fee bisschop was ybore in EngelondeOf heye men he\n                    was ycome as ich vnderstonde\u2026\n",
+            "Last Lines": "\n\u2026ffor his loue oure lord ha\u00fe \u00feer ffayre miracles ofte\n                    ywrou\u021dtNow god bringe vs to \u00fee ioye of heuene \u00feat he is ynne\n                    ybrou\u021dt\n",
+            "Attributed Title": "\nOswaldus (RT)",
+            "folio": "pp. 141-146"
+        },
+        "CamTCC605": {
+            "First Lines": "\nSEint oswold \u00fee byschop was bore here in Englondeof hey men he\n                    was ycome as ic vnderstonde\u2026\n",
+            "Last Lines": "\n\u2026for his loue oure lord ha\u00fe fayr myracle y wro\u021dtgod\n                    late ous to \u00feulke ioie come \u00feer he is in ybro\u021dt\n",
+            "Attributed Title": "\nOswold (RT)",
+            "folio": "ff. 46-48"
+        },
+        "BLAdd10301": {
+            "First Lines": "\nSEint hoswold \u00fee bissope was y bore here in engelond Of heye men he\n                    was y come as y vnder stond\u2026 \n",
+            "Last Lines": "\n\u2026for is loue oure lord ha\u00fe \u00feer feire miracle ofte y\n                    wro\u021dt Nou god let vs to \u00fee Ioye come \u00feat he is inne y bro\u021dt \n",
+            "Attributed Title": "\nDe sancto oswaldo (f. 34v, in margin beside first line);\n                        Oswaldus (RT)",
+            "folio": "ff. 34v-38"
+        },
+        "BLAdd10626": {
+            "First Lines": "\nHit by fel \u00feat \u00fee erchebischope of euerwik was dedSire\n                    Oskedel in his stede \u00feey nome \u00feorw many mannus red\u2026\n",
+            "Last Lines": "\n\u2026For his love our lorde ha\u00fee \u00fee feyre myracle y\n                    wroutGod leve vs to \u00fet Ioye come \u00feat he his inne y\n                    brout\n",
+            "Note": "\nLines 1-98 missing. Text has facing transcription of each folio in a\n                    nineteenth-century hand.",
+            "folio": "ff. 3-5v"
+        },
+        "BLCottJulDIX": {
+            "First Lines": "\nSEint oswald \u00fee bischop was ibore here in engelondeOf heiemen he was icome as ich vnderstonde\u2026\n",
+            "Last Lines": "\n\u2026for his loue our lord ha\u00fe \u00feer fair miracle owt ywro\u021dtnow god lete ows to \u00fee ioie come \u00feat he is Inne ybrou\u021dt\n",
+            "Note": "\n\u201cCapitulum xviii\u201d added to left margin by later hand (f. 30v).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Julius MS D IX.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Julius_D_IX. \n",
+            "folio": "ff. 30v-33v"
+        },
+        "BLEge1993": {
+            "First Lines": "\nSeint Oswold bore was here in engelondeOf hei\u021de men he was come as ich vnderstonde\u2026\n",
+            "Last Lines": "\n\u2026And wi\u00fe angles to heuene wende as hi brou\u021dte him erndingeNow god for \u00fee loue of him to \u00feulke ioie vs bringe\n",
+            "Note": "\nEnds \u201cAmen\u201d (f. 118).",
+            "folio": "ff. 114v-118"
+        },
+        "BLEge2810": {
+            "First Lines": "\nSEynt oswolde \u00fee busschop was ybore here in engelondeOf heie men he was ycome as ich it vndirstonde\u2026\n",
+            "Last Lines": "\n\u2026Vor is loue oure louird ha\u00fe \u00feer vaire myracle ywro\u021dtNou god ous granty \u00feilke Ioye \u00feat he is inne ybro\u021dt\n",
+            "Note": "\nEnds \u201cAmen.\u201d",
+            "folio": "ff. 27-29v"
+        },
+        "BLEge2891": {
+            "First Lines": "\nSEint oswold \u00fee bissop was ibore here in engelondeOf heye men he was icome as ich vnder stonde\u2026\n",
+            "Last Lines": "\n\u2026ffor is loue oure louerd ha\u00fe \u00feere fair miracle ofte iwr\u021dtNou god lete us to \u00fee ioie come \u00feat he is Inne ibro\u021dt\n",
+            "Attributed Title": "\nDe sancto oswaldo (rubric in margin, f. 18v)",
+            "folio": "ff. 18v-21v"
+        },
+        "Lam223": {
+            "First Lines": "\nSAynt Oswald \u00feat gode mon born was in EnglondAnd comen of\n                    riche men & hegh as \u021de shul vnderstonde\n",
+            "Last Lines": "\n\u2026ffor his love oure lord has here fayre myracles wro\u021dtGod\n                    braunte vs to \u00feat ioye come \u00feat he is in now bro\u021dt\n",
+            "Attributed Title": "\nSaynt Oswald (RT)",
+            "folio": "ff. 71-74"
+        },
+        "Winches33": {
+            "folio": "f. 17v"
+        }
+    }
+}

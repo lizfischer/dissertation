@@ -1,0 +1,22 @@
+{
+    "_id": 6216,
+    "_header": "Wellaway that I was born",
+    "Note": "Cf. 2027.",
+    "Subjects": "sinners\u2019 laments",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The lament of a damned soul \u2014 two couplets",
+    "_witnesses": {
+        "CULIi38": {
+            "Editions": "\nStemmler,  Theo. \n             \u201cMore English Texts from MS. Cambridge University Library\n                Ii.III.8.\u201d \n             Anglia\n         93 (1975): 1-16: 4.\n",
+            "folio": "f. 52"
+        },
+        "BLHar2316": {
+            "Editions": "\n\nHerbert,  John Alexander. \n             Catalogue of Romances in the Department of MSS. in the British\n                Museum.\n         Vol. 3. London, 1910: 3.575.\nWanley,  Humphrey. \n             A Catalogue of the Harleian Manuscripts in the British Museum.\n         4 vols. London: Eyre and Strahan, 1808-12; ed. Wanley et al: 2.651.\nWright,  Thomas. \n             A selection of Latin stories.\nPercy Society\n         8. London: Richard, 1842: 107.\n\n",
+            "folio": "f. 10"
+        },
+        "BLRoy7Ci": {
+            "Editions": "\nHerbert,  John Alexander. \n             Catalogue of Romances in the Department of MSS. in the British\n                Museum.\n         Vol. 3. London, 1910: 3.133.\n",
+            "folio": "f. 118"
+        }
+    }
+}

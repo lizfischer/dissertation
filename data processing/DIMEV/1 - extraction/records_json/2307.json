@@ -1,0 +1,26 @@
+{
+    "_id": 2307,
+    "_header": "I was in an summery dale",
+    "Title(s)": "The Owl and the Nightingale",
+    "Subjects": "debates, bird; birds, as speakers/narrators",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Owl and the Nightingale \u2014 1794 lines in couplets",
+    "_witnesses": {
+        "OxfJesus29": {
+            "First Lines": "\nIch wes in one sumere daleIn oneswi\u00fee dyele\n                    hale\u2026\n",
+            "Last Lines": "\n\u2026He can iceu namore telleher nys namore of \u00feisse spelle\n                        Explicit\n\n",
+            "Attributed Title": "\nIncipit altercacio inter filomenam & Bubonem (f. 156)",
+            "Facsimiles": "\nKer,  Neil Ripley,\n                        ed.  \n             The Owl and the Nightingale: facsimile of Jesus College Oxford MS. 29\n                and British Museum MS. Cotton Caligula A.ix.\nEETS\n         o.s. 251 (1963). \n",
+            "Editions": "\n\nWells,  John Edwin,\n                        ed.  \n             The Owl and the Nighingale.\n         Boston, London: Heath, 1907; rev. Atkins, Cambridge, 1922; repr. NY:\n            AMS, 1972. \nGadow,  Wilhelm. \n             Das mittelenglische streitgedicht Eule und nachtigall.\nPalestr\n         65. Berlin: Mayer & M\u00fcller, 1909: \n                        crit. text\n                    .\nHall,  Joseph. \n             Selections from Early Middle English, 1130-1250.\n         2 parts. Oxford: Clarendon, 1920, 1951: 1.149-75 (lengthy extracts).\nGrattan,  J. H. G.,  and  G. F. H. Sykes, eds.  \n             The Owl and the Nightingale.\nEETS\n         e.s. 119 (1935), repr. 1973. \nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 6-10 (extracts).\n\n",
+            "folio": "Part II, ff. 156-168v"
+        },
+        "BLCottCalAIX": {
+            "First Lines": "\nIch \u01bfas in one sumere daleIn one su\u00fee di\u021dele\n                    hale\u2026\n",
+            "Last Lines": "\n\u2026Ne chan Ich eu namore telleHer nis namore of \u00feis\n                    spelle\n",
+            "Note": "\nWritten as prose.",
+            "Facsimiles": "\n\nKer,  Neil Ripley,\n                        ed.  \n             The Owl and the Nightingale: facsimile of Jesus College Oxford MS. 29\n                and British Museum MS. Cotton Caligula A.ix.\nEETS\n         o.s. 251 (1963). \n\nDigital Facsimile of British Library  Cotton Caligula MS A IX.\n         http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Caligula_A_IX. \n\n",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             The Owl and the Nightingale.\nPercy Society\n         11. London: Richard, 1843. \nWells,  John Edwin,\n                        ed.  \n             The Owl and the Nighingale.\n         Boston, London: Heath, 1907; rev. Atkins, Cambridge, 1922; repr. NY:\n            AMS, 1972. \nGadow,  Wilhelm. \n             Das mittelenglische streitgedicht Eule und nachtigall.\nPalestr\n         65. Berlin: Mayer & M\u00fcller, 1909: \n                        crit. text\n                    .\nHall,  Joseph. \n             Selections from Early Middle English, 1130-1250.\n         2 parts. Oxford: Clarendon, 1920, 1951: 1.149-75 (lengthy extracts).\nGrattan,  J. H. G.,  and  G. F. H. Sykes, eds.  \n             The Owl and the Nightingale.\nEETS\n         e.s. 119 (1935), repr. 1973. \nStanley,  Eric Gerald,\n                        ed.  \n             The Owl and the Nightingale.\n         London: Nelson, 1960. \nBennett,  Jack Arthur Walter,  and  G. V. Smithers, eds.  \n             Early Middle English Verse and Prose.\n         Oxford: Clarendon, 1966: 2-27.\nDunn,  Charles W.,  and  Edward T. Byrnes, eds.  \n             Middle English Literature.\n         New York, 1973; 2nd ed. New York: Garland, 1990: 55-98.\n\n",
+            "folio": "ff. 233ra-246ra"
+        }
+    }
+}

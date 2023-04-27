@@ -1,0 +1,23 @@
+{
+    "_id": 81,
+    "_header": "A knight that is hardy as a lion",
+    "Note": "For a variant text see 5778.",
+    "Author(s)": "John Lydgate",
+    "Subjects": "mutability; transitoriness, of world",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lydgate, eight stanzas expounding refrain: \u2018None of all these I doo yow well assure / Off kyndely ryght may no while endure\u2019 \u2014 eight stanzas rhyme royal",
+    "_witnesses": {
+        "CamTCC599": {
+            "First Lines": "\n[A] Knyght that ys as hardy as a lyonNe a Squyer that ys\n                    AmorousNe a goshawke that fleeth for the heronNe a grehounde on boorys\n                    coragyous\u2026\n",
+            "Last Lines": "\n\u2026That noone of all these I do yow ensureOf kyndly ryght may\n                    long endure\n",
+            "Facsimiles": "\n\nFletcher,  Bradford Y. \n             \u201cIntroduction.\u201d \n             Manuscript Trinity R.3.19. A Facsimile.\n         Norman, OK: Pilgrim, 1987. \n\nDigital Facsimile of Trinity College Cambridge MS R.3.19.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.19. \n\n",
+            "folio": "ff. 209-209v"
+        },
+        "BLAdd36983": {
+            "First Lines": "\nA knyght that is hardy as a lyonNer a squyer that is\n                    amerous\u2026\n",
+            "Last Lines": "\n\u2026None of all these I do yow well assureOf kyndely right may no\n                    while endure\n",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 820-2.\n",
+            "folio": "ff. 262-263"
+        }
+    }
+}

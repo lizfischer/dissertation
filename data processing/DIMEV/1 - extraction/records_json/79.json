@@ -1,0 +1,23 @@
+{
+    "_id": 79,
+    "_header": "A king there was sometime and eke a queen",
+    "Title(s)": "\u2018The Thre Priests of Peblis\u2019",
+    "Subjects": "tales, religious didactic",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018The Thre Priests of Peblis\u2019 \u2014 in couplets",
+    "_witnesses": {
+        "Asloan": {
+            "First Lines": "\nA kyng \u00fear was sum tyme & eke a queneAs mony In \u00fee\n                    land befor had bene\u2026\n",
+            "Last Lines": "\n\u2026The questioun began for to declairThat is to saye quharfor It\n                    Is & quhy\u2026\n",
+            "Note": "\n359 lines, ends imperfectly. Nineteenth-century transcription is Edinburgh,  Edinburgh University Library La.IV.27.",
+            "Attributed Title": "\nHeir begynnis The tale of master Jhon of the thre questionis (f.\n                    258)",
+            "Editions": "\n\nCraigie,  William Alexander. \n             The Asloan Manuscript.\n             2 vols. \n             Scottish Text Society\n         n.s. 14, 16. Edinburgh, London: Blackwood, 1923, 192: 2.175-86.\nRobb,  Thomas Dunn,\n                        ed.  \n             The Thre Prestis of Peblis, how thai tald thar talis.\nScottish Text Society n.s\n         8. Edinburgh and London: Blackwood, 1920. \n\n",
+            "folio": "ff. 257-262v"
+        },
+        "ESRORH13": {
+            "Note": "\nFolios now disbound and mounted as bifolia, with sides of leaves (i.e.\n                    original pages) indicated by column letters above: lines 173/7-202/6,\n                    203/7-233/7, 351/5-380, 381-408.",
+            "Editions": "\nMapstone,  Sally. \n             \u201cThe Thre Prestis of Peblis.\u201d \n             A Day Estivall: Essays on the Music, Poetry and History of Scotland and\n                England & Poems Previously Unpublished in Honour of Helena Mennie Shire.\n            Alisoun Gardner-Medwin,\n                              and  Janet Hadley Williams,\n                            eds. \n         Aberdeen: Aberdeen University Press, 1990: 124-42: 124-42.\n",
+            "folio": "ff. 8rb-8va"
+        }
+    }
+}

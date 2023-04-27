@@ -1,0 +1,25 @@
+{
+    "_id": 6119,
+    "_header": "Upon a day it befell",
+    "Note": "For another version see 6362.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Friday after Pentecost, in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nUPon a day hit bi felAs hit sei\u00fe in \u00feis\n                    gospel\u2026\n",
+            "Last Lines": "\n\u2026He \u00feat dyed on Rode treOf vs alle haue pite.\n                    AMEN.\n",
+            "Attributed Title": "\nffactum est in vna dierum (f. 193vc)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 193vc-194va"
+        },
+        "BLAdd22283": {
+            "First Lines": "\n\u2026Whiche synne made vs alleOut of vre hous to\n                    falle\u2026\n",
+            "Last Lines": "\n\u2026He \u00feat died on Roode treOf vs alle haue pyte.\n                    Amen\n",
+            "Note": "\nLast 22 lines only.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 1ra1"
+        }
+    }
+}

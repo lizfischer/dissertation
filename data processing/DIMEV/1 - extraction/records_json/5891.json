@@ -1,0 +1,24 @@
+{
+    "_id": 5891,
+    "_header": "Though thou be king of tower and town",
+    "Note": "Stanza 4 is almost identical with stanza 1 of 3344.",
+    "Subjects": "carols, of moral counsel",
+    "Versification": "\u2014 four-line \u2014 aaab",
+    "_description": "Verses urging Man to make Amends \u2014 five quatrains (aaab) with refrain, \u2018But if \u00feou wylt amendis make\u2019 and burden: \u2018Synful man for godis sake / I rede \u00feat \u00feou amendis make\u2019",
+    "_witnesses": {
+        "BodEngPoete1": {
+            "First Lines": "\nThow \u00feou byst kyng & wer \u00fee crowne Thow \u00feou byst\n                    lord of towr & towne \u2026\n",
+            "Last Lines": "\n\u2026but \u021dyf \u00feou wylt a mendes maksynful man for crystes\n                    sake\n",
+            "Note": "\nBurden and stanzas 1, 3, 5, 4.",
+            "Editions": "\nWright,  Thomas,\n                        ed.  \n             Songs and Carols from a manuscript\u2026of the Fifteenth\n                Century.\nPercy Society\n         23. London: Richards, 1847: 44-5.\n",
+            "folio": "ff. 30v-31"
+        },
+        "BLSl2593": {
+            "First Lines": "\nThow \u00feou be kyng of tour & townThow \u00feou be kyng &\n                    were coroun\u2026\n",
+            "Last Lines": "\n\u2026In helle \u00feou xalt ben hangyd hyeBut if \u00feou wilt\n                    amendes make\n",
+            "Note": "\nBurden and stanzas 1, 3, 5, 4.",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             Songs and Carols.\nWarton Club\n         4. London: Richards, 1856: 15-16.\nChambers,  Edmund Kerchever,  and  Frank Sidgwick.  \n             Early English Lyrics\u2026.\n         London: Buller, 1907, 1911 et seq: 186.\nFehr,  Bernhard. \n             \u201cDie Lieder des HS. Sloane 2593.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         109 (1902): 33-72: 45.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 240; 1977, 213.\n\n",
+            "folio": "ff. 6-6v"
+        }
+    }
+}

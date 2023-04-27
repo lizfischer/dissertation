@@ -1,0 +1,25 @@
+{
+    "_id": 1229,
+    "_header": "Every man should teach this lore",
+    "Note": "Directly based on 2300.",
+    "Subjects": "Ten Commandments",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "The Ten Commandments \u2014 twelve quatrains",
+    "_witnesses": {
+        "BLHar665": {
+            "First Lines": "\nEuery man with good ententKepe well Crystys\n                    commeundement\u2026\n",
+            "Last Lines": "\n\u2026In to hys blyss \u00feat we may paaceAt the last day of\n                    iugement\n",
+            "Note": "\nStanza 1 has only two lines. \u201cSit laus & gloris cristo\u201d written above as if for a heading (f. 90).",
+            "Attributed Title": "\nX mandata (f. 90)",
+            "Editions": "\nZupitza,  Julius. \n             \u201cZwei Umschreibungen der Zehn Gebote im mittelenglische Versen.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         85 (1890): 45-8: 45-6.\n",
+            "folio": "ff. 90-90v"
+        },
+        "Lam853": {
+            "First Lines": "\nEUery man schulde teche \u00feis loreTo hise children with good\n                    ententAnd do it him silf euermoreTo kepe weel goddis\n                    comaundement\u2026\n",
+            "Last Lines": "\n\u2026\u00deese ten to kepe \u00feou \u021deue us grace\u00deat on\n                    the roode was al to rentIn to his blis \u00feat we mowe passeAt\n                    \u00fee laste day of Iugement\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Hymns to the Virgin and Christ\u2026and other religious poems.\nEETS\n         o.s. 24 (1867); repr. 1973: 104-5.\n",
+            "folio": "pp. 47-49"
+        }
+    }
+}

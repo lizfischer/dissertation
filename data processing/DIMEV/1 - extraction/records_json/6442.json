@@ -1,0 +1,34 @@
+{
+    "_id": 6442,
+    "_header": "When the game is best",
+    "Note": "Occurs also in 5530.",
+    "Subjects": "proverbs",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A proverbial couplet, translating \u2018Dum ludus bonus est ipsum dimittere prodest\u2019 \u2014 one couplet",
+    "_witnesses": {
+        "Bod9": {
+            "Editions": "\nSchleich,  Gustav,\n                        ed.  \n             \u201cDie sprichw\u00f6rter Hendings und die Prouerbis of Wisdom.\u201d \n             Anglia\n         51 (1927): 220-77: 222.\n",
+            "folio": "f. 99v"
+        },
+        "BodRawPoe32": {
+            "Editions": "\nZupitza,  Julius. \n             \u201cThe Prouerbis of Wysdom.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         90 (1893): 241-68: 245.\n",
+            "folio": "f. 54v"
+        },
+        "BodRawD328": {
+            "Transcription": "\nWhen \u00fee game ys bestyt ys tyme to rest\n",
+            "Note": "\nTranslating \u2018Cum melior iocus est\u2026\u2019, which\n                    follows; English portion all written on one line.",
+            "Editions": "\nMeech,  Sanford Brown. \n             \u201cA Collection of Proverbs in Rawlinson MS D 328.\u201d \n             Modern Philology\n         38 (1940-41): 113-32: 120.\n",
+            "folio": "f. 141v"
+        },
+        "BodDou52": {
+            "Editions": "\nF\u00f6rster,  Max. \n             \u201cDie Mittelenglische Sprichw\u00f6rtersammlung in Douce 52.\u201d \n             Festschrift zum XII Deutschen Neuphilolgentage in M\u00fcnchen\n                1906.\n            E. Stollreither, ed. \n         Erlangen (1906): 40-64: 49.\n",
+            "folio": "f. 21"
+        },
+        "RylandsLat394": {
+            "Transcription": "\nWhen game is bestit is tyme to rest\n",
+            "Note": "\nWritten as one line; Latin follows.",
+            "Editions": "\nPantin,  William A. \n             \u201cA Medieval Collection of Latin and English Proverbs\u2026from Rylands\n                Latin MS. 394.\u201d \n             Bulletin of the John Rylands Library\n         14 (1930): 81-114: 99.\n",
+            "folio": "f. 10v"
+        }
+    }
+}

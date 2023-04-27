@@ -1,0 +1,64 @@
+{
+    "_id": 3890,
+    "_header": "O Father God how fierce and how cruel",
+    "Author(s)": "Thomas Hoccleve",
+    "Title(s)": "\u2018The Lamentation of the grene tre of the losyng of hire appil\u2019",
+    "Subjects": "laments; Virgin Mary, lament of",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "Bibliographic Ghosts": "Cambridge UK, Cambridge University Library Kk.1.6, ff. 73-77v: not in this MS, despite Robbins and Cutler (1965)\nXRossell Hope Robbins, and John L. Cutler. Supplement to the Index of Middle English Verse. Lexington, Kentucky: University of Kentucky Press, 1965 listing with folios.",
+    "_description": "Thomas Hoccleve, \u2018The Lamentation of the grene tre of the losyng of hire appil\u2019 \u2014 forty stanzas rhyme royal",
+    "_witnesses": {
+        "Bod770": {
+            "First Lines": "\nFadir god hou fers & hou cruelIn whom \u00fee list or wilt can\n                    \u00feou \u00fee make\u2026\n",
+            "Last Lines": "\n\u2026\u00feu hast thi wille \u00feis honour \u00fee suffiseIt\n                    schal \u021delde me my frut in goodli wise\n",
+            "Attributed Title": "\nHere compleyne\u00fe \u00fee grene tree vp on \u00fee spoylyng of hir swete\n                    appul (f. 61ra)",
+            "folio": "f. 61ra-63ra"
+        },
+        "OxfCCC237": {
+            "First Lines": "\nO fadyr gode howe fferse and howe cruellIn whome \u00fee lyste or\n                    wylte canste make \u00feu \u00fee make\u2026\n",
+            "Last Lines": "\n\u2026Thowe haste \u00fei will \u00feis onour \u00fee sufficeIt\n                    schall \u021delde me my fruyte in goodly wysse\n",
+            "folio": "f. 84v-88v"
+        },
+        "OxfUni181": {
+            "folio": "f. 90v"
+        },
+        "CamGon124": {
+            "First Lines": "\no ffadir god how ferce & how cruelTo wham \u00fee lyst or wylt\n                    canst \u00feu \u00fee make\u2026\n",
+            "Last Lines": "\n\u2026\u00feu hast \u00fei wil \u00fein honour schal sufficeTo\n                    \u00fee \u021delde me my froyt in godeli wyse\n",
+            "Attributed Title": "\nA lamentacion of \u00fee grene tre compleynyng of \u00fee lesyng of hire\n                    appyl (p. 130)",
+            "folio": "pp. 130-138"
+        },
+        "BLAdd34193": {
+            "First Lines": "\nO fadir gode how fers and how cruelIn whome \u00fee liste or will\n                    canste \u00feou \u00fee make\u2026\n",
+            "Last Lines": "\n\u2026\u00fee \u00feou has \u00fei will \u00feis honor sufficesafe\n                    \u021delde me my fonte in gudely wise\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 63v-66"
+        },
+        "BLEge615": {
+            "First Lines": "\nO fader god how fers & how cruelIn whom the list or wilt canst \u00feu the make\u2026\n",
+            "Last Lines": "\n\u2026Thu hast thy will thin honour schal suffiseTo the i yelde me my fruyt in goodly wise\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             \u201cHoccleve\u2019s Works: The Regement of Princes and fourteen minor\n                poems.\u201d \n             EETS\n         e.s. 72 (1897); repr. 1988: xxxvii-xlv.\n",
+            "folio": "f. 63-67v"
+        },
+        "HatCP270": {
+            "folio": ""
+        },
+        "NYPLSpenc19": {
+            "First Lines": "\nO fader god how fiers and how cruelIn whom the liste or wilt canst\n                    thow the make\u2026\n",
+            "Last Lines": "\n\u2026Thow hast thy wille thyn honour shal suffiseTo the \u021delde\n                    me my fruyt in goodly wise\n",
+            "Attributed Title": "\nA lamentacopin of \u00fee grene tre compleynynge of the lesyng of hir appil\n                    Cap. xxi (f. 81)",
+            "folio": "ff. 81-85"
+        },
+        "HunHM111": {
+            "First Lines": "\n\u2026O Womman \u00feat among the peple speekHow \u00feat the\n                    wombe blessid was \u00feat beer\u2026\n",
+            "Last Lines": "\n\u2026And hath his blood despent in greet foysounAnd al it was for\n                    your Redempcioun\n",
+            "Note": "\nBegins imperfectly, missing stanzas 1-6; 29 stanzas only.",
+            "Attributed Title": "\nCest tout. Ceste conpleynte paramont feust translatee commandement de ma\n                        dame de Hereford que dieu pardoynt (f. 7v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.   Hoccleve\u2019s Works: The Minor Poems. vol. 1.  EETS\n         e.s. 61 (1892); repr. with Gollancz (1925)\nXGollancz,  Israel. \n             Hoccleve\u2019s Works: The Minor Poems. vol. 2.  EETS\n         e.s. 73 (1925); repr. with 61, 1970 73; rev. J.\n            Mitchell and A. Ian Doyle, 1970: 1-8.\n",
+            "folio": "ff. 3-7v"
+        },
+        "MelSLV096G94": {
+            "folio": "f. 161v"
+        }
+    }
+}

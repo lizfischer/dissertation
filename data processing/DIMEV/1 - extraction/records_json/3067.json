@@ -1,0 +1,24 @@
+{
+    "_id": 3067,
+    "_header": "Lex is laid a-down / And veritas is but small",
+    "Note": "See 4427.",
+    "Subjects": "evils of the time; bribery",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "Macaronic": "Latin",
+    "_description": "Evils of the Time \u2014 four lines (aabb)",
+    "_witnesses": {
+        "BodLauMis213": {
+            "folio": "f. 216"
+        },
+        "BodTan407": {
+            "Transcription": "\n\nLex is leyd a downAmor is ful smalCaritas\n                    owte of townVeritas is go with al\n",
+            "Editions": "\nLouis,  Cameron,\n                        ed.  \n             The Commonplace Book of Robert Reynes of Acle: an edition of Tanner MS\n                407.\n         New York: Garland, 1980: 181.\n",
+            "folio": "f. 18"
+        },
+        "YaleBei365": {
+            "Transcription": "\n\nLex ys leyd a-downe And veritas ys but\n                        smallAmor ys owt of TowneAnd Caritas ys gon with\n                    all\n",
+            "Editions": "\n\nSmith,  Lucy Toulmin,\n                        ed.  \n             A Commonplace Book of the Fifteenth Century.\n         Norwich: Kerrison, Goose, 1886: 20.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 347.\n\n",
+            "folio": "f. 81"
+        }
+    }
+}

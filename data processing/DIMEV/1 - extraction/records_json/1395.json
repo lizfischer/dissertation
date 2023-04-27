@@ -1,0 +1,29 @@
+{
+    "_id": 1395,
+    "_header": "For thee man I suffer shame",
+    "Subjects": "Christ, sufferings of; sermons, verse in",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "What Christ suffered \u2014 one couplet in a Good Friday sermon on Amore langueo, possibly by John Bromyard",
+    "_witnesses": {
+        "CULKk424": {
+            "Transcription": "\nffor \u00fee man y suffred schamewoo & peyne & gret\n                    blame\n",
+            "Note": "\nSermon titled dominica in passione vel in die parasceue (p.\n                        144v).",
+            "folio": "f. 147va"
+        },
+        "OxfBal149": {
+            "Transcription": "\nFor \u00fee man y suffre schameWo & peyne & gret\n                    blame\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 35v"
+        },
+        "OxfMagd93": {
+            "Transcription": "\ny for the man suffre shamewoo and peyne and grete blame\n",
+            "Note": "\nWritten as prose in a Latin homily, \u2018Amore\n                    Langueo\u2019.",
+            "folio": "f. 156"
+        },
+        "TCD277": {
+            "Transcription": "\nfor \u00fee I sufferd schamewo & payne & mekyll\n                    blame\n",
+            "Note": "\nSermon titled sermo de passione Cristi in die parasceus facienda\n                    (added, p. 185).",
+            "folio": "p. 193"
+        }
+    }
+}

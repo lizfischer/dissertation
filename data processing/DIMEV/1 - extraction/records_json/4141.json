@@ -1,0 +1,18 @@
+{
+    "_id": 4141,
+    "_header": "Of all the ways that I know by east or by west",
+    "Note": "Singer (1928)\nXSinger, Dorothea Waley. Catalogue of Latin and Vernacular Alchemical Manuscripts. 3 vols. Brussels: Lamertin, 1928-31, 177.",
+    "Author(s)": "Albertus Magnus",
+    "Title(s)": "\u2018Semita Recta\u2019",
+    "Subjects": "alchemy",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "An English translation of the \u2018Semita Recta\u2019 of Albertus Magnus on the Elixir \u2014 thirty-two couplets",
+    "_witnesses": {
+        "CamTCC915": {
+            "First Lines": "\nOff all \u00fee weys \u00feat I knowe be est or be westeEuere holde\n                    I \u00feis path for on of \u00fee beste\u2026\n",
+            "Last Lines": "\n\u2026Half on vnce & {dram} of erucaem \u00feertoAnd Ioyne hem\n                    all to geder so\n",
+            "Attributed Title": "\nSemita recta Albertus parabet testimonium (f.\n                    15v)",
+            "folio": "Part IV, ff. 15v-17"
+        }
+    }
+}

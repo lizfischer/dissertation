@@ -1,0 +1,17 @@
+{
+    "_id": 1387,
+    "_header": "For that use is general",
+    "Title(s)": "Scottish Legendary",
+    "Subjects": "Machor, saint, life of; saints\u2019 lives",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Machor in the Scottish Legendary",
+    "_witnesses": {
+        "CULGg26": {
+            "First Lines": "\nfor \u00feat oyse is generaleIn haly kyrk\n                    vniuersale\u2026\n",
+            "Last Lines": "\n\u2026Out of \u00feis lyf \u00feat I may twynebut schame or deit or\n                    dedly syne\n",
+            "Attributed Title": "\nExplicit wita sancti macharij (f. 208v); morise (RT,\n                        190v-198); machor (RT, 198v-208v)",
+            "Editions": "\n\nHorstmann,  Carl. \n             Altenglische Legenden: Neue Folge.\n         Heilbronn: Henninger, 1881: 189-208.\nMetcalfe,  William Musham,\n                        ed.  \n             Legends of the Saints, in the Scottish dialect of the fourteenth\n                century\u2026.\n             6 pts. in 3 vols. \n             Scottish Text Society\n         13, 18, 23, 25, 35, 37. Edinburgh, London: Blackwood, 1896: 2.1-46.\nMetcalfe,  William Musham,\n                        ed.  \n             The Legends of SS. Ninian and Machor.\n         Paisley: Gardner, 1904: 87-134.\n\n",
+            "folio": "ff. 190v-208v"
+        }
+    }
+}

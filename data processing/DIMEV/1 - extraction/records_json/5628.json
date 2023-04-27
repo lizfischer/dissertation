@@ -1,0 +1,29 @@
+{
+    "_id": 5628,
+    "_header": "They that without law do sin",
+    "Title(s)": "Pricke of Conscience",
+    "Subjects": "sin; instruction, religious",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "An extract of twenty-eight lines from the Pricke of Conscience (lines 6071-6113), occurring separately",
+    "_witnesses": {
+        "BodRawC285": {
+            "First Lines": "\n\u00feai \u00feat withoutene lawe dos syneWithoutene lawe sal perys\n                    \u00fear in\u2026\n",
+            "Last Lines": "\n\u2026\u00fee day of flaynge & grete affray\u00fee day of\n                    partyng fra god foray\n",
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 1.129.\n",
+            "folio": "f. 39"
+        },
+        "CULDd555": {
+            "First Lines": "\n\u00deay \u00feat withouten lawe dos synneWithoutyn lawe sal peris\n                    \u00fe[erynne]ffor at \u00feat dedeful dome sothelySal al ilke aman\n                    hafe \u00feat he is Wurthy\u2026\n",
+            "Last Lines": "\n\u2026\u00dee day of flayinge & grete affraye\u00fee day of\n                    parthynge fra god for ay\n",
+            "Note": "\nquod  Sonwyn (f. 92v, by\n                    original annotator).",
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 1.129.\n",
+            "folio": "f. 101v"
+        },
+        "CULFf540": {
+            "First Lines": "\n\u00deei \u00feat wi\u00feoute lawe don synnewithoute lawe schul\n                    persche \u00feerynne\u2026\n",
+            "Last Lines": "\n\u2026The day of fleynge & gret affray\u00dee day of partyng\n                    from god for ay\n",
+            "Note": "\nWritten two lines of verse per line of manuscript.",
+            "folio": "ff. 97v-98"
+        }
+    }
+}

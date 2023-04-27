@@ -1,0 +1,62 @@
+{
+    "_id": 6795,
+    "_header": "Worlds wealth girt Mary weed",
+    "Note": "For another MS see 3417; for the version in the \u2018expanded\u2019 Cycle see 4189.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Mary Magdalene, saint",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Story of Mary Magdalene: a Narratio in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nWerldli welthe gerte marye wede Whiles scho was \u021donge in hir\n                    fayrehede\u2026 \n",
+            "Last Lines": "\n\u2026Amen saye we now all samene ffor \u00feare es endeles Ioye\n                    and gammen \n",
+            "folio": "ff. 5-7"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nWOrldus weole Made Marie wedeWhil heo was child in hire\n                    feirhede\u2026\n",
+            "Last Lines": "\n\u2026\u00deat may \u021de lerne wi\u00fe oute fableBi a Beest\n                    vnresonable\n",
+            "Note": "\nLines 1-100, followed by unique application.",
+            "Attributed Title": "\nRogabat Ihesu quidam Phareseus (f. 223ra)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDie Evangelien-Geschichten der Homiliensammlung des Ms. Vernon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         57 (1877): 241-316: 299-300.\n",
+            "folio": "ff. 223ra-223va"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nffor werldes welth gert hire do synfull dedeWhiles sche was\n                    \u021donge in hire fayr hede\u2026\n",
+            "Last Lines": "\n\u2026And saue vs on \u00feat dredfull dayAnd graunte vs \u00feat\n                    blisse \u00feat lastes ay\n",
+            "folio": "pp. 6-9"
+        },
+        "CULGg531": {
+            "First Lines": "\nWarldys welth gert mary wedeWhyls scho was yang in here fayre\n                    hede\u2026\n",
+            "Last Lines": "\n\u2026Amen I rede we say all samenffor \u00feare sall be endles\n                    gamne\n",
+            "Note": "\n\u2018Narratio\u2019 in this MS marked eight lines earlier than\n                    first line as here; so for this scribe the narratio began at \u2018Namely be\n                    mari mawdelayne\u2026\u2019.",
+            "Attributed Title": "\nNarracio (f. 10, margin)",
+            "folio": "ff. 10-11v"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nWOrldes weole Made Marie wedeWhil heo was child in hir\n                    feirhede\u2026\n",
+            "Last Lines": "\n\u00deat may \u021de lerne withouten fableBi a best\n                    vnresonable\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 26rb-26va"
+        },
+        "BLAdd30358": {
+            "First Lines": "\nWerldes welth gart mary weideWhyls scho was \u021dong in hyr fayr\n                    heide\u2026\n",
+            "Last Lines": "\n\u2026Amen Amen say we all samenffor \u00feat sall be oure endles\n                    gamon\n",
+            "folio": "ff. 5v-7"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nWorldes welth gert mary wedeWhyles sho yonge was in hir\n                    barnede\u2026\n",
+            "Last Lines": "\n\u2026Amen say we all sammenFfor \u00feat schall be oure endlese\n                    gamen\n",
+            "folio": "ff. 5-6v"
+        },
+        "EDCPCM": {
+            "Editions": "\n\nSmall,  John,\n                        ed.  \n             English Metrical Homilies\u2026.\n         Edinburgh: W. Paterson, 1862: 15-20.\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n\n",
+            "folio": "f. 17vb"
+        },
+        "Lam260": {
+            "First Lines": "\nWErldly welth gert mary wedeWhyles scho was \u021dong in hyre\n                    farhed\u2026\n",
+            "Last Lines": "\n\u2026Amen say we all samenffor \u00feat es ioy & endlys\n                    gamen\n",
+            "folio": "ff. 2vb-3rb"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "_id": 5657,
+    "_header": "This book is draw by physic",
+    "Title(s)": "Virtues of Herbs",
+    "Subjects": "herbals; prefaces, to prose texts",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A verse preface to Macer\u2019s prose Virtues of Herbs \u2014 four lines",
+    "_witnesses": {
+        "CamTCC1037": {
+            "Transcription": "\nThis booke is drawe be ffesykThat Mater made for hem \u00feat been\n                    seek\u00fee vertu of herbis it discryeth ryght welAnd help of mannys\n                    helthe euery dele\n",
+            "Note": "\nWritten as prose.",
+            "Facsimiles": "\n\nDigital Facsimile of Trinity College Cambridge MS O.1.13.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/O.1.13. \n",
+            "Editions": "\nKeiser,  George R. \n             \u201cVerse Introductions to Middle English Medical Treatises.\u201d \n             English Studies\n         84 (2003): 301-17: 315.\n",
+            "folio": "f. 1"
+        },
+        "BLSl963": {
+            "Editions": "\nRohde,  Eleanor Sinclair. \n             The Old English Herbals.\n         London, New York: Longman, Green, 1922: 198.\n",
+            "folio": "f. 85v"
+        }
+    }
+}

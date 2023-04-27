@@ -1,0 +1,36 @@
+{
+    "_id": 6657,
+    "_header": "Whoso woneth him not to good first all in his youth",
+    "Note": "Cf. 1867, and Walther (1963)\nXWalther, Hans. Proverbia sententiaque latinitatis medii aevi. 6 vols. G\u00f6ttingen, 1963-69, 24381.",
+    "Subjects": "sermons, verse in; translations; humility",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A tag in the Fascicu1us morum, translating two Latin hexameters, Qui non assuescit virtuti dum iuenescit, A viciis nescit discedere quanto sensecit, which precede it",
+    "_witnesses": {
+        "Bod410": {
+            "folio": "f. 9v"
+        },
+        "BodLauMis111": {
+            "Transcription": "\nWo so wouch woneth hym nouth to gode frust al in is\n                    \u021doutheVnthewes to leue were to hym in helde ful vnkwthe\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 145.\n",
+            "folio": "f. 64"
+        },
+        "CamStJohn159": {
+            "Note": "\nNot listed in Wenzel (1974)\nXWenzel,  Siegfried. \n             \u201cThe English Verses in the Fasciculus Morum.\u201d \n             Chaucer and Middle English Studies in Honour of Rossell Hope\n                Robbins.\n            \n                \n                    Beryl\n                    Rowland\n                \n            \n         London: Allen & Unwin, 1974: 230-48.",
+            "folio": ""
+        },
+        "EDU82": {
+            "Transcription": "\nWho so woneth hym not to good first in his \u021dowtheVnnethe to leve\n                    were to hym in age full vnkouthe\n",
+            "folio": "f. 19v"
+        },
+        "Lincoln44": {
+            "Transcription": "\nhe \u00feat wones hym noght to gode al hiis yow\u00fee furst in ys\n                    \u021doutheyuel \u00feewes to leue wer to hym in hylde ful\n                    vnlathe\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 162rb"
+        },
+        "WorcF19": {
+            "Editions": "\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.45.\n",
+            "folio": "f. 165vb"
+        }
+    }
+}

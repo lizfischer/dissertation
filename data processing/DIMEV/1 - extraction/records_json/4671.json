@@ -1,0 +1,44 @@
+{
+    "_id": 4671,
+    "_header": "Saint Luke says that Jesu Christ",
+    "Note": "For other MSS see 4669.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Ninth Sunday after Trinity in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Luc telle\u00fe \u00feat Ihesu CristSeide to hem \u00feat\n                    wolde hym list\u2026\n",
+            "Last Lines": "\n\u2026\u00deer we may \u00fee pore seoAnd liue wi\u00fe hym in game\n                    and gleo. AMEN.\n",
+            "Attributed Title": "\nHomo quidam erat diues qui habebat (f. 201rc)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 201rc-201va"
+        },
+        "CULDd11": {
+            "First Lines": "\nSEynt Luke telli\u00fe \u00feat ihesu cristseyde to hem \u00feat\n                    wolde him listA riche man had a reue\u2026\n",
+            "Last Lines": "\n\u2026there we may \u00fee pore folk se& lyue with hem in game\n                    & gle\n",
+            "Attributed Title": "\nDominica Nona Euangelium secundum Lucam (f.\n                    155v)",
+            "folio": "ff. 155v-156v"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nSEint luc telle\u00fe \u00feat Ihesu crist[S]Eide to hem \u00feat\n                    wolde hym list\u2026\n",
+            "Last Lines": "\n\u2026\u00deere we may \u00fee pore seoAnd lyue with hem in game\n                    & gleo. Amen\n",
+            "Note": "\nThe initial \u2018S\u2019 of the second line is supplied by the\n                    illuminated \u2018S\u2019 that opens the first line.",
+            "Attributed Title": "\nHomo quidam erat diues qui habebat (f. 6rc)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 6rc-6va"
+        },
+        "MinULZ822": {
+            "First Lines": "\nSaynt luke says \u00feat ihesu crystesayd tyll \u00feam \u00feat\n                    wald hym lystea ryche man he sayd had a gryafe\u2026\n",
+            "Last Lines": "\n\u2026\u00feat we may \u00fee pour seAnd lyfe with \u00feam in game\n                    and gle\n",
+            "Attributed Title": "\nDominica nona Secundum Lucam (f. 114v)",
+            "folio": "ff. 114v-115v"
+        },
+        "HunHM129": {
+            "First Lines": "\nSeynt Luc seyth \u00feat iesus cristSeyd to ham \u00feat woll hym\n                    lyst\u2026\n",
+            "Last Lines": "\n\u2026\u00deare we may \u00fee pouer seAnd lyue with ham in game\n                    and gle\n",
+            "Attributed Title": "\nDominica nona post festum trinitatis (f. 127)",
+            "folio": "ff. 127-128v"
+        }
+    }
+}

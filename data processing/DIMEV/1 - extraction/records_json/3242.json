@@ -1,0 +1,28 @@
+{
+    "_id": 3242,
+    "_header": "Lordings and ye will lith / Of o thing I shall you kith",
+    "Note": "See also 3244; and for the earlier version of which this is an abridgement see 6871.",
+    "Title(s)": "Merita Misse",
+    "Subjects": "mass, virtues of; miracles; tales",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "Merita Misse \u2014 fifty-three 6-line stanzas",
+    "_witnesses": {
+        "BodDou302": {
+            "First Lines": "\nLordis \u021dif \u021de wil ly\u00feeOf a\u00feing I wil \u021dou\n                    ky\u00fee\u2026\n",
+            "Last Lines": "\n\u2026Ihesu saue \u021dou from te fynd& bryng \u021dour soule\n                    to blis\n",
+            "Note": "\n69 stanzas",
+            "Attributed Title": "\nDe meritis misse quomodo debemus audire missam (f. 10v);\n                        Explicit meritis misse (f. 12rb)",
+            "Editions": "\n\nHalliwell-Phillipps,  James Orchard. \n             The Poems of John Audelay.\nPercy Society\n         14. London: Richards, 1844: 66-81.\nWhiting,  Ella Keats,\n                        ed.  \n             John Audelay: The Poems.\nEETS\n         o.s. 184 (1931); repr. 1988: 65-79.\n\n",
+            "folio": "ff. 10va-12rb"
+        },
+        "BLHar3954": {
+            "First Lines": "\nLOrdyngis & \u021de wyl lytheOf o thyng I xal kythe\u2026\n",
+            "Last Lines": "\n\u2026With \u00fee to wonyn in heuene blysseGod \u00feat boutyst vs dereAmen Amen Amen\n",
+            "Note": "\nPreceded by rubric note: Hic testatur quantum habebis in audiencia misse. Scriptum est omnis semitas per viam quas tu facis veniendo ad ecclesiam ad angelis dei coram omnipotenti deo in regno celorum manifestabuntur (f. 74rb).",
+            "Attributed Title": "\nExplicit Merites misse (rubric, f. 76ra)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 3954.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_3954. \n",
+            "Editions": "\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.59-60 (extract).\n",
+            "folio": "ff. 74rb-73ra"
+        }
+    }
+}

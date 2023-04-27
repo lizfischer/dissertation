@@ -1,0 +1,28 @@
+{
+    "_id": 3122,
+    "_header": "Listeneth now and ye shall hear / Talking of a good matere",
+    "Note": "For other MSS without a prologue see 3245; for others with a 32-line prologue, see 3748.",
+    "Subjects": "prognostications; didactic verse",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Oxford, Bodleian Library Digby 88 (SC 1689), ff. 75-76v: see 3124; London, British Library Harley 1735, (a) f. 13v and (b) ff. 14v-16v: 3124; Oxford, Bodleian Library Ashmole 189 (SC 6777), f. 210: see 3245; London, Wellcome Historical Medical Library 411, f. 1: see 3245.",
+    "_description": "Prognostics from the day on which Christmas falls, with a 16-line prologue \u2014 in couplets",
+    "_witnesses": {
+        "CamTCC600": {
+            "First Lines": "\nBut yit take\u00fee heede andyee shall hereA tale nye acordant to\n                    \u00feis mater\u2026\n",
+            "Last Lines": "\n\u2026He gyve vs grace oure destenye beTo seo him in heven in his\n                    see\n",
+            "Note": "\n126 lines; follow immediately 1593 as if part of same text, but RT changes (pp.\n                    256-7) to \u2018A dyetarie for mans gouernaunce\u2019.",
+            "folio": "pp. 257-261"
+        },
+        "BLSl1315": {
+            "Note": "\n(118 lines)",
+            "Editions": "\nRobbins,  Rossell Hope. \n             \u201cEnglish Almanacks of the XVth Century.\u201d \n             Philological Quarterly\n         18 (1939): 321-31: 330 (extracts).\n",
+            "folio": "f. 65"
+        },
+        "HunHM64": {
+            "First Lines": "\nLIstenythe nowe & ye schall hyreTalkynge of a goode\n                    matere\u2026\n",
+            "Last Lines": "\n\u2026Grawnt vs all thy dire blessyngeThat we maye com to thy\n                    blysse euerlastynge\n",
+            "Note": "\n168 lines",
+            "folio": "ff. 94ra-95rb"
+        }
+    }
+}

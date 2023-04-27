@@ -1,0 +1,21 @@
+{
+    "_id": 6195,
+    "_header": "Welcome Lord in form of bread",
+    "Note": "Compare Lay Folk\u2019s Mass Book (Simmons (1879)\nXSimmons, Thomas Frederick. The Lay Folks\u2019 Mass Book.\nEETS o.s. 71 (1879); repr. 1968), Text F, v. 213 ff.",
+    "Subjects": "prayers, for use in church; Eucharist",
+    "_description": "A prayer at the \u2018leuacion\u2019 \u2014 ten lines",
+    "_witnesses": {
+        "BLEge3245": {
+            "First Lines": "\nWelcome lorde in forme of bredffor me \u00feu \u00feoldist peynful ded\u2026\n",
+            "Last Lines": "\n\u2026The \u00fee precious body of ihesu cristWith myn herte I wurchipe\n",
+            "Attributed Title": "\nHere beginni\u00fe an orysun of deuout entent to be seyd in \u00fee seyng of \u00fee sacrament",
+            "Editions": "\nRobbins,  Rossell Hope. \n             \u201cThe Gurney Series of Religious Lyrics.\u201d \n             PMLA\n         54 (1939): 369-90: 373-4.\n",
+            "folio": "f. 185r1"
+        },
+        "CULGg531": {
+            "Note": "\nAdded into margin.",
+            "Editions": "\nRobbins,  Rossell Hope. \n             \u201cLevation Prayers in Middle English Verse.\u201d \n             Modern Philology\n         40 (1942): 131-46: 139.\n",
+            "folio": "f. 4"
+        }
+    }
+}

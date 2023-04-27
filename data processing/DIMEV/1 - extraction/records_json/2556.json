@@ -1,0 +1,38 @@
+{
+    "_id": 2556,
+    "_header": "In nomine patris god keep me & filii for charity",
+    "Note": "Cf. 3601.",
+    "Author(s)": "John Russell",
+    "Title(s)": "Boke of Kervyng & Nortu",
+    "Subjects": "manners, treatises on; servants, instructions to; courtesy books",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Macaronic": "Latin",
+    "_description": "John Russell, \u2018Boke of Kervyng & Nortur\u2019 \u2014 1250 lines in couplets",
+    "_witnesses": {
+        "BLHar4011": {
+            "First Lines": "\nIn nomine patris god kepe me et filii for chariteEt spiritus sancti\n                    Where that y goo by lond or els by see\u2026\n",
+            "Last Lines": "\n\u2026Now good god graunt vs grace our sowles neuer to\n                    Infecte\u00fean may we regne in \u00fei regioun eternally with thyme\n                    electe\n",
+            "Note": "\nIncludes envoy of 16 lines in couplets; rubric \u2018Amen\u2019\n                    follows last line of text before the envoy (f. 189).",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Boke of Norture, by John Russell, ab. 1460-70 A.D.\nRoxburghe Club\n         87. Bungay: J. Childs and Son, 1867: 1-83.\nFurnivall,  Frederick James,\n                        ed.  \n             The Babees Book, etc.\nEETS\n         o.s. 32 (1868); rev. ed.  Early English Meals and\n                Manners London: Tr\u00fcbner, 1876; repr. 1973: 117-99.\n\n",
+            "folio": "ff. 171-189"
+        },
+        "BLRoy17Dxv": {
+            "Note": "\nLines 5-1016 only.",
+            "folio": "ff. 333-348"
+        },
+        "BLSl1315": {
+            "Note": "\nWants stanza 1 and last 14 stanzas.",
+            "folio": "f. 2"
+        },
+        "BLSl2027": {
+            "folio": "f. 37"
+        },
+        "Chetham8009": {
+            "First Lines": "\n\nIn nomine patris god kep me & filij for\n                        CheriteEt spiritus sancti where I be both by lond & be\n                    see\u2026\n",
+            "Last Lines": "\n\u2026ffor his fadere and moders soule \u00feat ye be prayingeTo\n                    brynge vs to the blis \u00feat never shall haue endynge Amen\n",
+            "Note": "\n227 monorhyming quatrains; 2nd stanza has extra first line.",
+            "Attributed Title": "\nA boke of kervyng And Nourtur (f. 336, centered on otherwise blank page); A\n                    good boke of kervyng and Nortur (f. 337); Explicit the boke off nvrture\n                    And of kervynge quod Ego (f. 355v)",
+            "folio": "ff. 337-355v"
+        }
+    }
+}

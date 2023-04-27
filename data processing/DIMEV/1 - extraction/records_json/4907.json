@@ -1,0 +1,32 @@
+{
+    "_id": 4907,
+    "_header": "Sith the time that Christ Jesu",
+    "Note": "For other texts see 4908 (Second version); 1557 (continuation of the story after Guy\u2019s marriage); 6734.",
+    "Title(s)": "Guy of Warwick",
+    "Subjects": "romances",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Guy of Warwick (First version) \u2014 11,095 lines in couplets.",
+    "_witnesses": {
+        "CamGon107": {
+            "First Lines": "\nSyth the tyme \u00feat cryst jhesuThorough hys grace &\n                    vertu\u2026\n",
+            "Last Lines": "\n\u2026And on owres when we be dedeAnd graunt vs in hevyn to have a\n                    sted\n",
+            "Note": "\nCorresponds in part to 4908.",
+            "Editions": "\nZupitza,  Julius,\n                        ed.  \n             The Romances of Guy of Warwick, from the Auchinleck MS. and the Caius\n                MS.\n             3 vols. \n             EETS\n         e.s. 42 (1883); 49 (1887); 59 (1891); repr. as one vol., 1966. \n",
+            "folio": "pp. 1-271"
+        },
+        "BLSl1044": {
+            "First Lines": "\n\u2026[\u00feei] \u00feonke\u00fe god \u00feat al ha\u00fe\n                    wrou\u021dt[\u00fe]at hym \u00feider to hem ha\u00fe\n                    brou\u021dt\u2026\n",
+            "Last Lines": "\n\u2026And \u00fee weder was myry and bri\u021dtAnd Guy\n                    \u00feou\u021dt him anon ri\u021dt\u2026\n",
+            "Note": "\nA fragment: 216 lines.",
+            "Editions": "\n\nZupitza,  Julius,\n                        ed.  \n             The Romances of Guy of Warwick, from the Auchinleck MS. and the Caius\n                MS.\n             3 vols. \n             EETS\n         e.s. 42 (1883); 49 (1887); 59 (1891); repr. as one vol., 1966. \nZupitza,  Julius. \n             \u201cZur Literaturgeschichte des Guy von Warwick.\u201d \n             \u00f6sterrichische Akademie der Wissenschaften\n                Philosophisch-historische Klasse\n         74 (1873): 623-45: 624-9.\n\n",
+            "folio": "ff. 248-248v"
+        },
+        "NLS1921": {
+            "First Lines": "\n\u2026His lord he serued trewelicheIn al \u00feing\n                    manschipeliche\u2026\n",
+            "Last Lines": "\n\u2026At Warwik \u00fean henge \u00fee heued anonMani [\n                        erased ] man wondred \u00feer apon\n",
+            "Note": "\nProbably began on stub, f. 107, so begins imperfectly; extends to line\n                    7306 but imperfect through omissions.",
+            "Editions": "\n\nTurnbull,  William Barclay David Donald,\n                        ed.  \n             The Romances of Sir Guy of Warwick, and Rembrun his son.\nAbbotsford Club\n         18. Edinburgh, 1840: 1-266.\n Bad Key: Zupitza1883-9. \n\n",
+            "folio": "ff. 108ra-146vb"
+        }
+    }
+}

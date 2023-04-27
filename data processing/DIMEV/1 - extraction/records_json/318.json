@@ -1,0 +1,51 @@
+{
+    "_id": 318,
+    "_header": "All christian people listen and hear",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 113.",
+    "Title(s)": "\u2018Passio Sancti Erasmi\u2019",
+    "Subjects": "Erasmus, saint, passion of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018Passio Sancti Erasmi\u2019 \u2014 172 lines in couplets (including a Prologue of 38 lines)",
+    "_witnesses": {
+        "BodRawPoe34": {
+            "First Lines": "\nAll crystyn folk ye lestyn and hereoff a holy bysschop and a\n                    martyre\u2026\n",
+            "Last Lines": "\n\u2026To wich Ioye & blyss almy\u021dtty god bryng usThorgh\n                    help of \u00feis holy man seynt Erasmus\n",
+            "Attributed Title": "\nExplicitt pascio sancti Erasmi (f. 7ra)",
+            "folio": "ff. 6ra-7ra"
+        },
+        "CULDd11": {
+            "First Lines": "\nAlle cristen folk \u021de listen & lereOf an holy buschop &\n                    a martereWhos name is clepid seynt Erasmus\u2026\n",
+            "Last Lines": "\n\u2026to which ioye & blis good god bring vs\u00deorw help of\n                    \u00feis holy man seynt erasmus\n",
+            "Note": "\n\u2018Ne voceat spasmus michi me iuuet almus erasmus / O sacer\n                        erasme meritis precibus quod regas me\u2019 (as both heading and\n                    colophon, ff. 295, 296v).",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cNachtr\u00e4ge zu den Legenden.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         62 (1879): 397-442: 414-16.\n",
+            "folio": "ff. 295-296v"
+        },
+        "BLAdd36983": {
+            "First Lines": "\nAll cristen folke \u021de listen And lereOf an holy buysshop &\n                    a martere\u2026\n",
+            "Last Lines": "\n\u2026\u00dee name of \u00fee fyrst was callid dioclicianAnd\n                    \u00fee seund was callid maximian\n",
+            "Note": "\nLines 1-50 only.",
+            "Editions": "\nHorstmann,  Carl. \n             Sammlung altenglischer Legenden.\n         Heilbronn: Henninger, 1878: 201.\n",
+            "folio": "ff. 279v-280ra"
+        },
+        "BLHar1671": {
+            "First Lines": "\nOf synt herassimus here may A man redeWhat ioye he may haue and\n                    what mede\u2026\n",
+            "Last Lines": "\n\u2026that ys the blysse of heuene \u00feat neuer schall endegod\n                    yeue ous alle grace \u00feedre to wende\n",
+            "Note": "\nPrologue only, beginning at line 5. Written as prose.",
+            "folio": "f. 1*"
+        },
+        "BLHar2382": {
+            "First Lines": "\nAll Cristen peple listeneth ye & hereOf an holi bisshop and a\n                    martire\u2026\n",
+            "Last Lines": "\n\u2026To which ioy and blisse good god bryng vsthurgh help of\n                    \u00feis holy man seynt Crasmus\n",
+            "Note": "\nScribe writes \u2018amen\u2019 below and to right of final\n                    line; then these Latin verses: \u2018Non noceat facmus / in me innet almus\n                        Crasmus / O sacer Crasme / meritis precibusque regas me /\n                    Explicit\u2019 (f. 111).",
+            "Attributed Title": "\nde sancto Erasmo martire (f. 109)",
+            "Editions": "\nHorstmann,  Carl. \n             Sammlung altenglischer Legenden.\n         Heilbronn: Henninger, 1878: 198-200.\n",
+            "folio": "ff. 109-111"
+        },
+        "BLRoy8Cxii": {
+            "First Lines": "\nAlle crystyn men lystent and hyreof an holy byschope & a\n                    martyr\u2026\n",
+            "Last Lines": "\n\u2026the blys that schall neuer shall endegod \u021deve vs grace\n                    thedyr to wende\n",
+            "Note": "\nWritten as prose. Prologue only.",
+            "folio": "f. 2"
+        }
+    }
+}

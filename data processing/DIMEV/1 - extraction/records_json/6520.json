@@ -1,0 +1,28 @@
+{
+    "_id": 6520,
+    "_header": "While the foot warmeth",
+    "Subjects": "proverbs; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "London, British Library Harley 3362: not in this manuscript.",
+    "_description": "A proverbial saying, translating \u2018Calceus ignescit quando pes igne calescit\u2019 \u2014 one couplet",
+    "_witnesses": {
+        "BodRawD328": {
+            "Transcription": "\nWhen \u00fee wote warmydthan \u00fee scho harmyd\n",
+            "Note": "\nTranslating \u2018Cum pes calessit\u2026\u2019, which\n                    precedes; English portion all written on one line.",
+            "Editions": "\nMeech,  Sanford Brown. \n             \u201cA Collection of Proverbs in Rawlinson MS D 328.\u201d \n             Modern Philology\n         38 (1940-41): 113-32: 122.\n",
+            "folio": "f. 142v"
+        },
+        "OxfBal354": {
+            "Transcription": "\nWhile the fote warmiththe shoe harmith\n",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 128.\n",
+            "folio": "p. 402"
+        },
+        "RylandsLat394": {
+            "Transcription": "\nWhen \u00fee foote warmes\u00fean \u00fee sho harmys\n",
+            "Note": "\nLatin follows.",
+            "Editions": "\nPantin,  William A. \n             \u201cA Medieval Collection of Latin and English Proverbs\u2026from Rylands\n                Latin MS. 394.\u201d \n             Bulletin of the John Rylands Library\n         14 (1930): 81-114: 94.\n",
+            "folio": "f. 4"
+        }
+    }
+}

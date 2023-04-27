@@ -1,0 +1,16 @@
+{
+    "_id": 6403,
+    "_header": "When Saturn with his cold icy face",
+    "Note": "Formerly included under 6322.",
+    "Title(s)": "Chronicle",
+    "Subjects": "chronicles, verses in; Edward II; death",
+    "Versification": "\u2014 seven-line, six-line, two-line, four-line \u2014 ababbcc, aabccb, aa, aaab",
+    "_description": "Edward II\u2019s statement of repentance for his wrongs, translating six lines of Latin verse which precede it, in Part VII of Fabyan\u2019s Chronicle,\nSeptima Pars, Edwardi Secundi \u2014 58 lines in several verse forms, including two stanzas rhyme royal, two six-line stanzas, aabccb, and couplets",
+    "_witnesses": {
+        "HarEng766": {
+            "First Lines": "\nWhan Satourn with his cold Isy faceThe grounde with his ffrostys\n                    tvrnyth the Grene to WhyteThe tyme of wynter which Trees doth\n                    deffaceAnd causeth all verdure to Avoide quyte\u2026\n",
+            "Last Lines": "\n\u2026That when my body vileMy sawle shall exyleThow bryng In\n                    short whileIt in Rest & peas\n",
+            "folio": "ff. 162v-163v"
+        }
+    }
+}

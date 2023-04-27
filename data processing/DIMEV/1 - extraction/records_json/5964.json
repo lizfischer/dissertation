@@ -1,0 +1,25 @@
+{
+    "_id": 5964,
+    "_header": "To all folks virtuous",
+    "Author(s)": "John Lydgate (attrib.)",
+    "Title(s)": "Reson and Sensuallyte",
+    "Subjects": "allegories; chess, game of; Venus; Diana; love, pleasures of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Reson and Sensuallyte, attributed to Lydgate, freely translated from Les Echecs amoureux (lines 1-4873) \u2014 7042 lines in couplets",
+    "_witnesses": {
+        "BodFair16": {
+            "First Lines": "\nTO alle folkys vertuouseThat gentil ben and\n                    amerouse\u2026\n",
+            "Last Lines": "\n\u2026Ther stood a povne of gret renounCallyd\n                    delectacioun\u2026\n",
+            "Attributed Title": "\nReson and sensuallyte compylid by John lydgat (add by hand of 16th century,\n                    f. 202)",
+            "Facsimiles": "\nNorton-Smith,  John. \n             \u201cIntroduction.\u201d \n             Bodleian Library MS Fairfax 16.\n         London: Scolar Press, 1979. \n",
+            "folio": "ff. 202-300"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nto all folkys vertuousethat gentill ben and\n                    amerouse\u2026\n",
+            "Last Lines": "\n\u2026next by the povne of thynkyngeso comfortable in all\n                    thingether stood a povne of gret renonCallyd\n                    delectacion\u2026\n",
+            "Note": "\nEnds incomplete, breaking off after four lines of the description of the\n                    fourth pawn on his side in the chess game between himself and the\n                    damsel.",
+            "Editions": "\nSieper,  E.,\n                        ed.  \n             Lydgate\u2019s Reson and Sensuallyte.\nEETS\n         e.s. 84 (1901); repr. 1965. \n",
+            "folio": "ff. 184-186v"
+        }
+    }
+}

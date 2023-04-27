@@ -1,0 +1,51 @@
+{
+    "_id": 4880,
+    "_header": "Sith all that in this world hath been in rerum natura",
+    "Note": "English and Latin alternate lines; for another version of a portion of this, see 6469; see Walther (1963)\nXWalther, Hans. Proverbia sententiaque latinitatis medii aevi. 6 vols. G\u00f6ttingen, 1963-69, no. 8036.",
+    "Title(s)": "\u2018Esto memor mortis\u2019",
+    "Subjects": "death",
+    "Versification": "\u2014 twelve-line \u2014 ababababcdcd",
+    "Macaronic": "Latin",
+    "_description": "\u2018Esto memor mortis\u2019 \u2014 eighty-four macaronic lines in 12-line stanzas (ababababcdcd)",
+    "_witnesses": {
+        "BodDou126": {
+            "First Lines": "\nAl \u00feat ha\u00fe ben or ys in rerum naturaOr in \u00feis\n                    world ha\u00fe ben sen in hamana cura\u2026\n",
+            "Last Lines": "\n\u2026Te ponet in tumilum tyl domys day to dwelleHoc\n                        relinquis seculum \u00feer ys nat ellys to telle\n",
+            "Note": "\n18 lines, ends imperfectly.",
+            "folio": "f. 91vb"
+        },
+        "CULEe629": {
+            "First Lines": "\nSyth alle \u00feat in \u00feys wordle ha\u00fe beenin rerum\n                        naturaOr in \u00feys wyde wordle was seenin humana\n                    cura\u2026\n",
+            "Last Lines": "\n\u2026Be redy \u00feere for y warne \u00feeDe te peccata\n                        fugando\n\n",
+            "Attributed Title": "\nEsto memor mortis iam porta sit amnibus ortis / Sepe sibi iuuenes\n                        accipit ante sones (f. 21)",
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.138-9.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 239-40.\nStevick,  Robert D.,\n                        ed.  \n             One Hundred Middle English Lyrics.\n         Indianapolis: Bobbs-Merrill, 1964: 81-3.\n\n",
+            "folio": "ff. 21-22"
+        },
+        "CamTCC365": {
+            "First Lines": "\nSen al \u00feat is or wasIn rerum naturaOr in \u00feis\n                    wilde warlde was seyn In humana curaAll sall wende wit owtyn\n                    wene via mortis duraGod leue \u00feat man sall be dene\n                        penas non passura\u2026\n",
+            "Last Lines": "\n\u2026Dulful dede drede wew\nvemet quia nescio quodBe redy to dede I redePeccata\n                        fugando\n\n",
+            "Attributed Title": "\nEsto memor mortis nam porta sit omnibus ortis / Sepe sibi Iuuenes mors\n                        rapit autem senes (f. 195v); Explicit memoraccio bona\n                    (f. 196)",
+            "folio": "ff. 195v-196"
+        },
+        "BLAdd60577": {
+            "First Lines": "\nWhen thou leste wenythe\nveniet mors te superareThus thy grave grenetheErgo mortis\n                        memorare\u2026\n",
+            "Last Lines": "\n\u2026Doolefull deed drede Iveniet mors nescio\n                    quandoTherefore be redye rede Ide te peccata\n                    fugando\n\n",
+            "Note": "\nMissing first four lines and Latin epigraph; written with Latin and\n                    English together on each line (i.e., one line in MS for two lines as written\n                    here); these first lines same as 6469.",
+            "Editions": "\nWilson,  Edward. \n             \u201cIntroduction.\u201d \n             The Winchester Anthology. A Facsimile of British Library Additional\n                Manuscript 60577. With an account of the music by \n                    Iain\n                    Fenlon. \n         Cambridge: D. S. Brewer, 1981. \n",
+            "folio": "ff. 52-52v"
+        },
+        "BLCottCleoDVI": {
+            "Transcription": "\nSithen all that is and hathe bene in rerum naturaAll shall wynde\n                    withoutyn wene via mortis duraGod leaue manne folle be cleane penas non\n                    passura\n",
+            "folio": "f. 4v"
+        },
+        "BLHar3362": {
+            "First Lines": "\nSe\u00feene all \u00feat is or ha\u00fe ben in rerum naturaOr in \u00feys wylde worlde was sene in humana cura\u2026\n",
+            "Last Lines": "\n\u2026Te ponet in tumulum tyl domys day to dwellehoc relinque seculum \u00feer ys nou\u021dt ellys to telle\n",
+            "Note": "\nEighteen lines only in this witness; preceded by Latin couplet, \u201cEsto memor mortis\u2026.\u201d",
+            "folio": "f. 36"
+        },
+        "BLSl1609": {
+            "folio": "f. 56"
+        }
+    }
+}

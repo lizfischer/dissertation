@@ -1,0 +1,22 @@
+{
+    "_id": 550,
+    "_header": "And when the angels thus had done / From the herds to heaven\u2026",
+    "Note": "For the usual version see 245.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Christ, birth of; sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel \u2018In aurora diei natalis domini\u2019, in the \u2018expanded\u2019 Northern Homily Cycle \u2014 in couplets",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 109va"
+        },
+        "BLHar4196": {
+            "First Lines": "\nAnd when \u00fee angels \u00feus had doneffro \u00fee hirdes to heuyn \u00feai parted sone\u2026\n",
+            "Last Lines": "\n\u2026So him to luf here he vs wis\u00deat we may lif in lastand blis\n",
+            "Note": "\nPreceded by Latin, \u201cPastores loquebantur ad inuicem.\u201d",
+            "Attributed Title": "\nIn aurora diei natalis domini Euangelium secundum Lucam (rubric, f. 14ra)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): I.220-227.\n",
+            "folio": "ff. 14ra-15rb"
+        }
+    }
+}

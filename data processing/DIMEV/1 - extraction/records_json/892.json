@@ -1,0 +1,21 @@
+{
+    "_id": 892,
+    "_header": "Bring us home good ale",
+    "Subjects": "proverbs; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A proverbial couplet",
+    "_witnesses": {
+        "RylandsLat394": {
+            "Transcription": "\nBrynge \u00fee oxe to \u00fee halleand he woll to \u00fee\n                    stalle\n",
+            "Note": "\nWritten as one line; translating \u2018Prospicit ad caulam bos tum\n                        ducatur ad aulam\u2019, which follows it.",
+            "Editions": "\nPantin,  William A. \n             \u201cA Medieval Collection of Latin and English Proverbs\u2026from Rylands\n                Latin MS. 394.\u201d \n             Bulletin of the John Rylands Library\n         14 (1930): 81-114: 92.\n",
+            "folio": "f. 2"
+        },
+        "BLHar541": {
+            "First Lines": "\nBrynge home no beff sir for \u00feat ys full of bonysBut brynge home good ale I nowgh for I love wile \u00feat\u2026\n",
+            "Last Lines": "\n\u2026Bryng vs home no sydyr nor no palde wyneffor and \u00feou do thow shalt have crystis curse and myne\n",
+            "Editions": "\nPantin,  William A. \n             \u201cA Medieval Collection of Latin and English Proverbs\u2026from Rylands\n                Latin MS. 394.\u201d \n             Bulletin of the John Rylands Library\n         14 (1930): 81-114: 92.\n",
+            "folio": "f. 214v"
+        }
+    }
+}

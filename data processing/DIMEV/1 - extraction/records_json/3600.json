@@ -1,0 +1,17 @@
+{
+    "_id": 3600,
+    "_header": "My friend after I trow a week or two",
+    "Author(s)": "Thomas Hoccleve",
+    "Subjects": "prologues; moralizing",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Thomas Hoccleve, Prologue to the prose Moralizing upon the tale of Gerelaus \u2014 four stanzas rhyme royal",
+    "_witnesses": {
+        "CovAcc3251": {
+            "First Lines": "\nMI frende affter I trowe a weke or twoThat this tale endid was home\n                    to me\u2026\n",
+            "Last Lines": "\n\u2026And loo in this wise and maner it seithWhich to \u00feat tale\n                    is good be knytte in feith\n",
+            "Note": "\nFollowed by prose moralizing (ff.\n                    56rb-57rb).",
+            "Attributed Title": "\nHere endeth the Prolog And biginnyth the Amoralizinge of \u00fee forsaide\n                    tale (f. 56rb)",
+            "folio": "f. 56ra-56rb"
+        }
+    }
+}

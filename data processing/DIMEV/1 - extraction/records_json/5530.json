@@ -1,0 +1,42 @@
+{
+    "_id": 5530,
+    "_header": "The wise man said to his sons",
+    "Note": "All texts show some variation. Some of the couplets appearing separately in other MSS are listed individually: e.g., 42, 1867, 6442.",
+    "Title(s)": "Prouerbis of Wysdom",
+    "Subjects": "proverbs",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Cambridge UK, Trinity College R.2.59 (559), f. 209v: see 5530-3, f. 209v (below).",
+    "_description": "\u2018Prouerbis of Wysdom\u2019 \u2014 106 lines in couplets",
+    "_witnesses": {
+        "Bod9": {
+            "First Lines": "\n[T]he wysman seyde to hys sonesThenk on \u00feise prouerbis\n                    \u00feat after comes\u2026\n",
+            "Last Lines": "\n\u2026We schal dye we noye how soneTo day a man to morow\n                    none\n",
+            "Editions": "\n\nFurnivall,  Frederick James. \n             \u201cThree Middle English Poems.\u201d \n             Englische Studien\n         23 (1897): 438-45: 442-4.\nSchleich,  Gustav,\n                        ed.  \n             \u201cDie sprichw\u00f6rter Hendings und die Prouerbis of Wisdom.\u201d \n             Anglia\n         51 (1927): 220-77: 221-4.\n\n",
+            "folio": "ff. 99-101v"
+        },
+        "BodRawPoe32": {
+            "First Lines": "\nThe wyse man sayd to his sonnesThynke on the prouerbis after\n                    conys\u2026\n",
+            "Last Lines": "\n\u2026God that sytty\u00fee In TrynyteOn vs al haue mercy &\n                    pyte\n",
+            "Note": "\nIncludes 42, 2363, 3011, 3266, 6442.",
+            "Attributed Title": "\nThis ffolowyng ben the Prouerbis of wysdom (f. 54va)",
+            "Editions": "\nZupitza,  Julius. \n             \u201cThe Prouerbis of Wysdom.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         90 (1893): 241-68: 243-8.\n",
+            "folio": "ff. 54va-55rb"
+        },
+        "CamTCC599": {
+            "First Lines": "\n[T]He wyseman sayd vnto hys sonneThynke on these prouerbys that\n                    sftyr comeWho that no vertew vsethHonoure in age hym\n                    refuseth\u2026\n",
+            "Last Lines": "\n\u2026We shall dy we wote nat howe sooneTo day a man to morow\n                    noone\n",
+            "Note": "\nIncludes several couplets listed separately when in other MSS, including\n                        4798; and see\n                    cross-references.",
+            "Facsimiles": "\n\nFletcher,  Bradford Y. \n             \u201cIntroduction.\u201d \n             Manuscript Trinity R.3.19. A Facsimile.\n         Norman, OK: Pilgrim, 1987. \n\nDigital Facsimile of Trinity College Cambridge MS R.3.19.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.19. \n\n",
+            "folio": "ff. 209v-211"
+        },
+        "Longleat29": {
+            "First Lines": "\nOffe witte & wisedome \u00fee begynnygeys drede of god &\n                    \u00fee endynge\u2026\n",
+            "Last Lines": "\n\u2026These prouerbes of Salomon\u00fee wisest man \u00feat euer\n                    was one\n",
+            "Note": "\nCopied into the lower margins; variant version: 64 lines.",
+            "folio": "ff. 131-146v"
+        },
+        "Leiden": {
+            "folio": "ff. 107v"
+        }
+    }
+}

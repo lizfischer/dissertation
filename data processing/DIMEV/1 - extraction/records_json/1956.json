@@ -1,0 +1,26 @@
+{
+    "_id": 1956,
+    "_header": "Here begins all medicines both sooth and true",
+    "Subjects": "verse introductions; Equine medicing",
+    "Versification": "\u2014 six-line \u2014 aabbcc",
+    "_description": "Verse introduction to an equine remedy book, Medicines for Horses \u2014 three couplets aabbcc",
+    "_witnesses": {
+        "BodWoodEmpt18": {
+            "Transcription": "\nHer begynnis all medesynis bothe sothe and trewyTo knowe & to\n                    hele all sores both olde & newyWhych hath bene prouyde by a man of\n                    pryce\u00deat hath wrytyn in thyse wyseFor \u00fee whyche a lorde of\n                    grete renowneGave hym \u00fee hors schoo wyth \u00fee crowne\n",
+            "Editions": "\nKeiser,  George R. \n             \u201cVerse Introductions to Middle English Medical Treatises.\u201d \n             English Studies\n         84 (2003): 301-17: 316.\n",
+            "folio": "f. 62v"
+        },
+        "BodWoodD18": {
+            "First Lines": "\nHer endyth \u00fee medesynes soth and trewTo hele all horses both\n                    old & new\u2026\n",
+            "Note": "\nThe verses serve as an epilogue in this MS.",
+            "Editions": "\nKeiser,  George R. \n             \u201cVerse Introductions to Middle English Medical Treatises.\u201d \n             English Studies\n         84 (2003): 301-17: 316, n. 31.\n",
+            "folio": "f. 65v"
+        },
+        "BLSl686": {
+            "First Lines": "\nHere endeth \u00fee medicynes soth & trweTo hele all hors sorys\n                    both old & newe\u2026\n",
+            "Note": "\nThe verses serve as an epilogue in this MS.",
+            "Editions": "\nKeiser,  George R. \n             \u201cVerse Introductions to Middle English Medical Treatises.\u201d \n             English Studies\n         84 (2003): 301-17: 316, n. 31.\n",
+            "folio": "f. 65v"
+        }
+    }
+}

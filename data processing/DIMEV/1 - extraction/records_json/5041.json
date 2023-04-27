@@ -1,0 +1,56 @@
+{
+    "_id": 5041,
+    "_header": "Strange men that needeth",
+    "Author(s)": "John Trevisa; Ranulph Higden",
+    "Title(s)": "Polychronicon",
+    "Subjects": "political poems; chronicles, verse in",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Manchester, Chetham\u2019s Library 11379 [Mun. A.6.90]: this copy of Trevisa missing folios between 74 and 75: 74 recto marks II.17 in margin; 75 recto marks \u2018book 3\u2019 in upper margin and folio 76, cap. 28 of book III; Glasgow, Glasgow University Library Hunterian 83 (T.3.21): this is Brut Chronicle, not Trevisa; New York, Pierpont Morgan Library M875 [olim Helmingham Hall]",
+    "_description": "Peaceful England \u2014 26 lines in couplets, in Trevisa\u2019s translation of Higden\u2019s Polychronicon (Book I, chap. 41)",
+    "_witnesses": {
+        "CamStJohn204": {
+            "First Lines": "\nStrounge men \u00feat nede\u00fe\u00deat lond wel ofte\n                    releue\u00fe\u2026\n",
+            "Last Lines": "\n\u2026Riches \u00feat \u00feere is an\u021dern wolde\n                    Octauian\n",
+            "Editions": "\nBabington,  Churchill,  and  Joseph Rawson Lumby, eds.  \n             Polychronicon Ranulphi Higden Monachi Cestrensis.\n             9 vols. \n             Rolls Series\n         41 (1865-66; repr. Kraus, 1964): 2.19-21.\n",
+            "folio": "f. 64va-64vb"
+        },
+        "BLAdd24194": {
+            "First Lines": "\nStronge men \u00feat nedeth\u00feat lond wel ofte\n                    releue\u00feWhan hunger greue\u00fe\u00feat lond alle men suche\n                    fede\u00fe\u2026\n",
+            "Last Lines": "\n\u2026Of likynge \u00feerwonwondre my\u021dt salamonRiches\n                    \u00feat \u00feer is an\u021dern wolde ottaman\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 66va-66vb"
+        },
+        "BLCottTibDVII": {
+            "Transcription": "\nstraange man \u00feat neede\u00fe\u00feat lond wel ofte\n                    releue\u00fewhan honger greue\u00fe\u00feat lond al man such\n                    feede\u00fe\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 39"
+        },
+        "BLHar1900": {
+            "First Lines": "\nStraunge men \u00feat nede\u00fe\u00feat lond wel ofte\n                    releue\u00feWhan honger greue\u00fe\u00feat lond alle men siche\n                    fede\u00fe\u2026\n",
+            "Last Lines": "\n\u2026Of likyng \u00fear wonwondrye my\u021dt salomonRiches\n                    \u00feat \u00fear is an\u021derne wolde Octoman\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 78"
+        },
+        "BLSto65": {
+            "First Lines": "\nStrange men \u00feat nede\u00fe\u00feat lond wel ofte\n                    reuele\u00fe\u2026\n",
+            "Last Lines": "\n\u2026Riches \u00feat \u00feere is an\u021derne wolde\n                    ottauian\n",
+            "Note": "\nWritten as prose. Folio number reflects the most recent\n                    foliation.",
+            "folio": "ff. 29ra-29rb"
+        },
+        "AbeUL21": {
+            "First Lines": "\nStronge men \u00feat nede\u00fe \u00feat lond wel ofte\n                    reseve\u00fe\u2026\n",
+            "Last Lines": "\n\u2026Riches \u00feat \u00feere is an \u021dern wolde\n                    octavian\n",
+            "Note": "\nWritten as prose, but with a paraph at the beginning of each\n                    couplet.",
+            "folio": "ff. 40vb-41ra"
+        },
+        "Schoyen194": {
+            "folio": ""
+        },
+        "HunHM28561": {
+            "First Lines": "\nStraunge men \u00feat nedi\u00fe\u00feat lond wel ofte\n                    releui\u00fe\u2026\n",
+            "Last Lines": "\n\u2026Riches \u00feat \u00fear is an\u021derne wolde\n                    Octauian\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 74vb-75ra"
+        }
+    }
+}

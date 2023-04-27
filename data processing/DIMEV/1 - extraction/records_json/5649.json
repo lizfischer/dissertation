@@ -1,0 +1,35 @@
+{
+    "_id": 5649,
+    "_header": "Thirty days hath November",
+    "Note": "Cf. Terry (1893)\nXTerry, F. C. Birkbeck. \u201cThirty Days Hath September.\u201d Notes and Queries 8th ser. 4 (1893): 77, citing Northall (1892)\nXNorthall, G. F. English Folk-rhymes: A Collection of Traditional Verses Relating to Places and Persons, Customs, Superstitions, etc. London: Kegan Paul, Trench, Tr\u00fcbner & Co., 1892, 530; see also Opie and Opie (1951)\nXIona Archibald Opie, and Peter Opie. The Oxford Dictionary of Nursery Rhymes. Oxford: Clarendon, 1951, 380. Also printed in Grafton (1570)\nXGrafton, Richard. Chronicle. Abridgments. [London]: Richardi Tottyll. Cum priuilegio, [1562]. A variant, with first two lines reversed, pr. in Winter\u2019s Cambridge Almanac for 1635, ed. Halliwell-Phillipps (1839)\nXHalliwell-Phillipps, James Orchard. Rara Mathematica, or, A Collection of Treatises on the Mathematics and Subjects Connected with Them. London: John William Parker, 1839, 119.",
+    "Subjects": "calendar",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The number of days in the twelve months \u2014 two couplets",
+    "_witnesses": {
+        "BLHar2341": {
+            "Editions": "\n\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 62.\nSilverstein,  Theodore,\n                        ed.  \n             Medieval English Lyrics.\n         York Medieval Texts. London: Edw. Arnold, 1971: 144.\nLuria,  Maxwell Sidney,  and  Richard L. Hoffman, eds.  \n             Middle English Lyrics.\n         New York: Norton, 1974: 109.\nGray,  Douglas. \n             The Oxford Book of Late Medieval Verse and Prose.\n         Oxford: Clarendon, 1985: 131.\n\n",
+            "folio": "f. 5"
+        },
+        "NLWMost129": {
+            "Editions": "\n\nHistorical Manuscripts Commission, Report on Manuscripts in the Welsh\n                Language.\n         2 vols. in 7 (1898-1910) [numbered 48 in Guide]: 1.65.\n",
+            "folio": "p. 3"
+        },
+        "RiponCicero": {
+            "Transcription": "\nthirtie daies haith SeptemberAprill Iune and NovemberFebruarie\n                    eight & twentie aloneAll the rest haue thirtie & one\n",
+            "Note": "\nAdded in a later hand on the flyleaf.",
+            "Editions": "\nFowler,  Joseph Thomas. \n             \u201cRipon Minster Library and Its Founder.\u201d \n             Yorkshire Archaeological and Topographical Journal\n         2 (1873): 371-402: 401.\n",
+            "folio": "flyleaf"
+        },
+        "OwstonCooke21": {
+            "Note": "\nListed in Hamer (1995)\nXHamer,  Richard. \n             A Manuscript Index to the Index of Middle English Verse.\n         London: British Library, 1995 as missing, unidentified or\n                    destroyed.",
+            "Editions": "\n\nHistorical Manuscripts Commission, Sixth Report, with Appendix.\n         (1877-78): 419.\n",
+            "folio": "flyleaf"
+        },
+        "HunHU1051": {
+            "Transcription": "\nxxxti days hath NouembreIune aprill & SeptembreOf\n                    xxviii there is but one& all \u00fee remenunt xxxi\n",
+            "Note": "\nWritten two lines of verse per line of manuscript.",
+            "Editions": "\n\n\nHistorical Manuscripts Commission, Report on the Manuscripts of\u2026\n                Ashby de la Zouche.\n         4 vols. (1928-47): 1.419.\nWilson,  W. J. \n             Catalogue of Latin and Vernacular Alchemical Manuscripts in the United\n                States and Canada.\n         Brugis: Officina Sanctae Catharinae, 1939: 427.\n\n",
+            "folio": "f. 48"
+        }
+    }
+}

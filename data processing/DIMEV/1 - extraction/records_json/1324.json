@@ -1,0 +1,23 @@
+{
+    "_id": 1324,
+    "_header": "Fleas flies and friars populum domini male caedunt",
+    "Title(s)": "\u2018Carmina iocosa\u2019",
+    "Subjects": "friars; songs",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Macaronic": "Latin",
+    "_description": "\u2018Carmina iocosa\u2019 \u2014 macaronic lines in couplets",
+    "_witnesses": {
+        "BodDig196": {
+            "Transcription": "\nfflyes fles & fryer[ ] domini male cedu[ ]Thistules &\n                    bryers crescentia gramina laeduntDeus volens guerras s[ed] cunta\n                        pace tueresDestrue per terras flies fles & flaterys\n                    freres\n",
+            "Note": "\nLines 1-4 only; folio damaged with loss of text.",
+            "folio": "f. 196v"
+        },
+        "BLHar3362": {
+            "First Lines": "\nfflen fly\u021des and freris foul falle hem \u00feys fyften \u021deresffor non \u00feat her ys louit flen fly\u021des ne freris\u2026\n",
+            "Last Lines": "\n\u2026Si tibi strok detur wyth a round strok euacueturEt si resiliertectur vertet loke tu quod retribuetur\n",
+            "Note": "\n33 macaronic lines in couplets and partly in code, some with internal rhyme instead of couplets (or shorter lines written two per line of manuscript); in last line \u201cresiliertectur\u201d added above the line.",
+            "Editions": "\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.91-2.\n",
+            "folio": "f. 24"
+        }
+    }
+}

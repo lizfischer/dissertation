@@ -1,0 +1,19 @@
+{
+    "_id": 809,
+    "_header": "Behold mine wounds and have them in thine thought",
+    "Subjects": "Christ, address to humankind",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A knight at the point of death sends a letter to his wife \u2014 verse from an exemplum in Dives and Pauper translating the same Latin distich as that in 810",
+    "_witnesses": {
+        "BodDou295": {
+            "Transcription": "\nBeholde myn woundes and have hem in \u00feine \u00feou\u021dteFor\n                    alle the good \u00feat ben \u00feine with myn blod I haue hem\n                    bou\u021dte\n",
+            "Editions": "\nWoolf,  Rosemary. \n             The English Religious Lyric in the Middle Ages.\n         Oxford: Clarendon, 1968: 48.\n",
+            "folio": "f. 142v"
+        },
+        "BodEngTheold36": {
+            "Transcription": "\nBeholde my woundes and haue hem in \u00fei \u00feou\u021dteffor alle\n                    \u00fee goodis \u00feat ben \u00feine Wi\u00fe my blood Ihaue hem\n                    bou\u021dt\n",
+            "Editions": "\nSheeran,  Francis J. \n             \u201cTen Verse Fragments in Dives and Pauper.\u201d \n             Neuphilologische Mitteilungen\n         76 (1975): 257-70: 264.\n",
+            "folio": "f. 146v"
+        }
+    }
+}

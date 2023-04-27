@@ -1,0 +1,33 @@
+{
+    "_id": 1481,
+    "_header": "Full oft I muse and has in thought",
+    "Author(s)": "William Dunbar",
+    "Title(s)": "\u2018Best to be blyth\u2019",
+    "Subjects": "advice, moral",
+    "Versification": "\u2014 five-line \u2014 aabab",
+    "_description": "William Dunbar, \u2018Best to be blyth\u2019 \u2014 eight 5-line stanzas with refrain, \u2018ffor to be blyth me think it best\u2019",
+    "_witnesses": {
+        "CULLl510": {
+            "First Lines": "\nFull oft I muse and hes in thochtHow \u00feis fals warld is ay on\n                    flocht\u2026\n",
+            "Last Lines": "\n\u2026To pas out of \u00feis fraufull farieffor to be blyth me\n                    think it best\n",
+            "Note": "\n7 stanzas.",
+            "Attributed Author": "\nQuod dumbar (f. 43v)",
+            "folio": "ff. 43-43v"
+        },
+        "CamMagPep2553": {
+            "First Lines": "\nFull oft I mvse and hes in thochthow \u00feis fals warld is ay on\n                    flocht\u2026\n",
+            "Last Lines": "\n\u2026To pas out of \u00feis fraudfull farieffor to be blyth me\n                    think it best\n",
+            "Note": "\n7 stanzas.",
+            "Attributed Author": "\nQuod Dumbar (p. 337)",
+            "Editions": "\n\nSmall,  John, Ae. James George Mackay,  George Powell McNeill,   and  Walter Gregor, eds.  \n             The Poems of William Dunbar.\n             5 pts. \n             Scottish Text Society\n         2, 4, 16, 21, 29. Edinburgh, 1884-93: 2.110-11.\nCraigie,  William Alexander. \n             The Maitland Folio Manuscript, Containing Poems by Sir Richard\n                Maitland, Dunbar, Douglas, Henryson, and others.\n             2 vols. \n             Scottish Text Society\n         n.s. 7 (1919), 20 (1927); Edinburgh and London: Blackwood, 1919,\n            1927: 1.410-11.\n\n",
+            "folio": "p. 337"
+        },
+        "Banna": {
+            "First Lines": "\nffull oft I muse And hes in thochthow this fals warld is ay on\n                    flocht\u2026\n",
+            "Last Lines": "\n\u2026Na tyme bot turne can tak restffor quhais fals\n                    change\u2026\n",
+            "Note": "\nLines 1-9 only; second occurrence in MS.",
+            "Facsimiles": "\nFox,  Denton,  and  William A. Ringler.  \n             The Bannatyne Manuscript: National Library of Scotland Advocates\u2019\n                MS. 1.1.6\n         London: Scolar Press, in Association with The National Library of\n            Scotland, 1980. \n",
+            "folio": "f. 115v"
+        }
+    }
+}

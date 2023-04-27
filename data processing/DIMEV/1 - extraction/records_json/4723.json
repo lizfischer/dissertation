@@ -1,0 +1,68 @@
+{
+    "_id": 4723,
+    "_header": "Saint Matthew the evangelist / Tells us today how Christ",
+    "Note": "For the version in the \u2018expanded\u2019 Cycle see 4939.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Third Sunday after the Octave of Epiphany in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nSaynte mathewe \u00fee euangelisteTellis vs to daye how ihesu\n                    criste\u2026\n",
+            "Last Lines": "\n\u2026Of \u00feir wormis will i tellA tale if \u021de will here my\n                    spell\n",
+            "folio": "ff. 42v-44"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSEint Matheu \u00fee EwangelystTelle\u00fe vs to day hou\n                    crist\u2026\n",
+            "Last Lines": "\n\u2026Of \u00feeos wormes wol I spelleAnd a tale \u021dif \u021de\n                    wol here me telle\n",
+            "Attributed Title": "\nAssendente Ihesu in nauiculam secuti sunt (f.\n                    176vb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 176vb-176vc"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nSEynt Matheu \u00fee euangelistTelles vs \u00feis day howe ihesu\n                    crist\u2026\n",
+            "Last Lines": "\n\u2026And of \u00feese wormes & \u021de wille duelleA litel\n                    tale I wille \u021dowe telle\n",
+            "Attributed Title": "\nDominica quarta post octavam Epiphanie secundum Mathium (p.\n                    69)",
+            "folio": "pp. 69-72"
+        },
+        "CULDd11": {
+            "First Lines": "\nSEynt matthew oe Euangelistetelli\u00fe vs \u00feis day how\n                    crist\u2026\n",
+            "Last Lines": "\n\u2026of these wormys I wile spellea tale if \u021de herin me\n                    telle\n",
+            "Attributed Title": "\nAscendente ihesu in nauiculam & cetera (f. 70)",
+            "folio": "ff. 70-71"
+        },
+        "CULGg531": {
+            "First Lines": "\nSant Mathu \u00fee euangelysteTels vs today of ihesu\n                    criste\u2026\n",
+            "Last Lines": "\n\u2026Of \u00feir wormes wyll I tellA tale If \u021de will here my\n                    spell\n",
+            "Attributed Title": "\nDominica iiiia post octabas epiphanie secundum Matheum\n                    (f. 41)",
+            "folio": "ff. 41-42"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nSaint matheu and \u00fee ewangelysteTelles vs to day of ihesu\n                    cryste\u2026\n",
+            "Last Lines": "\n\u2026Off \u00feeir wormes will I tellA tale yf \u021de wyll her my\n                    spell\n",
+            "folio": "ff. 39-40v"
+        },
+        "EDCPCM": {
+            "First Lines": "\nsAin matheu \u00fee wangelisteTellis us to dai hou\n                    crist\u2026\n",
+            "Last Lines": "\n\u2026And of eir wormes wil I tellA tal yef ye wil her mi\n                    spelle\n",
+            "Attributed Title": "\nDominica iiia post octavam epiphanie secundum matheum (f.\n                        32ra)",
+            "Editions": "\n\nSmall,  John,\n                        ed.  \n             English Metrical Homilies\u2026.\n         Edinburgh: W. Paterson, 1862: 134-8.\nMorris,  Richard,\n                        ed.  \n             Specimens of Early English A.D. 1250-A.D. 1400.\n         Oxford, 1867 [See also Morris  and  Skeat (1882)\nXRichard Morris,   and  Walter William Skeat.  \n             Specimens of Early English , Pt. I, A.D. 1150-A.D.1300.\n         Oxford: Clarendon, 1882, 2nd ed. 1885; Pt. II, A.D. 1298-A.D.1393,\n            Oxford: Clarendon, 1872, 2nd ed. 1894; Pt. III. Orig. published separately,\n            1871]: 151-4.\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n\n",
+            "folio": "ff. 31ra-32vb"
+        },
+        "Lam260": {
+            "folio": "f. 15vb"
+        },
+        "MinULZ822": {
+            "First Lines": "\nSaynt mathew \u00fee euangilestetelles vs to day of ihesu\n                    criste\u2026\n",
+            "Last Lines": "\n\u2026and of \u00feise wormes wyll I tella tale ic yfe \u021de wyll\n                    here my spell\n",
+            "Attributed Title": "\nDominica iija post octavas Epiphanie Secundum Matheum (f.\n                    14)",
+            "folio": "ff. 14-15v"
+        },
+        "HunHM129": {
+            "First Lines": "\nSeint mathew \u00fee wangelystTellyth vs to day who\n                    crist\u2026\n",
+            "Last Lines": "\n\u2026Of \u00feir wormys wil I \u021dow tellA tale \u021dyff\n                    \u021de wil hyre my spell\n",
+            "Attributed Title": "\nDominica quarta post octavam epiphanie (f. 32)",
+            "folio": "ff. 32-33v"
+        }
+    }
+}

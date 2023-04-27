@@ -1,0 +1,57 @@
+{
+    "_id": 1812,
+    "_header": "Have mind on thine ending",
+    "Note": "See 1803 for another translation of the same text, and cf. Whiting (1968)\nXWhiting, Bartlett Jere. Proverbs, Sentences, and Proverbial Phrases from English Writings Mainly before 1500. Cambridge, MA: Belknap, 1968, E.87.",
+    "Subjects": "mortality; sermons, verse in; scripture texts, Engl. trans. of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A tag in the Fasciculus morum translating \u2018Memorare nouissima et in eternum non peccabis\u2019 (Ecclesiastes 7.40)",
+    "_witnesses": {
+        "Bod416": {
+            "Transcription": "\nHaue mynde of \u00fein ende& euer fro synne \u00feu may\n                    wende\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 11"
+        },
+        "BodLauMis111": {
+            "Transcription": "\nhaue in mynde on \u00feyn hendeand euere fro senne yow myth\n                    wende\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 67"
+        },
+        "BodLauMis213": {
+            "Transcription": "\nhaue mynde of thyn endeand euer fro synne \u00feu myth\n                    wende\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 14"
+        },
+        "BodRawC670": {
+            "Transcription": "\nHave mynde on \u00feyn [ende]& euer fro synne \u00feou myght\n                    wende\n",
+            "Editions": "\n\nWoolf,  Rosemary. \n             The English Religious Lyric in the Middle Ages.\n         Oxford: Clarendon, 1968: 86.\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 153.\n\n",
+            "folio": "f. 21v"
+        },
+        "CamGon71": {
+            "folio": "f. 20v"
+        },
+        "CamStJohn159": {
+            "Transcription": "\nhaue \u00feu mynd on \u00fein endeand euyr fro syn \u00feu may\n                    wynde\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 45v"
+        },
+        "EDU82": {
+            "Transcription": "\nhaue mynde of thy endeAnd euer fro syn \u00feu may wende\n",
+            "folio": "f. 22v"
+        },
+        "Lincoln44": {
+            "Transcription": "\nhaue \u00feu mynd on \u00fey eyndand euer fro syn \u00feu my\u021dth\n                    weynd\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 163va"
+        },
+        "WorcF19": {
+            "Transcription": "\nhaue mi[n]de on \u00feyn endeAnd fro sinne \u00feu my\u021dt\n                    wende\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 163ra"
+        },
+        "Spalding": {
+            "Transcription": "\nHaue mynde of \u00fein ende& fro synne \u00feu may\n                    wynde\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 19"
+        }
+    }
+}

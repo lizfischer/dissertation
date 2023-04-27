@@ -1,0 +1,16 @@
+{
+    "_id": 4829,
+    "_header": "She was fairest of all",
+    "Subjects": "romances",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "Two fragments from a romance of Apollonius of Tyre \u2014 about 140 lines in quatrains",
+    "_witnesses": {
+        "BodDou216": {
+            "First Lines": "\n\u00feat \u00fee citesaynes wit gret deol hadde write hit to fore oure\n                    ey\u021deAppolyn gan to calle tarse dou\u021dter wher euere \u00feou\n                    be\u2026\n",
+            "Last Lines": "\n\u2026[ ] reide he payne of helle o god lord & persones\n                    \u00fereo\u00fee blysse of heuene dwelle amen per charite\n",
+            "Attributed Title": "\nExplicit Appollonius tyrus Rex nobilis & vertuosus et cetera (at\n                    the end)",
+            "Editions": "\n\nHalliwell-Phillipps,  James Orchard. \n             A New Boke about Shakespeare.\n         London and Stratford-upon-Avon, 1850: 1-13.\nSmyth,  Albert Henry. \n             Shakespeare\u2019s Pericles and Apollonius of Tyre.\n         Philadelphia: MacCallam, 1898: 249-55.\nRaith,  Josef,\n                        ed.  \n             Die alt- und mittelenglischen Apollonius-Bruchst\u00fccke.\nStudien und Texte zur englischen Philologie\n         3. Munich: Huber, 1956: 78-84.\n\n",
+            "folio": "second fragment"
+        }
+    }
+}

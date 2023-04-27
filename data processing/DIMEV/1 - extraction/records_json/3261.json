@@ -1,0 +1,15 @@
+{
+    "_id": 3261,
+    "_header": "Lou lou lou where he goes",
+    "Note": "Written twice, under each musical part.",
+    "Subjects": "songs",
+    "Versification": "\u2014 three-line \u2014 aab",
+    "_description": "A two-part song, inserted in a Latin grammatical text \u2014 three lines",
+    "_witnesses": {
+        "TCD270": {
+            "Transcription": "\nLou lou lou wer e gozA lou lou lou were gozfor hyr iles myn\n                    aly[w]ater ter ter lou\n",
+            "Editions": "\nDobson,  Eric John,  and  F. L. Harrison.  \n             Medieval English Songs.\n         New York: Cambridge UP, 1979: 198.\n",
+            "folio": "f. 37v"
+        }
+    }
+}

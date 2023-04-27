@@ -1,0 +1,18 @@
+{
+    "_id": 6509,
+    "_header": "Which had that affiance and inspiration",
+    "Author(s)": "John Pigott",
+    "Title(s)": "Chronicle of Worksop Abbey",
+    "Subjects": "chronicles",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "The founding of Worksop Abbey, a chronicle by the monk Pigott \u2014 twenty-six stanzas rhyme royal",
+    "_witnesses": {
+        "BLLan205": {
+            "First Lines": "\nWhich had that affiance and inspirationThe monasterie of worssoppe\n                    firste to be founde\u2026\n",
+            "Last Lines": "\n\u2026In our Ladie Quene let Northampton slaineThe tenth daie of\n                    Julie it is not to Lane\n",
+            "Note": "\nLondon,  British Library Lansdowne 205 is transcription, 1587; original MS\n                    lost.",
+            "Attributed Title": "\nWorksoppe Abbay (f. 167v)",
+            "folio": "ff. 167v-169"
+        }
+    }
+}

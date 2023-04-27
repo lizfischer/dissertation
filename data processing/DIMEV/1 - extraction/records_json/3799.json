@@ -1,0 +1,20 @@
+{
+    "_id": 3799,
+    "_header": "Now slights of cure will I preach",
+    "Note": "For excerpts, see 1420, 5104, 5106, 6721.",
+    "Title(s)": "Liber Cure Cocorum",
+    "Subjects": "recipes, culinary",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Liber Cure Cocorum, a collection of 127 recipes \u2014 1429 lines in couplets, with a Prologue of 14 lines",
+    "_witnesses": {
+        "CamMagPep1047": {
+            "Note": "\nExcerpts",
+            "Facsimiles": "\nHodgett,  G. A. J.,\n                        ed.  \n             Stere Htt Well: a book of medieval refinements, recipes and remedies,\n                from a manuscript in Samuel Pepys\u2019s library.\n         Adelaide: Mary Martin Books, [1970?]; Cambridge, 1972. \n",
+            "folio": "ff. 15-16"
+        },
+        "BLSl1986": {
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             Liber Cure Cocorum.\nPhilological Society.\n         Berlin: Asher, 1862: four extracts printed by Hammond (1912)\nXHammond,  Eleanor Prescott. \n             \u201cLydgate\u2019s Prologue to the Story of Thebes.\u201d \n             Anglia\n         36 (1912): 360-76,\n                        372-4.\n",
+            "folio": ""
+        }
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "_id": 4549,
+    "_header": "Saint Benedict he was I-bore in the land of Nursia",
+    "Note": "For a variant text in some MSS see 4560.",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Benedict of Nursia, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Benedict in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "BodAddC38": {
+            "folio": "f. 69v"
+        },
+        "BodAsh43": {
+            "First Lines": "\nSEyn benet was ibore in \u00fee lond of mursieTo rome he was wel\n                    \u021dong isend to lerny of clergie\u2026\n",
+            "Last Lines": "\n\u2026Nou god uor \u00fee loue of seynt benet ous lete \u00feen wei\n                    wende& to \u00fee Ioie \u00feat he is Inne to him come aten\n                    ende\n",
+            "Attributed Title": "\nseyn Benet (f. 47)",
+            "Editions": "\n\nMcCann,  Justin. \n             \u201cEarly English Verses on St. Benedict.\u201d \n             Downside Review\n         41 (1928): 44-56: 48-53 (with corrections from Oxford,  Corpus Christi College 431).\nWhatley,  Gordon E.,\n                        ed.  \n             Saints\u2019 Lives in Middle English Collections.\n         With Anne B. Thompson and Robert K. Upchurch. MI: Western Michigan\n            University for TEAMS, 2004. \n\n",
+            "folio": "ff. 46-48v"
+        },
+        "Bod779": {
+            "First Lines": "\nSeint benet was I bore in \u00fee lond of vrcyeto rome he was wel\n                    \u021dong I sent to lerne clergye\u2026\n",
+            "Last Lines": "\n\u2026Now god for \u00fee loue of seint benet vs lete \u00feat wey to\n                    wende& to \u00fee ioye \u00feat he is in to hym come at \u00fee\n                    ende\n",
+            "Attributed Title": "\nSeint benet \u00fee holi monk (f. 135)",
+            "folio": "ff. 135-136v"
+        },
+        "BodLauMis463": {
+            "First Lines": "\nSEint benet was y bore in lond of mursyeto Rome he was wel y send\n                    to leorne clergye\u2026\n",
+            "Last Lines": "\n\u2026Now gor [sic] for \u00fee loue of seint B vs let \u00feat\n                    way wendeAnd to \u00fee ioye \u00feat he in is Comme atte nende\n",
+            "Note": "\nTwo columns per page, one full-line, the other half-line.",
+            "folio": "ff. 23va-24vb"
+        },
+        "BodTan17": {
+            "First Lines": "\nSEint benet was born in \u00fee lond of vrsyeTo rome he was wol\n                    \u021dong sent for to lere clergie\u2026\n",
+            "Last Lines": "\n\u2026God for \u00fee loue of seint benyt lete vs \u00feat wei\u021de\n                    wendeAnd to \u00fee ioye \u00feat he is inne to him mote we comme atte\n                    ende\n",
+            "folio": "ff. 43v-45v"
+        },
+        "OxfCCC431": {
+            "First Lines": "\nSeint beneth was ibore in \u00fee lond of musieTo Rome he was wel\n                    \u021donge isend to lerne of clergie\u2026\n",
+            "Last Lines": "\n\u2026him firu sulf he strupte anon among \u00feornes he him\n                    ta[ ]& brumeles & turnde him here & \u00feer & al his fleis\n                    to r[ ]\u2026\n",
+            "Note": "\nEnds imperfectly due to lost leaves at end of volume; ends of lines\n                    cropped or worn.",
+            "Attributed Title": "\nDe sancto denedicto (f. 43v)",
+            "Editions": "\nD\u2019Evelyn,  Charlotte,  and  A. J. Mill, eds.  \n             The South English Legendary: Corpus Christi College Cambridge MS. 145\n                and British Museum MS. Harley 2277, with variants from Bodley MS. Ashmole 43 and\n                British Museum MS. Cotton Julius D.ix.\nEETS\n         o.s. 235 (1959), 236 (1956); repr. 1967: 1.122.\n",
+            "folio": "f. 43v"
+        },
+        "OxfTri57": {
+            "First Lines": "\nSeint Benet was ybore in \u00fee lond of vrsyeTo rome he was wel\n                    \u021dong y sent to lerne clergye\u2026\n",
+            "Last Lines": "\n\u2026Now god for \u00fee loue of Seint Benet vs lete \u00fee wey\n                    wendeAnd to \u00fee ioye \u00feat he ys ynne come at \u00fee\n                    ende\n",
+            "Attributed Title": "\nVita Sancti Benedicti Abbatis (rubric marginal note by scribe, f.\n                        3v); Benedictus (RT)",
+            "folio": "ff. 3v-5"
+        },
+        "CamCCC145": {
+            "First Lines": "\nSein benet him was ibore in \u00fee lond of murcieTo rome he was\n                    wel \u021dong ysend to lerin of clergie\u2026\n",
+            "Last Lines": "\n\u2026Nou god for loue of sein benet us lete \u00feane wel wendeAnd\n                    to \u00fee ioie \u00feat he is Inne to him come atte nende\n",
+            "folio": "ff. 46-48"
+        },
+        "CamMagPep2344": {
+            "First Lines": "\nSeint Benet was ybore in \u00fee lond of MurcyeTo Rome he was wel\n                    \u021dong ysend to leorne of clergye\u2026\n",
+            "Last Lines": "\n\u2026Now god ffor \u00fee loue of Seint Benet vs lete \u00fean wey\n                    wendeAnd to \u00fee ioye \u00feat he is ynne to him come atten\n                    ende\n",
+            "Attributed Title": "\nBenedictus (RT)",
+            "folio": "pp. 175-179"
+        },
+        "CamTCC605": {
+            "First Lines": "\nSEint benet was ybore in \u00fee toune of mersyeTo rome he was\n                    Yonge sende to lerne clergie\u2026\n",
+            "Last Lines": "\n\u2026Now god for \u00fee loue of hym ous lete \u00feat wey\n                    wende& to \u00feat ioie \u00feat he is Inne to hym come atte\n                    nende\n",
+            "Note": "\nFolio 52* is next after folio 52.",
+            "Attributed Title": "\nBenet (RT)",
+            "folio": "ff. 51v-52*"
+        },
+        "BLAdd10301": {
+            "First Lines": "\nSEin Benet he was y bore in \u00fee lond of murcieTo Rome he was\n                    wel \u021dong y sende to lerny of clergie\u2026\n",
+            "Last Lines": "\n\u2026Nou god for loue of seint benet vs let \u00feat wey wendeAnd\n                    to \u00fee Ioye \u00feat he is Inne to him come atte ende\n",
+            "Attributed Title": "\nDe sancto Benedicto (f. 56, by scribe in margin beside first line);\n                        Benedictus (RT)",
+            "folio": "ff. 56-58v"
+        },
+        "BLCottJulDIX": {
+            "First Lines": "\nSEint benet he was ibore in \u00fee lond of mursieto rome he was wel \u021dong isent to lerne of clergie\u2026\n",
+            "Last Lines": "\n\u2026nou god for \u00fee loue of seint benet ous late \u00feeb wei wende& to \u00fee ioie \u00feat he is Inne to him come atte nende\n",
+            "Note": "\n\u201cCapitulum xxiiii\u201d added to left margin by later hand (f. 49v).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Julius MS D IX.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Julius_D_IX. \n",
+            "folio": "ff. 49v-52"
+        },
+        "BLEge1993": {
+            "First Lines": "\nSeint Benet was ibore in \u00fee toun of MersieTo rome he was \u021dong sent to lerne clergie\u2026\n",
+            "Last Lines": "\n\u2026Now god for \u00fee loue of him vs lete \u00feat weie wendeAnd to \u00fee ioie \u00feat he is inne to him come ate nende\n",
+            "Note": "\nEnds \u201cAmen\u201d after penultimate line (f. 131).",
+            "folio": "ff. 129-131"
+        },
+        "BLEge2810": {
+            "First Lines": "\nSEint benet was ybore in \u00fee londe of vrsteTo Rome he was wel \u021donge ysend to lerne clergie\u2026\n",
+            "Last Lines": "\n\u2026Nou god vor \u00fee loue of seint benet ous lete \u00fean wey wendeTo \u00fee ioye \u00feat he is inne \u00feat lesti\u00fe wy\u00feoute ende\n",
+            "Note": "\nPart of text inserted on a half-sized leaf (f. 46-46v) between ff. 45 and 47: 35 lines beginning \u201c\u00feer beside was a prest \u00feat hat florentyne\u201d; ends \u201cAmen.\u201d",
+            "folio": "ff. 43v-45v"
+        },
+        "BLEge2891": {
+            "First Lines": "\nSEyn benet hym was ybore in \u00fee lond of murcyeTo rome he was wel \u021dong ysend to leorny of clergie\u2026\n",
+            "Last Lines": "\n\u2026A ston hy founde swu\u00fee fair to hore work wel god & cleneAl \u00fee folk \u00feat \u00feere was ne mi\u021dte him heble of ene\u2026\n",
+            "Note": "\nEnds incomplete, due to loss of folio or folios between 38 and 39.",
+            "Attributed Title": "\nDe sancto Benedicto (rubric in margin, f. 38)",
+            "folio": "f. 38-38v"
+        },
+        "BLHar2277": {
+            "First Lines": "\n\u2026Ac \u00fee Message was vnhende \u00feat o coftret for\u00fe he ber\u00deat o\u00feer he hudde bi \u00fee wey to nyme hamward \u00feer\u2026\n",
+            "Last Lines": "\n\u2026Nou god for \u00fee loue of Seint benett ous lete \u00feane wey wende& to \u00fee ioye \u00feer he is inne Come att an ende\n",
+            "Note": "\nBegins imperfectly; ends \u201cAmen.\u201d",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 2277.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_2277. \n",
+            "folio": "ff. 1-1v"
+        },
+        "TokyoTak54": {
+            "First Lines": "\nSeynt Benet was yboor in \u00fee lond of nurcyeTo Rome was he\n                    \u00feough ysent to lerne clergie\u2026\n",
+            "Last Lines": "\n\u2026God for \u00fee loue of seynt Benet vs lete \u00feat way\n                    wendeTo \u00fee ioye \u00feer he is Inne we come at last eende.\n                    Amen.\n",
+            "folio": "ff. 38-39"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "_id": 4416,
+    "_header": "Princess most excellent born of blood royal",
+    "Subjects": "Worthies, Nine; pageant verses; occasional verse; Coventry, pageant at; Margaret, queen of England",
+    "Versification": "\u2014 seven-line, four-line \u2014 ababbcc",
+    "_description": "Ceremonial Verses (including the Nine Worthies) at the Coventry Pageant (1456) to welcome Queen Margaret \u2014 sixteen stanzas rhyme royal and three quatrains",
+    "_witnesses": {
+        "CovLeet": {
+            "First Lines": "\nPrinces most excellent born of blode riallChoson quene of this\n                    region conforte to all hus\u2026\n",
+            "Last Lines": "\n\u2026Calle on me boldly \u00feerof I pray youAnd trist to me\n                    feythefully I woll do \u00feat may pay yow\n",
+            "Editions": "\n\nSharp,  Thomas. \n             A Dissertation on the Pageants\u2026performed at Coventry.\n         Coventry: Merridew, 1825: 145-51.\n Bad Key: Harris1908: 287-92.\nCraig,  Hardin,\n                        ed.  \n             Two Coventry Corpus Christi Plays.\nEETS\n         e.s. 87 (1902; 2nd ed. 1957); repr. 1967: 110-14.\nLoomis,  Roger Sherman. \n             \u201cVerses on the Nine Worthies.\u201d \n             Modern Philology\n         15 (1917-18): 211-19: 217-18 (extracts).\n\n",
+            "folio": "ff. 168v-170v"
+        }
+    }
+}

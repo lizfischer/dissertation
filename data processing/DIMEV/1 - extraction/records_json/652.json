@@ -1,0 +1,21 @@
+{
+    "_id": 652,
+    "_header": "As Jesu went throughout the land",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line",
+    "_description": "Gospel for Wednesday after Third Sunday in Lent, in \u2018expanded\u2019 Northern Homily Cycle \u2014 in couplets",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 145ra"
+        },
+        "BLHar4196": {
+            "First Lines": "\nAls ihesu crist went thurghout \u00fee landPrecheand to folk \u00feat he fand\u2026\n",
+            "Last Lines": "\n\u2026\u00feat files noght aman with inffor in \u00feat dede he dose no syn\n",
+            "Note": "\nPreceded by Latin, \u201cAccesserunt ad ihesum ab ierosolimis.\u201d",
+            "Attributed Title": "\nfferia iiii post dominicam iii quadragesime Secundum Matheum (rubric, f. 49rb)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): II.71-74\n                    .\n",
+            "folio": "ff. 49rb-49vb"
+        }
+    }
+}

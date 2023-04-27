@@ -1,0 +1,22 @@
+{
+    "_id": 314,
+    "_header": "All childer that will clergy con",
+    "Title(s)": "Distiches",
+    "Subjects": "precepts, moral",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "Cato\u2019s Distiches \u2014 in 6-line stanzas",
+    "_witnesses": {
+        "BodAddA106": {
+            "First Lines": "\nAll chylder \u00feat wyll clergy koneTake hed how Catoun benned his\n                    soneOf lely lyuyng to lereFor to hym he told many a\n                    skyll\u2026\n",
+            "Last Lines": "\n\u2026God graunte hym heuen to his medWher euer is\n                    myrth\n",
+            "Editions": "\n\nF\u00f6rster,  Max. \n             \u201cEin neuer mittelenglische Cato.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         145 (1923): 208-12: 208 (selections).\nHorrall,  Sarah M. \n             \u201cChristian Cato: A Middle English Translation of the Disticha\n                Catonis.\u201d \n             Florilegium\n         3 (1981): 158-97: 158-97.\n\n",
+            "folio": "ff. 15v-27v"
+        },
+        "BodFair14": {
+            "First Lines": "\n\u2026if \u00feou be made wittenessefor to say \u00feat so\u00fe\n                    is\u2026\n",
+            "Last Lines": "\n\u2026\u00deow wondris in \u00fei witte\u00feat I wrate \u00feis\n                    writtein twa versis nakid\u2026\n",
+            "Note": "\nBegins imperfectly due to the loss of folios; ends half way through a\n                    stanza, with space left on folio for more.",
+            "folio": "ff. 122ra-123vb"
+        }
+    }
+}

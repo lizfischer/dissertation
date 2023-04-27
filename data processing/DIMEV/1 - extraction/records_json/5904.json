@@ -1,0 +1,20 @@
+{
+    "_id": 5904,
+    "_header": "Three things me cometh a day",
+    "Note": "For other versions, see 1157, 2707, 5902, 5905, 5906, 6341.",
+    "Subjects": "three sorrowful things; sermons, verse in",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Three sorrowful things \u2014 three couplets",
+    "_witnesses": {
+        "OxfLinLat129": {
+            "Transcription": "\nThre thyngys me comyth a dayWherefore y sorow & wel y\n                    mayThat on ys \u00feat y schal henneThat o\u00feer ys y wote neuer\n                    wanneThe thryd ys most careI whote no\u021dt how y schal\n                    fare\n",
+            "Note": "\nWritten one couplet per line in the MS; translating Latin \u2018Sunt\n                        tria vere faciunt me sepe dolere\u2026\u2019, which\n                    follows.",
+            "folio": "f. 114"
+        },
+        "YaleBei15": {
+            "Transcription": "\n\u00fere ty \u00feynges me cometh a day\u00feat on ys I haue y noth\n                    nere wanne\u00feat \u00ferydde yn ys off michil care\u00feat I schal\n                    wony y not nere ware\n",
+            "Note": "\nWritten as prose; two lines apparently missing (scribe lost place in\n                    turning page?).",
+            "folio": "ff. 91-91v"
+        }
+    }
+}

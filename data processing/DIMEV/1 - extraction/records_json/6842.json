@@ -1,0 +1,26 @@
+{
+    "_id": 6842,
+    "_header": "Ye that lengen in land Lords and other",
+    "Note": "For further fragments of another text see 6306; for another fragment from the same original text see Oxford, Bodleian Library Bodley 264 (SC 2464) below [olim Brown and Robbins (1943)\nXCarleton Fairchild Brown, and Rossell Hope Robbins. The Index of Middle English Verse. New York: Printed for the Index Society by Columbia University Press, 1943 4262B].",
+    "Title(s)": "The Story of Alexander and Dindimus",
+    "Subjects": "romances; fragments",
+    "Versification": "\u2014 alliteration",
+    "_description": "Fragment of a romance of Alexander: \u2018The Story of Alexander and Dindimus\u2019 \u2014 in alliterative lines",
+    "_witnesses": {
+        "Bod264": {
+            "First Lines": "\nWhan \u00feis weith at his wil weduring haddeFul ra\u00fee rommede\n                    he rydinge \u00feedirre\u2026\n",
+            "Last Lines": "\n\u2026Whan graue was \u00fee graie ston \u00fee grime king\n                    rydus& alle meven his men fro \u00fee marke euene\n",
+            "Note": "\n1139 lines",
+            "Editions": "\n\nStevenson,  Joseph,\n                        ed.  \n             The Alliterative Romance of Alexander.\nRoxburghe Club\n         67. London, 1849. \nSkeat,  Walter William,\n                        ed.  \n             The Alliterative Romance of Alexander and Dindimus.\nEETS\n         e.s. 31 (1878); repr. 1987. \nMagoun,  Francis Peabody,\n                        ed.  \n             The Gests of King Alexander of Macedon.\n         Cambridge, MA: Harvard UP, 1929; repr. 1973: 121-70.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 187-9 (excerpts).\n\n",
+            "folio": "ff. 209-215v"
+        },
+        "BodGreaves60": {
+            "First Lines": "\nYee \u00feat lengen in lond lordes and oo\u00feerBeurnes or\n                    bacheleres \u00feat boldely thenken\u2026\n",
+            "Last Lines": "\n\u2026ffor a feller in fyght founde men seeldeWhile hym lasted his\n                    life londes to yeeme\n",
+            "Note": "\nDuplicate (false start?) of lines 1-5, 15-23, 27-43.",
+            "Attributed Title": "\n\u00dee Wor\u00feie King and Emperour Alisaunder of Macedoine (f.\n                    iv)",
+            "Editions": "\nMagoun,  Francis Peabody,\n                        ed.  \n             The Gests of King Alexander of Macedon.\n         Cambridge, MA: Harvard UP, 1929; repr. 1973: 243-4.\n",
+            "folio": "f. 16v"
+        }
+    }
+}

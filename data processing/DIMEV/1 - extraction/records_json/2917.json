@@ -1,0 +1,25 @@
+{
+    "_id": 2917,
+    "_header": "Jesu that is full of disport / Gave his disciples their comfort",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel; Philip and James, saints",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel, \u2018In festo SS. Philipi et Iacobi\u2019, in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nIHesus \u00feat is ful of disport\u021caf his disciplus heore\n                    cumfort\u2026\n",
+            "Last Lines": "\n\u2026\u00deat his so mote do in vsPrey we faste to goode\n                    Ihesus\n",
+            "Attributed Title": "\nMissus est Angelus Gabriel / Non turbetur cor nestrum neque (f.\n                        221rb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cProprium Sanctorum, Zusatz-Homilien des Ms. Vernon fol. CCXV zur\n                n\u00f6rdlichen Sammlung der Domicalia evangelia.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         81 (1888): 83-114, 300-21: 108.\n",
+            "folio": "f. 221rb-221rc"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nIHesus \u00feat is ful of disport\u021caf his disciples here\n                    confort\u2026\n",
+            "Last Lines": "\n\u2026\u00deat is so mote do in vsPrey we faste to goode\n                    Ihesus\n",
+            "Attributed Title": "\nMissus est Angelus gabriel (f. 24rc)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 24rc-24vb"
+        }
+    }
+}

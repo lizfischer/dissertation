@@ -1,0 +1,22 @@
+{
+    "_id": 1841,
+    "_header": "He may lightly swim",
+    "Note": "cf. Heywood (1829)\nXHeywood, Thomas, (notes by). The most pleasant song of Lady Bessy: the eldest daughter of King Edward the Fourth, and how she married King Henry the Seventh of the House of Lancaster. London: R. Taylor, 1829; Tilley (1950)\nXTilley, Morris Palmer. A Dictionary of the Proverbs in England in the 16th and 17th Centuries. Ann Arbor, MI: University of Michigan, 1950 C 349.",
+    "Subjects": "proverbs",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A proverbial couplet",
+    "_witnesses": {
+        "BodRawD328": {
+            "Transcription": "\nHe may \u00fee better suwe\u00feat ys holdde vp by \u00fee\n                    schyn\n",
+            "Note": "\nTranslating \u2018Ille poteste melius nature qui sustinetur per\n                        mentum\u2019, which precedes; English portion all written on one\n                    line.",
+            "Editions": "\nMeech,  Sanford Brown. \n             \u201cA Collection of Proverbs in Rawlinson MS D 328.\u201d \n             Modern Philology\n         38 (1940-41): 113-32: 119.\n",
+            "folio": "f. 141"
+        },
+        "OxfBal354": {
+            "Transcription": "\nHe mai lightli swimthat is hold wp by \u00fee chin\n",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 129.\n",
+            "folio": "p. 402"
+        }
+    }
+}

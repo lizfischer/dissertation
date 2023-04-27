@@ -1,0 +1,22 @@
+{
+    "_id": 5549,
+    "_header": "Then had Herod received the crown",
+    "Note": "For another version see 338.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel; Holy Innocents",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel, In festo sanctorum Innocentium, in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 115vb"
+        },
+        "BLHar4196": {
+            "First Lines": "\n\u00dean had herod resayued \u00fee crowneWith realte & with grete renowne\u2026\n",
+            "Last Lines": "\n\u2026Twa hundreth stades was \u00fee spaceffra \u00feare he died vnto \u00feat place\n",
+            "Note": "\nPreceded by Latin, \u201cAngelus domini aperuit & cetera.\u201d",
+            "Attributed Title": "\nSanctorum innocencium martyrum Euangelium secundum Matheum (rubric, f. 24rb)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): I.231-243.\n",
+            "folio": "ff. 24rb-29va"
+        }
+    }
+}

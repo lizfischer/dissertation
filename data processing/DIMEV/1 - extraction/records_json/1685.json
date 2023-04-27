@@ -1,0 +1,17 @@
+{
+    "_id": 1685,
+    "_header": "Hail be thou Mary Christs mother dear",
+    "Note": "Stanzas 2, 3, 4 = stanzas 1, 8, and 11 of 1688.",
+    "Subjects": "Virgin Mary, salutation to",
+    "Versification": "\u2014 four-line \u2014 aaaa",
+    "_description": "A salutation of the Virgin Mary \u2014 five monorhyming quatrains",
+    "_witnesses": {
+        "Lam853": {
+            "First Lines": "\nHEil be \u00feou marie cristis moder dere\u00feat art queene of\n                    heuen fair and sweet of chere\u00deat art sterre of heuen schynynge\n                    bri\u021dt & clereHelpe me lady ful of my\u021dt & heere my preiere\n                    Aue maria\u2026\n",
+            "Last Lines": "\n\u2026Heil be \u00feou marie gloriouse moder hendeMeeknes &\n                    honeste with abstynence me sendWith chastite & charite into my lyues\n                    eendeAnd \u00feat \u00feoru\u021d \u00fei preier lady I mote to heuen blis\n                    weendeAue maria\n",
+            "Note": "\nThe line length does not fit this format, with one verse line spreading\n                    out over more than one manuscript line.",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             Hymns to the Virgin and Christ\u2026and other religious poems.\nEETS\n         o.s. 24 (1867); repr. 1973: 6-7.\nWatts,  Nevile. \n             Love Songs of Sion.\n         New York: Benziger, 1924: 136 (mod.).\n\n",
+            "folio": "pp. 26-27"
+        }
+    }
+}

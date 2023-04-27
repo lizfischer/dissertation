@@ -1,0 +1,20 @@
+{
+    "_id": 3616,
+    "_header": "My joy it is from her to here",
+    "Subjects": "love lyrics",
+    "Versification": "\u2014 four-line",
+    "_description": "Mutual affection \u2014 five cross-rhymed quatrains",
+    "_witnesses": {
+        "BLHar3362": {
+            "First Lines": "\nMy Ioye it from hir to hereWhen \u00feat my mynd ys euer to see\n",
+            "Last Lines": "\nTo yoye my hert with play & [\u00a0\u00a0]ereffor I loue hur & she louyth me\n",
+            "Note": "\nAdded to blank leaf at end of manuscript; ends \u201cffinis.\u201d",
+            "Editions": "\n\nRitson,  Joseph,\n                        ed.  \n             Ancient Songs and Ballads from the Reign of King Henry the Second to\n                the Revolution.\n         2 vols. London, 1829; re-ed. \n                William Carew\n                Hazlitt\n             London, 1877: 2.22; 1877, 166.\nReed,  Ernest Bliss. \n             \u201cThe Sixteenth Century Lyrics in Add. MS. 18,752.\u201d \n             Anglia\n         33 (1909): 344-69: 366-7.\n\n",
+            "folio": "f. 90ra-90rb"
+        },
+        "BLAdd18752": {
+            "Editions": "\nReed,  Ernest Bliss. \n             \u201cThe Sixteenth Century Lyrics in Add. MS. 18,752.\u201d \n             Anglia\n         33 (1909): 344-69: 366-7.\n",
+            "folio": "f. 139"
+        }
+    }
+}

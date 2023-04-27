@@ -1,0 +1,18 @@
+{
+    "_id": 2129,
+    "_header": "I am sore astoned when I remember me",
+    "Author(s)": "Francesco Petrarch",
+    "Title(s)": "Secretum",
+    "Subjects": "translations; dialogues",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "A verse translation of the Proem and Book 1 of Petrarch\u2019s Secretum \u2014 8-line stanzas (ababbbc)",
+    "_witnesses": {
+        "BLAdd60577": {
+            "First Lines": "\nI am soore astoned whan I remembre meHow I entred thys lyff &\n                    how I schal oute agayne\u2026\n",
+            "Last Lines": "\n\u2026Where Ioye ys euer lastynge Now hens late vs hyeWith the\n                    lycens of my lorde We wyll noo more to nyght\n",
+            "Attributed Author": "\nAssit principio Sancta Maria meo ffranciscus Petrarcha (f.\n                    8)",
+            "Facsimiles": "\nWilson,  Edward. \n             \u201cIntroduction.\u201d \n             The Winchester Anthology. A Facsimile of British Library Additional\n                Manuscript 60577. With an account of the music by \n                    Iain\n                    Fenlon. \n         Cambridge: D. S. Brewer, 1981. \n",
+            "folio": "ff. 8-22"
+        }
+    }
+}

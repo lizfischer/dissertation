@@ -1,0 +1,101 @@
+{
+    "_id": 671,
+    "_header": "As that a great clerk shows in his books",
+    "Note": "For a Wycliffite expansion, see 672.",
+    "Author(s)": "John de Gaytryge",
+    "Title(s)": "Lay Folk\u2019s Catechism",
+    "Subjects": "instruction, religious; religious instruction",
+    "Versification": "\u2014 alliteration \u2014 alliteration",
+    "Macaronic": "Latin",
+    "_description": "The Lay Folk\u2019s Catechism, by John de Gaytryge (or Gaysteke, Caterige, etc.), in alliterative unrhymed verse",
+    "_witnesses": {
+        "BodDonC13": {
+            "First Lines": "\nAls \u00feat a grete clerk shewis in his bokeof alle \u00fee\n                    creatures \u00feat god made in heuen or in erth\u2026\n",
+            "Last Lines": "\n\u2026It is endles life and lastande blisto whilk blis he bringre\n                    vs Qui cum [ ] spiritu sancto vivit & regnet deus per omnia saecula\n                        saeculorum\n\n",
+            "Attributed Author": "\nExplicit sermo Gaitrig (f. 165va)",
+            "folio": "ff. 162va-165va"
+        },
+        "BodRawC288": {
+            "First Lines": "\nAs a gret clerk schewyth in hys bokysof alle creatures \u00feat\n                    euer god made\u2026\n",
+            "Last Lines": "\n\u2026to qwich blys bryng \u021dow & me\u00feat for us deyt on\n                    \u00fee roode tre amen amen\n",
+            "Note": "\nNot Oxford,  Bodleian Library Rawlinson C.85 (SC 12145), as listed in Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943.",
+            "Attributed Title": "\n\u2018How Preists should instructe \u00feere Parishioners\u2019 (f. 85 in\n                    post-medieval hand)",
+            "folio": "ff. 85-91"
+        },
+        "OxfCCC155": {
+            "First Lines": "\nAls \u00feat a grete clerke schewes in his boksOf all the creatures\n                    \u00feat god made in heuen & erth\u2026\n",
+            "Last Lines": "\n\u2026It is endles lyfe and lastand blysseto whilke blysse he\n                    brynge vs\n",
+            "Note": "\nFollowed by Latin conclusion, \u2018Qui cum patre & spiritu\n                        sancto viuit & regnat deus per omnia secula seculorum\u2019 (f.\n                    248).",
+            "folio": "ff. 237-248"
+        },
+        "OxfQueens389B": {
+            "First Lines": "\nAngh vs haly to halde a uence our godAnd \u021de seuen \u00feat er\n                    aftyr onentz our euen crysten\u2026\n",
+            "Last Lines": "\n\u2026With many fals and many foule wordysSklaunder for to for do\n                    amanes gode fame\n",
+            "Note": "\nTwo fragments, nos. 24 and 25: lines 171-224, 436-489.",
+            "folio": "ff. 245-246v"
+        },
+        "CULDd1239": {
+            "First Lines": "\n\u2026Ano\u00feer \u00feinge to knowe god almyghty ben \u00fee seuen\n                    vertewes \u00feat holi writte techesOf \u00fee Whiche seuen \u00fee\n                    \u00fere firste \u00feat ben soileyne vertewes\u2026\n",
+            "Last Lines": "\n\u2026for mesure es nedfulle vnto vs in alle \u00feinge \u00feat we\n                    doif we life skilfully as goddes lawe teches vsAnd so be hit\n                    Amen\n",
+            "Note": "\nFragment, lines 380-446 only.",
+            "folio": "ff. 1v-3"
+        },
+        "CamSidney55": {
+            "First Lines": "\nAs a grete Clerke shewith in his bokeOf alle creaturis \u00feat god\n                    made in hevenand in erthe in water or in eyre or in ought\n                    ellis\u2026\n",
+            "Last Lines": "\n\u2026to \u00fee whiche he bryng vs alle owre lord god all\n                    myghtty\n",
+            "folio": "ff. 41-47v"
+        },
+        "CamTCC223": {
+            "First Lines": "\nAls a gret clerke schewis in his bokeof al \u00fee creatures\n                    \u00feat god made in heuenamp; in erthe in watere or in ayer or in oght\n                    elles\u2026\n",
+            "Last Lines": "\n\u2026\u00feat for vs schedd his blode on \u00fee rode treQui\n                        cum deo patre viuit & regnat deus per omnia\n\n",
+            "Note": "\nWritten as prose.",
+            "Attributed Title": "\nAvntendite popule meus legem meam (f. 56)",
+            "folio": "ff. 56-57"
+        },
+        "BLAdd24202": {
+            "First Lines": "\n[\u00de]u \u00feinge for to knowe god almy\u021dtyes \u00fee seuene\n                    sacramentis \u00feat holy chirche gifes\u2026\n",
+            "Last Lines": "\n\u2026mekely to suffur whe\u00feer so euere fall is woo or\n                    wel\u00feeand \u00feat our herte be noghte ouer highe for no\n                    welfare\u2026\n",
+            "Note": "\nSections on the Seven Sacraments and Seven Virtues only. Text is\n                    incomplete, ending mid-way through the sixth vertue. Written as\n                    prose.",
+            "folio": "ff. 35v-36v"
+        },
+        "BLAdd25006": {
+            "First Lines": "\nAls \u00feat a grete clerk shewes in his bukeOf all \u00fee\n                    creatures \u00feat god made in heuen and in erthe\u2026\n",
+            "Last Lines": "\n\u2026It es endles life ai lastand blisTo \u00fee whilk blis he\n                    bring vs\n",
+            "Note": "\nFirst folio written as prose, with the rest marked as\n                    verse.",
+            "folio": "ff. 1-9v"
+        },
+        "BLAru507": {
+            "First Lines": "\nAls a grete clerke schewis in his bokeOf alle \u00fee creatures\n                    \u00feat god made in heuen\u2026\n",
+            "Last Lines": "\n\u2026it is endelesse lif & lastand blisseto \u00fee\n                        blisse Whilk blisse he vs alle bring \u00feat made vs & boght\n                    vs with his dere blode\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 50-54"
+        },
+        "BLHar1022": {
+            "First Lines": "\n\u00deo fyrst poynt \u00feat we sal trow of \u00feo godhedEs to trow stedfastly in a trew god\u2026\n",
+            "Last Lines": "\n\u2026It es endles lyf & lastand blysseTo \u00feo quylk blysse he bryng vs \u00feat boght vs\n",
+            "Note": "\nLines 1-82 missing.",
+            "folio": "ff. 66-73v"
+        },
+        "Lincoln91": {
+            "First Lines": "\nAls a grete doctour schewes in his bukeOf all \u00fee creatoures\n                    \u00feat gode made in heuene and in erthe in water and in ayere or in oghte\n                    elles\u2026\n",
+            "Last Lines": "\nIt es endles lyfe and lastande blysseTo \u00fee whilke blysse he\n                    brynge vs oure lorde gode almyghty\n",
+            "Note": "\nWritten as prose.",
+            "Attributed Author": "\nJohn Gaytryge (f. 213v)",
+            "Attributed Title": "\nHere begynnes a Sermon \u00feat Dan John Gaytryge made\u2026Et est\n                        petrus sentenciarum discrecione prima (f. 213v)",
+            "Facsimiles": "\nBrewer,  Derek Stanley,  and  A. E. B. Owen.  \n             \u201cIntroduction.\u201d \n             The Thornton Manuscript (Lincoln Cathedral MS. 91).\n         London: Scolar Press, 1975. \n",
+            "Editions": "\n\nPerry,  George G.,\n                        ed.  \n             Religious Pieces in Prose and Verse from R. Thornton\u2019s\n                MS.\nEETS\n         o.s. 26 (1867); repr. 1973: 1-14.\nBlake,  Norman F.,\n                        ed.  \n             Middle English Religious Prose.\n         Evanston, IL: Northwestern UP, 1972: 73.\n\n",
+            "folio": "ff. 213v-218v"
+        },
+        "KeioHopton": {
+            "Transcription": "\nA grete clerke shewys in hese bokysand yt ys \u00fee mayster of\n                    \u00fee sentes\n",
+            "Note": "\nProsified version, of which only these two lines rhyme.",
+            "folio": "ff. 3v-9v"
+        },
+        "YorkBor11": {
+            "First Lines": "\n[a]ls that a gret clerk shewes in his bokesEt est secundo\n                        sentenciarum distinccione primaOf all the creatures that god mad in\n                    heuen and in ertheIn water or in ayre or in ought elles\u2026\n",
+            "Last Lines": "\n\u2026It is endeles life & lastand blisseTo whilk blisse he\n                    bring vs & cetera\n",
+            "Editions": "\n\nSimmons,  Thomas Frederick,  and  Henry Edward Nolloth, eds.  \n             \u201cThe Lay Folks\u2019 Catechism.\u201d \n             EETS\n         o.s. 118 (1901); repr. 1987: 2-98.\nHalliwell-Phillipps,  James Orchard. \n             The Yorkshire Anthology.\n         London, 1851: 287 (begins line 84).\n\n",
+            "folio": "ff. 295-297v"
+        }
+    }
+}

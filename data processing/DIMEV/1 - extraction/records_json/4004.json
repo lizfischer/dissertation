@@ -1,0 +1,32 @@
+{
+    "_id": 4004,
+    "_header": "O mortal man mazed with pomp and pride",
+    "Title(s)": "\u2018Remember man thow art but wormes mete\u2019",
+    "Subjects": "mortality; transitoriness, of life; sins, deadly",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "\u2018Remember man thow art but wormes mete\u2019 \u2014 eight stanzas rhyme royal with refrain",
+    "_witnesses": {
+        "BLAdd29729": {
+            "First Lines": "\nO mortall man masyd with pompe and prideof vayne glorye makyng thyn\n                    edifice\u2026\n",
+            "Last Lines": "\n\u2026If thow ax grace with contrite teres wetethy sowle may lyve\n                    thowghe thow be wormes mete\n",
+            "Note": "\n\u2018Explicit\u2019 below last line.",
+            "Attributed Title": "\nRemembar man thow art but wormes mette (f. 7), by scribe (John\n                    Stow).",
+            "Editions": "\nEdwards,  A. S. G. \n             \u201cA Fifteenth-Century Didactic Poem in British Museum Additional MS\n                29729.\u201d \n             Neuphilologische Mitteilungen\n         70 (1969): 702-06: 702.\n",
+            "folio": "ff. 7-8"
+        },
+        "BLAdd21410": {
+            "First Lines": "\no mortall mon with [\u00fei senchis?] abusedgrasping after hie\n                    prosperite\u2026\n",
+            "Last Lines": "\n\u2026and thow be riche more good woldyst thow geteremember mon\n                    that thow art wormes mete\n",
+            "Note": "\nFragment: stanza 1 only, added to margin by hand of sixteenth\n                    century.",
+            "Editions": "\nBergen,  Henry,\n                        ed.  \n             Lydgate\u2019s Fall of Princes.\n             4 vols. \n             EETS\n         e.s. 121-24 (1924-27); repr. 1967: 4.65.\n",
+            "folio": "f. 168"
+        },
+        "CantAdd46": {
+            "First Lines": "\nO mortall man\u2026syd with pom\u2026Of veyne glory making\n                    \u2026thynne edylies\u2026\n",
+            "Last Lines": "\n\u2026to theme that the wyll note sounter\n                    ple\u2026e\u2026\u2026bre man thow art but w[or]mys mete\n",
+            "Note": "\nThe text survives on two damaged parchment fragments, resized on uniform\n                    paper sheets.",
+            "Editions": "\nBoffey,  Julia,  and  A. S. G. Edwards.  \n             \u201cUnrecorded Middle English Verse Texts in a Canterbury Cathedral Library\n                Manuscript.\u201d \n             Medium \u00c6vum\n         72 (2003): 49-62: 59.\n",
+            "folio": "f. 8-8v;  9"
+        }
+    }
+}

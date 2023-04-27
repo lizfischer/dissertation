@@ -1,0 +1,356 @@
+{
+    "_id": 4315,
+    "_header": "Our Host saw well that the bright sun",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Introduction to the Man of Law\u2019s Tale; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; links; context; tales; Chaucer",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the Introduction to the Man of Law\u2019s Tale of the Canterbury Tales \u2014 98 lines in couplets.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nOVre Oste saw wel that the bright sonnethe arke of his artificial\n                    day had ronne\u2026\n",
+            "Last Lines": "\n\u2026and with that worde he with a sobre cherebigan his tale as ye\n                    shal after here\n",
+            "Attributed Title": "\n\u2026And nexte / bigynneth the man of lawe his prolog & cetera\n                    (f. 141); the man of lawes prolog (RT); Here endith the man of lawe his\n                    prolog\u2026 (f. 142v)",
+            "folio": "ff. 141-142v"
+        },
+        "BodBar20": {
+            "First Lines": "\nOwre ost saw wel \u00feat \u00fee bright sonneThe arke of his\n                    artificial day hath ronne\u2026\n",
+            "Last Lines": "\n\u2026And with \u00feat word he with a sobes chereBygan his tale as\n                    \u021de shal aftir here\n",
+            "Attributed Title": "\n\u2026and here bygynnyth / \u00fee Prologe of \u00fee man of law (f.\n                        62v); The man of law (RT); here endith \u00fee prologe of \u00fee\n                    man of law\u2026 (f. 64)",
+            "folio": "ff. 63-64"
+        },
+        "Bod414": {
+            "First Lines": "\n[O]ure host saugh wel \u00feat \u00fee bri\u021dt sunneThe arche of\n                    his artificial day ha\u00fe runne\u2026\n",
+            "Last Lines": "\n\u2026And with that wurd he with a sobir chereBegan his tale as ye\n                    shulle aftir here\n",
+            "Note": "\nII.57-96 omitted.",
+            "folio": "ff. 51v-52v"
+        },
+        "Bod686": {
+            "First Lines": "\nOure host saugh wel \u00feat \u00fee bryght sonne\u00fee ark of his\n                    artificial day hath y ronne\u2026\n",
+            "Last Lines": "\n\u2026I speke in prose and let hym rymes makeAnd with \u00feat word\n                    he with a sory chereBygan his tale as ye may after here\n",
+            "Attributed Title": "\nHere folowen the wordes of the hoost / vnto the man of lawe (f. 56); Hoost\n                    (RT); Here enden the words of the hoost / vnto the man of lawe\u2026 (f.\n                    57)",
+            "folio": "ff. 56-57"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nOure host sawe wel \u00feat \u00fee bri\u021dt sonThe ark of his\n                    artificiall day hath y ron\u2026\n",
+            "Last Lines": "\n\u2026And with \u00feat worde with a sobre chereBigan his tale as\n                    ye shall aftre here\n",
+            "Attributed Title": "\n\u2026And next biginneth \u00fee prolog of \u00fee man of lawes tale (f.\n                        50v); The prolog of \u00fee man of lawe (RT)",
+            "folio": "ff. 50v-51v"
+        },
+        "BodLauMis600": {
+            "First Lines": "\nOure host saugh wel \u00feat \u00fee bright sonneThe ark of his\n                    artificial dai ha\u00fe ronne\u2026\n",
+            "Last Lines": "\n\u2026And wi\u00fe \u00feat worde he with a sobre\n                    chereBegynne\u00fe his tale as ye shul aftir here\n",
+            "Attributed Title": "\n\u2026Here begynne\u00fe \u00fee prolog of \u00fee man of lawe (f.\n                        125v); \u00fee man of lawe (RT)",
+            "folio": "ff. 125v-127"
+        },
+        "BodLauMis739": {
+            "First Lines": "\n[O]Wre oste saugh wele \u00feat the bryghte sonneThe ark of his\n                    artificiale day had ronne\u2026\n",
+            "Last Lines": "\n\u2026And with that worde he with a sobre chereBigan his tale as\n                    \u021de shall here\n",
+            "Note": "\nThe exemplar apparently had two sheets disarranged, as the MS has II.91\n                    followed by 173-254 (fols. 82v-83v, with a later\n                    corrector\u2019s marks indicating the proper sequence), followed in turn by\n                    93-172, 337-418, 255-336, 419, etc. London,  British Library Royal 18 C.II (no. 34 below) has the\n                    same sequence of misarranged lines due to transposed folios and thus may be the\n                    exemplar for this portion of the Laud MS.",
+            "folio": "ff. 81-83v"
+        },
+        "BodRawPoe141": {
+            "First Lines": "\nOvre ost say wel that the bright sonneThe ark of his artificiall\n                    day hath ronne\u2026\n",
+            "Last Lines": "\n\u2026And with that word he with a nobull chereBigan his tale as ye\n                    shall after here\n",
+            "Note": "\nII.3-4 reversed.",
+            "Attributed Title": "\nHere bigynneth the prolog of the seriauntes tale (f. 29); The seriaunt\n                    (RT)",
+            "folio": "ff. 29-30v"
+        },
+        "BodRawPoe149": {
+            "First Lines": "\nOure hoste sawe well \u00feat the bright sonneThe arke of his\n                    artificiall day ha\u00fe y ronne\u2026\n",
+            "Last Lines": "\n\u2026and with that worde with a sobre chereBigan his tale as ye\n                    shall after here\n",
+            "Attributed Title": "\nHere begynnith the man of lawes prolog and his tale seweth of Constance (f.\n                    23); the Man of lawe (RT)",
+            "folio": "ff. 23-24v"
+        },
+        "BodRawPoe223": {
+            "First Lines": "\nOure oost sau\u021d wel \u00feat the brigt sonneThe Ark of his\n                    artificiall day hath ronne\u2026\n",
+            "Last Lines": "\n\u2026And with that word he with a sobir chiereBegan his tale as ye\n                    shall aftir here\n",
+            "Attributed Title": "\n\u2026And here beginneth the lawiers prolog with his tale folwing (f.\n                        61v); The lawier tale (RT); Here endith the Prolog of the Man of\n                    Lawe\u2026 (f. 63)",
+            "folio": "ff. 61v-63"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nOvre ooste saugh wele that the brighte sonneThe Arke of his\n                    Artifical day hath ronne\u2026\n",
+            "Last Lines": "\n\u2026And with that word he with a sobre chereBygan his tale as ye\n                    shall aftir here\n",
+            "Attributed Title": "\nThe proheme of the tale of the man of / lawe of Custance (f. 190)",
+            "folio": "ff. 190-191"
+        },
+        "OxfCCC198": {
+            "First Lines": "\nOwre oost saugh wel \u00feat by \u00fee brighte sonneThe ark of his\n                    artificial day hadde ronne\u2026\n",
+            "Last Lines": "\n\u2026And with \u00feat word he with a sobre chereBigan his tale as\n                    \u021de schal after heere\n",
+            "Attributed Title": "\ncmvm (f. 73v, margin)",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "ff. 73v-75"
+        },
+        "OxfNew314": {
+            "First Lines": "\nOure oste saw \u00feat by \u00fee bri\u021dt sonneThe Ark of his\n                    artificial day had ronne\u2026\n",
+            "Last Lines": "\n\u2026And with \u00feat word he wit a sobir chereBegan\n                    his tale as ye shul here\n",
+            "Note": "\nII.42 omitted.",
+            "Attributed Title": "\n\u2026and / Begynneth \u00fee man of lawis prolog (f.\n                    52v)",
+            "folio": "ff. 52v-54"
+        },
+        "OxfTri49": {
+            "First Lines": "\noure hoste sawe welle that the bright sonnethe cooke of his\n                    artificial day hath ronne\u2026\n",
+            "Last Lines": "\n\u2026and with that worde he with a sobre cherebegan his tale as ye\n                    shul aftir here\n",
+            "Note": "\nII.36 omitted. There is a small \u2018h\u2019 guide letter where an\n                    \u2018o\u2019 might be expected, for which a lombard \u2018T\u2019 was\n                    executed, but the first word of text is \u2018oure\u2019.",
+            "Attributed Title": "\n\u2026Prologus legis periti (f. 182v); Man of lawe\n                    (RT)",
+            "folio": "ff. 182v-184"
+        },
+        "CULDd424": {
+            "First Lines": "\nOure host saw wel \u00feat the bright sonneThe ark of his\n                    artificiale day hath ronne\u2026\n",
+            "Last Lines": "\n\u2026And with that word he with a sober chereBygan his tale as\n                    \u021de shuln after here\n",
+            "Attributed Title": "\n\u2026& Incipit prologus Legis periti (f. 54); Hic finitur\n                        prologus legis periti\u2026 (f. 55)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 54-55"
+        },
+        "CULGg427": {
+            "First Lines": "\n\u2026And \u00feerfore by \u00fee schadewe he tok hese witThat\n                    phebus which \u00feat schon so cler & bry\u021dt\u2026\n",
+            "Last Lines": "\n\u2026Of swiche cursede storyis I seye fyOr ellis of Thiro\n                    appolonyus\u2026\n",
+            "Note": "\nII.1-9, 82-98 lost.",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "Editions": "\nFurnivall,  Frederick James. \n             The Cambridge MS (University Library, Gg.4.27) of Chaucer\u2019s\n                Canterbury Tales.\nChaucer Society\n         Series 1, nos. 4, 10, 17, 28, 33, 40, 52, 66. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 194-194v"
+        },
+        "CULIi326": {
+            "First Lines": "\nOure hoste sawe wele that the bright sonneThe serkle of his\n                    artificell day hadde ronne\u2026\n",
+            "Last Lines": "\n\u2026And with that worde he with a sobere chereBegan his tale as\n                    ye shall after here\n",
+            "Attributed Title": "\nPrologus Iuris parti (f. 62v); The man of lawe\n                    (RT)",
+            "folio": "ff. 62v-63v"
+        },
+        "CULMm25": {
+            "First Lines": "\nOur oste sawh wele \u00feat \u00fee bri\u021dt soneThe arke of his\n                    articiall day hadde ronne\u2026\n",
+            "Last Lines": "\n\u2026And with \u00feat worde he with a sobre chereBe gan his tale\n                    as \u021de schall after here\n",
+            "Attributed Title": "\n\u2026Incipit prohemium fabule legisperiti (f. 77); Capitulum\n                            5m (f. 77, margin); The man of lawe (RT)",
+            "folio": "ff. 77-78"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[O]ure oste sawh well that \u00fee bryght sonneThe Arke of his\n                    artyficyall day had y ronne\u2026\n",
+            "Last Lines": "\n\u2026And with \u00feat word with a sober cherBygan his tale as ye\n                    schull here\n",
+            "Note": "\nII.3-9, 12-15, 17-4, 31-2, 41-4, 77-80, 85-8, 93-6 omitted.",
+            "Attributed Title": "\nThe prolog of \u00fee man of lawe (f. 77v)",
+            "folio": "ff. 77v-78"
+        },
+        "CamTCC582": {
+            "First Lines": "\nOure oost sau\u021d well that the bri\u021dt sonneThe Ark of his\n                    artificall day hath ronne\u2026\n",
+            "Last Lines": "\n\u2026And with that word he with a sobre chierBegan his tale as ye\n                    shal aftir hiere\n",
+            "Note": "\nII.32 inserted in margin.",
+            "Attributed Title": "\nA Prolog of the man of Lawe (f. 26ra); Hiere thende is of the\n                    prolog of the man of lawe\u2026 (f. 26vb)",
+            "folio": "ff. 26ra-26vb"
+        },
+        "CamTCC595": {
+            "First Lines": "\nOvre hoste sawe that by the bright sonneThe Ark of his artificial\n                    day had ronne\u2026\n",
+            "Last Lines": "\n\u2026And with that worde he with a sobir chereBegan his tale as ye\n                    shalle aftir here\n",
+            "Attributed Title": "\n\u2026and / begynneth the man of lawes prologe (f.\n                    73v)",
+            "folio": "ff. 73v-76"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nOwr hoost saw wel that the bryht sonneThe ark of his artificiall\n                    day hath ronne\u2026\n",
+            "Last Lines": "\n\u2026And with that word he wyth a sobre chereBegan his tale as ye\n                    shal aftir here\n",
+            "Attributed Title": "\n\u2026& incipit prologus Iurisperiti (f. 67); prologus\n                    (RT); Explicit prologus Iurisperiti\u2026 (f. 68v)",
+            "folio": "ff. 67-68v"
+        },
+        "BLAdd25718": {
+            "First Lines": "\n\u2026What she hath host hit in hir want[torn]Let vs nought moule\n                    thus in idelnesse\u2026\n",
+            "Last Lines": "\n\u2026And with that word he with a sobre chereBygan his tale as ye\n                    shuln after here\n",
+            "Note": "\nII.1-30 lost.",
+            "Attributed Title": "\nPrologus (RT)",
+            "folio": "ff. 31-32"
+        },
+        "BLAdd35286": {
+            "First Lines": "\nOvre hoost saugh wel that the bryght sonneThe ark of his artificial\n                    day hath ronne\u2026\n",
+            "Last Lines": "\n\u2026The plente of Dyane and of HermyoneOf Adryane and\n                    Isiphilee\u2026\n",
+            "Note": "\nII.68-98 lost.",
+            "Attributed Title": "\n\u2026Here bygynneth the prolog of th Sergeantes tale (f. 43); The\n                    Sergeaunt (RT)",
+            "Editions": "\nHorobin,  Simon. \n             \u201cA Transcription and Study of British Library MS Additional 35286 of\n                Chaucer\u2019s Canterbury Tales.\u201d \n         Diss. Univ. of Sheffield, 1997. \n",
+            "folio": "ff. 43-43v"
+        },
+        "BLEge2726": {
+            "First Lines": "\nOure hoost sawe wele that the bright sonneThe Arke of his\n                    artificiall day hath ronne\u2026\n",
+            "Last Lines": "\n\u2026And with that word he with a sober chereBegan his tale as ye\n                    shull after here\n",
+            "Attributed Title": "\n\u2026And here folowen \u00fee / wordes bitwene the hoost and the man of\n                    lawe (f. 64); Hic finitur prologus legis periti\u2026 (f.\n                    65v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 64-65v"
+        },
+        "BLEge2863": {
+            "First Lines": "\nOure Ost saugh wel \u00feat \u00fee bright sonneThe Ark of his\n                    artificial day hadde ronne\u2026\n",
+            "Last Lines": "\n\u2026Of Brixseide and of the ladomyaThe cruelte of quene\n                    Medea\u2026\n",
+            "Note": "\nII.73-98 lost.",
+            "Attributed Title": "\n\u2026And here byginneth \u00fee prologe of \u00fee man of lawe (f. 49);\n                    The Man of lawe (RT)",
+            "folio": "ff. 49-49v"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[O]Wr hoost saw wel that the bryht sonneThe ark of his artificial\n                    day hath ronne\u2026\n",
+            "Last Lines": "\n\u2026And with that word he with asobre cheereBigan his tale as ye\n                    shal aftir heere\n",
+            "Attributed Title": "\n\u2026Heer bigynneth the prolog of \u00fee sergeantes tale of lawe (f.\n                        64v); The prolog of \u00fee Sergeant[trimmed] / tale (RT) ",
+            "folio": "ff. 64v-66"
+        },
+        "BLHar1758": {
+            "First Lines": "\n[O]ure Oste saugh well that the bright sonneThe arke of his\n                    artaficiall day had ronne\u2026\n",
+            "Last Lines": "\n\u2026And with that worde he with a sobre chereBegan his tale as ye\n                    schull after here\n",
+            "Attributed Title": "\nHere begynneth the Prolog of the man of lawe (f. 55v); The Man\n                    Of lawe (RT); Here endith the Prolog\u2026 (f. 56v)",
+            "folio": "ff. 55v-56v"
+        },
+        "BLHar7333": {
+            "First Lines": "\nOwre hooste saughe weele \u00feanne by \u00fee bryght sonne\u00fee\n                    arke of \u00fee artificiall day ha\u00fee \u00feoo eronne\u2026\n",
+            "Last Lines": "\n\u2026Ryght with \u00feat worde I with a sobre cheereBy ganne my\n                    tale as ye shull aftir heer\n",
+            "Note": "\nII.36-9 omitted.",
+            "Attributed Title": "\n\u2026and nexste / ffolowyng begynne\u00fee \u00fee prologe of \u00fee man\n                    of / lawes tale (f. 60ra); \u00dee prologe of \u00fee man of lawes\n                    tale (RT); \u00deus Eondithe \u00fee prologe of \u00fee man of lawes tale\u2026\n                    (f. 60va)",
+            "folio": "ff. 60ra-60va"
+        },
+        "BLHar7334": {
+            "First Lines": "\nOwre Hoste sawh \u00feat \u00fee brighte sonneThe arke of his\n                    artifical day ha\u00fe I ronne\u2026\n",
+            "Last Lines": "\n\u2026And wi\u00fe \u00feat word he wi\u00fe a sobre cheereBygan\n                    his tale as \u021de schal after heer\n",
+            "Attributed Title": "\nThe man a lawe (RT); Explicit prologus\u2026 (f. 72)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "ff. 71-72"
+        },
+        "BLHar7335": {
+            "First Lines": "\n[O]Vre host saugh wel that the bright sonneThe ark of his\n                    Artificial day hath ronne\u2026\n",
+            "Last Lines": "\n\u2026And with that word he with a sobre chereBygan his tale and\n                    said as ye shal after here\n",
+            "Attributed Title": "\nPrologus legisperiti (f. 43, margin)",
+            "folio": "ff. 43-44"
+        },
+        "BLLan851": {
+            "First Lines": "\nOWre Oste sauhe wele \u00feat \u00fee briht sonneThe arke of his\n                    artificial daie had ronne\u2026\n",
+            "Last Lines": "\n\u2026And wi\u00fe \u00feat worde he wi\u00fe a sobre chereBegan\n                    his tale as \u021de schal after here\n",
+            "Attributed Title": "\n\u2026Incipit prologus Legis periti (f. 65); prologus\n                        legisperiti (RT)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 65-66"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nOwer oste saughe well the brighte sonneThe Arke of his Artificiall\n                    daye ha\u00fee yronne\u2026\n",
+            "Last Lines": "\n\u2026And with that worde he with A sobre chereBigan his tale as ye\n                    schullen after here\n",
+            "Attributed Title": "\n\u2026And / begynnythe the prologe of the Man of Lawe (f. 79v);\n                    Here endith the prolog of \u00fee man of lawe\u2026 (f. 81)",
+            "folio": "ff. 79v-81"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nOWre ost saugh wel \u00feat \u00fee brighte sonneThe ark of his\n                    artificial day hadde ronne\u2026\n",
+            "Last Lines": "\n\u2026And with \u00feat word he with a sobre cheereBigan his tale\n                    as ye shal after here\n",
+            "Note": "\nTwo bifolia are transposed (ff. 69+72 and 70+71), producing the sequence\n                    II.91 followed by 173-254, 337-418, 255-336, 419, etc. Oxford,  Bodleian Library Laud misc. 739 (SC 1234)\n                        (no. 7 above) has\n                    the same sequence of misarranged lines. The scribe indicates the correct\n                    ordering in a series of notations at the foot of ff. 69, 70v, top of\n                    f. 71, bottom of f. 71v, top of f. 72, foot of f. 72v, and\n                    top of f. 73.",
+            "Attributed Title": "\nThe prolog of the man of lawe (f. 67v); The man of lawe (RT);\n                    Here endyth the prolog\u2026 (f. 70)",
+            "folio": "ff. 67v-70"
+        },
+        "BLSl1685": {
+            "First Lines": "\n\u2026The barayne ysle stondynge in \u00fee seeThey dreynt leandre\n                    for his Erro\u2026\n",
+            "Last Lines": "\n\u2026And with \u00feat worde he with a sobre chereBygan his tale\n                    as ye shul after here\n",
+            "Note": "\nII.1-67 lost.",
+            "Attributed Title": "\nThe Man of lawe (RT); Here endithe \u00fee proloog\u2026 (f. 63)",
+            "folio": "f. 63"
+        },
+        "BLSl1686": {
+            "First Lines": "\nOWre Oost saugh wele \u00feat the bryght sonneThe Ark of his\n                    artificiall day had ronne\u2026\n",
+            "Last Lines": "\n\u2026And with that woord he with a sobre chereBegan his tale as ye\n                    shalle after here\n",
+            "Note": "\nII.42 inserted at foot.",
+            "Attributed Title": "\n\u2026And here begynneth the Prolog of the man of lawe (f.\n                    86v); [T]He Prolog of the lawer (RT); Here endith the Prolog of the\n                    man of law\u2026 (f. 88v)",
+            "folio": "ff. 86v-88v"
+        },
+        "NLWPen392": {
+            "First Lines": "\nOvre hoost saw wel that the brighte sonneThe ark of his artificial\n                    day hath ronne\u2026\n",
+            "Last Lines": "\n\u2026And with that word he with a sobre cheereBigan his tale as ye\n                    shal after heere\n",
+            "Attributed Title": "\nThe proheme of the Mannes tale of Lawe (f. 112); The Man of lawe\n                    (RT)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "ff. 112-113"
+        },
+        "GULHun197": {
+            "First Lines": "\nOure oste saugh weel \u00feat \u00fee bright sonneThe arke of hise\n                    artificiall day had ronne\u2026\n",
+            "Last Lines": "\n\u2026And with \u00feat worde he with a a sobre chierByganne hise\n                    tale as ye shal after here\n",
+            "Attributed Title": "\n\u2026and now begynneth the prologe of the man of lawe (f.\n                    34ra); The Man of lawe (RT)",
+            "folio": "ff. 34ra-34vb"
+        },
+        "Lichfield29": {
+            "First Lines": "\nOWre hoost saugh wel \u00feat \u00fee bright sonneThe ark of his\n                    artificial day hadde y ronne\u2026\n",
+            "Last Lines": "\n\u2026And with \u00feat word he with a sobre chereBigan his tale as\n                    \u021de shal after here\n",
+            "Attributed Title": "\n\u2026and folwen \u00fee wordes / of \u00fee auctour and of \u00fee hoost\n                    Prologus (f. 69); The prologe Of \u00fee man of lawe (RT); Thus endeth \u00fee\n                    prologe\u2026 (f. 70v)",
+            "folio": "ff. 69-70v"
+        },
+        "Lincoln110": {
+            "First Lines": "\nOWre oost saw well that the sonneThe ark of his artificiall hath\n                    ronne\u2026\n",
+            "Last Lines": "\n\u2026And with that word he with sobre chereBegan his tale as\n                    \u021de shall here\n",
+            "Note": "\nII.32 omitted; spurious line follows 33.",
+            "Attributed Title": "\nThe prolog of the Man of lawe (RT)",
+            "folio": "ff. 53-54"
+        },
+        "LonPhys388": {
+            "First Lines": "\nOwre host saw wele that the high sonneThe Ark of the artificial day\n                    had I ronne\u2026\n",
+            "Last Lines": "\n\u2026And with that word he with a sobre chiereBigan his tale as ye\n                    shal after here\n",
+            "Note": "\nII.61-2 reversed.",
+            "Attributed Title": "\n\u2026The prophemye of the manne of lawes tale (f. 78); Explicit\n                        prologus\u2026 (f. 79v)",
+            "folio": "ff. 78-79v"
+        },
+        "RylandsEng113": {
+            "First Lines": "\nOure oost sawe wel \u00feat \u00fee bright sonThe arc of his\n                    artificiall day had ron\u2026\n",
+            "Last Lines": "\n\u2026And with \u00feat worde he with a sobre chereBe gan his tale\n                    as ye schal after here\n",
+            "Attributed Title": "\n\u2026Incipit prologus fabula legisperiti (f. 46v);\n                        prologus legisperiti &cetera (f. 46v,\n                    margin)",
+            "folio": "ff. 46v-47v"
+        },
+        "Petworth7": {
+            "First Lines": "\nOure hoost segh wel \u00feat \u00fee bri\u021dt sonne\u00fee arke\n                    of \u00feis artificial day hadde ronne\u2026\n",
+            "Last Lines": "\n\u2026And wi\u00fe \u00feat word he wi\u00fe a sobre chereBegan his\n                    tale as \u021de shal after here\n",
+            "Attributed Title": "\n\u2026And here by / gynnes \u00fee prologe of \u00fee man of lawe (rubric,\n                    f. 84v); Prologus / viri legis (rubric, f. 84v,\n                    margin); \u00fee Prologe (RT); Thus ende\u00fe \u00fee prologe (rubruc, f.\n                    86)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 84v-86"
+        },
+        "Austin143": {
+            "First Lines": "\nOure hoste sawe well that the bright sonneThe Arke of his\n                    artificiall day had ronne\u2026\n",
+            "Last Lines": "\n\u2026An with that worde he with a sobre chereBegan his tale as ye\n                    shull aftur here\n",
+            "Attributed Title": "\nIncipit prologus legis periti (f. 51); Prologus legis /\n                        periti (f. 51, margin); Man of lawe (RT); Hic finitur prologus legis\n                        periti (f. 52)",
+            "folio": "ff. 51-52"
+        },
+        "ChicagoUL564": {
+            "First Lines": "\nOure ost seed wel \u00feat \u00fee bryth sonne\u00fee ark of his\n                    artificial day hath ronne\u2026\n",
+            "Last Lines": "\n\u2026And with \u00feat word he with a sober chereBegan his tale as\n                    shull after here\n",
+            "Note": "\nII.3-4 reversed.",
+            "folio": "ff. 10v-12"
+        },
+        "PierpontM249": {
+            "First Lines": "\nOwre hoost saugh wel that the brighte\n                    sonne\u2026\n",
+            "Last Lines": "\n\u2026And with that word he with a sobre chereBigan his tale as ye\n                    shal after here\n",
+            "Attributed Title": "\n\u2026And after foloweth / the prologe of the man of lawe (f. 74); The\n                    prologe of the man of lawe (RT); Thus endeth the prologe\u2026 (f.\n                    75)",
+            "folio": "ff. 74-75"
+        },
+        "PhilRos10841": {
+            "First Lines": "\n\u2026That loued hir oune brother synfullyOf such cursed storyes y\n                    sey fy\u2026\n",
+            "Last Lines": "\n\u2026And with that worde he with a sobre chereBygan hys tale as ye\n                    schl after here\n",
+            "Note": "\nII.1-78 lost. The MS is misbound, with [13].8 following [12].7 (becoming\n                    f. 43) and Q [14] misbound to follow Q [12] (with [14] foliated 44-51, and [13]\n                    foliated 52-57). Quires [1-4] and [6-7] are inferred to be lost, with the\n                    foliation not taking account of them. Thus V.9-91 follow II.558-1190 and are in\n                    turn followed by II.79-557; a blank leaf follows, and then V.92, etc. V.656-72\n                    lost; 134-40 omitted.",
+            "Attributed Title": "\nHere endeth the prologe\u2026 (f. 43v)",
+            "folio": "f. 52"
+        },
+        "PhilRos10842": {
+            "Transcription": "\n\u2026Ther I com aftir him \u00fee wich have be lakeI speke in prose\n                    and lete him rymes makeAnd with tho wordis he with a sobir chereBegan\n                    his tale as yee shul aftir here\n",
+            "Note": "\nAll but II.95-98 lost.",
+            "folio": ""
+        },
+        "PUL100": {
+            "First Lines": "\nOur Hoost sawe wele be \u00fee bright sonThe ark of his artifical\n                    day had I ron\u2026\n",
+            "Last Lines": "\n\u2026And with \u00fees wordis he with asobir chereBegan his tale\n                    as yee shul aftir here\n",
+            "Attributed Title": "\n\u2026And here begynnyth the man of lawe his Prolog (f. 34v);\n                    Prolog (RT); Here endith the prologg (f. 36)",
+            "folio": "ff. 34v-36"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nOvre hoost saugh wel that the brighte sonneThe ark of his\n                    artificial day hath ronne\u2026\n",
+            "Last Lines": "\n\u2026And with that word he with a sobre cheereBigan his tale as ye\n                    shal after heere\n",
+            "Attributed Title": "\nThe wordes of the Hoost to the comaignye (f. 49); Man of lawe\n                    (RT)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 49-50"
+        },
+        "BNangl39": {
+            "First Lines": "\nOure host saugh that \u00fee bright sonnethe ark of his artificial\n                    had ronne\u2026\n",
+            "Last Lines": "\n\u2026and with that wurd he with a sobre cherebegan his tale as yee\n                    shul aftir heere\n",
+            "Attributed Title": "\n\u2026& subsequen / ter sequntur verba Galfridi Chauncers /\n                        compilatoris libri (f. 24va); Verba Hospitis ad totam\n                        comitinam (f. 24va); Verba hospitis ad seruientem\n                        legis (f. 24vb); Responsio ad hospitem (f.\n                        24vb)",
+            "folio": "ff. 24va-25ra"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nOure oost sau\u021d that the bri\u021dt sonneThe arke of his\n                    artificial day hath ronne\u2026\n",
+            "Last Lines": "\n\u2026And with that word he with a sober chereBegan his tale as ye\n                    shal aftir hiere\n",
+            "Attributed Title": "\n\u2026And hiere beginneth / the Prolog of the man of lawe (rubric, f.\n                    54)",
+            "folio": "ff. 54v-55v"
+        },
+        "TokyoTak32": {
+            "First Lines": "\nOvre ost sawe weell that the bryght svnneThe ark of his artificial\n                    day hadde I runne\u2026\n",
+            "Last Lines": "\n\u2026and with that word hee with a sobre chereBy gan his tale as\n                    yee schll after here\n",
+            "Attributed Title": "\nPrologge Man of Lawe (f. 63ra)",
+            "folio": "ff. 63ra-63vb"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "_id": 521,
+    "_header": "And if thou wist what thing it were",
+    "Subjects": "aphorisms",
+    "Versification": "\u2014 four-line \u2014 aabb",
+    "_description": "Alphabetical sequence of aphorisms \u2014 twenty-three quatrains (aabb)",
+    "_witnesses": {
+        "BodGouNor43": {
+            "First Lines": "\nAnd if thou wost what thing it were\u2026\n",
+            "Last Lines": "\n\u2026Be merry honest and liberal\n",
+            "Editions": "\nCrum,  Margaret. \n             First-Line Index of English Poetry 1500-1800 in Manuscripts of the\n                Bodleian Library, Oxford.\n         2 vols. Oxford: Clarendon, 1969: 1.A1277.\n",
+            "folio": "ff. 52v-53"
+        },
+        "BLAdd60577": {
+            "First Lines": "\nAnd yff thou wyst what thyng yt wereconnyng to lerne and with the\n                    bere\u2026\n",
+            "Last Lines": "\n\u2026yt ys a vertu a bove all thyngto be occupyd in vertu &\n                    lernyng\n",
+            "Note": "\nIntroduced by rhyming quatrain, beg. \u2018here folowyth the propre\n                    treatyse\u2026\u2019; see 1970.",
+            "Facsimiles": "\nWilson,  Edward. \n             \u201cIntroduction.\u201d \n             The Winchester Anthology. A Facsimile of British Library Additional\n                Manuscript 60577. With an account of the music by \n                    Iain\n                    Fenlon. \n         Cambridge: D. S. Brewer, 1981. \n",
+            "folio": "ff. 59-60v"
+        }
+    }
+}

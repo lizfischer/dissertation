@@ -1,0 +1,14 @@
+{
+    "_id": 92,
+    "_header": "A lion rampant with his paw",
+    "Subjects": "sermons, verse in; aphorisms",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Verses in a collection of friar sermons \u2014 two couplets",
+    "_witnesses": {
+        "Basel": {
+            "First Lines": "\nA lyoun raumpaund wit his powe\u2026\n",
+            "Editions": "\nMeyer,  Gustav,  and  Max Burckhardt.  \n             Die mittelalterlichen Handschriften der Universit\u00e4tsbibliothek\n                Basel, beschreibendes Verzeichnis. Abteilung B, Theologische\n                Pergamenthandschriften.\n         Basel: Verlag der Universit\u00e4tsbibliothek, 1960-1975: 853.\n",
+            "folio": "f. 113"
+        }
+    }
+}

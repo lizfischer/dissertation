@@ -1,0 +1,30 @@
+{
+    "_id": 6477,
+    "_header": "When thunder cometh in January",
+    "Subjects": "prognostications",
+    "Versification": "\u2014 four-line \u2014 aabb",
+    "_description": "Prognostications from the amount of thunder in the months of the year \u2014 twelve quatrains in couplets",
+    "_witnesses": {
+        "CULFf548": {
+            "First Lines": "\nWhen thonder come\u00fe in Ianeuere\u00deou shalt haue \u00feat\n                    ilke \u021dereMyche frute and gret werreOf folk \u00feat life vnder\n                    sterre\u2026\n",
+            "Last Lines": "\n\u2026We shal \u00feorow \u00fee grace of owre LordeHaue pees and\n                    gyr\u00fee goode acorde\n",
+            "Note": "\nHeadings for each stanza, e.g. \u2018Janeuere sol in\n                        aquario\u2019 for first.",
+            "Attributed Title": "\nHere sueth a tabull of diuerse moneth in the \u021dere If thonder be herd\n                    in theym what it betokeneth After her seyng that ar holdyn wyse men of soch\n                    thyngus (f. 9v)",
+            "Editions": "\n\nF\u00f6rster,  Max. \n             \u201cBeitr\u00e4ge zur mittelalterlichen Volkskunde, VI-VII.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         128 (1912): 55-71; 285-308: 285-7.\nDowning,  Janay Young A.,\n                        ed.  \n             \u201cA Critical Edition of Cambridge University MS Ff.5.48.\u201d \n         2 vols. Diss. University of Washington, 1969: 19-21.\n\n",
+            "folio": "ff. 9v-10v"
+        },
+        "DurCathB334": {
+            "First Lines": "\nWan [thonder] comes in ianuari\u00fean is [ ] ilk [\n                    ]\u2026\n",
+            "Last Lines": "\n\u2026Pray we alle \u00feat it so beAmen amen for\n                    carite\n",
+            "Note": "\n29 couplets, two for each month except July with three, plus an\n                    eight-line conclusion; names of the months in rubric to right of each 4-line\n                    grouping.",
+            "folio": "dorso"
+        },
+        "NLS1931": {
+            "First Lines": "\nWhen \u00fee thoner cummes in Ianuere\u00feen schall we haue\n                    \u00feat ilke \u021dereMecull fryutte & ille weyreOf folke\n                    \u00feat ben vnstere\u2026\n",
+            "Last Lines": "\n\u2026& corne shall wax a parti derehongur betokens \u00fee\n                    wext \u021dere\n",
+            "Note": "\nFive quatrains, rhyming aabb, for first five months, interspersed with\n                        5489, both written as\n                    prose.",
+            "Facsimiles": "\nHardman,  Phillipa. \n             The Heege Manuscript: A Facsimile of National Library of Scotland MS\n                Advocates 19.3.1.\n         Leeds Texts and Monographs, n.s. 16. Leeds: School of English,\n            2000. \n",
+            "folio": "ff. 212-212v"
+        }
+    }
+}

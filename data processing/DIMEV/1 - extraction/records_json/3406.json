@@ -1,0 +1,69 @@
+{
+    "_id": 3406,
+    "_header": "Many winter witterly / Ere Christ were born of our Lady",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Esther, queen, story of; Old Testament",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Story of Queen Esther, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nMOny winter witerlyOr crist weore boren of vre\n                    ladi\u2026\n",
+            "Last Lines": "\n\u2026Vre lord bringe vs to \u00feat blis\u00feat to goode men\n                    grei\u00feed is. AMEN.\n",
+            "Attributed Title": "\nOf amon and of mardocheus (f. 213vc)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDie Evangelien-Geschichten der Homiliensammlung des Ms. Vernon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         57 (1877): 241-316: 310.\n",
+            "folio": "ff. 213vc-214rc"
+        },
+        "BodAsh42": {
+            "First Lines": "\nHEre maie \u021de se \u00fee felonieOf \u00fee Iewes \u00feat\n                    \u00feorgh enuye\u2026\n",
+            "Last Lines": "\n\u2026Oure lorde bringe vs to \u00feat blisse\u00feat to swilk men\n                    graithid is . Amen .\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 228-231v"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nfful many wynters witerlyOr crist was borne of oure\n                    lady\u2026\n",
+            "Last Lines": "\n\u2026\u00deus til do god lene vs myghtAnd bryng vs alle til heuen\n                    bright Amen\n",
+            "folio": "pp. 351-357"
+        },
+        "CULDd11": {
+            "First Lines": "\nFvl many wynter sekirlior crist was born of oure\n                    ladi\u2026\n",
+            "Last Lines": "\n\u2026\u00deus to do god \u021deue vs myght& bring vs alle to\n                    heuene bright Amen\n",
+            "Attributed Title": "\nNarracio (fr. 209v)",
+            "folio": "f. 209v"
+        },
+        "CULGg531": {
+            "First Lines": "\nMany wyntere wytterlyAr god was born of our\n                    lady\u2026\n",
+            "Last Lines": "\n\u2026Oure lord bryng vs to \u00feat blys\u00deat tyll gude\n                    doctours graythed ys\n",
+            "Attributed Title": "\nNarracio (f. 151v)",
+            "folio": "ff. 151v-154v"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nMOni wynter witerliOr crist were born of vre\n                    ladi\u2026\n",
+            "Last Lines": "\n\u2026Vre lord bringe vs to \u00feat blis\u00deat to goode men\n                    grei\u00feed is. Amen\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 18ra-18rc"
+        },
+        "BLHar2391": {
+            "First Lines": "\nMany a wyntir wytterlyOr god was born of owr lady\u2026\n",
+            "Last Lines": "\n\u2026owr lord bryng vs to \u00feat blys\u00feat to swylk men grantyd ys\n",
+            "Note": "\nEnds \u201cAmen.\u201d",
+            "Attributed Title": "\nDominica xxiii (left margin, f. 224v) with \u201cA tale\u201d written below",
+            "folio": "ff. 224v-227v"
+        },
+        "Lam260": {
+            "folio": "f. 62ra"
+        },
+        "MinULZ822": {
+            "First Lines": "\nMany wynter wyterlyor cryste was borne of oure\n                    lade\u2026\n",
+            "Last Lines": "\n\u2026Oure lorde brynge vs to \u00feat blyse\u00deat tyll gude\n                    docturs graythede ys\n",
+            "Attributed Title": "\nNarracio bona (added, top r. margin, f. 184v)",
+            "folio": "ff. 184v-187"
+        },
+        "HunHM129": {
+            "First Lines": "\nMany wyntyr wyttirlyOr crist wos borne off oure\n                    leuedy\u2026\n",
+            "Last Lines": "\n\u2026Oure loueryd bryng vs to \u00feat blys\u00deat to gode\n                    dettowrys graythid is\n",
+            "Attributed Title": "\nrelacio (f. 193v)",
+            "folio": "ff. 193v-196v"
+        }
+    }
+}

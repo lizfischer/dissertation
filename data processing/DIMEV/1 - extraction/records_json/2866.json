@@ -1,0 +1,50 @@
+{
+    "_id": 2866,
+    "_header": "Jesu lord of mights most / Father and son and holy ghost",
+    "Note": "Cf. 762.",
+    "Title(s)": "Visio Tundali",
+    "Subjects": "legends, of the afterlife; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018Visio Tundali\u2019 \u2014 in couplets",
+    "_witnesses": {
+        "BodAsh1491": {
+            "First Lines": "\nAnd Goddes body \u00feat I schal takeFor all my synnes I will\n                    forsake\u2026\n",
+            "Last Lines": "\n\u2026He sawe fendes and soules flyeIn \u00feat piler bo\u00fee\n                    lowe and hi\u021de\n",
+            "Note": "\nLines 2307-26; 115-386; 700-1165.",
+            "Editions": "\nWagner,  Albrecht,\n                        ed.  \n             Tundale. Das mittelenglische Gedicht \u00fcber die Vision des Tundalus\n                auf Grund von vier Handschriften mit Einleitung und Anmerkungen.\n         Halle: Niemeyer, 1893. \n",
+            "folio": "pp. 1-10"
+        },
+        "BlCottCalAII": {
+            "First Lines": "\nIhesu lorde of my\u021dtes mosteffadyr & sone & holy\n                    gooste\u2026\n",
+            "Last Lines": "\n\u2026Iwone of \u021dou \u00feat han herde meSayth amen for\n                    charyte\n",
+            "Note": "\nLines 2307-26; 115-386; 700-1165.",
+            "Attributed Title": "\nTundale (upper margin, f. 95v, and as RT thereafter on verso\n                    sides only); Explicit Tundale (beneath last line, f. 107vb); A poeme\n                    intitled Tundale (f. 1, sixteenth-century list of contents)",
+            "Editions": "\n\nWagner,  Albrecht,\n                        ed.  \n             Tundale. Das mittelenglische Gedicht \u00fcber die Vision des Tundalus\n                auf Grund von vier Handschriften mit Einleitung und Anmerkungen.\n         Halle: Niemeyer, 1893. \nMearns,  Rodney,\n                        ed.  \n             The Vision of Tundale, edited from B.L. MS Cotton Caligula A\n                II.\nMiddle English Texts\n         18. Heidelberg: Universit\u00e4tsverlag/Carl Winter,\n            1985. \n\n",
+            "folio": "ff. 95va-107vb"
+        },
+        "BLRoy17Bxliii": {
+            "First Lines": "\n\u2026ffor \u00fee whiche \u00fee penes were vn tolde\u00deat man\n                    hym prayes of respite\u2026\n",
+            "Last Lines": "\n\u2026Ilkone of \u021dow \u00feat has herd meSayis amen for\n                    charite\n",
+            "Note": "\nLines 1-63 wanting.",
+            "Attributed Title": "\nExplicit Tondale (f. 184)",
+            "Editions": "\nWagner,  Albrecht,\n                        ed.  \n             Tundale. Das mittelenglische Gedicht \u00fcber die Vision des Tundalus\n                auf Grund von vier Handschriften mit Einleitung und Anmerkungen.\n         Halle: Niemeyer, 1893. \n",
+            "folio": "ff. 150-184"
+        },
+        "NLS1931": {
+            "First Lines": "\nIhesu cryst lord off my\u021dttes mostffader and son and holy\n                    gost\u2026\n",
+            "Last Lines": "\n\u2026ylkon of yow \u00feat have hard meeSey\u00fee Amen for\n                    charytee\n",
+            "Note": "\nLines 2386; followed by 762.",
+            "Attributed Title": "\nTyndale (heading, f. 98); tundale (RT); Explicit tundale quod hyhen\n                    (f. 157v)",
+            "Facsimiles": "\nHardman,  Phillipa. \n             The Heege Manuscript: A Facsimile of National Library of Scotland MS\n                Advocates 19.3.1.\n         Leeds Texts and Monographs, n.s. 16. Leeds: School of English,\n            2000. \n",
+            "Editions": "\n\nWagner,  Albrecht,\n                        ed.  \n             Tundale. Das mittelenglische Gedicht \u00fcber die Vision des Tundalus\n                auf Grund von vier Handschriften mit Einleitung und Anmerkungen.\n         Halle: Niemeyer, 1893. \nTurnbull,  William Barclay David Donald,\n                        ed.  \n             The Visions of Tundale.\n         Edinburgh: T.G. Stevenson, 1843: 1-76.\nFoster,  Edward E.,\n                        ed.  \n             Three Purgatory\n                    Poems: The Gast of Guy, Sir Owain, The Vision of Tundale.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2004. \n\n",
+            "folio": "ff. 98-157v"
+        },
+        "TokyoTak32": {
+            "First Lines": "\n\u2026[lor]d of myghttis mo\u2026\u2026and sone\n                    and\u2026\n",
+            "Last Lines": "\n\u2026herd mee\u2026nt cherite\n",
+            "Note": "\nFirst 10 lines, other lines passim, and much of the final folio\n                    illegible.",
+            "Attributed Title": "\nHer be gynnyht a good storie of Tundale (f. 166v); Tundale\n                    (RT)",
+            "folio": "ff. 166va-175vb"
+        }
+    }
+}

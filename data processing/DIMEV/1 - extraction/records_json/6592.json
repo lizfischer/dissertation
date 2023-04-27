@@ -1,0 +1,64 @@
+{
+    "_id": 6592,
+    "_header": "Whole and healing sooth and sorrowing",
+    "Note": "Formerly 1223; realphabetized.",
+    "Subjects": "sermons, verse in; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The qualities of a good confession, a tag in the Fasciculus Morum \u2014 one couplet directly translating \u2018integra et festina / vera et amara\u2019",
+    "_witnesses": {
+        "Bod187": {
+            "Transcription": "\nHol & hying or spedely y doso\u00fe and sorwyng\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 178rb"
+        },
+        "Bod410": {
+            "Transcription": "\nHol & hyyngSoth & sorwyng\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 57v"
+        },
+        "BodLauMis213": {
+            "Transcription": "\nhole & heying sothe & sorowyng\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 99v"
+        },
+        "BodLauMis568": {
+            "Transcription": "\nhol hyyngsothe and sorwyng\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 71rb"
+        },
+        "BodRawC670": {
+            "Transcription": "\nHool & hyyngSo\u00fee and sorowyng\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 186.\n",
+            "folio": "f. 100"
+        },
+        "CamGon71": {
+            "Transcription": "\nhol & helyng soth & sorwyng\n",
+            "folio": "f. 64"
+        },
+        "CamStJohn159": {
+            "Transcription": "\nHole & hyinge Sothe & sorwinge\n",
+            "Note": "\nWritten as prose, 1 x 2, separated.",
+            "folio": "f. 129v"
+        },
+        "EDU82": {
+            "Transcription": "\nhole and hyyngsothe and sorouyng\n",
+            "folio": "f. 125v"
+        },
+        "Lincoln44": {
+            "folio": "f. 202av"
+        },
+        "Spalding": {
+            "Transcription": "\nHole and hyyngeSoth & Soroyng\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 105"
+        },
+        "WorcF19": {
+            "Transcription": "\nhole & hying suth & sorwyng\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 204vb"
+        },
+        "VaticanOtto": {
+            "folio": "f. 64v"
+        }
+    }
+}

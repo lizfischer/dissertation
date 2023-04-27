@@ -1,0 +1,16 @@
+{
+    "_id": 5362,
+    "_header": "The kings son swear by Gods cross",
+    "Title(s)": "Bevis of Hamptoun",
+    "Subjects": "romances",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "A fifteenth-century fragment of a variant text of Bevis of Hamptoun (corresponds to pp. 129-144 of K\u00f6lbing (1885)\nXK\u00f6lbing, Eugen. The Romance of Sir Beues of Hamtoun.\nEETS e.s. 46 (1885), 48 (1886), 65 (1894); repr. 1973 see 3250)",
+    "_witnesses": {
+        "CamTCC1117": {
+            "First Lines": "\n\u2026The kynges sone swer by godes CrosseThat he shuld Aryndedell\n                    stele\u2026\n",
+            "Last Lines": "\n\u2026Steward he was of that londeAs sabir gan to vnder\n                    stonde\n",
+            "Note": "\nBelow (as a chorus?): \u2018As sabyr gan to vnder stonde / Amen for\n                    sent charite / Amen for / As sabyr gan to vndrstond / Amen\u2019 (f.\n                    152)",
+            "folio": "ff. 149-152"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "_id": 5629,
+    "_header": "Thieves friend and lords purse",
+    "Subjects": "Jerome, saint; riddles; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A riddle on money, translating Latin ascribed to St. Jerome \u2014 one couplet",
+    "_witnesses": {
+        "Bod828": {
+            "Transcription": "\n\u00feeues frend and louerdes porseComune chest & crystes\n                    corse\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nUtley,  Francis Lee. \n             \u201cThe Layman\u2019s Complaint and the Friar\u2019s Answer.\u201d \n             Harvard Theological Review\n         38 (1945): 141-7: 109.\n",
+            "folio": "f. 229"
+        }
+    }
+}

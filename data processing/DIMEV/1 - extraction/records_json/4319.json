@@ -1,0 +1,26 @@
+{
+    "_id": 4319,
+    "_header": "Our Lady free on Rood tree made Her moan",
+    "Note": "For other MSS that prefix an introductory stanza see 3956. For an edition not based on a specific MS, see Fein (1998)\nXFein, Susanna Greer. Moral Love Songs and Laments. Kalamazoo, MI: Western Michigan University for TEAMS, 1998.",
+    "Subjects": "Virgin Mary, as speaker in debates; Cross; debates",
+    "Versification": "\u2014 irregular \u2014 ababababcdddc, aabccbddbeebfgggf",
+    "_description": "The Disputation between the Virgin Mary and the Cross \u2014 13-line stanzas, ababababcdddc, with an introduction and conclusion in which the first eight lines are expanded to twelve short lines, aabccbddbeebfgggf",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nOure ladi freo on Rode treo made hire monHeo seide on \u00fee\n                    \u00fee fruit of me is wo bigon\u2026\n",
+            "Last Lines": "\n\u2026And Marie prei\u021ders \u00feat ben ful goodeGrant vs\n                    \u00fee lyf of grace. Amen.\n",
+            "Note": "\n528 lines.",
+            "Attributed Title": "\nExplicit disputacio inter Mariam / Et Crucem. secundum Apocrasum.\n                    (f. 316vc)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nMorris,  Richard,\n                        ed.  \n             Legends of the Holy Rood, Symbols of the Passion, and\n                Cross-Poems.\nEETS\n         o.s. 46 (1871); repr. 1973: 131-49.\nHolthausen,  Ferdinand. \n             \u201cDer mittelenglische Disput zwischen Maria und dem Kreuze.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         105 (1900): 22-9: 22-9 (with Latin parallel text).\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 2.612-26.\n\n",
+            "folio": "ff. 315vc-316vc"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nOure ladi fre on rode tre made hir monHeo seide on \u00fee \u00fee\n                    fruite of me is wo bigon\u2026\n",
+            "Last Lines": "\n\u2026And marie preieres \u00feat bene ful goodeGraunt vs \u00fee\n                    lyf of grace Amen\n",
+            "Attributed Title": "\nHere begynne\u00fe A lamentacion \u00feat vre / lady made to \u00fee Cros\n                    of hir soone (f. 124vb, rubric); Explicit disputacio inter Mariam\n                        et Crucem / et est Apocrasum (f. 125vb)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 124vb-125vb"
+        }
+    }
+}

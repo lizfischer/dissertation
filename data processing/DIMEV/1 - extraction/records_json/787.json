@@ -1,0 +1,99 @@
+{
+    "_id": 787,
+    "_header": "Before six days of Easter on Palm Sunday eve / Jesu came",
+    "Note": "Cf. 3766, 3767. Earlier editions of Brown and Robbins (1943)\nXCarleton Fairchild Brown, and Rossell Hope Robbins. The Index of Middle English Verse. New York: Printed for the Index Society by Columbia University Press, 1943 treated section headings of this work as separate entries (e.g., 126, 396, 409, 443, 578, 719); for a discussion of reasons for their deletion see Pickering (1973)\nXPickering, Oliver S. \u201cThe Temporale Narratives of the South English Legendary.\u201d Anglia 91 (1973): 425-55, 443, n. 36.",
+    "Title(s)": "South English Legendary ; Southern Passion",
+    "Subjects": "Christ, Passion of; Passion",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018The Southern Passion\u2019, in several MSS of the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "BodAddC38": {
+            "Note": "\n1003 lines.",
+            "folio": "ff. 84v-96v"
+        },
+        "Bod779": {
+            "First Lines": "\nAfter two dawes \u021de wete wel \u00feat ester schal comeWhan\n                    goddes son schold be I take to gewes & ek I nome\u2026\n",
+            "Last Lines": "\n\u2026lord as \u00feou fulfildist \u00fey postlis wit \u00fee holygost\n                    in er\u00fee soso fulfille vs here in er\u00fee to heuin \u00feat we\n                    strey\u021dt go\n",
+            "Note": "\nSeveral texts (1546,\n                        5334, 2105, 2106, 2120, 2647, 5809) that follow this treated as part of this in that\n                    no separate headings for them; altogether 1673 lines.The final two lines of 5809 (\u201c& bryng vs to oure eritage In to \u00fey wonyng / \u00feou graunte vs lord \u00feat we so mote Ihesus almy\u021dty kyng.\u201d) appear earlier in the MS on f. 41r.",
+            "Attributed Title": "\nPassion of crist (f. 25v); \u00fee hi\u021de feste of\n                    Whitsonetyd (f. 172)",
+            "folio": "ff. 25v-41;  171-172v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nBI fore six dayes of Aster as a palmesone eueIhesu com to Betanye\n                    \u00feer to bi leue\u2026\n",
+            "Last Lines": "\n\u2026Now Ihesu for \u00fee swete Crois \u00feat \u00feou weore onne i\n                    doBring vs to \u00fee ioye of heuene \u00feat \u00feou vs bouhtest to.\n                    A.M.E.N.\n",
+            "Note": "\n5809 treated separately (fols.\n                        25vb-26ra) but probably should be regarded as a\n                    subsection of 787.",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 19va3-27rb"
+        },
+        "BodTan17": {
+            "First Lines": "\nBefore vi daies of esterne as a palm son eueIhesu cam to bethame\n                    \u00feere to be leue\u2026\n",
+            "Last Lines": "\n\u2026Now ihesu for \u00fei swete cros \u00feat \u00feou were onne I\n                    doBringe vs to \u00fee ioye of heuen \u00feat \u00feou vs bou\u021dtist\n                    to\n",
+            "Note": "\n2616 lines; break between this text and the heading of the\n                        Resurrectio comes 24 lines earlier in this MS than usual, thus\n                    ending, \u2018pour seint siluester \u00fee pope \u00feat oure lordis bodi also\n                    / Schal be saccid up \u00fee auter and in pur lyne clo\u00fe I do\u2019 (f.\n                    69)",
+            "folio": "ff. 48v-80"
+        },
+        "OxfTri57": {
+            "First Lines": "\nBy fore sixe dayes of ester as a Palm son eueIhesu com to Bethanye\n                    \u00feere to by leue\u2026\n",
+            "Last Lines": "\n\u2026Now ihesu for \u00fee swete crois \u00feat \u00feu were on y\n                    doBringe vs to \u00fee ioye of heuene \u00feat \u00feu vs bo\u021dtest\n                    to\n",
+            "Note": "\n1588 lines; break between this text and the heading of the\n                        Resurrectio comes 12 lines later in this MS than usual, thus ending,\n                    \u2018Ac hol by leuede his \u00ferow and no\u00feyng vndo / I hol by leuede his\n                    moder wombe \u00feo he was ybore al so\u2019 (f. 14v); written as\n                    stanzas of six, aabbcc.",
+            "Attributed Title": "\npassio domini (f. 7 and RT)",
+            "folio": "ff. 7-22v"
+        },
+        "CULFf548": {
+            "First Lines": "\nBe for sex days of paske at palme sounday it isIhesu sum to bethany\n                    to duell \u00feer I wis\u2026\n",
+            "Last Lines": "\n\u2026\u00deat wos bro\u021dt to to cristendome \u00feat sprede a boute\n                    full wide\u021cet sais oure lorde to \u00fee Iwes in \u00feis ilke\n                    tide\u2026\n",
+            "Note": "\nImperfect at end due to lost folios 93 and 94 (cut out of\n                    MS)",
+            "Attributed Title": "\nDe Euandeliis aut sex dies passe (f. 87v)",
+            "Editions": "\nDowning,  Janay Young A.,\n                        ed.  \n             \u201cA Critical Edition of Cambridge University MS Ff.5.48.\u201d \n         2 vols. Diss. University of Washington, 1969: 238-48.\n",
+            "folio": "ff. 87v-92v"
+        },
+        "CamKC13": {
+            "First Lines": "\nBi fore six dayes of estar as a palm sonne eueIhesu wente to\n                    bethanye \u00feer to bi leue\u2026\n",
+            "Last Lines": "\n\u2026Now ihesu for \u00fee swete crois \u00feat \u00feou were on y\n                    doBring to \u00fee blisse of heuene \u00feat \u00feou vs bou\u021dtest\n                    to\n",
+            "Note": "\n2549 lines",
+            "Editions": "\nDowning,  Janay Young A.,\n                        ed.  \n             \u201cA Critical Edition of Cambridge University MS Ff.5.48.\u201d \n         2 vols. Diss. University of Washington, 1969: 238-48.\n",
+            "folio": "Part II, ff. 3-32"
+        },
+        "CamMagPep2344": {
+            "First Lines": "\nBy ffore six dayes of Ester as a palme sone eueIesus wente to\n                    Bethanye \u00feere to by leue\u2026\n",
+            "Last Lines": "\n\u2026Now Ihesu ffor \u00fee swete croys \u00feat \u00feou were on\n                    ydoBryng vs to \u00fee blisse of heuene \u00feat \u00feou vs bou\u021dtest\n                    to\n",
+            "Note": "\n2546 lines",
+            "Attributed Title": "\nEwangelium in quadragesime (RT); Passio domini in Ewangelium\n                        dicatur (RT); Assencio domini (RT); Pentecoste\n                    (RT)",
+            "Editions": "\nBrown,  Beatrice Daw,\n                        ed.  \n             The Southern Passion, Pepysian MS. 2344\nEETS\n         o.s. 169 (1927); repr. 1987. \n",
+            "folio": "pp. 183-237"
+        },
+        "CamTCC605": {
+            "Transcription": "\n\u2026& now many goud men do\u00fe also preche\u00fe aboute\n                    lomeAc of prechyng hit wor\u00fe nede or \u00fee day of dome\n",
+            "Note": "\nImperfect beginning",
+            "Facsimiles": "\n\nDigital Facsimile of Trinity College Cambridge MS R.3.25.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.25. \n",
+            "folio": "ff. 187(???)v-188"
+        },
+        "BLCottVesAIII": {
+            "First Lines": "\nBeside \u00fee cros stode his mod\u00deat was ful of\n                    woo\u2026\n",
+            "Last Lines": "\n\u2026His body bode be taken donFor \u00fee fest os i saide\n                    ere\n",
+            "Note": "\nAn extract inserted in the text of Cursor Mundi.",
+            "Editions": "\n\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 956-65.\nBrown,  Beatrice Daw,\n                        ed.  \n             The Southern Passion, Pepysian MS. 2344\nEETS\n         o.s. 169 (1927); repr. 1987: 55-61.\n\n",
+            "folio": "ff. 92ra-93rb"
+        },
+        "BLEge2891": {
+            "First Lines": "\n[\u00a0\u00a0\u00a0]fter as apaline sone eue[\u00a0\u00a0\u00a0]re to byleue\u2026\n",
+            "Last Lines": "\n\u2026Ac ich wene wolde cristendom bote miracles come amongffor we see\u00fe monnes heorte was euere hard an strong\n",
+            "Note": "\n1413 lines. Beginnings of first 18 lines lost through damage to the leaf; 5809 embedded in this text.",
+            "Attributed Title": "\nPassio domini nostri Ihesu cristi secundum Mattheum (rubric in margin, f. 40)",
+            "folio": "ff. 40-57v"
+        },
+        "BLHar2277": {
+            "First Lines": "\nBifore six dayes of ester a palmsone eueIhesu crist com to betanye \u00feer to bileue\u2026\n",
+            "Last Lines": "\n\u2026Nou ihesu for \u00fee suete croice \u00feat \u00feu were on idoBring ous to \u00fee ioye of heuene \u00feat \u00feu ous bou\u021dtest to\n",
+            "Note": "\nIncomplete (1645 lines), twelve leaves missing between ff. 11 and\n                    12. Saint Thomas (5809) embedded in this. Ends \u201cAmen.\u201d",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 2277.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_2277. \n",
+            "Editions": "\nBrown,  Carleton Fairchild. \n             \u201cThe Cursor Mundi and the \u2018Southern Passion\u2019.\u201d \n             Modern Language Notes\n         26 (1911): 15-18: 15-18.\n",
+            "folio": "ff. 4-26"
+        },
+        "TokyoTak54": {
+            "First Lines": "\nTofore .vj. daies of Ester as on palmsoun eveThus came to Betanye\n                    \u00feer to bileve\u2026\n",
+            "Last Lines": "\n\u2026Now Ihesu for \u00fee swete croys \u00feat \u00feou were on\n                    ydoBring vs to \u00fee Ioy of heuene \u00feat \u00feou hem brou\u021dtest\n                    to. Amen.\n",
+            "Note": "\nIncorporates Easter (5334), ff. 63v-64; omits lines 427-530,\n                    729-46, 1837-1016.",
+            "folio": "ff. 42v-72"
+        }
+    }
+}

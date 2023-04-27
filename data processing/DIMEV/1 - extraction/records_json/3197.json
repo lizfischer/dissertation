@@ -1,0 +1,26 @@
+{
+    "_id": 3197,
+    "_header": "Lord God in Trinity / Give them heaven for to see",
+    "Title(s)": "Sir Degrevant",
+    "Subjects": "romances",
+    "Versification": "\u2014 sixteen-line \u2014 aaabcccbdddbeeeb",
+    "_description": "Sir Degrevant \u2014 in 16-line stanzas (aaabcccbdddbeeeb)",
+    "_witnesses": {
+        "CULFf16": {
+            "Transcription": "\nLord gode in triniteGyff hem heuen forto see\u00feat louet gamen\n                    & gleAnd gestus to fedehere e\n\n",
+            "Note": "\nFirst four lines only; follows immediately after 1953-1 without break;\n                    formerly 908.4. Followed by the signatures of \u2018Elizabet Koton\u2019 and\n                    \u2018Elisabet frauncys.\u2019",
+            "Facsimiles": "\nBeadle,  Richard,  and  Alfred E. B. Owen.  \n             The Findern Manuscript: Cambridge University Library MS. F.1.6.\n         London: Scolar Press, 1977. \n",
+            "Editions": "\nRobbins,  Rossell Hope. \n             \u201cThe Findern Anthology.\u201d \n             PMLA\n         69 (1954): 610-42: 626.\n",
+            "folio": "f. 109vb"
+        },
+        "Lincoln91": {
+            "First Lines": "\nIhesu Lorde in TryniteGraunte \u00feam heuene for to\n                    see\u2026\n",
+            "Last Lines": "\n\u2026Graunte vs all in heuene to beThy Worthy face for to\n                    SeeAnd gyff vs wele to spede\n",
+            "Note": "\nA leaf missing after f. 133, leaving a stub which has only a bit of text\n                    remaining on verso to show it was written; \u2018b\u2019 rhyming lines written\n                    to right of their triplets; ends, \u2018Am[en] Amen Explicit sir\n                    degreuant.\u2019",
+            "Attributed Title": "\nExplicit se[r] Degreuant (f. 138va)",
+            "Facsimiles": "\nBrewer,  Derek Stanley,  and  A. E. B. Owen.  \n             \u201cIntroduction.\u201d \n             The Thornton Manuscript (Lincoln Cathedral MS. 91).\n         London: Scolar Press, 1975. \n",
+            "Editions": "\n\nSchleich,  Gustav,\n                        ed.  \n             \u201cCollationen zu mittelenglische Dichtungen: Sir Degrevant.\u201d \n             Englische Studien\n         12 (1889): 139-42: 141-2 (first 96 lines only).\nLuick,  Karl,\n                        ed.  \n             Sir Degrevant.\nWiener Beitr\u00e4ge\n         47. Wien: Braum\u00fcller, 1917. \nCasson,  L. F.,\n                        ed.  \n             The Romance of Sir Degrevant.\nEETS\n         o.s. 221 (1949); repr. 1970. \n\n",
+            "folio": "ff. 130ra-138va"
+        }
+    }
+}

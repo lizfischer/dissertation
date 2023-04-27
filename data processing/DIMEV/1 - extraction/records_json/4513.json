@@ -1,0 +1,53 @@
+{
+    "_id": 4513,
+    "_header": "Rome no thing is peer to thee",
+    "Author(s)": "John Trevisa; Ranulph Higden",
+    "Title(s)": "Polychronicon",
+    "Subjects": "Rome; chronicles, verse in",
+    "Bibliographic Ghosts": "Manchester, Chetham\u2019s Library 11379 [Mun. A.6.90]: this copy of Trevisa is missing chapters 20-30 between folios 45 and 46; Glasgow, Glasgow University Library Hunterian 83 (T.3.21): this is Brut Chronicle, not Trevisa; New York, Pierpont Morgan Library M875 [olim Helmingham Hall]: Only Trevisa\u2019s De Proprietatibus here, not Polychronicon.",
+    "_description": "In praise of Rome \u2014 one quatrain in Trevisa\u2019s translation of Higden\u2019s Polychronicon (Book 1, chap. 24) \u2014 in quatrains",
+    "_witnesses": {
+        "CamStJohn204": {
+            "Transcription": "\nRome no \u00feing is pere to \u00fee\u00feey\u021d \u00feu nygh all\n                    fallynge beauaille \u00feu schewest \u00fey boundehow grete \u00feu\n                    were when \u00feow were sounde\n",
+            "Editions": "\n\nBabington,  Churchill,  and  Joseph Rawson Lumby, eds.  \n             Polychronicon Ranulphi Higden Monachi Cestrensis.\n             9 vols. \n             Rolls Series\n         41 (1865-66; repr. Kraus, 1964): 1.213.\nM\u00e4tzner,  Edouard Adolf Ferdinand. \n             Altenglische Sprachproben, I: Poesie.\n         Berlin: Wiedmann, 1867: 2.359.\n\n",
+            "folio": "f. 48ra"
+        },
+        "BLAdd24194": {
+            "Transcription": "\nRome no \u00feing is pere to \u00fee\u00feei\u021d \u00feu ny\u021d\n                    al fallynge beaualle \u00feu schewest \u00fey boundehow grete \u00feu\n                    were whan \u00feu were sounde\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 51ra"
+        },
+        "BLCottTibDVII": {
+            "Transcription": "\nRome no\u00feing peer ys to \u00fee\u00feey \u00feow ny\u021d all\n                    fallyng bea falle \u021dow schewest \u021dy bondHow greet \u021du were\n                    whan \u021du were sond\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 20v"
+        },
+        "BLHar1900": {
+            "Transcription": "\nRome no \u00feinge is pere to \u00feee\u00feou\u021d \u00feou\n                    nei\u021d fallinge beA walle \u00feu schewest \u00fei bondeHow grete\n                    \u00feu were whan \u00feu were sound\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 60v"
+        },
+        "BLSto65": {
+            "Transcription": "\nRome nothynge is pere to theThough thou neygh all faylynge beOn\n                    all \u00feou sheuest thy boundeHowe grete thou were whan thou were\n                    sounde\n",
+            "Note": "\nWritten as prose. Folio number reflects the most recent\n                    foliation.",
+            "folio": "f. 16ra"
+        },
+        "AbeUL21": {
+            "First Lines": "\nRome no \u00feing is \u00feere to \u00fee\u00feei\u021d \u00feou\n                    ny\u021d of fallyng de\u2026\n",
+            "Last Lines": "\n\u2026how grete \u00feou were whanne \u00feou were sounde\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 25rb"
+        },
+        "GULHun83": {
+            "folio": ""
+        },
+        "Schoyen194": {
+            "folio": ""
+        },
+        "HunHM28561": {
+            "Transcription": "\nRome no\u00feing is pere to \u00feee\u00feou\u021d \u00feou nei\u021d\n                    al falling beAualle \u00feou shewist \u00fey bondehow grete \u00feou\n                    were whan \u00feou were sounde\n",
+            "Note": "\nWritten as prose, four lines.",
+            "folio": "f. 58rb"
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "_id": 4274,
+    "_header": "On the ground there is an hill",
+    "Note": "Formerly included under 2278.",
+    "Author(s)": "George Ripley (attrib.)",
+    "Title(s)": "Emblematical Scroll",
+    "Subjects": "illustrations, verse accompanying; alchemical poem",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "George Ripley, alchemical verse on the Ripley scrolls \u2014 eighteen couplets",
+    "_witnesses": {
+        "BodAshRol40": {
+            "First Lines": "\nOn \u00fee ground there is a hillallsoo A serpent in a\n                    well\u2026\n",
+            "Last Lines": "\n\u2026Of \u00fee [ ] \u00fee redhere truly is \u00fee very\n                    dede\n",
+            "Note": "\nPenultimate line written over and partly illegible.",
+            "folio": "first item on roll"
+        },
+        "CamFitz276": {
+            "First Lines": "\nOn the gronde ther is an helleAll so a sarpene wythyn a\n                    welleIs talle is long wyth wynges wyedeAll redy to flee be euerry\n                    syde\u2026\n",
+            "Last Lines": "\n\u2026Of the wythe stone and the redeLo here is the verry troue\n                    deede\n",
+            "Note": "\nEighteen couplets in two columns.",
+            "folio": "roll"
+        },
+        "EDCPRS": {
+            "First Lines": "\nOne the grownde there is an hillallsoe a serpente within a\n                    well\u2026\n",
+            "Last Lines": "\n\u2026of \u00fee white stone & the redheare is trewly the very\n                    ded\n",
+            "Note": "\nEighteen couplets in two columns of 9 x 2 each, second verse on\n                    roll.",
+            "Editions": "\nMcCallum,  R. I. \n             \u201cThe Ripley Scroll of the Royal College of Physicians of\n                Edinburgh.\u201d \n             Vesalius\n         2:1 (June, 1996): 39-49: 39-46.\n",
+            "folio": "item 2"
+        },
+        "YaleBeiMel41": {
+            "folio": "a roll"
+        },
+        "PUL93": {
+            "First Lines": "\nOn the grounede there ys an hellAlso a sarpent wythine a\n                    well\u2026\n",
+            "Last Lines": "\n\u2026of the wyche stone and the redeher ys the very trew\n                    dede\n",
+            "Note": "\nTwo columns of nine couplets each, the left rubric, the right\n                    black.",
+            "folio": "second item"
+        },
+        "HunHM30313": {
+            "First Lines": "\nOn the ground there is a hillAllso a Serpent in a\n                    well\u2026\n",
+            "Last Lines": "\n\u2026Of the White Stone and the redHere truly is the very\n                    deede\n",
+            "folio": "roll"
+        },
+        "YaleBeiOsfa16": {
+            "Transcription": "\nApon that earthe ther is a hyll& a serpent in a wellclos\n                    then thy well well aboutthat the serpent get not outfor and the\n                    serpent be agoneadew fare well all is forlorne\n",
+            "Note": "\nPage numbered 38; written by a hand of the sixteenth century; ends,\n                    \u2018fynis\u2019.",
+            "folio": "f. 3va"
+        }
+    }
+}

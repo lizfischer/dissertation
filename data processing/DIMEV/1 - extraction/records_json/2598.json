@@ -1,0 +1,21 @@
+{
+    "_id": 2598,
+    "_header": "In the country heard was we",
+    "Subjects": "Yorkshire, rising in (1392); historical poems",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "Rimes on the Rising in Yorkshire (1392) \u2014 five 6-line stanzas (aabccb)",
+    "_witnesses": {
+        "BLSto393": {
+            "Editions": "\nRobbins,  Rossell Hope,\n                        ed.  \n             Historical Poems of the XIV and XV Centuries.\n         New York: Columbia UP, 1959: 60-1.\n",
+            "folio": "f. 99v"
+        },
+        "PROKB9144": {
+            "Editions": "\nChambers,  Raymond Wilson,  and  Marjorie Daunt.  \n             A Book of London English, 1384-1425.\n         Oxford: Clarendon, 1931; repr. 1967: 276.\n",
+            "folio": ""
+        },
+        "PROCoranReg525": {
+            "Editions": "\n\nHewlett,  M. H. \n             \u201cTwo Political Songs of the Middle Ages.\u201d \n             Antiquary\n         2 (1880): 203: 202.\nPowell,  Edgar,  and  George Macaulay Trevelyan.  \n             The Peasants\u2019 Rising and the Lollards.\n         London: Longmans, Green, 1899: 19.\n\n",
+            "folio": "mm.57.d"
+        }
+    }
+}

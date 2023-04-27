@@ -1,0 +1,25 @@
+{
+    "_id": 1123,
+    "_header": "Devise prowess and eke humilitee",
+    "Note": "Ringler Jr. (1988)\nXRingler Jr., William A. Bibliography and Index of English Verse Printed 1476-1558. London: Mansell, 1988 TP 345.5.",
+    "Subjects": "women, against",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Virtuous maidens but wicked wives \u2014 seven stanzas rhyme royal",
+    "_witnesses": {
+        "BodArcSelB24": {
+            "First Lines": "\nDEuise prowes and eke humyliteeThat maidnys hath In euery\n                    wise\u2026\n",
+            "Last Lines": "\n\u2026Therfor thou from the Ioye of peradiseAnd thyne of spring was\n                    banyst for thy vice\n",
+            "Attributed Author": "\nQuod Chaucere quhen he was ryght auisit (f. 120)",
+            "Facsimiles": "\nBoffey,  Julia,  and  A. S. G. Edwards, eds.  \n             Chaucer, Works. Bodleian Library MS Arch Selden B.24: Facsimile\n                Edition.\n         Cambridge: D. S. Brewer, 1995. \n",
+            "folio": "ff. 119v-120"
+        },
+        "Banna": {
+            "First Lines": "\nDevyce proves and eik humilitiethat madyns had in everilk\n                    wyiss\u2026\n",
+            "Last Lines": "\n\u2026quhilk buir the barne that coverit ws frome cairscho beand\n                    virgin clenar than scho war\n",
+            "Attributed Author": "\nffinis quod chawseir (f. 263)",
+            "Facsimiles": "\nFox,  Denton,  and  William A. Ringler.  \n             The Bannatyne Manuscript: National Library of Scotland Advocates\u2019\n                MS. 1.1.6\n         London: Scolar Press, in Association with The National Library of\n            Scotland, 1980. \n",
+            "Editions": "\n\nMurdoch,  James Barclay. \n             The Bannatyne Manuscript.\n             4 vols. in 11 parts, paged continuously. \n             Hunterian Club\n         16, 32, 40, 46, 50, 55-56, 64-67 Glasgow: Anderson, 1873-1896: 766-8.\nRitchie,  W. Tod,\n                        ed.  \n             The Bannatyne Manuscript.\n             4 parts in 4 vols. \n             Scottish Text Society\n         3rd ser. 5 (1928); n.s. 22 (1928); n.s. 23 (1930); n.s. 26 (1934)\n            Edinburgh and London: Blackwood, 1928-34; ed. by Ritchie et al: 4.34-5.\nPinkerton,  John,\n                        ed.  \n             Scottish Poems Reprinted from Scarce Editions.\n         3 vols. London: Nicol, 1792: 3.130.\n\n",
+            "folio": "ff. 262v-263"
+        }
+    }
+}

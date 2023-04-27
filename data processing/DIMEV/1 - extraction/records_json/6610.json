@@ -1,0 +1,76 @@
+{
+    "_id": 6610,
+    "_header": "Whoso him bethought",
+    "Note": "For the original Latin cf. Pricke of Conscience, lines 898-99; for closely-related texts see 2378, 5009, and 5043; comp. edition Dibdin (1810)\nXDibdin, Thomas Frognall. Typographical Antiquities. Revised Joseph Ames and William Herbert. 4 vols. London: Bulmer, 1810, 1812, 1816, 1818, 2.331.",
+    "Subjects": "mortality",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Saffron Waldon, Essex, Tombstone Inscription (see Wells (1916)\nXWells, John Edwin. Manual of the Writings in Middle English, 1050-1400. New Haven, CT: Connecticut Academy of Arts and Sciences, 1916 1064; Weever (1631)\nXWeever, John. Ancient Funerall Monuments within the United Monarchie of Great Britaine. London: T. Harper, 1631 (STC 25223); repr. Amsterdam: Theatrum Orbis Terrarum; and NY: Walter Johnson, 1979 625; rpr. Hargreaves (1969)\nXHargreaves, Henry. \u201cMiddle English Lyrics in an Aberdeen University Library Manuscripts.\u201d Aberdeen University Review 43 (1969): 146-56 152) ; Diss, Norfolk, Tombstone Inscription (see Wells (1916)\nXWells, John Edwin. Manual of the Writings in Middle English, 1050-1400. New Haven, CT: Connecticut Academy of Arts and Sciences, 1916) ; London, British Library Harley 3211: see London, British Library Harley 3221 below.",
+    "_description": "A remembrance of Mortality \u2014 eight lines",
+    "_witnesses": {
+        "Bod416": {
+            "First Lines": "\nwho so him bi\u00feou\u021dte inwardlich and ofte\u2026 \n",
+            "Last Lines": "\n\u2026Ich wene \u00feat neuere synne ne shulde his herte wynne \n",
+            "Note": "\n14 lines; written as prose",
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 173-4; rpr.\nHargreaves (1969)\nXHargreaves,  Henry. \n             \u201cMiddle English Lyrics in an Aberdeen University Library\n                Manuscripts.\u201d \n             Aberdeen University Review\n         43 (1969): 146-56, 152.\n",
+            "folio": "f. 109"
+        },
+        "BodDouA314": {
+            "Transcription": "\nWho os hym be thoughtInwardely and oftehow harde yt is to\n                    flyttfrom bed vnto Pyttffrom pytt vnto paynewher shall neuer seas\n                    certaynewold not do oo Synneall this worlde to wynne\n",
+            "Note": "\nWritten on flyleaf of a printed copy of Arnold\u2019s Chronicle;\n                    sig. Vv.-verso; written two lines of text per line of manuscript.",
+            "Editions": "\nHargreaves,  Henry. \n             \u201cMiddle English Lyrics in an Aberdeen University Library\n                Manuscripts.\u201d \n             Aberdeen University Review\n         43 (1969): 146-56: 153.\n",
+            "folio": "f. 118v"
+        },
+        "BodTan407": {
+            "First Lines": "\nHe that hath thoughteful in wardly and ofte\u2026\n",
+            "Last Lines": "\n\u2026for alle thys world to wynnewold not do a synne\n",
+            "Note": "\n4 couplets",
+            "Editions": "\nMurray,  Hilda M. R.,\n                        ed.  \n             The Middle English Poem Erthe upon Erthe, printed from 24\n                manuscripts.\nEETS\n         o.s. 141 (1911); repr. 1964: 37.\n",
+            "folio": "f. 36v"
+        },
+        "CamMag13": {
+            "First Lines": "\nWho so hym bethoughtInwardely and ofte\u2026\n",
+            "Last Lines": "\n\u2026He wolde not doo oon synneAll this worlde for to\n                    wynne\n",
+            "Note": "\n4 couplets",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 173-4.\nJames,  Montague Rhodes. \n             A Descriptive Catalogue of the Manuscripts in the College Library of\n                Magdalene College Cambridge.\n         Cambridge: at the UP, 1909: 26; rpr.\nHargreaves (1969)\nXHargreaves,  Henry. \n             \u201cMiddle English Lyrics in an Aberdeen University Library\n                Manuscripts.\u201d \n             Aberdeen University Review\n         43 (1969): 146-56, 152.\n\n",
+            "folio": "f. 2"
+        },
+        "CamTCC1157": {
+            "Transcription": "\nWho so hym by thowght [ ]howe harde it is to flittfro[\n                    ]ffrom pitt vnto payne\u00feat [ ]he wold not do a synn[\n                    ]\n",
+            "Note": "\nEdge lost to tearing; written two lines of poem to one line of text, so\n                    alternate lines lost due to tearing.",
+            "Editions": "\nHargreaves,  Henry. \n             \u201cMiddle English Lyrics in an Aberdeen University Library\n                Manuscripts.\u201d \n             Aberdeen University Review\n         43 (1969): 146-56: 152.\n",
+            "folio": "f. 74"
+        },
+        "BLHar5312": {
+            "Transcription": "\n\u2026be thoctht\u2026and oft\u2026it were to flyt\u2026to\n                    pit\u2026to pyne\u2026sall fyne\u2026o a syn\u2026warld to\n                    wyn\n",
+            "Note": "\nVery faded",
+            "Editions": "\nHargreaves,  Henry. \n             \u201cMiddle English Lyrics in an Aberdeen University Library\n                Manuscripts.\u201d \n             Aberdeen University Review\n         43 (1969): 146-56: 152.\n",
+            "folio": "f. 1v"
+        },
+        "BLHar3211": {
+            "Transcription": "\nhwo \u00fee wel bithofteInworliche an oftehwoche were \u00fee uorefrom bedde to \u00fee flore\n",
+            "Note": "\nWritten as prose, lines 1-4 only.",
+            "Editions": "\nHargreaves,  Henry. \n             \u201cMiddle English Lyrics in an Aberdeen University Library\n                Manuscripts.\u201d \n             Aberdeen University Review\n         43 (1969): 146-56: 152.\n",
+            "folio": "f. 3v"
+        },
+        "AbeUL154": {
+            "Transcription": "\nHwo so him bi \u00feohte ynwardliche an hofteHou hard is \u00fee wore\n                    fruom bede to \u00fee floreFroum flore to vulutte fram vylutte to\n                    putteNe solde neuere soenne mannes herte awynne\n",
+            "Facsimiles": "\nHargreaves,  Henry. \n             \u201cMiddle English Lyrics in an Aberdeen University Library\n                Manuscripts.\u201d \n             Aberdeen University Review\n         43 (1969): 146-56: facing 151.\n",
+            "Editions": "\nHargreaves,  Henry. \n             \u201cMiddle English Lyrics in an Aberdeen University Library\n                Manuscripts.\u201d \n             Aberdeen University Review\n         43 (1969): 146-56: 151.\n",
+            "folio": "f. 155v"
+        },
+        "HerefordO414": {
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 173-4.\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.446; rpr.\nHargreaves (1969)\nXHargreaves,  Henry. \n             \u201cMiddle English Lyrics in an Aberdeen University Library\n                Manuscripts.\u201d \n             Aberdeen University Review\n         43 (1969): 146-56.\n\n",
+            "folio": "Part II, f. 223"
+        },
+        "Erfurt": {
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 173-4.\nSchum,  Wilhelm. \n             Exempla Codicum Amplonianorum Erfurtensium saeculi IX-XV.\n         Berlin: Weidmannsche, 1882: 14.\n Bad Key: Forster1918: 156.\n\n",
+            "folio": "f. 139v"
+        },
+        "SanFlorXI57": {
+            "Transcription": "\n\u00dee man \u00feat him be\u00feouhteHerlic & ofte Hu sori his\n                    \u00feat foreFrom bed into ffloreHi sori his \u00feat ffluteFro\n                    bere into puteNis hin vrre sunne\u00deat solde his lif winne \n",
+            "Note": "\nTranscription from Kaiser (1954)\nXKaiser,  Rolf. \n             Alt- und mittelenglische Anthologie.\n         Berlin-Charlottenburg: E. Sch\u00fctt, 1954.",
+            "Editions": "\n\nKaiser,  Rolf,\n                        ed.  \n             Alt- und mittelenglische Anthologie.\n         Berlin-Charlottenburg: E. Sch\u00fctt, 1954: 277.\nKaiser,  Rolf,\n                        ed.  \n             Alt- und mittelenglische Anthologie.\n         Berlin, 1954; 3rd ed.; trans. as  Medieval English: a\n                Old English and Middle English Anthology Berlin West, 1958: 294; rpr. Hargreaves (1969)\nXHargreaves,  Henry. \n             \u201cMiddle English Lyrics in an Aberdeen University Library\n                Manuscripts.\u201d \n             Aberdeen University Review\n         43 (1969): 146-56.\n\n",
+            "folio": "f. 9v(?)"
+        }
+    }
+}

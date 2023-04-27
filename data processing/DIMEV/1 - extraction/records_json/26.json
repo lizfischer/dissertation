@@ -1,0 +1,51 @@
+{
+    "_id": 26,
+    "_header": "A cross was made all of red / In the beginning of my book",
+    "Note": "Compare the three lines in Cambridge UK, Trinity College O.3.12 (1184), extra flyleaf. For Prohemium, see 1206; for Envoy, see 6837. Singer (1928)\nXSinger, Dorothea Waley. Catalogue of Latin and Vernacular Alchemical Manuscripts. 3 vols. Brussels: Lamertin, 1928-31, 1059.",
+    "Author(s)": "John Trevisa",
+    "Title(s)": "De Proprietatibus Rerum (Glanville)",
+    "Subjects": "prologues; Glanville, De Proprietatibus Rerum, prologue to",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "The Translator\u2019s Prologue to Trevisa\u2019s version of Glanville\u2019s De Proprietatibus Rerum \u2014 six cross-rhymed quatrains.",
+    "_witnesses": {
+        "CULIi541": {
+            "First Lines": "\nA cros was maad of al reedeIn \u00fee bigynnyng of my\n                    book\u2026\n",
+            "Last Lines": "\n\u2026And \u00feis game reule & rede ledeAnd brynge\n                    it to a good ende\n",
+            "Editions": "\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 94-5.\n",
+            "folio": "f. 10"
+        },
+        "BLAdd27944": {
+            "First Lines": "\n[+] croys was maad al of reedIn \u00fee bigynnynge of my\n                    bookThat is clepid god me spedeIn \u00fee firste lessoun \u00feat I\n                    took\u2026\n",
+            "Last Lines": "\n\u2026And \u00feis game reule and ledeAnd bringe hit to a good\n                    ende\n",
+            "Editions": "\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 241-2.\n",
+            "folio": "f. 8ra"
+        },
+        "BLHar614": {
+            "First Lines": "\nCroys was maad al of reedIn \u00fee bigynnyng of my bookThat\n                    is clepid god me speedIn \u00fee first lessoum \u00feat I\n                    took\u2026\n",
+            "Last Lines": "\n\u2026And \u00feis game wel rule & leedAnd bringe it to a good\n                    eende\n",
+            "Note": "\nPreceded by rubric \u2018In nomine patris & filii & spiritu\n                        sancti Amen\u2019 (f. 4vc); written as verse, by same hand\n                    as the index; text begins f. 5ra.",
+            "Editions": "\nMacCracken,  Henry Noble. \n             N. Y. Nation,\n         vol. 87, no. 2248 (July 30, 1908): 92; repr.\nPerry (1925)\nXPerry,  Aaron Jenkins. \n             John Trevisa: Dialogus inter Militem et Clericum, Richard\n                Fitzralph\u2019s \u2018Defensio Curatorum\u2019 and Methodius: \u2018\u00dee\n                Bygynnyng of \u00dee World and \u00dee Ende of Worldes\u2019.\nEETS\n         o.s. 16 (1925); repr. 1987, cxxix.\n",
+            "folio": "f. 4vc"
+        },
+        "BLHar4789": {
+            "First Lines": "\nA CRoys was made al of reedeIn \u00fee bygynnyng of my\n                    booke\u2026\n",
+            "Last Lines": "\n\u2026In \u00feis game reule & ledeAnd brynge yt to a good\n                    ende\n",
+            "Note": "\nPreceded by rubric, In nomine patris & filii & spiritus\n                        sancti Amen / Assit principio sancta maria meo; followed by black ink,\n                        Qui habet aures audiendi audiat & cetera and rubric title to\n                    prose text (f. 1ra).",
+            "Attributed Title": "\nIncipit prohemium de proprietatibus rerum / Bartholomei Anglici de\n                        ordine fratrum minorum (f. 1ra)",
+            "folio": "f. 1ra"
+        },
+        "Plimpton263": {
+            "First Lines": "\n[A] Croys was made al of redeIn \u00fee begynnynge of my\n                    bok\u2026\n",
+            "Last Lines": "\n\u2026And \u00feis game reule and ledeAnd brynge hit to a goode\n                    ende\n",
+            "Note": "\nPreceded by \u2018In nomine patris & filii & spiritu sancti\n                    amen. Assit principio sancta Maria meo\u2019 (f. 9ra).",
+            "Facsimiles": "\nPlimpton,  George A. \n             The Education of Chaucer: Illustrated from the Schoolbooks in Use in\n                his Time.\n         London: Oxford University Press, 1935: plate V.\n",
+            "Editions": "\nPlimpton,  George A. \n             The Education of Chaucer: Illustrated from the Schoolbooks in Use in\n                his Time.\n         London: Oxford University Press, 1935: 34-5.\n",
+            "folio": "f. 9ra"
+        },
+        "PierpontM875": {
+            "First Lines": "\n[A] Croys was mad all of reedIn \u00fee bigynnynge of my\n                    book\u2026\n",
+            "Last Lines": "\n\u2026And \u00feis game reule and ledeAnd brynge hit to a good\n                    ende\n",
+            "folio": "f. 7ra"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "_id": 5302,
+    "_header": "The good or evil fortune of all am mans life",
+    "Note": "A companion piece to 5300.",
+    "Subjects": "friends; wives, choice of; marriage, advice on",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The choice of friends and a wife \u2014 three couplets",
+    "_witnesses": {
+        "DULCosViii9": {
+            "Transcription": "\nThe good or evell fortune of all a mans lyffeYs in the good or evell\n                    chowsinge his frend or his wiffe\n",
+            "Note": "\nLines 1-2 only, added to lower margin.",
+            "Facsimiles": "\nBurrow,  John,  and  A. I. Doyle, eds.  \n             Thomas Hoccleve: A Facsimile of the Autograph Verse\n                Manuscripts.\nEETS\n         s.s. 19 (2002). \n",
+            "folio": "f. 66"
+        },
+        "ArunHar": {
+            "Facsimiles": "\nHughey,  Ruth. \n             The Harington Manuscript at Arundel Castle and related\n                documents.\n         n.p., 1935: 1.80, 82.\n",
+            "folio": "f. 17v"
+        }
+    }
+}

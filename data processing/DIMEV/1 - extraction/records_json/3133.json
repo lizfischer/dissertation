@@ -1,0 +1,25 @@
+{
+    "_id": 3133,
+    "_header": "Little child sithen your tender infancy",
+    "Title(s)": "\u2018The Book of Courtesy\u2019",
+    "Subjects": "children, instructions for behavior of; manners, treatises on; courtesy books; instruction",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "\u2018The Book of Courtesy\u2019 \u2014 seventy-six stanzas rhyme royal",
+    "_witnesses": {
+        "OxfBal354": {
+            "First Lines": "\nLytell Iohn sith your tender enfancyeSondyth as yet vnder\n                    Indyfference\u2026\n",
+            "Last Lines": "\n\u2026& how to hurte lyeth ever in a wayteKepe your quayre\n                    \u00feat yt be not ther bayte\n",
+            "Note": "\nTranscript from \n            [Explicit the book of curtesye], [Westminster: By William Caxton, 1477-1478] .",
+            "Attributed Title": "\nHere begynnyth lytill Iohn (p. 341); Here endyth a lytyll treatyse called\n                    \u00fee boke of curtesy or litill Iohn (p. 351)",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Caxton\u2019s Book of Curtesye.\nEETS\n         e.s. 3 (1868); repr. 1973. \n",
+            "folio": "pp. 3417-351"
+        },
+        "OxfOriel79": {
+            "First Lines": "\nLytell Iohn sith your tender enfancye\u2026\n",
+            "Last Lines": "\n\u2026Kepe your quayre \u00feat yt be not ther bayte\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Caxton\u2019s Book of Curtesye.\nEETS\n         e.s. 3 (1868); repr. 1973. \n",
+            "folio": "ff. 88;  89;  78"
+        }
+    }
+}

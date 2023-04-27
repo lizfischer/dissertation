@@ -1,0 +1,23 @@
+{
+    "_id": 6269,
+    "_header": "When all sooths ben sought and seen",
+    "Title(s)": "\u2018Suffre in tyme and \u00feat is beste\u2019",
+    "Subjects": "advice",
+    "Versification": "\u2014 twelve-line, eight-line \u2014 ababababbcbc",
+    "_description": "\u2018Suffre in tyme and \u00feat is beste\u2019 \u2014 six 12-line and one 8-line stanzas with this refrain",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nWhon alle sothes ben souht and seeneEuerichone at heore\n                    denys\u2026\n",
+            "Last Lines": "\n\u2026\u00deer bi God and vre ladiSuffre in tyme and \u00feat is\n                    beste\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 730-3.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 200-2.\n\n",
+            "folio": "f. 412ra-412rb"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nWhon in alle so\u00fees be souht & seenEuerichone at heore\n                    deuys\u2026\n",
+            "Last Lines": "\n\u2026\u00deer bi god and vre ladySuffre in tyme and hit is\n                    beste\n\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 133rc-133va"
+        }
+    }
+}

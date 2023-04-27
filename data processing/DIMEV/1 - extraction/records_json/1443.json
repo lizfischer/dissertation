@@ -1,0 +1,35 @@
+{
+    "_id": 1443,
+    "_header": "France and Flanders then shall rise",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 441.",
+    "Subjects": "prophecies, political; political poems",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "A political prophecy \u2014 one cross-rhymed quatrain",
+    "_witnesses": {
+        "BLLan762": {
+            "Transcription": "\nffrance and fflaunders than shall ryse\u2026\n",
+            "Editions": "\nRobbins,  Rossell Hope. \n             \u201cPoems Dealing with Contemporary Conditions.\u201d \n             A Manual of the Writings in Middle English.\n            Albert E. Hartung, ed. \n         Vol. 5, fascicle 13. New Haven, CT: Connecticut Academy of Arts and\n            Sciences, 1975: 1385-1536, 1631-1725: 1533.\n",
+            "folio": "f. 53v;  64v"
+        },
+        "NLW441C": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 212-13.",
+            "folio": "p. 26-28;  43-45;  45-47"
+        },
+        "BodArcSelB8": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 213.",
+            "folio": "f. 280v"
+        },
+        "BodRawC813": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 213.",
+            "folio": "ff. 118-119"
+        },
+        "BodAsh1386": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 213.",
+            "folio": "f. 263"
+        },
+        "BodAsh1835": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 213.",
+            "folio": "f. 11v"
+        }
+    }
+}

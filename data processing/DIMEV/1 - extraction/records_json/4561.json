@@ -1,0 +1,38 @@
+{
+    "_id": 4561,
+    "_header": "Saint Berinus the confessor that goodman was enough",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Birinus, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Birinus in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "BodLauMis463": {
+            "First Lines": "\nSEint Byrin \u00fee confessour \u00feat godeman was y nouhIn\n                    \u00fee toun of Rome was boren & to eche godenesse drouh\u2026\n",
+            "Last Lines": "\n\u2026And went to \u00fee ioye of heuene After his lyf anonNou god\n                    for \u00fee loue of him vs bringe \u00feider echon\n",
+            "Note": "\nTwo columns per page, one full-line, the other half-line.",
+            "folio": "ff. 126rb-126vb"
+        },
+        "Bod779": {
+            "First Lines": "\nseint birrin \u00fee comfessour \u00feat good mon was I now\u021dIn\n                    \u00fee toun of rome was bore & to ech goodnes\n                    drow\u021d\u2026\n",
+            "Last Lines": "\n\u2026& went to \u00fee ioy of heuin out of \u00feis er\u00fe\n                    anonnou god for \u00fee loue of hym bring vs \u00feedir echon\n",
+            "folio": "ff. 270-271v"
+        },
+        "OxfTri57": {
+            "folio": "f. 145v"
+        },
+        "CamTCC605": {
+            "First Lines": "\nSEint beryn \u00fee confessoure \u00feat goud man was y noweIn\n                    \u00fee toune of rome was ybore & to eche goudnesse\n                    drewe\u2026\n",
+            "Last Lines": "\n\u2026& wende to \u00fee Ioie of heuene after \u00feis lyf\n                    anonnow god for \u00fee loue of hym ous bringe \u00feudere\n                    echon\n",
+            "Attributed Title": "\nBeryn (RT)",
+            "Facsimiles": "\n\nDigital Facsimile of Trinity College Cambridge MS R.3.25.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.25. \n",
+            "folio": "ff. 260v-261v"
+        },
+        "BLCottJulDIX": {
+            "First Lines": "\nSEint birin \u00fee confessor \u00feat godman was ynouIn \u00fee toun of rome was ibore & to eche godnesse drou\u2026\n",
+            "Last Lines": "\n\u2026& wente to \u00fee ioie of heuen after \u00feis lif anonnou god for \u00fee loue of him ous bringe \u00feu\u00feer echon\n",
+            "Note": "\n\u201cCapitulum lxxxvii\u201d added to left margin by later hand (f. 205v).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Julius MS D IX.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Julius_D_IX. \n",
+            "folio": "ff. 205v-207"
+        }
+    }
+}

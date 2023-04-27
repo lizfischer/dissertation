@@ -1,0 +1,126 @@
+{
+    "_id": 4171,
+    "_header": "Of herbs twenty-three",
+    "Note": "All texts, based on Macer, show variations. For comparable verse texts cf. 417.8, 2519, and 5877.",
+    "Title(s)": "\u2018A tretys of diverse herbis\u2019",
+    "Subjects": "herbals",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "London, Society of Antiquaries 101: Latin text: \u2018Virtutes betonice\u2019.",
+    "_description": "\u2018A tretys of diverse herbis\u2019 especially Betony \u2014 in short couplets",
+    "_witnesses": {
+        "BodAsh1477": {
+            "First Lines": "\nTo telle of beten I have great meyndeAnd sithen of herbis that I\n                    fynde\u2026\n",
+            "Last Lines": "\n\u2026Who so hath betayn & [a space is left blank\n                    here]With his vryne it shall out goon\n",
+            "Note": "\n\u2018Betayne\u2019 only: 12 lines.",
+            "folio": "Part III, f. 3"
+        },
+        "BodAsh1397": {
+            "First Lines": "\nTo tellen of bytayne I have grete myndeAnd sythen of othur herbys\n                    os I fynde\u2026\n",
+            "Last Lines": "\n\u2026ffor al maner of euyllys it is gode on groundeych stounde\n                    whyle it mai on erthe be founde\n",
+            "Note": "\n\u2018Betony\u2019 only: 86 lines.",
+            "Attributed Title": "\nHere be gynnyt a tretys of diuerse herbis & furst of Bytayne (f.\n                        117v)",
+            "Editions": "\nRohde,  Eleanor Sinclair. \n             The Old English Herbals.\n         London, New York: Longman, Green, 1922: 43-4, 193-6 (extracts).\n",
+            "folio": "ff. 117v-118v"
+        },
+        "CULDd1044": {
+            "First Lines": "\nOff herbys now I wyll yow telle by & byAs I fynde wrytyn in a\n                    boke\u2026\n",
+            "Last Lines": "\n\u2026It distroyeth the morfewAnd dispoyling to \u00fee\n                    lepyr\n",
+            "Note": "\nWritten as prose, but highlighted capital marks each verse\n                    line.",
+            "Editions": "\nRohde,  Eleanor Sinclair. \n             The Old English Herbals.\n         London, New York: Longman, Green, 1922: 43-4, 193-6 (extracts).\n",
+            "folio": "ff. 123v-128"
+        },
+        "CamMagPep1661": {
+            "First Lines": "\nOf herbis xxvi xxiiiiti [sic]I wil \u021dou\n                    tellyn by and bi\u2026\n",
+            "Last Lines": "\n\u2026And of posteis & of bloodAs knowyn wel \u00feese clerkys\n                    good\n",
+            "Note": "\nWritten as prose; first line written rubric immediately following rubric\n                    heading \u2018Betonica\u2019 (p. 288); no indication of new work at top p. 309\n                    when changes to prose.",
+            "folio": "pp. 288-309"
+        },
+        "CamTCC905": {
+            "First Lines": "\nAstrologye ther been of hem toothe longe & the round\n                    also\u2026\n",
+            "Last Lines": "\n\u2026Of Saryseynys of Iues of englysch bokes worthywele preuyd\n                    & Iugyd sothe & Iustly\n",
+            "Note": "\nExtract formerly listed separately as 417.8 (see Keiser (1996)\nXKeiser,  George R. \n             \u201cReconstructing Robert Thornton\u2019s Herbal.\u201d \n             Medium \u00c6vum\n         65 (1996): 35-53, 51, n. 5); at end, Latin instruction: \u2018fflores\n                        eius manduca per iii dies & illo Anno nolime tangere nec lepra nec alia\n                        Apostomata habebis\u2019 (f. 148).",
+            "folio": "ff. 134v-139v"
+        },
+        "CamTCC921": {
+            "First Lines": "\nTo telle of betoygne I haue gret myndeAnd of other erbes as I\n                    fynde\u2026\n",
+            "Last Lines": "\n\u2026He castith wele to \u00fee eyne sightThys medecyne ys prouede\n                    I the plight\n",
+            "Note": "\n600 lines.",
+            "folio": "ff. 34v-47"
+        },
+        "CamTCC1117": {
+            "First Lines": "\nTo tell of beten I haue myndeAnd sethyn of o\u00feer herbes as I\n                    fynde\u2026\n",
+            "Last Lines": "\n\u2026there shall no drede hym wakeTyll fro vnder ys hede it be\n                    take\n",
+            "Note": "\n\u2018Beton\u2019, 86 lines; \u2018Centory\u2019, 18 lines;\n                    \u2018Egremonye\u2019, 8 lines.",
+            "folio": "ff. 179-181"
+        },
+        "BLAdd17866": {
+            "First Lines": "\nModer of gresseqwo so hem sekesSays Ipocrus ere vnset lekesIn lechecraft many & feleSeke men with \u00feem to hele\u2026\n",
+            "Last Lines": "\n\u2026He cast to \u00fee eye wel \u00fee syghtThys medcyne is proued well a plyght\n",
+            "Note": "\nVariant beginning; followed immediately by 2343 without break.",
+            "folio": "ff. 5-16"
+        },
+        "BLAdd60577": {
+            "First Lines": "\n\u2026Mary golde ys an herbe full gracyouseWho so knowethe all his\n                    vertuouse\u2026\n",
+            "Last Lines": "\n\u2026\u00feu shalt bothe knowe & seeAll the condycyoun whate\n                    they be\u2026\n",
+            "Note": "\nEquivalent to lines 148-88 of London,  British Library Addit. 17866; treated here as\n                    separate work with initial and explicit.",
+            "Editions": "\nWilson,  Edward. \n             \u201cIntroduction.\u201d \n             The Winchester Anthology. A Facsimile of British Library Additional\n                Manuscript 60577. With an account of the music by \n                    Iain\n                    Fenlon. \n         Cambridge: D. S. Brewer, 1981. \n",
+            "folio": "ff. 119-119v"
+        },
+        "BLSl140": {
+            "First Lines": "\nMacer of erbe who so hem sekisSeth ypocras on sett\n                    lekis\u2026\n",
+            "Last Lines": "\n\u2026\u00dee flowre ys red \u00fee smell ys soteTo euery sore hit\n                    may do bote\n",
+            "Note": "\n\u2018Macer on the virtues of herbs\u2019 (former 2026.5);\n                    \u2018Betony\u2019, 86 lines; \u2018Centory\u2019, 18 lines. Folio number\n                    reflects the most recent foliation.",
+            "Attributed Title": "\nHere begynnyth the boke of the doctor Macer of \u00fee vertue (f.\n                    52)",
+            "folio": "ff. 52-56v"
+        },
+        "BLSl147": {
+            "Note": "\n600 lines.",
+            "Editions": "\nRohde,  Eleanor Sinclair. \n             The Old English Herbals.\n         London, New York: Longman, Green, 1922: 43-4, 193-6 (extracts).\n",
+            "folio": "ff. 94-112"
+        },
+        "BLSl1571": {
+            "Note": "\n666 lines.",
+            "folio": "ff. 14v-36v"
+        },
+        "BLSl2457": {
+            "Note": "\n300 lines.",
+            "folio": "f. 2"
+        },
+        "Lincoln91": {
+            "First Lines": "\nTo drynk & [ ]His vertus [ ]\u2026\n",
+            "Last Lines": "\n\u2026And a [ ]He lo[ ]\n",
+            "Note": "\nMost of pages torn away.",
+            "Editions": "\nKeiser,  George R. \n             \u201cReconstructing Robert Thornton\u2019s Herbal.\u201d \n             Medium \u00c6vum\n         65 (1996): 35-53: 37-8.\n",
+            "folio": "ff. 317-321v"
+        },
+        "Uppington": {
+            "Note": "\nCurrently (2000) missing.",
+            "folio": "f."
+        },
+        "YorkMinXVIE32": {
+            "First Lines": "\n\u2026To telle of beteyn I haue gret myndeAn sithen of o\u00feer\n                    herbes als I fynde\u2026\n",
+            "Last Lines": "\n\u2026For al maner of euil he is god ilk stoundeWhilk \u00feat may\n                    on erth be founde\u2026\n",
+            "Note": "\n\u2018Betonia\u2019 only, 73 lines.",
+            "Editions": "\nPowell,  Susan. \n             \u201cAnother Manuscript of Index of Middle English Verse No. 2627.\u201d \n             Notes and Queries\n         n.s.34 [232] (1987): 154-6: 155-6.\n",
+            "folio": "ff. 120-121"
+        },
+        "PierpontB21": {
+            "First Lines": "\nThese lechys for seke mannys sakeDiuers medicynys sum tyme gun\n                    makeOf all \u00fee gressys \u00feat growyn on Rote\u00feat mown man\n                    & woman helpyn to bote\u2026\n",
+            "Last Lines": "\n\u2026Of his stalke it beryth a blak seed\u00feat is good for\n                    \u00fee swynesy at ned\n",
+            "Note": "\n918 lines.",
+            "Attributed Title": "\nExplicit de herbis (f. 45v)",
+            "Editions": "\nB\u00fchler,  Kurt. \n             \u201cA Middle English Medical Manuscript from Norwich.\u201d \n             Studies in Medieval Literature in Honor of Professor Albert Cross\n                Baugh.\n            MacEdward Leach, ed. \n         Philadelphia: University of Pennsylvania Press, 1961: 285-98: 289-93 (extracts).\n",
+            "folio": "ff. 26v-45v"
+        },
+        "HunHU1051": {
+            "Note": "\nFormer 2026.5 and/or\n                        417.8, extract\n                    only.",
+            "Editions": "\n\n\nHistorical Manuscripts Commission, Report on the Manuscripts of\u2026\n                Ashby de la Zouche.\n         4 vols. (1928-47): 422.\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 77.\nLuria,  Maxwell Sidney,  and  Richard L. Hoffman, eds.  \n             Middle English Lyrics.\n         New York: Norton, 1974: 112.\n\n",
+            "folio": "f. 85"
+        },
+        "StockhX90": {
+            "Note": "\n965 lines.",
+            "Editions": "\n\nStephens,  George. \n             \u201cExtracts in Prose and Verse from an Old English Medical Manuscript\n                preserved in the Royal Library at Stockholm.\u201d \n             Archaeologia\n         30 (1844): 349-418; repr. London, 1844: 394-5.\nHolthausen,  Ferdinand. \n             \u201cMedicinische gedichte aus einer Stockholmer handscrift.\u201d \n             Anglia\n         18 (1896): 293-331: 307-30.\n\n",
+            "folio": "p. 49"
+        }
+    }
+}

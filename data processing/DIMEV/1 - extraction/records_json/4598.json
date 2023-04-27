@@ -1,0 +1,42 @@
+{
+    "_id": 4598,
+    "_header": "Saint Frideswitha was here of England",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Frideswitha, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The longer version of the Life of Saint Frideswide, 188 lines, based on the Latin Life of St. Frideswide, BHL (1898)\nXBHL, . Bibliotheca hagiographica latina antiquae et mediae aetatis, ed. Soci\u00e1t\u00e1 des Bollandistes. 2 vols. Brussels, 1898-1901 3162 attributed to Robert of Cricklade, found in some copies of the South English Legendary \u2014 couplets. For the \"short version,\" see 4598.5.",
+    "_witnesses": {
+        "Bod779": {
+            "First Lines": "\nseint friswide \u00fee mayde was her of ingelondat oxinforde\n                    \u021dhe was I bore as ich ondirstond\u2026\n",
+            "Last Lines": "\n\u2026& \u00feer ha\u00fe be for here loue ofte gret\n                    bootnyngnow\u021d bid we god for here loue to \u00fee ioy\u021de of heuin\n                    vs bring\n",
+            "folio": "ff. 280v-282"
+        },
+        "BodAsh43": {
+            "First Lines": "\nSEynte ffredeswide was her of engelondeAt oxenford heo was ibore as\n                    ic vnderstonde\u2026\n",
+            "Last Lines": "\n\u2026\u00feer ha\u00fe ibe uor hire loue ofte gret bonyngeNou\n                    bidde we god uor hire loue \u00feat he to heuene ous bringe\n",
+            "Editions": "\nReames,  Sherry L.,\n                        ed.  \n             Middle English Legends\n                of Women Saints.\n         With the assistance of Martha G. Blalock and Wendy R. Larson.\n            Kalamazoo, MI: Western Michigan University for TEAMS, 2003. \n",
+            "folio": "ff. 155v-157v"
+        },
+        "CamMagPep2344": {
+            "First Lines": "\nSeint ffrydeswyde was her of EngelondeAt oxenford \u021deo was\n                    ybore as ich vnderstonde\u2026\n",
+            "Last Lines": "\n\u2026\u00deer ha\u00fe ybeo ffor hure loue ofte gret botnyngeNow\n                    bidde we god ffor hure loue \u00feat \u021deo vs to heuene bringe\n",
+            "Attributed Title": "\nSancta ffredeswida (RT)",
+            "folio": "pp. 430-434"
+        },
+        "CamTCC605": {
+            "First Lines": "\nSEint fre\u00feeswyde \u00feat holy mayde was of englondeatte\n                    oxenford heo was y bore as ic vnderstonde\u2026\n",
+            "Last Lines": "\n\u2026heo wend out of \u00feis world a morwe vp lukes daynow god\n                    ous bringe to \u00fee blysse \u00feat he bro\u021dt \u00feat may\n",
+            "Attributed Title": "\nfre\u00feeswy\u00fe (RT)",
+            "Facsimiles": "\n\nDigital Facsimile of Trinity College Cambridge MS R.3.25.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.25. \n",
+            "Editions": "\nReames,  Sherry L.,\n                        ed.  \n             Middle English Legends\n                of Women Saints.\n         With the assistance of Martha G. Blalock and Wendy R. Larson.\n            Kalamazoo, MI: Western Michigan University for TEAMS, 2003. \n",
+            "folio": "ff. 247-248v"
+        },
+        "BLCottJulDIX": {
+            "First Lines": "\nSEint frideswithe was here of englondeat oxenforde heo was ibore as ich vnderstonde\u2026\n",
+            "Last Lines": "\n\u2026\u00feer ha\u00fe we for hire loue ofte gret botnyngnou bidde we god for hire loue to \u00fee ioie of heuen ous bringe\n",
+            "Note": "\n\u201cCapitulum xCix\u201d added to left margin by a later hand (f. 273v).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Julius MS D IX.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Julius_D_IX. \n",
+            "folio": "ff. 273v-275v"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "_id": 1483,
+    "_header": "Gabriel brighter than the sun",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 454.",
+    "Subjects": "carols, New Year",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "A New Year carol \u2014 three cross-rhymed quatrains (abab) plus four-line burden: \u2018Make us meri this new yere / Thankyng god with hertely chere\u2019",
+    "_witnesses": {
+        "BodeMus23": {
+            "Note": "\nVariant version of stanza 1 only.",
+            "folio": "p. 162"
+        },
+        "BLAdd5665": {
+            "First Lines": "\nGabriell bry\u021dther then the sonneGraciusly grette that mayden\n                    fre\u2026\n",
+            "Last Lines": "\n\u2026For the fende she shall vs shyldeSo sayeth bokys in hure\n                    story\n",
+            "Attributed Title": "\nIn die circumcisionis (f. 12v)",
+            "Editions": "\n\nFehr,  Bernhard. \n             \u201cDie Lieder der Hs. Add. 5665 (Ritson\u2019s Folio-MS).\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         106 (1901): 262-85: 267.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 76; 1977, 63-4.\nStevens,  John,\n                        ed.  \n             Mediaeval Carols.\nMusica Britannica\n         4. London: Stainer and Bell, 1952, 2nd ed. 1958: 70.\n\n",
+            "folio": "ff. 12v-13"
+        }
+    }
+}

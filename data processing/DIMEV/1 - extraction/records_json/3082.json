@@ -1,0 +1,24 @@
+{
+    "_id": 3082,
+    "_header": "Light burn that angel bright",
+    "Title(s)": "\u2018Vite Ade et Eue\u2019",
+    "Subjects": "Adam and Eve, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018Vite Ade et Eue\u2019 \u2014 a fragment in couplets",
+    "_witnesses": {
+        "NLS1921": {
+            "First Lines": "\n\u2026Li\u021dtbern \u00feat angel bri\u021dtanswerd anon\n                    ri\u021dt\u2026\n",
+            "Last Lines": "\n\u2026\u021dif ous grace for to winne\u00dee ioie \u00feat adam now\n                    is inne\n",
+            "Note": "\nTwo fragments of text; first of 352 lines, begins and ends imperfectly\n                    (see Edinburgh,  Edinburgh University Library 218, below); second of 428 lines, begins imperfectly; 780\n                    lines in couplets.",
+            "Facsimiles": "\nPearsall,  Derek,  and  I. C. Cunningham, eds.  \n             The Auchinleck Manuscript. National Library of Scotland\n                Advocates\u2019 MS. 19.2.1.\n         London: Scolar Press, 1977. \n",
+            "folio": "ff. E1-E2vb"
+        },
+        "EDU218": {
+            "First Lines": "\n\u2026Li\u021dtbern \u00feat angel bri\u021dtAnswerd anon\n                    ri\u021dt\u2026\n",
+            "Last Lines": "\n\u2026In what lorde \u00feat ich [ ]y no haue in [ ]\u00fear\n                    may on [ ]\u2026\n",
+            "Note": "\nTwo leaves, formerly between ff. 13 and 14 of Edinburgh,  National Library of Scotland, Advocates\u2019 19.2.1 [Auchinleck MS]: 352\n                    lines, end damaged by damp.",
+            "Editions": "\n\nLaing,  David,\n                        ed.  \n             A Penni Worth of Witte, Florice and Blauncheflour\u2026.\nAbbotsford Club\n         29. Edinburgh, 1857: 49-75.\nHorstmann,  Carl. \n             Sammlung altenglischer Legenden.\n         Heilbronn: Henninger, 1878: 138-47.\n\n",
+            "folio": "(1), pp. ara-dvb"
+        }
+    }
+}

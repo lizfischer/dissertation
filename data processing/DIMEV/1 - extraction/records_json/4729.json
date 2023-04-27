@@ -1,0 +1,46 @@
+{
+    "_id": 4729,
+    "_header": "Saint Michael and Saint Gabriel",
+    "Subjects": "prayers, to saints; prayers, to guardian angel",
+    "Versification": "\u2014 four-line",
+    "_description": "Prayer to angels, apostles, and martyrs \u2014 in quatrains",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Michel and seint GabrielAnd alle \u00fee Angels also\n                    wel\u2026\n",
+            "Last Lines": "\n\u2026Preye\u00fe for me to vre ladi\u00deat Ihesu of me haue\n                    merci\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 1.\nEETS\n         o.s. 98 (1892; repr. 1973): 1.21.\n",
+            "folio": "f. 114vb1"
+        },
+        "CULDd1426": {
+            "First Lines": "\nSeynte michaelle & seynte gabryelleAnd alle good aungels also\n                    welle\u2026\n",
+            "Last Lines": "\n\u2026[A]nd for \u00fee quyke and for \u00fee dede[a] pater noster\n                    wythe Aue and a Crede\n",
+            "Note": "\nNine couplets.",
+            "folio": "Part III, ff. 44v-45"
+        },
+        "BLAdd37787": {
+            "First Lines": "\nSeint michael & seint GabrielAnd al goode angeles alse\n                    wel\u2026\n",
+            "Last Lines": "\n\u2026All haluen \u00feat euer wereThat bote\u00fe crist bo\u00fee\n                    lef & dere. Pray ye for me\n",
+            "folio": "ff. 15v-16"
+        },
+        "BLHar210": {
+            "First Lines": "\nSEynt Mi\u021del & sint gabrielAnd alle goddes angelis also\n                    welPreyet for me tu oure leuedi\u00deat ihesu on me haue\n                    merci\u2026\n",
+            "Last Lines": "\n\u2026Pater noster Alle halweyn \u00feat euere wereWy\u00fe ihesu\n                    crist hore lef and derePater noster And in alle quike & dedePater\n                    noster & a crede\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nBaugh,  Nita Scudder. \n             A Worcestershire Miscellany, compiled by John\n                    Northwood, c. 1400, edited from British Museum MS. Add.\n                37,787.\n         Philadelphia, 1956: 103-4.\n",
+            "folio": "ff. 36-36v"
+        },
+        "EDU114": {
+            "First Lines": "\nSeynt myhel & seynt gabriel& alle good angels [\n                    ]\u2026\n",
+            "Last Lines": "\n\u2026[ ] for me with o[ ]\u00deat ihesu on me haue [ ]\n",
+            "Note": "\nLines 1-8 only, damaged by damp.",
+            "Editions": "\nBorland,  Katherine R. \n             A Descriptive Catalogue of the Western Medieval Manuscripts in\n                Edinburgh University Library\n         Edinburgh: University Press, 1916: 334.\n",
+            "folio": "f. iv"
+        },
+        "Witten198": {
+            "First Lines": "\nSeynt mygel and Gabriel & al \u00fee gode anngelis also\n                    wele\u2026\n",
+            "Note": "\nPrayer\n                    roll \u2018Consisting of private prayers from the Sarum Breviary.\u2019\n                        Hamer (1995)\nXHamer,  Richard. \n             A Manuscript Index to the Index of Middle English Verse.\n         London: British Library, 1995 lists as missing, unidentified, or destroyed. See\n                        Quaritch (1931)\nXQuaritch,  Bernard. \n             A Catalogue of Illuminated and Other Manuscripts together with Some\n                Works on Paleography.\n         London: Bernard Quaritch Ltd. 1931Item 82",
+            "folio": "item 82"
+        }
+    }
+}

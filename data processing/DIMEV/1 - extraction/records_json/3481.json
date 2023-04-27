@@ -1,0 +1,48 @@
+{
+    "_id": 3481,
+    "_header": "Mercy God of my misdeed / For Thy mercy that mickle is",
+    "Note": "With Latin quotations at head of each stanza, first, \u2018Miserere mei deus secundum magnam misericordiam tuam; for other MSS containing all seven of the Penitential Psalms see 3207 and 5978.",
+    "Author(s)": "Richard Maydestone",
+    "Subjects": "psalms, penitential; scripture texts, paraphrases; paraphrases",
+    "Versification": "\u2014 eight-line \u2014 abababab",
+    "_description": "Maydestone\u2019s paraphrase of the Fifty-first Psalm \u2014 twenty 8-line stanzas (abababab)",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\n\u2026So let me neuere werk bi ginneLord but \u021dif hit like\n                    \u00fee\u2026\n",
+            "Last Lines": "\n\u2026ffor teres \u00feat his Modur wepteHe schylde vs alle from\n                    helle fere\n",
+            "Note": "\nLines 1-22 missing due to loss of folios 106-113; in 8-line stanzas,\n                    abababab.",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 1.\nEETS\n         o.s. 98 (1892; repr. 1973): 12-16.\n",
+            "folio": "f. 114ra-114rb"
+        },
+        "BodDou141": {
+            "First Lines": "\nMercy god of my mysdedeVp \u00fei mercy \u00feat mechel\n                    is\u2026\n",
+            "Last Lines": "\n\u2026ffor teres \u00feat hys moder wepteHe schylde vs alle fro\n                    helle fere\n",
+            "Editions": "\nKreuzer,  James R. \n             \u201cRichard Maidstone\u2019s Version of the Fifty-First Psalm.\u201d \n             Modern Language Notes\n         66 (1951): 224-31: 226-31.\n",
+            "folio": "ff. 145-148"
+        },
+        "BodRawC891": {
+            "First Lines": "\nMercy god of my mysdede vp \u00fey mercy \u00feat mechel\n                    ys\u2026\n",
+            "Last Lines": "\n\u2026\u00feat ho so crye\u00fe tho \u00fee merci ys endeles [ ] In\n                    \u00fei memorye\n",
+            "folio": "f. 127v"
+        },
+        "CULDd11": {
+            "First Lines": "\nMerci lord god of my mysdedefor thi mercy \u00feat mekil\n                    is\u2026\n",
+            "Last Lines": "\n\u2026for \u00fee teris his moder weptehe schilde vs alle fro\n                        here helle fere\n",
+            "folio": "ff. 226-228"
+        },
+        "BLAdd10036": {
+            "First Lines": "\nMercy god of my mysdedeffor \u00fei mercy \u00feat myschef\n                    ys\u2026\n",
+            "Last Lines": "\n\u2026ffor \u00feo teeris \u00feat \u00fei modre wepteThow schelde\n                    fro \u00fee fendes fere amen\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             Political, Religious and Love Poems, from Lambeth MS. 306 and other\n                sources.\nEETS\n         o.s. 15 (1866); repr. 1962; rev. ed. 1903: 279-85.\nCook,  Albert Stanburrough. \n             A Literary Middle English Reader.\n         Boston and New York: Ginn, 1915: 403-4.\n\n",
+            "folio": "ff. 96v-100"
+        },
+        "NLS1931": {
+            "First Lines": "\nMercy god of my mysdedeffor \u00fei mercy \u00feat mykull\n                    his\u2026\n",
+            "Last Lines": "\n\u2026ffor \u00fee teres his moder \u00feer weptehe schylde vs\n                    frome helle fyre\n",
+            "Facsimiles": "\nHardman,  Phillipa. \n             The Heege Manuscript: A Facsimile of National Library of Scotland MS\n                Advocates 19.3.1.\n         Leeds Texts and Monographs, n.s. 16. Leeds: School of English,\n            2000. \n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             Political, Religious and Love Poems, from Lambeth MS. 306 and other\n                sources.\nEETS\n         o.s. 15 (1866); repr. 1962; rev. ed. 1903: 279-85.\nCook,  Albert Stanburrough. \n             A Literary Middle English Reader.\n         Boston and New York: Ginn, 1915: 403-4.\n\n",
+            "folio": "ff. 97-97v;  87-89"
+        }
+    }
+}

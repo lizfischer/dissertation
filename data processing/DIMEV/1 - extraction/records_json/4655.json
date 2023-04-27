@@ -1,0 +1,45 @@
+{
+    "_id": 4655,
+    "_header": "Saint Justina of high men in Antioch come",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Justina, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Justina in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "BodAsh43": {
+            "First Lines": "\nSeyn Iustine of heie men In antioch comWel \u021dong heo louede on\n                    ihesu crist & turnde to cristendom\u2026\n",
+            "Last Lines": "\n\u2026Nou Ihesu uor \u00fee suete loue of \u00fee maide\n                    Iustine& vor \u00fee loue of ciprian schulde ous fram helle\n                    pyne\n",
+            "folio": "ff. 137v-138"
+        },
+        "Bod779": {
+            "First Lines": "\nSeint istine of hy\u021de men in antioche comWel \u021dong \u021dhe\n                    louid Ihesu crist & tok to cristindom\u2026\n",
+            "Last Lines": "\n\u2026Now Ihesis for \u00fee swete loue of \u00fee mayde\n                    iustine& for \u00fee lour of sein siprian scheld vs fram helle\n                    pyne\n",
+            "Attributed Title": "\nSeint iustine & Seint ciprian",
+            "folio": "ff. 161-163"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSEynt Iustine of hei\u021de Men in Antioche comWel \u021dong heo\n                    louede Ihesu crist and tok to cristendom\u2026\n",
+            "Last Lines": "\n\u2026Ihesu for \u00feat swete loue of \u00fee Mayden IustineAnd\n                    for \u00fee loue of seint Ciprian schild us from helle pyne. Amen\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 55ra-55va"
+        },
+        "CamMagPep2344": {
+            "First Lines": "\nSeint Justine of heye men in Antyoche comWel \u021dong \u021deo\n                    louede Ihesu crist and tok to cristendom\u2026\n",
+            "Last Lines": "\n\u2026Now Ihesu ffor \u00fee loue of \u00fee swete mayde IustineAnd\n                    ffor \u00fee loue of Seint Ciprian schulde vs ffram helle pyne\n",
+            "Attributed Title": "\nSancta Iustina (RT)",
+            "folio": "pp. 485-486"
+        },
+        "BLCottJulDIX": {
+            "First Lines": "\nSEint Iustine of heie men in antioche comwel \u021dong heo loue\u00fee ihesu crist & torne\u00fee to cristendom\u2026\n",
+            "Last Lines": "\n\u2026nou ihesu for \u00fee suete loue of \u00fee maide Iustine& for \u00fee loue of ciprian schulde ous fro helle pyne\n",
+            "Note": "\n\u201cCapitulum lxi\u201d added to right margin by later hand (f. 135).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Julius MS D IX.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Julius_D_IX. \n",
+            "folio": "ff. 135-136"
+        },
+        "BLEge1993": {
+            "First Lines": "\nSeint Iustine of hei\u021de men in antioche comWel \u021dong heo louede ihesu crist & tok to cristendom\u2026\n",
+            "Last Lines": "\n\u2026Now ihesu vor \u00fee swete loue of \u00fee maide IustineAnd vor \u00fee loue of seint cyprian schilde vs vrom helle pine\n",
+            "folio": "ff. 203v-206"
+        }
+    }
+}

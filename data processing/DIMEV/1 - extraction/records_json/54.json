@@ -1,0 +1,19 @@
+{
+    "_id": 54,
+    "_header": "A good man there was and a clean / A clerk men callen John",
+    "Note": "For other versions, see 58 and 2965. See also 601, 2655.",
+    "Title(s)": "Barlaam and Josaphat",
+    "Subjects": "debates; legends",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The story of Barlaam and Josaphat \u2014 in couplets",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nA good mon \u00feer was and a cleneA clerk men callen Ion\n                    Damascene\u2026\n",
+            "Last Lines": "\n\u2026And at heore toumbe mony onMiracle is wrouht \u00feorwh Godus\n                    loon\n",
+            "Note": "\nMissing text due to loss of f. 102. Last lines on f. 101v:\n                    \u2018Confus awei \u00feen gon he wende / Til he com to his secunde\n                    frende\u2019; first lines on f. 103: \u2018I schal lete set vp verreyliche /\n                    An ymage of gold al to \u00fee liche\u2019.",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nHorstmann,  Carl. \n             Altenglische Legenden.\n         Paderborn: F. Schoningh, 1875: 215-25.\nMacDonald,  K. S.,\n                        ed.  \n             The Story of Barlaam and Joasaph, Buddhism and Christianity.\n         Calcutta, 1895: 12.\n\n",
+            "folio": "ff. 100vb-103rc"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "_id": 2305,
+    "_header": "I was at Erceldoune",
+    "Title(s)": "Sir Tristrem",
+    "Subjects": "romances; Arthurian literature",
+    "Versification": "\u2014 eleven-line \u2014 ababababcbc",
+    "_description": "Sir Tristrem \u2014 3344 verses in 11-line stanzas",
+    "_witnesses": {
+        "NLS1921": {
+            "First Lines": "\nI was a[t er\u00feeldoun]Wi\u00fe tomas spak y\n                    \u00feare\u2026\n",
+            "Last Lines": "\n\u2026A canaruwe oway he bareIn his eld wounde\u2026\n",
+            "Note": "\n3344 lines in 11-line stanzas; ends imperfectly due to loss of most of\n                    leaf, now a stub (f. 299ra).",
+            "Facsimiles": "\nPearsall,  Derek,  and  I. C. Cunningham, eds.  \n             The Auchinleck Manuscript. National Library of Scotland\n                Advocates\u2019 MS. 19.2.1.\n         London: Scolar Press, 1977. \n",
+            "Editions": "\n\nScott,  Sir Walter,\n                        ed.  \n             Sir Tristrem.\n         Edinburgh: Constable, 1804 et seq. \nK\u00f6lbing,  Eugen. \n             Die nordische und die englische Version der Tristan-sage.\n         2 vols. Heilbronn: Henninger, 1878-82: 2.1.\nMcNeill,  George Powell,\n                        ed.  \n             Sir Tristrem.\nScottish Text Society\n         8. Edinburgh and London: W. Blackwood, 1886. \nEyre-Todd,  George. \n             Early Scottish Poetry.\n         Glasgow: W. Hodge, 1891: 21-57 (extracts).\nLupack,  Alan,\n                        ed.  \n             Lancelot of the Laik\n                    and Sir Tristrem.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1994. \n\n",
+            "folio": "ff. 281ra-298vb"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "_id": 468,
+    "_header": "An aged man twice forty years",
+    "Author(s)": "Walter Kennedy",
+    "Title(s)": "\u2018Ane Aigit Manis Invective against Mou\u00fe",
+    "Subjects": "speech",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "Walter Kennedy, \u2018Ane Aigit Manis Invective against Mou\u00fe \u00feankless\u2019 \u2014 seven 8-line stanzas, ababbcbc, including refr. phrase, \u2018\u2026mowth thankless\u2019",
+    "_witnesses": {
+        "CamMagPep2553": {
+            "First Lines": "\nAne ageit man twys fourtie \u021deirisEftir \u00fee holie dayis of\n                    \u021dule\u2026\n",
+            "Last Lines": "\n\u2026And \u00feis I hard ane auld man raiffEftir \u00fee \u021dule\n                    of mouthe thankles\n",
+            "Note": "\nSix stanzas.",
+            "Attributed Author": "\nQuod maister Waltir Kennedye (p. 306)",
+            "Editions": "\n\nRamsay,  Allan,\n                        ed.  \n             The Ever Green.\n         2 vols. Edinburgh, 1724; repr. Ramsay and Early Scottish Poets, London,\n            n.d.: 1.115-17.\nCraigie,  William Alexander. \n             The Maitland Folio Manuscript, Containing Poems by Sir Richard\n                Maitland, Dunbar, Douglas, Henryson, and others.\n             2 vols. \n             Scottish Text Society\n         n.s. 7 (1919), 20 (1927); Edinburgh and London: Blackwood, 1919,\n            1927: 1.364-6.\n\n",
+            "folio": "pp. 305-306"
+        },
+        "Banna": {
+            "First Lines": "\nAne aigit man twyss twynty fourty \u021deirisEftir the\n                    halydayis of \u021dule\u2026\n",
+            "Last Lines": "\n\u2026all this I hard ane auld man raifeftir \u00fee \u021dule of\n                    mowth thankless\n",
+            "Note": "\nNineteenth-century transcript in Edinburgh,  Edinburgh University Library La.IV.27, Edinburgh,  Edinburgh University Library La.IV.28, item 8.",
+            "Attributed Author": "\nquod kennedy (f. 268v)",
+            "Editions": "\n\nLaing,  David,  and  William Barclay David Donald Turnbull, eds.  \n             Owain Miles &c.\n         Edinburgh, 1837: 2.91-2.\nMurdoch,  James Barclay. \n             The Bannatyne Manuscript.\n             4 vols. in 11 parts, paged continuously. \n             Hunterian Club\n         16, 32, 40, 46, 50, 55-56, 64-67 Glasgow: Anderson, 1873-1896: 780-2.\nSchipper,  Jakob. \n             The Poems of Walter Kennedy.\n         DKAW 48(1). Vienna: Kaiserliche Akademie der Wissenschaften,\n            1901: 12-14.\nRitchie,  W. Tod,\n                        ed.  \n             The Bannatyne Manuscript.\n             4 parts in 4 vols. \n             Scottish Text Society\n         3rd ser. 5 (1928); n.s. 22 (1928); n.s. 23 (1930); n.s. 26 (1934)\n            Edinburgh and London: Blackwood, 1928-34; ed. by Ritchie et al: 4.46-8.\nSibbald,  John. \n             Chronicle of Scottish Poetry\u2026.\n         4 vols. Edinburgh and London, 1802: 1.363.\n\n",
+            "folio": "ff. 268-268v"
+        }
+    }
+}

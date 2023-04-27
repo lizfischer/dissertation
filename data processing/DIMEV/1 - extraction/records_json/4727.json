@@ -1,0 +1,22 @@
+{
+    "_id": 4727,
+    "_header": "Saint Matthew til us mind will make",
+    "Note": "For the usual version see 5674.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Twentieth Sunday after Trinity in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 234va"
+        },
+        "BLHar4196": {
+            "First Lines": "\nSaint matheu til vs minde will makHow crist to his desciples spak\u2026\n",
+            "Last Lines": "\n\u2026And rightwis men with crist sal wendevnto \u00fee welth with owten ende\n",
+            "Note": "\nPreceded by Latin, \u201cLoquebatur iesus crist cum discipulis suis.\u201d",
+            "Attributed Title": "\nDominica xx secundum Matheum (rubric, f. 126rb)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): III.150-15.\n",
+            "folio": "ff. 126rb-127rb"
+        }
+    }
+}

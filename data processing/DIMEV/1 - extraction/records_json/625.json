@@ -1,0 +1,26 @@
+{
+    "_id": 625,
+    "_header": "As I stood in a park straight up by a tree",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 197.",
+    "Author(s)": "John Lacy",
+    "Title(s)": "\u2018Wyl Bucke his Testament\u2019",
+    "Subjects": "hunting; testaments",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lacy, \u2018Wyl Bucke his Testament\u2019 \u2014 in rhyme royal stanzas",
+    "_witnesses": {
+        "BLCottJulAV": {
+            "First Lines": "\nAs I stode in A park streght bi A treMy Arrow in my hand my bow\n                    redibent\u2026\n",
+            "Last Lines": "\n\u2026havok to \u00fee doggis both yong & oldeLet euery howund\n                    byt & kep wel hys hold\u2026\n",
+            "Note": "\n8 stanzas. Final line is indecipherable. The text is incomplete, missing\n                    the last 4 stanzas that appear in Rawlinson C.813.",
+            "folio": "f. 131v"
+        },
+        "BodRawC813": {
+            "First Lines": "\nAs I stode yn a parke streyght vpe by a treemy narowe yn my hande\n                    my bowe redye bente\u2026\n",
+            "Last Lines": "\n\u2026of all crysten men I truste to hym aloneI may noo more speke\n                    my brethe ys all gone\n",
+            "Note": "\n10 stanzas.",
+            "Attributed Title": "\nThe testament of the bucke (f. 30)",
+            "Editions": "\n\nPadelford,  Frederick Morgan. \n             \u201cLiedersammlungen des xvi. Jahrhunderts\u2026IV.\u201d \n             Anglia\n         31 (1908): 309-96: 350-2.\nJansen,  Sharon L.,  and  Kathleen H. Jordan, eds.  \n             The Welles Anthology: MS. Rawlinson C.813: A Critical Edition.\n         Binghamton, NY: Medieval & Renaissance Texts and Studies,\n            1991: 150-4.\n\n",
+            "folio": "ff. 30-31v"
+        }
+    }
+}

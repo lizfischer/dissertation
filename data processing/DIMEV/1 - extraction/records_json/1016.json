@@ -1,0 +1,41 @@
+{
+    "_id": 1016,
+    "_header": "Christ that was crucified for sinners unkind",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 310.",
+    "Title(s)": "The Lady who buried the Host",
+    "Subjects": "miracles; Host",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "The Lady who buried the Host, a miracle \u2014 seventeen 8-line stanzas",
+    "_witnesses": {
+        "CULEe435a": {
+            "First Lines": "\nCreyst that was cruciffeyed ffor synys on kyndGyffe me varey happe\n                    & gras\u2026\n",
+            "Last Lines": "\n\u2026And \u021deff hos gras when we hens wayndeTo recyue owre god\n                    yn fforme of bred\n",
+            "Note": "\nFollowed by 1502.",
+            "Attributed Title": "\nExplycit ysta ffabula (f. 5)",
+            "folio": "ff. 3-5"
+        },
+        "CULFf238": {
+            "First Lines": "\nCryst \u00feat was crucyfyed for synners vnkyndeGyf me very happe\n                    & tokyn in \u00feys casTo meve of \u00feys mater \u00feat y of\n                    myndeClenly to declare god grunt me hys grace\u2026\n",
+            "Last Lines": "\n\u2026And geue vs grace when we hens wendeTo resceyue oure god in\n                    forme of bredd\n",
+            "Attributed Title": "\nHere folowe\u00fe a good ensaumple of a lady \u00feat was in dyspeyre (f.\n                        54rb)",
+            "Facsimiles": "\nMcSparran,  Frances,  and  Pamela R. Robinson.  \n             \u201cIntroduction.\u201d \n             Cambridge University Library MS Ff.2.38.\n         London: Scolar Press, 1979. \n",
+            "Editions": "\nHartshorne,  Charles Henry. \n             Ancient Metrical Tales.\n         London: W. Pickering, 1829: 134-44.\n",
+            "folio": "ff. 54rb-55ra"
+        },
+        "CULFf548": {
+            "First Lines": "\nGod \u00feat on the rode was rentGraunt me grace redely to know\n                    \u00fee case\u2026\n",
+            "Last Lines": "\n\u2026Soo \u00feat we [ ] at oure endyng[ ] in forme of\n                    brede\n",
+            "Note": "\nVariant; portions deleted by damp and chemical treatments.",
+            "Editions": "\nDowning,  Janay Young A.,\n                        ed.  \n             \u201cA Critical Edition of Cambridge University MS Ff.5.48.\u201d \n         2 vols. Diss. University of Washington, 1969: 300-4.\n",
+            "folio": "ff. 116v-118v"
+        },
+        "BLHar3810": {
+            "First Lines": "\nCryst \u00feat was crowned with ou[  ] vyses vnkindGrant me gayly to kenne this case\u2026\n",
+            "Last Lines": "\n\u2026god graunt with all \u00fey blessyng bere\u00feat leve\u00fe in god in forme of brede\n",
+            "Note": "\nPhrased differently than other MSS; refrain varies stanza to\n                    stanza.",
+            "Attributed Title": "\nExplicit panem vite (f. 13)",
+            "Editions": "\nJordan,  Richard. \n             \u201cKleinere Dichtungen der Handschrfit Harley 3810.\u201d \n             Englische Studien\n         41 (1910): 253-66: 256-61.\n",
+            "folio": "Part I, ff. 10v-13"
+        }
+    }
+}

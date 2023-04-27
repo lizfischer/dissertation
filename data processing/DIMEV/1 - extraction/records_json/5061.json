@@ -1,0 +1,32 @@
+{
+    "_id": 5061,
+    "_header": "Sustain abstain keep well in your mind",
+    "Subjects": "advice; abstenance",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Advice regarding abstenance and forbearance \u2014 five stanzas rhyme royal with refrain, \u2018Amonges all other for the moste happy\u2019 or \u2018Of all other shalbe most happy\u2019",
+    "_witnesses": {
+        "OxfChrChAll": {
+            "First Lines": "\nSustine abstine kepe well in yowr myndeBeare and forbere haue euer\n                    in remembrance\u2026\n",
+            "Last Lines": "\n\u2026Beare forbeare and then schall ye trewlyeOff all lyuynge\n                    creatures be the moste happye\n",
+            "Note": "\nA single leaf.",
+            "folio": "p. 167"
+        },
+        "BLHar5036": {
+            "First Lines": "\nSustein absteine kepe welle in your mindeBeare and fforbeare haue\n                    euer in remembrance\u2026\n",
+            "Last Lines": "\n\u2026Beare fforbeare an than shall ye treulyOff all lyuing\n                    creature be the moste happy\n",
+            "folio": "ff. 25v-26"
+        },
+        "Banna": {
+            "First Lines": "\nSustene Abstene keip weill in \u021dowr myndbeir and forbeir haif\n                    evir in remenbrance\u2026\n",
+            "Last Lines": "\n\u2026Beir and forbeir and than sall \u021de trewlieoff all leving\n                    creaturis be most happie\n",
+            "Facsimiles": "\nFox,  Denton,  and  William A. Ringler.  \n             The Bannatyne Manuscript: National Library of Scotland Advocates\u2019\n                MS. 1.1.6\n         London: Scolar Press, in Association with The National Library of\n            Scotland, 1980. \n",
+            "Editions": "\n\nMurdoch,  James Barclay. \n             The Bannatyne Manuscript.\n             4 vols. in 11 parts, paged continuously. \n             Hunterian Club\n         16, 32, 40, 46, 50, 55-56, 64-67 Glasgow: Anderson, 1873-1896: 232-3.\nRitchie,  W. Tod,\n                        ed.  \n             The Bannatyne Manuscript.\n             4 parts in 4 vols. \n             Scottish Text Society\n         3rd ser. 5 (1928); n.s. 22 (1928); n.s. 23 (1930); n.s. 26 (1934)\n            Edinburgh and London: Blackwood, 1928-34; ed. by Ritchie et al: 2.213-14.\n\n",
+            "folio": "ff. 83v-84"
+        },
+        "TCD160": {
+            "First Lines": "\nSustayne abstayne kep well in your myndbarr and fforbeare haue euer\n                    in Remembrance\u2026\n",
+            "Last Lines": "\n\u2026betyr fforber and then shall ye trulyOf all other creators be\n                    most hapye\n",
+            "folio": " Part II, ff. 161-161v"
+        }
+    }
+}

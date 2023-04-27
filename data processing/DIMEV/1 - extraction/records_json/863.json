@@ -1,0 +1,35 @@
+{
+    "_id": 863,
+    "_header": "Blessed Denis of Athens chief son",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Prayers to Ten Saints\u2019",
+    "Subjects": "prayers, to saints; Denis, saint; Christopher, saint; Blasius, saint; Egidius, saint; George, saint; Giles, saint; Catherine of Alexandria, saint; Martha, saint; Margaret, saint; Christine, saint; Barbara, saint",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, \u2018Prayers to Ten Saints\u2019 \u2014 twelve 8-line stanzas, with two varying refrains, \u2018haue\u2026memorye\u2019 and \u2018marter and virgyne\u2019",
+    "_witnesses": {
+        "BodLauMis683": {
+            "First Lines": "\nBlissed denys of athenys cheef sonnesterre of grece charboncle of\n                    that contre\u2026\n",
+            "Last Lines": "\n\u2026for thy sake on vs to haue pyteas thou art verray marter and\n                    virgyne\n",
+            "Attributed Title": "\nThese holy seyntys folwyng ar preuyleged of our lord ihesu that what man or\n                    woman praieth to them rightfully shal haue his bone (f.\n                    24v)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 120-4.\n",
+            "folio": "ff. 24v-27"
+        },
+        "CamJes56": {
+            "First Lines": "\n[B]lissid denys of Athenis chief sonneSterre of grece Charbucle of\n                    \u00feat contre\u2026\n",
+            "Last Lines": "\n\u2026ffor thy sake on vs haue piteeAs \u00feu art verray martir\n                    and virgyne\n",
+            "Attributed Title": "\nIncipit de decim mertiribus (bottom f. 73v)",
+            "folio": "ff. 74-75"
+        },
+        "CamSidney37": {
+            "First Lines": "\nO Blessed denys of athenes chefe soneSterre of grece charbuncle of\n                    that contre\u2026\n",
+            "Last Lines": "\n\u2026ffor the wiche remembrith in your specialle preyereOn alle\n                    tho \u00feat haue \u00feou deuoutely in memory\n",
+            "Note": "\nSeven stanzas only.",
+            "folio": "ff. 142-143v"
+        },
+        "BLHar2255": {
+            "First Lines": "\nBLissyd denys of Atheyns cheef sonneSterre of grece charboncle of\n                    \u00feat contre\u2026\n",
+            "Last Lines": "\n\u2026ffor thy sake on vs to haue piteAs thu art verray martir and\n                    virgyne\n",
+            "folio": "ff. 70-71v"
+        }
+    }
+}

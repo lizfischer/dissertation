@@ -1,0 +1,28 @@
+{
+    "_id": 6649,
+    "_header": "Whoso will of nurture lere",
+    "Note": "Cf. 6641.",
+    "Title(s)": "Urbanitatis",
+    "Subjects": "manners, treatises on; courtesy books",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Urbanitatis \u2014 ninety-eight lines in couplets",
+    "_witnesses": {
+        "BlCottCalAII": {
+            "First Lines": "\nWho so wyll of nurtur lereHerken to me & \u021de shall\n                    here\u2026\n",
+            "Last Lines": "\n\u2026Amen amen so moot hit beSo saye we all for\n                    charyte\n",
+            "Note": "\nNineteenth-century transcription is London,  British Library Egerton 2257, ff.\n                        136-137v.",
+            "Attributed Title": "\nVrbanitatis (f. 88rb, by scribe in upper margin and as RT\n                    on 88v); Explicit tractus Vrbanitatis (by scribe, following\n                    last line, f. 88vb); Vrbanitas a poeme (f. 1, sixteenth-century list\n                    of contents)",
+            "Facsimiles": "\nSpeth,  George William,\n                        ed.  \n             Quatuor Coronatorum Antigrapha.\n         Margate: H. Keble, 1889: 1, part i>.\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Babees Book, etc.\nEETS\n         o.s. 32 (1868); rev. ed.  Early English Meals and\n                Manners London: Tr\u00fcbner, 1876; repr. 1973: 262-4 (rev. ed.).\n",
+            "folio": "ff. 88rb-88vb"
+        },
+        "NLS1931": {
+            "First Lines": "\nWhen \u00feu commys befor a lordIn hall in bowre or at \u00fee\n                    bordhoode or cappe \u00feu of doo\u2026\n",
+            "Last Lines": "\n\u2026Cryst \u00feen of is greyt gracegyff yow bo\u00fee wytte\n                    & space\n",
+            "Note": "\n92 lines; omits lines 1-2; ends, \u2018Explicit quod hyheng\u2019 (f.\n                        29v).",
+            "Attributed Title": "\nStans puer ad mensam (f. 28, top margin, by scribe)",
+            "Facsimiles": "\nHardman,  Phillipa. \n             The Heege Manuscript: A Facsimile of National Library of Scotland MS\n                Advocates 19.3.1.\n         Leeds Texts and Monographs, n.s. 16. Leeds: School of English,\n            2000. \n",
+            "folio": "ff. 28-29v"
+        }
+    }
+}

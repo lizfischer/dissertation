@@ -1,0 +1,124 @@
+{
+    "_id": 2511,
+    "_header": "In Heaven shall dwell all christian men",
+    "Title(s)": "Speculum Christiani (Secunda Tabula)",
+    "Subjects": "Ten Commandments",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Cambridge UK, Cambridge University Library Dd.4.51, ff. 7, 8-8v, 9: text of couplet missing; only lines that follow it: Be thu no [ ] / Nor no th[ ]\u2026But as [ ] / Ry\u021dthte [ ]",
+    "_description": "Follow the Commandments \u2014 a single couplet introducing the Ten Commandments (5845) in the some MSS of the Speculum Christiani (Secunda Tabula)",
+    "_witnesses": {
+        "BodLauMis513": {
+            "Transcription": "\nIn heuene schal dwelle alle cristen men\u00feat knowe and kepe goddys\n                    byddynges ten\u2026\n",
+            "folio": "f. 64"
+        },
+        "Bod89": {
+            "Transcription": "\nIn heuen schall dwell al cristen men \u00feat knowe and kepe goddis\n                    byddynges ten\n",
+            "Note": "\nLacks st. 8 and 9.",
+            "Editions": "\nBrown,  Carleton Fairchild. \n             \u201cThe Towneley Play of the Doctors and the Speculum Christiani.\u201d \n             Modern Language Notes\n         31 (1916): 223-6: 224-5.\n",
+            "folio": "f. 3"
+        },
+        "BodHat97": {
+            "Transcription": "\nIn heven shal dwell all crystyn menThat knowes and kepys goddys\n                    byddyngys ten\n",
+            "folio": "f. 2"
+        },
+        "BodRawC401": {
+            "Transcription": "\nIn heuen shall dwell all cristen men\u00feat know & kepe godes\n                    byddyngs ten\n",
+            "folio": "f. 2va"
+        },
+        "BodEngTheole16": {
+            "Transcription": "\nIn heuen schal dwelle all cristen men\u00feat knowe and kepe goddes\n                    biddyngs ten\n",
+            "Note": "\nLacking st. 7 and 8.",
+            "folio": "f. 6v"
+        },
+        "OxfCCC155": {
+            "Transcription": "\nIn heuen sall dwell all cristen men\u00deat knawes and kepes goddis\n                    biddynges x\n",
+            "folio": "f. 149"
+        },
+        "CULAdd6150": {
+            "Transcription": "\nIn heuen shal dwelle al cristen men\u00deat know & kepe goddes\n                    byddynge\u021d ten\n",
+            "folio": "f. 5"
+        },
+        "CULFf114": {
+            "Transcription": "\nIn hewyn shall dwell all crystyn menThat knawes and kepys godys\n                    byddynges ten\n",
+            "Note": "\nExplicit spculum cristiani (f. 69)",
+            "folio": "f. 25"
+        },
+        "CULHh113": {
+            "Transcription": "\nIn heuen shalle dwelle alle cristen menThat knowe and kepe goddes\n                    biddynges ten\n",
+            "folio": "f. 6"
+        },
+        "CamJes51": {
+            "Transcription": "\nIn heuen shall dwell all cristen menThat knawe & kepe goddes\n                    biddynges ten\n",
+            "Note": "\nFollowed by Latin prose, then 5845.",
+            "Editions": "\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.49.\n",
+            "folio": "f. 4"
+        },
+        "CamPem285": {
+            "Transcription": "\nIn heuen schall dwelle alle cristen me\u00feat knowi\u00fe &\n                    kepe\u00fe godes byddynges ten\n",
+            "folio": "f. 4"
+        },
+        "CamStJohn176": {
+            "Transcription": "\nin heuen schall duell all cristen menthat knawes & kepes godes\n                    byddyngs ten\n",
+            "Note": "\nAfter Latin prose, followed by 5845.",
+            "folio": "f. 5"
+        },
+        "BLHar206": {
+            "Transcription": "\nIn heuen schall duell all crysten menThat know & kepe goddez\n                    byddynges ten\n",
+            "folio": "f. 20v1"
+        },
+        "BLHar6580": {
+            "Transcription": "\nIn heuen schal dwelle al cristen menThat knowen & kepe goddis\n                    byddyng ten\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nHolmstedt,  Gustaf,\n                        ed.  \n             Speculum Christiani.\nEETS\n         o.s. 182 (1933); repr. 1988: 16-37.\n",
+            "folio": "ff. 5v-6"
+        },
+        "BLLan344": {
+            "Transcription": "\nIn heuene schal dwelle al cristin men\u00feat knowe and kepe godis\n                    biddingis ten\n",
+            "Note": "\nWritten as prose and rubricated. Folios have been re-numbered to include\n                    the flyleaves, and foliation here refers to the new numbers.",
+            "Editions": "\nHolmstedt,  Gustaf,\n                        ed.  \n             Speculum Christiani.\nEETS\n         o.s. 182 (1933); repr. 1988: 16-37.\n",
+            "folio": "f. 7"
+        },
+        "BLAdd10052": {
+            "Transcription": "\nIn heuen shall dwelle all cristen menThat knowe and kepe godis\n                    byddyngis ten\n",
+            "folio": "f. 22r1"
+        },
+        "BLAdd21202": {
+            "Transcription": "\nIn heuen shalt dwelle all cristen menThat knowe and kepe godis\n                    byddyngys\n",
+            "folio": "f. 6"
+        },
+        "BLAdd22121": {
+            "Transcription": "\nIn heuen shall duelle all cristen menThat knowe and kepe goddis\n                    biddyngis ten\n",
+            "Note": "\nRubricated.",
+            "folio": "f. 6r1"
+        },
+        "BLSl1253": {
+            "Note": "\nOccurring separately.",
+            "folio": "f. 57v"
+        },
+        "Ushaw28": {
+            "Transcription": "\nIn heuen shal duelle al cristen men\u00feat knoue & kepe godes\n                    biddinges tenne\n",
+            "folio": "f. 35"
+        },
+        "TCD159": {
+            "Transcription": "\nIn heuen schall dwell all cristyn men\u00feat knaw and kepe goddys\n                    byddynges ten\n",
+            "folio": "f. 152"
+        },
+        "TCD351": {
+            "Transcription": "\nIn heuon shall dwell all criston men\u00deat know and kepe god\n                    biddynges ten\n",
+            "folio": "f. 7"
+        },
+        "UnivLon657": {
+            "Transcription": "\n[I]N heuen shullyn dwellyn all crysten men\u00feat knowe & kepyn\n                    goddys comaundementys ten\n",
+            "Note": "\nWritten as prose, lines 8 and 9 on page.",
+            "folio": "p. 921"
+        },
+        "YaleBeiOsfa2": {
+            "Transcription": "\nIn heuene schall dwell all cristin men That kl knowe &\n                    kepe goddes byddynge ten\n",
+            "folio": "f. 66"
+        },
+        "HunHM124": {
+            "Transcription": "\nIn heuen schall dwelle all cristyn menThat knowe and kepe godis\n                    byddynges ten\n",
+            "folio": "f. 6"
+        }
+    }
+}

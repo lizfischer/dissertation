@@ -1,0 +1,31 @@
+{
+    "_id": 880,
+    "_header": "Blood sweating",
+    "Subjects": "Christ, sufferings of; sermons, verse in",
+    "Versification": "\u2014 monorhyme \u2014 aaaaaaa",
+    "_description": "The seven torments of Christ in the Latin homily, Amore Langueo \u2014 seven short monorhyming lines",
+    "_witnesses": {
+        "OxfBal149": {
+            "Transcription": "\nblodwetynghard byndynggret traualyngsmert\n                    betynglongwakyngCroys beryngscherp prikyng\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 33"
+        },
+        "OxfMagd93": {
+            "Transcription": "\nblode swetyngherd byndynggrete trauelyngsmert\n                    betynglong wakyngthe crosse beryngsharp prickyng\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 153v"
+        },
+        "CULKk424": {
+            "Transcription": "\nblode swetynghard byndynggret trauaylyngsmert\n                    betynglonge wakyng\u00fee cros beryngscharp prykkyng\n",
+            "Note": "\nIn Latin sermon \u2018dominica in passione vel in die\n                    parasceue\u2019 (by John of Bromyard?).",
+            "Attributed Title": "\n7 tormenta cristi (145rb)",
+            "folio": "ff. 145rb-145va"
+        },
+        "TCD277": {
+            "Transcription": "\nBlodeswetynghardbyndyngGret\n                    trauelynghardbetynglongwakyngCrosseberyng&\n                    Scharpprykyng\n",
+            "Note": "\nIn \u2018sermo de passione Cristi in die parasceues\n                    facienda\u2019 (added, p. 185).",
+            "Attributed Title": "\nAmore langueo (scribal, p. 185)",
+            "folio": "p. 188"
+        }
+    }
+}

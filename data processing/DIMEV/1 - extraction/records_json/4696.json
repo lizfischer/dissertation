@@ -1,0 +1,71 @@
+{
+    "_id": 4696,
+    "_header": "Saint Mark the gospeller says us",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Seventh Sunday after Trinity in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Mark \u00fee gospellere sei\u00fe vs\u00feat muchel folk was\n                    wi\u00fe Ihesus\u2026\n",
+            "Last Lines": "\n\u2026Where al \u00feat Ioye schal spredeAnd euere lyue and neuer\n                    dede. AMEN.\n",
+            "Attributed Title": "\nCum turba multa esset cum Ihesu (f. 201ra)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 201ra-201rb"
+        },
+        "BodAsh42": {
+            "First Lines": "\nMarke \u00fee gospellere saise vs\u00feat mikil folk folowid\n                    iesus\u2026\n",
+            "Last Lines": "\n\u2026Oure lorde iesus to heuene vs ledeAnd wi\u00fe his fase he\n                    \u00feare vs fede . amen .\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 147-148"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nSEynt Mark \u00fee gospellere sais vs\u00feat mekil folk was with\n                    ihesus\u2026\n",
+            "Last Lines": "\n\u2026Oure lorde ihesu til heuene vs ledeAnd with his face vs alle\n                    \u00feare fede\n",
+            "Attributed Title": "\nDominica viia post festum trinitatis secundum Marcum (p.\n                    242)",
+            "folio": "pp. 242-243"
+        },
+        "CULDd11": {
+            "First Lines": "\nSEynt mark \u00fee Gospellere seyth vs\u00feat mekil folk was\n                    wi\u00fe ihesusIn to wildernes \u00feei folewid him\u2026\n",
+            "Last Lines": "\n\u2026And wi\u00fe thi face so vs \u00feu fede\u00feat we may lyue\n                    & neuere ben dede\n",
+            "Attributed Title": "\nDominica 7a post festum sancte trinitatis Euangelium secundum\n                        Marcum (f. 153v)",
+            "folio": "ff. 153v-154v"
+        },
+        "CULGg531": {
+            "First Lines": "\nSayne marke \u00fee gospeller says vs\u00feat mykyll folk was with\n                    ihesus\u2026\n",
+            "Last Lines": "\n\u2026Oure lord ihesu tyll heuen vs ledeAnd with hym selfen\n                    \u00feare vs fede\n",
+            "Attributed Title": "\n\u00deis es \u00fee gospell of \u00fee seuent sonunday (f. 102)",
+            "folio": "ff. 102-103"
+        },
+        "BLCottTibEVII": {
+            "folio": "f. 211vb"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nSEint Mark \u00fee gospeler sei\u00fe vs\u00deat muchel folk was\n                    with Ihesus\u2026\n",
+            "Last Lines": "\n\u2026Wher al \u00feat Ioye schal spredeAnd euer lyue & neuere\n                    dede. Amen\n",
+            "Attributed Title": "\nCum turba multa esset cum Ihesu (f. 6ra)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 6ra-6rb"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nMarke \u00fee gospeller sais vsThat mikill folke followid\n                    Ihesus\u2026\n",
+            "Last Lines": "\n\u2026Our lorde Ihesu to heuen vs ledeAnd with his face he\n                    \u00feair vs sede\n",
+            "folio": "ff. 109-110"
+        },
+        "Lam260": {
+            "folio": "f. 44rb"
+        },
+        "HunHM129": {
+            "First Lines": "\nSeint Mark \u00fee gospelere sayth vs\u00deat moche folke wos with\n                    iesusIn wildernys \u00feay foluyd hymAnd had defavte of met a\n                    tym\u2026\n",
+            "Last Lines": "\n\u2026Ihesu loueryd to heuyn vs ledeAnd with his fase \u00feare vs\n                    fede\n",
+            "Attributed Title": "\nDominica septima post festum trinitatis (f.\n                    125v)",
+            "folio": "ff. 125v-126"
+        },
+        "MinULZ822": {
+            "First Lines": "\nSaynt Marke \u00fee gospellere says vs\u00feat mykyll folke was\n                    with ihesus\u2026\n",
+            "Last Lines": "\n\u2026oure lorde ihesu tyll heuen vs ledeand with hys fayre face vs\n                    fede\n",
+            "Attributed Title": "\nDominica septima Secundum Marcum (f. 112v)",
+            "folio": "ff. 112v-113v"
+        }
+    }
+}

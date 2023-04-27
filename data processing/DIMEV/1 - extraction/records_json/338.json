@@ -1,0 +1,26 @@
+{
+    "_id": 338,
+    "_header": "All I rede that we here / That good Matthew will us lere",
+    "Note": "For another version see 5549.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Holy Innocents, feast of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel, In festo sanctorum Innocentium, in the \u2018expanded\u2019 Northern Homily Cycle \u2014 in couplets",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nAlle I rede \u00feat we here\u00deat goode Matheu wol vs\n                    lere\u2026\n",
+            "Last Lines": "\n\u2026And euer aftur vre endyngTo Beo wi\u00fe crist euerlastyng.\n                    Amen.\n",
+            "Attributed Title": "\nAngelus domini apparuit Ioseph (f. 219ra)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cProprium Sanctorum, Zusatz-Homilien des Ms. Vernon fol. CCXV zur\n                n\u00f6rdlichen Sammlung der Domicalia evangelia.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         81 (1888): 83-114, 300-21: 99.\n",
+            "folio": "ff. 219ra-219vb"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nAlle I rede \u00feat we here\u00feat good Matheu wol vs\n                    lere\u2026\n",
+            "Last Lines": "\n\u2026And euer aftur vre endyngTo be with crist euerlastuyng\n                    Amen\n",
+            "Attributed Title": "\nAngelus domini apparuit Ioseph (f. 22va)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 22va-23va"
+        }
+    }
+}

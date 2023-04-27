@@ -1,0 +1,24 @@
+{
+    "_id": 633,
+    "_header": "As I went in a merry morning",
+    "Note": "Cf. 617 and 634; Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler TM 190; Ringler Jr. (1988)\nXRingler Jr., William A. Bibliography and Index of English Verse Printed 1476-1558. London: Mansell, 1988 TP 170.5.",
+    "Subjects": "chansons d\u2019aventure ; carols, of mortality; birds, as narrators; death, fear of",
+    "Versification": "\u2014 four-line, two-line \u2014 aaab, aa",
+    "_description": "A carol with refrain, \u2018Timor mortis conturbat me\u2019 \u2014 seven quatrains (aaab) including this refrain, and burden (bb): \u2018In what state that ever I be / Timor mortis conturbat me\u2019",
+    "_witnesses": {
+        "BodEngPoete1": {
+            "First Lines": "\nAs I went in a mery mornyngI hard a byrd bo\u00fe wep & syng\n                    \u2026\n",
+            "Last Lines": "\n\u2026& be at owr and whan we sterue& frome \u00fee fynd he\n                    vs preserue\n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 191-2.\nWright,  Thomas,\n                        ed.  \n             Songs and Carols from a manuscript\u2026of the Fifteenth\n                Century.\nPercy Society\n         23. London: Richards, 1847: 57-8.\nPatterson,  Frank A. \n             The Middle English Penitential Lyric.\nColumbia University Studies in English.\n         New York: Columbia Press, 1911: 102-3.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 248; 1977, 220.\nGreene,  Richard Leighton,\n                        ed.  \n             A Selection of English Carols.\nClarendon Medieval and Tudor Series.\n         Oxford: Clarendon, 1962: 137.\nStevick,  Robert D.,\n                        ed.  \n             One Hundred Middle English Lyrics.\n         Indianapolis: Bobbs-Merrill, 1964: 135-6.\n\n",
+            "folio": "ff. 38v-39"
+        },
+        "OxfBal354": {
+            "First Lines": "\nAs I me walked on mornyngI hard a birde both wepe &\n                    synge\u2026\n",
+            "Last Lines": "\n\u2026\u00deerfore this songe synge I mayIn what place or contrey\n                    can I not sayTimor mortis conturbat meExplicit\n",
+            "Note": "\nFour stanzas (1,2,4,3) and burden",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 191-2.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 3.\nChambers,  Edmund Kerchever,  and  Frank Sidgwick.  \n             Early English Lyrics\u2026.\n         London: Buller, 1907, 1911 et seq: 150.\nSegar,  Mary Gertrude,\n                        ed.  \n             A Mediaeval Anthology.\n         London, NY: Longmans, Green, 1915: 100.\nSegar,  Mary Gertrude,  and  Emmeline Paxton, eds.  \n             Some Minor Poems of the Middle Ages.\n         London, NY: Longmans, Green, 1917: 41.\nKaiser,  Rolf,\n                        ed.  \n             Alt- und mittelenglische Anthologie.\n         Berlin, 1954; 3rd ed.; trans. as  Medieval English: a\n                Old English and Middle English Anthology Berlin West, 1958: 290.\nBlench,  J. W. \n             Preaching in England in the late fifteenth and sixteenth centuries; a\n                study of English sermons 1450- c. 1600.\n         New York: Barnes and Noble, 1964: 322-3.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 525.\n\n",
+            "folio": "p. 3743"
+        }
+    }
+}

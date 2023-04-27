@@ -1,0 +1,33 @@
+{
+    "_id": 2312,
+    "_header": "I which that am sorrowfullest man",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Compleint Damours",
+    "Subjects": "complaints, lovers\u2019",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "An Amorous Complaint (Compleint Damours), sometimes attributed to Chaucer \u2014 thirteen stanzas rhyme royal",
+    "_witnesses": {
+        "Bod638": {
+            "First Lines": "\nI which that am the sorwefullist manThat in this worlde was euyr\n                    yit leuynge\u2026\n",
+            "Last Lines": "\n\u2026And yit wull I euyrmore hir serueAnd loue hir best although\n                    she do me sterue\n",
+            "Attributed Author": "\nbe me humffrey fflemyng (after Explicit, not in scribe\u2019s\n                    hand)",
+            "Attributed Title": "\nComplaynt Demowre (f. 212 and RT)",
+            "Facsimiles": "\nRobinson,  Pamela. \n             \u201cIntroduction.\u201d \n             Manuscript Bodley 638: A Facsimile.\n         Norman, OK: Pilgrim, and Woodbridge: Boydell and Brewer, 1982. \n",
+            "folio": "ff. 212-214"
+        },
+        "BodFair16": {
+            "First Lines": "\nI whiche that am the sorwfullest manThat in this worlde was euer\n                    yet lyvinge\u2026\n",
+            "Last Lines": "\n\u2026And yet wol I euer more hir serueAnd loue hir best al thogh\n                    she do me sterue\n",
+            "Attributed Title": "\nComplaynt Damours (f. 197)",
+            "Facsimiles": "\nNorton-Smith,  John. \n             \u201cIntroduction.\u201d \n             Bodleian Library MS Fairfax 16.\n         London: Scolar Press, 1979. \n",
+            "folio": "ff. 197-198v"
+        },
+        "BLHar7333": {
+            "First Lines": "\nI which \u00feat am \u00fee sorowfullest man\u00deat in this worlde\n                    was euere yit leving\u2026\n",
+            "Last Lines": "\n\u2026And yit wolle I euermore hir serveAnd love hir best all\n                    thowhe sheo do me sterue\n",
+            "Attributed Title": "\nAnd next folowyng begynnith an amorowse / compleynte made at wyndesore in\n                    the laste / May to fore nouembre (f. 135vb, rubric)",
+            "Editions": "\n\nSkeat,  Walter William. \n             \u201cTwo More Poems by Chaucer.\u201d \n             Academy\n         33 (No. 834, 28 April 1888): 292, 307: 307.\nSkeat,  Walter William. \n             \u201cTwo More Poems by Chaucer.\u201d \n             Academy\n         33 (No. 834, 28 April 1888): 292, 307: 1.411-14.\nMarshall,  Isabel,  and  Lela Porter.  \n             Ryme-Index to the manuscript texts of Chaucer\u2019s Minor\n                Poems.\nChaucer Society\n         1st ser. 80 (1889): 218.\nRobinson,  F. N.,\n                        ed.  \n             The Works of Geoffrey Chaucer.\n         Oxford: Clarendon, 1933; 2nd ed. 1957: 636-7; 1957; 540-1.\nBenson,  Larry Dean,\n                        ed.  \n             The Riverside Chaucer.\n         3rd ed. Boston: Houghton Mifflin, 1987: 658-9.\n\n",
+            "folio": "f. 136ra-136rb"
+        }
+    }
+}

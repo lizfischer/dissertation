@@ -1,0 +1,15 @@
+{
+    "_id": 4447,
+    "_header": "Readily withouten letten",
+    "Subjects": "sermons, verse in",
+    "Versification": "\u2014 three-line \u2014 aaa",
+    "_description": "Three lines in a Latin sermon \u2014 three monorhyming lines",
+    "_witnesses": {
+        "OxfMagd93": {
+            "Transcription": "\nredeliche withouten lettyngwyseliche withouten stumlyngSothliche\n                    withowten faynyng\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nCoxe,  Henry Octavius. \n             Catalogus codicum mss. qui in collegiis aulisque\n                oxoniensibus\u2026.\n         Oxon: e Typographeo academico, 1852: 50.\n",
+            "folio": "f. 148"
+        }
+    }
+}

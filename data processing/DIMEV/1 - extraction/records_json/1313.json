@@ -1,0 +1,23 @@
+{
+    "_id": 1313,
+    "_header": "First as the earth increaseth populace",
+    "Title(s)": "The Origin and Description of Heraldry",
+    "Subjects": "heraldry",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "The Origin and Description of Heraldry \u2014 thirty-six rhyme royal stanzas",
+    "_witnesses": {
+        "OxfQueens161": {
+            "First Lines": "\nffirst as \u00fee erth incresith populusSo convalit vicis and\n                    variance\u2026\n",
+            "Last Lines": "\n\u2026My said lordis correct me deligentTo maidmenis or sey ye\n                    remanent\n",
+            "Editions": "\nBowers,  Robert Hood. \n             \u201cThe Middle Scotch Poem on Heraldry in Queen\u2019s College MS\n                161.\u201d \n             Modern Language Notes\n         51 (1936): 429-31: 429-31.\n",
+            "folio": "ff. 110-113v"
+        },
+        "BLHar6149": {
+            "First Lines": "\nFIrst as \u00fee erth incresith populusSo convalit vicit &\n                    variance\u2026\n",
+            "Last Lines": "\n\u2026My said lordis correk me diligentTo maid menis or sey \u00fee\n                    remanent\n",
+            "Note": "\nPreceded by six folios of heraldic illustrations (ff.\n                        145v-150v).",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Queene Elizabethes Achademy, etc.\nEETS\n         e.s. 8 (1869); repr. 1973: 93-1021.\n",
+            "folio": "ff. 151-155"
+        }
+    }
+}

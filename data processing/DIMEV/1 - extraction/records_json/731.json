@@ -1,0 +1,20 @@
+{
+    "_id": 731,
+    "_header": "Authentic books and stories old and new",
+    "Author(s)": "Bernard of Clairvaux (attrib.)",
+    "Title(s)": "Bernardus de cura rei familiaris",
+    "Subjects": "precepts; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Bernardus de cura rei familiaris \u2014 408 lines in couplets with interspersed Latin text",
+    "_witnesses": {
+        "CULKk15": {
+            "First Lines": "\nAwtentyk bukys and storis alde and newBe wys poetys ar tretit\n                    \u00fee quhilk trew\u2026\n",
+            "Last Lines": "\n\u2026\u00feat can notht lesse in lykyne \u00feam alaneBe this\n                    vertew na sampylle may be tane\n",
+            "Note": "\nInterspersed with Latin quotations.",
+            "Attributed Author": "\nBernardus (ff. 2, 10v)",
+            "Attributed Title": "\nBernardus de cura rei familiaris (f. 2); Explicit tractatus\n                        Bernardi de cura rei familiaris (f. 10v)",
+            "Editions": "\n\nStevenson,  Joseph. \n             The Scottish Metrical Romance of Lancelot du Lak.\nMaitland Club\n         48. Edinburgh, 1839: 161-8.\nLumby,  Joseph Rawson,\n                        ed.  \n             Bernardus De Cura Rei Famuliaris, with some early Scottish\n                Prophecies.\nEETS\n         o.s. 42 (1870); repr. 1965: 1-17.\n\n",
+            "folio": "Part V, ff. 2-10v"
+        }
+    }
+}

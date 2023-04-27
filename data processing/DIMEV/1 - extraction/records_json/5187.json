@@ -1,0 +1,26 @@
+{
+    "_id": 5187,
+    "_header": "That worthy David which that slew Goliath",
+    "Author(s)": "John Lydgate",
+    "Subjects": "pageant verses; London, goldsmiths of",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lydgate, a Mumming for the Goldsmiths of London \u2014 fourteen stanzas rhyme royal",
+    "_witnesses": {
+        "CamTCC600": {
+            "First Lines": "\n\u00deat wor\u00fey dauid which \u00feat sloughe Golye\u00dee first\n                    kyng \u00feat sprang oute of JesseOf god echeson \u00fee bookes\n                    specefyeBy Samuel sette in his royal see\u2026\n",
+            "Last Lines": "\n\u2026Sette \u00feees and rest welfare and vnyteeDuryng youre tyme\n                    thoroughe oute \u00feis cytee\n",
+            "Note": "\nWith Latin and English marginal glosses.",
+            "Attributed Title": "\nAnd nowe filowe\u00fee a letre made in wyse of balade by ledegate daun\n                    Johan of a mommynge whiche \u00fee Golde smythes of \u00fee Cite of London\n                    mommed in Right fresshe and costelewelych desguysing to \u00feeyre Mayre\n                    Eestfeld vpon Candelmasse day at nyght affter souper brought and presented vn to\n                    \u00fee Mayre by an heraude cleped ffortune (p. 175); A desgysing to \u00fee\n                    Mayre By \u00fee Goldsmythes (RT)",
+            "Editions": "\n\nBrotanek,  Rudolph. \n             Die Englischen Maskenspiele.\n         Vienna, Leipzig: W. Braum\u00fcller, 1902: 323-5.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 1.698-701.\n\n",
+            "folio": "pp. 177-178"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nThat worthy david whiche that sloughe goliethe fyrst kyng that\n                    sprang oute of Jesse\u2026\n",
+            "Last Lines": "\n\u2026sett pees and reste welfare and vnytiedurynge yowre tyme\n                    thoroughe this sytie\n",
+            "Note": "\nEnds \u2018finis\u2019 (f. 135v) by scribe.",
+            "Attributed Author": "\nIohn lydgat (f. 134)",
+            "Attributed Title": "\nher folowythe a lettar made by Iohn lydgat for a mommynge whiche \u00fee\n                    goldsmythes of london shewyd before Eestfyld \u00fee mayr on candylmas day at\n                    nyght this letar was presentyd by an harold callyd fortune (f. 134, by scribe,\n                    John Stow).",
+            "folio": "ff. 134-135v"
+        }
+    }
+}

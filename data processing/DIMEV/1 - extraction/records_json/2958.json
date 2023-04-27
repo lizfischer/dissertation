@@ -1,0 +1,21 @@
+{
+    "_id": 2958,
+    "_header": "John Baptist as ghostly leech",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Friday of the Second Week in Advent, in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 121ra"
+        },
+        "BLHar4196": {
+            "First Lines": "\nIohn Baptist als gastly lecheWas in desert \u00fee folk to preche\u2026\n",
+            "Last Lines": "\n\u2026And serue god euer in pouertAls did saint iohan so in desert\n",
+            "Note": "\nPreceded by Latin, \u201cFUit Iohannes in deserto predicans\u201d (f. 5ra).",
+            "Attributed Title": "\nFeriorum vi secunde ebdomade aduentus domini Euangelium secundum Marcum (rubric, f. 5ra)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): I.167-168.\n",
+            "folio": "f. 5ra-5rb"
+        }
+    }
+}

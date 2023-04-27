@@ -1,0 +1,28 @@
+{
+    "_id": 1234,
+    "_header": "Example here of verily",
+    "Note": "Cf. Herbert (1910)\nXHerbert, John Alexander. Catalogue of Romances in the Department of MSS. in the British Museum. Vol. 3. London, 1910, 3.67 and 340; Furnivall (1901)\nXFurnivall, Frederick James. Robert of Brunne\u2019s Handlyng Synne [and its French original]\nEETS o.s. 119, 123 (1901, 1903); repr. 1973, 7-12.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "monks, tales of; exempla",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Dove flies from Mouth of Unchaste Monk, in Northern Homily Cycle \u2014 in couplets",
+    "_witnesses": {
+        "BodSelSup52": {
+            "First Lines": "\nOf on monke of religionWas fon with fornicacion\u2026\n",
+            "Last Lines": "\n\u2026\u00fei lusty face in heuyn to seAmen Amen so mott yt\n                    be\n",
+            "folio": "ff. 237-239"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nEnsaumple here of verralyI fynde in a ful trewe\n                    story\u2026\n",
+            "Last Lines": "\n\u2026\u00dei lufli face in heuene to seAmen amen so myght it\n                    be\n",
+            "Attributed Title": "\nDe quodam monacho volente nubere filiam pagani (margin, p.\n                    373)",
+            "folio": "pp. 373-377"
+        },
+        "CULDd11": {
+            "First Lines": "\nExsample her of veriliI finde in a ful trewe storiOf a man of\n                    Religioun\u2026\n",
+            "Last Lines": "\n\u2026\u00dei louesum face in heuene to seAmen amen so mote it\n                    be\n",
+            "Editions": "\nRosenthal,  Constance Lowegrund. \n             The Vitae Patrum in Old and Middle English Literature.\n         Philadelphia, 1936; repr. Folcroft, PA: Folcroft Library,\n            1974: 151-3.\n",
+            "folio": "f. 218"
+        }
+    }
+}

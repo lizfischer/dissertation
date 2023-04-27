@@ -1,0 +1,17 @@
+{
+    "_id": 5893,
+    "_header": "Though thou have castles and towers",
+    "Note": "Variant of Walther (1959)\nXWalther, Hans. Initia carmina ac versuum medii aevi posterioris latinorum. G\u00f6ttingen, 1959; 2nd ed. 1969, no. 18017 and bad key, no. 29170a.",
+    "Subjects": "translations; transitoriness",
+    "Versification": "\u2014 three-line \u2014 aab",
+    "_description": "Translation of the Latin, Si tibi magna domus, si splendida mensa, quid inde? (six hexameters) \u2014 six triplets, each with refrain, \u2018wat \u00feer-fore?\u2019",
+    "_witnesses": {
+        "WorcQ46": {
+            "First Lines": "\n\u00fee\u021d \u00feou habbe casteles & touresHalles chaumbres\n                    semeliche bouresWat \u00feer fore\u2026\n",
+            "Last Lines": "\n\u2026Al hyt passeyth & for goth\u00feat furst was lef hyt\n                    waxeth loth& \u00feerefore nou\u021dt \u00feerfore\n",
+            "Note": "\nAppearing with other verse added to blank space at end of Latin prose\n                    text (beg. 236), \u2018Modo videtur est vi d[five minums line\n                    over] \u2018custodire debemus qui & si heri eum\n                    suscepimus\u2019.",
+            "Editions": "\nWenzel,  Siegfried. \n             \u201cUnrecorded Middle-English Verses.\u201d \n             Anglia\n         92 (1974): 55-78: 73.\n",
+            "folio": "f. 238rb"
+        }
+    }
+}

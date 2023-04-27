@@ -1,0 +1,100 @@
+{
+    "_id": 6398,
+    "_header": "When Rome is removed into England",
+    "Note": "All MSS show considerable variations, but derive from an original short prophecy, Scottish in sympathy, developing some of the symbols used by Geoffrey of Monmouth.",
+    "Title(s)": "The Second Scottish Prophecy",
+    "Subjects": "prophecies, political",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "London, Westminster Abbey 27 : not in this manuscript or too faded to detect.",
+    "_description": "The Second Scottish Prophecy, the A Text \u2014 in couplets",
+    "_witnesses": {
+        "BodLye35": {
+            "folio": "ff. 24-25v"
+        },
+        "BodRawC813": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 217.",
+            "folio": "ff. 88-88v;  115;  123v-124"
+        },
+        "BodRawD1062": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 217.",
+            "folio": "f. 105v"
+        },
+        "BodAsh337": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 217.",
+            "folio": "f. 112v"
+        },
+        "BodAsh1386": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 217.",
+            "folio": "ff. 247-248;  253"
+        },
+        "BodAsh1835": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 217.",
+            "folio": "ff. 2v;  43v-45"
+        },
+        "CULKk15": {
+            "First Lines": "\nQWhen Rome Is removyde in to InglandeAnd the prest haffys the\n                    poppys powre in hande\u2026\n",
+            "Last Lines": "\n\u2026And o\u00feer burghys abowte wytht \u00fear brade wallSall\n                    wytht \u00fee lyoune be leff ande longe for euer\n",
+            "Note": "\n71 lines in rough couplets, some incomplete.",
+            "Editions": "\n\nRobbins,  Rossell Hope,\n                        ed.  \n             Historical Poems of the XIV and XV Centuries.\n         New York: Columbia UP, 1959: 118.\nStevenson,  Joseph. \n             The Scottish Metrical Romance of Lancelot du Lak.\nMaitland Club\n         48. Edinburgh, 1839: 157.\nLumby,  Joseph Rawson,\n                        ed.  \n             Bernardus De Cura Rei Famuliaris, with some early Scottish\n                Prophecies.\nEETS\n         o.s. 42 (1870); repr. 1965. \n\n",
+            "folio": "Part IV, ff. 33-34"
+        },
+        "BLAdd24663": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 217.",
+            "folio": "f. 39"
+        },
+        "BLHar559": {
+            "First Lines": "\nWhen Rome is Remevyd into InglandAnd euerye prist hathe popes power\n                    In hand\u2026\n",
+            "Last Lines": "\n\u2026Covetous & Lecherye is the viceThen shall it bene\n                    Lyfe\n",
+            "Note": "\nFragment: 7 lines only. Seven lines rhyming aaaabbb; followed on f.\n                        10v by prose prophecy of similar content set out in lines but\n                    unrhyming except for one embedded couplet(?).",
+            "folio": "f. 10"
+        },
+        "BLSl2578": {
+            "First Lines": "\nwhen rome is removid in to englande& euery preste hathe the popes power in hande\u2026\n",
+            "Last Lines": "\n\u2026Be \u00feat yeare of the lorde com & gonein the lande of albion shalbe myche confusion\n",
+            "Note": "\nWritten as prose; continues in prose to 75v, including echos of other prophecies including 6434, then ends \u201cfinis.\u201d",
+            "folio": "f. 73v-74"
+        },
+        "NLWAd.441C": {
+            "Note": "\n86 lines.",
+            "folio": "pp. 49-51"
+        },
+        "NLWLan119": {
+            "Note": "\n95 lines.",
+            "folio": ""
+        },
+        "NLWPen26": {
+            "Note": "\nFragment: 7 lines only; formerly 4010.",
+            "folio": "p. 127"
+        },
+        "NLWPen27": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 217.",
+            "folio": "pp. 129-131"
+        },
+        "NLWPen50": {
+            "Note": "\n90 lines; formerly 4011.",
+            "folio": "pp. 4-7"
+        },
+        "NLWPen94": {
+            "Note": "\nFirst 35 lines, then another 33 lines, and last 13 lines.",
+            "folio": "pp. 174;  262;  167"
+        },
+        "PROHenVIIISP1232": {
+            "Note": "\nHamer (1995)\nXHamer,  Richard. \n             A Manuscript Index to the Index of Middle English Verse.\n         London: British Library, 1995 lists as \u2018Unlocated\u2019.",
+            "Editions": "\nFurnivall,  Frederick James. \n             Ballads from Manuscripts.\n         London: Ballad Society, 1863; repr. New York: AMS, 1968: 1.317.\n",
+            "folio": ""
+        },
+        "WestmAb27": {
+            "Note": "\nIf this record is in MS it would be on f. 32, but too faded to make\n                    out.",
+            "folio": "f. 31v"
+        },
+        "ChesRecOffddx123": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 217.",
+            "folio": "ff. 9v;  12"
+        },
+        "Mostyn133": {
+            "Note": "\n96 lines; Hamer (1995)\nXHamer,  Richard. \n             A Manuscript Index to the Index of Middle English Verse.\n         London: British Library, 1995 lists as Unidentified, Missing or\n                    Destroyed.",
+            "Editions": "\nHaferkorn,  Reinhard,\n                        ed.  \n             When Rome is Removed into England, eine politische Prophezeiung des\n                14.\nJahrhunders. Beitr\u00e4ge zur englischen Philologie\n         19. Leipzig: Tauchnitz, 1932: 92, 104, 112, 114 (composite text).\n",
+            "folio": "pp. 331-341"
+        }
+    }
+}

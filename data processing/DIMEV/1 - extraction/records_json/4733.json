@@ -1,0 +1,30 @@
+{
+    "_id": 4733,
+    "_header": "Saint Mildred the holy maid to tell by right doom",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Mildred, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Mildred in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "Bod779": {
+            "First Lines": "\nseint myldre \u00fee holy mayd to telle be ry\u021dt dombore was in\n                    ingelond in \u00fee ferste cristindom\u2026\n",
+            "Last Lines": "\n\u2026& went to \u00fee ioy of heuin \u00feer as \u021dhe \u021dit\n                    isnow god vs wisse \u00feilke wey \u00feat we ne go amys\n",
+            "folio": "ff. 302-303v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSEint Mildride \u00fee holi Mayde of kynges kunne comI bore heo was\n                    in Engelonde in \u00fee furste cristendom\u2026\n",
+            "Last Lines": "\n\u2026And wende to \u00fee Ioye of heuene \u00feer as heo \u021dit\n                    isNou God vs sende \u00feulke wey \u00feat we blenche not amis.\n                    A.M.E.N.\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 41vb-42rb"
+        },
+        "BLEge1993": {
+            "First Lines": "\nSeinte Mildride \u00fee holi maide of kinges kunne comIbore heo was in engelonde in \u00fee vurste cristendom\u2026\n",
+            "Last Lines": "\n\u2026& wende to \u00fee ioie of heuene \u00feer as heo \u021dut isNow god vs sende \u00feulke wey \u00feat we ne blenche not amis\n",
+            "folio": "ff. 176-178"
+        },
+        "NLW5043": {
+            "Note": "\nFragment.",
+            "folio": "f. 3"
+        }
+    }
+}

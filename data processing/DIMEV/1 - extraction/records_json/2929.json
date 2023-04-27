@@ -1,0 +1,21 @@
+{
+    "_id": 2929,
+    "_header": "Jesu that was fulfilled of grace",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Thursday in Holy Week, in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 164va"
+        },
+        "BLHar4196": {
+            "First Lines": "\nIhesu crist \u00feat was fulfild of graceffast bifor \u00fee feste of pasche\u2026\n",
+            "Last Lines": "\n\u2026God grante vs grace his will to doAnd kepe his laus and cum him to\n",
+            "Note": "\nPreceded by Latin, \u201cAnte diem festum pasche & cetera\u201d; ends \u201cAmen.\u201d",
+            "Attributed Title": "\nfferia v proxima secundum Iohannem (rubric, f. 66va)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): II.164-168.\n",
+            "folio": "f. 66va-67rb"
+        }
+    }
+}

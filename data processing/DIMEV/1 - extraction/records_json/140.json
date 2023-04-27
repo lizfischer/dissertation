@@ -1,0 +1,15 @@
+{
+    "_id": 140,
+    "_header": "A pity withouten truth",
+    "Note": "Preceeded by 3276, 971, 4350.",
+    "Author(s)": "Friar Nicholas Philip",
+    "Subjects": "sermons, verse in; virtues",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Four types of pity in a Latin sermon by Friar Nicolas Philip \u2014 two couplets",
+    "_witnesses": {
+        "BodLatTheD1": {
+            "Transcription": "\nA pyte with owten trewtheEst so a pytte with outyn\n                    rewthe\u00feer is a pyte with outen pees& \u00feer is a pyte\n                    feythis lees\n",
+            "folio": "f. 175"
+        }
+    }
+}

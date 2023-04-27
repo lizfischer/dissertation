@@ -1,0 +1,45 @@
+{
+    "_id": 3804,
+    "_header": "Now the law is laid by clear conscience",
+    "Note": "For simple poems on the same theme see 3067 and 3068.",
+    "Subjects": "complaints, on evils of the time; evils of the time; punctuation poems; law",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "On the Evils of the Time, a \u2018punctuation poem\u2019 \u2014 one 8-line stanza (ababbcbc)",
+    "_witnesses": {
+        "OxfCCC261": {
+            "First Lines": "\nNow the law ys lad be trew consciensffulfeld couetyse hath\n                    domynacioun\u2026\n",
+            "Last Lines": "\n\u2026Men may fynd day nor nyght adulaciounNow reynyth trowth in\n                    euery mannys syght\n",
+            "folio": "f. 89v"
+        },
+        "CULHh26": {
+            "First Lines": "\nNowe the lawe is ledde by clere conscienceffull seld Couetise hath\n                    duracioun\u2026\n",
+            "Last Lines": "\n\u2026Men may fynd day ne nyght AdulaciounNowe reigneth treuth in\n                    euery mannys sight\n",
+            "Note": "\nImmediately followed by 2670, as if first stanza.",
+            "Editions": "\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 101.\n",
+            "folio": "f. 58ra"
+        },
+        "CamTCC366": {
+            "First Lines": "\nNowe the lawe ys layde ledde be clere concienseffull\n                    sylde Covetyse hath dominacioun\u2026\n",
+            "Last Lines": "\n\u2026Men may fynde day nor ny\u021dth adulaciounNowe Reyneth\n                    truthe yn euery mannys sy\u021dthe\n",
+            "Editions": "\n\nKreuzer,  James R. \n             \u201cSome Earlier Examples of the Rhetorical Device in Ralph Roister Doister\n                (III.iv.33ff).\u201d \n             Review of English Studies\n         14 (1938): 321-3: 321-3.\nJames,  Montague Rhodes. \n             Catalogue of the\n                    Western Manuscripts in the Library of Trinity College, Cambridge.\n         4 vols. Cambridge: at the UP, 1900-1904: 1.496.\n\n",
+            "folio": "f. 1"
+        },
+        "BLAdd5465": {
+            "Note": "\nWith music in two voices, credited to Rycardus Davy, lacking the upper\n                    voice because the facing page is lost.",
+            "Editions": "\n\nKreuzer,  James R. \n             \u201cSome Earlier Examples of the Rhetorical Device in Ralph Roister Doister\n                (III.iv.33ff).\u201d \n             Review of English Studies\n         14 (1938): 321-3: 321-3.\nFehr,  Bernhard. \n             \u201cDie Lieder des Fairfax MS (Add. 5465 Brit. Mus.).\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         106 (1901): 48-70: 54.\nFehr,  Bernhard. \n             \u201cBerichtigungen und Nachtr\u00e4ge zu Archiv Bd CVI, 5.50ff.: \u2018Die\n                Lieder des Firfax-Ms.\u2019\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         109 (1902): 70-2: 71.\nStevens,  John,\n                        ed.  \n             Music and Poetry in the Early Tudor Court.\n         London: Methuen, 1961: 356.\n\n",
+            "folio": "f. 12"
+        },
+        "BLHar78": {
+            "First Lines": "\nNow is the lawe lede by clere conscienceffull selde Covityse hathe\n                    dominion\u2026\n",
+            "Last Lines": "\n\u2026Mene may fynde day nor nyght AdulationNow rvlethe trouth in\n                    euerrie mans syght\n",
+            "Attributed Title": "\nThe treuthe at on tyme affirmed (f. 30)",
+            "folio": "f. 30"
+        },
+        "BLHar2250": {
+            "First Lines": "\nNow the lawe is lad by clere conciensffull sheld covetys hath\n                    domination\u2026\n",
+            "Last Lines": "\n\u2026Men may fynd day nor nyght AdvlationNow regneth truteh in\n                    euery mannys syght\n",
+            "Editions": "\nKreuzer,  James R. \n             \u201cSome Earlier Examples of the Rhetorical Device in Ralph Roister Doister\n                (III.iv.33ff).\u201d \n             Review of English Studies\n         14 (1938): 321-3: 321-3.\n",
+            "folio": "f. 84v"
+        }
+    }
+}

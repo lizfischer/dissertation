@@ -1,0 +1,21 @@
+{
+    "_id": 4700,
+    "_header": "Saint Martin went upon a day",
+    "Note": "For the usual text see 691.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Martin, saint",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "St. Martin and the Naked Pilgrim in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 185va"
+        },
+        "BLHar4196": {
+            "First Lines": "\nSaint Martin went opon a dayfful richely rideand bi \u00fee way\u2026\n",
+            "Last Lines": "\n\u2026His frely face ay forto seAmen Lord len it might so be\n",
+            "Attributed Title": "\nExemplum de sancto martino (rubric, f. 87rb)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): II.173-178.\n",
+            "folio": "ff. 87rb-88ra"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "_id": 1660,
+    "_header": "Great advertence",
+    "Author(s)": "John Hurleston",
+    "Subjects": "almsgiving; Edward VI; Edward IV; Edward V; patronage, pleas for",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Hurleston, Prayer for alms, and for protection(?) of royal Edward \u2014 twelve fragmentary lines",
+    "_witnesses": {
+        "HarEng1054": {
+            "First Lines": "\n\u2026great aduertence[ ] and geue ys almes[ ] and in their\n                    presence[ ] haue their prayse\u2026\n",
+            "Last Lines": "\n\u2026father full of mercie[ ]th euery thinge secrete[ ]\n                    Edwarde the openlye[ ] the lif euerlastynge\n",
+            "Note": "\nAdded by hand of the sixteenth century to blank leaf at end of\n                    Hardynge\u2019s Chronicle, folio now partly torn away, with loss of\n                    beginnings of lines.",
+            "folio": "f. 149v"
+        }
+    }
+}

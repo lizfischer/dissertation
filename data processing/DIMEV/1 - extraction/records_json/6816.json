@@ -1,0 +1,34 @@
+{
+    "_id": 6816,
+    "_header": "Ye Briton Martyrs famous in perfectness",
+    "Author(s)": "John Lydgate",
+    "Subjects": "prayers, to saints; Ursula, saint",
+    "Versification": "\u2014 eight-line, two-line \u2014 ababbcbc, aa",
+    "_description": "John Lydgate, Prayer to British Saints, particularly St. Ursula \u2014 three 8-line stanzas and a couplet",
+    "_witnesses": {
+        "CamJes56": {
+            "First Lines": "\n[Y]E briton martirs famous in parfitnesOf herte a vowid in youre\n                    tender age\u2026\n",
+            "Last Lines": "\n\u2026Shall be menys to \u00fei magnificenceVs to socoure lorde\n                    when we to \u00fee call\n",
+            "Note": "\n\u2018Oracio\u2019 in margin beside third stanza",
+            "Attributed Title": "\nIncipit de XI mille virginibus (f. 76v)",
+            "folio": "ff. 76v-77"
+        },
+        "CamSidney37": {
+            "First Lines": "\nYE bruton martirs famous in perfinesse Off hert anoned in yowre\n                    tendir age\u2026\n",
+            "Last Lines": "\n\u2026Schalle menys to thi magnificence Vs to socoure lord whan we\n                    to the callel\n",
+            "folio": "ff. 147-148"
+        },
+        "CamTCC601": {
+            "First Lines": "\nYE brytoun martyrs famous in parfytenesse Of hert avowed in yowre\n                    tendyr Age To perseuer in vyrginall clennesse ffre from the yok &\n                    bond of mariage\u2026\n",
+            "Last Lines": "\n\u2026Shalbe meanes to thy magnificence Vs to socour lord when we\n                    to the call\n",
+            "Attributed Author": "\nLydgate (added after Explicit by later hand, prob. John Stow\u2019s; f.\n                        169v).",
+            "folio": "ff. 169-169v"
+        },
+        "BLHar2255": {
+            "First Lines": "\nYE Bryton martirs famous in parfitnesseOf herte avowyd in your\n                    tendir Age\u2026\n",
+            "Last Lines": "\n\u2026Shal be meenys to thy magnificenceVs to socoure lord whan we\n                    to the calle\n",
+            "Editions": "\n\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             A Selection from the Minor Poems of Don John Lydgate.\nPercy Society\n         2. London: T. Richard, 1840: 78-9.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 144.\n\n",
+            "folio": "f. 116"
+        }
+    }
+}

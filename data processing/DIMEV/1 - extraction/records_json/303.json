@@ -1,0 +1,17 @@
+{
+    "_id": 303,
+    "_header": "Alas what ruleth the bridle rein",
+    "Subjects": "alphabetic poems; advice",
+    "Versification": "\u2014 four-line, seven-line, two-line \u2014 abab, ababbcc, aa",
+    "Macaronic": "Latin",
+    "_description": "An alphabetical poem \u2014 seventy-eight lines in 19 stanzas of varying length, each line of a stanza beginning with same word, with \u2018Wo worth\u2019 anaphora; some stanzas (like that for \u2018q\u2019) in Latin",
+    "_witnesses": {
+        "NottsULMiDc7": {
+            "First Lines": "\nAlas wat rulythe the Brydle rayneAlas that I louyd so\n                    counsystenceAlas tym past may not returne agaynAlas that I lost al by\n                    neglygence\u2026\n",
+            "Last Lines": "\n\u2026Wo worth the buyere that [ ] saythwo worth those [ ]stet that\n                    s[ ]th can\n",
+            "Note": "\nProvenance: \u2018A Regestre of [ ] belonging to the Abby of Burton\n                    upon Trent made 1474 by Thomas Felde Abbot\u2019 (front cover,\n                    recto).",
+            "Editions": "\n\nHistorical Manuscripts Commission, Report on the Manuscripts of Lord\n                Middleton, [formerly] preserved at Wollaton Hall, Nottinghamshire.\n         (1911): 267-8.\n",
+            "folio": "front cover, recto and verso"
+        }
+    }
+}

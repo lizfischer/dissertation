@@ -1,0 +1,33 @@
+{
+    "_id": 4618,
+    "_header": "Saint Jacques in the land of Persia of great high men come",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Jacques (James Intercisus) the martyr, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Jacques the Martyr in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "Bod779": {
+            "First Lines": "\nSeint ieme in \u00fee lond of perce of hy\u021de men comesone he\n                    let \u00fee false laue & tok to cristindome\u2026\n",
+            "Last Lines": "\n\u2026nou\u021d god for \u00fee gret ioye \u00feat seint Iakes\n                    haddebrynge vs to \u00feilke ioye \u00feat seint Iakes hadde\n",
+            "Attributed Title": "\nSeint \u021dake \u00fee marter (f. 113)",
+            "folio": "ff. 113-113v"
+        },
+        "BLCottJulDIX": {
+            "First Lines": "\nSEint Iakes in \u00fee lond of perce of gret heie men comsone he let \u00fee false lawe & toc to cristendom\u2026\n",
+            "Last Lines": "\n\u2026nou god for \u00fee grete torment \u00feat sein Iakes here haddebring vs to \u00feilke ioie \u00feat \u00fee angel his soule ladde\n",
+            "Note": "\n\u201cCapitulum lxxxv\u201d added to left margin by later hand (f. 201v).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Julius MS D IX.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Julius_D_IX. \n",
+            "folio": "f. 201v"
+        },
+        "BLEge2810": {
+            "First Lines": "\nSEint Iakes in \u00fee londe of pers of heie men comSone he let \u00fee false lawe & tok to cristindom\u2026\n",
+            "Last Lines": "\n\u2026Nou god vor \u00fee grete torment \u00feat Seint Iakes haddeBringe ous to \u00feulke ioie \u00feer angeles is soule ladde\n",
+            "Note": "\nEnds \u201cAmen.\u201d",
+            "folio": "ff. 122v-123"
+        },
+        "NLW5043": {
+            "Note": "\nFragment, including Narracio bona.",
+            "folio": "ff. 1;  2"
+        }
+    }
+}

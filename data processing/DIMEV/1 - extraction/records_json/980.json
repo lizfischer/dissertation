@@ -1,0 +1,31 @@
+{
+    "_id": 980,
+    "_header": "Christ and Saint Mary so on shamble me I-led",
+    "Author(s)": "Reginald",
+    "Title(s)": "Vita S. Godrici",
+    "Subjects": "Godric, saint, prayer of; prayers, of saints; songs",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "St Godric\u2019s prayer in Reginald\u2019s Vita S. Godrici \u2014 a single couplet",
+    "_witnesses": {
+        "BodLauMis413": {
+            "Transcription": "\nCrist and Seinte Marie sio on scamel me i leddethat ic on this hi\n                    erthe ne scuilde mit mine bare fot itreide\n",
+            "Editions": "\n\nZupitza,  Julius. \n             \u201cCantus beati Godrici.\u201d \n             Englische Studien\n         11 (1888): 401-32: 426-7.\nStevenson,  Joseph. \n             Libellus de Vita et Miraculis S. Godrici, Heremitae de Finchale auctore\n                Reginaldo Monacho Dunelmensi.\nSurtees Society\n         20 (1847): 144.\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.3, 304.\nWilson,  Richard Middlewood. \n             The Lost Literature of Medieval England.\n         London: Methuen, 1952: 172.\n\n",
+            "folio": "f. 47"
+        },
+        "BLHar153": {
+            "Transcription": "\nSeinte Marie s\u01bfa me ileddethat ic on \u00feis hi erthe ne sould\n                    noth mine bare fot hi trede\n\n",
+            "Note": "\nWritten as prose amidst Latin prose text.",
+            "Editions": "\n\nZupitza,  Julius. \n             \u201cCantus beati Godrici.\u201d \n             Englische Studien\n         11 (1888): 401-32: 426-7.\nStevenson,  Joseph. \n             Libellus de Vita et Miraculis S. Godrici, Heremitae de Finchale auctore\n                Reginaldo Monacho Dunelmensi.\nSurtees Society\n         20 (1847): 144.\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.3, 304.\n\n",
+            "folio": "f. 31"
+        },
+        "BLRoy5Fvii": {
+            "Transcription": "\nCrist and sainte marie s\u01bfa on scamel me iledde\u00feat ic on\n                    \u00feis er\u00f0e ne silde \u01bfid mine bare fote i tredie\n",
+            "Note": "\nIt appears \u2018tredie\u2019 in the second line is a miscopying for\n                    \u2018tredde\u2019.",
+            "Editions": "\n\nZupitza,  Julius. \n             \u201cCantus beati Godrici.\u201d \n             Englische Studien\n         11 (1888): 401-32: 426-7.\nRitson,  Joseph. \n             Bibliographia Poetica.\n         London: Roworth, 1802: 4.\nRankin,  J. W. \n             \u201cThe Hymns of St. Godric.\u201d \n             PMLA\n         38 (1923): 699-712: 700, 708.\nHall,  Joseph. \n             Selections from Early Middle English, 1130-1250.\n         2 parts. Oxford: Clarendon, 1920, 1951: 1.5.\nReese,  Gustave. \n             Music in the Middle Ages.\n         New York: Norton, 1940: 241.\nDobson,  Eric John,  and  F. L. Harrison.  \n             Medieval English Songs.\n         New York: Cambridge UP, 1979: 103.\n\n",
+            "folio": "f. 85r1"
+        },
+        "Mazar1716": {
+            "folio": ""
+        }
+    }
+}

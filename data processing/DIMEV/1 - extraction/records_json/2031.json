@@ -1,0 +1,23 @@
+{
+    "_id": 2031,
+    "_header": "His colour blacketh",
+    "Note": "See 6460.",
+    "Title(s)": "\u2018Homo in fine\u2019",
+    "Subjects": "death, approach of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Signs of Death \u2014 four lines",
+    "_witnesses": {
+        "NLS18721": {
+            "Transcription": "\nHis colour blaketHis mirthe slaketHis heued aketHis bodi\n                    quaket\n",
+            "Note": "\nFour lines in Grimestone\u2019s sermon notebook.",
+            "Attributed Title": "\nHomo in fine (f. 87v); De Morte (f. 86)",
+            "Editions": "\nRobbins,  Rossell Hope. \n             \u201cSigns of Death in Middle English.\u201d \n             Mediaeval Studies\n         32 (1970): 282-98: 295.\n",
+            "folio": "f. 87v"
+        },
+        "HerefordO35": {
+            "Transcription": "\nhis myrth is slakethis colour blakethis hed akethHis body\n                    quaketh\n",
+            "Editions": "\nRobbins,  Rossell Hope. \n             \u201cSigns of Death in Middle English.\u201d \n             Mediaeval Studies\n         32 (1970): 282-98: 295.\n",
+            "folio": "ff. 48rb-48va"
+        }
+    }
+}

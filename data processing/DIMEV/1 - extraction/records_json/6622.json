@@ -1,0 +1,23 @@
+{
+    "_id": 6622,
+    "_header": "Whoso oft sayeth this is with good will",
+    "Subjects": "grace; prayers, to Holy Ghost; prayer, value of",
+    "Versification": "\u2014 Quatrain, monorhyming \u2014 aaaa",
+    "_description": "Promise of grace to those who often say the preceding prayer (5077), immediately following 5077 \u2014 four lines monorhyming",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "Transcription": "\nWose ofte sei\u00fe \u00feis with good willeSchal fynde grace his\n                    loue to filleHoly gost his herte schal tilleffrom synne him bringe\n                    & ffendes ille\n",
+            "folio": "f. 299rb"
+        },
+        "BLRoy17Bxvii": {
+            "Transcription": "\nHo so says \u00feis with gode willeSchal fynd grace his luf to\n                    fille\u00deo holygost his hert schal tilleffrom synne hym brynge &\n                    fendes ille\n",
+            "Note": "\nAs prologue stanza preceding 5077\n",
+            "folio": "f. 13v1"
+        },
+        "BLAdd37787": {
+            "Transcription": "\nHose ofte sei\u00fe \u00feis with good willeSchal fynde grace his\n                    loue to fille\u00dee holigost his herte schal tilleffrom synne him\n                    bringe and fendes ille\n",
+            "Note": "\nImmediately follows 5077\n",
+            "folio": "f. 89vc"
+        }
+    }
+}

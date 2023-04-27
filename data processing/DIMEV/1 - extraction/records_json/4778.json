@@ -1,0 +1,26 @@
+{
+    "_id": 4778,
+    "_header": "Salue with all obeisance to God in humblesse",
+    "Title(s)": "\u2018Salve Regina\u2019",
+    "Subjects": "Virgin Mary, hymns to; hymns, to Virgin Mary",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "Prayer to the Virgin, in which first words of each line are the Latin words of a prayer to the Virgin (read down the left edges of lines); 5 eight-line stanzas",
+    "_witnesses": {
+        "BodRawC48": {
+            "First Lines": "\nSalue wyth all obaysans to god in humblesseRegina to regne euermore\n                    in blys\u2026\n",
+            "Last Lines": "\n\u2026Nobis post hoc exilium ostendeTo oure eterne grettest Ioy\n                    & plesure\n",
+            "Note": "\nFour stanzas.",
+            "Editions": "\nMacCracken,  Henry Noble. \n             \u201cLydgatiana.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         131 (1913): 40-63: 44-5.\n",
+            "folio": "ff. 135-135v"
+        },
+        "OxfBal354": {
+            "First Lines": "\n\nSalue wyth all obeysance to God in\n                        humblesseRegina to regne ever more in blysse\u2026\n",
+            "Last Lines": "\n\u2026Mater of lyffe & eterne creacionSalue ever\n                    as fayer as we can suffyce Amen\n",
+            "Note": "\nFive stanzas.",
+            "Attributed Title": "\nAn holy salue regina In englisshe (p. 340)",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 172-3.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 60-1.\n\n",
+            "folio": "p. 3402"
+        }
+    }
+}

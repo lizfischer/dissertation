@@ -1,0 +1,18 @@
+{
+    "_id": 6367,
+    "_header": "When John Bochas considered had and sought",
+    "Note": "Preceded by Prohemium, 6799",
+    "Author(s)": "John Lydgate; Geoffrey Chaucer",
+    "Subjects": "princes, fall of; composite texts",
+    "Versification": "\u2014 eight-line, seven-line \u2014 ababbcbc, ababbcc",
+    "_description": "A composite text on Adam, Samson and Dido, made up of portions of Lydgate\u2019s Fall of Princes (1904) and Chaucer\u2019s Monk\u2019s Tale (6414) \u2014 in 8-line stanzas (ababbcbc), rhyme royal, and two five-line stanzas, abbcc and abacc",
+    "_witnesses": {
+        "CamTCC599": {
+            "First Lines": "\nwhen John Bochas consyderyd had & soughtThe wofull fall of\n                    myghty conqueroursA remembraunce entryd in hys thoughtRekenyng the\n                    nombre of oure predecessours\u2026\n",
+            "Last Lines": "\n\u2026And hasty rancour doth to moche damageWhen hemble requestes\n                    your yre may nat aswage\n",
+            "Note": "\nAccording to Dixon (1995)\nXDixon,  Lori J. \n             \u201cThe Canterbury Tales Miscellanies: A Contextual Study of\n                Manuscripts Anthologizing Individual Canterbury Tales.\u201d \n         Diss. University of Delaware, 1995, pp. 392-6, the extracts are as\n                    follows: Monk\u2019s Tale, VII.1968-2006; Fall of Princes,\n                    I.470-966; I.967-1001; I.1380-6; I.1394-1400; I.1338-78; I.1520-33; I.3102-29;\n                    I.3788-94; I.3431-58; I.3522-35; I.3795-3801; Monk\u2019s Tale,\n                    VII.2015-2374; VII.2399-2766; Fall of Princes, I.1814-41; I.2150-70;\n                    I.3102-29; I.3816-43; I.4215-37; I.4240-2; I.4530-43; I.4544-50; I.4551-7;\n                    I.5524-30; I.5531-7; I.5538-51; I.6301-35; I.7050-70; II.778-805; II.512-623;\n                    II.1429-63; II.1863-76; II.1429-63; II.1884-95; II.2171-84; II.2192-8;\n                    II.2185-91; II.2199-2233; II.2521-7; II.2528-48; II.2934-61; II.3326-46;\n                    II.3536-56; II.3697-3731; II.3935-55; II.4222-63; II.4404-59; III.1569-1638;\n                    III.2164-70; III.2178-91; III.2199-2205; III.3683-3717; III.4019-32; III.4040-6;\n                    III.4033-9; III.4047-60.",
+            "Facsimiles": "\n\nFletcher,  Bradford Y. \n             \u201cIntroduction.\u201d \n             Manuscript Trinity R.3.19. A Facsimile.\n         Norman, OK: Pilgrim, 1987. \n\nDigital Facsimile of Trinity College Cambridge MS R.3.19.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.19. \n\n",
+            "folio": "ff. 170v-202"
+        }
+    }
+}

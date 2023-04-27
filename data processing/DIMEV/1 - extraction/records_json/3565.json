@@ -1,0 +1,26 @@
+{
+    "_id": 3565,
+    "_header": "Most worthy prince of whom the noble fame",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "A Defence of Holy Church",
+    "Subjects": "Holy Church; political poems; advice, to princes",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "A Defence of Holy Church, by Lydgate \u2014 twenty-one stanzas rhyme royal",
+    "_witnesses": {
+        "BLHar1245": {
+            "First Lines": "\nMOst worthi prince of whome the noble fameIn vertue floureth and in hih policy prudence\u2026\n",
+            "Last Lines": "\n\u2026In Babilon with a soden fallWhan \u00feat the honde wrote vpon the wall\n",
+            "Note": "\nIn line 2, \u201cpolicy\u201d first written and then crossed through before \u201cprudence\u201d; \u201cfinis pri[ci]pii\u201d\" in lower margin in code, f. 183rb.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 1245.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_1245. \n",
+            "Editions": "\n\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 30-5.\nNorton-Smith,  John. \n             John Lydgate: Poems.\n         Oxford: Clarendon, 1966: 30.\n\n",
+            "folio": "ff. 182vb-183rb"
+        },
+        "BLSl1212": {
+            "First Lines": "\nMost worthy prynce off whome \u00fee noble fameIn vertu flouryth\n                    & in hygh prudence\u2026\n",
+            "Last Lines": "\n\u2026The schippe gan rest out off all dawyngeMaugre \u00fee rokys\n                    off vengeaunce mercyles\n\n",
+            "Note": "\nStanzas 1-8; ends incomplete, seven stanzas rhyme royal plus two lines\n                    of eighth stanza; in top margin of fol. 3, drawing of bull\u2019s head with\n                    scroll, \u2018Laste ne[\u2026]\u2019; bottom margin f. 3v,\n                    \u2018\u021doures allone with outyn otheris parte\u2019 and \u2018Mon\n                        euere ma dite qui serra Ieoyous\u2019.",
+            "Editions": "\nNorton-Smith,  John. \n             John Lydgate: Poems.\n         Oxford: Clarendon, 1966: 30.\n",
+            "folio": "ff. 3-3v"
+        }
+    }
+}

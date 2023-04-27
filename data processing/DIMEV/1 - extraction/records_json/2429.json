@@ -1,0 +1,22 @@
+{
+    "_id": 2429,
+    "_header": "If ye will wit the property",
+    "Title(s)": "A Morality of Wisdom",
+    "Subjects": "morality plays",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc, aaabaaab",
+    "_description": "A Morality of Wisdom \u2014 1168 lines in 8-line stanzas",
+    "_witnesses": {
+        "BodDig133": {
+            "First Lines": "\nIf ye wyll wete the propyrteAnd the resoun of my name\n                    Imperiall\u2026\n",
+            "Last Lines": "\n\u2026of the comon thei synge eche weke by & bythei may sey\n                    with tynker I trowe late Amende\n",
+            "Note": "\nLines 1-754.",
+            "Editions": "\n\nSharp,  Thomas. \n             Ancient Mysteries from the Digby Manuscripts\u2026.\nAbbotsford Club\n         Edinburgh, 1835: 165-200.\nFurnivall,  Frederick James,\n                        ed.  \n             The Digby Mysteries.\nNew Shakespeare Society\n         ser. 7, 1. London: Tr\u00fcbner, 1882: 139-66.\n\n",
+            "folio": "ff. 158-169v"
+        },
+        "Folger5031": {
+            "Facsimiles": "\nBevington,  David,\n                        ed.  \n             The Macro Plays. A facsimile edition with facing\n                transcriptions.\n         New York: Johnson, and Washington, D.C.: Folger Shakespeare Library,\n            1972: 155.\n",
+            "Editions": "\n\nSharp,  Thomas. \n             Ancient Mysteries from the Digby Manuscripts\u2026.\nAbbotsford Club\n         Edinburgh, 1835. \nFurnivall,  Frederick James,\n                        ed.  \n             The Digby Mysteries.\nNew Shakespeare Society\n         ser. 7, 1. London: Tr\u00fcbner, 1882: 35-736.\nEccles,  Mark,\n                        ed.  \n             The Macro Plays: The Castle of Perseverance, Wisdom, Mankind.\nEETS\n         o.s. 262 (1969): 113 (collated with Oxford,  Bodleian Library Digby 133 (SC 1734)).\n\n",
+            "folio": "ff. 1-13"
+        }
+    }
+}

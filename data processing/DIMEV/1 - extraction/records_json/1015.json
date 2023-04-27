@@ -1,0 +1,16 @@
+{
+    "_id": 1015,
+    "_header": "Christ that died upon the rood",
+    "Subjects": "political poems; Normandy, English loss of",
+    "Versification": "\u2014 three-line \u2014 aab",
+    "_description": "A political poem blaming magnates for the loss of Normandy \u2014 118 lines in 3-line stanzas (aab)",
+    "_witnesses": {
+        "HolkhamDeed116": {
+            "First Lines": "\nCryst \u00feat deyid vp on \u00fee rodegraunt vs y torne to\n                    good\u00feis werd is bt a quyle\u2026\n",
+            "Last Lines": "\n\u2026cryst \u00feat bovth ist man so deregraunt vs grace oure lyf\n                    dayes hereneuer swech a no\u00feer to se\n",
+            "Note": "\nOn a manorial document dated 1433.",
+            "Editions": "\nBeadle,  Richard. \n             \u201cFifteenth-Century Political Verses from the Holkham Archives.\u201d \n             Medium Aevum\n         71 (2002): 101-21: 102-5.\n",
+            "folio": "dorse"
+        }
+    }
+}

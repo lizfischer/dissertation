@@ -1,0 +1,15 @@
+{
+    "_id": 247,
+    "_header": "Against miscreants the Emperor Sigismond",
+    "Note": "Formerly included under 3151; see also 2046.",
+    "Subjects": "pageant verses; Henry VI, coronation; Henry V; Denis, saint; Virgin Mary, prayers to; chronicles, verse in",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "Verse accompanying a soteltie at the coronation of Henry VI (1432), in Fabyan\u2019s Chronicle; Part VII, Septima Pars, Henrici Sexti \u2014 two 8-line stanza",
+    "_witnesses": {
+        "HarEng766": {
+            "First Lines": "\nAgayn miscreauntes the Emperour SigismondeHath shewed his myght\n                    which is Imperiall\u2026\n",
+            "Last Lines": "\n\u2026Born by discent and by title of RightIustly to Reigne In\n                    Englond and in ffraunce\n",
+            "folio": "ff. 355-355v"
+        }
+    }
+}

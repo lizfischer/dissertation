@@ -1,0 +1,62 @@
+{
+    "_id": 487,
+    "_header": "An hermit woned in a wastern",
+    "Note": "Cf. Furnivall (1901)\nXFurnivall, Frederick James. Robert of Brunne\u2019s Handlyng Synne [and its French original]\nEETS o.s. 119, 123 (1901, 1903); repr. 1973, 1.198-9.",
+    "Title(s)": "Northern Homily Cycle; The Hermit and the Thieves",
+    "Subjects": "thieves; exempla",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Hermit and the Thieves, in the Northern Homily Cycle \u2014 in couplets",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nAne Ermite woned in a wasterne\u00feat litil gude had to\n                    therne\u2026\n",
+            "Last Lines": "\n\u2026Meke ihesu lorde euer more vs spedeTo meke oure hertes &\n                    \u00feider vs lede\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 104-104v"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nAnd for \u00feat onli gifes he madeAls we of an heremyte\n                    rede\u2026\n",
+            "Last Lines": "\n\u2026Nowe ihesu crist oure heuene kyngTo \u00feat blisse vs alle\n                    nowe bryng\n",
+            "Attributed Title": "\nA Tale (added, p. 158)",
+            "folio": "pp. 158-160"
+        },
+        "CULDd11": {
+            "Note": "\nVariant beginning, connected without mark for separation with preceding\n                    text, 4641; followed by heading\n                    for next text, on Palm Sunday, but no text and f. 116 missing.",
+            "folio": "ff. 115-115v"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nAne ermyte wonte in wastynThat litill catell hade to\n                    tyne\u2026\n",
+            "Last Lines": "\n\u2026Ihesus our mek lorde vs \u00fean spedeTo make our hertes and\n                    \u00feithir vs lede\n",
+            "folio": "ff. 85-86"
+        },
+        "BLCottTibEVII": {
+            "folio": "f. 158vb"
+        },
+        "BLHar2391": {
+            "First Lines": "\nAN hermit woned in a wastene\u00feat lytill gode had to thene\u2026\n",
+            "Last Lines": "\n\u2026Mek Ihesu lord euer more vs spedeTo mek oure hertis & \u021dedir vs lede\n",
+            "Note": "\nEnds \u201cAmen.\u201d",
+            "Attributed Title": "\nDominica in passione domini (left margin, f. 183v), plus \u201cA tale\u201d written above this",
+            "folio": "ff. 183v-184v"
+        },
+        "BLHar4196": {
+            "First Lines": "\nAne hermit als it wretin esWund sum tyme in a wildernes\u2026\n",
+            "Last Lines": "\n\u2026vnto \u00feat ilk blis bring vs he\u00feat boght vs dere opon \u00fee tre\n",
+            "Attributed Title": "\nExemplum per pacienciam (rubric, f. 62vb)",
+            "Editions": "\n\nRosenthal,  Constance Lowegrund. \n             The Vitae Patrum in Old and Middle English Literature.\n         Philadelphia, 1936; repr. Folcroft, PA: Folcroft Library,\n            1974: 161.\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): II.144-146.\n\n",
+            "folio": "ff. 62vb-63rb"
+        },
+        "Lam260": {
+            "folio": "f. 33ra"
+        },
+        "MinULZ822": {
+            "First Lines": "\nane hermyte wonede in a wasten\u00feat lytill catell hade to\n                    tene\u2026\n",
+            "Last Lines": "\n\u2026Ihesu oure meke lorde vs spedeTo make oure hertis &\n                    \u00feider vs lede\n",
+            "folio": "ff. 75-75v"
+        },
+        "HunHM129": {
+            "First Lines": "\nAn hermyte wonnyd in wastyngAnd catell had \u00feat he moght\n                    tyne\u2026\n",
+            "Last Lines": "\n\u2026Oure mek loueryd ihesu vs spedTo meke oure hert and\n                    \u00feedyr vs lede\n",
+            "folio": "ff. 88v-89"
+        }
+    }
+}

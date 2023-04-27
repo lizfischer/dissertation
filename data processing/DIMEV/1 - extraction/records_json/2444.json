@@ -1,0 +1,19 @@
+{
+    "_id": 2444,
+    "_header": "In a day go we to the tower with hay hay",
+    "Subjects": "songs, popular",
+    "Bibliographic Ghosts": "Oxford, Bodleian Library Bodley 851 (SC 3041), f.116.",
+    "_description": "One line fragment of a popular song preserved in a Latin poem on Neville\u2019s Cross",
+    "_witnesses": {
+        "BodRawB214": {
+            "Transcription": "\nin a day Go we to \u00fee tyre with hay hay\n",
+            "Editions": "\nWright,  Thomas,\n                        ed.  \n             Political Poems and Songs relating to English History, composed during\n                the period From the Accession of Edward III to that of Richard III.\n             2 vols. \n             Rolls Series\n         14 (1859, 1861); repr. Kraus, 1965: 1.48.\n",
+            "folio": "f. 124v"
+        },
+        "BLCottTitAXX": {
+            "Transcription": "\nIn a day go we to \u00fee tyre with hay\n",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             Political Poems and Songs relating to English History, composed during\n                the period From the Accession of Edward III to that of Richard III.\n             2 vols. \n             Rolls Series\n         14 (1859, 1861); repr. Kraus, 1965: 1.48.\nWilson,  Richard Middlewood. \n             The Lost Literature of Medieval England.\n         London: Methuen, 1952: 190.\n\n",
+            "folio": "f. 88"
+        }
+    }
+}

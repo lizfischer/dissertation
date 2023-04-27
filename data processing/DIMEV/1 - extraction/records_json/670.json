@@ -1,0 +1,21 @@
+{
+    "_id": 670,
+    "_header": "As stories write and specify",
+    "Subjects": "Thomas of Canterbury, saint, song in honour of",
+    "Versification": "\u2014 four-line, two-line \u2014 abab, aa",
+    "Macaronic": "Latin",
+    "_description": "A song in honour of St Thomas of Canterbury \u2014 six quatrains (abab) and Latin burden: \u2018Pastor cesus in gregys medio / Pacem emit cruorys precio\u2019",
+    "_witnesses": {
+        "BodEngPoete1": {
+            "First Lines": "\nAs storys wryght & specyfySent thomas thorow goddes\n                    sond\u2026\n",
+            "Last Lines": "\n\u2026conserue vs al both nyght & daythorow \u00fee schedyng of\n                    thomas blood\n",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             Songs and Carols from a manuscript\u2026of the Fifteenth\n                Century.\nPercy Society\n         23. London: Richards, 1847: 51-2.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 73-4; 1977, 61.\n\n",
+            "folio": "ff. 35-35v"
+        },
+        "BLAdd25478": {
+            "First Lines": "\nAs storys wryght & specyfySent Thomas thorow godds\n                    sond\u2026\n",
+            "Last Lines": "\n\u2026Preserue us al both nyght & dayThorow \u00fee schedyng of\n                    Thomas blood\n",
+            "folio": "f. 27v"
+        }
+    }
+}

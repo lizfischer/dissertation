@@ -1,0 +1,31 @@
+{
+    "_id": 5410,
+    "_header": "The more I go the further I am behind",
+    "Note": "For burden, cf. 6104; cf. also 5411.",
+    "Title(s)": "Tyed with a Line",
+    "Subjects": "mutability",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "\u2019Tyed with a Line\u2019 \u2014 twelve stanzas rhyme royal with refrain.",
+    "_witnesses": {
+        "BLAdd29729": {
+            "First Lines": "\nThe more I goo the ferther I am behyndethe ferther behynd the nerer\n                    my weyes ende\u2026\n",
+            "Last Lines": "\n\u2026Is this ffortune not I or infortunethough I goo louse I tyed\n                    am with a lyne\n",
+            "Note": "\nThree stanzas only; ends \u2018finis\u2019 (f. 132); heading between\n                    first and second stanzas: \u2018le dis de lidgate\u2019 (f.\n                        131v).",
+            "Attributed Author": "\nlidgate (f. 131v)",
+            "Editions": "\nEdwards,  A. S. G. \n             \u201cLydgate\u2019s \u2018Tyed with a Line\u2019 and the Question of\n                Halsham.\u201d \n             English Studies\n         51 (1970): 527-9: 528.\n",
+            "folio": "ff. 131v-132"
+        },
+        "BLAdd60577": {
+            "First Lines": "\n\u2026Euer \u00fee ferther I goo \u00fee fer\u00feer I am\n                    behyndeThe ferther I am be hynde \u00fee nere my weyis\n                    ende\u2026\n",
+            "Last Lines": "\n\u2026Late men dyspute whether \u00feat ys fortuneNo man soo loose\n                    but he is tyede by a lyne\n",
+            "Note": "\nStanzas 1-3 and 6-8 only; the first preceded by \u2018Doctor et\n                        instructor monitor petagogus et autor dele iniquitatem meam (f.\n                    92).",
+            "folio": "ff. 92-92v"
+        },
+        "BLHar2251": {
+            "First Lines": "\nThe more I go the further I am behyndeThe further behynd the nere\n                    the weyes end\u2026\n",
+            "Last Lines": "\n\u2026ffor cristis passioun mavgre false fortuneShal Recleyme vs to\n                    his merciable luyne\n",
+            "Editions": "\n\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             A Selection from the Minor Poems of Don John Lydgate.\nPercy Society\n         2. London: T. Richard, 1840: 74-7.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 2.832-34.\n\n",
+            "folio": "ff. 37v-38v"
+        }
+    }
+}

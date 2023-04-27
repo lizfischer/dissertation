@@ -1,0 +1,39 @@
+{
+    "_id": 53,
+    "_header": "A good beginning / Maketh a good ending",
+    "Note": "Cf. 3383; 6467; Tilley (1950)\nXTilley, Morris Palmer. A Dictionary of the Proverbs in England in the 16th and 17th Centuries. Ann Arbor, MI: University of Michigan, 1950 B 259; Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 12.",
+    "Subjects": "proverbs",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A proverbial couplet",
+    "_witnesses": {
+        "BodDou52": {
+            "Transcription": "\nOf agode begynnyng comyth agode endyng\n",
+            "Editions": "\nF\u00f6rster,  Max. \n             \u201cDie Mittelenglische Sprichw\u00f6rtersammlung in Douce 52.\u201d \n             Festschrift zum XII Deutschen Neuphilolgentage in M\u00fcnchen\n                1906.\n            E. Stollreither, ed. \n         Erlangen (1906): 40-64: 55.\n",
+            "folio": "f. 28"
+        },
+        "BodRawD328": {
+            "Transcription": "\nA good be gynnyngmakyth a god ende\n",
+            "Note": "\nTranslating, \u2018Bonum principium facit bonum finem\u2019,\n                    which precedes; English portion all written on one line.",
+            "Editions": "\nMeech,  Sanford Brown. \n             \u201cA Collection of Proverbs in Rawlinson MS D 328.\u201d \n             Modern Philology\n         38 (1940-41): 113-32: 117.\n",
+            "folio": "f. 140"
+        },
+        "OxfBal354": {
+            "Transcription": "\nA good beginningmakith a good endinge\n",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 129.\nB\u00fchler,  Kurt. \n             \u201cThe Liber de dictis philosophorum antiquorum and common proverbs in\n                George Ashby\u2019s poems.\u201d \n             PMLA\n         65 (1950): 282-9: 354.\n\n",
+            "folio": "p. 402"
+        },
+        "BLAdd37075": {
+            "Transcription": "\nA gode be gynnyngmaketh a gode endyng\n",
+            "Note": "\nTwo verse lines per manuscript line.",
+            "Editions": "\nWhiting,  Bartlett Jere. \n             \u201cA Collection of Proverbs in BM Additional MS 37075.\u201d \n             Medieval And Linguistic Studies in Honor of Francis Peabody Magoun\n                Jr.\n            J. B. Bessinger,\n                              and  R. P. Creed,\n                            eds. \n         London: G. Allen and Unwin, 1965: 274.\n",
+            "folio": "f. 70"
+        },
+        "RylandsLat394": {
+            "Transcription": "\nOf a good begynnyngecomes a good endynge\n",
+            "Note": "\nWritten on one line as prose; trans. \u2018Principium gratum finem\n                        facit esse beatum\u2026\u2019, which follows.",
+            "Editions": "\nPantin,  William A. \n             \u201cA Medieval Collection of Latin and English Proverbs\u2026from Rylands\n                Latin MS. 394.\u201d \n             Bulletin of the John Rylands Library\n         14 (1930): 81-114: 105.\n",
+            "folio": "f. 18v"
+        }
+    }
+}

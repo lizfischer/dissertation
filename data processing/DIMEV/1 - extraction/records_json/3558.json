@@ -1,0 +1,23 @@
+{
+    "_id": 3558,
+    "_header": "Most prepotent prince of power imperial",
+    "Subjects": "York; Henry VII; occasional verse; historical verse",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Address of Welcome to Henry VII at York (1486) at the Common Hall \u2014 three stanzas rhyme royal",
+    "_witnesses": {
+        "YorkCity6": {
+            "First Lines": "\nMost prepotent prince of power ImperiallRedowtid in ich region of\n                    Cristes affiance\u2026\n",
+            "Last Lines": "\n\u2026Which causid moost this Citie to be resolateNow reviving in\n                    comforth to attaine your asstate\n",
+            "Note": "\n\u2018David\u2019 at top of f. 17v.",
+            "Editions": "\n\nRaine,  James,\n                        ed.  \n             A Volume of English Miscellanies Illustrating the History and Language\n                of the Northern Counties of England.\nSurtees Society\n         85 (1890): 56-7.\nRaine,  Angelo,\n                        ed.  \n             York Civic Records.\n             Vol. 1. \n             Yorkshire Archaelogical Society, Records Series.\n         98 (1939): 158.\nSmith,  A. H. \n             \u201cA York Pageant, 1486.\u201d \n             London Medieval Studies\n         1 (1937-39): 382-98: 1.393-4.\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 117-18.\n\n",
+            "folio": "f. 17v"
+        },
+        "BLCottJulBXII": {
+            "First Lines": "\nMoost prepotent prince of power ImperiallRedoubtede in Iche Region\n                    of Cristez affiance\u2026\n",
+            "Last Lines": "\n\u2026Whiche causede moost this citie to bee desolateNow Reviuyng\n                    in comforte to Atteigne your Astate\n",
+            "Note": "\n\u2018Dauid\u2019 written in the right margin (f. 12). Folio number\n                    reflects the most recent foliation.",
+            "Editions": "\nSmith,  A. H. \n             \u201cA York Pageant, 1486.\u201d \n             London Medieval Studies\n         1 (1937-39): 382-98: 1.393-4.\n",
+            "folio": "ff. 12-12v"
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "_id": 5160,
+    "_header": "That may ye by Saint Martin see",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "exempla ; Martin, saint; Anthony, saint; Macarius, saint",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Saints Martin, Anthony, and Machary: exempla in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodSelSup52": {
+            "First Lines": "\nHeyr of sant martyn may \u021de seeffor in hys lyfe \u00feer fynd\n                    we\u2026\n",
+            "Last Lines": "\n\u2026Of meknes to \u00feat grett blyse\u00feat to meke men ordand\n                    ys\n",
+            "folio": "ff. 176-178"
+        },
+        "BodAsh42": {
+            "First Lines": "\n\u00feat may \u021de be saynte martyne seffor in his life \u00feus\n                    writen finde we\u2026\n",
+            "Last Lines": "\n\u2026Amen amen all say weOure lorde leue \u00feat it swa\n                    be\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 21v-23v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\n\u00deat may \u021de be seint Martin seffor in his lyf fynde\n                    we\u2026\n",
+            "Last Lines": "\n\u2026Amen Amen Amen sey weVre lord graunte \u00feat hit so be.\n                    Amen.\n",
+            "Attributed Title": "\nHow \u00fee deuel apperede to seynt Martyn (f. 171rc)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDie Evangelien-Geschichten der Homiliensammlung des Ms. Vernon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         57 (1877): 241-316: 246-7.\n",
+            "folio": "ff. 171rc-171vb"
+        },
+        "CULDd11": {
+            "First Lines": "\nThat may \u021de be seynt martyn sefor in his lyf fynde\n                    we\u2026\n",
+            "Last Lines": "\n\u2026Amen amen sey now alle weoure lord graunte \u00feat it so\n                    be\n",
+            "Note": "\nNo break marked between this and preceding 245 in this MS.",
+            "folio": "ff. 54-55v"
+        },
+        "CULGg531": {
+            "First Lines": "\n\u00feat may \u021de be saint martyn seeffor in hys lyue fynd\n                    we\u2026\n",
+            "Last Lines": "\n\u2026Off meknes vnto \u00feat blys\u00feat to mekemen\n                    gra\u00fehede es\n",
+            "Attributed Title": "\nNarracio (f. 25v)",
+            "Editions": "\nSmall,  John,\n                        ed.  \n             English Metrical Homilies\u2026.\n         Edinburgh: W. Paterson, 1862: 68-73.\n",
+            "folio": "ff. 25v-27"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nThat may \u021de by sant martyn seffor in his lyue fynde\n                    be\u2026\n",
+            "Last Lines": "\n\u2026Of moknes vnto \u00feat blysThat to meke men graunted\n                    es\n",
+            "folio": "ff. 21v-22"
+        },
+        "BLHar2391": {
+            "First Lines": "\n\u00deat may \u021de se saynt auten sefor his lyfe \u00feus fynd wryttyn we\u2026\n",
+            "Last Lines": "\n\u2026Amen Amen all say weOure lorde lene \u00feat itt so be\n",
+            "Note": "\nAnthony and Machary only.",
+            "Attributed Title": "\nIn die Natalis domini (left margin f. 158v), plus \u201cTale\u201d written above this.",
+            "folio": "ff. 158v-160"
+        },
+        "NLWPork10": {
+            "Note": "\nAnthony and Machary only.",
+            "folio": "f. 86v"
+        },
+        "Lam260": {
+            "folio": "f. 8vb"
+        },
+        "HunHM129": {
+            "First Lines": "\n\u00deat may \u021de by seint martyn seffor in his lyfe fynd\n                    we\u00feat as he was in orysoumCome \u00fee fend as kynge with\n                    croum\u2026\n",
+            "Last Lines": "\n\u2026Off mekenys in to \u00fee blys\u00deat to meke men grauntyd\n                    is\n",
+            "Note": "\nThis MS begins text two lines later, treting first two lines above as\n                    ending of 245; Separate heading\n                    \u2018Narracio\u2019 and pointing hand to indicate new text for Machary (f.\n                    13).",
+            "Attributed Title": "\nnarracio (ff. 12v, 13)",
+            "folio": "ff. 12v-14v"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "_id": 1833,
+    "_header": "He is wise and well taught / that bears a horn and blows it not",
+    "Note": "For these lines used as burden see 882.",
+    "Subjects": "advice, moral; boasting, precepts agains",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Precepts against boasting \u2014 a single couplet translating \u2018doctus portare nonit cornu neque flare\u2019, which follows",
+    "_witnesses": {
+        "BodLauMis108": {
+            "Transcription": "\n[ ]e \u00fee wise and wel i tau\u021dtcan bere an horne & blow it\n                    nou\u021dt\n",
+            "Note": "\nFollows 779 and precedes\n                        835.",
+            "folio": "f. 238v"
+        },
+        "BodRawD328": {
+            "Transcription": "\nHe ys wyse and wel y ta\u021dth\u00feat beryth a horne & blow hym\n                    no\u021dth\n",
+            "Note": "\nTranslating, \u2018Doctus portare qui sit cornu neque\n                    flare\u2019, which follows; English portion all written on one\n                    line.",
+            "Editions": "\nMeech,  Sanford Brown. \n             \u201cA Collection of Proverbs in Rawlinson MS D 328.\u201d \n             Modern Philology\n         38 (1940-41): 113-32: 121.\n",
+            "folio": "f. 142"
+        },
+        "RylandsLat394": {
+            "Transcription": "\nHe is wyse & well taw\u021dt\u00feat berys ahorne and blowes it\n                    now\u021dt\n",
+            "Note": "\nWritten as a single line.",
+            "Editions": "\nPantin,  William A. \n             \u201cA Medieval Collection of Latin and English Proverbs\u2026from Rylands\n                Latin MS. 394.\u201d \n             Bulletin of the John Rylands Library\n         14 (1930): 81-114: 93.\n",
+            "folio": "f. 3"
+        }
+    }
+}

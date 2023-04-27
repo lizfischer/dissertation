@@ -1,0 +1,18 @@
+{
+    "_id": 3027,
+    "_header": "Lady of pity for thy sorrows that thou haddest",
+    "Note": "Actually st. 3, 4, 5, 10 = st. 3, 7, 11, 15 of 5990.",
+    "Author(s)": "Geoffrey Chaucer (attrib.)",
+    "Subjects": "love letters",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "An epistle to his mistress, signed \u2018Chaucer\u2019 \u2014 ten stanzas rhyme royal",
+    "_witnesses": {
+        "CamTCC599": {
+            "First Lines": "\nLady of pity for \u00feysorowes \u00feat \u00feu haddestffor Ihesu\n                    \u00fey son in tyme of hys passioun\u2026\n",
+            "Last Lines": "\n\u2026Manly as Sampson my person to auaunceYet wold I submyt me in\n                    your remembraunce\n",
+            "Facsimiles": "\n\nFletcher,  Bradford Y. \n             \u201cIntroduction.\u201d \n             Manuscript Trinity R.3.19. A Facsimile.\n         Norman, OK: Pilgrim, 1987. \n\nDigital Facsimile of Trinity College Cambridge MS R.3.19.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.19. \n\n",
+            "Editions": "\n\nRobbins,  Rossell Hope. \n             \u201cA Love Epistle by \u2018Chaucer,\u2019\u201d \n             Modern Language Review\n         49 (1954): 289-92: 290-2.\nPerson,  Henry Axel. \n             Cambridge Middle English Lyrics.\n         Seattle: University of Washington Press, 1953; rev. ed. 1962: 14-16.\nWilson,  Kenneth George. \n             \u201cFive Unpublished Secular Love Poems from MS. Trinity College Cambridge\n                599.\u201d \n             Anglia\n         72 (1954): 400-18: 415-18.\n\n",
+            "folio": "f. 160va-160vb"
+        }
+    }
+}

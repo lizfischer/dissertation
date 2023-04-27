@@ -1,0 +1,15 @@
+{
+    "_id": 3380,
+    "_header": "Man that is of woman born",
+    "Subjects": "sermons, verse in; translations",
+    "Versification": "\u2014 ten-line \u2014 abababccded",
+    "_description": "A translation of Job 14:1-2 in a Latin sermon \u2014 10 lines",
+    "_witnesses": {
+        "Longleat4": {
+            "First Lines": "\nMan \u00feat is of womman bornHe lyuyth but a litel\n                    stounde\u2026\n",
+            "Last Lines": "\n\u2026For he is neuer mor in oon statBut alwey in\n                    chaungyng\n",
+            "Editions": "\nWilmott,  Adrian. \n             \u201cAnother Middle English Verse Rendering of Job 14:1-2.\u201d \n             Notes and Queries\n         n.s. 41 [239] (1994): 148. \n",
+            "folio": "f. 21vb"
+        }
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "_id": 4949,
+    "_header": "So thirled with the point of remembrance",
+    "Note": "For Anelida and Arcite, see 5823.",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Compleynt of Anelida the quene upon fals Arcite",
+    "Subjects": "complaints, lovers\u2019",
+    "Versification": "\u2014 nine-line, sixteen-line \u2014 aabaabbab, aaabcccbdddbeeeb",
+    "_description": "\u2018The Compleynt of Anelida the quene upon fals Arcite\u2019, included in Chaucer\u2019s Anelida and Arcite, but here occurring separately \u2014 twelve 9-line stanzas and two 16-line stanzas, including Proem and Conclusion",
+    "_witnesses": {
+        "Bod638": {
+            "First Lines": "\nSo thyrlid with the poynt of RemembraunceThe swerd of sorow I whet with fals plesavnce\u2026\n",
+            "Last Lines": "\n\u2026Now that Arcite Anelida to foreHath thirled with the poynt of remembraunce\n",
+            "Note": "\n \u2018Anelida\u2019s\n                    Complaint\u2019 precedes 5823 in this MS.",
+            "Attributed Title": "\nThe complaynt of feyre Anelida on fals Arcyte (f. 5), Explicit So thirlid\n                    with the poynte of Remembraunce (f. 7).",
+            "Facsimiles": "\nRobinson,  Pamela. \n             \u201cIntroduction.\u201d \n             Manuscript Bodley 638: A Facsimile.\n         Norman, OK: Pilgrim, and Woodbridge: Boydell and Brewer, 1982. \n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Supplementary Parallel-Text Edition of Chaucer\u2019s Minor\n                Poems.\n             2 vols. \n             Chaucer Society\n         1st ser. 22, 59. London: Tr\u00fcbner, n.d.; repr. New York and London:\n            Johnson, 1967. \n",
+            "folio": "ff. 5-7"
+        },
+        "CULFf16": {
+            "First Lines": "\n[s]O threlyd with \u00fee poynt of Remembrauncethe swerd of sorowe\n                    whet with fals plesaunceMyn herte bare of blysse & blacke of\n                    heweThat turnyd ys to quakyng al my daunce\u2026\n",
+            "Last Lines": "\n\u2026With yn \u00fee temple with a sorowfull chereThat schapen was\n                    as ye schal aftre here\n",
+            "Attributed Title": "\nChaucer\u2014His Complaint of Annelida (f. 61, in a post-medieval\n                    hand)",
+            "Facsimiles": "\nBeadle,  Richard,  and  Alfred E. B. Owen.  \n             The Findern Manuscript: Cambridge University Library MS. F.1.6.\n         London: Scolar Press, 1977. \n",
+            "folio": "ff. 61-63v"
+        },
+        "CamMagPep2006": {
+            "First Lines": "\nSo thirleth wyth the point of RemenbraunceThe swerd of sorow whet\n                    with fals plesauns\u2026\n",
+            "Last Lines": "\n\u2026As holden yow to make yow stedfasteAll myghthi god of trouth\n                    souereyn\n",
+            "Note": "\nComplaint, equivalent to lines 211-289 and 299-311 of Anelida and\n                        Arcite.",
+            "Attributed Title": "\nThe Complaint of Anelida quene of Hermenye vpon false Arcite of Thebes (p.\n                    382)",
+            "Facsimiles": "\nEdwards,  A. S. G. \n             \u201cIntroduction.\u201d \n             Manuscript Pepys 2006: A Facsimile. Magdalen College,\n                Cambridge.\n         Norman, OK: Pilgrim, and [Woodbridge, Suffolk]: Boydell and Brewer,\n            1985. \n",
+            "folio": "pp. 382-384"
+        },
+        "CamTCC600": {
+            "First Lines": "\nSo thirlle\u00fee with \u00fee poynt of Remembraunce\u00dee swerd\n                    of sorowe whett with fals plesaunce\u2026\n",
+            "Last Lines": "\n\u2026Howe \u00feat Arcyte Anelyda so sooreHa\u00fee thirlled with\n                    \u00fee point of Remembraunce\n",
+            "Attributed Author": "\nGeffrey Chaucier (p. 106)",
+            "Attributed Title": "\nTake\u00fee heed sirs I prey yowe of \u00feis complaynt of Anelyda Qweene\n                    of Cartage Roote of trouthe and stedfastnesse \u00feat pytously Compleyne\u00fee\n                    vpon \u00fee varyance of daun Arcyte lord borne of \u00fee blood Royal of Thebes\n                    englisshed by Geffrey Chaucier in \u00fee best wyse and moost Rethoricyone\n                    \u00fee moost vnkou\u00fee metre coloures and Rymes \u00feat euer was sayde\n                    tofore \u00feis day rede\u00fee and preve\u00fee \u00fee soo\u00fee (p. 106);\n                    \u00fee compleynte of Anelyda (RT)",
+            "folio": "pp. 106-110"
+        },
+        "HunHM140": {
+            "First Lines": "\n\u2026So thirlith with the poynte of remembraunceThe Swerde of\n                    sorowe y whett with fals plesaunce\u2026\n",
+            "Last Lines": "\n\u2026Howe that Arcite Anelida so soreHath ther led with the poynt\n                    of remembraunce\n",
+            "Note": "\nMost of text on what were formerly two loose leaves, now ff. 85-86,\n                    clearly intended to be here since 3845 runs over from 84v to 85 and\n                    this text from 86v to 87; the complaint only, seventeen 8-line\n                    stanzas, aaabaaab",
+            "Attributed Title": "\nHere endeth the compleynt of Anelida the Quene of hermenye vpon fals Arcite\n                    of Thebees (f. 87)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Odd Texts of the Minor Poems.\n             2 vols. \n             Chaucer Society\n         1st ser. 23, 60. London: Tr\u00fcbner, 1868, 1880; repr. New York and\n            London: Johnson, 1967. \n",
+            "folio": "ff. 85-87"
+        }
+    }
+}

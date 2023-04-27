@@ -1,0 +1,55 @@
+{
+    "_id": 4516,
+    "_header": "Round in shaping",
+    "Note": "See Walther (1969)\nXWalther, Hans. Initia carmina ac versuum medii aevi posterioris latinorum. G\u00f6ttingen, 1959; 2nd ed. 1969, no.2350, no.8487; Walther (1963)\nXWalther, Hans. Proverbia sententiaque latinitatis medii aevi. 6 vols. G\u00f6ttingen, 1963-69, no.11224a, and cf. 6825, in which they appear",
+    "Subjects": "Host; sermons, verse in; translations",
+    "Versification": "\u2014 six-line \u2014 aaaabb",
+    "_description": "On the Host (6 lines, aaaabb), a tag in the Fasciculus Morum translating a Latin divisio of six physical qualities of the Host",
+    "_witnesses": {
+        "BodLauMis213": {
+            "Transcription": "\nRound in \u00fee schapyng\u00feenne in \u00fee bakyngWhite in\n                    \u00fee seyngSwete in \u00fee smakkyngOn \u00feon (sic) half\n                    weel y writeon \u00feat o\u00feer half smethe y smete\n",
+            "Note": "\nWritten as prose",
+            "folio": "ff. 76v-77"
+        },
+        "Bod187": {
+            "Transcription": "\nRownde in shapynge \u00feynne yn bakyng \u2026In on syde wel y\n                    wrete In \u00feat o\u00feer syde sme\u00fee y smote\n",
+            "Note": "\nWritten as prose",
+            "folio": "f. 170va"
+        },
+        "Bod410": {
+            "Transcription": "\nRound in \u00fee shapyngthynne in the bakyng\u2026On \u00fee on\n                    half wel I wryteOn \u00fee other half smeth y smyte\n",
+            "Note": "\nWritten as prose",
+            "folio": "f. 49v"
+        },
+        "BodRawC670": {
+            "Transcription": "\nRonde in schapyng\u00deynne in \u00fee bakyngWhyte in \u00fee\n                    seyngSwete in \u00fee smackyng or tastingOn \u00fee to halfe wel y\n                    wreteOn \u00fee to\u00feer halfe \u00feynne ysmete\n",
+            "Note": "\nWritten as prose",
+            "Editions": "\n\nFoster,  Frances Allen,\n                        ed.  \n             \u201cSome English Words from the Fasciculus Morum.\u201d \n             Essays and Studies in Honor of Carleton Brown.\n            Percy Waldron Long, ed. \n         New York: NYU Press; London: Humphrey Milford, Oxford University Pres,\n            1940: 149-57: 156.\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 182.\n\n",
+            "folio": "f. 88"
+        },
+        "CamGon71": {
+            "Transcription": "\nRownd in \u00fee schappyngthynne in \u00fee bakyngWhytt in\n                    \u00fee seyngSwet in \u00fee smellyngOn \u00fee ton half wel\n                    wrytenOn \u00fee to\u00feer smeth smyten\n",
+            "folio": "f. 57"
+        },
+        "EDU82": {
+            "First Lines": "\nRownde in shappyngThyn in the bakyng\u2026\n",
+            "Last Lines": "\n\u2026On that halfe smethe I smyteAnd on that other halfe well I\n                    wryte\n",
+            "folio": "f. 107v"
+        },
+        "Lincoln44": {
+            "Transcription": "\nRond in \u00fee schapyng\u00feyn in \u00fee bakyngWyte in\n                    \u00fee seyngSwet in \u00fee smakyngOn \u00feat half wol y\n                    wryteOn \u00fee top half sme\u00fe y smyte\n",
+            "folio": "f. 196va"
+        },
+        "Spalding": {
+            "First Lines": "\nRounde in shapyngthyn in [ ] makyngWhyte in semyngSwete\n                    in tastyngon the to halfe wrytenon the other halfe smyten\n",
+            "Note": "\nWritten as prose",
+            "folio": "f. 90v"
+        },
+        "WorcF19": {
+            "First Lines": "\nRounde in \u00fee schapyngthin in \u00fee\n                    bakyng\u2026\n",
+            "Last Lines": "\n\u2026on on half wel wryteon \u00fee othure alf smeth y\n                    smith\n",
+            "Editions": "\nWilson,  J. M. \n             \u201cWorcester Cathedral Library, from the Report of the Librarian, Canon J.\n                M. Wilson.\u201d \n             The Library\n         4th ser. 2 (1921-22): 257-65: 264.\n",
+            "folio": "f. 197va"
+        }
+    }
+}

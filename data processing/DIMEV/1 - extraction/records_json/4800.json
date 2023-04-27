@@ -1,0 +1,38 @@
+{
+    "_id": 4800,
+    "_header": "See much say little and learn to suffer in time",
+    "Note": "Cf. Brown (1939)\nXBrown, Carleton Fairchild. \u201cSee Myche, Say Lytell, and Lerne to Saffer in Tyme.\u201d Modern Language Notes 54 (1939): 131-3, 131-3.",
+    "Author(s)": "R. Stokys (attrib.); John Lydgate (?)",
+    "Subjects": "proverbs",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "Bibliographic Ghosts": "London, Victoria and Albert Museum, National Art Library Dyce 34 (Dyce\u2019s transcript of STC 17026)",
+    "_description": "Proverbs ascribed to R. Stokys (by MacCracken to Lydgate) \u2014 five stanzas rhyme royal",
+    "_witnesses": {
+        "OxfCCC203": {
+            "First Lines": "\nSe meche sey lytyll and lerne to suffre in tymeEnprinte these thre\n                    in thy remembrance\u2026\n",
+            "Last Lines": "\n\u2026Where fore thy selfe and thou wylte kepe fro crim[\n                    edge]Se meche say lytill and lerne to suffre in tyme\n",
+            "Note": "\nThree stanzas.",
+            "Attributed Title": "\nProuerbium R Stokys (p. 23)",
+            "folio": "pp. 23-24"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nSee myche say lytell & lerne to soffar in tymeemprynte thes\n                    thre in thy remembraunce\u2026\n",
+            "Last Lines": "\n\u2026wherfore thy self and thow wolt kepe fro crymese myche sa\n                    lytell and lerne to suffar in tyme\n",
+            "Note": "\nEnds \u2018Explicit lidgat\u2019 (f. 130v) all by scribe\n                    (John Stow).",
+            "Attributed Author": "\nlidgat (f. 130v)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 2.800-1.\n",
+            "folio": "ff. 130-130v"
+        },
+        "BLRoy2D.xxxvii": {
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 279-80.\n",
+            "folio": "f. 153"
+        },
+        "NLS1931": {
+            "First Lines": "\nSe myche say lytell and lerne to suffyr in tymeEnprint these iii\n                    wyll in thi remembraunce\u2026\n",
+            "Last Lines": "\n\u2026Wherfore wyse caton saythe to olde and yongeThe fyrst cheyf\n                    vertue is to kekepe owre tonge\n",
+            "Note": "\nStanza 1 only, immediately follows first stanza of 1108 as if part of same work, and\n                    immediately followed by 4811 as\n                    if same work.",
+            "Facsimiles": "\nHardman,  Phillipa. \n             The Heege Manuscript: A Facsimile of National Library of Scotland MS\n                Advocates 19.3.1.\n         Leeds Texts and Monographs, n.s. 16. Leeds: School of English,\n            2000. \n",
+            "folio": "f. 61v"
+        }
+    }
+}

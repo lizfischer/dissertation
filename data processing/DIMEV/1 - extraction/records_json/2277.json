@@ -1,0 +1,20 @@
+{
+    "_id": 2277,
+    "_header": "I shall you tell with hearty mood",
+    "Title(s)": "On the Three Kings of Cullen",
+    "Subjects": "alchemy",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "On the Three Kings of Cullen, applied to the Alchemical Art \u2014 fifteen couplets [Singer (1928)\nXSinger, Dorothea Waley. Catalogue of Latin and Vernacular Alchemical Manuscripts. 3 vols. Brussels: Lamertin, 1928-31, 854]",
+    "_witnesses": {
+        "BLHar2407": {
+            "First Lines": "\nI schal yow tel wyth hert modeof \u00fere kynggys \u00feat ben so goud\u2026\n",
+            "Last Lines": "\n\u2026in to hys blyse now come weeamen goud lord for cheytee\n",
+            "Note": "\nWritten entirely in rubric.",
+            "Editions": "\n\nAshmole,  Elias. \n             Theatrum Chemicum Britannicum.\n         London: J. Grimond, 1652: 350-1.\nGray,  Douglas. \n             The Oxford Book of Late Medieval Verse and Prose.\n         Oxford: Clarendon, 1985: 141.\n\n",
+            "folio": "ff. 17-17v"
+        },
+        "BLSl1098": {
+            "folio": "f. 9"
+        }
+    }
+}

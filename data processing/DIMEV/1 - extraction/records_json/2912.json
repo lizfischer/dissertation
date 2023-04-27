@@ -1,0 +1,21 @@
+{
+    "_id": 2912,
+    "_header": "Jesu that diedest on the rood",
+    "Subjects": "grace, at meals",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "Grace after meat \u2014 two 6-line stanzas",
+    "_witnesses": {
+        "TCD70": {
+            "Transcription": "\nJhesu \u00feat diedist on \u00fee rodeTo fede mannus soule wi\u00fe\n                    heuenli fodeAnd now hast fedde us here\u00deou make us able \u00feee\n                    to serue\u00deat in helle hungur we neuere sterueffro \u00fee\n                    si\u021dt of \u00fei face so clere& \u00feat \u00feis boone \u00feus\n                    grauntid mai ben Amen\n",
+            "Note": "\nFollows 435.",
+            "folio": "f. 194v"
+        },
+        "BLHar2339": {
+            "First Lines": "\nIhesu \u00feat diedist on \u00fee rodeTo fede mannys soule with heuenli fode\u2026\n",
+            "Last Lines": "\n\u2026And freelnes of \u00fee flesch so britilAnd felnes of \u00fee feende\n",
+            "Note": "\nEnds \u201camen.\u201d",
+            "Attributed Title": "\nGracis aftir mete (rubric, f. 122)",
+            "folio": "f. 122r1"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "_id": 788,
+    "_header": "Before that any creature was wrought / Or ere any beginning was of ought",
+    "Note": "For MSS of the Pricke of Conscience see 1953, 5398, 5399.",
+    "Title(s)": "Speculum huius vite ; Pricke of Conscience",
+    "Subjects": "treatises, devotional",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Speculum huius vite (an abridged and altered text of the Pricke of Conscience) \u2014 in couplets",
+    "_witnesses": {
+        "BodAddA268": {
+            "First Lines": "\nBe fore \u00feat any creature wos wro\u021dtOr er any begynnyng wos\n                    of o\u021dtAnd be fore all tymes we sal trowe\u00fee same god wos\n                    \u00feat is now\u2026\n",
+            "Last Lines": "\n\u2026To \u00fee quych ioy he vs bryng\u00feat made heuen &\n                    erth & all thyng\n",
+            "Note": "\nThere are Latin quotations and subtitles inserted in the text of the\n                    poem. Glosses in the margins identify references in the text; arabic numbers in\n                    the margins highlight ennumerations in the text, i. e., 10 commandments on ff.\n                        120v-121.",
+            "Attributed Title": "\nSpeculum huius vite (f. 117ra)",
+            "folio": "ff. 117ra-139rb"
+        },
+        "TCD155": {
+            "First Lines": "\nByfore \u00feat any creature was wrou\u021dtor er any bygynnyng was\n                    of ou\u021dt\u2026\n",
+            "Last Lines": "\n\u2026[ ] wi\u00fe fure & vermynne[ ] & verrne [ ]\n                    it\n",
+            "Note": "\nEnds imperfectly due to lost folios at end of volume.",
+            "Attributed Title": "\nSpeculum huius vite (p. 149)",
+            "folio": "pp. 149-238"
+        }
+    }
+}

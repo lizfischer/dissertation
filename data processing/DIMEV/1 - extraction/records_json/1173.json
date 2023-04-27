@@ -1,0 +1,26 @@
+{
+    "_id": 1173,
+    "_header": "Ecce ancilla domini",
+    "Subjects": "Annunciation, songs of; Virgin Mary, Annunciation to",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "Macaronic": "Latin",
+    "_description": "A song of the Annunciation \u2014 in 8-line stanzas with the refrain, \u2018Ecce ancilla domini\u2019",
+    "_witnesses": {
+        "CULAdd5943": {
+            "First Lines": "\n\nEcce Ancilla domini\nthus seyde the virgine vythute eny vyseWhen gabryll grett hurd\n                    gracyouslyhayle be that virgine I preuyd on prysthu shalt conceyue a\n                    swete spyce\u2026\n",
+            "Last Lines": "\n\u2026Then seyde the virgine so myldelyHe schal be dyre welcome to\n                        meEcce Ancilla domini\n\n",
+            "Note": "\nFour stanzas: first of 7 lines (ababbab), others of 8 lines\n                    (ababbcbc).",
+            "Facsimiles": "\n\nMayer,  L. S. \n             Music, Cantilenas and Songs.\n         London, 1906 (privately printed); by \"L. S. M.\": 45.\nRastall,  Richard. \n             \u201cIntroduction.\u201d \n             A Fifteenth-Century Song Book: Cambridge University Library Additional\n                MS 5943 made in facsimile.\n         Leeds: Boethius Press, 1973. \n\n",
+            "Editions": "\n\nMayer,  L. S. \n             Music, Cantilenas and Songs.\n         London, 1906 (privately printed); by \"L. S. M.\": 45.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 105-6.\n\n",
+            "folio": "f. 182v"
+        },
+        "NLS1931": {
+            "First Lines": "\n\nEcce ancilla dominiSeyde \u00feo virgyn withowtyn\n                    viceWhen gabriell hur gret graciously\u2026\n",
+            "Last Lines": "\n\u2026At \u00feat worde knot was knytteEcce ancilla\n                    domini\n\n",
+            "Note": "\nSeven 8-line stanzas.",
+            "Facsimiles": "\nHardman,  Phillipa. \n             The Heege Manuscript: A Facsimile of National Library of Scotland MS\n                Advocates 19.3.1.\n         Leeds Texts and Monographs, n.s. 16. Leeds: School of English,\n            2000. \n",
+            "Editions": "\n\nTurnbull,  William Barclay David Donald,\n                        ed.  \n             The Visions of Tundale.\n         Edinburgh: T.G. Stevenson, 1843: 141-3.\nBreul,  Karl. \n             \u201cZwei mittelenglische Christmas Carols.\u201d \n             Englische Studien\n         14 (1890): 401-08: 401-2.\nChambers,  Edmund Kerchever,  and  Frank Sidgwick.  \n             Early English Lyrics\u2026.\n         London: Buller, 1907, 1911 et seq: 112-14.\n\n",
+            "folio": "ff. 89v-90v"
+        }
+    }
+}

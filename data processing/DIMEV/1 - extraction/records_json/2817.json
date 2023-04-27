@@ -1,0 +1,20 @@
+{
+    "_id": 2817,
+    "_header": "Jesu Christ most of might",
+    "Subjects": "epitaphs; Wenlock, John le, of Luton (Beds.)",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Epitaph of John le Wenlock, c. A.D. 1480, formerly in Wenlock Chapel on the north side of the choir in the parish church of Luton, Bedfordshire \u2014 four couplets",
+    "_witnesses": {
+        "BodDig147": {
+            "First Lines": "\nIesu Criste most of myghtHave Mercy of John Lord Wenlock\n                    bright\u2026\n",
+            "Last Lines": "\n\u2026That they may come to that placeWher ther is Joye and\n                    Solace\n",
+            "Note": "\nAt the end: \u2018John lord Wenloke sometyme lyued at Somerys house now\n                    iudye Crawlys habitacoun\u2019.",
+            "folio": "f. 12"
+        },
+        "BLHar1531": {
+            "Transcription": "\nJesu christ most of myghtHave mercy on John le Wenlock knightAnd\n                    of his wyffe ElizabethWoh out of this world is passed by deathWoh\n                    founded this chapel hereHelpe them with your harty praerThat they may\n                    come to that placeWhere ever is ioy and solace\n",
+            "Editions": "\nBritton,  John,\n                        ed.  \n             The Beauties of England and Wales.\n         19 vols. in 26 parts London: Vernor, Hood and Sharpe,\n            1801-1815: 1.31.\n",
+            "folio": "f. 15"
+        }
+    }
+}

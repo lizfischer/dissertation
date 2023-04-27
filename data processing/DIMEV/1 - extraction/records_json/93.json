@@ -1,0 +1,17 @@
+{
+    "_id": 93,
+    "_header": "A little child there is I-bore / I-sprung out of Jesses more",
+    "Note": "For a variant see 5740.",
+    "Subjects": "Christmas carol",
+    "Versification": "\u2014 four-line, two-line \u2014 aaab, aa",
+    "Macaronic": "Latin",
+    "_description": "A Christmas carol \u2014 five quatrains, aaab, including refrain, \u2018Gloria tibi Domine\u2019, and burden (bb): \u2018Gloria tibi Domine / qui es natus de virgine\u2019",
+    "_witnesses": {
+        "BodAsh1393": {
+            "First Lines": "\nA litil child \u00feer is iboreysprong owt of Iesses\n                    more\u2026\n",
+            "Last Lines": "\n\u2026[ ] sette we down vpon owre knee[ ] pray \u00feat child\n                    \u00feat is so fre[ ] with gode herte now sing weGloria tibi\n                        domine\n\n",
+            "Editions": "\n\nStainer,  Sir John, John Stainer,  C. Stainer,   and  Edward Williams Byron Nicholson.  \n             Early Bodleian music; sacred & secular songs, together with other\n                MS. compositions in the Bodleian Library, Oxford, ranging from about A.D. 1185 to\n                about A.D. 1505.\n         London, 1901; repr. Farnborough, Hants, England: Gregg, 1967: 2.65.\nChambers,  Edmund Kerchever,  and  Frank Sidgwick.  \n             Early English Lyrics\u2026.\n         London: Buller, 1907, 1911 et seq: 132.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 24; 1977, 19.\nRickert,  Edith,\n                        ed.  \n             Ancient English Christmas Carols.\n         London: Chatto & Windus, 1910: 42-3.\n\n",
+            "folio": "f. 69v"
+        }
+    }
+}

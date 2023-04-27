@@ -1,0 +1,25 @@
+{
+    "_id": 1550,
+    "_header": "God be our guide",
+    "Title(s)": "On the Kentish Insurrection of Robert of Redesdale (1450)",
+    "Subjects": "historical poems; Redesdale, Robert of; Kent",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "On the Kentish Insurrection of Robert of Redesdale (1450) \u2014 one 6-line stanza",
+    "_witnesses": {
+        "OxfMagdCharmisc": {
+            "First Lines": "\nGod be oure gydeand then schull we spede\u2026\n",
+            "Last Lines": "\n\u2026God seend vs a ffayre daya wey traytours a wey\n",
+            "Note": "\nItem 14; in couplets in this MS.",
+            "Editions": "\n\n\nHistorical Manuscripts Commission, Eighth Report.\n         3 vols. in 5 (1907-9); vol. 1 corrected and re-issued in 3\n            pts: 1.267.\nWilson,  Richard Middlewood. \n             The Lost Literature of Medieval England.\n         London: Methuen, 1952: 204.\nRobbins,  Rossell Hope,\n                        ed.  \n             Historical Poems of the XIV and XV Centuries.\n         New York: Columbia UP, 1959: 63.\nScattergood,  V. John. \n             Politics and Poetry in the Fifteenth Century.\n         London: Blandford Press, 1971: 369.\n\n",
+            "folio": "f. 3"
+        },
+        "BLHar545": {
+            "Editions": "\n\nMadden,  Frederick. \n             \u201cPolitical Poems of the Reigns of Henry VI and Edwrd IV.\u201d \n             Archaeologia\n         29 (1842): 318-47: 138.\nGairdner,  James,\n                        ed.  \n             Three Fifteenth-Century Chronicles.\nCamden Society\n         n.s. 28 (1880): 94.\n\n",
+            "folio": "ff. 136v-138v"
+        },
+        "Lam306": {
+            "Note": "\nNot found at this location in this MS.",
+            "folio": "f. 45"
+        }
+    }
+}

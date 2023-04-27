@@ -1,0 +1,22 @@
+{
+    "_id": 4997,
+    "_header": "Son of Priamus gentle Paris of Troy",
+    "Note": "The Judgement of Paris",
+    "Subjects": "Troy, tales of",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "The Judgement of Paris \u2014 four stanzas rhyme royal",
+    "_witnesses": {
+        "CamTCC599": {
+            "First Lines": "\nSon of Priamus Gentyll parys of troyWake of \u00fey slepe beholde\n                    vs goddesses threWe haue brought to \u00fee encresse of ioyTo \u00fey\n                    dyscrecion reportyng owre bewty\u2026\n",
+            "Last Lines": "\n\u2026Wyche in a prynce ys thyng most couenableYeue hit me I am to\n                    haue hit able\n",
+            "Note": "\nLatin headings to each stanza introducing speaker, e.g. \u2018Pallas\n                        loquitur ad parisis de Troia\u2019.",
+            "Attributed Author": "\nChaucer (added in left margin by a later hand)",
+            "Facsimiles": "\n\nFletcher,  Bradford Y. \n             \u201cIntroduction.\u201d \n             Manuscript Trinity R.3.19. A Facsimile.\n         Norman, OK: Pilgrim, 1987. \n\nDigital Facsimile of Trinity College Cambridge MS R.3.19.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.19. \n\n",
+            "folio": "f. 161va-161vb"
+        },
+        "Leiden": {
+            "Editions": "\nVan Dorsten,  J. A. \n             \u201cThe Leyden \u2018Lydgate Manuscript.\u2019\u201d \n             Scriptorium\n         14 (1960): 315-25: 325.\n",
+            "folio": "f. iiiv"
+        }
+    }
+}

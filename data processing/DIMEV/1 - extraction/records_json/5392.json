@@ -1,0 +1,23 @@
+{
+    "_id": 5392,
+    "_header": "The Mass is of so high dignity",
+    "Subjects": "oaths, criticism of; mass; carols, of religious counsel",
+    "Versification": "\u2014 four-line, monorhyme \u2014 aaaa",
+    "_description": "Against swearing by the Mass \u2014 six quatrains (aaaa) and burden (bb): \u2018Y concell yow both more and lasse / Beware of swerynge by the masse\u2019",
+    "_witnesses": {
+        "OxfBal354": {
+            "First Lines": "\nThe masse is of so high dignytee\u00deat no thyng to it\n                    comprehendid may be\u2026\n",
+            "Last Lines": "\n\u2026\u00deat whan \u00fee erth hath couered thy faceThy sowle in\n                    hevyn may haue a placeExplicit\n",
+            "Note": "\nSix stanzas, including one not in Cambridge UK,  Trinity College O.9.38 (1450).",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 263-4.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 42-3.\n\n",
+            "folio": "pp. 4811-482"
+        },
+        "CamTCC1450": {
+            "First Lines": "\nThe masse ys of suwch dygnyteNothyng to hyt comprysyd may\n                    be\u2026\n",
+            "Last Lines": "\n\u2026ffor when erth hath coueryde thy faceThen all that ys turnyd\n                    as hyt wasse\n",
+            "Editions": "\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 226-7; 1977, 201-2.\n",
+            "folio": "f. 69v"
+        }
+    }
+}

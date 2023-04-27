@@ -1,0 +1,31 @@
+{
+    "_id": 5072,
+    "_header": "Sweet Jesu Christ to Thee / Culpable wretch I yield me",
+    "Note": "For other MSS see 5070 and 6120.",
+    "Subjects": "prayers, of confession; confession, forms of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A prayer of Confession \u2014 in couplets",
+    "_witnesses": {
+        "BodDou302": {
+            "First Lines": "\nSwete ihesu crist to \u00feeCoubabil wreche y \u021dild\n                    me\u2026\n",
+            "Last Lines": "\n\u2026Loke \u021de say \u00feis oresounDewoutle with\n                    deuocion\n",
+            "Note": "\n62 lines.",
+            "Attributed Title": "\nde confesione generali (f. 12va)",
+            "Editions": "\nWhiting,  Ella Keats,\n                        ed.  \n             John Audelay: The Poems.\nEETS\n         o.s. 184 (1931); repr. 1988: 80-1.\n",
+            "folio": "f. 12va"
+        },
+        "CULIi643": {
+            "First Lines": "\nSWete ihesu crist to \u00feeCulpable wrecche y \u021delde\n                    me\u2026\n",
+            "Last Lines": "\n\u2026In to \u00feat blyssffull empyreThere \u00feat \u00feu\n                    reygnest lorde & syre\n",
+            "Attributed Title": "\nAlia oracio bona de ihesu (f. 90v)",
+            "folio": "ff. 90v-91v"
+        },
+        "Fellowes": {
+            "First Lines": "\nSwete ihesu crist to \u00feeCopable wrecche ich \u021delde\n                    me\u2026\n",
+            "Last Lines": "\n\u2026Yn to \u00feat blisse of [heuene lyght]\u00deer \u00feou\n                    reynest lo[rd of myght]\n",
+            "Note": "\nFragment of 36 lines, ends imperfectly.",
+            "Editions": "\n\nFurnivall,  Frederick James. \n             \u201cA Confession of Sins and a Prayer for Mercy.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         9 (1897): 129-30. \nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 2.785-6.\n\n",
+            "folio": "f. 166v"
+        }
+    }
+}

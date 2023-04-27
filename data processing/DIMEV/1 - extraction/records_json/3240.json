@@ -1,0 +1,21 @@
+{
+    "_id": 3240,
+    "_header": "Lord with this sustenance",
+    "Subjects": "grace, at meals",
+    "Versification": "\u2014 eight-line \u2014 aabccbdd",
+    "_description": "Grace after supper \u2014 one 8-line stanza (aabccbdd)",
+    "_witnesses": {
+        "BLHar2339": {
+            "Transcription": "\nLord wi\u00fe \u00feis sustynaunce\u021ceue us good\n                    contynuaunce\u00dein heestis forto kepeAnd neuer aftir to do\n                    amysBi which we moun lese heuen blisBut \u00fee to haue oure\n                    seeteAnd \u00feat \u00feis bone grantid mai beSeie we a pater noster\n                    & an aue\n",
+            "Attributed Title": "\nGracis aftir soper (rubricated, f. 122v)",
+            "Editions": "\nPatterson,  Frank A. \n             \u201cShakspeare and the Medieval Lyric.\u201d \n             Shakesperian Studies by Members of the Department of English And\n                Comparative Literature in Columbia University.\n            B. Matthews,\n                              and  A. H. Thorndike,\n                            eds. \n         New York: Columbia University Press, 1916. 431-52: 448.\n",
+            "folio": "f. 122v3"
+        },
+        "TCD70": {
+            "Transcription": "\nLord wi\u00fe \u00feis sustenaunce\u021dyue us good\n                    contynuaunce\u00dein heestis for to kepeAnd neuere aftir to doon\n                    amyssebi which we moun leese heuen blissebut \u00feere to haue oure\n                    seteAnd \u00feis boone grauntid mai beSeie we a pater\n                    noster\n\n",
+            "Note": "\nFollows 1011.",
+            "Attributed Title": "\nGraces aftir soper (f. 195)",
+            "folio": "f. 195"
+        }
+    }
+}

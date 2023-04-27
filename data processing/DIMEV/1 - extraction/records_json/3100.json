@@ -1,0 +1,22 @@
+{
+    "_id": 3100,
+    "_header": "Listen man listen to me",
+    "Subjects": "Christ, appeal of, to man",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Christ\u2019s Appeal from the Cross \u2014 five couplets inserted in the Speculum Sacerdotale",
+    "_witnesses": {
+        "BodRawA362": {
+            "First Lines": "\nLysten man lysten to meByholde what I \u00feole for\n                    \u00feee\u2026\n",
+            "Last Lines": "\n\u2026Al \u00feis I haue \u00feoled for \u00feeeAs \u00feou schalt\n                    at domesday see\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 22v"
+        },
+        "BLAdd36791": {
+            "First Lines": "\nListne manListne to me\u2026\n",
+            "Last Lines": "\n\u2026All this I haue tholyd for theAs \u00feou schalt at domysday\n                    se\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nWeatherly,  Edward Howell,\n                        ed.  \n             Speculum Sacerdotale.\nEETS\n         o.s. 200 (1936); repr. Kraus: New York, 1971: 112.\n",
+            "folio": "ff. 63-63v"
+        }
+    }
+}

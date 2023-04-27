@@ -1,0 +1,23 @@
+{
+    "_id": 4775,
+    "_header": "Saluator mundi domine",
+    "Subjects": "dialogues, Christ and man",
+    "Versification": "\u2014 eight-line \u2014 ababcdcd",
+    "Macaronic": "Latin",
+    "_description": "Dialogue between \u2018Natura hominis\u2019 and \u2018Bonitas dei\u2019 \u2014 fourteen 8-line stanzas",
+    "_witnesses": {
+        "BodTan110": {
+            "First Lines": "\n\nSaluator mundi domineTo the Ihesu make I my\n                    moon\u2026\n",
+            "Last Lines": "\n\u2026ffor ther in Ioye shalt thou now beAne euermore throgh my\n                    Mercye\n",
+            "Attributed Title": "\nMaria Ihesus Iohannes (f. 238), Amen . Deo gracias (at the end)",
+            "folio": "ff. 238-240"
+        },
+        "CamGon84": {
+            "First Lines": "\nSalvator mundi domine to \u00fee Jhesu make I my mone to haue\n                    mercyThorow \u00fei pyte gracius god now here my bone\u2026\n",
+            "Last Lines": "\n\u2026Into my kyndam cum now with me & to \u00fee blysse of hewen on\n                    hyeffor \u00feere in ioy schal \u00feu now be & ewur more thorowe my\n                    mercy\n",
+            "Note": "\n13 x 4, aabb with internal rhyme, or 13 x 8 ababcdcd, with refrain\n                    phrase, \u2018I cry mercy\u2019 or occasionally other phrase ending\n                    \u2018mercy\u2019 ending last line of each stanza.",
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 164-8.\n",
+            "folio": "pp. 180;  191"
+        }
+    }
+}

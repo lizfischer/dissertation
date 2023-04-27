@@ -1,0 +1,55 @@
+{
+    "_id": 6755,
+    "_header": "With this ring I wed thee / and with this gold",
+    "Note": "Other manuals have a less rhythmical version of the Pledge; there are many printed Manuals with the tag; a York Manual is printed Henderson (1875)\nXHenderson, W. G. Manuale et processionale ad usum insignis ecclesiae Eboracensis\nSurtees Society 63 (1875), xvi, 27; and a Welsh Manual, ib.168.",
+    "Subjects": "marriage",
+    "Versification": "\u2014 monorhyme",
+    "_description": "The Marriage Pledge, generally found in most Manuals, in the Ordo ad facienda Sponsalia \u2014 in monorhyming lines",
+    "_witnesses": {
+        "BodRawlite41": {
+            "folio": ""
+        },
+        "BodRawlite44": {
+            "folio": ""
+        },
+        "BodRawlitd5": {
+            "folio": ""
+        },
+        "OxfUni78": {
+            "folio": ""
+        },
+        "CULEe419": {
+            "Transcription": "\nWyth \u00feis ryng I wedde \u00feeAnd wyth \u00feis gold and siluere\n                    I honoure \u00feeand wyth \u00feis gyfte I dow \u00fee\n",
+            "folio": "f. 24"
+        },
+        "CULMm115": {
+            "folio": ""
+        },
+        "CULMm321": {
+            "Transcription": "\nWith \u00feis ryng ich \u00fee weddeand with my body ich \u00fee\n                    honoureand with al my golf iche \u00fee dowe\n",
+            "folio": "ff. 220rb-220va"
+        },
+        "CamPeter222": {
+            "Transcription": "\n Wyth \u00feis ryng y \u00fee weddede& \u00feis gold & seluer\n                    y \u00fee \u021deue& wyth my body y \u00fee worschepe& wyth al\n                    my wordelyche catel y \u00fee honoure\n",
+            "Note": "\nProsified and extended version",
+            "folio": "f. ii"
+        },
+        "BLAdd30506": {
+            "Transcription": "\nWith \u00feis ryng I \u00fee weddeand \u00feis gold and siluer I\n                    \u00fee \u021deueand with al myn bodi I the worschepeand with al myn\n                    wordlich catel I the honowre\n",
+            "Note": "\nWritten as prose",
+            "folio": "f. 27v"
+        },
+        "Lam3597": {
+            "folio": ""
+        },
+        "HarWid1": {
+            "Transcription": "\nWyth \u00feis ryng I wed[ ] \u00feeand wyth \u00feis gold and syluere\n                    I honour \u00feeand wyth my gyftys I dow \u00fee\n",
+            "folio": "f. 62v"
+        },
+        "YorkMinXVIM4": {
+            "Transcription": "\nWyth \u00feis ryng I wed \u00feeand wyth \u00feis golde and siluer I\n                    honor \u00feeand with \u00feis gyfte I dowe \u00fee\n",
+            "Editions": "\nHenderson,  W. G.,\n                        ed.  \n             Manuale et processionale ad usum insignis ecclesiae Eboracensis\nSurtees Society\n         63 (1875): xvi, 27.\n",
+            "folio": "f. 20"
+        }
+    }
+}

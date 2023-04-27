@@ -1,0 +1,22 @@
+{
+    "_id": 4690,
+    "_header": "Saint Mark has in his matters meant",
+    "Note": "For the usual version see 4695.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Twelfth Sunday after Trinity in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 218va"
+        },
+        "BLHar4196": {
+            "First Lines": "\nSaint mark has in his maters mentAnd sais whils crist in \u00feis werld went\u2026\n",
+            "Last Lines": "\n\u2026We may be seker of heuyn medeOure lord ihesu vs \u00feeder lede\n",
+            "Note": "\nPreceded by Latin, \u201cEXiens ihesu crist de finibus tiry.\u201d",
+            "Attributed Title": "\nDominica xii estatis secundum Marcum (rubric, f. 110va)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): III.64-69.\n",
+            "folio": "ff. 110va-111va"
+        }
+    }
+}

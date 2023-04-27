@@ -1,0 +1,15 @@
+{
+    "_id": 123,
+    "_header": "A mine heart remember thee well",
+    "Note": "Cf. 1; Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 81.",
+    "Subjects": "penance",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "A song of penitence \u2014 two stanzas rhyme royal with 2-line refrain",
+    "_witnesses": {
+        "BLAdd5465": {
+            "First Lines": "\nA myn hart remembir \u00fee well\u2026\n",
+            "Editions": "\n\nFehr,  Bernhard. \n             \u201cDie Lieder des Fairfax MS (Add. 5465 Brit. Mus.).\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         106 (1901): 48-70: 66.\nKirke,  Henry. \n             The Reliquary\n         9 (1868-69): 77.\nStevens,  John,\n                        ed.  \n             Music and Poetry in the Early Tudor Court.\n         London: Methuen, 1961: 375.\n\n",
+            "folio": "ff. 86v-89"
+        }
+    }
+}

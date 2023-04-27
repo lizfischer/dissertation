@@ -1,0 +1,27 @@
+{
+    "_id": 4130,
+    "_header": "Of all flowers fairest fall one",
+    "Subjects": "Virgin Mary, hymns to; hymns, to Virgin Mary",
+    "Versification": "\u2014 twelve-line stanzas, eight-line \u2014 ababbcbccdcd, ababbcbc",
+    "_description": "A song in praise of the Virgin Mary \u2014 thirteen 8-line stanzas",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nOff alle floures feirest fall onAnd \u00feat is Marie Moder\n                    fre\u2026\n",
+            "Last Lines": "\n\u2026In heuene of \u00fee to haue a sihtLadi to \u00fee my mone I\n                    mene\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 2.708-11.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 178-81.\n\n",
+            "folio": "ff. 410rc-410vb"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nOff alle floures feirest fall onAjd \u00feat is marie moder\n                    fre\u2026\n",
+            "Last Lines": "\n\u2026In heuene of \u00fee to haue a syhtLady to \u00fee muy mone I\n                    mene\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 131vc-132rb"
+        },
+        "ArrBM184": {
+            "Transcription": "\nOf all flours & cetera\n",
+            "Editions": "\nFriend,  Albert C. \n             \u201cFourteenth-Century Couplets of English Verse.\u201d \n             PMLA\n         69 (1954): 984: 984.\n",
+            "folio": "vol. 1, f. 1v"
+        }
+    }
+}

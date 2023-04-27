@@ -1,0 +1,32 @@
+{
+    "_id": 3275,
+    "_header": "Love is life that lasts ay there it in Christ is fast",
+    "Note": "A Text: Northern Version (24 stanzas); B Text: Southern Version (combined with 2854, which is here inserted between stanzas 17 and 18).",
+    "Author(s)": "Richard Rolle",
+    "Title(s)": "Incendium Amoris",
+    "Subjects": "Christ, love of; love, of Christ; translations; devotional treatises",
+    "Versification": "\u2014 four-line \u2014 aaaa",
+    "_description": "A song of the Love of Christ, a direct translation of Rolle\u2019s Incendium Amoris, ch. xl, xli \u2014 in monorhyming quatrains with medial rhyme",
+    "_witnesses": {
+        "CULDd564": {
+            "First Lines": "\nlYf es lyf \u00feat lastes ay \u00fear it in criste es festeffor\n                    wele ne wa it chaunge may als wryten hsmen wyseste\u2026\n",
+            "Last Lines": "\n\u2026Ihesu on vs now & ay for \u00fee we halde oure keyngIhesu\n                    gyf vs grace as \u00feu wel may to luf \u00fee withowten endyng\n",
+            "Editions": "\n\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 1.76-8.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 102-6.\nAllen,  Hope Emily. \n             English Writings of Richard Rolle.\n         Oxford: Clarendon, 1931: 43.\nSisam,  Kenneth. \n             Fourteenth Century Verse and Prose.\n         Oxford: Clarendon, 1921: 37-9.\nComper,  Frances M. M. \n             The Life of Richard Rolle, Together with an Edition of his English\n                Lyrics.\n         London: J. M. Dent, 1928, 1933; New York: E. P. Dutton, 1929: 248-51.\nNicholson,  Daniel Howard Sinclair,\n                        ed.  \n             The Oxford Book of English Mystical Verse.\n         Oxford: Clarendon, 1916, et seq: 1-6.\nAuden,  Wystan Hugh,  and  Norman Holmes Pearson, eds.  \n             Poets of the English Language.\nViking Portable Library\n         vol. 1. New York, 1950: 1.35-40.\nHanna,  Ralph,\n                        ed.  \n             Richard Rolle: Uncollected Verse and Prose.\n         EETS o.s. 329 (2007): 25-8.\n\n",
+            "folio": "Part III, ff. 38-40"
+        },
+        "Lam853": {
+            "First Lines": "\nLOue is lijf \u00feat lasti\u00fe ay\u00deere it is in crist made\n                    feltWhanne wele ne wo it slake mauyAs writen han men\n                    wisest\u2026\n",
+            "Last Lines": "\n\u2026Ihesu \u00feinke on us now and ay ffor \u00feee we holde oure\n                    kyngIhesu \u021deue us grace \u00feat weel may To loue \u00fee withoute\n                    eendynge AMEN\n",
+            "Note": "\nWritten as prose. Quire [6] bound before Quire [5], which the page\n                    number takes into account.",
+            "folio": "pp. 90-102"
+        },
+        "Longleat29": {
+            "First Lines": "\nLove is lif \u00feat lesteth ay \u00feer hit in crist is festeWhan\n                    wel ne wo hit chaunge may as written hath men wisest\u2026\n",
+            "Last Lines": "\n\u2026Ihesu \u00feynke on vs nowe & ay ffor \u00fee we hold oure\n                    kyngeIhesu \u00feou gif vs grace as \u00feou wel may to loue without endyge\n                    Amen\n",
+            "Note": "\nWritten as verse.",
+            "Attributed Title": "\nde amore dei (f. 51v)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             Hymns to the Virgin and Christ\u2026and other religious poems.\nEETS\n         o.s. 24 (1867); repr. 1973: 22-31.\nWilson,  Sarah. \n             \u201cThe Longleat Version of \u2018Love is Life.\u2019\u201d \n             Review of English Studies\n         n.s. 10 (1959): 337-46: 342-6.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 177-82.\nOgilvie-Thomson,  J. S.,\n                        ed.  \n             Richard Rolle: Prose and Verse.\nEETS 293 o.s. 293 (1988): 42-4.\n\n",
+            "folio": "ff. 51v-53"
+        }
+    }
+}

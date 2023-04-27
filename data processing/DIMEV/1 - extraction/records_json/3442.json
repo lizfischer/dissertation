@@ -1,0 +1,24 @@
+{
+    "_id": 3442,
+    "_header": "Master Geoffrey Chaucer that now lieth in grave",
+    "Author(s)": "John Lydgate",
+    "Subjects": "Chaucer",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Balade in praise of Chaucer \u2014 one stanza rhyme royal: lines II. 1628-34 from Lydgate\u2019s Life of Our Lady (4080). See Wellesley (2018)\nXWellesley, Mary. \u201cJohn Lydgate\u2019s Life of our Lady: Form and Transmission.\u201d Diss. University College, London, 2018. [https://discovery.ucl.ac.uk/id/eprint/10054615/1/Wellesley_10054615_thesis.pdf]",
+    "_witnesses": {
+        "CamTCC599": {
+            "Transcription": "\nMaster Geffray Chausers That now lyth in graueThe nobyll Rethoricioun\n                    and poet of gret bretayneThat worthy was the lawrer of poetry haueffor\n                    thys hys labour and the palme atteyneThe gold dew dropys of speche and\n                    elloquenceIn to englyssh tong thorow hys excellence\n",
+            "Note": "\nFollows as envoy to 5373.",
+            "Attributed Title": "\nVerba translatoris (f. 25)",
+            "Facsimiles": "\n\nFletcher,  Bradford Y. \n             \u201cIntroduction.\u201d \n             Manuscript Trinity R.3.19. A Facsimile.\n         Norman, OK: Pilgrim, 1987. \n\nDigital Facsimile of Trinity College Cambridge MS R.3.19.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.19. \n\n",
+            "Editions": "\nSkeat,  Walter William,\n                        ed.  \n             The Complete Works of Geoffrey Chaucer.\n         7 vols. Oxford: Clarendon, 1894-7: 7.450.\n",
+            "folio": "f. 25"
+        },
+        "BLHar7333": {
+            "Transcription": "\nMaister gefferey Chauncers \u00feat now lith graue\u00dee noble\n                    Rethor poete of grete breteyne\u00deat worth was the laurere to haveOf\n                    poyetry And \u00fee palme atain\u00dee gold dew dropes of speche in\n                    eloquenceIn to english tonge \u00feorow his excellens\n",
+            "Note": "\nFollows the Parliament of Fowls (5373), with a blank\n                    space of seven lines preceding.",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967: 98.\nWellesley,  Mary. \n             \u201cJohn Lydgate\u2019s Life of our Lady: Form and Transmission.\u201d \n            \n         Diss. University College, London, 2018. [https://discovery.ucl.ac.uk/id/eprint/10054615/1/Wellesley_10054615_thesis.pdf]: 18, 131.\n\n",
+            "folio": "f. 132vb1"
+        }
+    }
+}

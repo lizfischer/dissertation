@@ -1,0 +1,74 @@
+{
+    "_id": 5103,
+    "_header": "Take no God but One in heaven",
+    "Note": "For the four Latin hexameters roughly translated here, see Walther (1969)\nXWalther, Hans. Initia carmina ac versuum medii aevi posterioris latinorum. G\u00f6ttingen, 1959; 2nd ed. 1969, no. 19669, 9121; and cf. 1814",
+    "Subjects": "Ten Commandments; sermons, verse in; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Ten Commandments, a tag in the Fasciculus morum \u2014 10 lines in couplets",
+    "_witnesses": {
+        "Bod187": {
+            "First Lines": "\nTake no god but on in heuenNeme nat hys name yn ydyl\n                    steuyn\u2026\n",
+            "Last Lines": "\n\u2026\u00fey neyburs gud \u00feu ne willeNe wyf ne dowtyr for to\n                    spylle\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 143rb"
+        },
+        "Bod410": {
+            "First Lines": "\nTake no god but on in heuen take not his nome In yvel\n                    steuen\u2026\n",
+            "Last Lines": "\n\u2026\u00fei nekburgh good \u00feu shall not wyllehis wyf his\n                    doughter \u00feu shalt not spille\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nLittle,  Andrew George. \n             Studies in English Franciscan History.\n         Manchester: Manchester UP; London: Longman\u2019s, 1917: 150, n. 1.\n",
+            "folio": "f. 21v"
+        },
+        "BodLauMis213": {
+            "First Lines": "\nTake no god but on in heuynTake not his name in ydyll\n                    steuen\u2026\n",
+            "Last Lines": "\n\u2026\u00fey neybour good \u00feu schalt not wyllehys wyf hys\n                    dowter thow schalt nott spyll\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 29"
+        },
+        "BodLauMis568": {
+            "First Lines": "\nTak noo god bot on in heuynNeme noght hys nome in ydyl\n                    steuyn\u2026\n",
+            "Last Lines": "\n\u2026thy neyburs gode ne \u00feou wyllNe wyffe ne doghter ne\n                    mayden more for to spul\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 24rb"
+        },
+        "BodRawC670": {
+            "First Lines": "\nTake no god but oon in heuenNeme nou\u021dt his name in ydel\n                    steuen\u2026\n",
+            "Last Lines": "\n\u2026\u00dein neyyborus godes \u00feou ne wyllNy wyf ne\n                    dou\u021dtur for to spylle\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 155.\n",
+            "folio": "f. 39"
+        },
+        "CamGon71": {
+            "First Lines": "\nWorschip no god bot one in heuenTake not hys name in hidel\n                    steuen\u2026\n",
+            "Last Lines": "\n\u2026\u00fei negthbor gud in no willNo wyff ne doghtre\n                    for to spill\n",
+            "folio": "f. 30v"
+        },
+        "CamStJohn159": {
+            "First Lines": "\nTake no gode bot one in heueneNeuyne not hys name in ydil\n                    steuyne\u2026\n",
+            "Last Lines": "\n\u2026\u00fei neghbures gude \u00feu ne wyllne wyf no doghter for\n                    to spill\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 52v"
+        },
+        "EDU82": {
+            "First Lines": "\nTake noo god but oone in heuenNym nott his name in ydel\n                    steven\u2026\n",
+            "Last Lines": "\n\u2026Thes been the hestes of grettest medeKepe hem well \u021dif\n                    thou wultt spede\n",
+            "Note": "\nSix couplets.",
+            "folio": "f. 45v"
+        },
+        "Lincoln44": {
+            "First Lines": "\nTake non god bute on \u00feu heueneNeme noth his name in hydyl\n                    steueneKepe ry\u021dt wel \u00fey holy day\u00fey fadur \u00fey modur\n                    \u00feu worchep ay\u2026\n",
+            "Last Lines": "\n\u2026\u00fey nethbours goud \u00feu ne willene wyfe ne\n                    \u00feou\u021dter forto spille\n",
+            "folio": "ff. 172rb-172va"
+        },
+        "GraysInn15": {
+            "Transcription": "\n[T]Ake no god but on in hewene[N]Ame nowth his name in hydis\n                    stewene[L]Oke ryth wel \u00fein halyday[N]E fals wytnesse \u00feow ne\n                    beer[\u00de]Ow schalt don non lecherye[N]E non thefte of\n                    felonye[\u00de]in ney\u021debour godus \u00feou ne wille[N]E wyf ne\n                    dowtyr for to spylle[W]yt hem wel and \u00feou schalt spede\n",
+            "Note": "\n12 lines, with additional couplet similar to 5103-8. Guide letters\n                    indicate unexecuted initial letters.",
+            "folio": "f. 72v"
+        },
+        "WorcF19": {
+            "First Lines": "\nTake non god bot on in heueneNem no\u021dt his name in ydyl\n                    steuene\u2026\n",
+            "Last Lines": "\n\u2026\u00dey neghebor god \u00feu ne willeNe wyfe ne dou\u021dter\n                    for to spille\n",
+            "Editions": "\nWilson,  J. M. \n             \u201cWorcester Cathedral Library, from the Report of the Librarian, Canon J.\n                M. Wilson.\u201d \n             The Library\n         4th ser. 2 (1921-22): 257-65: 263.\n",
+            "folio": "f. 175ra-175rb"
+        }
+    }
+}

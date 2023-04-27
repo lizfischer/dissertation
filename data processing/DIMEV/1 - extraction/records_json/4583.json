@@ -1,0 +1,54 @@
+{
+    "_id": 4583,
+    "_header": "Saint Dominic the holy friar in Spain was I-bore",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Dominic, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Dominic in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "Bod779": {
+            "First Lines": "\nSeint dompinke \u00fee holy frere in spayne was I borein \u00fee\n                    toun of cailre wel good was \u00fee more\u2026\n",
+            "Last Lines": "\n\u2026Now bidde we seint domenyk \u00feat \u00fee ordre ha\u00fe I\n                    brou\u021dt\u00feat we ben for\u00fe wit him to \u00fee ioye of heuene be\n                    tau\u021dt\n",
+            "Attributed Title": "\nSeint domenic \u00fee holi frere (f. 167)",
+            "folio": "ff. 167-170v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSEint Dominik \u00fee noble frere in Spayne was i boreIn \u00fee\n                    toun of Cailre wel good was \u00fee More\u2026\n",
+            "Last Lines": "\n\u2026Now bidde we seint Dominik \u00feat \u00fee Ordre ha\u00fe i\n                    wrouht\u00deat we beo for\u00fe wi\u00fe him to \u00fee Ioye of heuene i\n                    brouht. AMEN. Amen.\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 47vb-49ra"
+        },
+        "BodLauMis108": {
+            "First Lines": "\nSEint Domenic \u00fee holie frere in spayne was i boreIn \u00fee\n                    toune of Saylye wel guod was \u00fee more\u2026\n",
+            "Last Lines": "\n\u2026Bidde we ore louerd and ore lauedi for Seint Dominikes\n                    loue\u00deat we moten aftur ore ende day to \u00fee blisse of heuene\n                    come\n",
+            "Attributed Title": "\nVita sancti Dominici confessoris (f. 124)",
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             The Early South-English Legendary.\nEETS\n         o.s. 87 (1887; repr. 1987): 278-88.\n",
+            "folio": "ff. 124-1279v"
+        },
+        "CULAdd2585c": {
+            "First Lines": "\nSeint domnyk \u00fee holy man in spayne was i booreIn \u00fee town\n                    of Salche hee cam of noble mooreA kny\u021dte ffelyce his fader heet his\n                    mother heet annejeneIs moder glad was of \u00fee sone [\n                    ]\u2026\n",
+            "Last Lines": "\n\u2026Sone sche seyde pax pes \u00fey meny & \u00feyn oreI wil\n                    not seyde oure swete lorde \u00feis synne \u00feus ill more\n",
+            "Note": "\n124 lines.",
+            "folio": "ff. 1-2v"
+        },
+        "CamTCC605": {
+            "First Lines": "\nSEint dominike \u00fee holy frere in spayn was y boreIn \u00fee\n                    toune of gailie wel goud was \u00fee more\u2026\n",
+            "Last Lines": "\n\u2026bydde we oure lord & oure ledy & seint dominik \u00fee\n                    frere\u00feat we moten after oure endyng in heuene ben\n                    partynere\n",
+            "Attributed Title": "\nDominik frater predicatorum (RT)",
+            "folio": "ff. 137v-140v"
+        },
+        "BLEge1993": {
+            "First Lines": "\nSEint Dominic \u00fee holi frere in spaine was iboreIn \u00fee toun of cailre welle god was \u00fee more\u2026\n",
+            "Last Lines": "\n\u2026Now bidde\u00fe seint seint dominic \u00feat \u00fee hordre ha\u00fe iwrou\u021dt\u00deat we beo for\u00fe wi\u00fe him to \u00fee ioie of heuene brou\u021dt\n",
+            "Note": "\nNot included as occurring in this MS in Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943 or Boffey  and  Edwards (2005)\nXJulia Boffey,   and  A. S. G. Edwards.  \n             A New Index of Middle English Verse.\n         London: The British Library, 2005.",
+            "folio": "ff. 206-210"
+        },
+        "Lam223": {
+            "First Lines": "\nSAynt Dominik \u00fee holy frere in Spayne was y boreIn \u00fee\n                    toun of Cailye wel gode was \u00feen \u00fee more\u2026\n",
+            "Last Lines": "\n\u2026Pray we oure lord & oure lady & saynt Domynik \u00fee\n                    frere\u00deat we mot after oure endinge day in heuen be her fere\n                    Amen\n",
+            "Note": "\nAt the end of the second line, \u2018more\u2019 is glossed: \u2018.i.\n                    rote\u2019.",
+            "Attributed Title": "\nSaynt Dominik (RT)",
+            "folio": "ff. 155-159"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "_id": 4509,
+    "_header": "Robin Hood in Sherwood stood",
+    "Subjects": "Robin Hood",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A fragment of a Robin Hood ballad \u2014 four lines only",
+    "_witnesses": {
+        "Lincoln132": {
+            "Transcription": "\nRobyn hod in schere wod stodhodud & hathud hosut &\n                    schodfour & thuynti arownehe bar in hit\u021d honde\n",
+            "Note": "\nFollowed by Latin version of same: \u2018Robertus hod stetit in\n                        ligde\u2026\u2019.",
+            "folio": "f. 100v"
+        }
+    }
+}

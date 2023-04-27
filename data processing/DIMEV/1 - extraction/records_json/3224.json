@@ -1,0 +1,22 @@
+{
+    "_id": 3224,
+    "_header": "Lord that art of mights most",
+    "Note": "Cf. 417.",
+    "Subjects": "Trinity, prayers to; prayers, to Trinity",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "A prayer to the Trinity \u2014 two 6-line stanzas (aabccb)",
+    "_witnesses": {
+        "CULIi643": {
+            "First Lines": "\nLOrde \u00feat art of my\u021dtis moostffadir & sone &\n                    holygoost\u2026\n",
+            "Last Lines": "\n\u2026The to see face to faceWorlde with outen ende\n",
+            "Editions": "\n\nRobbins,  Rossell Hope. \n             \u201cPopular Prayers in Middle English Verse.\u201d \n             Modern Philology\n         36 (1939): 337-50: 339.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 79.\n\n",
+            "folio": "ff. 120v-121"
+        },
+        "PlimptonAd2": {
+            "First Lines": "\nLord that art of mi\u021dtis mosteffad[ir] and son & holy\n                    gost\u2026\n",
+            "Last Lines": "\n\u2026In heuene blys \u00feu \u021dif me graceThe to see face to\n                    faceWorlord wi\u00fe owte ende\n",
+            "Note": "\nFollowed by another devotional poem (430), unpublished, \u2018Almytty god Iehu crist\n                    \u00feat deydest upon de rode tre\u2019.",
+            "folio": "f. 5v"
+        }
+    }
+}

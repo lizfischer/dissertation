@@ -1,0 +1,58 @@
+{
+    "_id": 1877,
+    "_header": "He that it rueth he rueth full sore",
+    "Note": "Based on Qui tetigit, tetigit \u2026 which precedes it; for an example of the Latin occuring separately, see James (1912)\nXJames, Montague Rhodes. A Descriptive Catalogue of the Manuscripts in the Library of Corpus Christi College, Cambridge. Cambridge: at the UP, 1912, 2.193, and Walther (1963)\nXWalther, Hans. Proverbia sententiaque latinitatis medii aevi. 6 vols. G\u00f6ttingen, 1963-69, no. 24858.",
+    "Subjects": "repentance; sermons, verse in",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Repent and amend thy life (4 lines, aabb), a tag in the Fasciculus morum",
+    "_witnesses": {
+        "Bod410": {
+            "Transcription": "\nHe \u00feat \u00fee thorgh smote he smote fulsoreAmende \u00fei lyf\n                    And synne nomoreLest he of eft so smyte \u00fee\u00feat \u00feu be war\n                    I rede \u00fee het do\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 1v"
+        },
+        "BodLauMis111": {
+            "Transcription": "\nhe \u00feat hem Ruyth he ru\u00fet ful soreAmende thi lif an synno\n                    morelest he ofte so ruus ye\u00feat \u00feou be war I rede\n                    the\n",
+            "Note": "\nWritten as verse with rubric rhyme markers to right.",
+            "folio": "f. 50"
+        },
+        "BodLauMis213": {
+            "Transcription": "\nHe \u00feat the throgh smot he smot full soreA mende \u00fei lyfe and\n                    synne no moreleste he offte off smyte \u00fee\u00feat \u00feu be ware\n                    i rede the\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 1v"
+        },
+        "BodRawC670": {
+            "Transcription": "\nHe \u00feat hem reuen hoe reuen ful soreAmende \u00fey lyf and synne\n                    no moreLest he eft so ryue \u00fee\u00deat \u00feou be war I rede\n                    \u00fee\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 134.\n",
+            "folio": "f. 8"
+        },
+        "OxfLinLat52": {
+            "Transcription": "\nHe \u00feat hym rewith he rew full soreamend \u00fei life and synne\n                    no moreLest \u021de oft so rew the\u00feat \u00feou be ware I rede\n                    \u00fee\n",
+            "folio": "f. 1vb"
+        },
+        "CamGon364": {
+            "Transcription": "\nHe \u00feat hym reuthyd he rewe ful soreAmende \u00fei lyf and synne\n                    no moreleste\u021de ofte so rewe the\u00feat \u00feu be war I rede\n                    the\n",
+            "Editions": "\n\nJames,  Montague Rhodes. \n             A Descriptive Catalogue of the Manuscripts in the Library of Gonville\n                and Caius College, Cambridge.\n         2 vols. Cambridge: at the UP, 1907: 2.414.\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.205.\n\n",
+            "folio": "ff. 1vb-2ra"
+        },
+        "CamStJohn159": {
+            "Transcription": "\nhe \u00feat hym ruthe he rueth full soreAmend \u00fei lyfe &\n                    synne no moreleste he oft so rue on \u00fee\u00feu be war I reyd\n                    \u00fee\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 34v"
+        },
+        "EDU82": {
+            "Transcription": "\nhe \u00feat hym reweth hym rewe full soreAmende \u00fei li\u021df\n                    & synne no morelest eft he so rewe on thethat \u00feu be war I\n                    rede the\n",
+            "folio": "f. 5"
+        },
+        "Lincoln44": {
+            "Transcription": "\nhe \u00feat hem rewe he rewe ful soreamende jn lyue and syne\n                    nomorelest he of \u00fee soe rewe \u00fee\u00feat \u00feu be ware j\n                    rede \u00fee\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 156va"
+        },
+        "Spalding": {
+            "Transcription": "\nHe that to the he toche ful soreAmende thi lyfe and synne no\n                    moreLest that he smyte thethat thowe be ware I rede the\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 2"
+        }
+    }
+}

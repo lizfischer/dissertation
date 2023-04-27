@@ -1,0 +1,62 @@
+{
+    "_id": 2473,
+    "_header": "In Antioch beyond the sea",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Pelagia, saint",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Pelagia: Narratio in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nIN Antioche bi \u021donde \u00fee seeA wommon woned I[n] a\n                    Citee\u2026\n",
+            "Last Lines": "\n\u2026And so to lyue \u00feat we mayCome to \u00fee at vr endyng\n                    day AMEN.\n",
+            "Attributed Title": "\n\u00dee conuersioun of Pelagie (f. 208vb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDie Evangelien-Geschichten der Homiliensammlung des Ms. Vernon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         57 (1877): 241-316: 300-5.\n",
+            "folio": "ff. 208vb-209vc"
+        },
+        "BodAsh42": {
+            "First Lines": "\nIN antyoche be\u021donde \u00fee seA womane woned in a\n                    cite\u2026\n",
+            "Last Lines": "\n\u2026Come to \u00fei ioye \u00feat lastis ayeLorde lene vs grase\n                    \u00feat it so be Amen amen per charite\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 195v-202"
+        },
+        "CULGg531": {
+            "First Lines": "\nIn antioche be \u021donde \u00fee seA woman wond in o\n                    cite\u2026\n",
+            "Last Lines": "\n\u2026And so to lyf \u00feat we mayCome to \u00fee yoi \u00feat\n                    lastes ay\n",
+            "Note": "\nFormerly included as part of 2766.",
+            "folio": "ff. 130-133"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nIN Antioch bi \u021donde \u00fee seeA wommon woned in a\n                    Citee\u2026\n",
+            "Last Lines": "\n\u2026And so to lyue \u00feat we mayCome to \u00fee at vre endyng\n                    day. Amen\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 13rc-14rb"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nIn Antioche be \u021donde \u00fee seeA woman wonnyde in a\n                    Cite\u2026\n",
+            "Last Lines": "\n\u2026Lorde leue be grace \u00feat it swa beAmene Amene for\n                    charite\n",
+            "folio": "ff. 155v-162"
+        },
+        "BLHar2391": {
+            "First Lines": "\nIN Antioch be \u021dond \u00fee seA woman wond in a cyte\u2026\n",
+            "Last Lines": "\n\u2026lord len vs grace \u00feat it so beAmen Amen pur charite\n",
+            "Note": "\nEnds \u201cAmen.\u201d",
+            "Attributed Title": "\nDominica xvii (left margin, f. 216) with \u201cA tale\u201d written below",
+            "folio": "ff. 216-221"
+        },
+        "Lam260": {
+            "folio": "f. 55vb"
+        },
+        "HunHM129": {
+            "First Lines": "\nIn a contre be \u021dond \u00fee seA woman wonnyd in a\n                    cyte\u2026\n",
+            "Last Lines": "\n\u2026And so to lyue here \u00feat we mayCum to \u00fee at oure\n                    enynd day\n",
+            "Attributed Title": "\nnarracio (f. 168)",
+            "folio": "ff. 168-173"
+        },
+        "MinULZ822": {
+            "First Lines": "\nIn Anttyge be \u021donde \u00fee seA woman wonnede in a\n                    cyte\u2026\n",
+            "Last Lines": "\n\u2026ad swa to lyfe \u00feat we mayCome tyll \u00fee at oure\n                    endyng day\n",
+            "folio": "ff. 158v-164v"
+        }
+    }
+}

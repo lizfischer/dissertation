@@ -1,0 +1,70 @@
+{
+    "_id": 1981,
+    "_header": "Here is comen that no man wot",
+    "Subjects": "sermons, verse in; dialogues",
+    "Versification": "\u2014 two-line? \u2014 aa",
+    "Bibliographic Ghosts": "Oxford, Bodleian Library Laud misc. 568 (SC 1117), f. 43v",
+    "_description": "A dialogue in a Latin nemo joke with a Latin line between the two English lines \u2014 a couplet tag in the Fasciculus morum",
+    "_witnesses": {
+        "Bod187": {
+            "Transcription": "\nHer ys y come \u00feat no man wot he payth best for hys frawtrow\n                    forth \u00fee bote\n",
+            "folio": "f. 157v"
+        },
+        "BodRawC670": {
+            "Transcription": "\nHere is comen \u00feat no mon wot\u2026\u021de \u021de \u00fee\n                    deuel in \u00fey eye and row forthe \u00fee boot\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 167.\n",
+            "folio": "f. 64v"
+        },
+        "CamGon71": {
+            "Transcription": "\nhere is comen \u00feat noman woth\u00fee deuel in \u00fei nye rowe\n                    forth \u00fee both\n",
+            "Note": "\nSingle couplet, separated by Latin prose.",
+            "folio": "f. 45"
+        },
+        "CamGon364": {
+            "Transcription": "\nHere is come \u00feat mon wotThe deuyl in \u00feyn eye row forthe\n                    \u00fee bot\n",
+            "Note": "\nSingle couplet, separated by Latin prose.",
+            "folio": "f. 59ra"
+        },
+        "CamStJohn159": {
+            "Transcription": "\nHere is comen \u00feat no man wot\u00fee deuyl in \u00fei nee lat row\n                    forth bat\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 79"
+        },
+        "CantLitD14": {
+            "Transcription": "\nHere is one come \u00feat no man woteYe \u00fee deuyll in thyn eye\n                    Rowe forth the Boote\n",
+            "Note": "\nSingle couplet, separated by Latin prose. Written as prose.",
+            "folio": "f. 77"
+        },
+        "EDU82": {
+            "Transcription": "\nHere is come that noo man wooteye the deele in thyne ee and rowe\n                    forth the book\n",
+            "folio": "f. 78"
+        },
+        "Eton34": {
+            "Transcription": "\nhere is comyn \u00feat no mane woth\u00fee deuyl thyn eye row forthe\n                    the bothe\n",
+            "Note": "\nWritten as prose with Latin between the two lines; f. 139 of continuous\n                    foliation.",
+            "folio": "Part II, f. 36"
+        },
+        "Lincoln44": {
+            "Transcription": "\n\u021de \u00fee deuel in \u00feyne eye and rowe for\u00fee \u00fee\n                    bote\n",
+            "folio": "f. 185"
+        },
+        "Spalding": {
+            "Transcription": "\nHere is come that noman wate\u021de the deuyll in \u00fei nye rowe\n                    forth the bate\n",
+            "Note": "\nTwo lines separated by Latin prose; written as prose.",
+            "folio": "f. 69"
+        },
+        "WorcF19": {
+            "Transcription": "\nHere is comen \u00feat no man wot\u021de dew in \u00fey nye & row\n                    forth \u00fee both\n",
+            "Note": "\n1 x 2, separated, written as prose.",
+            "folio": "f. 186vb"
+        },
+        "WorcQ3": {
+            "Transcription": "\nHere is come \u00feat no man wote\u00fee deuell in \u00fee ney rowe\n                    for\u00fee \u00fee bote\n",
+            "Note": "\nSeparated, written as prose.",
+            "folio": "f. 70v"
+        },
+        "VaticanOtto": {
+            "folio": "f. 38v"
+        }
+    }
+}

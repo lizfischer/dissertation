@@ -1,0 +1,67 @@
+{
+    "_id": 4107,
+    "_header": "O ye folks that been hard-hearted as a stone",
+    "Note": "For MSS that lack the Prologue of five stanzas see 4105.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "Dance of Macabre",
+    "Subjects": "death, dance of; envoys",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate \u2018Dance of Macabre\u2019 \u2014 eighty-four 8-line stanzas and envoy",
+    "_witnesses": {
+        "BodSelSup53": {
+            "First Lines": "\nO \u021dee folkes harde hertid as a stoneWich to \u00fee worlde\n                    haue al \u021dour aduertence\u2026\n",
+            "Last Lines": "\n\u2026Of her tunge I haue no suffisaunceHer corious metris in\n                    englisshe to translate\n",
+            "Attributed Title": "\nHere endith the daunce of deeth (at the end)",
+            "Editions": "\n\nHammond,  Eleanor Prescott. \n             English Verse between Chaucer and Surrey.\n         Durham, NC: Duke UP, 1927: 131-42.\nGray,  Douglas. \n             The Oxford Book of Late Medieval Verse and Prose.\n         Oxford: Clarendon, 1985: 69-70.\n\n",
+            "folio": "ff. 148-158v"
+        },
+        "Bod221": {
+            "First Lines": "\nO \u021de folkys harde hertid as a stoneWhiche to \u00fee worlde\n                    haue all \u00feour aduertence\u2026\n",
+            "Last Lines": "\n\u2026Of here tunge I have no suffisaunceHere corious metres in\n                    englesshe to translate\n",
+            "Note": "\nSome of the folios damaged",
+            "folio": "ff. 53v-62"
+        },
+        "BodLauMis735": {
+            "First Lines": "\nO \u021de folkes hard hertid as AstoneWhich to \u00fee world have\n                    al \u021dour aduertence\u2026\n",
+            "Last Lines": "\n\u2026Off her tunge I have no suffisaunceHer corious metres in\n                    englisshe to translate\n",
+            "folio": "ff. 52-61"
+        },
+        "CamTCC601": {
+            "First Lines": "\nyE folkes harde hertyd as a stoneWhyche to the world haue your\n                    aduertenceLyke as hit shuld last euer in oneWhere ys your wytte where\n                    ys your prouydence\u2026\n",
+            "Last Lines": "\n\u2026Of o\u00feer tong I haue no suffysaunceHolde me excusyd my\n                    name ys Iohn Lydgate\n",
+            "Note": "\n88 stanzas plus 2-stanza envoy.",
+            "Attributed Author": "\ndan Iohn Lydgate Monke of Bury (f. 278vb); lidgate Of Bury\n                    (added b y two later hands, f. 284rb)",
+            "Attributed Title": "\nhEre foloweth the Prologe of the Daunce of Machabre translatyd by dan Iohn\n                    Lydgate Monke of Bury out of ffrensshe in to englyssh whyche now ys callyd the\n                    Daunce of Poulys (f. 278vb); This daunce of machabre is depeyntyd\n                    rychly at sent innocentes closter in parys in fraunce\u2026payntyd in \u00fee\n                    cloystur at \u00fee dispensys & request of Jankyn karpynter (f. added by\n                    sixteenth-century hand, f. 278vb)",
+            "folio": "ff. 278vb-284rb"
+        },
+        "BLHar116": {
+            "First Lines": "\nO ye folkes that bene harde harted as a stoneWhich to this world\n                    yeue all your aduertans\u2026\n",
+            "Last Lines": "\n\u2026Of \u00feer tonge I haue no suffisanceTheyere coryous metres\n                    in ynglyche to translate\n",
+            "Note": "\nThe last word in line 2, \u2018aduertans\u2019, was originally written\n                    ?\u2018aduersitas\u2019 and the scribe has traced darker letters to\n                    convert.",
+            "Attributed Title": "\nThe Davnce of Macabre (f. 129, by original scribe in rubric in upper\n                    margin); Explicit vt super (f. 140v)",
+            "folio": "ff. 129-140v"
+        },
+        "CovAcc3251": {
+            "First Lines": "\nO yee folkis harde herted as a stoneWhich to the worlde haue all\n                    your aduertence\u2026\n",
+            "Last Lines": "\n\u2026Of here tonge I haue noo suffisaunceHer corious meetres in\n                    englissh to translate\n",
+            "folio": "ff. 70rb-74vb"
+        },
+        "HunEL26A13": {
+            "First Lines": "\nO see folkes harde herted as a stoneWhich to the World haue al your\n                    aduertence\u2026\n",
+            "Last Lines": "\n\u2026Of her tunge I haue no suffisaunceHer corious metris In\n                    Inglissh to translate\n",
+            "Note": "\nIncludes envoy, two stanzas on f. 12v with heading,\n                        \u2018Lenvoye de translatoure\u2019.",
+            "Attributed Title": "\nVerba translatoris (f. 1)",
+            "Editions": "\nWarren,  Florence,  and  Beatrice White, eds.  \n             The Dance of Death.\nEETS\n         o.s. 181 (1931); repr. 1971: 2-76.\n",
+            "folio": "ff. 1-12v"
+        },
+        "RomeEC1306": {
+            "Note": "\nEighty-two stanzas; omits 7 and 52",
+            "folio": "f. 111v"
+        },
+        "YaleBei493": {
+            "First Lines": "\nO \u021de folkes hard hertid as a stoneWhich to \u00fee world have\n                    all \u021doure aduertence\u2026\n",
+            "Last Lines": "\n\u2026Off her tonge I have no suffisaunceHer corious metres in\n                    Englisshe to translate\n",
+            "folio": "ff. 51v-60v"
+        }
+    }
+}

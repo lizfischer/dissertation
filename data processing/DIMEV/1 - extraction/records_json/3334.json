@@ -1,0 +1,23 @@
+{
+    "_id": 3334,
+    "_header": "Man among thy mirths have in mind",
+    "Note": "For another metrical version, see 970",
+    "Subjects": "virtues; charity, sixteen points of",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "The XVI Points of Charity \u2014 fourteen 8-line stanzas",
+    "_witnesses": {
+        "CULIi639": {
+            "First Lines": "\nMan amongthi mir\u00fee \u00feis haue in myndeWhennes \u00feu cam\n                    & weder \u00feu tendis\u2026\n",
+            "Last Lines": "\n\u2026I ham not wor\u00fe to gon as longeas me want par\n                        charite\n\n",
+            "Note": "\nThree stanzas only, added to originally blank space at end of a text\n                        \u2018hugo de consciencia\u2019.",
+            "folio": "f. 157"
+        },
+        "Lam853": {
+            "First Lines": "\nMAn among \u00fei myr\u00feis haue in myndeffrom whens \u00feou\n                    come & whidir \u00feou teendisHow freelli \u00feou fallist & filist\n                    \u00fei kindeArise & make of \u00fei mys\n                    ameendis\u2026\n",
+            "Last Lines": "\n\u2026God \u00feat hast us oure lijf lentGraunte \u00feat we may\n                    oure silf to enserche & seAs \u00feou for us on roode were\n                    rent\u00deou chese us to \u00fee for charite AMEN\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Hymns to the Virgin and Christ\u2026and other religious poems.\nEETS\n         o.s. 24 (1867); repr. 1973: 114-17.\n",
+            "folio": "pp. 42-47"
+        }
+    }
+}

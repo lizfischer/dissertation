@@ -1,0 +1,25 @@
+{
+    "_id": 3285,
+    "_header": "Love that is poor it is with pine",
+    "Subjects": "love, nature of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "What Love is \u2014 four couplets (with \u2018Love\u2019 anaphora)",
+    "_witnesses": {
+        "PierpontAcc775": {
+            "First Lines": "\nLove \u00feat is powre it is with pynelove that is riche it is ethe\n                    forto tyn\u2026\n",
+            "Last Lines": "\n\u2026love that is false it will a wayelove that is trwe it\n                    lastythe aye\n",
+            "Note": "\nAdded by a hand of the sixteenth century to the Morgan copy of \n            Boethius, Boecius de consolacione philosophie, [Westminster: Printed by William\n            Caxton, 1478]  (ChL 1766a).",
+            "Editions": "\nB\u00fchler,  Kurt. \n             \u201cLibri Impressi cum notis Manuscriptis, Part I.\u201d \n             Modern Language Notes\n         53 (1938): 245-49: 246.\n",
+            "folio": "f. 94v"
+        },
+        "Banna": {
+            "First Lines": "\nLuve \u00feat is het can no skillLuve \u00feat is cald can be\n                    stillLuve \u00feat is peure wat mekle pyneLuve \u00feat is riche Is\n                    eith to tyne\u2026\n",
+            "Last Lines": "\n\u2026Luve \u00feat is trew Lestis ayLuve \u00feat is fals wenttis\n                    away\n",
+            "Note": "\nVariant.",
+            "Attributed Title": "\nOff Luve (f. 265)",
+            "Facsimiles": "\nFox,  Denton,  and  William A. Ringler.  \n             The Bannatyne Manuscript: National Library of Scotland Advocates\u2019\n                MS. 1.1.6\n         London: Scolar Press, in Association with The National Library of\n            Scotland, 1980. \n",
+            "Editions": "\n\nMurdoch,  James Barclay. \n             The Bannatyne Manuscript.\n             4 vols. in 11 parts, paged continuously. \n             Hunterian Club\n         16, 32, 40, 46, 50, 55-56, 64-67 Glasgow: Anderson, 1873-1896: 4.733.\nRitchie,  W. Tod,\n                        ed.  \n             The Bannatyne Manuscript.\n             4 parts in 4 vols. \n             Scottish Text Society\n         3rd ser. 5 (1928); n.s. 22 (1928); n.s. 23 (1930); n.s. 26 (1934)\n            Edinburgh and London: Blackwood, 1928-34; ed. by Ritchie et al: 4.40.\n\n",
+            "folio": "f. 265"
+        }
+    }
+}

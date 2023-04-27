@@ -1,0 +1,22 @@
+{
+    "_id": 2037,
+    "_header": "Hold up our young king Ave benigna",
+    "Subjects": "Henry VI, coronation; occasional verse; historical verse",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "On the Coronation of Henry VI (1429) \u2014 59 lines in couplets",
+    "_witnesses": {
+        "BLLan285": {
+            "First Lines": "\nHolde vp oure yong kyng Aue benignaAnd sende vs peas in oure londe.\n                    Aue Regina\u2026\n",
+            "Last Lines": "\n\u2026And god coomforth that mykill hath loostThat was woon with\n                    woorship late nevir be loost\n",
+            "Note": "\nA balade made of the same kynge (f. 5v)",
+            "folio": "ff. 5v-6v"
+        },
+        "PierpontM775": {
+            "First Lines": "\nHOlde vp oure yonge kynge aue benignaAnd sende vs pees in oure\n                    londe aue regina\u2026\n",
+            "Last Lines": "\n\u2026And good comforte that mekil hath losteThat was wonne with\n                    worschipe late neuer be loste\u2026\n",
+            "Note": "\n30 couplets; written for coronation of Henry VI.",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             Political Poems and Songs relating to English History, composed during\n                the period From the Accession of Edward III to that of Richard III.\n             2 vols. \n             Rolls Series\n         14 (1859, 1861); repr. Kraus, 1965: 2.146-8.\nArthur,  H.,\n                                viscount Dillon \n             \u201cOn a Manuscript Collection of Ordinances of Chivalry.\u201d \n             Archaeologia\n         57 (1900-01): 29-70: 55-7.\n\n",
+            "folio": "ff. 14-15"
+        }
+    }
+}

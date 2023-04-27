@@ -1,0 +1,40 @@
+{
+    "_id": 4669,
+    "_header": "Saint Luke says in this gospel",
+    "Note": "For other MSS see 4671.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Ninth Sunday after Trinity in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nSaynte luke saise in \u00feis gospell\u00feat criste to his\n                    dissiples gon tell\u2026\n",
+            "Last Lines": "\n\u2026God giue vs grace so here to liue\u00feat he in heuene oure\n                    mede vs giue\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 149-150v"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nSEynt luk telles in \u00feis godspelle\u00deat ihesu crist \u00feis\n                    tale gon telle\u2026\n",
+            "Last Lines": "\n\u2026\u00deat may ressayue vs in til heuene\u00dee whilk god vs\n                    graunte for his names seuene\n",
+            "Attributed Title": "\nDominica ixa post festum trinitatis secundum lucam (p.\n                    245)",
+            "folio": "pp. 245-248"
+        },
+        "CULGg531": {
+            "First Lines": "\nSayne luke says in our gospell\u00feat criste tyll hys disciples\n                    gun tellHow a riche man had a grayfeHis rentes leely to\n                    ressayfe\u2026\n",
+            "Last Lines": "\n\u2026Godd len vs grace swa here to lyffe\u00feat he in heuen oure\n                    mede vs gyffe\n",
+            "Attributed Title": "\n\u00feis es \u00fee gospell of \u00fee nynde sunday (f.\n                    103v)",
+            "folio": "ff. 103v-104v"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nSaint luke sais in \u00feis gospellThat crist to his dissiples gon\n                    tell\u2026\n",
+            "Last Lines": "\n\u2026God gife vs grace so here to lyueThat he in heuen oure mede\n                    vs gyue. Amen\n",
+            "folio": "ff. 111-112"
+        },
+        "BLCottTibEVII": {
+            "folio": "f. 214rb"
+        },
+        "Lam260": {
+            "folio": "f. 45ra"
+        }
+    }
+}

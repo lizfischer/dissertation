@@ -1,0 +1,45 @@
+{
+    "_id": 4271,
+    "_header": "On holy hills which beth of great renown",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Gloriosa Dicta sunt de Te\u2019",
+    "Subjects": "Virgin Mary, praise of",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, \u2018Gloriosa Dicta sunt de Te\u2019 (The Virgin Mary likened to the New Jerusalem) \u2014 twenty-nine 8-line stanzas (ababbcbc)",
+    "_witnesses": {
+        "CamTCC600": {
+            "First Lines": "\nOn hooly hilles wheeche beo\u00fee of gret RenounReysed on heght\n                    frome \u00fee valeys loweI saughe \u00fee grounde and \u00fee\n                    foundacionOf a Cyte aboue \u00fee Reynebow\u2026\n",
+            "Last Lines": "\n\u2026Whane we passe hens by mercy make vs dwelleWhere glory and\n                    thinges be sayde and song of \u00feee\n",
+            "Attributed Author": "\nLidegate daun Iohn \u00fee Munk of Bury (p. 1); Balade of oure ladye by\n                    Lidegate (added by later hand, p. 1)",
+            "Attributed Title": "\nLoo my freendes here beginne\u00fee \u00fee translacyoune out of latyne in\n                    to englisshe of Gloriosa dicta sunt de te & c. translated by Lidegate\n                    daun Iohn \u00fee Munk of Bury at \u00feinstaunce of \u00fee Busshop of excestre\n                    in Wyse of Balade beholde\u00fee and rede\u00fee I prey yowe (p. 1); a Devoute\n                    songe made by Lydegate Of oure Ladye (RT); Balade of oure ladye by Lidegate\n                    (added by later hand, p. 1)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 315-23.\n",
+            "folio": "pp. 1-8"
+        },
+        "BLHar2251": {
+            "First Lines": "\nIN holy hilles whiche bien of grete RenounReysed on heyght from the\n                    valeys lowe\u2026\n",
+            "Last Lines": "\n\u2026Whan we passe hens by mercy make vs dwelleWher glorious\n                    thynges bien sayde and song of the\n",
+            "folio": "f. 239-242v"
+        },
+        "BLHar2255": {
+            "First Lines": "\nOn hooly hillys moost famous of RenounReysed on heyghte from the\n                    Valeys lowe\u2026\n",
+            "Last Lines": "\n\u2026Whan we passe hens by mercy make vs dwelleTher gloryous\n                    thynges be seid and songe of the\n",
+            "Attributed Author": "\nExplicit quod lydgate (f. 139v, in margin)",
+            "folio": "ff. 135-139v"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nOn holly hylles whyche beoth of gret renounreysed on hyght from the\n                    vales lowe\u2026\n",
+            "Last Lines": "\n\u2026whan we passe hens by mercy make vs dwellwher gloriouse\n                    thynges be sayd and songe of the\n",
+            "Note": "\nEnds \u2018fines\u2019 (f. 149v).",
+            "Attributed Author": "\nlidgate dane Iohn the munke of bury (f. 146v)",
+            "Attributed Title": "\nLoo my frendes here beginneth the translacyoune out of latine in to\n                    engelyshe of gloriosa dicta sunt de te & translated by lidgate dane\n                    Iohn the munke of bury at thynstaunce of the bushope of excestre in wyse of a\n                    balade beholdeth and redethe I preye yow (f. 146v)",
+            "folio": "ff. 146v-149v"
+        },
+        "BLAdd34360": {
+            "First Lines": "\n[I?]N holy hillis whiche bien of grete RenounRysed on heyght from\n                    the valeys lowe\u2026\n",
+            "Last Lines": "\n\u2026And descende into thy tabernacleHow glorious thynges\n                        bien sunge and seyde of the\n\n",
+            "Note": "\nFollows a heading copied from Shirley; lines 1-40 only; lines 25-40\n                    crossed out with an \u2018X\u2019. Following recto and verso left blank and\n                    skipped in the modern foliation.",
+            "Attributed Title": "\nLo my freendis here bigynnyth the translacioun of of latyn / in\n                    to Inglyssh of Gloriosa dicta sunt de te & cetera Translated / by\n                    lidgate Dan Iohn Monke of Bury At the Instaunce of \u00fee / Bisshoppe of\n                    Exetere in Balade wise biholde and Rede I prey yow (f. 57)",
+            "folio": "ff. 57-57v"
+        }
+    }
+}

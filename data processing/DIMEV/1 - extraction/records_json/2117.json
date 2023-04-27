@@ -1,0 +1,20 @@
+{
+    "_id": 2117,
+    "_header": "I am he that will not flee",
+    "Subjects": "charity; mercy, works of; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "English couplet translating \u2018Ego sum illy quy non youlte fugere da mychi bacoulum par carytatye\u2019",
+    "_witnesses": {
+        "CULAdd3042": {
+            "Transcription": "\nI am he that wylnot sleGyfe me a stafe for charyte\n",
+            "Note": "\nFollowed by the Latin of which it is a translation; added by a\n                    fifteenth-century hand to a blank folio at the beginning of the\n                    volume.",
+            "folio": "f. 2v"
+        },
+        "CULEe228": {
+            "Transcription": "\nI am he that wyl not flyeGyue me a draffe ffor charytye\n",
+            "Note": "\nAdded to top margin; Robert Browne, scribe, f. 36.",
+            "Editions": "\nWenzel,  Siegfried. \n             \u201cUnrecorded Middle-English Verses.\u201d \n             Anglia\n         92 (1974): 55-78: 64.\n",
+            "folio": "f. 24"
+        }
+    }
+}

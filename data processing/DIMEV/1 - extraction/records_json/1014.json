@@ -1,0 +1,74 @@
+{
+    "_id": 1014,
+    "_header": "Christ that died upon the cross for salvation of mankind",
+    "Author(s)": "Richard Lavynham",
+    "Title(s)": "Litel Tretise",
+    "Subjects": "prayers, at time of death",
+    "Versification": "\u2014 monorhyme \u2014 aaa",
+    "Bibliographic Ghosts": "London, British Library Harley 1288: this verse item does not appear in this manuscript, as the initial 10 lines of the text are missing.",
+    "_description": "A prayer for grace at death, at the beginning of Lavynham\u2019s Tretis \u2014 three long monorhyming lines",
+    "_witnesses": {
+        "BodDou60": {
+            "Transcription": "\nCrist that dyed on the crosse for saluacioun of all man kyndegraunte\n                    vs grace so to eskape the sly askinges of the fendepat we be not y lost for\n                    oure syn in oure last ende\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 193"
+        },
+        "BodLauMis23": {
+            "Transcription": "\nCrist \u00feat deide for \u00fee saluacion of man kynde up on \u00fee\n                    crosgraunt vs grace to ascape \u00fee sli\u021de ensailing of \u00fee\n                    fend\u00deat we ne be na lost for synne at our laste ende\n",
+            "folio": "f. 23"
+        },
+        "BodRawC288": {
+            "Transcription": "\nCrist \u00feat deyde vp on \u00fee cros for saluacion of\n                    mankendeGraunte vs grace so to asskape \u00fee scleyty ensaylynges of\n                    \u00fee fend\u00feat we be nought for synne lorn in our laste\n                    ende\n",
+            "Note": "\nWritten as prose; not Oxford,  Bodleian Library Rawlinson C.85 (SC 12145), as listed in Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943.",
+            "folio": "f. 1"
+        },
+        "CULFf631": {
+            "Transcription": "\nCrist that deide up on \u00fee crois for the saluacion of\n                    mankyndeGraunte us grace so to esckape \u00fee sleigh assailing of the\n                    fende\u00deat we be not for synne lost in oure laste ende\n",
+            "folio": "Part II, f. 11"
+        },
+        "CamTCC305": {
+            "Transcription": "\nCryst \u00feat deyed on cros ffor saluacioun of mankendgraunt vs\n                    grace slyely to a skape the sly ensaunple of ffals ensaylyng of \u00fee\n                    fendethat we be not for sinne lost in owre last ende\n",
+            "Attributed Title": "\nA Treatise on the seven deadly sins (added by later hand, f. 243)",
+            "folio": "f. 243"
+        },
+        "BLHar211": {
+            "Transcription": "\nCRist \u00feat deyde vp on \u00fee crosse for sauacion of\n                    mankyndeGrawnt vs grace so to skapyn \u00fee sley ensaylinge of \u00fee\n                    fendeThat we be not for synne lost in owr last ende\n",
+            "Note": "\n\u2018Pryde\u2019 written as heading to this portion of\n                    Lavynham\u2019s treatise in upper margin of this folio (f. 35).",
+            "Attributed Author": "\nReuerendus Magister ffrater Ricardus Lauynham Ordinis Beatissime Dei\n                        Genitritis Marie De Mount Carnack (by scribe, red-highlighted, below end\n                    of Treatise, f. 46v)",
+            "Attributed Title": "\nExplicit Tractatus De Septem Peccatis Mortalibus Quem Composuit\n                        Reuerendus Magister ffrater Ricardus Lauynham Ordinis Beatissime Dei\n                        Genitritis Marie De Mount Carnack (by scribe, red-highlighted, below end\n                    of Treatise, f. 46v)",
+            "Editions": "\nZutphen,  Johannes P. W. M. van,  and  Julius Zupitza.  \n             A Litel Tretys by Lavenham.\n         Rome: Inst. Carmelitarum, 1956: 1.\n",
+            "folio": "f. 35"
+        },
+        "BLHar1197": {
+            "Transcription": "\nCRist \u00feat deyde vpon a cros for \u00fee sauacion of mankendegraunte vs grace so to astape \u00fee sly ensaylynges of \u00fee fende\u00feat we be nout for synne lost in oure laste ende\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 9"
+        },
+        "BLHar2383": {
+            "Transcription": "\n[C]Ryste that dyyd one the Rode tree to save makyndgraunte vs \u00fee\n                    blysse at owre last endyng Amen\n",
+            "Note": "\nWritten as prose. Space left for enlarged ornamental \u2018C\u2019,\n                    which was left blank.",
+            "folio": "f. 65"
+        },
+        "BLRoy8Ci": {
+            "folio": "f. 144"
+        },
+        "LeedsBro501": {
+            "Transcription": "\nCryst that deyde on \u00fee tre for redempcion of mankyndeGraunte vs\n                    grace to scape \u00fee sly Sleyghtis of the fendeThat we be not for senne\n                    lost at oure deth without ende\n",
+            "Attributed Title": "\nHere begynnyth a notabyll tretys of the seven dedly synnys & of her\n                    braunchis (f. 68)",
+            "folio": "f. 68"
+        },
+        "DrWilliamsAnc3": {
+            "Transcription": "\nCriste that dyed apon the crosse for the saluacuyon of mannes\n                    kyndegrawnte vs grace to skape \u00fee sly enseylynge of the fendeThat\n                    we be not for syn loste when we schall hense wende\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 133va"
+        },
+        "SocAnt687": {
+            "Transcription": "\nCrist \u00feat dyed vp on \u00fee cros for saluacioun of\n                    mankyndegraunte vs grace so to aschape \u00fee sly\u021de asskynges of\n                    \u00fee fende\u00feat we be not for synne loste in oure laste\n                    ende\n",
+            "folio": "p. 383"
+        },
+        "Norwich158926": {
+            "Transcription": "\nCrist \u00feat deyde on the tre for \u00fee sauacioun of\n                    mankendeGraunte vs grace for to skape the sleye fleyt of \u00fee\n                    fendeThat we be noch for synne lost at oure deth with outyn ende\n",
+            "folio": "f. 31"
+        }
+    }
+}

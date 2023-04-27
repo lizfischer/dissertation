@@ -1,0 +1,26 @@
+{
+    "_id": 4978,
+    "_header": "Some time in Greece that noble region",
+    "Author(s)": "Ausonius",
+    "Title(s)": "\u2018Septem Sapientium Sententiae\u2019",
+    "Subjects": "tales; wise men; wisdom",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Eight Goodly Questions (an expansion of part of \u2018Septem Sapientium Sententiae\u2019, by Ausonius) \u2014 nine stanzas rhyme royal",
+    "_witnesses": {
+        "CamTCC595": {
+            "First Lines": "\nSometyme in Grece that noble regionThere were eighte clerkis of\n                    greate sciencePhilosophers of notable discretionOf whom was asked to\n                    proue theire prudence\u2026\n",
+            "Last Lines": "\n\u2026Sayinge had I venged all myne harmeMy cloke had not be furrid\n                    half so warme\n",
+            "Attributed Title": "\nEighte goodlie questions with theire aunswers (f. 1)",
+            "folio": "ff. 1-2"
+        },
+        "Banna": {
+            "First Lines": "\nQuhylome in grece that nobill regiounThair dwelt awcht clerkis off\n                    grit science\u2026\n",
+            "Last Lines": "\n\u2026He thinkis not how wysmen said beforneGod sendis a thrawart\n                    cow a schort horne\n",
+            "Note": "\nSecond occurrence in MS.",
+            "Attributed Author": "\nffinis quod chawseir (f. 46v)",
+            "Facsimiles": "\nFox,  Denton,  and  William A. Ringler.  \n             The Bannatyne Manuscript: National Library of Scotland Advocates\u2019\n                MS. 1.1.6\n         London: Scolar Press, in Association with The National Library of\n            Scotland, 1980. \n",
+            "Editions": "\n\nMurdoch,  James Barclay. \n             The Bannatyne Manuscript.\n             4 vols. in 11 parts, paged continuously. \n             Hunterian Club\n         16, 32, 40, 46, 50, 55-56, 64-67 Glasgow: Anderson, 1873-1896: 2.123.\nRitchie,  W. Tod,\n                        ed.  \n             The Bannatyne Manuscript.\n             4 parts in 4 vols. \n             Scottish Text Society\n         3rd ser. 5 (1928); n.s. 22 (1928); n.s. 23 (1930); n.s. 26 (1934)\n            Edinburgh and London: Blackwood, 1928-34; ed. by Ritchie et al: 1.48-50; 2.113-15.\n\n",
+            "folio": "ff. 45v-46v"
+        }
+    }
+}

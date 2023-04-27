@@ -1,0 +1,29 @@
+{
+    "_id": 520,
+    "_header": "And I were a maiden / As many one is",
+    "Note": "For these and later MS copy, see Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 154; Thersites, pr. Dodsley, ed. Hazlitt (1877)\nXHazlitt, William Carew. Select Collection of Old English Plays. 15 vols. 4th ed. London: Reeves and Turner, 1874, 1877; orig. ed. Robert Dodsley , 1.405; for this tune indicated for a nativity carol, see 5074.",
+    "Subjects": "women, as speakers/narrators; love, vicissitudes of; laments; advice, moral",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "A girl\u2019s progress in love \u2014 three quatrains",
+    "_witnesses": {
+        "BodEngPoete1": {
+            "Note": "\nTitle only.",
+            "Editions": "\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 60; 1977, 50.\n",
+            "folio": "f. 54v"
+        },
+        "BLAdd31922": {
+            "First Lines": "\nAnd I war a maydyn as many one ys\u2026\n",
+            "Last Lines": "\n\u2026when I was come to the age of xv yereIn all this lond nowther fre nor bond me thought I had no pere\n",
+            "Note": "\nWords and notation repeated four times for five singing voices.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Additional MS 31922.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=2&ref=Add_MS_31922. \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts, Besonders aus der Zeit Heinrichs\n                VIII.\u201d \n             Anglia\n         12 (1889): 225-72, 585-97: 250.\nStevens,  John,\n                        ed.  \n             Music and Poetry in the Early Tudor Court.\n         London: Methuen, 1961: 42, 418-9.\nStevens,  John,\n                        ed.  \n             Music at the Court of Henry VIII.\nMusica Britannica\n         18. London: Stainer and Bell, 1962: 78-9.\n\n",
+            "folio": "ff. 106v-107"
+        },
+        "BLHar1317": {
+            "Transcription": "\nAnd I war a madyn as moni here isfor all the gold in this toune I\n                    wold not don a mise\n",
+            "Note": "\nFirst line only.",
+            "Editions": "\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 326; 1977, 302.\n",
+            "folio": "f. 94v"
+        }
+    }
+}

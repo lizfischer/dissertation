@@ -1,0 +1,21 @@
+{
+    "_id": 6357,
+    "_header": "When it was told to Jesu Christ",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Friday after the Octave of Epiphany, in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 128vb"
+        },
+        "BLHar4196": {
+            "First Lines": "\nWhen it was tald to ihesu criste\u00deat tane was Iohn \u00fee baptist\u2026\n",
+            "Last Lines": "\n\u2026\u00deus prechid criste \u00fee puple vntillWalkand in erth als was his will\n",
+            "Note": "\nPreceded by Latin, \u201cCum audisset ihesu crist quod iohannes.\u201d",
+            "Attributed Title": "\nfferia vi post octava Epiphanie secundum Marcum (rubric, f. 33ra)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): I.279-280.\n",
+            "folio": "ff. 33ra-33va"
+        }
+    }
+}

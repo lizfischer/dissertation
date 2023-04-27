@@ -1,0 +1,28 @@
+{
+    "_id": 3132,
+    "_header": "Little and mickle old and young / Listeneth now\u2026",
+    "Note": "For the Southern version see 2930.",
+    "Title(s)": "Octavian (Northern version)",
+    "Subjects": "romances",
+    "Versification": "\u2014 twelve-line, six-line \u2014 aabccbddbeeb, aabccb",
+    "_description": "Octavian (Northern version) \u2014 12-line stanzas (aabccbddbeeb)",
+    "_witnesses": {
+        "CULFf238": {
+            "First Lines": "\nLytyll & mykyll olde & yongeLystenyth now to my\n                    talkynge\u2026\n",
+            "Last Lines": "\n\u2026Graunt vs all thy blessyngAnd yn heuynto a byde\n",
+            "Note": "\n1731 lines.",
+            "Facsimiles": "\nMcSparran,  Frances,  and  Pamela R. Robinson.  \n             \u201cIntroduction.\u201d \n             Cambridge University Library MS Ff.2.38.\n         London: Scolar Press, 1979. \n",
+            "Editions": "\n\nSarrazin,  Gregor Ignatz,\n                        ed.  \n             Octavian; zwei mittelenglische Bearbeitungen der Sage.\nAltenglische Bibliothek\n         3. Heilbronn: Henninger, 1885. \nHalliwell-Phillipps,  James Orchard. \n             The Romance of Emperor Octavian: now first published from Mss at\n                Lincoln and Cambridge\nPercy Society\n         14. London: T. Richards, 1844. \nMcSparran,  Frances,\n                        ed.  \n             Octovian.\nEETS\n         o.s. 289 (1986): 76-178 (even pages).\n\n",
+            "folio": "ff. 90rb-102vb"
+        },
+        "Lincoln91": {
+            "First Lines": "\nMekyll and littill olde & \u021dyngeherkyns all to my\n                    talkynge\u2026\n",
+            "Last Lines": "\n\u2026Now Ihesu lorde of heuene kyngeThou gyffe vs alle thi dere\n                    blyssyngeAmen Amen par charyte Amen\n\n",
+            "Note": "\n1628 lines; a leaf wanting between ff. 102, 103; half of f. 108 torn\n                    away.",
+            "Attributed Title": "\nhere By gynnes The Romance off Octovyane (f. 98v)",
+            "Facsimiles": "\nBrewer,  Derek Stanley,  and  A. E. B. Owen.  \n             \u201cIntroduction.\u201d \n             The Thornton Manuscript (Lincoln Cathedral MS. 91).\n         London: Scolar Press, 1975. \n",
+            "Editions": "\n\nSarrazin,  Gregor Ignatz,\n                        ed.  \n             Octavian; zwei mittelenglische Bearbeitungen der Sage.\nAltenglische Bibliothek\n         3. Heilbronn: Henninger, 1885. \nMcSparran,  Frances,\n                        ed.  \n             Octovian.\nEETS\n         o.s. 289 (1986): 77-179 (odd pages).\nHudson,  Harriet,\n                        ed.  \n             Four Middle English\n                    Romances: Sir Isumbras, Octavian, Sir Eglamour of Artois, Sir\n                Tryamour.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1996. 2nd ed.\n            2006. \n\n",
+            "folio": "ff. 98va-109rb"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "_id": 3559,
+    "_header": "Most prudent prince of proved prevision",
+    "Subjects": "York; Henry VII; occasional verse; historical verse",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Address of Welcome to Henry VII at York (1486) at Ouse Bridge \u2014 in rhyme royal stanzas",
+    "_witnesses": {
+        "YorkCity6": {
+            "First Lines": "\nMost prudent prince of pruved previsionTheir premordiall princes of\n                    this principalitie\u2026\n",
+            "Last Lines": "\n\u2026Ye be avisid most worthi by graciouse affluenceSubmitting to\n                    your sufferaunt my septour of sapience\n",
+            "Note": "\nThree stanzas; \u2018Salomon\u2019 at top of f.\n                    16v.",
+            "Editions": "\n\nRaine,  James,\n                        ed.  \n             A Volume of English Miscellanies Illustrating the History and Language\n                of the Northern Counties of England.\nSurtees Society\n         85 (1890): 55-6.\nRaine,  Angelo,\n                        ed.  \n             York Civic Records.\n             Vol. 1. \n             Yorkshire Archaelogical Society, Records Series.\n         98 (1939): 157.\nSmith,  A. H. \n             \u201cA York Pageant, 1486.\u201d \n             London Medieval Studies\n         1 (1937-39): 382-98: 1.391-2.\n\n",
+            "folio": "ff. 16v-17"
+        },
+        "BLCottJulBXII": {
+            "First Lines": "\nMoost prudent prynce of provid previsionTher primordiall princes of\n                    this principalitie\u2026\n",
+            "Last Lines": "\n\u2026Of purede witt to your blood of great antiquitieThis your\n                    citie Is solacede to haue your soueraigntie\n",
+            "Note": "\n\u2018Salamon\u2019 written in the right margin (f. 11). Folio number\n                    reflects the most recent foliation.",
+            "Editions": "\nSmith,  A. H. \n             \u201cA York Pageant, 1486.\u201d \n             London Medieval Studies\n         1 (1937-39): 382-98: 1.391-2.\n",
+            "folio": "ff. 11-11v"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "_id": 1534,
+    "_header": "Go little book and submit the / Unto all them",
+    "Note": "Ringler Jr. (1988)\nXRingler Jr., William A. Bibliography and Index of English Verse Printed 1476-1558. London: Mansell, 1988, TP 470.5; followed by 6115 and 860.",
+    "Author(s)": "William Caxton",
+    "Title(s)": "Lyf of Our Lady",
+    "Subjects": "epilogues; Virgin Mary, life of; envoys",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Epilogue to Lyf of Our Lady (4080) by William Caxton \u2014 one stanza rhyme royal",
+    "_witnesses": {
+        "Chetham6709": {
+            "First Lines": "\nGoo lytyll Booke and submytte theVnto all them that the shall\n                    Reede\u2026\n",
+            "Last Lines": "\n\u2026And if owghte be doon to ther plesyngSaye they these balades\n                    here folowyng\n",
+            "Note": "\nCopied from Caxton.",
+            "folio": "f. 158"
+        }
+    }
+}

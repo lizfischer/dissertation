@@ -1,0 +1,21 @@
+{
+    "_id": 4686,
+    "_header": "Saint Luke us witness in this stead",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Tuesday after Easter in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 187va"
+        },
+        "BLHar4196": {
+            "First Lines": "\nSaint Luke vs wittnes in \u00feis stedeWhen ihesu crist was resin fra dede\u2026\n",
+            "Last Lines": "\n\u2026\u00feus sall \u021de to \u00fee pople sayWhen \u00feis was done he went away\n",
+            "Note": "\nPreceded by Latin, \u201cStetit ihesu crist in medio discipulorum.\u201d",
+            "Attributed Title": "\nfferia iii secundum Lucam (rubric, f. 89rb)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): II.184-186.\n",
+            "folio": "ff. 89rb-89va"
+        }
+    }
+}

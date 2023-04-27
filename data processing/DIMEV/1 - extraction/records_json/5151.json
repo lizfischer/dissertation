@@ -1,0 +1,75 @@
+{
+    "_id": 5151,
+    "_header": "That law hath no right",
+    "Subjects": "love, carnal, evils of; sermons, verse in",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The subversions effected by carnal love (4 lines), a tag in the Fasciculus morum",
+    "_witnesses": {
+        "Bod187": {
+            "Transcription": "\nLawe hath no re\u021dthStreng\u00fee hath no my\u021dhtWysdom ys\n                    folye& holynesse ys trecherye\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 202va"
+        },
+        "Bod410": {
+            "Transcription": "\n\u00feat law hath no ryght \u00feat strenth hath no\n                    myght\u00feat wysdom is folyeAnd holynes is trycherye\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 83"
+        },
+        "BodLauMis213": {
+            "Transcription": "\nThat lawe hath no ri\u021dth\u00feat strength hath no\n                    rygth\u00feat wysdome is folyeAnd holynes ys trichery\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 171v"
+        },
+        "BodLauMis568": {
+            "Transcription": "\n\u00feat lawe ha\u00fe non ryght\u00feat strenkyth ha\u00fe no\n                    myght\u00feat wysdom is folyAnd holinesse ys trechery\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 100vb"
+        },
+        "BodRawC670": {
+            "Transcription": "\nThat lawe hath noo ry\u021dte\u00deat [strength] hath no\n                    my\u021dt\u00deat wysdom is folyAnd holynysse is trechery\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 194.\n",
+            "folio": "ff. 138v-139"
+        },
+        "OxfCCC218": {
+            "Transcription": "\nThat lawe hath noo ry\u021dtestrength hath no my\u021dtwysdom is\n                    folyAnd holynesse is trechery\n",
+            "Note": "\nAdded to margin, marked for insertion.",
+            "Editions": "\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.525.\n",
+            "folio": "f. 200"
+        },
+        "CamGon71": {
+            "Transcription": "\n\u00feat lawe ne hath no ryth\u00feat stienkyt hath no\n                    myth\u00feat wysdom is foly\u00feat holynesse is trecchery\n",
+            "folio": "f. 86"
+        },
+        "CamGon364": {
+            "Transcription": "\n\u00feat strenght hath no my\u021dght\u00feat wysdam is\n                    foly\u00feat holynesse is trecherie\n",
+            "Note": "\nMissing usual first line; three lines interspersed with Latin\n                    prose.",
+            "folio": "f. 141va"
+        },
+        "CamStJohn159": {
+            "Transcription": "\n\u00deat law has no ryght\u00deat strenght hase no\n                    my\u021dt\u00deat wydom [sic] is folyAnd halynes\n                    trichery\n",
+            "Note": "\nWritten as verse.",
+            "folio": "f. 185"
+        },
+        "CantLitD14": {
+            "Note": "\nIncomplete; lines 2-4 only.",
+            "folio": "f. 208v"
+        },
+        "Lincoln44": {
+            "Transcription": "\n\u00feat lawe ha\u00fee no ry\u021dth\u00feat stren\u00fee ha\u00fee\n                    no my\u021dth\u00feat wysdom is folyAnd holynes is trechery\n",
+            "folio": "f. 233ra"
+        },
+        "Spalding": {
+            "Transcription": "\nThat lawe hase no ryghtStrength has no myghtthat wysdome is\n                    folyAnd holynes trechory\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 151"
+        },
+        "WorcF19": {
+            "Transcription": "\n\u00feat lawe nas non ry\u021dt\u00feat strenght hat non\n                    my\u021dt\u00feat wysdom ys no foleAn hele nisse trechere\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 223va"
+        },
+        "VaticanOtto": {
+            "folio": "f. 95"
+        }
+    }
+}

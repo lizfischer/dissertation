@@ -1,0 +1,28 @@
+{
+    "_id": 1863,
+    "_header": "He that heweth too high / The chips will fall in his eye",
+    "Note": "Cf. 683, 1039, and 5331, st. 3. Tilley (1950)\nXTilley, Morris Palmer. A Dictionary of the Proverbs in England in the 16th and 17th Centuries. Ann Arbor, MI: University of Michigan, 1950 C 354, C 357.",
+    "Subjects": "proverbs; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A proverbial couplet translating, \u2018Qui nimis alta secant hos quisqui[ ]e cito cecant\u2019",
+    "_witnesses": {
+        "BodDou52": {
+            "Transcription": "\nWho so hewyth to hye\u00feere falle chippis in his ye\n",
+            "Editions": "\nF\u00f6rster,  Max. \n             \u201cDie Mittelenglische Sprichw\u00f6rtersammlung in Douce 52.\u201d \n             Festschrift zum XII Deutschen Neuphilolgentage in M\u00fcnchen\n                1906.\n            E. Stollreither, ed. \n         Erlangen (1906): 40-64: 55.\n",
+            "folio": "f. 29v"
+        },
+        "OxfBal354": {
+            "Transcription": "\nHe that heweth to hye\u00fee chippis will fall in his ye\n",
+            "Note": "\nSecond occurrence in MS, in a collection of 55 proverbs in Latin and\n                    English, translating \u2018Qui nimis alte secant hos quisquile cito\n                        cecant\u2019, which follows.",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 132.\n",
+            "folio": "p. 42007"
+        },
+        "RylandsLat394": {
+            "Transcription": "\nWho heweth houer hye\u00feer fallus chippus in his\n                    y\u021de\n",
+            "Note": "\nWritten as one line, preceding the Latin.",
+            "Editions": "\nPantin,  William A. \n             \u201cA Medieval Collection of Latin and English Proverbs\u2026from Rylands\n                Latin MS. 394.\u201d \n             Bulletin of the John Rylands Library\n         14 (1930): 81-114: 107.\n",
+            "folio": "f. 21v"
+        }
+    }
+}

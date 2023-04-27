@@ -1,0 +1,26 @@
+{
+    "_id": 4401,
+    "_header": "Prick of Conscience this book is I-hote",
+    "Subjects": "epilogues",
+    "Versification": "\u2014 two-line, three-line \u2014 aa, aaa",
+    "_description": "Epilogue to The Pricke of Conscience \u2014 in couplets and triplets",
+    "_witnesses": {
+        "Lichfield50": {
+            "First Lines": "\nPrikke of conscience \u00feis bok is i hote\u00fee qweche ys\n                    underestondyng ofoure \u00fee bote\u2026\n",
+            "Last Lines": "\n\u2026In \u00feo \u021deris in \u00fee qweche we feyin mechil\n                    illeffor we havvvyn \u00feo nout at oure wisse\n",
+            "folio": "ff. 109v-110v"
+        },
+        "BodEngPoeta1": {
+            "Transcription": "\nPrikke of conciens hette \u00feis bookHose wole mai rede and\n                    look\n",
+            "Note": "\nVariant.",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 265rc1"
+        },
+        "BLAdd22283": {
+            "Transcription": "\nPrikke of conciens hette \u00feis bookWhoso wol mai rede &\n                    lookExplicit\n",
+            "Note": "\nVariant. These are the concluding lines of 423, which is followed by the prose\n                    \u2018\u00dee meditacion of Ihesu cristes fyue woundus\u2019, preceding the\n                        Pricke (5398).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 61ra"
+        }
+    }
+}

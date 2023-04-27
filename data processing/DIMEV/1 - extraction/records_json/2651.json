@@ -1,0 +1,66 @@
+{
+    "_id": 2651,
+    "_header": "In Tiberius time the true emperor",
+    "Note": "See 3107 for the metrical version.",
+    "Title(s)": "Sege of Ierusalem",
+    "Subjects": "romances",
+    "Versification": "\u2014 four-line, alliterative \u2014 unrhymed",
+    "_description": "The alliterative Sege of Ierusalem \u2014 1334 lines",
+    "_witnesses": {
+        "BodLauMis656": {
+            "First Lines": "\nIn tyberyns tyme \u00fee trewe emperourSire sesar hym sulf seysed\n                    in rome\u2026\n",
+            "Last Lines": "\n\u2026Wenten syngyng a way & han her wille foryred& hom\n                    riden to rome now rede ons oure bord\n",
+            "Attributed Title": "\nHic terminatur bellum Iudaiceum apud Ierusalem (f. 19)",
+            "Editions": "\n\nSteffler,  Gustav,\n                        ed.  \n             The Sege of Jerusalem: Nach dem Bodl. Ms. Laud F. 22.\n         Marburg: Elwertschle, 1891. \nK\u00f6lbing,  Eugen,  and  M. Day, eds.  \n             The Siege of Jerusalem, from Bodleian MS. Laud Misc. 656.\nEETS\n         o.s. 188 (1932); repr. 1988. \nTurville-Petre,  Thorlac. \n             Alliterative Poetry of the Later Middle Ages.\nRoutledge Medieval English Texts.\n         Washington: Catholic University of America Press, 1989: 161-9 (lines 521-724).\nLivingston,  Michael,\n                        ed.  \n             Siege of\n                    Jerusalem.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2004. \n\n",
+            "folio": "ff. 1v-19"
+        },
+        "CULMm514": {
+            "First Lines": "\nIN tyberius tyme that trewe emperourSire Cesar him self sesed in\n                    Rome\u2026\n",
+            "Last Lines": "\n\u2026Ihesu ioyne hem and vs with ioye in his blisseAnd to wele hem\n                    wysse that reden this geste\n",
+            "Attributed Title": "\nIncipit Destruccio de Jerusalem per Titum & Vespasianum (f.\n                    187)",
+            "folio": "ff. 187-206v"
+        },
+        "BlCottCalAII": {
+            "First Lines": "\nyn Tyberyus tyme \u00fee trewe EmperourSyr sesar hym self sesed in\n                    rome\u2026\n",
+            "Last Lines": "\n\u2026Ihesu Ioye hem & vs with Ioye in his blysseAnd to welthe\n                    hem wysse that wryten this geste\n\n",
+            "Note": "\nEnds \u2018Amen\u2019 at end of last line and \u2018Explicit\u2019\n                    in lower margin below.",
+            "Attributed Title": "\nThe Sege of Ierusalem (in upper margin, f. 111, and as RT running across\n                    verso-recto thereafter); A poeme the seeg of Ierusalem (f. 1, sixteenth-century\n                    list of contents)",
+            "folio": "ff. 111-125"
+        },
+        "BLCottVesEXVI": {
+            "First Lines": "\n\u2026Ouerloke euery lyne vnto \u00fee last endeBurdes werin borne adowne and \u00fee berin rises\u2026\n",
+            "Last Lines": "\n\u2026Wenten singyng away whanne \u00feey her wille haddynAnd home riden to Rome nowe rede vs oure lord\u2026\n",
+            "Note": "\nLines 1-957 wanting.",
+            "Attributed Title": "\nDestructio Ierusalem per Vispasianum & Titum (by scribe below last line (f. 75v)",
+            "folio": "ff. 70-75v"
+        },
+        "BLAdd31042": {
+            "First Lines": "\nIn tyberyus tyme that trewe EmperoureSir Cesare hym seluyn was sessede in Rome\u2026\n",
+            "Last Lines": "\n\u2026Wente syngande awaye and hase thaire wills forthirdeAnd rydis to Rome thare rede vs oure lorde\n",
+            "Note": "\nEnds, \u201cAmen Amen Amen.\u201d",
+            "Attributed Title": "\nHic Incipit Distruccio Ierusalem et vidicarunt mortem domini Ihesu Cristi. The Segge of Ierusalem. Off Tytus and Vaspasyane (f. 50); Explicit la sege de Ierusalem",
+            "folio": "ff. 50-66"
+        },
+        "ExeterDRO2507": {
+            "folio": "fragment"
+        },
+        "Lam491": {
+            "First Lines": "\nIN tyberies tyme the trewe EmperourSir Cesar hym self sesid in\n                    Rome\u2026\n",
+            "Last Lines": "\n\u2026Ihesu Ioyne hem and vs wi\u00fe ioy in his blysseThat wrote\n                    \u00feis geest to his wele he hym wisse\n",
+            "Attributed Title": "\nHere bygynnith \u00fee sege of Ierusalem (f. 206, rubric); \u00dee sege of\n                    Ierusalem (RT, rubric); Explicit \u00fee sege of Ierusalem (f. 227v,\n                    rubric)",
+            "folio": "ff. 206-227v"
+        },
+        "HunHM128": {
+            "First Lines": "\nIn tyberyes tyme the trewe emperowrSere cesar hym seluen seysyd in\n                    rome\u2026\n",
+            "Last Lines": "\n\u2026Wente synggyng awey & lefte woo thereAnd hool reedyn to\n                    rome yblessyd be god almy\u021dty\n",
+            "Attributed Title": "\nHere begynneth \u00fee seege of ierusaleem & how it was destroyed (f.\n                    205)",
+            "folio": "ff. 205-216"
+        },
+        "PULTayM11": {
+            "First Lines": "\nIN Tiberius tyme \u00fee trewe EmperoureWhenne Cesar hym seluyn was\n                    cesed in Rome\u2026\n",
+            "Last Lines": "\n\u2026ffelled of \u00fee fase [ ]Als bestes b[ ]\u00dean tit\n                    is [ ]Mas mason [ ]After profers \u00feaim [ ]When he [ ]Bot\n                    \u021done \u00fee [ ]And [ ]Says [ ]\u00dean [ ]G[\n                    ]My\u021dht [ ]ffor [ ]\u2026\n",
+            "Note": "\nEnds incomplete at end of volume; last page damaged by\n                    damp.",
+            "folio": "ff. 104vb-110vb"
+        }
+    }
+}

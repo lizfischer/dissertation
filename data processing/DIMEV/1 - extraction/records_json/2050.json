@@ -1,0 +1,37 @@
+{
+    "_id": 2050,
+    "_header": "Holy Writ sayeth which no thing is soother",
+    "Title(s)": "\u2018Amende me and peyre me nau\u021dt\u2019",
+    "Subjects": "carols, of religious counsel; counsel, religious",
+    "Versification": "\u2014 four-line, two-line \u2014 aaab",
+    "_description": "\u2018Amende me and peyre me nau\u021dt\u2019 \u2014 six quatrains (aaab) and burden: \u2018I pray yow all wyth o thowght / Amende me and peyre me nowght\u2019",
+    "_witnesses": {
+        "BodEngPoete1": {
+            "First Lines": "\nHoly wryt sayth no thyng is sother\u00feat no man shuld a peyre\n                    o\u00feer\u2026\n",
+            "Last Lines": "\n\u2026And in hevyn to se hys facewher al thyng a mend & peyer\n                    nov\u021dth\n",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             Songs and Carols from a manuscript\u2026of the Fifteenth\n                Century.\nPercy Society\n         23. London: Richards, 1847: 29-30.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 278.\n\n",
+            "folio": "ff. 24-24v"
+        },
+        "BodArcSelB26": {
+            "First Lines": "\nHoly Wryt sey\u021dt Whech no thyng ys sother\u00feat [ ] schuld\n                    \u00feeyre other\u2026\n",
+            "Last Lines": "\n\u2026In heuyn to se his glorious faceWher we shull amend &\n                    peyr nougth\n",
+            "Note": "\nDamaged by water, with some loss of text.",
+            "Facsimiles": "\nStainer,  Sir John, John Stainer,  C. Stainer,   and  Edward Williams Byron Nicholson.  \n             Early Bodleian music; sacred & secular songs, together with other\n                MS. compositions in the Bodleian Library, Oxford, ranging from about A.D. 1185 to\n                about A.D. 1505.\n         London, 1901; repr. Farnborough, Hants, England: Gregg, 1967: no. xli.\n",
+            "Editions": "\n\nStainer,  Sir John, John Stainer,  C. Stainer,   and  Edward Williams Byron Nicholson.  \n             Early Bodleian music; sacred & secular songs, together with other\n                MS. compositions in the Bodleian Library, Oxford, ranging from about A.D. 1185 to\n                about A.D. 1505.\n         London, 1901; repr. Farnborough, Hants, England: Gregg, 1967: 2.87-8.\nPadelford,  Frederick Morgan. \n             \u201cEnglish songs in manuscript Selden B.26.\u201d \n             Anglia\n         36 (1912): 79-115: 86.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 230-1; 1977, 205.\n\n",
+            "folio": "f. 5"
+        },
+        "BLAdd5665": {
+            "First Lines": "\nHoly wryt seyght whech nothyng ys sotherThat no man shuld apeyre\n                    other\u2026\n",
+            "Last Lines": "\n\u2026In hevyn to se his glorious faceWher we schull amend &\n                    pryr nougth\n",
+            "Note": "\n3 stanzas.",
+            "Editions": "\n\nFehr,  Bernhard. \n             \u201cDie Lieder der Hs. Add. 5665 (Ritson\u2019s Folio-MS).\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         106 (1901): 262-85: 271.\nStevens,  John,\n                        ed.  \n             Mediaeval Carols.\nMusica Britannica\n         4. London: Stainer and Bell, 1952, 2nd ed. 1958: 88, 53.\n\n",
+            "folio": "ff. 31v;  32"
+        },
+        "BLEge3307": {
+            "First Lines": "\nHoly wret se\u00fe no\u00feing ys sother\u00feat no man schuld\n                    apeir other\u2026\n",
+            "Last Lines": "\n\u2026In heuen \u00feer to se hys faceqwer we schall mend &\n                    peyr nogh\n",
+            "Editions": "\n\nStevens,  John,\n                        ed.  \n             Mediaeval Carols.\nMusica Britannica\n         4. London: Stainer and Bell, 1952, 2nd ed. 1958: 88, 53.\nGreene,  Richard Leighton,\n                        ed.  \n             A Selection of English Carols.\nClarendon Medieval and Tudor Series.\n         Oxford: Clarendon, 1962: 131.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 416-17.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon, 1977 (see\n            also Greene (1935)\nXGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977): 205-6.\n\n",
+            "folio": "f. 66v"
+        }
+    }
+}

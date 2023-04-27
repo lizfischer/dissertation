@@ -1,0 +1,43 @@
+{
+    "_id": 6419,
+    "_header": "When that I vow",
+    "Subjects": "proverbs; translations; sermons, verse in",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Two proverbial couplets, translating, \u2018Cum procor, est aurum cirothecis\u2026\u2019",
+    "_witnesses": {
+        "BodDou52": {
+            "Editions": "\nF\u00f6rster,  Max. \n             \u201cDie Mittelenglische Sprichw\u00f6rtersammlung in Douce 52.\u201d \n             Festschrift zum XII Deutschen Neuphilolgentage in M\u00fcnchen\n                1906.\n            E. Stollreither, ed. \n         Erlangen (1906): 40-64: 55.\n",
+            "folio": "f. 28"
+        },
+        "CULIi38": {
+            "Transcription": "\nWyle ihc \u00fee woueGolden \u00fei gloue & c[etera]\n",
+            "Note": "\nOne couplet only.",
+            "Editions": "\nStemmler,  Theo. \n             \u201cMore English Texts from MS. Cambridge University Library\n                Ii.III.8.\u201d \n             Anglia\n         93 (1975): 1-16: 3.\n",
+            "folio": "f. 6vb"
+        },
+        "CULKk424": {
+            "Transcription": "\nWhyle \u00feat y wowe gold yn my glouewhan y haue \u00feat y\n                    wylgoddes grame on \u00fey byl\n",
+            "folio": "f. 231"
+        },
+        "CamEmm27": {
+            "folio": "f. 57v"
+        },
+        "BLHar3823": {
+            "folio": "f. 354v"
+        },
+        "DurCathBI18": {
+            "Transcription": "\nto wyles hi \u00fee wochegold in \u00fei glouewen hi haue\n                    \u00feat hi wilegode greme hi \u00fei bile\n",
+            "Note": "\nWritten as prose, embedded in Latin prose Summa de vii viciis of\n                    Thomas Aquinas.",
+            "folio": "f. 116vb"
+        },
+        "RylandsLat394": {
+            "Transcription": "\nWhen \u00feat I wowegoold is in my glove I noweWhen I haue\n                    \u00feat I wyllgoddes grame on \u00fey bylle\n",
+            "Note": "\nWritten as two lines, trans. \u2018Cum procor est aurum cirotecis\n                        vndique staurum\u2026\u2019, which follows.",
+            "Editions": "\nPantin,  William A. \n             \u201cA Medieval Collection of Latin and English Proverbs\u2026from Rylands\n                Latin MS. 394.\u201d \n             Bulletin of the John Rylands Library\n         14 (1930): 81-114: 105.\n",
+            "folio": "f. 18"
+        },
+        "MaidstA13": {
+            "folio": ""
+        }
+    }
+}

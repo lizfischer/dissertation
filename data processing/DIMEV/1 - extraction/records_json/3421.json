@@ -1,0 +1,23 @@
+{
+    "_id": 3421,
+    "_header": "Mary Maiden Mother mild / That blissful Bairn in bosom bear",
+    "Title(s)": "Maiden Mary and her Fleur-de-Lys",
+    "Subjects": "Virgin Mary",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "Maiden Mary and her Fleur-de-Lys \u2014 seventeen 8-line stanzas, ababbcbc, with refrain, \u2018\u00fee fflourdelys\u2019",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nMArie Mayden Moder Mylde\u00deat blisful Bern in bosum\n                    beere\u2026\n",
+            "Last Lines": "\n\u2026Heuene blisse \u00feat we may wynneAnd wone \u00feer wi\u00fe\n                    \u00fei fflourdelys\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 711-15.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 181-5.\n\n",
+            "folio": "f. 410vb-410vc"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nMArie mayden moder myld\u00deat blisful bern in bosum\n                    beere\u2026\n",
+            "Last Lines": "\n\u2026Heue blisse \u00feat we may wynneAnd wone \u00feer\n                    wi\u00fe \u00fei flourdelys\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 132rb-132rc"
+        }
+    }
+}

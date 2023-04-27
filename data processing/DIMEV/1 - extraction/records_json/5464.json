@@ -1,0 +1,55 @@
+{
+    "_id": 5464,
+    "_header": "The sin of pride nis not in shroud",
+    "Subjects": "sermons, verse in; pride; sins, deadly",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Cambridge UK, St John\u2019s College F.22 (159)",
+    "_description": "The sin of pride, a proverbial tag in the Fasciculus morum",
+    "_witnesses": {
+        "BodLauMis111": {
+            "Transcription": "\n\u00fee synne of pride nys nouth in scrohudbut ys in herte \u00feat\n                    ys to proud\n",
+            "Note": "\nWritten as verse with rubric rhyme markers to right.",
+            "folio": "f. 51"
+        },
+        "BodRawC670": {
+            "Transcription": "\nThe synne of pryde nys no\u021dt in schroudBut in herte \u00feat is\n                    to proude\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 137.\n",
+            "folio": "f. 9"
+        },
+        "OxfLinLat52": {
+            "Transcription": "\n\u00dee synne of pride is nou\u021dt in schroudebut it is in hert\n                    \u00feat is to proudelet \u00fei hert helden& it sall be\n                    lykynqwath henynnyng\n",
+            "Attributed Author": "\nqwath henynnyng (f. 2va)",
+            "folio": "f. 2va"
+        },
+        "CamGon71": {
+            "Transcription": "\n\u00dee syn of pride ys noght in schorudit ys in herth \u00feat ys to\n                    prudelat \u00fei hert helde & \u00fee schal leke\n",
+            "Attributed Author": "\nquod Endyng (f. 14)",
+            "folio": "f. 14"
+        },
+        "CamGon364": {
+            "Transcription": "\n\u00dee synne of pride is nogth in schroudebut it is in herthe\n                    \u00feat is to prowdelet \u00fei herte heldyn& it schal \u00fee\n                    lykyn without endyng\n",
+            "Note": "\nErasure under \u2018without endyng\u2019; these words are squeezed in,\n                    so probably initially \u2018quod hendyng\u2019.",
+            "folio": "f. 2vb"
+        },
+        "EDU82": {
+            "Transcription": "\nThe synne of pryde is no\u021dth in shroudebut in hert \u00feat is to\n                    prowdeLett thy hert \u021delde an hit schal the lyke quod\n                    hendyng\n",
+            "Attributed Author": "\nquod hendyng (f. 6v)",
+            "folio": "f. 6v"
+        },
+        "Lincoln44": {
+            "Transcription": "\n\u00fei synne of pryde is no\u021dt in stroweBot is in hert \u00feat\n                    is so to prowlete \u00fei herte holde& hit \u00fee wolde lyk quod\n                    hyndyng\n",
+            "Note": "\nWritten as prose.",
+            "Attributed Author": "\nquod hyndyng (f. 157ra)",
+            "folio": "f. 157ra"
+        },
+        "Spalding": {
+            "Transcription": "\nThe syn of pryde is no\u021dt in schoudebot is in hert \u00feat is to\n                    proudeyiue hert heldand it sal \u00fee lyke and beld\n",
+            "Note": "\nWith additional couplet; written as prose.",
+            "folio": "f. 3v"
+        },
+        "VaticanOtto": {
+            "Editions": "\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 2.6.\n",
+            "folio": "f. 2"
+        }
+    }
+}

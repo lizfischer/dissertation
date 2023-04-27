@@ -1,0 +1,39 @@
+{
+    "_id": 667,
+    "_header": "As reason ruled my reckless mind",
+    "Title(s)": "\u2018Filius regis mortuus est\u2019",
+    "Subjects": "Virgin Mary, lament of; laments",
+    "Versification": "\u2014 twelve-line \u2014 ababababbcbc",
+    "Macaronic": "Latin",
+    "_description": "\u2018Filius regis mortuus est\u2019, the lament of the Virgin Mary \u2014 twelve 12-line stanzas",
+    "_witnesses": {
+        "BodDou78": {
+            "First Lines": "\nAs Reson Rywlyde my Rechyles myndeby wayes & wyldernes as y\n                    hadde wente\u2026\n",
+            "Last Lines": "\n\u2026\u00feou schalte se \u00fei swete son and sayffilius\n                        Regis is a lyve et non mortuus est\n\n",
+            "Note": "\n9 stanzas.",
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 8-13.\n",
+            "folio": "ff. 3-5"
+        },
+        "BodRawC86": {
+            "First Lines": "\nAs Ihesu rewlith myn reccheles myndeBe A wode wylde therby as I\n                    went\u2026\n",
+            "Last Lines": "\n\u2026heuyn blisse shalbe \u021dour solaceThat filius Regis\n                        mortuus est\n\n",
+            "Note": "\nEleven stanzas.",
+            "folio": "ff. 74v-76v"
+        },
+        "BLHar3954": {
+            "First Lines": "\nas reson hathe rulyd my recles myndeBe a wey wandryng as I went\u2026\n",
+            "Last Lines": "\n\u2026\u00fee fende of mankende had gret trystThere lost he his cause \u00feat lekid hym illeWhan filius regis mortuus est\n",
+            "Attributed Title": "\nExplicit ffilius Regis (below last line, f. 91v)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 3954.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_3954. \n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Political, Religious and Love Poems, from Lambeth MS. 306 and other\n                sources.\nEETS\n         o.s. 15 (1866); repr. 1962; rev. ed. 1903: 233-42.\n",
+            "folio": "ff. 90-91v"
+        },
+        "Lam853": {
+            "First Lines": "\nAs resoun rewlid my richelees myndeBi wielde waies as y hadd\n                    wentA solempne citee me fortuned to fyndeTo turne \u00feerto was myne\n                    entent\u2026\n",
+            "Last Lines": "\n\u2026If ony man loue me leue me a plaseWhere y may wepe my fille\n                    & resteAnd my sone wole graunte him sum \u00feat he hasffilius\n                    regis mortuus est\n",
+            "Note": "\nWritten as prose. Quire [6] is bound before Quire [5], which page\n                    numbering takes into account.",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Political, Religious and Love Poems, from Lambeth MS. 306 and other\n                sources.\nEETS\n         o.s. 15 (1866); repr. 1962; rev. ed. 1903: 233-42.\n",
+            "folio": "pp. 74-81"
+        }
+    }
+}

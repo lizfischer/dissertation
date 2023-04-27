@@ -1,0 +1,27 @@
+{
+    "_id": 5158,
+    "_header": "That many hardy knight of great renown",
+    "Note": "The Scottish prose version by Hay, cited in Brown and Robbins (1943)\nXCarleton Fairchild Brown, and Rossell Hope Robbins. The Index of Middle English Verse. New York: Printed for the Index Society by Columbia University Press, 1943 *55, apparently does not exist.",
+    "Author(s)": "Gilbert Hay",
+    "Title(s)": "Buik of Alexander",
+    "Subjects": "romances",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "London, British Library Addit. 41063 (v) [olim Taymouth Castle]: see 5158-1 below.",
+    "_description": "Gilbert Hay, Buik of Alexander \u2014 approximately 20,000 lines in couplets",
+    "_witnesses": {
+        "BLAdd40732": {
+            "First Lines": "\nThat mony hardie knyght of gret renounInto the feild war slane and\n                    strikin doun\u2026\n",
+            "Last Lines": "\n\u2026I pray to thame to pray to hevinis kingTo grant ws grace to\n                    make ane guide ending\n",
+            "Attributed Title": "\nHeir endis the buike off king allexander the conqueroure (f. 282)",
+            "Editions": "\n\nHerrmann,  Albert,\n                        ed.  \n             The Taymouth Castle Manuscript of Sir Gilbert Hay\u2019s \u201cThe\n                Buik of King Alexander the Conqueror\u201d.\n         R. Gaertners Verlagsbuchhandlung: Berlin, 1898. \nRitchie,  Robert Lindsay Graeme,\n                        ed.  \n             The Buik of Alexander.\n             4 vols. \n             Scottish Text Society\n         n.s. 12 (1925), 17 (1921), 21 (1927), 25 (1929) Edinburgh, London:\n            Blackwood, 1921-29. \n\n",
+            "folio": "ff. 1-282"
+        },
+        "EDSROGD112": {
+            "First Lines": "\n\u2026That mony hardie knycht of gret renouneInto the feild var\n                    slaine and strikin doune\u2026\n",
+            "Last Lines": "\n\u2026I pray to thame to pray to havinis kingTo grant vs grace to\n                    mak ane guid ending\n",
+            "Attributed Title": "\nheir endis the buik of king Alexander \u00fee conquerour (p. 457)",
+            "Editions": "\n\nExtracts from the Buike of King Alexander the Conquerour, a MS. in the\n                Library of Taymouth Castle, 1831.\n         Bannatyne Club, 1834: (NB: Herrmann (1898)\nXHerrmann,  Albert. \n             The Taymouth Castle Manuscript of Sir Gilbert Hay\u2019s \u201cThe\n                Buik of King Alexander the Conqueror\u201d.\n         R. Gaertners Verlagsbuchhandlung: Berlin, 1898 questions the\n                        accuracy of this citation.).\n",
+            "folio": "pp. 1-457"
+        }
+    }
+}

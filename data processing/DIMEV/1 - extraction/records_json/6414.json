@@ -1,0 +1,445 @@
+{
+    "_id": 6414,
+    "_header": "When that April with his showers soot",
+    "Note": "For individual [verse] Tales and links see: the General Prologue\n(6415), Knight\u2019s Tale\n(6530), Miller\u2019s Prologue\n(6427), Miller\u2019s Tale\n(6537), Reeve\u2019s Prologue\n(6307), Reeve\u2019s Tale\n(724), Cook\u2019s Prologue\n(5238), Cook\u2019s Tale\n(145), Introduction to the Man of Law\u2019s Tale\n(4315), Man of Law\u2019s Prologue\n(3929), Man of Law\u2019s Tale\n(2587), \u2018Man of Law\u2019s Endlink\u2019 (4316), Wife of Bath\u2019s Prologue\n(1242), Wife of Bath\u2019s Tale\n(2618), Friar\u2019s Prologue\n(5802), Friar\u2019s Tale\n(6536), Summoner\u2019s Prologue\n(5756), Summoner\u2019s Tale\n3255, Clerk\u2019s Prologue\n(4860), Clerk\u2019s Tale\n(5573), \u2018Clerk\u2019s Endlink\u2019 (5801), Merchant\u2019s Prologue\n(6185), Merchant\u2019s Tale\n(6535), \u2018Merchant\u2019s Endlink\u2019 (745), \u2018Squire\u2019s Headlink\u2019 (5024), Squire\u2019s Tale\n(725), \u2018Squire-Franklin link\u2019 (2499), Franklin\u2019s Prologue\n(5617), Franklin\u2019s Tale\n(2476), Physician\u2019s Tale\n(5599), \u2018Physician-Pardoner link\u2019 (4314), Pardoner\u2019s Prologue\n(3251), Pardoner\u2019s Tale\n(2502), Shipman\u2019s Tale\n(120), \u2018Shipman-Prioress link\u2019 (6206), Prioress\u2019s Prologue\n(3970), Prioress\u2019s Tale\n(5601), Prologue to Sir Thopas\n(6401), Sir Thopas\n(3097), \u2018Thopas-Melibee link\u2019 (3700), Monk\u2019s Prologue\n(6295), Monk\u2019s Tale\n(2316), Nun\u2019s Priest\u2019s Prologue\n(2033), Nun\u2019s Priest\u2019s Tale\n(142), \u2018Nun\u2019s Priest\u2019s Epilogue\u2019 (4870), Prologue of the Second Nun\u2019s Tale\n(5405), Second Nun\u2019s Tale\n(5729.4), Canon\u2019s Yeoman\u2019s Prologue\n(6296), Canon\u2019s Yeoman\u2019s Tale\n(6753), Manciple\u2019s Prologue\n(6711), Manciple\u2019s Tale\n(6390), Parson\u2019s Prologue\n(941); for the Tale of Gamelyn, see 3090. For the Tale of Beryn, see 6270. For two texts sometimes referred to as the Plowman\u2019s Tale, see 5277 and 6603. For an edition based on San Marino, CA, Henry Huntington Library EL 26.C.9 [\u2018Ellesmere\u2019], but that incorporates numerous readings from other MSS, see Benson (1987)\nXBenson, Larry Dean. The Riverside Chaucer. 3rd ed. Boston: Houghton Mifflin, 1987, 123-328.",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the Canterbury Tales \u2014 ten fragments in various rhyme schemes; Prologue, frame, and most tales in couplets.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nWhan that Apprill with his shouris sooteThe drought of Marche hath\n                    pershid to the roote\u2026\n",
+            "Last Lines": "\n\u2026beth fructuous & that in litel spaceand to do wel god\n                    send yow his grace\n",
+            "Note": "\nEnds X.1086. Verse ends f. 268.",
+            "Attributed Title": "\nHere bigynneth the prolog of this book the which is namede the talis of\n                    Caunturbury in the whiche prolog thauthour openly declarith the names of alle\n                    the pilgremes there condiciouns & there array (f. 4)",
+            "folio": "ff. 4-309v"
+        },
+        "BodBar20": {
+            "First Lines": "\n\u2026That swiche a lewed mannes witte shal paceThe wisdom of an\n                    hepe of lerned men\u2026\n",
+            "Last Lines": "\n\u2026W[her?]so \u00feou come among high or loweKe[pe?] wel \u00fey\n                    tong and \u00feenke vpon \u00fee crowe\n",
+            "Note": "\nI.574-IX.362.",
+            "folio": "ff. 1-260"
+        },
+        "Bod414": {
+            "First Lines": "\nWhan that April with his shouris soteThe drought of March hath\n                    percid to \u00fee Rote\u2026\n",
+            "Last Lines": "\n\u2026Beth fructuous and that in litle spaceAnd to do wele god send\n                    you his grace\n",
+            "folio": "ff. 1-185"
+        },
+        "Bod686": {
+            "First Lines": "\nWhan that april with his showres swoteThe drouth of March hath\n                    perced the rote\u2026\n",
+            "Last Lines": "\n\u2026In which into \u00feis day in noble wyseMen don to Crist and\n                    to his seint seruise\n",
+            "Note": "\nIncomplete; ends with the Second Nun\u2019s Tale.",
+            "folio": "ff. 1-184v"
+        },
+        "BodDoud4": {
+            "First Lines": "\n\u2026\u00de had bot lytell golde in coffreBut all \u00feat he\n                    myght of his frendys hente\u2026\n",
+            "Last Lines": "\nBut alle with siluer wrought full clene and wellTheire girdelis and\n                    theire pouchis euerydeell\n",
+            "Note": "\nA single leaf: I.298-368.",
+            "folio": ""
+        },
+        "BodHatDon1": {
+            "First Lines": "\nWhan that Aprill with his showres swoteThe drought of Marche hath\n                    perced \u00fee rote\u2026\n",
+            "Last Lines": "\n\u2026Beth fructuose and that litul spaceAnd to done wele god sende\n                    yow his grace\n",
+            "Note": "\nVerse ends on f. 229.",
+            "folio": "ff. 1-257v"
+        },
+        "BodLauMis600": {
+            "First Lines": "\nThat in hir cuppe was no ferthing\n                    seene\u2026\n",
+            "Last Lines": "\n\u2026Beth fructuous and \u00feat in litil spaceAnd to do wel god\n                    sende you grace\n",
+            "Note": "\nI.134-X.916. Verse ends [269]v.",
+            "folio": "ff. 4-304v"
+        },
+        "BodLauMis739": {
+            "First Lines": "\n[W]hanne that aueryll wyth hys schoures soteThe droghte of marche\n                    had perced vnto rote\u2026\n",
+            "Last Lines": "\n\u2026ffull strong hit was of plateAnd ouer that his cote\n                    armure\n",
+            "Note": "\nEnds VII.866.",
+            "folio": "ff. 1-239v"
+        },
+        "BodRawPoe141": {
+            "First Lines": "\nBi ordynaunce thrugh out the cyte largeHonged with cloth of gold\n                    & not with sarge\u2026\n",
+            "Last Lines": "\n\u2026Now had this Phebus in his hous a wyfWheche that he loued\n                    more than his lyf\n",
+            "Note": "\nContains I.2567-IX.140. Catchwords on p. 436: \u2018And nyght &\n                    day\u2019.",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Clerk\u2019s Tale, a Six-Text Print from 6 MSS not containing the\n                Pardoner\u2019s Tale.\nThe Chaucer Society\n         Series 1, no. 92. London: Tr\u00fcbner, 1899. \n",
+            "folio": "pp. 1-436"
+        },
+        "BodRawPoe149": {
+            "First Lines": "\nOlde ypocras holy and galyeneSerapion rafi and\n                    auysene\u2026\n",
+            "Last Lines": "\n\u2026Bethe fructuouse and that in litil spaceAnd to do wel god\n                    sende yow his grace\n",
+            "Note": "\nI.431-X.1092. Verse ends on f. 122. On f. 136v is the\n                    colophon: \u2018Expliciunt fabula script[us?] per snnevets mlliW\u2019\n                    (mirror writing for William Stevenns.",
+            "folio": "ff. 1-136v"
+        },
+        "BodRawPoe223": {
+            "First Lines": "\nThere as this lord was keper of the selleThe rule of seint Maure or\n                    of seint Beneit\u2026\n",
+            "Last Lines": "\n\u2026Beth fructuous and that in litil spaceAnd to do wel god send\n                    you his grace\n",
+            "Note": "\nBegins I.172. Verse ends f. 232.",
+            "folio": "ff. 1-270"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nWhan that Auerell with his shoures sooteThe droght of Marche hath\n                    perced to the roote\u2026\n",
+            "Last Lines": "\n\u2026Beeth fructious and that in litel spaceAnd to do wele god\n                    send yow his grace\n",
+            "Note": "\nMissing VIII.627-719; X.887-943; X.1044-1092 due to loss of leaves.\n                    Verse ends on f. 249v.",
+            "folio": "ff. 2-276v"
+        },
+        "OxfCCC198": {
+            "First Lines": "\n\u2026ffor to telle \u021dow of his arrayhis hors were goode but\n                    he was not gay\u2026\n",
+            "Last Lines": "\n\u2026That I wol stonde to correcciounvppon \u00feis word we han\n                    assented sone\n",
+            "Note": "\nBegins I.73; ends X.290.",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "ff. 2-266v"
+        },
+        "OxfNew314": {
+            "First Lines": "\n\u2026fforto be wise in byinge of vitailffor whe\u00feir he paide\n                    or took be tailAlgate he waitid so on his acateThat he was ay before\n                    & in good state\u2026\n",
+            "Last Lines": "\n\u2026Beth fructuos and \u00feat in litil spaceAnd to do wel god\n                    sende you his grace\n",
+            "Note": "\nTwo leaves missing at beginning, so begins I.569; verse ends\n                        265v; prose ends 311v.",
+            "Attributed Author": "\nExplicit tractatus Galfridi Chaucer\u2026 (f.\n                    311v)",
+            "Attributed Title": "\nExplicit tractatus Galfridi Chaucer de gestis peregrinorum versus\n                        Cantuarium (f. 311v)",
+            "folio": "ff. 2-265v"
+        },
+        "OxfTri49": {
+            "First Lines": "\nWhen that Aperil with his shouris swotethe drought of Marche hath\n                    percid the rote\u2026\n",
+            "Last Lines": "\n\u2026bithe fructuous and that in litil spaceand to do well god\n                    sende you his grace\n",
+            "Note": "\nVerse ends on f. 262v.",
+            "folio": "ff. 1v-295v"
+        },
+        "CULDd424": {
+            "First Lines": "\n\u2026though a wydewe had nou\u021dt a shooSo plesant was his In\n                    Principio\u021cet wold he haue a ferthyng or he wentHis purchas was\n                    wel betir than his rent\u2026\n",
+            "Last Lines": "\n\u2026Of watres corosif and of lymailAnd of bodies\n                    mollificacionAnd also of here induracion\u2026\n",
+            "Note": "\nI.253-VIII.855. The scribe writes \u2018Quod  Wytton\u2019 and \u2018Amen quod Wytton\u2019 at the ends of the\n                        Knight\u2019s Tale, Miller\u2019s Tale, Man of\n                        Law\u2019s Tale, and Summoner\u2019s Tale (ff. 39, fol. 47, 67,\n                    and 92).",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 6-205v"
+        },
+        "CULGg427": {
+            "First Lines": "\n\u2026Me thynketh it acordaunt to resounTo telle \u021dow al the\n                        conchusyoun\ncondition\u2026\n",
+            "Last Lines": "\n\u2026Or art a Persoun sey soth by thyn feyBe what thow be ne breke\n                    thow nat oure pley\u2026\n",
+            "Note": "\nFolios 127-131 missing so begins imperfectly; these supplied by two\n                        17th-century hands copying from Speght\u2019s 1598 edition onto\n                    folios 10-28v; verse ends 398v but prose ends\n                        443v with \u2018here takyt the makere of this bok his\n                    leue.\u2019 Begins I.37.",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "Editions": "\nFurnivall,  Frederick James. \n             The Cambridge MS (University Library, Gg.4.27) of Chaucer\u2019s\n                Canterbury Tales.\nChaucer Society\n         Series 1, nos. 4, 10, 17, 28, 33, 40, 52, 66. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 132-443v"
+        },
+        "CULIi326": {
+            "First Lines": "\n\u2026And euermore he hadde the souereyn prisAnd though that he\n                    was war he was wise\u2026\n",
+            "Last Lines": "\n\u2026Bethe fructuouse and that in litle spaceAnd forto do wele god\n                    sende vs grace\n",
+            "Note": "\nBegins I.67, and missing text supplied by a later hand in top nad right\n                    margin of f. 2; verse ends f. 224, prose ends f. 237.",
+            "Attributed Author": "\nExplicit Liber Galfridi Chawcer de gestis Peregrinorum versus\n                        Cantuarium (f. 237)",
+            "Attributed Title": "\nExplicit Liber Galfridi Chawcer de gestis Peregrinorum versus\n                        Cantuarium (f. 237)",
+            "folio": "ff. 2-237"
+        },
+        "CULMm25": {
+            "First Lines": "\n\u2026Syngynge he was or floytynge alle \u00fee dayeHe was as\n                    fresshe as is \u00fee moneth of Maye\u2026\n",
+            "Last Lines": "\n\u2026Beeth fructuous and \u00feat in litell spaceAnd to do wele\n                    god sende us his grace\n",
+            "Note": "\nBegins I.91.",
+            "folio": "ff. 1-252v"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[W]Han that Aprile with his schoures sooteThe drouthe of marche\n                    hathe persed \u00fee rote\u2026\n",
+            "Last Lines": "\n\u2026Telle quod he your meditacounAnd hasteth you \u00fee sonne\n                    goth a doun\n",
+            "Note": "\nVerse ends on f. 267v at X.70, with a catchphrase for the\n                    first line of the Parson\u2019s Tale.",
+            "Attributed Author": "\nHere bigynneth the Talys of Caunterbiry / Compiled by Geffrei Chaucers (f.\n                    1)",
+            "Attributed Title": "\nHere bigynneth the Talys of Caunterbiry / Compiled by Geffrei Chaucers (f.\n                    1)",
+            "folio": "ff. 2-304"
+        },
+        "CamTCC582": {
+            "First Lines": "\nWhan that Aprille with his shoures sooteThe drou\u021dt of Marche\n                    hath perced to the rooteAnd bathed eueri veyne in such licoureOf wich\n                    vertu engendred is the floure\u2026\n",
+            "Last Lines": "\n\u2026Beth fructuous and that in litil spaceAnd to do well god\n                    sende you his grace\n",
+            "Note": "\nEnds X.880. Verse ends. on f. 118.",
+            "folio": "ff. 1-130v"
+        },
+        "CamTCC595": {
+            "First Lines": "\n\u2026In granade at the siege eke had he beIn algreth had he ryden\n                    and in belmarye\u2026\n",
+            "Last Lines": "\n\u2026Beth fructuous and that in litil spaceAnd to do wel god sende\n                    you his grace\n",
+            "Note": "\nBegins I.56; lines 1-55 supplied by a later (sixteenth-century) hand on\n                    ff. 3v-4v. Verse ends on f. 277v.",
+            "folio": "ff. 5-315v"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nWhan that Aprylle wyth hys showres sooteThe drowhte of Marche hath\n                    percede to the rote\u2026\n",
+            "Last Lines": "\n\u2026Beeth fructuous and that in litil spaceAnd to do wel god send\n                    you his grace\n",
+            "Note": "\nVerse ends on f. 314.",
+            "Attributed Author": "\nExplicit prohemium Rectoris Incipit narracio eiusdem et est ultima de\n                        hijs quas Chauncer composuit (f. 314)",
+            "folio": "ff. 2-359v"
+        },
+        "BLAdd10340": {
+            "First Lines": "\n\u00deere was a pore person of a touneAnd was a goode man of\n                    religioune\u2026\n",
+            "Last Lines": "\n\u2026But cristes lore & hys apostles tweluehe tau\u021dt but\n                    first he folwed it hym selue\n",
+            "Note": "\nLines I.478-528.",
+            "folio": "f. 41rb"
+        },
+        "BLAdd25718": {
+            "First Lines": "\n\u2026Now trewly how sore that me smerte\u2026\n",
+            "Last Lines": "\n\u2026Helpe me to telle hit in thin reuerence\u2026\n",
+            "Note": "\nContains lines I.1394-1524, 1584-1706, 1829-1950, 2011-3108; 3109-3486;\n                    II.31-517, 702-822; III.1891-2294; Fragment VI; IV.1-1013; VII.303-452,\n                    VII.453-473 (474-523 are partially present on a very damaged folio), 1256-1564\n                    (with missing leaves taking 1311-1316; 1371-1538).",
+            "folio": "ff. 1-88v"
+        },
+        "BLAdd35286": {
+            "First Lines": "\n\u2026But sykerly she hadde a fair forheed It was almost a spanne\n                    brood y trowe\u2026\n",
+            "Last Lines": "\n\u2026Beth fructuous and that in litel spaceAnd to do wel god sende\n                    yow his grace\n",
+            "Note": "\nContains lines I.154-X.472. Verse ends on f. 229.",
+            "Editions": "\nHorobin,  Simon. \n             \u201cA Transcription and Study of British Library MS Additional 35286 of\n                Chaucer\u2019s Canterbury Tales.\u201d \n         Diss. Univ. of Sheffield, 1997. \n",
+            "folio": "ff. 1-238v"
+        },
+        "BLEge2726": {
+            "First Lines": "\nWhan that Aprill with his shoures sooteThe drought of Marche hath\n                    pershed \u00fee roote\u2026\n",
+            "Last Lines": "\n\u2026Beth fructuous and \u00feat in litle spaceAnd to do wele god\n                    send yow his grace\n",
+            "Note": "\nEnds at X.1084, with the missing text supplied on an eighteenth-century\n                    leaf. Verse ends. f. 261v.",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 1-270v"
+        },
+        "BLEge2863": {
+            "First Lines": "\n\u2026Or who ha\u00fe \u021dow mysboden or offendidAnd telleth me\n                    \u021dif it may be amended\u2026\n",
+            "Last Lines": "\n\u2026I take but the sentence trusteth wellTherefore I make\n                    protestacioun\u2026\n",
+            "Note": "\nBegins at I.909 and ends X.937, with losses elsewhere. Verse ends on f.\n                        186v with X.59.",
+            "folio": "ff. 1-214v"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[W]han that Aprille with his showres sooteThe drowhte of marche\n                    hath perced to the roote\u2026\n",
+            "Last Lines": "\n\u2026Beeth fructuous and that in litil spaceAnd to do weel god\n                    send you his grace Amen\n",
+            "Note": "\nVerse ends on f. 259.",
+            "Attributed Author": "\nIncipit liber Galstid Chaucer de gestis peregrinorum versus\n                        Cantuariam (f. 1)",
+            "Attributed Title": "\nIncipit liber Galstid Chaucer de gestis peregrinorum versus\n                        Cantuariam (f. 1)",
+            "folio": "ff. 1-292"
+        },
+        "BLHar1239": {
+            "First Lines": "\n\u2026Thys duke of qwhom I make mencyounWhan he was all most comyn\n                    to the towne\u2026\n",
+            "Last Lines": "\n\u2026Wych was \u00fee most gentyl thynkys \u021dowNow tel me or\n                    \u00feat \u00fee forthere rideI can no more my tale is at\n                    Anende\n",
+            "Note": "\nBegins I.893; ends V.1624, followed by a colophon:\u2018Vestre\n                        magnifice & generosissime dominacionis humilimus seruiens& ser\n                        Orate heremita de Grenewych mundo quasi totalitersegregatus ac mentibus\n                        suorum fortune amicorum & hominum\n                    peroblitus\u2019.",
+            "folio": "ff. 63-106v"
+        },
+        "BLHar1758": {
+            "First Lines": "\nWhan that Aprill with his schoures swoteThe drought of Marche hath\n                    perced to \u00fee rote\u2026\n",
+            "Last Lines": "\n\u2026Beth fructuous & that in litell spaceAnd to do well god\n                    sende you his grace\n",
+            "Note": "\nThe Parson\u2019s Prologue ends on f. 205.",
+            "Attributed Author": "\n[H]Ere begynneth the book of tales of Caunterburye compiled by Gef / fraie\n                    Chaucers of Brytayne chef poete (f. 1)",
+            "Attributed Title": "\n[H]Ere begynneth the book of tales of Caunterburye compiled by Gef / fraie\n                    Chaucers of Brytayne chef poete (f. 1); Prologus libri (RT)",
+            "folio": "ff. 1-231"
+        },
+        "BLHar7333": {
+            "First Lines": "\nWhanne \u00feat Aperyll with his shoures swoote\u00dee Drowght of\n                    marche hathe perced to \u00fee rote\u2026\n",
+            "Last Lines": "\n\u2026Beth fructuos and that in litle spaceAnd to do wel god sende\n                    you his grace\n",
+            "Note": "\nThe Parson\u2019s Prologue ends on f. 116.",
+            "Attributed Title": "\nOn f. 37, the poem is introduced as \u2018The Prologue of the Knyghtes\n                    Tale\u2019, followed by the heading: \u2018O yee so noble and worthi pryncis\n                    and princesse o\u00feer estatis or degrees. what euer yee beo \u00feat haue\n                    disposicione or plesaunce. to rede or here \u00fee stories of olde tymis passed\n                    to kepe yow frome ydelnesse and slow\u00fee. in escheuing o\u00feer folies\n                    \u00feat might be cause of more harome filowyng vowcheth sauf I be seche yowe.\n                    to fynde yowe occupacioun in \u00fee Reding here of \u00fee tales of\n                    Caunterburye wiche beon compilid in \u00feis boke filowyng ffirst foundid\n                    ymagenid and made bo\u00fee for disporte and leornyng of all \u00feoo that beon\n                    gentile of birthe or of condiciouns by \u00fee laureal and moste famous poete\n                    \u00feat euer was to fore him as in \u00feemvelisshing of oure rude moders\n                    englisshe tonge. clepid Chaucyer a Gavfrede of whos soule god for his mercy have\n                    pitee of his grace Amen\u2019.",
+            "folio": "ff. 37-118"
+        },
+        "BLHar7334": {
+            "First Lines": "\nWHan that aprille with his schowres swooteThe drought of Marche\n                    ha\u00fe perced to \u00fee roote\u2026\n",
+            "Last Lines": "\n\u2026Be\u00fe fructuous and \u00feat in litil spaceAnd to do wel\n                    God sende \u021dow grace\n",
+            "Note": "\nVerse ends on f. 252.",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "ff. 1-285v"
+        },
+        "BLHar7335": {
+            "First Lines": "\n\u2026Duk Perotheus loued wel ArciteAnd had him knowe at thebes\n                    yeer by yere\u2026\n",
+            "Last Lines": "\n\u2026Ther cam a priue theef men clepen dethThat in this contre al\n                    the peple sleth\n",
+            "Note": "\nContains I.1202-VI.676.",
+            "folio": "ff. 1-163v"
+        },
+        "BLLan851": {
+            "First Lines": "\nWhan \u00feat Aprill wy\u00fee his schoures soote\u00fee drought of\n                    Marche ha\u00fee perced to \u00fee roote\u2026\n",
+            "Last Lines": "\n\u2026Be\u00fe fructuous & \u00feat in litel spaceAnd to do\n                    wele god send \u021dowe his grace\n",
+            "Note": "\nVerse ends on f. 230v.",
+            "Attributed Title": "\nIncipit prologus fabularum Cantuarensis (f. 3)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 2-255"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nAnd of his porte As Meke as is a MaydeHe neuer yett no villanye ne\n                    sayde\u2026\n",
+            "Last Lines": "\n\u2026litel space\u2026grace\n",
+            "Note": "\nContains I.69-X.449, with the last folios being badly damaged. Verse\n                    ends on f. 290v.",
+            "folio": "ff. 1-301"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nWHan that Aprill wit his shoures sooteThe drought of\n                    marche hath perced to \u00fee roote\u2026\n",
+            "Last Lines": "\n\u2026Beth fructuous and \u00feat in litel spaceAnd to do wel god\n                    send \u021dow his grace\n",
+            "Note": "\nVerse ends f. 238.",
+            "Attributed Title": "\nHere endeth the book of the tales of Caunterburye compiled by Geffrey\n                    Chaucer of whos soule Ihesu Crist haue mercy Amen (f. 271)",
+            "folio": "ff. 3-271"
+        },
+        "BLSl1685": {
+            "First Lines": "\nHe wolde suffre for a quart of wyneA good felowe to haue his\n                    concubyne\u2026\n",
+            "Last Lines": "\n\u2026But sir I dyd it nou\u021dt in no wicked ententeCometh doune\n                    & I shalle telle you what I ment\n",
+            "Note": "\nContains I.649-VII.3424. Catchwords on f. 222v: \u2018I\n                    shalle\u2019.",
+            "folio": "ff. 1-222v"
+        },
+        "BLSl1686": {
+            "First Lines": "\nIn lystes thries and aye slayne his fooThis ilke worthy knyght had\n                    be also\u2026\n",
+            "Last Lines": "\n\u2026Where so thou come amonges high or loweKepe wele thy tunge\n                    and thinke on the crowe\n",
+            "Note": "\nContains I.63-IX.362.",
+            "folio": "ff. 1-295v"
+        },
+        "NLW21972D": {
+            "First Lines": "\n[ ]no[ ][ ]ne compleyne[ ]als it is[ ][ ]here of\n                    heuynesse\u2026\n",
+            "Last Lines": "\nYis Sire quod [ ] \u00feis hoost s[ ] mote I goBut I be mery ywis I\n                    wil be blamedAnd right anoon his tale he hath attamedAnd thus he said\n                    vnto vs euerychonThis swete preest this goodly man Sire Iohn\n",
+            "Note": "\nThree damaged leaves containing: VII.2784-2820; VII.2822-2860;\n                    VII.3021-3058; VII.3060-3098; VII 3184-3222; VII.3223-3262.",
+            "Facsimiles": "\nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n",
+            "Editions": "\nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000: Contains a digital facsimile and transcription of the\n                        Merthyr Fragments.\n",
+            "folio": "ff. 1-3v"
+        },
+        "NLWPen392": {
+            "First Lines": "\nWhan that Aueryll with his shoures sooteThe droghte of March hath\n                    perced to the roote\u2026\n",
+            "Last Lines": "\n\u2026Beth fructuous and that in litel spaceAnd to do wel god sende\n                    yow his grace\n",
+            "Note": "\nEnds incomplete in Parson\u2019s Tale, f. 250v.",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "ff. 2-235v"
+        },
+        "Alnwick455": {
+            "First Lines": "\nfful fetouse was hir cloke as I was wareOf smale corall a\n                    bou\u021dt hir arme she bare\u2026\n",
+            "Last Lines": "\n\u2026Be fructuouse and \u00feat in litill spaseAnd to do wele God\n                    send \u021dew his grase\n",
+            "Note": "\nContains I.157-X.989 plus the Tale of Beryn (6270). Verse ends on f.\n                        286v.",
+            "Editions": "\nBowers,  John M.,\n                        ed.  \n             The Canterbury Tales:\n                    Fifteenth-Century Continuations and Additions.\n         Kalamazoo, MI: Medieval Institute Publications, 1992: 55-200.\n",
+            "folio": "ff. 1-181v;  237v-291v"
+        },
+        "Chats": {
+            "First Lines": "\n\u2026Now ladie bright to whom all wofull crien\u00deou glorie of\n                    womanhed \u00feu faire may\u2026\n",
+            "Last Lines": "\n\u2026Send me no more vn to non hethenesBot \u00feank my lord here\n                    of hys kyndnes\u2026\n",
+            "Note": "\nTwo fragments of the Man of Law\u2019s Tale: II.850-924;\n                    1076-1144.",
+            "folio": "ff. [1]-[2]v"
+        },
+        "GULHun197": {
+            "First Lines": "\n\u2026His table dormaunt in his halle alweyeStode redy couered all\n                    the long daye\u2026\n",
+            "Last Lines": "\n\u2026Beth fructuous and \u00feat in litel spaceAnd to do weel god\n                    sende you his grace\n",
+            "Note": "\nBegins I.353. On f. 102v is a scribal colophon:\n                        \u2018Orate pro salute animarum Galfridi Spirleng Ciuis Norwici Courtholder Clerici Maioratus & comitatus dicte\n                        Ciuitatis ac Thome Spirleng filij sui qui scribendo hunc librum compleuerunt mense Ianuariij\n                        anno domine Millesimo CCCCmolxxvjto quo tempore dictus\n                        Galfridus quasi quinquaginta et dictus Thomas quasi sexdecim etatis\n                        extiterunt annorum\u2019. The Parson\u2019s Prologue ends on f.\n                        89v; the Canon\u2019s Yeoman\u2019s Tale ends on f. 115\n                    with: And \u00feere a poynte for ended is my taleGod sende euery true\n                        man bote of hise bale.",
+            "folio": "ff. 1ra-115"
+        },
+        "Holkham667": {
+            "First Lines": "\nWas risen and romed in a chambre in highIn which he alle the noble\n                    citee sigh\u2026\n",
+            "Last Lines": "\n\u2026That of his mercy god soo merciableOn vs his grete mercy\n                    multeply\n",
+            "Note": "\nContains I.1065-VII.1479. Verse ends on f. 81vb.",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Clerk\u2019s Tale, a Six-Text Print from 6 MSS not containing the\n                Pardoner\u2019s Tale.\nThe Chaucer Society\n         Series 1, no. 92. London: Tr\u00fcbner, 1899. \n",
+            "folio": "ff. 1ra-86rb"
+        },
+        "Lichfield29": {
+            "First Lines": "\n\u2026With hym ther was his sone a \u021dong squierA louier a\n                    lusty bacheler\u2026\n",
+            "Last Lines": "\n\u2026Be\u00fe fructuous and \u00feat in litel spaceAnd to do wel\n                    god sende \u021dou his grace\n",
+            "Note": "\nBegins I.79; verse ends f. 255; prose ends f.\n                    292v.",
+            "Attributed Author": "\n\u2026compiled by Geffray Chaucers of whoos soule Ihesu crist haue mercy\n                    Amen (f. 292v)",
+            "Attributed Title": "\nHere endeth the boke of the tales of Canterbery compiled by Geffray\n                    Chaucers of whoos soule Ihesu crist haue mercy Amen (f.\n                    293v)",
+            "folio": "ff. 2-293v"
+        },
+        "Lincoln110": {
+            "First Lines": "\n\u2026And pouder marchaunt tart and gallyngaleWel coude he knowe a\n                    drau\u021dt of londoun aleHe coude roste and sethe & boyle &\n                    fri\u021deMake mortrews and well bake a pie\u2026\n",
+            "Last Lines": "\n\u2026Be\u00fe fructuous & \u00feat in litil spaceAnd to do wel\n                    god sende \u021dow his grace\n",
+            "Note": "\nI.381-X.639; original scribe ends f. 258v mid-way through\n                        Parson\u2019s Tale and remaining text (ff. 259-266v)\n                    supplied by a hand of sixteenth century.",
+            "folio": "ff. 1-266v"
+        },
+        "LonPhys388": {
+            "First Lines": "\nWhanne that Aprill with his showris sooteThe drought of marche hath\n                    perced the Roote\u2026\n",
+            "Last Lines": "\n\u2026Beth fructuous and that in litil spaceAnd to do wele god\n                    sende yow his grace\n",
+            "Note": "\nVerse ends on f. 320v. Parson\u2019s Tale ends X.1062 on f.\n                        358v.",
+            "folio": "ff. 1-320v"
+        },
+        "RylandsEng63": {
+            "First Lines": "\nI have a wyfe parde as wel as thowyit nold I nat for the Oxen in my\n                    plowe\u2026\n",
+            "Last Lines": "\n\u2026Ne clepe ne cry but be in his preyerffor it is Goddis hest\n                    leve and dere\n",
+            "Note": "\nAn 11-folio fragment: this leaf containing VIII.1091-167 of the\n                        Canon\u2019s Yeoman\u2019s Tale. Part of the same MS as Manchester,  John Rylands Library Eng. 63 (\u2018Oxford Fragments\u2019).",
+            "folio": "ff. 1-2v"
+        },
+        "RylandsEng113": {
+            "First Lines": "\nWhan \u00feat Aprill with his shoures swote\u00dee drowth of Marche\n                    hath perced to \u00fee roteAnd bathed euery vayne with soche\n                        vertu licourOf which vertue engendred is \u00fee\n                    flour\u2026\n",
+            "Last Lines": "\n\u2026Beth fructuous and \u00feat in litle spaceAnd to do wel god\n                    send you his grace\n",
+            "Note": "\nVerse ends 171v. On f. 194 is the scribal colophon\n                        \u2018Iste liber Constat Johanni Brode Juniori\u2019.",
+            "Attributed Title": "\nExpliciunt fabule Cant. (f. 194)",
+            "folio": "ff. 6-194"
+        },
+        "Petworth7": {
+            "First Lines": "\nWhan that aprille with his shoures sooteThe drouht of marche hath\n                    perced to \u00fee roote\u2026\n",
+            "Last Lines": "\n\u2026Bee\u00fe fructuous and \u00feat in litel spaceAnd to do wel\n                    god sende \u021dow his grace\n",
+            "Note": "\nVerse ends on f. 272v.",
+            "Attributed Title": "\nHere ende\u00fe \u00fee boke of \u00fee talys of Caunterbury compiled / by\n                    Geffray Chawcer on whoos soule Ihesu crist haue mercy / Amen (f.\n                    307v)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 1-307"
+        },
+        "Austin46": {
+            "First Lines": "\nAnd \u00feanne shal al this gold departed beeMy deere freend\n                    bitwixe me and thee\u2026\n",
+            "Last Lines": "\n\u2026And therfore herkeneth what \u00feat I shal seyeAnd lat me\n                    tellen al my tale I preye\n",
+            "Note": "\nPart (a) = Lines VI.831-968 and VII.1-1353; Part (b) = Lines X.587-1092.\n                    Part (a) signed \u2018vj-viiij\u2019; Part (b) signed\n                    \u2018ffj-ffiij\u2019.",
+            "folio": "ff. 1-12;  13-24"
+        },
+        "Austin143": {
+            "First Lines": "\n\u2026Her mouthe full small and therto softe and redeBut sikirly\n                    she had a faire forehede\u2026\n",
+            "Last Lines": "\n\u2026Byth ffructuous and \u00feat in lytyll spaceAnd to do well\n                    god send you his grace\n",
+            "Note": "\nBegins I.153. Verse ends f. 217.",
+            "folio": "ff. 1-244"
+        },
+        "ChicagoUL564": {
+            "First Lines": "\n\u2026Ne at his tale sawe I no man hym greueBut hit were only\n                    oswalt \u00fee Reue\u2026\n",
+            "Last Lines": "\n\u2026I wylt \u021dow shewe & \u021dif \u021dow luste to leerI\n                    wyl \u021dow teche pleynly \u00fee mateer\n",
+            "Note": "\nI.859-VIII.1057. Catchwords: \u2018how I can\n                    wyrchen\u2019.",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Clerk\u2019s Tale, a Six-Text Print from 6 MSS not containing the\n                Pardoner\u2019s Tale.\nThe Chaucer Society\n         Series 1, no. 92. London: Tr\u00fcbner, 1899. \n",
+            "folio": "ff. 1-192v"
+        },
+        "Plimpton253": {
+            "First Lines": "\n\u2026Ey god mercy sayde our oste thoNow suche awyff y pray god\n                    kepe me fro\u2026\n",
+            "Last Lines": "\n\u2026To make his iapes and his wrechednesOf whiche a substiciens\n                    cursidnes\u2026\n",
+            "Note": "\nf. 1: Epilogue to the Merchant\u2019s Tale (IV.2419-2440),\n                    followed by V.1-8 (adapted for the Franklin rather than the Squire); V.709-752\n                    of Franklin\u2019s Tale; fol. 2: V.1198-1272.",
+            "Facsimiles": "\n\nDigital Scriptorium: Facsimile of Plimpton MS 253.\n         Columbia University, 1996-. \n",
+            "folio": "ff. 1-2v"
+        },
+        "PierpontM249": {
+            "First Lines": "\nWhan that April with [\u2026]The droughte of Marche had perced to\n                    [\u2026]\n",
+            "Last Lines": "\n\u2026Both fructuous and that in lytel spaceAnd to do wel god sende\n                    you his grace\n",
+            "Note": "\nEnds at X.1013. Verse ends on f. 245.",
+            "folio": "ff. 4-274v"
+        },
+        "PhilRos10841": {
+            "First Lines": "\nVn to \u00fee straunge lordes as it was RyghtNe ther was holden no\n                    discomfortureffor fallyng is an vn auenture\u2026\n",
+            "Last Lines": "\n\u2026Hath not lucres y sleyn hirself allasAt rome ther sche\n                    oppressed was\n",
+            "Note": "\nContains I.2718-X.917. Verse ends on f. 191v at VI.1406 with\n                    the catchwords \u2018Of Tarquyne.\u2019",
+            "folio": "ff. 1-199v"
+        },
+        "PhilRos10842": {
+            "First Lines": "\nWich that I help my fadir for to steleAnd good lemman God the save\n                    and keep\u2026\n",
+            "Last Lines": "\n\u2026Was nat made there but it was made to foreAnd othir thingis\n                    wich I shall tell more\n",
+            "Note": "\nAn 11-folio fragment: I.4246-4372 of the Reeve\u2019s Tale,\n                        Cook\u2019s Prologue, and Cook\u2019s Tale; II.95-140,\n                    211-350, 1051-1120 of the Man of Law\u2019s Tale; V.57-132 of the\n                        Squire\u2019s Tale; VIII.1091-1167 of the Canon\u2019s\n                        Yeoman\u2019s Tale; VII.836-922 of the Tale of Thopas and the\n                    Thopas-Melibee Link; X.256-297, 1043-1073 of the Parson\u2019s Tale.\n                    Part of the same MS as Manchester,  John Rylands Library Eng. 63 (\u2018Oxford Fragments\u2019).",
+            "folio": ""
+        },
+        "PUL100": {
+            "First Lines": "\n\u2026ffirst on \u00fee wal was peyntid a forestIn wich there\n                    dwellith nethir man ne best\u2026\n",
+            "Last Lines": "\n\u2026Beth fructuous and \u00feat in litil spaseAnd for to do wel\n                    God send vs grace\n",
+            "Note": "\nContains I.1975-X.754. Verse ends on f. 203.",
+            "folio": "ff. 1-215v"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nWhan that Aprill with hise shoures sooteThe droghte of March hath\n                    perced to the roote\u2026\n",
+            "Last Lines": "\n\u2026Beth fructuous and that in litel spaceAnd to do wel god sende\n                    yow his grace\n",
+            "Note": "\nVerse ends on f. 206v.",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 1-232v"
+        },
+        "BNangl39": {
+            "First Lines": "\nWhan that april with his shoure\u021d swote\u00fee drought of March\n                    ha\u00fe percyd to \u00fee rote\u2026\n",
+            "Last Lines": "\n\u2026Where so thou come amongis hy or lowekepe wel thi tung and\n                    thenk vppon \u00fee croweExplicit fabula mancipij et\n                    cetera\n\n",
+            "Note": "\nA \u2018U\u2019 lombard initial precedes the first word of the text,\n                    \u2018Whan\u2019. On fol. 83v is a scribal colophon: \u2018a\n                        elle magre xij xij quod  Duxworth scriptor xij\u2019.",
+            "folio": "ff. 1-83v"
+        },
+        "TokyoTak22": {
+            "First Lines": "\nSIr Clerk of Oxinford owre Oste sayde\u021de ryden as style and coy\n                    as doth a maydeWere newe spowsyd syttyng at a bordeThis day ne herde I\n                    of your mouth a worde\u2026\n",
+            "Last Lines": "\n\u2026And Johnkyn hath I wonne a newe gownemy tale is done and we\n                    be nygh at towneSyr clerk of Oxynford oure ost seyde\n",
+            "Note": "\nExtracts from the Canterbury Tales: Clerk\u2019s Prologue\n                    (ff. 1-2); Clerk\u2019s Tale (ff. 2v-29); \u2018Lenvoye de\n                    Chau[n]cer\u2019 (ff. 29-30); Wife of Bath\u2019s Prologue (ff.\n                        30-47v); Wife of Bath\u2019s Tale (ff. 48-56);\n                        Friar\u2019s Prologue (ff. 56v-57); Friar\u2019s\n                        Tale (ff. 57r-64v); Summoner\u2019s Prologue (ff.\n                        64v-65v); Summoner\u2019s Tale (ff.\n                        65v-77v).",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Clerk\u2019s Tale, a Six-Text Print from 6 MSS not containing the\n                Pardoner\u2019s Tale.\nThe Chaucer Society\n         Series 1, no. 92. London: Tr\u00fcbner, 1899. \n",
+            "folio": "ff. 1-77v"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nWhan that aprille with his shoures sooteThe drou\u021dte of Marche\n                    hath persed the roote\u2026\n",
+            "Last Lines": "\n\u2026Beth fructuous and that in litil spaceAnd to do well god\n                    sende you his grace\n",
+            "Note": "\nVerse ends f. 238v.",
+            "Attributed Title": "\nOf your charite praieth for the writer of this booke / Explicit (f.\n                    274)",
+            "folio": "ff. 1-274"
+        },
+        "TokyoTak32": {
+            "First Lines": "\n\u2026He yaf nowt of the text a pulled henThat seyht that hvnteris\n                    be noun holy men\u2026\n",
+            "Last Lines": "\n\u2026Beht fructuous and that in lytell spaceAnd to doon weell god\n                    sende yow of his grace\n",
+            "Note": "\nBegins I.177. Verse ends f. 132v.",
+            "Attributed Author": "\nHere endyht thee boke of the talis of Caunterbery compiled by giffrey\n                    Chauceris of whoos so / wle Ihu Crist haue Mercy Amen (f.\n                    157v)",
+            "Attributed Title": "\nHere endyht thee boke of the talis of Caunterbery compiled by giffrey\n                    Chauceris of whoos so / wle Ihu Crist haue Mercy Amen (f.\n                    157v)",
+            "folio": "ff. 20-157v"
+        },
+        "Bodmer48": {
+            "First Lines": "\nWhan that Aprile with his shouris soteThe drought of March hath\n                    percid to \u00fee Rote\u2026\n",
+            "Last Lines": "\n\u2026Be\u00fe fructuous & \u00feat in litle spaceAnd to do\n                    wele god send you his grace\n",
+            "Note": "\nEnds X.1061. Verse ends on f. 216.",
+            "Facsimiles": "\n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n",
+            "folio": "ff. 1-247v"
+        }
+    }
+}

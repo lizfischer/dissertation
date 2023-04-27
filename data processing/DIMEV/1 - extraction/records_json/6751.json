@@ -1,0 +1,54 @@
+{
+    "_id": 6751,
+    "_header": "With this beetle be he smitten",
+    "Note": "See Gomme (1890)\nXGomme, G. L. \u201c'A Highland Folk-Tale Collected by the Late J. F. Campbell and its Origin in Custom.\u201d Folk-Lore: A Quarterly Review of Myth, Tradition, Institution & Custom 1. (1890): 197-206, 199, 204.",
+    "Subjects": "sermons, verse in; translations; illustrations, verse accompanying",
+    "Versification": "\u2014 four-line \u2014 aabb",
+    "_description": "An English quatrain in a Latin story of the foolish father who gave away his goods, sometimes found in Bromyard\u2019s sermons",
+    "_witnesses": {
+        "CamTCC1450": {
+            "Transcription": "\nWith thys bytel be he smete\u00feat all \u00fee worle mote hyt\n                    wete\u00feat yevyt hys goode to hys kynne& goth hym selfe a\n                    beggynd\n",
+            "Note": "\nWritten as 2 lines.",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Hymns to the Virgin and Christ\u2026and other religious poems.\nEETS\n         o.s. 24 (1867); repr. 1973: 35.\n",
+            "folio": "f. 47"
+        },
+        "BLRoy7Eiv": {
+            "Editions": "\nWright,  Thomas. \n             A selection of Latin stories.\nPercy Society\n         8. London: Richard, 1842: 28.\n",
+            "folio": "f. 45v"
+        },
+        "BLRoy8Exvii": {
+            "Editions": "\n\nWright,  Thomas. \n             A selection of Latin stories.\nPercy Society\n         8. London: Richard, 1842: 221.\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.362.\n\n",
+            "folio": "f. 83v"
+        },
+        "BLRoy18Bxxiii": {
+            "Transcription": "\nwith \u00feis betull be he smytte\u00feat all \u00fee world well it\n                    will\u00feat \u021dewe\u00fe \u00fee vnkeend all is \u00feingeand\n                    goy\u00fe hym selfe on beggynge\n",
+            "Note": "\nWritten as prose. In a sermon for Septuagesima.",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Babees Book, etc.\nEETS\n         o.s. 32 (1868); rev. ed.  Early English Meals and\n                Manners London: Tr\u00fcbner, 1876; repr. 1973: 35.\nRoss,  W. O.,\n                        ed.  \n             Middle English Sermons from British Museum MS. Royal 18 B.\n                xxiii.\nEETS\n         o.s. 209 (1940); repr. 1987: 90.\nD\u2019Evelyn,  Charlotte. \n             Peter Idley\u2019s Instructions to His Son.\n         Boston: Modern Language Association of America; and London: Oxford UP,\n            1935: 226.\n\n",
+            "folio": "f. 81v2"
+        },
+        "BLAdd35287": {
+            "Transcription": "\nWith this mace be he smeteThat al the worlde may it weteThat\n                    geuyth a way his owne thyngesAnd goth hymselff a beggyng\n",
+            "Note": "\nSeparate from Latin story; added to final leaf of MS by hand of the\n                    fifteenth century with a crude illustration of the mace.",
+            "folio": "f. 104v"
+        },
+        "Eton34": {
+            "Transcription": "\nWyth thys betyll be he smeteAs I wyll \u00feat all \u00fee werld it\n                    weteThat to the vnkynde \u021deue all thyngeAnd goth hymselfe on\n                    beggyng\n",
+            "Editions": "\nLucas,  Peter J. \n             \u201cAnother Text of \u2018With this beetle be he smit.\u2019\u201d \n             Notes and Queries\n         n.s. 26 [224] (1979): 396-7: 397 (including composite text and variants).\n",
+            "folio": "f. 192"
+        },
+        "LeicesterBRII33": {
+            "Transcription": "\nWith a Centyll be he betonthat all hys godd\u021d to gyn chyldere\n                    leytonAnd gyffe\u021d a wey hys thyng& goys hym selff\n                    abeggyng\n",
+            "Note": "\nWith 2495 added to blank\n                    folio at front.",
+            "folio": "f. 1"
+        },
+        "RylandsLat394": {
+            "Transcription": "\nWith a betull be he smeton\u00deat alle \u00fee world may it\n                    weten\u00deat \u021deues his childe alle his \u00feyngeand gooth hym\n                    selfe abegynge\n",
+            "Note": "\nTwo lines, in a series of Latin & English proverbs; followed by its\n                    Latin equivalent, \u2018Prioli qui sua dat vt victum querere purgat /\n                        Malleus hunc feriat quilibet vt videat.\u2019",
+            "Editions": "\nPantin,  William A. \n             \u201cA Medieval Collection of Latin and English Proverbs\u2026from Rylands\n                Latin MS. 394.\u201d \n             Bulletin of the John Rylands Library\n         14 (1930): 81-114: 105.\n",
+            "folio": "f. 18v"
+        },
+        "DublinRepBlack": {
+            "folio": "f. 1"
+        }
+    }
+}

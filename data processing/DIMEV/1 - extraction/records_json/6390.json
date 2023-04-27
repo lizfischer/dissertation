@@ -1,0 +1,343 @@
+{
+    "_id": 6390,
+    "_header": "When Phoebus dwelled here in this earth adown",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Manciple\u2019s Tale; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; women, against; tale, against",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the Manciple\u2019s Tale of the Canterbury Tales \u2014 258 lines in rhyming couplets.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nWhan Phebus duelt here in this erthe adounas olde bookes maken\n                    mencioun\u2026\n",
+            "Last Lines": "\n\u2026whereso euere thow come amonges highe or lowekepe wel thi\n                    tonge & thenke vppon the crowe\n",
+            "Attributed Title": "\n\u2026And / next folowyng bigynneth his tale (f. 263v); the\n                    Maunciple (RT); Here endith the Maunciple his prolog\u2026 (sic; f.\n                        263v)",
+            "folio": "ff. 263v-267"
+        },
+        "BodBar20": {
+            "First Lines": "\nWhan Phebus dwellid in \u00feis erth adounAs old bokes maken\n                    mencion\u2026\n",
+            "Last Lines": "\n\u2026W[her?]so \u00feou come among high or loweKe[pe?] wel \u00fey\n                    tong and \u00feenke vpon \u00fee crowe\n",
+            "Note": "\nIX.297-304 omitted. A ten-line blank space follows, with the verso also\n                    blank.",
+            "Attributed Title": "\n\u2026& here begynnyth \u00fee tale (f. 256v); here endith\n                    \u00fee Manciples tale (f. 260)",
+            "folio": "ff. 256v-260"
+        },
+        "Bod414": {
+            "First Lines": "\n[W]hen Phebus duelt here in \u00fee er\u00fee adounAs olde Bokis\n                    maken mencioun\u2026\n",
+            "Last Lines": "\n\u2026Wherso thou come among high or loweKepe wele thy tung and\n                    think on the Crowe\n",
+            "Note": "\nIX.209-20 omitted.",
+            "Attributed Title": "\nThe Maunciples tale of the Crow (f. 181)",
+            "folio": "ff. 181-184v"
+        },
+        "Bod686": {
+            "First Lines": "\nWhen phebus dwelt in \u00feis worlde a dounAs olde bokes maken\n                    mencioun\u2026\n",
+            "Last Lines": "\n\u2026Where so euer \u00feou come among high or loweKepe wel\n                    \u00fei tonge and \u00feinke wel on \u00fee crowe\n",
+            "Note": "\nIX.209-10 omitted; 319-20 reversed.",
+            "Attributed Title": "\n\u2026And begynne\u00fe / A lytel Tretis of \u00fee Crowe (f.\n                        173v); Lydgate (RT); Here endeth the tale of \u00fee Crowe\u2026\n                    (f. 176v)",
+            "folio": "ff. 173v-176v"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nWhan Phebus dwelt in \u00feis erth here adowneAs olde bokis maketh\n                    mencioun\u2026\n",
+            "Last Lines": "\n\u2026Where so thou come amonges hie or loweKepe wele thi tonge and\n                    thenk vpon the crowe\n",
+            "Note": "\nIX.207-304 omitted.",
+            "Attributed Title": "\n\u2026And next / beginneth the tale of the Maunciple (f. 225v);\n                    The Maunciple (RT); Here endeth the tale of the maunciple\u2026 (f.\n                        228v)",
+            "folio": "ff. 225v-228v"
+        },
+        "BodLauMis600": {
+            "First Lines": "\nWHen Phebus duelt hire in \u00feis er\u00fee adounAs olde bokes\n                    make mencioun\u2026\n",
+            "Last Lines": "\n\u2026Wher so \u00feou comest amonges hie or loweKepe wel \u00fei\n                    tonge and \u00feenke vpon \u00fee crowe\n",
+            "Attributed Title": "\n\u2026HEre begynne\u00fe \u00fee tale (f. 264v); \u00fee\n                    maunciple (RT); Here ende\u00fe \u00fee manciples tale of \u00fee crowe\u2026\n                    (f. 268v)",
+            "folio": "ff. 265-268"
+        },
+        "BodRawPoe141": {
+            "First Lines": "\nWhen that Phebus dwelled in this world adounAs olde bokes maken\n                    mensyoun\u2026\n",
+            "Last Lines": "\n\u2026Now had this Phebus in his hous a wyfWheche that he loued\n                    more than his lyf\u2026\n",
+            "Note": "\nEverything after IX.140 lost. Catchphrase on f. 157v:\n                    \u2018And night & day\u2019.",
+            "Attributed Title": "\nHere bigynneth the Maunciples tale of a crow (f. 157); The Maunciple\n                    (RT)",
+            "folio": "ff. 157-157v"
+        },
+        "BodRawPoe149": {
+            "First Lines": "\nWhen phebus here dwelled in the worlde adounAs olde bokes make\n                    mencion\u2026\n",
+            "Last Lines": "\n\u2026Wherso thou comeste amonge hihe or loweKepe wel thi tunge and\n                    thynke on the crowe\n",
+            "Note": "\nIX.219-20 lost.",
+            "Attributed Title": "\nhere begynneth the maunciples tale (f. 119v); fab mansiple (f.\n                        119v, margin); maunsiple (RT); here endith the maunciples\n                    tale\u2026 (f. 121)",
+            "folio": "ff. 119v-121v"
+        },
+        "BodRawPoe223": {
+            "First Lines": "\nWhan phebus dwellid in this world adounAs olde bokes make\n                    mencioun\u2026\n",
+            "Last Lines": "\n\u2026Where so thou come among hi\u021de or loweKepe well thi tonge\n                    and thenke vpon the crowe\n",
+            "Note": "\nIX.148, 219-20 omitted; 319-20 reversed.",
+            "Attributed Title": "\n\u2026And here beginneth his tale folwing (f. 176v); Manciple\n                    (RT); Here endith the Manciples tale\u2026 (f. 180v)",
+            "folio": "ff. 177-180v"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nWhan Phebus dwelled here in this erthe adownAs olde bokes maken\n                    mencioun\u2026\n",
+            "Last Lines": "\n\u2026Where so \u00feou come amonges heyghe or loweKepe wele thy\n                    tunge and thynke vpon the crowe\n",
+            "Attributed Title": "\nHere bygynnyth the manciples tale of the Crowe (f. 175v); Here\n                    endeth the manciplis tale of the Crowe\u2026 (f. 178v)",
+            "folio": "ff. 175v-178v"
+        },
+        "OxfCCC198": {
+            "First Lines": "\nWhan phebus dwelde heer in \u00feis er\u00fee adounAs olde booke\n                    maken mencioun\u2026\n",
+            "Last Lines": "\n\u2026Wher so \u00feou come amonges heihe or lowekepe wel \u00fey\n                    tunge and \u00feenk vpon \u00fee crowe\n",
+            "Attributed Title": "\nExplicit fabula mancipij (f. 261, margin)",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "ff. 257v-261"
+        },
+        "OxfNew314": {
+            "First Lines": "\nWHenne Phebus dwellid here in the erthe adounAs olde bokis make\n                    mencion\u2026\n",
+            "Last Lines": "\n\u2026Wher so \u00feou come among hie or loweKepe wel thi tonge and\n                    think on \u00fee crowe\n",
+            "Note": "\nIX.316 omitted.",
+            "Attributed Title": "\n\u2026begynnyng / his tale (f. 260v); Mauncipil (RT); Here\n                    endith \u00fee Maunciplis tale\u2026 (f. 264)",
+            "folio": "ff. 260v-264"
+        },
+        "OxfTri49": {
+            "First Lines": "\nWhenne Phebus dwellid here in this erth adowneas olde bokis maken\n                    mencion\u2026\n",
+            "Last Lines": "\n\u2026wher so thou be come a monge highe and lowekepe well thy\n                    tonge and thinke on the Crowe\n",
+            "Note": "\nIX.154, 194, 306 omitted. Lacks prologue.",
+            "Attributed Title": "\n\u2026The Mauncepill tale (f. 258v); Maunciple (RT);\n                        Explicit (f. 261v)",
+            "folio": "ff. 258v-261v"
+        },
+        "CULGg427": {
+            "First Lines": "\nWHan phebus dwellede heere in this erthe adounAs olde bokys makyn\n                    mencioun\u2026\n",
+            "Last Lines": "\n\u2026Wheere so thow come a mongis highe or loweKeek [sic] weel\n                    thyn tunge & think vp on the Crowe\n",
+            "Note": "\nIX.215-16 omitted.",
+            "Attributed Title": "\nHere begynneth the Manci ple hys tale (f. 395); Here is endit the\n                    Mauncipell tale (f. 398v)",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "Editions": "\nFurnivall,  Frederick James. \n             The Cambridge MS (University Library, Gg.4.27) of Chaucer\u2019s\n                Canterbury Tales.\nChaucer Society\n         Series 1, nos. 4, 10, 17, 28, 33, 40, 52, 66. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 395-398v"
+        },
+        "CULIi326": {
+            "First Lines": "\nWhen phebus dwelled here in erthe adounAs olde bokes makith\n                    mencioun\u2026\n",
+            "Last Lines": "\n\u2026Where so thou come amonge highe or loweKepe wele thy tonge\n                    and thinke vpon the crowe\n",
+            "Note": "\nIX.135, 251 omitted.",
+            "Attributed Title": "\n\u2026And here begynneth his tale (f. 220); Maunciple (RT); Here endeth\n                    the maunciples tale\u2026 (f. 223)",
+            "folio": "ff. 220-223"
+        },
+        "CULMm25": {
+            "First Lines": "\nWhen phebus dwelled here in \u00feis erthe adounAs olde bokes maken\n                    mencioun\u2026\n",
+            "Last Lines": "\n\u2026Where so \u00feou com amonges hie or loweKepe wele thi tonge\n                    and thenke upon the crowe\n",
+            "Attributed Title": "\n\u2026And here begynneth \u00fee tale (f. 218v; \u00fee\n                    maunciple (RT); Thus endith \u00fee tale of \u00fee maunciple\u2026 (f.\n                        221v)",
+            "folio": "ff. 218v-221v"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[W]Han Phebus dwellud here in \u00feis erth adounAs olde bokes\n                    maken mencyoun\u2026\n",
+            "Last Lines": "\n\u2026Where so \u00feou come among hi\u021de or loweKepe wel\n                    \u00fei tonge and thenk on \u00fee krowe\n",
+            "Note": "\nIX.109-10, 121-2, 223-36, 315-16, 355-8, 357-8 omitted; 275-6\n                    reversed.",
+            "Attributed Title": "\nThe Mauncipull tale (f. 263v); Her endeth \u00fee Mauncypull\n                    tale (f. 266v)",
+            "folio": "ff. 263v-266v"
+        },
+        "CamTCC582": {
+            "First Lines": "\nWhan Phebus dwellid hiere in this world adounAs olde bokes maken\n                    mencioun\u2026\n",
+            "Last Lines": "\n\u2026Where so thou come amonges high or loweKepe then wel thi\n                    tonge and thinke vpon the crowe\n",
+            "Note": "\nIX.319-20 reversed.",
+            "Attributed Title": "\nA tale of the Manciple (f. 85rb); Hiere endeth the Manciples\n                    tale\u2026 (f. 87rb)",
+            "folio": "ff. 85vb-87rb"
+        },
+        "CamTCC595": {
+            "First Lines": "\nWhanne Phebus dwelled here in erth adounAs olde bokes maken\n                    mencioun\u2026\n",
+            "Last Lines": "\n\u2026Where so thou come amonge hye or loweKepe wel thy tonge and\n                    thynke on the crowe\n",
+            "Note": "\nIX.316 omitted.",
+            "Attributed Title": "\n\u2026And begynneth his tale (f. 272); Here endith the mauncipiles\n                    tale\u2026 (f. 276v)",
+            "folio": "ff. 272v-276v"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nWHan phebus dwelled in eerthe here adounAs olde bookes maken\n                    mencioun\u2026\n",
+            "Last Lines": "\n\u2026Wher so thou come among hih or loweKeep wel thy tonge and\n                    thynk vpon the crowe\n",
+            "Attributed Title": "\n\u2026Incipit / ffabula eiusdem de Coruo (f. 311); Mancyple (RT);\n                        Explicit fabula mancipij\u2026 (f. 315)",
+            "folio": "ff. 311-314"
+        },
+        "BLAdd35286": {
+            "First Lines": "\nWhanne Phebus dwelled here in this erthe adounAs olde bookes maken\n                    mencioun\u2026\n",
+            "Last Lines": "\n\u2026Where so thow come amonges hie or loweKepe wel thi tonge and\n                    thenke vpon the crowe\n",
+            "Attributed Title": "\n\u2026Here bigynneth the maunciples tale of the crowe (f. 210); the\n                    Maunciple (RT); Here endeth the tale of the maunciple\u2026 (f.\n                    214v)",
+            "Editions": "\nHorobin,  Simon. \n             \u201cA Transcription and Study of British Library MS Additional 35286 of\n                Chaucer\u2019s Canterbury Tales.\u201d \n         Diss. Univ. of Sheffield, 1997. \n",
+            "folio": "ff. 210-214v"
+        },
+        "BLEge2726": {
+            "First Lines": "\nWhan Phebus was dwellyng in erth adounAs old bokes maken\n                    mensyoun\u2026\n",
+            "Last Lines": "\n\u2026Where so \u00feou com amonges hie or loweKepe wele \u00fey\n                    tung and thynk vpon \u00fee crowe\n",
+            "Attributed Title": "\n\u2026et / Incipit fabula sua de la Crowe (f. 236v);\n                        Hic desinit fabula Mancipij de la Crowe\u2026 (f.\n                    240v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 237v-240v"
+        },
+        "BLEge2863": {
+            "First Lines": "\n\u2026That is or was sithen \u00fee world byganWhat nedeth hit his\n                    fetures forto discryue\u2026\n",
+            "Last Lines": "\n\u2026Wher so \u00feou come aomnges hye or loweKepe wel thi tonge\n                    and thinke vpon \u00fee crowe\n",
+            "Note": "\nIX.105-19 lost.",
+            "Attributed Title": "\nThe Maunciple (RT); Here endith \u00fee manciples tale\u2026 (f.\n                    186)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 183-186"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[W]Han Phebus dwelled in eerthe heer adounAs olde bokes maken\n                    mencioun\u2026\n",
+            "Last Lines": "\n\u2026Wher so thou com a mong hih & loweKeep wel thi tonge and\n                    thynke vpon the crowe\n",
+            "Attributed Title": "\nIncipit narracio mancipij de corvo (f. 255); The manciple (RT); Heer\n                    eendith the Manciple is / tale of the Crowe (f. 258)",
+            "folio": "ff. 255-258"
+        },
+        "BLHar1758": {
+            "First Lines": "\nWHan Phebus dwellid here in \u00feis er\u00fee adounAs olde bokis\n                    maketh mencioun\u2026\n",
+            "Last Lines": "\n\u2026Wher so thou come amonges hye or loweKepe well thi tunge and\n                    thenke vpon the Crowe\n",
+            "Attributed Title": "\n\u2026and begynneth the tale (f. 201); The Manciple (RT); Here endith the\n                    Manciples tale (f. 204)",
+            "folio": "ff. 201v-204"
+        },
+        "BLHar7333": {
+            "First Lines": "\nWHan phebus duellid here in \u00feis erthe adounAs olde bokes maken\n                    mencioun\u2026\n",
+            "Last Lines": "\n\u2026Wher so that thow Come a monges hie or lowekepe wel thi\n                    tounge & think vpon \u00fee crowe\n",
+            "Note": "\nIX.215-16 omitted.",
+            "Attributed Title": "\nHer begynnyth \u00fee maunciple tale (f. 115ra, rubric); Here\n                    Endithe \u00fee Manciple\u2026 (f. 116ra, rubric)",
+            "folio": "ff. 115ra-116ra"
+        },
+        "BLHar7334": {
+            "First Lines": "\nWhan phebus duelt her in \u00feis er\u00fee a dounAs olde bookes\n                    maken mencioun\u2026\n",
+            "Last Lines": "\n\u2026Wher so \u00feou comest amonges heih or lowekep wel \u00fey\n                    tonge and thenk vpon \u00fee crowe\n",
+            "Attributed Title": "\nNarrat (f. 247v, margin); The maunciples Tale (RT); Here\n                    endi\u00fe \u00fee tale of the crowe\u2026 (f. 251)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "ff. 247v-251"
+        },
+        "BLLan851": {
+            "First Lines": "\nWHan phebus dwelled here in \u00feis er\u00fee adouneAs olde bokes\n                    make\u00fe mencioune\u2026\n",
+            "Last Lines": "\n\u2026Where so \u00feou come amonges hihe or loweKepe wele \u00fei\n                    tonge & \u00feinke vpon \u00fee crowe\n",
+            "Attributed Title": "\n\u2026Incipit fabula Mancipij (f. 226v); \u00fee\n                    Manciple (RT); Explicit ffabula Mancipij\u2026 (f.\n                    229v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 226v-229v"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nWHanne Phebus was dwellyng in erth adounAs old bookes maken\n                    mencioun\u2026\n",
+            "Last Lines": "\n\u2026[tear]hye or lowe[tear]ynk vpon the crowe\n",
+            "Note": "\nIX.165-72, 207-40, 275-307, 339-62 partially lost [MS\n                    torn].",
+            "Attributed Title": "\n\u2026[tear] begynnyth the tale of th[tear] (f. 285v); Here\n                    endith the tale of / the Maunciple\u2026 (f. 289v, margin)",
+            "folio": "ff. 286-289v"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nWhan phebus dwelled here in this erthe adounAs olde bokes maketh\n                    mencioun\u2026\n",
+            "Last Lines": "\n\u2026Wher so \u00feou come amonges hye or loweKepe wel thi tonge\n                    and thinke vpon \u00fee crowe\n",
+            "Attributed Title": "\nHere begynneth the tale of the Maunciple (f. 234); The Maunciple\n                    (RT)",
+            "folio": "ff. 234-237"
+        },
+        "BLSl1686": {
+            "First Lines": "\nWHan Phebus dwellid here in erthe adounAs olde bookes makith\n                    mencioun\u2026\n",
+            "Last Lines": "\n\u2026Where so thou come amonges high or loweKepe wele thy tunge\n                    and thynke on the crowe\n",
+            "Note": "\nIX.248-9 omitted; blank line follows 125; 313-4, 33-4 partially lost (MS\n                    torn).",
+            "Attributed Title": "\n\u2026And here begynneth his tale folowyng (f. 291); [A] tale of the\n                    Manciple (RT); Deo gracias (f. 295v)",
+            "folio": "ff. 291v-295v"
+        },
+        "NLWPen392": {
+            "First Lines": "\nWhan Phebus dwelled here in this erthe adounAs olde bokes maken\n                    mencioun\u2026\n",
+            "Last Lines": "\n\u2026Wher so thow come amonges heye or loweKepe wel thy tonge and\n                    thynk vp on the Crowe\n",
+            "Attributed Title": "\nHere bigynneth the Manciples tale of the Crowe (f. 108v); The\n                    Manciple (RT); Here is ended the Manciples tale of the Crowe\u2026 (f.\n                        111v)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "ff. 108v-111v"
+        },
+        "Alnwick455": {
+            "First Lines": "\nWHen phebus dwellid here in erth adownAs old bookis maken\n                    mencioune\u2026\n",
+            "Last Lines": "\n\u2026Where so \u00feow com among hi\u021d or lowKepe wele thy tung\n                    and thynk oppon \u00fee crow\n",
+            "Note": "\nIX.261-3, 281-6, 346-8, 354 omitted; 135-6 reversed; spurious line\n                    follows 345.",
+            "Attributed Title": "\n\u2026And here \u00fee mancipil his tale (f. 280v); [trimmed]e\n                    mancipil (f. 282v, margin); Here endith the mancipil his tale\u2026\n                    (f. 286)",
+            "folio": "ff. 282v-286"
+        },
+        "GULHun197": {
+            "First Lines": "\nWHan Phebus dwelled in \u00feis world here adounAs olde Bokes maken\n                    mencioun\u2026\n",
+            "Last Lines": "\n\u2026Wher so \u00feou come a mong high or loweKepe weel thy tungge\n                    and thynke vpon \u00fee crowe\n",
+            "Attributed Title": "\nHere begynneth the tale of the Manciple (f. 63ra); The Tale of\n                    the Manciple (RT); The Manciple (RT)",
+            "folio": "ff. 63ra-64rb"
+        },
+        "Holkham667": {
+            "First Lines": "\nWhen phebus dwelte here in erth adounAs olde bokes maken\n                    mancioun\u2026\n",
+            "Last Lines": "\n\u2026Where soo thou comme amonge hie or lowekepe well thie tunge\n                    and thenke on the crowe\n",
+            "folio": "ff. 30ra-31vb"
+        },
+        "Lichfield29": {
+            "First Lines": "\nWhan phebus dwelled here in \u00feis erth adounAs olde bokes maken\n                    mencyoun\u2026\n",
+            "Last Lines": "\n\u2026Wher so \u00feou come amonges hye or loweKepe wel \u00fei\n                    tunge and \u00feenk vpon \u00fee crowe\n",
+            "Note": "\nIX.172 left blank, with the spurious line \u2018As by nature to hym\n                    appropred ys\u2019 supplied subsequently.",
+            "Attributed Title": "\n\u2026And here bygynny\u00fe his tale (f. 251, rubric); The tale (RT,\n                    rubric); Here ende\u00fe \u00fee Manciple his tale\u2026 (f. 254,\n                    rubric)",
+            "folio": "ff. 251-254"
+        },
+        "Lincoln110": {
+            "First Lines": "\nWhanne Phebus was dwellynge in erthe adounAs old bokes maken\n                    mencioun\u2026\n",
+            "Last Lines": "\n\u2026Where so \u00feou come among hi\u021de or loweKepe well thy\n                    tunge and \u00feenke vpon \u00fee crowe\n",
+            "Attributed Title": "\nHeere bigynneth the Maunciplis / tale of \u00fee Crowe (f. 242); The\n                    Maunciple (RT)",
+            "folio": "ff. 242-245v"
+        },
+        "LonPhys388": {
+            "First Lines": "\nWHan Phebus dwelled in the erth adounAs old bookes maken\n                    mencioun\u2026\n",
+            "Last Lines": "\n\u2026Wher so thow come among hie or loweKepe wele thy tunge and\n                    thynk on the crowe\n",
+            "Attributed Title": "\n\u2026Incipit ffabula (f. 314v); Explicit\n                    ffabula\u2026 (f. 319)",
+            "folio": "f. 314v-319"
+        },
+        "RylandsEng113": {
+            "First Lines": "\nWhan Phebus was dwellyng in erth A dounAs olde Bokes maken\n                    mencioun\u2026\n",
+            "Last Lines": "\n\u2026Where so \u00feou come Amonge hie or lowekepe well \u00fei\n                    tonge and \u00feinke vpon \u00fee Crowe\n",
+            "Attributed Title": "\n\u2026And bigynnyth / the Maunciples tale (f. 168); MAunciple (RT); Here\n                    endith \u00fee Maunciples tale of / \u00fee Crowe\u2026 (f.\n                    170v)",
+            "folio": "ff. 168-170v"
+        },
+        "Petworth7": {
+            "First Lines": "\nWhan phebus dwelt here in \u00feis er\u00fee adounAs olde bokes\n                    maken mencioun\u2026\n",
+            "Last Lines": "\n\u2026where so \u00feou come amonges hie or loweKepe wel \u00fei\n                    tunge and \u00feenk upon \u00fee crowe\n",
+            "Attributed Title": "\n\u2026And here bygynne\u00fe \u00fee manciple his tale (f. 268, rubric);\n                    The Manciple Tale (RT) \u00feus ende\u00fe \u00fee prologe [sic] of\n                    \u00fee manciple\u2026 (f. 271v)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 268-271v"
+        },
+        "Austin143": {
+            "First Lines": "\n[W]hen phebus was dwellyng yn erth a dovnAs olde bokys makyth\n                    mencyoun\u2026\n",
+            "Last Lines": "\n\u2026wher so \u00feou come a monge hy or lowekep well thi tong and\n                    thinke vpon the crowe\n",
+            "Attributed Title": "\nHere begynnyth the maunciplys tale of the Crowe (f. 213); The mauncipyle\n                    (RT); Here endyth the maunciplis tale of the Crow\u2026 (f. 216)",
+            "folio": "ff. 213-216"
+        },
+        "ChicagoUL564": {
+            "First Lines": "\nWhen \u00feat Phebus dwelled in \u00feis world adounAs olde bokes\n                    maken mencioun\u2026\n",
+            "Last Lines": "\n\u2026Where so \u00feou come among heye or loweKep wel \u00fei\n                    tonge and \u00feenk vpon \u00fee crowe\n",
+            "Note": "\nIX.179, 319 omitted; spurious line follows 320.",
+            "folio": "ff. 171-175"
+        },
+        "PierpontM249": {
+            "First Lines": "\nWhan Phebus dwelled here in this erthe adounAs olde bookes maken\n                    mencyoun\u2026\n",
+            "Last Lines": "\n\u2026Wher so thou come amonges hye or loweKepe wel thy tunge and\n                    thenke vpon the Crowe\n",
+            "Note": "\nIX.338 omitted.",
+            "Attributed Title": "\n\u2026And here bygynneth the his tale (f. 240v); The manciples\n                    Tale (RT); Thus endeth the manciples tale\u2026 (f. 244)",
+            "folio": "ff. 240v-244"
+        },
+        "PUL100": {
+            "First Lines": "\n\u2026ffor on thy bed thy wyf I sawe him swyveWhat wol yee more A\n                    non the Crowe him told\u2026\n",
+            "Last Lines": "\n\u2026Where so thowe com among hy or loweKepe wel thy tong and\n                    think on the Crowe\n",
+            "Note": "\nVIII.105-255 lost.",
+            "Attributed Title": "\nMauncipil (RT); Here endith the Maunsipil his tale\u2026 (f.\n                    202)",
+            "folio": "ff. 201-202"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nWHan Phebus dwelled heere in this world adounAs olde bookes maken\n                    mencioun\u2026\n",
+            "Last Lines": "\n\u2026Wher so thou come amonges hye or loweKepe wel thy tonge and\n                    thenk vp on the Crowe\n",
+            "Attributed Title": "\nHeere bigynneth the Maunciples tale of the Crowe (f. 203); Maunciple (RT);\n                    Heere is ended the Maunciples tale of the Crowe\u2026 (f. 205v,\n                    below the written space)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 203-205v"
+        },
+        "BNangl39": {
+            "First Lines": "\nUhan Phebus duellid here in er\u00fee adounas old bokis makyn\n                    mencioun\u2026\n",
+            "Last Lines": "\n\u2026where so thou come amonges hy or lowkepe wel thi tung and\n                    thenk vppon \u00fee crowe\n",
+            "Note": "\nOn fol. 83v is a scribal colophon: \u2018a elle magre xij\n                        xij quod  Duxworth scriptor xij\u2019.",
+            "Attributed Title": "\n\u2026& / subsequenter narrat fabulam & cetera (f.\n                        82vb); Explicit fabula mancipij & cetera (f.\n                        83vb)",
+            "folio": "ff. 82va-83vb"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nWhan Phebus was duelling in the erthe adounAs olde bokes maken\n                    mencion\u2026\n",
+            "Last Lines": "\n\u2026Wher so thou come amonges high or loweKepe well thi tunge and\n                    thinke vpon the crowe\n",
+            "Attributed Title": "\n\u2026Et incipit / ffabula sua de la Crowe (f. 234v);\n                    Manciples Tale (RT); Hic desinit fabula Mancipij de la Crowe\u2026 (f.\n                        237v)",
+            "folio": "ff. 234v-237v"
+        },
+        "TokyoTak32": {
+            "First Lines": "\nWhanne phebus dwelde here in this erthe adownAs olde bokis makyht\n                    often menciown\u2026\n",
+            "Last Lines": "\n\u2026Wheer so thow come amongys heye or lowekepe weel thy tungge\n                    and thenke vppon the krowe\n",
+            "Note": "\nPreceded by twenty blank lines. VIII.1238-9 omitted; spurious line\n                    follows 1393.",
+            "Attributed Title": "\nThee Mauncipplis tale (RT); Explicit (f.\n                    134ra); here endyht the Manciplis tale of the krowe (f.\n                        134ra)",
+            "folio": "ff. 132va-134ra"
+        },
+        "Bodmer48": {
+            "First Lines": "\nWHen Phebus duelt here in \u00feis er\u00fee adounAs olde bokis\n                    maken mencion\u2026\n",
+            "Last Lines": "\n\u2026& wher so \u00feou come among high or lowkepe wel thi\n                    tong & think on the crowe\n",
+            "Note": "\nIX.205-38, 289-90 omitted.",
+            "Attributed Title": "\nThe manciples tale of the Crow (f. 212, rubric)",
+            "Facsimiles": "\n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n",
+            "folio": "ff. 212-215"
+        }
+    }
+}

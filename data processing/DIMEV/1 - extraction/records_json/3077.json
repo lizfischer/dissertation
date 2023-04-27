@@ -1,0 +1,31 @@
+{
+    "_id": 3077,
+    "_header": "Lief man I beseech thee",
+    "Title(s)": "Flee the Deadly Sins",
+    "Subjects": "sins, deadly",
+    "Versification": "\u2014 five-line \u2014 aaabb",
+    "_description": "Flee the Deadly Sins \u2014 five lines",
+    "_witnesses": {
+        "BodDou141": {
+            "First Lines": "\nLeue man I byseche \u00fee \u00fee seuen dedly synnes \u00feat\n                    \u00feou fle\u2026\n",
+            "Last Lines": "\n\u2026Who so wole kepe wi\u00fe hys my\u021dtHis sete is set\n                    wy\u00fe seyntes euere in godes sy\u021dt\n",
+            "folio": "ff. 138v-139"
+        },
+        "CULDd1189": {
+            "First Lines": "\nLeue man y by seche \u00fee\u00fee seuen dedly sennes \u00feat\n                    \u00feu fle\u2026\n",
+            "Last Lines": "\n\u2026Who so is take \u00feer inein helle schal be his wonyng\n                    inne\n",
+            "folio": "f. 1v"
+        },
+        "BLHar1704": {
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 1.111.\n",
+            "folio": "f. 49"
+        },
+        "BLHar2391": {
+            "First Lines": "\nlefe broder I be seke \u00feeThe vii hed synnys \u00feat \u00feu fle\u2026\n",
+            "Last Lines": "\n\u2026he \u00feat es takyn In ony of \u00feishe may full sor ben a gryse\n",
+            "Note": "\nFive couplets, written as prose.",
+            "Attributed Title": "\nSeptem capitalia peccata (centered above text, f. 134)",
+            "folio": "f. 134r2"
+        }
+    }
+}

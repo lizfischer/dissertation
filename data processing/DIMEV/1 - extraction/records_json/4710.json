@@ -1,0 +1,31 @@
+{
+    "_id": 4710,
+    "_header": "Saint Matthew in our gospel says us",
+    "Note": "For other MSS see 4667; for the version in the \u2018expanded\u2019 Cycle see 2639.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Eighth Sunday after Trinity in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nSaynte matheu in oure gospel saise vsIf to \u00fee apostlis saide\n                    iesus\u2026\n",
+            "Last Lines": "\n\u2026Ihesu criste \u00feat best mayelede vs to heuene \u00fee\n                    ri\u021dt waie amen .\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 148-149"
+        },
+        "CULDd11": {
+            "First Lines": "\nSEynt matthew in oure Gospel seyth vs\u00feat to his disciplis\n                    seyde ihesuskepe \u021dow fro \u00fee false prophetis\u2026\n",
+            "Last Lines": "\n\u2026Ihesu for thi merci bring vs thedirWher we may ben in ioye to\n                    gedir\n",
+            "Attributed Title": "\nDominica octaua post festum sancte trinitatis Euangelium secundum\n                        Mathium capitulo 7o (f. 154v)",
+            "folio": "ff. 154v-155v"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nSaint mathew in oure gospell sais vsThat to \u00fee apostoles said\n                    Ihesus\u2026\n",
+            "Last Lines": "\n\u2026Ihesu Crist \u00feat best mayLede vs to heuen \u00fee\n                    ri\u021dte waye. Amen\n",
+            "folio": "ff. 110-111"
+        },
+        "Lam260": {
+            "folio": "f. 44vb"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "_id": 257,
+    "_header": "Alack alack what shall I do",
+    "Note": "Preceding 5741; see Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 88.",
+    "Subjects": "love lyrics; songs",
+    "Versification": "\u2014 three-line \u2014 aba",
+    "_description": "Fragment of a love song \u2014 three lines",
+    "_witnesses": {
+        "BLAdd31922": {
+            "Transcription": "\nAlac alac what shall I doffor care is cast in to my hartAnd trewloue lakked ther to\n",
+            "Note": "\nWords and notes repeated twice more for further singing parts.",
+            "Attributed Author": "\nThe kyng H VIII (f. 35v)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Additional MS 31922.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=2&ref=Add_MS_31922. \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts, Besonders aus der Zeit Heinrichs\n                VIII.\u201d \n             Anglia\n         12 (1889): 225-72, 585-97: 236.\nTrefusis,  Mary. \n             Songs, Ballads, and Instrumental Pieces composed by King Henry the\n                Eighth.\nRoxburghe Club\n         161. Oxford, 1912: 72.\nStevens,  John,\n                        ed.  \n             Music and Poetry in the Early Tudor Court.\n         London: Methuen, 1961: 396.\nStevens,  John,\n                        ed.  \n             Music at the Court of Henry VIII.\nMusica Britannica\n         18. London: Stainer and Bell, 1962: 26.\n\n",
+            "folio": "f. 35v"
+        },
+        "TCD160": {
+            "Note": "\nTitle/incipit only, in table of contents.",
+            "folio": "f. 59"
+        }
+    }
+}

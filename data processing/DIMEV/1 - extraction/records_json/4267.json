@@ -1,0 +1,16 @@
+{
+    "_id": 4267,
+    "_header": "On foot by forth as I could found",
+    "Author(s)": "Robert Henryson (attrib.)",
+    "Subjects": "ballads; Scotland; Scots, battle actions",
+    "Versification": "\u2014 one-line",
+    "_description": "First line of a ballad(?) included among a list of romances in The Complaynt of Scotlande, and as lost text in the Asloan Manuscript, where it is attributed to Henryson \u2014 one line",
+    "_witnesses": {
+        "Asloan": {
+            "Transcription": "\nOn fut by fortht as I culd found\n",
+            "Attributed Title": "\nMaster Robert Hendersonnis Dreme On fut by forth",
+            "Editions": "\n\nMurray,  J. A. H.,\n                        ed.  \n             The Complaynt of Scotlande.\nEETS\n         e.s. 17 (1872), 18 (1873); repr. as one vol. 1973: 1.63.\nWilson,  Richard Middlewood. \n             The Lost Literature of Medieval England.\n         London: Methuen, 1952: 121.\n\n",
+            "folio": "table of contents"
+        }
+    }
+}

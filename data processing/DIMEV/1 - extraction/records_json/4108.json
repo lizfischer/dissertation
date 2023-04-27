@@ -1,0 +1,41 @@
+{
+    "_id": 4108,
+    "_header": "O ye folks that here present be",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Legend of St. George\u2019",
+    "Subjects": "George, saint, legend of",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lydgate, \u2018Legend of St. George\u2019 \u2014 thirty-five stanzas rhyme royal",
+    "_witnesses": {
+        "Bod686": {
+            "First Lines": "\nS ye folkes \u00feat here present beWhich of \u00feis story shal\n                    haue inspeccoun\u2026\n",
+            "Last Lines": "\n\u2026Was brennt vnwarly by consumpsiounAs he repeired home to his\n                    mansioun\n",
+            "Note": "\nThe illuminated gold initial is indeed \u2018S\u2019, probably a\n                    mistake.",
+            "Attributed Title": "\nHere endeth \u00fee life of seynte Margarete. And begynneth \u00fee lyfe of\n                    the glorious martir seint George (f. 200v); Here endeth the lyfe of\n                    seynt George. And here begynneth \u00fee prologe of \u00fee xv Ioyes of our\n                    ladye (at the end)",
+            "Editions": "\nHammond,  Eleanor Prescott. \n             \u201cTwo Tapestry Poems by Lydgate: the Life of St. George and the Falls of\n                Seven Princes.\u201d \n             Englische Studie\n         43 (1910-11): 10-26: 13-21.\n",
+            "folio": "ff. 200v-204"
+        },
+        "CamTCC600": {
+            "First Lines": "\nO yee folk \u00feat heer present beWheeche of \u00feis story shal\n                    haue InspeccionOf saint George yee may beholde and seeHis martirdome\n                    and his passyoun\u2026\n",
+            "Last Lines": "\n\u2026Was brent vnwarly by consumpcyonAs he repayred hoome to his\n                    mansyoun\n",
+            "Attributed Author": "\ndaun Iohan \u00fee Munk of Bury Lydegate (p. 74)",
+            "Attributed Title": "\nNexst nowe filowing here bygynne\u00fee \u00fee devyse of a steyned halle\n                    of \u00fee lyf of saint George ymagyned by daun Iohan \u00fee Munk of Bury\n                    Lydegate and made with \u00fee balade at \u00fee request of \u00fearmorieres of\n                    london for \u00feonour of \u00feeyre bro\u00feerhoode and \u00feeyre feest of\n                    saint George \u00feee poete first declare\u00fee (p. 74); A Storye of Saint\n                    George (RT)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 1.145-54.\n",
+            "folio": "pp. 74-81"
+        },
+        "CamTCC601": {
+            "First Lines": "\n[o] yE folke all whyche here in presence beWhyche of thys history\n                    shull haue inspeccionOf seynt George ye may beholde & seeAnd howe\n                    he ys oure protectour and patron\u2026\n",
+            "Last Lines": "\n\u2026Was brent meruelously by a consumpciouneAs he repayryd hem to\n                    hys mansyoune\n",
+            "Attributed Title": "\nThe lyfe of saynt gorge compyled by Iohn ludgate monke of bery at \u00fee\n                    request of \u00fee armerers of london to peynt about ther haulle (added by later\n                    hand, top margin f. 315); explicit vita sancti Georgii Martiris (f.\n                        317v)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 1.145-54.\n",
+            "folio": "ff. 134v-117v"
+        },
+        "Chetham6709": {
+            "First Lines": "\nO ye ffolkys that here present beWhich of this story shall have\n                    InspeccyonOff seynt George ye may beholde & seeHis martyrdom and\n                    his passyon\u2026\n",
+            "Last Lines": "\n\u2026Was brent vnwarely be consumpsyounAs he repayred home to his\n                    Mansyoun\n",
+            "Attributed Author": "\nExplicit [ ] lydgate\u2026 (f. 198v)",
+            "Attributed Title": "\nIncipit Vita Sancti Georgii (f. 193)",
+            "folio": "ff. 193-198v"
+        }
+    }
+}

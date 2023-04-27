@@ -1,0 +1,33 @@
+{
+    "_id": 765,
+    "_header": "Be meek and mild of heart and tongue",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 239.",
+    "Subjects": "virtues; sins, deadly",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Seven Virtues opposed to the Deadly Sins \u2014 eight couplets",
+    "_witnesses": {
+        "CULEe435a": {
+            "First Lines": "\nBe meke & meylde yn hert & towngA yens pryd voyt elde &\n                    yong\u2026\n",
+            "Last Lines": "\n\u2026These wertwys vii ffle the senys seffenAnd then ledyt A man\n                    the wey to hewyn\n",
+            "Attributed Title": "\nThe vii vertwys A gyn The vii dedley synys (f. 5v)",
+            "Editions": "\nPerson,  Henry Axel. \n             Cambridge Middle English Lyrics.\n         Seattle: University of Washington Press, 1953; rev. ed. 1962: 21.\n",
+            "folio": "f. 5v"
+        },
+        "BLHar1706": {
+            "First Lines": "\nBe meke and mylde of herte and tungeA\u021dens pryde bo\u00fe oolde and younge\u2026\n",
+            "Last Lines": "\n\u2026\u00feese vertues slene \u00fee synnes seueneAnd leden a man \u00fee way to heuene\n",
+            "Note": "\nLatin terms for virtues written in rubric in outer margins beside first line relating to each virtue,",
+            "Attributed Title": "\nSeptem virtutes contra septem vicia (rubric, preceding first line, f. 206)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 1706.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_1706. \n",
+            "Editions": "\nKaiser,  Rolf,\n                        ed.  \n             Alt- und mittelenglische Anthologie.\n         Berlin, 1954; 3rd ed.; trans. as  Medieval English: a\n                Old English and Middle English Anthology Berlin West, 1958: 296.\n",
+            "folio": "ff. 206-206v"
+        },
+        "Ushaw28": {
+            "First Lines": "\nBe meke & mylde in hert & tongea\u021dens pride bothe colde\n                    & \u00feonge\u2026\n",
+            "Last Lines": "\n\u2026\u00deies virtues cleen \u00fee synnes seuen& leden a man\n                    \u00fee way to heuen\n",
+            "Note": "\nIn Speculum Cristiani, 4a Tabula; immediately followed\n                    by 4744.",
+            "Attributed Title": "\nseptem virtutes contra septem peccata predicta (f. 77)",
+            "folio": "ff. 77-78"
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "_id": 658,
+    "_header": "As men are by their qualities / Inclined til diversities",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler TM 203; for extracts see 2298 and 4290.",
+    "Author(s)": "Andrew Wintoun",
+    "Title(s)": "Chronicle of Scotland",
+    "Subjects": "chronicles; Scotland",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Andrew Wintoun\u2019s Chronicle of Scotland, in nine books (MSS Edinburgh, National Library of Scotland, Advocates\u2019 19.2.4 and Edinburgh, Weymyss Castle, Lord Weymyss Wyntoun\u2019s Chronicle , earlier versions, have seven books) \u2014 in couplets",
+    "_witnesses": {
+        "BLCottNeroDXI": {
+            "First Lines": "\n\u2026And drynkes bot watter of \u00fee seQwhe\u00feer it salt or byttyr be\u2026\n",
+            "Last Lines": "\n\u2026Be preyer consail and ordynaunceDelyuerit to Noude his son & frawns\u2026\n",
+            "Note": "\nBegins and ends incomplete; a later marginal annotation indicates the text begins in 1391 and ends 1405.",
+            "Editions": "\n\nAmours,  Fran\u00e7ois Joseph. \n             The Original Chronicle of Andrew of Wyntoun.\n             6 vols. \n             Scottish Text Society.\n         50, 53-4, 56-7, 63 Edinburgh, London: Blackwood, 1903-14: (with lines 1-64 from Edinburgh,  National Library of Scotland, Advocates\u2019 19.2.4 and\n                        lines 65-686 from Edinburgh,  National Library of Scotland, Advocates\u2019 19.2.3).\nPinkerton,  John,\n                        ed.  \n             Ancient Scottish Poems Never Before in Print.\n         2 vols. London and Edinburgh, 1786: 2.500-19 (extracts only).\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 2.162 (extracts only).\n\n",
+            "folio": "ff. 3-215v"
+        },
+        "BLLan197": {
+            "Note": "\nAbridged version.",
+            "folio": "ff. 3-259v"
+        },
+        "BLRoy17Dxx": {
+            "Editions": "\n\nMacPherson,  David,\n                        ed.  \n             De orygynale cronykil of Scotland.\n         London: Bensley, 1795: (selections only).\nLaing,  David,\n                        ed.  \n             The Orygynale Cronykil of Scotland.\n         3 vols. Edinburgh: Edmonston and Douglas, 1872-79. \nEyre-Todd,  George. \n             Early Scottish Poetry.\n         Glasgow: W. Hodge, 1891: 144-76 (extracts only).\n\n",
+            "folio": "f. 1"
+        },
+        "NLS1923": {
+            "First Lines": "\n\u2026ffor all honest det suld beQuyt with\n                    possibilite\u2026\n",
+            "Last Lines": "\n\u2026\u00feai he ressauit rycht bli\u021dthlyand thankit \u00fee\n                    slaares gretusly\n",
+            "Note": "\nBegins imperfectly in Prologue, line 65; ends imperfectly in Book IX,\n                    chap. 10; scribe John Halden.",
+            "folio": "ff. 1-455v"
+        },
+        "NLS1924": {
+            "First Lines": "\n[As] men ar be \u00feair qualitesInclinit to\n                    diuersites\u2026\n",
+            "Last Lines": "\n\u2026With honour syne Returnit heHayme agayne In his\n                    cuntre\n",
+            "Note": "\nComplete Prologue and 9 Books, with incomplete Table of Contents;\n                    Transcript c. 1750 in Brechin Castle,  Earl of Dalhousie Fordun\u2019s Chronicle, on deposit at Edinburgh, Scottish Record Office, MS\n            GD5/26/48, pp. 1-835; transcript\n                    by Robert Seton in Edinburgh,  Edinburgh University Library La.III.431 [olim Laing 431], pp. 1-916; (partly transcribed also\n                    from Untraced,  Present whereabouts unknown \n               olim Colville).",
+            "folio": "ff. 8-434v"
+        },
+        "NLS651": {
+            "First Lines": "\n\u2026To sauf our life \u00feat was forlorneBe\u021dond tyber as I\n                    herd tell\u2026\n",
+            "Last Lines": "\n\u2026This Lord the Quik sud in his haleTill his wyff that Lady\n                    Cleir\u2026\n",
+            "Note": "\nBegins imperfectly at Book IV, 1.30, and ends imperfectly describing\n                    events in Hollond in 1408.",
+            "folio": "ff. 1-303vb"
+        },
+        "StADA775": {
+            "First Lines": "\n\u2026Bot efter \u00feat to prayingIn grec \u00fee lordschip of\n                    Archad\u2026\n",
+            "Last Lines": "\n\u2026Witht honour syne retourit heHayme agane in hys\n                    cuntre\u2026\n",
+            "Note": "\nImperfect beginning, at I.viii.509.",
+            "folio": "ff. 1-449v"
+        },
+        "Colville": {
+            "Note": "\nPartly transcribed: see note to Edinburgh,  National Library of Scotland, Advocates\u2019 19.2.4\n                    version.",
+            "folio": ""
+        },
+        "Weymyss": {
+            "First Lines": "\n\u2026And of \u00fea castis edtyr grewMen and women al of\n                    new\u2026\n",
+            "Note": "\nBegins imperfectly at Book I, lines 65; ends imperfectly; transcript in\n                        London,  British Library Harley 6909, ff.1-270.",
+            "Editions": "\nAmours,  Fran\u00e7ois Joseph. \n             The Original Chronicle of Andrew of Wyntoun.\n             6 vols. \n             Scottish Text Society.\n         50, 53-4, 56-7, 63 Edinburgh, London: Blackwood, 1903-14: (with lines 1-64 from Edinburgh,  National Library of Scotland, Advocates\u2019 19.2.4 and\n                        lines 65-686 from Edinburgh,  National Library of Scotland, Advocates\u2019 19.2.3).\n",
+            "folio": "ff. 1-399"
+        }
+    }
+}

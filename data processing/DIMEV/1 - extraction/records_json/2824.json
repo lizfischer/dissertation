@@ -1,0 +1,54 @@
+{
+    "_id": 2824,
+    "_header": "Jesu Christ our savior",
+    "Note": "Critical edition, Kaluza (1890)\nXKaluza, Max. Libeaus Desconus, Die Mittelenglische Romanze vom Sch\u00f6nen unbekannten.\nAltenglische Bibliothek 5. Leipzig: Reisland, 1890, (2232 lines).",
+    "Title(s)": "Libeaus Desconus",
+    "Subjects": "romances; Arthurian literature",
+    "Versification": "\u2014 twelve-line? \u2014 aabccbddbeeb",
+    "_description": "Libeaus Desconus \u2014 mainly in 12-line stanzas (aabbccbddbeeb)",
+    "_witnesses": {
+        "BodAsh61": {
+            "First Lines": "\nIhesu cryst owre sauyowreAnd his moder \u00feat swete\n                    flowreThey sped them in \u00fei nedeThat lystyns of A\n                    conquerour\u2026\n",
+            "Last Lines": "\n\u2026\u021de schull haue \u00fee blyssingOf Ihesu cryst All\n                    so\n",
+            "Note": "\n2250 lines.",
+            "Attributed Title": "\nLybeuus Dysconius (f. 38v)",
+            "Editions": "\nShuffleton,  George. \n             Ashmole 61: A Compilation of Popular Middle English Verse.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008: 111-64; 471-81; 605-7.\n",
+            "folio": "ff. 38v-59v"
+        },
+        "BlCottCalAII": {
+            "First Lines": "\nIhesu cryst oure sauyoureAnd hys modyr \u00feat swete\n                    flowre\n",
+            "Last Lines": "\n\u2026Ihesu cryst oure sauyoureAnd hys moder \u00feat swete\n                    floureGraunte vs alle good endynge\n",
+            "Note": "\n2130 lines. \u2018Amen\u2019 after last line.",
+            "Attributed Title": "\nIncipit Lybeaus disconus (by scribe in upper margin, f. 42vb);\n                    Lybeaus disconus (as RT on verso leaves thereafter); Explicit libeauus desconus\n                    (by scribe in lower margin, f. 57rb); Another old poeme intitled\n                    Lybeaus Desconus (f. 1, sixteenth-century list of contents)",
+            "Editions": "\n\nRitson,  Joseph,\n                        ed.  \n             Ancient English Metrical Romances.\n         3 vols. London, 1802; rev. Edmund Goldsmid and repr. Edinburgh:\n            Goldlsmid, 1884: 2.90.\nHippeau,  Celestin. \n             Le Bel Inconnu.\n         Paris: 1852, 1860: 241-330.\n\n",
+            "folio": "ff. 42vb-57rb"
+        },
+        "BLAdd27879": {
+            "Note": "\n2241 lines; transcript of an early print.",
+            "Editions": "\nHales,  John Wesley,  and  Frederick James Furnivall, eds.  \n             Bishop Percy\u2019s Folio Manuscript: Ballads and Romances.\n         3 vols. London: Tr\u00fcbner, 1867-68: 2.415-97.\n",
+            "folio": "pp. 317-346"
+        },
+        "Lam306": {
+            "First Lines": "\nJhesu Criste oure SavyourAnd his moder \u00feat swete\n                    ffloure\u2026\n",
+            "Last Lines": "\n\u2026And his moder that swete floureGrawnte vs gode Endynge.\n                    Amen\n",
+            "Note": "\n2204 lines.",
+            "Attributed Title": "\na tretys of one Gyngelayne othirwyse namyd by king arthure lybeus dysconeus\n                    that was Bastard son to sir Gaweyne (f. 73, in a later hand); Explicit\n                        lybious disconyas (f. 107)",
+            "folio": "ff. 73-107"
+        },
+        "LincInnH150": {
+            "First Lines": "\n\u00feew dorstest nou\u021dt for al \u00fey wordAbyde \u00feeo wynd\n                    of as weord\u2026\n",
+            "Last Lines": "\n\u2026And his modir \u00feat swete flourSpede vs at oure\n                    nede\n",
+            "Note": "\n1107 lines; very imperfect.",
+            "Attributed Title": "\nExplicit [ ] de\ns[ ]r, then \u2018Chauser\u2019 written over erased word; later\n                    hands write \u2018Li bieu Desconus: Known fayre un[ ]\u2019; \u2018The\n                    Story of St Libeus Disconus\u2019 (f. 12v)",
+            "folio": "ff. 4-9;  1;  10-12v"
+        },
+        "NapXIIIB29": {
+            "First Lines": "\n[I]hc crste owre saviourand his moder \u00feat swete\n                    flour\u2026\n",
+            "Last Lines": "\n\u2026And his modir \u00feat swete flourTo blys he vs alle bryng\n                    Amen\n",
+            "Note": "\n2230 lines.",
+            "Attributed Title": "\nLibious Disconioris (p. 87, RT); Hic explicit liberis\n                        Disconyus (p. 113)",
+            "Editions": "\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 2.65-7 (selections).\n",
+            "folio": "pp. 87a-113b"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "_id": 4227,
+    "_header": "Of them that written us tofore",
+    "Note": "See 4226 for the A Text, 4228 for the C Text, and 4229 for fragments.",
+    "Author(s)": "John Gower",
+    "Title(s)": "Confessio Amantis",
+    "Subjects": "tales; love",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Macaronic": "Latin",
+    "_description": "John Gower, Confessio Amantis, B Text \u2014 in eight Books and a Prologue: the longest version has about 34,000 lines",
+    "_witnesses": {
+        "Bod294": {
+            "First Lines": "\nOff hem \u00feat writen vs toforeThe bookes duelle and we\n                    \u00feerfore\u2026\n",
+            "Last Lines": "\n\u2026Wher reste\u00fe loue and alle pesOure ioye may ben\n                    endeles\n",
+            "folio": "ff. 1-196vb"
+        },
+        "CamSidney63": {
+            "First Lines": "\n\u00deo heuen wot what is to donebut we \u00feat duelle vnder\n                    \u00fee monestonde in \u00feis werld vp on a were& nameli but\n                    \u00fee powere\u2026\n",
+            "Last Lines": "\n\u2026Amen I prai pur charite\u00feat it mot so be\n",
+            "folio": "ff. 2ra-202va"
+        },
+        "CamTCC581": {
+            "First Lines": "\n\u2026To whom the lordes doon homageAnd aftir that of mariage\u2026\n",
+            "Last Lines": "\n\u2026Wher reste\u00fe loue and alle pesOure ioye may ben endeles\n",
+            "Note": "\nBegins 2.2687 (missing five quires at the front).",
+            "Attributed Author": "\nLiber Iohannis Gower\u2026Iohannis Gower Poemata Anglica Gallica &\n                        Latina (added 2 later hands, f. iiv)",
+            "folio": "ff. 1ra-147va"
+        },
+        "BLAdd12043": {
+            "First Lines": "\n\u2026The strengthe of loue to withstondeThat he ne was so brought\n                    to honde\u2026\n",
+            "Last Lines": "\n\u2026Which I may take in \u00fei personeMi loue lust and lokes\n                    hore\u2026\n",
+            "Note": "\nBegins 1.786; ends 8.2403; about twenty leaves missing.",
+            "folio": "f. 1-155v"
+        },
+        "NottsULMiLm8": {
+            "First Lines": "\n[o]f hem \u00feat writen vs to fore\u00fee bokes dwell & we\n                    \u00feerforeBen taght of \u00feat was write \u00feoffor \u00fei gude\n                    is \u00feat we also\u2026\n",
+            "Last Lines": "\n\u2026Where reste\u00fe loue & all peesOure ioie may ben\n                    endeles\n",
+            "folio": "ff. 1-200v"
+        },
+        "YaleBeiOsfa1": {
+            "First Lines": "\n\u2026And wi\u00fe his wordes debonaireHe saide to me softe and\n                    faire\u2026\n",
+            "Last Lines": "\n\u2026Wher reste\u00fe loue and all pesOure ioye may ben\n                    endeles\n",
+            "Note": "\nBegins imperfectly at 1.231; several leaves missing. A fragment of 8 folios, comprising Book 1, lines 1361-2602, from this volume but separated, is also owned by the Beinecke.",
+            "Attributed Title": "\nExplicit iste liber qui transeat obsecro liber\u2026 super huius\n                        opusculi sui complementum Iohnni Gower a quodam philosopho transmissa\n                    (f. 196ra)",
+            "folio": "ff. 1ra-196ra"
+        },
+        "PULTayM5": {
+            "First Lines": "\nOf hem \u00feat wryten us to fore\u00fee bokes dwelle & we \u00feerfore\u2026\n",
+            "Last Lines": "\n\u202aWher reste\u00fe loue and alle pesOure ioie may ben endeles\n",
+            "folio": "ff. 1ra-186va"
+        },
+        "HunEL26A17": {
+            "First Lines": "\nOff hem \u00feat writen ous tofore\u00fee bokes dwelle and we\n                    \u00feerfore\u2026\n",
+            "Last Lines": "\n\u2026Wher resti\u00fe loue and alle pesOure ioie mai ben\n                    endeles\n",
+            "Note": "\nSeventeen leaves lost from this MS copy. For one of these missing\n                    leaves, see New Haven,  Yale University, Beinecke Library, Takamiya Deposit 98 [olim Quaritch, Cat. 1270 (2000), item 55; prior Mertoun, Duke of\n               Sutherland], below.",
+            "Attributed Author": "\nGower (f. 169v in colophon)",
+            "folio": "ff. 1-169v"
+        },
+        "TokyoTak98": {
+            "First Lines": "\n\u2026ich \u00feat \u00feei first founden oute[ ]e nocht be broght\n                    aboute\u2026\n",
+            "Last Lines": "\n\u2026The point of sublunacionAnd for\u00fe wi\u00fe\n                    calcinacionOf veray apperbacionDo[ ]cion\n",
+            "Note": "\nA single-leaf fragment containing lines 4.2351-82; 2392-2428; 2439-74;\n                    and 2485-2520 from San Marino, CA,  Henry Huntington Library EL 26.A.17 [olim Bridgewater; the \u2018Stafford Gower\u2019] (see above).",
+            "Editions": "\nEdwards,  A. S. G.,  and  Toshiyuki Takamiya.  \n             \u201cA New Fragment of Gower\u2019s \u2018Confessio\n                Amantis\u2019.\u201d \n             Modern Language Review.\n         96 (2001): 931-6: 933-6.\n",
+            "folio": "ff. 1-1v"
+        }
+    }
+}

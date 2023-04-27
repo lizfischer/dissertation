@@ -1,0 +1,164 @@
+{
+    "_id": 6261,
+    "_header": "What weens King Edward with his long shanks",
+    "Note": "Found in many chronicles and in most MSS of the prose Brut. Cf. 4372.",
+    "Subjects": "Edward I; chronicles, verse in; Scots, insults by, against the English",
+    "Versification": "\u2014 five-line \u2014 aabcb",
+    "_description": "Scots\u2019 abuse of Edward I at Berwick \u2014 five lines",
+    "_witnesses": {
+        "BodRawB171": {
+            "Transcription": "\nWenes kyng Edward wi\u00fe his longe shankesforto wyn berwik al oure\n                    vn\u00feankesgas pikes himand when he ha\u00fe hit gas diche\n                    him\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 107"
+        },
+        "CULLl214": {
+            "Transcription": "\nWende kynge Edwarde with his longe shankesto haue goten Berwike alle\n                    oure vnthankesgas pikes hymand when he hath goten hit gas dikes\n                    hym\n",
+            "Note": "\nIn the prose Brut, rubric as heading, written as\n                    prose.",
+            "folio": "f. 152"
+        },
+        "BLAdd12030": {
+            "Transcription": "\nWende kyng Edwarde with his longe shankesTo haue gete Berwyk alle oure vnthankesGas Pyke hymand after gase dyke hym\n",
+            "Note": "\nWritten in verse lines, not rubric.",
+            "folio": "f. 109"
+        },
+        "BLAdd24859": {
+            "Transcription": "\nWende kyng Edwarde with his longe shankesTo haue gete Berwyk alle oure vnthankesGas Pyke hymand after gase dyke hym\n",
+            "Note": "\nWritten as prose, rubric.",
+            "folio": "f. 62v"
+        },
+        "BLEge650": {
+            "Transcription": "\nWende kyng Edward with \u00fei long shankysto gete berwyke oure vnthankysgas pykes hymAnd whenne he hase it gas dykes hym\n",
+            "Note": "\nWritten as prose, rubric.",
+            "folio": "f. 37v"
+        },
+        "BLHar24": {
+            "Transcription": "\nwende kyng Edwarde with his longe shankesTo haue gete Berwike alle oure vnthankesfirste Gas pyke hym and after that gase dyke hym\n",
+            "Note": "\nWritten as prose.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 24.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_24. \n",
+            "folio": "f. 107"
+        },
+        "BLHar53": {
+            "Transcription": "\nWhat wende \u00fee kyng Edward with his long shankesffor till haue wonne Berewik all oure vnthankesPykes hyme and when he has it gas dikes hym\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 113"
+        },
+        "BLHar266": {
+            "Transcription": "\nWend king Edewarde wi\u00fe his lange shankesTo haue gete Berwyke al our vn\u00feankesGas pikes hymand whenne has gas dikes hym\u2026\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 6"
+        },
+        "BLHar753": {
+            "Transcription": "\nWende kyng Edward with \u00fee longe shankeshaue gete Berwyk all our \u00feankesgas pykys hymAnd whan he had do gas dikys hym\n",
+            "Note": "\nWritten as prose, rubric.",
+            "folio": "f. 95v"
+        },
+        "BLHar1337": {
+            "Transcription": "\nWent kynge Edward with his longe shankisTo have goten Berewik al a\u021denst our thankisGas piken hym & aftir Gas diken hym\n",
+            "Note": "\nWritten as prose, only four lines in this witness.",
+            "folio": "f. 54"
+        },
+        "BLHar1568": {
+            "Transcription": "\nWende kyng Edwarde with his long schankesffor to wyne Barwike att oure vnthankesGas pikes himAnd whene he hath gas diches hym\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 91"
+        },
+        "BLHar2182": {
+            "Transcription": "\nWende kyng Edward with his longe schankishaue gete Berwik alle oure vn\u00feankisGas likis him& whanne he ha\u00fe it gas dikes him\n",
+            "Note": "\nWritten as prose, rubric.",
+            "folio": "f. 90v"
+        },
+        "BLHar2256": {
+            "Transcription": "\nWende \u00feu Edward with \u00fey longe schankisto haue gote Berewik all oure bi\u00feankisgas pikes hym& whanne he has it gaes dike hym\n",
+            "Note": "\nWritten as prose, rubric.",
+            "folio": "f. 89v"
+        },
+        "BLHar2279": {
+            "Transcription": "\nWende kyng Edwarde with his lange shankishaue gete Berwyke alle oure vn\u00feankysgas pikes himand when he hath dikes him\n",
+            "Note": "\nWritten as prose, rubric.",
+            "folio": "f. 95v"
+        },
+        "BLHar3945": {
+            "Transcription": "\nwende king Edward wi\u00fe his longe shankishaue ghete berwyk al oure vnthankisgas pikes himAnd whenne he ha\u00fegas dykes him\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 92v"
+        },
+        "BLHar4690": {
+            "Transcription": "\nwatte wene\u00fe king Edward wi\u00fe his longge shawnkezto wynne Berwikke alle oure vnthawnkezGoe Pike himand wanne he has itte Gaas dike him\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 57ra"
+        },
+        "BLHar4930": {
+            "Transcription": "\nWenyd kyng Edward with his long shankisto haue get Barwik all our vnthankislat hym ga pike hym& when he hath it lat dyke hym\n\n",
+            "Note": "\nWritten as prose, rubric.",
+            "folio": "f. 75"
+        },
+        "BLRoy17Dxxi": {
+            "Transcription": "\nWende king Edwarde with his longe shankishaue goten Berewik al oure vnthankisgaz pikez himand whan he hath gaz dikez him\n",
+            "Note": "\nWritten as prose, underlined in red.",
+            "folio": "f. 96v"
+        },
+        "BLSto68": {
+            "Transcription": "\nWende king Edward with his longe schankesto haue gete Berwyk al oure vnthankesgas pykes himand when he hath gas dikes him\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 128v"
+        },
+        "BLSto70": {
+            "Transcription": "\nWende kinge Edward wi\u00fe his longe shankesfforto haue gete Berwyk all oure vnthankesGase dyke himAnd ofter gase dyke him\n",
+            "folio": "f. 65v"
+        },
+        "BLSto71": {
+            "Transcription": "\nWend king Edwarde with his longe shankysto haue geten Berwyk all agayn oure thankysGas pike hym& after gas dike hym\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 51"
+        },
+        "NLWPen396D": {
+            "Transcription": "\nWenyst \u00feu Edward for all \u00fei longe shankesffor to gete\n                    Barwyke a\u021denst owre thankisGarre pike hym and dyke hym\n",
+            "Note": "\nIn the prose Brut, rubric as heading, written as\n                    verse.",
+            "folio": "f. 133"
+        },
+        "HarEng530": {
+            "Transcription": "\nWene\u00fee kyng Edward with hees lange shankesffor to wynne Berewyk\n                    al oure vnthankesga pyke himand leet himga dyke him\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 130"
+        },
+        "HarEng587": {
+            "Transcription": "\nWende kynge Edwarde with his longe shankisto\n                    haue grete Berewik all oure vnthankysGas pikes himAnd whanne he hath\n                        doneGas dikes hym\n",
+            "Note": "\nWritten as prose; \u2018done\u2019 added by later hand.",
+            "folio": "f. 130"
+        },
+        "HarEng766": {
+            "Transcription": "\nWhat wenys kyng Edward with his lang shankisTo haue wonne Berwik all\n                    ouer vnthankysGaas pykis hymAnd whan he hath itGaas dykis\n                    hym\n",
+            "Note": "\nIn Fabyan\u2019s Chronicle.",
+            "folio": "ff. 123-123v"
+        },
+        "HarRich35": {
+            "Transcription": "\nWende kyng Edwarde With his lange shankesTo haue gete Berwyke Alle\n                    oure vnthankesGas pyket hymAnd after \u00feat Gas dyke\n                    hym\n",
+            "Note": "\nIn prose Brut; written as verse.",
+            "folio": "f. 58ra"
+        },
+        "YaleBei494": {
+            "Transcription": "\nWhat wende king Edward wi\u00fe his lange shankesforto geten Berwyk\n                    alle oure vn\u00feankes\n",
+            "Note": "\nIn prose Brut; written as prose, in rubric.",
+            "folio": "f. 67va"
+        },
+        "HunHM131": {
+            "Transcription": "\nWenes king Edwarde wyth hys long shankesTo haue gete Berwyk all our\n                    vnthankes\n",
+            "Note": "\nIn prose Brut; written as prose, with virgules to mark line\n                    breaks.",
+            "folio": "f. 81"
+        },
+        "HunHM136": {
+            "Transcription": "\nWende kynge Edward wyth his longe shankesTo haue gete Berewyke all\n                    our vnthankesGas pikes hymAnd when he hathGas dikes\n                    hym\n",
+            "folio": "f. 78"
+        },
+        "HunHM113": {
+            "Transcription": "\nWend kyng Edward with his long shankishav got berwik al our\n                    vn\u00feonkisGo pik himWhen \u00feee hav itgo dike him\n",
+            "Note": "\nIn prose Brut; written as prose, in rubric.",
+            "folio": "f. 83rb"
+        },
+        "TokyoTak12": {
+            "Transcription": "\nWende kyng Edwarde with his long shankesHaue gote Berwyke all our\n                    vnthankesGas pyke him And when he has doun gas dyke him\n",
+            "Note": "\nWritten as three verse lines, underscored in rubric.",
+            "folio": "f. 104v"
+        }
+    }
+}

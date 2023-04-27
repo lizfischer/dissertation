@@ -1,0 +1,32 @@
+{
+    "_id": 3413,
+    "_header": "Mary for the love of thee / Glad and merry shall we be",
+    "Subjects": "Virgin Mary, joys of; carols, to Virgin Mary",
+    "Versification": "\u2014 four-line \u2014 aaab",
+    "Macaronic": "Latin",
+    "_description": "On the Five Joys \u2014 seven quatrains (aaab) and burden: \u2018A a a a / Gaude celi domina\u2019",
+    "_witnesses": {
+        "BodEngPoete1": {
+            "First Lines": "\nMary for \u00fee loue of \u00feeGlad & mery schal we\n                    be\u2026\n\n",
+            "Last Lines": "\n\u2026To cum afor hyr sones facein seculorum\n                    secula\n\n",
+            "Attributed Title": "\nOff the 5 joyes of owr lady (f. 45)",
+            "Editions": "\n\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 164-5; 1977, 146.\nWright,  Thomas,\n                        ed.  \n             Songs and Carols from a manuscript\u2026of the Fifteenth\n                Century.\nPercy Society\n         23. London: Richards, 1847: 68-9.\nGreene,  Richard Leighton,\n                        ed.  \n             A Selection of English Carols.\nClarendon Medieval and Tudor Series.\n         Oxford: Clarendon, 1962: 111.\n\n",
+            "folio": "ff. 45-45v"
+        },
+        "OxfBal354": {
+            "First Lines": "\nMary for the loue of theBlyth & glad may we\n                    be\u2026\n\n",
+            "Last Lines": "\n\u2026God & man & so he ys for ayAssendit super\n                        sideraExplicit\n",
+            "Note": "\nIn this manuscript 6 quatrains (aaab) plus burden (cb): Ay ay ay ay\n                        /Gaude celi domina\n",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 164-5; 1977, 146.\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 242-3.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 15.\n\n",
+            "folio": "p. 4683"
+        },
+        "CamStJohn259": {
+            "First Lines": "\nMary myld for loue of \u00feeGlad & blythe nowe may we\n                    be\u2026\n\n",
+            "Last Lines": "\n\u2026All holy chyrche \u00feu hast in mythIt[er]na\n                    potentia\n",
+            "Note": "\n6 x 4, aaab, including fourth line, Latin, rhyming with burden; plus\n                    burden in this MS, \u2018A A A A gaudet cely domina\u20196 stanzas",
+            "Editions": "\n\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 164-5; 1977, 145-6.\nJames,  Montague Rhodes,  and  G. C. Macaulay, eds.  \n             \u201cFifteenth Century Carols and Other Pieces.\u201d \n             Modern Language Review\n         8 (1913): 68-87: 70.\n\n",
+            "folio": "ff. 2-2v"
+        }
+    }
+}

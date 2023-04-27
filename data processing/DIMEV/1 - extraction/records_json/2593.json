@@ -1,0 +1,20 @@
+{
+    "_id": 2593,
+    "_header": "In the beginning of this deed",
+    "Note": "With a 32-line introduction.",
+    "Subjects": "proverbs; introductions",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A collection of 136 proverbs, written first in Latin and then translated \u2014 973 lines, in stanzas of 4-8 lines per proverb",
+    "_witnesses": {
+        "StGeorgEII": {
+            "Editions": "\nHorrall,  Sarah M. \n             \u201cLatin and Middle English Proverbs in a Manuscript at St. George\u2019s\n                Chapel, Windsor Castle.\u201d \n             Mediaeval Studies\n         45 (1983): 343-84: 343.\n",
+            "folio": "f. 21"
+        },
+        "BodEngmiscc291": {
+            "First Lines": "\nIf \u00fei pore frende gif \u00fee with loueli hend\n                    \u2026\n",
+            "Last Lines": "\n\u2026\u00feat in pes will lifals \u00feing askis &\n                    tyme\n",
+            "Note": "\n32 stanzas, a fragment.",
+            "folio": "ff. 8-9v"
+        }
+    }
+}

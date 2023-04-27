@@ -1,0 +1,38 @@
+{
+    "_id": 1924,
+    "_header": "Heaven bliss that all shall win",
+    "Title(s)": "Syr Tryamowre",
+    "Subjects": "romances",
+    "Versification": "\u2014 twelve-line \u2014 aabccbddbeeb",
+    "_description": "Romance of Sir Tryamour, a fragment, parts of 10 folios \u2014 written in 12-line stanzas, aabccbddbeeb",
+    "_witnesses": {
+        "BodEngPoetd208": {
+            "First Lines": "\n\u2026\u00dee kyng lowede welle hys queneffor scho was semly on to\n                    sene\u2026\n",
+            "Last Lines": "\n\u2026\u00deus schul \u021de to hym sayI wold hym see Be my\n                    fay\u2026\n",
+            "Note": "\nCorresponds to lines 25-1119, passim, of Cambridge UK,  Cambridge University Library Ff.2.38.",
+            "Editions": "\nGibson,  S.,\n                        ed.  \n             \u201cColonel William E. Moss.\u201d \n             Bodleian Library Record\n         5:3 (1955): 156-66: 164.\n",
+            "folio": "ff. 28-28v;  32-32v;  34-34v;  36-36v;  38a-38cv;  40-40v;  42-42v;  44-44v"
+        },
+        "CULFf238": {
+            "First Lines": "\nHeven blys \u00feat all schall wynneSchylde vs fro dedly\n                    synne\u2026\n",
+            "Last Lines": "\n\u2026That euyr schall laste with owt mysAmen Amen for\n                    charytee\n",
+            "Note": "\n1719 lines.",
+            "Attributed Title": "\nHere\u2026begynneth syr Tryamowre (f. 79rb)",
+            "Facsimiles": "\nMcSparran,  Frances,  and  Pamela R. Robinson.  \n             \u201cIntroduction.\u201d \n             Cambridge University Library MS Ff.2.38.\n         London: Scolar Press, 1979. \n",
+            "Editions": "\n\nHalliwell-Phillipps,  James Orchard. \n             The Romance of Syr Tryamoure.\nPercy Society\n         16. London: Richards, 1846. \nSchmidt,  Anna Johanna Erdman,\n                        ed.  \n             Syr Tryampwre.\n         Utrecht: Kemink, 1937. \nFellows,  Jennifer. \n             Of Love and Chivalry: An Anthology of Middle English Romance.\n         London: Dent; Rutland, Vt.: Charles E. Tuttle, 1993: 147-98.\nHudson,  Harriet,\n                        ed.  \n             Four Middle English\n                    Romances: Sir Isumbras, Octavian, Sir Eglamour of Artois, Sir\n                Tryamour.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1996. 2nd ed.\n            2006. \n\n",
+            "folio": "ff. 79va-90rb"
+        },
+        "BLAdd27879": {
+            "Note": "\n1593 lines.",
+            "Editions": "\nHales,  John Wesley,  and  Frederick James Furnivall, eds.  \n             Bishop Percy\u2019s Folio Manuscript: Ballads and Romances.\n         3 vols. London: Tr\u00fcbner, 1867-68: 2.80-135.\n",
+            "folio": "p. 210"
+        },
+        "BodRawFrag": {
+            "First Lines": "\n\u2026And when they had saide alle that in stoureThe maide woulde\n                    none but TriamoureThan the grete lordes there presentHome to Arragone\n                    thay wenteThey were so stoute in stowre\u2026\n",
+            "Last Lines": "\n\u2026The Emperoure sayd withoute fayleSette a day of\n                    bataileBy the assente\u2026\n",
+            "Note": "\nNo longer extant: see \nX \n             \u201cJ. O. Halliwell and the Bodleian.\u201d \n             Bodleian Library Record\n         2 (1946): 237-8, 237 (where it is\n                    suggested the MS was stolen by Halliwell); 75 lines.",
+            "Editions": "\n\nHalliwell-Phillipps,  James Orchard. \n             The Romance of Syr Tryamoure.\nPercy Society\n         16. London: Richards, 1846: 61.\nBauszus,  H.,\n                        ed.  \n             Die mittelenglische Romanze Sir Triamour.\n         K\u00f6nigsberg, 1902: (critical ed.).\n\n",
+            "folio": "single leaf fragment"
+        }
+    }
+}

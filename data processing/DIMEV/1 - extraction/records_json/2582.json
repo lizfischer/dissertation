@@ -1,0 +1,24 @@
+{
+    "_id": 2582,
+    "_header": "In summer before the Ascension / At Evensong on a Sunday",
+    "Title(s)": "Mane nobiscum domine",
+    "Subjects": "Ascension; Christ, prayers to; Disciples",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "Macaronic": "Latin",
+    "_description": "\u2018Mane nobiscum domine\u2019 \u2014 ten 8-line stanzas with this refrain",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nIN Somer bi fore \u00fee AscenciunAt Euensong on a\n                    Sonundai\u2026\n",
+            "Last Lines": "\n\u2026Out of \u00feis world whon we be brou\u021dtMane nobiscum\n                        domine\n\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 733-5.\nPatterson,  Frank A. \n             The Middle English Penitential Lyric.\nColumbia University Studies in English.\n         New York: Columbia Press, 1911: 125-8.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 202-5.\n\n",
+            "folio": "f. 412rb-412rc"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nIN somer bi fore \u00fee ascenciunAt euensong on a\n                    sunumday\u2026\n",
+            "Last Lines": "\n\u2026Out of \u00feis world whon we be brou\u021dtMane nobiscum\n                    domine\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 133va-133vb"
+        }
+    }
+}

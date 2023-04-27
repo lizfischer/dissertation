@@ -1,0 +1,64 @@
+{
+    "_id": 2084,
+    "_header": "How mankind doth begin / Is wonder for to scrive so",
+    "Note": "\u2019The Myrrour of Mankind\u2019",
+    "Subjects": "ages of man\u2019s life",
+    "Versification": "\u2014 eight-line \u2014 abababab",
+    "_description": "\u2019The Myrrour of Mankind\u2019 \u2014 eighty-two 8-line stanzas (abababab)",
+    "_witnesses": {
+        "OxfBal354": {
+            "First Lines": "\nHow that Mankynd doth be gynneYt ys a wonder for to discrye\n                    sooIn game he ys getyn In syneThe child ys the moders Dedely\n                    foo\u2026\n",
+            "Last Lines": "\n\u2026My redy speche may not lastffor my tothes they fall me\n                    fro\n",
+            "Note": "\nEnds imperfectly at line 488.",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "folio": "pp. 407-417"
+        },
+        "CULFf238": {
+            "First Lines": "\nHow mankinde doi\u00fe bigynneys wondre to dyscrye sooIn game\n                    he ys begeten with synne\u00dee chylde ys \u00fee modurs deedly\n                    foo\u2026\n",
+            "Last Lines": "\n\u2026Quod largesse in almesdedeCouetyse counseylyth \u00fee an [\n                    ]\u2026\n",
+            "Note": "\n186 lines; ends imperfectly; ff. 22-27 missing.",
+            "Attributed Title": "\nHere\u2026begynne\u00fe \u00fee mirrour of vices & of vertues which\n                    also ys clepid \u00fee seuene ages (f. 20v)",
+            "Facsimiles": "\nMcSparran,  Frances,  and  Pamela R. Robinson.  \n             \u201cIntroduction.\u201d \n             Cambridge University Library MS Ff.2.38.\n         London: Scolar Press, 1979. \n",
+            "folio": "ff. 20vb-21vb"
+        },
+        "CamMagPep2125": {
+            "First Lines": "\nHowe mankynde do\u00fe begynneIs wonder to discryue\n                    so\u2026\n",
+            "Last Lines": "\n\u2026Withoute synne \u00feider to wendeWith loue to se his faire\n                    face\n",
+            "Note": "\nWritten two lines of verse per line of MS.",
+            "Attributed Title": "\nHere bygynne\u00fe materes of \u021dou\u00fee & of age And of vertues\n                    & of vices Wy\u00fe her kyndely condicions (f. 60v)",
+            "folio": "ff. 60v-65"
+        },
+        "BLAdd36983": {
+            "First Lines": "\nHow \u00feat mankynde doth begynneIt is meruayle to telle it\n                    so\u2026\n",
+            "Last Lines": "\n\u2026\u00deat we mow entre hevyne withinneAnd dwell with \u00feat\n                    prince in fere\n",
+            "Note": "\nAbbreviated variant of 63 stanzas (484 lines).",
+            "Attributed Title": "\nHic Incipit Gubernacio hominis (f. 298); Explicit Gubernacio\n                        Hominis (f. 305)",
+            "Editions": "\nLee,  B. S. \n             \u201cGubernacio Hominis: A Fifteenth-Century Allegorical Poem.\u201d \n             Medium \u00c6vum\n         50 (1981): 230-58: 231-48.\n",
+            "folio": "ff. 298-305"
+        },
+        "BLAdd37492": {
+            "First Lines": "\nHow mankynde doth by gynneIt ys mervayle to scryuen it\n                    so\u2026\n",
+            "Last Lines": "\n\u2026Who dar bydde the let beBe he bolde wyke\u00fe or\n                    ly\u021dt\n",
+            "Note": "\nLines 1-142 only.",
+            "folio": "ff. 90v-92v"
+        },
+        "Lam853": {
+            "First Lines": "\nHOw mankinde doo\u00fe bigynneis wondir for to scryue soIn\n                    game he is bigoten in synne\u00dee child is \u00fee modris deedli\n                    foo\u2026\n",
+            "Last Lines": "\n\u2026To marie modir maiden freeAs sche bare a childeCounforte\n                    to usOn \u00feat soule haue piteeIf \u00fee wille beof crist\n                    ihesu Amen\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Hymns to the Virgin and Christ\u2026and other religious poems.\nEETS\n         o.s. 24 (1867); repr. 1973: 58-78.\n",
+            "folio": "pp. 120-150"
+        },
+        "HunHM135": {
+            "First Lines": "\n\u2026Go from me & make the a frereMyn age ys nowe in xl\n                    \u021dere\u2026\n",
+            "Last Lines": "\n\u2026Wyth outen synne thedyr to wendeWyth loue to sen that fayre\n                    face\n",
+            "Note": "\nBegins imperfectly at line 288; ends \u2018Amen\u2019 after last line\n                    above, then below the colophon, \u2018Here ys wryten how mankynde dothe wende /\n                    Wanne the lyf ys brow\u021dt to the ende\u2019 (f. 86v), then\n                        \u2018Explicit totu\u2019.",
+            "folio": "ff. 83-86v"
+        },
+        "TokyoTak94": {
+            "First Lines": "\nHow man kynde dothe be gynne\n                    Is wondre for to skrye so\u2026\n",
+            "Last Lines": "\n\u2026On his soule to have pite\n                    Yf the wille be of crist ihesus\n                    Amen Pater noster\n",
+            "folio": "ff. 194-208v"
+        }
+    }
+}

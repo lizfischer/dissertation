@@ -1,0 +1,54 @@
+{
+    "_id": 5508,
+    "_header": "The true process of English policy",
+    "Note": "For an abstract see 1527. For the \u2018B\u2019 Text, 1st version, see 5509; for the \u2018B\u2019 Text, 2nd version, see 5510.",
+    "Title(s)": "The Libel of English Policy",
+    "Subjects": "advice, to magistrates; envoys; political verse; merchants; prologues",
+    "Versification": "\u2014 two-line, seven-line, eight-line \u2014 aa, ababbcc",
+    "_description": "The Libel of English Policy, the \u2018A\u2019 text \u2014 in couplets, with a Prologue of seven stanzas rhyme royal and Envoy of two 8-line stanzas",
+    "_witnesses": {
+        "BodLauMis704": {
+            "First Lines": "\nThe trewe Processe of englysh polycyeOf vtterwarde to kepe thys\n                    regne in rest\u2026\n",
+            "Last Lines": "\n\u2026Whanne he the redde all over in a nyghteSo forthe trewe booke\n                    and criste defende \u00fei ryghte\n",
+            "Attributed Title": "\nHEir beginneth the Prologe of the processe of the libelle of Englysh\n                    polycye erhortynge all englande to kepe the See environ and namelye the narowe\n                    see Shewynge whate profete commieth thereof. And also worshype and saluasioun to\n                    englande and to all englyshe menne (f. 1)",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             Political Poems and Songs relating to English History, composed during\n                the period From the Accession of Edward III to that of Richard III.\n             2 vols. \n             Rolls Series\n         14 (1859, 1861); repr. Kraus, 1965: 2.157-205.\nHertzberg,  Wilhelm Adolf Boguslaw,  and  Reinhold Pauli.  \n             Libel of Englysche Policy.\n         Leipzig: Hirzel, 1878. \nHertzberg,  Wilhelm Adolf Boguslaw,  and  Reinhold Pauli.  \n             Libel of Englysche Policy.\n         Leipzig: Hirzel, 1878. \n\n",
+            "folio": "ff. 1-19"
+        },
+        "OxfAllS103": {
+            "First Lines": "\nThe true proces off englyssh polyceOff vtterward to kepe this reame\n                    to rest\u2026\n",
+            "Last Lines": "\n\u2026It nedeth no more this mater texpounffarewell Wales than\n                    Inglond cometh to drede\u2026\n",
+            "Note": "\nEnds imperfectly line 731.",
+            "Attributed Title": "\nHere begynnethe the prolog off the processe off the libelle of Englische\n                    polycie exortyng Alle Englonde to kepe the See environ and namely the Narowe See\n                    Shewynge whate profette comythe there off And Alle so whate worsshupe And\n                    Saluacioun to Englonde (f. 1); Incipit liber de custodia maris presertim\n                    (f. 1, right margin)",
+            "folio": "ff. 1-12v"
+        },
+        "CamMagPep1461": {
+            "First Lines": "\nThe trewe processe of Englisch policieVttward to kepe this reame in\n                    rest\u2026\n",
+            "Last Lines": "\n\u2026When he the radde all ouyr manyghtGo forthe trew boke &\n                    Cryst defend thy Ryght\n",
+            "Attributed Title": "\nHere begynnyth the prologe of the processe of the libell of englysch\n                    policie exhortyng all England to kepe the see environ and nanly the narow see\n                    seying what profyt cometh ther of & all so what worschipe & saluacocioun\n                    to Engeland (f. 1); Explicit libellus de policia concervativa Maris (f.\n                    23)",
+            "folio": "ff. 1-23"
+        },
+        "BLHar78": {
+            "First Lines": "\n\u2026Merche fustian & also lynnyn clothBut ye fflemmynges yf\n                    ye be not wroth\u2026\n",
+            "Last Lines": "\n\u2026Whan he it redde all ouer in a nyghtGoo forthe trewe boke\n                    & cryste defend thi ryght\n",
+            "Note": "\nA text; begins imperfectly at line 75.",
+            "Attributed Title": "\nExplicit Libellus de policie Conseruatiua Maris (f. 69)",
+            "folio": "ff. 54-69"
+        },
+        "BLHar4011": {
+            "First Lines": "\nThe trew processe off Englissh policyeOff outward to kepe this lond\n                    in rest\u2026\n",
+            "Last Lines": "\n\u2026The ende of bataile is pease sikerlyAnd poverte causith pease\n                    synall verrely\u2026\n",
+            "Note": "\nMissing lines 626-679 and ends imperfectly at line 1091 at lower margin\n                    of verso.",
+            "Attributed Title": "\nHere begynnethe the Prologe off the libelle of englissh policie exhortyng\n                    all Englonde to kepe the See envyron and namly the narow See Shewyng what\n                    profite cometh therof and also what worship and salua (incomplete rubric\n                    heading, by scribe, f. 120)",
+            "folio": "ff. 120-137v"
+        },
+        "Belfast": {
+            "folio": "a single leaf"
+        },
+        "SocAnt101": {
+            "First Lines": "\nThe trew processe off englisch policieAs toward to kepe the reaume\n                    in restOf englond that no man may deuiseThe soth to say hit ys on the\n                    best\u2026\n",
+            "Last Lines": "\n\u2026Off high wittes lordis Ryght fameuxTo examyne thy dull\n                    vyditeeI offre to the them to be graciousTo myn excuse fare\n                    wele myn own treteExplicit\n",
+            "Attributed Title": "\nHere begynnythe the prologe of the Lible of englisch / policie exorting all\n                    Englond to kepe the See enueron / and namely to kepe the narow See Shewyng what\n                    proffit / cometh therof & also worship to the Reaume of Englond / and to all\n                    Englisch men (f. 50)",
+            "folio": "ff. 50-67v"
+        }
+    }
+}

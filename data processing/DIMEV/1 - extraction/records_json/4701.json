@@ -1,0 +1,76 @@
+{
+    "_id": 4701,
+    "_header": "Saint Mary clean virgin",
+    "Note": "Critical edition: Zupitza (1888)\nXZupitza, Julius. \u201cCantus beati Godrici.\u201d Englische Studien 11 (1888): 401-32, 415-21.",
+    "Subjects": "Virgin Mary, hymns to; hymns, to Virgin Mary; Godric, saint",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Oxford, Bodleian Library Fairfax 6 (SC 3886)",
+    "_description": "St. Godric\u2019s hymn to the Virgin \u2014 eight lines",
+    "_witnesses": {
+        "BodDou207": {
+            "First Lines": "\nSeinte marie clane virgine moder iesu crist\n                    nazarene\u2026\n",
+            "Last Lines": "\n\u2026deliuere mine sennen regne in mi modbrig me to blisse wit\n                    \u00fei self god\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\n\nStevenson,  Joseph. \n             Libellus de Vita et Miraculis S. Godrici, Heremitae de Finchale auctore\n                Reginaldo Monacho Dunelmensi.\nSurtees Society\n         20 (1847): 119.\nHewlett,  Henry G.,\n                        ed.  \n             Rogeri de Wendover: Liber qui dictiur Flores Historiarum ab anno Domini\n                MCLIV annoque Henrici Anglorum regis Secundi primo.\n             3 vols. \n             Rolls Series\n         84 (1886-89; repr. Kraus, 1965): 1.73.\nWilson,  Richard Middlewood. \n             The Lost Literature of Medieval England.\n         London: Methuen, 1952: 172.\n\n",
+            "folio": "ff. 125vb-126ra"
+        },
+        "BodLauMis413": {
+            "First Lines": "\nSainte Marie uirginemoder ihesu cristes nazareneon fo scild\n                    help \u00fein GodricOn fang bring eghtlechWi\u00fe \u00fee in godes\n                    riche\u2026\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 39v"
+        },
+        "CULMm428": {
+            "First Lines": "\nsancte Marie uirginemoder iesu cristes nazareneon fo scild\n                    help \u00fein godricon fang bring hehtlicwid \u00fee i godes\n                    Riche\u2026\n",
+            "Editions": "\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.199.\n",
+            "folio": "f. 149rb"
+        },
+        "CamCCC26": {
+            "First Lines": "\nSeinte marie clane uirginemoder iesu cristes\n                    nazarene\u2026\n",
+            "Last Lines": "\n\u2026dilivre mine sennen rixe in min modbring me to \u00fein ine\n                    widh self god\n",
+            "folio": "f. 130rb"
+        },
+        "BLCottNeroDV": {
+            "First Lines": "\nSeinte marie clane virginemoder iesu cristes\n                    nazarene\u2026\n",
+            "Last Lines": "\n\u2026dilie mine sennen rixe in min modbring me to \u00fein ine\n                    \u01bfidh self god\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 150va"
+        },
+        "BLCottOthBV": {
+            "First Lines": "\nSeinte marie clane uirginemoder iesu cristes nazarene\u2026\n",
+            "Last Lines": "\n\u2026delie mine sennen rixe i min modbring me to \u01bfunne \u01bfi\u00f0h self god\n",
+            "Editions": "\nHewlett,  Henry G.,\n                        ed.  \n             Rogeri de Wendover: Liber qui dictiur Flores Historiarum ab anno Domini\n                MCLIV annoque Henrici Anglorum regis Secundi primo.\n             3 vols. \n             Rolls Series\n         84 (1886-89; repr. Kraus, 1965): 1.73.\n",
+            "folio": "Part II, f. 32v"
+        },
+        "BLHar153": {
+            "Transcription": "\nSeinte Marie virginemoder Iesu cristes nazarenevn to child help\n                    \u00fein Godricon tong bring hehliche word \u00fee in godes ric\n",
+            "Note": "\nWritten as prose amidst Latin prose text.",
+            "folio": "f. 26"
+        },
+        "BLHar322": {
+            "Transcription": "\nSeinte Marie virgine moder iesus cristes nazareneonfong\n                    schildhelp \u00fein godrichonfong bring he\u021dlichewi\u00fe\n                    \u00fee ine godes rich\n",
+            "Note": "\nLine division uncertain since written without line breaks below\n                    staves.",
+            "Editions": "\nRitson,  Joseph. \n             Bibliographia Poetica.\n         London: Roworth, 1802: 1-4.\n",
+            "folio": "f. 74v"
+        },
+        "BLHar1620": {
+            "First Lines": "\nSeinte marie clane uirginemoder ihesu cristes nazarene\u2026\n",
+            "Last Lines": "\n\u2026dilre mine sennen rixe i min modbring me to pinine \u01bfidh self god\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 172rb"
+        },
+        "BLRoy5Fvii": {
+            "First Lines": "\nSainte marie uirginemoder ihesu cristes\n                    nazarene\u2026\n",
+            "Last Lines": "\n\u2026dilie min sinne rix in min modbring me to \u00feinne \u01bfi\u00f0 \u00fee selfe god\n",
+            "Editions": "\n\nRitson,  Joseph. \n             Bibliographia Poetica.\n         London: Roworth, 1802: 1-4.\nRankin,  J. W. \n             \u201cThe Hymns of St. Godric.\u201d \n             PMLA\n         38 (1923): 699-712: 700.\nHall,  Joseph. \n             Selections from Early Middle English, 1130-1250.\n         2 parts. Oxford: Clarendon, 1920, 1951: 1.5.\nDavies,  Reginald Thorne. \n             Medieval English Lyrics: a critical anthology.\n         London, 1963; Evanston, IL: Northwestern UP, 1964: 51.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 549.\nDobson,  Eric John,  and  F. L. Harrison.  \n             Medieval English Songs.\n         New York: Cambridge UP, 1979: 103.\nSaupe,  Karen,\n                        ed.  \n             Middle English Marian\n                    Lyrics.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1998: 120; 242-4.\n\n",
+            "folio": "f. 85r2"
+        },
+        "Lam51": {
+            "Transcription": "\nSeinte Marie uirgineModer ihesu cristes Nazareneonfor \u00fein\n                    childhelp \u00fein Godriconfang and bring ehtliche\u00feider\n                    \u00fee in Godes Riche\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 175ra"
+        },
+        "Mazar1716": {
+            "folio": "f. 207v"
+        }
+    }
+}

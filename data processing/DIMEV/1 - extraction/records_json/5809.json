@@ -1,0 +1,64 @@
+{
+    "_id": 5809,
+    "_header": "Thomas one of the twelve that his two name was",
+    "Note": "Treated here separately, but perhaps best thought of as a subsection of 787, within which it occurs. See Pickering (1973)\nXPickering, Oliver S. \u201cThe Temporale Narratives of the South English Legendary.\u201d Anglia 91 (1973): 425-55.",
+    "Title(s)": "South English Legendary",
+    "Subjects": "Thomas the apostle, saint",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "In die sancti Thome Apostoli, in the Temporale of the South English Legendary",
+    "_witnesses": {
+        "Bod779": {
+            "First Lines": "\ntomas on of \u00fee twelue \u00feat in to name wasI cleped tomas\n                    longe in doute myd \u00fee o\u00feer nou\u021dt nas\u2026\n",
+            "Last Lines": "\n\u2026& bryng vs to oure eritage In to \u00fey wonyng\u00feou\n                    graunte vs lord \u00feat we so mote Ihesus almy\u021dty kyng\n",
+            "Note": "\nNo heading so treated as part of 787 in this MS",
+            "folio": "ff. 40v-41"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nThomas on of \u00fee twelue \u00feat his to Nome wasI clept Thomas\n                    long in doute wi\u00fe \u00fee o\u00feere nas\u2026\n",
+            "Last Lines": "\n\u2026So \u00feat hit schal hem turne to wel \u00fee more pyneAnd\n                    to alle \u00feat goode beo\u00fe to \u00fee more blisse atte fyne\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 25vb-26ra"
+        },
+        "BodLauMis463": {
+            "First Lines": "\nThomas on of \u00fee twelue \u00feat long \u00feer after wasy\n                    cleped thomas long in doute wi\u00fe \u00fee o\u00feere was\u2026\n",
+            "Last Lines": "\n\u2026So it shal hem turne to wel more pyneAnd to alle \u00feat\n                    gode beo\u00fe to more blisse atte fine\n",
+            "folio": "f. 33va-33vb"
+        },
+        "BodTan17": {
+            "First Lines": "\nThomas on of \u00fee xij \u00feat I clepid wasThomas longe in doute\n                    wi\u00fe \u00fee o\u00feere nas\u2026\n",
+            "Last Lines": "\n\u2026So it schal hem turne to wel \u00fee more peyneAnd to alle\n                    \u00feat goode ben to more blis atte fynde\n",
+            "Note": "\nTwo columns per page, one full-line, the other half-line.",
+            "folio": "ff. 75-75v"
+        },
+        "OxfTri57": {
+            "First Lines": "\nThomas on of \u00fee twelue \u00feat in to long wasI clepud Thomas\n                    longe in doute with \u00fee o\u00feere no\u021dt nas\u2026\n",
+            "Last Lines": "\n\u2026so it schel hem turne to wel \u00fee more pyneand to alle\n                    \u00feat guode be\u00fe to \u00fee more ioye & fyne\n",
+            "Attributed Title": "\nDemonstracio ihesu cristi (RT)",
+            "folio": "ff. 19v-20"
+        },
+        "CamKC13": {
+            "First Lines": "\nThomas on of \u00fee twelue wi\u00fe \u00fee o\u00feere nou\u021dt\n                    nas\u00feat yclepid was Thomas longe in doute & \u00feat his to name\n                    was\u2026\n",
+            "Last Lines": "\n\u2026So \u00feat \u00feat it schal ham turne to wel \u00fee more\n                    pyneAnd to alle \u00feat gode be\u00fe to \u00fee more ioie atte\n                    fyne\n",
+            "folio": "Part II, ff. 27v-28"
+        },
+        "CamMagPep2344": {
+            "First Lines": "\nThomas on of \u00fee twelue \u00feat in to name wasycluped Thomas\n                    longe in doute myd \u00fee o\u00feere nou\u021dt nas\u2026\n",
+            "Last Lines": "\n\u2026So \u00feat hit shal ham turne to wel \u00fee more pyneAnd to\n                    alle \u00feat goede beo\u00fe to \u00fee more ioye atte ffyne\n",
+            "Attributed Title": "\nEwangelium (RT)",
+            "folio": "pp. 228-229"
+        },
+        "BLEge2891": {
+            "First Lines": "\nThomas on of \u00fee twelue \u00feat In thonome wasIcluped thomas longe in doute mid \u00fee o\u00feer non nas\u2026\n",
+            "Last Lines": "\n\u2026So \u00feat it ssel \u021dam turne to wel \u00fee more pineAnd to alle \u00feat gode beo\u00fe to \u00fee more blisse atte fine\n",
+            "Note": "\nEmbedded in 787.",
+            "folio": "ff. 55-55v"
+        },
+        "BLHar2277": {
+            "First Lines": "\nThomas on of \u00fee tuelue \u00feat his tuo name wasIcliped Thomas longe in doute mid \u00feo\u00feere no\u021dt nas\u2026\n",
+            "Last Lines": "\n\u2026So \u00feat hit schal be turne to wel \u00fee more pyne& to alle \u00feat gode beo\u00fe to \u00fee more blisse atte fyne\n",
+            "Note": "\nEmbedded in Lent (787).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 2277.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_2277. \n",
+            "folio": "ff. 20-20v"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "_id": 4940,
+    "_header": "So long I have lady",
+    "Note": "Cf. 6155.",
+    "Subjects": "love, unrequited; sermons, verse in",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "The devoted but unrequited lover, in a Latin sermon \u2014 one cross-rhymed quatrain",
+    "_witnesses": {
+        "BLHar3823": {
+            "folio": "f. 182v"
+        },
+        "DurCathBI18": {
+            "Transcription": "\nSo lange ik aue lefman stonden at \u00fee yathe\u00feat my fote is\n                    hi-frosen fast to \u00fee stake\n",
+            "Note": "\nIn the sermon by Thomas Aquinas, Summa de VII\n                    viciis.",
+            "Editions": "\nWenzel,  Siegfried. \n             \u201cUnrecorded Middle-English Verses.\u201d \n             Anglia\n         92 (1974): 55-78: 69.\n",
+            "folio": "f. 56v"
+        },
+        "BerlinTheol": {
+            "Transcription": "\nSo longe ic haue lauediyhoued at \u00fei gate\u00feat mi fot is\n                    ifrore lauedifor \u00fei luue faste to \u00fee stake\n",
+            "Editions": "\n\nRobbins,  Rossell Hope. \n             \u201cMiddle English Lyrics: Handlist of New Texts.\u201d \n             Anglia\n         83 (1965): 35-47: 47.\nBennett,  Jack Arthur Walter. \n             Middle English Literature.\nOxford History of English Literature.\n         Oxford: Clarendon, 1986; ed. and completed by \n                Douglas\n                Gray\n            : 365.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 550.\n\n",
+            "folio": "f. 131"
+        }
+    }
+}

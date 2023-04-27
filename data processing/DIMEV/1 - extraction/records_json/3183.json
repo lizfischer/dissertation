@@ -1,0 +1,23 @@
+{
+    "_id": 3183,
+    "_header": "Look to thy Lord man there hangeth He on rood",
+    "Note": "For a different version see 3177.",
+    "Subjects": "paraphrases; Christ, Passion of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A paraphrase of \u2018Respice in faciem Christi tui\u2019 \u2014 twelve lines",
+    "_witnesses": {
+        "CamStJohn15": {
+            "First Lines": "\nLoke to \u00fei louerd man \u00fear hanget he a rodeand wep hys\n                    \u00feo mist teres of blode\u2026\n",
+            "Last Lines": "\n\u2026Bigin at his molde and loke to his tone saltu nowt vinde bute\n                    anguisse and wo\n",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 2.\nWoolf,  Rosemary. \n             The English Religious Lyric in the Middle Ages.\n         Oxford: Clarendon, 1968: 31.\n\n",
+            "folio": "f. 72"
+        },
+        "BLHar913": {
+            "First Lines": "\nBe hold to \u00fei lord man whare he hangi\u00fe on rodeAnd weep if\n                    you mi\u021dte teris al of blode\u2026\n",
+            "Last Lines": "\n\u2026For first ic makid \u00fee of no\u021dt and si\u00fe dere \u00fee\n                    ibo\u021dtWhan ic mi lif \u021def for \u00fee and ihang was on\n                    tre\n",
+            "Note": "\n The final two lines are two verse lines per manuscript line, whereas\n                    the rest of the text is one verse line per manuscript line; 22 lines, with 3341.",
+            "Editions": "\n\nFurnivall,  Frederick James. \n             Early English Poems and Lives of Saints.\nTransactions of the London Philological Society\n         1858; Pt. 2, Berlin, 1862: 20-1.\nHeuser,  Wilhelm. \n             Die Kildare-Gedichte\u2026\nBonner Beitr\u00e4ge zur Anglistik\n         14. Bonn: P. Hanstein, 1904: 129.\n\n",
+            "folio": "ff. 28-28v"
+        }
+    }
+}

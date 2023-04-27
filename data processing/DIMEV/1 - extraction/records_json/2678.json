@@ -1,0 +1,27 @@
+{
+    "_id": 2678,
+    "_header": "In-til one garth under an red rosier",
+    "Note": "Critical edition Fox (1981)\nXFox, Denton. The Poems of Robert Henryson. Oxford: Clarendon, 1981, 165-7",
+    "Author(s)": "Robert Henryson",
+    "Title(s)": "The Praise of Age",
+    "Subjects": "old age, praise of",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "Robert Henryson, The Praise of Age \u2014 four 8-line stanzas (ababbcbc) with refrain, \u2018\u00fee moyr of agis \u00fee nerar hewynnys blyss\u2019",
+    "_witnesses": {
+        "Banna": {
+            "First Lines": "\nWithin ane garth vndir a reid roseirAne awld man and decripit hard\n                    I sing\u2026\n",
+            "Last Lines": "\n\u2026That to his gloir he ma our sawlis sendThe moir of aige the\n                    nerrer hevins blis\n",
+            "Note": "\nSecond occurrence in MS",
+            "Attributed Author": "\nffinis quod hendersone (f. 57v)",
+            "Facsimiles": "\nFox,  Denton,  and  William A. Ringler.  \n             The Bannatyne Manuscript: National Library of Scotland Advocates\u2019\n                MS. 1.1.6\n         London: Scolar Press, in Association with The National Library of\n            Scotland, 1980. \n",
+            "Editions": "\n\nDalrymple,  Sir David,\n                                Lord Hailes. \n             Ancient Scottish Poems.\n         Edinburgh, 1770; repr. London, 1815: 136-7.\nMurdoch,  James Barclay. \n             The Bannatyne Manuscript.\n             4 vols. in 11 parts, paged continuously. \n             Hunterian Club\n         16, 32, 40, 46, 50, 55-56, 64-67 Glasgow: Anderson, 1873-1896: 155-6.\nRitchie,  W. Tod,\n                        ed.  \n             The Bannatyne Manuscript.\n             4 parts in 4 vols. \n             Scottish Text Society\n         3rd ser. 5 (1928); n.s. 22 (1928); n.s. 23 (1930); n.s. 26 (1934)\n            Edinburgh and London: Blackwood, 1928-34; ed. by Ritchie et al: 2.141-2.\nPinkerton,  John,\n                        ed.  \n             Scottish Poems Reprinted from Scarce Editions.\n         3 vols. London: Nicol, 1792: 3.128.\nLaing,  David. \n             The Poems and Fables of Robert Henryson.\n         Edinburgh: Paterson, 1865: 21.\nEyre-Todd,  George. \n             Mediaeval Scottish Poetry.\nAbbotsford Series of the Scottish Poets.\n         Glasgow: W. Hodge, 1892: 101-2.\nWood,  Henry Harvey. \n             The Poems and Fables of Robert Henryson.\n         Edinburgh, London: Oliver and Boyd, 1933; 2nd ed. rev., 1958: 185-6; rpr..\nScott,  Tom,\n                        ed.  \n             Late Medieval Scots Poetry.\n         London: Heinemann, 1967: 70.\n\n",
+            "folio": "ff. 57-57v"
+        },
+        "EDU205": {
+            "First Lines": "\nIn tyl ane garth wnder ane reid roseirane aldman & decrepit\n                    hard I syng\u2026\n",
+            "Last Lines": "\n\u2026\u00feat til his Ioy he may our saullis send\u00fee moyr of\n                    agis \u00fee nerar hewynnys blyss\n",
+            "Editions": "\n\nSmith,  G. Gregory,\n                        ed.  \n             The Poems of Robert Henryson.\n             3 vols. \n             Scottish Text Society\n         55 (1906), 58 (1908), 64 (1914); rpt. New York, 1968: 3.106-7.\nStevenson,  George. \n             Pieces from the Makculloch and the Gray MSS. together with The Chepman\n                and Myllar Prints.\nScottish Text Society\n         65. Edinburgh, 1918: 15-16.\nElliott,  Charles,\n                        ed.  \n             Robert Henryson: Poems.\n         Oxford: Clarendon, 1963/1974: 121.\n\n",
+            "folio": "f. 87rb"
+        }
+    }
+}

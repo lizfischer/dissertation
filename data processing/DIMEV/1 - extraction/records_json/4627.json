@@ -1,0 +1,61 @@
+{
+    "_id": 4627,
+    "_header": "Saint John in our gospel says us",
+    "Note": "For the version in the \u2018expanded\u2019 Cycle see 2558.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Fourth Sunday after Easter in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nIn oure gospell saynte Johan saise vs\u00feat till his dissiples\n                    saide iesus\u2026\n",
+            "Last Lines": "\n\u2026\u00feat he of vs haue no maistrieAnd bringe vs to \u00fei\n                    Ioye in hye . Amen .\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 123v-125"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Ion in vr gospel sei\u00fe vs\u00deat to his disciples seide\n                    Ihesus\u2026\n",
+            "Last Lines": "\n\u2026Sey alle Amen wilfullyAnd schild vs alle from his baily\n                    AMEN\n",
+            "Attributed Title": "\nVado ad eum qui me misit (f. 190va)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 190va-190vc"
+        },
+        "BodLatMisB17": {
+            "First Lines": "\n\u2026[ ] or lull gar Sala[ ]fount [ ]luef [ ]\u2026\n",
+            "Last Lines": "\n\u2026[ ] when we degh make no worthyTo come to blys thurgh \u00fei\n                    mercy\n",
+            "Note": "\nCorresponds to Oxford,  Bodleian Library Ashmole 42 (SC 6923), fols.\n                        124v-125v; imperfect at beginning because just\n                    fragment, 10 x 2; worn and dirty, with loss of text.",
+            "Editions": "\nNevanlinna,  S. \n             \u201cA Note on the Robartes MS of the Northern Homily Collection.\u201d \n             Neuphilologische Mitteilungen\n         67 (1966): 58-66. \n",
+            "folio": "f. 2"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nIN oure godspelle Seynt Ione telles vs\u00deat til his disciples\n                    saide ihesus\u2026\n",
+            "Last Lines": "\n\u2026And when we dye make vs worthyTo come to blisse thorewe\n                    \u00fei mercy\n",
+            "Attributed Title": "\nDominica iija post octava pasche secundum Iohannem (p.\n                    198)",
+            "folio": "pp. 198-201"
+        },
+        "CULDd11": {
+            "First Lines": "\nSEynt Iohn in oure Gospel seyth vs\u00feat to his disciplis seyde\n                    ihesus\u2026\n",
+            "Last Lines": "\n\u2026And \u00feat it may so to vs besey we Amen pur\n                    Charite\n",
+            "Attributed Title": "\nSecumdum Iohannem Vado ad eum qui me misit & nemo ex vobis interogat\n                        et c (f. 127)",
+            "folio": "ff. 127-128v"
+        },
+        "CULGg531": {
+            "First Lines": "\nSaynt iohn in oure gospell saise vs\u00feat to his disciples sayd\n                    ihesus\u2026\n",
+            "Last Lines": "\n\u2026Crauand crauand ouercommen am IGraunt it swa be for \u00fei\n                    mercy\n",
+            "Attributed Title": "\n\u00feis es \u00fee gospell of \u00fee ferthe sononday efter paske\n                    day\u2026 (f. 82v)",
+            "folio": "ff. 82v-84"
+        },
+        "Lam260": {
+            "folio": "f. 38va"
+        },
+        "HunHM129": {
+            "folio": "f. 105"
+        },
+        "MinULZ822": {
+            "First Lines": "\nSaynt Iohn in oure gospell says vs\u00deat to hys dysciplis sayde\n                    Ihesus\u2026\n",
+            "Last Lines": "\n\u2026& halde hym done & ger hym cryCrandon[?] cryand ouer\n                    comen and I\n",
+            "Attributed Title": "\nDominica tercia post octavas pasche Secundum Iohannem (f.\n                        90v)",
+            "folio": "ff. 90v-91v"
+        }
+    }
+}

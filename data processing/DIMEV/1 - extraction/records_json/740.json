@@ -1,0 +1,22 @@
+{
+    "_id": 740,
+    "_header": "Awake ye ghostly persons awake",
+    "Note": "Ringler Jr. (1988)\nXRingler Jr., William A. Bibliography and Index of English Verse Printed 1476-1558. London: Mansell, 1988, TP 203.5.",
+    "Author(s)": "William Thorpe (attrib.)",
+    "Subjects": "alphabetic poems; clergy, sins of",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "ABC poem against pride of clergy, attributed to William Thorpe (c. A.D. 1407) \u2014 three stanzas rhyme royal",
+    "_witnesses": {
+        "Unknown": {
+            "Editions": "\nTownshend,  George,\n                        ed.  \n             The Acts and Monuments of John Foxe\u2026.\n         London: Seeley, Burnside, and Seeley, 1843-49: 4.259 (from an old Register).\n",
+            "folio": ""
+        },
+        "TCD313": {
+            "Transcription": "\nawake ye gostli persunes awake\u2026\n",
+            "Note": "\nFirst line and title only, added to margin, upside-down, below column b,\n                    by hand of the sixteenth century.",
+            "Attributed Title": "\nABC (to right, f. 196)",
+            "Editions": "\nColker,  Marvin L.,\n                        ed.  \n             Trinity College Library, Dublin: Descriptive catalogue of the Mediaeval\n                and Renaissance Latin Manuscripts.\n         Aldershot, Hants.: Scolar Press, 1991: 635.\n",
+            "folio": "f,. 196"
+        }
+    }
+}

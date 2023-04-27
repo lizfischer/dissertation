@@ -1,0 +1,50 @@
+{
+    "_id": 1593,
+    "_header": "God that all this world hath wrought",
+    "Note": "Ringler Jr. (1988)\nXRingler Jr., William A. Bibliography and Index of English Verse Printed 1476-1558. London: Mansell, 1988, TP 499.5; for other MSS with a different Prologue or none at all, see 3247 and 5268.",
+    "Title(s)": "Storia Lune",
+    "Subjects": "didactic verse; two-line",
+    "_description": "Storia Lune: the several days of the month, the Biblical characters born on each, etc., with a Prologue of 52 lines.",
+    "_witnesses": {
+        "BodDig88": {
+            "First Lines": "\nGod that all thys worlde hath wroughtAnd all mankynde wi\u00fe hys\n                    blod bought\u2026\n",
+            "Last Lines": "\n\u2026That day also ys tyme gudeyff you wilte blede veyne\n                    blode\n",
+            "folio": "ff. 64-76"
+        },
+        "CamTCC600": {
+            "First Lines": "\nGod \u00feat al \u00feis worlde ha\u00fee wroughtAnd al mankynde\n                    with his blood bought\u2026\n",
+            "Last Lines": "\n\u2026ffor as by doctryne \u00feat ha\u00fee been taughtso is truwe\n                    ne doute\u00fee it naught\n",
+            "Attributed Title": "\nAnd heere nowe filowing bigynne\u00fee a weele compyled thing in wyse of\n                    deestynarye And of ou\u00feer behoouely gouuernaunces touching \u00fee goode\n                    tale of mannes heele studyed and laboured by gret philosofres and clerkes of\n                    olde tyme beholde\u00fee and reede\u00fee (p. 235); A dyetarie for mans heele\n                    (RT)",
+            "folio": "ff. 235-257"
+        },
+        "BLHar1735": {
+            "First Lines": "\nGod \u00feat all \u00feis world hays wrout\u021dAnd all mankynd\n                    with hys blod bowt\u021d\u2026\n",
+            "Last Lines": "\n\u2026\u00deat day also is tyme godYef \u00feu wylt\u021d bledun\n                    weyn blod\n",
+            "Note": "\nFolio number reflects the most recent foliation.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 1735.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_1735. \n",
+            "folio": "ff. 1-13v"
+        },
+        "BLSl635": {
+            "folio": "f. 1v"
+        },
+        "BLSl1315": {
+            "folio": "f. 49"
+        },
+        "Longleat176": {
+            "Note": "\nListed as \u2018folio, paper\u2019 in Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943; Hamer (1995)\nXHamer,  Richard. \n             A Manuscript Index to the Index of Middle English Verse.\n         London: British Library, 1995\n                    lists as \u2018not found\u2019.",
+            "folio": "Art. 1"
+        },
+        "NatLibMed49": {
+            "Note": "\nCopied from an early print; for early prints see Craig (1916)\nXCraig,  Hardin. \n             The Works of John Metham.\nEETS\n         e.s. 132 (1916); repr. 1973, xli.",
+            "folio": "ff. 96v-107v"
+        },
+        "HunHM64": {
+            "First Lines": "\nGOde that all this worlde wroughteAnd all mankynde withe his blode\n                    bowghte\u2026\n",
+            "Last Lines": "\n\u2026To send vs happe and graceAnd hye in heveyn to have a\n                    place\n",
+            "folio": "ff. 83va-93va"
+        },
+        "Clumber": {
+            "folio": "ff. 85-98"
+        }
+    }
+}

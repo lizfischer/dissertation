@@ -1,0 +1,50 @@
+{
+    "_id": 5826,
+    "_header": "Thou heavenly Queen of grace our lodestar",
+    "Note": "For a similar piece see 3850.",
+    "Author(s)": "John Lydgate",
+    "Subjects": "Virgin Mary, hymns to; hymns, to Virgin Mary",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, a version of \u2018Stella Celi extirpauit\u2019 \u2014 four eight-line stanzas (ababbcbc)",
+    "_witnesses": {
+        "CamJes56": {
+            "First Lines": "\n[T]hou heuenly quene of grace oure lood sterreWith \u00fei chast\n                    mylke plenteuous plesaunce\u2026\n",
+            "Last Lines": "\n\u2026Maide and moder by meyn of \u00fei prayereSaue all \u00fei\n                    seruauntes from stroke of pestilence\n",
+            "Attributed Title": "\nStella Celi extirpauit (f. 73)",
+            "folio": "ff. 73-73v"
+        },
+        "CamTCC601": {
+            "First Lines": "\nthow heuynly quene of grace oure loode sterreWith thy chast mylke\n                    plenteuouse of plesaunceGafe ihesu sowke put awey the werreOf\n                    pestylence to apese oure greuaunce\u2026\n",
+            "Last Lines": "\n\u2026Mayde & modyr by meane of thy prayereSafe all thy\n                    seruauntes from stroke of pestylence\n",
+            "folio": "ff. 168v-169"
+        },
+        "BLHar2251": {
+            "First Lines": "\nThow heuenly quene of grace oure loodestereewith thy chast mylke\n                    pentevous of plesaunce\u2026\n",
+            "Last Lines": "\n\u2026Mayde and moder by meane of thy prayerSave al thy seruauntis\n                    from stroke of pestilence\n",
+            "Attributed Title": "\nStella celi extirpavit (f. 9v, margin)",
+            "folio": "ff. 9v-10"
+        },
+        "BLHar2255": {
+            "First Lines": "\nThu heuenly queen of grace our lood sterreWith thy chast mylk\n                    plentevous of plesaunce\u2026\n",
+            "Last Lines": "\n\u2026Mayde and moodir by meene of thy prayeerSauf alle thy\n                    servauntis from strook of pestilence Explicit\n",
+            "Attributed Title": "\nStella celi extirpauit (f. 103, in rubric)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 294-5.\n",
+            "folio": "ff. 103-103v"
+        },
+        "BLAdd34360": {
+            "First Lines": "\nThow heuenly qwene of grace oure lodesterreWith thi chast mylk\n                    plentevous of plesaunce\u2026\n",
+            "Last Lines": "\n\u2026Mayde and moder by meane of thi prayerSave al thy seruantis\n                    from stroke of pestilence\n",
+            "Attributed Title": "\nStella celi extirpauit (f. 68v)",
+            "folio": "ff. 68v-69"
+        },
+        "Chetham6709": {
+            "First Lines": "\nThow hevenly quene of grace owre loodesterreWith thy Chaste mylke\n                    plentyvous of plesaunceGave Ihesu sowke puttyst a way the werreOff\n                    Pestylence to Appese owre grevaunce\u2026\n",
+            "Last Lines": "\n\u2026O lorde Above Callyd oon & two & threffor her merytes\n                    save vs fro Pestylence\n",
+            "Note": "\nSeven stanzas.",
+            "Attributed Author": "\nAmen & Explicit [ ] / [secumdum?] Lydgate (f.\n                    285v)",
+            "Attributed Title": "\nStella Celi extirpauit / Que lactavit Dominum (f.\n                    284v)",
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 208-10.\n",
+            "folio": "ff. 284v-285v"
+        }
+    }
+}

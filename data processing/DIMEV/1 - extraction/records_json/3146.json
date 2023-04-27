@@ -1,0 +1,16 @@
+{
+    "_id": 3146,
+    "_header": "Lo he that is all wholly yours so free",
+    "Note": "Adapted from Chaucer\u2019s Troilus and Criseyde (5248): Book II, lines 1121-7, 841-7, 869-82; Book IV, lines 561-7; Book V, lines 1072-8; Book II, lines 778-84; Book I, lines 708-12; Book IV, lines 260-6, 267-73. See Jansen and Jordan (1991)\nXSharon L. Jansen, and Kathleen H. Jordan. The Welles Anthology: MS. Rawlinson C.813: A Critical Edition. Binghamton, NY: Medieval & Renaissance Texts and Studies, 1991, 303, where this poem incorrectly referenced as number 30 rather than 38.",
+    "Subjects": "love letters",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "A love letter: a plea to his mistress \u2014 nine stanzas rhyme royal",
+    "_witnesses": {
+        "BodRawC813": {
+            "First Lines": "\nLoo he that ys all holly yours Soo freehym recommendythe louly to\n                    your grace\u2026\n",
+            "Last Lines": "\n\u2026Into myserrye wher as I wyll waylefor my dere harte tyll\n                    \u00feat my brethe me fayll\n",
+            "Editions": "\n\nPadelford,  Frederick Morgan. \n             \u201cLiedersammlungen des xvi. Jahrhunderts\u2026IV.\u201d \n             Anglia\n         31 (1908): 309-96: 362-3.\nBolle,  Wilhelm. \n             \u201cZur Lyric der Rawlinson-HS C.813.\u201d \n             Anglia\n         34 (1911): 273-307: 284-7.\nJansen,  Sharon L.,  and  Kathleen H. Jordan, eds.  \n             The Welles Anthology: MS. Rawlinson C.813: A Critical Edition.\n         Binghamton, NY: Medieval & Renaissance Texts and Studies,\n            1991: 195-8.\n\n",
+            "folio": "ff. 48v-49v"
+        }
+    }
+}

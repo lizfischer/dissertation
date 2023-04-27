@@ -1,0 +1,23 @@
+{
+    "_id": 5013,
+    "_header": "Sovereign Immortal Everlasting God",
+    "Title(s)": "Epitaphium eiusdam Ducis Glowcestrie",
+    "Subjects": "epitaphs; Humphrey, duke of Gloucester; historical poems",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "Epitaphium eiusdam Ducis Glowcestrie, A.D. 1447 \u2014 thirteen 8-line stanzas with refrain, \u2018Have mercy on hym buryed in this sepulture\u2019",
+    "_witnesses": {
+        "BLHar2251": {
+            "First Lines": "\nSouerayne Immortal everlastyng godAlmyghti most mercyful verray\n                    well of grace\u2026\n",
+            "Last Lines": "\n\u2026My sole to hym I yield at my goyng hensTo the erth my body as\n                    for my sepulture\n",
+            "Attributed Title": "\nEpitaphium eiusdam Ducis Glowcestrie (f. 7)",
+            "Editions": "\n\nRobbins,  Rossell Hope. \n             \u201cAn Epitaph for Duke Humphrey.\u201d \n             Neuphilologische Mitteilunge\n         56 (1955): 241-49: 243-7.\nRobbins,  Rossell Hope,\n                        ed.  \n             Historical Poems of the XIV and XV Centuries.\n         New York: Columbia UP, 1959: 180-3.\n\n",
+            "folio": "ff. 7-8v"
+        },
+        "BLAdd34360": {
+            "First Lines": "\nSouerayne Immortal euerlastyng godAlmyghti most merciful verray\n                    welle of grace\u2026\n",
+            "Last Lines": "\n\u2026My soule to hym I yield at my goyng hensTo the erth my body\n                    as for my sepulture\n",
+            "Attributed Title": "\nEpitaphium eiusdam Ducis Glowcestrie (f. 65v)",
+            "folio": "ff. 65v-67v"
+        }
+    }
+}

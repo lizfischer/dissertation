@@ -1,0 +1,17 @@
+{
+    "_id": 4334,
+    "_header": "Out of the chaff was pured this corn",
+    "Subjects": "carols, to saints; Thomas of Canterbury, saint",
+    "Versification": "\u2014 six-line \u2014 aaabbb",
+    "Macaronic": "Latin",
+    "_description": "A song in honour of St. Thomas of Canterbury \u2014 two 6-line stanzas (aaabbb) with 3-line \u2018O martir Thoma\u2019 refrain and 4-line burden: \u2018Clangat tuba martir th[o]m[a] / Vt liberet sic cristi vinea\u2019 (repeated)",
+    "_witnesses": {
+        "BLAdd5665": {
+            "First Lines": "\nOute of \u00fee chaffe was pured \u00feis corne& else \u00fee\n                    cherch had ben forlorne\u2026\n",
+            "Last Lines": "\n\u2026To whom we syng deuotelyO martir th[o]m[a]\n\n",
+            "Attributed Title": "\nSancto Th[ome] (f. 41v)",
+            "Editions": "\n\nFehr,  Bernhard. \n             \u201cDie Lieder der Hs. Add. 5665 (Ritson\u2019s Folio-MS).\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         106 (1901): 262-85: 275.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 74; 1977, 62.\nStevens,  John,\n                        ed.  \n             Mediaeval Carols.\nMusica Britannica\n         4. London: Stainer and Bell, 1952, 2nd ed. 1958: 98.\n\n",
+            "folio": "ff. 41v-42"
+        }
+    }
+}

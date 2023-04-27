@@ -1,0 +1,52 @@
+{
+    "_id": 1193,
+    "_header": "England is right good I ween it is land best",
+    "Note": "For the B text, see 1194; for the C text see 1195.",
+    "Author(s)": "Robert of Gloucester",
+    "Title(s)": "Robert of Gloucester\u2019s Chronicle",
+    "Subjects": "chronicles",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Robert of Gloucester\u2019s Chronicle, A text \u2014 in couplets",
+    "_witnesses": {
+        "BLAdd18631": {
+            "First Lines": "\nENgelond is a welgod lond y wene of al londis it is bestIt is set\n                    in on nend of \u00fee worlde os in \u00feeo north west\u2026\n",
+            "Last Lines": "\n\u2026Anende aforce wrynge for \u021dut he cont moThen was that\n                    lond in pes with outon dysturbance\n",
+            "Note": "\n12014 lines; \u2018os\u2019 in line 2 is probably a scribal miscopying\n                    of \u2018al\u2019.",
+            "folio": "ff. 4-134v"
+        },
+        "BLAdd19677": {
+            "First Lines": "\n\u2026Vif hundred & seuene & fourty as me telle canAfter\n                    kyng arthur hit was & \u00feo was kenryk\u2026\n",
+            "Last Lines": "\n\u2026Of \u00fee clergie at londone at seynt andrewes fetteA\n                    conseil he made & schewede \u00feere \u00fee popes hest\n",
+            "Note": "\nLines 4684-11813. Single-column format",
+            "folio": "ff. 1-92v"
+        },
+        "BLAdd50848": {
+            "First Lines": "\n[Mid] humber kynges goude \u00feat me of his londe[\u00deo f]onde\n                    he \u00fere damesels gent & fair y nou\u2026\n",
+            "Last Lines": "\n\u2026& flowe to se to hore schipes & of scaped\n                    vnne\u00feeTo scotlond hy wende al by water & \u00feere hy gonne\n                    aryue\n",
+            "Note": "\nSix leaves only, with equivalent of lines 561-630; 1467-1676; 1817-1955\n                    of London,  British Library Cotton Caligula A.XI text; see Hill (1965)\nXHill,  Betty. \n             \u201cA Collation of the Robert of Gloucester Fragments: British Museum MS.\n                Add. 50848.\u201d \n             Notes and Queries\n         n.s. 12 [210] (1965): 47-9, 47-9. Corner\n                    of first folio is ripped out, presumably to remove an illuminated\n                    initial.",
+            "folio": "ff. 1-6v"
+        },
+        "BLCottCalAXI": {
+            "First Lines": "\nEngelond his a wel god lond ich wene ech londe bestIset in \u00fee\n                    on ende of \u00fee worlde as al in \u00fee west\u2026\n",
+            "Last Lines": "\n\u2026im \u00feoru out wi\u00fe is suerd & villiche him\n                    slou\u2026at of holichurche me \u00feinc\u00fe wi\u00fe vil\n                    wou\n",
+            "Note": "\n12049 lines; and 34 lines copied later from now lost Allen\n                    MS.",
+            "Attributed Title": "\nRoberti Glocectrensis Historia rhthmis Anglicanis (table of\n                    contents, f. 2)",
+            "Editions": "\n\nHearne,  Thomas,\n                        ed.  \n             Robert of Gloucester\u2019s Chronicle.\n         Oxford: at the Theatre, 1724; repr. 1810: 465-571 from this MS.\nBlack,  William Henry. \n             \u201cThe Life and Martyrdom of Thomas a Becket.\u201d \n             Percy Society\n         19. London: Richards, 1846: 129-41 (extract).\nStevenson,  Joseph,\n                        ed.  \n             The Church Historians of England.\n         5 vols. London: Seeleys, 1853: 5(i). 351-81 (extracts: 1500 lines only).\nWright,  William Aldis,\n                        ed.  \n             The Metrical Chronicle of Robert of Gloucestre.\n             2 vols. \n             Rolls Series\n         86 (1887): (12046 lines).\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 142-5.\n\n",
+            "folio": "ff. 3-168v"
+        },
+        "BLHar201": {
+            "First Lines": "\nEnglond ys a wel god lond ich wene of eche lond bestY set in\n                    \u00fee ende of \u00fee world as al in \u00fee west\u2026\n",
+            "Last Lines": "\n\u2026\u00feat noman bite \u00fee pope one hem asoyly ne\n                    my\u021dteSo \u00feat me huld clerkes \u00feerafter bet to\n                    ry\u021dte\n",
+            "Note": "\nLines 1-9529 only.",
+            "Editions": "\nHearne,  Thomas,\n                        ed.  \n             Robert of Gloucester\u2019s Chronicle.\n         Oxford: at the Theatre, 1724; repr. 1810: 1-464 from this MS.\n",
+            "folio": "ff. 4-161"
+        },
+        "GULHun415": {
+            "First Lines": "\nEngland is a well good londe in the stead bestset in the one ende\n                    of the world & renneth west\u2026\n",
+            "Last Lines": "\n\u2026And thenne out with is Swerd & velliche him slouAnd of\n                    holichurche me thinke with vil won\n",
+            "Note": "\nLast 26 lines added by another hand.",
+            "Attributed Title": "\nRobarte of Glocester his Chronicle (added by later hand, f. 1)",
+            "folio": "ff. 1-125"
+        }
+    }
+}

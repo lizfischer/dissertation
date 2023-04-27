@@ -1,0 +1,57 @@
+{
+    "_id": 1843,
+    "_header": "He sayeth it was once a clerk / That left the fiend and all his work",
+    "Note": "For other MSS see 4607.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "monks; dragons",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Dying Monk sees Dragon, Narratio in Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nHE saise it was ane tyme a clerk\u00feat lefft \u00fee fende and\n                    all his werk\u2026\n",
+            "Last Lines": "\n\u2026\u00feat we mai at oure endinge daieIn heuene wone in gammen\n                    & plaie . Amen .\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 188-192v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nHE sei\u00fe hit was ones a Clerk\u00deat lefte \u00fee fend and al\n                    his werk\u2026\n",
+            "Last Lines": "\n\u2026To heuene \u00feer euere is game and playAMEN I Rede we alle\n                    say. AMEN.\n",
+            "Attributed Title": "\nOf an holy monk \u00feat hedde a wicked bro\u00feer (f.\n                    207va)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDie Evangelien-Geschichten der Homiliensammlung des Ms. Vernon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         57 (1877): 241-316: 299.\n",
+            "folio": "ff. 207va-208rb"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nHE sei\u00fe hit was ones a clerk\u00deat left \u00fee fende and al\n                    his werk\u2026\n",
+            "Last Lines": "\n\u2026To heuene \u00feere euer is gomen & playAmen I rede we\n                    alle say. Amen\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 12rb-12vc"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nHe saith it was ane tyme a clerke\u00deat lefte \u00fee fende and\n                    all hys werke\u2026\n",
+            "Last Lines": "\n\u2026\u00deat we may all owre endyng dayeIn heuene wonne with game\n                    and playe\n",
+            "folio": "ff. 148-152"
+        },
+        "BLHar2391": {
+            "First Lines": "\nHe says it was sum tym a clerk\u00feat left \u00fee feind in all hys werk\u2026\n",
+            "Last Lines": "\n\u2026\u00feat we may at owr ending dayIn heuen to wone with gam & play\n",
+            "Note": "\nEnds \u201cAmen.\u201d",
+            "Attributed Title": "\nDominica xvi (left margin, f. 214v) with \u201cA tale\u201d written below",
+            "folio": "ff. 214v-216"
+        },
+        "Lam260": {
+            "folio": "f. 54va"
+        },
+        "MinULZ822": {
+            "First Lines": "\nHe says it was anes a clerke\u00feat mykyll couth of godes\n                    warke\u2026\n",
+            "Last Lines": "\n\u2026whare euer we sall synge and saytyll heuene \u00feer euer es\n                    game & play\n",
+            "folio": "ff. 152-156"
+        },
+        "HunHM129": {
+            "First Lines": "\nHe seith hit wos a clerk\u00deat lefft \u00fee fende and al hys\n                    werk\u2026\n",
+            "Last Lines": "\n\u2026To heuyn \u00feare euer is gamyn and playAmen I rede we all\n                    say\n",
+            "Attributed Title": "\nnarracio (f. 161v)",
+            "folio": "ff. 161v-165"
+        }
+    }
+}

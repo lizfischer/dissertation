@@ -1,0 +1,66 @@
+{
+    "_id": 2758,
+    "_header": "It was a knight beyond the sea / That rich man was wont to be",
+    "Note": "Cf. 85, 3913.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Virgin Mary, miracles of; devil",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Virgin Mary comes to the Devil instead of his Victim, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nHIt was a kniht bi \u021donde \u00fee see\u00deat riche mon was\n                    wont to be\u2026\n",
+            "Last Lines": "\n\u2026AMEN I rede alle we syngeffor of \u00feat blisse is non\n                    endynge\n",
+            "Attributed Title": "\nDe milite depauperato dilgente matrem domine (f.\n                    169rb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDie Evangelien-Geschichten der Homiliensammlung des Ms. Vernon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         57 (1877): 241-316: 244.\n",
+            "folio": "ff. 169rb-169va"
+        },
+        "BodAsh42": {
+            "First Lines": "\nIt was a kni\u021dt be\u021donde \u00fee se\u00feat riche man was\n                    wont to be\u2026\n",
+            "Last Lines": "\n\u2026Amen amen i rede we syngeffor of \u00feat ioye es nane\n                    endinge\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 87v-89"
+        },
+        "CULAdd8335": {
+            "First Lines": "\n\u00deer was a knyht be \u021dond \u00fee se\u00deat a riche man\n                    was wonid to be\u2026\n",
+            "Last Lines": "\n\u2026Amen I rede alle we syngefor of \u00feat blisse is non\n                    endynge\n",
+            "Note": "\nDivision between this and preceding 3391 occurs 2 lines earlier in this MS.",
+            "folio": "ff. 112-113"
+        },
+        "BLHar2391": {
+            "First Lines": "\nIt was a knyght be \u021dond \u00fee se\u00feat rych man was wont to be\u2026\n",
+            "Last Lines": "\n\u2026Amen amen I red we syngffor of \u00feat Ioy es none endyng\n",
+            "Attributed Title": "\nIn annunciacionis dominica (left margin, f. 176v)",
+            "folio": "ff. 176v-178"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nIt was a knyght be yonde \u00fee seThat riche man was wonte to\n                    be\u2026\n",
+            "Last Lines": "\n\u2026Amen I rede we all syngeffor of that blyse bes na\n                    endynge\n",
+            "folio": "ff. 81-82v"
+        },
+        "BLHar4196": {
+            "First Lines": "\nIN ingland whilom wund a knight\u00feat sum tyme was of mekil might\u2026\n",
+            "Last Lines": "\n\u2026and ledis to life \u00feat lastes ayoure lady vs wis to wend \u00feat way\n",
+            "folio": "ff. 147vb-148rb"
+        },
+        "Lam260": {
+            "folio": "f. 29va"
+        },
+        "NLWPork10": {
+            "Editions": "\n\nHalliwell-Phillipps,  James Orchard. \n             Contributions to Early English Literature.\n         London: for private circulation, 1849: No. 3, 20-4.\nHazlitt,  William Carew. \n             Remains of the Early Popular Poetry of England.\n         London: J. R. Smith, 1864-6: 2.16-20.\n\n",
+            "folio": "f. 83v"
+        },
+        "HunHM129": {
+            "First Lines": "\nHyt was knytht by \u021dond \u00fee se\u00feat ryche man wos wont\n                    to be\u2026\n",
+            "Last Lines": "\n\u2026Amen I rede we all syngeffor \u00feayr is blys with oute\n                    endynge\n",
+            "Attributed Title": "\nnarracio (f. 84v)",
+            "folio": "ff. 84v-85v"
+        },
+        "MinULZ822": {
+            "First Lines": "\nIt was a knyght be \u021dond \u00fee se\u00feat ryche man was wont\n                    to be\u2026\n",
+            "Last Lines": "\n\u2026Amen I rede we all syngfor of \u00feat blysse bes nan\n                    endyng\n",
+            "Attributed Title": "\nnarracio (f. 84v)",
+            "folio": "ff. 71-72v"
+        }
+    }
+}

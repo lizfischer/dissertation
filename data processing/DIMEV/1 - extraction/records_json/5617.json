@@ -1,0 +1,303 @@
+{
+    "_id": 5617,
+    "_header": "These old gentle Bretons in their days",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Franklin\u2019s Prologue; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; prologues; rhetoric; Breton lays",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the Franklin\u2019s Prologue of the Canterbury Tales \u2014 20 lines in couplets.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nThese oolde gentil bretons in her dayesof dyuerse auentures maden\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026my spirit felith nought of suche materebut if yow list my\n                    tale shul ye hire\n",
+            "Attributed Title": "\n\u2026And next / folwyng bigynneth the ffrankelyns prologe (f.\n                        249v); the ffrankeleyne (RT); Here endith the ffrankeleyne his\n                    prolog\u2026 (f. 249v)",
+            "folio": "f. 249v"
+        },
+        "BodBar20": {
+            "First Lines": "\nThese old gentil britons in her daysOf dyuers auentures maden\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026My spirit felith not of suche matiereBut if \u021dow luste my\n                    tale shul \u021de here\n",
+            "Attributed Title": "\n\u2026and here bygynnyth \u00fee tale (f. 149v)",
+            "folio": "f. 149v"
+        },
+        "Bod414": {
+            "First Lines": "\n[T]hees olde gentle Bretons in her daysOf diuerse auentures maiden\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026My spirit felith not of such matiereBut and ye list my tale\n                    now shul ye here\n",
+            "Attributed Title": "\nThe Prolog of the ffrankleyn (f. 102v)",
+            "folio": "ff. 102v-103"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nThis olde gentel Britons in hire daiesOf diuerse auenturs maden\n                    laies\u2026\n",
+            "Last Lines": "\n\u2026My spirit feleth nat of such matereBut if you list my tale\n                    shall ye here\n",
+            "Attributed Title": "\nHere beginneth \u00fee Prolog of the ffrankeleyn (f. 99); Prolog of \u00fee\n                    ffrankelyn (Rt)",
+            "folio": "f. 99"
+        },
+        "BodLauMis600": {
+            "First Lines": "\nThise olde gentil Britons in hir daiesOf diuers auentures maden\n                    laies\u2026\n",
+            "Last Lines": "\n\u2026My spirit fele\u00fe not of suche matereBut if you lust my\n                    tale now shul ye here\n",
+            "Attributed Title": "\nHere ende\u00fe \u00fee prolog of \u00fee frankeleyn\u2026 (f.\n                        171v)",
+            "folio": "f. 171v"
+        },
+        "BodLauMis739": {
+            "First Lines": "\n[T]His olde gentile brytons in her daiesOf dyuerse auentures maden\n                    laies\u2026\n",
+            "Last Lines": "\n\u2026My spirite felith noght of suche matereAnd if \u021de luste\n                    my tale shul \u021de here\n",
+            "folio": "ff. 176v-177"
+        },
+        "BodRawPoe223": {
+            "First Lines": "\nThis olde gentil bretons in her d[aies]Of dyuers aduentures maden\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026My spirit feleth nou\u021dt of such matereBut if ye list my\n                    tale ye may here\n",
+            "Note": "\nAlthough structured as a \u2018Merchant\u2019s Prologue\u2019, the\n                    link is followed by Franklin\u2019s Tale.",
+            "Attributed Title": "\n\u2026And here beginneth the Prolog of the Marchaunt (f. 218v);\n                    Here endith the Prolog of the Marchaunt\u2026 (f. 219)",
+            "folio": "ff. 218v-219"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nThise oolde gentil Britons in hire dayesOf dyuers auentures maden\n                    laies\u2026\n",
+            "Last Lines": "\n\u2026My spirit feelith nat of swiche matereBut if yow lyste my\n                    tale shall ye here\n",
+            "Attributed Title": "\n\u2026Here bygynnyth the prologe of the ffrankeleyn (f.\n                    178v)",
+            "folio": "f. 178v"
+        },
+        "OxfCCC198": {
+            "First Lines": "\nThise olde gentile britouns in here dayesOf diuerse auentures maden\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026Myn spyrit fele\u00fe nought of such matereBut if \u021de\n                    luste my tale schul \u021de not here\n",
+            "Attributed Title": "\n\u00fee prologe of \u00fee ffrankekleyn (f. 159, margin)",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "f. 159"
+        },
+        "OxfNew314": {
+            "First Lines": "\nThese olde gentil britons in her daiesOf diuers Auctours maden her\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026My spirit felith no such matereBut and ye list my tale shul\n                    ye here\n",
+            "Attributed Title": "\n\u2026Begynnynge \u00fee ffrankeleynes prolog (f. 148v); Here\n                    endith \u00fee ffrankeleyns prologe\u2026 (f. 149)",
+            "folio": "ff. 148v-149"
+        },
+        "OxfTri49": {
+            "First Lines": "\nTHise olde gentil Bretowns in hir daiesof Diuerse auenturis madyn\n                    laies\u2026\n",
+            "Last Lines": "\n\u2026Mi spirite felith nought of suche materebut if ye liste my\n                    tale shulle ye here\n",
+            "Note": "\nV.716 omitted.",
+            "Attributed Title": "\nffrankeleynes tale (f. 153v)",
+            "folio": "f. 153v"
+        },
+        "CULIi326": {
+            "First Lines": "\nThes olde gentyll bretons in her dayesOf dyuers auctours maden her\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026My speryte felyth noo suche matereBut and ye luste my tale\n                    shull ye here\n",
+            "Attributed Title": "\nffrankleyn (RT); Here Endeth the ffrankeleynis Prologe\u2026 (f.\n                        98v)",
+            "folio": "f. 98v"
+        },
+        "CULMm25": {
+            "First Lines": "\nThis olde gentil bretons in her daiesOf diuerse auentures maden\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026My spirit felith not of suche matierBut \u021diff you liste\n                    my tale schull \u021de here\n",
+            "Attributed Title": "\nIncipit fabula (f. 154); Capitulum x[trimmed] (f. 154,\n                    margin)",
+            "folio": "f. 154"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[T]hese olde gentell brytons in her dayesOf dyuerse auentures maden\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026My spyryte feleth not of such materBut and ye lyke my tale\n                    schull ye here\n",
+            "Note": "\nV.721-2 omitted.",
+            "Attributed Title": "\nThe tale of \u00fee ffrancleyn (f. 118)",
+            "folio": "f. 118"
+        },
+        "CamTCC582": {
+            "First Lines": "\nThis olde gentill bretons in her dayesOf diuers auentures maden\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026My spirit feleth nat of such matereBut if you list my tale\n                    shul ye here\n",
+            "Attributed Title": "\nHic incipit Prolgus de ffran / keleyn cum fabula sua de Rokkes de\n                        Brytaine (f. 108ra)",
+            "folio": "f. 108ra"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nThes olde gentyl Brytouns in her daysOf dyvers aventurs maden\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026My spyryt felyth nat of suche materBut if ye list my tale\n                    shul ye heer\n",
+            "Attributed Title": "\n\u2026& Incipit fabula eiusdem (f. 184)",
+            "folio": "f. 184v"
+        },
+        "BLAdd35286": {
+            "First Lines": "\nThise olde gentil bretons in hir dayesOf diuerse auentures maden\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026My spirit feleth nat of swich matereBut yif yow list my tale\n                    shul ye here\n",
+            "Attributed Title": "\nHere bigynneth the frankeleyns tale (f. 132v); the frankeleyn\n                    (RT)",
+            "Editions": "\nHorobin,  Simon. \n             \u201cA Transcription and Study of British Library MS Additional 35286 of\n                Chaucer\u2019s Canterbury Tales.\u201d \n         Diss. Univ. of Sheffield, 1997. \n",
+            "folio": "f. 132v"
+        },
+        "BLEge2726": {
+            "First Lines": "\nThise old gentle Bretons in her dayesOf diuers auentures maden\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026My spirit feleth nat of soch matereBut yf you list\n                    my tale shull ye here\n",
+            "Attributed Title": "\n\u2026& / incipit fabula sua de Rokkes de Bretayn (f.\n                        147v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 147v-148"
+        },
+        "BLEge2864": {
+            "First Lines": "\nThes olde gentil Britons in her dayesOf dyvers aventures maade\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026My spyrit feeleth nat of such mateerBut yif ye liste my tale\n                    shul ye heere\n",
+            "Attributed Title": "\n\u2026and begynneth his tale (f. 154v); Here bgynneth the tale\n                    of the ffrankeleyn (f. 155); The ffrankeleyn (FT)",
+            "folio": "f. 155"
+        },
+        "BLHar1758": {
+            "First Lines": "\nTHeses olde gentill Britouns in her daiesOf dyuerse\n                    auenturis maden laies\u2026\n",
+            "Last Lines": "\n\u2026Myn spirit felith nought of suche matereBut if you lust my\n                    tale schull ye here\n",
+            "Attributed Title": "\nHere begynneth the ffrankeleyns tale (f. 127v); The ffrankeleyn\n                    (RT)",
+            "folio": "f. 127v"
+        },
+        "BLHar7333": {
+            "First Lines": "\nThes olde gentil barownes in hir dayesOf Diuerse Auntrous made hir\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026My spret felithe not suche materebut yf yow list my tale\n                    schul ye here\n",
+            "Attributed Title": "\nHere begynnithe the ffrankeleyne his prolog (f. 82vb,\n                    rubric)",
+            "folio": "f. 82vb"
+        },
+        "BLHar7335": {
+            "First Lines": "\n[T]His olde gentil Bretons in hir dayesOf diuesse\n                    auentures made layes\u2026\n",
+            "Last Lines": "\n\u2026Mi spirit felith nat of swiche matereBut yf you lust my tale\n                    shul ye here\n",
+            "Attributed Title": "\nThe ffrankeleyns tale / of rokkes of (f. 140v,\n                    margin); The ffrankleynes tale (f. 140v, added later)",
+            "folio": "f. 140v"
+        },
+        "BLLan851": {
+            "First Lines": "\nTHis olde gentil bretons in hire daiesOf diuers auentures maden\n                    laies\u2026\n",
+            "Last Lines": "\n\u2026My sprite fele\u00fe nou\u021dt of suche MatierBot if\n                    \u00feou lust my tale shal \u00feou\n\u021de\nnouht here\n",
+            "Attributed Title": "\n\u2026Incipit prologus de le ffrankeleyne (f. 141); \u00fee\n                    ffrenkeleyne (RT); Explicit prologus\u2026 (f.\n                    141v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 141-141v"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\n[tear]d gentil Bretons in theyr dayes[torn]f dyuers aduentures\n                    maden layes\u2026\n",
+            "Last Lines": "\n\u2026My spirit felith nat of suche matierBut if ye lust my tale\n                    shul ye here\n",
+            "folio": "f. 177"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nTHese olde gentil Bretons in here dayesOf diuers auentures maden\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026My spyryt fiele\u00fe nat of suche matiereBut if \u021dou\n                    lust my tale schul \u021de here\n",
+            "Attributed Title": "\n\u2026And begynneth the tale (f. 146); The ffrankleyn (RT)",
+            "folio": "f. 146"
+        },
+        "BLSl1685": {
+            "First Lines": "\nThys olde gentell Brytouns in hir dayesOf dyuerse auentures\n                    madenlayes\u2026\n",
+            "Last Lines": "\n\u2026Myne sperit feli\u00fee nou\u021dt of suche matereBut yif you\n                    luste my tale shalle \u021de not here\n",
+            "Attributed Title": "\n\u2026and bygynnethe \u00fee tale (f. 145v); The ffrenkeleyne\n                    (RT)",
+            "folio": "f. 145v"
+        },
+        "BLSl1686": {
+            "First Lines": "\nThis olde gentill bretons in her daiesOf diuerse aduentures maden\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026Myn spirit felyth not of soche matereBut yf ye lust my tale\n                    shalle ye not here\n",
+            "Attributed Title": "\n\u2026And here begynneth the Prolog of the ffrankeleyn (f. 193); [a]\n                    Prolog of the ffrankelyn (RT); Here endith the Prolog of the ffrankeleyn\u2026\n                    (f. 193v)",
+            "folio": "ff. 193-193v"
+        },
+        "NLWPen392": {
+            "First Lines": "\nTHise olde gentil Britons in hir daysOf diuerse auentures maden\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026My Spirit feeleth nat of swich materBut if yow list my tale\n                    shul ye heere\n",
+            "Attributed Title": "\nHere bigynneth the ffrankeleyns tale (f. 153v); The ffrankeleyn\n                    (RT)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "ff. 153v-154"
+        },
+        "Alnwick455": {
+            "First Lines": "\nThese old gentill Bretons in hir dayisOf diuers aventureis maden\n                    layis\u2026\n",
+            "Last Lines": "\n\u2026My spirite felith of no such matereBut yf yee like me tale\n                    shul yee here\n",
+            "Note": "\nV.721-2 omitted.",
+            "Attributed Title": "\nHere begynnyth the ffranklen his tale (f. 130v)",
+            "folio": "ff. 130v"
+        },
+        "GULHun197": {
+            "First Lines": "\nTHese olde gentil bretons in her daysOf dyuers auentures maden\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026My spirite feleth nout of suche matierBut if ye lyste my tale\n                    ye may here\n",
+            "Attributed Title": "\nHere begynneth the prologe of the frenkeleyn (f. 81rb); the\n                    ffrankeleyn (RT)",
+            "folio": "ff. 81rb-81va"
+        },
+        "Holkham667": {
+            "First Lines": "\nThise olde gentill britons in her dayesOf diuers auctours maden her\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026My spirit feleth naught such matereBut yf ye luste my tale\n                    shull ye here\n",
+            "folio": "ff. 31vb-32ra"
+        },
+        "Lichfield29": {
+            "First Lines": "\nThise olde gentile britons in her dayesOf diuerse auentures maden\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026My spirite feleth nou\u021dt of suche matereBut \u021dif\n                    \u021dow liste my tale shul \u021de here\n",
+            "Attributed Title": "\n\u2026And bigynneth the tale (f. 153v, rubric); The ffrankeleyn\n                    (RT)",
+            "folio": "f. 153v"
+        },
+        "Lincoln110": {
+            "First Lines": "\nTHis olde gentil britons in hir daiesOff dyuers auenturs maden\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026My spirit feli\u00fe not of suche matereBut if \u021de lust\n                    my tale shul \u021de here\n",
+            "Attributed Title": "\nSir frankl[eyn] (f. 137v, margin, by second hand); The\n                    ffrankleyn (RT)",
+            "folio": "ff. 137v-138"
+        },
+        "LonPhys388": {
+            "First Lines": "\nThiese old gentil Bretons in theyr dayesOf dyuers aduentures maden\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026My spirit felt nat of suche matiereBut if yow liste my tale\n                    shul ye here\n",
+            "Attributed Title": "\n\u2026Incipit fabula (f. 186)",
+            "folio": "ff. 186-186v"
+        },
+        "RylandsEng113": {
+            "First Lines": "\n[T]His olde gentle Britons in here dayesOf dyuerse auenturs maden\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026My spirite felith not of such materebut and ye list my tale\n                    shal ye here\n",
+            "Note": "\nNo break between this text and the Tale proper.",
+            "Attributed Title": "\n\u2026And begynnyth his tale (f. 104v) ffrankleyn\n                    (RT)",
+            "folio": "f. 104v"
+        },
+        "Petworth7": {
+            "First Lines": "\nThise olde gentile bretoynes in her daiesOf dyuers auentures maden\n                    laies\u2026\n",
+            "Last Lines": "\n\u2026Mi spirit fele\u00fe not of such matiereBut if \u021dow lust\n                    my tale shul \u021de here\n",
+            "Attributed Title": "\n\u2026And here bygynne\u00fe \u00fee ffraunkeleyns tale (f. 178)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 178-178v"
+        },
+        "Austin143": {
+            "First Lines": "\nThise olde Ientill Brutons in there daiesOf dyers aventures maden\n                    laies\u2026\n",
+            "Last Lines": "\n\u2026My spirite feleth nought of suche matereBut and you lust my\n                    tale shull ye here\n",
+            "Note": "\nV.713 inserted in margin. Only a paraph marks the beginning of the\n                        Tale proper.",
+            "Attributed Title": "\n\u2026And here begynneth his tale (f. 130); ffrankeleyne (RT)",
+            "folio": "ff. 130-130v"
+        },
+        "Plimpton253": {
+            "First Lines": "\nThis old gentil Brytons in here dayesof diuers auentures maden\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026My spirit feleth no\u021dt of suche matereBut \u021deff\n                    \u021dow luste my tale shall \u021de here\n",
+            "Attributed Title": "\nThe ffrankeleyn (RT)",
+            "Facsimiles": "\n\nDigital Scriptorium: Facsimile of Plimpton MS 253.\n         Columbia University, 1996-. \n",
+            "folio": "ff. 1-1v"
+        },
+        "PierpontM249": {
+            "First Lines": "\nThise olde gentile britons in her dayesOf diuerse auenture maden\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026My spirite feleth nou\u021dt of suche matereBut \u021dif you\n                    liste my tale shul \u021de here\n",
+            "Attributed Title": "\n\u2026And here bygynneth his tale (F. 152v)",
+            "folio": "f. 152v"
+        },
+        "PhilRos10841": {
+            "First Lines": "\nThese olde gentell bretons in here dayesOf diuerse auentures maden\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026My spyryte feleth not of suche matereThys ys my tale yf\n                    \u021de leste to here\n",
+            "Note": "\nV.716 omitted.",
+            "Attributed Title": "\n\u2026And begynne\u00fe the tale of the / ffrankleyn (f. 176); The\n                    ffrankleyn (RT)",
+            "folio": "ff. 176-176v"
+        },
+        "PUL100": {
+            "First Lines": "\nTHese old gentil bretouns in her dayisOf divers autours madyn here\n                    layis\u2026\n",
+            "Last Lines": "\n\u2026My sperit felith not such matereBut and yee list my tale shul\n                    yee here\n",
+            "Attributed Title": "\nHere begynnyth the ffranklen his prolog (f. 122v); Here endith\n                    he his prologg\u2026 (f. 122v)",
+            "folio": "f. 122v"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nThise olde gentil Britons in hir dayesOf diuerse auentures maden\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026My spirit feeleth noght of swich mateereBut if yow list my\n                    tale shul ye heere\n",
+            "Attributed Title": "\nThe Prologe of the ffrankeleyns tale (f. 123v); ffrankeleyn\n                    (RT)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "f. 123v"
+        },
+        "BNangl39": {
+            "First Lines": "\nThise olde gentil bretons in \u00feeir dayesOf dyuersez aduenturoez\n                    made her layes\u2026\n",
+            "Last Lines": "\n\u2026my spiryte felith not of such materebut yif yow list my tale\n                    shul yee here\n",
+            "Attributed Title": "\n\u2026& subsequenter narrat fabulam (f.\n                    57ra)",
+            "folio": "ff. 57rb-57va"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nThese olde gentil Bretons in her dayesOf diuers auentures maden\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026My spirit feleth nat of such materBut if you lust my tale\n                    shul ye hiere\n",
+            "Attributed Title": "\n\u2026Et incipit ffabula sua de la Rokkes / de Britayne (f.\n                    139)",
+            "folio": "f. 139v"
+        },
+        "TokyoTak32": {
+            "First Lines": "\nThis Oolde gentill Bretonnis in her dayisOf devers Aventuris they\n                    Maden layis\u2026\n",
+            "Last Lines": "\n\u2026My spirit felyht nowght of swiche MatereBut yif that yow\n                    lyste My tale schal yee here\n",
+            "Attributed Title": "\nHere bee gynnyht thee tale of the frankeleyn (f. 81va); the\n                    frankeleynis tale (RT)",
+            "folio": "f. 81va-81vb"
+        },
+        "Bodmer48": {
+            "First Lines": "\nThese olde gentil Britons in her daiesOf diuerse auentures maden\n                    layes\u2026\n",
+            "Last Lines": "\n\u2026my spirit felith not of such matereBut and ye list my tale\n                    shul ye now her\n",
+            "Note": "\nV.721-2 omitted.",
+            "Attributed Title": "\nThe prolog of the ffrankleyns tale (f. 118, rubric)",
+            "Facsimiles": "\n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n",
+            "folio": "f. 118"
+        }
+    }
+}

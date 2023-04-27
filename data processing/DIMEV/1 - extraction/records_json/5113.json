@@ -1,0 +1,82 @@
+{
+    "_id": 5113,
+    "_header": "Take wind water white and green",
+    "Note": "For a prose redaction see San Marino, CA, Henry Huntington Library HU 1051, f. 132v. Sometimes follows 4236; sometimes preceded by 482. Singer (1928)\nXSinger, Dorothea Waley. Catalogue of Latin and Vernacular Alchemical Manuscripts. 3 vols. Brussels: Lamertin, 1928-31, 849, 849A.",
+    "Author(s)": "Pearce the Black Monk (attrib.)",
+    "Title(s)": "ad mineralia alteranda in terram cristallinam",
+    "Subjects": "alchemy",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Macaronic": "Latin",
+    "Bibliographic Ghosts": "Oxford, Bodleian Library Ashmole 1280 (SC 8216), p. 31: see Oxford, Bodleian Library Ashmole 1450, Part VII (SC 7628) version.",
+    "_description": "Alchemical verses, ascribed (in 1652) to Pearce the Black Monk, nine lines in English, with occasional Latin words, and four lines of Latin \u2014 in couplets",
+    "_witnesses": {
+        "BodAsh1450": {
+            "First Lines": "\nTake wynde and water white & greneand drawe therof lac\n                        virginis\u2026\n",
+            "Last Lines": "\n\u2026Sublimatio attractio & etiim fixatio&\n                        sulphuris nostri sine foliati creatio\n\n",
+            "Note": "\nAt the end: \u2018finis\u2019.",
+            "folio": "p. 31"
+        },
+        "BodAsh1487": {
+            "First Lines": "\nTake wynde and water white and greeneand therof drawe a Lac\n                        virgine\u2026\n",
+            "Last Lines": "\n\u2026Sublimatio attractio et etiam\n                        fixatioet sulphuris nostri siue foliati creatio\n\n",
+            "Note": "\nImmediately followed by 6731.",
+            "Attributed Title": "\nAn other conclusion (f. 74v)",
+            "folio": "f. 74v"
+        },
+        "BodAsh1492": {
+            "First Lines": "\nTake winde water white & greeneAnd drawe therof a Lac\n                        virgine\u2026\n",
+            "Last Lines": "\n\u2026sublimatio et fixatio et sulphuris[nostri] sive foliate\n                        creatio\n\n",
+            "Note": "\nFollows immediately after 4236.",
+            "folio": "p. 146"
+        },
+        "CamTCC1119": {
+            "First Lines": "\nTak wind and water whit and greenAnd draw thereof Lac\n                        Viregine\u2026\n\n",
+            "Last Lines": "\n\u2026sublimatio Attractio & etiam fixa-tio & sulphuris\n                        nostri sine foliatio\n\n",
+            "Note": "\n9 lines; at end, \u2018finis\u2019.",
+            "folio": "f. 83v"
+        },
+        "BLSl1092": {
+            "First Lines": "\nTake winde water white & greeneAnd draw therof lac\n                        virginis\u2026\n",
+            "Last Lines": "\n\u2026sublimatio attractio & etiam fixatioEt Sulphuris\n                        nostri siue foliati creatio\n\n",
+            "Note": "\nPreceded by 5095 and\n                        4236.",
+            "folio": "ff. 6v-7"
+        },
+        "BLSl1098": {
+            "First Lines": "\nTake wynde water white & greene& drawe thereof lac\n                        virginis\u2026\n",
+            "Last Lines": "\n\u2026dissolutio et congelatio sublimatio, attractioet etiam\n                        fixatio et sulphuris nostri foliati creatio\n\n",
+            "Note": "\nEight lines of English and four of Latin; preceded by 5095 and 4236.",
+            "folio": "ff. 21v-22"
+        },
+        "BLSl1842": {
+            "First Lines": "\nTake winde water white & greeneand drawe thereof a lac\n                        virginis\u2026\n",
+            "Last Lines": "\n\u2026nostra dissolutio et congelatio sublimatio attractioet\n                        etiam fixatio et sulphuris nostri siue foliati creatio\n\n",
+            "Note": "\nAt end, \u2018finis\u2019.",
+            "folio": "f. 16"
+        },
+        "BLSl3580B": {
+            "First Lines": "\nTake wynde water white & grene& drawe therof a Lac\n                        virgyne\u2026\n",
+            "Last Lines": "\n\u2026so mayntayninge still your fiertill all be come \u00feat you\n                    desire\n",
+            "Note": "\nVariant of ten lines English; see also a prose version on f.\n                    185.",
+            "folio": "f. 183"
+        },
+        "BLSl3667": {
+            "First Lines": "\nTake wynde water whit & gryne& drawe thar of a lak\n                        vergene\u2026\n",
+            "Last Lines": "\n\u2026cintynewe & a lyttill encrise your firetyll he be red\n                    & full of yere\n",
+            "Note": "\nAbbreviated version of 8 lines English only, preceded by 5095 and 4236.",
+            "folio": "f. 120v"
+        },
+        "BLSl3747": {
+            "First Lines": "\nTake wynde water white and greneAnd drawe therof a lac\n                        virgene\u2026\n",
+            "Last Lines": "\n\u2026soblimato altato & intiam fixato& sulphuris nostri\n                        sine tere foliate [creaco]\n\n",
+            "Note": "\nPreceded by 4236.",
+            "Editions": "\nAshmole,  Elias. \n             Theatrum Chemicum Britannicum.\n         London: J. Grimond, 1652: 431.\n",
+            "folio": "f. 109v"
+        },
+        "YaleBeiOsfa16": {
+            "First Lines": "\nTak wynd watter whit & grenedo them to gether as I\n                    meane\u2026\n",
+            "Last Lines": "\n\u2026the child thus for me at one generationall shall haue &\n                    mak them of his awn fassio[n]\n",
+            "Note": "\nSecond occurrence in this MS; page numbered 39; written by a hand of the\n                    sixteenth century; ends \u2018Explicit\u2019.",
+            "folio": "f. 4rb"
+        }
+    }
+}

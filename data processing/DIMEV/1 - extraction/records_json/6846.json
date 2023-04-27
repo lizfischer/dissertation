@@ -1,0 +1,23 @@
+{
+    "_id": 6846,
+    "_header": "Ye that will hear of wit [\u021che that welyie here of wytte]",
+    "Note": "For MSS which lack the Prologue see 5269.",
+    "Title(s)": "Storia Lune",
+    "Subjects": "utilitarian verse; moon, changes of; lucky and unlucky days",
+    "Versification": "\u2014 six-line",
+    "_description": "The \u2018Storia Lune\u2019 \u2014 116 6-line stanzas, with a Prologue of seven stanzas",
+    "_witnesses": {
+        "BodDou84": {
+            "First Lines": "\n\u021dhe \u00feat welyie here of wytte\u00feat is wytnessyd of holy\n                    wryte\u2026\n",
+            "Last Lines": "\n\u2026\u00feat we mow thurw hys mercy dereIn heuen to haue a place\n                    Amwn\n",
+            "folio": "ff. 46-53v"
+        },
+        "CamStJohn237": {
+            "First Lines": "\n\u2026What dremys bene in alle manereAnd othere \u00feenggys\n                    mo\u2026\n",
+            "Last Lines": "\n\u2026\u00deat we mow \u00feorow hys mercy dedeIn heuene haue a\n                    place\n",
+            "Note": "\nMissing lines 1-22 of Prologue.",
+            "Attributed Title": "\nExplycyt storya lune (p. 32)",
+            "folio": "p. 3"
+        }
+    }
+}

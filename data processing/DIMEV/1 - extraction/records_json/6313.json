@@ -1,0 +1,28 @@
+{
+    "_id": 6313,
+    "_header": "When Gods son conceived was",
+    "Note": "In other MSS, this piece follows 5035 without separation; for a variant see 6463.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Friday of the Third Week in Advent, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nWhon godus sone conceyued wasIn vr ladi \u00feorwh his\n                    gras\u2026\n",
+            "Last Lines": "\n\u2026He vs graunte wi\u00fe Ioye and Mur\u00fee\u00fee tyme to\n                    worschipen of his bur\u00fee Amen\n",
+            "Attributed Title": "\nExurgens Maria abijt in Montana (f. 169va)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 169va-169vc"
+        },
+        "CULGg531": {
+            "Note": "\nWrongly assigned to Saturday.",
+            "folio": "f. 138"
+        },
+        "HunHM129": {
+            "First Lines": "\nWhen god is sun consayuyd wasIn oure leuedy swythe vp scho\n                    ras\u2026\n",
+            "Last Lines": "\n\u2026In rome \u00feis tale I Rede \u00feat \u021de hereffor\n                    \u00feis child is with god ffull dere\n",
+            "Note": "\nFollows immediately after 5035, with rubric \u2018Sequitur explanacio tercii\n                        ewangelii\u2019 on f. 205 to indicate new text at \u2018When tyme come\n                    \u00feat Ely\u021dabeth\u2026\u2019.",
+            "folio": "ff. 204v-207"
+        }
+    }
+}

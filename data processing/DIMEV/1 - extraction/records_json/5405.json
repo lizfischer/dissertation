@@ -1,0 +1,370 @@
+{
+    "_id": 5405,
+    "_header": "The minister and nourice unto vices",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Second Nun\u2019s Prologue; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; Virgin Mary; Saint Cecilia; Idleness, sin of",
+    "Versification": "\u2014 rhyme royal, seven-line \u2014 ababbcc",
+    "_description": "Geoffrey Chaucer, the Prologue of the Second Nun\u2019s Tale of the Canterbury Tales \u2014 119 lines in rhyme royal stanzas.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nThe minstre & norice vn to viceswhich that men clepen in\n                    englissh Idelnesse\u2026\n",
+            "Last Lines": "\n\u2026and brennyng euere in charite ful brightnow haue I declared\n                    yow what she hight\n",
+            "Attributed Title": "\n\u2026And next / bigynneth the seconde nonne hir tale & cetera\n                    (f. 215); the seconde nonne (RT); Here endith the Seconde nonne hir\n                    Prolog\u2026 (f. 216v)",
+            "folio": "ff. 215-216v"
+        },
+        "BodBar20": {
+            "First Lines": "\nThe mynystre and \u00fee Noryse vnto viciswiche \u00feat men clepen\n                    in Englisshe ydelnes\u2026\n",
+            "Last Lines": "\n\u2026And brennyng euer in Charite ful brightNow haue I \u021dow\n                    declared what she hight\n",
+            "Attributed Title": "\n\u2026and here by / gynne\u00fe \u00fee prologe of \u00fee secund nonne\n                    (f. 161v); ij nonne (RT); here endith \u00fee prologe\u2026 (f.\n                    163)",
+            "folio": "ff. 161v-163"
+        },
+        "Bod414": {
+            "First Lines": "\n[T]He ministre of the norice vnto vicesWhich men clepe in englissh\n                    Idilnesse\u2026\n",
+            "Last Lines": "\n\u2026And brennyng euer in charite so lightNow haue I declarid you\n                    what she hight\n",
+            "Attributed Title": "\nHere begynneth the Prolog of \u00fee secunde Nonne (f.\n                    112v)",
+            "folio": "ff. 112v-114"
+        },
+        "Bod686": {
+            "First Lines": "\nThe ministre and \u00fee norice vnto vicesWhich \u00feat men clepe\n                    in englissh ydlenesse\u2026\n",
+            "Last Lines": "\n\u2026And brennynge euer in cherite ful bri\u021dhtNow have y you\n                    declared what she hight\n",
+            "Attributed Title": "\n\u2026And here begynneth \u00fee Nonnes tale (f. 176v); Nonne\n                    (RT)",
+            "folio": "ff. 176v-178"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nThe mynistre of \u00fee norice vnto vicesWhich men callen in\n                    englissh Idelnesse\u2026\n",
+            "Last Lines": "\n\u2026And brennyng euer in charite ful brightNow I haue yow\n                    declared what she hight\n",
+            "Attributed Title": "\n\u2026And next beginneth the / Prolog of the Nonne (f. 135v);\n                    The Nonne (RT); Here endeth \u00fee Prolog of the Nonne\u2026 (f.\n                    137)",
+            "folio": "ff. 135v-137"
+        },
+        "BodLauMis600": {
+            "First Lines": "\nThe ministre of \u00fee Noris vnto vicesWhiche \u00feat clepe in\n                    englissh Idelnesse\u2026\n",
+            "Last Lines": "\n\u2026And brenne euere in charite lightNow haue I declared you what\n                    she hight\n",
+            "Attributed Title": "\n\u2026Here begynne\u00fe \u00fee prolog of \u00fee nonne of \u00fee lif of\n                    Seint Cecile (f. 184v); of \u00fee Nonne (RT)",
+            "folio": "ff. 184v-186"
+        },
+        "BodLauMis739": {
+            "First Lines": "\n[T]He mynystre of \u00fee noryce vnto vicesWhiche \u00feat men\n                    clepen in Englisshe ydelnesse\u2026\n",
+            "Last Lines": "\n\u2026And brenne euere in charite lyghteNow haue I declared you\n                    what she hi\u021dte\n",
+            "folio": "ff. 190-192"
+        },
+        "BodRawPoe149": {
+            "First Lines": "\nThe mynyster of the no norise vnto viceswhich that men\n                    clepen in Inglish Idelnes\u2026\n",
+            "Last Lines": "\n\u2026And brennyng euir in charite lightNow have I declared yow\n                    what she hight\n",
+            "Attributed Title": "\nprolog non (f. 83, margin); the non (RT)",
+            "folio": "ff. 83-84"
+        },
+        "BodRawPoe223": {
+            "First Lines": "\nThe ministre and norice vnto vicesWhich that men clepen in englissh\n                    ydilnesse\u2026\n",
+            "Last Lines": "\n\u2026And brenne euer in charite full bri\u021dtNow haue I declared\n                    what she hi\u021dt\n",
+            "Note": "\nVIII.5 left blank.",
+            "Attributed Title": "\n\u2026And here beginneth the seconde Nonnes tale (f. 157v);\n                    Cecilia (RT)",
+            "folio": "ff. 157v-159"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nThe mynystre and the norice vnto vicesWhiche that men clepen in\n                    englissh ydelnesse\u2026\n",
+            "Last Lines": "\n\u2026And brennyng euer in charite ful brightNow haue I yow\n                    declared what she hight\n",
+            "Attributed Title": "\nHere bygynneth the first Nonnes / tale of the lyf of Seynt Cecile (f.\n                    232)",
+            "folio": "ff. 232-233"
+        },
+        "OxfCCC198": {
+            "First Lines": "\n\u2026Thou welle of mercy synful soules cureIn whom \u00feat god\n                    for bounte chees to wone\u2026\n",
+            "Last Lines": "\n\u2026And brenne euere in charite lighteNo haue I declared \u021dou\n                    what sche highte\n",
+            "Note": "\nVIII.1-36 lost; 73-4 omitted.",
+            "Attributed Title": "\nsent cecile (RT, rubric)",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "ff. 171-172"
+        },
+        "OxfNew314": {
+            "First Lines": "\nThe mynystre and norisshe of all vicisWhiche \u00feat men clepe in\n                    english Idelnesse\u2026\n",
+            "Last Lines": "\n\u2026And brennynge euyr in charite ful bri\u021dtNow haue y\n                    declared you what she hi\u021dt\n",
+            "Note": "\nVIII.84 omitted.",
+            "Attributed Title": "\nHere begynneth the second Nonnes Prolog (f. 162); Here endith the\n                    Prolog\u2026 (f. 163v)",
+            "folio": "ff. 162-163v"
+        },
+        "OxfTri49": {
+            "First Lines": "\nThe mynystre and norice vnto viciswhiche men clepe in english\n                    Idilnes\u2026\n",
+            "Last Lines": "\n\u2026and brennyng euere in charite ful brightNow haue I declarid\n                    you what she hight\n",
+            "Note": "\nVIII.59-64 omitted.",
+            "Attributed Title": "\nIncipit fabula sancti monialis (f. 239v); Nonne\n                    (RT)",
+            "folio": "ff. 239v-241"
+        },
+        "CULDd424": {
+            "First Lines": "\nTHe ministre and the norice vn to vicesWhich \u00feat men clepen in\n                    Englissh ydelnesse\u2026\n",
+            "Last Lines": "\n\u2026And brennyng euere in Charite ful brighteNow haue I \u021dow\n                    declared what she highte\n",
+            "Attributed Title": "\n\u2026& bigynneth the / Secund Nonnes Tale of Seynt Cecile / with oute\n                    a Prologe (f. 195v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 195v-197"
+        },
+        "CULGg427": {
+            "First Lines": "\n\u2026And thow men dreddyn neuere for to deyin\u021dit seen men\n                    weel by resoun douteles\u2026\n",
+            "Last Lines": "\n\u2026The storye wrot & folwe hire legendeAnd preye \u021dow\n                    that \u021de wele myn werk amende\u2026\n",
+            "Note": "\nVIII.1-14, 85-140 lost.",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "Editions": "\nFurnivall,  Frederick James. \n             The Cambridge MS (University Library, Gg.4.27) of Chaucer\u2019s\n                Canterbury Tales.\nChaucer Society\n         Series 1, nos. 4, 10, 17, 28, 33, 40, 52, 66. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 373-373v"
+        },
+        "CULIi326": {
+            "First Lines": "\nTHe mynister of the norice vnto vicesWhich that men clepen in\n                    Englysshe ydelnes\u2026\n",
+            "Last Lines": "\n\u2026And brennynge euer in charite lightNowe haue I declared you\n                    what she hight\n",
+            "Attributed Title": "\n\u2026and here / begynneth the prologe of the seconde None (f. 150); The\n                    seconde None (RT); Here endith the prologe of the seconde None\u2026 (f.\n                        151v)",
+            "folio": "ff. 150-151v"
+        },
+        "CULMm25": {
+            "First Lines": "\nThe ministre of the nurrys vnto vicesWhiche \u00feat men clepen in\n                    ynglissh yldnes\u2026\n",
+            "Last Lines": "\n\u2026And brenne euer in charite li\u021dhteNowe haf I declarede\n                    \u021dowe what sche hi\u021dhte\n",
+            "Attributed Title": "\n\u2026And here begynneth \u00fee ij nonne / Prologus (f. 170v);\n                        De vita sancte Cecilie (f. 170v, margin); Prologus\n                    (RT)",
+            "folio": "ff. 170v-171v"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[T]He Mynystre of the Norys vn to vycesWhich \u00feat men clepe in\n                    Englyssch ydelnes\u2026\n",
+            "Last Lines": "\n\u2026And brennyng euer in charite lyghtNow haue y declared yow\n                    what sche hight\n",
+            "Note": "\nVIII.78-84, 92-113 omitted.",
+            "Attributed Title": "\nThe prologe of the Secund Nonne (f. 176v)",
+            "folio": "ff. 176v-177v"
+        },
+        "CamTCC582": {
+            "First Lines": "\nThe minister and the Norice vnto vicesWich that men clepen in\n                    englissh Idilnesse\u2026\n",
+            "Last Lines": "\n\u2026And brenne euer in charite ful bri\u021dtNow haue I declared\n                    what she hight\n",
+            "Attributed Title": "\n\u2026And hiere beginneth a tale of the Seconde Nonne (f.\n                    66rb)",
+            "folio": "ff. 66rb-67ra"
+        },
+        "CamTCC595": {
+            "First Lines": "\nThe mynystre and noryssh of alle vicisWhiche that men clep in\n                    englisshe ydlenes\u2026\n",
+            "Last Lines": "\n\u2026And brennynge evir in charyte fulle bryghtNow haue I declared\n                    you whate she hight\n",
+            "Note": "\nVIII.43-66 omitted.",
+            "Attributed Title": "\n\u2026And / Here begynneth the secounde Nonnys Prologue (ff.\n                        201v-202); Here endeth the seconde Nonnys prologe\u2026 (f.\n                        203v)",
+            "folio": "ff. 202-203v"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nThe mynystre and the norice vnto vicisWhich that clepen in\n                    englisshe Idilnesse\u2026\n",
+            "Last Lines": "\n\u2026And brennyng evir in charite wel brihtNow haue I declared\n                    fully what she hiht\n",
+            "Attributed Title": "\n\u2026Incipit narracio eiusdem de vita / Sancte Cecilie (f. 285);\n                    Nvnne (RT)",
+            "folio": "ff. 285-287"
+        },
+        "BLAdd35286": {
+            "First Lines": "\nThe minystre and the norice vnto vicesWhich that men clepeth in\n                    englyssh ydelnesse\u2026\n",
+            "Last Lines": "\n\u2026And brennyng euer in charite ful bryghtNow haue I yow\n                    declared what she hight\n",
+            "Attributed Title": "\nHere bigynneth the nonnes tale of seint Cecilie (f. 82); the nonne\n                    (RT)",
+            "Editions": "\nHorobin,  Simon. \n             \u201cA Transcription and Study of British Library MS Additional 35286 of\n                Chaucer\u2019s Canterbury Tales.\u201d \n         Diss. Univ. of Sheffield, 1997. \n",
+            "folio": "ff. 82-83v"
+        },
+        "BLEge2726": {
+            "First Lines": "\nTHe mynystre and the norice vnto vicesWhich that men clepen\n                    ydelnesse\u2026\n",
+            "Last Lines": "\n\u2026And brennyng euere in cherite full brightNow have I you\n                    declared what she hight\n",
+            "Attributed Title": "\n\u2026et incipit fabula / Sancte Cecilie prolog deficiente et per\n                        secundam monialem narrata (f. 217)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 217v-218v"
+        },
+        "BLEge2863": {
+            "First Lines": "\nThe mynistre and the norice vnto vicesWhich \u00feat men clepe in\n                    Englisshe Idelnesse\u2026\n",
+            "Last Lines": "\n\u2026And brenne euere in charite lighteNow haue I declared\n                    \u021dow what sche highte\n",
+            "Attributed Title": "\n\u2026And here bygynnyth \u00fee prologe of \u00fee Second Nonne (f.\n                        123v); Here endith prologe\u2026 (f. 125)",
+            "folio": "ff. 123v-125"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[T]He mynystre and the norice vnto vicisWhich that clepen in\n                    ynglisshe Idilnesse\u2026\n",
+            "Last Lines": "\n\u2026And brennyng euer in charite wel brihteNow have I declared\n                    fully what she hihte\n",
+            "Attributed Title": "\nHeer begynneth the ijde Nunnys tale / Off the liffe of Seynt\n                    Cecile (f. 234); The ijde Nunnys tale (RT)",
+            "folio": "ff. 234-235v"
+        },
+        "BLHar1758": {
+            "First Lines": "\nTHe mynystre & the norisch vn to vicesWhiche that men clepen in\n                    englische ydilnesse\u2026\n",
+            "Last Lines": "\n\u2026And brennyng euyr in charite lightNow haue I declarid you\n                    what sche hight\n",
+            "Attributed Title": "\nHere begynneth the Prolog of the secunde Nonne (f. 137); The .2. Nonne\n                    (RT); Here endith the Prolog\u2026 (f. 138v)",
+            "folio": "ff. 137-138v"
+        },
+        "BLHar2382": {
+            "First Lines": "\nTHe ministre of the norice vnto viceswhich \u00feat men clepeth in\n                    Inglish ydelnes\u2026\n",
+            "Last Lines": "\n\u2026and brennyng euer in charite ful brightnow haue y yow\n                    declared what she hight\n",
+            "Note": "\nChaucer\u2019s Prioress\u2019s Prologue and Tale and\n                        Second Nun\u2019s Tale in a religious miscellany.",
+            "Attributed Title": "\nVita Sancte Cecilie Prohemium (f. 100v); De sancte\n                        Cecilia (RT)",
+            "folio": "ff. 100v-102"
+        },
+        "BLHar7333": {
+            "First Lines": "\nTHe minster and noryce to vicesWhiche that men clepe in onglisshe\n                    Idelnes\u2026\n",
+            "Last Lines": "\n\u2026And brynnyng euer in charite ful bry\u021dtNow have I\n                    declared yow what sche hy\u021dt\n",
+            "Attributed Title": "\n\u2026And here begynnythe the Second Nonne prologe (f. 86vb,\n                    rubric)",
+            "folio": "ff. 86vb-87ra"
+        },
+        "BLHar7334": {
+            "First Lines": "\nTHe minister and \u00fee norice vnto vicesWhich \u00feat men clepe\n                    in englisch ydelnesse\u2026\n",
+            "Last Lines": "\n\u2026And brennyng euer in charite ful brightNow haue I \u021dow\n                    declared what sche hight\n",
+            "Attributed Title": "\n\u2026And here bygynneth \u00fee Secounde Nonnes tale (f. 162); The\n                    secounde Nonnes Tale (RT)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "ff. 162-163v"
+        },
+        "BLHar7335": {
+            "First Lines": "\n[T]He mynystre and the norice vnto vicesWhich that men clepeth in\n                    Englissh ydelnesse\u2026\n",
+            "Last Lines": "\n\u2026And brennyng euer in charite ful brighteNow haue y you\n                    declared what she highte\n",
+            "Attributed Title": "\nAllocutio hospitis deficit (f. 90, margin, beside 8 blank lines);\n                        ffabula Monialis de / sancta Cecilia (f. 90, margin)",
+            "folio": "ff. 90-92"
+        },
+        "BLLan851": {
+            "First Lines": "\nThe ministre of \u00fee norice vnto vicesWhiche \u00feat men clepen\n                    in englisshe ydelnesse\u2026\n",
+            "Last Lines": "\n\u2026And bernede euer in charite lihtNowe haue I declared \u021dow\n                    what sche hiht\n",
+            "Note": "\nVIII.73-4, 103 omitted; 40-1 reversed.",
+            "Attributed Title": "\n\u2026Incipit prologus 2e Monyalys (f. 152); \u00fee\n                    Nonne (RT); Explicit Prologus\u2026 (f. 153)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 152-153"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nTHe mynister of the norice vnto vicesWhiche that men clepen in\n                    Inglissh vices\u2026\n",
+            "Last Lines": "\n\u2026And brend euer in charite ful lightNow have I declared yow\n                    what she hight\n",
+            "Attributed Title": "\n\u2026And / bygynnyth the prolog of the second nonne (f.\n                    190v)",
+            "folio": "ff. 191-192v"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nThe mynistre of \u00fee Norys vnto vicesWhich \u00feat men clepen\n                    in Englisshe ydelnesse\u2026\n",
+            "Last Lines": "\n\u2026And brenne euere in charite li\u021dteNow haue I declared\n                    \u021dow what she hi\u021dte\n",
+            "Attributed Title": "\nHere begynneth the prolog of the .ij. Nonne (f. 156v); The ij\n                    nonne (RT); Here endith the prolog\u2026 (f. 158)",
+            "folio": "ff. 156v-158"
+        },
+        "BLSl1685": {
+            "First Lines": "\nThe mynystre of \u00fee Noryce vnto vicesWhiche \u00feat men clepen\n                    in englys ydylnesse\u2026\n",
+            "Last Lines": "\n\u2026And brenne euere in Charite li\u021dtNowe haue I declared you\n                    what she hi\u021dt\n",
+            "Note": "\n\u2026Here begynnethe \u00fee Prologge of \u00fee Secound Nunne (f.\n                        157v); prologge of \u00fee ij Nunne (RT); Here endethe \u00fee\n                    Prologge\u2026 (f. 158v)",
+            "folio": "ff. 157v-158v"
+        },
+        "BLSl1686": {
+            "First Lines": "\nTHe ministre and the norice vnto vicesWhich that men clepe in\n                    englissh ydilnesse\u2026\n",
+            "Last Lines": "\n\u2026And brennyng euer in charite full brightNowe haue I declared\n                    you what she hight\n",
+            "Note": "\nVIII.77 left blank; 18-19, 104-5 reversed.",
+            "Attributed Title": "\n\u2026And here g begynneth the secounde Nonnes tale (f.\n                        207v); [T]He seconde Nonnes tale (RT)",
+            "folio": "ff. 207v-209v"
+        },
+        "NLWPen392": {
+            "First Lines": "\nThe Ministre and the norice vn to vicesWhich that men clepeth in\n                    englissh ydelnesse\u2026\n",
+            "Last Lines": "\n\u2026And brennyng euere in charite ful brighteNow haue I yow\n                    declared what she highte\n",
+            "Attributed Title": "\nThe [Nonne (tear)] (RT)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "ff. 165v-167"
+        },
+        "Alnwick455": {
+            "First Lines": "\nThe minister and norissher onto vicesWich \u00feat men clepen in\n                    englissh Idilnes\u2026\n",
+            "Last Lines": "\n\u2026And brennyng evir in charite li\u021dteHow have declarid\n                    \u021dewe what she hi\u021dte\n",
+            "Note": "\nVIII.78-84, 82-112 omitted.",
+            "Attributed Title": "\nHere begynnyth the second Nonne hir prologg (f. 140v); Here\n                    endith \u00fee prologg of \u00fee second none\u2026 (f.\n                    140v)",
+            "folio": "ff. 140v-141v"
+        },
+        "GULHun197": {
+            "First Lines": "\nTHe minstre and \u00fee norissh vnto vicesWhiche \u00feat men\n                    clepen idelnesse\u2026\n",
+            "Last Lines": "\n\u2026And brenne euere in charite ful brightNow haue I declared\n                    what she hight\n",
+            "Attributed Title": "\n\u2026And now begynneth the prolog of the second nonne (f.\n                    57rb); The second Nunnes tale (RT)",
+            "folio": "ff. 57rb-57va"
+        },
+        "Holkham667": {
+            "First Lines": "\nThe mynyster and the norissh vnto vicesWhich that men clepe in\n                    englisshe ydelnesse\u2026\n",
+            "Last Lines": "\n\u2026And brennyng euer in cherite full brightNowe haue I declared\n                    fully what she hight\n",
+            "Note": "\nThe leaf containing the beginning of the Prologue (comprising ff.\n                    2+7 of Quire 4) is inverted, with f. 22 consequently following f. 16. VIII.119\n                    (the last line of the Prologue) is the twenty-fifth line of column a,\n                    with the remainder of the page and following verso left blank. The Second\n                        Nun\u2019s Tale does not occur in this MS.",
+            "folio": "ff. 22rb-23ra"
+        },
+        "Lichfield29": {
+            "First Lines": "\nThe ministre of the Norice vnto vicesWhich \u00feat men clepen in\n                    englissh ydelnesse\u2026\n",
+            "Last Lines": "\n\u2026And brenne euere in charite lightNow haue I declared \u021dow\n                    what she hight\n",
+            "Attributed Title": "\n\u2026here begynneth the prologe of the secunde nonne (f. 165); The\n                    prologe of the secunde Nonne (RT); Thus endeth the prologe\u2026 (f.\n                        166v)",
+            "folio": "ff. 165-166v"
+        },
+        "Lincoln110": {
+            "First Lines": "\nThe mynystre and the norice vnto vicesWheche \u00feat men clepe on\n                    englis Idelnes\u2026\n",
+            "Last Lines": "\n\u2026And brennynge euere in charite ful bry\u021dtNow haue I\n                    declared what \u00fee maiden hyght\n",
+            "Note": "\nVIII.53-4 omitted.",
+            "Attributed Title": "\n\u2026And begynnyth the prolog of the Nonne (f. 149v); Nonne\n                    (RT)",
+            "folio": "ff. 149v-151"
+        },
+        "LonPhys388": {
+            "First Lines": "\nThe ministre and the norice vnto vicesWhiche that men clepen in\n                    Inglyssh Idilnesse\u2026\n",
+            "Last Lines": "\n\u2026And brennyng euer in charite ful brightNow have I yow\n                    declarid what she hight\n",
+            "Note": "\nSpurious line follows VIII.112.",
+            "Attributed Title": "\nIncipit prologus Monache [sic] (f. 201v)",
+            "folio": "ff. 201v-203v"
+        },
+        "Chetham6709": {
+            "First Lines": "\nThe mynyster and Noryssh to all vicisWhich that men Clepe in\n                    Englissh Idyl[nesse]Which that is porter of the yate of dolisTo\n                    eschewe and by have Contrary hem to oppresse\u2026\n",
+            "Last Lines": "\n\u2026And Brynnyng euyr In Charyte full brightNowe have I declaryd\n                    you what se hyght\n",
+            "Note": "\nA religious miscellany containing Chaucer\u2019s Second Nun\u2019s\n                        Tale and Prioress\u2019s Tale of the Canterbury\n                    Tales.",
+            "Attributed Title": "\nVita Sancte Cecilie sic Incipit (f. 160)",
+            "folio": "ff. 160-162v"
+        },
+        "RylandsEng113": {
+            "First Lines": "\n[T]He mynystere and the Norice of all VicesWhich \u00feat men\n                    clepen in englyssh Idilnesse\u2026\n",
+            "Last Lines": "\n\u2026and brennyng euer in Charite full brightNow haue I you\n                    declared what sche hight\n",
+            "Attributed Title": "\n\u2026And / bigynnyth the seconde Nonnes tale of \u00fee / lyf of Seynt\n                    Ceclie without Prologe (f. 153v); Nonnes tale (f. 153v,\n                    margin); Nonne (RT)",
+            "folio": "ff. 153v-154v"
+        },
+        "Petworth7": {
+            "First Lines": "\nThe mynystere and \u00fee norice unto viceswhich \u00feat men\n                    clepen in englisshe ydelnesse\u2026\n",
+            "Last Lines": "\n\u2026And brenne euere in charite li\u021dtNow haue I declared\n                    \u021dou what she hi\u021dt\n",
+            "Attributed Title": "\n\u2026And here byginne\u00fe \u00fee prologe of the ij nonne (f.\n                        190v); The prologe of \u00fee second Nonne (RT); Thus ende\u00fe\n                    \u00fee prologe\u2026 (f. 192v)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 190v-192v"
+        },
+        "Austin143": {
+            "First Lines": "\n[T]He mynistre & the Norice of all viciswhich \u00feat men\n                    clepe yn Englissh ydilnes\u2026\n",
+            "Last Lines": "\n\u2026And brennyng in Charyte ffull bryghtNow haue I you declaryd\n                    what she hyght\n",
+            "Attributed Title": "\n\u2026and begynnyth / the Second Nonnys tale of the lyf of seint Cecilie\n                    (f. 194); Nonne (RT)",
+            "folio": "ff. 194-195v"
+        },
+        "ChicagoUL564": {
+            "First Lines": "\nThe ministre and \u00fee norice of vicesWhyche \u00feat men clepen\n                    in english ydelnes\u2026\n",
+            "Last Lines": "\n\u2026And brennyng euer in charite full bryhtNow haue y declared\n                    \u021dow what she hyht\n",
+            "Note": "\nSpurious lines follow VIII.3, 43.",
+            "folio": "ff. 175v-177"
+        },
+        "PierpontM249": {
+            "First Lines": "\nThe ministre of the norice vnto vicesWhich that men clepen in\n                    englissh ydelnesse\u2026\n",
+            "Last Lines": "\n\u2026And brenne euere in charite lighteNow haue I declared you\n                    what she hight\n",
+            "Attributed Title": "\n\u2026And here begynneth the prologe of the secunde Nonne (f. 164); The\n                    prologe of the Nonne (RT); Thus endeth the prologe\u2026 (f. 166)",
+            "folio": "ff. 164-165v"
+        },
+        "PhilRos10841": {
+            "First Lines": "\nThe mynistre of the noryce vnto vicesWhyche that men callen\n                    ydelnesse\u2026\n",
+            "Last Lines": "\n\u2026And brenne euer in charite ly\u021dteNow haue y declared\n                    \u021dow what sche hy\u021dte\n",
+            "Note": "\nVIII.115-16 omitted.",
+            "Attributed Title": "\n\u2026and begynneth prologe of the secunde nonnes tale (f. 121); The\n                    prologe of the ij nonnes tale (RT); Here endeth \u00fee prologe of the ij\n                    nonne\u2026 (f. 122v)",
+            "folio": "ff. 121-122v"
+        },
+        "PUL100": {
+            "First Lines": "\nTHe minister and noryssh vnto vicisThat men clepith in Englissh\n                    Idilnes\u2026\n",
+            "Last Lines": "\n\u2026And brennyng evir in charite ful brightNowe have I declarid\n                    \u021dewe what she hight\n",
+            "Note": "\nVIII.84 omitted.",
+            "Attributed Title": "\nHere begynnyth the second nonne her prolog (f. 135); Prolog Cecly (RT);\n                    Second Nonne (RT); Here endith the second nonne her prolog\u2026 (f.\n                        136v)",
+            "folio": "ff. 135-136v"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nTHe Ministre and the Norice vn to vicesWhich that men clepe in\n                    Englissh ydelnesse\u2026\n",
+            "Last Lines": "\n\u2026And brennynge euere in charite ful brighteNow haue I yow\n                    declared what she highte\n",
+            "Attributed Title": "\n\u2026The prologe of the seconde Nonnes tale (f. 185v); Seconde\n                    Nonne (RT); Explict\u2026 (f. 187)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 185v-187"
+        },
+        "BNangl39": {
+            "First Lines": "\nThe mynystre and norice vnto vicyswhich men in englissh clepith\n                    idilnesse\u2026\n",
+            "Last Lines": "\n\u2026and brennyng euer in charyte ful brightnow haue I yow\n                    declarid what she hight\n",
+            "Attributed Title": "\n\u2026& iam / incipit incipit fabula monialis & cetera (f.\n                        77rb)",
+            "folio": "ff. 77rb-78vb"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nThe ministre and norice vnto vicesWich \u00feat men clepen\n                    Idelnesse\u2026\n",
+            "Last Lines": "\n\u2026And brenning euer in charite ful bri\u021dtNow haue I you\n                    declared what she hi\u021dt\n",
+            "Attributed Title": "\n\u2026Et incipit fabula Sancte Cecilie prologo / deficiente et per\n                        secundam Monialem narrate (f. 213)",
+            "folio": "ff. 213v-215v"
+        },
+        "TokyoTak32": {
+            "First Lines": "\nThe ministre of thee noris vnto vyiswhiche that men klepen in\n                    Englissche Idlen[damage]\u2026\n",
+            "Last Lines": "\n\u2026I preye yow that yee wollen my werk a mendefferst wolde I yow\n                    the name of seynt cecile\u2026\n",
+            "Note": "\nVIII.86-119 lost.",
+            "Attributed Title": "\nThee secunde Nonne (RT)",
+            "folio": "ff. 86ra-86vb"
+        },
+        "Bodmer48": {
+            "First Lines": "\nTHe ministre or \u00fee norice vnto viceswhich men clepen in\n                    englissh idilnes\u2026\n",
+            "Last Lines": "\n\u2026and brennyng euer in charite so lightnow haue I declarid you\n                    what she hi\u021dt\n",
+            "Attributed Title": "\nThe prolog of the secund nonne (f. 129v, rubric)",
+            "Facsimiles": "\n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n",
+            "folio": "ff. 129v-131"
+        }
+    }
+}

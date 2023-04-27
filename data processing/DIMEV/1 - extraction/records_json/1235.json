@@ -1,0 +1,27 @@
+{
+    "_id": 1235,
+    "_header": "Example may we read and see / Of Jerusalem\u2026",
+    "Title(s)": "Speculum Christiani",
+    "Subjects": "exempla",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The \u2018Exemplum\u2019 inserted into some MSS of the Speculum Christiani (Septima Tabula) following the Rhyming Exhortation (2245) \u2014 twenty-six couplets",
+    "_witnesses": {
+        "CULDd1426": {
+            "First Lines": "\nEnsampulle may we rede and seeOf ierusalem \u00feat was so ryche a\n                    cyte\u2026\n",
+            "Last Lines": "\n\u2026\u00feer for me and alle man kyndeIn to the mercy of god I\n                    recomende\n",
+            "folio": "Part III, ff. 24v-26"
+        },
+        "BLAdd15237": {
+            "First Lines": "\nEnsample may we rede and seOf Ierusalem that was so riche a\n                    cyte\u2026\n",
+            "Last Lines": "\n\u2026Therfor me and alle mankyndeIn to the mercy of god I\n                    recomende\n",
+            "Editions": "\nHolmstedt,  Gustaf,\n                        ed.  \n             Speculum Christiani.\nEETS\n         o.s. 182 (1933); repr. 1988: 340-2.\n",
+            "folio": "ff. 27v-28v"
+        },
+        "BLHar2388": {
+            "folio": "f. 57v"
+        },
+        "BLRoy8Ev": {
+            "folio": "f. 24v"
+        }
+    }
+}

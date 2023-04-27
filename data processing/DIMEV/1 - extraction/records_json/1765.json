@@ -1,0 +1,21 @@
+{
+    "_id": 1765,
+    "_header": "Hap is hard grace hath no peer",
+    "Subjects": "evils of the time",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A couplet on the evils of the age",
+    "_witnesses": {
+        "OxfBal354": {
+            "Transcription": "\nHappe is hard grace hathe no pereFortune is a nyggard & frendship\n                    is dere\n",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 174.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 140.\n\n",
+            "folio": "p. 430"
+        },
+        "BLRoy17Dvi": {
+            "Transcription": "\nhap is harde grace hath no perefvrtun is nygarde worshippe is dere is \n",
+            "Note": "\nAdded to front flyleaf.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Royal MS 17 D VI.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Royal_MS_17_D_VI. \n",
+            "folio": "f. 1v2"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "_id": 5489,
+    "_header": "The sun is here in his sign",
+    "Subjects": "zodiac; didactic verse",
+    "Versification": "\u2014 six-line, four-line \u2014 aabbcc, aabb",
+    "_description": "English verses on the Signs of the Zodiac \u2014 three 6-line stanzas and nine quatrains, all in couplets",
+    "_witnesses": {
+        "BodRawD939": {
+            "First Lines": "\n\u00fee sonne ys here in his synetat is seson forto\n                    reyne\u2026\n",
+            "Last Lines": "\n\u2026\u00feat beste wi\u00fe oute lesyngeWol take his mete\n                    ascendynge\n",
+            "Editions": "\nMooney,  Linne R. \n             \u201cPractical Didactic Works in Middle English.\u201d \n         Diss. Toronto, 1981: 204-8.\n",
+            "folio": "part 2"
+        },
+        "NLS1931": {
+            "First Lines": "\nThe son \u00feat is here in \u00feis sene\u00feat is kyndely seson\n                    forto reyneAnd for to frese & to snowe& forto lese is\n                    hewos \u00fee pecher turnes vp so downeso dosse \u00fee wedder in\n                    \u00feat seson\u2026\n",
+            "Last Lines": "\n\u2026\u00feat is a sene of wordes weyllefew schepe & mony\n                    crepand bestes fele\n",
+            "Note": "\nFirst 6 months only, interspersed with 6477, both written as prose.",
+            "Facsimiles": "\nHardman,  Phillipa. \n             The Heege Manuscript: A Facsimile of National Library of Scotland MS\n                Advocates 19.3.1.\n         Leeds Texts and Monographs, n.s. 16. Leeds: School of English,\n            2000. \n",
+            "folio": "ff. 212-212v"
+        }
+    }
+}

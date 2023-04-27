@@ -1,0 +1,16 @@
+{
+    "_id": 2048,
+    "_header": "Holy water well I-made",
+    "Note": "Stanzas separated by Latin prose; follows 171.",
+    "Subjects": "churches, dedication of; sermons, verse in",
+    "Versification": "\u2014 four-line \u2014 aabb",
+    "_description": "Four things used in blessing a church, and a comment on how these things are lacking in the author\u2019s time \u2014 two quatrains (aabb) in a sermon (by Bromyard?) de dedicatione ecclesie",
+    "_witnesses": {
+        "CULKk424": {
+            "First Lines": "\nHoly water wel y-madSchyl song to mak men gladCrossis ypentyd\n                    openlyand torches brennyng louely\u2026\n",
+            "Last Lines": "\n\u2026Owyr crossys byth y bleckedOuyr torchys ben y\n                    fleckyd\n",
+            "Editions": "\nWenzel,  Siegfried. \n             \u201cUnrecorded Middle-English Verses.\u201d \n             Anglia\n         92 (1974): 55-78: 63 (first quatrain only).\n",
+            "folio": "ff. 123vb-124rb"
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "_id": 924,
+    "_header": "By a forest side walking as I went",
+    "Note": "For another version see 5909; cf. also 4344.",
+    "Title(s)": "\u2018A tretyse of Parce michi domine\u2019; The Bird with Four Feathers",
+    "Subjects": "allegories; dream visions; birds, as speakers/narrators; transitoriness, of life",
+    "Versification": "\u2014 eight-line, twelve-line \u2014 ababcdcd, ababcdcdefef",
+    "_description": "\u2018A tretyse of Parce michi domine\u2019, Allegory of the bird with four feathers \u2014 240 lines in 8-, l2-, up to 20-line stanzas, with this refrain",
+    "_witnesses": {
+        "Bod596": {
+            "First Lines": "\nBy a forest syde walking as I wentDisport to take In o\n                    mornyng\u2026\n",
+            "Last Lines": "\n\u2026And Parce geteth godis pyteAnd scheweth to vs his blesses\n                    face\n",
+            "Attributed Title": "\nHere bygynnith the tretys of Parce michi domine (f.\n                    21v)",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 208-15.\nFein,  Susanna Greer. \n             Moral Love Songs and Laments.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1998. \n\n",
+            "folio": "ff. 21v-24v"
+        },
+        "BodDou322": {
+            "First Lines": "\nBy a forest syde walkyng as I wentDisporte to take in o\n                    mornyng\u2026\n",
+            "Last Lines": "\n\u2026And parce geteth goddys pyteAnd sheweth to vs hys\n                    blessed face\n",
+            "Attributed Title": "\nHere begynneth A tretyse of Parce michi domine (f.\n                    15rb)",
+            "Editions": "\nKail,  J.,\n                        ed.  \n             Twenty-Six Political and Other Poems\u2026from Bodleian MSS Digby 102\n                and Douce 322.\nEETS\n         o.s. 124 (1904; repr. 1973): 143-9.\n",
+            "folio": "ff. 15rb-16vb"
+        },
+        "BodLatMisE85": {
+            "First Lines": "\nIn a forest [ ] I we[ ][ ]rt to take in a morny[ ]ye fond a\n                    place with bowys [ ]ent\u2026\n",
+            "Last Lines": "\n\u2026My thyrd fether strenge\u00fee hyt hytheParce mihi\n                        domineMy name was knowyn no ulk a syde\u2026\n",
+            "Note": "\n9 stanzas; first 9 lines copied again by the same hand on f.\n                        82v.",
+            "folio": "ff. 79-81"
+        },
+        "CamTCC601": {
+            "First Lines": "\nBy a forest side walkyng as I wentDisport to take in o\n                    mornyngA place I fond shadid with boughis bentI sette aboute with\n                    flowris swete smellyng\u2026\n",
+            "Last Lines": "\n\u2026And Parce getith goddis piteAnd shewith to vs his\n                    blissed face\n",
+            "Attributed Title": "\nHere bigynnyth a treatise of Parce michi domine (f. 34)",
+            "folio": "ff. 34-37v"
+        },
+        "CamTCC1450": {
+            "First Lines": "\nBy a foreste syde walkynge as y wentDysporte to take yn a\n                    mornyng\u2026\n",
+            "Last Lines": "\n\u2026God grawnte vs all to se thy blessyd faceThat seyth Parce\n                        michi domine\n\n",
+            "Attributed Title": "\nParce miche domine (f. 24)",
+            "folio": "ff. 24-25"
+        },
+        "BLHar1706": {
+            "First Lines": "\nBy a forest syde walkynge as I wenteDysporte to take in o mornyng\u2026\n",
+            "Last Lines": "\n\u2026And Parce geteth goddys pyteAnd sheweth to vs hys blessed face\n",
+            "Note": "\nEnds \u201cAmen\u201d below last line (f. 17rb).",
+            "Attributed Title": "\nHere begynneth of Parce michi domine a tretyse (f. 15vb)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 1706.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_1706. \n",
+            "folio": "ff. 16ra-17rb"
+        },
+        "BLRoy18Ax": {
+            "First Lines": "\nBy a forest syde walkyng as I wentDesport to take in a\n                    mornynge\u2026\n",
+            "Last Lines": "\n\u2026And seyde hi\u021de gode in magesteI \u00feanke \u00fee of\n                    \u00fei sondeParce michi domine\n",
+            "folio": "ff. 119v-123"
+        },
+        "Stonyh23": {
+            "folio": "f. 60v"
+        },
+        "HunHM906": {
+            "Transcription": "\nBe on fayre forest syde And by the wase wandrying os that I\n                    wentmy sportes be for to take thus in a may mornyngffor and I fond a\n                    place of gentyll bowris gay\u2026\n",
+            "Note": "\nProzaicized version of lines 1-3, among pentrials in a book of Statutes;\n                    written as prose.",
+            "Editions": "\nHanna,  Ralph,\n                        ed.  \n             \u201cThe Index of Middle English Verse and Huntington Library Collections: A\n                Checklist of Addenda.\u201d \n             Publications of the Bibliographical Society of America\n         74 (1980): 235-58: 241.\n",
+            "folio": "f. 60v"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "_id": 3,
+    "_header": "A babe is born all of a may / In the salvation of us",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 1628; for a variant, see 5565.",
+    "Subjects": "Epiphany, carols for; carols",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "Macaronic": "Latin",
+    "_description": "An Epiphany carol \u2014 five quatrains with Latin caudae",
+    "_witnesses": {
+        "OxfBal354": {
+            "First Lines": "\nTher ys a chyld borne of a mayIn saluacion of all\n                    vs\u2026\n",
+            "Last Lines": "\n\u2026To hys blis to bryng them allIhesu saluator\n                    seculiExplicit\n",
+            "Note": "\nMissing stanza 3; four quatrains (abab) plus burden (cc): Conditor\n                        alme siderum / eterna lux credencium.",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 10, 171.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 79, 78; 1977, 68.\nFl\u00fcgel,  Ewald. \n             \u201cEnglische Weihnachtslieder aus einter Handschrift des Balliol College\n                zu Oxford.\u201d \n             Forschungen zur deutschen Philologie. Festgabe f\u00fcr Rudolf\n                Hildebrands.\n         Leipzig: Deit, 1894: 52-84: 65.\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 236.\nRickert,  Edith,\n                        ed.  \n             Ancient English Christmas Carols.\n         London: Chatto & Windus, 1910: 52-3.\n\n",
+            "folio": "p. 4643"
+        },
+        "BLSl2593": {
+            "Editions": "\n\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 10, 171.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 79, 78; 1977, 67.\nSandys,  William. \n             Christmastide its history, festivities, and carols.\n         London: John Russell Smith, 1852: 226.\nWright,  Thomas,\n                        ed.  \n             Specimens of Old Christmas Carols, etc.\nPercy Society\n         4. London: T. Richard, 1841: 13-14.\nWright,  Thomas,\n                        ed.  \n             Songs and Carols.\nWarton Club\n         4. London: Richards, 1856: 79-80.\nRickert,  Edith,\n                        ed.  \n             Ancient English Christmas Carols.\n         London: Chatto & Windus, 1910: 49-50.\n\n",
+            "folio": "f. 27v"
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "_id": 5537,
+    "_header": "The worthiest thing most of goodness",
+    "Note": "For other MSS which lack the Introductory section see 2205",
+    "Title(s)": "The Lay Folks\u2019 Mass Book",
+    "Subjects": "liturgical texts; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Lay Folks\u2019 Mass Book, translated from the French original (c. 1150) \u2014 629 lines in couplets",
+    "_witnesses": {
+        "OxfCCC155": {
+            "First Lines": "\nThe worthyest thynge \u00fee maste of gudnesIn all \u00fee werlde\n                    \u00fean is the mes\u2026\n",
+            "Last Lines": "\n\u2026ffor of all thinges in \u00feis werlde is \u00fee mesThe\n                    worthyest and maste of gudnes\n",
+            "Note": "\n374 lines",
+            "Editions": "\nSimmons,  Thomas Frederick. \n             The Lay Folks\u2019 Mass Book.\nEETS\n         o.s. 71 (1879); repr. 1968. \n",
+            "folio": "ff. 250v-258"
+        },
+        "CULGg531": {
+            "First Lines": "\n\u00dee worthieste thyng mast of gudnesIn \u00feis worlde \u00fean\n                    es \u00fee messe\u2026\n",
+            "Last Lines": "\n\u2026If \u00feou make it here in letter\u00deou may chaunce it\n                    fore bettere\n",
+            "Note": "\n364 lines",
+            "Editions": "\nGerould,  G. G. \n             \u201cThe Lay-Folks Mass-Book from MS Gg.V.31, Cambridge University\n                Library.\u201d \n             Englische Studien\n         33 (1904): 1-27: 17.\n",
+            "folio": "ff. 1-4"
+        },
+        "CamGon84": {
+            "First Lines": "\nA Worthy \u00feyng moste of godnesseIn all \u00fee world hit is\n                    \u00fee messe\u2026\n",
+            "Last Lines": "\n\u2026Pater noster aue Mary & CredeGod send vs to owre\n                    mede\n",
+            "Note": "\n614 lines",
+            "Editions": "\nSimmons,  Thomas Frederick. \n             The Lay Folks\u2019 Mass Book.\nEETS\n         o.s. 71 (1879); repr. 1968. \n",
+            "folio": "pp. 173ra-179ra"
+        },
+        "CamNewn4": {
+            "First Lines": "\nman or woman \u00feat wol lereAmasse deuouly for to\n                    here\u2026\n",
+            "Last Lines": "\n\u2026And that hey holi god he queyte the thi medeOf whom we spek\n                    of when we say oure crede\n",
+            "Note": "\n358 lines, with the substitution of a new Prologue",
+            "Editions": "\nSimmons,  Thomas Frederick. \n             The Lay Folks\u2019 Mass Book.\nEETS\n         o.s. 71 (1879); repr. 1968. \n",
+            "folio": "ff. 104v-109v"
+        },
+        "BLAdd36523": {
+            "First Lines": "\nThe best \u00feing and moost of godenesseIn alle \u00fee worlde it\n                    is \u00fee messe\u2026\n",
+            "Last Lines": "\n\u2026And to reioye myn heritageBought with \u021doure bloode in\n                    tendre age\n",
+            "folio": "ff. 88-93"
+        },
+        "BLRoy17Bxvii": {
+            "First Lines": "\n\u00deo worthyest \u00feing most of godnesseIn al \u00feis [w]orld\n                    is \u00feo messe\u2026\n",
+            "Last Lines": "\n\u2026For of alle in \u00feis world \u00feen is \u00feo\n                    messe\u00deo worthiest \u00feing most of gud nesse\n",
+            "Note": "\n629 lines. Damage to manuscript.",
+            "Editions": "\n\nSimmons,  Thomas Frederick. \n             The Lay Folks\u2019 Mass Book.\nEETS\n         o.s. 71 (1879); repr. 1968. \nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 2.1-8.\n\n",
+            "folio": "ff. 3-13"
+        },
+        "NLS1931": {
+            "First Lines": "\nThe worthyest thyng most of gudnesIn all \u00feo worde \u00feat is\n                    \u00feo masse\u2026\n",
+            "Last Lines": "\n\u2026\u00feo holy goste \u00feat is on hyghtSende hus grace to\n                    leue ryght\n",
+            "Note": "\n136 lines",
+            "Attributed Title": "\n\u00feo masse (RT)",
+            "Facsimiles": "\nHardman,  Phillipa. \n             The Heege Manuscript: A Facsimile of National Library of Scotland MS\n                Advocates 19.3.1.\n         Leeds Texts and Monographs, n.s. 16. Leeds: School of English,\n            2000. \n",
+            "Editions": "\n\nTurnbull,  William Barclay David Donald,\n                        ed.  \n             The Visions of Tundale.\n         Edinburgh: T.G. Stevenson, 1843: 147-51.\nB\u00fclbring,  Karl Daniel. \n             \u201cDas Lay-Folks Mass Book in der Handschrift der Advocates Library in\n                Edinburgh.\u201d \n             Englische Studien\n         35 (1905): 28-33: 29-33.\n\n",
+            "folio": "ff. 57-58v"
+        },
+        "LiverpoolULF49": {
+            "folio": "f. 202v"
+        }
+    }
+}

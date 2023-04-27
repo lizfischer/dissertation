@@ -1,0 +1,60 @@
+{
+    "_id": 6443,
+    "_header": "When the head quaketh",
+    "Note": "See Wenzel (1978)\nXWenzel, Siegfried. Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle English Poems. Cambridge, MA: Medieval Academy of America, 1978, 198-9 for the distinction from 6461",
+    "_description": "Signs of death, the Fasciculus Morum version \u2014 14 lines in couplets",
+    "_witnesses": {
+        "Bod187": {
+            "folio": "f. 208rb"
+        },
+        "Bod410": {
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 222.\n",
+            "folio": "f. 91"
+        },
+        "BodLauMis213": {
+            "Transcription": "\nWhen the hed wakyth& \u00fee lippis blaky\u00feAnd the nose\n                    sharpith& \u00fee synow sterkythAnd \u00fee brest\n                    patty\u00feAnd the breth wanty\u00feAnd the tethe ratelythAnd the\n                    throte rotelythAnd the sole is went outof the body ne tit but a\n                    clowtAnd aftyr be it in pytAnd with erth fast y dyteSone be it so\n                    stokyn\u00fee sowle all clene is fur \u021dyte\n",
+            "Note": "\nWritten as prose",
+            "folio": "f. 183v"
+        },
+        "BodRawC670": {
+            "First Lines": "\nWhen \u00fee hede quakythAnd \u00fee lyppis\n                    blakyth\u2026\n",
+            "Last Lines": "\n\u2026Sone be it so stekenn\u00dee sowle all clene ys\n                    for\u021detenn\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\n\nWoolf,  Rosemary. \n             The English Religious Lyric in the Middle Ages.\n         Oxford: Clarendon, 1968: 81.\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 197.\n\n",
+            "folio": "f. 148v"
+        },
+        "CamGon71": {
+            "First Lines": "\nWen \u00fei hed quakyth& \u00fei lyppes\n                    blaketh\u2026\n",
+            "Last Lines": "\n\u2026sone so it be in erthe I loken\u00fee soule al clene is for\n                    \u021deten\n",
+            "folio": "f. 91v"
+        },
+        "BLEge833": {
+            "First Lines": "\nQwen broues hildes doune \u00fee lefte eighys mare \u00fean \u00fee ryght ye\u2026\n",
+            "Last Lines": "\n\u2026\u00feis er the takenynges of dethefor sothe witte \u00feu wele he sal noght leue thre dayes\n",
+            "Note": "\nWritten as prose with puncti and space of few letters left blank between lines, in blank verse and occasional rhyming couplets. Preceded by \u2018Another\u2019 since in a sequence of prose recipes.",
+            "Editions": "\n\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 199.\nBitterling,  Klaus. \n             \u201cSigns of Death and Other Monitory Snatches from MS Harley 2247.\u201d \n             Notes and Queries\n         n.s. 26 [224] (1979): 101-2: 102.\n\n",
+            "folio": "f. 10v"
+        },
+        "BLHar2247": {
+            "First Lines": "\nwhan \u00fei handes [sic] quaketh\u00fei lippes\n                    blaketh\u2026\n",
+            "Last Lines": "\n\u2026Anon \u00feou thenkkest \u00feyn hert wolde brastfor \u00fey\n                    life may not last\n",
+            "Note": "\nWritten as prose; occurs independently from Fasciculus, in a\n                    funeral sermon.",
+            "Editions": "\n\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 199.\nBitterling,  Klaus. \n             \u201cSigns of Death and Other Monitory Snatches from MS Harley 2247.\u201d \n             Notes and Queries\n         n.s. 26 [224] (1979): 101-2: 102.\n\n",
+            "folio": "f. 212"
+        },
+        "Lincoln44": {
+            "Transcription": "\nwen \u00fee hede wa quakeand \u00fee lyppes blakeAnd\n                    \u00fee nose scharpAnd \u00fei synnews starke& \u00fee breste\n                    pante\u00fe& \u00fee bre\u00fee wante\u00fe& \u00fee\n                    the\u00fee rothel\u00fee& \u00fee \u00ferot rotheld& \u00fee\n                    soul is wentof \u00fee body no tit bot a cloutAnd after be hyt on a\n                    pyt& with er\u00fee fast hyddesom be it stoken yn sonal clen\n                    es for \u021doten\n",
+            "Note": "\nFourteen lines in rough couplets.",
+            "folio": "f. 227rb"
+        },
+        "Spalding": {
+            "folio": ""
+        },
+        "WorcF19": {
+            "folio": "f. 228ra"
+        },
+        "VaticanOtto": {
+            "folio": "f. 102v"
+        }
+    }
+}

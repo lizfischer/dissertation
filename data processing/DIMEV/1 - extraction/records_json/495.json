@@ -1,0 +1,24 @@
+{
+    "_id": 495,
+    "_header": "An old sad saw unknown uncast",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 150.",
+    "Subjects": "advice, moral; carols, of moral counsel",
+    "Versification": "\u2014 five-line, two-line \u2014 aaabb, aa",
+    "_description": "Cast not away thine Old for New \u2014 four 5-line stanzas (aaabb) including refrain, \u2018\u2026elles most we drynk as we brew\u2019, and burden (aa): \u2018An old sawe hath be fownd trewe\u2026\u2019",
+    "_witnesses": {
+        "OxfBal354": {
+            "First Lines": "\nAn old said sawe On knowen on kysteWher is lytill love \u00feer is\n                    lytill tryste\u2026\n",
+            "Last Lines": "\n\u2026& if \u00feou do so thow shalt not rewe& ellis must\n                    \u00feou drynk as \u00feou doste breweExplicit\n",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 266-7.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 47.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 235; 1977, 209.\n\n",
+            "folio": "p. 4832"
+        },
+        "TCD212": {
+            "First Lines": "\nan wollde seyd saw had byn funde ful trucaste not awey \u00fey\n                    wollde for \u00fey new\u2026\n",
+            "Last Lines": "\n\u2026the tyme woll cum \u00feat \u00fee muste be releuydgeue\n                    truste to hym \u00feat \u00feu haste yprevyd\n",
+            "Note": "\nVariant version; three couplets, written one couplet per line of\n                    MS.",
+            "Editions": "\nScattergood,  V. John. \n             \u201cProverbial Verses in Trinity College, Dublin MS 212.\u201d \n             Notes and Queries\n         n.s. 30 [228] (1983): 489-90: 4899.\n",
+            "folio": "f. 89v"
+        }
+    }
+}

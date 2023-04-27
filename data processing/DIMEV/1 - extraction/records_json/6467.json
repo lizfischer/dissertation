@@ -1,0 +1,22 @@
+{
+    "_id": 6467,
+    "_header": "When thou beginnest a thing",
+    "Note": "Cf. 53.",
+    "Subjects": "proverbs; illustrations, verse accompanying",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A proverb also used as a motto on a scroll in one MS of Hoccleve\u2019s De Regimine Principum (6116) \u2014 one couplet",
+    "_witnesses": {
+        "BodDou52": {
+            "Editions": "\nF\u00f6rster,  Max. \n             \u201cDie Mittelenglische Sprichw\u00f6rtersammlung in Douce 52.\u201d \n             Festschrift zum XII Deutschen Neuphilolgentage in M\u00fcnchen\n                1906.\n            E. Stollreither, ed. \n         Erlangen (1906): 40-64: 55.\n",
+            "folio": "f. 29"
+        },
+        "CULHh411": {
+            "Transcription": "\nWhan \u00feu gynnyst ony thyng\u00feinke vpon the endyng\n",
+            "folio": "f. 58"
+        },
+        "HunHM111": {
+            "Facsimiles": "\nBurrow,  John,  and  A. I. Doyle, eds.  \n             Thomas Hoccleve: A Facsimile of the Autograph Verse\n                Manuscripts.\nEETS\n         s.s. 19 (2002). \n",
+            "folio": ""
+        }
+    }
+}

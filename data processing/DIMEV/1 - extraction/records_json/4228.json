@@ -1,0 +1,70 @@
+{
+    "_id": 4228,
+    "_header": "Of them that written us tofore",
+    "Note": "See 4226 for the A Text, 4227 for the B Text, and 4229 for fragments.",
+    "Author(s)": "John Gower",
+    "Title(s)": "Confessio Amantis",
+    "Subjects": "tales; love",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Macaronic": "Latin",
+    "_description": "John Gower, Confessio Amantis, C Text \u2014 in eight Books and a Prologue: the longest version has about 34,000 lines",
+    "_witnesses": {
+        "BodFair3": {
+            "First Lines": "\nOff hem \u00feat writen ous toforeThe bokes duelle and we\n                    \u00feerfore\u2026\n",
+            "Last Lines": "\n\u2026Wher reste\u00fe loue and alle pesOur ioie mai ben\n                    endeles\n",
+            "Attributed Author": "\nIohannus Gower (f. 186)",
+            "Editions": "\n\nMacaulay,  George Campbell,\n                        ed.  \n             English Works of John Gower.\n             2 vols. \n             EETS\n         e.s. 81, 82 (1900, 1901); repr. 1978. \nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 317-41 (selections).\nPeck,  Russell A.,\n                        ed.  \n             Confessio Amantis.\nMedieval Academy Reprints for Teaching\n         9. Toronto: University Press, 1980: (some passages summarized).\nPeck,  Russell A.,\n                        ed.  \n             Confessio\n                Amantis.\n         3 vols. Kalamazoo, MI: Western Michigan University for TEAMS, 2000-04.\n            2nd ed. of vol. 1, 2006. \n\n",
+            "folio": "ff. 1-186"
+        },
+        "BodHat51": {
+            "First Lines": "\nTorpor hebes sensus scola par|ua minimusque \u2026Of hem that wryten vs to forThe bookes dwelle & we\n                    therfor\u2026\n",
+            "Last Lines": "\n\u2026\n                    That oold grysel is no foole\n                    There ben full many yeres stole\n",
+            "Note": "\nAn incomplete copy, ending VIII.2408 at bottom of second column, recto, of last folio (205rb), because this last leaf is bound backwards. Copied from Caxton\u2019s text.",
+            "Attributed Title": "\nThis book is intituled confessio amantis that is to saye in englisshe the\n                    confessyon off the louer maad and compyled by Iohan Gower \u2026 (f.\n                    1)",
+            "folio": "ff. 2v-205v"
+        },
+        "OxfMagd213": {
+            "Note": "\nNine leaves missing.",
+            "folio": "f. 3"
+        },
+        "OxfNew266": {
+            "Note": "\nFour leaves missing.",
+            "folio": "f. 1"
+        },
+        "OxfWad13": {
+            "First Lines": "\nOff hem that writen vs to foreThe bokes duell & we\n                    \u00feerfore\u2026\n",
+            "Last Lines": "\n\u2026Where resteth loue and alle peesOure ioye may be endles\n                    Amen\n",
+            "Note": "\nEight books and Prologue; 3 leaves missing; Followed by six Latin verses\n                    beginning, \u2018Explicit iste liber qui transeat obsecro liber\u2019;\n                    Followed by, \u2018Epistola super huius opusculi siue complementum Iohanni\n                        Gower a quoddam philosopho transmissa\u2019 followed on ff.\n                        442v-446v by \u2018Traitie pour essampler les\n                        Amantz marietz\u2019 in French imperfect at the end.",
+            "Attributed Author": "\ndedwod Iohn (f. 1)",
+            "Attributed Title": "\nThis boke made And fynished yn the xxj yere of kyng Rychard the Second And\n                    the yere of our lorde god M CCC xcij Compiled & made by Iohn gower wyche he\n                    dedycated vnto \u00fee mighti prynce henry erle of darby wch after was\n                    <ky>ng of england called harry \u00fee fowrthe (f. iiiv in a\n                    different hand)",
+            "folio": "ff. 1-442"
+        },
+        "BLHar3869": {
+            "First Lines": "\nOf hem \u00feat writen vs toforeThe bokes dwell and we therfor\u2026\n",
+            "Last Lines": "\n\u2026Wher reste\u00fe loue and alle pesOure ioie mai ben endeles\n",
+            "Note": "\nBeginning preceded by usual Latin verses, \u201cTorpor hebes\u2026\u201d (f. 5)",
+            "Attributed Author": "\nIohanni Gower (f. 357)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 3869.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_38690. \n",
+            "folio": "ff. 5ra-356vb"
+        },
+        "BLHar7184": {
+            "First Lines": "\nOf them that writen vs toforeThe bokes dwelle and we\n                    therfore\u2026\n",
+            "Last Lines": "\n\u2026Hath do wherof his kni\u021dthiedeIs yit comended ouer\n                    all\u2026\n",
+            "Note": "\nOver fifty leaves missing.",
+            "folio": "ff. 1-134v"
+        },
+        "BodLye31": {
+            "First Lines": "\nTo hem that writen vs toforeThe bokes duelle & we\n                    therfore\u2026\n",
+            "Last Lines": "\n\u2026[ ]ere reste loue and al pes[ ]re ioye may ben\n                    endeles\n",
+            "folio": "ff. 1-165va"
+        },
+        "Bodmer178": {
+            "Note": "\nFour leaves missing.",
+            "folio": "f. 1"
+        },
+        "FolgerSM1": {
+            "Note": "\nEnds 8.3119",
+            "folio": "f. 1"
+        }
+    }
+}

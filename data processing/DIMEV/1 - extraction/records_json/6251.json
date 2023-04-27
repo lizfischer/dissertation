@@ -1,0 +1,33 @@
+{
+    "_id": 6251,
+    "_header": "What shall these clothes thus many fold",
+    "Note": "Attrib. to Chaucer, Stowe (1561)\nXStowe, John. The Workes of Geffrey Chaucer\u2026with diuers addicions, with the Siege of Thebes, compiled by J. Lidgate. London, J. Kyngston for J. Wight, 1561 (STC 5075), which was repr. Chalmers (1810)\nXChalmers, Alexander. The Works of the English Poets from Chaucer to Cowper. London, 1810; repr. New York: Greenwood, 1969, 1.557.",
+    "Author(s)": "Geoffrey Chaucer (attrib.)",
+    "Subjects": "riddles; two-line",
+    "Versification": "\u2014 two-line",
+    "_description": "Two proverbial riddles with questions and answers, sometimes attributed to Chaucer \u2014 four couplets",
+    "_witnesses": {
+        "BodFair16": {
+            "Transcription": "\nWhat shul these clothes thus many foldeloo this hoote somers\n                    dayAfter grete hete cometh coldeNo man caste his pilch awayOf al\n                    this worlde the large compaceyt wil not in my Armes tweyneWhoo so\n                    mochel wol embracelitel therof he shal distreyne\n",
+            "Attributed Author": "\nProverbe of Chaucer (f. 195v)",
+            "Attributed Title": "\nProverbe of Chaucer (f. 195v)",
+            "Facsimiles": "\nNorton-Smith,  John. \n             \u201cIntroduction.\u201d \n             Bodleian Library MS Fairfax 16.\n         London: Scolar Press, 1979. \n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \nFurnivall,  Frederick James,\n                        ed.  \n             A One-Text Print of the Minor Poems.\n         2 pts. London: Tr\u00fcbner, 1871, 1880; repr. New York and London:\n            Johnson, 1967. \nSkeat,  Walter William,\n                        ed.  \n             The Complete Works of Geoffrey Chaucer.\n         7 vols. Oxford: Clarendon, 1894-7: 1.407.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 560.\nPace,  George B.,  and  Alfred David, eds.  \n             The Minor Poems of Geoffrey Chaucer:\nA Variorum Edition of The Works of Geoffrey Chaucer\n         vol. 5, part 1. Norman, Oklahoma: University of Oklahoma Press,\n            1982: 199-200.\nBenson,  Larry Dean,\n                        ed.  \n             The Riverside Chaucer.\n         3rd ed. Boston: Houghton Mifflin, 1987: 657.\n\n",
+            "folio": "f. 195v"
+        },
+        "BLHar7578": {
+            "Transcription": "\nWhat shulde these clothes thus many fold lo this hote somers dayAfter\n                    greet hete cometh colde no man kaste his pilche a wayOff alle this worlde\n                    the large compas it will not in my armes tweyneWho mekel wille embrace\n                    litel ther of he shal distreyne\n",
+            "Note": "\nTwo verse lines per manuscript line.",
+            "Attributed Title": "\nProuerbe of chaucere (f. 20)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \n",
+            "folio": "f. 20r3"
+        },
+        "BLAdd16165": {
+            "First Lines": "\nWhat shal \u00feees clo\u00fees \u00feus many foldLoo \u00feis\n                    hoote somers day\u2026\n",
+            "Last Lines": "\n\u2026Who so mychel wol embraceLytel \u00feer of he shal\n                    destreyne\n",
+            "Attributed Title": "\nProuerbe (f. 246v)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \nFurnivall,  Frederick James. \n             Jyl of Breyntford\u2019s Testament and Other Poems.\n         London, 1871; privately circulated: 38.\n\n",
+            "folio": "ff. 246v-246v"
+        }
+    }
+}

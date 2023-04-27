@@ -1,0 +1,64 @@
+{
+    "_id": 6461,
+    "_header": "When thine head quaketh memento",
+    "Note": "Cf. 6443",
+    "Subjects": "death, signs of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Macaronic": "Latin",
+    "_description": "Signs of Death \u2014 8 or 12 macaronic lines in couplets",
+    "_witnesses": {
+        "BodTan407": {
+            "First Lines": "\nWhan \u00fei hed quakyth MementoWhan \u00fei lyppys blakyth\n                    Confessio\u2026\n",
+            "Last Lines": "\n\u2026Whan \u00fei eyne fylmyn libera me domineWhan deth folwyth\n                    venite ad iudicem\n",
+            "Note": "\n8 lines (approximately monorhyming)",
+            "Editions": "\nLouis,  Cameron,\n                        ed.  \n             The Commonplace Book of Robert Reynes of Acle: an edition of Tanner MS\n                407.\n         New York: Garland, 1980: 245.\n",
+            "folio": "f. 35v"
+        },
+        "CULEe435a": {
+            "First Lines": "\nWhan thy hed quakes mementowhen they thy leppes blakes\n                        conffessiowhan they breyt pantys contreciowhan they\n                    weynde wantys satisfaxio\u2026\n",
+            "Last Lines": "\n\u2026Whan they eyen holowyt nesse te ipsumffor than deth\n                    folwes vene\nad Iudecium\n\n",
+            "Note": "\n8-line version",
+            "Editions": "\nPerson,  Henry Axel. \n             Cambridge Middle English Lyrics.\n         Seattle: University of Washington Press, 1953; rev. ed. 1962: 19-20.\n",
+            "folio": "f. 24"
+        },
+        "CULFf548": {
+            "First Lines": "\nWhen \u00fei hed whaketh mementoWhen \u00fei lippys blaken\n                        confessio\u2026\n",
+            "Last Lines": "\n\u2026When \u00feine een holoen nosce teipsumffor then the\n                    deth folowes veni ad iudicium\n\n",
+            "Attributed Title": "\nMemento homo (f. 43v)",
+            "Editions": "\n\nPerson,  Henry Axel. \n             Cambridge Middle English Lyrics.\n         Seattle: University of Washington Press, 1953; rev. ed. 1962: 19-20.\nDowning,  Janay Young A.,\n                        ed.  \n             \u201cA Critical Edition of Cambridge University MS Ff.5.48.\u201d \n         2 vols. Diss. University of Washington, 1969: 100.\n\n",
+            "folio": "f. 43v"
+        },
+        "CamQue13": {
+            "First Lines": "\nWhen thy hede quakyth momentoThen thy lyppys blakyth\n                        confessio\u2026\n",
+            "Last Lines": "\n\u2026When thy nyen hollyth libera me domineThen deth\n                    folowyth veni ad Iudicium\n\n",
+            "Note": "\nFollows 1161\n",
+            "Attributed Title": "\nMemorare Nouissima & iueteruum non peccavis Ecc. 7o\n                    (f. 64)",
+            "Editions": "\n\nJames,  Montague Rhodes. \n             A Descriptive Catalogue of the Western Manuscripts in the Library of\n                Clare College, Cambridge.\n         Cambridge: at the UP, 1905: 15.\nPerson,  Henry Axel. \n             Cambridge Middle English Lyrics.\n         Seattle: University of Washington Press, 1953; rev. ed. 1962: 19-20.\nWoolf,  Rosemary. \n             The English Religious Lyric in the Middle Ages.\n         Oxford: Clarendon, 1968: 82.\nRobbins,  Rossell Hope. \n             \u201cSigns of Death in Middle English.\u201d \n             Mediaeval Studies\n         32 (1970): 282-98: 293.\n\n",
+            "folio": "f. 64"
+        },
+        "CamTCC1157": {
+            "First Lines": "\nWhan thyne heed shaketh mementoWhan thi lippes quakyth\n                        Confessio\u2026\n",
+            "Last Lines": "\n\u2026Whan thi eighen holoweth libera me amenThan deth\n                    foloweth venite ad iudicium\n\n",
+            "Note": "\n8-line version",
+            "Editions": "\nPerson,  Henry Axel. \n             Cambridge Middle English Lyrics.\n         Seattle: University of Washington Press, 1953; rev. ed. 1962: 19-20.\n",
+            "folio": "f. 72"
+        },
+        "BLEge833": {
+            "folio": "f. 10v"
+        },
+        "BLRoy8Cxii": {
+            "First Lines": "\nWhen thy hede qwakes mementoWhen \u00fei lippes blakes\n                    confeccio\u2026\n",
+            "Last Lines": "\n\u2026When \u00fei Eyen holowyth nosso te ipsumffor \u00feen dethe\n                    folowythe nota Iudicum\n",
+            "folio": "f. 1v3"
+        },
+        "BLSl747": {
+            "folio": "f. 49v"
+        },
+        "Longleat29": {
+            "First Lines": "\nWhen \u00fei hede quakes MementoAnd \u00fey lippis Blakes\n                        Confessio\u2026\n",
+            "Last Lines": "\n\u2026When \u00feyn ey\u021den holeweth Noste te ipsumffor\n                    \u00fean deth foleweth veni ad Iudicum\n\n",
+            "Editions": "\nRobbins,  Rossell Hope. \n             \u201cSigns of Death in Middle English.\u201d \n             Mediaeval Studies\n         32 (1970): 282-98: 293.\n",
+            "folio": "f. 3"
+        }
+    }
+}

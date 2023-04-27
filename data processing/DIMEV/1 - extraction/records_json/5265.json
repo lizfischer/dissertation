@@ -1,0 +1,60 @@
+{
+    "_id": 5265,
+    "_header": "The fiend our foe ne may us dere",
+    "Subjects": "Satan; devil; sermons, verse in; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Verses urging us to resist the devil and he will flee from you (4 lines), a tag in the Fasciculus morum, translating Hostis non ledit\u2026, the verse equivalent of the preceding prose illustration \u2014 two couplets",
+    "_witnesses": {
+        "BodLauMis213": {
+            "Transcription": "\nThe fende oure foo may not vs dereBot we boghen to hym for\n                    fereHe ys a lyoun but \u00feu with stondeNot worth a flye yf \u00feu\n                    ne wonde\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nGray,  Douglas,\n                        ed.  \n             A Selection of Religious Lyrics.\nClarendon Medieval and Tudor Series.\n         Oxford: Clarendon, 1975: no.77b.\n",
+            "folio": "f. 2v"
+        },
+        "BodLauMis111": {
+            "Transcription": "\nThe fende oure fo ne may vs derebot \u021dif we bowen to hym for\n                    ferehe is a lyon bot \u00feu wiht stondeAnd ferde as fly\u021de yf\n                    \u00feou ne wounde\n",
+            "folio": "ff. 50v-51"
+        },
+        "Bod410": {
+            "Transcription": "\nThe feend our foo may not vs dereBut if we bowe to hym for\n                    fereHe is a lyoun but \u00feu withstondeNowght worth a flye if \u00feu\n                    ne wonde\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 2"
+        },
+        "BodRawC670": {
+            "Transcription": "\n\u00dee fende oure foe ne may vs dereBut \u021dyffe we bowen hym for\n                    fereHe is a lyon bote \u00feou withstondAnd ferde as a flye \u021dyf\n                    \u00feou ne wonde\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 136.\n",
+            "folio": "f. 8v"
+        },
+        "OxfLinLat52": {
+            "Transcription": "\n\u00dee feend oure foo ne may vs derebot if we bowen to hym for\n                    fereHe is a lion but \u00feou withstondeand ferd as fly yf \u00feou ne\n                    wonde\n",
+            "folio": "ff. 2rb-2va"
+        },
+        "CamGon364": {
+            "Transcription": "\n\u00dee fend oure foo ne may us derebut if we bowen to hym for\n                    ferehe is a leon but \u00feou wytstondeand ferd as flye if \u00feou ne\n                    wonde\n",
+            "folio": "f. 2va"
+        },
+        "CamStJohn159": {
+            "Transcription": "\n\u00fee fend owr foo ne may vs deyreBot yf we bow to hym for\n                    ferehe ys a lyo [sic] bot yf \u00feu wytstantand ferd as fle yf\n                    \u00feu ne wonde\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 35v"
+        },
+        "DULCosViv2": {
+            "Transcription": "\nThe fend owr fo may vs naght dereBott \u021dif we bowen hym for\n                    ferehe is a lyon bot \u021dow wyth stondeAnd ferd as flee \u021dif\n                    \u00feu with stonde\n",
+            "folio": "f. 2"
+        },
+        "EDU82": {
+            "Transcription": "\nThe fende oure foo ne may vs derebut yf we bowen to hym for\n                    ferehe is a lyon but \u00feu wythstondAnd ferd as a fly\u021de yf\n                    \u00feu ne wond\n",
+            "folio": "f. 6"
+        },
+        "Lincoln44": {
+            "Transcription": "\n\u00fee fend oure foo ne may vs dereBot \u021dif we bow hem for\n                    ferehe is a lyoon bot \u021de withestondeAnd ferd als flye \u021dif\n                    \u021de ne wonde\n",
+            "folio": "ff. 156vb-157ra"
+        },
+        "Spalding": {
+            "Transcription": "\nThe fende oure foe ne may vs derebot if we bowe to hym for\n                    ferehe is a lyone bot if we wythstondeAnd ferd als a fly &\n                        cetera\n\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 3"
+        }
+    }
+}

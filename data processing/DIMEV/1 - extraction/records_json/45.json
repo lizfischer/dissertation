@@ -1,0 +1,38 @@
+{
+    "_id": 45,
+    "_header": "A forward knave plainly to describe",
+    "Note": "Cf. 6601.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018A Satyrical Ballad against Jack Hare\u2019",
+    "Subjects": "ballads; satire; envoys",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, \u2018A Satyrical Ballad against Jack Hare\u2019 \u2014 ten 8-line stanzas with refrain: \u2018Whiche of a bolle can pluk out the lyneng\u2019",
+    "_witnesses": {
+        "BodLauMis683": {
+            "First Lines": "\nA ffroward knave pleynly to descryveand a sloggard schortly to\n                    declare\u2026\n",
+            "Last Lines": "\n\u2026with on wasshen handis not lased his doubletout of a bolle to\n                    plukke out the lynyng\n",
+            "Attributed Title": "\nHEre gynneth a tale of froward maymond (f. 54v)",
+            "Editions": "\n\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 445-7.\nNorton-Smith,  John. \n             John Lydgate: Poems.\n         Oxford: Clarendon, 1966: 12.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 397-9.\n\n",
+            "folio": "ff. 54v-56"
+        },
+        "BLHar2251": {
+            "First Lines": "\nA froward knawe plainly to discryveAnd a sluggard plainly to\n                    declare\u2026\n",
+            "Last Lines": "\n\u2026With unwasshe hands nat lacid his doubletOut of a bolle to\n                    pluk out the lyneng\n",
+            "Editions": "\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.13-14.\n",
+            "folio": "ff. 14-14v"
+        },
+        "BLLan699": {
+            "First Lines": "\nA ffroward knave pleynly to\n                    declaredescrybeAnd asluggard shortly to\n                    declare\u2026\n",
+            "Last Lines": "\n\u2026And thi month for thou art euyr dryeOut of a pott to plukk\n                    out the lynyng\n",
+            "Note": "\nThree additional stanzas",
+            "Attributed Title": "\nIncipit descripcio garcionis (f. 88); Explicit descriptio\n                        garcionis (f. 89v)",
+            "Editions": "\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             A Selection from the Minor Poems of Don John Lydgate.\nPercy Society\n         2. London: T. Richard, 1840: 2.52-5.\n",
+            "folio": "ff. 88v-89v"
+        },
+        "Leiden": {
+            "Note": "\nThree additional stanzas.",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 445-7.\n",
+            "folio": "f. 101v"
+        }
+    }
+}

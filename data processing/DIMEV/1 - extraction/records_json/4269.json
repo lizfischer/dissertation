@@ -1,0 +1,50 @@
+{
+    "_id": 4269,
+    "_header": "On green",
+    "Author(s)": "Peter Langtoft; Robert Mannyng",
+    "Title(s)": "Chronicle",
+    "Subjects": "Balliol, John; chronicles, verse in",
+    "Versification": "\u2014 six-line \u2014 aabaab",
+    "Bibliographic Ghosts": "Oxford, Bodleian Library Fairfax 24 (SC 3904); London, College of Arms, Arundel 14: not found in this copy of Peter Langtoft\u2019s Chronicle (ff. 133-147); London, British Library Royal 20 A.II: not found in this MS; London, Lambeth Palace Library 131: not in this MS.",
+    "_description": "The Messenger\u2019s Speech to Balliol, inserted in Peter Langtoft\u2019s Chronicle and Robert Mannyng\u2019s Chronicle \u2014 one 6-line stanza (preceded by two French stanzas)",
+    "_witnesses": {
+        "OxfAllS39": {
+            "Transcription": "\nOn gre[ne]\u00feat kynerede kenega\u00feered al gaytI\n                    weneon summe es it seneware ye byt bayt\n",
+            "Note": "\nIn Robert Mannyng of Brunne\u2019s Chronicle.",
+            "folio": "f. 101v"
+        },
+        "CULGg11": {
+            "Transcription": "\nOn grene\u00feat kingrede kenegaderid als gaity weneOn\n                    sum it is seneware \u00fee bit bait\n",
+            "Note": "\nIn Peter Langtoft\u2019s Chronicle.",
+            "Editions": "\nWright,  Thomas,\n                        ed.  \n             The Political Songs of England.\nCamden Society\n         o.s. 6 (1839): 293, 393.\n",
+            "folio": "f. 340v"
+        },
+        "BLCottJulAV": {
+            "Transcription": "\nOn grene\u00deat kynred kenegadered als gaytI weneOn\n                    summe it es seneWhar \u00fee byt bayt\n",
+            "Note": "\nIn Peter Langtoft\u2019s Chronicle.",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             The Chronicle of Pierre de Langtoft, in French Verse, from the Earliest\n                Period to the Death of King Edward I.\n             2 vols. \n             Rolls Series\n         47 (1866-68): 2.244.\nWright,  Thomas,\n                        ed.  \n             The Political Songs of England.\nCamden Society\n         o.s. 6 (1839): 293, 393.\n\n",
+            "folio": "f. 147"
+        },
+        "BLHar114": {
+            "Transcription": "\nOn grene \u00feat kynrede keneGadret als gaitI wene on summe es\n                    it seneWhar \u00fee bit bait\n",
+            "Note": "\nIn Robert Mannyng of Brunne\u2019s Chronicle.",
+            "folio": "f. 135v"
+        },
+        "BLRoy20Axi": {
+            "Transcription": "\nOn \u00fee grene . \u00feat kinred kene . Gadred als \u00fee gaitI\n                    wene . On summe is it sene . Whare \u00fee bit bait\n",
+            "Note": "\nWritten as prose. In Peter Langtoft\u2019s Chronicle.",
+            "Editions": "\nWright,  Thomas,\n                        ed.  \n             The Political Songs of England.\nCamden Society\n         o.s. 6 (1839): 293, 393.\n",
+            "folio": "f. 108v"
+        },
+        "InnerTem5117": {
+            "Transcription": "\n\u00feer on \u00feat grene \u00feat kynrede kene gadred als \u00fee\n                    gayteright als I wene on som was it sene \u00feer \u00fee bit\n                    bayte\n",
+            "Note": "\nIn Robert Mannyng of Brunne\u2019s Chronicle. Lines 1-2 on\n                    folio.",
+            "Editions": "\n\nHearne,  Thomas,\n                        ed.  \n             Peter Langtoft\u2019s Chronicle: as illustrated and improv\u2019d by\n                Robert of Brunne, from the death of Cadwalader to the end of K. Edward the\n                First\u2019s reign.\n         Oxford : Printed at the Theater, [London: Reprinted for S. Bagster, in\n            the Strand], 1810: 276.\nWright,  Thomas,\n                        ed.  \n             The Political Songs of England.\nCamden Society\n         o.s. 6 (1839): 293, 393.\nWilson,  Richard Middlewood. \n             The Lost Literature of Medieval England.\n         London: Methuen, 1952: 209.\nSullens,  Idelle,\n                        ed.  \n             Robert Mannyng of Brunne: The Chronicle.\n         Binghamton, NY: Medieval & Renaissance Texts & Studies, 1996: 653.\n\n",
+            "folio": "f. 175v1"
+        },
+        "BNfr12154": {
+            "Note": "\nIn Peter Langtoft\u2019s Chronicle.",
+            "folio": ""
+        }
+    }
+}

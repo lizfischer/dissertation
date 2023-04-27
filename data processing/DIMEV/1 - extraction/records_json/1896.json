@@ -1,0 +1,50 @@
+{
+    "_id": 1896,
+    "_header": "He that steals this book / shall be hanged on a crook",
+    "Note": "Cf. 2250.",
+    "Subjects": "bookplates",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Motto for a Book Plate (each version shows slight variations) \u2014 three couplets",
+    "_witnesses": {
+        "OxfJesus29": {
+            "Transcription": "\nthys ys thomas raglandys bokehe that ste[leth] hym salbe hangyd by a\n                    crowkeand thomas\n",
+            "Editions": "\nHill,  Betty. \n             \u201cA Collation of the Robert of Gloucester Fragments: British Museum MS.\n                Add. 50848.\u201d \n             Notes and Queries\n         n.s. 12 [210] (1965): 47-9: 209.\n",
+            "folio": "f. 143v"
+        },
+        "BodHat106": {
+            "Transcription": "\nHe that stelyth this Boke ste\u2026Be hongyd Ap\u2026\n",
+            "Note": "\n16th century, rear pastedown.",
+            "Editions": "\nJames,  Montague Rhodes. \n             Bibliotheca Pepysiana: A Descriptive Catalogue of the Library of Samuel\n                Pepys. Pt. III: Medieval Manuscripts.\n         London, 1923: 3.36.\n",
+            "folio": ""
+        },
+        "CamMagPep1760": {
+            "Transcription": "\nHe That stelle Thys bokeA shalle be hangked vp on a hokeno vther\n                    be water nor be londwyt a fayer hempyng bond\n",
+            "Note": "\nAdded by a later hand, upside-down, to front pastedown. 4\n                    lines.",
+            "Editions": "\nJames,  Montague Rhodes. \n             Bibliotheca Pepysiana: A Descriptive Catalogue of the Library of Samuel\n                Pepys. Pt. III: Medieval Manuscripts.\n         London, 1923: 3.36.\n",
+            "folio": "front pastedown"
+        },
+        "BLRoy18Axvii": {
+            "Transcription": "\nHe \u00feat stelys this booke. Shulbe hanged on a crookeHe that this\n                    booke stell wolde. Sone be his herte coldeTha it mow so be. seith Amen for\n                    cherite\n",
+            "Note": "\nTwo verse lines per manuscript line.",
+            "Editions": "\n\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 85, 254.\nWarner,  Sir George Frederic,  and  Julius P. Gilson, eds.  \n             Catalogue of Western Manuscripts in the old Royal and King\u2019s\n                Collections.\n         4 vols. London: Trustees of the British Museum, 1921: 2.269, 295.\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 2.163.\nCoulton,  George Gordon. \n             Life in the Middle Ages.\n         Cambridge: at the UP, 1931, and New York: Macmillan, 1931: 2.118 (mod.).\nBennett,  Henry Stanley. \n             England from Chaucer to Caxton.\n         London: Methuen, 1928: 161.\nKaiser,  Rolf,\n                        ed.  \n             Alt- und mittelenglische Anthologie.\n         Berlin, 1954; 3rd ed.; trans. as  Medieval English: a\n                Old English and Middle English Anthology Berlin West, 1958: reverse of title page.\n\n",
+            "folio": "f. 199"
+        },
+        "BLRoy18Bxxii": {
+            "Note": "\n4 lines",
+            "Editions": "\n\nWarner,  Sir George Frederic,  and  Julius P. Gilson, eds.  \n             Catalogue of Western Manuscripts in the old Royal and King\u2019s\n                Collections.\n         4 vols. London: Trustees of the British Museum, 1921: 2.269, 295.\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 85, 254.\nNichols,  John Gough,\n                        ed.  \n             The Boke of Noblesse; Addressed to King Edward the Fourth on his\n                Invasion of France in 1475.\nRoxburghe Club\n         [77]. London: Nichols, 1860; repr. NY: Franklin, 1972: lvi.\n\n",
+            "folio": "f. 44v"
+        },
+        "Lam259": {
+            "First Lines": "\nHe that \u00feis boke dothe steleoure lady yeff hym an euyll\n                    hele\u2026\n",
+            "Last Lines": "\n\u2026therfor for \u00fee love of oure ladyI pray you lett \u00feis\n                    boke lye\n",
+            "Note": "\nSame hand as the copy on f. iv. 6 lines.",
+            "Editions": "\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 254.\n",
+            "folio": "f. ivv"
+        },
+        "PriO1": {
+            "Note": "\n\u2018Hours of the Virgin [Use of Sarum]. with Calendar, etc.\n                    illuminated manuscript on vellum\u2019 (\nX\nCatalogue of Western and Oriental manuscripts and miniatures\u2026the\n                10th December, 1962.\n         London: Messrs. Sotheby & Co., 1962, lot\n                    145).",
+            "Editions": "\n\nCatalogue of Western and Oriental manuscripts and miniatures\u2026the\n                10th December, 1962.\n         London: Messrs. Sotheby & Co., 1962: lot 145.\n",
+            "folio": "flyleaf"
+        }
+    }
+}

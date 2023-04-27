@@ -1,0 +1,19 @@
+{
+    "_id": 1729,
+    "_header": "Hail Maiden over Maidens eachone / Mother withouten peer",
+    "Note": "See 1726.",
+    "Author(s)": "Albertus Magnus",
+    "Title(s)": "Psalterium beate Marie",
+    "Subjects": "Virgin Mary, hymns to; hymns, to Virgin Mary",
+    "Versification": "\u2014 eight-line \u2014 ababcdcd",
+    "_description": "Psalterium beate Marie, a translation of Albertus Magnus \u2014 161 8-line stanzas with Latin introductions to each",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nHeyl Mayden ouer Maydenes vchonModur wi\u00fe outen\n                    pereWi\u00fe outen knowyng of MonA wor\u00fei chyld yow\n                    beere\u2026\n",
+            "Last Lines": "\n\u2026And heer \u00fee word \u00feat i ofte sey\u00deat is \u00fee\n                    swete AueMak me freo nou I \u00fee preyffrom heui serwe to be.\n                    AMEN.\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 1.\nEETS\n         o.s. 98 (1892; repr. 1973): 49-105.\n",
+            "folio": "ff. 117ra2-121vb"
+        }
+    }
+}

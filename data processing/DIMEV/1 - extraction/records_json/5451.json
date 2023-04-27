@@ -1,0 +1,167 @@
+{
+    "_id": 5451,
+    "_header": "The right pit of hell is amid the earth within",
+    "Note": "For Part I, see 4732; for Part II, see 4731.",
+    "Subjects": "didactic verse",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Cambridge UK, Cambridge University Library Ff.5.48, f. 79: not in this MS; London, Lambeth Palace Library 223: not in this MS.",
+    "_description": "A collection of pseudo-scientific material incorporated as Part III in the legend of St. Michael",
+    "_witnesses": {
+        "BodDig75": {
+            "First Lines": "\nAnd les yf it be a knaffe chylde for it had mare heteBot when\n                    \u00fee lymmes are fryste made \u00feai are no\u021dt full\n                    grete\u2026\n",
+            "Last Lines": "\n\u2026Now god tat gaffe vs saule len vs so it to rede \u00feat\n                    saint mychaell may it resawe & to blysse it lede\n",
+            "Note": "\nMissing lines 1-312; occurs separately.",
+            "folio": "ff. 207-208"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\n\u00deE ri\u021dte put of helleA midde eor\u00fee is with\n                    InneVr lord \u00feat al made I wisQweynte is of\n                    gynne\u2026\n",
+            "Last Lines": "\n\u2026Now God \u00feat vs soule gafVs lete hire so\n                    lede\u00deat seint Michel hire mote a vongeAnd bi fore him lede.\n                    AMEN.\n",
+            "Note": "\nWritten in half-lines.",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 291vb-293rc"
+        },
+        "BodLauMis108": {
+            "First Lines": "\n\u00deE ri\u021dte put of helle is a midde \u00fee eor\u00fee with\n                    Inne\u00deat ore louerd it made iwis \u00feat quoynte was of\n                    ginne\u2026\n",
+            "Last Lines": "\n\u2026Nov Iesu crist \u00feat us soule \u021daf graunte us \u00feat we\n                    hire moten so here rede\u00deat Seint MI\u021dhel hire mote a fongue and bi\n                    fore to Ioye lede\n",
+            "Note": "\nWith I and II.",
+            "Editions": "\n\nHorstmann,  Carl. \n             \u201cDie Legende des heilige Michael nach MS Laud 108.\u201d \n             Jahrbuch f\u00fcr romanische und englische Sprache und\n                Literatur\n         13 (1874): 150-80: 154-80.\nHorstmann,  Carl,\n                        ed.  \n             The Early South-English Legendary.\nEETS\n         o.s. 87 (1887; repr. 1987): 299-322.\n\n",
+            "folio": "ff. 136v-141"
+        },
+        "BodLauMis463": {
+            "First Lines": "\n\u00deE riht pit of helle is a midde \u00fee eor\u00fee with\n                    inneOure lord \u00feat all \u00feing makede Queint he is of\n                    gynne\u2026\n",
+            "Last Lines": "\n\u2026Nou god \u00feat vs soule \u021daf vs lete it here so\n                    rede\u00feat seint Michel mot it afonge & toforne him lede\n",
+            "Note": "\nTwo columns per page, one full-line, the other half-line.",
+            "folio": "ff. 89vb-92va"
+        },
+        "BodLauMis685": {
+            "First Lines": "\nThe ry\u021dt pytt of hell ys amyd erth with ynOur lord that all\n                    mad quaynt he ys of gyn\u2026\n",
+            "Last Lines": "\n\u2026drowd wemyd & gret drynker in wrath all most wood hardy\n                    & ly\u021dt stabull a waker full good\n",
+            "Note": "\nOccurs separately.",
+            "folio": "ff. 86v-90v"
+        },
+        "OxfTri57": {
+            "Note": "\nWith I and II.",
+            "folio": "f. 104"
+        },
+        "CamCCC145": {
+            "First Lines": "\n\u00dee ri\u021dte put of helle is amidde eor\u00fee wi\u00fe\n                    InneOure louerd ere al made iwis queintise of gynne\u2026\n",
+            "Last Lines": "\n\u2026Nou god \u00feat us soule \u021daf us lete hure here so\n                    rede\u00feat sein Michel is mot anonge & biuore him lede\n",
+            "Note": "\nWith I and II.",
+            "Attributed Title": "\nDe Inferno (f. 153v, right margin)",
+            "Editions": "\nD\u2019Evelyn,  Charlotte,  and  A. J. Mill, eds.  \n             The South English Legendary: Corpus Christi College Cambridge MS. 145\n                and British Museum MS. Harley 2277, with variants from Bodley MS. Ashmole 43 and\n                British Museum MS. Cotton Julius D.ix.\nEETS\n         o.s. 235 (1959), 236 (1956); repr. 1967: 2.402-28.\n",
+            "folio": "ff. 153v-158v"
+        },
+        "CamMagPep2344": {
+            "First Lines": "\n\u00dee ri\u021dte pitt of helle is amydde \u00fee eor\u00fee wi\u00fe\n                    ynneOure lord \u00feat alle \u00feing made wi\u00fe queyntyse of\n                    gynne\u2026\n",
+            "Last Lines": "\n\u2026Now god \u00feat \u021daf vs soule vs here so wisse and\n                    rede\u00deat Seint Michel hit mote affonge and to ioye lede\n",
+            "Note": "\nWith I and II.",
+            "Attributed Title": "\nDe Puteo inferni (RT); De planetis (RT); De disposiciones hominis\n                    (RT)",
+            "folio": "pp. 421-430"
+        },
+        "CamTCC605": {
+            "First Lines": "\n\u00fee ry\u021dt pute of helle is amydde \u00fee er\u00fee with\n                    Inneoure lord \u00feat al mad ywys queynte is of gynne\u2026\n",
+            "Last Lines": "\n\u2026Now god \u00feat ous saule \u021daf & sende ous lete oure\n                    [sic] so rede\u00feat seint mychel hem mote fange & byfor god of heuene\n                    lede\n",
+            "Note": "\nWith I and II; no rubricated initial to indicate division between this\n                    and II.",
+            "Attributed Title": "\nDe Puteo inferni (RT); De planetis (RT); De disposiciones hominis\n                    (RT)",
+            "Facsimiles": "\n\nDigital Facsimile of Trinity College Cambridge MS R.3.25.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.25. \n",
+            "folio": "ff. 83-86v"
+        },
+        "BLAdd10301": {
+            "First Lines": "\n\u00deE ri\u021dte put of helle is a midde er\u00fee wi\u00fe\n                    InneOure lorde \u00feat al made y wis queintis of gynne\u2026\n",
+            "Last Lines": "\n\u2026Eues ge\u00fe heuene aboute \u00feoru \u00fee day & \u00feoru\n                    \u00fee ni\u021dte& \u00fee mone & \u00fee sterren wi\u00fe hym\n                    bere\u00fe & \u00fee sonne so bri\u021dte\u2026\n",
+            "Note": "\nEnds imperfectly after 12 lines, rest of MS missing.",
+            "folio": "f. 175v"
+        },
+        "BLAdd22283": {
+            "First Lines": "\n\u00deE riht put of helleA midde eor\u00fee is withInneVr lord\n                    \u00feat al made I wisQweynte is of ginne\u2026\n",
+            "Last Lines": "\n\u2026Nou God \u00feat vs soule \u021dafVs lete hire so\n                    lede\u00deat seint Mihel hire mote a vongeAnd bi foren him lede A M E\n                    N\n",
+            "Note": "\nOccurs separately. Two lines of verse for each line of\n                    text.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 83rb-84vb"
+        },
+        "BLAdd24542": {
+            "First Lines": "\n\u2026pit of helle is a midden erthe\u2026of heuene\u2026was of\n                    gynne\n",
+            "Last Lines": "\n\u2026and iwel in my\u2026as eft I doin \u00feis maner \u00fee\n                    here mowe of reyn & of snow\n",
+            "Note": "\nOccurs separately. Nineteenth-century copy. Parts of the text are\n                    omitted throughout, with spaces left mid-line on many occasions. Text is\n                    incomplete.",
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             The Early South-English Legendary.\nEETS\n         o.s. 87 (1887; repr. 1987): 311-17, ll. 391-626.\n",
+            "folio": "ff. 152-158v"
+        },
+        "BLAdd36983": {
+            "First Lines": "\nBothe for clerkys & for lewed men\u00deys englysch tale ys y\n                    founde\u2026\n",
+            "Last Lines": "\n\u2026\u00deat seint my\u021dhell yt Reseyve moteAnd py fore hym\n                    lede. Amen\n",
+            "Note": "\nPreceded by a unique Prologue of 24 lines; occurs\n                    separately.",
+            "folio": "ff. 255ra-261vb"
+        },
+        "BLCottJulDIX": {
+            "First Lines": "\nDe ri\u021dte putte of helle a midde erde is with Inneour lord \u00feat al made iwis quinte is of gynne\u2026\n",
+            "Last Lines": "\n\u2026& ous wite & hardi her fram de\u00felich synne& bring ous to \u00fee ioie \u00feat sein Michel is Inne\n",
+            "Note": "\n\u201cCapitulum C\u201d added to upper right margin by later hand (f. 276); ends \u201cAmen\u201d (f. 281).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Julius MS D IX.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Julius_D_IX. \n",
+            "folio": "ff. 276-281"
+        },
+        "BLEge1993": {
+            "First Lines": "\n\u00dee ri\u021dte pi\u021dt of helle amidden er\u00fee is wi\u00feinneOure lord \u00feat al made queinte he was of ginne\u2026\n",
+            "Last Lines": "\n\u2026Now god \u00feat vs soule \u021daf lete vs here so rede\u00feat seint Michel hire afonge & bifore him lede\n",
+            "Note": "\nEnds \u201cAmen\u201d (f. 232v).",
+            "folio": "ff. 229-232v"
+        },
+        "BLEge2810": {
+            "First Lines": "\n\u2026As \u00fee blake clouden be\u00fe & o\u00feer wederes alsoIt nis vpr\u021dt fram er\u00fee bote an mile to\u2026\n",
+            "Last Lines": "\n\u2026nou god \u00feat vs soul \u021daf us lete hire here to rede\u00feat seint michel is mot auong & into heuene lede\n",
+            "Note": "\nMissing lines 1-206; occurs separately.",
+            "folio": "ff. 88-90"
+        },
+        "BLEge2891": {
+            "First Lines": "\n\u00dee ri\u021dte put of helle is amidde eor\u00fee wi\u00fe InneOure louerd \u00feer al made iwis queintis of gyne\u2026\n",
+            "Last Lines": "\n\u2026Nou god \u00feat us soule \u021dof us lete here so rede\u00feat sein Michel it mot auonge and biside him lede\n",
+            "Note": "\nWith I and II; lines 1-4 missing. Ends \u201camen.\u201d",
+            "folio": "ff. 140v-144v"
+        },
+        "BLHar874": {
+            "First Lines": "\n[L]istne\u00fe now lordynges and I wil \u021dou telle Hou \u00fee\n                    werlde ymade was & whider out is helle\u00dee pure pytt of helle is\n                    amyd \u00fee er\u00fee wi\u00feinne\u2026\n",
+            "Last Lines": "\n\u2026And also men \u00feat ben yborne vnder herpower Iwys Shullen\n                    haue here diuers lijf after \u00feat her vertu ys\n",
+            "Note": "\nFormerly 1907.5;\n                    occurs separately.",
+            "Editions": "\nHorrall,  Sarah M. \n             \u201cA Fragment of \u2018St. Michael, Part III\u2019 from the South\n                English Legendary.\u201d \n             Notes and Queries\n         n.s. 30 [228] (1983): 302-3: 302-3.\n",
+            "folio": "f. 31v"
+        },
+        "BLHar2277": {
+            "First Lines": "\n\u00deE ri\u021dte put of helle is amidde \u00fee vr\u00fee wi\u00fe inneOure louerd \u00feat al makede iwis queynte is of ginne\u2026\n",
+            "Last Lines": "\n\u2026Nou god \u00feat ous soule \u021daf ous lete hire her so rede\u00feat Seint Michel ous mote afonge & tofore him lede\n",
+            "Note": "\nEnds \u201cAmen.\u201d",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 2277.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_2277. \n",
+            "Editions": "\n\nWright,  Thomas. \n             Popular Treatises on Science.\n         London: Taylor, for the Historical Society of Science, 1841: 132-40.\nM\u00e4tzner,  Edouard Adolf Ferdinand. \n             Altenglische Sprachproben, I: Poesie.\n         Berlin: Wiedmann, 1867: 137-47.\n\n",
+            "folio": "ff. 127-132"
+        },
+        "BLSto949": {
+            "First Lines": "\n\u00fee ry\u021dt put of helle is amidde er\u00fee wi\u00fe innepure lord \u00feat al made iwis quoynte he was & is of ginne\u2026\n",
+            "Last Lines": "\n\u2026Nou god \u00feat vs soul \u021daf us lets hire her so rede\u00feat sent Michael here mote avenge & to \u00fee ioy\u021de of ihesu lede\n",
+            "Note": "\nBrown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943 records this as beginning on f. 3.",
+            "folio": "ff. 10-15v"
+        },
+        "CollArmsAr8": {
+            "First Lines": "\nThe ri\u021dte pytt of helle is a mydde the erthe with ynneOure\n                    lord it made there I wis that is so quente of gynne\u2026\n",
+            "Last Lines": "\n\u2026Now god that to vs soule \u021daf so lete vs here so redethat\n                    seint Michel hem mote affonges and bifore hym lede\n",
+            "Note": "\nWith I and II.",
+            "folio": "ff. 74v-80v"
+        },
+        "NLS23711": {
+            "First Lines": "\nThe sede of man & woman clere as cristal it is\n                    owre lorde hym selfe it made for man i wis\u2026\n",
+            "Last Lines": "\n\u2026Al bowyd is \u00fee rygge so \u00feat ny\u021de rounde it is\n                    man where of is pryde ther is none i wys\n                    Sperma hominis\n",
+            "Note": "\n34 lines; same as lines 691-724 Cambridge UK,  Corpus Christi College 145 copy of 4732; occurs\n                    separately.",
+            "Editions": "\nHolthausen,  Ferdinand. \n             \u201cDe spermate hominys.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         98 (1897): 401-3: 401.\n",
+            "folio": "Part  G, ff. 89-90v"
+        },
+        "HunHM64": {
+            "First Lines": "\nTHe right Pitte of helle is amydys the erthe witheinOwre lorde that\n                    all made I wisse quenyte was of Gyn\u2026\n",
+            "Last Lines": "\n\u2026Now godde that vs sowle gave vs lete hire here so rede That\n                    saynte mychall hit mote amonge & byfore hym leede\n",
+            "Note": "\nOccurs separately.",
+            "folio": "ff. 72v-79"
+        },
+        "TokyoTak54": {
+            "First Lines": "\nThe ri\u021dt putte of helle is amydde er\u00fee wi\u00feInneOur\n                    lord \u00feat it maad queynt was of gynne\u2026\n",
+            "Last Lines": "\n\u2026Now god \u00feat vs saule \u021daf wel vs here rede\u00deat\n                    seint Michael mote hem avonge and bifore hym lede. Amen.\n",
+            "Note": "\nWith I and II.",
+            "folio": "ff. 141-142v"
+        }
+    }
+}

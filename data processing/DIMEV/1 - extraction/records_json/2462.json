@@ -1,0 +1,33 @@
+{
+    "_id": 2462,
+    "_header": "In a thester study I stood a little strife to hear",
+    "Note": "See also 6339.",
+    "Subjects": "debates, body and soul; body and soul, debate between",
+    "Versification": "\u2014 four-line \u2014 aaaa",
+    "_description": "Debate between the Body and the Soul \u2014 twenty-seven four-line stanzas, the first with medial rhyme",
+    "_witnesses": {
+        "BodDig86": {
+            "First Lines": "\nHon an \u00feester stude I stod an luitel strif to hereHof an bodi\n                    \u00feat was oungod \u00feer hit lai on \u00fee bere\u2026\n",
+            "Last Lines": "\n\u2026\u00feenne seiz \u00fee gost weilavei and \u00feer affter\n                    alasWo wor\u00fee \u00feat ilke stounde bodi \u00feat \u00feou boren\n                    was\n",
+            "Attributed Title": "\nHic incipit carmen inter corpus & animam (f.\n                    195v)",
+            "Facsimiles": "\nTschann,  Judith A.,  and  Malcolm B. Parkes.  \n             \u201cIntroduction.\u201d \n             Facsimile of Oxford, Bodleian Library, MS Digby 86\nEETS\n         s.s. 16 (1996). \n",
+            "Editions": "\n\nStengel,  Edmund. \n             Coducem Manu Scriptum Digby 86\u2026.\n         Halle: Orphanotrophei, 1871: 93-101.\nConlee,  John W.,\n                        ed.  \n             Middle English Debate Poetry: A Critical Anthology.\n         East Lansing, MI: Colleagues Press, 1991: 11-17.\n\n",
+            "folio": "ff. 195v-197v"
+        },
+        "CamTCC323": {
+            "First Lines": "\nIn an \u00feestrei stude ic stod a lutel strif to iherenOf an bodi\n                    \u00feat was ungoid ser hit lei on one bere\u2026\n",
+            "Last Lines": "\n\u2026Jesus crist us grantein his seruise to henden& \u00fee\n                    blisse of hevene mid engles into wenden\n",
+            "Note": "\n31 stanzas",
+            "Attributed Title": "\nHic incipit carmen inter corpus & animam (f.\n                    195v)",
+            "folio": "ff. 29v-32"
+        },
+        "BLHar2253": {
+            "First Lines": "\nIN a \u00feestri stude y stod a lutel strif to hereof a body\n                    \u00feat was vn god \u00feer hit lay on a bere\u2026\n",
+            "Last Lines": "\n\u2026to wro\u00feere hele \u00feat euer we in londe comen hereto\n                    \u00fein holp halewen crist bring vs alle yfere amen.\n",
+            "Note": "\nThirty stanzas, interspersed with couplets",
+            "Facsimiles": "\nKer,  Neil Ripley. \n             \u201cIntroduction.\u201d \n             Facsimile of British Museum MS. Harley 2253.\nEETS\n         o.s. 255 (1965). \n",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             The Latin Poems Commonly Attributed to Walter Mapes.\nCamden Society\n         o.s. 16 (1841): 346-9.\nB\u00f6ddeker,  Karl. \n             Altenglische Dichtungen des MS. Harl. 2253.\n         Berlin: Weidmann, 1878: 235-43.\nFein,  Susanna Greer,\n                        ed.  \n             The Complete Harley 2253 Manuscript, Volume 2.\n         Kalamazoo, Michigan: Medieval Institute Publications, 2009: Booklet 4, no. 224922-1\n                    .\n\n",
+            "folio": "ff. 57-58v"
+        }
+    }
+}

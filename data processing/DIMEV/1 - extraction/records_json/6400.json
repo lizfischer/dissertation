@@ -1,0 +1,33 @@
+{
+    "_id": 6400,
+    "_header": "When Rome is removed into England",
+    "Note": "All MSS show considerable variations, but derive from an original short prophecy, Scottish in sympathy, developing some of the symbols used by Geoffrey of Monmouth.",
+    "Title(s)": "The Second Scottish Prophecy",
+    "Subjects": "prophecies, political",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Second Scottish Prophecy, the C Text \u2014 in couplets",
+    "_witnesses": {
+        "BLCottCleoCIV": {
+            "First Lines": "\nWhen Rome is removith into englondAnd ilke prest haiit the pope is\n                    poure in hand\u2026\n",
+            "Last Lines": "\n\u2026To bring out of brawlis the kynd blod of brutesThe which\n                    schalt lyue on to lyue of landes\n",
+            "Note": "\n14 lines.",
+            "Editions": "\nWright,  Thomas,\n                        ed.  \n             Political Poems and Songs relating to English History, composed during\n                the period From the Accession of Edward III to that of Richard III.\n             2 vols. \n             Rolls Series\n         14 (1859, 1861); repr. Kraus, 1965: 2.249.\n",
+            "folio": "f. 86v"
+        },
+        "BLRoy7Aix": {
+            "Note": "\n14 lines only.",
+            "Editions": "\nRobbins,  Rossell Hope,\n                        ed.  \n             Historical Poems of the XIV and XV Centuries.\n         New York: Columbia UP, 1959: 313.\n",
+            "folio": "ff. 4-4v"
+        },
+        "NLWLan119": {
+            "folio": "p. 177"
+        },
+        "NLWPen26": {
+            "Note": "\nFormerly 4009.",
+            "folio": "p. 122"
+        },
+        "NLWPen94": {
+            "folio": "p. 257"
+        }
+    }
+}

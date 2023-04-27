@@ -1,0 +1,34 @@
+{
+    "_id": 4097,
+    "_header": "O worldly folk averteth and take heed",
+    "Note": "Also occurs as stanzas 5-8 of 4905.",
+    "Author(s)": "John Lucas",
+    "Subjects": "advice, spiritual",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lucas, a \u2018ballad\u2019 \u2014 four stanzas rhyme royal",
+    "_witnesses": {
+        "BodDou322": {
+            "First Lines": "\nO worldely folke auerteth and take hedeWhat vengeaunce and\n                    punycioun\u2026\n",
+            "Last Lines": "\n\u2026O cryste Ihesu so brynge vs to that gloryWhyche by thy dethe\n                    had the victory\n",
+            "Attributed Author": "\nIohn Lucas (f. 20ra)",
+            "Attributed Title": "\nTheyse balades that thus ben wryten here be take owte of the book of Iohn\n                    Lucas and sayde to the peple that shall see thys lytell tretyse in tyme to come\n                    (f. 20ra).",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 2.656-57.\n",
+            "folio": "f. 20ra-b"
+        },
+        "BLHar1706": {
+            "First Lines": "\nO wordely ffolke auerteth & take hedeWhat vengeaunce and punycioun\u2026\n",
+            "Last Lines": "\n\u2026O cryst Ihesu brynge vs to that gloryWhyche be thy deth had the victory\n",
+            "Note": "\nEnds \u201cAmen\u201d below last line (f. 20ra).",
+            "Attributed Author": "\nJohn Lucas (see title, f. 19vb)",
+            "Attributed Title": "\nThyse balades tha thus be wreten here be take owte off the booke off John lucas And seyd to the peple that shall se thys lytell tretyse In tyme to come (rubric, preceding first line (f. 19vb)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 1706.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_1706. \n",
+            "Editions": "\nWager,  Willis J. \n             \u201cTwo Poems from the \u2018Booke of John Lucas.\u2019\u201d \n             Philological Quarterly\n         15 (1936): 377-83: (extract).\n",
+            "folio": "ff. 19vb-20ra"
+        },
+        "CULFf545": {
+            "First Lines": "\nO Worldly folke auertith and take hedeWhat vengeaunce and what\n                    punicyon\u2026\n",
+            "Last Lines": "\n\u2026o Cryst Ihesu so bryng vs to \u00feat gloryeWhiche be dethe\n                    haddest the victory\n",
+            "folio": "f. 13v"
+        }
+    }
+}

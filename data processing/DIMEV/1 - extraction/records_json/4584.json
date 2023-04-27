@@ -1,0 +1,142 @@
+{
+    "_id": 4584,
+    "_header": "Saint Dunstan was of England I-come of good more",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Dunstan, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Southwell, Southwell Cathedral Library 7, f. 193: prose.",
+    "_description": "Life of St. Dunstan in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "BodAddC38": {
+            "folio": "f. 118"
+        },
+        "BodAsh43": {
+            "First Lines": "\nSEyn dunston was of engelond icome of gode moreMiracle our lord\n                    dude uor him ar he were ibore\u2026\n",
+            "Last Lines": "\n\u2026Swete lord seynt dunston \u00feat oure erchebiscop wereBryng\n                    ous to \u00fee Ioie of heuene as angles \u00fei soule bere\n",
+            "Attributed Title": "\nsyn dounston (f. 80v)",
+            "folio": "ff. 80v-83"
+        },
+        "Bod779": {
+            "First Lines": "\nSeint donston was of ingelond I come of gode moremeraklis oure lord\n                    dede for hym ar he were I bore\u2026\n",
+            "Last Lines": "\n\u2026& wente to \u00fee ioye \u00feat neuer ne chal mysseNow\n                    Ihesu for \u00feyn holy name graunt vs \u00feat ilke blisse\n",
+            "Attributed Title": "\nSeint donston \u00fee bischop (f. 85v)",
+            "folio": "ff. 85v-87v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSEint Dunston was of Engelonde i come of goode moreMiracle vr lord\n                    dude for him \u021dit he was vnbore\u2026\n",
+            "Last Lines": "\n\u2026Now swete lord seint Dunston \u00feat vre Erchebisschop\n                    wereBring vs to \u00fee Ioye of heuene as Angels \u00fei soule bere. A.\n                    M.E.N.\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nHorstmann,  Carl. \n             \u201cDie Legenden von St. Dunstan und St. Christopher aus MS. Laud\n                108.\u201d \n             Jahrbuch f\u00fcr romanische und englische Sprache und\n                Literatur\n         14 (1875): 32-41: 32-5 (lines 107-160).\nHorstmann,  Carl,\n                        ed.  \n             The Early South-English Legendary.\nEETS\n         o.s. 87 (1887; repr. 1987): 19-24 (lines 107-160).\n\n",
+            "folio": "ff. 30vb-31rb"
+        },
+        "BodLauMis108": {
+            "First Lines": "\nSeint Dunston was of enguelonde icome of guode moreMiracle ore\n                    louerd dude for him \u00fee \u021duyt he was unbore\u2026\n",
+            "Last Lines": "\n\u2026And is endedai [ ]An holi \u00feoresdai [ ]He liet him\n                    clep[ ]His men \u00feat h[ ]\u2026\n",
+            "Note": "\nStub, numbered f. 30*, all that is left of lost folio; ends\n                    imperfectly.",
+            "folio": "ff. 29v-30*"
+        },
+        "BodLauMis463": {
+            "First Lines": "\nSEint Donston was of engelond come of gret moreMiracle oure lord\n                    dide for him er he were y bore\u2026\n",
+            "Last Lines": "\n\u2026Nou swete lord seint donston \u00feat oure erchebisshop\n                    werebring vs to \u00fee ioye of heuene as \u00fee angels \u00fei soule\n                    bere\n",
+            "Note": "\nTwo columns per page, one full-line, the other half-line.",
+            "folio": "ff. 50rb-51va"
+        },
+        "BodTan17": {
+            "First Lines": "\nSEint dunstan was of Ingelond & come of good moreMeraclis oure\n                    lord dide for him or he were I bore\u2026\n",
+            "Last Lines": "\n\u2026Swete lord seint dunston \u00feat oure erchebischop\n                    wereBringe vs to \u00fee ioye of heuyn as aungellis \u00fei soule\n                    bere\n",
+            "folio": "ff. 107v-110"
+        },
+        "BodRawPoe225": {
+            "First Lines": "\n\u2026ffor whan he muste of hys [ ]Reste hym for werinesse [\n                    ]\u2026\n",
+            "Last Lines": "\n\u2026[ ]it patryk cam [ ][ ] Austyn [ ]\u2026\n",
+            "Note": "\nA fragment: one leaf.",
+            "folio": "ff. 16-16v"
+        },
+        "OxfTri57": {
+            "First Lines": "\nSeint Donston was of engelonde y come of guode moreMeracle oure\n                    lord dude for him er he were y bore\u2026\n",
+            "Last Lines": "\n\u2026Now swete lord seint Dunston \u00feat oure erchebischop\n                    wereBringe vs to \u00fee ioye of heuene as angeles \u00fey soule\n                    bere\n",
+            "Attributed Title": "\nVita sancti Dunstani (rubric marginal heading by scribe, f. 46)",
+            "folio": "ff. 46-48"
+        },
+        "CamCCC145": {
+            "First Lines": "\nSein donston was of engelond icome of gode moreMiracle oure louerd\n                    dude for him ar he were ibore\u2026\n",
+            "Last Lines": "\n\u2026Nou swete louerd sein donston \u00feat oure erchebissop\n                    wereBringe us to \u00fee ioie of heuene as angles \u00feine soule\n                    bere\n",
+            "Editions": "\nD\u2019Evelyn,  Charlotte,  and  A. J. Mill, eds.  \n             The South English Legendary: Corpus Christi College Cambridge MS. 145\n                and British Museum MS. Harley 2277, with variants from Bodley MS. Ashmole 43 and\n                British Museum MS. Cotton Julius D.ix.\nEETS\n         o.s. 235 (1959), 236 (1956); repr. 1967: 1.204-11.\n",
+            "folio": "ff. 77-79v"
+        },
+        "CamKC13": {
+            "First Lines": "\nSEint Dunston was in Engelonde icome of gode moreMiracles oure lord\n                    dude for him \u021dut ar he were y bore\u2026\n",
+            "Last Lines": "\n\u2026Now seint Dunston \u00feat oure erchebisshop her wereBring vs\n                    to \u00feilke ioie \u00feat aungeles \u00fei soule to bere\n",
+            "folio": "Part II, ff. 44v-46v"
+        },
+        "CamMagPep2344": {
+            "First Lines": "\nSeint Dunston was in Engelonde ycome of goed moreMiracles oure lord\n                    dude ffor him ar he were ybore\u2026\n",
+            "Last Lines": "\n\u2026Now Seint Dunston \u00feat oure Erchebisschop her wereBryng\n                    vs to \u00feulke ioye \u00feat aungeles \u00fei soule bere\n",
+            "Attributed Title": "\nDunstanus (RT)",
+            "folio": "pp. 288-293"
+        },
+        "CamTCC605": {
+            "First Lines": "\nSEint dunston was of englonde y come of goud moreMiracle oure lord\n                    dud for hym ar he were y bore\u2026\n",
+            "Last Lines": "\n\u2026Now swete lord seint dunston \u00feat oure erchebischop\n                    werebrynge ous to \u00feat Ioie \u00feer angles \u00fey saule\n                    bere\n",
+            "Attributed Title": "\nDunston (RT)",
+            "folio": "ff. 63v-65v"
+        },
+        "BLAdd10301": {
+            "First Lines": "\nSEin Donston was of engelond y come of gode moreMiracle oure lorde\n                    dude for him as he were y bore\u2026\n",
+            "Last Lines": "\n\u2026Nou swete lorde sein donston \u00feat oure erche bissop\n                    wereBring vs to \u00fee Ioye of heuene as angeles \u00fey soule\n                    bere\n",
+            "Attributed Title": "\nDe sancto Dunstano (f. 90v, by scribe in margin beside\n                    first line); Donstane (RT)",
+            "folio": "ff. 90v-93"
+        },
+        "BLCottJulDIX": {
+            "First Lines": "\nSEin dunston was of ynglond icome of gode moreMiracle our lord dede for him as he were ibore\u2026\n",
+            "Last Lines": "\n\u2026nou suete lord sein donston \u00feat our erchebischop werebring ous to \u00fee ioie of heuen as angeles \u00fein soule bere\n",
+            "Note": "\n\u201cCapitulum xlii\u201d added to left margin by later hand (f. 83v).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Julius MS D IX.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Julius_D_IX. \n",
+            "folio": "ff. 83v-86v"
+        },
+        "BLEge1993": {
+            "First Lines": "\nSeint Dunston was of engelonde icome of god moreMiracle oure lord dude for him ar he were ibore\u2026\n",
+            "Last Lines": "\n\u2026Now swete lord seint dunston \u00feat oure erthe bisichop wereBring vs to \u00feat ioie \u00feat angles \u00fei soule to bere\n",
+            "Note": "\nEnds \u201cAmen\u201d (f. 154).",
+            "folio": "ff. 151v-154"
+        },
+        "BLEge2810": {
+            "First Lines": "\nSEint Dunstan was of Engelonde ycome of gode moreMiracle oure louird dude vor him ar he was ybore\u2026\n",
+            "Last Lines": "\n\u2026Nou swete louird seint dunston \u00feat oure erchebusschop wereBringe ous to \u00fee ioye of heuene \u00feer angelus \u00feine soule bere\n",
+            "Note": "\nFolio 60r (38 lines) written by a different hand.",
+            "folio": "ff. 59v-63"
+        },
+        "BLEge2891": {
+            "First Lines": "\nSEint Donston was of engelond Icome of gode moreMiracle oure louerd dude for him ar he were ibore\u2026\n",
+            "Last Lines": "\n\u2026Nou swete louerd sein donston \u00feat oure erchebissop wereBring us to \u00fee ioie of heuene as angles \u00feine soule bere\n",
+            "Attributed Title": "\nDe sancto Donstano (rubric in margin, f. 86)",
+            "folio": "ff. 86-88v"
+        },
+        "BLHar2277": {
+            "First Lines": "\nSEint Dunstan was of Engelond icome of gode moreMiracle oure louerd dude for him er he were ibore\u2026\n",
+            "Last Lines": "\n\u2026Nou suete louerd Seint Dunstan \u00feat oure archebischop wereBring ous to \u00fee ioye of heuene as angles \u00fei soule bere\n",
+            "Note": "\nEnds imperfectly.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 2277.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_2277. \n",
+            "Editions": "\n\nFurnivall,  Frederick James. \n             Early English Poems and Lives of Saints.\nTransactions of the London Philological Society\n         1858; Pt. 2, Berlin, 1862: 34-40.\nM\u00e4tzner,  Edouard Adolf Ferdinand. \n             Altenglische Sprachproben, I: Poesie.\n         Berlin: Wiedmann, 1867: 1.171.\n Bad Key: Morris1892-94: 19 (lines 1-92).\n\n",
+            "folio": "ff. 51-54"
+        },
+        "Lam223": {
+            "First Lines": "\nSAynt Dunstan was of Englond of gode kynne ycoreGod wro\u021dt for\n                    hym myracle long er he was bore\u2026\n",
+            "Last Lines": "\n\u2026Now swete lord saynt Dunstan \u00feat Erch bisshop was\n                    here\u00deou lede vs to \u00fee ioye of heuen \u00feer angels \u00fei soule\n                    bere. Amen\n",
+            "Attributed Title": "\nSaynt Dunstan (RT)",
+            "folio": "ff. 122v-124v"
+        },
+        "LeedsRipon": {
+            "First Lines": "\nS[ ]As they stod[ ]There lyght [ ]Here lyght [\n                    ]\u2026\n",
+            "Last Lines": "\n\u2026To Glastyngb[ ]Than bothe k[ ]\n",
+            "Note": "\nOn deposit at Brotherton Library, University of Leeds; only beginnings\n                    of first 40 lines.",
+            "folio": "f. 122v"
+        },
+        "TokyoTak54": {
+            "First Lines": "\nSeint Dunston was of Engelond come of good moreMiracles our lord\n                    did for hym er he were ybore\u2026\n",
+            "Last Lines": "\n\u2026Now swete lord seynt Dunstoun \u00feat our bisshop wereBrynge\n                    vs to \u00feat ioye of heuene \u00feer aungels \u00fei soule bere.\n                    Amen.\n",
+            "Attributed Title": "\nFestum Sancti Dunstani (f. 81v)",
+            "folio": "ff. 81v-84v"
+        }
+    }
+}

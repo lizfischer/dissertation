@@ -1,0 +1,45 @@
+{
+    "_id": 1282,
+    "_header": "Father and Son and Holy Ghost / That onefold God is aye steadfast",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "prologues",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Prologue of the Northern Homily Cycle \u2014 in couplets",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nFadir and sonne & haligaste\u00feat anefald god es aye\n                    stedfaste\u2026\n",
+            "Last Lines": "\n\u2026\u00feat it swa be sayle in wardelyePater noster . aue\n                    mary\n",
+            "folio": "ff. 1-2v"
+        },
+        "CULGg531": {
+            "First Lines": "\nFader and sone & \u00fee haligast\u00feat one fald god ay\n                    stedfast\u2026\n",
+            "Last Lines": "\n\u2026\u00feat it be swa says inwerdlyA pater noster and\n                        a\naue mary\n",
+            "Attributed Title": "\nprologus in exposiciones super dominicalibus per annum (f.\n                        5v); Explicit prologus (f. 7v)",
+            "folio": "ff. 5v-7v"
+        },
+        "BLAdd30358": {
+            "First Lines": "\nFAder & son & haligaste\u00deat anefald godd es ay\n                    stedfaste\u2026\n",
+            "Last Lines": "\n\u2026\u00deat it be so says inwardlyAn \u00feater noster Aue\n                    mary\n",
+            "folio": "ff. 1-3"
+        },
+        "BLAdd38010": {
+            "First Lines": "\n\u2026Swa qwaynt and trusty made \u00feu ittThat all bestes er rad\n                    for man\u2026\n",
+            "Last Lines": "\n\u2026That it so be sais inwardlyA pater noster and aue\n                    mary\n",
+            "Note": "\nThe first folio is torn, so the first lines are missing.",
+            "folio": "ff. 1-2v"
+        },
+        "EDCPCM": {
+            "First Lines": "\nffAder and sun and haligast\u00feat anfald God es ay\n                    stedfast\u2026\n",
+            "Last Lines": "\n\u2026\u00deat it be sua says inwardlyePater noster aue\n                    Marie\n",
+            "Note": "\nContinues same line as last, \u2018Pater noster & c[etera]\u2019\n                    (f. 16va)",
+            "Attributed Title": "\nExplicit prologus (f. 16vb)",
+            "Editions": "\n\nSmall,  John,\n                        ed.  \n             English Metrical Homilies\u2026.\n         Edinburgh: W. Paterson, 1862: 1-6.\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n\n",
+            "folio": "ff. 16ra-16va"
+        },
+        "Lam260": {
+            "First Lines": "\nFAdyr & sone & haly gast\u00deat one fald god es ay\n                    stedfast\u2026\n",
+            "Last Lines": "\n\u2026\u00feat it be so says wardlyPater noster &\n                    Mary\n",
+            "folio": "f. 1ra-1va"
+        }
+    }
+}

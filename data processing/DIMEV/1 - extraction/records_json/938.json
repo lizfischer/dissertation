@@ -1,0 +1,22 @@
+{
+    "_id": 938,
+    "_header": "By Herodes day the king a priest was of good life",
+    "Subjects": "Christ, birth of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Expanded Nativity, a revision of a portion of 6380 \u2014 897 long-line couplets",
+    "_witnesses": {
+        "Bod779": {
+            "First Lines": "\n\nOut of Sesar augostus \u00feer com a soche\n                    lym\u00deat was fram \u00fee emperour \u00feat hy\u021dt\n                    octauyan\u2026\n",
+            "Last Lines": "\n\u2026& \u00feus ende\u00fe \u00fee gospel amyd winter\n                    ny\u021dtnow crist vs sende helpe of soule \u00feat al may dele &\n                    dy\u021dt\n",
+            "Attributed Title": "\n\u00dee bir\u00fee of Ihesu crist",
+            "folio": "ff. 22-23v"
+        },
+        "BLEge1993": {
+            "First Lines": "\nBi eroudes day \u00fee king a prest was of god lif\u00feat Zakarie\n                    was ihote and elisabe\u00fe is wif\u2026\n",
+            "Last Lines": "\n\u2026Phelip hedde al iturie heroudes galileAnd lisanie abiline and\n                    pilatus Iude\n",
+            "Note": "\nFollows 4178 as if a\n                    continuation.",
+            "Editions": "\n\nHorstmann,  Carl. \n             Altenglische Legenden.\n         Paderborn: F. Schoningh, 1875: 81-109.\nPickering,   Oliver S. \n             \u201cThe Temporale Narratives of the South English Legendary.\u201d \n             Anglia\n         91 (1973): 425-55: 439.\n\n",
+            "folio": "ff. 30-40"
+        }
+    }
+}

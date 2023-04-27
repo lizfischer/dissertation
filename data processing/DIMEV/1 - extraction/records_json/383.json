@@ -1,0 +1,112 @@
+{
+    "_id": 383,
+    "_header": "All that willen of wisdom lere / Listen to me and ye shall hear",
+    "Title(s)": "Legend of Ipotis",
+    "Subjects": "legends; dialogues; catechisms, on science and biblical lore",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The \u2018Legend of Ipotis\u2019 \u2014 in couplets",
+    "_witnesses": {
+        "BodAsh61": {
+            "First Lines": "\nAll \u00feat wyll of wysdom lerelystyns to me & \u021de schall\n                    lereOf a tale of holy wryteSeynt Iohn \u00fee Apostyll wytnes ite\n                    \u2026\n",
+            "Last Lines": "\n\u2026Here endys \u00fee talkyngGod grante vs all hye\n                    blyssyng\n",
+            "Editions": "\nShuffleton,  George. \n             Ashmole 61: A Compilation of Popular Middle English Verse.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008: 221-32; 505-12; 610-11.\n",
+            "folio": "ff. 83-87v"
+        },
+        "BodAsh750": {
+            "First Lines": "\n[A]lle \u00feat welyn of wysdam lerLestyn to me and \u021de schal\n                    her\u2026\n",
+            "Last Lines": "\n\u2026\u00feus endyth \u00feis talkyngIhesu to hys blys vs\n                    bryng\n",
+            "Note": "\nAt end, \u2018Explicit hic totum pro Christo da mihi\n                    potum\u2019, by scribe.",
+            "Editions": "\nGruber,  Hugo. \n             Zu dem mittelenglischen Dialog Ipotis.\n         Berlin: Bernstein, 1887. \n",
+            "folio": "ff. 148-159"
+        },
+        "BodDou323": {
+            "First Lines": "\nAlle \u00feat will of wysdom lereHerkeneth to me and \u021de schal\n                    here\u2026\n",
+            "Last Lines": "\n\u2026And taketh \u00feat pouert stylleAnd \u00feanke\u00fe god al\n                    his wille\u2026\n",
+            "Note": "\nLines 1-495 only; ends imperfectly due to the loss of\n                    folios.",
+            "Editions": "\nGruber,  Hugo. \n             Zu dem mittelenglischen Dialog Ipotis.\n         Berlin: Bernstein, 1887. \n",
+            "folio": "ff. 160-167v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nAlle \u00feat wolle\u00fe of wisdom lereLustne\u00fe nou and\n                    \u021de may here\u2026\n",
+            "Last Lines": "\n\u2026God graunt vs alle his swete blessyngSchrift & hosel and\n                    good endyng Amen\n",
+            "Note": "\nLines 1-495 only; ends imperfectly due to the loss of\n                    folios.",
+            "Attributed Title": "\nYpotis (see 1947).",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             Altenglische Legenden: Neue Folge.\n         Heilbronn: Henninger, 1881: 341-8, 511-26.\n",
+            "folio": "ff. 296va2-297vc"
+        },
+        "BodEngPoetc3": {
+            "First Lines": "\nOn a friday wi\u021d milde modeGodes sone tok flesh and\n                    blode\u2026\n",
+            "Last Lines": "\n\u2026[ ]g hire we weren of bale on bounde[ ] blessed be \u00feat\n                    ilche stounde\n",
+            "Note": "\nFragment of 62 lines from same original MS as Oxford,  Bodleian Library Rawlinson Q.b.4 (SC 16032);\n                    damaged and partly unreadable.",
+            "folio": "ff. 1-1v"
+        },
+        "BodRawQb4": {
+            "First Lines": "\n[ ] an euel aungel [ ][ ] ansuerede wiz milde\n                    mod\u2026\n",
+            "Last Lines": "\n\u2026And louede god in alle wyseAnd leuede and [ ]de in his\n                    seruise\n",
+            "Note": "\nFragment of 12 lines, on a fragment of a folio, almost illegible; from\n                    same original MS as Oxford,  Bodleian Library Eng. poet. c.3 (SC 30516).",
+            "Editions": "\nSutton,  Josephine D. \n             \u201cHitherto Unprinted MSS. of the Middle English\n                \u2018Ipotis\u2019.\u201d \n             PMLA\n         31 (1916): 114-60: 114-53.\n",
+            "folio": "ff. 1-1v"
+        },
+        "CamStJohn29": {
+            "First Lines": "\n\u2026And sithe one of his rybbys gan he takeAnd made Eue ther of\n                    to bene his make\u2026\n",
+            "Last Lines": "\n\u2026And he wolde ones asken a lechehe schoulde be saued be hys\n                    speche\u2026\n",
+            "Note": "\nBegins and ends imperfectly.",
+            "Editions": "\nSutton,  Josephine D. \n             \u201cHitherto Unprinted MSS. of the Middle English\n                \u2018Ipotis\u2019.\u201d \n             PMLA\n         31 (1916): 114-60: 114-53.\n",
+            "folio": "ff. 1-4v"
+        },
+        "CamTCC61": {
+            "First Lines": "\nAlle \u00feat willen of wisdom lereLestne\u00fe to me & \u021de\n                    mowe hereOff a tale of holy writteSeint Iohn \u00fee wangelyst\n                    witnesse hit\u2026\n",
+            "Last Lines": "\n\u2026And graunt to vs \u00feat it so beeAnd sei\u00fe all \u021de\n                    amen amen for Charitee\n",
+            "Note": "\nMore than half of f. 97 cut out, with loss of text.",
+            "Attributed Title": "\nHere ende\u00fe the Booke off Ipotyse (f. 99rb)",
+            "Editions": "\n\nSutton,  Josephine D. \n             \u201cHitherto Unprinted MSS. of the Middle English\n                \u2018Ipotis\u2019.\u201d \n             PMLA\n         31 (1916): 114-60: 114-53.\nSuchier,  Walther. \n             L\u2019Enfant Sage.\nGesellschaft f\u00fcr romanische Literatur\n         24. Dresden, Halle: Niemeyer, 1910: 465-89.\n\n",
+            "folio": "ff. 95va-99rb"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nAlle \u00feat wolle\u00fe of wisdom lereLustne\u00fe nou and\n                    \u021de may here\u2026\n",
+            "Last Lines": "\n\u2026God graunte vs alle his swete blessyngSchrift and hosel and\n                    good endyng. Amen\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 87va-88va"
+        },
+        "BLAdd36983": {
+            "First Lines": "\nAll \u00feat wille of wysdom lereHerkene\u00fe to me & \u021de\n                    schulle her\u2026\n",
+            "Last Lines": "\n\u2026God leue \u00feat so mote weAmen Amen for charite\n",
+            "Attributed Title": "\nExplicit liber Ipotyse (f. 268rb)",
+            "Editions": "\n\nSutton,  Josephine D. \n             \u201cHitherto Unprinted MSS. of the Middle English\n                \u2018Ipotis\u2019.\u201d \n             PMLA\n         31 (1916): 114-60: 114-53.\nSuchier,  Walther. \n             L\u2019Enfant Sage.\nGesellschaft f\u00fcr romanische Literatur\n         24. Dresden, Halle: Niemeyer, 1910: 465-89.\n\n",
+            "folio": "ff. 264ra-268rb"
+        },
+        "BLAru140": {
+            "First Lines": "\nAlle that wolle wysdam herHerkenyth me now & \u021de may\n                    her\u2026\n",
+            "Last Lines": "\n\u2026Amen amen say we now alle\u00deat it mot so by\n                    falle\n",
+            "folio": "ff. 1-5"
+        },
+        "BlCottCalAII": {
+            "First Lines": "\nHe \u00feat wyll of wysdome lereherkeneth now & \u021de may\n                    hereOf a tale of holy wryte\u2026\n",
+            "Last Lines": "\n\u2026God \u021deue grace \u00feat so mote weSayth all amen for\n                    charyte\n",
+            "Note": "\n\u2018Explycit\u2019 by scribe at end, lower margin f.\n                    83ra.",
+            "Attributed Title": "\nYpotys (f. 79v, by scribe in upper margin, and as RT on verso\n                    leaves thereafter); Ypotis (f. 1, sixteenth-century list of contents)",
+            "Editions": "\nHorstmann,  Carl. \n             Altenglische Legenden: Neue Folge.\n         Heilbronn: Henninger, 1881: 341-8, 511-26.\n",
+            "folio": "ff. 79v-83ra"
+        },
+        "BLCottTitAXXVI": {
+            "First Lines": "\n\u2026And euery prynce had his partye The emperour sayde be hewyn\n                    kyng\u2026\n",
+            "Last Lines": "\n\u2026and serwy god in all wyseAnd here Endyth Epotyse\n",
+            "Note": "\nMissing lines 1-99.",
+            "folio": "ff. 163-172v"
+        },
+        "YorkMinXVIL12": {
+            "First Lines": "\nListenes to me and \u021de may heereall \u00feat wil of wiisdom\n                    leere\u2026\n",
+            "Last Lines": "\n\u2026Amen amen for chariteeGod graunt \u00feat it so mote\n                    be\n",
+            "Attributed Title": "\nExplicit ypotyse (f. 69v)",
+            "Editions": "\nGardiner-Scott,  Tanya. \n             \u201cThe Missing Link: An Edition of the Middle English \u2018Ypotis\u2019\n                from York Minster MS XVI.L.12.\u201d \n             Traditio\n         46 (1991): 235-59: 242-59.\n",
+            "folio": "ff. 58-69v"
+        },
+        "YaleBei365": {
+            "First Lines": "\nAll \u00feat wylle of wysdam lerelystyn to me and \u021de xall\n                    here\u2026\n",
+            "Last Lines": "\n\u2026Thus \u021dendyth the talkyngGod \u021dyffe vs all hys\n                    blyssyng\n",
+            "Editions": "\nSmith,  Lucy Toulmin,\n                        ed.  \n             A Commonplace Book of the Fifteenth Century.\n         Norwich: Kerrison, Goose, 1886: 20-46.\n",
+            "folio": "ff. 5-14v"
+        }
+    }
+}

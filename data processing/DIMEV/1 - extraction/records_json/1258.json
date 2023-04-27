@@ -1,0 +1,20 @@
+{
+    "_id": 1258,
+    "_header": "Far from thy kin cast thee",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 400; Ringler Jr. (1988)\nXRingler Jr., William A. Bibliography and Index of English Verse Printed 1476-1558. London: Mansell, 1988, TP 389.5.",
+    "Subjects": "aphorisms",
+    "Versification": "\u2014 four-line \u2014 aaaa",
+    "_description": "A moral saw \u2014 four monorhyming lines",
+    "_witnesses": {
+        "BLLan762": {
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.233.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 566.\n\n",
+            "folio": "f. 16v"
+        },
+        "BLIB49408": {
+            "Transcription": "\nFer fro thi kynsmen cast theWrath not thi neabors next theIn a\n                    good corn contry thress the& sit doune & rest the\n",
+            "Note": "\nIn a copy of \n            Petrus de Alliaco, Devotae Meditationes Circa Septem Psalmos Poenitentiales,\n            Bruges, Collard Mansion, 1480? ",
+            "Editions": "\nB\u00fchler,  Kurt. \n             \u201cMiddle English Apophthegms in a Caxton Volume: Libri impressi cum notis\n                manuscriptis X.\u201d \n             English Language Notes\n         1 (1963-64): 81-4: 83.\n",
+            "folio": "f. 34v"
+        }
+    }
+}

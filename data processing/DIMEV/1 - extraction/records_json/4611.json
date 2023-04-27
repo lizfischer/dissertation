@@ -1,0 +1,32 @@
+{
+    "_id": 4611,
+    "_header": "Saint Guthlac was I-bore here in England",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Guthlac, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Guthlac in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "Bod779": {
+            "First Lines": "\nSeint gutlac was a goodman Ibore here in ingelondeof his lif ich\n                    mot telle \u00feat ic ondirstonde\u2026\n",
+            "Last Lines": "\n\u2026& leue vs so to don here \u00fee whyle we be\u00fe\n                    alyue& to \u00fein oune eritage vs bring for \u00fey woundus\n                    fyue\n",
+            "Attributed Title": "\nSeint god lak (f. 163)",
+            "Editions": "\n\nForstmann,  Dr. H. von. \n             Sammelheft. Untersuchungen zur Guthlac-Legende.\nBonner Beitr\u00e4ge\n         12. Bonn: Hanstein, 1902: 23.\nBolton,  W. F.,\n                        ed.  \n             \u201cThe Middle English and Latin Poems of St. Guthlac.\u201d \n         Diss. Princeton, 1952; DA 15/11: 2201: 210.\n\n",
+            "folio": "ff. 163-164"
+        },
+        "CamCCC145": {
+            "First Lines": "\nSynt guthlak was ibore her in engelandeOf his lyf ich mot telle\n                    \u00feat ich vnderstonde\u2026\n",
+            "Last Lines": "\n\u2026Bidde we god of heuene vor his suete loue\u00feat he vs\n                    \u021deue \u00fee blisse \u00feat is in heuene a boue\n",
+            "Note": "\nWritten by a different hand than that which wrote rest of South\n                        English Legendary in this MS.",
+            "Editions": "\n\nBirch,  Walter de Gray. \n             Memorials of St. Guthlac of Crowland.\n         Wisbech: Leach and Son, 1881: xxix (lines 1-24), xxx (lines 105-24).\nForstmann,  Dr. H. von. \n             Sammelheft. Untersuchungen zur Guthlac-Legende.\nBonner Beitr\u00e4ge\n         12. Bonn: Hanstein, 1902: 22 (lines 1-24 from Birch).\nBolton,  W. F.,\n                        ed.  \n             \u201cThe Middle English and Latin Poems of St. Guthlac.\u201d \n         Diss. Princeton, 1952; DA 15/11: 2201: 221.\n\n",
+            "folio": "ff. 210v-213"
+        },
+        "BLCottJulDIX": {
+            "First Lines": "\nSEint gutlac was ibore here in englondeof his lif ich mot telle \u00feat ich vn\u00feerstonde\u2026\n",
+            "Last Lines": "\n\u2026& bure\u00fee him faire ynou as ri\u021dt was to dogod bring ous to \u00feilke ioie \u00feat his soule wente to\n",
+            "Note": "\n\u201cCapitulum Cii\u201d added to left margin by later hand (f. 297v).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Julius MS D IX.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Julius_D_IX. \n",
+            "Editions": "\n\nBirch,  Walter de Gray. \n             Memorials of St. Guthlac of Crowland.\n         Wisbech: Leach and Son, 1881: xxix (lines 1-24), xxx (lines 105-24).\nBolton,  W. F.,\n                        ed.  \n             \u201cThe Middle English and Latin Poems of St. Guthlac.\u201d \n         Diss. Princeton, 1952; DA 15/11: 2201: 184.\n\n",
+            "folio": "ff. 297v-301v"
+        }
+    }
+}

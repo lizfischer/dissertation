@@ -1,0 +1,24 @@
+{
+    "_id": 4717,
+    "_header": "Saint Matthew tells us",
+    "Note": "For texts of the Gospel (including this Narratio) see 4638.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Narratio: Mother of James and John, from the Northern Homily Cycle (Fifth Sunday after Easter), occurring separately",
+    "_witnesses": {
+        "BodSelSup52": {
+            "First Lines": "\nsant mathew tellys vs\u00feat on womman prayed\n                    Ihesus\u2026\n",
+            "Last Lines": "\n\u2026Our lord to \u00feat land vs lede& with \u00feat fud fyll\n                    & fede\n",
+            "Note": "\n47 lines.",
+            "folio": "ff. 201v-202"
+        },
+        "BLHar2391": {
+            "First Lines": "\nFor saynt mathew in hys gospell says vs\u00feat a woman prayed Ihesus\u2026\n",
+            "Last Lines": "\n\u2026Owr lord gode to \u00feat Ioy vs ledeAnd with \u00feat fode vs fyll & fede\n",
+            "Note": "\nEnds \u201cAmen.\u201d",
+            "Attributed Title": "\nDominica V post pasche (left margin, f. 191)",
+            "folio": "ff. 191-191v"
+        }
+    }
+}

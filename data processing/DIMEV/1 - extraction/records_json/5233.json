@@ -1,0 +1,16 @@
+{
+    "_id": 5233,
+    "_header": "The city is bound that should be free",
+    "Note": "Cf. 760.",
+    "Subjects": "Coventry; historical verse",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Rude verses on injustices in Coventry (1496) attached to a church door \u2014 twelve couplets",
+    "_witnesses": {
+        "CovLeet": {
+            "First Lines": "\nThis Cyte is bond that shuld be freThe right is holden fro \u00fee\n                    Communialte\u2026\n",
+            "Last Lines": "\n\u2026One may here be ano\u00feer \u00feat he shall not fyndebut ye\n                    shall here of sum o\u00feer what shalbe \u00fee ende\n",
+            "Editions": "\n\nHarris,  Mary Dormer,\n                        ed.  \n             The Coventry Leet Book.\n             4 vols. in 2 \n             EETS\n         o.s. 134-5, 138, 146 (1907-13); repr. 1971: 2.577-8.\nSharp,  Thomas. \n             Illustrative Papers on the History and Antiquities of Coventry.\n         Birmingham, 1871: 235-6.\nRobbins,  Rossell Hope,\n                        ed.  \n             Historical Poems of the XIV and XV Centuries.\n         New York: Columbia UP, 1959: 63-4.\nKendall,  P. M. \n             The Yorkist Age.\n         New York: W. W. Norton & Co., 1962: 110.\n\n",
+            "folio": "f. 278"
+        }
+    }
+}

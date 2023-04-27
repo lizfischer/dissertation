@@ -1,0 +1,41 @@
+{
+    "_id": 4594,
+    "_header": "Saint Fabian thirteen year pope was in Rome",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Fabian and Sebastian, saints, lives of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Lives of SS. Fabian and Sebastian (shorter version, 94 lines) in the South English Legendary \u2014 4 lines (Fabian) and 90 lines (Sebastian), in couplets",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nSEint ffabian \u00ferettene \u021der Pope was in RoomeHe\n                    tornde mony a lu\u00feer mon in to Cristendoome\u2026\n",
+            "Last Lines": "\n\u2026\u00deus \u00fee holy mon Sebastian his lyf Brouhte to\n                    endeAnd to \u00fee Ioye of heuene from pyne he gon wende\n",
+            "Note": "\n\u2018Pope\u2019 in the first line deleted by later hand.",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 10va-10vb"
+        },
+        "BodLauMis108": {
+            "First Lines": "\nSeint fabian \u00ferettene \u021der pope was was  In\n                    romeHe turnede mani men \u00feat lu\u00feere were into cristine\n                    dome\u2026\n",
+            "Last Lines": "\n\u2026\u00deus Seint Sebastian \u00fee holi man is lif brou\u021dte to\n                    endeAnd fram \u00fee pine of is liue to \u00fee blisse of heuene he gan i\n                    wende\n",
+            "Note": "\nThis version begins four lines later than usual, with \u2018Telle\n                    ichulle of \u00fee holi man Seint Sebastian\u2026\u2019, including the first\n                    four lines of this text at the end of 392.",
+            "Editions": "\n\nHorstmann,  Carl. \n             \u201cDie Legenden des ms. Laud 108.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         4 (1872): 395-414: 405.\nHorstmann,  Carl,\n                        ed.  \n             The Early South-English Legendary.\nEETS\n         o.s. 87 (1887; repr. 1987): 177-8.\n\n",
+            "folio": "ff. 88v-89v"
+        },
+        "CULAdd3039": {
+            "First Lines": "\nSayne ffabiane was Pape xiij \u021dere in rome& turnide many a\n                    wikked man vnto cristendomeDecnis \u00feat was prince of hethin folke\n                    \u00feenGart do him to Materdome \u00feerfore & many a cristen\n                    man\u2026\n",
+            "Last Lines": "\n\u2026& \u00feus \u00feis haly man Sebastian in materdom gan\n                    endeTo \u00feat blisse \u00feat he is in gode grante \u00feat we may\n                    wende\n",
+            "folio": "ff. 115v-116v"
+        },
+        "CamFitzMc128": {
+            "First Lines": "\nSAynt fabian xiij \u021der pope was in RomeAnd turned many a wykked\n                    man vnto cristendom\u2026\n",
+            "Last Lines": "\n\u2026And thus this holy man sebastian his lif in Ioie con endAnd\n                    wonnes euer in heven god grawnt vs thider to wend\n",
+            "Attributed Title": "\nSaynt fabian (RT)",
+            "folio": "ff. 42-43"
+        },
+        "Lam223": {
+            "First Lines": "\nSAynt ffabian xiij \u021dere Pope was in RomeAnd turned mony a\n                    wicked man vnto cristendome\u2026\n",
+            "Last Lines": "\n\u2026And \u00feus \u00feis holy mon Sebastian his lyf in ioye con\n                    endeAnd wones euer in heuen god graunt vs \u00feider to wende\n",
+            "Attributed Title": "\nSaynt ffabyan (RT)",
+            "folio": "ff. 53-54v"
+        }
+    }
+}

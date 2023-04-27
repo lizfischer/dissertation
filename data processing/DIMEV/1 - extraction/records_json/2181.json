@@ -1,0 +1,37 @@
+{
+    "_id": 2181,
+    "_header": "I have great wonder by this light",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "The Book of the Duchesse",
+    "Subjects": "dream poems; chess, game of; elegies; envoys",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Chaucer, The Book of the Duchesse \u2014 1334 lines in couplets",
+    "_witnesses": {
+        "Bod638": {
+            "First Lines": "\nI haue grete wondir be this lighthow that I leue for day ne\n                    nyght\u2026\n",
+            "Last Lines": "\n\u2026As I kan best & that AnoneThis was my sweuyn now it ys\n                    done\n",
+            "Note": "\nLacking lines 24-96.",
+            "Attributed Title": "\nThe boke of the Duchesse (f. 110v and RT); Explicit The\n                    Boke of the Duchesse (f. 141)",
+            "Facsimiles": "\nRobinson,  Pamela. \n             \u201cIntroduction.\u201d \n             Manuscript Bodley 638: A Facsimile.\n         Norman, OK: Pilgrim, and Woodbridge: Boydell and Brewer, 1982. \n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Odd Texts of the Minor Poems.\n             2 vols. \n             Chaucer Society\n         1st ser. 23, 60. London: Tr\u00fcbner, 1868, 1880; repr. New York and\n            London: Johnson, 1967. \n",
+            "folio": "ff. 110v-141"
+        },
+        "BodFair16": {
+            "First Lines": "\nI Have grete wonder be this lyghteHow that I lyve for day ne\n                    nyght\u2026\n",
+            "Last Lines": "\n\u2026As I kan best and that anoonThis was my sweuene now hit ys\n                    doon\n",
+            "Note": "\nFollowed by 3954 as its\n                    envoy.",
+            "Attributed Title": "\nThe booke of the Duchesse (f. 130) \u2026made by Geffrey Chawcyer at\n                    \u00fee request of \u00fee duck of lancastar pitously complaynynge the deathe of\n                    \u00fee sayd dutchesse blanche (added by John Stow, 16th century, f.\n                    130); Explicit the boke of the duchesse (f. 147v)",
+            "Facsimiles": "\nNorton-Smith,  John. \n             \u201cIntroduction.\u201d \n             Bodleian Library MS Fairfax 16.\n         London: Scolar Press, 1979. \n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             A One-Text Print of the Minor Poems.\n         2 pts. London: Tr\u00fcbner, 1871, 1880; repr. New York and London:\n            Johnson, 1967. \nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \nSkeat,  Walter William,\n                        ed.  \n             The Complete Works of Geoffrey Chaucer.\n         7 vols. Oxford: Clarendon, 1894-7: 1.277-322.\nRobinson,  F. N.,\n                        ed.  \n             The Works of Geoffrey Chaucer.\n         Oxford: Clarendon, 1933; 2nd ed. 1957: 316-29; 1957; 266-79.\nBenson,  Larry Dean,\n                        ed.  \n             The Riverside Chaucer.\n         3rd ed. Boston: Houghton Mifflin, 1987: 330-46.\n\n",
+            "folio": "ff. 130-147v"
+        },
+        "BodTan346": {
+            "First Lines": "\nI haue gret wondir be \u00feis li\u021dtehou \u00feat I lyve for\n                    day ne ny\u021dt\u2026\n",
+            "Last Lines": "\n\u2026[ ] best [ ]at a nonThe [ ] my sweuyn now hit is\n                    don\n",
+            "Note": "\nDamaged by damp.",
+            "Facsimiles": "\nRobinson,  Pamela. \n             \u201cIntroduction.\u201d \n             Manuscript Tanner 346: A Facsimile.\n         Norman, OK: Pilgrim, and Woodbridge: Boydell and Brewer, 1980. \n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \n",
+            "folio": "ff. 102-119v"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "_id": 2739,
+    "_header": "It is no right all other lusts to lose",
+    "Note": "Cf. 4138.",
+    "Title(s)": "\u2018Balade by Chaucer\u2019; \u2018Balade of a Reeve\u2019",
+    "Subjects": "erotic verse",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "\u2018Balade by Chaucer\u2019 on swiving \u2014 three stanzas rhyme royal",
+    "_witnesses": {
+        "BLHar7578": {
+            "First Lines": "\nIt is no Right all othr lustes to leseThis mery month of may for\n                    myssinge of on cas\u2026\n",
+            "Last Lines": "\n\u2026And ther in dompe as depe as man myght dyueThis holde I bette\n                    thanne laboure as a Reue\n",
+            "Editions": "\nBrusendorff,  Aage. \n             The Chaucer Tradition.\n         Copenhagen, 1925; repr. Oxford: Clarendon, 1967: 280-1.\n",
+            "folio": "ff. 15r2-15v"
+        },
+        "BLAdd16165": {
+            "First Lines": "\nHit is no right alle o\u00feer lustes to leese\u00feis mone\u00fee\n                    of May for missyng of one cas\u2026\n",
+            "Last Lines": "\n\u2026To fonde to dompe als deepe as man may dyeve\u00feus holde I\n                    bett \u00fean labour as a Reeve\n",
+            "Note": "\n\u2026by Chaucer (RT, f. 244v)",
+            "Attributed Title": "\nBalade by Chaucer (RT, f. 244v)",
+            "Editions": "\n\nFurnivall,  Frederick James. \n             \u201cBalade by Chaucer.\u201d \n             Atheneum\n         57 (Feb. 18, 1871): 34: 210 (st. 1, 2 only).\nFurnivall,  Frederick James. \n             Jyl of Breyntford\u2019s Testament and Other Poems.\n         London, 1871; privately circulated: 34-5.\nBrusendorff,  Aage. \n             The Chaucer Tradition.\n         Copenhagen, 1925; repr. Oxford: Clarendon, 1967: 280-1.\nHammond,  Eleanor Prescott. \n             \u201cOmissions from the Editions of Chaucer.\u201d \n             Modern Language Notes\n         19 (1904): 35-38: 38.\nBoffey,  Julia,  and  A. S. G. Edwards.  \n             \u201c\u2018Chaucer\u2019s Chronicle,\u2019 John Shirley, and the Canon of\n                Chaucer\u2019s Shorter Poems.\u201d \n             Studies in the Age of Chaucer\n         20 (1998): 201-18: 217.\n\n",
+            "folio": "ff. 244-244v"
+        }
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "_id": 6690,
+    "_header": "Will ye wit when and how the feast shall be y-held",
+    "Title(s)": "South English Legendary",
+    "Subjects": "Virgin Mary, life of; prologues",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Edinburgh, Royal College of Physicians, Edinburgh MS Cursor Mundi, Northern Homily Cycle , f. 14: entered in error under 104 in Brown and Robbins (1943)\nXCarleton Fairchild Brown, and Rossell Hope Robbins. The Index of Middle English Verse. New York: Printed for the Index Society by Columbia University Press, 1943.",
+    "_description": "The Vernon Life of Mary from the South English Legendary, beginning with a Prologue of 114 lines (formerly 104) \u2014 836 lines in couplets",
+    "_witnesses": {
+        "Bod779": {
+            "First Lines": "\nAlle \u021de wetyn whan & how \u00fee feste chal ben holdeof\n                    oure ladyes concepcioun as \u00fee boke vs tolde\u2026\n",
+            "Last Lines": "\n\u2026& \u00feus \u00feey come togedere \u00feat sondrid were so\n                    longIesus schelde vs from pyne of helle \u00feat is so stronge\n",
+            "Note": "\nIncludes what was formerly 104 as if part of\n                    same text, without heading or break.",
+            "Attributed Title": "\n\u00dee concepciun of oure ladi [upside-down] (f.\n                    244v)",
+            "folio": "ff. 244v-249"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nWElle \u021de wite whonne and hou \u00fee feste schal ben\n                    iholde\u00dee Concepcion of vr Ladi as a Maister me\n                    tolde\u2026\n",
+            "Last Lines": "\n\u2026Ion hire was a trewe feere and nolde nou\u021dt fro hire goHe\n                    loked hire as his ladi deore and what heo wolde hit was ido\n",
+            "Note": "\nIntroduced by 376.",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 6va-9rb"
+        },
+        "BLSto949": {
+            "First Lines": "\nWolle we witen whanne & whou \u00fee feste schal ben yholde\u00fee Concepcioun of vr lady as \u00fee bok vs tolde\u2026\n",
+            "Last Lines": "\n\u2026Alle \u00feat habbe\u00fe yherde of our leuedyis concepciounOf here synnes god hem \u021diue \u00feoru is grace Remissioun\n",
+            "Note": "\nPrologue only, separately",
+            "folio": "ff. 100v-102"
+        },
+        "Lam223": {
+            "First Lines": "\nWOle \u021de now wete when & how \u00fee fest shal be\n                    holde\u00dee concepcioun of our lady as \u00fee boke vs telles\n                    tolde\u2026\n",
+            "Last Lines": "\n\u2026Alle \u00feat han herde of our ladyes concepcionOf her synnes\n                    god hem graunte full remissioun Amen\n",
+            "Note": "\nPrologue only (114 lines), separately.",
+            "Attributed Title": "\nConcepcionus sancte Marie (RT)",
+            "folio": "ff. 31v-33"
+        }
+    }
+}

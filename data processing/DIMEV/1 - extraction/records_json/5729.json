@@ -1,0 +1,25 @@
+{
+    "_id": 5729,
+    "_header": "This little prose declareth in figure",
+    "Note": "18th-century transcript by Ainsworth [uncertain of which MS] is London, British Library Addit. 38179, f. 60v.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "Serpent of Division",
+    "Subjects": "envoys",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, the Envoy to Lydgate\u2019s prose Serpent of Division \u2014 three eight-line stanzas",
+    "_witnesses": {
+        "CamFitzMc182": {
+            "First Lines": "\nThis litill prose declarith in figureThe grete damage and\n                    distruccionThat whilome fill bi fatell auenturevn to Rome \u00fee\n                    my\u021dti riall towne\u2026\n",
+            "Last Lines": "\n\u2026Remembrynge ay in yowre discrecionVppon pompey and cesar\n                    Iulius\n",
+            "Note": "\n4 stanzas.",
+            "Editions": "\n\nAshburnham,  Bertram. \n             Catalogue of the Manuscripts at Ashburnham Place.\n             2 vols. plus Appendix volume. \n         London: C. F. Hodgson, [1849]-1864: Appendix, MS. 134.\nMacCracken,  Henry Noble,\n                        ed.  \n             The Serpent of Division.\n         Oxford: Clarendon, 1910: 66; repr. Cohen (1915)\nXCohen,  Helen Louise. \n             The Ballade.\n         New York: Columbia UP, 1915,\n                        256.\n\n",
+            "folio": "ff. 9v;  11"
+        },
+        "CamMagPep2006": {
+            "First Lines": "\nThis litill prose declareth in figurethe grete damage and\n                    destruccion\u2026\n",
+            "Last Lines": "\n\u2026remembryng ay in your descrecionOf Pompeie and Cesar\n                    Julius\n",
+            "Facsimiles": "\nEdwards,  A. S. G. \n             \u201cIntroduction.\u201d \n             Manuscript Pepys 2006: A Facsimile. Magdalen College,\n                Cambridge.\n         Norman, OK: Pilgrim, and [Woodbridge, Suffolk]: Boydell and Brewer,\n            1985. \n",
+            "folio": "p. 209a-209b"
+        }
+    }
+}

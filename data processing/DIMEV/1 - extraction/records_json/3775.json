@@ -1,0 +1,30 @@
+{
+    "_id": 3775,
+    "_header": "Now Jesu lord and well of all goodness",
+    "Subjects": "prayers, domestic",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "Macaronic": "Latin",
+    "Bibliographic Ghosts": "New York, Pierpont Morgan Library G9 [olim Berkeley], Art. 2: this MS all in Latin; leaves out ME verse in this Latin text.",
+    "_description": "\u2018A deuout prayer toward thy bedde at nyght\u2019 \u2014 six quatrains (abab)",
+    "_witnesses": {
+        "BodAsh61": {
+            "First Lines": "\nIhesus Lord well of All godnesffor thi grete pety I \u00fee\n                    prayffor gyffe me All my wykidnesWhere with I haue grenyd \u00fee to\n                    dey\u2026\n",
+            "Last Lines": "\n\u2026My body my soule I \u00fee be kenIn nomine patris &\n                        filij & spiritus sancti\n\n",
+            "Note": "\n23 lines.",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 194-5.\nShuffleton,  George. \n             Ashmole 61: A Compilation of Popular Middle English Verse.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008: 71-2; 452-4; 602.\n\n",
+            "folio": "f. 22"
+        },
+        "CamTCC601": {
+            "First Lines": "\nnow Ihesu lord welle of all goodnesffor \u00fey gret pyte I the\n                    pray\u2026\n",
+            "Last Lines": "\n\u2026In nomine patris & filiiEt spiritus sancti\n                    Amen\n",
+            "Attributed Author": "\nJohn Lydgate (f. 176rb, added by later hand)",
+            "Attributed Title": "\nA deuout prayer toward thy bedde at nyght (f. 276rb)",
+            "Editions": "\n\nMacCracken,  Henry Noble. \n             \u201cLydgatiana.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         130 (1913): 286-311: 304-5.\nPerry,  Aaron Jenkins,\n                        ed.  \n             John Trevisa: Dialogus inter Militem et Clericum, Richard\n                Fitzralph\u2019s \u2018Defensio Curatorum\u2019 and Methodius: \u2018\u00dee\n                Bygynnyng of \u00dee World and \u00dee Ende of Worldes\u2019.\nEETS\n         o.s. 16 (1925); repr. 1987: cxxx.\n\n",
+            "folio": "ff. 276rb-276va"
+        },
+        "PierpontG9": {
+            "Note": "\nNB: not found in this MS.",
+            "folio": "Art. 2"
+        }
+    }
+}

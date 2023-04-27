@@ -1,0 +1,102 @@
+{
+    "_id": 1867,
+    "_header": "He that in youth no virtue used / In age all honor him refused",
+    "Note": "See 513, 1866, 2988, 5530 (lines 3-4,TCC), 6137, and 6647; cf. Tilley (1950)\nXTilley, Morris Palmer. A Dictionary of the Proverbs in England in the 16th and 17th Centuries. Ann Arbor, MI: University of Michigan, 1950, Y 37; Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler ,TM 540.",
+    "Subjects": "proverbs",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A proverb \u2014 one couplet, here isolated, also found incorporated into longer texts",
+    "_witnesses": {
+        "BodAsh1146": {
+            "Transcription": "\nHe that in youth noe vertue will learnegoe like a lubber and throshe\n                    in the bearue\n",
+            "Note": "\nVariant.",
+            "folio": "f. 76v"
+        },
+        "Bod9": {
+            "Transcription": "\nWho \u00feat in \u021doute no vertue vse\u00feIn age al honour hym\n                    refuse\u00fe\n",
+            "Editions": "\nSchleich,  Gustav,\n                        ed.  \n             \u201cDie sprichw\u00f6rter Hendings und die Prouerbis of Wisdom.\u201d \n             Anglia\n         51 (1927): 220-77: 221.\n",
+            "folio": "f. 99"
+        },
+        "BodHat51": {
+            "Transcription": "\nHe that in yowthe no vert ssyll vsein age all honer will hym refuse\n",
+            "Note": "\nWritten early sixteenth century below ownership inscription of Harry Fawkener (see  2700.5, and fragment of this couplet written again on fol. 115rb, in left margin on fols. 168v and  179v.",
+            "folio": "f. 115rb"
+        },
+        "BodLauMis656": {
+            "Transcription": "\nhe that In yowught no vertu wytt vseIn age all honur wyll hem refuse\n                    & [ ]\n",
+            "Note": "\nCropped, probably ends \u2018& cetera\u2019.",
+            "folio": "f. 115rb"
+        },
+        "BodRawC86": {
+            "Transcription": "\nWho so in youthe no vertu vsithIn age all honour him\n                    refusith\n",
+            "Note": "\nFormerly listed as part of 6137.",
+            "folio": "f. 31r4"
+        },
+        "OxfBal354": {
+            "Transcription": "\nHe \u00feat in yowth no vertu will useIn age all honour shall\n                    Refuce\n",
+            "Note": "\nImmediately preceded by 2988.",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 225.\n",
+            "folio": "p. 4462"
+        },
+        "OxfTri49": {
+            "Note": "\nVariant.",
+            "Editions": "\n\nCoxe,  Henry Octavius. \n             Catalogus codicum mss. qui in collegiis aulisque\n                oxoniensibus\u2026.\n         Oxon: e Typographeo academico, 1852: 20, rpr. Robbins (1955)\nXRobbins,  Rossell Hope. \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955254.\nManly,  John Matthews,  and  Edith Rickert, eds.  \n             The Text of the Canterbury Tales studied on the basis of all known\n                manuscripts.\n         8 vols. Chicago: University of Chicago, 1940: 1.540.\n\n",
+            "folio": "f. 139v"
+        },
+        "CULFf530": {
+            "Transcription": "\nHe that in yought no vertu will vseIn age all honor will hem\n                    refuyse\n",
+            "Note": "\nSecond copy on this page; added end flyleaf, sixteenth-century\n                    hand.",
+            "folio": "f. 167"
+        },
+        "CULGg28": {
+            "Transcription": "\nhe that in yowthe no uertu wyll yowesin aege all honor shall hym\n                    refuse\n",
+            "Note": "\nUpside-down.",
+            "Editions": "\n\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 81, xxxxii.\nLuria,  Maxwell Sidney,  and  Richard L. Hoffman, eds.  \n             Middle English Lyrics.\n         New York: Norton, 1974: 121.\n\n",
+            "folio": "f. 2"
+        },
+        "CULKk15": {
+            "Transcription": "\n\nh quha \u00feat in \u021dewith n[ ] wssatIn old all honor\n                    [ ]\n",
+            "Note": "\nCropped right edge; added by later hand to lower margin.",
+            "folio": "Part V, f. 2"
+        },
+        "CamGon433": {
+            "Transcription": "\nHe that in yought no vertue will usein age all goodnes will hym\n                    refuse\n",
+            "Note": "\nFolio unnumbered: second vellum flyleaf.",
+            "folio": "f. ii"
+        },
+        "BLRoy17Dvi": {
+            "Transcription": "\nHe that in yowthe no vertu wyll vsein Age alle honer wylle hym refuse\u2026\n",
+            "Note": "\nAdded to back flyleaf.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Royal MS 17 D VI.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Royal_MS_17_D_VI. \n",
+            "folio": "f. 150v1"
+        },
+        "BLRoy17Dxviii": {
+            "Transcription": "\nHe that in yought to no vertew himselfe appliethIn age to amende him\n                    badd costome deniethe\n",
+            "Note": "\nSixteenth century.\n                    Added to lower\n                    margin after end of Hoccleve\u2019s Regiment of Princes (3581).",
+            "Editions": "\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 254.\n",
+            "folio": "f. 99v"
+        },
+        "DULCosViii9": {
+            "Transcription": "\nHe that in yowthe no vartwe well uesin age all honor will hym\n                    Refuse\n",
+            "Note": "\nAdded to top margin; followed by 512.5.",
+            "Facsimiles": "\nBurrow,  John,  and  A. I. Doyle, eds.  \n             Thomas Hoccleve: A Facsimile of the Autograph Verse\n                Manuscripts.\nEETS\n         s.s. 19 (2002). \n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.   Hoccleve\u2019s Works: The Minor Poems. vol. 1.  EETS\n         e.s. 61 (1892); repr. with Gollancz (1925)\nXGollancz,  Israel. \n             Hoccleve\u2019s Works: The Minor Poems. vol. 2.  EETS\n         e.s. 73 (1925); repr. with 61, 1970 73; rev. J.\n            Mitchell and A. Ian Doyle, 1970: 218.\n",
+            "folio": "f. 79"
+        },
+        "GULHun400": {
+            "Transcription": "\nIn youthe wha will nor vertu vsein Age all honor will hym\n                    Reffuse\n",
+            "Note": "\nAdded to front flyleaf \u2018c\u2019 verso.",
+            "folio": "f. cv"
+        },
+        "NottsULMeLm1": {
+            "Transcription": "\nWhoso in youthe no vertu vsethIn age al honour hym\n                    refuseth\n",
+            "folio": "f. 20rb"
+        },
+        "HunHM502": {
+            "Transcription": "\nHe that In youthe no vertu wyll UseIn age all honur wyll haym\n                    refues\n",
+            "Note": "\nWritten as prose; added after end, \u2018so be It\u2018; with\n                    signature above, \u2018John Wood\u2019.",
+            "Editions": "\n\nSchulz,  Herbert. C., Norma B. Cuthbert,   and  Nayd\u00e9e Noya.  \n             Ten Centuries of Manuscripts in the Huntington Library.\n         San Marino, CA: Huntington Library, 1962: 15-16.\nDutschke,  C. W. \n             Guide to Medieval and Renaissance Manuscripts in the Huntington\n                Library.\n         2 vols. San Marino, CA: Huntington Library, 1989: 1.238.\n\n",
+            "folio": "f. 34v"
+        }
+    }
+}

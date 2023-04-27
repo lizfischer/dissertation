@@ -1,0 +1,28 @@
+{
+    "_id": 5989,
+    "_header": "To love Thee sweet Jesu",
+    "Note": "Cf. 1604.",
+    "Author(s)": "Richard Rolle",
+    "Title(s)": "Meditations on the Passion",
+    "Subjects": "Christ, love toward",
+    "Versification": "\u2014 four-line \u2014 abbb",
+    "_description": "Rhyming lines in Richard Rolle\u2019s Meditations on the Passion, B Text \u2014 four lines",
+    "_witnesses": {
+        "BodeMus232": {
+            "Transcription": "\nto loue \u00fee swete ihesuis most medeful moste\n                    spedeful& most nedefulle\n",
+            "Editions": "\nAllen,  Hope Emily. \n             English Writings of Richard Rolle.\n         Oxford: Clarendon, 1931: 30.\n",
+            "folio": "f. 3v"
+        },
+        "CULAdd3042": {
+            "Transcription": "\nfor to loue \u00feee swete ihesumost needfulmoost\n                    meedful& moost spedeful\n",
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 1.94.\n",
+            "folio": "f. 43v"
+        },
+        "UppsalaC494": {
+            "Transcription": "\nTo loue \u00feee swete ihesuis most medefulmoste\n                    spedeful& most nedeful\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nLindkvist,  Harald. \n             Richard Rolle\u2019s Meditatio de passione Domini according to\n                ms.\nSkrifter utgifna af Humanistika Veternskaps\n         19. Uppsala: Akademiska bokhandeln, 1917. \n",
+            "folio": "f. 5v"
+        }
+    }
+}

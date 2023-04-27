@@ -1,0 +1,139 @@
+{
+    "_id": 6321,
+    "_header": "When I advertise in my remembrance / And see how fell",
+    "Note": "For Burgh\u2019s \u2018Cato Major\u2019 see 1418",
+    "Author(s)": "Benedict Burgh",
+    "Title(s)": "Parvus Cato (Burgh)",
+    "Subjects": "envoys; advice, moral",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "Macaronic": "Latin",
+    "Bibliographic Ghosts": "Oxford, Bodleian Library Eng. theol. e.15 (from Hamer (1995)\nXHamer, Richard. A Manuscript Index to the Index of Middle English Verse. London: British Library, 1995); see Oxford, Bodleian Library Eng. poet. e.15 (SC 32401); STC4853",
+    "_description": "Benedict Burgh, \u2018Parvus Cato\u2019 \u2014 1185 lines in rhyme royal stanzas and one 8-line Envoy",
+    "_witnesses": {
+        "BodEngPoete15": {
+            "First Lines": "\nWhan I aduerte in my remembraunceand se hou feel folke erren\n                    greuously\u2026\n",
+            "Last Lines": "\n\u2026Whan ye it rede lete not your hert be thensDoth as he saith\n                    with al your hool entent\n",
+            "folio": "ff. 5-6v"
+        },
+        "BodRawD328": {
+            "First Lines": "\nWhen y adverte yn my remembransAnd see how folke erryt\n                    grevusly\u2026\n",
+            "Last Lines": "\n\u2026When ye hyt rede lette not yowre hert be \u00feensdoyth as he\n                    sayyth with al ys hole entente\n",
+            "Note": "\nWith the usual Latin texts preceding first six stanzas",
+            "folio": "ff. 161-162"
+        },
+        "CULEe431": {
+            "First Lines": "\nwhenne I advertice in my remembraunceAnd see how fele folke erryn\n                    greuously\n",
+            "Last Lines": "\nwho so haue done the goode haue in remembraunceLove euery wyght and\n                    that schall the avaunce\n",
+            "Note": "\nWith Latin above the first two stanzas and to the right of the third\n                    through the sixth, beginning above the first: \u2018Cvm animauerterem quam\n                    plurimos homines grauiter errare\u2026\u2019",
+            "folio": "ff. 7-7v"
+        },
+        "CULFf49": {
+            "First Lines": "\nWhan I adu[er]tese to my remenbrauunceAnd see how fele folke erryn\n                    grevously\n",
+            "Last Lines": "\nWhan ye it rede lete not your hert be thencedothe as \u00feis saythe\n                    w[i]t[h] all yo[ur] hole ententExplicit\n",
+            "Note": "\nLatin prose texts precede each stanza, beginning \u2018Cum anima\n                    adu[er]tere[m]\u2026\u2019 on f. 87v.",
+            "folio": "ff. 87v-88v"
+        },
+        "CULHh412": {
+            "First Lines": "\nWhan I aduertyse in my remembranceAnd see how feele folk erre\n                    greuously\u2026\n",
+            "Last Lines": "\nWhan \u021de it rede lat not \u021dowr hert be thensdoth as thys\n                    saith w[i]t[h] all \u021dowr hoole entent\n",
+            "Note": "\nLatin preceding each first 6 stanzas, the first beginning \u2018Cvm\n                    a[n]i[m]aduertere[m] q[ui]a plurimos ho[m]i[n]es in via mor[um] graueter errare\n                    opinioni eorum fore me\u2026\u2019",
+            "Attributed Author": "\n\u2018Explicit Liber parui Catonis\u2019 on f. 30",
+            "Attributed Title": "\n\u2018Explicit Liber parui Catonis\u2019 on f. 30",
+            "Editions": "\nF\u00f6rster,  Max. \n             \u201cDie Burghsche Cato-Paraphrase.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         115 (1905): 298-323; 116 (1906): 25-40: 303-4.\n",
+            "folio": "ff. 28v-30"
+        },
+        "CamMagPep2006": {
+            "First Lines": "\nwhan I adu[er]tyse my remenbraunceand see how fele erren\n                    grevouslyIn \u00fee wey\u2026\n",
+            "Last Lines": "\nwhen ye it rede lat not yo[ur] hert be thenceDoth as he seith wyth\n                    alle yo[ur] hole en tente\n",
+            "Note": "\nLatin text to the right of the first six stanzas",
+            "Attributed Author": "\n\u2018Incipit cato\u2019 added by another(?) contemporary\n                    hand",
+            "Facsimiles": "\nEdwards,  A. S. G. \n             \u201cIntroduction.\u201d \n             Manuscript Pepys 2006: A Facsimile. Magdalen College,\n                Cambridge.\n         Norman, OK: Pilgrim, and [Woodbridge, Suffolk]: Boydell and Brewer,\n            1985. \n",
+            "folio": "pp. 211-212"
+        },
+        "BLAdd38179": {
+            "First Lines": "\nWhen I advertyse my Remembraunce and seeHow fele erren\n                    greivously\u2026\n",
+            "Last Lines": "\n\u2026Whan ye it rede let not your hert be thensDoth as he seith\n                    wyth all yowr hole entente\n",
+            "Attributed Title": "\nSome Fragments of Cato Translated (f. 20)",
+            "folio": "ff. 20-20v"
+        },
+        "BLAru168": {
+            "First Lines": "\nWhen y me aduertyse in my rememberaunceAnd how fele folk erren\n                    greuously\u2026\n",
+            "Last Lines": "\n\u2026When ye it rede late your mynde be \u00feenceDoth as it saye\n                    with all your hole entent\n",
+            "Attributed Title": "\nExplicit paruus hic Cato (f. 7rb)",
+            "folio": "f. 7ra-7rb"
+        },
+        "BLHar116": {
+            "First Lines": "\nWhan I aduertise in my remembraunceAnd se how feel folke erroun\n                    greuously\u2026\n",
+            "Last Lines": "\n\u2026Whan ye it rede lat not your witte be thenseDo as he saith\n                    with alle youre herte intente\n",
+            "Note": "\nEach stanza preceded by Latin prose of same content, beginning f. 98,\n                        \u2018Cum animaduerterem quam plurimes homines grauiter errare in viam\n                        morum\u2026\u2019",
+            "folio": "ff. 98-99"
+        },
+        "BLHar271": {
+            "First Lines": "\nWhan I advertyse in my remembraunceAnd se how fell folke erren\n                    greuovsly\u2026\n",
+            "Last Lines": "\n\u2026Who hath done the good haue in remembravnceloue euery\n                    wy\u021dt & \u00feat schall the avawnce\n",
+            "Note": "\nFollowed immediately by 1418.",
+            "folio": "ff. 26-26v"
+        },
+        "BLHar2251": {
+            "First Lines": "\nWhanne I aduerte to my remembraunceAnd see how feele folkis erren\n                    greuously\u2026\n",
+            "Last Lines": "\n\u2026Whanne ye it Rede late nat youre hert be thensBut doth as\n                    this sayth with al youre hole entent\n",
+            "Attributed Title": "\nExplicit Cato in minori (f. 169v)",
+            "folio": "ff. 169-169v"
+        },
+        "BLHar4733": {
+            "First Lines": "\nWhan y aduertyse in my remembraunceAnd See how feele folk erroun greuously\u2026\n",
+            "Last Lines": "\n\u2026Who hath done the good haue in remembraunceloue Euery why\u021dt And this shall the a vaunce\n",
+            "Note": "\nPreceded by Latin prose text before each section, in rubric; the first begins \u201cCum anima aduerterem\u201d; ends \u201cExplicit.\u201d",
+            "folio": "ff. 3-3v"
+        },
+        "BLHar7333": {
+            "First Lines": "\nWhen I aduertise in my remembraynceAnd se how fele folke erren\n                    greuously\n",
+            "Last Lines": "\nWhan ye hit rede let not your hert bethensDoth as he seith with all\n                    youre hole entent\n",
+            "Attributed Title": "\nExplicit [?primus] Cato (f. 25ra, rubric)",
+            "folio": "f. 25ra"
+        },
+        "NLWPen481": {
+            "folio": "f. 1"
+        },
+        "DULCosVii14": {
+            "First Lines": "\nWhan I au[er]tise in my remembrau[n]ceAnd se how foele folke erren\n                    grevously\n",
+            "Last Lines": "\nWho hathe [worn] the goode haue in remembrau[n]ceLoue eu[er]y wyght\n                    and this shal the avaunce\n",
+            "Note": "\nLatin text in rubric above each stanza, beginning \u2018Cvm\n                    animadu[er]terem q[ua]m pl[ur]imos ho[m]i[n]es g[ra]uit[er] errare in via\n                    moru[m]\u2026\u2019",
+            "folio": "f. 69-70"
+        },
+        "GULHun259": {
+            "First Lines": "\nWhan I aduerte in my remembraunceAnd se hou fele folke erren\n                    greuously\u2026\n",
+            "Last Lines": "\n\u2026Whan ye it rede lete not your herte be thennesDoth as he\n                    saith with al your hool entent\n",
+            "Note": "\nPreceded by the Latin prose beginning, \u2018Cum animaduerterem quam\n                    plurimos homines\u2026\u2019",
+            "folio": "pp. 1-3"
+        },
+        "Chetham8009": {
+            "First Lines": "\nWhan I aduertice my RemembraunceAnd se how felle folke erren\n                    greuouslyIn the way of vertuus gouernaunceI haue supposed in my selffe\n                    that I\n",
+            "Last Lines": "\nwhan ye it reed lat not yo[ur] witte be thensDoth as ye saith with\n                    all yo[ur] holle ententExplicit\n",
+            "Note": "\nWith the Latin prose from which each stanza is translated written in\n                    rubric before the stanza, beginning \u2018cum a[n]i[m]a aduerterem q[ua]m\n                    plurimes ho[m]i[n]es\u2026\u2019",
+            "folio": "ff. 48-49"
+        },
+        "Lam3597": {
+            "folio": "ff. 89vb-95"
+        },
+        "PierpontM775": {
+            "First Lines": "\nWhan I advertise in my remembraunceAnd see how felle folkle erren\n                    greuosly\u2026\n",
+            "Last Lines": "\n\u2026Whan ye it rede lat nat \u021doure hert be thenceDooth as he\n                    seyth with alle ys hoole entente\n",
+            "Note": "\n7 x RR; each stanza preceded by Latin",
+            "folio": "ff. 293-294"
+        },
+        "HunHM144": {
+            "First Lines": "\nWhan I aduerte to my remembraunceAnd see how fele folkes erren\n                    greuously\u2026\n",
+            "Last Lines": "\n\u2026Whanne ye it rede let not your hert be thenseBut doth as this\n                    saith with all your hole entente\n",
+            "Note": "\nIncludes usual Latin headings",
+            "Attributed Title": "\nHic Incipit Paruus Catho (f. 114); Hic finis parui Cathonis\n                    (f. 14v)",
+            "folio": "ff. 114-114v"
+        },
+        "GottingenPhil163": {
+            "folio": "ff. 1v-84"
+        },
+        "RomeEC1306": {
+            "folio": "f. 89"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "_id": 4074,
+    "_header": "O thou joyful light eternal ye shine",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Regina celi letare\u2019",
+    "Subjects": "Virgin Mary, hymns to; hymns, to Virgin Mary",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "Macaronic": "Latin",
+    "_description": "John Lydgate, \u2018Regina celi letare\u2019 \u2014 five rhyme royal stanzas, each with an additional line in Latin",
+    "_witnesses": {
+        "CamTCC601": {
+            "First Lines": "\no thow ioyfull lyght eternall ye shyneIn glory with laureat\n                    coronallDescendyd from Dauid Worthiest on lyueModyr to youre\n                    souereynes and lord imperyall\u2026\n",
+            "Last Lines": "\n\u2026Banysshyd ys owre sorow and aduersiteDicamus omnes\n                        Alleluya\n\n",
+            "Attributed Author": "\nLydgate (added by sixteenth-century hand, f. 233v)",
+            "folio": "ff. 233v-234"
+        },
+        "BLHar2251": {
+            "First Lines": "\nO thou Ioieful light eterne ye shyneIn glory with laureat\n                    coronall\u2026\n",
+            "Last Lines": "\n\u2026Of thi blissed modir mayden mariaBanysshed is oure sorw and\n                    aduersiteDicamus omnes alleluyA\n",
+            "folio": "ff. 35v-36"
+        }
+    }
+}

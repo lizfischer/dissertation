@@ -1,0 +1,49 @@
+{
+    "_id": 5660,
+    "_header": "This book is one and Gods curse is another",
+    "Subjects": "bookplates",
+    "Versification": "\u2014 four-line",
+    "_description": "A common medieval bookplate \u2014 one couplet",
+    "_witnesses": {
+        "OxfStJohn76": {
+            "Transcription": "\nThys boke ys on crystys curs ys A nodyrHe that sstellyth the ton I\n                    pray good send hym \u00fee todyrquod Iohannes Wryghtson\n",
+            "Note": "\nOne couplet.",
+            "Attributed Author": "\nquod Iohannes Wryghtson (f. 5v)",
+            "Editions": "\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 85.\n",
+            "folio": "f. 5v"
+        },
+        "BLAdd30506": {
+            "Transcription": "\nThis boke ys one & christ curse a no\u00feerhe \u00feat take \u00fee one take \u00fee o\u00feer \n",
+            "folio": "f. 169"
+        },
+        "BLHar1251": {
+            "Transcription": "\nthys boke ys one and godes kors ys anoderthey that take the ton god gef them the toder\n",
+            "Note": "\nAdded to front flyleaf.",
+            "Editions": "\n\nWanley,  Humphrey. \n             A Catalogue of the Harleian Manuscripts in the British Museum.\n         4 vols. London: Eyre and Strahan, 1808-12; ed. Wanley et al: 1.635.\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 2.163.\nBennett,  Henry Stanley. \n             England from Chaucer to Caxton.\n         London: Methuen, 1928: 161.\nCoulton,  George Gordon. \n             Life in the Middle Ages.\n         Cambridge: at the UP, 1931, and New York: Macmillan, 1931: 2.118 (modernized).\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 563-4.\n\n",
+            "folio": "f. 1"
+        },
+        "BLHar2320": {
+            "Transcription": "\nThys Booke is owne thyng & godis Covrys is AnothereHe that Stelys the owne thyng I pray god send heme the othere\n",
+            "Note": "\nAdded to flyleaf by a later hand.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 2320.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_2320. \n",
+            "Editions": "\nWordsworth,  Charles,  and  Henry Littlehales.  \n             The Old Service Books of the English Church.\n         London: 1904: 60.\n",
+            "folio": "f. 72v"
+        },
+        "VandAReid44": {
+            "Transcription": "\nThis boke ys oon the curse of crist ys a nothirHe that stelith thoon\n                    shall haue the othir\n",
+            "Note": "\nHamer (1995)\nXHamer,  Richard. \n             A Manuscript Index to the Index of Middle English Verse.\n         London: British Library, 1995 notes, \u2018not found\u2019. Transcription\n                    from the Burlington Magazine 1 (Mar-May 190).",
+            "Editions": "\n \n             \u201cNew Acquisitions at the National Museums: Victoria And Albert Museum:\n                The Reid Gift\u2014I.\u201d \n             Burlington Magazine\n         1 (Mar-May 1903): 389-90 plus plate facing 389: 390.\n",
+            "folio": ""
+        },
+        "Tiverton": {
+            "Note": "\nHamer (1995)\nXHamer,  Richard. \n             A Manuscript Index to the Index of Middle English Verse.\n         London: British Library, 1995 lists as unidentified, missing or\n                    destroyed.",
+            "Editions": "\nLittlehales,  Henry,\n                        ed.  \n             The Prymer or Lay Folks\u2019 Prayer Book.\nEETS\n         o.s. 105 (1895); 109 (1897); repr. as one volume, 1973: 1.\n",
+            "folio": ""
+        },
+        "HunHM140": {
+            "Transcription": "\nThys Boke hys whon & crystes cors hys a nodorhe that steles they\n                    boke thake they thodor\n",
+            "Editions": "\nManly,  John Matthews. \n             Specimens of the Pre-Shakspearean Drama.\n         2 vols. Boston: Ginn, 1897: 1.436.\n",
+            "folio": "f. 170v"
+        }
+    }
+}

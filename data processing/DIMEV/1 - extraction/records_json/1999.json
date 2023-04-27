@@ -1,0 +1,17 @@
+{
+    "_id": 1999,
+    "_header": "Here lieth the fresh flower of Plantagenet",
+    "Note": "Following 4118 and a Latin version.",
+    "Subjects": "epitaphs; Elizabeth of York, queen",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Epitaph on Queen Elizabeth, wife of Henry VII \u2014 nine couplets",
+    "_witnesses": {
+        "OxfBal354": {
+            "First Lines": "\nHere lith the fresshe flowr of PlantagenetHere lith the white rose\n                    in the rede sete\u2026\n",
+            "Last Lines": "\n\u2026God grant her now hevyn to encrese& owr kyng Harry long\n                    lyff & peaseExplicit\n",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 188.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 99.\nCampbell,  William Edward,\n                        ed.  \n             The English Works of Sir Thomas More.\n         London: Eyre and Spottiswoode, 1927: 312.\n\n",
+            "folio": "p. 373"
+        }
+    }
+}

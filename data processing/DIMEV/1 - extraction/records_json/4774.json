@@ -1,0 +1,30 @@
+{
+    "_id": 4774,
+    "_header": "Saluator mundi domine",
+    "Subjects": "carols, Nativity",
+    "Versification": "\u2014 four-line \u2014 aaab",
+    "Macaronic": "Latin",
+    "_description": "A macaronic Christmas carol \u2014 five quatrains (aaab) and burden: \u2018Alleluya Alleluya deo patri sit gloria\u2019",
+    "_witnesses": {
+        "BodAsh189": {
+            "First Lines": "\n\nSaluator mundi domineFader of heuene yblessyd \u00feou\n                    be\u2026\n",
+            "Last Lines": "\n\u2026Ioy & & [sic] blysse A mong vs beFor att thys tyme\n                    borne ys he\n",
+            "Editions": "\n\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 54-5; 1977, 45-6.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 117.\nOliver,  Raymond. \n             Poems Without Names: The English Lyric 1200-1500.\n         Berkeley, CA: University of California, 1970: 20.\n\n",
+            "folio": "f. 107"
+        },
+        "BodEngPoete1": {
+            "First Lines": "\n\nSaluator mundi dominefader of hevyn blessyd \u00feou\n                    be\u2026\n",
+            "Last Lines": "\n\u2026Worshepe \u00feat chyld so frede virgine\n                    maria\n\n",
+            "Note": "\nFour stanzas only, with De virgine maria refrain.",
+            "Editions": "\n\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 54-5; 1977, 46.\nWright,  Thomas,\n                        ed.  \n             Songs and Carols from a manuscript\u2026of the Fifteenth\n                Century.\nPercy Society\n         23. London: Richards, 1847: 18-19.\nRickert,  Edith,\n                        ed.  \n             Ancient English Christmas Carols.\n         London: Chatto & Windus, 1910: 179.\n\n",
+            "folio": "f. 20"
+        },
+        "BLSl2593": {
+            "First Lines": "\n\nSaluator mundi domineFader of heuene blyssid \u00feu\n                    be\u2026\n",
+            "Last Lines": "\n\u2026Blyssid mot \u00feey alle beDeo patri sit\n                    gloria\n\n",
+            "Note": "\nFour stanzas only, with De virgine maria refrain.",
+            "Editions": "\n\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 54-5; 1977, 45.\nWright,  Thomas,\n                        ed.  \n             Songs and Carols.\nWarton Club\n         4. London: Richards, 1856: 28.\nWright,  Thomas,\n                        ed.  \n             Songs and Carols.\nWarton Club\n         4. London: Richards, 1856: 49-50.\nRickert,  Edith,\n                        ed.  \n             Ancient English Christmas Carols.\n         London: Chatto & Windus, 1910: 178.\nStevens,  John,\n                        ed.  \n             Music and Poetry in the Early Tudor Court.\n         London: Methuen, 1961: 51.\n\n",
+            "folio": "ff. 9v-10"
+        }
+    }
+}

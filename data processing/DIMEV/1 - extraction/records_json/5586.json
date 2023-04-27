@@ -1,0 +1,27 @@
+{
+    "_id": 5586,
+    "_header": "There men might well see",
+    "Subjects": "historical poems; Halidon Hill, battle of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Battle of Halidon Hill, an extract inserted in a prose chronicle \u2014 12 couplets",
+    "_witnesses": {
+        "BLHar4690": {
+            "First Lines": "\nThere men mighte well seeMany a skotte lightely\n                    fflee\u2026\n",
+            "Last Lines": "\n\u2026Butt Godde \u00featte is heven kingSende vs peas and Gode\n                    Ending\n",
+            "Note": "\n64 lines.",
+            "Editions": "\n\nRitson,  Joseph,\n                        ed.  \n             Poems, written anno-MCCLII (Minot).\n         London: Burn, 1825: 62-4.\nHall,  Joseph. \n             The Poems of Laurence Minot.\n         Oxford: Clarendon, 1887; rev. ed., 1914: 95-7.\nHall,  Joseph. \n             The Poems of Laurence Minot.\n         Oxford: Clarendon, 1887; rev. ed., 1914: 101-3.\nBrie,  Friedrich,\n                        ed.  \n             The Brut, or the Chronicles of England.\nEETS\n         o.s. 131 (1906), 136 (1908); repr. 1987: 1.287-9.\n\n",
+            "folio": "ff. 82vb-83rb"
+        },
+        "CollArmsAr58": {
+            "Note": "\n24 lines.",
+            "Editions": "\n\nHearne,  Thomas,\n                        ed.  \n             Robert of Gloucester\u2019s Chronicle.\n         Oxford: at the Theatre, 1724; repr. 1810: 1.lxxxiii4.\nBrie,  Friedrich,\n                        ed.  \n             The Brut, or the Chronicles of England.\nEETS\n         o.s. 131 (1906), 136 (1908); repr. 1987: 1.287-9.\n\n",
+            "folio": "f. 334v"
+        },
+        "CamMagPep2833": {
+            "First Lines": "\nThere than men myght seMany a Scott swiftly fle\u2026\n",
+            "Last Lines": "\nAnd thus the Scotts discomfityd wereIn lytel tyme with gret\n                    fere\n",
+            "Note": "\nTranscript of London,  College of Arms, HDN 58 58 [olim Arundel 58], fol.\n                    334v.",
+            "folio": "f. 518rb"
+        }
+    }
+}

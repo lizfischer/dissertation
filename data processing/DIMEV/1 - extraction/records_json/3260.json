@@ -1,0 +1,32 @@
+{
+    "_id": 3260,
+    "_header": "Loss of goods grieveth me sore",
+    "Subjects": "aphorisms",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Time lost is never recovered \u2014 four lines",
+    "_witnesses": {
+        "Bod840": {
+            "Transcription": "\nLosse of goodes me ruefes sorebut losse of dayes is much more re\n                    storing of goodes is often senebut losse of dayes comes neuer\n                    agayne\n",
+            "folio": "f. 164"
+        },
+        "OxfBal316B": {
+            "Transcription": "\nLos of goodes greveth me full sorbut loss of good grevethe me mase\n                    morRecovery of goodes es often tymes synand soo es the tyme never\n                    Recovered a\u021den\n",
+            "Note": "\nAdded to right margin by a later hand of the fifteenth or sixteenth\n                    century.",
+            "Editions": "\nMynors,  Roger Aubrey Baskerville,\n                        ed.  \n             Catalogue of Manuscripts in Balliol College Library.\n         Oxford: Clarendon, 1962: 334.\n",
+            "folio": "f. 82"
+        },
+        "BLCottTitAXXVI": {
+            "Transcription": "\nLosse of good men Rewe forBut losse of tyme is moche\n                    moreRecouery of godys is often seyneBut lose of tyme Comys neuyr A\n                    gayne\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 173v"
+        },
+        "BLSl513": {
+            "folio": "f. 136"
+        },
+        "TCD159": {
+            "Transcription": "\nLosse [cropped, bottom of page]but losse tym grreves me moreffor\n                    lose of goodes thy wyll restorebut Lose of tym comethe no more\n",
+            "Note": "\nAdded by a sixteenth-century hand, upside-down in lower\n                    margin.",
+            "folio": "f. 156"
+        }
+    }
+}

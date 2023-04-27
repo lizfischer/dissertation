@@ -1,0 +1,71 @@
+{
+    "_id": 6820,
+    "_header": "Ye folks all which have devocion",
+    "Note": "Cf. 6819",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "Interpretacio Misse",
+    "Subjects": "religious observance; envoys; mass, virtues of",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, \u2018Virtues of the Mass\u2019 \u2014 83 8-line stanzas (ababbcbc), including envoy",
+    "_witnesses": {
+        "BodHat73": {
+            "First Lines": "\nYe folkys alle that haue deuocion To here masse first doth your\n                    besy cure \n",
+            "Last Lines": "\nGraunte or y dye crist for thi passion Y may resteyve this breed\n                    sent doun from heuen \n",
+            "Note": "\nLines 1-376",
+            "folio": "ff. 4-9v"
+        },
+        "BodLauMis683": {
+            "First Lines": "\nYhe folkes alle whiche han deuociouneTo here\n                    messe\u2026\n",
+            "Note": "\nLines 321-60 only: \u2018A praier to the hooly\n                    Sacrament\u2019.",
+            "Attributed Title": "\nHEre is a praier of the hooly sacrament (f. 30v)",
+            "folio": "ff. 30v-31v"
+        },
+        "OxfBal354": {
+            "First Lines": "\nO ye folkes all which haue devocounTo here masse first doth your\n                    besy cureWith all your inward contemplacounAs in a merour presentyng\n                    in figure\u2026\n",
+            "Last Lines": "\n\u2026Thyn auctor symple thorowgh affeccounHe may well pray them\n                    \u00feat shall the redeWith goodly support d to do\n                    correccounThe to refowrm wher as they se nede\n",
+            "Attributed Title": "\nPrologus of the masse (p. 317); Explicit prologus (p. 317)",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "folio": "pp. 317-333"
+        },
+        "OxfStJohn56": {
+            "folio": "ff. 75v"
+        },
+        "CamGon174": {
+            "First Lines": "\n\u2026That day a man devoutly heryth masseWhyle he ys present he\n                    schall not wexen olde\u2026\n",
+            "Last Lines": "\n\u2026Wyth godely support to do correctionThe to reforme where as\n                    they se nede\n",
+            "Note": "\nlines 593-664 only due to missing quires preceding p. 451; but includes\n                    one-stanza envoy; in 8-line stanzas, ababbcbc.",
+            "folio": "pp. 451-453"
+        },
+        "CamTCC601": {
+            "First Lines": "\nyE folkys all whyche haue deuocioun To here musse furst do your\n                    besy cure With all your inward contemplacion As in a myrrour\n                    presentyng in figure\u2026\n",
+            "Last Lines": "\n\u2026With goodly support to do correccion Thee to reforme where as\n                    they se nede\n",
+            "Attributed Author": "\nLydgate (added by later hand, f. 205v); John Lydgate (added by\n                    later hand after explicit , f. 214, and at sub-headings throughout, ff.\n                        206v, 207v, etc.)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 86-115.\n",
+            "folio": "ff. 205v-214"
+        },
+        "BLAdd31042": {
+            "First Lines": "\n\u2026Iudica me deus with hole hert and EntereTheire constyence purge fro \u2026e synnes seuene\u2026\n",
+            "Last Lines": "\n\u2026Withe goostely supporte to doo correccyoneThe reforme where as \u00feay see nede\n",
+            "Note": "\nMissing lines 1-57. Begins imperfectly at top of leaf; includes envoy, one stanza; ends \u201cAmen.\u201d",
+            "folio": "ff. 103-110v"
+        },
+        "BLAru396": {
+            "First Lines": "\nThe folkes alle whiche haue deuocyonTo heere masse first dooth\n                    youre besy cure\u2026\n",
+            "Last Lines": "\n\u2026With goostly supporte to doon correctyonThe to refoorme as\n                    thei seen neede. Amen\n",
+            "folio": "ff. 121-130"
+        },
+        "BLHar2251": {
+            "First Lines": "\nYE that beth of goode deuocyounTo here youre masse with al your\n                    cure\u2026\n",
+            "Last Lines": "\n\u2026With goodely support to do correcciounThe to reforme where\n                    they se nede\n",
+            "Attributed Author": "\nExplicit quod lidegate Amen (f. 188)",
+            "folio": "ff. 179-188"
+        },
+        "Lam344": {
+            "First Lines": "\n\u2026Kyrye and christe \u00feu nombre thryes threWords of greke\n                    playnly to determyne\u2026\n",
+            "Last Lines": "\n\u2026Wyth goodly support to do correxcyounThe to reforme where as\n                    they se nede\n",
+            "Note": "\nBegins imprefectly due to loss of leaf: missing stanzas\n                    1-23.",
+            "Attributed Author": "\nJohn Lidgate . how to hear Mass (wants \u00fee Begining) \u2014 in a much\n                    later hand (flyleaf, verso)",
+            "folio": "ff. 1-8"
+        }
+    }
+}

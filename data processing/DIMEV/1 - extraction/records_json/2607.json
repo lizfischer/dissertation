@@ -1,0 +1,30 @@
+{
+    "_id": 2607,
+    "_header": "In the land of More Brittany",
+    "Subjects": "prophecies; historical poems",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "An English prophecy \u2014 eleven quatrains",
+    "_witnesses": {
+        "BodRawK42": {
+            "First Lines": "\nIN the londe of more bretayngneSchal ben a lorde of gret\n                    renomeIn whos tyme as bokys seyneSchal be tresoun in toure and\n                    towne\u2026\n",
+            "Last Lines": "\n\u2026Thys Englonde bretayne calle may \u021deWhenne thys tyme ys\n                    commyn & gonne\n",
+            "Note": "\nEleven quatrains only; two parchment leaves inserted in Hearne\u2019s\n                    transcripts (note shelf mark changed by Bodleian).",
+            "Editions": "\n\nRobbins,  Rossell Hope. \n             \u201cGeoffrey of Monmouth: an English Fragment.\u201d \n             English Studies\n         38 (1957): 259-62: 261-2.\nRobbins,  Rossell Hope,\n                        ed.  \n             Historical Poems of the XIV and XV Centuries.\n         New York: Columbia UP, 1959: 113-15.\n\n",
+            "folio": "pp. 103;  104"
+        },
+        "BodRawC813": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 215.",
+            "folio": "f. 116v"
+        },
+        "BLSl2578": {
+            "First Lines": "\nA deede man of xv in \u00fee lande of more bryteineshalbe a Lorde of greate renownein whose tyme as bookes sayenshalbe traison in tower and towne\u2026\n",
+            "Last Lines": "\n\u2026this england Brytein call wewhen \u00feat \u00feis tyme come is & gone\n",
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 215. Written as prose; eleven quatrains, with end marked by a line drawn between last line and beginning of next text on f. 51.",
+            "folio": "ff. 50v-51"
+        },
+        "NLW3041": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 215.",
+            "folio": "p. 363"
+        }
+    }
+}

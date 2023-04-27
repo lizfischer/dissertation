@@ -1,0 +1,31 @@
+{
+    "_id": 5179,
+    "_header": "That time that Saint John Baptist",
+    "Note": "For the homily itself, including this story, see 3716.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Christ, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Story of the Baptism of Christ, from the Northern Homily Cycle (Homily for Trinity Sunday)",
+    "_witnesses": {
+        "BLHar2391": {
+            "First Lines": "\n\u00deat tym \u00feat saynt Iohn baptisteIn flome Iordan baptist crist\u2026\n",
+            "Last Lines": "\n\u2026\u00feat heuen cum may weTo wone with gode In trinite\n",
+            "Attributed Title": "\nDie sancte triniti (left margin, f. 195) with \u201cA tale\u201d written above",
+            "folio": "ff. 195-195v"
+        },
+        "Lam260": {
+            "folio": "f. 41rb"
+        },
+        "MinULZ822": {
+            "First Lines": "\n\u00deat tyme \u00feat saynt Ion baptysteIn flum Iordan baptiste\n                    cryste\u2026\n",
+            "Last Lines": "\n\u2026In heuen \u00fee graythe wytnes sall beof a gode and persons\n                    thre\n",
+            "folio": "ff. 101-101v"
+        },
+        "HunHM129": {
+            "First Lines": "\n\u00deat tyme \u00feat seint Ion \u00fee baptisteIn flum Iordane\n                    bapty\u021dyd criste\u2026\n",
+            "Last Lines": "\n\u2026In heuyn whare grayth wyttynge schall beOff o god and\n                    personnis thre\n",
+            "Note": "\nListed in Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943 as appearing on f. 120; no heading\n                    or other marker of new text, so treated as if continuation of 3716.",
+            "folio": "ff. 115-115v"
+        }
+    }
+}

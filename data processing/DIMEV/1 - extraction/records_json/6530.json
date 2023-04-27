@@ -1,0 +1,412 @@
+{
+    "_id": 6530,
+    "_header": "Whilom as old stories tellen us",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Knight\u2019s Tale; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; Theseus; Courtly Love; Fortune",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the Knight\u2019s Tale of the Canterbury Tales \u2014 2249 lines in couplets",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nWhilom as olde stories tellen vsTher was a Duke that hight\n                    Theseus\u2026\n",
+            "Last Lines": "\n\u2026thus endith Palamon & EmelieAnd god saue al this companye\n                    Amen\n",
+            "Note": "\nI.2720 omitted; 2603-4 reversed; 2953-4 inserted in margin.",
+            "Attributed Title": "\n\u2026And next / folwith the Knyghtis tale of Arcyte and Palamon (f.\n                        15v); the knyght (RT); Here endith the knyght his tale of Arcite\n                    and / Palamon\u2026 (f. 47)",
+            "folio": "ff. 16-47"
+        },
+        "BodBar20": {
+            "First Lines": "\nWhilom was as old stories tellen vsTher was a duk \u00feat hight\n                    theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus endith palamon And EmelyAnd god saue alle this fair\n                    Cumpanye\n",
+            "Note": "\nI.1254, 2067, 2248, 2358, 2501-2, 2655, 3043 omitted.",
+            "Attributed Title": "\n\u2026Here begynnyth \u00fee prolog of \u00fee kny\u021dtes tale (f.\n                        4v); The knyght (RT); The kny\u021dt (RT); Here begynnyth the\n                    kny\u021dtes tale (f. 5, following I.892)",
+            "folio": "ff. 4v-32v"
+        },
+        "Bod414": {
+            "First Lines": "\n[W]hilom as olde stories tellen vsTher was a duke that hight\n                    Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus endith Palamon and EmelyAnd god saue alle this feir\n                    cumpany\n",
+            "Note": "\nI.1979-80, 2961-2 omitted; 943-4, 1241-2, 1753-4, 2881-2\n                    reversed.",
+            "Attributed Title": "\nIamque domos patria Scithice post aspera / gentis prelia laurigeno\n                    (f. 10)",
+            "folio": "ff. 10v-37v"
+        },
+        "Bod686": {
+            "First Lines": "\nWhilom was as olde stories tellen vsTher was a duk \u00feat hight\n                    Teseus\u2026\n",
+            "Last Lines": "\n\u2026[smudge]lamon and emelyeAnd god save al \u00feis feire\n                    companye\n",
+            "Note": "\nI.1291-5, 2655 omitted; 135307 inserted at foot.",
+            "Attributed Title": "\nHic incipit fabula Militis (f. 11v); Knyght\n                    (RT)",
+            "folio": "ff. 11v-40"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nWhilom as old stories tellen vsThere was a duke \u00feat hight\n                    Thesius\u2026\n",
+            "Last Lines": "\n\u2026\u00deus endith Palamoun and EmelyAnd god saue al \u00feis\n                    company\n",
+            "Note": "\nI.1320, 1893, 2168, 2238, 2320, 2385, 2588-99 omitted; 1985-6 reversed\n                    with 1986 repeated.",
+            "Attributed Title": "\nHere beginneth the Knightes tale (f. 10); The knightes tale (RT); here\n                    endeth \u00fee knightez tale\u2026 (f. 36, margin)",
+            "folio": "ff. 10-36"
+        },
+        "BodLauMis600": {
+            "First Lines": "\nWhilom as olde stories tellen vsTher was aduk that hight\n                    Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus ende\u00fe Palamon and EmelieAnd god saue al this faire\n                    companye\n",
+            "Note": "\nI.1806-938 lost; 1780-1 omitted.",
+            "Attributed Title": "\n\u2026HEre begynneth the Knightes tale (f. 14v); the knight\n                    (RT); HEre endeth the Knihtes tale\u2026 (f. 48v)",
+            "folio": "ff. 14v-48v"
+        },
+        "BodLauMis739": {
+            "First Lines": "\n[W]Hylome was as olde stories tellen vsThere was a Duk\n                    that highte Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus endeth palamon and EmelyeAnd god save all this faire\n                    companye\n",
+            "Note": "\nI.1083, 1372, 1508, 1514, 1660, 1888, 2436 all omitted and subsequently\n                    insterted in margin; 1602, 3032 omitted.",
+            "Attributed Title": "\nIamque domos partias & cetera Post aspera gentis prelia laurigero\n                        & cetera (f. 13v)",
+            "folio": "ff. 13v-47v"
+        },
+        "BodRawPoe141": {
+            "First Lines": "\n\u2026Bi ordynaunce thrugh out the cyte largeHonged with cloth of\n                    gold & not with sarge\u2026\n",
+            "Last Lines": "\n\u2026Thus endeth palamon & EmelyAnd god saue al this feyr\n                    company\n",
+            "Note": "\nI.859-2566 lost; 2655, 2741 omitted; 2682 left blank and subsequently\n                    supplied; 2881-2, 3015-16 reversed.",
+            "Attributed Title": "\nThe knyght (RT); Here endeth the Knyghtes tale\u2026 (f.\n                    9v)",
+            "folio": "ff. 1-9"
+        },
+        "BodRawPoe149": {
+            "First Lines": "\nWhilom as olde stories tellen vsTher was a duke that hight\n                    Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus endeth palamoun and Emelyand god saue alle this\n                    Cumpany\n",
+            "Note": "\nI.912-97, 1699-1789, 2138-950 lost; 1423-4 reversed",
+            "Attributed Title": "\nHere begynneth the knightes tale of Arcite and palamon (f. 5); the knyght\n                    (RT)",
+            "folio": "ff. 5-19v"
+        },
+        "BodRawPoe223": {
+            "First Lines": "\nWHilom as olde stories tellen usTher was a duc that hi\u021dt\n                    Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus endeth Palamoun and EmelieAnd god saue all this faire\n                    company Amen\n",
+            "Note": "\nI.1374-59, 2655 omitted; \u2018Hic deficit\u2019 in margin next\n                    1360.",
+            "Attributed Title": "\nIamque domos patrias scithice post aspera gentis prelia lauri / gero\n                        & cetera (f. 11); Hic incipit fabula Militis (f. 11) Theseus\n                    Arcyte Palamon (RT)",
+            "folio": "ff. 11-42v"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nWilom as olde stories tellen vsTher was a Duke that hight\n                    Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus endith Palamon and EmelyeAnd god saue all this faire\n                    compaignye\n",
+            "Note": "\nI.1555-1643 lost; 2270 omitted; 1308 inserted interlinearly; 2986\n                    inserted in margin; blank line following 1748 with \u2018Vacat\u2019 in\n                    margin.",
+            "Attributed Title": "\nIamque domos patria scithice post aspera gentis laurigero &\n                        cetera / Here bigynneth the Knygtis tale (f. 13); Here endith the\n                    Knyghtys tale\u2026 (f. 42)",
+            "folio": "ff. 13-42"
+        },
+        "OxfCCC198": {
+            "First Lines": "\nWhilom was as olde stories tellen vsTher was a Duk \u00feat highte\n                    Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus endeth Palamon and EmelyeAnd god saue all \u00feis faire\n                    companye\n",
+            "Note": "\nI.2655, 3045 omitted; spurious line follows 2656.",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "ff. 12v-44"
+        },
+        "OxfNew314": {
+            "First Lines": "\nWhilom as olde story telleth vsTher was a duke \u00feat hi\u021dte\n                    Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus endith Palamoun & EmelyeAnd god saue al this\n                    companye\n",
+            "Note": "\nI.1148-61, 1220-4, 1462, 1593-602, 2044, 2367, 2501-2, 2549, 2603-4,\n                    2655, 2741, 2815, 2899-900, 3094, omitted; spurious lines follow 2656, 2741, and\n                    inserted in the margin next 1944; 895-6, 1527-8, 1857-8 reversed.",
+            "Attributed Title": "\nHere begynneth the Knyghtis tale (f. 4v); kny\u021dt (RT); Here\n                    endith the Knyghtis tale\u2026 (f. 35)",
+            "folio": "ff. 4v-35"
+        },
+        "OxfTri49": {
+            "First Lines": "\nWhilom as olde stories tellen vsther was a duke that hight\n                    Teseus\u2026\n",
+            "Last Lines": "\n\u2026thus endith Palamon and Emelieand god saue all this merie\n                    companie amen\n",
+            "Note": "\nI.886, 1172, 1228-331, 1335, 1404, 1512, 1580, 1615-19, 1668, 1866,\n                    1940, 1962, 2138, 2202, 2230, 2720, 2057, 2875-92, 3012 omitted; 4 spurious\n                    lines follow 2874; 2141-2 reversed.",
+            "Attributed Title": "\nknyght (RT)",
+            "folio": "ff. 12-43v"
+        },
+        "CULDd424": {
+            "First Lines": "\nWhilom there was as olde stories tellen vsA Duke a worthy man that\n                    hight Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus endeth Palamon and EmelyeAnd god saue al this fair\n                    companye\n",
+            "Note": "\nI.920-1170, 1502-931, 2927-3016 lost; 2681-2, 2754-7, 2779-82 omitted.\n                    \u2018Amen quod  Wytton\u2019 in the margin next\n                    to 3108.",
+            "Attributed Title": "\nIamque domos patrias scithice post aspera gentis prelia laurigero &\n                        cetera / Here bygynneth the knyghtes tale (f. 13)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 13-39"
+        },
+        "CULGg427": {
+            "First Lines": "\n\u2026And ry\u021dt anon with oute more abodHese baner he\n                    displaye\u00fe & forth rod\u2026\n",
+            "Last Lines": "\n\u2026Thus endyth Palamoun & EmelyeAnd god saue al this fayre\n                    cumpaynye\n",
+            "Note": "\nI.859-964 lost; 3073-88 lost or partially lost; 2681-2 omitted; 1024,\n                    1917, 2411 inserted at foot. Bottom half of f. 175 torn away.",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "Editions": "\nFurnivall,  Frederick James. \n             The Cambridge MS (University Library, Gg.4.27) of Chaucer\u2019s\n                Canterbury Tales.\nChaucer Society\n         Series 1, nos. 4, 10, 17, 28, 33, 40, 52, 66. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 145-174v"
+        },
+        "CULIi326": {
+            "First Lines": "\nWhilom there was as an olde storye telleth vsA duke that hight\n                    Thesius\u2026\n",
+            "Last Lines": "\n\u2026Thus endeth Palamon and EmelyAnd god save all this faire\n                    companyAmen\n",
+            "Note": "\nI.1148-61, 1193-200, 1220, 1462, 1843-4, 1943, 2250, 2655, 2958, 3058\n                    omitted; 895-6, 2603-4, 2831+2-2829+30 reversed; spurious lines follow 1218,\n                    1466, 2248, 2656; 1800 left blank and subsequently supplied; blank line follows\n                    2457.",
+            "Attributed Title": "\nKnyght (RT); Here Endith the knyghtis tale\u2026 (f.\n                    36v)",
+            "folio": "ff. 11-36v"
+        },
+        "CULMm25": {
+            "First Lines": "\nWhilom was as olde stories tellen usTher was a duke \u00feat\n                    hi\u021dhte Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus endeth palemon and EmelyeAnd god saue all \u00feis faire\n                    compaignye\n",
+            "Note": "\nI.1126-7, 2655, 2720 omitted; 1452, 2654, 2934 inserted in margin;\n                    spurious line follows 2656. Iam que domos patrias scithice post aspera gentis\n                        / prelia laurigero precedes the explicit for the Prologue,\n                    written as if lines of text.",
+            "Attributed Title": "\n\u2026Here begynneth \u00fee knyghtis taale (f. 10); ffabula\n                        militis (RT); Here endeth \u00fee knyghtes tale\u2026 (f. 34)",
+            "folio": "ff. 10-34"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[W]Hilom as olde storyes telle usThere was a Duke hight\n                    Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus endeth palamoun & EmelyeAnd god save all \u00feis\n                    company Amen\n",
+            "Note": "\nI.885-81039-40, 1126-7, 1133-4, 1137-8, 1199-200, 1225-6, 1357-60,\n                    1367-8, 1372-6, 1387-90, 1459-64, 1533-8, 1543-9, 1639-46, 1659-60, 2017-18,\n                    2037-40, 2043-8, 2061-4, 2117-24, 2131-6, 2169-70, 2172-3, 2201-8, 2284-8,\n                    2293-4, 2303-4, 2334, 2283-98, 2411, 2449-50, 2459-60, 2463-8, 2475-6, 2481-2,\n                    2499-500, 2503-8, 2515-22, 2561-2, 2606, 2655, 2813-14, 2821-4, 2831-4, 2843-6,\n                    2959-64, 2983-6, 2999-3040, 3049-50 omitted; spurious lines follow 1542, 2656;\n                    1879-80, 2125-6, 2957-8 reversed.",
+            "Attributed Title": "\n\u2026Here bigynneth the knyghtes Tale (f. 15v); The\n                    kn[trimmed] (RT); Here endeth \u00fee knyghtes Tale (f. 46)",
+            "folio": "ff. 15v-46"
+        },
+        "CamTCC582": {
+            "First Lines": "\nWhilom as olde stories telle vsTher was a Duc that\n                    Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus endeth Palamon and EmelyeAnd saue all this faire\n                    companie\n",
+            "Note": "\nI.1126-7, 1431-4. 2655, 2741-2, 2775-8 omitted; spurious line follows\n                    2656; blank line follows 2729; 1495-6, 1753-4, 3041-2 reversed.",
+            "Attributed Title": "\nHire beginneth the kni\u021dt his tale (f. 5vb)",
+            "folio": "ff. 5rb-18rb"
+        },
+        "CamTCC595": {
+            "First Lines": "\nWhilom as olde story telleth vsThere was a duke that hight\n                    Theseus\u2026\n",
+            "Last Lines": "\n\u2026Here endeth Palamon and EmelyeAnd god saue alle this\n                    compenye\n",
+            "Note": "\nI.978-1081 lost; 1148-61, 1193-200, 1593-602, 1049-50, 1943, 2012-17,\n                    2501-2, 2549, 2603-4, 2642, 2655, 2741, 2787-92, 2815, 2899-900 omitted;\n                    spurious lines follow 1218, 2550, 2656, 2742, 2816; 895-6, 1527-8, 1857-8\n                    reversed; 3052 inserted in margin.",
+            "Attributed Title": "\nHere begynneth the knyghtes tale folowyge (f. 5); Here endeth the knyghtes\n                    tale\u2026 (f. 53)",
+            "folio": "ff. 18-53"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nSOm tyme as olde storyes tellyn vsTher was a duk that hyht\n                    Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus endyth Palamon and EmelyeAnd god saue all this faire\n                    companye\n",
+            "Note": "\nI.969-1099 lost; 1433-4, 2549, 2655, 2681-2, 2899-900 omitted; spurious\n                    lines follow 1614, 2550; 1765-6 reversed and follow 1762.",
+            "Attributed Title": "\nHere begennyth the knyhtes tale (f. 14); knyght (f. 14, margin); Knyht\n                    (RT); Explicit fabula Militis\u2026 (f. 45v)",
+            "folio": "ff. 14-45v"
+        },
+        "BLAdd25718": {
+            "First Lines": "\n\u2026Now trewly how sore that me smerteQuod he to Athenes woll I\n                    fare\u2026\n",
+            "Last Lines": "\nThus endeth Palamon and EmelyeAnd god saue al this faire\n                    companye\n",
+            "Note": "\nI.859-1393, 1525-1583, 1707-1838, 1953-2010 lost; 1421-2, 2501-3, 2655,\n                    2741, 3043 omitted; 1423-4 reversed; 1459, 1524, 1890 inserted in margin; blank\n                    line follows 3044.",
+            "Attributed Title": "\nMilitis (RT); Explicit fabula militis\u2026 (f.\n                        24v)",
+            "folio": "ff. 1-24v"
+        },
+        "BLAdd35286": {
+            "First Lines": "\nWhilom as olde stories tellen vsTher was a Duke that hight\n                    Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus endeth palamon and EmelyeAnd god saue al this faire\n                    compaignye\n",
+            "Note": "\nI.1269-1898 lost; 2681-2, 2934 omitted.",
+            "Attributed Title": "\nHere begynneth the prologe of the knyghtes tale (f. 7v); Here\n                    begynneth the knyghtes tale (f. 8, at I.892); The Knyght (RT); Here endyth the\n                    knyghtes tale\u2026 (f. 28)",
+            "Editions": "\nHorobin,  Simon. \n             \u201cA Transcription and Study of British Library MS Additional 35286 of\n                Chaucer\u2019s Canterbury Tales.\u201d \n         Diss. Univ. of Sheffield, 1997. \n",
+            "folio": "ff. 7v-28"
+        },
+        "BLEge2726": {
+            "First Lines": "\nWhilom \u00feere was as old stories tellen vsA duke a worthy man\n                    \u00feat hight Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus endeth palamon and EmelyeAnd god saue all this feire\n                    cumpany\n",
+            "Note": "\nI.1772, 1838, 2063 inserted in margin; 2971-2 reversed.",
+            "Attributed Title": "\n\u2026Here begynneth the knightes tale (f. 11v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 11v-39v"
+        },
+        "BLEge2863": {
+            "First Lines": "\n\u2026Or who ha\u00fe \u021dow mysboden or offendidAnd telleth me\n                    \u021dif it may be amended\u2026\n",
+            "Last Lines": "\n\u2026Thus endeth palamon & EmelieAnd god saue all \u00feis\n                    faire companie\u2026\n",
+            "Note": "\nI. 859-908, 1365-1668, 2351-2426 lost; 2643-8, 2720 omitted; spurious\n                    lines follow 1983, 1986, 2656, 2880, 2882.",
+            "Attributed Title": "\nThe knyght (RT); Here endith the Knightes tale\u2026 (f.\n                    24v)",
+            "folio": "ff. 1-24v"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[S]Om tyme as olde storiyes tellen vsTher was a Duk that hihte\n                    Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus endith palamon and EmelyeAnd god saue all this fayr\n                    companye\n",
+            "Note": "\n1433-4, 1821-2, 2549, 2655, 2681-2, 2899-900 omitted; spurious lines\n                    follow 1614, 2550, 2656; 2146 inserted in margin.",
+            "Attributed Title": "\nHeer bigynneth the Knyhtes tale (f. 14); The knyhtes tale (RT);\n                        Explicit (f. 46v)",
+            "folio": "ff. 14-46v"
+        },
+        "BLHar1239": {
+            "First Lines": "\n\u2026Thys duke of qwhom I make mencyounWhan he was all most comyn\n                    to the towne\u2026\n",
+            "Last Lines": "\n\u2026Thus endyth palamon & EmyleAnd god saue al \u00feis\n                    company\n",
+            "Note": "\nBegins I.893; 983, 1102, 1108, 1222, 1474, 1793, 1827, 2318, 2603,\n                    2681-2 omitted.",
+            "Attributed Title": "\nExplicit fabula militis (f. 80v)",
+            "folio": "ff. 63-80v"
+        },
+        "BLHar1758": {
+            "First Lines": "\n\u2026Vyctorie & as a conquerour to lyuenNot greueth vs youre\n                    glorie & youre honour\u2026\n",
+            "Last Lines": "\n\u2026Thus endith Palamon & EmelyeAnd god saue all this faire\n                    companye\n",
+            "Note": "\nI.891-915 lost; 2655, 2720 omitted; spurious line follows\n                    2656.",
+            "Attributed Title": "\nThe Knyghtis Tale (RT); [H]Ere endeth the Knyghtis tale (f. 33)",
+            "folio": "ff. 10-33"
+        },
+        "BLHar7333": {
+            "First Lines": "\nWylom was as olde storyes tellyn vs\u00feer was a duke \u00feat\n                    heyght theseus\u2026\n",
+            "Last Lines": "\n\u2026\u00feus Eondithe Palamoun & EmelyeAnd god save nowe al\n                    this companye\n",
+            "Note": "\nI.1842, 1995, 2642-7, 2655, 2720, 2843-4 omitted; 1198 follows 2000;\n                    1844 deleted; spurious lines follow 1900, 1996 (inserted in margin), 2656;\n                    2955-6 reversed.",
+            "Attributed Title": "\nNowe here firste begynny\u00fee \u00fee prologe of \u00fee / kneytis tale\n                    (f. 33va; introduces the General Prologue); Loo here\n                    eondi\u00fee \u00fee prologe of \u00fee Knightes / tale and ffolowyng \u00fee\n                    knyght be gynnithe to telle his tale (f. 41vb); \u00dee Knightes Tale\n                    (RT); Loo \u00feus here eondi\u00fee the kyntes tale\u2026 (f.\n                        53va)",
+            "folio": "ff. 41vb-53va"
+        },
+        "BLHar7334": {
+            "First Lines": "\nWHilom as olde stories tellen vsTher was a Duk \u00feat highte\n                    Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus ende\u00fe Palomon and EmelyeAnd god saue al \u00feis\n                    fayre companye Amen\n",
+            "Note": "\nI.2012-17, 2250, 2655, 2958 omitted; blank line left for 2040; 2603-4,\n                    2830+31-2829+30 reversed; spurious lines after 2248, 2656.",
+            "Attributed Title": "\nknyghtes tale (f. 12, margin); The knightes Tale (RT); HEre ende\u00fe\n                    \u00fee knightes tale\u2026 (f. 41v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "ff. 12-41v"
+        },
+        "BLHar7335": {
+            "First Lines": "\n\u2026Duk Perotheus loued wel ArciteAnd had him knowe at thebes\n                    yeer by yere\u2026\n",
+            "Last Lines": "\n\u2026Thus endeth Palamon and EmelyeAnd god saue al this faire\n                    compaignye\n",
+            "Note": "\nI.859-1201, 1475-542; 2563-630; 2701-71 lost; 2257-90 partially lost\n                    (torn leaf).",
+            "folio": "ff. 1-25v"
+        },
+        "BLLan851": {
+            "First Lines": "\nWhilome was as holde stories tellen vsThere was a Duke \u00feat\n                    hight Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus Ende\u00fe Palamon & EmelyeAnd god saue al \u00feis\n                    faire compaignye\n",
+            "Note": "\nI.1250, 2655 omitted; 906, 1552, 2591 inserted in margin; 2207-8\n                    reversed; spurious line follows 2656.",
+            "Attributed Title": "\nIam que domos patrias scitice post aspera gentis / Prelia\n                        laurigero & cetera Incipit fabula Militis (f. 12); \u00dee Knyht\n                    (RT); Explicit fabula mylitis (f. 38v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 12-38v"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nWhyleom was As olde stories telle vsThere was A duke \u00feat\n                    highte Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus ende\u00fee palamon And EmellyeAnd god saue all this\n                    fayer companye\n",
+            "Note": "\nI.1138, 1722, 1970, 2166, 2603-4, 2655 omitted; spurious line following\n                    2656.",
+            "Attributed Title": "\nHere begynnyth the prolog of the knyghtes tale (f. 12v; Here\n                    endith the prologe And begynnyth / the knyghtis tale (f. 13, at I.892); Here\n                    endithe the tale of the knyght\u2026 (f. 46v)",
+            "folio": "ff. 12v-46v"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nWHilom was as olde stories tellen vsTher was a Duk \u00feat highte\n                    Theseus\u2026\n",
+            "Last Lines": "\n\u2026thus endeth palamon and EmelieAnd god saue al \u00feis faire\n                    companye\n",
+            "Note": "\nI.944, 1083, 1660, 2436, 2655, 2720 omitted; spurious line follows\n                    2656.",
+            "Attributed Title": "\nIamque domos patrias post aspera gentis Prelia laurigero / Here\n                    begyn the prolog of the knyght is tale (f. 13v); The knyght (RT);\n                    Here endyth the prolog and begynnyth the tale (f. 13v at I.892); Here\n                    endith the knyght\u2026 (f. 40v)",
+            "folio": "ff. 13v-40v"
+        },
+        "BLSl1685": {
+            "First Lines": "\nWhylom was as olde stories tellen vsTher was a Duk that\n                    hight Thesius\u2026\n",
+            "Last Lines": "\n\u2026Thus eendith Palamon and EmelyeAnd god saue al this faire\n                    companye\n",
+            "Note": "\nI.1579-650, 1723-94 lost; 2436, 2655, 2720 omitted; spurious line\n                    follows 2434.",
+            "Attributed Title": "\nIamque domos patrias scithie post prelia gentis / Prelia laurigero &\n                        ce[tera] (f. 3v, preceding explicit for the General\n                        Prologue); \u2026and heere bigynneth the first tale which is the Knygh\n                    / te tale (f. 3v); ffabula militis\n                        Capmim (f. 4, margin); ffabula militis\n                    (RT); The knyght (RT); Incipit narracio (f. 4, margin, at I.892); Heere\n                    eendith the knyght\u2026 (f. 33)",
+            "folio": "ff. 4-33"
+        },
+        "BLSl1686": {
+            "First Lines": "\nWhilom was as olde stories tellen usThere was a duke that hight\n                    Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus endyth Palamon & EmelieAnd god save all this fayre\n                    companye Amen\n",
+            "Note": "\nI.1979, 2127, 2307-8, 2655, 2775-6 omitted; 865-6 reversed; 1488\n                    inserted at foot; spurious line follows 2656.",
+            "Attributed Title": "\nTheseus (f. 13); [A]Rcyte (RT); [P]Alamon (RT); Here endith the knightis\n                    tale\u2026 (f. 49v)",
+            "folio": "ff. 13-49v"
+        },
+        "NLWPen392": {
+            "First Lines": "\nWhilom as olde stories tellen vsTher was a Duc \u00feat highte\n                    Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus endeth Palamon and EmelyeAnd god saue al this faire\n                    compaignye Amen\n",
+            "Note": "\nI.2681-2, 2779-82 omitted; 3027-8 inserted in margin.",
+            "Attributed Title": "\nHere bigynneth the knyghtes tale (f. 12v); Incipit\n                        narracio (f. 13, at I.892); Here is ended the knyghtes tale (f.\n                    41)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "ff. 12v-41"
+        },
+        "Alnwick455": {
+            "First Lines": "\nWhilom there was as old story tellith vsA duke somtyme callid\n                    Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus endith the tale of Palamon & EmelyAnd god save al\n                    this company Amen\n",
+            "Note": "\nI.959, 1045-6, 1148-61, 1193-200, 1220-4, 1320, 1346, 1462, 1485-6,\n                    1593-602, 1747, 1943, 2000, 2012-17, 2044, 2212, 2497-8, 2501-2, 2549, 2741,\n                    2749-51, 2775, 2787-92, 2815 omitted; 895-6, 1047-8, 1527-8, 1697-8, 2499-2500,\n                    2603-4, 2881-2 reversed; spurious lines follow 1218, 2550, 2656,\n                    2742.",
+            "Attributed Title": "\nHere begynnyth the kny\u021dt his tale (f. 10); Here endith the kny\u021dt\n                    his tale\u2026 (f. 40)",
+            "folio": "ff. 10-40"
+        },
+        "GULHun197": {
+            "First Lines": "\nWhilom was as olde storyes tellen vsThere was a Duke that hight\n                    Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus endeth Palaman and EmelyeAnd god saue all this faire\n                    companye\n",
+            "Note": "\nI.1053-230 lost; 2556, 2655, 2720, 2830-1 omitted; spurious line follows\n                    2656.",
+            "Attributed Title": "\nIamque domos patrias scithice post aspera gentis / Prelia laurigero\n                    / Here endith the prolog of this boke / Here beginneth the knyghtis taile (f.\n                        3vb); The knyght (RT); Here endeth the knyghtis tale\u2026 (f.\n                        16va)",
+            "folio": "ff. 3vb-16va"
+        },
+        "Holkham667": {
+            "First Lines": "\nWas risen and romed in a chambre in highIn which he alle the noble\n                    citee sigh\u2026\n",
+            "Last Lines": "\n\u2026Thus endeth palamon and emelyeAnd god saue all this feire\n                    companye\n",
+            "Note": "\nI.859-1064 lost; 2549, 2127-8, 2655, 2681-2, 2899-900 omitted; 1364\n                    inserted at foot; 1711-12 reversed.",
+            "folio": "ff. 1ra-14rb"
+        },
+        "Lichfield29": {
+            "First Lines": "\nWhilom as olde stories tellen vsTher was a duk \u00feat highte\n                    Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus endeth palamon and EmelieAnd god saue al this faire\n                    companye\n",
+            "Note": "\nI.2655, 2720 omitted; spurious line follows 2656.",
+            "Attributed Title": "\nIamque domos patrias Scithice post aspera gentis / Prelia laurigero In\n                        Stacio thebados (f. 12); ffabula Militis (RT); The knyght (RT);\n                        Explicit fabula Militis\u2026 (f. 40v)",
+            "folio": "ff. 12-40v"
+        },
+        "Lincoln110": {
+            "First Lines": "\nWhilome as olde stories tellen vsTher was a duc \u00feat hight\n                    theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus endith Palamoun and EmelyeAnd god saue alle this\n                    compaignye\n",
+            "Note": "\nI.1126-7, 1332, 1354, 1503-4, 1985, 2044, 2655 omitted; 1595-6, 2575-6\n                    reversed; spurious line follows 2656.",
+            "Attributed Title": "\n\u2026And begynneth the Knyghtes tale (f. 7); the knyghtestale (RT);\n                    knyght (RT)",
+            "folio": "ff. 7-36v"
+        },
+        "LonPhys388": {
+            "First Lines": "\nWhilom as old stories tellen vsTher was a duke that hight\n                    Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus endith Palamon and EmelieAnd god save al this faire\n                    compaigne Amen\n",
+            "Note": "\nI.2428, 2681-2, 2720, 2751, 2779-82 omitted; 943-4, 1241-2, 2609-10\n                    reversed.",
+            "Attributed Title": "\nIamque domos patria scithice post aspera gentis prelia laurigero (f.\n                    16); Incipit narracio (f. 16v, at. I.892); Here endith the\n                    knyghtis tale\u2026 (f. 55)",
+            "folio": "ff. 16-55"
+        },
+        "RylandsEng113": {
+            "First Lines": "\n[W]Hilom as olde stories tellen vsTher was a duke \u00feat hight\n                    Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus endith Palamon and EmelieAnd god saue all \u00feis\n                    compaignie AMEN\n",
+            "Note": "\nI.889-92 omitted; 2141-2 reversed; 2461-2 follow 2468.",
+            "Attributed Title": "\nExplicit ffabula Militis (f. 34v)",
+            "folio": "ff. 14-34v"
+        },
+        "Petworth7": {
+            "First Lines": "\nWhilom was as olde stories tellen vsA wor\u00fei duk hight\n                    theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus ende\u00fe \u00fee tale of Palamon and EmelyeAnd god\n                    saue al \u00feis faire companye\n",
+            "Attributed Title": "\nffabula militis (f. 12v, margin); Here bygynne\u00fe the\n                    knyghtes tale (f. 12v); Incipit narracio plena Militis (f.\n                        12v, at I.892); Here ende\u00fe \u00fee knyghtes tale\u2026\n                    (rubric, f. 43v); The knyghtes tale (rubric, RT)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 12v-43v"
+        },
+        "Austin143": {
+            "First Lines": "\nWhilom as olde stories tellen vsThere was a duke that hight\n                    Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus endith Palamon and EmelieAnd god save all this Companie\n                    Amen\n",
+            "Note": "\nI.944-1022, 1101-82, 1510-92 missing; 2961-2 partly missing; 889-92\n                    omitted; 2141-2 reversed; 2461-2 follow 2468; 2694 inserted in\n                    margin.",
+            "Attributed Title": "\nNowe begynneth the knyght his tale (f. 9v); Knyght (RT);\n                        Explicit ffabula Militis (f. 34v)",
+            "folio": "ff. 9v-34v"
+        },
+        "PierpontM249": {
+            "First Lines": "\nWhilom as olde stories tellen vsTher was a duk that highte\n                    Theseus\n",
+            "Last Lines": "\n\u2026Thus endith Palamon and EmelieAnd god save al this faire\n                    companye\n",
+            "Note": "\nI.2655, 2655, 2720 omitted; 1577 inserted in margin; spurious line after\n                    2656.",
+            "Attributed Title": "\nffabula Militis (RT); The knyghtes Tale (RT); Thus endeth the\n                    knyghtes tale\u2026 (f. 44v)",
+            "folio": "ff. 15-44v"
+        },
+        "PhilRos10841": {
+            "First Lines": "\n\u2026Vn to \u00fee straunge lordes as it was RyghtNe ther was\n                    holden no discomfortureffor fallyng is an vn auenture\u2026\n",
+            "Last Lines": "\n\u2026ffrom whiche it is darreyned sooth to telleAnd heere ageyn no\n                    creature on lyue\u2026\n",
+            "Note": "\nI.859-2717, 3040-108 lost; 2720 omitted.",
+            "Attributed Title": "\nknyght (RT)",
+            "folio": "ff. 1-4v"
+        },
+        "PUL100": {
+            "First Lines": "\n\u2026ffirst on \u00fee wal was peyntid a forestIn wich there\n                    dwellith nethir man ne best\u2026\n",
+            "Last Lines": "\n\u2026Thus endith Palamoun and EmelyAnd god save al this\n                    company\n",
+            "Note": "\nI.859-1974 lost; 2012-17, 2044, 2135-6, 2501-2, 2549, 2655, 2787-92,\n                    2815, 2899-900, 2920 omitted; 2603-4, 2993-4 reversed; spurious lines follow\n                    2550, 2656.",
+            "Attributed Title": "\nknyght (RT); Here endith the knyght his tale\u2026 (f.\n                    16v)",
+            "folio": "ff. 1-16v"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nWhilom as olde stories tellen vsTher was a duc \u00feat highte\n                    Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus endeth Palamon and EmelyeAnd god saue al this faire\n                    compaignye Amen\n",
+            "Note": "\nI.2681-2 omitted.",
+            "Attributed Title": "\nHeere bigynneth the knyghtes tale (f. 10); Narrat (f. 10, at I.892,\n                    in margin); Heere is ende the knyghtes tale (f. 33v)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 10-33v"
+        },
+        "BNangl39": {
+            "First Lines": "\nUhilom as old storyes tellyn vsther was a duke that hight\n                    theseus\u2026\n",
+            "Last Lines": "\n\u2026thus enduryth palamon and Emelyeand god saue al this fayre\n                    companye Amen\n",
+            "Note": "\nI.2553-4. 2603, 2681-2, 2898-9, 2944 omitted; spurious lines follow\n                    2604, 2738.",
+            "Attributed Title": "\nIncipit fabula Militis Primo sic (f. 5va); Explicit\n                        fabula militis valde bone\u2026 (f. 17vb)",
+            "folio": "ff. 5vb-17vb"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nWhilom there was as olde stories tellen vsA duke a worthi man\n                    \u00feat hi\u021dt Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus endeth Palamoun and EmelieAnd god saue al this faire\n                    company Amen\n",
+            "Note": "\nI.1133-6, 2775-9, 2898 omitted; 2971-2, 2063-4 reversed.",
+            "Attributed Title": "\nHiere beginneth the kni\u021dtes tale folwing (f. 11); Palamon | Arcite\n                    (RT)",
+            "folio": "ff. 11v-38"
+        },
+        "TokyoTak32": {
+            "First Lines": "\n\u2026How wonen was thee Regne of femynieBy Theseus and by his\n                        his chevalrie\u2026\n",
+            "Last Lines": "\n\u2026Thus endyht Palamon and EmelyeAnd god save all this feyir\n                    cvmpanye\n",
+            "Note": "\nI.1540 omitted; 2461-2 follow 2468; 2688 inserted in\n                    margin.",
+            "Attributed Title": "\nThe knyghttis tale (RT); Explicit fabula Militis (f.\n                    36vb)",
+            "folio": "ff. 23ra-36vb"
+        },
+        "Bodmer48": {
+            "First Lines": "\nWhilom as olde Stories tellen vsther was a Duke \u00feat hight\n                    Theseus\u2026\n",
+            "Last Lines": "\n\u2026\u00feus endeth Palamon and Emeliand god saue alle this feir\n                    cumpany\n",
+            "Note": "\nI.2007-8, 2013-14, 2711-14, 2831-4 omitted; 943-4, 1241-2, 1753-4,\n                    2881-2 reversed.",
+            "Attributed Title": "\nThe prolog of the knightes tale (rubric, f. 12); The knyghtis tale (f.\n                        12v, rubric, preceding I.893)",
+            "Facsimiles": "\n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n",
+            "folio": "ff. 12-41v"
+        },
+        "Longleat257": {
+            "First Lines": "\nWhilome as olde stories tellen vsTher was a Duke that hight\n                    Theseus\u2026\n",
+            "Last Lines": "\n\u2026Thus endeth Palomon and EmelieAnd god save all this faire\n                    companye\n",
+            "Note": "\nI.2241-332 lost; 1535-6, 2463-8 omitted; 870 inserted in margin; 1619-20\n                    reversed; spurious lines follow 1983, 1986, 2880, 2882.",
+            "Attributed Title": "\nArcite & Palomon (rubric in margin, f. 53); Palomon Arcite (RT);\n                    Explicit Arcite & Palomon (f. 77)",
+            "folio": "ff. 53-77"
+        }
+    }
+}

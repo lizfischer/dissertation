@@ -1,0 +1,72 @@
+{
+    "_id": 2764,
+    "_header": "It was once a gardener / That to God was both lief and dear",
+    "Title(s)": "Northern Homily Cycle ; The Thrifty Gardener",
+    "Subjects": "tales",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Thrifty Gardener, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nHIt was enes a Gardinere\u00feat was to god bo\u00fee leue and\n                    dere\u2026\n",
+            "Last Lines": "\n\u2026God \u021dif vs grace \u00feat we mayCome to \u00feat Ioye\n                    \u00feat laste\u00fe ay. AMEN.\n",
+            "Attributed Title": "\nHou a mon wytdrou almesdede forto gadere money (f.\n                    207vb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDie Evangelien-Geschichten der Homiliensammlung des Ms. Vernon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         57 (1877): 241-316: 298.\n",
+            "folio": "ff. 206vb-207rc"
+        },
+        "BodSelSup52": {
+            "First Lines": "\nyt was som tym a gardyner\u00feat was to god both leue &\n                    dere\u2026\n",
+            "Last Lines": "\n\u2026In clene lyf tyll our endyng& tyll hys \u00fei all vs\n                    bryng\n",
+            "folio": "ff. 228-229"
+        },
+        "BodAsh42": {
+            "First Lines": "\nIt was anes a gardinere\u00feat to god was bothe leue &\n                    dere\u2026\n",
+            "Last Lines": "\n\u2026God giue vs grase it may so beAmen amen\n                    percharite\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 182-187"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nIt was summe tyme a gardynere\u00deat was til god ful lefe &\n                    dere\u2026\n",
+            "Last Lines": "\n\u2026In clene life til oure endyngAnd til \u00fei blise vs ale\n                    \u00feou bryng Amen\n",
+            "Attributed Title": "\nnarracio de ortolano colligente pecuniam (p. 293)",
+            "folio": "pp. 293-299"
+        },
+        "CULDd11": {
+            "First Lines": "\nIt was sum tyme a Gardinere\u00deat was to god ful leef &\n                    dere\u2026\n",
+            "Last Lines": "\n\u2026In clene lyf to oure endingand to \u00fei blisse vs alle\n                    \u00feu bring Amen\n",
+            "Attributed Title": "\nNarracio (f. 187v)",
+            "folio": "ff. 187v-189v"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nHIt was enes a Gardinere\u00deat was to god bo\u00fee leue &\n                    dere\u2026\n",
+            "Last Lines": "\n\u2026God \u021diue vs grace \u00feat we mayCome to \u00fee Ioye\n                    \u00feat laste\u00fe ay. Amen\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 11rc-12ra"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nIt was anes a gardenerThat to gode was bath leue &\n                    der\u2026\n",
+            "Last Lines": "\n\u2026God gyf vs grace \u00feat itt may so beAmen Amen for\n                    charite\n",
+            "folio": "ff. 141v-146v"
+        },
+        "BLHar2391": {
+            "First Lines": "\nIt was ons a gardinere\u00feat to god was both leue & dere\u2026\n",
+            "Last Lines": "\n\u2026god gyf vs grace it so may beAmen Amen for charite\n",
+            "Attributed Title": "\nDominica xv (left margin, f. 212), with \u201cA tale\u201d written below",
+            "folio": "ff. 212-214v"
+        },
+        "Lam260": {
+            "folio": "f. 53vb"
+        },
+        "MinULZ822": {
+            "First Lines": "\nItt was anes a gerdynere\u00feat was to god full lefe &\n                    dere\u2026\n",
+            "Last Lines": "\n\u2026The tother braunche of ryghtwysneses callede wylfull\n                    bouxsomnes\n",
+            "folio": "ff. 144-146v"
+        },
+        "HunHM129": {
+            "First Lines": "\nHit wos onys a gaderere\u00deat wos to god full leffe and\n                    dere\u2026\n",
+            "Last Lines": "\n\u2026God \u021dyff vs gras \u00feat we mayCum to \u00fee ioy\n                    \u00feat lestyth ay\n",
+            "Attributed Title": "\nnarracio (f. 156v)",
+            "folio": "ff. 156v-160v"
+        }
+    }
+}

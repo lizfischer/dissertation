@@ -1,0 +1,16 @@
+{
+    "_id": 3498,
+    "_header": "Mildest of mood and meekest of maidens all",
+    "Subjects": "acrostics; Virgin Mary, joys of; hymns, to Virgin Mary",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "Hymn on the Five Joys \u2014 five 8-line stanzas (\u2018MARIA\u2019) to which are added six lines forming the acrostic \u2018Pipwel\u2019",
+    "_witnesses": {
+        "BodRo22": {
+            "First Lines": "\nMyldyste of moode & mekyst of maydyns alleO modyrs mercyfullyst\n                    most chast \u00feat euer was wyfe\u2026\n",
+            "Last Lines": "\n\u2026Euyr lastyng to lyue yn \u00feat mancioneLady graunt vs thys\n                    sayde supplycacione\n",
+            "Attributed Title": "\nSancta Maria (at the start)",
+            "Editions": "\n\nHeuser,  Wilhelm. \n             \u201cDie Katherinenhymne des Ricardus Spaldyng.\u201d \n             Angli\n         30 (1907): 523-48: 257-8.\nHolthausen,  Ferdinand. \n             \u201cEin mittelenglisches gedicht \u00fcber die F\u00fcnf freuden\n                Marias.\u201d \n             Anglia\n         59 (1935): 319-21: 319-21.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 55-6.\n\n",
+            "folio": "item 2"
+        }
+    }
+}

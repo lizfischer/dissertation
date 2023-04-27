@@ -1,0 +1,44 @@
+{
+    "_id": 5521,
+    "_header": "The way of sleight and of soothness",
+    "Subjects": "sermons, verse in",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Oxford, Lincoln College Lat. 52: not in this MS; Worcester, Worcester Cathedral Library F.19: not in this MS.",
+    "_description": "On the ways to virtue, in the Fasciculus morum \u2014 one couplet",
+    "_witnesses": {
+        "Bod332": {
+            "Transcription": "\n\u00fee wey of sley\u021dte and of sothenes\u00fee wey of strenthe\n                    & of sobirnes\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 189ra"
+        },
+        "BodLauMis213": {
+            "Transcription": "\n\u00dee way of sleythe & of sothnes\u00fee way of strenke\u00fee\n                    & of methefulnes\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 206v"
+        },
+        "BodLauMis568": {
+            "Transcription": "\n\u00fee way of sleythe & of so\u00feenesse\u00fee way of\n                    strenghte & of mekenes\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 116vb"
+        },
+        "OxfCCC218": {
+            "Transcription": "\n\u00dee wey of slythe & of [sothenesse]\u00dee wey of streyngthe\n                    & of mekenesse\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 201.\n",
+            "folio": "ff. 237v-238"
+        },
+        "CamGon71": {
+            "Transcription": "\n\u00dee wey of sleyth & of sothnes\u00dee wey of strenkyth &\n                    of soburnesse\n",
+            "folio": "f. 98"
+        },
+        "Cardiff": {
+            "folio": "f. 247v"
+        },
+        "EDU82": {
+            "Transcription": "\nthe waye of sleythe & of so\u00fenesthe waye of strenght and of\n                    mekenesse\n",
+            "folio": "f. 285v"
+        },
+        "VaticanOtto": {
+            "folio": "f. 112"
+        }
+    }
+}

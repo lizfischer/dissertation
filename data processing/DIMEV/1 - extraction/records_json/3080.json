@@ -1,0 +1,39 @@
+{
+    "_id": 3080,
+    "_header": "Lift up the eyes of your advertence",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Thoroughfare of Woe\u2019",
+    "Subjects": "mutability; envoys; transitoriness, of world",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, \u2018Thoroughfare of Woe\u2019 \u2014 twenty-four 8-line stanzas (ababbcbc) including envoy and refrain, \u2018Howe \u00feis worlde is a thorughfare ful of woo\u2019",
+    "_witnesses": {
+        "CamTCC600": {
+            "First Lines": "\nLyfft vp \u00fee eyeghen of youre aduertenceYee \u00feat beon\n                    blynde with worldely vanyte\u2026\n",
+            "Last Lines": "\n\u2026Declared truwly and list not for to feyneHowe \u00feis worlde\n                    is a thorughfare ful of woo\n",
+            "Attributed Author": "\nmade by Lidegate (p. 25; RT)",
+            "Attributed Title": "\nAnd here filowing begynne\u00fee a balade of goode counseyle made by\n                    Lydegate daune Johan looke and reede (p. 25); Balade ful comendable made by\n                    Lidegate (RT)",
+            "folio": "pp. 26-32"
+        },
+        "BLHar2251": {
+            "First Lines": "\nLyft vp the Ieen of your aduertenceYe that beth blynde with worldly\n                    vanyte\u2026\n",
+            "Last Lines": "\n\u2026Declared triewly and list nat for to seyneHow this world is a\n                    thurghfare ful of woo\n",
+            "Editions": "\n\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             A Selection from the Minor Poems of Don John Lydgate.\nPercy Society\n         2. London: T. Richard, 1840: 122-8.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 822-8.\n\n",
+            "folio": "f. 246v-249v"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nLyffte vp\u00fee eyeghen of your aduertenceyee that bene blynde\n                    with worldely vanyte\u2026\n",
+            "Last Lines": "\n\u2026declared truly and lyst not for to feynehow this world is a\n                    thoroughfare full of woo\n",
+            "Note": "\nEnds \u2018fine\u2019 (f. 154).",
+            "Attributed Author": "\nlidgate daune Iohn (f. 151v)",
+            "Attributed Title": "\nAnd here foloweth a balade of good counsayle made by lidgate daune Iohn\n                    looke and Rede (f. 151v)",
+            "folio": "ff. 151v-154"
+        },
+        "BLAdd60577": {
+            "First Lines": "\nLyfte vp the eeye of your aduertenceyee that be blyndede with\n                        worldes worldly vanytee\u2026\n",
+            "Last Lines": "\nA playne myrrour how thys world cane varyeAnd ys appelyde a\n                    thorowefare full of woo\n",
+            "Attributed Author": "\nDan John Lyddegate Monke of Bury (f. 49)",
+            "Facsimiles": "\nWilson,  Edward. \n             \u201cIntroduction.\u201d \n             The Winchester Anthology. A Facsimile of British Library Additional\n                Manuscript 60577. With an account of the music by \n                    Iain\n                    Fenlon. \n         Cambridge: D. S. Brewer, 1981. \n",
+            "folio": "ff. 47-49"
+        }
+    }
+}

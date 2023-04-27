@@ -1,0 +1,60 @@
+{
+    "_id": 3000,
+    "_header": "King of grace and full of pity / Lord of Heaven I-blessed thou be",
+    "Note": "MSS without the invocation formerly listed as 1309 (see numbers 2-3 below); cf. also 4797.",
+    "Subjects": "Doomsday, signs of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Fifteen Signs before the Day of Judgment, prefaced by a short invocation of nine couplets",
+    "_witnesses": {
+        "BodAsh1416": {
+            "First Lines": "\nKynge of grace & full of pittieLord of heuyn blessed thou\n                    be\u2026\n",
+            "Last Lines": "\n\u2026then all that byn a lyueshall then to duste be\n                    dryue\n",
+            "Note": "\nLines 1-36 only",
+            "folio": "ff. 124-124v"
+        },
+        "BodAddE6": {
+            "First Lines": "\nXV tokenes tellin y mayXV dayis be forin domis dayAlso him\n                    seyez \u00fee profecieAftir \u00fee wordis of ieromie\u2026\n",
+            "Last Lines": "\n\u2026Wanne we habbin nede & nou\u00fee \u00feou vs bringe out\n                    of \u00fee deuelis mou\u00fee\n",
+            "Note": "\n212 lines",
+            "folio": "a roll, second item"
+        },
+        "BodDig86": {
+            "First Lines": "\nFiftene toknen ich tellen mayOf xv dayes er\n                    domesdai\u2026\n",
+            "Last Lines": "\n\u2026Ihesu crist \u021de \u00feat we motenAr we bended of oure\n                    sunnen debote\n",
+            "Note": "\n70 lines of text are lost with the outer half of f. 121.",
+            "Attributed Title": "\nLes xv singnes de domesdai (f. 120v)",
+            "Facsimiles": "\nTschann,  Judith A.,  and  Malcolm B. Parkes.  \n             \u201cIntroduction.\u201d \n             Facsimile of Oxford, Bodleian Library, MS Digby 86\nEETS\n         s.s. 16 (1996). \n",
+            "Editions": "\nStengel,  Edmund. \n             Coducem Manu Scriptum Digby 86\u2026.\n         Halle: Orphanotrophei, 1871: 53-7.\n",
+            "folio": "ff. 120v-122v"
+        },
+        "BodTan407": {
+            "First Lines": "\n\u2026The xite day schal come \u00feounder lythWith\n                    stormys grete & strong flyth\u2026\n",
+            "Last Lines": "\n\u2026Whan body & soule schal parte a tooCrist vs graunt\n                    \u00feat it be soo\n",
+            "Note": "\nBegins imperfectly at top of folio, Day XI to Day XV only. Also foliated\n                    pages 87-92. Hamer (1995)\nXHamer,  Richard. \n             A Manuscript Index to the Index of Middle English Verse.\n         London: British Library, 1995 lists as \u2018Reference wrong\u2019,\n                    since bad key lists as Tanner 412 (SC 10239).",
+            "Attributed Title": "\nExplicit quinquedecim Signa (f. 47v)",
+            "folio": "ff. 45-47v"
+        },
+        "CamTCC263": {
+            "First Lines": "\nKynge of grace & ful of pyteLord of heuyn I blyssyd \u00feou\n                    be\u2026\n",
+            "Last Lines": "\n\u2026And grawnt vs thatt hytt so beAmen Amen lord ffor\n                    charite\n",
+            "Note": "\n35 couplets, including 4 couplet invocation and two incomplete couplets\n                    of one line each.",
+            "Attributed Title": "\nQuindecim signa ante diem iudicij (f. 27v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Hymns to the Virgin and Christ\u2026and other religious poems.\nEETS\n         o.s. 24 (1867); repr. 1973: 118-25.\n",
+            "folio": "pt. II, f. 27v"
+        },
+        "BlCottCalAII": {
+            "First Lines": "\nKyng of heuen blessed \u00feu beLorde of grace & of\n                    pyte\u2026\n",
+            "Last Lines": "\n\u2026When we haue done here our endeTo \u00fey Ryche blysse\n                    \u00feat we mowe wende\n",
+            "Note": "\nTreated as continuation of 436,\n                    with only a small paraph mark to left of first line; arabic numbers to left of\n                    first line for each of the 15 days; large centered and yellow-washed \u2018Amen\n                    for charite\u2019 after last line, f. 91rb.",
+            "Editions": "\nVarnhagen,  Hermann. \n             \u201cZu mittelenglischen gedichten: IV-X.\u201d \n             Anglia\n         3 (1880): 59-67, 275-92, 415-25, 533-51: 544-51.\n",
+            "folio": "ff. 89rb-91rb"
+        },
+        "YaleBei365": {
+            "First Lines": "\nKyng of blysse blyssyd \u00feu belord of myth and of\n                    pete\u2026\n",
+            "Last Lines": "\n\u2026ffader the sonne and the holy gostekyng and lord thow arte\n                    moste\n",
+            "Note": "\nEnds line 266",
+            "Editions": "\nSmith,  Lucy Toulmin,\n                        ed.  \n             A Commonplace Book of the Fifteenth Century.\n         Norwich: Kerrison, Goose, 1886: 71-9.\n",
+            "folio": "ff. 23-26v"
+        }
+    }
+}

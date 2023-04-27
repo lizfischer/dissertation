@@ -1,0 +1,35 @@
+{
+    "_id": 1230,
+    "_header": "Every manner creature / Disposed unto gentilesse",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "A Lover\u2019s Lament",
+    "Subjects": "laments; lover\u2019s lament; envoys",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, A Lover\u2019s Lament \u2014 fifteen 8-line stanzas (ababbcbc) each ending, \u2018ladye dere\u2019 and envoy",
+    "_witnesses": {
+        "BodAsh59": {
+            "First Lines": "\nEvery maner creaturedisposed vn to gentylesseBoo\u00fee of\n                    kynde and of natureHa\u00fee in his hert moste\n                    gladnesse\u2026\n",
+            "Last Lines": "\n\u2026\u00feat of mercy shee not disdeyneTo bee my souereine ladye\n                    dere\n",
+            "Attributed Author": "\n\u2026made by Lydegate\u2026 (f. 45v)",
+            "Attributed Title": "\nHere folow\u00fee nexst a compleynte made by Lydegate for \u00fee departing\n                    of Thomas Chaucier in to fraunce by hes servauntz vpon \u00fee kynges ambassate\n                    (f. 45v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             \u201cRev. ed. of G. H. Kingsley,  Francis Thynne:\n                    Animadversions upon Chaucer\u2019s Works\u201d \n             EETS\n         o.s. 9 (1865), repr. 1965; re-issued Chaucer Society 2nd ser. 13\n            (1876): 122-6.\n",
+            "folio": "ff. 45v-47v"
+        },
+        "BLAdd16165": {
+            "First Lines": "\nEuery maner creatureDisposed vn to gentyllesse\u2026\n",
+            "Last Lines": "\n\u2026\u00feat she of mercy not disdeyneTo be my soueraine lady\n                    dere\n",
+            "Note": "\n16 stanzas; followed by 5108.",
+            "Attributed Author": "\nby Lydegate (f. 249v)",
+            "Attributed Title": "\nAmerous balade by Lydegate made at departing of Thomas Chaucieres on\n                    \u00fee kynges ambassade in to ffraunce (f. 249v)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             \u201cPieces from Manuscripts, No. VIII.\u201d \n             Notes and Queries\n         4th ser. 9 (1872): 500-501: 381-3.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 420-4.\n\n",
+            "folio": "ff. 249v-251v"
+        },
+        "BLHar367": {
+            "First Lines": "\nEvery maner creaturedisposid vnto gentilnesse\u2026\n",
+            "Last Lines": "\n\u2026that of marcy she not disdeyneto be my sovereyn lady\n                    dere\n",
+            "Note": "\nWritten by the hand of John Stow, on a separate leaf tipped into the\n                    volume, once folded across the middle.",
+            "Attributed Title": "\nhere folowithe a complaynt made by lidgate for the departyng of Thomas\n                    Chawcer into fraunce by his servante vpon the kyngs ambassate (f. 87)",
+            "folio": "ff. 87-87v"
+        }
+    }
+}

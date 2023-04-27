@@ -1,0 +1,37 @@
+{
+    "_id": 6697,
+    "_header": "Wine of nature properties hath nine",
+    "Note": "A Latin version is in Cambridge UK, Trinity College O.9.38 (1450) line 2 same as line 1969 of 1544. Cf. 3672.",
+    "Subjects": "wine, properties of",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "On the properties of wine \u2014 one 8-line stanza (ababbcbc)",
+    "_witnesses": {
+        "BodAuct7Q221": {
+            "First Lines": "\nWyn of Nature hath properties ixIt comfortith \u00fee hert it\n                    clerith \u00fee sigth\u2026\n",
+            "Last Lines": "\n\u2026he that is wise wil not it forsakeSo the wyn be goode &\n                    mesurably take\n",
+            "Note": "\nWritten onto end papers. Variant: two stanzas rhyme royal.",
+            "Editions": "\nMooney,  Linne R. \n             \u201cPractical Didactic Works in Middle English.\u201d \n         Diss. Toronto, 1981: 447-8.\n",
+            "folio": ""
+        },
+        "BLAdd10106": {
+            "Transcription": "\nWyne of natur propurtees hath nyneComfortith courage and clarifieth\n                    sightGladith the hert licour moost dyvyneHetith the stomake of his\n                    naturell myghtLicour of licours at festis makith men lightClensith\n                    woondis engendrith gentil blodeScowrith the palet so feble heedis makith\n                    wode\n",
+            "Note": "\n7 lines, rearranged; added to MS flyleaf by a late fifteenth-century\n                    hand.",
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.325.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 724.\n\n",
+            "folio": "f. 79"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nWyne of nature hathe properties nynecomfortythe coragis clarifiethe\n                    the syght\u2026\n",
+            "Last Lines": "\n\u2026licor of licor at festis makyth men lyghtscowreth\u00fee\n                    palat throwgh fyne \u00fee color good\n",
+            "Attributed Author": "\nper Johannem lidgate (f. 16)",
+            "Attributed Title": "\nThe ix properties of wyne per Johannem lidgate (as heading, f. 16); the\n                    nyne properties of wyne per Johannem lidgate (below last line, f. 1), both by\n                    scribe (John Stow)",
+            "Editions": "\n\nSteele,  Robert,\n                        ed.  \n             Lydgate and Burgh\u2019s Secrees of Old Philisoffres: A version of the\n                \u2018Secreta Secretorum\u2019.\nEETS\n         e.s. 66 (1894); repr. 1973: xxx.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 724.\n\n",
+            "folio": "f. 16"
+        },
+        "BLHar2252": {
+            "First Lines": "\nWyne of hys nature hathe propertes ixComfortythe Coragythe\n                    claryfyethe \u00fee syghte\u2026\n",
+            "Last Lines": "\n\u2026Lycowr of licour whyche makythe men lyghteModeratly taken hyt\n                    dothe a man myche good\n",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 724.\n",
+            "folio": "f. 2r3"
+        }
+    }
+}

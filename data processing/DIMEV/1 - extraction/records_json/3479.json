@@ -1,0 +1,30 @@
+{
+    "_id": 3479,
+    "_header": "Mercy and Truth met on a high mountain",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "A Praise of Peace",
+    "Subjects": "peace",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "A Praise of Peace, by Lydgate \u2014 twenty-four 8-line stanzas (ababbcbc) with \u2018pees\u2019 last word of each stanza",
+    "_witnesses": {
+        "CamJes56": {
+            "First Lines": "\n[M]ercye and truth met on a high mountaynBright as \u00fee sonne\n                    with his bemys clere\u2026\n",
+            "Last Lines": "\n\u2026Gladest kalendys to euery cristen Reameffor vs to come to\n                    ever lastyng pees\n",
+            "Attributed Title": "\nPax (f. 37v)",
+            "folio": "ff. 37v-41"
+        },
+        "CamTCC601": {
+            "First Lines": "\nmErcy and Trowthe met on an hygh monteyneBryght as the son with hys\n                    beames clerePease and Iustyce walkyng on the pleyneAnd with iiii\n                    sustres most goodly of theyre chere\u2026\n",
+            "Last Lines": "\n\u2026Gladdest kalendes to euery crystyn Reameffor vs to come to\n                    euerlastyng Pese\n",
+            "Attributed Author": "\nJohn lidgatt monke of bury (added by later hand, f. 290)",
+            "folio": "ff. 290-292v"
+        },
+        "BLHar2255": {
+            "First Lines": "\nMErcy and trouthe mette on an hih mounteynBriht as the sonne with\n                    his beemys cleer\u2026\n",
+            "Last Lines": "\n\u2026Gladdest kalendis to euery cristen Reemffor vs to come to\n                    evir lastyng pees\n",
+            "Attributed Author": "\nExplicit quod lydgate (f. 24, in margin)",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             Political Poems and Songs relating to English History, composed during\n                the period From the Accession of Edward III to that of Richard III.\n             2 vols. \n             Rolls Series\n         14 (1859, 1861); repr. Kraus, 1965: 2.209-15.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 785-91.\n\n",
+            "folio": "ff. 21-24*"
+        }
+    }
+}

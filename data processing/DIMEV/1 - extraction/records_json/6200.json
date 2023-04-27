@@ -1,0 +1,15 @@
+{
+    "_id": 6200,
+    "_header": "Welcome nephew welcome my cousin dear",
+    "Subjects": "pageant verses; occasional verse; Worcester; Henry VII",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Pageant verses to Henry VII in A.D. 1486 at Worcester \u2014 twenty-three stanzas rhyme royal",
+    "_witnesses": {
+        "BLCottJulBXII": {
+            "First Lines": "\nWelcome nevew welcome my cousyn dereNext of my blood\n                    descended by alyauunce\u2026\n",
+            "Last Lines": "\n\u2026In token wherof I yelde to \u00feou the kengeNow al this cite\n                    seith welcome to your ovne\n",
+            "Note": "\nFolio number reflects the most recent foliation.",
+            "folio": "ff. 13v-17"
+        }
+    }
+}

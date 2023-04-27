@@ -1,0 +1,16 @@
+{
+    "_id": 4578,
+    "_header": "Saint Cuthbert life who list to lere",
+    "Subjects": "Cuthbert, saint, life of; saints\u2019 lives",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Cuthbert \u2014 8362 short lines in couplets",
+    "_witnesses": {
+        "BLEge3309": {
+            "First Lines": "\nSaynt cuthbert lyfe who lyste to lereAnd forto knawe \u00feat\n                    coresaynte clere\u2026\n",
+            "Last Lines": "\n\u2026All \u00feat helps saint cuthbert thingTo heuens blis oure\n                    god \u00feaim bring\n",
+            "Note": "\nFollowed by 1845 as\n                    colophon.",
+            "Editions": "\nFowler,  Joseph Thomas,\n                        ed.  \n             The Life of St Cuthbert in English Verse, c. A.D 1450 from the original\n                MS. in the Library at Castle Howard.\nSurtees Society\n         87 (1891): 1-245.\n",
+            "folio": "pp. 1-203"
+        }
+    }
+}

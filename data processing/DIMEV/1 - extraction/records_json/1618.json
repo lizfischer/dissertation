@@ -1,0 +1,17 @@
+{
+    "_id": 1618,
+    "_header": "God Thou have mercy of me",
+    "Subjects": "psalms, penitential; paraphrases; Scripture texts, paraphrases of",
+    "Versification": "\u2014 twelve-line \u2014 ababababcdcd",
+    "_description": "Eleven 12-line stanzas ababababcdcd each preceded by Latin text, in this unique witness with only the Latin and first two lines of a twelfth stanza, incomplete",
+    "_witnesses": {
+        "BLAdd31042": {
+            "First Lines": "\nGod \u00feou haue mercy of meAfter thi mercy mekill of mayne\u2026\n",
+            "Last Lines": "\n\u2026fflat me noght lorde fra thi faceAll if I falle in fandynge [exsa]le\n",
+            "Note": "\nEnds imperfectly. Latin lines precede each stanza, the first, \u201cMiserere mei deus secundum magnam miserecordiam tuam\u201d (f. 102); written two lines of verse per line of the manuscript; end of last extant line partially illegible due to erasure or damage.",
+            "Facsimiles": "\nThompson,  John J. \n             Robert Thornton and the London Thornton Manuscript: British Library MS\n                Additional 31042.\n         Cambridge: at the University Press, 1987: plates 20b-21a.\n",
+            "Editions": "\n\nThompson,  John J. \n             \u201cLiterary associations of an anonymous Middle English paraphrase of\n                Vulgate Psalm L.\u201d \n             Medium \u00c6vum\n         57 (1988): 38-55: 52-5.\nFein,  Susanna Greer. \n             \u201cHaue Mercy of Me (Psalm 51): An Unedited Alliterative Poem from the\n                London Thornton Manuscript.\u201d \n             Modern Philology\n         86 (1989): 223-41: 236-41.\n\n",
+            "folio": "ff. 102-102v"
+        }
+    }
+}

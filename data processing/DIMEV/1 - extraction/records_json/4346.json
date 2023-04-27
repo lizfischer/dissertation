@@ -1,0 +1,33 @@
+{
+    "_id": 4346,
+    "_header": "Pass forth thou pilgrim and bridle well thy beast",
+    "Author(s)": "John Gower (attrib.); Benedict Burgh (attrib.)",
+    "Title(s)": "\u2018Balade moral of gode counseyle\u2019",
+    "Subjects": "counsel, moral",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "\u2018Balade moral of gode counseyle\u2019 (ascribed in one MS to Gower) \u2014 five stanzas rhyme royal",
+    "_witnesses": {
+        "BodAsh59": {
+            "Transcription": "\nPAsse for\u00fee \u00feou pilgryme and bridel wele \u00fey beesteLoke\n                    not ageine for thing \u00feat may betydeThenke what \u00feou wilt but speke\n                    ay with \u00fee leesteAvyse \u00feee weele who stonde\u00fee \u00feee\n                    besyde\u2026\u2026Remembre eke \u00feat what man do\u00fee\n                    amisse\u00feou haste or arte or may besuche as he is\n",
+            "Attributed Author": "\n\u2026made by Gower (f. 17v)",
+            "Attributed Title": "\nBalade moral of gode counseyle made by Gower (f. 17v)",
+            "Editions": "\n\nMeyer,  Paul. \n             John Gowers Beziehungen zu Chaucer und K\u00f6nig Richard II.\n         Bonn: Georgi, 1889: 72.\nMacaulay,  George Campbell,\n                        ed.  \n             English Works of John Gower.\n             2 vols. \n             EETS\n         e.s. 81, 82 (1900, 1901); repr. 1978: clxxiii.\n\n",
+            "folio": "ff. 17v-18"
+        },
+        "BodRawC86": {
+            "First Lines": "\nPasse forthe \u00feu pilgryme and brydell wele \u00fei besteloke\n                    not a gayne for \u00feynge \u00feat may be tyde\u2026\n",
+            "Last Lines": "\n\u2026But loke be hynde & war \u00fee fram herstongeThow shalt\n                    haue hurt yf \u00feu play with her lond longe\n",
+            "Note": "\nFour stanzas only.",
+            "Editions": "\nMeyer,  Paul. \n             John Gowers Beziehungen zu Chaucer und K\u00f6nig Richard II.\n         Bonn: Georgi, 1889: 72.\n",
+            "folio": "f. 89v"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nPasse forthe pilgryme and bridle well thy beasteloke not agayne for\n                    thyngs \u00feat may betyde\u2026\n",
+            "Last Lines": "\n\u2026thynke well all weye that what man doth amyssethow hast or\n                    art or may be as he is\n",
+            "Attributed Author": "\nbenedict burgh (f. 7)",
+            "Attributed Title": "\nA leson to kepe well \u00fee tonge owt of Mstr hanlays booke (heading, f.\n                        6v); Explicit to kepe thy tonge well per Magistrum benedictum\n                    burgh (below last line, f. 7); both by scribe (John Stow)",
+            "Editions": "\nF\u00f6rster,  Max. \n             \u201c\u00fcber Benedict Burghs Leben und Werke.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         101 (1898): 53-5: 50-1.\n",
+            "folio": "ff. 6v-7"
+        }
+    }
+}

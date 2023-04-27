@@ -1,0 +1,421 @@
+{
+    "_id": 2587,
+    "_header": "In Syria whilom dwelt a company",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Man of Law\u2019s Tale; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; secular saints; miracles; tidings",
+    "Versification": "\u2014 rhyme royal, seven-line \u2014 ababbcc",
+    "_description": "Geoffrey Chaucer, the Man of Law\u2019s Tale of the Canterbury Tales \u2014 1026 lines in rhyme royal stanzas.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nIn Surre vmwhile dwelled a companyeof chapmen riche & therto\n                    sadde & trewe\u2026\n",
+            "Last Lines": "\n\u2026ioye after wo gouerne vs in his graceand kepe vs alle that\n                    ben in this place\n",
+            "Attributed Title": "\nthe man of lawe (RT); Here endith the man of lawe his tale\u2026 (f.\n                    157)",
+            "folio": "ff. 143-157"
+        },
+        "BodBar20": {
+            "First Lines": "\nIn Surrye whilom duellid a compaignyeOf Chapmen riche &\n                    \u00feerto sad & trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioy aftir wo gouerne vs in his graceAnd kepe vs alle \u00feat\n                    ben in \u00feis place\n",
+            "Attributed Title": "\nThe Man of law (RT); here endith \u00fee tale of \u00fee man of law\u2026\n                    (f. 78v)",
+            "folio": "ff. 64v-78v"
+        },
+        "Bod414": {
+            "First Lines": "\n[I]N Surry whilom duelt a companyOf chapmen riche and \u00feerto\n                    sad & true\u2026\n",
+            "Last Lines": "\n\u2026Ioyes aftir wo gouerne us in his graceAnd saue hem all that\n                    ben in this place\n",
+            "Note": "\nII.197 omitted; 767 inserted in margin.",
+            "Attributed Title": "\nHere begynneth the lawyers tale (f. 52v)",
+            "folio": "ff. 52v-64v"
+        },
+        "Bod686": {
+            "First Lines": "\nIn surrie whilome dwelt a compaignyOf chapman riche & therto\n                    sadde and trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioy after wo gouerne vs in his graceAnd kepe vs all \u00feat\n                    byn in this place\n",
+            "Attributed Title": "\nHere begynne\u00fe \u00fee tale of \u00fee man of lawe (f. 57v);\n                    Man of lawe (RT); Here endeth the tale of Custaunce\u2026 (f.\n                    70v)",
+            "folio": "ff. 57v-70v"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nIN Surry whilom dwelled a companyOf chapmen riche and \u00feere to\n                    sadde and true\u2026\n",
+            "Last Lines": "\n\u2026Ioy aftre wo gouerne vs in his graceAnd kepe vs all that arn\n                    in \u00feis place Amen\n",
+            "Note": "\nII.697-8, 700, 880, 882 omitted.",
+            "Attributed Title": "\n\u2026next / biginneth the man of lawe is tale of Quene Constance (f. 52);\n                    The man of lawes tale (RT); Here endeth \u00fee man of lawes tale of\n                    Constance\u2026 (f. 64)",
+            "folio": "ff. 52-64"
+        },
+        "BodLauMis600": {
+            "First Lines": "\nIn Surry whilom duellid a companyeOf chapmen riche and \u00feerto\n                    sad and trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioie after woo gouerne vs in graceAnd kepe vs alle \u00feat\n                    ben in \u00feis place\n",
+            "Note": "\nII.967-133 lost.",
+            "Attributed Title": "\n\u00fee man of lawe (RT)",
+            "folio": "ff. 127v-142v"
+        },
+        "BodLauMis739": {
+            "First Lines": "\nIn surrie whilom dwelte a companyOf chapmen riche & \u00feerto\n                    sad & trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioye after woo gouerne vs in his graceAnd kepe vs alle that\n                    ben in this place\n",
+            "Note": "\nII.985 omitted.",
+            "folio": "ff. 84-98v"
+        },
+        "BodRawPoe141": {
+            "First Lines": "\nIn Surre while dwelled a compenyeOf chapmen ryche & therto sad\n                    & tirwe\u2026\n",
+            "Last Lines": "\n\u2026Ioye after wo gouerne vs in his graceAnd kepe vs alle that\n                    ben in this place\n",
+            "Note": "\nII.425, 822-3 omitted; spurious lines follow 430, 821, 824.",
+            "Attributed Title": "\nThe seriaunt (RT)",
+            "folio": "ff. 31-47"
+        },
+        "BodRawPoe149": {
+            "First Lines": "\nIn Surry whilom dwelled a companyOf chapmen riche & thereto sad\n                    & trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioye after woo gouerne vs in his graceAnd kepe vs all\n                    \u00feat arn in this place\n",
+            "Note": "\nII.1020-97 lost; 1119 omitted; spurious line follows 1121.",
+            "Attributed Title": "\nA tale of the Emperouris daughter of Rome (f. 24v, margin, in a\n                    later hand); the man of lawe (RT); here endith the man of lawes tale\u2026 (f.\n                        36v)",
+            "folio": "ff. 24v-36v"
+        },
+        "BodRawPoe223": {
+            "First Lines": "\nIn surrye somwhile dwelt a companyOf chapmen riche and therto sad\n                    and true\u2026\n",
+            "Last Lines": "\n\u2026Ioye aftir woo gouerne vs in his graceAnd kepe us alle that\n                    beth in this place\n",
+            "Attributed Title": "\nThe lawier tale (RT); Here endeth the tale of the man of lawe\u2026 (f.\n                    79)",
+            "folio": "ff. 63v-79"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nIn Surrye whilom dwelte a companyeeOf Chapmen riche & therto\n                    sadde & trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioye aftir woo gouerne vs in his graceAnd kepe vs alle that\n                    ben in this place Amen\n",
+            "Note": "\nII.341, 835 omitted; 341 inserted in margin.",
+            "Attributed Title": "\nNarrat (f. 191v, margin); the tale of the . man of lawe\n                    (f. 191v, margin); Here endeth the tale of the man of lawe\u2026 (f.\n                    204)",
+            "folio": "ff. 191v-204"
+        },
+        "OxfCCC198": {
+            "First Lines": "\nIn Surrye whilom dwelt a companyeof Chapmen riche and \u00feerto\n                    sad and trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioye after wo gouerne vs in his graceAnd kepe all \u00feat be\n                    in \u00feis place\n",
+            "Attributed Title": "\nExplicit (f. 90, margin)",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "ff. 75v-90"
+        },
+        "OxfNew314": {
+            "First Lines": "\nIn Surry whilom duellid A companyOf Chapmen riche \u00feerto sad\n                    & trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioie aftir woo gouerne vs and his graceAnd kepe vs alle that\n                    been in \u00feis place\n",
+            "Note": "\nII.271, 276, 504, 985 omitted.",
+            "Attributed Title": "\nMan of lawe (RT); Here endith the man of lawis tale\u2026 (f.\n                        69v)",
+            "folio": "ff. 54v-69"
+        },
+        "OxfTri49": {
+            "First Lines": "\nIn suery sum tyme dwelled a companiof chapmen riche and eke ther to\n                    sad and trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioie aftir woo gouerne vs in graceIn kepe vs al that ben in\n                    this place amen\n",
+            "Attributed Title": "\nIncipit fabula (f. 184v); Man of lawe (RT);\n                        Explicit\u2026 (f. 198)",
+            "folio": "ff. 184v-198"
+        },
+        "CULDd424": {
+            "First Lines": "\nIn Surrye whilom dwelled a companyeOf chapmen riche and ther to sad\n                    & trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioye after woo gouerne vs in his graceAnd kepe vs alle that\n                    ben in this place Amen quod Wytton\n",
+            "Note": "\nII.530-710 lost.",
+            "Attributed Title": "\nHic finitur fabula legis periti\u2026 (f. 67)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 55v-67"
+        },
+        "CULEe215": {
+            "First Lines": "\nIn surrey wylom dvelled a companyOf chapmen ryche & ther to sad\n                    & trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioye of thys worlde for tyme wolle nat a bydeffro day to\n                    nyght hit chavngethe as the tyde\n",
+            "Note": "\nII.155-61, 368-78, 396-406, 463-686, 743-98, 821-6, 850-4, 1045-50,\n                    1074-8 lost; 366-7, 394-5, 427-34, 450-62, 820, 848-9, 1044, 1072-3 partially\n                    lost.",
+            "folio": "ff. 18-23v;  28-28v;  30-35v"
+        },
+        "CULGg427": {
+            "First Lines": "\nIn Surry whilom dwellede a cumpaignyeOf chapmen riche &\n                    \u00feerto sadde & trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioye aftyr wo gouerne vs in hise graceAnd kepe vs alle\n                    \u00feat ben in \u00feis place Amen\n",
+            "Attributed Title": "\nHere endyth the man of lawe hise tale\u2026 (f. 210v)",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "Editions": "\nFurnivall,  Frederick James. \n             The Cambridge MS (University Library, Gg.4.27) of Chaucer\u2019s\n                Canterbury Tales.\nChaucer Society\n         Series 1, nos. 4, 10, 17, 28, 33, 40, 52, 66. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 196-210v"
+        },
+        "CULIi326": {
+            "First Lines": "\nIn Surrey whilome dwelled a companyOf chapmen true and riche and\n                    therto true\u2026\n",
+            "Last Lines": "\n\u2026Ioy after woo gouerne vs in his graceAnd kepe vs all that ben\n                    in this place Amen\n",
+            "Note": "\nII.626, 678, 773, 850 omitted; 137-8 reversed.",
+            "Attributed Title": "\nThe man of lawe",
+            "folio": "ff. 64-76"
+        },
+        "CULMm25": {
+            "First Lines": "\nIn surrye whilom dwelled a companyeOff chapmen riche and \u00feerto\n                    sadde and tewe\u2026\n",
+            "Last Lines": "\n\u2026Ioye after wo gouerne us in his graceAnd kepe all \u00feat\n                    bene in \u00feis place\n",
+            "Note": "\nII.520 omitted; 109, 1004-6 inserted in margin; 153-4\n                    reversed.",
+            "Attributed Title": "\nThe man of lawe (RT); Explicit\u2026 (f. 91)",
+            "folio": "ff. 78v-91"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\nIN surry whilom dwellid a companyOf merchaundes riche and\n                    \u00feerto sadde and trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioye after wo gouerne us in his graceAnd kepe us all that are\n                    in this plase\n",
+            "Note": "\nII.197-203, 302-8, 407-13, 421-7, 456-62, 645-51, 1086-92, 1135-41\n                    omitted; 154-5, 963-4 reversed.",
+            "Attributed Title": "\nThe man o[trimmed] (RT)",
+            "folio": "ff. 79-93"
+        },
+        "CamTCC582": {
+            "First Lines": "\nIn Surrye somtyme duelt a companieOf chapmen rich and therto sad\n                    & trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioye after woo gouerne vs in his graceAnd kepe vs alle that\n                    beth in this place\n",
+            "Note": "\nII.800-6, 1073 omitted. A space of twenty blank lines\n                    follows.",
+            "folio": "ff. 26vb-33vb"
+        },
+        "CamTCC595": {
+            "First Lines": "\nIn Surry whilom dwholled a compenyOf Chapmen riche therto sad and\n                    trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioy aftir wo gouerne vs in his graceAnd kepe vs alle that\n                    bene in this place\n",
+            "Attributed Title": "\nHere endeth the man of lawes tale\u2026 (f. 91v)",
+            "folio": "ff. 76-91v"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nIn Surrey whilom dwelt a companyeOf chapmen ryche and therto sad\n                    and trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioye aftir woo governe vs in this graceAnd kepe vs all that\n                    ben in this place\n",
+            "Note": "\nNo break between the Prologue (3929) and Tale.",
+            "Attributed Title": "\nSergeaunt (RT); Explicit ffabula Iurisperiti\u2026 (f.\n                        87v)",
+            "folio": "ff. 69v-87v"
+        },
+        "BLAdd25718": {
+            "First Lines": "\nIn Surrye whilom dwelled acompAnyeOf Chapmen riche and therto sadde\n                    & trewe\u2026\n",
+            "Last Lines": "\n\u2026When \u00feat \u00fee kyng \u00feis cursed letre sentAnd\n                    Custance with a dedly and pale face\u2026\n",
+            "Note": "\nII.517-701, 823-1162 lost; 411, 454 omitted.",
+            "Attributed Title": "\nlegisperiti (RT)",
+            "folio": "ff. 32v-40v"
+        },
+        "BLAdd35286": {
+            "First Lines": "\n\u2026For thei han seyn hir euer so vertuousAnd louyng hermengold\n                    ryght as hir lyf\u2026\n",
+            "Last Lines": "\n\u2026Ioy aftyr wo gouerne vs in his graceAnd kepe vs al that ben\n                    in this place\n",
+            "Note": "\nII.134-623 lost.",
+            "Attributed Title": "\nThe Sergeaunt (RT); Here endeth the Sergeauntes tale of noble Custance the\n                    Emperours / doghter of Rome\u2026 (f. 51v)",
+            "Editions": "\nHorobin,  Simon. \n             \u201cA Transcription and Study of British Library MS Additional 35286 of\n                Chaucer\u2019s Canterbury Tales.\u201d \n         Diss. Univ. of Sheffield, 1997. \n",
+            "folio": "ff. 44-51v"
+        },
+        "BLEge2726": {
+            "First Lines": "\nIN Surry whilom dwelt a companyOf Chapmen riche an \u00feer to sad\n                    and true\u2026\n",
+            "Last Lines": "\n\u2026Ioye after woo govern vs in his graceAnd kepe vs all that ben\n                    in this place\n",
+            "Note": "\nII.328-9 omitted.",
+            "Attributed Title": "\nHere begynneth the Man of Lawe his tale (f. 66); Hic finitur\n                        Legisperiti\u2026 (f. 78v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 66-78v"
+        },
+        "BLEge2863": {
+            "First Lines": "\n\u2026For here entent \u00feei take here herbergageSoiorned han\n                    \u00feese marchauntez in \u00feat town\u2026\n",
+            "Last Lines": "\n\u2026Ioye after woo governe vs his graceAnd kepe vs all \u00feat\n                    ben in this place\n",
+            "Note": "\nII.134-146, 586-737 lost; four blank lines follow 420.",
+            "Attributed Title": "\nThe Man of lawe (RT); Here endith \u00fee tale of \u00fee Man of\n                    Lawe\u2026 (f. 61v)",
+            "folio": "ff. 50-61v"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[I]n Surrey whilom dwelte a companyeOf chapmen riche and therto sad\n                    and trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioye aftir woo governe vs in his graceAnd kepe us alle that\n                    ben in this place\n",
+            "Attributed Title": "\nHeer bigynnyth the substaunce of the tale (f. 66v); The\n                    sergeaunt of lawe (RT); Explicit (f. 81)",
+            "folio": "ff. 66v-81"
+        },
+        "BLHar1239": {
+            "First Lines": "\nIn surrey sum whyle dwelte a companyeOf chapmen rich & \u00feer\n                    to sadde & trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioye aftyr wo gouerne vs in his graceAnd kepe vs al \u00feat\n                    ben in \u00feis place\n",
+            "Note": "\nII.775-898 lost; 176-82, 1023, 1042 omitted.",
+            "Attributed Title": "\nHere endyth the tale of Custace (f. 88)",
+            "folio": "ff. 80v-88"
+        },
+        "BLHar1758": {
+            "First Lines": "\nIn Surry whilom dwellid a companyeOf chapmen riche & therto sad\n                    & trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioy aftir wo gouerne vs in his graceAnd kepe vs alle that ben\n                    in this place\n",
+            "Note": "\nII.213, 215, 357, 436 inserted in margin.",
+            "Attributed Title": "\nThe Man Of lawe (RT); Here endith the Man of Lawe (f.\n                    67v)",
+            "folio": "ff. 56v-67v"
+        },
+        "BLHar5908": {
+            "First Lines": "\n\u2026Take\u00fe it a\u021den I \u021deue \u021dew leue of my\n                    graceReturne\u00fe to \u021doure faderes house quod he\u2026\n",
+            "Last Lines": "\n\u2026The smok quod he \u00feat \u00feou haste oppon \u00fei bakLet\n                    it be stil and bere it for\u00fee wi\u00fe \u00fee\u2026\n",
+            "Note": "\nChaucer\u2019s Clerk\u2019s Tale, lines IV.808-91 of The\n                        Canterbury Tales.",
+            "folio": "single leaf, f. 61"
+        },
+        "BLHar7333": {
+            "First Lines": "\nIn surry whilom \u00feer dwellid a CompanyeOf merchaundes wyse\n                    \u00fee wiche were sadde & trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioy aftir woo gouerne vus in his graceAnd kepe vus al\n                    \u00feat ben in this place Amen\n",
+            "Note": "\nII.671 omitted; 324, 485, 796 inserted in margin; 377-8\n                    reversed.",
+            "Attributed Title": "\n\u2026the begynnyng / of the tale (f. 60); Here endithe the Man of Lawes\n                    tale (f. 65).",
+            "folio": "ff. 60vb-65va"
+        },
+        "BLHar7334": {
+            "First Lines": "\nIn Surrie dwelled whilom a companyeOf Chapmen riche and \u00feerto\n                    sad and trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioy after woe gouerne vs in his graceAnd keep ous alle\n                    \u00feat ben in \u00feis place\n",
+            "Note": "\nII.417 omitted.",
+            "Attributed Title": "\nThe man of Lawes tale (RT)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "ff. 72v-86"
+        },
+        "BLHar7335": {
+            "First Lines": "\nIN Surrye whilom dwelte a compaignieOf chapmen riche and therto\n                    sadde and trewe\u2026\n",
+            "Last Lines": "\n\u2026Or Ire or talent or some kynnes affrayEnuye or pryde or\n                    pascion or offence\u2026\n",
+            "Note": "\nII.1139-62 lost.",
+            "folio": "ff. 45-61v"
+        },
+        "BLLan851": {
+            "First Lines": "\nIn Surre some while dweled a companyOf chap men riche &\n                    \u00feerto sadde & trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioy after woo gouerne vs in his graceAnd kepe vs al \u00feat\n                    bene in \u00feis place\n",
+            "Note": "\nII.122, 579, 873 omitted.",
+            "Attributed Title": "\n\u00fee man of lawe (RT); Explicit fabula legis periti\u2026 (f.\n                    79)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 66v-79"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nIn Surrye whylome dwellede A CompanyeOf chapmen ryche And\n                    \u00feerto sadde & true\u2026\n",
+            "Last Lines": "\n\u2026Ioye affter woo governe vs in his graceAnd kepe vs all that\n                    bene in this place\n",
+            "Attributed Title": "\nHere endith the tale of the mane of Lawe\u2026 (f.\n                    95v)",
+            "folio": "ff. 81v-95v"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nIn Surrye whilom dwelt a companyeOf chapmen riche & \u00feerto\n                    sad and trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioye after woo gouerne vs in his graceAnd kepe vs alle that\n                    ben in this place\n",
+            "Attributed Title": "\nThe man of lawe (RT); Explicit legisperiti fabula (f. 82,\n                    margin)",
+            "folio": "ff. 70v-82"
+        },
+        "BLSl1685": {
+            "First Lines": "\nIn surrie whilome dwellith a companyeOf Chapmen ryche &\n                    \u00feerto sadde & trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioye aftir woo gouerne vs in his graceAnd kepe vs alle\n                    \u00feat bene in \u00feis place\n",
+            "Note": "\nII.1122-35 partially lost due to tear; 213, 215, 290, 357, 479-80, 947,\n                    1067 omitted.",
+            "Attributed Title": "\nThe Man of lawe (RT)",
+            "folio": "ff. 63v-78"
+        },
+        "BLSl1686": {
+            "First Lines": "\nIN sorrye whilom dwellyd a companyOf chapmen riche and therto sad\n                    and trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioye after woo gouerne vs in graceAnd kepe vs alle that ben\n                    in this place Amen\n",
+            "Note": "\nII.461, 1055 omitted; 790-1 reversed.",
+            "Attributed Title": "\n[A] Tale of the man of lawe (RT); Here endith the mannys tale of\n                    lawe\u2026 (f. 106v)",
+            "folio": "ff. 89-106v"
+        },
+        "NLWPen392": {
+            "First Lines": "\nIn Surrye whilom dwelte a compaignyeOf chapmen riche and ther to\n                    sadde and trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioye after wo gouerne vs in his graceAnd kepe vs alle that\n                    been in thie place Amen\n",
+            "Note": "\nEnds incomplete in Parson\u2019s Tale, f. 250v.",
+            "Attributed Title": "\nHere is ended the tale of the man of lawe (f. 128, below written space,\n                    following verso blank)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "ff. 113v-128"
+        },
+        "Alnwick455": {
+            "First Lines": "\n\u2026Solempnly with al circumstaunceAnd ferth lete her seyll in\n                    this manere\u2026\n",
+            "Last Lines": "\n\u2026Ioy aftir woo govern vs and graceAnd kepe hem all that been\n                    in this place\n",
+            "Note": "\nI.134-316 lost; 318-20, 362, 391, 464-5, 471, 490, 523, 530, 866, 949,\n                    955-7, 1096, 1119 omitted; 325-7 repeated.",
+            "Attributed Title": "\nHere endith the man of law his tale\u2026 (f. 66v)",
+            "folio": "ff. 55-66v"
+        },
+        "Chats": {
+            "First Lines": "\n\u2026Now ladie bright to whom all wofull crien\u00deou glorie of\n                    womanhed \u00feu faire may\u2026\n",
+            "Last Lines": "\n\u2026Send me no more vn to non hethenesBot \u00feank my lord here\n                    of hys kyndnes\u2026\n",
+            "Note": "\nTwo fragments of the Man of Law\u2019s Tale: II.850-924;\n                    1076-1144.",
+            "Attributed Title": "\nThe man of law (RT, rubric)",
+            "folio": "ff. [1]-[2]v"
+        },
+        "GULHun197": {
+            "First Lines": "\nOn Surrey whilom duelled a companyeOf Chapmen riche and \u00feerto\n                    sadde and true\u2026\n",
+            "Last Lines": "\n\u2026Ioye after woo gouerne vs in his graceAnd kepe all \u00feat\n                    ben in this place\n",
+            "Note": "\nII.946-52, 1031 omitted; 153-4 reversed.",
+            "Attributed Title": "\nThe Man of lawe (RT); Here endeth the tale of the man of lawe\u2026 (f.\n                        37vb)",
+            "folio": "ff. 34vb-37vb"
+        },
+        "Holkham667": {
+            "First Lines": "\nIn Surry sometyme dwelte a companyeOf chapmen ryche & thertoo\n                    sadde & trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioy after woo gouerne vs in his graceAnd kepe vs all that ben\n                    in this place\n",
+            "Note": "\nII.165, 306 omitted; blank line follows 166 with spurious line added\n                    later; 641-2 reversed.",
+            "folio": "ff. 43ra-49vb"
+        },
+        "Lichfield29": {
+            "First Lines": "\nIn Surrie whilom dwelled a companyeOf chapmen riche and \u00feerto\n                    sadde and trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioye after wo gouerne vs in his graceAnd kepe vs alle\n                    \u00feat ben in \u00feis place\n",
+            "Attributed Title": "\nThe man Of lawe (RT); Here endeth \u00fee tale of \u00fee Man of\n                    Lawe\u2026 (f. 84)",
+            "folio": "ff. 71-84"
+        },
+        "Lincoln110": {
+            "First Lines": "\nIn surrie somwhile dwelled a companyeOf chappemen riche &\n                    therto sad and trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioye aftur woo gouerne vs in his graceAnd kepe vs alle that\n                    ben in this place\n",
+            "Note": "\nII.672-748 lost; 486 omitted.",
+            "Attributed Title": "\nThe Man of lawe (RT)",
+            "folio": "ff. 54v-67"
+        },
+        "LonPhys388": {
+            "First Lines": "\nIN Surrye whilom dwellid a compaignieOf chapmen Riche and therto\n                    sadde and triewe\u2026\n",
+            "Last Lines": "\n\u2026Ioye after wo gouerne vs in his graceAnd kepe vs alle that\n                    bien in this place\n",
+            "Note": "\nII.492 follows 484; 485 follows 491; 906-7 reversed.",
+            "Attributed Title": "\nExplicit fabula legisperiti\u2026 (f. 97v)",
+            "folio": "ff. 80v-97v"
+        },
+        "RylandsEng113": {
+            "First Lines": "\n[I]N Surrye whilom dwelled a compaignieOf Chapmen riche &\n                    \u00feerto sad and trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioye after woo gouerne vs in his graceAnd kepe vs alle\n                    \u00feat been in this place\n",
+            "Attributed Title": "\nIncipit fabula legisperiti (f. 47v); ffabula\n                        legisperiti (f. 47v, margin); Explicit fabula\n                        legisperiti\u2026 (f. 56v)",
+            "folio": "ff. 47v-56v"
+        },
+        "Petworth7": {
+            "First Lines": "\nIn Surry whilom dwelt a companyeOf Chapmen riche & \u00feerto\n                    sadde & trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioye after woo gouerne vs in his graceAnd kepe vs all\n                    \u00feat ben in \u00feis place\n",
+            "Attributed Title": "\nThe Man of lawes Tale (RT); Here ende\u00fe \u00fee tale of \u00fee man of\n                    lawe\u2026 (f. 103)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 86v-103"
+        },
+        "Austin143": {
+            "First Lines": "\nIn Surrye whilom dwellede a CompaignyeOf Chapmen Riche and therto\n                    sadde and trewe\u2026\n",
+            "Last Lines": "\n\u2026To com to dyner as he hym besoughtAnd well rede y\n                    he loked besily\u2026\n",
+            "Note": "\nII.1096-162 lost.",
+            "Attributed Title": "\nIncipit fabula legisperiti (f. 52v)",
+            "folio": "ff. 52v-64v"
+        },
+        "ChicagoUL564": {
+            "First Lines": "\nIn Surre whilom dwelled a companyeOf chapmen Riche & \u00feerto\n                    sad & trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioy after wo gouerne vs in his graceAnd kepe vs alle \u00feat\n                    ben in \u00feis place\n",
+            "Note": "\nII.425, 595, 822-3, 876, 949 omitted.",
+            "folio": "ff. 12v-29v"
+        },
+        "PierpontM249": {
+            "First Lines": "\nIn Surrie whilom dwelled a companyeOf chapmen riche and therto\n                    sadde and trewe\u2026\n",
+            "Last Lines": "\n\u2026To morwe wol I say what me lestThis messagere drank sadly ale\n                    and wyn\u2026\n",
+            "Note": "\nII.744-1162 lost.",
+            "Attributed Title": "\nThe man Of lawe (RT)",
+            "folio": "ff. 75v-83v"
+        },
+        "PhilRos10841": {
+            "First Lines": "\nIn surrye whylom dwelled a companyeOf chapmen ryche and therto sad\n                    and trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioy after woo gouerne vs in hys graceAnd kepe vs alle that\n                    ben in thys place\n",
+            "Note": "\nII.381-2 omitted. The MS is misbound, with [13].8 following [12].7\n                    (becoming f. 43) and Q [14] misbound to follow Q [12] (with [14] foliated 44-51,\n                    and [13] foliated 52-57). Quires [1-4] and [6-7] are inferred to be lost, with\n                    the foliation not taking account of them. Thus V.9-91 follow II.558-1190 and are\n                    in turn followed by II.79-557; a blank leaf follows, and then V.92, etc.\n                    V.656-72 lost; 134-40 omitted.",
+            "Attributed Title": "\nThe Man of lawe (RT); Here endeth the tale of the man of lawe (f.\n                        50v, rubric)",
+            "folio": "ff. 52v-57v;  43-50v"
+        },
+        "PhilRos10842": {
+            "First Lines": "\nIn Surry whylom dwelled a company\u2026\n",
+            "Last Lines": "\n\u2026A thowsand fold more \u00fean I can tel\u2026\n",
+            "Note": "\nContains fragments of the Man of Law\u2019s Tale on three\n                    folios: II.95-140, 211-350, 1051-1120.",
+            "folio": ""
+        },
+        "PUL100": {
+            "First Lines": "\nIn Surry whylom dwellid a companyOf Chapmen rich and there to sad\n                    & trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioy aftir woo govern vs in his graceAnd kepe vs al that ben\n                    in this plase Amen\n",
+            "Note": "\nII.985 omitted; 297-8 follow 301.",
+            "Attributed Title": "\nMan of lawe (RT); Her endeth the tale of the man of lawe\u2026 (f.\n                    51)",
+            "folio": "ff. 36-51"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nIN Surrye whilom dwelte a compaignyeOf chapmen riche and therto\n                    sadde and trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioye after wo gouerne vs in his graceand kepe vs alle that\n                    been in this place Amen\n",
+            "Attributed Title": "\nHeere bigynneth the man of lawe his tale (f. 50v); Man of lawe\n                    (RT); Heere endeth the tale of the man of lawe\u2026 (f. 63)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 50v-63"
+        },
+        "BNangl39": {
+            "First Lines": "\nIn surrey som tyme ther dwellid a companyof chapman\n                    riche and \u00feerto sadde & trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioy aftir wo gouerne vs in his graceand kepe vs alle \u00feat\n                    been in this place\n",
+            "Note": "\nII.176-82, 528-9 omitted; 678-9 reversed; spurious lines follow 521,\n                    522, 527, 531.",
+            "Attributed Title": "\n\u2026& incipit fabula (f. 25rb); Explicit fabula\n                        seruientis ad / legem sine iurisperiti\u2026 (f.\n                    31rb)",
+            "folio": "ff. 25rb-31rb"
+        },
+        "TokyoTak24": {
+            "First Lines": "\n[I]N Surry whilom duelt a companyOf chapmen riche and therto sad\n                    and true\u2026\n",
+            "Last Lines": "\n\u2026Ioye aftir woe gouerne vs in his graceAnd kepe vs alle that\n                    ben in this place\n",
+            "Note": "\nII.328-9 left blank.",
+            "Attributed Title": "\nLawyers tale (RT); Hic finitur fabula legis Pariti\u2026 (f.\n                    69)",
+            "folio": "ff. 56-69"
+        },
+        "TokyoTak32": {
+            "First Lines": "\nIn surrie whilim dwellede a cvmpanyeOf chapmen Riche and therto sad\n                    and trewe\u2026\n",
+            "Last Lines": "\n\u2026Ioye after woo governe vs in his graceAnd kepe vs all that\n                    been in this place\n",
+            "Attributed Title": "\nThe Man of lawe (RT); Explicit Custaunce (f.\n                    70rb)",
+            "folio": "ff. 64ra-70rb"
+        },
+        "Bodmer48": {
+            "First Lines": "\nIn Surry whilom duelt a companyOf Chapmen riche & \u00feerto\n                    sad & true\u2026\n",
+            "Last Lines": "\n\u2026Ioyes aftir woo gouerne us in his graceAnd saue hem alle that\n                    ben in \u00feis place\n",
+            "Note": "\nII.288-315, 771-84, 932-45, 1086-92 omitted.",
+            "Attributed Title": "\nHere beynne\u00fe the lawyers tale (f. 57, rubric)",
+            "Facsimiles": "\n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n",
+            "folio": "ff. 57-71"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "_id": 4941,
+    "_header": "So long thou may on the stone spit",
+    "Subjects": "proverbs",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A proverbial couplet",
+    "_witnesses": {
+        "BodDou52": {
+            "Transcription": "\nSo long \u00feou may spitt on \u00fee ston\u00feat hit wil be\n                    wet\n",
+            "Editions": "\nF\u00f6rster,  Max. \n             \u201cDie Mittelenglische Sprichw\u00f6rtersammlung in Douce 52.\u201d \n             Festschrift zum XII Deutschen Neuphilolgentage in M\u00fcnchen\n                1906.\n            E. Stollreither, ed. \n         Erlangen (1906): 40-64: 56.\n",
+            "folio": "f. 29v"
+        },
+        "RylandsLat394": {
+            "Transcription": "\nSo longe \u00feu may on \u00fee stone spete\u00feat at \u00fee laste\n                    it woll be wete\n",
+            "Note": "\nTranslating \u2018Irriguum vere lapidem tibi sputa\n                    dedere\u2019, which follows.",
+            "Editions": "\nPantin,  William A. \n             \u201cA Medieval Collection of Latin and English Proverbs\u2026from Rylands\n                Latin MS. 394.\u201d \n             Bulletin of the John Rylands Library\n         14 (1930): 81-114: 107.\n",
+            "folio": "f. 21v"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "_id": 14,
+    "_header": "A blissful life a peaceable and a sweet",
+    "Note": "Cf. Pace (1961)\nXPace, George B. \u201cThe True Text of \u2018The Former Age.\u2019\u201d Mediaeval Studies 23 (1961): 363-7.",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "The Former Age; Aetas Prima",
+    "Subjects": "Boethius, influence on; Golden Age",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "Chaucer, The Former Age [Aetas Prima] \u2014 eight 8-line stanzas",
+    "_witnesses": {
+        "CULHh412": {
+            "First Lines": "\nA blisful lyfe a peseable and a sweteleddyn the peplis in the\n                    former age\u2026\n",
+            "Last Lines": "\n\u2026Dowblenesse treson and enuyePoysonne manslawtyr mordre\n                        and enuye in sondre wyse\n",
+            "Attributed Author": "\nChaucer (f. 44)",
+            "Attributed Title": "\nffinit Etas prima Chaucers (f. 44)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \n",
+            "folio": "ff. 43v-44"
+        },
+        "CULIi321": {
+            "First Lines": "\nA Blysful lyf a paysyble & a sweteledden the poeples in the\n                    former age\u2026\n",
+            "Last Lines": "\n\u2026dowblenesse & tresoun & enuyepoyson & manslawhtre\n                    & mordre in sondry wyse\n",
+            "Attributed Author": "\nChawcer (f. 52v)",
+            "Attributed Title": "\nChawcer vp on this fyfte meter of the second book (f.\n                    52v)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             A One-Text Print of the Minor Poems.\n         2 pts. London: Tr\u00fcbner, 1871, 1880; repr. New York and London:\n            Johnson, 1967. \nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \nSkeat,  Walter William,\n                        ed.  \n             The Complete Works of Geoffrey Chaucer.\n         7 vols. Oxford: Clarendon, 1894-7: 1.380-2.\nRobinson,  F. N.,\n                        ed.  \n             The Works of Geoffrey Chaucer.\n         Oxford: Clarendon, 1933; 2nd ed. 1957: 534.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 308-10.\nPace,  George B.,  and  Alfred David, eds.  \n             The Minor Poems of Geoffrey Chaucer:\nA Variorum Edition of The Works of Geoffrey Chaucer\n         vol. 5, part 1. Norman, Oklahoma: University of Oklahoma Press,\n            1982: 97-101.\nBenson,  Larry Dean,\n                        ed.  \n             The Riverside Chaucer.\n         3rd ed. Boston: Houghton Mifflin, 1987: 650-1.\n\n",
+            "folio": "ff. 52v-53"
+        }
+    }
+}

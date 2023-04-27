@@ -1,0 +1,29 @@
+{
+    "_id": 4560,
+    "_header": "Saint Benedict led holy life that was so holy man",
+    "Note": "For the usual version see 4549.",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Benedict of Nursia, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A variant of the Life of St. Benedict in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nSEint Benet ladde holy lyf \u00feat was so holy Mon\u00dee Ordre of\n                    White Monkes furst stable he bigon\u2026\n",
+            "Last Lines": "\n\u2026Now God for his swete loue vs graunte \u00feulke\n                    blisse\u00deat seint Benet is inne in heuene \u00feat we \u00feerof ne\n                    misse. Amen.\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nMcCann,  Justin. \n             \u201cEarly English Verses on St. Benedict.\u201d \n             Downside Review\n         41 (1928): 44-56: 53-55.\n",
+            "folio": "f. 16ra-16rb"
+        },
+        "CamFitzMc128": {
+            "Transcription": "\nSaint benett lad ful god lif & was a holy manAnd the ordre of\n                    white monkis he first to stable beganffrom \u021douth to his deth dayfull\n                    holy life he laddeAnd the ordre of monkis white & her rewle he\n                    raddeWel holy was his name & bettir was his dede\n",
+            "Note": "\nLines 1-5 only.",
+            "folio": "f. 20v"
+        },
+        "Lam223": {
+            "First Lines": "\nSAynt Benet lad ful gode luf & was an holy manAnd \u00fee ordre\n                    of whyte monkes he first to stable began\u2026\n",
+            "Last Lines": "\n\u2026\u00dee xxj day of Marche of mydlerd he went y wisNow god for\n                    \u00fee love of hym vs alle bringe to his blisse\n",
+            "Attributed Title": "\nSaynt Benet (RT)",
+            "folio": "ff. 88v-90"
+        }
+    }
+}

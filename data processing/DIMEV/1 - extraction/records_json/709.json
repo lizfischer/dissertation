@@ -1,0 +1,80 @@
+{
+    "_id": 709,
+    "_header": "At my beginning Christ me speed",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 220; same as opening of 708 and 712; see also 2546.",
+    "Subjects": "instruction, father to son; children, instructions for behaviour of; scribes",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Dublin, Trinity College, Dublin 174: only the Latin version, \u2018Domine sancte pater omnipotens sempiterne deus qui nos ad principium huius diei pervenire fecisti tua nos\u2019.",
+    "_description": "A tag to be learned as a child, or at beginning of a book \u2014 one couplet",
+    "_witnesses": {
+        "BodTan178": {
+            "Transcription": "\nAt ourer begynnyng god be my spedeWyth grase an vartv to\n                    prosede\n",
+            "Note": "\nWritten by a hand of the fifteenth century into lower\n                    margin.",
+            "folio": "f. 1v"
+        },
+        "CULAdd3042": {
+            "Transcription": "\nAt my be gennynge god be my spedIn grace And uertue to\n                    prosede\n",
+            "Note": "\nAdded to blank folio by a fifteenth-century hand.",
+            "folio": "f. 2v"
+        },
+        "CULIi636": {
+            "Transcription": "\nAt my begynnyg Crist me spedeIn vereb and lernyg for to spedeIn\n                    vereb and lernyg for to spede\n",
+            "Note": "\nAdded to originally blank flyleaf by an inexperienced hand.",
+            "folio": "f. 2v"
+        },
+        "BLHar3362": {
+            "Transcription": "\nAt owre begynnyng God vs spedeWith grace & vertue to procede\n",
+            "Note": "\nScribbled on blank space after last text in manuscript; repeated twice more below by novice hands.",
+            "folio": "f. 89"
+        },
+        "BLRoy12Exvi": {
+            "Transcription": "\nIn mine begininge god be my good spedIn grace and vertue to\n                    procede\n",
+            "Note": "\nCopied twice as pen trials. The version quoted appears upside down at\n                    the foot of the folio and the following variant appears at the head: \u2018In\n                    the beginnyng god bi my sped / In\u2026and vertu to prosed\n                    and\u2019.",
+            "folio": "f. 186v"
+        },
+        "DULCosViii9": {
+            "Transcription": "\nIn the begynnyng god my speadewythe ggrace & vertu\n",
+            "Note": "\nAdded to lower margin by a fifteenth-century hand.",
+            "Facsimiles": "\nBurrow,  John,  and  A. I. Doyle, eds.  \n             Thomas Hoccleve: A Facsimile of the Autograph Verse\n                Manuscripts.\nEETS\n         s.s. 19 (2002). \n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.   Hoccleve\u2019s Works: The Minor Poems. vol. 1.  EETS\n         e.s. 61 (1892); repr. with Gollancz (1925)\nXGollancz,  Israel. \n             Hoccleve\u2019s Works: The Minor Poems. vol. 2.  EETS\n         e.s. 73 (1925); repr. with 61, 1970 73; rev. J.\n            Mitchell and A. Ian Doyle, 1970: 126.\n",
+            "folio": "f. 17v"
+        },
+        "Lincoln189": {
+            "Transcription": "\nIn my begeninge god be my spedin grace and vertue to\n                    proced\n",
+            "Note": "\nAdded (twice) to blank space after table of contents by a\n                    fifteenth-century hand.",
+            "folio": "f. 5v"
+        },
+        "HarEng752": {
+            "Transcription": "\nIn my Beginninge god be my spedeIn grayce and vertue for to\n                    procede\n",
+            "Note": "\nSigned \u2018By me Thomas Kynton\u2019 (f. 184).",
+            "Facsimiles": "\nLydgate,  John. \n             Troy book : manuscript, [14--]. MS Eng 752.\n         Houghton Library, Harvard University, Cambridge, Mass. [digital facsimile of Harvard, Houghton Library MS Eng 752 (http://nrs.harvard.edu/urn-3:FHCL.HOUGH:1192991)]. \n",
+            "folio": "f. 184"
+        },
+        "HarRich35": {
+            "Transcription": "\nIn my begynnyng god be me spydIn grase and virtu for to\n                    prosyd\n",
+            "Note": "\nAdded by a later hand to space between chapters 161 and 162 of prose\n                        Brut.",
+            "folio": "f. 56ra"
+        },
+        "PierpontB5": {
+            "Transcription": "\nAt my beginyng god me spedeIn grace and vertu to procede\n",
+            "Note": "\nMarginal note, here with additional prose note; usually couplet\n                    opening.",
+            "folio": "f. 60v"
+        },
+        "HunHM125": {
+            "Transcription": "\nIn my begynynge god be my good spedeIn grace & vertue all waye to\n                    prosed[e]\n",
+            "Note": "\nAdded to left margin, bottom to top, by a hand of the sixteenth century;\n                    signed \u2018Chrystefer Byrkheade\u2019 in right margin.",
+            "Editions": "\nDutschke,  C. W. \n             Guide to Medieval and Renaissance Manuscripts in the Huntington\n                Library.\n         2 vols. San Marino, CA: Huntington Library, 1989: 1.157.\n",
+            "folio": "f. 95v"
+        },
+        "HunHM126": {
+            "Transcription": "\nIn my begenenge god be my spedin Graes and vertu to prosed\n",
+            "Note": "\nBy a hand of the seventeenth century.",
+            "folio": "f. iii"
+        },
+        "TCD340": {
+            "Transcription": "\nIn my be gynnynge god be w[ ]In grace and werte to procede\n",
+            "Note": "\nScribble in originally blank column added by a fifteenth-cnetury\n                    hand.",
+            "folio": "f. 166"
+        }
+    }
+}

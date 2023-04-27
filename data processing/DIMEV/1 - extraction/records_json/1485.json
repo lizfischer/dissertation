@@ -1,0 +1,31 @@
+{
+    "_id": 1485,
+    "_header": "Gabriel of high degree / Came down from the Trinity",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler TM 455.",
+    "Subjects": "carols, of the Annunciation; Virgin Mary, Annunciation to",
+    "Versification": "\u2014 four-line, two-line \u2014 aa, aaab",
+    "_description": "Annunciation carol \u2014 seven 4-line stanzas (aaab) including refrain, \u2018With noua\u2019, plus burden (bb): \u2018Nova Nova / Ave fit ex Eva\u2019",
+    "_witnesses": {
+        "BodEngPoete1": {
+            "First Lines": "\nGabryell of hy\u021de degreeCam down from \u00fee\n                    trenyte\u2026\n",
+            "Last Lines": "\n\u2026& godes mayd now se me herewith noua\n\n",
+            "Editions": "\n\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 170-1; 1977, 151.\nWright,  Thomas,\n                        ed.  \n             Songs and Carols from a manuscript\u2026of the Fifteenth\n                Century.\nPercy Society\n         23. London: Richards, 1847: 36-7.\n\n",
+            "folio": "f. 27"
+        },
+        "OxfBal354": {
+            "First Lines": "\nGabriell of hygh degreHe cam down from the\n                    trynyte\u2026\n",
+            "Last Lines": "\n\u2026I am godes own trulyEcce ancilla dominivt\n                    novaExplicit\n",
+            "Note": "\n8 stanzas.",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 170-1; 1977, 150-1.\nWright,  Thomas,\n                        ed.  \n             Songs and Carols from a manuscript\u2026of the Fifteenth\n                Century.\nPercy Society\n         23. London: Richards, 1847: 36-7.\nFl\u00fcgel,  Ewald. \n             \u201cEnglische Weihnachtslieder aus einter Handschrift des Balliol College\n                zu Oxford.\u201d \n             Forschungen zur deutschen Philologie. Festgabe f\u00fcr Rudolf\n                Hildebrands.\n         Leipzig: Deit, 1894: 52-84: 58.\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 229-30.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 5-6.\nGreenberg,  Noah. \n             An English Songbook.\n         Garden City, NY: Doubleday, 1961: 66.\nFrost,  Leslie,\n                        ed.  \n             Come Christmas.\n         New York: Coward-McCann, 1935: 264.\n\n",
+            "folio": "p. 4602"
+        },
+        "GULHun83": {
+            "First Lines": "\nGabriell off hye degreHe came downe frome\n                    trinite\u2026\n",
+            "Last Lines": "\n\u2026I am your seruaunt ry\u021dt truelyWith\necce ancilla domini\n\n",
+            "Note": "\nSix 3-line stanzas, monorhyming, plus burden, \u2018Noua noua Aue fit\n                    ex Eua\u2019.",
+            "Editions": "\n\nRobbins,  Rossell Hope. \n             \u201cTwo New Carols (Hunterian MS. 83).\u201d \n             Modern Language Notes\n         58 (1943) 39-42: 40-1.\nStevens,  John,\n                        ed.  \n             Mediaeval Carols.\nMusica Britannica\n         4. London: Stainer and Bell, 1952, 2nd ed. 1958: 111.\nRobbins,  Rossell Hope. \n             Early English Christmas Carols.\n         New York and London: Columbia UP, 1961: 64.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon, 1977 (see\n            also Greene (1935)\nXGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977): 151.\n\n",
+            "folio": "f. ivv"
+        }
+    }
+}

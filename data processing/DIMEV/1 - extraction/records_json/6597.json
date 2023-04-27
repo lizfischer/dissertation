@@ -1,0 +1,23 @@
+{
+    "_id": 6597,
+    "_header": "Whoso beholdeth well as with my eye",
+    "Note": "Translated from his French poem printed in Champollion-Figeac (1842)\nXChampollion-Figeac, Aime. Les Poesies du duc Charles d\u2019Orleans. Paris, 1842, 30.",
+    "Author(s)": "Charles d\u2019Orl\u00e9ans",
+    "Subjects": "roundels; love lyrics",
+    "Versification": "\u2014 fourteen-line \u2014 abbaabababbaab",
+    "_description": "Charles d\u2019Orl\u00e9ans, a roundel \u2014 fourteen lines",
+    "_witnesses": {
+        "BodHerD38": {
+            "Editions": "\n\nHausknecht,  Emil. \n             \u201cVier gedichte von Charles d\u2019Orleans.\u201d \n             Anglia\n         17 (1895): 445-7: 477.\nBliss,  Philip. \n             Reliquiae Hearnianae.\n         London: J. Russel Smith, 1869: 1.266-7.\n\n",
+            "folio": "p. 263"
+        },
+        "BLHar682": {
+            "First Lines": "\nWho so biholdith wel as with my eyeMi verry lady and my sul\n                    maystres\u2026\n",
+            "Last Lines": "\n\u2026In hir he shalle se a gret and hvug largesOf plesaunce\n                    spryngyng from gret to more goodly\n",
+            "Note": "\nAs written, repeats first words of lines 1-2 at end to indicate going back to first four lines of the roundel.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 682.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_682. \n",
+            "Editions": "\n\nTaylor,  G. Watson. \n             Poems Written in English by Charles Duke of OrleansOrleans, during his\n                Captivity in England after the Battle of Azincourt\nRoxburghe Club\n         44. London, 1827: 143.\nSteele,  Robert,\n                        ed.  \n             Charles of Orleans: The English Poems.\n             Vol. 1. \n             EETS\n         o.s. 215 (1941); vol. 2. ed. Robert Steele and Mabel Day, o.s. 220; repr. as one volume, 1970: 109.\nArn,   Mary-Jo,\n                        ed.  \n             Fortunes Stabilnes: Charles of Orleans\u2019s English Book of Love. A\n                Critical Edition.\n         Binghamton, NY: Medieval and Renaissance Texts and Studies,\n            1994: 255-56.\n\n",
+            "folio": "f. 65v"
+        }
+    }
+}

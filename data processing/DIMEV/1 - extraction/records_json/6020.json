@@ -1,0 +1,41 @@
+{
+    "_id": 6020,
+    "_header": "To thee now Christs dear darling",
+    "Note": "Cf. 3909.",
+    "Subjects": "carols, to saints; John the evangelist, saint",
+    "Versification": "\u2014 four-line \u2014 abac",
+    "Macaronic": "Latin",
+    "_description": "Hymn to St. John the Evangelist \u2014 four quatrains (abac) including refrain, \u2018Amice Christi Iohannes\u2019, plus burden(dc): \u2018Pray for vs to the prince of peace / Amice Crysty Iohannes\u2019",
+    "_witnesses": {
+        "BodEngPoete1": {
+            "First Lines": "\nTo \u00fee now crystys der derlyng\u00feat was a mayd bothe ald\n                    & \u021dyng\u2026\n",
+            "Last Lines": "\n\u2026Go help \u00feat we be nott for sakeamici cristi\n                        Iohannes\n\n",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             Songs and Carols from a manuscript\u2026of the Fifteenth\n                Century.\nPercy Society\n         23. London: Richards, 1847: 60.\nGreene,  Richard Leighton,\n                        ed.  \n             A Selection of English Carols.\nClarendon Medieval and Tudor Series.\n         Oxford: Clarendon, 1962: 79.\n\n",
+            "folio": "f. 40"
+        },
+        "OxfBal354": {
+            "First Lines": "\nTo crystis own derlyngThe whyche was mayd both old &\n                    yong\u2026\n",
+            "Last Lines": "\n\u2026Pray we to hym \u00feat he vs not for sakeAmice Christi\n                        IohannesExplicit\n",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 172.\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 237.\nSegar,  Mary Gertrude,\n                        ed.  \n             A Mediaeval Anthology.\n         London, NY: Longmans, Green, 1915: 103.\nRickert,  Edith,\n                        ed.  \n             Ancient English Christmas Carols.\n         London: Chatto & Windus, 1910: 126.\n\n",
+            "folio": "p. 4651"
+        },
+        "CamTCC1230": {
+            "Editions": "\n\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 66-7; 1977, 55.\nFuller-Maitland,  John Alexander,  and  William Smyth Rockstro.  \n             English Carols of the Fifteenth Century.\n         London: Leadenhall Press; New York: Scribner\u2019s, 1891: 25.\nStevens,  John,\n                        ed.  \n             Mediaeval Carols.\nMusica Britannica\n         4. London: Stainer and Bell, 1952, 2nd ed. 1958: 10.\nDavies,  Reginald Thorne. \n             Medieval English Lyrics: a critical anthology.\n         London, 1963; Evanston, IL: Northwestern UP, 1964: 157.\n\n",
+            "folio": "Art. 12"
+        },
+        "BLAdd5665": {
+            "Note": "\nBurden and stanzas 1, 4 only.",
+            "Attributed Title": "\n\nde sancto Johanne\n",
+            "Editions": "\n\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 172.\nFehr,  Bernhard. \n             \u201cDie Lieder der Hs. Add. 5665 (Ritson\u2019s Folio-MS).\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         106 (1901): 262-85: 273.\nStevens,  John,\n                        ed.  \n             Mediaeval Carols.\nMusica Britannica\n         4. London: Stainer and Bell, 1952, 2nd ed. 1958: 105.\n\n",
+            "folio": "ff. 48v-49"
+        },
+        "BLHar4294": {
+            "First Lines": "\nI shall you tell of crystes derlyngThat was a mayd both old and\n                    yong\u2026\n",
+            "Last Lines": "\n\u2026And for be others makePrey we to cryst we be nott\n                    forsake\n",
+            "Note": "\n5 stanzas.",
+            "Editions": "\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 66-7; 1977, 56.\n",
+            "folio": "f. 81v1"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "_id": 4751,
+    "_header": "Saint Philip and Jacobs day",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Philip and James, saints",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018In festo sanctorum apostolorum Philippi & Iacobi\u2019, in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 240va"
+        },
+        "BLHar4196": {
+            "First Lines": "\nSAint philip & Iacob dayes first in \u00fee Moneth of may\u2026\n",
+            "Last Lines": "\n\u2026\u00feai war cristend and come to blisso forto wirk ihesu vs wis\n",
+            "Attributed Author": "\nIn festo sanctorum apostolorum Phylippi & Iacobi (rubric, f. 148rb)",
+            "Editions": "\nHorstmann,  Carl. \n             Altenglische Legenden: Neue Folge.\n         Heilbronn: Henninger, 1881: 52-6.\n",
+            "folio": "ff. 148rb-149rb"
+        }
+    }
+}

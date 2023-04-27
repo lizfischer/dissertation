@@ -1,0 +1,55 @@
+{
+    "_id": 4331,
+    "_header": "Our wisdom this world has bereft",
+    "Subjects": "sermons, verse in; Rome, example of; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A tag in the Fasciculus morum regarding how war and famine overthrew Rome \u2014 four lines translating a Latin interpretation of an inscription",
+    "_witnesses": {
+        "Bod187": {
+            "Transcription": "\nOwr wysdam \u00fee worlde ha\u00fe vs by raftepes of lond ye lost and\n                    lafte\u00fee kyngdom of rome ys for loreWith swerde hunger & fyr\n                    \u00feerfore\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 159vb"
+        },
+        "Bod410": {
+            "Transcription": "\nOur wysdam \u00feis world has by raftPees of lond is lost &\n                    laftThe kyngdome of Rome be for loreWith swerd hunge & ffyr\n                    \u00feerfore\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 38v"
+        },
+        "BodLauMis213": {
+            "Transcription": "\nOure wisdam \u00feis world hathe by ravi\u00fePes of lond is lost and\n                    last\u00dee kyndome of rome be\u00fee for loreWith swerd houngure and\n                    fire \u00feerfore\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 55"
+        },
+        "BodRawC670": {
+            "Transcription": "\n[Oure] wysdam \u00feis world ha\u00fe byraftPes of londe is loste and\n                    lafte\u00dee kyndam of Rome bet\u021d for loreWith swerd hongur and\n                    fuyre \u00feer-fore\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 169.\n",
+            "folio": "f. 68v"
+        },
+        "CamGon71": {
+            "Transcription": "\nOure wysdom \u00feis world ous has be reftepes of londe is lost\n                    kyndom of rome is for lornewyth swerd hunger & fyre \u00feer\n                    fro\n",
+            "Note": "\nThree non-rhyming lines.",
+            "folio": "f. 47"
+        },
+        "EDU82": {
+            "Transcription": "\nOwre wisdom this world hathe by raftPes of Londe is lost and\n                    lastThe kyngdom of rome schal be for loreWyth swerde houngure and\n                    fyure therfor\n",
+            "folio": "f. 82v"
+        },
+        "Lincoln44": {
+            "Transcription": "\nOure vuysdom \u00feis world ha\u00fe by raftPes of londe ys lost and\n                    last\u00dee kyngdom of al rome schal be for loreWy\u00fe swerde\n                    hongure and sure \u00feerfore\n",
+            "folio": "f. 187ra"
+        },
+        "Spalding": {
+            "Transcription": "\nWysdame the warlde has reftPece of contre is lostthe kyndome of\n                    rome is for lordeWith swerd hungre & fyre \u00feerfore\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 73"
+        },
+        "WorcF19": {
+            "Transcription": "\nOure wisd[om] \u00feis world hat byraftpeis of londe is lost &\n                    laft\u00fee kyngdum of rome schal for lorewit swerd hunger & fuyr\n                    \u00feer fore\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 188va"
+        },
+        "VaticanOtto": {
+            "folio": "f. 41"
+        }
+    }
+}

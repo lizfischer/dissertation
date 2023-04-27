@@ -1,0 +1,34 @@
+{
+    "_id": 5666,
+    "_header": "This brevit book of sober quantity",
+    "Author(s)": "William of Tours",
+    "Title(s)": "\u2018The Contemplacioun of Synnaris\u2019",
+    "Subjects": "treatises, devotional",
+    "Versification": "\u2014 eight-line",
+    "_description": "?William of Tours, Friar, \u2018The Contemplacioun of Synnaris\u2019 \u2014 1560 lines in eight-line stanzas",
+    "_witnesses": {
+        "BLAru285": {
+            "First Lines": "\nThis breuit Buke of sober quantiteOff Synnaris callit \u00fee contemplacioun\u2026\n",
+            "Last Lines": "\n\u2026Schaw well in werk & without questiounThow sall in hevin be our lawreat\n",
+            "Attributed Author": "\nWilliam of touris of \u00fee ordour of \u00fee frer minouris (f. 47v); Explicit este Libellus ex compilacione et translacione fratris William Touris Ordinis Minors (f. 84)",
+            "Attributed Title": "\nHEir Begynnis \u00fee contemplacioun of Synnaris compilit be frer William of touris of \u00fee ordour of \u00fee frer minouris (f. 47v); William Touris Ordinis Minors (f. 84)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Arundel MS 285.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Arundel_MS_285. \n",
+            "Editions": "\nBennett,  Jack Arthur Walter,\n                        ed.  \n             Devotional Pieces in Verse and Prose from Ms. Arundel 285 and Ms.\n                Harleian 6919.\nScottish Text Society\n         3rd ser. 23. Edinburgh: Blackwood, 1955: 64-169.\n",
+            "folio": "f. 47"
+        },
+        "BLHar6919": {
+            "First Lines": "\nThis breuit buke of sobre quantiteOf synnaris callit \u00fee\n                    contemplacioun\u2026\n",
+            "Last Lines": "\n\u2026Schaw will In werk and without questiounThow sall In hewin\n                    for ewir be laureate\n",
+            "Editions": "\nBennett,  Jack Arthur Walter,\n                        ed.  \n             Devotional Pieces in Verse and Prose from Ms. Arundel 285 and Ms.\n                Harleian 6919.\nScottish Text Society\n         3rd ser. 23. Edinburgh: Blackwood, 1955: 64-169.\n",
+            "folio": "ff. 2-49v"
+        },
+        "Asloan": {
+            "First Lines": "\nTHis brevit buke of sobir quantiteOff Synnaris callit \u00fee\n                    contemplacioun\u2026\n",
+            "Last Lines": "\n\u2026Schawe will in werk & without questiounThow sall in\n                    hevyne for evir be laureat\u2026\n",
+            "Note": "\n1552 lines; ends imperfectly; equals pages 545-59.",
+            "Attributed Title": "\nHeir ffollowis The comtemplacioun of synnaris appliand for euerilk day of\n                    \u00fee oulk And first for monunday of \u00fee blynd and blunder and vicious\n                    wanyte of \u00feis warld (f. 263); Heir endis \u00fee buke of \u00fee\n                    contemplacioun of synnaris writtin be \u00fee hand of Ihon asloan (f.\n                    290)",
+            "Editions": "\nCraigie,  William Alexander. \n             The Asloan Manuscript.\n             2 vols. \n             Scottish Text Society\n         n.s. 14, 16. Edinburgh, London: Blackwood, 1923, 192: 2.187-241.\n",
+            "folio": "ff. 263-290"
+        }
+    }
+}

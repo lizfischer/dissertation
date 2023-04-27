@@ -1,0 +1,65 @@
+{
+    "_id": 56,
+    "_header": "A good tale hereby lies / Of a woman that hight Thais",
+    "Note": "For other MSS see 4975.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Thais, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Thais, in the Northern Homily Cycle \u2014 in couplets",
+    "_witnesses": {
+        "BodSelSup52": {
+            "First Lines": "\nAn ensampyll we fynd \u00feisof on woman \u00feat hygh\n                    tayfys\u2026\n",
+            "Last Lines": "\n\u2026& qwen sche dyed to god went schoGod graunt vs all so\n                    forto do\n",
+            "folio": "ff. 205-205v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nA Good luyte tale here lysOf a wommon \u00feat hihte\n                    Tays\u2026\n",
+            "Last Lines": "\n\u2026And bring vs to \u00feat ilke blis\u00deer meke men wi\u00fe\n                    crist is. Amen.\n",
+            "Attributed Title": "\nConuersio Taysis meretricis (f. 195va)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDie Evangelien-Geschichten der Homiliensammlung des Ms. Vernon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         57 (1877): 241-316: 279.\n",
+            "folio": "f. 195va1"
+        },
+        "BodEngPoetc3": {
+            "First Lines": "\nA tall of a woman her by lyse\u00feat I will say \u021dhou or I\n                    ryse\u2026\n",
+            "Last Lines": "\n\u2026[ ] hir saule gaffe scho[ ] god \u00feat we doo\n",
+            "Attributed Title": "\nThayses (f. 2vb)",
+            "folio": "f. 2va-2vb"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nAn ensaumple we fynde of \u00feisOf a womman \u00feat hight\n                    taysis\u2026\n",
+            "Last Lines": "\n\u2026And when sche dyed to god went schoGod graunte vs alle so\n                    forto do\n",
+            "folio": "pp. 217-218"
+        },
+        "CULDd11": {
+            "First Lines": "\nA Good litil tale here lyesof a foli woman \u00feat highte\n                    Tayes\u2026\n",
+            "Last Lines": "\n\u2026\u00feat to god hire soule \u021daf schoSo graunte vs god\n                    \u00feat we may do\n",
+            "folio": "f. 135"
+        },
+        "CULGg531": {
+            "First Lines": "\nA gude tall hereby lyesOf a woman \u00feat hyght\n                    tays\u2026\n",
+            "Last Lines": "\n\u2026\u00deat to god hyr saule \u021dalde schoAnd swa len god\n                    \u00feat we may do\n",
+            "Attributed Title": "\nNarracio (f. 91)",
+            "folio": "ff. 91-91v"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nA Goode lyte tale here lysOf a womon \u00feat hiht\n                    Tays\u2026\n",
+            "Last Lines": "\n\u2026May I not of hir penaunce telleffor longe hit weore\n                    \u00feeron to dwelle\u2026\n",
+            "Note": "\nIncomplete.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 1vc-2ra"
+        },
+        "MinULZ822": {
+            "First Lines": "\nAnd a gude tale here lyesof ane common woman hyght\n                    tasyes\u2026\n",
+            "Last Lines": "\n\u2026\u00feat hyr cely saule to god gaf schoand swa leue gode\n                    \u00feat we may do\n",
+            "folio": "ff. 100-100v"
+        },
+        "HunHM129": {
+            "First Lines": "\nAnd a gode litill tale here lyisOff and hore \u00feat heght\n                    tayis\u2026\n",
+            "Last Lines": "\n\u2026\u00deat hyr sely gost to god \u021dold schoAnd so gyff god\n                    \u00feat we may do\n",
+            "Attributed Title": "\nnarracio (f. 114)",
+            "Editions": "\nWhatley,  Gordon E.,\n                        ed.  \n             Saints\u2019 Lives in Middle English Collections.\n         With Anne B. Thompson and Robert K. Upchurch. MI: Western Michigan\n            University for TEAMS, 2004. \n",
+            "folio": "ff. 114-114v"
+        }
+    }
+}

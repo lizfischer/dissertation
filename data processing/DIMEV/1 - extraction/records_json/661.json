@@ -1,0 +1,58 @@
+{
+    "_id": 661,
+    "_header": "As much as was worship",
+    "Subjects": "translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Worcester, Worcester Cathedral Library F.19: not in this MS; Oxford, Lincoln College Lat. 52: not in this MS.",
+    "_description": "A tag in the Fasciculus morum (Foster (1940)\nXFoster, Frances Allen. \u201cSome English Words from the Fasciculus Morum.\u201d Essays and Studies in Honor of Carleton Brown. Percy Waldron Long New York: NYU Press; London: Humphrey Milford, Oxford University Pres, 1940: 149-57, sermons no.5) \u2014 one couplet translating a sermon theme, 1 Macc. 1.42",
+    "_witnesses": {
+        "Bod187": {
+            "Transcription": "\nAs moche as was hys worschyp \u021dut more was hys\n                    shameshep\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 216ra"
+        },
+        "Bod332": {
+            "Transcription": "\nAls muche as was his wirship\u021dit more was hys\n                    shenshippe\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 189va"
+        },
+        "BodLauMis213": {
+            "Transcription": "\nAs myche as was wyrchepe\u021dyt more was ys schenchepe\n                    [sic]\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 208"
+        },
+        "BodLauMis568": {
+            "Transcription": "\nAs moche as was his worschup \u021dut more was his\n                    schameschep\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 117rb"
+        },
+        "OxfCCC218": {
+            "Transcription": "\nAs moche as was hys worschep\u021dut more was hys\n                    schamschep\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 202.\n",
+            "folio": "f. 238v"
+        },
+        "CamGon71": {
+            "Transcription": "\nAs myche os was hys wrschepe\u021cit more was hys\n                    schenchepe\n",
+            "folio": "f. 98v"
+        },
+        "Cardiff": {
+            "folio": "f. 248v"
+        },
+        "DULCosViv2": {
+            "Transcription": "\nAls muche was his worship\u021det more was his shenshippe\n",
+            "folio": "f. 110"
+        },
+        "EDU82": {
+            "Transcription": "\nAs mekel as was his wurscippe\u021cut more was his\n                    schamchip\n",
+            "folio": "f. 286v"
+        },
+        "Spalding": {
+            "Transcription": "\nAlso mekyll was his wirshippeand yet more was his\n                    shameshyppe\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 180"
+        },
+        "VaticanOtto": {
+            "folio": "f. 112v"
+        }
+    }
+}

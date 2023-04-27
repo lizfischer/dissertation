@@ -1,0 +1,37 @@
+{
+    "_id": 3692,
+    "_header": "Next that a tournament was tried",
+    "Note": "Cf. 845.",
+    "Author(s)": "William Dunbar",
+    "Title(s)": "\u2018The justis betuix the tailyeour and sowtar\u2019",
+    "Subjects": "gallants, criticism/satire of; satire; jousts; ournaments",
+    "Versification": "\u2014 twelve-line \u2014 aabccbddbeeb",
+    "_description": "\u2018The justis betuix the tailyeour and sowtar\u2019, by William Dunbar \u2014 nine 12-line tail-rhyme stanzas",
+    "_witnesses": {
+        "CamMagPep2553": {
+            "First Lines": "\nSyn till ane turnament fast \u00feai hyitThat lang befoir in hell\n                    wes cryit\u2026\n",
+            "Last Lines": "\n\u2026Befoir mahoun the dewill of hellSchiris trow It gif \u021de\n                    list\n",
+            "Note": "\nPrefixed by lines 1-12, 109-120 of 4164; 12-line tail-rhyme stanzas, aabccbddbeeb, here\n                    laid out as 6-line stanzas.",
+            "Attributed Author": "\nffinis quod dunbar (p. 165)",
+            "Editions": "\nCraigie,  William Alexander. \n             The Maitland Folio Manuscript, Containing Poems by Sir Richard\n                Maitland, Dunbar, Douglas, Henryson, and others.\n             2 vols. \n             Scottish Text Society\n         n.s. 7 (1919), 20 (1927); Edinburgh and London: Blackwood, 1919,\n            1927: 1.184-7.\n",
+            "folio": "pp. 162-165"
+        },
+        "Banna": {
+            "First Lines": "\nNixt that a turnament wes tryidThat lang befoir in hell wes\n                    cryid\u2026\n",
+            "Last Lines": "\n\u2026befoir mahoun the air of hellNow trow thiss gif \u021de\n                    List\n",
+            "Attributed Title": "\nHeir endis the iusting & the war sowtar &\n                    tail\u021douris maid be \u00fee nobill poyet maister william dumbar (f.\n                        112v)",
+            "Facsimiles": "\nFox,  Denton,  and  William A. Ringler.  \n             The Bannatyne Manuscript: National Library of Scotland Advocates\u2019\n                MS. 1.1.6\n         London: Scolar Press, in Association with The National Library of\n            Scotland, 1980. \n",
+            "Editions": "\n\nRamsay,  Allan,\n                        ed.  \n             The Ever Green.\n         2 vols. Edinburgh, 1724; repr. Ramsay and Early Scottish Poets, London,\n            n.d.: 1.247-53.\n Bad Key: Murdoch1873-97: 2.316-9.\nSmall,  John, Ae. James George Mackay,  George Powell McNeill,   and  Walter Gregor, eds.  \n             The Poems of William Dunbar.\n             5 pts. \n             Scottish Text Society\n         2, 4, 16, 21, 29. Edinburgh, 1884-93: 2.122-6.\nRitchie,  W. Tod,\n                        ed.  \n             The Bannatyne Manuscript.\n             4 parts in 4 vols. \n             Scottish Text Society\n         3rd ser. 5 (1928); n.s. 22 (1928); n.s. 23 (1930); n.s. 26 (1934)\n            Edinburgh and London: Blackwood, 1928-34; ed. by Ritchie et al: 2.295-8.\nMacKenzie,  William Mackay. \n             The Poems of William Dunbar.\n         Edinburgh, 1932: 123-6.\nKinsley,  James. \n             William Dunbar, Poems.\n         Oxford: Clarendon, 1958; repr. 1979: 53-7.\n\n",
+            "folio": "ff. 111-112v"
+        },
+        "Asloan": {
+            "First Lines": "\nnixt at a tornament was tryitThat lang befor in hell was\n                    cryit\u2026\n",
+            "Last Lines": "\n\u2026Befor mahovne \u00fee heir of hellSchirres trow It \u021dif\n                    \u021de list\n",
+            "Note": "\nNineteenth-century transcript in Edinburgh,  Edinburgh University Library La.III.450/1 [olim Laing 450], Part I, ff.\n                        2-4v.",
+            "Attributed Author": "\nQuod Dunbar (f. 211v)",
+            "Attributed Title": "\nThe Iustes betuix \u00fee talyeour & \u00fee sowter (scribal, f.\n                    210)",
+            "Editions": "\n\nLaing,  David. \n             The Poems of William Dunbar.\n         2 vols. Edinburgh: Laing and Forbes, 1834; Supplement, 1865: 1.54-8.\nPaterson,  James. \n             The Works of William Dunbar.\n         Edinburgh: Stillie, 1863: 214-18.\nSchipper,  Jakob. \n             The Poems of William Dunbar.\n         Vienna: Kaiserliche Akademie der Wissenschaften, 1894: 134-8.\n Bad Key: Schipper1892-93b: 43-8.\nBaildon,  Henry Bellyse. \n             The Poems of William Dunbar.\n         Cambridge: University Press, 1907: 67-70.\n\n",
+            "folio": "ff. 210-211v"
+        }
+    }
+}

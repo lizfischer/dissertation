@@ -1,0 +1,69 @@
+{
+    "_id": 2621,
+    "_header": "In the Roman Acts written is thus",
+    "Author(s)": "Thomas Hoccleve",
+    "Title(s)": "Tale of the Emperor Gerelaus",
+    "Subjects": "Gerelaus, emperor",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Thomas Hoccleve, \u2018Tale of the Emperor Jereslaus,\u2019 trans. from the Gesta Romanorum, one of several works in verse and prose that form Hoccleve\u2019s Series, usually preceded by 508 and followed by 4879 but sometimes occurring separately\u2014140 stanzas rhyme royal.",
+    "_witnesses": {
+        "BodLauMis735": {
+            "First Lines": "\nIn the Romayn actus writyn is thusSometyme am Emprour in \u00fee\n                    Citee\u2026\n",
+            "Last Lines": "\n\u2026And lo in \u00feis wyse and maner it seithWhich to \u00feat\n                    tale is good be knytt in feyth\n",
+            "Attributed Title": "\nExplicit dialogus et Incipit quedam fabula de quadam bona et nobili\n                        Imperatrice Romana (f. 15v)",
+            "folio": "ff. 15v-28"
+        },
+        "BodDig185": {
+            "First Lines": "\nIN the Romayn Iestys wretyn is thusAum tyme an Emperour in the\n                    Citee\u2026\n",
+            "Last Lines": "\n\u2026Whiche that no wyght eschue may ne fleAnd when gode wole also\n                    dye schall we\n",
+            "Note": "\nThe poem has a prosaic \u2018moralisation\u2019 at the\n                    end.",
+            "folio": "ff. 145-156"
+        },
+        "BodSelSup53": {
+            "First Lines": "\nIN romain actis writen is thusSomtime an emperour in the\n                    citee\u2026\n",
+            "Last Lines": "\n\u2026And to in this wise and manere it seithWiche to that tale is\n                    good be knytte in feith\n",
+            "Note": "\nAt the end: \u2018here endith \u00fee Prolog and begynne\u00fe \u00fee\n                    moralizing of \u00fee \u2026\u2019 (the rest is under the binding). Ends\n                    imperfectly due to loss of folios.",
+            "folio": "ff. 98v-116"
+        },
+        "Bod221": {
+            "First Lines": "\nIN \u00fee Romayn actes writyn is thusSome tyme an Emperoure in\n                    \u00fee Cyte\u2026\n",
+            "Last Lines": "\n\u2026And loo in \u00feis wise and maner it seithWhich to \u00feat\n                    tale is gode be knytt in feyth\n",
+            "Attributed Title": "\nHere endith tale of a gode woman which was sum tyme Emprice of Rome and now\n                    sueth a prolog of \u00fee moralizoun of the same tale (f. 28); Here endith\n                    \u00fee prologe and begynneth \u00fee moralisoun (f. 28v)",
+            "folio": "ff. 15v-28v"
+        },
+        "BodEngPoetd4": {
+            "First Lines": "\nIN the Romayne actus wreten is thusSome tyme an Emperour in the\n                    Sitee\u2026\n",
+            "Last Lines": "\n\u2026Which that no wyht eschewe may ne ffleeAnd whane god lyst\n                    also dyen shull we\n",
+            "folio": "ff. 4-18"
+        },
+        "BLRoy17Dvi": {
+            "First Lines": "\nIn the Romayn Ieestes writen is thusSomtyme an Emperour in the Citee\u2026\n",
+            "Last Lines": "\n\u2026Which that no wight eschewe may ne fleeAnd whan god wole also dye shull we\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Royal MS 17 D VI.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Royal_MS_17_D_VI. \n",
+            "folio": "ff. 102-118v"
+        },
+        "CovAcc3251": {
+            "First Lines": "\nIN \u00fee Romayn Gestis wreten is thusSome tyme an Emperour in\n                    \u00fee Cete\u2026\n",
+            "Last Lines": "\n\u2026Which that noo wight eschewe may ne fleeAnd whanne god list\n                    also a dieu shul wee\n",
+            "Attributed Title": "\n& incipit quedam fabula de quadam bona & nobile Imperatrice Romana\n                    (f. 49rb); Here endithe the tale of a good woman which was sometime\n                    Emperice of Rome and nowe sueth the Prolog (f. 56ra)",
+            "folio": "ff. 49rb-56ra"
+        },
+        "DULCosViii9": {
+            "First Lines": "\nIn the Roman actes writen is thusWhilom an Emperour in the\n                    Citee\u2026\n",
+            "Last Lines": "\n\u2026Which \u00feat no wight eschue may ne fleeAnd whan god list\n                    also dye shul we\n",
+            "Note": "\nFollowed by a prose moralization, ff. 50 -52v.",
+            "Attributed Author": "\nHoccleve",
+            "Attributed Title": "\nffabula de quadam Imperatrice Romana (f. 26v); Explicit fabula\n                    de quadam Imperatrice Romana (f. 49)",
+            "Facsimiles": "\nBurrow,  John,  and  A. I. Doyle, eds.  \n             Thomas Hoccleve: A Facsimile of the Autograph Verse\n                Manuscripts.\nEETS\n         s.s. 19 (2002). \n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.   Hoccleve\u2019s Works: The Minor Poems. vol. 1.  EETS\n         e.s. 61 (1892); repr. with Gollancz (1925)\nXGollancz,  Israel. \n             Hoccleve\u2019s Works: The Minor Poems. vol. 2.  EETS\n         e.s. 73 (1925); repr. with 61, 1970 73; rev. J.\n            Mitchell and A. Ian Doyle, 1970: 140-74.\n",
+            "folio": "ff. 26v-49"
+        },
+        "YaleBei493": {
+            "First Lines": "\nIN the roman actus wryttyn in thisSometyme an emperour in the\n                    Citee\u2026;\n",
+            "Last Lines": "\n\u2026And so in this wise & manere it seithWhich to \u00feat\n                    tale is good be gyng knytt in feith\n",
+            "Note": "\nTale ends, before moralization begins, \u2018\u2026Wich \u00feat no\n                    wight eschewe may ne flee / And whan god list also dye shull wee\u2019 (f.\n                        28v) Moralization begins f. 28v: \u2018My frende\n                    afftere y trow a wook or twoo / That \u00feis tale endid was hoom to me\n                    cam\u2026\u2019, followed by prose moralization.",
+            "Attributed Title": "\n\u2026incipit quedam fabula de quadam et nobile imperatrice Romana\n                    (f. 16v); Here endith my tale of a good woman which was In tyme\n                    Emprice of Rome and now sewyth a prologg \u00fee moralizasion of \u00fee same\n                    tale (f. 28v); Here endith \u00fee moralizing of my tale\u2026 (f.\n                    30)",
+            "folio": "ff. 16v-29"
+        }
+    }
+}

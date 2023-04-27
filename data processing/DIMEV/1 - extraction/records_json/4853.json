@@ -1,0 +1,38 @@
+{
+    "_id": 4853,
+    "_header": "Sing I would but alas decedunt prospera grata",
+    "Subjects": "evils of the times; satires; estates literature; manners; clothing, against extremes of",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "Macaronic": "Latin",
+    "_description": "Macaronic verses lamenting the Evils of the Age, temp. Richard II \u2014 140 lines in quatrains, alternately English and Latin lines. For the last two lines and Latin couplet occurring separately see 2466",
+    "_witnesses": {
+        "BodRawC86": {
+            "Transcription": "\nSynge I wold but alas discedant prospera grataInglond sum tyme\n                    was recuorum gemma parataOf manhode the floure vbi quondam\n                        fuerunt hominesBut now is gome \u00feat owre traduntur talia\n                        sompnis\n\n",
+            "Note": "\nLines 1-4 only.",
+            "folio": "f. 59"
+        },
+        "BLHar536": {
+            "First Lines": "\nSyng I wolde but alas descedunt prospera grataIn ynglonde sumtyme was regnorum gemma vocata\u2026\n",
+            "Last Lines": "\n\u2026Oure kyng & oure lord seruet regat & tenaturGod that with his honde celum terram moderaturIn age as hee growith sua crescat gratia fructuFul litle hee knowith quanto dolet Anglia luctu\n",
+            "Note": "\nThe first line is not repeated on f. 125 as given in Boffey  and  Edwards (2005)\nXJulia Boffey,   and  A. S. G. Edwards.  \n             A New Index of Middle English Verse.\n         London: The British Library, 2005; MS has inly 61 folios; Here the last two lines and the Latin couplet that follows are added by a later hand, so they may have circulated as a separate piece, as in 2466.",
+            "Editions": "\nFairholt,  Frederick William. \n             \u201cSatirical Songs and Poems on Costume.\u201d \n             Percy Society\n         27. London: Richards, 1849: 44-8.\n",
+            "folio": "ff. 34-35v"
+        },
+        "BLHar941": {
+            "First Lines": "\nSyng I wold butt alas decedunt prospera grataynglond sum tyme was regnorum gemma perata\u2026\n",
+            "Last Lines": "\n\u2026In age as he grows sua crescat gratia fructuffull lytell he knowes quanto dolet anglia luctu\n",
+            "Note": "\nTwo Latin couplets follow, \u201chic quicumque legat\u2026\u201d and \u201cO rex si rex es\u2026.\u201d",
+            "Attributed Title": "\nOf monhod \u00fee flowre ibi quondam floruit omnibus (f. 21v)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 941.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_941. \n",
+            "folio": "ff. 21v-23v"
+        },
+        "TCD516": {
+            "First Lines": "\nSyngyn y wolde but alasdiscendunt procedunt prospera\n                    grataEnglond sum tyme wasRegnorum gemma\n                    vocata\u2026\n",
+            "Last Lines": "\n\u2026In age as he growyt sua gestat gratia fructufful\n                    welle \u00feat he knowequantum sit anglia luctuO rex si rex\n                        es rege tevel eris sine re rexNomen habes sine reubi to recte\n                        que regas rex\n\n",
+            "Note": "\n140 lines.",
+            "Attributed Title": "\nExplicit Auctore scriptum / Nunc finem feci dai mihi quod merui (f.\n                    108)",
+            "Editions": "\nWright,  Thomas,\n                        ed.  \n             Political Poems and Songs relating to English History, composed during\n                the period From the Accession of Edward III to that of Richard III.\n             2 vols. \n             Rolls Series\n         14 (1859, 1861); repr. Kraus, 1965: 70-8.\n",
+            "folio": "ff. 108-110"
+        }
+    }
+}

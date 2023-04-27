@@ -1,0 +1,20 @@
+{
+    "_id": 2251,
+    "_header": "I read in a story I can shew you anon",
+    "Subjects": "King John",
+    "_description": "A tale of Henry III and the Archbishop of Canterbury",
+    "_witnesses": {
+        "OxfCCC255": {
+            "First Lines": "\nI read in a story I can shew you anonOf a noble prince by you\n                    called King Jhon\u2026\n",
+            "Last Lines": "\n\u2026I end besechinge god of his graceto grant hus in heaven a\n                    Resting place\n",
+            "Note": "\nWritten by a hand of the sixteenth to seventeenth century",
+            "Attributed Title": "\nA tale of Henry \u00fee 3 and \u00fee Archbishop of Canterbury (f.\n                    105)",
+            "Editions": "\nCornelius,  Roberta D. \n             \u201cA New Text of an Old Ballad.\u201d \n             PMLA\n         46 (1931): 1025-33: 1026-31.\n",
+            "folio": "f. 105ra-105rb"
+        },
+        "BLAdd27879": {
+            "Editions": "\n\nChild,  Francis James. \n             The English and Scottish Popular Ballads.\n         5 vols. in 10 parts. Boston and New York: Houghton, Mifflin,\n            1882-98: no. 45, 1.410-13.\nHales,  John Wesley,  and  Frederick James Furnivall, eds.  \n             Bishop Percy\u2019s Folio Manuscript: Ballads and Romances.\n         3 vols. London: Tr\u00fcbner, 1867-68: 1.508-14.\nSargent,  Helen Child,  and  George Lyman Kittredge.  \n             English and Scottish Popular Ballads.\nCambridge edition of the Poets. London: Harrap, 1904: 78-81.\nLeach,  Edward,\n                        ed.  \n             The Ballad Book.\n         New York: Harper, 1955: 154-8.\n\n",
+            "folio": "p. 184"
+        }
+    }
+}

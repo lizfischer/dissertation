@@ -1,0 +1,17 @@
+{
+    "_id": 3002,
+    "_header": "Kings state if thou will lead",
+    "Author(s)": "John de Fordun",
+    "Title(s)": "Scotichronicon",
+    "Subjects": "counsel, against young men\u2019s",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "London, British Library Harley 712",
+    "_description": "Against young men\u2019s counsel \u2014 four lines (aabb) in Fordun\u2019s Scotichronicon (Book 14, Chap. 4)",
+    "_witnesses": {
+        "EDU186": {
+            "Transcription": "\nKyngis state gif \u00feow will ledeTill old menis consall tak gude\n                    hedeRoboam his kyngdam lesit\u021doung mennis consall for he\n                    chesit\n",
+            "Editions": "\nHearne,  Thomas,\n                        ed.  \n             Johannis de Fordun, Scotichronicon.\n         2 vols. Oxford: Sheldonian, 1722; Edinburgh, 1759: 2.344.\n",
+            "folio": "f. 266vb"
+        }
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "_id": 3758,
+    "_header": "Now I have that I will",
+    "Note": "Part of a common proverb, for which see Whiting (1968)\nXWhiting, Bartlett Jere. Proverbs, Sentences, and Proverbial Phrases from English Writings Mainly before 1500. Cambridge, MA: Belknap, 1968, G.317; cf. 6419.",
+    "Subjects": "proverbs; sermons, verse in",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Oxford, Bodleian Library Laud misc. 111 (SC 1550); Oxford, Lincoln College Lat. 52: not in this copy of Fasciculus morum; Durham, Durham University Library Cosin V.iv.2.",
+    "_description": "A tag in the Fasciculus morum \u2014 one couplet",
+    "_witnesses": {
+        "BodLauMis213": {
+            "folio": "f. 30v"
+        },
+        "Bod187": {
+            "Transcription": "\nNow y haue \u00feat y willegodys grame on \u00fey bylle\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 144"
+        },
+        "Bod410": {
+            "Transcription": "\nNow I haue \u00feat I wyllegoddis grame on \u00fee bille\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 22"
+        },
+        "BodRawC670": {
+            "Transcription": "\nNow ich haue \u00feat I wyleGoddus grame on \u00fey byle\n",
+            "Editions": "\n\nFoster,  Frances Allen,\n                        ed.  \n             \u201cSome English Words from the Fasciculus Morum.\u201d \n             Essays and Studies in Honor of Carleton Brown.\n            Percy Waldron Long, ed. \n         New York: NYU Press; London: Humphrey Milford, Oxford University Pres,\n            1940: 149-57: 151.\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 157.\n\n",
+            "folio": "f. 40v"
+        },
+        "CamGon71": {
+            "Transcription": "\nNow I haue \u00feat I willcrist grame on \u00fei bill\n",
+            "folio": "f. 31v"
+        },
+        "CamGon364": {
+            "Transcription": "\nNow I haue \u00feat I wyllegoddis grame on \u00fei bylle\n",
+            "folio": "ff. 35vb-36ra"
+        },
+        "CamStJohn159": {
+            "Transcription": "\nNow I haue \u00feat I wyllgodis grame on \u00fei byll\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 54"
+        },
+        "EDU82": {
+            "Transcription": "\nNowe I haue that I wyllgodes grame in thy byll\n",
+            "folio": "f. 48"
+        },
+        "Lincoln44": {
+            "Transcription": "\nNow y haue \u00feat y willegodus grace on \u00feis bille\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 173va"
+        },
+        "Spalding": {
+            "Transcription": "\nNowe I haue \u00feat I wyllgoddes grame on \u00fei byll\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 43"
+        },
+        "WorcF19": {
+            "Transcription": "\nNow y haue \u00feat i wellgodis grame in \u00fey bill\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 176ra"
+        },
+        "VaticanOtto": {
+            "folio": "f. 23"
+        }
+    }
+}

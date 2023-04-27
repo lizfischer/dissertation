@@ -1,0 +1,17 @@
+{
+    "_id": 37,
+    "_header": "A fasting belly",
+    "Note": "Cf. Tilley (1950)\nXTilley, Morris Palmer. A Dictionary of the Proverbs in England in the 16th and 17th Centuries. Ann Arbor, MI: University of Michigan, 1950 B. 303; Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 9.",
+    "Subjects": "proverbs",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A proverbial saying about hunger \u2014 one couplet",
+    "_witnesses": {
+        "OxfBal354": {
+            "Transcription": "\nA fastyng belymay neuer be mery\n",
+            "Note": "\nIn a collection of 55 proverbs in Latin and English; translating\n                        \u2018Ieiunus venter nescit gaudire libenter\u2026\u2019, which\n                    follows.",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 202.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 131.\n\n",
+            "folio": "p. 4197"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "_id": 890,
+    "_header": "Break out and not blin",
+    "Note": "Cf. 1089.",
+    "Subjects": "sermons, verse in; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A couplet translating \u2018Erumpe et clama\u2019 in an English sermon",
+    "_witnesses": {
+        "BLRoy18Bxxiii": {
+            "Transcription": "\nBreke owte & not blynne& cry god mercy for \u00fei\n                    synne\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nRoss,  W. O.,\n                        ed.  \n             Middle English Sermons from British Museum MS. Royal 18 B.\n                xxiii.\nEETS\n         o.s. 209 (1940); repr. 1987: 218.\n",
+            "folio": "f. 127v"
+        }
+    }
+}

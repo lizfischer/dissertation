@@ -1,0 +1,25 @@
+{
+    "_id": 3241,
+    "_header": "Lordings all and ye will hear",
+    "Note": "For other texts see 3103 and 3112.",
+    "Title(s)": "\u2018How the Wyse Man Tawght His Son\u2019",
+    "Subjects": "children, instructions for the behavior of; manners, treatises on; instruction, father to son",
+    "Versification": "\u2014 eight-line? \u2014 ababbcbc",
+    "_description": "\u2018How the Wyse Man Tawght His Son\u2019 \u2014 20 8-line stanzas (ababbcbc)",
+    "_witnesses": {
+        "BodAsh61": {
+            "First Lines": "\nLordynges & \u021de wyll hereHow a wyse man tau\u021dht hys\n                    soneTake god hede to \u00feis matereAnd fynd to lerne it yff \u021de\n                    cane\u2026\n",
+            "Last Lines": "\n\u2026And Ihesu bryng vs to his blysseThe chyld \u00feat w[as] in\n                    bedlem borne\n",
+            "Note": "\nOmits stanzas 6-11, first half of 13, and 14. The poem has 100 lines and\n                    appears to have been edited to make the number of lines equal one hundred. At\n                    the end: \u2018Amen quod Rate\u2019.",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             Queene Elizabethes Achademy, etc.\nEETS\n         e.s. 8 (1869); repr. 1973: 52-5.\nShuffleton,  George. \n             Ashmole 61: A Compilation of Popular Middle English Verse.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008: 32-4; 424-7; 599.\n\n",
+            "folio": "ff. 6-6v"
+        },
+        "BLHar2399": {
+            "First Lines": "\nLordynges all & \u021de will hereHow a wys man tawgh hys\n                    sone\u2026\n",
+            "Last Lines": "\n\u2026Be hym lef or by hym lothAt on day a pere man scha haue a\n                    moch as he\n",
+            "Note": "\nText is incomplete.",
+            "Editions": "\nFischer,  Rudolf Bruno. \n             How the wyse man taught hys sone.\n         Erlanger Beitr\u00e4ge 2. Erlangen and Leipzig: Deichert,\n            1889: 42-9.\n",
+            "folio": "ff. 61-63v"
+        }
+    }
+}

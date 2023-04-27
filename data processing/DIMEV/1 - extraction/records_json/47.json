@@ -1,0 +1,21 @@
+{
+    "_id": 47,
+    "_header": "A friar an hayward a fox and a fulmar sitting on a row",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 11.",
+    "Subjects": "nonsense verse",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Nonsense verses \u2014 one long couplet",
+    "_witnesses": {
+        "BodTan407": {
+            "Transcription": "\nA fryer an hetward afox and afulmer sittyng on a rewea tapster hym\n                    sittyng by to fylle \u00fee cumpany \u00fee best is astrewe\n",
+            "Editions": "\nRobbins,  Rossell Hope. \n             \u201cMiddle English Lyrics: Handlist of New Texts.\u201d \n             Anglia\n         83 (1965): 35-47: 44.\n",
+            "folio": "f. 52"
+        },
+        "BLAdd60577": {
+            "Transcription": "\nA ffox and a fullymert a frere & a haywarde stondynge on a roweA\n                    tapyster stondynge \u00feem by \u00fee beste of \u00fee company ys ane olde\n                    schrewe\n",
+            "Note": "\nTrans. \u2018Vulpe et fetoncro et inclusario stantibus\n                    seriatim\u2026\u2019, which follows.",
+            "Facsimiles": "\nWilson,  Edward. \n             \u201cIntroduction.\u201d \n             The Winchester Anthology. A Facsimile of British Library Additional\n                Manuscript 60577. With an account of the music by \n                    Iain\n                    Fenlon. \n         Cambridge: D. S. Brewer, 1981. \n",
+            "folio": "f. 76v"
+        }
+    }
+}

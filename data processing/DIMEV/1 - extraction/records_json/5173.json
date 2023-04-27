@@ -1,0 +1,15 @@
+{
+    "_id": 5173,
+    "_header": "That the heart thinketh",
+    "Subjects": "proverbs",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A proverbial tag",
+    "_witnesses": {
+        "BodRawD328": {
+            "Transcription": "\nThat the hert \u00feynkytthe mowte spekyt\n",
+            "Note": "\nTranslating \u2018Quod cor subcelat nam lingua sepe\n                    reuelat\u2019, which precedes; English portion all written on one\n                    line.",
+            "Editions": "\nMeech,  Sanford Brown. \n             \u201cA Collection of Proverbs in Rawlinson MS D 328.\u201d \n             Modern Philology\n         38 (1940-41): 113-32: 119.\n",
+            "folio": "f. 140v"
+        }
+    }
+}

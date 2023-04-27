@@ -1,0 +1,25 @@
+{
+    "_id": 665,
+    "_header": "As one sweet look of your eyen twain",
+    "Note": "A translation of his French poem (Champollion-Figeac (1842)\nXChampollion-Figeac, Aime. Les Poesies du duc Charles d\u2019Orleans. Paris, 1842, 30)",
+    "Author(s)": "Charles d\u2019Orl\u00e9ans",
+    "Subjects": "lovers, addresses to beloved; roundels",
+    "Versification": "\u2014 five-line \u2014 aabba",
+    "_description": "A roundel by Charles d\u2019Orl\u00e9ans \u2014 21 lines, mostly in 5-line stanzas, with refrain, \u2018As oon swete / Which wickid / As wisshe hit\u2019",
+    "_witnesses": {
+        "BodHerD38": {
+            "First Lines": "\nAs oon swete look of your eyen taynWhiche wickid speche doth fro me\n                    refrayn\u2026\n",
+            "Last Lines": "\n\u2026When y departed last ye did me sooWerthe fully your look for\n                    to refrayn\n",
+            "Editions": "\n\nHausknecht,  Emil. \n             \u201cVier gedichte von Charles d\u2019Orleans.\u201d \n             Anglia\n         17 (1895): 445-7: 447.\nBliss,  Philip. \n             Reliquiae Hearnianae.\n         London: J. Russel Smith, 1869: 1.267.\n\n",
+            "folio": "p. 264"
+        },
+        "BLHar682": {
+            "First Lines": "\nAS oon swete look of yowre eyen tayneWhich wikkid speche doth fro\n                    me refrayne\u2026\n",
+            "Last Lines": "\n\u2026As y haue thoughtis on yow where y gooOf yowre fayre body and\n                    streight sidis playne\n",
+            "Note": "\nAs written, repeats first words of lines 1-3 at end to indicate going back to first lines of the roundel.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 682.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_682. \n",
+            "Editions": "\n\nTaylor,  G. Watson. \n             Poems Written in English by Charles Duke of OrleansOrleans, during his\n                Captivity in England after the Battle of Azincourt\nRoxburghe Club\n         44. London, 1827: 142.\nSteele,  Robert,\n                        ed.  \n             Charles of Orleans: The English Poems.\n             Vol. 1. \n             EETS\n         o.s. 215 (1941); vol. 2. ed. Robert Steele and Mabel Day, o.s. 220; repr. as one volume, 1970: 108-9.\nArn,   Mary-Jo,\n                        ed.  \n             Fortunes Stabilnes: Charles of Orleans\u2019s English Book of Love. A\n                Critical Edition.\n         Binghamton, NY: Medieval and Renaissance Texts and Studies,\n            1994: 254-5.\n\n",
+            "folio": "f. 65"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "_id": 6052,
+    "_header": "Tongue breaketh bone",
+    "Note": "Cf. 182; included in 3383 (stanza 17 of Harley MS., ed. Northall (1892)\nXNorthall, G. F. English Folk-rhymes: A Collection of Traditional Verses Relating to Places and Persons, Customs, Superstitions, etc. London: Kegan Paul, Trench, Tr\u00fcbner & Co., 1892, 559); see also Hazlitt (1882)\nXHazlitt, William Carew. English Proverbs and Proverbial Phrases, collected from the most authentic sources alphabetically arranged and annotated. London: Reeves and Turner, 1882, 455; Smith (1935)\nXSmith, William George. The Oxford Dictionary of English Proverbs. Oxford: Clarendon, 1935; rev. ed. 1948, 552; 1948, 663.",
+    "Subjects": "proverbs; tongue, advice concerning use of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A proverbial couplet",
+    "_witnesses": {
+        "BodDou52": {
+            "Transcription": "\n\u00fee tonge brekyth bon& hath hym sylfe non\n",
+            "Editions": "\n\nF\u00f6rster,  Max. \n             \u201cFr\u00fchmittelenglische Sprichw\u00f6rter.\u201d \n             Englische Studien\n         31 (1902): 1-20: 6.\nF\u00f6rster,  Max. \n             \u201cDie Mittelenglische Sprichw\u00f6rtersammlung in Douce 52.\u201d \n             Festschrift zum XII Deutschen Neuphilolgentage in M\u00fcnchen\n                1906.\n            E. Stollreither, ed. \n         Erlangen (1906): 40-64: 47.\n\n",
+            "folio": "f. 18v"
+        },
+        "OxfBal354": {
+            "Transcription": "\nTonge breketh bonwher bon he hathe non\n",
+            "Note": "\nIn a collection of 55 proverbs in Latin and English; translating\n                        \u2018Ossa terit glossa tamen in se non habet ossa\u2019, which\n                    follows.",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 203.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 132.\nB\u00fchler,  Kurt. \n             \u201cThe Liber de dictis philosophorum antiquorum and common proverbs in\n                George Ashby\u2019s poems.\u201d \n             PMLA\n         65 (1950): 282-9: 288.\n\n",
+            "folio": "p. 42006"
+        },
+        "OxfLinLat52": {
+            "Transcription": "\n\u00fee tonge brekith boneand hath hym selue noon\n",
+            "Note": "\nImmediately followed by 6629.",
+            "folio": "f. 3rb"
+        },
+        "CamTCC1149": {
+            "Editions": "\nF\u00f6rster,  Max. \n             \u201cFr\u00fchmittelenglische Sprichw\u00f6rter.\u201d \n             Englische Studien\n         31 (1902): 1-20: 6.\n",
+            "folio": "f. 351"
+        },
+        "BLHar3362": {
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             \u201cAnecdota Literaria: Proverbs from Ms. Harley 3362, of the end of the\n                fifteenth century.\u201d \n             Retrospective Review\n         2 (May, 1854): 309: 309.\nF\u00f6rster,  Max. \n             \u201cFr\u00fchmittelenglische Sprichw\u00f6rter.\u201d \n             Englische Studien\n         31 (1902): 1-20: 6.\n Bad Key: Forster1918: 200.\n\n",
+            "folio": "f. 21"
+        },
+        "RylandsLat394": {
+            "Editions": "\nPantin,  William A. \n             \u201cA Medieval Collection of Latin and English Proverbs\u2026from Rylands\n                Latin MS. 394.\u201d \n             Bulletin of the John Rylands Library\n         14 (1930): 81-114: 97.\n",
+            "folio": "f. 8v"
+        }
+    }
+}

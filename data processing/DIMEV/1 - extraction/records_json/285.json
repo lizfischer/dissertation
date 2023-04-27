@@ -1,0 +1,15 @@
+{
+    "_id": 285,
+    "_header": "Alas it is a rueful monge",
+    "Subjects": "sermons, verse in; Christ, Ascension of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "English verse in a Latin sermon on the Ascension \u2014 one couplet",
+    "_witnesses": {
+        "CULIi38": {
+            "Transcription": "\nAlas it is a reuful mangeof myth strong & wyl wrong\n",
+            "Note": "\nIn Latin sermon de ascensione domini.",
+            "Editions": "\nStemmler,  Theo. \n             \u201cMore English Texts from MS. Cambridge University Library\n                Ii.III.8.\u201d \n             Anglia\n         93 (1975): 1-16: 13.\n",
+            "folio": "f. 145"
+        }
+    }
+}

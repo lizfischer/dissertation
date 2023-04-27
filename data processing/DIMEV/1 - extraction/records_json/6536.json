@@ -1,0 +1,373 @@
+{
+    "_id": 6536,
+    "_header": "Whilom there was dwelling in my country",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Friar\u2019s Tale; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; summoners; Church corruption",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the Friar\u2019s Tale of the Canterbury Tales \u2014 364 lines in rhyming couplets.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nWhilom ther was dwelling in my contrean erchedekene aman of high\n                    degre\u2026\n",
+            "Last Lines": "\n\u2026and praieth that this sompnour him repenteof his mysdedis or\n                    that the fende him hente\n",
+            "Attributed Title": "\n\u2026And next / folwith his tale to angre with the Sompnour (f.\n                        100v); the ffrere (RT); Here endith the ffrere is tale\u2026 (f.\n                        105v)",
+            "folio": "ff. 100v-105v"
+        },
+        "BodBar20": {
+            "First Lines": "\nWhilom \u00feer was dwellyng in my contreAn Archedeken a man of\n                    highe degre\u2026\n",
+            "Last Lines": "\n\u2026And praieth \u00feat \u00feis sompnour hym repenteOf \u00feis\n                    mysdede or \u00feat \u00fee fende hym hent\n",
+            "Attributed Title": "\n\u2026& here by gynnyth \u00fee tale (f. 120v); The frere\n                    (RT)",
+            "folio": "ff. 121-125v"
+        },
+        "Bod414": {
+            "First Lines": "\n[W]hilom ther was dwelling in my cuntreAn Archidiacon a man of high\n                    degre\u2026\n",
+            "Last Lines": "\n\u2026And preyith that thees somonours hem repentOf their mysdedis\n                    or that the fend hem hent\n",
+            "Attributed Title": "\nHere begynneth the ffreris tale (f. 78v)",
+            "folio": "ff. 78v-82v"
+        },
+        "Bod686": {
+            "First Lines": "\nWhilome ther was dwellyng in my contreAn Erchdeken a man of high\n                    degre\u2026\n",
+            "Last Lines": "\n\u2026And prayeth \u00feat thes sumpnours hem repenteOf her\n                    misdedis er \u00feat the fende hem hente\n",
+            "Attributed Title": "\n\u2026And here / begynneth hys tale (f. 86); ffrere (RT); Here endeth the\n                    ffreres tale\u2026 (f. 91)",
+            "folio": "ff. 86v-90v"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nWhilom \u00feere was dwelling in my contreAn Archdiacon a man of\n                    hie degre\u2026\n",
+            "Last Lines": "\n\u2026And praieth \u00feat \u00feies somnours him repentOf theire\n                    mysdedes or \u00fee fende hem hent\n",
+            "Attributed Title": "\n\u2026And next / biginneth \u00fee ffreres tale of the Somnoure (f. 124);\n                    The ffrers tale (RT); Here endeth \u00fee ffreres tale of the Somnoure\u2026\n                    (f. 128)",
+            "folio": "ff. 124-128"
+        },
+        "BodLauMis600": {
+            "First Lines": "\nWhilom \u00feer was duelling in my countreAn Erchediaken aman of\n                    hie degre\u2026\n",
+            "Last Lines": "\n\u2026Twelue quod she ladi seint marieSo wisli helpe me out of care\n                    and synne\u2026\n",
+            "Note": "\nIII.1606-64 lost (resupplied in the seventeenth century on f.\n                    100).",
+            "Attributed Title": "\nHEre begynneth \u00fee freres tale (f. 95); the frere (RT)",
+            "folio": "ff. 95-00v"
+        },
+        "BodLauMis739": {
+            "First Lines": "\n[S]Omtyme there was duellyng in my contreAn Archideken a man of hie\n                    degre\u2026\n",
+            "Last Lines": "\n\u2026And preieth that this sompnour may repenteOf his mysdedis or\n                    the fende hym hente\n",
+            "Note": "\nIII.1380 omitted.",
+            "folio": "ff. 145v-151"
+        },
+        "BodRawPoe141": {
+            "First Lines": "\nWhilom was dwellyng in my contreAn archedecon a man of hye\n                    degre\u2026\n",
+            "Last Lines": "\n\u2026And prayeth that these sompnoures hem repentOf hur mysdedes\n                    or that the fend hem hent\n",
+            "Note": "\nIII.1378, 1493-4 omitted; 1427-8 reversed; spurious line follows\n                    1617.",
+            "Attributed Title": "\nHere bigynneth the ffreres tale (f. 142); The ffrere (RT)",
+            "folio": "ff. 142-147v"
+        },
+        "BodRawPoe149": {
+            "First Lines": "\nWhilom ther was dwellyng in my cuntreAn Archedeken a man of hihe\n                    degre\u2026\n",
+            "Last Lines": "\n\u2026And preieth that this somonour hym repentOf his mysdede or\n                    that the feende hym hent\n",
+            "Note": "\nIII.1564 omitted.",
+            "Attributed Title": "\nHere begynneth the freres tale how the / devel bare awei the somner (f.\n                    68); fabula (f. 68, margin); here endith the freres tale of the somnour\n                    and the devle\u2026 (f. 70v)",
+            "folio": "ff. 68-70v"
+        },
+        "BodRawPoe223": {
+            "First Lines": "\nWhilom there was dwellyng in my contreAn Archedeken a man of\n                    hi\u021de degre\u2026\n",
+            "Last Lines": "\n\u2026And praieth that this sompnour him repenteOf his mysdedes or\n                    that the fend han hent\n",
+            "Attributed Title": "\n\u2026And here beginneth his tale folwing (f. 142v); Frater\n                        de Apparitore (RT); Here endith the tale of the ffrere\u2026 (f.\n                    148)",
+            "folio": "ff. 143-148"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nWhylom ther was dwellyng in my cuntreAn Erchedeken a man of heigh\n                    degre\u2026\n",
+            "Last Lines": "\n\u2026And preieth that this sompnour hym repentOf his mydede or\n                    that the fende hym hente\n",
+            "Attributed Title": "\n\u2026And bygynneth the freris tale (f. 88v); here endith the\n                    ffreris tale\u2026 (f. 93)",
+            "folio": "ff. 88v-93"
+        },
+        "OxfCCC198": {
+            "First Lines": "\nWhilom \u00feer was dwellyng in CouentrieAn erchdekne a man of heih\n                    degre\u2026\n",
+            "Last Lines": "\n\u2026And preye\u00fe \u00feat \u00feis somnour him repenteOf his\n                    mysdede or \u00feat \u00fee feend him hente\n",
+            "Attributed Title": "\nher ende\u00fe \u00fee ffrere his tale (f. 120v); ffreres (RT,\n                    rubric)",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "ff. 115bv-120v"
+        },
+        "OxfNew314": {
+            "First Lines": "\nWhilom \u00feer was duellyng in my contreAn Archedekyn aman of\n                    hi\u021d degre\u2026\n",
+            "Last Lines": "\n\u2026And pray that \u00fee sompnour him repenteOf his mysdedis or\n                    that \u00fee devil him hent\n",
+            "Attributed Title": "\n\u2026And begynneth his tale (f. 115v); ffrere (RT); Here\n                    endith the ffreris tale\u2026 (f. 121)",
+            "folio": "ff. 115v-121"
+        },
+        "OxfTri49": {
+            "First Lines": "\nWhilom ther was dwellyng in my contrean Erchedeken a man of hie\n                    degre\u2026\n",
+            "Last Lines": "\n\u2026and praijth that this sompnours may hem repenteof hir\n                    misdedis or that the deuyl hem hente\n",
+            "Attributed Title": "\nffrere (RT); Explicit fabula ffratris\u2026 (f.\n                    97v)",
+            "folio": "ff. 92-97v"
+        },
+        "CULDd424": {
+            "First Lines": "\nWHilom there was dwellyng in my contreeAn Archedekene a man of hey\n                    degree\u2026\n",
+            "Last Lines": "\n\u2026And preyeth that theise Sompnours hem repentOf here mysdedis\n                    or that the fend hem hent\n",
+            "Attributed Title": "\nIncipit fabula fratris (f. 81v); Hic desinit fabula\n                        fratris\u2026 (f. 85v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 81v-85v"
+        },
+        "CULGg427": {
+            "First Lines": "\n\u2026ffor subtily he hadde his expyayleThat tau\u021dte hym where\n                    hym my\u021dt a vayle\u2026\n",
+            "Last Lines": "\n\u2026And panne & al but he wele hym repenteNay olde stot\n                    \u00feat is not myn entente\u2026\n",
+            "Note": "\nIII.1299-322, 1631-64 lost; 1491-2 omitted.",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "Editions": "\nFurnivall,  Frederick James. \n             The Cambridge MS (University Library, Gg.4.27) of Chaucer\u2019s\n                Canterbury Tales.\nChaucer Society\n         Series 1, nos. 4, 10, 17, 28, 33, 40, 52, 66. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 229-234v"
+        },
+        "CULIi326": {
+            "First Lines": "\nWhylome there was dwellyng in my contreyAn Erchdeken aman of highe\n                    degree\u2026\n",
+            "Last Lines": "\n\u2026And pray that the sompner hym repenteOf his mysdedes or that\n                    the devyll hym hente\n",
+            "Attributed Title": "\n\u2026And here begynneth his tale (f. 124v); ffrere (RT); Here\n                    endeth the ffrerers tale\u2026 (f. 128v)",
+            "folio": "ff. 124v-128v"
+        },
+        "CULMm25": {
+            "First Lines": "\nWhilom \u00feere was dwellyng in my cuntreAn Archedeken a man of\n                    hie degree\u2026\n",
+            "Last Lines": "\n\u2026And preieth \u00feat \u00feis somnour hym repenteOf his\n                    mysdede er \u00feat \u00fee fende hym hente\n",
+            "Attributed Title": "\nHere begynneth \u00fee ffreris tale (f. 128); \u00fee frerys tale (RT);\n                        Explicit fabula fratris\u2026 (f. 132v)",
+            "folio": "ff. 128-132v"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[W]Hilom \u00feer was dwellynge in my CuntreAn Erchedekon a man of\n                    hi\u021de degre\u2026\n",
+            "Last Lines": "\n\u2026He us kept fro hell \u00feat cursed plaseNow Ihesu lord send\n                    us that grace Amen\n",
+            "Note": "\nIII.1545-6, 1649-58 omitted; two spurious lines replace 1663-4 (see\n                    above).",
+            "Attributed Title": "\nThe tale of \u00fee ffrere (f. 147); Explicit fabula ffratris (f.\n                        151v, foot)",
+            "folio": "ff. 147-151v"
+        },
+        "CamTCC582": {
+            "First Lines": "\nWhilom ther duelled in my contreeAnd Archedeacon a man of high\n                    degre\u2026\n",
+            "Last Lines": "\n\u2026Hiere may ye se myn ougne dere brothirThe carter spak oon and\n                    thou\u021dt anothir\u2026\n",
+            "Note": "\nIII.1569-664 lost.",
+            "Attributed Title": "\nHiere beginneth the ffrere a tale (f. 61rb)",
+            "folio": "ff. 61rb-62vb"
+        },
+        "CamTCC595": {
+            "First Lines": "\nWhylome there was dwellynge in my countreAn Archydeken aman of high\n                    degre\u2026\n",
+            "Last Lines": "\n\u2026And pray that the sompnour hym repentOf his mysdedes or that\n                    the deuyl hym hent\n",
+            "Note": "\nIII.1527-30 omitted.",
+            "Attributed Title": "\n\u2026And here begynneth his tale (f. 141v); Here endith the\n                    ffreris tale\u2026 (f. 147)",
+            "folio": "ff. 141v-147"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nWhilom ther was dwellyng in my contreAn Archedekene a man of hyh\n                    degre\u2026\n",
+            "Last Lines": "\n\u2026And prayeth that this sompnour may repentOf his mys deedys or\n                    the feende him hent\n",
+            "Note": "\nIII.1435-8, 1526 omitted.",
+            "Attributed Title": "\n\u2026& incipit fabula eiusdem (f. 110v); ffrere\n                    (RT); Explicit fabula ffratris\u2026 (f. 117)",
+            "folio": "ff. 111-117"
+        },
+        "BLAdd35286": {
+            "First Lines": "\nWhilome ther was dwellyng in my cuntreAn Erchedeken a man of high\n                    degre\u2026\n",
+            "Last Lines": "\n\u2026And preyeth that this sompnour him repenteOf his misdede or\n                    that the feend him hente\n",
+            "Attributed Title": "\n\u2026Here bygynneth the ffreres tale (f. 68v); the frere (RT);\n                    Here endeth the ffreres tale\u2026 (f. 73v)",
+            "Editions": "\nHorobin,  Simon. \n             \u201cA Transcription and Study of British Library MS Additional 35286 of\n                Chaucer\u2019s Canterbury Tales.\u201d \n         Diss. Univ. of Sheffield, 1997. \n",
+            "folio": "ff. 68v-73v"
+        },
+        "BLEge2726": {
+            "First Lines": "\nWhilom there was dwellyng in my cuntreeAn Archedeken a man of high\n                    degree\u2026\n",
+            "Last Lines": "\n\u2026And prayeth that thise Somnours hem repentOf her mysdedes or\n                    that the fend hem hent\n",
+            "Note": "\nIII.1443-4 omitted; 1653-4 reversed.",
+            "Attributed Title": "\nHic Incipit fabula fratris (f. 95); Hic desinit fabula\n                        ffratris\u2026 (f. 100)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 95v-100"
+        },
+        "BLEge2863": {
+            "First Lines": "\n\u2026Thus seide oure oost & late him telle his taleNow tellth\n                    for\u00fe & lete \u00fee sompnour gale\u2026\n",
+            "Last Lines": "\n\u2026Where \u00feat sompnours han here heritageAnd god \u00feat\n                    made after his ymage\u2026\n",
+            "Note": "\nIII.1299-1334; 1643-4 lost; 1609-15 omitted.",
+            "Attributed Title": "\nThe ffrere (RT)",
+            "folio": "ff. 92-95v"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[W]hylom ther was dwellyng in myn contreAn Archidekene a man of hih\n                    degre\u2026\n",
+            "Last Lines": "\n\u2026And prayeth that this sompnour may repenteOf his mysdeedis or\n                    the fend hym hente\n",
+            "Note": "\nIII.1435-8, 1526 omitted; 1485 inserted in margin.",
+            "Attributed Title": "\nThe ffrere (RT); Hic desinit fabula ffratris (f. 103,\n                    margin)",
+            "folio": "ff. 99-103"
+        },
+        "BLHar1758": {
+            "First Lines": "\nWHilom ther was dwellyng in my contreAn Erchedekene a man of hye\n                    degre\u2026\n",
+            "Last Lines": "\n\u2026And praieth that this Somnour maie hym repenteOf\n                    his mysdede or that the fende hym hente\n",
+            "Note": "\nLarge blank space between the end of the Friar\u2019s Tale and\n                    the Summoner\u2019s Prologue.",
+            "Attributed Title": "\n\u2026and begynneth the tale (f. 102v); The ffrere (RT); Here\n                    endith the ffreris tale (f. 106v)",
+            "folio": "ff. 102v-106v"
+        },
+        "BLHar7333": {
+            "First Lines": "\n\u2026ffor to somyn an old wif horribleffeynyng a cause for he\n                    wold her bridell\u2026\n",
+            "Last Lines": "\n\u2026And prey that the sompnour him RepenteOf his mysdedes or that\n                    the devil him hent\n",
+            "Note": "\nIII.1299-376 lost; 1527-30 omitted.",
+            "folio": "ff. 73ra-74rb"
+        },
+        "BLHar7334": {
+            "First Lines": "\nWhilom \u00feer was duellyng in my countreAn erchedeken a man of\n                    gret degre\u2026\n",
+            "Last Lines": "\n\u2026And prayeth \u00feat oure sompnour him repenteOf his mys dede\n                    er \u00feat \u00fee fend him hente\n",
+            "Note": "\nIII.1295-6 follow 1308.",
+            "Attributed Title": "\nNarrat (f. 103); The ffreres Tale (RT); Here endith \u00fee frere\n                    his tale\u2026 (f. 108)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "ff. 103-108"
+        },
+        "BLHar7335": {
+            "First Lines": "\n[W]hilome ther was dwellyng in my cuntreeAn Erchedeken a man\n                    [illegible]ght degree\u2026\n",
+            "Last Lines": "\n\u2026And preieth that this sompnour hym repenteOf his mysdede or\n                    that the feende hym hente\n",
+            "folio": "ff. 75-80v"
+        },
+        "BLLan851": {
+            "First Lines": "\nWHilom \u00feere was dwelinge in myne contreAn Archedeken aman of\n                    hihe degre\u2026\n",
+            "Last Lines": "\n\u2026And praie\u00fe \u00feat \u00feis somnour him repentOf his\n                    mesedede ar \u00feat \u00fee fende him hent\n",
+            "Attributed Title": "\n\u2026Incipit fabula (f. 102v); \u00fee ffrere (RT);\n                        Explicit fabula\u2026 (f. 106v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 102v-106v"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nWhylom \u00feere was dwellenge in my ContreAn archedecon A Man of\n                    hyghe degre\u2026\n",
+            "Last Lines": "\n\u2026And prayethe \u00feat this Sompnoure hym repenteOf his\n                    Mysdede Ar \u00feat the ffende hym hente\n",
+            "Note": "\nIII.1450-1511 lost.",
+            "Attributed Title": "\n\u2026And / begynnyth the Tale of the frere (f. 143v); Here\n                    endithe the tale of the ffrere\u2026 (f. 148)",
+            "folio": "ff. 143v-148"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nSom tyme \u00feere was dwellyng in my contreAn erchedekne aman of\n                    hye degre\u2026\n",
+            "Last Lines": "\n\u2026And pray \u00feat \u00feis sompnour may repenteOf his\n                    mysdedys or \u00fee fend him hente Amen\n",
+            "Note": "\nIII.1380 omitted.",
+            "Attributed Title": "\n\u2026And begynneth the tale (f. 120v); The ffrere\n                    (RT)",
+            "folio": "ff. 120v-124v"
+        },
+        "BLSl1685": {
+            "First Lines": "\n\u2026He hade a Somnour redy to his handeA [slyer (smudged)] boy\n                    was none in Engelonde\u2026\n",
+            "Last Lines": "\n\u2026And preythe \u00feat \u00feis Sompnour hym repentOf hys\n                    mysdede or \u00fee fende hym hent\n",
+            "Note": "\nIII.1299-330 lost; 1337-8 reversed.",
+            "Attributed Title": "\nThe ffrere (RT); Here endethe \u00fee ffreres tale\u2026 (f.\n                        124v)",
+            "folio": "ff. 115-124v"
+        },
+        "BLSl1686": {
+            "First Lines": "\nWHilom there was dwellyng in my contreAnd Archedeken a man of hie\n                    degre\u2026\n",
+            "Last Lines": "\n\u2026And praieth that this sompnour him repentOf his mysdede or\n                    that the fende hym hent\n",
+            "Note": "\nIII.1306, 1332 inserted at foot.",
+            "Attributed Title": "\n\u2026And here begynneth his tale folowyng (f. 138v); Tale off\n                    the ffrere (RT); Here endethe the ffreres tale\u2026 (f.\n                    145v)",
+            "folio": "ff. 139-145"
+        },
+        "NLWPen392": {
+            "First Lines": "\nWHilom ther was dwellynge in my contreeAn Erchedekne a man of hy\n                    degree\u2026\n",
+            "Last Lines": "\n\u2026And prayeth that this Somnours hem repenteOf hir mysdedes er\n                    that the feend hem hente\n",
+            "Note": "\nThe latter portions of III.1310-20 are added by a second hand (over\n                    damaged portion of parchment?).",
+            "Attributed Title": "\n\u2026and bigynneth his tale (f. 74); The ffrere (RT); Here endeth the\n                    ffreres tale\u2026 (f. 78v)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "ff. 74-78v"
+        },
+        "Alnwick455": {
+            "First Lines": "\nWhilom was dwellyng in my contreAn Archedeken a man of hi\u021de\n                    degre\u2026\n",
+            "Last Lines": "\n\u2026And prey \u00feat the Sompnoure may hym repentOf his mysdede\n                    or that the fende hym hent\n",
+            "Attributed Title": "\nAnd here begynnyth the ffrere his tale (f. 105); Here endith the ffrere his\n                    tale (f. 109v)",
+            "folio": "f. 105-109v"
+        },
+        "GULHun197": {
+            "First Lines": "\nWHilom \u00feere was duellyng in my contreeAn Archedekne a man of\n                    high degree\u2026\n",
+            "Last Lines": "\n\u2026And prayeth \u00feat \u00feis Somnour may hym repenteOf his\n                    mysdedes or \u00fee fende hym hente\n",
+            "Note": "\nIII.1314 left partially blank.",
+            "Attributed Title": "\nHere begynneth the tale of the ffrere (f. 52rb); The Tale of the\n                    ffrere (RT); the ffrere (RT); Here endeth the tale of the ffrere\u2026 (f.\n                        54ra)",
+            "folio": "ff. 52rb-54ra"
+        },
+        "Holkham667": {
+            "First Lines": "\nSomtyme there was dwelling in my cuntreAn arche deken a man of high\n                    degree\u2026\n",
+            "Last Lines": "\n\u2026And prayeth that this sumpnoure may repenteOf his mysdedes er\n                    the fende him hente\n",
+            "folio": "ff. 73va-75vb"
+        },
+        "Lichfield29": {
+            "First Lines": "\n\u2026Than that \u00feis somnour knewe a slye lecchourOr auoutour\n                    or a paramour\u2026\n",
+            "Last Lines": "\n\u2026And praieth \u00feat \u00feis somnour may him repenteOf his\n                    misdede or \u00feat \u00fee fend him hente\n",
+            "Note": "\nIII.1299-370 lost; resupplied on a seventeenth-century\n                    leaf.",
+            "Attributed Title": "\nThe ffrere (RT); Thus endeth the freres tale\u2026 (f. 129v,\n                    rubric)",
+            "folio": "f. 126-129v"
+        },
+        "Lincoln110": {
+            "First Lines": "\nSUmtyme \u00feer was dwellinge in my cuntreAn erchedekene aman of\n                    hi\u021d degre\u2026\n",
+            "Last Lines": "\n\u2026And preieth \u00feat \u00feese sompnours hem repenteOf hir\n                    mysdedis or \u00fee fend hem hente\n",
+            "Note": "\nIII.1653-4 reversed.",
+            "Attributed Title": "\nthe ffrere (RT); Thus endi\u00fe \u00fee ffreris tale of \u00fee\n                    Sompnour\u2026 (f. 113)",
+            "folio": "ff. 108v-113"
+        },
+        "LonPhys388": {
+            "First Lines": "\nWHilom ther was dwellyng in my contreAn Archedeken a man of high\n                    degre\u2026\n",
+            "Last Lines": "\n\u2026As praieth that this sompnour hym RepenteOf his mysdedis er\n                    that the fiend hym hente\n",
+            "Attributed Title": "\n\u2026Incipit ffabula (f. 150v); Explicit\n                    ffabula\u2026 (f. 156v)",
+            "folio": "ff. 150v-156v"
+        },
+        "RylandsEng113": {
+            "First Lines": "\nWhilom \u00feer was dwellyng in my ContreAn archdiakene a man of\n                    high degre\u2026\n",
+            "Last Lines": "\n\u2026And prayeth \u00feat \u00fee Sompnours hem repenteOf here\n                    mysdedis or \u00fee ffende hem hente\n",
+            "Note": "\nIII.1545-6, 1549-50, 1561-2, 1571-2, 1593-4 omitted; 1653-4\n                    reversed.",
+            "Attributed Title": "\nExplicit fabula ffratris\u2026 (f. 70v); ffabula\n                        ffratris (f. 67v, margin); ffrere (RT)",
+            "folio": "ff. 67v-70v"
+        },
+        "Petworth7": {
+            "First Lines": "\nWhilom \u00feer was dwelling in my contreAn Archedeken a man of hie\n                    degre\u2026\n",
+            "Last Lines": "\n\u2026And preie\u00fe \u00feat \u00feis somnour hym repentOf his\n                    mysdede er \u00feat \u00fee fende hym hent\n",
+            "Attributed Title": "\n\u2026And here begynne\u00fe \u00fee ffreres tale (f. 147); The ffreres\n                    Tale (RT); Thus ende\u00fe \u00fee frere his tale\u2026 (f. 152)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 147-152"
+        },
+        "Austin143": {
+            "First Lines": "\nWhilom there was dwellyng in my ContreAn Archedeaken a man of high\n                    degre\u2026\n",
+            "Last Lines": "\n\u2026And praieth that the Sompnours them repentOf there mysdedes\n                    or the fende them shent\n",
+            "Note": "\nIII.1370, 1545-6, 1549-50, 1561-2, 1571-2, 1593-4 omitted; 1563-4\n                    reversed.",
+            "Attributed Title": "\nIncipit fabula ffratris (f. 80v); ffrere (RT); Hic\n                        desinit fabula ffratris (f. 84v, foot)",
+            "folio": "ff. 80v-84v"
+        },
+        "ChicagoUL564": {
+            "First Lines": "\nWhilom was dwelling in my contreeAn archedecon a man of hey\n                    degree\u2026\n",
+            "Last Lines": "\n\u2026And preyeth \u00feat \u00feese sompnours hem repentOf here\n                    mysdedes or \u00feat \u00fee fend hem hent\n",
+            "Note": "\nIII.1378, 1493-4 omitted; 1427-8 reversed; spurious line follows\n                    1617.",
+            "folio": "ff. 141v-147v"
+        },
+        "PierpontM249": {
+            "First Lines": "\nWhilom ther was dwellyng in my cuntreAn Erchedekene a man of high\n                    degre\u2026\n",
+            "Last Lines": "\n\u2026And prayeth that this somnour may hym repenteOf his mysdede\n                    or \u00feat the feend hym hente\n",
+            "Attributed Title": "\n\u2026And here bigynneth \u00fee tale of \u00fee ffrere (f. 123); The\n                    ffrere (RT); Here endeth the ffreres tale\u2026 (f. 128)",
+            "folio": "ff. 123-128"
+        },
+        "PhilRos10841": {
+            "First Lines": "\nWhylom ther was dwellynge in my contreAn archedeken a man of\n                    hy\u021d degre\u2026\n",
+            "Last Lines": "\n\u2026And prey that the somnour hym repenteOf hys mysdede er that\n                    the fende hym hente\n",
+            "Attributed Title": "\nHere begynneth the ffrerys tale (f. 95); The ffrerys Tale (RT); Here endeth\n                        \u00fee prologe the ffreris tale\u2026 (f.\n                    99v)",
+            "folio": "ff. 95-99v"
+        },
+        "PUL100": {
+            "First Lines": "\nWHylom ther dwelt at home in my contreAn Archdekyn aman of high\n                    degre\u2026\n",
+            "Last Lines": "\n\u2026And prey that the Sompnoure hym repentOf his mysdedis or that\n                    the devil hym hent\n",
+            "Note": "\nIII.1265-90 lost.",
+            "Attributed Title": "\n\u2026Here begynnyth the ffrere his tale (f. 92); ffrere (RT); Here endith\n                    th ffrere his tale\u2026 (f. 98)",
+            "folio": "ff. 92-98"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nWhilom ther was dwellynge in my contreeAn Erchedekene a man of\n                    heigh degree\u2026\n",
+            "Last Lines": "\n\u2026And prayeth \u00feat thise somonours hem repenteOf his\n                    mysdedes er \u00feat the feend hem hente\n",
+            "Attributed Title": "\nHeere bigynneth the freres tale (f. 76v); ffrere (RT); Heere\n                    endeth the ffreres tale (f. 80v)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 76v-80v"
+        },
+        "BNangl39": {
+            "First Lines": "\nUhilom \u00feer was duellyng in my cuntrean archdeken a man of hye\n                    degre\u2026\n",
+            "Last Lines": "\n\u2026and pray we that \u00feise sommonours hem repentof her\n                    mysdedid er that \u00fee fend hem hent\n",
+            "Note": "\nSpurious lines follow III.1470.",
+            "Attributed Title": "\n\u2026& consequenter narrat fabulam (f. 44vb);\n                        Explicit fabula fratris\u2026 (f. 46vb)",
+            "folio": "ff. 44vb-46vb"
+        },
+        "TokyoTak22": {
+            "First Lines": "\nWhylom \u00feere was dwellyng in my contrean Eersedeken a man of\n                    high degre\u2026\n",
+            "Last Lines": "\n\u2026and preyeth \u00feat \u00feese sompnours hem repentof hir\n                    misdedis ar \u00feat \u00fee fende hem hent\n",
+            "Note": "\nIII.1491-2 omitted.",
+            "folio": "ff. 57-64v"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nWhilom ther was duelling in my contreAn Archedeken a man of high\n                    degre\u2026\n",
+            "Last Lines": "\n\u2026And praieth that these Sompnours hem repentOf her misdedes or\n                    the fende hem hent\n",
+            "Note": "\nIII.1443-4 omitted; 1653-4 reversed.",
+            "Attributed Title": "\nHic Incipit fabula ffratris (f. 86); ffabula ffratris (RT);\n                        Hic desinit fabula ffratris\u2026 (f. 90v)",
+            "folio": "ff. 86-90v"
+        },
+        "Bodmer48": {
+            "First Lines": "\nWhilom \u00feer was duelling in my cuntreeAn Archdiacon a man of\n                    hie degre\u2026\n",
+            "Last Lines": "\n\u2026And praie\u00fe \u00feat \u00feees somnouris hem repentOf\n                    their misdedis or \u00feat \u00fee fend hem hent\n",
+            "Note": "\nIII.1336, 1526 omitted.",
+            "Attributed Title": "\nThe ffreris tale (f. 87v, rubric)",
+            "Facsimiles": "\n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n",
+            "folio": "ff. 87v-92v"
+        }
+    }
+}

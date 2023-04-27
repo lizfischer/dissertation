@@ -1,0 +1,28 @@
+{
+    "_id": 3782,
+    "_header": "Now loves comes with largess loud",
+    "Author(s)": "William Dunbar",
+    "Title(s)": "\u2018The Petition of the Gray Horse, Auld Dunbar\u2019",
+    "Subjects": "patronage, pleas for",
+    "Versification": "\u2014 six-line, two-line \u2014 aabbcc, aa",
+    "Bibliographic Ghosts": "London, British Library Harley 1703",
+    "_description": "William Dunbar, \u2018The Petition of the Gray Horse, Auld Dunbar\u2019 \u2014 eleven 6-line stanzas including 2-line refrain, \u2018\u2026Schir lat It neuer In toume be tald / That I suld be ane \u021dowllis \u021dald\u2019, and a concluding \u2018Responsio Regis\u2019 in four couplets",
+    "_witnesses": {
+        "CULLl510": {
+            "First Lines": "\nSuppois I war ane ald \u021daid averSchott furth our clewch to Pull\n                    \u00fee clauer\u2026\n",
+            "Last Lines": "\n\u2026ffor with my hand I haue indostTo pay quateuir his trappouris\n                    cost\n",
+            "Note": "\nMisarranged in order, lines 33-76, 1-32.",
+            "Attributed Author": "\nQuod dunbar (f. 1v)",
+            "Editions": "\n\nSchipper,  Jakob. \n             The Poems of William Dunbar.\n         Vienna: Kaiserliche Akademie der Wissenschaften, 1894: 274-7.\nSchipper,  Jakob,\n                        ed.  \n             The Poems of William Dunbar.\n             4 vols. \n             Denkschriften der kaiserlichen Akademie der Wissenschaften,\n                Philosophische-Historische Klasse\n         40/2; 40/4; 41/4; 42/4. Vienna, 1892-93: 3.76-9.\nBaildon,  Henry Bellyse. \n             The Poems of William Dunbar.\n         Cambridge: University Press, 1907: 139-41.\nCraigie,  William Alexander. \n             The Maitland Folio Manuscript, Containing Poems by Sir Richard\n                Maitland, Dunbar, Douglas, Henryson, and others.\n             2 vols. \n             Scottish Text Society\n         n.s. 7 (1919), 20 (1927); Edinburgh and London: Blackwood, 1919,\n            1927: 2.40-1.\nKinsley,  James. \n             William Dunbar, Poems.\n         Oxford: Clarendon, 1958; repr. 1979: 126-8.\nBawcutt,  Priscilla J.,  and  Felicity Riddy, eds.  \n             Selected Poems of Henryson and Dunbar.\n         Edinburgh: 1992: 167-9 (lines 33-76).\n\n",
+            "folio": "ff. 1-1v;  14-14v"
+        },
+        "CamMagPep2553": {
+            "First Lines": "\n\u2026Suppois I war ane ald \u021daid averschott furth our clewch\n                    to squische the cleuer\u2026\n",
+            "Last Lines": "\n\u2026My lyff hes bein so miserabellmy hyd to offer I am\n                    abell\u2026\n",
+            "Note": "\nLines 23-54 only, treated as complete work, with burden before; last two\n                    lines too faded to read.",
+            "Attributed Author": "\nQuod dunbar (f. 1v)",
+            "Editions": "\n\nPinkerton,  John,\n                        ed.  \n             Ancient Scottish Poems Never Before in Print.\n         2 vols. London and Edinburgh, 1786: 1.112.\nSibbald,  John. \n             Chronicle of Scottish Poetry\u2026.\n         4 vols. Edinburgh and London, 1802: 1.339-40 (extracts).\nCraigie,  William Alexander. \n             The Maitland Folio Manuscript, Containing Poems by Sir Richard\n                Maitland, Dunbar, Douglas, Henryson, and others.\n             2 vols. \n             Scottish Text Society\n         n.s. 7 (1919), 20 (1927); Edinburgh and London: Blackwood, 1919,\n            1927: 1.19-20.\nBawcutt,  Priscilla J.,  and  Felicity Riddy, eds.  \n             Selected Poems of Henryson and Dunbar.\n         Edinburgh: 1992: 167-9 (lines 1-32).\n\n",
+            "folio": "p. 18"
+        }
+    }
+}

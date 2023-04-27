@@ -1,0 +1,27 @@
+{
+    "_id": 5052,
+    "_header": "Summer is comen with love to toun",
+    "Title(s)": "The Thrush and the Nightingale",
+    "Subjects": "birds, as narrators; dialogues, bird; women, debates concerning",
+    "Versification": "\u2014 twelve-line \u2014 aabccbddbeeb",
+    "_description": "The Thrush and the Nightingale \u2014 in 12-line stanzas",
+    "_witnesses": {
+        "BodDig86": {
+            "First Lines": "\nSomer is comen wi\u00fe loue to touneWi\u00fe blostme\n                    and wi\u00fe brides roune\u2026\n",
+            "Last Lines": "\n\u2026Ne rechi neuere weder I fleA wai ich wille driue\n",
+            "Note": "\n192 lines",
+            "Attributed Title": "\nCi comence le cuntent par entre le Mauuis et la russinole (f.\n                        136v)",
+            "Facsimiles": "\nTschann,  Judith A.,  and  Malcolm B. Parkes.  \n             \u201cIntroduction.\u201d \n             Facsimile of Oxford, Bodleian Library, MS Digby 86\nEETS\n         s.s. 16 (1996). \n",
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.241-5.\nHazlitt,  William Carew. \n             Remains of the Early Popular Poetry of England.\n         London: J. R. Smith, 1864-6: 1.50-7.\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 101-7.\nDickins,  Bruce,  and  Richard M. Wilson.  \n             Early Middle English Texts.\n         Cambridge: at the University Press, 1951: 285.\nLuria,  Maxwell Sidney,  and  Richard L. Hoffman, eds.  \n             Middle English Lyrics.\n         New York: Norton, 1974: 56-61.\nConlee,  John W.,\n                        ed.  \n             Middle English Debate Poetry: A Critical Anthology.\n         East Lansing, MI: Colleagues Press, 1991: 239-48.\n\n",
+            "folio": "ff. 136vb-138rb"
+        },
+        "NLS1921": {
+            "First Lines": "\nL[enten is comen] wi\u00fe loue [to toun]Wi\u00fe blosme &\n                    wi\u00fe briddes roun\u2026\n",
+            "Last Lines": "\n\u2026Thane leue to ali\u021dt hereIn orchard & in\n                    erbere\u2026\n",
+            "Note": "\n74 lines; begins and ends imperfectly. Cf. 3050.",
+            "Facsimiles": "\nPearsall,  Derek,  and  I. C. Cunningham, eds.  \n             The Auchinleck Manuscript. National Library of Scotland\n                Advocates\u2019 MS. 19.2.1.\n         London: Scolar Press, 1977. \n",
+            "Editions": "\n\nLaing,  David,\n                        ed.  \n             A Penni Worth of Witte, Florice and Blauncheflour\u2026.\nAbbotsford Club\n         29. Edinburgh, 1857: 45-8.\nVarnhagen,  Hermann. \n             \u201cZu mittelenglischen gedichten: XI - XIII.\u201d \n             Anglia\n         4 (1881): 180-210: 208-10.\nHolthausen,  Ferdinand. \n             \u201cDer mittelenglische streit zwischen drossel und nachtigall.\u201d \n             Anglia\n         43 (1919): 52-60: 52-9.\n\n",
+            "folio": "ff. 279va-b"
+        }
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "_id": 5920,
+    "_header": "Thus cold and moist hot and dry",
+    "Note": "Sometimes incorporated in 4210; all texts show considerable variation; ed. Ashmole (1652)\nXAshmole, Elias. Theatrum Chemicum Britannicum. London: J. Grimond, 1652, 393-96",
+    "Author(s)": "George Ripley (attrib.)",
+    "Subjects": "alchemy",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Oxford, Bodleian Library Ashmole 1445 (SC 7630), Part VIII, I, ff. 45-46v: confused with 5095.",
+    "_description": "George Ripley(?), alchemical verses ascribed to George Ripley \u2014 in couplets",
+    "_witnesses": {
+        "BodAsh759": {
+            "First Lines": "\nThus cold and moist hotte and driebyn put togeder all for so did\n                    I\u2026\n",
+            "Last Lines": "\n\u2026And all is don in houres threWherfore it is callid Godis\n                    prenyte\n",
+            "Note": "\n8 lines.",
+            "folio": "f. 55"
+        },
+        "BodAsh1416": {
+            "First Lines": "\nAnd yf ye will to this medcyn appliemake hem hote and\n                    drie\u2026\n",
+            "Last Lines": "\n\u2026cold & moiste drie & weetDo evenly I mete\n",
+            "Note": "\n10 lines. At the end: \u2018Telos\u2019. The poem has interlineary\n                    corrections in a different hand.",
+            "Editions": "\nBlack,  William Henry. \n             Catalogi Codicum Manuscriptorum Bibliothecae Bodleianae\u2026Pars X,\n                A\u2026Catalogue of the Manuscripts bequeathed\u2026by Elias Ashmole.\n         Oxford: Clarendon, 1845. \n",
+            "folio": "f. 150v"
+        },
+        "BodAsh1448": {
+            "First Lines": "\nHerd hevy hote & dryput to gedir for so did I\n                    \u2026\n",
+            "Last Lines": "\n\u2026Than art \u00feou richer \u00fean the kyngeBut if he haue the\n                    same \u00feinge\n",
+            "Note": "\n7 lines only.",
+            "Editions": "\nSinger,  Dorothea Waley. \n             Catalogue of Latin and Vernacular Alchemical Manuscripts.\n         3 vols. Brussels: Lamertin, 1928-31: 2.583.\n",
+            "folio": "p. 77"
+        },
+        "BodAsh1479": {
+            "First Lines": "\nTak hevi softe collde & dryeclense hym & callce grynde\n                    suttelly\u2026\n",
+            "Last Lines": "\n\u2026for I tell \u00fee Ryght wellThare ys te dyademe of our\n                    crafte\n",
+            "Note": "\nOn f. 217: \u2018Here folowyth a work very schort but not so schort as\n                    yt ys true\u2019. At the end: \u2018finis laudes deo\n                    prorsum\u2019.",
+            "folio": "ff. 217-218"
+        },
+        "BodRawB306": {
+            "First Lines": "\nTake heuy soffte could & dryClense him & callce grind\n                    suttly\u2026\n",
+            "Last Lines": "\n\u2026for I tell you ryght wellThere is the dyadem of our\n                    crafte\n",
+            "Note": "\nVariant; 96 lines.",
+            "Attributed Title": "\nHear followeth a worke very short but not so shorte as it is new (f.\n                        43v)",
+            "folio": "f. 43v"
+        },
+        "CamTCC1120": {
+            "First Lines": "\n\u2026yf ye wolle to \u00feys medycyn a plyemake furst hevy hard\n                    hotte & drye\u2026\n",
+            "Last Lines": "\n\u2026\u00feus may ye spend more \u00feanne \u00fee kyngeyf ye have\n                    connynge of suche a \u00feynge\n",
+            "Note": "\nLast six lines of prologue only, ending, \u2018Explicit\n                    prologus\u2019.",
+            "folio": "part I, f. 72"
+        },
+        "BLSl288": {
+            "folio": "ff. 73-74"
+        },
+        "BLSl3688": {
+            "folio": "f. 66v"
+        },
+        "BLSl1842": {
+            "folio": "ff. 10v-22"
+        },
+        "LincInnH90": {
+            "First Lines": "\nTake heauye soft cold and dryeEsense him and to Calx grind him\n                    subtilly\u2026\n",
+            "Last Lines": "\n\u2026Looke thou dispise them notffor I tell thee right\n                    wellThere is the Dyadem of our Craft\n",
+            "Attributed Author": "\nGe Ripley (f. 48v)",
+            "Attributed Title": "\nA short and very true worke of the same Authore (f.\n                    48v)",
+            "Editions": "\nMooney,  Linne R. \n             \u201cMiddle English Verse in London, Lincoln\u2019s Inn, MS Hale\n                90.\u201d \n             Journal of the Early Book Society\n         2 (1999): 182-3. \n",
+            "folio": "ff. 48v-50"
+        },
+        "Wellcome519": {
+            "First Lines": "\nTake of hard heuy soft & dry& do togeher for so did\n                    I\u2026\n",
+            "Last Lines": "\n\u2026he \u00feat takethe moore or lesseis like to lose all as I\n                    gesse\n",
+            "folio": "f. 65v"
+        }
+    }
+}

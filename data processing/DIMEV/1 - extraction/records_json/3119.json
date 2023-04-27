@@ -1,0 +1,29 @@
+{
+    "_id": 3119,
+    "_header": "Listeneth lordings to my tale",
+    "Subjects": "Virgin Mary, lament of; laments",
+    "Versification": "\u2014 eight-line \u2014 ababcdcd",
+    "_description": "A Lament of the Virgin Mary \u2014 fourteen 8-line stanzas (ababcdcd)",
+    "_witnesses": {
+        "CULFf238": {
+            "First Lines": "\nLysteny\u00fe lordynges to my taleAnd ye schall here of oon\n                    story\u2026\n",
+            "Last Lines": "\n\u2026Out of \u00feys worlde when we ar bro\u021dtWith hym &\n                    hur in heuyn to rest Amen\n",
+            "Facsimiles": "\nMcSparran,  Frances,  and  Pamela R. Robinson.  \n             \u201cIntroduction.\u201d \n             Cambridge University Library MS Ff.2.38.\n         London: Scolar Press, 1979. \n",
+            "Editions": "\nWright,  Thomas. \n             The Chester Plays.\n         2 vols. London: Shakespeare Society, 1843, 1847: 2.204-7.\n",
+            "folio": "ff. 55ra-55vb"
+        },
+        "CULFf548": {
+            "First Lines": "\nListyns lordyngus to my taleAnd \u021de shall here of an\n                    story\u2026\n",
+            "Last Lines": "\n\u2026Owt of this worde when we are bro\u021dtWith hym and hir in\n                    heuyn to rest Explicit\n\n",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 18-22.\nDowning,  Janay Young A.,\n                        ed.  \n             \u201cA Critical Edition of Cambridge University MS Ff.5.48.\u201d \n         2 vols. Diss. University of Washington, 1969: 196.\n\n",
+            "folio": "ff. 71-72v"
+        },
+        "BLHar5396": {
+            "First Lines": "\nLestyns lordyngys to my taleAnd \u021de schal here of on story\u2026\n",
+            "Last Lines": "\n\u2026Out of \u00feys worlde whan we are bro\u021dtWyth hur & hym in heuyn to rest\n",
+            "Note": "\nEnds \u201cExplicit.\u201d",
+            "Attributed Title": "\nOur Ladys Song Of the Chyld \u00feat soked hyr brest (added by a later hand to upper margin, f. 283)",
+            "folio": "ff. 283-285"
+        }
+    }
+}

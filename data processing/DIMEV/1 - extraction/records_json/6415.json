@@ -1,0 +1,375 @@
+{
+    "_id": 6415,
+    "_header": "When that April with his showers soot",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "General Prologue ; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; prologues",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the General Prologue to the Canterbury Tales \u2014 858 lines in rhyming couplets",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nWhan that Apprill with his shouris sooteThe drought of Marche hath\n                    pershid to the roote\u2026\n",
+            "Last Lines": "\n\u2026And he bigan with right a mery chereHis tale anoon &\n                    seide as ye may here\n\n",
+            "Attributed Title": "\nHere bigynneth the prolog of this book the which is namede the talis of\n                    Caunturbury in the whiche prolog thauthour openly declarith the names of alle\n                    the pilgremes there condiciouns & there array (f. 4); the prolog (RT); Here\n                    endith the prolog of this book\u2026 (f. 15v)",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 4-15v"
+        },
+        "BodBar20": {
+            "First Lines": "\n\u2026That swiche a lewed mannes witte shal paceThe wisdom of an\n                    hepe of lerned men\u2026\n",
+            "Last Lines": "\n\u2026And he by gan with ri\u021dt a merie chereHis tale anoon and\n                    seide as \u021de maye here\n",
+            "Note": "\nI.1-573 lost; 792 omitted; 793 repeated.",
+            "Attributed Title": "\nprologus (RT); here endith \u00fee prologue\u2026 (f.\n                    4v)",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 1-4v"
+        },
+        "Bod414": {
+            "First Lines": "\nWhan that April with his shouris soteThe drought of March hath\n                    percid to \u00fee Rote\u2026\n",
+            "Last Lines": "\n\u2026And he began with right a mery chereHis tale anone and seid\n                    as ye may here\n",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 1-10"
+        },
+        "Bod686": {
+            "First Lines": "\nWhan that april with his showres swoteThe drouth of March hath\n                    perced the rote\u2026\n",
+            "Last Lines": "\n\u2026And by gan with right a mery chereHis tale a noon and seide\n                    as \u00fee may here\n",
+            "Note": "\nI.637-8 omitted.",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 1-11v"
+        },
+        "BodDoud4": {
+            "First Lines": "\n\u2026\u00deat had bot lytell golde in coffreBut all \u00feat he\n                    myght of his frendys hente\u2026\n",
+            "Last Lines": "\n\u2026But alle with siluer wrought full clene and wellTheire\n                    girdelis and theire pouchis euerydeell\u2026\n",
+            "Note": "\nA single leaf: I.298-368.",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": ""
+        },
+        "BodHatDon1": {
+            "First Lines": "\nWhan that Aprill with his showres swoteThe drought of Marche hath\n                    perced \u00fee rote\u2026\n",
+            "Last Lines": "\n\u2026Now late vs ride and herkeneth what I sayAnd with that worde\n                    we riden forth oure wey\n",
+            "Note": "\nI.194, 217, 221, 465-6, 551-94, 857-8 omitted; 305-6, 335-6, 403-4.\n                    467-8 reversed.",
+            "Attributed Title": "\nHere beginneth the Prolog of the Tales of Caunterbury (f. 1); The Prolog\n                    (RT)",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 1-10"
+        },
+        "BodLauMis600": {
+            "First Lines": "\nThat in hir cuppe was no ferthing seeneOf grece whan she had drunke\n                    hir drauhte\u2026\n",
+            "Last Lines": "\n\u2026And he began with right amery chereHis tale anoon and seide\n                    as ye mai here\n",
+            "Note": "\nI.1-133 missing; 305 and 402 omitted; 219-20, 221-1, 517-18\n                    reversed.",
+            "Attributed Title": "\n\u00fee prolog (RT); HEre endeth the prolog of this book\u2026 (f.\n                        14v)",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 4-14v"
+        },
+        "BodLauMis739": {
+            "First Lines": "\n[W]hanne that Aueryll wyth hys schoures soteThe droghte of marche\n                    had perced vn to rote\u2026\n",
+            "Last Lines": "\n\u2026And he byganne with ry\u021dt a mery ChereHis tale anon and\n                    seid as \u021de may here\n",
+            "Note": "\nI.219-21, 528 omitted.",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 1-13v"
+        },
+        "BodRawPoe149": {
+            "First Lines": "\n\u2026Olde ypocras holy and galyeneSerapion rafi and\n                    auysene\u2026\n",
+            "Last Lines": "\n\u2026Now late vs ride and herkeneth what I sayAnd with that worde\n                    we ryden forthe oure way\n",
+            "Note": "\nI.1-430 lost; 465-6, 733-8, 857-8 omitted; 551-94 lost; 467-8\n                    reversed.",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 1-5"
+        },
+        "BodRawPoe223": {
+            "First Lines": "\n\u2026There as this lord was keper of the selleThe rule of seint\n                    Maure or of seint Beneit\u2026\n",
+            "Last Lines": "\n\u2026And he bigan with ri\u021dt a mery chiereHis tale anon &\n                    seide as ye may here\n",
+            "Note": "\nI.1-171 lost",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 1-11"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nWhan that Auerell with his shoures sooteThe droght of Marche hath\n                    perced to the roote\u2026\n",
+            "Last Lines": "\n\u2026And he bygan with right amery chereHis tale anoon and seide\n                    as ye may here\n",
+            "Note": "\nI.616, 637, 639 omitted; 320, 390, 506 added in margin; spurious couplet\n                    after 252; 50-1, 73-4 reversed.",
+            "Attributed Title": "\nIncipit tractatus Galfridi Chaucer de GestisPeregrinorum versus\n                        Cantuariam (f. 2r)",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 2-13"
+        },
+        "OxfCCC198": {
+            "First Lines": "\n\u2026ffor to telle \u021dow of his arrayhis hors were goode but\n                    he was not gay\u2026\n",
+            "Last Lines": "\n\u2026And he began with right a merye cheerehis tale anon and seyde\n                    as \u021de may heere\n",
+            "Note": "\nI.1-72 lost.",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 2-12v"
+        },
+        "OxfNew314": {
+            "First Lines": "\n\u2026fforto be wise in byinge of vitailffor whe\u00feir he paide\n                    or took be tailAlgate he waitid so on his acateThat he was ay before\n                    & in good state\u2026\n",
+            "Last Lines": "\n\u2026And he began with ri\u021dt a mery chereAnd saide anone his\n                    tale as ye shul here\n",
+            "Note": "\nI.1-568 lost.",
+            "folio": "ff. 2-4v"
+        },
+        "OxfTri49": {
+            "First Lines": "\nWhen that Aperil with his shouris swotethe drought of Marche hath\n                    percid the rote\u2026\n",
+            "Last Lines": "\n\u2026yif euen song and morw song acordelat se nowe ho schal telle\n                    oure first tale\n",
+            "Note": "\nI.36, 80, 804, 832-58 omitted; 186-7 reversed.",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 1v-11v"
+        },
+        "CULDd424": {
+            "First Lines": "\n\u2026[ffor] though a wydewe had nou\u021dt a shooSo plesant was\n                    his In Principio\u021cet wold he haue a ferthyng or he wentHis purchas\n                    was wel betir than his rent\u2026\n",
+            "Last Lines": "\n\u2026And he bygan with right a mery chereThis tale a non and seide\n                    on \u00feis manere\n",
+            "Note": "\nI.1-252, 595-758 lost.",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n\n",
+            "folio": "ff. 6-13"
+        },
+        "CULGg427": {
+            "First Lines": "\n\u2026Me thynketh it a cordaunt to resounTo telle \u021dow al the\n                        conchusyoun\ncondition\u2026\n",
+            "Last Lines": "\n\u2026Bold of hese speche & wis & wel I tau\u021dtAnd of\n                    manhod hym lakkede ry\u021dt\n                    nati\u021dtno\u021dt\u2026\n",
+            "Note": "\nI.1-36, 757-858 lost; 289 omitted with blank following 290. The addition\n                    of \u2018condition\u2019 is by a later hand.",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "Editions": "\n\nFurnivall,  Frederick James. \n             The Cambridge MS (University Library, Gg.4.27) of Chaucer\u2019s\n                Canterbury Tales.\nChaucer Society\n         Series 1, nos. 4, 10, 17, 28, 33, 40, 52, 66. London: Tr\u00fcbner,\n            1868-79. \nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n\n",
+            "folio": "ff. 132-141v"
+        },
+        "CULIi326": {
+            "First Lines": "\n\u2026And euermore he hadde the souereyn prisAnd though that he\n                    was war he was wise\u2026\n",
+            "Last Lines": "\n\u2026And he be gan with right a merye chereAnd seide anoone this\n                    tale as ye shall here\n",
+            "Note": "\nI.1-66 lost; 191, 243-4, 297-8, 305, 334, 400, 403, 410 omitted; blank\n                    lines left for 684 and 830 (subsequently added); 271-2, 517-18, 685-6\n                    reversed.",
+            "Attributed Title": "\nPrologus (RT)",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 2-11"
+        },
+        "CULMm25": {
+            "First Lines": "\n\u2026Syngynge he was or floytynge alle \u00fee dayeHe was as\n                    fresshe as is \u00fee moneth of Maye\u2026\n",
+            "Last Lines": "\n\u2026Ande beganne with ri\u021dt a mery cheereHis taale anon and\n                    seide as \u021de may here\n",
+            "Note": "\nI.1-90 lost.",
+            "Attributed Title": "\nPrologus (RT); Here endith \u00fee prologe of \u00feis booke (f.\n                    10)",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 2-10"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[W]Han that Aprile with his schoures sooteThe drouthe of marche\n                    hathe persed \u00fee rote\u2026\n",
+            "Last Lines": "\n\u2026And bygan with ryght a mery chereHis tale anone and seyd as\n                    ye may here\n",
+            "Note": "\nI.243-6, 739-42, 794 omitted; 533-4, 657-8, 727, 792-3 reversed. In the\n                        General Prologue, names of pilgrims occur as running titles, e.g.,\n                    \u2018A yeman\u2019.",
+            "Attributed Author": "\nHere bigynneth the Talys of Caunterbiry / Compiled by Geffrei Chaucers (f.\n                    1)",
+            "Attributed Title": "\nHere bigynneth the Talys of Caunterbiry / Compiled by Geffrei Chaucers (f.\n                    1); Here endeth \u00fee prolog of \u00feis Boke\u2026 (f.\n                    15v)",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 2-15v"
+        },
+        "CamTCC582": {
+            "First Lines": "\nWhan that Aprille with his shoures sooteThe drou\u021dt of Marche\n                    hath perced to the rooteAnd bathed eueri veyne in such licoureOf wich\n                    vertu engendred is the floure\u2026\n",
+            "Last Lines": "\n\u2026And he be gan right thus with a goodli cheerHis tale anon and\n                    seid as ye may hiere\n",
+            "Note": "\nI.316 omitted; 233-4, 433-4 reversed.",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 1-5v"
+        },
+        "CamTCC595": {
+            "First Lines": "\n\u2026In granade at the siege eke had he beIn algreth had he ryden\n                    and in belmarye\u2026\n",
+            "Last Lines": "\n\u2026And he began with right amery chiereAnd seyde anone his tale\n                    as ye shalle here\n",
+            "Note": "\nBegins I.56; lines 1-55 supplied by a later (sixteenth-century) hand on\n                    ff. 3v-4v. 197-8, 221, 303, 400, 403 omitted; 543-71\n                    follow 601 (f. 13 inverted); spurious lines added after 163, 165, 207, 308, 404;\n                    517-18, 685-6 reversed.",
+            "Attributed Title": "\nExplicit Prologus (f. 18)",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 5-18"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nWHan that Aprylle wyth hys showres sooteThe drowhte of Marche hath\n                    percede to the rote\u2026\n",
+            "Last Lines": "\n\u2026And he began with ryht a mery chereHis tale a noon\n                    and seyd as ye may here\n",
+            "Note": "\nI.398, 659 omitted.",
+            "Attributed Title": "\nPrologus (RT)",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 2-14"
+        },
+        "BLAdd10340": {
+            "First Lines": "\n\u00deere was a pore person of a touneAnd was a goode man of\n                    religioune\u2026\n",
+            "Last Lines": "\n\u2026But cristes lore & hys apostles tweluehe tau\u021dt but\n                    first he folwed it hym selue\n",
+            "Note": "\nI.478-528 only.",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "f. 41rb"
+        },
+        "BLAdd35286": {
+            "First Lines": "\n\u2026But sykerly she hadde a fair forheed It was almost a spanne\n                    brood y trowe\u2026\n",
+            "Last Lines": "\n\u2026And he by ganne ryght wyth a mury cheereHis tale anon and\n                    seyde as ye may heere\n",
+            "Note": "\nI.1-153, 234-396 lost.",
+            "Editions": "\n\nHorobin,  Simon. \n             \u201cA Transcription and Study of British Library MS Additional 35286 of\n                Chaucer\u2019s Canterbury Tales.\u201d \n         Diss. Univ. of Sheffield, 1997. \nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n\n",
+            "folio": "ff. 1-7v"
+        },
+        "BLEge2726": {
+            "First Lines": "\nWHan that Aprill with his shoures sooteThe drought of Marche hath\n                    pershed \u00fee roote\u2026\n",
+            "Last Lines": "\n\u2026And he began with right a mery chereThis tale anone and seide\n                    on \u00feis manereIamque domos patrias scithice post aspera gentis\n                        prelia laurigero\n\n",
+            "Note": "\nI.219-20 omitted; 221, 830 added in the margin; 47-8, 155-6 reversed;\n                    613-14 precede 615-16.",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n\n",
+            "folio": "ff. 1-11v"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[W]Han that Aprille with his showres sooteThe drowhte of marche\n                    hath perced to the roote\u2026\n",
+            "Last Lines": "\n\u2026And bi gan with ryht a mery chereHis tale anoon and seyde as\n                    ye may heere\n",
+            "Note": "\nI.659 omitted; 320-1, 426-7, 710-11 reversed.",
+            "Attributed Author": "\nIncipit liber Galstid Chaucer de gestis peregrinorum versus\n                        Cantuariam (f. 1)",
+            "Attributed Title": "\nIncipit liber Galstid Chaucer de gestis peregrinorum versus\n                        Cantuariam (f. 1); prolog (RT); Explicit prologus (f.\n                        13v)",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 1-13v"
+        },
+        "BLHar1758": {
+            "First Lines": "\nWhan that Aprill with his schoures swoteThe drought of Marche hath\n                    perced to \u00fee rote\u2026\n",
+            "Last Lines": "\n\u2026And schortly for to tellen as it wasWere it bi auenture or\n                    sort or cas\n",
+            "Note": "\nI.845-58 lost.",
+            "Attributed Author": "\n[H]Ere begynneth the book of tales of Caunterburye compiled by Gef / fraie\n                    Chaucers of Brytayne chef poete (f. 1)",
+            "Attributed Title": "\n[H]Ere begynneth the book of tales of Caunterburye compiled by Gef / fraie\n                    Chaucers of Brytayne chef poete (f. 1); Prologus libri (RT)",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 1-9v"
+        },
+        "BLHar7333": {
+            "First Lines": "\nWhanne \u00feat Aperyll with his shoures swoote\u00dee Drowght of\n                    marche hathe perced to \u00fee rote\u2026\n",
+            "Last Lines": "\n\u2026\u00deus he bygan with Right A goodly chereHis tale A noon\n                    And sayde as ye may hereLoo here eondi\u00fee \u00fee prologe of \u00fee\n                    Knightes tale\n",
+            "Attributed Title": "\nOn f. 37, the poem is introduced as \u2018The Prologue of the Knyghtes\n                    Tale\u2019, followed by the heading: \u2018O yee so noble and worthi pryncis\n                    and princesse o\u00feer estatis or degrees. what euer yee beo \u00feat haue\n                    disposicione or plesaunce. to rede or here \u00fee stories of olde tymis passed\n                    to kepe yow frome ydelnesse and slow\u00fee. in escheuing o\u00feer folies\n                    \u00feat might be cause of more harome filowyng vowcheth sauf I be seche yowe.\n                    to fynde yowe occupacioun in \u00fee Reding here of \u00fee tales of\n                    Caunterburye wiche beon compilid in \u00feis boke filowyng ffirst foundid\n                    ymagenid and made bo\u00fee for disporte and leornyng of all \u00feoo that beon\n                    gentile of birthe or of condiciouns by \u00fee laureal and moste famous poete\n                    \u00feat euer was to fore him as in \u00feemvelisshing of oure rude moders\n                    englisshe tonge. clepid Chaucyer a Gavfrede of whos soule god for his mercy have\n                    pitee of his grace Amen;\u2019; Nowe here firste begynny\u00fee \u00fee prologe\n                    of \u00fee / kneytis tale (f. 33va; to introduce the General\n                        Prologue)",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 37ra-41vb"
+        },
+        "BLHar7334": {
+            "First Lines": "\nWHan that aprille with his schowres swooteThe drought of Marche\n                    ha\u00fe perced to \u00fee roote\u2026\n",
+            "Last Lines": "\n\u2026And he bigan with right a merie chereHis tale and seide right\n                    in \u00feis manere\n",
+            "Note": "\nI.59-60 reversed.",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n\n",
+            "folio": "ff. 1-12"
+        },
+        "BLLan851": {
+            "First Lines": "\nWhan \u00feat Aprill wy\u00fee his schoures soote\u00fee drought of\n                    Marche ha\u00fee perced to \u00fee roote\n",
+            "Last Lines": "\n\u2026And he be gan wi\u00fe riht amery chereHis tale anone and\n                    seide as \u021de mai here\n",
+            "Attributed Title": "\nIncipit prologus fabularum Cantuarensis (f. 3); Prologus\n                    (RT)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n\n",
+            "folio": "ff. 2-12"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\n\u2026And of his porte As Meke as is a MaydeHe neuer yett no\n                    villanye ne sayde\u2026\n",
+            "Last Lines": "\n\u2026And he bigane with righte Amerye chereHis tale anon and sayde\n                    as ye maye here\n",
+            "Note": "\nI.1-68 lost.",
+            "Attributed Title": "\nProlog (RT)",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 1-12v"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nWHan that Aprill wit his shoures sooteThe drought of\n                    marche hath perced to \u00fee roote\u2026\n",
+            "Last Lines": "\n\u2026And he bigan wit right a merye chereHis tale anoon &\n                    seide as ye may here\n",
+            "Note": "\nI.141 omitted.",
+            "Attributed Title": "\nprologus (RT)",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 3-13v"
+        },
+        "BLSl1685": {
+            "First Lines": "\n\u2026He wolde suffre for a quart of wyneA good felowe to haue his\n                    concubyne\u2026\n",
+            "Last Lines": "\n\u2026And he bigan with ri\u021dt a mery chereHis tale anoon and\n                    seide as ye may heere\n",
+            "Note": "\nI.1-648 lost.",
+            "Attributed Title": "\nProloog (RT); Heere endith the prolog of / this book\u2026 (f.\n                        3v)",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 1-3v"
+        },
+        "BLSl1686": {
+            "First Lines": "\n\u2026In lystes thries and aye slayne his fooThis ilke worthy\n                    knyght had be also\u2026\n",
+            "Last Lines": "\n\u2026And began with a mery chereHis tale anon and saide as ye maye\n                    here\n",
+            "Note": "\nI.1-62, 412-69 lost; 716-17 reversed.",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 1-13"
+        },
+        "NLWPen392": {
+            "First Lines": "\nWhan that Aueryll with his shoures sooteThe droghte of March hath\n                    perced to the roote\u2026\n",
+            "Last Lines": "\n\u2026And hi bigan with right a murye cheereHis tale anoon and\n                    seyde as ye may heere\n",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n\n",
+            "folio": "ff. 2-12v"
+        },
+        "Alnwick455": {
+            "First Lines": "\n\u2026fful fetouse was hir cloke as I was wareOf smale corall a\n                    bou\u021dt hir arme she bare\u2026\n",
+            "Last Lines": "\n\u2026And so be gan with a ri\u021dt mery chereAnd seyd anoon his\n                    tale as yee shul heer\n",
+            "Note": "\nI.1-156 lost; 221, 296-7, 299, 305, 385-6, 400, 403, 710, 786 omitted;\n                    spurious lines added following 300, 308, 398, 404; 787 repeated after 788;\n                    517-18, 685-6 reversed.",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 1-10"
+        },
+        "GULHun197": {
+            "First Lines": "\n\u2026His table dormaunt in his halle alweyeStode redy couered all\n                    the long daye\u2026\n",
+            "Last Lines": "\n\u2026And bygan with right a mery chereHis tale a none as ye may\n                    here\n",
+            "Note": "\nI.1-352 lost.",
+            "Attributed Title": "\nThe prolog (RT)",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 1ra-3va"
+        },
+        "Lichfield29": {
+            "First Lines": "\n\u2026With hym ther was his sone a \u021dong squierA louier a\n                    lusty bacheler\u2026\n",
+            "Last Lines": "\n\u2026And he bigan right with a mery chereHis tale anon and seide\n                    as \u021de may here\n",
+            "Note": "\nI.1-78 lost; resupplied in the seventeenth century.",
+            "Attributed Title": "\nPrologus libri (RT)",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 2-11v"
+        },
+        "Lincoln110": {
+            "First Lines": "\n\u2026And pouder marchaunt tart and gallyngaleWel coude he knowe a\n                    drau\u021dt of londoun aleHe coude roste and sethe & boyle &\n                    fri\u021deMake mortrews and well bake a pie\u2026\n",
+            "Last Lines": "\n\u2026And he began wi\u00fe ri\u021dt ameri chereHis tale anon and\n                    seide as \u021de may here\n\n",
+            "Note": "\nI.1-380 lost; 440-3 added in margin.",
+            "Attributed Title": "\nHere endith the proheme of all \u00fee tal (f. 7)",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 1-7"
+        },
+        "LonPhys388": {
+            "First Lines": "\nWhanne that Aprill with his showris sooteThe drought of marche hath\n                    perced the Roote\u2026\n",
+            "Last Lines": "\n\u2026And he bigan with Right a mirry chiereHis tale anon and saide\n                    as ye may here\n",
+            "Note": "\nI.116, 490, 608-10, 617-18 omitted; spurious couplet follows\n                    252.",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 1-16"
+        },
+        "RylandsEng113": {
+            "First Lines": "\nWhan \u00feat Aprill with his shoures swote\u00dee drowth of Marche\n                    hath perced to \u00fee roteAnd bathed euery vayne with soche\n                        vertu licourOf which vertue engendred is \u00fee\n                    flour\u2026\n",
+            "Last Lines": "\n\u2026And he began with right a mery cherehis tale anon and seide\n                    on \u00feis manere\n",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 6-14"
+        },
+        "Petworth7": {
+            "First Lines": "\nWhan that aprille with his shoures sooteThe drouht of marche hath\n                    perced to \u00fee roote\u2026\n",
+            "Last Lines": "\n\u2026And byganne wi\u00fe ri\u021dt amery chereHis tale anon and\n                    seide as \u021de may hereIamque domos patrias Scithice post aspera\n                        gentisPrelia laurigere & ceteraThus ende\u00fe\n                    \u00fee prologe of \u00feis bokeHere bygynneth the Knyghtes\n                    tale\n",
+            "Attributed Title": "\nThe Prologe (RT)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n\n",
+            "folio": "ff. 1-12"
+        },
+        "Austin143": {
+            "First Lines": "\n\u2026Her mouthe full small and therto softe and redeBut sikirly\n                    she had a faire forehede\u2026\n",
+            "Last Lines": "\n\u2026And he began with right a mery chereHis tale anon and seide\n                    on this manere\n",
+            "Note": "\nI.1-152 lost; 155-6, 615-16 precede 613-14; 746 added in\n                    margin.",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 1-9v"
+        },
+        "PierpontM249": {
+            "First Lines": "\nWhan that April with his showers swooteThe droughte of Marche had\n                    perced to \u00fee roote\n",
+            "Last Lines": "\n\u2026And he began right with a mery chereHis tale anon and seide\n                    as ye may hereIamque domos patrias Scithice post aspera gentisPrelia\n                    laurigero In Stacis thebaides\n",
+            "Attributed Title": "\nprologus libri (RT)",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 4-15"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nWhan that Aprill with hise shoures sooteThe droghte of March hath\n                    perced to the roote\u2026\n",
+            "Last Lines": "\n\u2026And he began with right a myre cheereHis tale anon and seyde\n                    in this manere\n",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n\n",
+            "folio": "ff. 1-9v"
+        },
+        "BNangl39": {
+            "First Lines": "\nUWhan that april with his shourez swote\u00fee drought of march\n                    ha\u00fe percyd to \u00fee rote\u2026 \n",
+            "Last Lines": "\n\u2026and he began with right a mery cherehis tale and said on this\n                    manere\n",
+            "Note": "\nA \u2018U\u2019 lombard initial precedes the first word of the text,\n                    \u2018Whan\u2019. I.346 omitted; spurious line follows 344.",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 1ra-5va"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nWhan that aprille with his shoures sooteThe drou\u021dte of Marche\n                    hath persed the roote\u2026\n",
+            "Last Lines": "\n\u2026And he began with ri\u021dt a meri chereThis tale anon and\n                    saide on this manere\n",
+            "Note": "\nI.219-20 omitted; 47-8, 155-6, 220-1 reversed; 615-16 precede\n                    613-14.",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 1-11"
+        },
+        "TokyoTak32": {
+            "First Lines": "\n\u2026He yaf nowt of the text a pulled henThat seyht that hvnteris\n                    be noun holy men\u2026\n",
+            "Last Lines": "\n\u2026Vppon a day hee gatte him more moneyThanne the person gatte\n                    in Monethis tweye\u2026\n",
+            "Note": "\nI.1-176, 705-858 lost.",
+            "Attributed Title": "\nThee Prologge (RT)",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 20ra-22vb"
+        },
+        "Bodmer48": {
+            "First Lines": "\nWhan that Aprile with his shouris soteThe drought of March hath\n                    percid to \u00fee Rote\u2026\n",
+            "Last Lines": "\n\u2026and he began with right a mery chereHis tale anon and seid as\n                    ye may here\n",
+            "Note": "\nI.301-2, 357-8, 429-34 omitted.",
+            "Facsimiles": "\n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n",
+            "Editions": "\nSolopova,  Elizabeth,\n                        ed.  \n             The General Prologue on CD-ROM.\n         Cambridge: Cambridge University Press, 2000. \n",
+            "folio": "ff. 1-12"
+        }
+    }
+}

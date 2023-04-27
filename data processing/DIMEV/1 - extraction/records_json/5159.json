@@ -1,0 +1,65 @@
+{
+    "_id": 5159,
+    "_header": "That may we see by Saint Bede",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Bede the Venerable, saint; birds",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "St. Bede and the Birds: Narratio in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodSelSup52": {
+            "First Lines": "\nffrendes we may see be sant bede\u00feat mekyll vsyd all gud\n                    dede\u2026\n",
+            "Last Lines": "\n\u2026\u00feat we \u00feen with hym lendVnto \u00feat blys \u00feat\n                    hathys non end\n",
+            "folio": "ff. 211v-213v"
+        },
+        "BodAsh42": {
+            "First Lines": "\n\u00feat mai we se be saynte Bede\u00feat mikil wro\u021dt goddes\n                    dede\u2026\n",
+            "Last Lines": "\n\u2026And \u00feat we may wi\u00fe him wendeInto \u00fee ioye\n                    wi\u00fe outen ende . Amen .\n",
+            "folio": "ff. 92v-94"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\n\u00deAt may we seo beo seint Bede\u00deat muche ferde wi\u00fe\n                    such good dede\u2026\n",
+            "Last Lines": "\n\u2026And \u00feat we may \u00feenne wi\u00fe him wendeIn to his\n                    blisse wi\u00fe outen ende. AMEN.\n",
+            "Attributed Title": "\nHou stoones onswerede seynt Bede (f. 184vc)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDie Evangelien-Geschichten der Homiliensammlung des Ms. Vernon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         57 (1877): 241-316: 274.\n",
+            "folio": "ff. 184vc-185ra"
+        },
+        "CULDd11": {
+            "First Lines": "\n\u00deat may we seen be seynt Bede\u00feat euere was besi in good\n                    dedeFor wreten in his lyf we fynde\u00feat he was in his elde al\n                    blynde\u2026\n",
+            "Last Lines": "\n\u2026And \u00feat we may \u00fean wi\u00fe him wendevn to his\n                    blisse wi\u00fe outen ende\n",
+            "Note": "\nDivision between 3288 and the preceding 4670 occurs 2 lines later in this MS, for begins\n                    \u2018For wreten\u2026\u2019.",
+            "folio": "ff. 109-110"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nffor of Seynt Bede writen we fyhnde\u00deat in his elde was al\n                    blynde\u2026\n",
+            "Last Lines": "\n\u2026And \u00feat we may \u00feen with him wendeVnto \u00feat\n                    blisse \u00feat neuer sale ende\n",
+            "Attributed Title": "\nnarracio de sancto Beda qualiter predicabat lapidibus (margin, p.\n                    139)",
+            "folio": "pp. 138-141"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nAnd \u00feat may yhe se be sainte bedeThat mykill farde with skyll\n                    gud dede\u2026\n",
+            "Last Lines": "\n\u2026And \u00feat we may with hym wendeVnto blys with outen\n                    ende\n",
+            "folio": "ff. 72-73"
+        },
+        "BLHar2391": {
+            "First Lines": "\nFor wretyn in hys lyf we fynd\u00feat he was in hys eyld blynd\u2026\n",
+            "Last Lines": "\n\u2026\u00feise er \u00fee wordis of owr gospellas men with ynglych tong may telle\n",
+            "Attributed Title": "\nDominica tercia in quadragesima (left margin, f. 178), with \u201cA tale\u201d written above this",
+            "folio": "ff. 178-179"
+        },
+        "Lam260": {
+            "folio": "f. 30va"
+        },
+        "MinULZ822": {
+            "First Lines": "\nAnd \u00feat may \u021de se be saynte bede\u00feat mykelde farde\n                    with swelke gude dedis\u2026\n",
+            "Last Lines": "\n\u2026& at we may \u00fean with hym wendevnto \u00fee blysse\n                    with outene ende\n",
+            "folio": "ff. 61-62"
+        },
+        "HunHM129": {
+            "First Lines": "\nAnd \u00feat may se be seint bede\u00feat moche ferd with soche\n                    dede\u2026\n",
+            "Last Lines": "\n\u2026And \u00feat we may with hym wendIn to \u00feat blis with\n                    outyn end\n",
+            "Note": "\nListed in Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943 as appearing on f. 80; written as if\n                    continuation of 4670, with no\n                    indication of new text at its first line.",
+            "folio": "ff. 81-82v"
+        }
+    }
+}

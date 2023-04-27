@@ -1,0 +1,20 @@
+{
+    "_id": 6118,
+    "_header": "Up I arose in verbo tempore",
+    "Subjects": "lover\u2019s lament",
+    "Versification": "\u2014 four-line",
+    "Macaronic": "Latin",
+    "_description": "A betrayed maiden\u2019s lament \u2014 four macaronic quatrains",
+    "_witnesses": {
+        "BodAsh176": {
+            "First Lines": "\nVp I arose in verno tempore& found a mayd sub quadam\n                        arbore\u2026\n",
+            "Last Lines": "\n\u2026Yf I yt sley quo loco fugiamI shall lose god &\n                        vitam eternam\n\n",
+            "Note": "\nAt the end: \u2018finis\u2019.",
+            "folio": "f. 98v"
+        },
+        "BLAdd5665": {
+            "Editions": "\n\nFehr,  Bernhard. \n             \u201cDie Lieder der Hs. Add. 5665 (Ritson\u2019s Folio-MS).\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         106 (1901): 262-85: 284.\nStevens,  John,\n                        ed.  \n             Music and Poetry in the Early Tudor Court.\n         London: Methuen, 1961: 348.\n\n",
+            "folio": "f. 145v"
+        }
+    }
+}

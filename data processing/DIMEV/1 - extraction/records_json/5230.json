@@ -1,0 +1,40 @@
+{
+    "_id": 5230,
+    "_header": "The cat will fish eat",
+    "Note": "Cf. Watson (1867)\nXWatson, Thomas. Proverbs and Epigrams of John Heywood (A.D. 1562). Manchester: for the Spenser Society, 1867; Meech (1940)\nXMeech, Sanford Brown. \u201cA Collection of Proverbs in Rawlinson MS D 328.\u201d Modern Philology 38 (1940-41): 113-32, 130; Tilley (1950)\nXTilley, Morris Palmer. A Dictionary of the Proverbs in England in the 16th and 17th Centuries. Ann Arbor, MI: University of Michigan, 1950, C 144.",
+    "Subjects": "proverbs",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A proverbial couplet",
+    "_witnesses": {
+        "BodRawD328": {
+            "Transcription": "\n\u00fee catte wol hete fyce bute a wol not chyeth \u00fee water pha[\n                    ]\n",
+            "Note": "\nTranslating \u2018Catus amat pisse set non vult\u2026\u2019,\n                    which follows; English portion all written on one line.",
+            "Editions": "\nMeech,  Sanford Brown. \n             \u201cA Collection of Proverbs in Rawlinson MS D 328.\u201d \n             Modern Philology\n         38 (1940-41): 113-32: 121.\n",
+            "folio": "f. 142v"
+        },
+        "CamTCC1149": {
+            "Transcription": "\nCat lufat viswch ac he nele his feth wete\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nF\u00f6rster,  Max. \n             \u201cKleinere mittelenglische texte.\u201d \n             Anglia\n         42 (1918): 145-224; 43 (1919): 191: 202.\n",
+            "folio": "p. 351"
+        },
+        "BLHar2321": {
+            "Transcription": "\nThe cat doth loue \u00fee fishebut he will not wett her fate\n",
+            "Note": "\nThis variant not rhyming; added to left margin by a later hand.",
+            "Editions": "\nF\u00f6rster,  Max. \n             \u201cKleinere mittelenglische texte.\u201d \n             Anglia\n         42 (1918): 145-224; 43 (1919): 191: 202.\n",
+            "folio": "f. 146v1"
+        },
+        "BLHar3362": {
+            "Transcription": "\n\u00fee cat wold ete\u2026\n",
+            "Note": "\nIncomplete, first line only.",
+            "Editions": "\nF\u00f6rster,  Max. \n             \u201cKleinere mittelenglische texte.\u201d \n             Anglia\n         42 (1918): 145-224; 43 (1919): 191: 202.\n",
+            "folio": "f. 5"
+        },
+        "RylandsLat394": {
+            "Transcription": "\nThe catt wolle fyssh ete but wol not here fote wete\n",
+            "Note": "\nWritten all one line; translating \u2018Cattus amat piscem sed non\n                        vult tangere flumen\u2019, which follows it.",
+            "Editions": "\nPantin,  William A. \n             \u201cA Medieval Collection of Latin and English Proverbs\u2026from Rylands\n                Latin MS. 394.\u201d \n             Bulletin of the John Rylands Library\n         14 (1930): 81-114: 93.\n",
+            "folio": "f. 2v"
+        }
+    }
+}

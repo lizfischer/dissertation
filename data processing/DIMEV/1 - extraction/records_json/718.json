@@ -1,0 +1,22 @@
+{
+    "_id": 718,
+    "_header": "At the end of summer when winter began",
+    "Author(s)": "George Ashby",
+    "Title(s)": "A Prisoner\u2019s Reflections",
+    "Subjects": "prison/prisoners; envoys",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "Bibliographic Ghosts": "Oxford, Bodleian Library Addit. A.60 (SC 30161)",
+    "_description": "George Ashby, A Prisoner\u2019s Reflections \u2014 fifty stanzas rhyme royal including Prologue, text, Envoy and postscript",
+    "_witnesses": {
+        "CamTCC599": {
+            "First Lines": "\n[A]t the ende of Somer when wynter beganAnd trees herbes and\n                    flowres dyd fadeBlosteryng and blowyng the gret wyndes thanThrew doune\n                    the frutes with whyche they were lade\u2026\n",
+            "Last Lines": "\n\u2026Of fre liberte a sharp abstinenceLackyng volunte for theyr\n                    dew penaunce\n",
+            "Note": "\nNineteenth-century transcript by Hartshorne said to be in Oxford,  Bodleian Library Addit. A.60 (SC 30161).",
+            "Attributed Author": "\nWritten by George Asshby prisoner in the Fleet A.D. 1463 (added by later\n                    hand, f. 41)",
+            "Attributed Title": "\nProhemium vnius Prisonarii (f. 41)",
+            "Facsimiles": "\n\nFletcher,  Bradford Y. \n             \u201cIntroduction.\u201d \n             Manuscript Trinity R.3.19. A Facsimile.\n         Norman, OK: Pilgrim, 1987. \n\nDigital Facsimile of Trinity College Cambridge MS R.3.19.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.19. \n\n",
+            "Editions": "\n\nF\u00f6rster,  Max. \n             \u201cGeorge Ashby\u2019s trost in gefangenschaft.\u201d \n             Anglia\n         20 (1898): 139-52: 139-52.\nBateson,  Mary,\n                        ed.  \n             George Ashby\u2019s Poems.\nEETS\n         e.s. 76 (1899), repr. 1965: 1-12.\nHolthausen,  Ferdinand. \n             \u201cAshby-studien. II,III.\u201d \n             Anglia\n         45 (1921): 77-104: 77-89.\n\n",
+            "folio": "ff. 41-45v"
+        }
+    }
+}

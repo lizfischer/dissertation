@@ -1,0 +1,24 @@
+{
+    "_id": 2363,
+    "_header": "If I lie backbite or steal / If I curse scorn or swear",
+    "Subjects": "children, instructions for the behaviour of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A lesson to be kept in mind by a virtuous child \u2014 eighteen lines in couplets",
+    "_witnesses": {
+        "BodRawPoe32": {
+            "First Lines": "\nIf I backbyte lye or steleIf I curse Skorne or\n                    swere\u2026\n",
+            "Last Lines": "\n\u2026Assaile me well for CheriteAnd then shall I \u00fee better\n                    be\n",
+            "Note": "\n18 lines included in 5530.",
+            "Editions": "\nZupitza,  Julius. \n             \u201cThe Prouerbis of Wysdom.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         90 (1893): 241-68: 247.\n",
+            "folio": "f. 55a"
+        },
+        "BLHar1706": {
+            "First Lines": "\nIff y lye bacbyte or steleIff y curse scorne or swere\u2026\n",
+            "Last Lines": "\n\u2026And he schalle lede \u00fee ywysTo \u00feat yoye \u00feat laste\u00fe aye\n",
+            "Note": "\nA \u201cfalse\u201d ending four lines earlier \u201cAmen amen for charyte\u201d followed by \u201cExplicit scala celi\u201d in rubric before text continues for four more lines \u201c\u00feis ys lader of heuen blys\u201d to last lines listed in witness (f. 210).",
+            "Attributed Title": "\nThis lesson a vertuose chylde schuld often sey to hys souereynes (rubric above first line, f. 209)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 1706.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_1706. \n",
+            "folio": "ff. 209-210"
+        }
+    }
+}

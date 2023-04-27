@@ -1,0 +1,56 @@
+{
+    "_id": 4692,
+    "_header": "Saint Mark in our gospel shows",
+    "Note": "For the text in the \u2018expanded\u2019 Cycle see 4691",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Easter Sunday in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nSAynte marke in oure gospell schawesAnd tellis vs wi\u00fe semeli\n                    sawes\u2026\n",
+            "Last Lines": "\n\u2026ffor all \u00feat euere we do \u00feaim toTo criste him self\n                    forso\u00fee we do\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 108v-110v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Mark In vr gospel schewesAnd telle\u00fe vs wi\u00fe semely\n                    sawes\u2026\n",
+            "Last Lines": "\n\u2026ffor al \u00feat euere we to hem doTo crist him self we don\n                    hit to\n",
+            "Attributed Title": "\nIn ille tempore Maria Magdalene et cetera (f.\n                    185bc)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 185vc-186rb"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nSEynt Mark \u00feis day oure godspelleOf cristes risyng wille vs\n                    telle\u2026\n",
+            "Last Lines": "\n\u2026ffor what so euer to \u00feem we doCrist him self we do it\n                    to\n",
+            "Attributed Title": "\nIn die Pasche secundum Marchum (p. 173)",
+            "folio": "pp. 173-177"
+        },
+        "CULDd11": {
+            "First Lines": "\n\u2026\u00fee thridde marie gat salomasOf Anne \u00feat hire thre\n                    moder was\u2026\n",
+            "Last Lines": "\n\u2026ffor al \u00feat euere we to hem doto crist him self we don\n                    him to\n",
+            "Note": "\nBegins imperfectly due to missing folio 116.",
+            "folio": "ff. 117-117v"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nSaint marke in our gospell schewesAnd tellys vs with semly\n                    sawes\u2026\n",
+            "Last Lines": "\n\u2026ffor all \u00feat euer we do \u00feame toTo cryst hym self\n                    for soth we do\n",
+            "folio": "ff. 89-91"
+        },
+        "Lam260": {
+            "folio": "f. 34va"
+        },
+        "MinULZ822": {
+            "First Lines": "\nSaynt Marke in oure gospell sc[haw]es& telles vs with semely\n                    sawes\u2026\n",
+            "Last Lines": "\n\u2026for all \u00feat euer we do \u00feam toto Criste hym selfe\n                    for so\u00feth we do\n",
+            "Attributed Title": "\nIn die festo pasche Secundum Matheum (f. 78v)",
+            "folio": "ff. 78v-80v"
+        },
+        "HunHM129": {
+            "First Lines": "\nSeint marc in oure gospell schawisAnd tellyth vs ryght semely\n                    sawys\u2026\n",
+            "Last Lines": "\n\u2026ffor all \u00feat we do \u00feayn toTo crist hym self for\n                    sothe we do\n",
+            "Attributed Title": "\nIn die pasche (f. 92v)",
+            "folio": "ff. 92v-94v"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "_id": 6112,
+    "_header": "Unseely ghost what dost thou here",
+    "Subjects": "hell, pains of",
+    "Macaronic": "Anglo-Norman",
+    "_description": "The XI Pains of Hell \u2014 290 lines, with some prefatory lines in Anglo-Norman",
+    "_witnesses": {
+        "BodDig86": {
+            "First Lines": "\nHounseli gost wat des \u00feou here\u00deou were in helle nou for\n                    \u021dere\u2026\n",
+            "Last Lines": "\n\u2026Of \u00fei loue \u00feat is so swoteAnd witet hit \u00feat hi\n                    springe mote\n",
+            "Attributed Title": "\nLes ounsse peines de enfer (f. 132)",
+            "Facsimiles": "\nTschann,  Judith A.,  and  Malcolm B. Parkes.  \n             \u201cIntroduction.\u201d \n             Facsimile of Oxford, Bodleian Library, MS Digby 86\nEETS\n         s.s. 16 (1996). \n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cNachtr\u00e4ge zu den Legenden.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         62 (1879): 397-442: 403-6.\n",
+            "folio": "ff. 132-134v"
+        },
+        "OxfJesus29": {
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             An Old English Miscellany: A Bestiary, Kentish Sermons, Proverbs of\n                Alfred and Religious Poems of the Thirteenth Century.\nEETS\n         o.s. 49 (1872); repr. 1988: 145-55.\n",
+            "folio": "Part II, f. 198"
+        }
+    }
+}

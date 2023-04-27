@@ -1,0 +1,26 @@
+{
+    "_id": 1146,
+    "_header": "Downbery down",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 367.",
+    "Subjects": "lovers, addresses to beloved",
+    "Versification": "\u2014 eight-line \u2014 abbcdcca",
+    "_description": "To his mistress, a round \u2014 eight lines",
+    "_witnesses": {
+        "BLAdd31922": {
+            "First Lines": "\nDownbery down now am I exild my lady froand no cause geuyn thee to\u2026\n",
+            "Last Lines": "\n\u2026trustyng that dysdayn sone shalbe slayneand neuer more to remayne\n",
+            "Note": "\nWith music by William Daggere.At end, \u201cDownbery ut supra.\u201d",
+            "Attributed Author": "\nWylliam Daggere (f. 25)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Additional MS 31922.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=2&ref=Add_MS_31922. \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts, Besonders aus der Zeit Heinrichs\n                VIII.\u201d \n             Anglia\n         12 (1889): 225-72, 585-97: 232.\nStevens,  John,\n                        ed.  \n             Music at the Court of Henry VIII.\nMusica Britannica\n         18. London: Stainer and Bell, 1962: 18.\nStevens,  John,\n                        ed.  \n             Music and Poetry in the Early Tudor Court.\n         London: Methuen, 1961: 391.\n\n",
+            "folio": "f. 25"
+        },
+        "BLRoyApp58": {
+            "Transcription": "\nDownbery down down hay downNow am I exyeld my lady fro& no\n                    cause yevyn \u00feer towher for to hyr I me complaynehey now hey now\n                    hey nowtrystyng \u00feis daysum shal be slaynneuer to\n                    remaynhey now downbery down\n",
+            "Note": "\nWith music.",
+            "Attributed Title": "\nA Rownde (f. 4v)",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts, Besonders aus der Zeit Heinrichs\n                VIII.\u201d \n             Anglia\n         12 (1889): 225-72, 585-97: 260.\nStevens,  John,\n                        ed.  \n             Music at the Court of Henry VIII.\nMusica Britannica\n         18. London: Stainer and Bell, 1962: 18.\n\n",
+            "folio": "f. 4v"
+        }
+    }
+}

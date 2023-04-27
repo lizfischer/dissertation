@@ -1,0 +1,32 @@
+{
+    "_id": 3040,
+    "_header": "Le roy cuuayte nos deneres",
+    "Author(s)": "Walter of Guisborough",
+    "Title(s)": "Chronicle",
+    "Subjects": "popular songs; political poems",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Macaronic": "French",
+    "_description": "Macaronic quatrain, apparently from a popular song c. A.D. 1279, on dislike of the statute Quo warranto in Walter of Guisborough\u2019s Chronicle (four out of ten MSS only)",
+    "_witnesses": {
+        "BodDig170": {
+            "Transcription": "\nLe Roy Couet nos denerse la Rayne nos beaus manersele Quo\n                    worantoSale maketh vs all to do\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 74v"
+        },
+        "BodDig168": {
+            "Transcription": "\n\nle Roy couoyte nos deners& la Reyne nos beaux manerse le\n                        Quo Varantosale make wus al at do\n",
+            "Note": "\nInserted in Latin prose. Written as prose.",
+            "folio": "f. 156ra"
+        },
+        "CULDd25": {
+            "Transcription": "\n\nLe rey coueit nos denerse la reyne nos beaus manerse le quo\n                        warantosale maketh us alle to do\n",
+            "folio": "f. 90"
+        },
+        "BLLan239": {
+            "Transcription": "\nLe roy cuuayte nor denerese la Rayne nor beau manersele Quo\n                    vorantosale mak wus al at do\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\n\nHamilton,  Hans Claude,\n                        ed.  \n             Chronicon\u2026de Hemingburgh\u2026.\n         2 vols. London: English Historical Society, 1848-49: 2.7 (MS unspecified).\nWilson,  Richard Middlewood. \n             Early Middle English Literature.\n         London: Methuen, 1939, 1951: 269.\nWilson,  Richard Middlewood. \n             The Lost Literature of Medieval England.\n         London: Methuen, 1952: 196.\nRothwell,  H.,\n                        ed.  \n             The Chronicle Of Walter Of Guisborough, Previously Edited As The\n                Chronicle Of Walter of Hemingford Or Hemingburgh.\nCamden Society\n         3rd ser. 89 (1956): 216n.\nRobbins,  Rossell Hope. \n             \u201cA Highly Critical Approach to the Middle English Lyric.\u201d \n             College English\n         30 (1968): 74-5: 5 (cites Rothwell).\n\n",
+            "folio": "f. 75rb"
+        }
+    }
+}

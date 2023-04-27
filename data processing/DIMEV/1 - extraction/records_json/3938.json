@@ -1,0 +1,20 @@
+{
+    "_id": 3938,
+    "_header": "O Immensa Trinitas Father and Son maker of all",
+    "Title(s)": "O Immensa Trinitas",
+    "Subjects": "prayers, to Trinity; Trinity",
+    "Versification": "\u2014 eight-line \u2014 ababbaba, ababbcbc",
+    "Macaronic": "Latin",
+    "_description": "A macaronic prayer to the Trinity \u2014 twelve 8-line stanzas (ababbcbc); first two stanzas, ababbaba ababbaba; including refrain, \u2018O lux beata trinitas\u2019",
+    "_witnesses": {
+        "CULLl510": {
+            "folio": "f. 26"
+        },
+        "CamMagPep2553": {
+            "First Lines": "\n\nO Immensa trinitasffather and sone makar of\n                    all\u2026\n",
+            "Last Lines": "\n\u2026pray thow \u00fei sone \u00feat it so beO lux beata\n                        trinitas\n\n",
+            "Editions": "\nCraigie,  William Alexander. \n             The Maitland Folio Manuscript, Containing Poems by Sir Richard\n                Maitland, Dunbar, Douglas, Henryson, and others.\n             2 vols. \n             Scottish Text Society\n         n.s. 7 (1919), 20 (1927); Edinburgh and London: Blackwood, 1919,\n            1927: 1.197-9.\n",
+            "folio": "pp. 173-176"
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "_id": 4427,
+    "_header": "Quant homme deit parleir videat que verba loquatur",
+    "Note": "Cf. 3067; lines 13-16 occur in Joannis de Fordun, Scotichronicon (Hearne (1759)\nXHearne, Thomas. Johannis de Fordun, Scotichronicon. 2 vols. Oxford: Sheldonian, 1722; Edinburgh, 1759, 2.474).",
+    "Subjects": "evils of the times; precepts; chronicles, verse in",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Macaronic": "Latin, French",
+    "_description": "On the Evils of the Times \u2014 thirty-six macaronic lines in Latin, French and English",
+    "_witnesses": {
+        "BodRawA273": {
+            "First Lines": "\nQuant homme doit parler videat que verba loquaturReison doit auer\n                    ne stultus inueniatur\u2026\n",
+            "Last Lines": "\n\u2026God lord almyghten da pacem criste benigne\u00feou myght al\n                    fresten fac ne pareamus in igne\n",
+            "Attributed Title": "\nprouerbia trifaria (f. 96)",
+            "Editions": "\nAspin,  Isabel Stewart Tod. \n             Anglo-Norman Political Songs.\n         Oxford: Clarendon, 1953: 161-4, 158, 159.\n",
+            "folio": "ff. 96-96v"
+        },
+        "OxfMert248": {
+            "Transcription": "\nQuant homme deit parleir videat que verba loquaturlex lyis sone of\n                    uer al[ ] fallax falhit vbique and loue es bot sal\n",
+            "Note": "\nIn this MS only lines 13-14.",
+            "Editions": "\n\nAspin,  Isabel Stewart Tod. \n             Anglo-Norman Political Songs.\n         Oxford: Clarendon, 1953: 161-4, 158, 159.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 259.\nSilverstein,  Theodore,\n                        ed.  \n             Medieval English Lyrics.\n         York Medieval Texts. London: Edw. Arnold, 1971: 59.\n\n",
+            "folio": "f. 166vb"
+        },
+        "OxfTri7": {
+            "Note": "\nOmitting lines 19-22 and 33-4.",
+            "Editions": "\nAspin,  Isabel Stewart Tod. \n             Anglo-Norman Political Songs.\n         Oxford: Clarendon, 1953: 161-4, 158, 159.\n",
+            "folio": "f. 37v"
+        },
+        "BLRoy12Cxii": {
+            "First Lines": "\nQuant homme deit parleir videat que verba loquaturSen couent auer ne stulcior inueniatur\u2026\n",
+            "Last Lines": "\n\u2026God lord almyhty da pacem criste benigne\u00deou const al dyhty fac ne pereamus in igne\n",
+            "Note": "\nNot in London,  British Library Royal 2 C.XII as previously listed.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Royal MS 12 C XII.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Royal_MS_12_C_XII. \n",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             The Political Songs of England.\nCamden Society\n         o.s. 6 (1839): 251-2.\nAspin,  Isabel Stewart Tod. \n             Anglo-Norman Political Songs.\n         Oxford: Clarendon, 1953: 161-4, 158, 159.\nMarsh,  George Perkins. \n             Origin and History of the English Language.\n         New York: C. Scribner\u2019s Sons, 1866: 247-8.\nKaiser,  Rolf,\n                        ed.  \n             Alt- und mittelenglische Anthologie.\n         Berlin, 1954; 3rd ed.; trans. as  Medieval English: a\n                Old English and Middle English Anthology Berlin West, 1958: 379.\nWehrle,  William Otto. \n             The Macaronic Hymn Tradition in Medieval English Literature.\n         Washington, D.C.: Catholic UP, 1933: 56.\n\n",
+            "folio": "f. 7"
+        },
+        "BLRoy17Bxvii": {
+            "Transcription": "\nLex is layde ouer al frans fallat regnit vbiqueLoue is bot smal quia\n                    gens se gestat iniqueWoo walkis wyde quia commouet ira potentesRight\n                    may not ride nec valet ad insipientes\n",
+            "Note": "\nLines 13-16 only, followed by 3741.",
+            "Editions": "\n\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 2.65.\nAspin,  Isabel Stewart Tod. \n             Anglo-Norman Political Songs.\n         Oxford: Clarendon, 1953: 161-4, 158, 159.\n\n",
+            "folio": "f. 99r1"
+        },
+        "TCD517": {
+            "First Lines": "\n\nQuant homme doit parlir videat que verba loquaturSen\n                        covent aver ne stultio inveniatur\u2026\n",
+            "Last Lines": "\n\u2026God lord almi\u021dte da pacem criste benigne\u00deu\n                    kanst al di\u021dte fac ne pereamus in igne\n\n",
+            "Note": "\nForty lines.",
+            "Editions": "\nPope,  Nancy P. \n             \u201cAn Unlisted Variant of Index to Middle English Verse No. 2787.\u201d \n             Notes and Queries\n         n.s. 28 [226] (1981): 197-9: 197-9.\n",
+            "folio": "f. 132"
+        }
+    }
+}

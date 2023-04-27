@@ -1,0 +1,25 @@
+{
+    "_id": 5002,
+    "_header": "Soothly by Arthurs day",
+    "Note": "Cf. 930 and 1144.",
+    "Title(s)": "Sir Landeval",
+    "Subjects": "romances",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Sir Landeval \u2014 535 lines in couplets",
+    "_witnesses": {
+        "BodRawC86": {
+            "First Lines": "\nSothly by Arthwrys dayWas bretayn yn grete\n                    nobyle\u2026\n",
+            "Last Lines": "\n\u2026Butt god for his greatt mercyBryng vs to his blysse on\n                    highe\n",
+            "Attributed Title": "\nlandavall (added by later sixteenth-century hand, f.\n                    119v)",
+            "Editions": "\n\nKittredge,  George Lyman. \n             \u201cLaunfal (Rawlinson Version).\u201d \n             American Journal of Philology\n         10 (1889): 1-33: 1.\nZimmerman,  Rudolf,\n                        ed.  \n             Sir Landeval.\n         K\u00f6nigsberg: Hartung, 1901. \nLaskaya,  Anna,  and  Eve Salisbury, eds.  \n             The Middle English\n                    Breton Lays.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1995: 423-37.\n\n",
+            "folio": "ff. 119v-128"
+        },
+        "BodMal941": {
+            "First Lines": "\n\u2026nges by the dayes of Arthur[ ]tayne in great honoure[ ]\n                    great whyle[ ]ery carlyle[ ]n many an heyre[ ]yde where[\n                    ]ble the knyghtes all[ ]the in bowre and in hall[ ] the worlde so\n                    wyde[ ]n on euery syde[ ] and squyers eke[ ]ers came hym to\n                    seke[ ]e noblenes[ ]s courte alway es[ ] and treasoure[ ] of\n                    honoure[ ]was a bachelere[ ]any a yere[ ] of moche myght[ ]\n                    forsothe he hyght[ ] gaue gyftes myghtely[ ] but gaue full\n                    largely[ ]\u00fee it spente[ ]an he had rente[ ]ly he it\n                    sette[ ]e fer in dette[ ]we well that all was gone[ ] to make his\n                    mone[ ]o is that man[ ]athe ne no good can[ ]raunge lande[\n                    ]athe I vnderstande\u2026\n",
+            "Last Lines": "\n\u2026Erle out of the vat[ ][ ! ] apon an hyghe mount[ ][ ]\n                    This Erle there chau[ ][ ]d set hym on a full [ ][ ]an\n                    went\u2026\n",
+            "Note": "\nFragments of early printed Sir Launfall, the last fragment only a small\n                    portion of the centre of a leaf, mounted on a paper frame.",
+            "Attributed Title": "\nThe treaty[se ] (f. 1)",
+            "folio": "ff. 1v-9v"
+        }
+    }
+}

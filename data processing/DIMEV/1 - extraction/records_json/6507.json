@@ -1,0 +1,20 @@
+{
+    "_id": 6507,
+    "_header": "Wheresoever ye fare by frith or by fell",
+    "Note": "Further printings without specified source: STC numbers 3309.5, 3310, 3310.3, 3310.5, 3310.7, 3311, 3312, 3312.3, 3312.5, 3312.7, 3313, 3313.3, 3313.5, 3313.7, 3314, 3315.",
+    "Author(s)": "Juliana Berners",
+    "Title(s)": "Book of Hunting",
+    "Subjects": "hunting",
+    "_description": "Dame Juliana Berner\u2019s Book of Hunting",
+    "_witnesses": {
+        "BodRawPoe143": {
+            "folio": "Part A, f. 1"
+        },
+        "Lam491": {
+            "First Lines": "\nMy dere sone wher so \u021de fare by firth or by fellTakith good\n                    heed how Trystram wold tell\u2026\n",
+            "Last Lines": "\n\u2026Al togidir schal be take and leyd on \u00fee s[kyn]And\n                    \u021def it \u021dowr houndis and \u00feat scalled y[wis]\u2026\n",
+            "Note": "\nIncomplete.",
+            "folio": "Part I, ff. 287-290v"
+        }
+    }
+}

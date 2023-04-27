@@ -1,0 +1,20 @@
+{
+    "_id": 1529,
+    "_header": "Go forth mine own true heart innocent",
+    "Note": "Follows 6305.",
+    "Subjects": "envoys; lovers, addresses to beloved",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "An Envoy to his mistress \u2014 three stanzas rhyme royal with refrain",
+    "_witnesses": {
+        "BLAdd10303": {
+            "First Lines": "\nffayrest of fayer & goodlieste a lyveall my secre to you I\n                    playne & shryve\u2026\n",
+            "Last Lines": "\n\u2026ffrom the grace of her whose lookes softemay gyve the the\n                    blisse that thou desyers ofte\n",
+            "Note": "\nFour stanzas and refrain in this manuscript. Refrain is: \u2018Ye that\n                    this balade rede shall / I prey you kepe you ffrom the fall\u2019.",
+            "folio": "f. 9"
+        },
+        "Longleat256": {
+            "Editions": "\nJenkins,  Anthony,\n                        ed.  \n             The Isle of Ladies: or, The Ile of Pleasaunce.\nGarland Medieval Texts\n         2. New York: Garland, 1980. \n",
+            "folio": "f. 24v"
+        }
+    }
+}

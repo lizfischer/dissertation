@@ -1,0 +1,24 @@
+{
+    "_id": 6840,
+    "_header": "Ye that desire in heart and have plesaunce",
+    "Note": "See 2387",
+    "Subjects": "bookplates; mottoes",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Shirley\u2019s Book Motto \u2014 one stanza rhyme royal",
+    "_witnesses": {
+        "BodAsh59": {
+            "First Lines": "\nYee \u00feat desyre in herte and have plesaunceOlde stories in\n                    bokis for to redeGode matiers putt hem in remembranceAnd of \u00fee\n                    o\u00feer take yee none hede\u2026\n",
+            "Last Lines": "\n\u2026Whane yee \u00feis boke haue over redde and seyneTo Johan\n                    Shirley restore yee it ageine\n",
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 2.163.\nBlack,  William Henry. \n             Catalogi Codicum Manuscriptorum Bibliothecae Bodleianae\u2026Pars X,\n                A\u2026Catalogue of the Manuscripts bequeathed\u2026by Elias Ashmole.\n         Oxford: Clarendon, 1845: 100.\nHammond,  Eleanor Prescott. \n             \u201cAshmole 59 and other Shirley manuscripts.\u201d \n             Anglia\n         30 (1907): 320-48: 329.\nGaertner,  Otto. \n             John Shirley.\n         Halle: E. Karrus, 1904: 23.\nBennett,  Henry Stanley. \n             England from Chaucer to Caxton.\n         London: Methuen, 1928: 160.\nBrusendorff,  Aage. \n             The Chaucer Tradition.\n         Copenhagen, 1925; repr. Oxford: Clarendon, 1967: 460.\nBennett,  Henry Stanley. \n             Chaucer and the Fifteenth Century.\nOxford History of English Literature.\n         Oxford: Clarendon, 1947: 118.\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: xxv.\n\n",
+            "folio": "f. 59v"
+        },
+        "CamTCC600": {
+            "First Lines": "\nYee \u00feat desyre in herte and haue plesaunceOlde stories in\n                    bokis for to redeGode matiers putte hem in remembraunceAnd of\n                    o\u00feer ne take yee none hede\u2026\n",
+            "Last Lines": "\n\u2026Whane yee \u00feis boke haue over redde and seyneTo Johan\n                    Shirley restore yee it ageyne\n",
+            "Note": "\nScribe John Shirley; and added after this by John Stow, \u2018This John Shirley whis wyss was burydd in \u00fee hospitall of\n                    seint bartelmeu by smythefyld & ther remaynethe a fayr monument of\n                    hym\u2019 (p. 361)",
+            "Attributed Title": "\nBalade (by scribe, p. 361)",
+            "Editions": "\nJames,  Montague Rhodes. \n             Catalogue of the\n                    Western Manuscripts in the Library of Trinity College, Cambridge.\n         4 vols. Cambridge: at the UP, 1900-1904: 2.81.\n",
+            "folio": "p, 361"
+        }
+    }
+}

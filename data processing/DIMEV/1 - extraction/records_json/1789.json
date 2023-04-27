@@ -1,0 +1,32 @@
+{
+    "_id": 1789,
+    "_header": "Harkeneth now both old and young / For Mary love that sweet thing",
+    "Title(s)": "Kyng of Tars and the Soudan of Dammas",
+    "Subjects": "romances",
+    "Versification": "\u2014 twelve-line, tail-rhymed \u2014 aabccbddbeeb",
+    "_description": "\u2018\u00fee Kyng of Tars and \u00fee Soudan of Dammas\u2019 \u2014 1228 lines in 12-line stanzas (aabaabccbddb)",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nHErkne\u00fe now bo\u00fee olde and \u021dyngffor Marie loue\n                    \u00feat swete \u00feyng\u2026\n",
+            "Last Lines": "\n\u2026Graunt vs alle in heuene lihtTo seo \u00fei swete face.\n                    AMEN.\n",
+            "Attributed Title": "\nOf \u00dee Kyng of Tsars (see 1948)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nKrause,  F. \n             \u201cKleine Publicationen aus der Auckinleck-Handschrift, IX: The King of\n                Tars.\u201d \n             Englische Studien\n         11 (1888): 1-62: 33-62.\nRitson,  Joseph,\n                        ed.  \n             Ancient English Metrical Romances.\n         3 vols. London, 1802; rev. Edmund Goldsmid and repr. Edinburgh:\n            Goldlsmid, 1884: 56-203.\n\n",
+            "folio": "ff. 304vb2-307ra"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nHErkne\u00fe now bo\u00fee olde & \u021dingeffor Marie loue\n                    \u00feat swete \u00feinge\u2026\n",
+            "Last Lines": "\n\u2026Graunt vs alle in heuene lihtTo seo \u00fei swete face\n                    AMEN\n",
+            "Attributed Title": "\nExplicit \u00fee kyng of Tars & \u00fee sou / dan of Damas (f.\n                        128va)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 126rc-128va"
+        },
+        "NLS1921": {
+            "First Lines": "\nHerkne\u00fe to me bo\u00fee eld & \u021dingFor maries loue\n                    \u00feat swete \u00feing\u2026\n",
+            "Last Lines": "\n\u2026& cristen men wi\u00fe outen wenestriken of her heuedes\n                    al bidene\n",
+            "Facsimiles": "\nPearsall,  Derek,  and  I. C. Cunningham, eds.  \n             The Auchinleck Manuscript. National Library of Scotland\n                Advocates\u2019 MS. 19.2.1.\n         London: Scolar Press, 1977. \n",
+            "Editions": "\n\nKrause,  F. \n             \u201cKleine Publicationen aus der Auckinleck-Handschrift, IX: The King of\n                Tars.\u201d \n             Englische Studien\n         11 (1888): 1-62: 33-62.\nPerryman,  Judith,\n                        ed.  \n             The King of Tars, edited from the Auchinleck MS, Advocates\u2019\n                19.2.1.\nMiddle English Texts\n         12. Heidelberg: Universit\u00e4tsverlag / Carl Winter, 1980. \n\n",
+            "folio": "ff. 7ra-13vb"
+        }
+    }
+}

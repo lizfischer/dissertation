@@ -1,0 +1,17 @@
+{
+    "_id": 3109,
+    "_header": "Listeneth both great and small / I will you tellen a little tale",
+    "Note": "For other versions, see 10, 5061.",
+    "Subjects": "Theophilus, saint, legend of; miracles; Virgin Mary, miracles of",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "Legend of Theophilus \u2014 107 6-line stanzas",
+    "_witnesses": {
+        "BodRawPoe225": {
+            "First Lines": "\nListenyth bothe gret & smaleI wil \u021dow tellen alitel\n                    tale\u2026\n",
+            "Last Lines": "\n\u2026\u00feer sche with hir sone euer is\u00feat was of hir\n                    born\n",
+            "Attributed Title": "\nHic incipit historia quomodo Tiofelus vendidit animam suam diabolo &\n                        quomodo per sanctam mariam deliberatus fuit (f. 11); Explicit\n                        Tyofle (f. 15)",
+            "Editions": "\n\nHeuser,  Wilhelm. \n             \u201cEine neue mittelenglisch Version des Theophilus-Sage.\u201d \n             Englische Studien\n         32 (1903): 1-23: 5-23.\nBoyd,  Beverly May,\n                        ed.  \n             \u201cThe Rawlinson Version \u2018Theophilus\u2019.\u201d \n             Modern Language Notes\n         71 (1956): 556-9: 557 (short extracts).\nBoyd,  Beverly May,\n                        ed.  \n             Middle English Miracles of the Virgin.\n         New York: Columbia UP, 1955; San Marino, CA: Huntington Library,\n            1964: 68-87.\n\n",
+            "folio": "ff. 11-15"
+        }
+    }
+}

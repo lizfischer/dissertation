@@ -1,0 +1,27 @@
+{
+    "_id": 1318,
+    "_header": "First mine uncunning and my rudeness",
+    "Title(s)": "On the chaunse of the dyse",
+    "Subjects": "dice",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "On the chaunse of the dyse \u2014 fifty-nine stanzas rhyme royal",
+    "_witnesses": {
+        "Bod638": {
+            "First Lines": "\nFyrst myn vnkunnyng & my RudenesseVnto you all that listen know\n                    her chaunce\u2026\n",
+            "Last Lines": "\n\u2026ffor hasard hath with maistry quytte me soMy while that I\n                    ioyles now leue yn wo\n",
+            "Note": "\nFolio 195 torn; ff. 197, 201 mutilated; lacks lines 295-336",
+            "Attributed Title": "\nThe chaunce of the Dyse (f. 195); Explicit The Chaunce of the Dyse (f.\n                        203v)",
+            "Facsimiles": "\nRobinson,  Pamela. \n             \u201cIntroduction.\u201d \n             Manuscript Bodley 638: A Facsimile.\n         Norman, OK: Pilgrim, and Woodbridge: Boydell and Brewer, 1982. \n",
+            "folio": "ff. 195-203v"
+        },
+        "BodFair16": {
+            "First Lines": "\nFIrst myn vnkunnynge and my rudenesseVnto yow alle that lysten\n                    knowe here chaunce\u2026\n",
+            "Last Lines": "\n\u2026For hasarde hath with maystry quytte me sooMy while that I\n                    ioylesses now leue in woo\n",
+            "Note": "\nBalade (3 stanzas, f. 148) treated as separate work from Chaunces (56\n                    stanzas, ff. 148-154).",
+            "Attributed Title": "\nBalade vpon the Chaunse of the Dyse (f. 148); Explicit Balade vpon the\n                    chaunse of the dyse (f. 148); Chaunces of the Dyse (f. 148v),\n                    Explicit the Chaunce of thee Dyse (f. 154)",
+            "Facsimiles": "\nNorton-Smith,  John. \n             \u201cIntroduction.\u201d \n             Bodleian Library MS Fairfax 16.\n         London: Scolar Press, 1979. \n",
+            "Editions": "\n\nHammond,  Eleanor Prescott. \n             \u201cThe Chance of the Dice.\u201d \n             Englische Studien\n         59 (1925): 1-16: 5-16.\nCohen,  Helen Louise. \n             The Ballade.\n         New York: Columbia UP, 1915: 285 (three stanzas only).\n\n",
+            "folio": "ff. 148v-154"
+        }
+    }
+}

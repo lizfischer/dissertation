@@ -1,0 +1,45 @@
+{
+    "_id": 4840,
+    "_header": "Sigh and sorrow deeply / mourn and weep inwardly",
+    "Note": "See also 553, 560, and 4810.",
+    "Subjects": "precepts",
+    "Versification": "\u2014 four-line \u2014 monorhyming",
+    "Bibliographic Ghosts": "Oxford, Bodleian Library Laud misc. 673 (SC 505), f. 219v.",
+    "_description": "Precepts in -ly \u2014 four short lines",
+    "_witnesses": {
+        "BodLatLitE17": {
+            "First Lines": "\nSyke and sorow depelymorne and wepe inwardly\u2026\n",
+            "Last Lines": "\n\u2026loue and long contynualyand \u00feou schalt ioy\n                    endlesly\n",
+            "Note": "\nFive lines.",
+            "folio": "f. 53"
+        },
+        "BodLauMis330": {
+            "Transcription": "\nSyke & sorowe deeplyWepe & morne sadlyPreye &\n                    \u00feenk deuoutlyLoue & long contynuely\n",
+            "Editions": "\nCoxe,  Henry Octavius. \n             Catalogus Codices Laudiani.\n         Oxon: e Typographeo academico, 1858: 254.\n",
+            "folio": "f. 70v"
+        },
+        "CamStJohn71": {
+            "Transcription": "\nSi\u021de and sorwe depelimoorne & wepe inwardliPraie and\n                    \u00feenke deuoutli loue & longe continuelli\n",
+            "Editions": "\n\nJames,  Montague Rhodes. \n             A Descriptive Catalogue of the Manuscripts in the Library of St.\n                John\u2019s College, Cambridge.\n         Cambridge: at the UP, 1913: 95.\nPerson,  Henry Axel. \n             Cambridge Middle English Lyrics.\n         Seattle: University of Washington Press, 1953; rev. ed. 1962: 75.\n\n",
+            "folio": "f. 104"
+        },
+        "BLAdd37790": {
+            "Transcription": "\nSi\u021dhe and sorowe deepelieMorne and wepe ynwardliePray and\n                    thenke deuoutlyLoue and longe contynuely\n",
+            "Editions": "\n\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.420.\n\nCatalogue of additions to the manuscripts in the British Museum in the\n                years MDCCCCVI-MDCCCCX\u2026.\n         [London]: the Trustees of the British Museum, 1912: 155.\nLouis,  Cameron,\n                        ed.  \n             The Commonplace Book of Robert Reynes of Acle: an edition of Tanner MS\n                407.\n         New York: Garland, 1980: 395.\n\n",
+            "folio": "f. 225r2"
+        },
+        "BLSl775": {
+            "folio": "f. 55v"
+        },
+        "BodHolkM41": {
+            "Transcription": "\nSyke and sorwe deeplyWepe and moorne sadlyPreye and thinke\n                    deuoutlyLoue and longe continualy\n",
+            "Editions": "\n\n\nHistorical Manuscripts Commission Ninth Report: Calendar of the\n                Manuscripts of the Most Hon. The Marquis of Salisbury, K. G., etc., preserved at\n                Hatfield House, Hertfordshire.\n         24 vols. (1883-84, with addenda to 1976):  2.App.364.\nDe Ricci,  Seymour. \n             A Handlist of Manuscripts in the Library of the Earl of Leicester at\n                Holkham Hall.\nBibliographical Society.\n         Oxford: University Press, 1932. \n\n",
+            "folio": "f. 98v"
+        },
+        "HunHM744": {
+            "Transcription": "\nSigh and sorowe depliMoorn and wepe InwardliPray and thenk\n                    devowtliLoue and long contenewelli\n",
+            "Note": "\nWritten by original scribe into blank space in a table",
+            "folio": "f. 3v"
+        }
+    }
+}

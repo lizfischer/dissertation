@@ -1,0 +1,27 @@
+{
+    "_id": 1605,
+    "_header": "God that is most of might",
+    "Note": "For a later variant cf. 1614.",
+    "Author(s)": "Humphrey Brereton (?)",
+    "Title(s)": "The Most Pleasant Song of Lady Bessy",
+    "Subjects": "Stanley, family history; historical poems; Richard III; Elizabeth of York",
+    "Versification": "\u2014 four-line",
+    "_description": "The House of Stanley: The Most Pleasant Song of Lady Bessy, perhaps by Humphrey Brereton \u2014 1082 lines in quatrains",
+    "_witnesses": {
+        "BLAdd27879": {
+            "Editions": "\nHales,  John Wesley,  and  Frederick James Furnivall, eds.  \n             Bishop Percy\u2019s Folio Manuscript: Ballads and Romances.\n         3 vols. London: Tr\u00fcbner, 1867-68: 3.321-63.\n",
+            "folio": "p. 463"
+        },
+        "BLHar367": {
+            "First Lines": "\nGod that is moste of myghteand borne was of a mayden\n                    free\u2026\n",
+            "Last Lines": "\n\u2026save and keepe our Comlye QueeneAnd also the poore\n                    Comonalitye\n",
+            "Attributed Title": "\nOf the Princesse Elizabeth after wife of King H. iiij (by scribe, f. 89);\n                    Ladye Bessie (added to top margin above scribe\u2019s title, by a later hand,\n                    possibly John Stow\u2019s (f. 89)",
+            "Editions": "\nHalliwell-Phillipps,  James Orchard. \n             The most pleasant song of Lady Bessy.\nPercy Society\n         20. London: Richard, 1847. \n",
+            "folio": "ff. 89-100"
+        },
+        "Bateman": {
+            "Editions": "\n\nHalliwell-Phillipps,  James Orchard. \n             The most pleasant song of Lady Bessy.\nPercy Society\n         20. London: Richard, 1847. \nHeywood,  Thomas,\n                                (notes by). \n             The most pleasant song of Lady Bessy: the eldest daughter of King\n                Edward the Fourth, and how she married King Henry the Seventh of the House of\n                Lancaster.\n         London: R. Taylor, 1829. \nJewitt,  Llewellynn Frederick William,\n                        ed.  \n             The Ballads and Songs of Derbyshire.\n         London: Bemrose, 1867: 12.\n\n",
+            "folio": ""
+        }
+    }
+}

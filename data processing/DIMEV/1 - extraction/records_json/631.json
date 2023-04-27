@@ -1,0 +1,41 @@
+{
+    "_id": 631,
+    "_header": "As I wandered here by west / Fast under a forest side",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 198.",
+    "Subjects": "penance; prayers",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "\u2018Ay Merci God and Graunt Merci\u2019 \u2014 twelve 8-line stanzas (ababbcbc), alliterative, including refrain, \u2018With marcy Lorde & gramarcy\u2019 or \u2018mercy god and graunt merci\u2019",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nAS I wandrede her bi westeffaste vnder a fforest\n                    syde\u2026\n",
+            "Last Lines": "\n\u2026\u00fei swete face \u00feat we may seNou Merci God And Graunt\n                    Merci\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nVarnhagen,  Hermann. \n             \u201cDie kleinere gedichte der Vernon und Simeon handschrift.\u201d \n             Anglia\n         7 (1884): 280-315: 313-15.\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 696-9.\nPatterson,  Frank A. \n             The Middle English Penitential Lyric.\nColumbia University Studies in English.\n         New York: Columbia Press, 1911: 54-7.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 164-7.\nLuria,  Maxwell Sidney,  and  Richard L. Hoffman, eds.  \n             Middle English Lyrics.\n         New York: Norton, 1974: 105-7.\n\n",
+            "folio": "f. 409va-409vc"
+        },
+        "OxfBal354": {
+            "First Lines": "\nAs I walked here by westFerre vnder a forest\n                    side\u2026\n",
+            "Last Lines": "\n\u2026Thi swete face \u00feat we may seWith marcy Lorde &\n                    gramarcyExplicit\n",
+            "Note": "\n11 stanzas.",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 160-2.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 54-7.\n\n",
+            "folio": "pp. 311-313"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nAS I wandrede here by westeffast vndur a forest\n                    syde\u2026\n",
+            "Last Lines": "\n\u2026\u00dei swete face \u00feat we may seNou Merci god &\n                    graunt Merci\n",
+            "Note": "\n11 stanzas.",
+            "Attributed Title": "\nExplicit A song Merci god & graunte Merci (f.\n                    131rc)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 131rb-131rc"
+        },
+        "NLS1931": {
+            "First Lines": "\nAs I wandurd here be westeffast vndur A forest\n                    syde\u2026\n",
+            "Last Lines": "\n\u2026All my\u021dty god haffe mercy on me\u00deat forr my synne\n                    \u00fei blode dyd schede\n",
+            "Note": "\nLines 1-12 only; 2441\n                    follows immediately as if part of same work; not Advocates\u2019 19.31.1 as in\n                        Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943.",
+            "Attributed Title": "\nServes is no heritage (added and probably referring to 2441, f. 91)",
+            "Facsimiles": "\nHardman,  Phillipa. \n             The Heege Manuscript: A Facsimile of National Library of Scotland MS\n                Advocates 19.3.1.\n         Leeds Texts and Monographs, n.s. 16. Leeds: School of English,\n            2000. \n",
+            "folio": "f. 91"
+        }
+    }
+}

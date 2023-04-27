@@ -1,0 +1,26 @@
+{
+    "_id": 3987,
+    "_header": "O mankind / Have in thy mind",
+    "Note": "For similar lines see 3984.",
+    "Subjects": "Christ, appeal of, to man; dialogues, Christ and man",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "Appeal of Christ to man by the pains of his Passion \u2014 one 6-line stanza",
+    "_witnesses": {
+        "BodTan407": {
+            "Transcription": "\n[O] man unkyndeHave thow in myndeMy passion smerteAnd thow\n                    schalt me ffyndeto the ryght kyndeLo here myn [ ]\n",
+            "Note": "\nLast word omitted and a heart outlined in red inserted.",
+            "Editions": "\nWoolf,  Rosemary. \n             The English Religious Lyric in the Middle Ages.\n         Oxford: Clarendon, 1968: 185.\n",
+            "folio": "f. 52v"
+        },
+        "CamTCC1157": {
+            "Transcription": "\nO man vnkyndehaue thow yn myndeMy passyon smertThow shall\n                    me fyndeTo the full kyndeLo here my hert\n",
+            "Note": "\nHeaded, \u2018Confessio est fil[ ] virtutum,\u2019 crossed\n                    out.",
+            "Editions": "\n\nPerson,  Henry Axel. \n             Cambridge Middle English Lyrics.\n         Seattle: University of Washington Press, 1953; rev. ed. 1962: 11.\nStevick,  Robert D.,\n                        ed.  \n             One Hundred Middle English Lyrics.\n         Indianapolis: Bobbs-Merrill, 1964: 161.\nOliver,  Raymond. \n             Poems Without Names: The English Lyric 1200-1500.\n         Berkeley, CA: University of California, 1970: 24.\n\n",
+            "folio": "f. 69"
+        },
+        "BLAdd37049": {
+            "Editions": "\n\nRoss,  Thomas W. \n             \u201cFive Fifteenth-Century \u2018Emblem\u2019 Verses from British Museum\n                Additional MS 37049.\u201d \n             Speculum\n         32 (1957): 274-82: 276.\nComper,  Frances M. M. \n             The Life of Richard Rolle, Together with an Edition of his English\n                Lyrics.\n         London: J. M. Dent, 1928, 1933; New York: E. P. Dutton, 1929: 318.\nDavies,  Reginald Thorne. \n             Medieval English Lyrics: a critical anthology.\n         London, 1963; Evanston, IL: Northwestern UP, 1964: 168.\nDoty,  Brant Lee,\n                        ed.  \n             \u201cAn Edition of British Museum MS Additional 37049: a Religious\n                Miscellany.\u201d \n         Diss. Michigan State, 1969: 154.\n\n",
+            "folio": "f. 24"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "_id": 5509,
+    "_header": "The true process of English policy",
+    "Title(s)": "The Libel of English Policy",
+    "Subjects": "advice, to magistrates; envoys; political verse; merchants; prologues",
+    "Versification": "\u2014 two-line, seven-line \u2014 aa, ababbcc",
+    "_description": "The Libel of English Policy, the \u2018B\u2019 Text, 1st version \u2014 in couplets, with a Prologue of seven stanzas rhyme royal and Envoy of fifteen lines. For the \u2018A\u2019 Text, see 5508; for the \u2018B\u2019 Text, 2nd version, see 5510.",
+    "_witnesses": {
+        "BodRawPoe32": {
+            "First Lines": "\nThe trew processe of Engelond pollecyeOf Owteward to kepe this\n                    Realme in reste \u2026\n",
+            "Last Lines": "\n\u2026I offre the them to be graciousTo thyne excuse fare well myn\n                    owne trete\n",
+            "Attributed Title": "\nHere begynneth the Prologe of the processe of te bible of Englishe Polycy\n                    exortyng alle Engelond to kepe the See environ and namely the narowe See\n                    shewynge what profite cometh therof and also what worship and saluacion to\n                    Engelond (f. 173); Explicit libellus de polecia (at the end)",
+            "folio": "ff. 173-193"
+        },
+        "BLAdd40673": {
+            "First Lines": "\nThe trew processe of englishe polecyof onteward to kepe the Raune\n                    in Reste\u2026\n",
+            "Last Lines": "\n\u2026I offer the them to be graciousTo thyn excuse fare wele myn\n                    own tretice\n",
+            "folio": "ff. 3-16v"
+        },
+        "BLCottVitEX": {
+            "First Lines": "\n[T]he trew process of englisch polecyOf outward to kepe the Reame\n                    in Rest\u2026\n",
+            "Last Lines": "\n\u2026chop erle and ba\u2026\u2026high wittis\n                    l\u2026\u2026examyn the\u2026\u2026offer\n                    theym\u2026\u2026thyn expe\u2026\n",
+            "Note": "\nDamaged by fire. Space left for enlarged capital \u2018T\u2019, which\n                    was left blank. Folio number reflects the most recent foliation.",
+            "Attributed Title": "\n\u2026the prologue of the bible of\u2026polyce eportinge all englond to\n                    kepe the see and namely the narow see shewyng what profite comyth therof and\n                    also wurschip and saluacion to englande (f. 184)",
+            "folio": "ff. 192-207"
+        },
+        "HunHM140": {
+            "First Lines": "\nThe trewe processe of Englisshe pollecye Of vtterwarde to kepe this\n                    Realme in rest\u2026\n",
+            "Last Lines": "\n\u2026I offre the them to be gracious To thyne excuse fare well myne\n                    owne tretee\n",
+            "Attributed Title": "\nHere begynneth the Prologe of the Processe of the bible of Englissh[e]\n                    policy exortyng alle Englond to kepe the See environ & namely the narrowe\n                    See shewyng what profite cometh therof and also what worship and saluacion to\n                    Englond (f. 125); Thus endeth the trewe pollecye of the bible of Englissh\n                    pollecye exortyng alle Englond to kepe the See enviroun and namely the narowe\n                    See (f. 139v); Explicit libellus de polecia Conseruatiua Maris\n                    (f. 140)",
+            "folio": "ff. 125-140"
+        }
+    }
+}

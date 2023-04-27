@@ -1,0 +1,36 @@
+{
+    "_id": 3568,
+    "_header": "Mother of God and Virgin undefouled",
+    "Note": "Perhaps originally a triad of twenty-one stanzas.",
+    "Author(s)": "Thomas Hoccleve (attrib.)",
+    "Title(s)": "Mother of God",
+    "Subjects": "Virgin Mary, hymns to",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "\u2018Mother of God\u2019, attributed to Hoccleve \u2014 twenty stanzas rhyme royal",
+    "_witnesses": {
+        "BodArcSelB24": {
+            "First Lines": "\nModer of god and virgyne vndefouledO blisfull quene of quenys\n                    Emperice\u2026\n",
+            "Last Lines": "\n\u2026Be In my hert now and euermoreAnd of my saule wesche away the\n                    sore\n",
+            "Attributed Author": "\nExplicit oracio Galfridi Chaucere (f. 131v)",
+            "Facsimiles": "\nBoffey,  Julia,  and  A. S. G. Edwards, eds.  \n             Chaucer, Works. Bodleian Library MS Arch Selden B.24: Facsimile\n                Edition.\n         Cambridge: D. S. Brewer, 1995. \n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \nNicolas,  Nicholas Harris,  and  Richard Morris, eds.  \n             The Poetical Works of Geoffrey Chaucer.\nAldine Edition of the British Poets.\n         6 vols; orig. ed., 1845; rev. ed. London: Bell and Daldy,\n            1866: 6.\n\n",
+            "folio": "ff. 130-131v"
+        },
+        "NLS1828": {
+            "First Lines": "\nModer of god and virgin wndefouldO blisfull quene oure quenis\n                    emperice\u2026\n",
+            "Last Lines": "\n\u2026Be in my hert now and euermoreand of my soule wesch away the\n                    sore\n",
+            "Attributed Author": "\nIncipit Oracio Galfridi Chaucer (f. 112v); Explicit\n                        oracio Galfridi chaucer (f. 115)",
+            "Attributed Title": "\nIncipit Oracio Galfridi Chaucer (f. 112v); Explicit\n                        oracio Galfridi chaucer (f. 115)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \nFurnivall,  Frederick James,\n                        ed.   Hoccleve\u2019s Works: The Minor Poems. vol. 1.  EETS\n         e.s. 61 (1892); repr. with Gollancz (1925)\nXGollancz,  Israel. \n             Hoccleve\u2019s Works: The Minor Poems. vol. 2.  EETS\n         e.s. 73 (1925); repr. with 61, 1970 73; rev. J.\n            Mitchell and A. Ian Doyle, 1970: 52-6.\n\n",
+            "folio": "ff. 112v-115"
+        },
+        "HunHM111": {
+            "First Lines": "\nModir of god and virgyne vndeffouledO blisful queene of queenes\n                    Emperice\u2026\n",
+            "Last Lines": "\n\u2026Be in myn herte now and euermoreAnd of my soule wasshe away\n                    the sore\n",
+            "Attributed Title": "\nAd beatam virginem (f. 34)",
+            "Facsimiles": "\nBurrow,  John,  and  A. I. Doyle, eds.  \n             Thomas Hoccleve: A Facsimile of the Autograph Verse\n                Manuscripts.\nEETS\n         s.s. 19 (2002). \n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \nLeyden,  John,\n                        ed.  \n             The Complaynt of Scotland, vyth ane Exortatione to the three Estaits,\n                to be vigilante on the Diffens of their Public Veil. With a preliminary dissertation\n                and glossary [by J. Leyden].\n         Edinburgh, 1801. Re-edited by \n                J. A. H.\n                Murray\n            , EETS 1872. . \nMacpherson,  Charles James,  and  Frank Joseph Quinn, eds.  \n             The Meroure of Wyssdome composed for the use of James IV, King of\n                Scots.\n             2 vols. \n             Scottish Text Society\n         n.s. 19; 4th ser. 2. Edinburgh: Blackwood, 1926, 1965: 1.166-70.\nFurnivall,  Frederick James,\n                        ed.   Hoccleve\u2019s Works: The Minor Poems. vol. 1.  EETS\n         e.s. 61 (1892); repr. with Gollancz (1925)\nXGollancz,  Israel. \n             Hoccleve\u2019s Works: The Minor Poems. vol. 2.  EETS\n         e.s. 73 (1925); repr. with 61, 1970 73; rev. J.\n            Mitchell and A. Ian Doyle, 1970: 52-6.\n\n",
+            "folio": "ff. 34-37"
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "_id": 2838,
+    "_header": "Jesu for Thy blood Thy bleddest",
+    "Note": "Stanzas 1-7 are incorporated into 491 (stanzas 4-10); for a similar prayer see 2836.",
+    "Subjects": "Christ, wounds of; prayers, by Christ and His Passion",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "A prayer by the Seven Times Christ shed His Blood \u2014 eight 6-line stanzas",
+    "_witnesses": {
+        "OxfBal316A": {
+            "First Lines": "\nIhesu for thi blode \u00feou bleddestAnd in the firste tyme \u00feu\n                    sheddestIn thy membre pryveClense me oute of\n                    lecherye\u2026\n",
+            "Last Lines": "\n\u2026Of al my synnes pardonAnd bryng vs to hevene\n                    aboue\n",
+            "Note": "\nAdded by original scribe to last folio of volume, to fill out\n                    quire.",
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 95-7.\n",
+            "folio": "f. 110"
+        },
+        "OxfChrCh151": {
+            "First Lines": "\nIhesu for thi blode \u00feou bleddestAnd in the furst tym \u00feou\n                    scheddist\u2026\n",
+            "Last Lines": "\n\u2026Of all my synnes pardounAnd bryng vs to heuene\n                    aboue\n",
+            "folio": "second item in the manuscript (MS has no foliation)"
+        },
+        "BlCottCalAII": {
+            "First Lines": "\nIhesu for \u00fey bod \u00feat \u00feu bleddestIn \u00fee fyrst\n                    tyme \u00feat \u00feu sheddestIn \u00fey membyr pryue\u2026\n",
+            "Last Lines": "\n\u2026Out of Enuye clanse \u00feu meAnd graunt me to lyue in\n                    charyteLord for \u00fey wondes smerte\n",
+            "Note": "\nOnly seven 6-line stanzas in this MS; set out with two lines on left and\n                    the third to right of them, lines 4-5 on left and 6 to right of them, etc.;\n                    \u2018Amen\u2019 by scribe in lower margin, f. 70v.",
+            "Attributed Title": "\nA prayer or bywar (f. 1, inserted interlineally in sixteenth-century list\n                    of contents)",
+            "folio": "f. 70v"
+        },
+        "Esopus": {
+            "folio": "roll"
+        }
+    }
+}

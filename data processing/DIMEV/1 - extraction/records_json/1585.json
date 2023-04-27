@@ -1,0 +1,21 @@
+{
+    "_id": 1585,
+    "_header": "God speed the plow",
+    "Note": "Cf. Tilley (1950)\nXTilley, Morris Palmer. A Dictionary of the Proverbs in England in the 16th and 17th Centuries. Ann Arbor, MI: University of Michigan, 1950, G 223; and see 1586, 2458.",
+    "Title(s)": "Piers Plowman",
+    "Subjects": "agriculture; prayers, domestic; illustrations, verses accompanying",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A caption for a picture of a man ploughing (in one MS of Piers Plowman) \u2014 one couplet",
+    "_witnesses": {
+        "CamCCC293": {
+            "Transcription": "\nGod spede the plowghAnd send vs corne ynowgh\n",
+            "Note": "\nOn a slip of paper bound in before f. 1, possibly cut from a leaf that\n                    originally had an illustration as Cambridge UK,  Trinity College R.3.14 (594).",
+            "folio": "f. iv"
+        },
+        "CamTCC594": {
+            "Transcription": "\nGod spede \u00fee plou\u021d& sende us korne i now\n",
+            "Editions": "\nJames,  Montague Rhodes. \n             Catalogue of the\n                    Western Manuscripts in the Library of Trinity College, Cambridge.\n         4 vols. Cambridge: at the UP, 1900-1904: 2.64.\n",
+            "folio": "f. iiiv"
+        }
+    }
+}

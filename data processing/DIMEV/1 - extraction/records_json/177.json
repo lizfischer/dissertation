@@ -1,0 +1,116 @@
+{
+    "_id": 177,
+    "_header": "A thousand times have I heard men tell",
+    "Note": "See Sherbo (1982)\nXSherbo, Arthur. \u201cA Lost Ms of Chaucer\u2019s Legend of Good Women?\u201d Studies in Bibliography 35 (1982): 154-5 for arguments for a lost MS; Ringler Jr. (1988)\nXRingler Jr., William A. Bibliography and Index of English Verse Printed 1476-1558. London: Mansell, 1988, TP 50.5.",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Legend of Good Women",
+    "Subjects": "women, praise of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Chaucer, Legend of Good Women \u2014 2723 lines in couplets (ends unfinished)",
+    "_witnesses": {
+        "BodArcSelB24": {
+            "First Lines": "\nA thousand tymes haue I herd men telleThat there is Ioy In heuen\n                    and peyn In helle\u2026\n",
+            "Last Lines": "\n\u2026Till sche was take and fettred In prisounThis tale is said to\n                    this conclusioun\n",
+            "Note": "\nLacks lines 2551-2616; alpha group of witnesses.",
+            "Attributed Author": "\nAnd thus ended Chaucere the legendis of ladyis (f.\n                    191v)",
+            "Attributed Title": "\nHere begynnis the legendes of ladyes (f. 152v); Here endis the\n                    prolog of the ;egendis of good wommen (f. 161); And thus ended Chaucere the\n                    legendis of ladyis (f. 191v)",
+            "Facsimiles": "\nBoffey,  Julia,  and  A. S. G. Edwards, eds.  \n             Chaucer, Works. Bodleian Library MS Arch Selden B.24: Facsimile\n                Edition.\n         Cambridge: D. S. Brewer, 1995. \n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 313.\n\n",
+            "folio": "ff. 152v-191v"
+        },
+        "Bod638": {
+            "First Lines": "\nA Thowsand sithes I haue herd tellTher ys ioy in hevin & peyn\n                    in hell\u2026\n",
+            "Last Lines": "\n\u2026and then she was kaught & fetryd in prycounthis tale ys\n                    seide for this conclusioun\n",
+            "Note": "\nBeta group of witnesses.",
+            "Attributed Title": "\nThe Prologe of ix good women (f. 48)",
+            "Facsimiles": "\nRobinson,  Pamela. \n             \u201cIntroduction.\u201d \n             Manuscript Bodley 638: A Facsimile.\n         Norman, OK: Pilgrim, and Woodbridge: Boydell and Brewer, 1982. \n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Supplementary Parallel-Text Edition of Chaucer\u2019s Minor\n                Poems.\n             2 vols. \n             Chaucer Society\n         1st ser. 22, 59. London: Tr\u00fcbner, n.d.; repr. New York and London:\n            Johnson, 1967. \n",
+            "folio": "ff. 48-95v"
+        },
+        "BodFair16": {
+            "First Lines": "\nA thousande tymes I haue herd tellether ys Ioy in heuene and peyne\n                    in helle\u2026\n",
+            "Last Lines": "\n\u2026And til she was kaught and fetred in prisonThis tale ys sayde\n                    for this conclusion\n",
+            "Note": "\nBeta group of witnesses.",
+            "Attributed Title": "\nThe prologe of ix goode Wymmen (f. 83)",
+            "Facsimiles": "\nNorton-Smith,  John. \n             \u201cIntroduction.\u201d \n             Bodleian Library MS Fairfax 16.\n         London: Scolar Press, 1979. \n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             Odd Texts of the Minor Poems.\n             2 vols. \n             Chaucer Society\n         1st ser. 23, 60. London: Tr\u00fcbner, 1868, 1880; repr. New York and\n            London: Johnson, 1967. \nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \nSkeat,  Walter William,\n                        ed.  \n             The Complete Works of Geoffrey Chaucer.\n         7 vols. Oxford: Clarendon, 1894-7: 3.65-174.\nRobinson,  F. N.,\n                        ed.  \n             The Works of Geoffrey Chaucer.\n         Oxford: Clarendon, 1933; 2nd ed. 1957: 567-611; 1957; 480-518.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 268-70.\nBenson,  Larry Dean,\n                        ed.  \n             The Riverside Chaucer.\n         3rd ed. Boston: Houghton Mifflin, 1987: 588-603 (Prologue only).\n\n",
+            "folio": "ff. 83-119v"
+        },
+        "BodRawC86": {
+            "First Lines": "\nGlorie and honowre virgill mantuainBere thi name & I shall as I\n                    can\u2026\n",
+            "Last Lines": "\n\u2026But who will haue all this better in myndeRede ovide & In\n                    hym ye shall it fynde\n",
+            "Note": "\nComplaint of Dido only; alpha group of witnesses.",
+            "Attributed Title": "\nThe complaynte of dido (added by later hand of the sixteenth century, f.\n                    113); Explicit \u00fee complaint of Dido (scribe, f. 119v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Odd Texts of the Minor Poems.\n             2 vols. \n             Chaucer Society\n         1st ser. 23, 60. London: Tr\u00fcbner, 1868, 1880; repr. New York and\n            London: Johnson, 1967. \n",
+            "folio": "ff. 113-119v"
+        },
+        "BodTan346": {
+            "First Lines": "\nA thousand tymes I hau [he]rd men tellThat ther is ioy in heuen\n                    & peyne in hell\u2026\n",
+            "Last Lines": "\n\u2026And til she was caughte and fetyrde in prysonThis tale is sey\n                    for this conclusion\n",
+            "Note": "\nBeta group of witnesses.",
+            "Attributed Title": "\nThe complaynte of dido (added by later hand of the sixteenth century, f.\n                    113); Explicit \u00fee complaint of Dido (scribe, f. 119v)",
+            "Facsimiles": "\nRobinson,  Pamela. \n             \u201cIntroduction.\u201d \n             Manuscript Tanner 346: A Facsimile.\n         Norman, OK: Pilgrim, and Woodbridge: Boydell and Brewer, 1980. \n",
+            "folio": "ff. 1-40v"
+        },
+        "CULFf16": {
+            "First Lines": "\nAt babilone whilom fil it \u00feusthe wych towne the quene\n                    Semiramuslet dychene all a boute & wallys makeffull hey of arde\n                    tylys wele y bake\u2026\n",
+            "Last Lines": "\n\u2026Here may \u021de seen whate louere so he beA woman dar &\n                    kan as wele as sche he\n",
+            "Note": "\n\u2018Thisbe\u2019 only; alpha group of witnesses.",
+            "Attributed Title": "\nExplicit Pyramus & tesbeNomen scriptoris  nicholaus plenus amoris (f. 67v)",
+            "Facsimiles": "\nBeadle,  Richard,  and  Alfred E. B. Owen.  \n             The Findern Manuscript: Cambridge University Library MS. F.1.6.\n         London: Scolar Press, 1977. \n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \n",
+            "folio": "ff. 64-67v"
+        },
+        "CULGg427": {
+            "First Lines": "\nA Thousent sythis haue I herd men telleThat there is Ioye in heuene\n                    & peyne in helle\u2026\n",
+            "Last Lines": "\n\u2026Til she was caught & fetered In prysounThis tale is seyd\n                    for this conclusioun\n",
+            "Note": "\nNineteenth-century transcript by Henry Bradshaw in Cambridge UK,  Cambridge University Library Addit. 2793, pp. 1-49; alpha group of witnesses.",
+            "Attributed Title": "\nExplicit Pyramus & tesbe (f. 67v)",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             A One-Text Print of the Minor Poems.\n         2 pts. London: Tr\u00fcbner, 1871, 1880; repr. New York and London:\n            Johnson, 1967. \nFurnivall,  Frederick James,\n                        ed.  \n             Odd Texts of the Minor Poems.\n             2 vols. \n             Chaucer Society\n         1st ser. 23, 60. London: Tr\u00fcbner, 1868, 1880; repr. New York and\n            London: Johnson, 1967. \nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \nSkeat,  Walter William,\n                        ed.  \n             The Complete Works of Geoffrey Chaucer.\n         7 vols. Oxford: Clarendon, 1894-7: 3.65-174.\nRobinson,  F. N.,\n                        ed.  \n             The Works of Geoffrey Chaucer.\n         Oxford: Clarendon, 1933; 2nd ed. 1957: 567-611; 1957; 480-518.\nBenson,  Larry Dean,\n                        ed.  \n             The Riverside Chaucer.\n         3rd ed. Boston: Houghton Mifflin, 1987: 588-630.\n\n",
+            "folio": "ff. 445-480v"
+        },
+        "CamMagPep2006": {
+            "First Lines": "\nA Thowsand tymes I have herd telleThat ther is ioye in heven and\n                    peyn in hell\u2026\n",
+            "Last Lines": "\n\u2026And wyt thy counterfeted peyn and wooAnd thow wer not fals to\n                    oon but \u00feow wer fals to twoo\n",
+            "Note": "\nLacks lines 706-76 and ends line 1377; alpha group of\n                    witnesses.",
+            "Attributed Title": "\nExplicit Pyramus & tesbe (f. 67v)",
+            "Facsimiles": "\nEdwards,  A. S. G. \n             \u201cIntroduction.\u201d \n             Manuscript Pepys 2006: A Facsimile. Magdalen College,\n                Cambridge.\n         Norman, OK: Pilgrim, and [Woodbridge, Suffolk]: Boydell and Brewer,\n            1985. \n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Supplementary Parallel-Text Edition of Chaucer\u2019s Minor\n                Poems.\n             2 vols. \n             Chaucer Society\n         1st ser. 22, 59. London: Tr\u00fcbner, n.d.; repr. New York and London:\n            Johnson, 1967. \n",
+            "folio": "pp. 53-87"
+        },
+        "CamTCC599": {
+            "First Lines": "\nA thousand tymes haue I herd men tellThat ther ys ioy in heuyn and\n                    peyne in hellAnd I acorde me well that hyt ys soBut neuertheles yet\n                    woll I well also\u2026\n",
+            "Last Lines": "\n\u2026Tyll she was caught and fetered in peysounThys tale ys sayde\n                    for thys conclusyon\n",
+            "Note": "\nAlpha group of witnesses.",
+            "Attributed Author": "\nChaucer (added, f. 114)",
+            "Attributed Title": "\nHere begynneth the Boke called the legend of Ladyes (f. 114)",
+            "Facsimiles": "\n\nFletcher,  Bradford Y. \n             \u201cIntroduction.\u201d \n             Manuscript Trinity R.3.19. A Facsimile.\n         Norman, OK: Pilgrim, 1987. \n\nDigital Facsimile of Trinity College Cambridge MS R.3.19.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.19. \n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \n",
+            "folio": "ff. 114-150v"
+        },
+        "BLAdd9832": {
+            "First Lines": "\nA thousand tymes haue I herd men telleThat ther is Ioye in hevyn\n                    And payne in hell\u2026\n",
+            "Last Lines": "\n\u2026he shall be holpyn how so that we doffodera Aunswerd Iwisse\n                    me is ryght wo\n",
+            "Note": "\nLines 1-1985, interleaved with William Bonham\u2019s ed. of Chaucer,\n                    1542, which continues as ff. 43-47; alpha group of witnesses.",
+            "Attributed Author": "\ncompyled by M: Geffrey Chaucer (f. 2, in later hand)",
+            "Attributed Title": "\nThe legende of Goode Womenne (f. 2, in later hand)",
+            "Editions": "\n\nPegge,  Samuel. \n             \u201cLetter signed \u2018Paul Gemsage\u2019 [=anagram for Samuel Pegge;\n                \u2018Gemsage\u2019 a misprint for \u2018Gemsege\u2019].\u201d \n             Gentleman\u2019s Magazine\n         (1758): 260-2:  (but see Sherbo (1982)\nXSherbo,  Arthur. \n             \u201cA Lost Ms of Chaucer\u2019s Legend of Good Women?\u201d \n             Studies in Bibliography\n         35 (1982): 154-5).\nFurnivall,  Frederick James,\n                        ed.  \n             A Supplementary Parallel-Text Edition of Chaucer\u2019s Minor\n                Poems.\n             2 vols. \n             Chaucer Society\n         1st ser. 22, 59. London: Tr\u00fcbner, n.d.; repr. New York and London:\n            Johnson, 1967. \n\n",
+            "folio": "ff. 4-42v"
+        },
+        "BLAdd12524": {
+            "First Lines": "\n\u2026Ne shulde hyr neuer falsen nyght nor dayTo been hyr hysbonde\n                    till he lyff may\u2026\n",
+            "Last Lines": "\n\u2026And till she wes fettred & put in presouneThys taile ys\n                    seide to this conclusioune\n",
+            "Note": "\nBegins imperfectly, line 1640; alpha group of witnesses.",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Supplementary Parallel-Text Edition of Chaucer\u2019s Minor\n                Poems.\n             2 vols. \n             Chaucer Society\n         1st ser. 22, 59. London: Tr\u00fcbner, n.d.; repr. New York and London:\n            Johnson, 1967. \n",
+            "folio": "ff. 1-17v"
+        },
+        "BLAdd28617": {
+            "First Lines": "\nShe that for hire housbonde chees to dyeAnd she to goon to helle\n                    rather than he\u2026\n",
+            "Last Lines": "\n\u2026Tyl she was take and ffetred in prisonThis tale ys seyde ffor\n                    this conclusion\n",
+            "Note": "\nFragments only: begins line 513; alpha group of witnesses.",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Odd Texts of the Minor Poems.\n             2 vols. \n             Chaucer Society\n         1st ser. 23, 60. London: Tr\u00fcbner, 1868, 1880; repr. New York and\n            London: Johnson, 1967. \n",
+            "folio": "ff. 1-38"
+        }
+    }
+}

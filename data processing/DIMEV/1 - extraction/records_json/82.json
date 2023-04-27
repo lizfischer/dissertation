@@ -1,0 +1,77 @@
+{
+    "_id": 82,
+    "_header": "A knight there was by old daw lither man enow",
+    "Title(s)": "South English Legendary",
+    "Subjects": "Virgin Mary, miracles of; miracles",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Devil in Service, a miracle of the Virgin, in the South English Legendary \u2014 in couplets",
+    "_witnesses": {
+        "BodLauMis463": {
+            "First Lines": "\nA Knight \u00feer was bi olde dayes lu\u00feer man y nowStrong\n                    robber & manguller & to al shrewdenes drow\u2026\n",
+            "Last Lines": "\n\u2026On Marie what it is miche \u00fei milce & \u00fein oreSo\n                    merie it is to telle of \u00fee \u00feat \u021det we mote more\n",
+            "Note": "\nTwo columns per page, one full-line, the other half-line.",
+            "folio": "f. 55ra-55rb"
+        },
+        "OxfTri57": {
+            "First Lines": "\nA kny\u021dt \u00feer was be olde dayes lu\u00feer man y\n                    nou\u021dStrong robbere & manquellere to alle scherewednesse\n                    drou\u021d\u2026\n",
+            "Last Lines": "\n\u2026O marie \u00feat it is so moche \u00fey milce and \u00feyn\n                    oreSo merie it is to telle of \u00fee \u00feat \u021dut we mote\n                    more\n",
+            "Attributed Title": "\nMiraculum Marie (f. 53)",
+            "folio": "ff. 53-55v"
+        },
+        "CULAdd3039": {
+            "First Lines": "\nA knyght it was be olde \u00feat lyfyd il lyfe ynogheStrange robber\n                    & mansloer to al schrewdnes he drogheBy a heghe way castel he had fer\n                    fro ilka tonneAl \u00fee folk \u00feat come \u00feer for\u00fee he robbed\n                    & slogh \u00feaim donne\u2026\n",
+            "Last Lines": "\n\u2026To \u00feat lady I rede we pray \u00feat is of mercy\n                    hende\u00deat scho kepe vs night & day & schilde vs fro \u00fee\n                    fende\n",
+            "folio": "ff. 108-108v"
+        },
+        "CamCCC145": {
+            "First Lines": "\nA kni\u021dt \u00feer was bi olde dawe li\u00feer mon InouStrong\n                    robbare & monquellare to alle ssrewehede drou\u2026\n",
+            "Last Lines": "\n\u2026On Marie \u00feat is muche \u00fei swete milce and oreSo muri\n                    it is to telle of \u00fee \u00feat \u021dute me mote more\n",
+            "Editions": "\nD\u2019Evelyn,  Charlotte,  and  A. J. Mill, eds.  \n             The South English Legendary: Corpus Christi College Cambridge MS. 145\n                and British Museum MS. Harley 2277, with variants from Bodley MS. Ashmole 43 and\n                British Museum MS. Cotton Julius D.ix.\nEETS\n         o.s. 235 (1959), 236 (1956); repr. 1967: 229.\n",
+            "folio": "ff. 86-87"
+        },
+        "CamMagPep2344": {
+            "First Lines": "\nA kni\u021dt \u00feer was by olde dawe \u00feat lu\u00feer man was\n                    ynowStrong robbour and manquellere and to alle lu\u00feernesse\n                    drow\u2026\n",
+            "Last Lines": "\n\u2026O Marie \u00feat so muche is \u00fei swete mylce & oreSo\n                    murye hit is to telle of \u00fee \u00feat \u021dut we mote more\n",
+            "Attributed Title": "\nMiraculum [Sancte Marie] (RT)",
+            "folio": "pp. 304-305"
+        },
+        "CamTCC605": {
+            "First Lines": "\nA kny\u021dt \u00feer was wyle a lu\u00feer man ynowea strange\n                    robbere & manquellere to al schrewhede he drowe\u2026\n",
+            "Last Lines": "\n\u2026\u00feer for eche cristen man \u00feat wole do by my\n                    loregrete oure leuedy eche day & byde hure mylce & ore\n",
+            "Attributed Title": "\nMater de sancta marie (RT, f. 233)",
+            "Facsimiles": "\n\nDigital Facsimile of Trinity College Cambridge MS R.3.25.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.25. \n",
+            "folio": "ff. 233-233v"
+        },
+        "BLAdd10301": {
+            "First Lines": "\nA kni\u021dt \u00feer was by olde dawe lu\u00feer man y nouStrong\n                    Robbare & man quellare to al ssrewede he drou\u2026\n",
+            "Last Lines": "\n\u2026On marie \u00feat is Muche \u00fei swete milce & oreSo\n                    Murye it is to telle of \u00fee \u00feat \u021dut me mote more\n",
+            "Attributed Title": "\nMiracula (RT)",
+            "folio": "ff. 100v-101v"
+        },
+        "BLCottCleoDIX": {
+            "First Lines": "\n[A] kni\u021dt \u00feer was bi olde dawe lu\u00feer man\n                    inou\u021dStronge robbar & manquellar to alle schrewhed he\n                    dro\u021d\u2026\n",
+            "Last Lines": "\n\u2026On \u00fee marie \u00feat is moche \u00fei swete milce &\n                    oreSo murie hit is to tell of \u00fee \u00feat \u021dut we mot\n                    more\n",
+            "Note": "\nFolio number reflects the most recent foliation. Space left for enlarged\n                    \u2018A\u2019, which was left blank.",
+            "folio": "ff. 152-153"
+        },
+        "BLCottJulDIX": {
+            "First Lines": "\nA kny\u021dt \u00feer was bi olde dawe lu\u00feer man ynoustrong robbere & manquellare to al schreue\u00fee he drou\u2026\n",
+            "Last Lines": "\n\u2026on marie \u00feat it is moche \u00fei suete milce & oreso merie hit is to telle of \u00fee \u00feat \u021dut we mote more\n",
+            "Note": "\n\u201cCapitulum Ciiii\u201d added to left margin by later hand (f. 302); \u201cit\u201d added above line by scribe in penultimate line.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Julius MS D IX.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Julius_D_IX. \n",
+            "folio": "ff. 302-302v"
+        },
+        "BLEge2891": {
+            "First Lines": "\nA kni\u021dt \u00feer was bi olde dawe lu\u00feer man InouStrong robbare and manquellare to alle ssrewede he drou\u2026\n",
+            "Last Lines": "\n\u2026On marie \u00feat is muche \u00fei swete milce and oreSo marie it is to telle of \u00fee \u00feat \u021dute we mote more\n",
+            "folio": "ff. 95-96"
+        },
+        "BLHar2277": {
+            "First Lines": "\nA kni\u021dt \u00feer was bi olde dawes li\u00feer man ynou\u021dStrong robbour & manquellere to alle godnisse he drou\u021d\u2026\n",
+            "Last Lines": "\n\u2026On marie \u00feat is so moche \u00fei milce & \u00feyn oreSo murie hit is to telle of \u00fee \u00feat \u021dut we mote more\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 2277.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_2277. \n",
+            "Editions": "\nTryon,  Ruth Wilson. \n             \u201cMiracles of Our Lady in Middle English Verse.\u201d \n             PMLA\n         38 (1923): 308-81: 314-16.\n",
+            "folio": "ff. 61-61v"
+        }
+    }
+}

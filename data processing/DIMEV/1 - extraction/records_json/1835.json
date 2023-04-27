@@ -1,0 +1,21 @@
+{
+    "_id": 1835,
+    "_header": "He is wise that is wood",
+    "Subjects": "paradoxes",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "On the Evils of the Time \u2014 three couplets",
+    "_witnesses": {
+        "BLCottRollsII23": {
+            "First Lines": "\nHe is wise that is wodeHe is riche \u00feat hase no\n                    goode\u2026\n",
+            "Last Lines": "\n\u2026And\n                    yaf hym with here \u00fee Revere [?] way \u00feat comeffro\n                    Burdaux that is to wete vjxx town\n",
+            "Note": "\nArticle 10 on front side.",
+            "Editions": "\n\nMadden,  Frederick. \n             \u201cPolitical Poems of the Reigns of Henry VI and Edwrd IV.\u201d \n             Archaeologia\n         29 (1842): 318-47: 325.\nWright,  Thomas,\n                        ed.  \n             Political Poems and Songs relating to English History, composed during\n                the period From the Accession of Edward III to that of Richard III.\n             2 vols. \n             Rolls Series\n         14 (1859, 1861); repr. Kraus, 1965: 2.225.\n\n",
+            "folio": "a roll, Art. 10"
+        },
+        "Bod100": {
+            "Transcription": "\nHe is wys \u00feat is woedHe is riche \u00feat na\u00fe no\n                    goodHe is blynd \u00feat can y seeWel is hym \u00feat nere may\n                    \u00feee\n",
+            "Note": "\nFour lines. Preceded by the following: \u2018\u00feys prouerbe is\n                    so\u00fe in euery syde ho so goostly vnderstonde\u00fe\u2019.",
+            "folio": "f. iiv"
+        }
+    }
+}

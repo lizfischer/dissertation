@@ -1,0 +1,156 @@
+{
+    "_id": 6014,
+    "_header": "To the honour of God one in persons three",
+    "Note": "Printed Ashmole (1652)\nXAshmole, Elias. Theatrum Chemicum Britannicum. London: J. Grimond, 1652, pp. l-106.",
+    "Author(s)": "Thomas Norton",
+    "Title(s)": "Ordinal of Alchemy",
+    "Subjects": "alchemy",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Thomas Norton, Ordinal of Alchemy \u2014 3102 lines in seven chapters and a prologue",
+    "_witnesses": {
+        "BodAsh57": {
+            "First Lines": "\nTo the honor of God one in Persones threethis booke is made that\n                    lay men shold it seeand Clerkes also after my deceasewhereby all\n                    laymen which put them selfe in prease\u2026\n",
+            "Last Lines": "\n\u2026in the yeare of Christe M. CCCC. seauentie and seauenethis\n                    worke began Honor to God in heauene\n",
+            "Note": "\nWritten by Ashmole on an unnumbered leaf the start of the MS:\n                    \u2018John Dee Anno Domini 1577. This following Booke (called Norton\u2019s\n                    Ordinall) was transcribed by the hand of Dr. John Dee, and had been bound in\n                    purple velvet\u2019. On p. 123 is the index of \u2018Authors recitede in this\n                    booke\u2019.",
+            "folio": "pp. 1-123"
+        },
+        "BodAsh1441": {
+            "First Lines": "\nOf rude people which delen with this werkesTen Thousand Laymen\n                    against ten able Clerks\u2026\n",
+            "Last Lines": "\n\u2026In this yeare of Christ 1470 & seavenThis worke was\n                    begun, Honor to God in heaven\n",
+            "Note": "\nLast 12 lines only; at the end: \u2018Finis\u2019.",
+            "folio": "p. 79"
+        },
+        "BodAsh1445": {
+            "First Lines": "\nTo the honor of god oen in parsons threThis bewerke is maede\n                    \u00feat Laye men shullde hit se\u2026\n",
+            "Last Lines": "\n\u2026in \u00fee year of cryeste 1477this worke bygan honor to gode\n                    in heauen\n",
+            "Note": "\nIncomplete: a leaf containing the conclusion of the\n                    \u2018Prohemium\u2019 is lost. At the end:\n                    \u2018Explicit\u2019.",
+            "Attributed Title": "\nSir Thomas Nortons Ordinal. Prohemium (f. 2)",
+            "folio": "Part II, F, ff. 2-96"
+        },
+        "BodAsh1451": {
+            "Transcription": "\nRemember that water will bubble & boileBut butter shoulde simper\n                    & also oyle and so, with longe Labour wasteand not with bublinge\n                    made in haste\n",
+            "Note": "\n4 lines, extract. In the margin: \u2018Norton Cap\n                    4\u2019.",
+            "folio": "f. 11"
+        },
+        "BodAsh1464": {
+            "First Lines": "\nTo the honor of god one in persons threethis booke is made that\n                    laie men should it see\u2026\n",
+            "Last Lines": "\n\u2026In the yeare of Christe 1000 foure hundred & seavenThis\n                    worke beganne honnor to god of heauen\n",
+            "Note": "\nAt the end of the Ordinal; in the margin:\n                    \u20181477\u2019.",
+            "folio": "ff. 1-44v"
+        },
+        "BodAsh1479": {
+            "First Lines": "\nTo \u00fee honor of god one in persons threthys boke is made\n                    \u00feat laye men shold yt se\u2026\n",
+            "Last Lines": "\n\u2026in \u00fee yere of chryste 1477thys work was begonne honor to\n                    god in heaven\n",
+            "folio": "ff. 245-298v"
+        },
+        "BodAsh1490": {
+            "First Lines": "\nTo the honour of god on in persons threeThis bocke is made that\n                    laie men it should see\u2026\n",
+            "Last Lines": "\n\u2026in the year of christ 1447This worcke be gane honor to god of\n                    heaven\n",
+            "Attributed Title": "\nLiber Thome Norton hic incipit (f. 277). Explicite and nowe laste\n                    copied out bi me Simon Forman, 1591. March the 23. student in Astronomy and\n                    Phisick & Arte nicromantike (f. 288v). The English Preface to the\n                    Ordinal follows the poem on f. 289 with a title \u2018Norton 1447\u2019 and is\n                    subscribed with a colophon by Forman",
+            "folio": "ff. 277-289"
+        },
+        "BodeMus63": {
+            "First Lines": "\nTo the honour of god one in persons threethis booke is made that\n                    lay men shoulde it see\u2026\n",
+            "Last Lines": "\n\u2026In the yere of christe Ml CCCC seventi & seventhis werke\n                    begane honour to god in heuen\n",
+            "folio": "ff. 2-40"
+        },
+        "CamTCC910": {
+            "First Lines": "\nTo the honour of god one in persons threethis boke ys made that lay\n                    men shulde yt see\u2026\n",
+            "Last Lines": "\n\u2026In the yere of Christ a ml cccc seventie &\n                    sevenThis werke beganne honour to god in hewen\n",
+            "Attributed Title": "\nClaudes secreta (top margin f. 1, added by later hand); Prohemium\n                        libri qui intitulatur Ordinatio secretorum (f. 1)",
+            "folio": "ff. 1-73v"
+        },
+        "CamTCC1119": {
+            "First Lines": "\nTo the honor of God one in persons threeThis book is made that lay\n                    men might it see\u2026\n",
+            "Last Lines": "\n\u2026In the yeare of Christ 1470 and seauenThis worke was begunne\n                    honor to god in heauen\n",
+            "Note": "\nEnds, \u2018Deo gratias\u2019.",
+            "Attributed Title": "\nNortons Booke proemium (f. 1)",
+            "folio": "ff. 1-49"
+        },
+        "CamTCC1269": {
+            "First Lines": "\nTo the honor of god one in persons threethis booke is made that\n                    laye men scholde it see\u2026\n",
+            "Last Lines": "\n\u2026in the yeare of Christ 1477this woorke began onour god in\n                    heaven\n",
+            "Note": "\nFollowed by epilogue, \u2018This booke vnto Clarkes declareth science\n                    greate\u2026suche graces greate shall haue as he thought not to fynde\u2019 on\n                    ff. 39v-40.",
+            "folio": "ff. 1-40"
+        },
+        "BLAdd10302": {
+            "First Lines": "\nTo the honour of god in persones \u00fereeThis boke is made\n                    \u00feat lay men shuld it se\u2026\n",
+            "Last Lines": "\n\u2026Thus endith the subtile werk with al hire storeIt nede not I\n                    may not I will shewe no more\n",
+            "Note": "\nChapters 1-5 only.",
+            "Editions": "\nReidy,  John,\n                        ed.  \n             Thomas Norton\u2019s The Ordinal of Alchemy.\nEETS\n         o.s. 272 (1975): 1-78, 81-83 (lines 1-2502, 2623-2682).\n",
+            "folio": "ff. 1-67"
+        },
+        "BLHar853": {
+            "First Lines": "\nTo the honor of god one in persons threthis booke is made that lay men should it see\u2026\n",
+            "Last Lines": "\n\u2026In the yere of Christ Ml CCCC seaventie & seaventhis worke began honour to God of heaven\n",
+            "folio": "ff. 27-65"
+        },
+        "BLRoy18Bxxiv": {
+            "folio": "ff. 80-138v"
+        },
+        "BLSl1873": {
+            "Editions": "\nReidy,  John,\n                        ed.  \n             Thomas Norton\u2019s The Ordinal of Alchemy.\nEETS\n         o.s. 272 (1975): 78-81, 83-96 (lines 2503-2622, 2683-3102).\n",
+            "folio": "ff. 4-16"
+        },
+        "BLSl2036": {
+            "Note": "\nExtracts: chapters III, VI, VII.",
+            "folio": "ff. 30-36v"
+        },
+        "BLSl2174": {
+            "folio": "ff. 117-139v"
+        },
+        "BLSl2532": {
+            "folio": "ff. 1-49"
+        },
+        "BLSl3580B": {
+            "folio": "ff. 61-115"
+        },
+        "LincInnH90": {
+            "First Lines": "\nTo the honour of God one in persons threeThis booke is made that\n                    Low men shold it see\u2026\n",
+            "Last Lines": "\n\u2026All other blewes the sadder \u00feer they beThey haue lesse\n                    of slyer but more terrestirelye\u2026\n",
+            "Note": "\nEnds imperfectly in the 5th chapter.",
+            "folio": "ff. 2-31"
+        },
+        "Wellcome580": {
+            "First Lines": "\nTo the honour of god one in persons threethis Booke is made\n                    \u00feat lay-men should it see\u2026\n",
+            "Last Lines": "\n\u2026All \u00feat haue pleasure in this booke to readepray for my\n                    soule & for all quicke & deadin the Yeare of Christe\n                    McccclxxvijThis work was begoon honour to god in heaven.Soli beo\n                    Honoret gloria\n",
+            "Note": "\nEnds imperfectly in the 5th chapter. Seventeeth-century\n                    hand.",
+            "Attributed Title": "\nNorton vpon / Alchymie (p. 1)",
+            "folio": "pp. 1-157"
+        },
+        "TCD684": {
+            "First Lines": "\nTo the honor of God one in persons threeThis booke is made that\n                    laymen should it see\u2026\n",
+            "Last Lines": "\n\u2026As would haue bene his chapter of the fireAnd meruell not\n                    Lordes ne ye freendes all\n",
+            "Note": "\nEnds imperfectly in the 5th chapter.",
+            "Attributed Author": "\nNorton (top f. 2)",
+            "Attributed Title": "\nNorton his Ordinall of Alchemie (top f. 2)",
+            "folio": "ff. 2-72v"
+        },
+        "EDULaiii164": {
+            "First Lines": "\nTo the honour of god oone in parsones threThys boke ys made\n                    \u00feat laye one shuld ytt se\u2026\n",
+            "Last Lines": "\n\u2026In the yere of Christ ml cccc seventy &\n                    sevenThis warke biganne honour to god of heven\n",
+            "Note": "\nWith epilogue, 5 couplets, \u2018Putrifaccion most desstroy &\n                    deface\u2026\u2019.",
+            "Attributed Title": "\nOrdinall of Alchymy (p. 129 by later hand); Liber Thomas Norton (p.\n                    129, by later hand)",
+            "folio": "pp. 129-224"
+        },
+        "Longleat178": {
+            "folio": "ff. 10v-49"
+        },
+        "BosHistSoc": {
+            "First Lines": "\n\u2026Who wolde haue trewe worke he may no labowre spareNether yet\n                    thys purse though he make it Bare\u2026\n",
+            "Last Lines": "\n\u2026These be \u00fee sayenges of NortonIn hys booke the Ordynall\n                    thereComprehendyng \u00fee trew circulacionOf elementes in euery degre\n                    & mayner\u2026\n",
+            "Note": "\nExtract of 20 couplets plus one cross-rhymed quatrain.",
+            "folio": "f. 90v"
+        },
+        "CopenRoy3503": {
+            "folio": ""
+        },
+        "FinchHatton323": {
+            "folio": "ff. 1-63"
+        },
+        "BristolClifton": {
+            "Note": "\nReidy (1975)\nXReidy,  John. \n             Thomas Norton\u2019s The Ordinal of Alchemy.\nEETS\n         o.s. 272 (1975) lists as\n                    missing.",
+            "folio": ""
+        }
+    }
+}

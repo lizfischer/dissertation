@@ -1,0 +1,53 @@
+{
+    "_id": 4500,
+    "_header": "Right mighty Prince and it be your will",
+    "Author(s)": "John Lydgate",
+    "Subjects": "patronage, pleas for; envoys",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, letter to Gloucester for money \u2014 eight 8-line stanzas (ababbcbc) including Envoy; refrain \u2018Onely for lak of plate and of coignage\u2019 or refrain phrase \u2018plate and of coignage\u2019",
+    "_witnesses": {
+        "CamMagPep2011": {
+            "First Lines": "\nRight myghty prynse and hit be youre wylleCondiscende leyser for to\n                    take\u2026\n",
+            "Last Lines": "\n\u2026God sende sone a gladder letuaryWith a clere sone of plate\n                    and of coignage\n",
+            "Attributed Title": "\nThis is the letter that Daun John lidgate Monke of Bury sent to humfrey\n                    duke of Glouceter for mony for making of Bochas (f. 78); Explicit littera de\n                        dan John lidgate (f. 79)",
+            "folio": "ff. 78-79"
+        },
+        "BLAdd34360": {
+            "First Lines": "\n[R]ight myghti prince and it be your willeCondescende leyser for to\n                    take\u2026\n",
+            "Last Lines": "\n\u2026God sende sone a gladder letuaryeWith a clere sowne of plate\n                    and of coyngnage\n",
+            "Attributed Title": "\nExplicit littera Dompnus Iohannis Lydgate / Monachus Monasterij on\n                        Edmundi de / Bury missa ad Ducem Glowcestrie in tem / pore Translicionis\n                        libri Bochasij per / Oportunitate pecunie (f. 65v)",
+            "folio": "ff. 64v-65v"
+        },
+        "BLHar2251": {
+            "First Lines": "\nRight myghty prince and it be youre willeCondescende leyser for to\n                    take\u2026\n",
+            "Last Lines": "\n\u2026God send sone a gladder letuaryWith a clere sowne of plate\n                    and of coygnage\n",
+            "Attributed Title": "\nExplicit littera Dompni Johannis lydgate / Monachi monasterij Sancti\n                        Edmundi de / Bury missa ad ducem Gloucestrie in tem / pore translacionis\n                        libri Bochasij pro / oportunitate pecunie (f. 7)",
+            "Editions": "\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             A Selection from the Minor Poems of Don John Lydgate.\nPercy Society\n         2. London: T. Richard, 1840: 49-51.\n",
+            "folio": "ff. 6-7"
+        },
+        "BLHar2255": {
+            "First Lines": "\nRIght myhty prynce and it be your willeCondescende leiser for to\n                    take\u2026\n",
+            "Last Lines": "\n\u2026God sende soone a gladdere letuaryeWith a cleer son of plate\n                    and of coignage\n",
+            "Attributed Author": "\nExplicit quod lydgate (f. 47, in margin)",
+            "Editions": "\n\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 665-7.\nHammond,  Eleanor Prescott. \n             \u201cPoet and Patron in the Fall of Princes: Lydgate and Humphrey of\n                Gloucester.\u201d \n             Anglia\n         38 (1914): 121-36: 125-6.\nNicolas,  Nicholas Harris,  and  Edward Tyrrell, eds.  \n             A Chronicle of London, from 1079 to 1483.\n         London: Longman, 1827: 278-70.\nNorton-Smith,  John. \n             John Lydgate: Poems.\n         Oxford: Clarendon, 1966. \nPearsall,  Derek,\n                        ed.  \n             Chaucer to Spenser: An Anthology of Writings in English\n                1375-1575.\n         Oxford and Malden, MA: Blackwell, 1999: 366-7.\n\n",
+            "folio": "ff. 45v-47"
+        },
+        "BLLan699": {
+            "First Lines": "\nRIht myhti prynce and it be your willeCondescende leiser for to\n                    take\u2026\n",
+            "Last Lines": "\n\u2026God send sone a gladder letuarieWith a cleer sone of plate\n                    & of coynage\n",
+            "Attributed Author": "\nIohannis Lidgate ad domini Gloucestre (f.\n                    89v)",
+            "folio": "ff. 90-91"
+        },
+        "PierpontM4": {
+            "First Lines": "\nRight myghty prynse and hit be youre willCondiscende leyser for to\n                    take\u2026\n",
+            "Last Lines": "\n\u2026God sende sone a gladder letuaryWith a clere sone of plate\n                    and of coynage\n",
+            "Note": "\nIncludes last two stanzas as envoy, \u2018O sely byll why arte \u00feu\n                    not ashamed\u2026\u2019 (76v-77).",
+            "Attributed Title": "\nThis is the copy of \u00fee letter that dan John lidgate Monke of Bury sent\n                    to homfrey duke of Glouceter for mony for the makynge of Bochas (f.\n                        75v)",
+            "Editions": "\nB\u00fchler,  Kurt. \n             \u201cA New Lydgate-Chaucer Manuscript.\u201d \n             Modern Language Notes\n         52 (1937): 1-9: 2-4.\n",
+            "folio": "ff. 75v-77"
+        },
+        "Leiden": {
+            "folio": "p. 204"
+        }
+    }
+}

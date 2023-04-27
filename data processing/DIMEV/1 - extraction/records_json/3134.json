@@ -1,0 +1,52 @@
+{
+    "_id": 3134,
+    "_header": "Little children here you may lere / Much courtesy that is reckoned here",
+    "Note": "For another version see 6666.",
+    "Title(s)": "\u2018The Lytylle Childrenes Lytil Boke\u2019",
+    "Subjects": "children, instructions for behavior of; manners, treatises on; courtesy books; instruction",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Macaronic": "French",
+    "_description": "\u2018The Lytylle Childrenes Lytil Boke\u2019 \u2014 fifty-four couplets",
+    "_witnesses": {
+        "OxfBal354": {
+            "First Lines": "\nLitill children here may ye lernepetitz enfanz icy vous pouez\n                    aprendre\u2026\n",
+            "Last Lines": "\n\u2026& in his last end with \u00fee swete Ihesus& en la\n                    dereniere fin auec le doux Ihesus\n",
+            "Attributed Title": "\nThe boke of / Curtasie (p. 289); Here endith \u00fee boke of Curtasie (p.\n                    291)",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 151-6.\nDyboski,  R. \n             \u201cEnglisch-franz\u00f6sisches aus einem MS des 16 Jarhunderts.\u201d \n             Bausteine: Zeitschrift f\u00fcr neuenglische Wortforschung\n         1 (1905-6): 329-52: 1.335-42.\n\n",
+            "folio": "pp. 289-291"
+        },
+        "CULEe435a": {
+            "First Lines": "\nLytyl Childernhere yow may lereMeche cortesey \u00feat ys rekeyd\n                    hereffor clarkys \u00feat the vij artes con\u2026\n",
+            "Last Lines": "\n\u2026And \u021dyff hem & vs gras yn gey to besey all amen ffor\n                    chereyte\n",
+            "Attributed Title": "\nExpleycyt the Boke of cortesey (f. 23v)",
+            "folio": "ff. 22v-23v"
+        },
+        "BLEge1995": {
+            "First Lines": "\nLItylle chyldrynne here may ye lereMoche curtesy that ys wretyn\n                    here\u2026\n",
+            "Last Lines": "\n\u2026And vs graunte in Ioy to a bydeSay ye alle Amen for charyde\n                    in euery syde\n",
+            "Attributed Title": "\nHEre endythe the boke of Curtesy that ys fulle necessary vnto yonge\n                    chyldren that muste nedys lerne the maner of curtesy (f. 60)",
+            "folio": "ff. 58v-60"
+        },
+        "BLHar541": {
+            "First Lines": "\nLytyll chyldren here ye may lereMoche curtesy \u00feat is wrytyn here\u2026\n",
+            "Last Lines": "\n\u2026Bulk not as a Beone were yn \u00fei throte[tear in sheet]rle \u00feat comys oute of a cote\n",
+            "Note": "\nFifty-four couplets on folios 210 and 210v, incomplete because torn sheet and only leaf with this text in MS.",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Babees Book, etc.\nEETS\n         o.s. 32 (1868); rev. ed.  Early English Meals and\n                Manners London: Tr\u00fcbner, 1876; repr. 1973: orig. ed. 16-24; rev. ed. 265-73.\n",
+            "folio": "ff. 210-210v"
+        },
+        "BLAdd8151": {
+            "First Lines": "\nLytyll cheldryn here \u021de may lereMoche curtesye \u00feat is\n                    wrytyn here\u2026\n",
+            "Last Lines": "\nAnd \u021deue us grace in ioye to be\u2026Seythe all Amen for\n                    charyte\n",
+            "Editions": "\nGray,  Douglas. \n             The Oxford Book of Late Medieval Verse and Prose.\n         Oxford: Clarendon, 1985: 133-4.\n",
+            "folio": "ff. 201v-203v"
+        },
+        "NLS1931": {
+            "First Lines": "\nLytyll chyldur heremay ye leremoche curtesy is wryten\n                    here\u2026\n",
+            "Last Lines": "\n\u2026And hus all in Iowe to beeAmen Amen for charite\n",
+            "Facsimiles": "\nHardman,  Phillipa. \n             The Heege Manuscript: A Facsimile of National Library of Scotland MS\n                Advocates 19.3.1.\n         Leeds Texts and Monographs, n.s. 16. Leeds: School of English,\n            2000. \n",
+            "Editions": "\nBreul,  Karl. \n             \u201cThe boke of Curtesy.\u201d \n             Englische Studien\n         9 (1886): 51-63: 58-63.\n",
+            "folio": "ff. 84v-86v"
+        }
+    }
+}

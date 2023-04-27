@@ -1,0 +1,97 @@
+{
+    "_id": 4719,
+    "_header": "Saint Matthew the Evangelist apostle he was Iwis",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Matthew, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Matthew in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "BodAsh43": {
+            "First Lines": "\nSEyn Matheu \u00fee euangelist apostel he was iwisEuangelist &\n                    eke apostel bo\u00fee he was & is\u2026\n",
+            "Last Lines": "\n\u2026Nou ihesus \u021deue ous grace \u00feulke Ioie to wynneVor\n                    \u00fee loue of seynt matheu \u00feat is soule is Inne\n",
+            "folio": "ff. 136-137v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSEint Matheu \u00fee Ewangelist Apostel he was i wisEwangelist and\n                    eke Apostel bo\u00fee he was and is\u2026\n",
+            "Last Lines": "\n\u2026Now Ihesu \u021dif vs grace \u00feat ilke Ioye to winneffor\n                    \u00fee loue of seint Matheu \u00feat his holy soule is Inne. Amen.\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 53rb-53va"
+        },
+        "BodLauMis108": {
+            "First Lines": "\nSEint Matheu \u00fee ewangelist apostel he was and isEwangelist and\n                    eke apostle for so\u00fee he was and is (sic)\u2026\n",
+            "Last Lines": "\n\u2026Nou Iesu crist us \u021diue is grace \u00feulke Ioy\u021de i\n                    winneffor \u00fee loue of Seint Matheu \u00feat he woneth inne\n",
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             The Early South-English Legendary.\nEETS\n         o.s. 87 (1887; repr. 1987): 77-81.\n",
+            "folio": "ff. 50v-52"
+        },
+        "BodLauMis463": {
+            "First Lines": "\nSEint Matheu \u00fee euangelist apostle was y wisEuangelist &\n                    ek apostle bo\u00fee was & is\u2026\n",
+            "Last Lines": "\n\u2026Now Ihesu vs \u021diuen grace \u00feilke ioye to wynnefor\n                    \u00fee loue of seint matheu \u00feat his holy soule is inne\n",
+            "Note": "\nTwo columns per page, one full-line, the other half-line.",
+            "folio": "ff. 86rb-87rb"
+        },
+        "OxfTri57": {
+            "folio": "f. 102v"
+        },
+        "CamCCC145": {
+            "First Lines": "\nSein Mattheu \u00fee wangelist apostel he was iwisEwangelist &\n                    eke apostel for bo\u00fee he was & is\u2026\n",
+            "Last Lines": "\n\u2026Nou ihesu us \u021diue \u00fee grace \u00feulke ioie to\n                    wynneffor \u00fee loue of sein Mattheu \u00feat is holy soule is\n                    Inne\n",
+            "Attributed Title": "\nSanctus Matheus (RT)",
+            "folio": "ff. 147-149"
+        },
+        "CamMagPep2344": {
+            "First Lines": "\nSeint Matheu \u00fee Ewangelist Apostel he was ywisEwangelist and\n                    eke Apostel ffor bo\u00fee he was and is\u2026\n",
+            "Last Lines": "\n\u2026Now Ihesu vs \u021diue grace \u00feulke ioye to wynneffor\n                    \u00fee loue of Seint Matheu \u00feat his holy soule is ynne\n",
+            "Attributed Title": "\nSanctus Matheus (RT)",
+            "folio": "pp. 410-413"
+        },
+        "CamTCC605": {
+            "First Lines": "\nSEint matheu \u00fee ewangelyst apostel was y wysEwangelyst &\n                    eke apostele bo\u00fe he was & ys\u2026\n",
+            "Last Lines": "\n\u2026Now ihesu crist \u021dif ous grace \u00feulke Ioie to\n                    wynnefor \u00fee loue of seint matheu \u00feat he now ys Inne\n",
+            "Attributed Title": "\nMatheu apostel (RT)",
+            "folio": "ff. 143v-144v"
+        },
+        "BLAdd10301": {
+            "First Lines": "\nSEin Matheu \u00fee ewangeliste apostel he was y wisEwangelist\n                    & eke apostel for bo\u00fee he was & is\u2026\n",
+            "Last Lines": "\n\u2026Nou ihesu vs \u021dyue \u00fee grace \u00feat Ioye to\n                    wynnefor \u00fee loue of sein Matheu \u00feat is holy soule is\n                    Inne\n",
+            "Attributed Title": "\nMatheus (RT)",
+            "folio": "ff. 168-170"
+        },
+        "BLCottJulDIX": {
+            "First Lines": "\nSEin matheu \u00fee euangelist apostel he was y wiseuangelist & ek apostel bo\u00fee he was & is\u2026\n",
+            "Last Lines": "\n\u2026nou ihesu \u021dif ous grace \u00feulke ioie to wynnefor \u00fee loue of sein matheu \u00feat his soule is Inne\n",
+            "Note": "\n\u201cCapitulum lx\u201d added to right margin by later hand (f. 134).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Julius MS D IX.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Julius_D_IX. \n",
+            "folio": "ff. 134-135"
+        },
+        "BLEge1993": {
+            "First Lines": "\nSEint Matheu \u00fee apostel ewangelist was iwisEwangelist & eke apostel for bo\u00fee was & is\u2026\n",
+            "Last Lines": "\n\u2026Now ihu vs \u021diue \u00fee grace \u00feilke ioie to winneVor \u00fee loue of seint Matheu \u00feat is soule is ynne\n",
+            "folio": "ff. 222v-224v"
+        },
+        "BLEge2891": {
+            "First Lines": "\nSEin Mattheu \u00fee ewangelist apostel he was iwisEwangelist and eke apostel for bo\u00fee he was and is\u2026\n",
+            "Last Lines": "\n\u2026After \u00fee tweie enchanteors sein Mattheu gan sendeZaroes and araphaxat and made hem \u00feanne wende\u2026\n",
+            "Note": "\nLines 1-74 only: ends incomplete due to missing folio or folios between 135 and 136.",
+            "folio": "ff. 135-135v"
+        },
+        "BLHar2277": {
+            "First Lines": "\nSEint Matheu \u00fee wangelist apostle he was iwisEwangelist & eke apostle bo\u00fee he was & is\u2026\n",
+            "Last Lines": "\n\u2026Nou ihesu crist ous \u021dyue \u00fee grace \u00feulke ioye to wynneffor \u00fee loue of Seint Matheu \u00feat his soule is inne\n",
+            "Note": "\nEnds \u201cAmen.\u201d",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 2277.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_2277. \n",
+            "folio": "ff. 120-122"
+        },
+        "Lam223": {
+            "First Lines": "\nSAynt Matheu \u00fee euangelist apostel was y wisEuaungelist &\n                    eke apostle bo\u00fee he was & is\u2026\n",
+            "Last Lines": "\n\u2026Now Ihesu Crist \u021deue vs grace \u00feat ioye to wynneffor\n                    \u00fee love of saynt Matheu \u00feere he now is ynne Amen\n",
+            "Attributed Title": "\nSaynt Matheu (RT)",
+            "folio": "ff. 169-171"
+        },
+        "TokyoTak54": {
+            "First Lines": "\nSeynt Mathewe \u00fee euaungelist apostel was iwisEuaungelist and\n                    eke apostel bo\u00fe he was and is\u2026\n",
+            "Last Lines": "\n\u2026Now Ihesu sende vs grace \u00feat blisse for to wynneFor\n                    \u00fee loue of seint Mathewe \u00feat his soule is Inne. Amen.\n",
+            "Attributed Title": "\nVita sancti Mathei apostoli et euaungeliste (f.\n                    137v)",
+            "folio": "ff. 137v-139"
+        }
+    }
+}

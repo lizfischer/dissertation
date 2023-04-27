@@ -1,0 +1,41 @@
+{
+    "_id": 6654,
+    "_header": "Whoso wilneth to be wise and worship desireth",
+    "Note": "For texts which lack the Prologue see 6054.",
+    "Title(s)": "The ABC of Aristotle",
+    "Subjects": "alphabetic poems; precepts",
+    "Versification": "\u2014 alliteration",
+    "_description": "\u2018The ABC of Aristotle\u2019 with a Prologue in unrhyming alliterative verse",
+    "_witnesses": {
+        "BodDou384": {
+            "Note": "\nA single leaf detached from London,  British Library Harley 1304: last 11 lines\n                    only.",
+            "folio": "f. 3"
+        },
+        "CULFf548": {
+            "First Lines": "\nWho so wil to be wyceand worship desirethLette hym lorne oo\n                    letterAnd loke on a no\u00feer\u2026\n",
+            "Last Lines": "\n\u2026To wylde to wrathfull and wade not to depeffor a mesurable\n                    meyne is best for vs alle\n",
+            "Editions": "\nDowning,  Janay Young A.,\n                        ed.  \n             \u201cA Critical Edition of Cambridge University MS Ff.5.48.\u201d \n         2 vols. Diss. University of Washington, 1969: 17-18.\n",
+            "folio": "ff. 8v-9"
+        },
+        "BLHar541": {
+            "First Lines": "\nWho so wyll be wyse     and worshyp to wynne\n                    leern he on lettur and loke vpon an other\u2026\n",
+            "Last Lines": "\n\u2026W. To wyld to wrothfull & wade not to depe\n                    A mesurabull meane way is best for vs all\n",
+            "Editions": "\nF\u00f6rster,  Max. \n             \u201cDas stabreimende ABC des Aristotles.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         105 (1900): 296-310: 30 (with variants from other MSS).\n",
+            "folio": "ff. 213-213v"
+        },
+        "BLHar1304": {
+            "First Lines": "\nWo so wil be wise and worshippe desirethlett hym lerne on letter\n                    and loke on a no\u00feer\u2026\n",
+            "Last Lines": "\n\u2026Be not to venemous to vengeable ne wast not to mochefor a\n                    mesurable mene is best for vs alle\n",
+            "Note": "\nAdded to originally blank leaves at end of volume by a hand of late\n                    fifteenth or sixteenth century; 59 alliterative lines including a 10-line\n                    introduction, 21-line advice alliterating letters of the alphabet in order,\n                    7-line introduction regarding measure and 21-line advice reagrding measure, with\n                    20 short sentences of advice beginning \u2018Be not to\u2019 and following\n                    letters of the alphabet (i.e., 6054), as \u2018Be not to Amerows to auenturous ne\n                    anger not to ofte / Be not to bolde to besu ne bowrde not to brode / Be not to\n                    cursed\u2026\u2019); the last 11 lines added by a later hand of sixteenth\n                    century.",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Queene Elizabethes Achademy, etc.\nEETS\n         e.s. 8 (1869); repr. 1973: 65-7.\n",
+            "folio": "ff. 103-103v"
+        },
+        "Lam853": {
+            "First Lines": "\nWHo so wilne\u00fe to be wijs & worschip desiri\u00feLeerne he\n                    oo lettir & looke on anothirOf \u00fee a. b. c. of aristotil argue not\n                    a\u021den \u00featIt is councel for ri\u021dt manye clerkis &\n                    kny\u021dtis a \u00feousand\u2026\n",
+            "Last Lines": "\n\u2026W to wielde ne to wra\u00feful nei\u00feer waaste ne waade not to\n                    depeffor a mesurable meene is euere \u00fee beste of alle\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Babees Book, etc.\nEETS\n         o.s. 32 (1868); rev. ed.  Early English Meals and\n                Manners London: Tr\u00fcbner, 1876; repr. 1973: orig. ed. 11-12; rev. ed. 260-61.\nRust,  Martha Dana. \n             \u201c\u2018The ABC of Aristotle.\u2019\u201d \n             Medieval Literature for Children.\n         Ed. Daniel T. Kline.  New York and London: Routledge, 2003. 62\u201378. \n\n",
+            "folio": "pp. 30-32"
+        }
+    }
+}

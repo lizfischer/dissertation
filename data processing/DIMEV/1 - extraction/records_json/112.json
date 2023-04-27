@@ -1,0 +1,42 @@
+{
+    "_id": 112,
+    "_header": "A man that loveth fishing and fowling both",
+    "Author(s)": "Piers of Fulham",
+    "Subjects": "lovers, advice to; hunting; allegorical poems",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Piers of Fulham\u2019s \u2018many praty conceytis in love vnder covert termes off fysshyng and ffowlyng\u2019 \u2014 in couplets",
+    "_witnesses": {
+        "BodJam43": {
+            "First Lines": "\nA man that lovyth fyscheng & fowlyng botheofte tymes that game\n                    schall hym be lothe\u2026\n",
+            "Last Lines": "\n\u2026hys fryndes game for to leve in peesStroy not ther stewes rob\n                    not ther panters\n",
+            "Note": "\nLacks \u2018The moralyte\u2019.",
+            "Attributed Author": "\nExplysyth peers of fulham (f. 11)",
+            "Attributed Title": "\nVayn conseytes of folysche love undyr colour of fyscheng and fowlyng (f.\n                    3)",
+            "Editions": "\nHazlitt,  William Carew. \n             Remains of the Early Popular Poetry of England.\n         London: J. R. Smith, 1864-6: 2.2-15.\n",
+            "folio": "ff. 3-11"
+        },
+        "BodRawC86": {
+            "First Lines": "\nA Man that loueth fisshyng & foulyng botheOf tymes that game\n                    shall hym lothe\u2026\n",
+            "Last Lines": "\n\u2026An erbe is Called of all this RageIn oure tong Called\n                    Chilrage\n",
+            "Attributed Author": "\npyerse of ffulleham (added by later hand of the sixteenth century, f.\n                    100); Explicit Piers Of ffullam (scribe, f. 106v)",
+            "folio": "ff. 100-106"
+        },
+        "CULLl414": {
+            "First Lines": "\n[A] man \u00feat loue\u00fe fisshing & fowlyng bo\u00feeOften\n                    tymes \u00feat lif shal hym lothe\u2026\n",
+            "Last Lines": "\n\u2026His frende is game to lyue yn pesStruy no stewes stele no\n                    plays\n",
+            "Note": "\nLacks the \u2018Moralyte\u2019.",
+            "Attributed Title": "\nA Doctrine of ffisshing and foulyng (f. 173ra); Explicit res\n                    Disputandi (f. 174v)",
+            "folio": "ff. 173ra-174v"
+        },
+        "CamTCC599": {
+            "First Lines": "\n[A] Man that lovith ffisshyng and fowlyng botheOfte tyme that lyff\n                    shall hym be lotheIn See in Ryver in ponde or in pooleOff that craft\n                    thowe he knowe the scole\u2026\n",
+            "Last Lines": "\n\u2026An erbe is cause off all this RageIn oure tonge called\n                    Culrage\n",
+            "Note": "\n188 lines and 82 lines for \u2018Moralyte\u2019; 19th-century\n                    transcript by Hartshorne is Oxford,  Bodleian Library Addit. A.60 (SC 30161), ff. 1-17.",
+            "Attributed Author": "\nPiers off ffulham (ff. 240, 244v)",
+            "Attributed Title": "\nLoo worshipfull Sirs here after ffolleweth a gentylmanly Tretyse full\n                    convenyent for contemplatiff Lovers to rede and vnderstond made by a noble\n                    clerke Piers of ffulham sum tyme vssher of Venus scole whiche hath brieflye\n                    compyled many praty conceytis in love vnder covert termes off ffysshyng and\n                    ffowlyng (f. 240)",
+            "Facsimiles": "\n\nFletcher,  Bradford Y. \n             \u201cIntroduction.\u201d \n             Manuscript Trinity R.3.19. A Facsimile.\n         Norman, OK: Pilgrim, 1987. \n\nDigital Facsimile of Trinity College Cambridge MS R.3.19.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.19. \n\n",
+            "Editions": "\nHartshorne,  Charles Henry. \n             Ancient Metrical Tales.\n         London: W. Pickering, 1829: 117-33.\n",
+            "folio": "ff. 240-244v"
+        }
+    }
+}

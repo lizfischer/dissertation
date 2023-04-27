@@ -1,0 +1,31 @@
+{
+    "_id": 4644,
+    "_header": "Saint John the gospeller us tells",
+    "Note": "For other MSS see 4636; for the text in the \u2018expanded\u2019 Cycle see 4649.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Fourth Sunday in Lent in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nSAynte Ione \u00fee gospellere vs telles\u00fee gospell of to daie\n                    and spelles\u2026\n",
+            "Last Lines": "\n\u2026\u00feat may \u021de be a tale here\u00feat i will now to\n                    \u021dow lere\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 94-96"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nSeynt Ione \u00fee euangelist vs telles\u00deis day in one of his\n                    godspelles\u2026\n",
+            "Last Lines": "\n\u2026\u00deat may \u021de by a tale here\u00feat I wille telle if\n                    \u021de wille here\n",
+            "Attributed Title": "\nDominica in medio quadragesime secundum Iohannem (p. 141)",
+            "folio": "pp. 141-145"
+        },
+        "HunHM129": {
+            "First Lines": "\nSeint Ion \u00fee gospellere vs tellyth\u00fee gospell of to day\n                    and spellyth\u2026\n",
+            "Last Lines": "\n\u2026Crist lokyd hym a boute and saw\u00feat moche folk gan to hym\n                    draw\u2026\n",
+            "Note": "\nFragment of fourteen lines only, with note in Latin at end, \u2018Et\n                        cetera omnia qui sequitur require in vltimo euangelio dominicalium quia ibi\n                        debet io id quod hic erit (f. 86); Hanna records as if this appeared on\n                    f. 89.",
+            "Attributed Title": "\nDominica quarta quadragesime (f. 86)",
+            "Editions": "\nHanna,  Ralph,\n                        ed.  \n             \u201cThe Index of Middle English Verse and Huntington Library Collections: A\n                Checklist of Addenda.\u201d \n             Publications of the Bibliographical Society of America\n         74 (1980): 235-58: 251.\n",
+            "folio": "f. 86"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "_id": 2799,
+    "_header": "Jesu came out of Galilee",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel, \u2018Dominica in oct. Epiphanie: Evangelium secundum\nMattheum\u2019, in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 123vb"
+        },
+        "BLHar4196": {
+            "First Lines": "\nIhesu crist come out of galileffro nazareth his awin cete\u2026\n",
+            "Last Lines": "\n\u2026\u00dee trinite \u00feus wald apere\u00dee sacrament so till vs at lere\n",
+            "Note": "\nPreceded by Latin \u201cUEnit Ihesu crist a galilea & cetera.\u201d",
+            "Attributed Title": "\nDOminica infra octava Epiphanie Euangelium secundum Matheum (rubric, f. 31rb)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): I.268-272.\n",
+            "folio": "f. 31rb-31vb"
+        }
+    }
+}

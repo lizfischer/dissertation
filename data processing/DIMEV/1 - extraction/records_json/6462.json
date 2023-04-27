@@ -1,0 +1,21 @@
+{
+    "_id": 6462,
+    "_header": "When thine hue bloketh",
+    "Note": "Cf. 6383, 6437, 6439, 6447, 6459, 6460.",
+    "Subjects": "death, signs of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Signs of Death \u2014 eighteen lines in couplets",
+    "_witnesses": {
+        "Bod416": {
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 221.\n",
+            "folio": "f. 109"
+        },
+        "OxfJesus29": {
+            "First Lines": "\nWenne \u00fein heou bloke\u00feand \u00fei streng\u00fee\n                    woke\u00fe\u2026\n",
+            "Last Lines": "\n\u2026\u00feeonne bi\u00fe hit sone of \u00feeal so \u00feu neuer\n                    ner\n",
+            "Note": "\n12 lines only, set as two six-line stanzas of couplets.",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 221.\nMorris,  Richard,\n                        ed.  \n             An Old English Miscellany: A Bestiary, Kentish Sermons, Proverbs of\n                Alfred and Religious Poems of the Thirteenth Century.\nEETS\n         o.s. 49 (1872); repr. 1988: 101.\n\n",
+            "folio": "Part II, f. 189"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "_id": 1604,
+    "_header": "God that is mightful / Speed all rightful",
+    "Note": "Cf. 5989.",
+    "Subjects": "prayers, to God",
+    "Versification": "\u2014 two-line, three-line, four line, five-line \u2014 aa, aaa, aaaa, aaaaa",
+    "Bibliographic Ghosts": "London, British Library Egerton 3245 [olim Gurney]: includes only six lines as part of 2871.",
+    "_description": "A simple prayer in monorhyming lines; length varies",
+    "_witnesses": {
+        "BodAsh189": {
+            "Transcription": "\nGod \u00feat \u00feat [sic] ys myghtfullSpede All\n                    ryghtfullHelpe All nedefullHaue mercy ouer all synfull\n",
+            "Note": "\nFour monorhyming lines.",
+            "Editions": "\n\nBlack,  William Henry. \n             Catalogi Codicum Manuscriptorum Bibliothecae Bodleianae\u2026Pars X,\n                A\u2026Catalogue of the Manuscripts bequeathed\u2026by Elias Ashmole.\n         Oxford: Clarendon, 1845: 152.\nRobbins,  Rossell Hope. \n             \u201cPopular Prayers in Middle English Verse.\u201d \n             Modern Philology\n         36 (1939): 337-50: 338, 342-3.\n\n",
+            "folio": "f. 110"
+        },
+        "OxfCCC237": {
+            "Transcription": "\ngod allmyghtie Rewe all wylfullComfort all CarefullAnd have\n                    mercye of all synfull\n",
+            "Note": "\nThree lines; listed as separate in Ringler Jr. (1992)\nXRingler Jr.,  William A. \n             Bibliography and Index of English Verse in Manuscript\n                1501-1558.\n         London: Mansell, 1992; prepared and completed by \n                Michael\n                Rudick\n             and \n                Susan J.\n                Ringler\n            , TM\n                    477.",
+            "Editions": "\nRobbins,  Rossell Hope. \n             \u201cPopular Prayers in Middle English Verse.\u201d \n             Modern Philology\n         36 (1939): 337-50: 338, 342-3.\n",
+            "folio": "f. i"
+        },
+        "CULDd82": {
+            "Transcription": "\nLorde that ys al myghtfullespede al RightfulleHelpe al\n                    nedefullecomforte al syke and sorovfulleAnd haue mercy on al\n                    synnefulle AmenAnd for al that be quyke and deede Sey a pater noster a\n                    ave and a crede\n",
+            "Note": "\n5 lines and a couplet; follow 3429.",
+            "Editions": "\nRobbins,  Rossell Hope. \n             \u201cPopular Prayers in Middle English Verse.\u201d \n             Modern Philology\n         36 (1939): 337-50: 338, 342-3.\n",
+            "folio": "f. 6"
+        },
+        "NLWLan164": {
+            "Editions": "\n\nHistorical Manuscripts Commission, Report on Manuscripts in the Welsh\n                Language.\n         2 vols. in 7 (1898-1910) [numbered 48 in Guide]: 2.753.\n",
+            "folio": "f. 244"
+        },
+        "HunHM903": {
+            "Transcription": "\nGod almyghtfull saue al RightffullWys alle Willeffull help all\n                    NedfullGladde alle sorufull haf mercy Of alle Synnefull\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\n\nLaird,  Charlton. \n             \u201cA Fourteenth Century Scribe.\u201d \n             Modern Language Notes\n         55 (1940): 601-3: 603, n. 5.\nDutschke,  C. W. \n             Guide to Medieval and Renaissance Manuscripts in the Huntington\n                Library.\n         2 vols. San Marino, CA: Huntington Library, 1989: 1.261.\n\n",
+            "folio": "f. 139vb"
+        }
+    }
+}

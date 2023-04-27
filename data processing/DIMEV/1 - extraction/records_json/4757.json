@@ -1,0 +1,20 @@
+{
+    "_id": 4757,
+    "_header": "Saint Simon and Saint Judas",
+    "Title(s)": "\u2018Passio apostolorum Simonis et Iude\u2019",
+    "Subjects": "Simon and Jude, saints",
+    "_description": "\u2018Passio apostolorum Simonis et Iude\u2019 (version in short lines)",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 266rb"
+        },
+        "BLHar4196": {
+            "First Lines": "\nSaint Simon and saint Iudassamyn playnly gan \u00feai pas\u2026\n",
+            "Last Lines": "\n\u2026and \u00feare \u00feai lif in lastand blisall weldan god \u00feeder vs wis\n",
+            "Note": "\nEnds \u201cAMEN.\u201d",
+            "Attributed Title": "\nHic incipit passio Apostolorum Simonis Et Iude (rubric, f. 181va)",
+            "Editions": "\nHorstmann,  Carl. \n             Altenglische Legenden: Neue Folge.\n         Heilbronn: Henninger, 1881: 138-42.\n",
+            "folio": "ff. 181va-183va"
+        }
+    }
+}

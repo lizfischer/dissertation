@@ -1,0 +1,31 @@
+{
+    "_id": 3769,
+    "_header": "Now is the twelfth day I-come",
+    "Note": "For a closely-related version see 3763.",
+    "Subjects": "carols, Epiphany; five-line",
+    "Versification": "\u2014 aaabb",
+    "Macaronic": "Latin",
+    "_description": "An Epiphany carol \u2014 seventeen 5-line stanzas (aaabb), and burden: \u2018Reges de saba venient / Aurum tus myrram offerent\u2019",
+    "_witnesses": {
+        "BodEngPoete1": {
+            "First Lines": "\nNow ys \u00fee thwelthe day cum\u00fee fadyr & \u00fee son to\n                    geder is won\u2026\n",
+            "Last Lines": "\n\u2026& of owre synnys we ask remyssion& grace in\n                    heune to haue a place\n",
+            "Note": "\n14 stanzas.",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             Songs and Carols from a manuscript\u2026of the Fifteenth\n                Century.\nPercy Society\n         23. London: Richards, 1847: 46-8.\nHotten,  John Camden,\n                                (alias Joshua Sylvester). \n             A Garland of Christmas Carols, Ancient and Modern.\n         London, 1861 [listed as  \u201cSylvester\u201d  in\n            IMEV]: 9.\n\n",
+            "folio": "ff. 31v-32"
+        },
+        "CamStJohn259": {
+            "First Lines": "\nNow ys \u00fee xii day comfadyr & son to gydyr\n                    wone\u2026\n",
+            "Last Lines": "\n\u2026home \u00feei cum \u00feat ny\u021dhtfull\n                    ry\u021dht\n",
+            "Note": "\nFourteen stanzas of four lines plus bob, aaabb; lacks\n                    burden.",
+            "Editions": "\n\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 82-4; 1977, 73-4.\nJames,  Montague Rhodes,  and  G. C. Macaulay, eds.  \n             \u201cFifteenth Century Carols and Other Pieces.\u201d \n             Modern Language Review\n         8 (1913): 68-87: 77-9.\n\n",
+            "folio": "ff. 7v-9"
+        },
+        "BLSl2593": {
+            "First Lines": "\nNow is the twelthe day icomeThe fader & sone togeder arn\n                    nome\u2026\n",
+            "Last Lines": "\n\u2026Bryng vs to the blysse \u00feat is so fre In fere&\n                    send vs a good newe yere\n",
+            "Editions": "\n\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977:  82-4; 1977, 72-3.\nWright,  Thomas,\n                        ed.  \n             Songs and Carols.\nWarton Club\n         4. London: Richards, 1856: 49-53.\nFehr,  Bernhard. \n             \u201cDie Lieder des HS. Sloane 2593.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         109 (1902): 33-72: 56-8.\nRickert,  Edith,\n                        ed.  \n             Ancient English Christmas Carols.\n         London: Chatto & Windus, 1910: 112-15.\nGreene,  Richard Leighton,\n                        ed.  \n             A Selection of English Carols.\nClarendon Medieval and Tudor Series.\n         Oxford: Clarendon, 1962: 87.\n\n",
+            "folio": "ff. 17-18v"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "_id": 948,
+    "_header": "By true record of the Doctor Bede",
+    "Author(s)": "John Lydgate",
+    "Subjects": "Cambridge",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lydgate, Verses on Cambridge \u2014 fourteen rhyme royal stanzas",
+    "_witnesses": {
+        "CULMm135": {
+            "First Lines": "\nBy trew recorde of the Doctor Bedethat some tyme wrotte so mikle\n                    with his hand\u2026\n",
+            "Last Lines": "\n\u2026Five hundreth yere thirtie & eke nyneIn this matter ye\n                    gett no more of meFor which by recorde all clarks seyne the sameOf heresie Cambridge bare never blame\n",
+            "Note": "\nWritten by post-medieval hand (eighteenth-century, Thomas\n                    Baker).",
+            "Attributed Author": "\nJohannes Lidgatus (top p. 249)",
+            "Editions": "\n\nStubbs,  Charles W. \n             The Story of Cambridge.\n         London: J. M. Dent & Co., 1905: 2-3.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 652-5.\n\n",
+            "folio": "p. 249a-249v"
+        },
+        "BLHar367": {
+            "First Lines": "\nBy trewe recorde of the doctor Bedethat some tyme wrotte so myckle\n                    with his hande\u2026\n",
+            "Last Lines": "\n\u2026for which By recorde all Clerkes seyne the sameof heresie Cambridge bare never blame\n",
+            "Note": "\nWritten by the hand of John Stow, on a separate leaf tipped into the\n                    volume, once folded across the middle, with verso blank except\n                    scribbles.",
+            "folio": "f. 88ra-88rb"
+        }
+    }
+}

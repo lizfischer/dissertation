@@ -1,0 +1,15 @@
+{
+    "_id": 3826,
+    "_header": "Nunc leticia / nunc wele",
+    "Subjects": "mutability; sermons, verse in",
+    "Versification": "\u2014 five-line \u2014 abcdc",
+    "Macaronic": "Latin",
+    "_description": "Macaronic on mutability, in a Latin sermon \u2014 five short lines of which third and fifth rhyme",
+    "_witnesses": {
+        "Bod649": {
+            "Transcription": "\nnunc leticia nunc welenunc wonunc frindeuel nunc\n                    foo\n",
+            "Note": "\nWritten as prose.",
+            "folio": ""
+        }
+    }
+}

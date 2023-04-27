@@ -1,0 +1,16 @@
+{
+    "_id": 2738,
+    "_header": "It is merry in hall",
+    "Note": "Cf. Smith (1935)\nXSmith, William George. The Oxford Dictionary of English Proverbs. Oxford: Clarendon, 1935; rev. ed. 1948; Tilley (1950)\nXTilley, Morris Palmer. A Dictionary of the Proverbs in England in the 16th and 17th Centuries. Ann Arbor, MI: University of Michigan, 1950, H55; Meech (1940)\nXMeech, Sanford Brown. \u201cA Collection of Proverbs in Rawlinson MS D 328.\u201d Modern Philology 38 (1940-41): 113-32, 129.",
+    "Subjects": "proverbs; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Proverbial couplet translating \u2018Aula gaudescit &c.\u2019",
+    "_witnesses": {
+        "BodRawD328": {
+            "Transcription": "\nHyt is mery in hallwhen berdys waggyth all\n",
+            "Note": "\nTranslating \u2018Aula gaudescit cum barbula queque\n                    monescit\u2019, which follows; English portion all written on one\n                    line.",
+            "Editions": "\n\nMeech,  Sanford Brown. \n             \u201cA Collection of Proverbs in Rawlinson MS D 328.\u201d \n             Modern Philology\n         38 (1940-41): 113-32: 120.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 560.\n\n",
+            "folio": "f. 141v"
+        }
+    }
+}

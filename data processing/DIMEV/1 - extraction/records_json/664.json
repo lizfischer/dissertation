@@ -1,0 +1,24 @@
+{
+    "_id": 664,
+    "_header": "As oft as sighs been in heart true",
+    "Subjects": "complaints, lovers\u2019",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "A Lover\u2019s Plaint \u2014 thirteen 8-line stanzas with refrain, \u2018So ofte and ofter I sygh for yowre sake.\u2019",
+    "_witnesses": {
+        "BodTan346": {
+            "First Lines": "\nAs ofte as syghes ben in herte treweAnd cristall teres on dolefull\n                    chekes trill\u2026\n",
+            "Last Lines": "\n\u2026Sith I am wounded with youre yen tweynlete me no lengur\n                    sighen for youre sake\n",
+            "Facsimiles": "\nRobinson,  Pamela. \n             \u201cIntroduction.\u201d \n             Manuscript Tanner 346: A Facsimile.\n         Norman, OK: Pilgrim, and Woodbridge: Boydell and Brewer, 1980. \n",
+            "Editions": "\nMacCracken,  Henry Noble. \n             \u201cLydgatiana.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         127 (1911): 323-7: 323.\n",
+            "folio": "ff. 73-74v"
+        },
+        "CULFf16": {
+            "First Lines": "\nAs ofte as syghes ben in herte treweAnd cristall teres on dolefulle\n                    chekis tryllEke thoghtes enbrasen newe and neweThe beste of hem that\n                    wante of all her will\u2026\n",
+            "Last Lines": "\n\u2026Sith I am wounded wyth yowre yen tweynlete me no lengur\n                    sighen for yowre sake\n",
+            "Note": "\nStanza 7 only 7 lines (ababbcc); stanza 9 only 6 (ababbc).",
+            "Facsimiles": "\nBeadle,  Richard,  and  Alfred E. B. Owen.  \n             The Findern Manuscript: Cambridge University Library MS. F.1.6.\n         London: Scolar Press, 1977. \n",
+            "Editions": "\nMacCracken,  Henry Noble. \n             \u201cLydgatiana.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         127 (1911): 323-7: 323.\n",
+            "folio": "ff. 17-18v"
+        }
+    }
+}

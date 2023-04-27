@@ -1,0 +1,174 @@
+{
+    "_id": 5618,
+    "_header": "These scattering Scots",
+    "Note": "For the Langtoft version see 1384; non-source-specific editions by Weever (1631)\nXWeever, John. Ancient Funerall Monuments within the United Monarchie of Great Britaine. London: T. Harper, 1631 (STC 25223); repr. Amsterdam: Theatrum Orbis Terrarum; and NY: Walter Johnson, 1979, 458; bad key, 2.261; Wilson (1936)\nXWilson, Richard Middlewood. \u201cMore Lost Literature in Old and Middle English.\u201d Leeds Studies in English 5 (1936): 1-49, 44; Scattergood (1974)\nXScattergood, V. John. \u201cRevision in some Middle English Political Verses.\u201d Archiv f\u00fcr das Studium der neueren Sprachen und Literaturen 211 (1974): 287-99, 288.",
+    "Subjects": "chronicles, verse in; Scots, songs against; historical poems; songs, soldiers\u2019",
+    "Versification": "\u2014 six-lines \u2014 aabccb",
+    "_description": "A song of victory over the Scots inserted in the Brut Chronicles and early prose chronicles",
+    "_witnesses": {
+        "BodRawB171": {
+            "Transcription": "\nThus scaterand Scottesholde y for sottesof wrenches\n                    vnwareErly in amornyngin an euel tymingwent \u021de fro\n                    Dunbarre\n",
+            "Note": "\nWritten as prose, in rubric as a heading.",
+            "Editions": "\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 58.\n",
+            "folio": "f. 108"
+        },
+        "CULLl214": {
+            "Transcription": "\nThys scaterant scottesholde I for sottesof wrenches\n                    vnwareErly in a mornyngein a fulle evill tymyngcomme ye from\n                    donbare\n",
+            "Note": "\nIn the prose Brut, rubric, as a heading, written in\n                    prose.",
+            "folio": "f. 153v"
+        },
+        "BLAdd12030": {
+            "Transcription": "\nThesse skaterynge scottishold y for sottisand wretchis\n                    vnwareerly yn a mornyngeyn an yuyl tydyngewent \u00fee fro\n                    donbarre\n",
+            "Note": "\nWritten as tail-rhyme, not rubric.",
+            "Editions": "\nBrie,  Friedrich,\n                        ed.  \n             The Brut, or the Chronicles of England.\nEETS\n         o.s. 131 (1906), 136 (1908); repr. 1987: 191.\n",
+            "folio": "f. 110"
+        },
+        "BLAdd24859": {
+            "Transcription": "\n\u00feus scaterand Scottisholde I for sottesof wrenchis vnwareErly in a mornyngin an yuyl tymyngwente \u00feey fro Dumbarre\n",
+            "Note": "\nWritten as prose, not rubric.",
+            "folio": "f. 62v"
+        },
+        "BLAdd26746": {
+            "Transcription": "\nThis scaterande Scottisholde I for Scottisof wrenchis vnwareErly in a mornyngein a fulle euelle tymyngewente ye from Dunbar\n",
+            "Note": "\nWritten as prose, rubric.",
+            "folio": "f. 179"
+        },
+        "BlCottGalEVIII": {
+            "Transcription": "\nThesse skaterynge scottishold y for sottisand wretchis\n                    vnwareerly yn a mornyngeyn an yuyl tydyngewent \u00fee fro\n                    donbarre\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nBrie,  Friedrich,\n                        ed.  \n             The Brut, or the Chronicles of England.\nEETS\n         o.s. 131 (1906), 136 (1908); repr. 1987: 191.\n",
+            "folio": "f. 83"
+        },
+        "BLEge650": {
+            "Transcription": "\nTheis Saterand scottesI holde bot sottesAnd of \u00feaire Wrenches vnwarreffore erly in a mornyngin an evill tymemyngwent \u00feai from Dunbare\n",
+            "Note": "\nWritten as prose, rubric.",
+            "folio": "f. 38"
+        },
+        "BLHar24": {
+            "Transcription": "\nThes skatring sscottesHolde I for Sottesof wrenches vnwareErly in a mornyngIn one euyll tymyngwente they fro donbar\n",
+            "Note": "\nSet in verse lines.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 24.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_24. \n",
+            "folio": "f. 107v"
+        },
+        "BLHar53": {
+            "Transcription": "\nThe scottes holde I for sottes of wrenches vnwareVnsele dymes to dele theym drof to Dunbarre\n",
+            "Note": "\nVariant version; written as prose.",
+            "folio": "f. 114"
+        },
+        "BLHar266": {
+            "Transcription": "\nThus scaterand ScottisHolde I for sootisof wrenchis vnware;Eerly in a mornyng in an euyl tydingWent \u021de froo Dunbarre\n",
+            "Note": "\nUnderlined in red and preceded by a red paraph.",
+            "folio": "f. 7"
+        },
+        "BLHar753": {
+            "Transcription": "\nThis scateryng scottisHold I for sottisof wrenchys vnwareErly in a mornyngin an evyll tynnyngcome ye fro Donbarre\n",
+            "Note": "\nWritten as prose, rubric.",
+            "folio": "f. 96"
+        },
+        "BLHar1337": {
+            "Transcription": "\nThese scatering Scottishold I for ffottisof wrenchis vnwareThat Erly in a mornyngin an evill tymyngcom they from Dunbare\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 54v"
+        },
+        "BLHar1568": {
+            "Transcription": "\nThise scaterande scotteshalde I for sottesof wrenches vnwareErly in a MornyngIn a euyll tymyngwent \u00feei to Dunbarre\n",
+            "Note": "\nWritten as prose, rubric.",
+            "folio": "f. 91v"
+        },
+        "BLHar2182": {
+            "Transcription": "\nThese scaterande scottisholde y for sottisof wrenchis vnwareerly in a mornyngein an yuel tymingewente \u021de from dunbare\n",
+            "Note": "\nWritten as prose, rubric.",
+            "folio": "f. 91v"
+        },
+        "BLHar2248": {
+            "Transcription": "\nThis scaterande scotteshold I for Scottesof Wrenches vnwarreErly in a mornyngIn an euell tymyngWente \u021de from donbarre\n",
+            "Note": "\nWritten as prose, rubric.",
+            "folio": "f. 144v"
+        },
+        "BLHar2256": {
+            "Transcription": "\nThese skateryng skottisHolde y for sottis& wrecchis vnwarreErly in a mornyngin an yuell tidyngwente \u021de fro Dvnbare\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 90v"
+        },
+        "BLHar2279": {
+            "Transcription": "\nThus scaterand scottisHolde I for scottisof wrenches vnwarreErly in a mornyngin an euel tymyngwente \u021de fro Dunbarre\n",
+            "Note": "\nWritten as prose; second line in error repeats \u201dscottis.\u201d",
+            "folio": "f. 96v"
+        },
+        "BLHar4690": {
+            "Transcription": "\n\u00deus skyterdenne Scottezy holde hem butte Sottesoff wrenches vnwarreErly in a mornyngin an Euelle Tymyngy driuen \u021de werre ffrom Dunbarre\n",
+            "Note": "\nWritten as prose, rubric.",
+            "folio": "f. 57va"
+        },
+        "BLHar4930": {
+            "Transcription": "\nThes Skaterand Scotteshold we for Sottesof Wrenches vnwarErly in a moornyngein an euy tymewent \u00feei to Donbar\n",
+            "Note": "\nWritten as prose, rubric.",
+            "folio": "f. 75v"
+        },
+        "BLRoy17Dxxi": {
+            "Transcription": "\n\u00deus scaterand scottisholde y for sottesof wrenchis vnwarreErli in a mornyngein an evel tymyngewente ye fro dunbarre\n",
+            "Note": "\nWritten as prose, rubric.",
+            "folio": "f. 97v"
+        },
+        "BLSto68": {
+            "Transcription": "\nThus scaterand Scottisholde I for sottesof wrenches vnwareErly in a mornyngI an euel tymyngWente \u021de fro Dunbarre\n",
+            "Note": "\nWritten as prose, rubric.",
+            "folio": "f. 129v"
+        },
+        "BLSto70": {
+            "Transcription": "\nThese skateringe Scottes holde I for sottesOf wrenches vnwareThat erely in a mornyngin an evell tymyngcome \u00feei from Dunbare\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 66"
+        },
+        "BLSto71": {
+            "Transcription": "\nTheise skatering Scottysholde we for ffottysof wrenkys vnwareThat erly in a mornyngein an evyll tymeyngcome they fro Dunbare\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 51v"
+        },
+        "HarEng530": {
+            "Transcription": "\n\u00deeos skaterand skottesholde we but Sottesof wrenches vn\n                    wareEorly in a mornyngIn an yvel tymingwent \u00feee ffrome\n                    Dunbare\n",
+            "Note": "\nWritten as prose in prose Brut.",
+            "folio": "f. 130v"
+        },
+        "HarEng587": {
+            "Transcription": "\nThese scatering Scottesholde I for sottesof wrenches\n                    vnwareErly in a mornyngin a evyll tymyngwent \u00fee ffrom\n                    dunbar\n",
+            "Note": "\nIn prose Brut; written as prose.",
+            "folio": "f. 70a"
+        },
+        "HarEng766": {
+            "Transcription": "\nThese scaterand Scottisholde we ffor SottisOff wrenchis\n                    vnwareErly In a mornyngIn an Evill tymyngCam they to\n                    Dunbare\n",
+            "Note": "\nIn Fabyan\u2019s Chronicle; written as prose.",
+            "folio": "f. 124"
+        },
+        "HarRich35": {
+            "Transcription": "\nThes skateryng ScottesHolde I for sottesIn one euyl\n                    tymyngWent \u00feei from donbare\n",
+            "Note": "\nIn prose Brut; written as verse; abbreviated 4-line\n                    version.",
+            "folio": "f. 58va"
+        },
+        "HunHM113": {
+            "Transcription": "\nThese scatering skottisHold I for Sottisfor wrenchis\n                    vnwareErly in an mornyngin an euyl tymingwent \u00feey fro\n                    dunbar\n",
+            "Note": "\nIn prose Brut; written as prose, in rubric.",
+            "folio": "f. 84ra"
+        },
+        "HunHM131": {
+            "Transcription": "\nThes scateryng Scottesholde I for Sottesof wrenkes\n                    vnwareThat erely in an mornyngIn an evyll tymyngcome they fro\n                    Dunbar\n",
+            "Note": "\nIn prose Brut; written as prose, with virgules to mark line\n                    breaks.",
+            "folio": "f. 81v"
+        },
+        "HunHM136": {
+            "Transcription": "\nThus scaterand scotteshold I for Sottesof wrenches\n                    vnwarieErly yn a mornyngin an euel tymyngwent ye fro\n                    dunbarre\n",
+            "Note": "\nIn prose Brut; written as prose, with virgules to mark line\n                    breaks.",
+            "folio": "f. 78v"
+        },
+        "HunHM133": {
+            "Transcription": "\nThes scaterynge ScottesI holde ffor slottisoff wrenkis wn\n                    warreErly in a mornyngein a evil tymyngeWente \u021dee ffrome\n                    Donbare\n",
+            "Note": "\nIn prose Brut; written as prose, in rubric; last folio in volume\n                    as presently survives.",
+            "folio": "f. 110"
+        },
+        "YaleBei494": {
+            "Transcription": "\n\u00deus skyterandes Scottishalde y for sottesof wrenches\n                    vnwarreErly in a mornyngIn an euel tymyngedrif \u021de were fro\n                    Dunbare\n",
+            "Note": "\nIn prose Brut; written as prose, underlined in red.",
+            "folio": "f. 68ra"
+        }
+    }
+}

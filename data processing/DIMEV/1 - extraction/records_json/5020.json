@@ -1,0 +1,37 @@
+{
+    "_id": 5020,
+    "_header": "Spell yet I would speak if I could",
+    "Note": "For other versions see 1275 and 3066.",
+    "Title(s)": "Cursor Mundi",
+    "Subjects": "dialogues; Virgin Mary, as speaker in debate; Bernard of Clairveaux, saint; Passion",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "Dialogue between the Virgin Mary and St. Bernard on the Passion (incorporated in the Cursor Mundi \u2014 in 104 6-line stanzas preceded by a six-couplet introduction",
+    "_witnesses": {
+        "BodFair14": {
+            "First Lines": "\nFaine walde I speke if I cou\u00feeWare ani mir\u00feis in my\n                    mou\u00fe\u2026\n",
+            "Last Lines": "\n\u2026\u00deat we mai finde hir sone our frendeto toure quen we sal\n                    turne\n",
+            "Attributed Title": "\nCompassioun of our lauedi for \u00fee passioun of hir sone (f.\n                        102ra)",
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 7.1368-1417.\n",
+            "folio": "ff. 102ra-106ra"
+        },
+        "BLCottVesAIII": {
+            "First Lines": "\n[S]pell yeit i wald speke if i cuthWar ani mirthes in mi\n                    muth\u2026\n",
+            "Last Lines": "\n\u2026\u00deat we mai find hir sun for frendTo ture quen we sal\n                    turn. Amen\n",
+            "Note": "\nSpace was left for enlarged initial \u2018S\u2019, which was left\n                    blank.",
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 7.1368-1417.\n",
+            "folio": "ff. 134ra-138rb"
+        },
+        "EDCPCM": {
+            "First Lines": "\n[S]pel yet I wald spek if I cu\u00feeWar ani mir\u00feis in mi\n                    mu\u00fee\u2026\n",
+            "Last Lines": "\n\u2026\u00deat we mai find hir son frendTo care quen we sal\n                    turne\n",
+            "Editions": "\n\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 7.1368-1417.\nSmall,  John,\n                        ed.  \n             English Metrical Homilies\u2026.\n         Edinburgh: W. Paterson, 1862: xiv (first and last stanzas only).\n\n",
+            "folio": "ff. 10rb-14rb"
+        },
+        "GottingenTheo107": {
+            "First Lines": "\nspell \u021deit wold i if i cuthwar ani mirthes in mi muthfor\n                    mekil I haue to moteOf bale to breu sum bote\u2026\n",
+            "Last Lines": "\n\u2026\u00deat we mai find hir sun us freindTo dede quen we sal\n                    turn\n",
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 7.1368-1417.\n",
+            "folio": "ff. 159-163rb"
+        }
+    }
+}

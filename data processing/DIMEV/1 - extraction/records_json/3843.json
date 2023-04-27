@@ -1,0 +1,44 @@
+{
+    "_id": 3843,
+    "_header": "O blessed Lord my Lord O Christ Jesu",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Fifteen O\u2019s of Christ\u2019",
+    "Subjects": "Christ, fifteen O\u2019s; fifteen, O\u2019s of Christ",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "Lydgate\u2019s \u2018Fifteen O\u2019s of Christ\u2019 \u2014 forty-two 8-line stanzas (ababbcbc)",
+    "_witnesses": {
+        "BodLauMis683": {
+            "First Lines": "\nO blyssed lord my lord & Cryst IhesuWelle and hed spryng of\n                    eternal swetnesse\u2026\n",
+            "Last Lines": "\n\u2026And by thy modrys meek medyacyounthe charter asselid whan\n                    \u00feu heeng on \u00fee Rood\n",
+            "Attributed Author": "\n\u2026 translatyd out of latyn in to Englyssh by damp Iohn Lydgate monk\n                    of seynt Edmundys Bury (f. 1); Explicit Quod John Lydgate (f. 8)",
+            "Attributed Title": "\nHEre begynnyth the xv Oys translatyd out of latyn in to Englyssh by damp\n                    Iohn Lydgate monk of seynt Edmundys Bury (f. 1)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 238-50.\n",
+            "folio": "ff. 1-8"
+        },
+        "BodRawC48": {
+            "First Lines": "\nO Bissid lord my lord o Ihesu cristWelle and hedspryng of eternall\n                    swetnesse\u2026\n",
+            "Last Lines": "\n\u2026And bi thi moodris meeke meditaciounThe chartir assalyd whan\n                    thow heng on \u00fee roode\n",
+            "folio": "f. 111v"
+        },
+        "CamJes56": {
+            "First Lines": "\n[B]lissid lorde my lorde O Ihesu cristWell and hede spring of\n                    eternall swetnes\u2026\n",
+            "Last Lines": "\n\u2026And by \u00fei moders meeke mediacionThe charter asselid whan\n                    \u00feu hing on the Roode\n",
+            "Attributed Author": "\nExplicit quod Lidgate (at the end)",
+            "Attributed Title": "\nIncipit quindecim OO (f. 65v); O Ihesu criste eterna\n                        dulcedo te (left margin, f. 65v)",
+            "folio": "ff. 65v-70v"
+        },
+        "BLAdd29729": {
+            "First Lines": "\n\u2026Ihesu called a lylye and Oooure lyfe oure vertue supporte yn\n                    owr nedethynke & recorde & remembre alsoffrom hede to fote\n                    howe\u00feu didest blede\u2026\n",
+            "Last Lines": "\n\u2026& by thy moder ys meditacion\u00fee charyte enseled whan\n                    \u00feu hanged on \u00fee rode\n",
+            "Note": "\nBegins imperfectly at stanza 31.",
+            "Attributed Author": "\nlidgate (f. 288)",
+            "Attributed Title": "\nHere endythe \u00fee fyftene ooes drawen oute of engelishe latyn\n                    vnto engelishe by lidgate (f. 288).",
+            "folio": "ff. 287-288"
+        },
+        "BLHar2255": {
+            "First Lines": "\nO Blyssid lord my lord O crist ihuWelle and hedspryng of eternal\n                    swetnesse\u2026\n",
+            "Last Lines": "\n\u2026Graunt of my synnes ful remyssiounWhich for our sake starff\n                    vpon the Rood\n",
+            "folio": "ff. 104-105"
+        }
+    }
+}

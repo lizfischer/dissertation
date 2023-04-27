@@ -1,0 +1,72 @@
+{
+    "_id": 4673,
+    "_header": "Saint Luke tells that Christ himself",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Quinquagesima Sunday in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nSAynte luke tellis vs \u00feat criste him selueToke to him his\n                    dissiples twelue\u2026\n",
+            "Last Lines": "\n\u2026Of swilk prayers ihesus ne kepes\u00feaire lippis spekis\n                    & \u00fee hert slepes\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 59v-61v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Luc sei\u00fe \u00feat crist him selueTok to hym his diciples\n                    twelue\u2026\n",
+            "Last Lines": "\n\u2026Of such preyere Ihesu ne kepes\u00deat lippes gon and herte\n                    slepes\n",
+            "Attributed Title": "\nAssumpsit Ihesu xij discipulos suos & ait illis (f.\n                        180rb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 180rb-180vb"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nSeynt Luk vs telles \u00feat crist him selfToke til him his\n                    disciples tuelfe\u2026\n",
+            "Last Lines": "\n\u2026Of swilk prayere crist noght kepesyore lippes gose and\n                    \u00fee herte slepes\n",
+            "Attributed Title": "\nDominica in Septuagesima secundum Mathium (p. 110)",
+            "folio": "pp. 110-114"
+        },
+        "CULDd11": {
+            "First Lines": "\nSEynt luke seyth \u00feat crist hym seluetoke to him his disciplis\n                    twelue\u2026\n",
+            "Last Lines": "\n\u2026Of swich preyere ihesu ne kepis\u00feat lippes gom &\n                    herte slepis\n",
+            "Attributed Title": "\nDominica in quinquagesima Euangelius secundum Lucam capitulo\n                            xviiio\n(f. 87)",
+            "folio": "ff. 87-88v"
+        },
+        "CULGg531": {
+            "First Lines": "\nSant luke telles \u00feat crist hym selfeTuke to hym hys discipls\n                    twefe\u2026\n",
+            "Last Lines": "\n\u2026Of swylk a prayer ihesu ne kepes\u00feare lyppes gase\n                    \u00feaire her slepes\n",
+            "Attributed Title": "\nDominica quinquagesime secundum lucam (f. 59)",
+            "folio": "ff. 59-61"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nSaint luke telles \u00feat cryste hyselfTuke to hym his dysciples\n                    twelfe\u2026\n",
+            "Last Lines": "\n\u2026Of swilk a prayer ihesu ne kepysThayr lyppes gays \u00feair\n                    hert slepys\n",
+            "folio": "ff. 58v-60v"
+        },
+        "BLCottTibEVII": {
+            "folio": "f. 136rb"
+        },
+        "BLHar4196": {
+            "First Lines": "\nOure godspell sais how crist him selueToke to him desciples twelue\u2026\n",
+            "Last Lines": "\n\u2026Slike prayers may no thing auayleBot wasted es all swilk trauayle\n",
+            "Note": "\nPreceded by Latin, \u201cAssumsit ihesu crist xii discipulos suos.\u201d",
+            "Attributed Title": "\nDominica in quinquagesima Secundum Lucam (rubric, f. 40va)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): II.23-28.\n",
+            "folio": "ff. 40va-41rb"
+        },
+        "Lam260": {
+            "folio": "f. 22rb"
+        },
+        "MinULZ822": {
+            "First Lines": "\nSaynte luke tels \u00feat criste hym selfetuke till hym hys\n                    disciples twelfe\u2026\n",
+            "Last Lines": "\n\u2026of swylk prayer ihesus ne kepes\u00feare lyppys gasse &\n                    \u00fee herte slepes\n",
+            "Attributed Title": "\nDominica in quinquagessima Secundum Lucam (f. 34)",
+            "folio": "ff. 34-36"
+        },
+        "HunHM129": {
+            "First Lines": "\nSeint Luc seyth \u00feat crist hym selueTok to hym his dysciplis\n                    tweluie\u2026\n",
+            "Last Lines": "\n\u2026Off suche pryer god noght kepyth\u00feat lyppis goth and hert\n                    slepyth\n",
+            "Attributed Title": "\nDominica in quinquagesima (f. 53v)",
+            "folio": "ff. 53v-56"
+        }
+    }
+}

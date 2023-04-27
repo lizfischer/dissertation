@@ -1,0 +1,16 @@
+{
+    "_id": 6721,
+    "_header": "With eggs and flour a batter thou make",
+    "Note": "Cf. 1420, 3799, 5104, 5106.",
+    "Subjects": "recipes, culinary",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A recipe \u2018for fryturs\u2019 \u2014 seven lines in couplets from the Liber Cure Cocorum",
+    "_witnesses": {
+        "CamMagPep1047": {
+            "First Lines": "\nWith egges and flowre a batour thow makePut barme ther to I vnder\n                    take\u2026\n",
+            "Last Lines": "\n\u2026ffry ham in swete grece no more I mynCast sugur ther to yf\n                    thow be gynne\n",
+            "Facsimiles": "\nHodgett,  G. A. J.,\n                        ed.  \n             Stere Htt Well: a book of medieval refinements, recipes and remedies,\n                from a manuscript in Samuel Pepys\u2019s library.\n         Adelaide: Mary Martin Books, [1970?]; Cambridge, 1972. \n",
+            "folio": "f. 16"
+        }
+    }
+}

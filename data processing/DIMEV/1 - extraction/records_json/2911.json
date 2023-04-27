@@ -1,0 +1,17 @@
+{
+    "_id": 2911,
+    "_header": "Jesu that died upon the rood",
+    "Title(s)": "Life of St. Thomas of Canterbury",
+    "Subjects": "Thomas of Canterbury, saint, life of; saints\u2019 lives",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "Life of St. Thomas of Canterbury \u2014 in quatrains",
+    "_witnesses": {
+        "BodRawPoe225": {
+            "First Lines": "\nHe \u00feat died on \u00fee rode & sithin res up fro deth to\n                    lyf\u2026\n",
+            "Last Lines": "\n\u2026Graunte vs alle \u00fei blysse aboven & brynge vs to\n                    \u00fein kyng dome\n",
+            "Attributed Title": "\nAssit principio sancta maria meo Hic incipit uita sancti Thome martyris\n                        archiepiscopi Cantuariensis (f. 53)",
+            "Editions": "\nBrown,  Paul Alonzo. \n             The Development of the Legend of Thomas Becket.\n         Philadelphia: University of Pennsylvania, 1930: 262-8.\n",
+            "folio": "ff. 53-84;  93rb-94v"
+        }
+    }
+}

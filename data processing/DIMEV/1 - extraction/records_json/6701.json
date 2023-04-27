@@ -1,0 +1,34 @@
+{
+    "_id": 6701,
+    "_header": "Wisdom is more of price than gold in coffers",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "Isopes Fabules",
+    "Subjects": "fables; translations; envoys",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lydgate, Isopes Fabules \u2014 seven fables, in rhyme royal",
+    "_witnesses": {
+        "BodAsh59": {
+            "Note": "\nFour stanzas of Fable VII.",
+            "Editions": "\nZupitza,  Julius. \n             \u201cZu Lydgates Isopus.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         85 (1890): 1-28: 24-5.\n",
+            "folio": "f. 24v"
+        },
+        "CamTCC599": {
+            "First Lines": "\nWisdom ys more in prise \u00feen gold in cofersTo hem \u00feat haue\n                    sauour in lectrureOlde examples of prudent philolophersMoche auaylyd\n                    to folke \u00feat dyd her cure\u2026\n",
+            "Last Lines": "\n\u2026lyke as the hownd not content withe one chesedesyryd tweyne\n                    bothe he dyd lese\n",
+            "Note": "\nSix fables only: four on ff. 12ra-16; two added by Stow on\n                    ff. 235-237.",
+            "Attributed Author": "\nJohn Lydgat (f. 235); Isopus \u00fee Philosopher (f. 12ra,\n                        14va, 15vb)",
+            "Attributed Title": "\nThe Tale of the Cok that founde a precyous syone groundyd by Isopus the\n                    Phylosopher of Rome that yche man shuld take in gree suche as god sent (f.\n                        12ra); The tale of the ffrogge and \u00fee mowse foundyd by\n                    Isopus \u00fee Philosophor groundyd ayenst deceyte (f. 14va); The\n                    tale of \u00fee Hownde and the Shepe groundyd ayen periurs & false wytnes\n                    founde by Isopus (f. 15vb); Thys ffable is of \u00fee hound that bare\n                    the chese gronddyd on Isopus a gaynst covetousnes & translatyd by John\n                    Lydgat [with added \u2018made in Oxforde\u2019] (f. 235)",
+            "Facsimiles": "\n\nFletcher,  Bradford Y. \n             \u201cIntroduction.\u201d \n             Manuscript Trinity R.3.19. A Facsimile.\n         Norman, OK: Pilgrim, 1987. \n\nDigital Facsimile of Trinity College Cambridge MS R.3.19.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.19. \n\n",
+            "Editions": "\nZupitza,  Julius. \n             \u201cZu Lydgates Isopus.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         85 (1890): 1-28: 6-24.\n",
+            "folio": "ff. 12ra-16;  235-237"
+        },
+        "BLHar2251": {
+            "First Lines": "\nWysdom is more of pris than gold in cofresTo theym that have savour\n                    in letture\u2026\n",
+            "Last Lines": "\n\u2026Like as the hownd nat content with oo cheseBut desired tweyne\n                    and both he dide leese\n",
+            "Note": "\nFour stanzas of Fable VII.",
+            "Attributed Title": "\nIsopes ffabules (f. 257, margin)",
+            "Editions": "\n\nSauerstein,  Paul. \n             Lydgate\u2019s \u00c6sop\u00fcbersetzung.\n         Halle: Ehrhardt Karras, 1885: 41-64.\nSauerstein,  Paul. \n             \u201cLydgate\u2019s \u00c6sop\u00fcbersetzung.\u201d \n             Anglia\n         9 (1886): 1-24: 1-24.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 566 (959 lines, composite text).\n\n",
+            "folio": "f. 257-270v"
+        }
+    }
+}

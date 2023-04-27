@@ -1,0 +1,26 @@
+{
+    "_id": 4924,
+    "_header": "Sitting on this see / Justice look thow steadfast be",
+    "Note": "Formerly 1811.",
+    "Author(s)": "John Trevisa",
+    "Title(s)": "Polychronicon",
+    "Subjects": "judges, advice to; advice, to judges",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Advice to justices to be steadfast, from Trevisa\u2019s Polychronicon (Book III, chapter 8) \u2014 four couplets",
+    "_witnesses": {
+        "BLAdd24194": {
+            "First Lines": "\nSittynge on \u00feis seeJustice lok \u00feu stedefast be\u2026\n",
+            "Last Lines": "\n\u2026\u00feu sittest \u021ditsone \u00feerforere fader y sitte\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 108vb"
+        },
+        "BLHar1900": {
+            "folio": "f. 126v"
+        },
+        "HunHM28561": {
+            "Transcription": "\nSitting on \u00feis seeIustice loke \u00feou stedfaste bekepe\n                    honde and yeresfrom yifte and from mennys praiersTake lanterne\n                    laweli\u021dt vnder skynne to drawe\u00deou sittest yettsone\n                    \u00feere for fader y sette\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 127rb"
+        }
+    }
+}

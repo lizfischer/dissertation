@@ -1,0 +1,47 @@
+{
+    "_id": 6726,
+    "_header": "With four horse all snow white",
+    "Author(s)": "Ovid",
+    "Subjects": "chronicles, verse in",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A couplet from Ovid, Ars amatoria i.114, in Trevisa\u2019s translation of Higden\u2019s Polychronicon (Book 1, chap. 25).",
+    "_witnesses": {
+        "CamStJohn204": {
+            "Editions": "\n\nBabington,  Churchill,  and  Joseph Rawson Lumby, eds.  \n             Polychronicon Ranulphi Higden Monachi Cestrensis.\n             9 vols. \n             Rolls Series\n         41 (1865-66; repr. Kraus, 1964): 1.239.\nM\u00e4tzner,  Edouard Adolf Ferdinand. \n             Altenglische Sprachproben, I: Poesie.\n         Berlin: Wiedmann, 1867: 2.368.\n\n",
+            "folio": ""
+        },
+        "BLAdd24194": {
+            "Transcription": "\nWi\u00fe foure hors al snowe whi\u021dte\u00feu schalt sire Emperoure\n                    weende\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 52vb"
+        },
+        "BLCottTibDVII": {
+            "Transcription": "\nWi\u00fe four hors al snow whyt\u00feow schalt sire Emperour\n                    wende\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 23r2"
+        },
+        "BLHar1900": {
+            "Transcription": "\nWi\u00fe foure horses alle snowe white\u00feu schalt sire Emperour\n                    wende\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 62v"
+        },
+        "BLSto65": {
+            "Transcription": "\nwith four horses all snow whytethou shalt syre Emperour wende\n                    yet amonge all this worshyp\n",
+            "Note": "\nWritten as prose. Folio number reflects the most recent\n                    foliation.",
+            "folio": "f. 17vb"
+        },
+        "AbeUL21": {
+            "Transcription": "\nWi\u00fe foure hors al snowe whi\u021dte \u00feou schaltsire\n                    Emperoure weende\n",
+            "folio": "f. 27ra"
+        },
+        "GULHun83": {
+            "folio": ""
+        },
+        "PierpontM875": {
+            "folio": ""
+        },
+        "Schoyen194": {
+            "folio": ""
+        }
+    }
+}

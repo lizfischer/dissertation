@@ -1,0 +1,445 @@
+{
+    "_id": 5573,
+    "_header": "There is at the west side of Italy",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Clerk\u2019s Tale; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; marriage; patriarchy; obedience",
+    "Versification": "\u2014 rhyme royal, seven-line \u2014 ababbcc",
+    "_description": "Geoffrey Chaucer, the Clerk\u2019s Tale of the Canterbury Tales \u20141155 lines in rhyme royal stanzas.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nTher was in the weste side of vitaylledown at the rote of Vesulus\n                    the colde\u2026\n",
+            "Last Lines": "\n\u2026be euer of chere as light as leff on lyndeand lete\n                        heim care wepe wrynge & waill\n",
+            "Attributed Title": "\n\u2026And next folwyng bigynneth his tale of Gresilde (f. 66); the clerke\n                    (RT); Here endeth the Clerke of Oxenford / his tale\u2026 (f. 66)",
+            "folio": "ff. 66-82"
+        },
+        "BodBar20": {
+            "First Lines": "\nTher is right at \u00fee west side of ItaleDoun at \u00fee rote of\n                    Vessilus \u00fee cold\u2026\n",
+            "Last Lines": "\n\u2026Beth egre as a tygre \u021dond in yndeAy clappith as a mylle\n                    I \u021dow consaile\n",
+            "Note": "\nIV.117, 541, 1147, 1170-6 omitted; 158-8 reversed; 1195-1200 follow\n                    1212.",
+            "Attributed Title": "\nHere endith \u00fee Clerkes tale of Oxenford\u2026 (f. 149); The Clerk Of\n                    Oxenford (RT)",
+            "folio": "ff. 134v-149"
+        },
+        "Bod414": {
+            "First Lines": "\n[T]here is right at west side of YtaileDoun at the root of vessulus\n                    \u00fee cold\u2026\n",
+            "Last Lines": "\n\u2026with bras that thou\u021d the kinde be feir at iyeIt wil\n                    rathir brest in two then plye\n",
+            "Note": "\nIV.1147, 1170-1212 omitted; spurious lines follow 1148,\n                    1153.",
+            "Attributed Title": "\nThe Clerk of Oxenfordis tale (f. 90)",
+            "folio": "ff. 90-102v"
+        },
+        "Bod686": {
+            "First Lines": "\nTher is at \u00fee west syde of ytailleDoun at \u00fee rote of\n                    vesulus \u00fee colde\u2026\n",
+            "Last Lines": "\n\u2026Be ay of chere as light as lefe on lyndeAnd late him care and\n                    wepe and wrynge and wayle\n",
+            "Note": "\nIV.1072-8 omitted.",
+            "Attributed Title": "\nClerke (RT)",
+            "folio": "ff. 99v-114"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nThere is at \u00fee west side of ItayllDoune at \u00fee rote of\n                    vesulus \u00fee colde\u2026\n",
+            "Last Lines": "\n\u2026Be ay of chere light as lefe on lyndeAnd late him care wepe\n                    wring and waile\n",
+            "Note": "\nIV.467 omitted; 415-16, 419+420-417+418, 459-60 reversed.",
+            "Attributed Title": "\n\u2026And next beginneth the Clerkes tale (f. 165); The Clerk (RT); Here\n                    endeth \u00fee Clerkis tale of Oxenford\u2026 (f. 178v)",
+            "folio": "ff. 165-178v"
+        },
+        "BodLauMis600": {
+            "First Lines": "\n\u2026Him \u00feonken alle and \u00feus \u00feei han an endeOf\n                    here entent and home ageyn \u00feei wende\u2026\n",
+            "Last Lines": "\n\u2026Be\u00fe egre as a tigre yonde in yndeAy clappith as a mylle\n                    I you counsaile\n",
+            "Note": "\nIV.57-187 lost; 523, 858, 1147, 1170-6 omitted; 1195-1200 follow 1212;\n                    spurious line follows 1153.",
+            "Attributed Title": "\n\u00fee clerk of Oxenford (RT); Here ende\u00fe \u00fee clerkes tale of\n                    Oxenford\u2026 (f. 125v)",
+            "folio": "ff. 111-125v"
+        },
+        "BodLauMis739": {
+            "First Lines": "\n[T]Here is at the west syde of ytaileDoun at the roote of vesulus\n                    \u00fee colde\u2026\n",
+            "Last Lines": "\n\u2026Beth egre as a tigre \u021donde in yndeAy clappeth as a mylle\n                    I \u021dou counceile\n",
+            "Note": "\nIV.66-7, 640-3, 745-6, 785-6, 1147, 1170-6 omitted; 1170-6 inserted\n                    later in margin; spurious line follows 1153; 1195-1200 follow 1212.",
+            "folio": "ff. 159v-176v"
+        },
+        "BodRawPoe141": {
+            "First Lines": "\nTher is at the west syde of ItayleDoun at the rote veuseles the\n                    colde\u2026\n",
+            "Last Lines": "\n\u2026Be ay of cher as light as lef on lyndeAnd let care wepe and\n                    wrynge and wayle\n",
+            "Attributed Title": "\nHere bigynneth the clerkes tale (f. 59); The clerk (RT)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Clerk\u2019s Tale, a Six-Text Print from 6 MSS not containing the\n                Pardoner\u2019s Tale.\nThe Chaucer Society\n         Series 1, no. 92. London: Tr\u00fcbner, 1899. \n",
+            "folio": "ff. 59-81"
+        },
+        "BodRawPoe149": {
+            "First Lines": "\nTher is right atte west side of ItaileDoune atte root of vessilus\n                    the olde\u2026\n",
+            "Last Lines": "\n\u2026Be eger as a tigre yonder in IndeAy clappyng as a myl I yow\n                    counsaile\n",
+            "Note": "\nIV.108, 117, 541, 640, 960, 1147, 1170-6 omitted; 1195-1200 follow\n                    1212.",
+            "Attributed Title": "\nhere begynnyth the Clerk of Oxenfordes / tale of good Griselde that is dede\n                    (f. 75); Clerk of Oxenford (RT)",
+            "folio": "ff. 75-83"
+        },
+        "BodRawPoe223": {
+            "First Lines": "\nTher is right at the west side of ytayleDoun at the roote of\n                    vesulus the colde\u2026\n",
+            "Last Lines": "\n\u2026Be ay of chere as li\u021dt as lief on lyndeAnd lete him care\n                    wepe wrynge and wayle\n",
+            "Attributed Title": "\n\u2026Et hic Incipit bona fabula nuncupata Grisilde de qua / dam\n                        muliere que Raro Videtur et cetera (f. 108v); Grisilde (f.\n                        108v, foot in gothic minuscule script); Grisilde (RT); Here\n                    endith the tale of the Clerk of Oxenford and his good song\u2026 (f.\n                    125)",
+            "folio": "ff. 109-125"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nTher is at the weste syde of ItailleDoun at \u00fee root of vesulus\n                    the colde\u2026\n",
+            "Last Lines": "\n\u2026Be ay of chere as light as leef on lyndeAnd late hym care and\n                    wepe and wrynge and waile\n",
+            "Note": "\nIV.65 inserted in margin",
+            "Attributed Title": "\nHere begynneth the tale (f. 103)",
+            "folio": "ff. 103-116"
+        },
+        "OxfCCC198": {
+            "First Lines": "\n\u2026Ne coude nought vs self deuysen howWe mighte lyue in more\n                    felicite\u2026\n",
+            "Last Lines": "\n\u2026lest chychevache \u021dow swolwe in hire entrayleffolwe\u00fe\n                    herto and holde\u00fe no scilence\u2026\n",
+            "Note": "\nIV.57-107; 1190-212 lost; 117, 143, 173, 381-2, 767, 905 omitted; 163-4,\n                    459-60, 906-7 reversed; spurious lines folow 383, 768, 908.",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "f. 130-144v"
+        },
+        "OxfNew314": {
+            "First Lines": "\nTher was in \u00fee west side of ItaileDoun at \u00fee Rote of\n                    vessulus \u00fee colde\u2026\n",
+            "Last Lines": "\n\u2026Be ay of chere as li\u021dt as leef on lyndeAnd leet hym care\n                    wepe wrynge and wail\n",
+            "Note": "\nIV.455, 702, 997-8 omitted.",
+            "Attributed Title": "\nHere begynnyth \u00fee clerkis tale of Oxenforde (f. 131); Clerk of\n                    Oxenforde (RT)",
+            "folio": "ff. 131v-148v"
+        },
+        "OxfTri49": {
+            "First Lines": "\nTEr is at the weste side of Ytaile\n                    Ytaliedovne at the rote of Vesulus the colde\u2026\n",
+            "Last Lines": "\n\u2026bith egre as a Tigre yondre in yndeay clappith as a Mille I\n                    you counsaile\n",
+            "Note": "\nIV.574, 731-2, 901, 1147, 1170-6, 1209-10 omitted; 1195-200 follow 1212;\n                    spurious line follows 1153.",
+            "Attributed Title": "\nIncipit ffabula (f. 107v); Gresilde (RT)",
+            "folio": "ff. 107v-123v"
+        },
+        "CULDd424": {
+            "First Lines": "\nThere is right at the west side of YtailleDoun at te rote of\n                    vesulus the coldee\u2026\n",
+            "Last Lines": "\n\u2026Be ay of chere as light as lef on lyndeAnd late him care wepe\n                    wrynge and waille\n",
+            "Note": "\nIV.59-60 reversed.",
+            "Attributed Title": "\n\u2026et incipit fabula Clerici de Oxonia (f. 93)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 93-105v"
+        },
+        "CULGg427": {
+            "First Lines": "\n\u2026Bowith \u021doure nekke vndyr \u00fee blysful \u021dokOf\n                    souereynte & not of seruyse\u2026\n",
+            "Last Lines": "\n\u2026Be ay of chre as lyght as lef on lyndeAnd late\n                    hym care & wepe & wrynge & wayle\n",
+            "Note": "\nIV.57-112 lost; 155-61 and 162-8 reversed.",
+            "Attributed Title": "\nHeere hath the clerk of Oxenforde ended his tale (f.\n                    259v)",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "Editions": "\nFurnivall,  Frederick James. \n             The Cambridge MS (University Library, Gg.4.27) of Chaucer\u2019s\n                Canterbury Tales.\nChaucer Society\n         Series 1, nos. 4, 10, 17, 28, 33, 40, 52, 66. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 244-259v"
+        },
+        "CULIi326": {
+            "First Lines": "\nTHere was in the weste syde of YtalyeDoun at the rote of vesulus\n                    the colde\u2026\n",
+            "Last Lines": "\n\u2026Be Egre as a tigre yonder in yndeAye clappyng as a mylne I\n                    you counsaile\n",
+            "Note": "\nIV.172, 1170-6 omitted; spurious lines follow 173, 774; blank line left\n                    at 238; 1195-200 follow 1212.",
+            "Attributed Title": "\n\u2026And here begynneth his tale (f. 136v); The Clerke of\n                    Oxinforde (RT); Here endith the clerkes tale of Oxenford\u2026 (f.\n                    150)",
+            "folio": "ff. 136v-150"
+        },
+        "CULMm25": {
+            "First Lines": "\nTher is at \u00fee weste side of ytalieDoun at \u00fee rote of\n                    vesulus \u00fee colde\u2026\n",
+            "Last Lines": "\n\u2026Beth egre as a tigre \u021donde in yndeAy clappith as a Mill\n                    I \u021dowe conseill\n",
+            "Note": "\nIV.588, 1009-15, 1147, 1170-6 omitted; spurious lines follow 1148, 1153;\n                    1195-200 follow 1212.",
+            "Attributed Title": "\n\u2026and here begynneth \u00fee tale (f. 139v); \u00fee clerke\n                    of oxenforde (RT); Explicit fabula Griseldis\u2026 (f.\n                    153v)",
+            "folio": "ff. 139v-153v"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[T]Here ys ryght at \u00fee west syde of ItayleDoun at \u00fee Rote\n                    of wessylus \u00fee colde\u2026\n",
+            "Last Lines": "\n\u2026Beth eger as a tyger yonder in IndeAy clappeth as a mylle y\n                    you ounsaylee\n",
+            "Note": "\nIV.85-112, 127-33, 155-61, 225-31, 428-41, 960, 1069, 1100-6, 1147,\n                    1156-62, 1170-6 omitted; 81-2 reversed; spurious lines follow 1071, 1148; 541\n                    left blank; 1195-200 follow 1212.",
+            "Attributed Title": "\nThe clerk of Oxenford tale (f. 160v); Here endeth the tale of\n                    Griseld (f. 176)",
+            "folio": "ff. 160v-176"
+        },
+        "CamTCC582": {
+            "First Lines": "\nTher is right at the west side of ItaillDoun at the rote of Vesulus\n                    the colde\u2026\n",
+            "Last Lines": "\n\u2026Be ay of chiere as li\u021dt as lef on lyndeAnd late him care\n                    wepe wringe and wayle\n",
+            "Note": "\nIV.548, 758-9 omitted; 263-4, 459-60 reversed.",
+            "Attributed Title": "\n\u2026with his tale folwing / of Grysilde (f. 45vb)",
+            "folio": "ff. 46ra-53vb"
+        },
+        "CamTCC595": {
+            "First Lines": "\nThere was in the west side of ItaileDone at the rote of Vessulus\n                    the colde\u2026\n",
+            "Last Lines": "\n\u2026Be egir as a tigir and in mynde mervaileAy clappynge as a\n                    mylle I you counseille\n",
+            "Note": "\nIV.171-2, 287, 935, 1147, 1170-6, 1189-91 omitted; 453-4, 707-6\n                    reversed; spurious lines follow 774, 1148, 1188; 1195-200 follow 1212 with the\n                    order 1206, 1211, 1208, 1210, 1207, 1209, 1212.",
+            "Attributed Title": "\nHere endeth the Clerke of Oxenfordes tale\u2026 (f. 177, rubric)",
+            "folio": "f. 157v-177"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nTHer is at the west side of ytaylyedoun at the root of vesulus the\n                    colde\u2026\n",
+            "Last Lines": "\n\u2026be ay of cheer as lyht as lef on lyndeand lat him care and\n                    weepe and wryng and wayle\n",
+            "Note": "\nIV. 1050-6 omitted; 459-60 reversed.",
+            "Attributed Title": "\n\u2026& Incipit fabula eiusdem (f. 129); Clerk of Oxenford\n                    (RT); Explicit vita Grisildis\u2026 (f. 149v)",
+            "folio": "ff. 129-149v"
+        },
+        "BLAdd25718": {
+            "First Lines": "\nTHer is at the weste side of ytaillA lusti playn habundaunt of\n                    vitaillDoun at the rote of vesulus the colde\u2026\n",
+            "Last Lines": "\n\u2026Theigh hit wer rude and som del to rentBut with glad chere to\n                    the gate is went\u2026\n",
+            "Note": "\nIV.1014-1212 lost; 117, 287, 416-18, 452, 495-6, 642-3, 685-6 omitted;\n                    58-9, 459-60 reversed.",
+            "Attributed Title": "\n\u2026Incipit fabula (f. 64v); Grysyldis (RT)",
+            "folio": "ff. 64v-79v"
+        },
+        "BLAdd35286": {
+            "First Lines": "\nTher is ryght at the west syde of ytailleDoun atte rote of vesulus\n                    the colde\u2026\n",
+            "Last Lines": "\n\u2026Be ay of cheer as lyght as leue on lyndeAnd lat him care and\n                    wepe and wrynge and waille\n",
+            "Note": "\nIV.459-60 reversed.",
+            "Attributed Title": "\n\u2026here bigynneth the Clerkes tale of Oxenforde (f. 90v);\n                    the Clerk (RT)",
+            "Editions": "\nHorobin,  Simon. \n             \u201cA Transcription and Study of British Library MS Additional 35286 of\n                Chaucer\u2019s Canterbury Tales.\u201d \n         Diss. Univ. of Sheffield, 1997. \n",
+            "folio": "ff. 90v-107v"
+        },
+        "BLEge2726": {
+            "First Lines": "\nTher is at the west side of YtaillDoun at the Rote of Vesulus\n                    \u00fee cold\u2026\n",
+            "Last Lines": "\n\u2026Be ay of chere as light as leef on lyndAnd let hym care wepe\n                    wryng and waill\n",
+            "Note": "\nIV.459-60 reversed.",
+            "Attributed Title": "\n\u2026& incipit fabula eiusdem (f. 108v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 108v-123"
+        },
+        "BLEge2863": {
+            "First Lines": "\n\u2026I dar \u00fee better aske of \u021dow a spaceOf audience to\n                    schewen oure requeste\u2026\n",
+            "Last Lines": "\n\u2026In alla toun fynde Grisildes oon or twoffor if \u00feei were\n                    putte in suche assaies\u2026\n",
+            "Note": "\nIV.57-102, 255-406, 711-86, 1167-1212 lost; 1147 omitted; spurious lines\n                    follow 1148, 1153.",
+            "Attributed Title": "\nThe Clerk (RT)",
+            "folio": "f. 104-114v"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[T]Heere is at the west side off ytayleDoun at the roote of vesulus\n                    the colde\u2026\n",
+            "Last Lines": "\n\u2026Be ay of cheer as liht as lef on lyndeAnd lat hym care and\n                    weepe and wryng and wayle\n",
+            "Note": "\nIV.1050-6, omitted; 459-60 reversed.",
+            "Attributed Title": "\n\u2026Incipit fabula eiusdam (f. 112); The Clerke of Oxynford\n                    (RT)",
+            "folio": "ff. 112-128v"
+        },
+        "BLHar1239": {
+            "First Lines": "\nTher ys right at \u00fee west syde of ytalydown at \u00fee rote of\n                    vesulus \u00fee colde\u2026\n",
+            "Last Lines": "\n\u2026Bey Ay of chere as lyght as leff on lyndeAnd let hym wepe\n                    & care & wryng & wayle\n",
+            "Note": "\nIV.149, 158, 266, 380, 943, 1104 omitted; 381-2 reversed.",
+            "Attributed Title": "\nHere endyth \u00fee clarkys tale of Oxenforth (f. 101)",
+            "folio": "ff. 91-101"
+        },
+        "BLHar1758": {
+            "First Lines": "\nTHer is at the west side of ItaileDoun at the rote of Vesulus the\n                    cold\u2026\n",
+            "Last Lines": "\n\u2026Beth egre as a Tygre yond in yndeAy clappith as a mille I you\n                    counsaile\n",
+            "Note": "\nIV.1147, 1170-6 omitted; 1195-200 follow 1212; spurious lines follow\n                    1148, 1153.",
+            "Attributed Title": "\n\u2026& begynneth the Tale (f. 114v); The clerke of\n                    Oxenford (RT); Here endith the clerke of Oxenford (f. 126v)",
+            "folio": "ff. 114v-126v"
+        },
+        "BLHar7333": {
+            "First Lines": "\nTher was in the west syde of ItaileDoune at the rote of vesulus\n                    \u00fee colde\u2026\n",
+            "Last Lines": "\n\u2026Be ay of Cher as ly\u021dt as lefe on lyndeAnd lete him care\n                    wepe wrynge and waile\n",
+            "Note": "\nIV.677-8, 997-8, 1009-15, 1020, 1097 omitted.",
+            "Attributed Title": "\nHere begynnith the clerke of / Oxinforthe his tale (f. 77rb,\n                    rubric); Here Endithe the clerke of oxinfor\u00fee / his tale (f.\n                        82va, rubric)",
+            "folio": "f. 77rb-82va"
+        },
+        "BLHar7334": {
+            "First Lines": "\nTher is at \u00fee west ende of ytaileDoun at \u00fee root of\n                    vesulus \u00fee colde\u2026\n",
+            "Last Lines": "\n\u2026Bey ay of chier as light as lef on lyndeAnd let hem care and\n                    wepe and wryng and wayle\n",
+            "Attributed Title": "\n\u2026Incipit narrare (f. 117); \u2026Incipit narrare (f.\n                    117, margin, in scribe\u2019s informal hand); The Clerkes Tale (RT);\n                        Explicit\u2026 (f. 132v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "ff. 117-132v"
+        },
+        "BLHar7335": {
+            "First Lines": "\n[T]Heer is right at \u00fee west side of ytailleDoun atte Rote of\n                    vesulus the colde\u2026\n",
+            "Last Lines": "\n\u2026O many tere and many a pitous faceDoun ran of hem that\n                    stonden here biside\u2026\n",
+            "Note": "\nIV.230-365, 7688-901, 1106-1212 lost; 174 inserted in\n                    margin.",
+            "Attributed Title": "\nIncipit ffabula clerici / Oxon (f. 100, margin); The Clarke of\n                    Oxenforde tale (f. 100, added later)",
+            "folio": "ff. 100-111v"
+        },
+        "BLLan851": {
+            "First Lines": "\nTHer is riht att \u00fee west side of ItaileDoune att \u00fee rote\n                    of vesulus \u00fee colde\u2026\n",
+            "Last Lines": "\n\u2026By ay of chier as liht as lef on lyndeAnd late him care &\n                    wepe & wringe & wayle\n",
+            "Note": "\nIV.65, 74, 81, 117, 143, 173, 381-2, 767, 905 omitted; 173, 985 inserted\n                    in margin; 72-3, 906-7 reversed; spurious lines follow 379, 383, 768,\n                    908.",
+            "Attributed Title": "\n\u2026hic incipit fabula (f. 114); \u00fee Clerk (RT); Explicit\n                        commendacio\u2026 (f. 115)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 115-128v"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nTher is Atte the weste syde of YtayllyeDowne atte \u00fee roote of\n                    Vesulus \u00fee colde\u2026\n",
+            "Last Lines": "\n\u2026Be ay of chiere as light as lef on lyndeAnd lete hym care\n                    waile wepe and wrynge\n",
+            "Note": "\nIV.435, 1165-6 omitted; 459-60 reversed; blank line follows 1171.\n                        Clerk\u2019s Tale ends five lines from the top of f.\n                    176v, with the rest of the page left blank.",
+            "Attributed Title": "\n\u2026And begynnyth / the tale of the clerke of oxenforde (f.\n                        158v)",
+            "folio": "ff. 158v-176v"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nTher is at the west syde of ytayllDoun at \u00fee roote of Vesulus\n                    \u00fee colde\u2026\n",
+            "Last Lines": "\n\u2026Beth egre as a Tygre \u021donde in yndeAy clappeth as a mylle\n                    I \u021dou counsaile\n",
+            "Note": "\nIV.66-7, 117, 96203, 1147, 1170-6 omitted; spurious line follows 1148;\n                    1195-200 follow 1212.",
+            "Attributed Title": "\n\u2026And begynneth the tale (f. 131v); The clerke of oxenforde\n                    (RT); Here endith the Clerke of Oxenford\u2026 (f. 145v)",
+            "folio": "ff. 131v-145v"
+        },
+        "BLSl1685": {
+            "First Lines": "\nThere ys at \u00fee weste syde of ItayleDoun at \u00fee root of\n                    Vesulus \u00fee cold\u2026\n",
+            "Last Lines": "\n\u2026Bethe egre as a Tigre \u021dond in yndeAy clappeth as a Mille\n                    I you consayle\n",
+            "Note": "\nIV.603-74 lost; 87-8, 178-80, 241, 348, 381-2, 684, 1130-2, 1147, 1170-6\n                    omitted; spurious lines follow 1148, 1153.",
+            "Attributed Title": "\n\u2026and here be gynneth \u00fee tale (f. 130v); The Clerk Of\n                    Oxenford (RT); Here endeth \u00fee Clerke of Oxenfordes tale\u2026 (f.\n                    145)",
+            "folio": "ff. 130v-145"
+        },
+        "BLSl1686": {
+            "First Lines": "\nTHere is right at the west side of YtaileDown at the roote of\n                    Vesulus the colde\u2026\n",
+            "Last Lines": "\n\u2026Be aye of chere as light as leef of lyndeAnd late hym care\n                    & wepe & wryng and wayle\n",
+            "Note": "\nIV.65, 74, 81, 143, 381-2, 767, 905 omitted; 72-3, 459-60, 906-7\n                    reversed; spurious lines follow 380, 383, 768, 908.",
+            "Attributed Title": "\n\u2026And here gebgynnyth [sic] his tale (f.\n                        156v); [G]Risilde (RT); Here endith the Clerkys tale of\n                    Oxenford\u2026 (f. 175v)",
+            "folio": "ff. 156v-175v"
+        },
+        "NLWPen392": {
+            "First Lines": "\nTher is at the west syde of YtailleDoun at the roote of vesulus the\n                    colde\u2026\n",
+            "Last Lines": "\n\u2026Be ay of cheere as light as leef on lyndeAnd lat hym care and\n                    wepe and wrynge & wayle\n",
+            "Attributed Title": "\nHere bigynneth the tale (f. 174); The Clerk of Oxenforde (RT); Here is\n                    ended the tale of the clerk of Oxenford / Lenuoy de Chaucer (f. 190v,\n                    between IV.1176-7); Explicit (f. 191)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "ff. 174-191"
+        },
+        "Alnwick455": {
+            "First Lines": "\n\u2026Yee wote nat quod he myne own pepill dereDo that I nevir\n                    \u00feou\u021dt constreyn me\u2026\n",
+            "Last Lines": "\n\u2026Ay clapping as a myl I \u021dew consaillBut \u021dit god\n                    graunt vs grace to be goodAnd evir to have pacience in oure\n                    mode\n",
+            "Note": "\nIV.57-142 lost; 155-61, 376, 745-6, 798, 960, 999, 1009-15, 1048, 1064,\n                    1147, 1153, 1170-6 omitted; 380-1, 734-5 reversed; spurious lines follow 354,\n                    1148, 1200; 1195-200 follow 1212.",
+            "Attributed Title": "\nHere endith the tale of / the Clerk of Oxinforth of Gris[trimmed] / &\n                    of hir pacience \u2026 (f. 130, margin)",
+            "folio": "f. 117-130"
+        },
+        "GULHun197": {
+            "First Lines": "\nTHere is at the west syde of ItaileDoun at \u00fee rote of resulus\n                    the colde\u2026\n",
+            "Last Lines": "\n\u2026Beth egre as a tigre yonder in yndeAy clape ye as a mylle y\n                    yow counsaille\n",
+            "Note": "\nIV.802, 1009-15, 1170-6 omitted; 588 left blank; spurious lines follow\n                    1148, 1153; 1195-200 follow 1212.",
+            "Attributed Title": "\n\u2026And now begynneth \u00fee tale (f. 103rb); The Clerk of\n                    Oxenford (RT); Explicit fabula Griseldis\u2026 (f.\n                    110ra)",
+            "folio": "f. 103rb-110ra"
+        },
+        "Holkham667": {
+            "First Lines": "\nThere ys at the weste syde of ytailDoun at the Rote of vessilus the\n                    colde\u2026\n",
+            "Last Lines": "\n\u2026with bras that though the kinde be feire at yieIt will rather\n                    breste on two thenne plye\n",
+            "Note": "\nIV.920-1, 1051-6, 1147, 1170-1212 omitted; 542 left blank; 1135-6\n                    reversed.",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Clerk\u2019s Tale, a Six-Text Print from 6 MSS not containing the\n                Pardoner\u2019s Tale.\nThe Chaucer Society\n         Series 1, no. 92. London: Tr\u00fcbner, 1899. \n",
+            "folio": "ff. 58rb-65vb"
+        },
+        "Lichfield29": {
+            "First Lines": "\nTher is at the west side of YtaileDoun at the rote of vesulus\n                    \u00fee colde\u2026\n",
+            "Last Lines": "\n\u2026Beth egre as a tigre \u021donde in yndeAy clappeth as a mylle\n                    I \u021dow counsaile\n",
+            "Note": "\nIV.1170-6 omitted; 424-5, 459-60, 620-1 reversed; spurious lines follow\n                    1148, 1153; 1195-200 follow 1212.",
+            "Attributed Title": "\n\u2026and begynneth the tale of the / Clerk of Oxenford (f.\n                        138v); The Clerk of Oxenford (RT, rubric); Thus endeth the tale\n                    of the Clerk of Oxenford\u2026 (f. 153)",
+            "folio": "ff. 138v-153"
+        },
+        "Lincoln110": {
+            "First Lines": "\nTHere is at west side of YtaileDoun at \u00fee rote of vsulus\n                    \u00fee colde\u2026\n",
+            "Last Lines": "\n\u2026Be ay of chere as ly\u021dt as leef on lyndeAnd lete him care\n                    wepe wrynge and weile\n",
+            "Note": "\nIV.541, 1089 omitted; spurious lines follow 774.",
+            "Attributed Title": "\nThe Clerk of Oxenford (RT); Now is endid the Clerkis tale of\n                    Oxenford\u2026 (f. 137v)",
+            "folio": "ff. 122v-137v"
+        },
+        "LonPhys388": {
+            "First Lines": "\nTHer is at the west side of ItaileDoun at the Roote of Vesulus\n                    cold\u2026\n",
+            "Last Lines": "\n\u2026Beth egre as a Tigre yonde in yndeAy clappyng as a Mille I\n                    yow counsaile\n",
+            "Note": "\nIV.475-6 omitted; 1195-200 follow 1212.",
+            "Attributed Title": "\n\u2026Incipit ffabula (f. 168); Explicit fabula (f. 185,\n                    margin); Lenuoy de Chauncer (f. 185, foot); Explicit Lenuoye\n                        Chaucers\u2026 (f. 186)",
+            "folio": "ff. 168-185"
+        },
+        "RylandsEng113": {
+            "First Lines": "\n[T]her is att \u00fee west side of ItailleDoun att \u00fee rote of\n                    vesulus \u00fee colde\u2026\n",
+            "Last Lines": "\n\u2026Be ay of chere as light as leef on lyndeAnd lete hym care\n                    wepe wryng & wayle\n",
+            "Note": "\nIV.316-22 omitted; 552-3 reversed.",
+            "Attributed Title": "\n\u2026Incipit fabula eiusdem (f. 76v); ffabula\n                        Clerici oxon (f. 76v, margin); Clerk of Oxenford (RT); Hic\n                        ffabula clerici Oxonie\u2026 (f. 87)",
+            "folio": "ff. 76v-87"
+        },
+        "Petworth7": {
+            "First Lines": "\nTher is at \u00fee west side of ytayleDoune at \u00fee rote of\n                    vesulus \u00fee cold\u2026\n",
+            "Last Lines": "\n\u2026By aye of chere as li\u021dt as leef on lyndeAnd lat hym care\n                    and wepe & wryng &waile\u021ce Arche wiffes stonden at \u021dour\n                    defenceSi\u00fe \u021de bene stronge as is a grete amaileNe\n                    suffre\u00fe not \u00feat man do \u021dou offenceAnd sclendere wyves feble\n                    as in bataileBeth egre as a tygre \u021dende in yndeAy Clappe\u00fe as\n                    a mylle I \u021dou counsaile\n",
+            "Note": "\nIV.1195-200 follow 1212; spurious lines follow 1148, 1153.",
+            "Attributed Title": "\n\u2026And here bygynne\u00fe \u00fee clerk his tale (f. 160); The tale (f.\n                    160, margin); The Clerkes tale (RT); The Clerk Of Oxenford (RT)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 160-178"
+        },
+        "Austin143": {
+            "First Lines": "\nTher is at the west side of ItailleDoun at the rote of vesulus the\n                    olde\u2026\n",
+            "Last Lines": "\n\u2026Be ay of chere as light as leef on lyndeAnd let hym care wepe\n                    wrynge and waille\n",
+            "Note": "\nIV.316-22, 330-6 omitted; 754 inserted in margin; spurious line follows\n                    774.",
+            "Attributed Title": "\n\u2026Et incipit fabula eiusdem (f. 93); ffabula / Clerici\n                        Oxon (f. 93, margin); Clerke of Oxonford (RT)",
+            "folio": "ff. 93-106v"
+        },
+        "ChicagoUL564": {
+            "First Lines": "\n\u00feer is at \u00fee west syde of ytayleDoune at \u00fee rote\n                    venseles \u00fee cold\u2026\n",
+            "Last Lines": "\n\u2026Be ay of chier as lyth as leff of lyndeAnd lat hym care wepe\n                    wrynge & wayle\n",
+            "Note": "\nIV.287, 535, 642-3, 700, 1197 omitted; 459-60 reversed; spurious line\n                    follows 537.",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Clerk\u2019s Tale, a Six-Text Print from 6 MSS not containing the\n                Pardoner\u2019s Tale.\nThe Chaucer Society\n         Series 1, no. 92. London: Tr\u00fcbner, 1899. \n",
+            "folio": "ff. 42-61v"
+        },
+        "NapXIIIB29": {
+            "First Lines": "\n\u2026O noble markis youre humanyteAssurith vs and yeuith\n                    hardynesse\u2026\n",
+            "Last Lines": "\n\u2026be ay of chere as li\u021dte as lefe on lindeand lete him\n                    care and wepe wring and waile\n",
+            "Note": "\nIV.190-6, 600, 994 omitted; 548, 584 inserted in margin. On p. 146, at\n                    the end of Clerk\u2019s Tale, the scribe writes a large\n                        \u2018Explicit ffinus\u2019 followed by \u2018Hic pennam fixi\n                    penitet mi si male scripci qd mprf [a sketch of a rabbit] Ao d[omi]ni 1457 | 1 .\n                    2 . 3 . 4 . 5 . 6 . 7 . 8 . 9 . 10.\u2019 \u2018quod mprf\u2019 corresponds\n                    to the \u2018quod  More\u2019 in the margin of p. 113.",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Clerk\u2019s Tale, a Six-Text Print from 6 MSS not containing the\n                Pardoner\u2019s Tale.\nThe Chaucer Society\n         Series 1, no. 92. London: Tr\u00fcbner, 1899. \n",
+            "folio": "pp. 119-146"
+        },
+        "PierpontM249": {
+            "First Lines": "\nTher is at the west side of ytaileDon at the rote of vesulus the\n                    colde\u2026\n",
+            "Last Lines": "\n\u2026Beth egre as a tiger \u021donde and yndeAy clappeth as\n                    as mylle I you counsaile\n",
+            "Attributed Title": "\n\u2026And here bygynneth his tale & cetera (f. 137); The Clerk Of\n                    Oxenforde (RT); Thus endeth the tale of the clerk of Oxenford\u2026 (f.\n                    152)",
+            "folio": "ff. 137-152"
+        },
+        "PhilRos10841": {
+            "First Lines": "\nTher ys at \u00fee west syde of ytaleDoun at the rote of vesulus\n                    \u00fee colde\u2026\n",
+            "Last Lines": "\n\u2026Beth egre as a tygre \u021donde in yndeAy clappeth as a mylle\n                    y \u021dow consayle\n",
+            "Note": "\nIV.72, 381-2, 416-18, 1108, 1147, 1170-6 omitted; spurious lines follow\n                    1148, 1153; 1195-200 follow 1212.",
+            "Attributed Title": "\n\u2026and begynnyth \u00fee tale (f. 106v); The Clerke of\n                    Oxeforde (RT); Here endeth \u00fee clerkes tale of oxforde\u2026 (f.\n                    121)",
+            "folio": "ff. 106v-121"
+        },
+        "PUL100": {
+            "First Lines": "\nThere was in the west side of ItaileDoun atte root of vessulus the\n                    cold\u2026\n",
+            "Last Lines": "\n\u2026Be ay of chere as lighte as lefe on lyndeAnd let hym care\n                    wepe wring & waile\n",
+            "Note": "\nIV.263-331 partially lost (tear); 997-8 omitted.",
+            "Attributed Title": "\nHere begynnyth the Clerk of Oxinfordis tale (f. 106); Grisild (RT); Clerk\n                    of Oxinford (RT)",
+            "folio": "ff. 106-122"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nTher is at the west syde of ytailleDoun at the roote of vesulus the\n                    colde\u2026\n",
+            "Last Lines": "\n\u2026By ay of chiere as light as leef on lyndeAnd lat hym care\n                    & wepe and wrynge & waille\n",
+            "Attributed Title": "\nHeere bigynneth the tale of the Clerk of Oxenford (f. 88); Clerk of\n                    Oxenford (RT)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 88-102"
+        },
+        "HunHM140": {
+            "First Lines": "\nThere is right atte the west syde of ytaileDowne atte the rote of\n                    vesulus the oold\u2026\n",
+            "Last Lines": "\n\u2026Be ay of chere as light as lefe on lyndeAnd let hym care wepe\n                    wryng and wayle\n",
+            "Note": "\nIV.189-260 lost; 353, 558, 565, 817, 886, 1009-15, 1163-76 omitted;\n                    1203-9 follow the order 1203, 1205, 1207-8, 1204, 1206, 1209; 459-60 reversed.\n                    Followed without break by 1326, Chaucer\u2019s, \u2018Truth\u2019 or\n                        \u2018Balade de bon conseyl\u2019.",
+            "Facsimiles": "\n\nDigital\n                    Scriptorium: Huntington Library MS HM 144.\n         Columbia University, 1996-. \n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Clerk\u2019s Tale from the Phillipps MS 8299 and the Longleat\n                MS.\nThe Chaucer Society\n         Series 1, no. 93. London: Tr\u00fcbner, 1900.. \n",
+            "folio": "ff. 68-83v"
+        },
+        "BNangl39": {
+            "First Lines": "\nTher is at the right side of ytayledoun at the rote of vesulus\n                    \u00fee colde\u2026\n",
+            "Last Lines": "\n\u2026be ay of cheere als light as lefe on lyndeand let hym wepe\n                    and care and wryng and wayl\n",
+            "Note": "\nIV.158, 227-8, 1009-15, 1024-5 omitted; spurious lines follow 159, 226,\n                    229, 521, 731, 1027.",
+            "Attributed Title": "\n\u2026& incipit fabula eiusdem (f. 31va);\n                        Explicit fabula Clerici Oxo / nie\u2026 (f.\n                    37vb)",
+            "folio": "ff. 31va-37vb"
+        },
+        "TokyoTak22": {
+            "First Lines": "\nTher is at the west ende of ItayleDown at \u00fee rote of Vesulus\n                    the colde\u2026\n",
+            "Last Lines": "\n\u2026be of chere as lyght as leff onlyndeand let hem care wepe\n                    wrynge and wayle\n",
+            "Attributed Title": "\n\u2026Incipit narrare (f. 2); Explicit (f. 30)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Clerk\u2019s Tale, a Six-Text Print from 6 MSS not containing the\n                Pardoner\u2019s Tale.\nThe Chaucer Society\n         Series 1, no. 92. London: Tr\u00fcbner, 1899. \n",
+            "folio": "ff. 2v-30"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nThere is at the west side of ItaillDoun at the roote of vesulus the\n                    colde\u2026\n",
+            "Last Lines": "\n\u2026Be ay of chere as li\u021dt as lef on lyndeAnd lat him care\n                    wring wepe and waile\n",
+            "Note": "\nIV.1196-7 omitted; 445-6 reversed",
+            "Attributed Title": "\n\u2026Et Incipit ffabula eiusdem (f. 98v, rubric);\n                    Grisilde (RT)",
+            "folio": "ff. 99-115"
+        },
+        "TokyoTak32": {
+            "First Lines": "\n\u2026ffor yit alwey thee peple svmwhat dreddelest this Marquis\n                    wole no wyif wedde\u2026\n",
+            "Last Lines": "\n\u2026Bee ye of chere as lyght as leef on lyndeAnd late hym care\n                    and wepe and wayle\n",
+            "Note": "\nIV.57-180 lost; 1147, 1170-6 omitted; 1195-200 follow 1212; spurious\n                    lines follow 1148, 1153.",
+            "Attributed Title": "\nThe Clerk of Oxenforde (RT)",
+            "folio": "ff. 75ra-81va"
+        },
+        "Bodmer48": {
+            "First Lines": "\nThere is right at west side of itaile\u2026\n",
+            "Last Lines": "\n\u2026It wil ra\u00feir barst in two than plye\n",
+            "Note": "\nIV.1147, 1170-1212 omitted; spurious line follow 1148,\n                    1153.",
+            "Attributed Title": "\nThe prolog of the Clerkes tale of Oxford (f. 102,\n                    rubric)",
+            "Facsimiles": "\n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n",
+            "folio": "ff. 102-118"
+        },
+        "BodRawC86": {
+            "First Lines": "\nThere is ryght atte west syde of ItalieDowne at \u00fee Rote of\n                    vessillus \u00fee olde\u2026\n",
+            "Last Lines": "\n\u2026Beth egre as A tyger in your myndeAy clappyth as a mylle I\n                    you counsellBut yet god graunte vs grace to make good endeAnd bryng vs\n                    oute of euery baleAnd euer to haue pacience in oure mynde\n",
+            "Note": "\nIV.83-211, 266-316; 367-417 lost; 541, 639-40, 661, 663, 747, 786, 798,\n                    817, 999, 1026-7, 1064, 1069, 1106, 1147, omitted; 734-5 reversed; 1195-200\n                    follow 1212.",
+            "Attributed Title": "\nGrysill (f. 156v); ffinis Gryseld (f. 173v)",
+            "folio": "ff. 156v-173v"
+        },
+        "Longleat257": {
+            "First Lines": "\nThere is at the west side of ItalieDown at the roote of vesulus the\n                    cold\u2026\n",
+            "Last Lines": "\n\u2026Be egre as Tigre yondre in IndeAy clappeth as a mylln I yow\n                    counsaille\n",
+            "Note": "\nIV.380-564 lost; 1147 omitted; spurious line follows 1148; 1195-200\n                    follow 1212.",
+            "Attributed Title": "\nGrisild (RT); Explicit Grisild full of Pacience (f.\n                    89v)",
+            "folio": "ff. 77v-89v"
+        }
+    }
+}

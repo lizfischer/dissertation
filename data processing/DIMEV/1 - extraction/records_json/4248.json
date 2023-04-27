@@ -1,0 +1,37 @@
+{
+    "_id": 4248,
+    "_header": "Old and young I rede you your follies for to let",
+    "Title(s)": "The Life of St. Margaret",
+    "Subjects": "Margaret, saint, life of; saints\u2019 lives",
+    "_description": "The Life of St. Margaret (thirteenth-century version) \u2014 175 long-line couplets",
+    "_witnesses": {
+        "Bod779": {
+            "First Lines": "\nOlde & \u021donge ich rede \u021dou \u021doure folyis for to\n                    lete& leue\u00fe on crist \u00feat ha\u00fe \u021dou bou\u021dt\n                    \u021doure sinnes to bete\u2026\n",
+            "Last Lines": "\n\u2026Now bidde we here bere oure erande myd wordes mylde &\n                    swete\u00feat we note to heuene come whan we oure lif do\u00fe\n                    lete\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cNachtr\u00e4ge zu den Legenden 5: The Messengers of Death.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         79 (1887): 411-70: 411.\n",
+            "folio": "ff. 204v-208"
+        },
+        "BodRawPoe34": {
+            "First Lines": "\nOlde and yong y counceyl youyour folyes for to lete\n                    \u2026\n",
+            "Last Lines": "\n\u2026That we mowe haue the blysseThat lestyth euer moo\n",
+            "Note": "\nQui scripscit carmen sit benedictus Amen (at the\n                    end).",
+            "Attributed Title": "\nhic incipit vita Sancte Margarete virginis (f. 1)",
+            "folio": "ff. 1a-4b"
+        },
+        "CULAdd4122": {
+            "First Lines": "\nOlde and \u021dounge I \u021dou praye \u021doure folyes for to\n                    letteAnd byleue on Ihesu cryste that gaue \u021dou wytte \u021doure synnes\n                    for to betteLystenys i wylle \u021dou tellen wordys fayre and sweteThe\n                    lyfe of a mayden \u00feat hyghte margarete\u2026\n",
+            "Last Lines": "\n\u2026Ihesu cryste \u00feat was y borne of \u00fee virgyne maryefor\n                    saynte margaretes love on vs have mercye\n",
+            "folio": "ff. 6-38v"
+        },
+        "CamTCC323": {
+            "First Lines": "\nOlde ant yonge ipreit on oure folies for to lete\u00feenchet on god\n                    \u00feat yef on wit oure sunnes to bete\u2026\n",
+            "Last Lines": "\n\u2026Ihesu crist \u00feat was born of seinte mariefor seinte\n                    maregrete loue of us haue mercie\n",
+            "Note": "\n78 monorhymyng quatrains.",
+            "Editions": "\n\nHickes,  George. \n             Linguarum Veterum Septentrionalium Thesaurus Grammatico-Criticus et\n                Archaeologicus.\n         Oxford, 1705: 1.224; repr. Cockayne (1866)\nXCockayne,  Thomas Oswald. \n             Seinte Marheret\nEETS\n         o.s. 13 (1866),\n                        34-43.\nHorstmann,  Carl. \n             Altenglische Legenden: Neue Folge.\n         Heilbronn: Henninger, 1881: 489-98.\n\n",
+            "folio": "ff. 20-24"
+        },
+        "Blackburn": {
+            "folio": "f. 167"
+        }
+    }
+}

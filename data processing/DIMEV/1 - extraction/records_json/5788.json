@@ -1,0 +1,17 @@
+{
+    "_id": 5788,
+    "_header": "This world is born up by estates seven",
+    "Note": "Stanzas 3-7 appear separately in other MSS as 939; stanzas 23 to end appear separately in other MSS as 5533.",
+    "Author(s)": "John Lydgate",
+    "Subjects": "estates literature",
+    "Versification": "\u2014 eight-line, seven-line \u2014 ababbcbc, ababbcc",
+    "_description": "?John Lydgate, \u2018A Pageant of Knowledge\u2019 \u2014 thirty-nine rhyme royal and eight-line stanzas (ababbcbc)",
+    "_witnesses": {
+        "CamTCC601": {
+            "First Lines": "\nthys world ys born vp by astates seuynPrynce ordeynyd to susteyn\n                    ryghtPrestes to pray \u00fee lustyces to deme euynMarchauntes in\n                    sellyng to do trou\u00fee in weyght\u2026\n",
+            "Last Lines": "\n\u2026And er \u00feu passe hens remyssion finallTowarde \u00fee\n                    lyfe where ioy ys euerlastyng\n",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 724-34.\n",
+            "folio": "ff. 287va-289vb"
+        }
+    }
+}

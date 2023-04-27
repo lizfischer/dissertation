@@ -1,0 +1,33 @@
+{
+    "_id": 1538,
+    "_header": "Go little quire and swift thy princess dress",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 475.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "On the Nightingale as a symbol of Christ",
+    "Subjects": "nightingale; dream poems; Christ, symbols of",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lydgate, On the Nightingale as a symbol of Christ \u2014 fifty-nine rhyme royal stanzas including a dedication of six stanzas",
+    "_witnesses": {
+        "BodLatMisC66": {
+            "First Lines": "\n\u2026Meved of corage by vertew of the seasonIn pryme tens\n                    renobled yere by yere\u2026\n",
+            "Last Lines": "\n\u2026How that this brid amang hir notes gladRight of her deth a\n                    nowte of mornyng made\n",
+            "Note": "\nLacks lines 1-21; lines 50-56 follow line 112; lines 396-7\n                    reversed.",
+            "Attributed Author": "\nHumphrey Newton (f. 111)",
+            "folio": "ff. 107v-111"
+        },
+        "OxfCCC203": {
+            "First Lines": "\nGo lityll quayere And swyft thy prynses dresse[ ]\n                    humble [ ]\u2026\n",
+            "Last Lines": "\n\u2026That fro this worlde when so we schall deseuerIn yoye\n                    eternall with hym there to perseuere\n",
+            "Editions": "\n\nGlauning,  Otto,\n                        ed.  \n             Lydgate\u2019s Two Nightingale Poems.\nEETS\n         e.s. 80 (1900); repr. 1987: 2-15 (st. 1 & 2 only).\nAdams,  Robert, Hoyt N. Duggan,  Eric Eliason,  Ralph Hanna,  John Price-Wilkin,   and  Thorlac Turville-Petre, eds.  \n             The Piers Plowman Electronic Archive, Vol. 1: Oxford, Corpus Christi College, MS 201 (F).\n            \n         SEENET Series A.1  William Langland (2014). \n\n",
+            "folio": "pp. 1-21"
+        },
+        "BlCottCalAII": {
+            "First Lines": "\n\u2026Commandyng theym to here wyth tendernesseOf this your\n                    nightyngale the gostly sense\u2026\n",
+            "Last Lines": "\n\u2026That fro this worlde when so we shall deseuerIn Ioye eternall\n                    with hym ther to perseuer\n",
+            "Note": "\nStanzas 1-2 wanting, probably due to lost leaf or leaves; \u2018Amen /\n                    Explicit\u2019 by scribe after last line.",
+            "Attributed Title": "\nThe nyghtyngale (added by sixteenth-century hand, upper margin, f. 59); The\n                    nyghtynghale (by scribe as RT on verso leaves); Another poeme intitled the\n                    nightingall (f. 1, sixteenth-century list of contents)",
+            "Editions": "\nGlauning,  Otto,\n                        ed.  \n             Lydgate\u2019s Two Nightingale Poems.\nEETS\n         e.s. 80 (1900); repr. 1987: 2-15 (st. 1 & 2 from Oxford,  Corpus Christi College 203).\n",
+            "folio": "ff. 59-64"
+        }
+    }
+}

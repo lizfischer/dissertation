@@ -1,0 +1,34 @@
+{
+    "_id": 2503,
+    "_header": "In four points my will is ere I hence depart",
+    "Subjects": "death, approach of",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "The Testament of one about to die \u2014 four stanzas rhyme royal",
+    "_witnesses": {
+        "OxfBal354": {
+            "First Lines": "\nIn iiij poyntis or I hens departeReason me moveth to make as I\n                    maye\u2026\n",
+            "Last Lines": "\n\u2026Vnder whose lycense yet while I may brethVnto hevyn on high\n                    my sowle I bequethExplicit\n",
+            "Note": "\nPreceded by Latin verse which this translates: \u2018Terram terre\n                        tegat demon peccata resumat / Mundus res habiat spiritus alta\n                    petat\u2019.",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 86-7.\n",
+            "folio": "p. 4171"
+        },
+        "OxfCCC237": {
+            "First Lines": "\nIn iiij Poyntys my Wyll ys or I hens departeRe\u021don me movyth to\n                    make as I may\u2026\n",
+            "Last Lines": "\n\u2026Vndure whose lycens \u00feet whyle that I may brethVn to\n                    hevyn on hy my sowle I be quethe\n",
+            "Note": "\nAdded by a later hand of the fifteenth century, same as 3765.",
+            "folio": "f. 243"
+        },
+        "BLLan762": {
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.260-1.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 255-6.\nDavies,  Reginald Thorne. \n             Medieval English Lyrics: a critical anthology.\n         London, 1963; Evanston, IL: Northwestern UP, 1964: 287-8.\n\n",
+            "folio": "f. 3"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nIn fowre points my will er I hence departeReason me mevithe to make\n                    as I may\u2026\n",
+            "Last Lines": "\n\u2026wnder whos licence yet whill I may bretheto hevyn on hye my\n                    swete soule I byquethe\n",
+            "Note": "\nLatin enclosed in red box above first heading: \u2018terram terra\n                        tegat demon peccata resumat mundus res habeat spiritus alta petat\u2019\n                    (f. 126); five phrases from this form the rubric headings for each stanza, of\n                    which the first is \u2018Terram terra tegat\u2019 (f. 126); rubric\n                    after last line, \u2018Amen quod Robartus peet\u2019 (f. 126v), all\n                    by scribe (John Stow).",
+            "Attributed Author": "\nRobert Peet (f. 126v)",
+            "folio": "ff. 126-126v"
+        }
+    }
+}

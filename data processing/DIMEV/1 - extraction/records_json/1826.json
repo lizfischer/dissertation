@@ -1,0 +1,69 @@
+{
+    "_id": 1826,
+    "_header": "He is be-gabbed loathly / That lets of other men hethely",
+    "Note": "For the text in the \u2018expanded\u2019 Cycle see 2562.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Eleventh Sunday after Trinity, in Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nHE es begabbit laithelie \u00feat lates of o\u00feer men\n                    hetheli\u2026\n",
+            "Last Lines": "\n\u2026Als did ane ermete in alde sithe\u00feat i will tell and\n                    \u021de will lithe\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 154-155"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nHE is gabbed ful lo\u00feely\u00deat lete\u00fe of o\u00feur\n                    e\u00feely\u2026\n",
+            "Last Lines": "\n\u2026As wende an hermyte an hundret si\u00feeOf whom a tale\n                    \u021de mowe her li\u00fee\n",
+            "Attributed Title": "\nDixit Ihesu ad quosdam qui in se (f. 202rb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 202rb-202rc"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nHE es begyled ful lothli\u00feat of his bro\u00feer lates\n                    hethely\u2026\n",
+            "Last Lines": "\n\u2026Als whilome of an heremyte felleOf whome I will a tale here\n                    telle\n",
+            "Attributed Title": "\nDominica xja post festum trinitatis secundum Lucam (p.\n                    254)",
+            "folio": "pp. 254-255"
+        },
+        "CULDd11": {
+            "First Lines": "\nHE is skabbid ful lotheli\u00deat leti\u00fe of ano\u00feer\n                    skornfulli\u2026\n",
+            "Last Lines": "\n\u2026as wende an Ermyte an hundrid si\u00feeof whom a tale \u021de\n                    may here li\u00fee\n",
+            "Attributed Title": "\nDnca vndecima post festum sancte trinitatis Euangelium secundum Lucam\n                        Dixit ihesus ad quosdam qui in se confidebant & ce' (f.\n                        159v)",
+            "folio": "ff. 159v-160"
+        },
+        "CULGg531": {
+            "First Lines": "\nHe es be gabbyd lathly\u00deat lattys of o\u00feer men\n                    hethely\u2026\n",
+            "Last Lines": "\n\u2026Als dyd an hermyte in olde sytheAls I sall tell and \u021de\n                    wyll lythe\n",
+            "Attributed Title": "\n\u00deis es \u00fee gospell of \u00fee ellefyne sonunday post trinitatem\n                    (f. 107v)",
+            "folio": "ff. 107v-108v"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nHE is gabbed ful lo\u00feeli\u00deat lete\u00fe of o\u00feer\n                    e\u00feeli\u2026\n",
+            "Last Lines": "\n\u2026As wende an heremyte an hundred sy\u00feeOf whon a tale\n                    \u00fee mowe here ly\u00fee\n",
+            "Attributed Title": "\nDixit Ihesus ad quosdam qui inse confidebant (f.\n                    7rb)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 7rb"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nHe es be gabbid lathelyThat latis of o\u00feer mon\n                    hethely\u2026\n",
+            "Last Lines": "\n\u2026Als dide ane hermete in alde sitheThat I will tell and\n                    \u021de will lithe\n",
+            "folio": "ff. 116-116v"
+        },
+        "Lam260": {
+            "folio": "f. 46rb"
+        },
+        "MinULZ822": {
+            "First Lines": "\nHe es be gylde laythly\u00feat lattys of other\n                    leythly\u2026\n",
+            "Last Lines": "\n\u2026Als wende ane hermet ayndyr sytheOf wham a take here may\n                    \u021de lythe\n",
+            "Attributed Title": "\nDominica vndecima Secundum Lucam (f. 118)",
+            "folio": "ff. 118-119"
+        },
+        "HunHM129": {
+            "First Lines": "\nHe is gabbit lolyly\u00deat lattys of o\u00feir\n                    helyly\u2026\n",
+            "Last Lines": "\n\u2026As wend and hermyte andersythOff whom a tale \u021de may here\n                    lyth\n",
+            "Attributed Title": "\nDominica undecima post festum trinitatis (f.\n                    115v)",
+            "folio": "ff. 131v-132"
+        }
+    }
+}

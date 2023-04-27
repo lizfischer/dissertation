@@ -1,0 +1,56 @@
+{
+    "_id": 5551,
+    "_header": "Then shall stint that now is kid",
+    "Subjects": "sermons, verse in; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Oxford, Lincoln College Lat. 52: not in this MS; Edinburgh, Edinburgh University Library 82: not in this MS",
+    "_description": "Two couplets in the Fasciculus morum translating the Latin divisio of a sermon for the second Sunday of Advent",
+    "_witnesses": {
+        "BodLauMis213": {
+            "Transcription": "\nthen shall stynte \u00feat now is kudthen shall sein \u00feat now is\n                    hudethen shall dere \u00feat now is likudthen shal lyk \u00feat now is\n                    nyede\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 194"
+        },
+        "BodLauMis568": {
+            "Transcription": "\n\u00feu schalt stynt \u00feat now ys kudthan schal seme \u00feat now\n                    ys hudthane schal no\u00fe \u00feat now likud\u00feat schal lyke\n                    \u00feat now ny eth\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 110ra"
+        },
+        "Bod187": {
+            "Transcription": "\n\u00feanne shal stynte \u00feat now ys kyd\u00feanne shal seme\n                    \u00feat now ys hyd\u00feanne shal newe \u00feat now lykyd\u00feanne\n                    shal lyke \u00fean now [ ]\n",
+            "Note": "\nThe last word of the text is erased.",
+            "folio": "f. 210rb"
+        },
+        "Bod332": {
+            "Transcription": "\n\u00fean shal stynt \u00feat now is kid\u00fean shal seme \u00feat\n                    now is hid\u00fean shal dere \u00feat now likyth\u00fean shal like\n                    \u00feat now swikith\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 183rb"
+        },
+        "OxfCCC218": {
+            "Transcription": "\n\u00deanne schal stynte that now is kud\u00deanne schal seme that now\n                    is hud\u00deanne schal dere that now liketh\u00deanne schal like that\n                    now nyeth\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 199.\n",
+            "folio": "f. 229v"
+        },
+        "CamGon71": {
+            "Transcription": "\n\u00feanne schal it stynt \u00feat now ys cowde\u00feanne schal seme\n                    \u00feat now is hydd\u00feanne schal dere \u00feat now lykyth&\n                    \u00feanne schal lyke \u00feat now is wykked\n",
+            "folio": "f. 93"
+        },
+        "Cardiff": {
+            "folio": "f. 238"
+        },
+        "Spalding": {
+            "Transcription": "\n\u00fean shall stynt \u00feat now is kyd\u00fean shall shewe \u00feat\n                    nowe is hyd\u00fean shall dere that now is lykyd\u00fean shall like\n                    \u00feat are noyed\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 169"
+        },
+        "WorcF19": {
+            "Transcription": "\nWhan schall stint \u00feat now ys kudThen schal seme \u00feat now ys\n                    hudWhen sall dere \u00feat now lykyd\u2026\n",
+            "Note": "\nImperfect in this MS, written as prose.",
+            "folio": "f. 229va"
+        },
+        "VaticanOtto": {
+            "Note": "\nImperfect in this MS, written as prose.",
+            "folio": "f. 105v"
+        }
+    }
+}

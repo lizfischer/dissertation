@@ -1,0 +1,43 @@
+{
+    "_id": 1953,
+    "_header": "Here beginneth the sooth to say / A noble book with out nay",
+    "Note": "For the other MSS see 5398 and 5399; for an abridged and altered text see 788.",
+    "Title(s)": "Pricke of Conscience",
+    "Subjects": "treatises, devotional; instruction, religious",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "London, British Library Arundel 57: Begins at line 802 according to Lewis (1981)\nXLewis, R. E. \u201cThe relationship of the Vernon and Simeon texts of the Pricke of Conscience.\u201d So meny people longages and tonges: philolgical essays in Scots and mediaeval English Presented to Angus McIntosh. Ed. Michael Bensking and M. L. Samuels. Edinburgh, 1981. 251-64.",
+    "_description": "The Pricke of Conscience with ten prefatory lines prefixed to the usual beginning",
+    "_witnesses": {
+        "BodDou156": {
+            "First Lines": "\nHEre bigynne\u00fe \u00fee so\u00fe to sayA noble book wi\u00fe out\n                    nay \u2026\n",
+            "Last Lines": "\n\u2026\u00fee fire \u00feere is of siche poustee\u00feat hit may\n                    neuer slakis be\n",
+            "Attributed Title": "\nAt the begining: \u2018Ihesus assit principo sancta Maria meo\u2019. Ends\n                    imperfectly because of the loss of folios.",
+            "folio": "ff. 1-172"
+        },
+        "OxfTri16B": {
+            "Note": "\nSee Lewis (1981)\nXLewis,  R. E. \n             \u201cThe relationship of the Vernon and Simeon texts of the Pricke of\n                    Conscience.\u201d \n             So meny people longages and tonges: philolgical essays in Scots and\n                mediaeval English Presented to Angus McIntosh.\n         Ed. Michael Bensking and M. L. Samuels. Edinburgh, 1981.\n            251-64.",
+            "folio": ""
+        },
+        "RylandsEng50": {
+            "Transcription": "\nH[ ]eth \u00fee [ ]A nobil book wi\u00feoute [ ]The w[ ] is cald\n                    of [ ]To [ ]nful \u00fet her e [ ]\n",
+            "Note": "\nFirst page badly damaged from damp.",
+            "Attributed Title": "\nStimulus Concientie (added top, f. 1, partly cropped); The Prologe\n                    (rubric)",
+            "folio": "p. 1"
+        },
+        "Holkham668": {
+            "First Lines": "\nHere bygynne\u00fe [ ]All bel book [ ]\u00dee whiche is cald\n                    of confessioun\u2026\n",
+            "Last Lines": "\n\u2026To \u00fee whiche place he us alle brynge\u00deat for oure [\n                    ] on roode con [ ]\n",
+            "Note": "\nUnnumbered folios; dirt obscures some text on folio 1 and again on folio\n                        ultv.",
+            "Attributed Title": "\nStimulus conscientie (added by post-medieval hand, f. 1);\n                        Explicit tractatus qui dicitur Stimulus consciencie Deo gracias\n                        (ultv)",
+            "folio": "ff. 1-ultv"
+        },
+        "YaleBeiOsa13": {
+            "Note": "\nBegins at line 38 (see Lewis (1981)\nXLewis,  R. E. \n             \u201cThe relationship of the Vernon and Simeon texts of the Pricke of\n                    Conscience.\u201d \n             So meny people longages and tonges: philolgical essays in Scots and\n                mediaeval English Presented to Angus McIntosh.\n         Ed. Michael Bensking and M. L. Samuels. Edinburgh, 1981.\n            251-64).",
+            "folio": ""
+        },
+        "OxfTri16A": {
+            "Note": "\nWith 22 prefatory lines instead of the usual 10 (see Lewis (1981)\nXLewis,  R. E. \n             \u201cThe relationship of the Vernon and Simeon texts of the Pricke of\n                    Conscience.\u201d \n             So meny people longages and tonges: philolgical essays in Scots and\n                mediaeval English Presented to Angus McIntosh.\n         Ed. Michael Bensking and M. L. Samuels. Edinburgh, 1981.\n            251-64).",
+            "folio": ""
+        }
+    }
+}

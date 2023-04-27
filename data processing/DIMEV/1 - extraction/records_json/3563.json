@@ -1,0 +1,47 @@
+{
+    "_id": 3563,
+    "_header": "Most sovereign lord O blissful christ Jesu / From our enemies",
+    "Note": "Cambridge UK, Trinity College R.3.21 (601) (first occurrence), London, British Library Harley 2251, and London, British Library Addit. 34360 [olim Phillipps 9053] have only one stanza of Envoy and alter dedication to Edward IV. Cf. 3200.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "A Prayer for King Henry VI and his Queen and the People",
+    "Subjects": "prayers, for the nation; Henry VI; Edward IV; historical poems; envoys",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "Macaronic": "Latin",
+    "_description": "John Lydgate, \u2018A Prayer for King Henry VI and his Queen and the People\u2019 \u2014 eight stanzas rhyme royal, and an Envoy of four stanzas",
+    "_witnesses": {
+        "BodFair16": {
+            "First Lines": "\nMost souereigne lord o blessed crist ihesuffrom oure enemyes\n                    delyuer vs and oure foon\u2026\n",
+            "Last Lines": "\n\u2026And ay preserve vnder thy myghty hondehym and hys moder thy\n                    peple and thy londe\n",
+            "Note": "\nWith a variant envoy of four stanzas with refrain: \u2018And preserve\n                    vnder thy myghty honde / him and his moder thy peple and thy\n                    londe\u2019.",
+            "Attributed Author": "\nJohn lidgat (added in the sixteenth century after \u2018Explicit\u2019,\n                    f. 200v)",
+            "Attributed Title": "\nAb inimicis nostris defende nos criste (f.\n                    199*v)",
+            "Facsimiles": "\nNorton-Smith,  John. \n             \u201cIntroduction.\u201d \n             Bodleian Library MS Fairfax 16.\n         London: Scolar Press, 1979. \n",
+            "Editions": "\n\nMahir,  Otto,\n                        ed.  \n             Eine religi\u00f6se Gedichte John Lydgates.\n         Oberviechtach: Adolf Mahir, 1910: 44-8.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 212-16.\nRobbins,  Rossell Hope,\n                        ed.  \n             Historical Poems of the XIV and XV Centuries.\n         New York: Columbia UP, 1959: 235-9.\n\n",
+            "folio": "ff. 199*v-200v"
+        },
+        "CamTCC601": {
+            "First Lines": "\nMost souerayn lord O blysfull cryst Ihesuffrom oure enemyes defende\n                    vs of oure foonVnder whose grace and vndyr whos vertuWe byn assuryd\n                    where so we ryde or goon\u2026\n",
+            "Last Lines": "\n\u2026Drede god do law loue trowthe & worthynesAnd dryue thy\n                    folke ayene to stedfastnes\n",
+            "Note": "\nSecond occurrence in MS; ten stanzas, followed by the Envoy of\n                    Chaucer\u2019s \u2018Lak of Stedfastnesse\u2019 (see 3190).",
+            "folio": "ff. 318-319"
+        },
+        "BLHar2251": {
+            "First Lines": "\nMost souerayne lord o blesful crist Ihesuffrom oure enemyes defende\n                    vs of oure foon\u2026\n",
+            "Last Lines": "\n\u2026holy preserve vndir thy myghti handhym and his moder his\n                    peple and his land\n",
+            "Attributed Title": "\nAb Inimicis nostris defende nos criste (f. 10v)",
+            "folio": "ff. 10v-11"
+        },
+        "BLHar7578": {
+            "First Lines": "\nMoost soueraine lord o blessith crist Ihesuffrom oure ennemy\n                    deliuere vs and oure foon\u2026\n",
+            "Last Lines": "\n\u2026And preserue vnther thy mighty handeHim and his moder the\n                    people and thy londe\n",
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.227-9.\nW\u00fclker,  Richard Paul,\n                        ed.  \n             Altenglisches Lesebuch.\n         2 vols. in one. Halle: Lippert, 1874, 1880: 2.8-10.\n\n",
+            "folio": "ff. 19-19v"
+        },
+        "BLAdd34360": {
+            "First Lines": "\n[M]Ost souerayne lord o blisful crist Ihesuffrom oure enemyes\n                    defende vs of oure foone\u2026\n",
+            "Last Lines": "\n\u2026Holy preserve vndir thi myghti handHym and his moder his\n                    people and his land\n",
+            "Attributed Title": "\nAb Inimicus nostris defende nos criste (f. 69)",
+            "folio": "ff. 69-70v"
+        }
+    }
+}

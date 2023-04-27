@@ -1,0 +1,25 @@
+{
+    "_id": 5222,
+    "_header": "The Book of Jesu Christs kind",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel; Virgin Mary, conception of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel, \u2018In festo Conceptionis Marie\u2019, in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\n\u00deE Bok of Ihesu cristes kuynde\u00fee sone of dauid ha we in\n                    muynde\u2026\n",
+            "Last Lines": "\n\u2026He vs graunte of his graceIn his blisse to haue a place.\n                    Amen.\n",
+            "Attributed Title": "\nLiber generaciounis Ihesu cristi fili dauid (f.\n                    217va)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cProprium Sanctorum, Zusatz-Homilien des Ms. Vernon fol. CCXV zur\n                n\u00f6rdlichen Sammlung der Domicalia evangelia.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         81 (1888): 83-114, 300-21. \n",
+            "folio": "f. 217ra-217rc"
+        },
+        "BLAdd22283": {
+            "First Lines": "\n\u00deE boke of Ihesu cristes kuynde\u00dee sone of dauid ha we in\n                    mynde\u2026\n",
+            "Last Lines": "\n\u2026He vs graunt of his graceIn his blis to haue a place.\n                    Amen.\n",
+            "Attributed Title": "\nLiber generacionis Ihesu Christi filij Dauid (f.\n                    20vb)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 20vb-21ra"
+        }
+    }
+}

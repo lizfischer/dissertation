@@ -1,0 +1,30 @@
+{
+    "_id": 3625,
+    "_header": "My life I end in sorrow and woe",
+    "Note": "In sermon, \u2018Dominica in passione vel in die parasceue\u2019.",
+    "Subjects": "sermons, verse in; Christ, sufferings of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Christ\u2019s sufferings to save mankind, in a Latin prose homily, \u2018Amore langueo \u2014 one couplet",
+    "_witnesses": {
+        "OxfBal149": {
+            "Transcription": "\nMy lyue y hynde in sorwe and woMan to hyme from ys fo\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 131.\n",
+            "folio": "f. 31v"
+        },
+        "OxfMagd93": {
+            "Transcription": "\nAnd yn my lyf y had snowe and woman to lye fro his fro\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 152"
+        },
+        "CULKk424": {
+            "Transcription": "\nMy lyfe ys bownde in sorwe & woMan to brynghe from hys\n                    foo\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 144rb"
+        },
+        "TCD277": {
+            "Transcription": "\nMy lyf I end in soro & woman to bye fro hys foo\n",
+            "folio": "pp. 185-186"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "_id": 137,
+    "_header": "A patre unigenitus",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 34.",
+    "Subjects": "carols; carols, Nativity",
+    "Versification": "\u2014 four-line \u2014 aabb",
+    "Macaronic": "Latin",
+    "_description": "A macaronic carol of the Nativity \u2014 five quatrains with burden: \u2018Make we ioye nowe in this fest / In quo Cristus natus est / Eya\u2019",
+    "_witnesses": {
+        "BodArcSelB26": {
+            "First Lines": "\nA patre vnigenitus \u00feorw a maiden is com to vsSyng we to\n                    here and sey wel comeVeni redemptor gentium\u2026\n",
+            "Last Lines": "\n\u2026\u00feu moder & maiden freGloria tibi domine\n",
+            "Editions": "\n\nPadelford,  Frederick Morgan. \n             \u201cEnglish songs in manuscript Selden B.26.\u201d \n             Anglia\n         36 (1912): 79-115: 97-8.\nStainer,  Sir John, John Stainer,  C. Stainer,   and  Edward Williams Byron Nicholson.  \n             Early Bodleian music; sacred & secular songs, together with other\n                MS. compositions in the Bodleian Library, Oxford, ranging from about A.D. 1185 to\n                about A.D. 1505.\n         London, 1901; repr. Farnborough, Hants, England: Gregg, 1967: 2.124.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 22; 1977, 17.\nStevens,  John,\n                        ed.  \n             Mediaeval Carols.\nMusica Britannica\n         4. London: Stainer and Bell, 1952, 2nd ed. 1958: 19.\nRobbins,  Rossell Hope. \n             Early English Christmas Carols.\n         New York and London: Columbia UP, 1961: 28.\nGreene,  Richard Leighton,\n                        ed.  \n             A Selection of English Carols.\nClarendon Medieval and Tudor Series.\n         Oxford: Clarendon, 1962: 65.\n\n",
+            "folio": "f. 15"
+        },
+        "BodEngPoete1": {
+            "First Lines": "\nA patre vnigenitus to a maydyn is cum to vsSyng we of hym & sey\n                    wolen veni redemptor gencium\u2026\n",
+            "Last Lines": "\n\u2026Oliue beata trinitas \u00feat lay be twyn an ox an a asBy hys\n                    modyr maydyn fre gloria tibi domine\n",
+            "Note": "\nWritten, as given above, in long lines with leonine rhyme, that is, two\n                    lines of verse per line in the MS.",
+            "Editions": "\n\nPadelford,  Frederick Morgan. \n             \u201cEnglish songs in manuscript Selden B.26.\u201d \n             Anglia\n         36 (1912): 79-115: 97-8.\nWright,  Thomas,\n                        ed.  \n             Songs and Carols from a manuscript\u2026of the Fifteenth\n                Century.\nPercy Society\n         23. London: Richards, 1847: 48-9.\nRickert,  Edith,\n                        ed.  \n             Ancient English Christmas Carols.\n         London: Chatto & Windus, 1910: 53.\n\n",
+            "folio": "ff. 32v-33"
+        },
+        "BLAdd5665": {
+            "Note": "\nStanzas 1 and 2 only.",
+            "Editions": "\n\nPadelford,  Frederick Morgan. \n             \u201cEnglish songs in manuscript Selden B.26.\u201d \n             Anglia\n         36 (1912): 79-115: 97-8.\nFehr,  Bernhard. \n             \u201cDie Lieder der Hs. Add. 5665 (Ritson\u2019s Folio-MS).\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         106 (1901): 262-85: 270-1.\nFehr,  Bernhard. \n             \u201cDie Lieder der Hs. Add. 5665 (Ritson\u2019s Folio-MS).\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         106 (1901): 262-85: 57.\nStevens,  John,\n                        ed.  \n             Mediaeval Carols.\nMusica Britannica\n         4. London: Stainer and Bell, 1952, 2nd ed. 1958: 85.\nRobbins,  Rossell Hope. \n             Early English Christmas Carols.\n         New York and London: Columbia UP, 1961: 25.\n\n",
+            "folio": "ff. 28v-29"
+        }
+    }
+}

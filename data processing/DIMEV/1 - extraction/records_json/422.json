@@ -1,0 +1,57 @@
+{
+    "_id": 422,
+    "_header": "Almighty God in Trinity",
+    "Title(s)": "\u2018Stimulus Conscientie Minor\u2019",
+    "Subjects": "advice, spiritual; meditations",
+    "Versification": "\u2014 eight-line \u2014 abababab",
+    "_description": "\u2018Stimulus Conscientie Minor\u2019 \u2014 in 8-line stanzas with Latin prose sub-headings of varying lengths",
+    "_witnesses": {
+        "BodAsh61": {
+            "First Lines": "\nAll my\u021dhty god in triniteffader & sone & holy\n                    gosteThat is one god & persones threO stedfast god of my\u021dtes\n                    moste\u2026\n",
+            "Last Lines": "\n\u2026And grante hym lyue \u00feat lastes ayeIn heuen where joy is\n                    euer mour new\n",
+            "Note": "\nAt end, \u2018Nunc finem feci da michi quod merui\u2019 by\n                    scribe.",
+            "Attributed Title": "\nExplicit stimulus conciencie minoris (f. 128)",
+            "Editions": "\nShuffleton,  George. \n             Ashmole 61: A Compilation of Popular Middle English Verse.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008: 310-29; 539-47; 619-20.\n",
+            "folio": "ff. 120-128"
+        },
+        "BodRawA389": {
+            "First Lines": "\nAl my\u021dti god in triniteffadur & sone & holy\n                    gaast\u2026\n",
+            "Last Lines": "\n\u2026He graunte vs lyf \u00feat laste shal ayIn heuen \u00feere\n                    euer is ioye I nowe\n",
+            "Attributed Title": "\nConsciende to clere \u00feis lessoun I rede \u00feou lere (f.\n                        99ra)",
+            "folio": "ff. 99ra-104va"
+        },
+        "CULFf238": {
+            "First Lines": "\nAlmyghty god in trynyteffadur & soone & hooly\n                    goost\u00feat ys oo god & persones threSo \u00feefaste lord of\n                    myghtes moost\u2026\n",
+            "Last Lines": "\n\u2026\u00fee ryghtwysenesse of god were thanOonly schewyd and\n                    mercy nought\n",
+            "Attributed Title": "\nHere\u2026be gynne\u00fe the markys of medytacyouns (f. 14va);\n                    Here endyth the merkys of medytacions \u00feat ben full profytable to be holde\n                    (f. 19rb)",
+            "Facsimiles": "\nMcSparran,  Frances,  and  Pamela R. Robinson.  \n             \u201cIntroduction.\u201d \n             Cambridge University Library MS Ff.2.38.\n         London: Scolar Press, 1979. \n",
+            "folio": "ff. 14va-19rb"
+        },
+        "CamMagPep1584": {
+            "First Lines": "\nAl myghty god in triniteffadir and sonne and holy gostThat is\n                    o god and personys \u00fereSothefast lord of myghtes\n                    most\u2026\n",
+            "Last Lines": "\n\u2026The rightwisnes of god wer thanOonly schewid and mercy\n                    nought\n",
+            "Note": "\nBlank in middle: bottom half of 92 and all of 92v; 72 + 23\n                    stanzas.",
+            "Attributed Title": "\nHere\u2026begynneth the markys of meditacioun (f. 78v); The\n                    merkys of meditaciouns (Tab. Contents, f. 1); The markys of meditacions (RT);\n                    Her endith the markis of meditacions that byn full profittabull to byholde (f.\n                    97)",
+            "folio": "ff. 78v-97"
+        },
+        "BLAdd10053": {
+            "First Lines": "\nAlmighty god in triniteFader and sone and holy\n                    gost\u2026\n",
+            "Last Lines": "\n\u2026He graunte vs lyf that lastyth schalle ayIn heuene there euer\n                    ys ioye ynow. Amen.\n",
+            "Note": "\nA note says that this was written for John Pery: \u2018Orate pro\n                        anima domini iohannis pery canonici ecclesie sancte trinitatis London in\n                        algate\u2019 (f. 83).",
+            "folio": "ff. 69-83"
+        },
+        "BLAdd33995": {
+            "First Lines": "\nAlmyghty godde in Trynyte ffader and sone and \u00fee\n                    halygost\u00deat es a godde and persones thre and a sochfast lorde of\n                    myghtes mast\u2026\n",
+            "Last Lines": "\n\u2026\u00deat he hym sheld \u00feat on gode fryday \u00dee Iewes\n                    naylled on rode and sloweHe graunt vs lyf \u00feat last sal ay In heuen\n                    \u00fear Ioy es ay Inowe\n",
+            "Note": "\nOne column. Two verse lines per manuscript line, divided by rubricated\n                    line break. Scribe writes \u2018ad\u2019 instead of \u2018and\u2019, which\n                    is expanded in the transcription to \u2018and\u2019.",
+            "folio": "ff. 96v-101v"
+        },
+        "BLRoy17Bxvii": {
+            "First Lines": "\nAlle mighty god in triniteFader and son & holy\n                    gost\u2026\n",
+            "Last Lines": "\n\u2026to \u00feat blis he wil \u021dou lede\u00feere ioy &\n                    blisse euer es\n",
+            "Attributed Title": "\nAn Induction to good life by the consideration of heaven Hell and Purgatory\n                    (f. 36, later hand)",
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 2.36-45.\n",
+            "folio": "ff. 36-49"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "_id": 6156,
+    "_header": "Was it never my kind",
+    "Author(s)": "Nicholas Bozon",
+    "Title(s)": "Contes moralis\u00e9s",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A couplet in Four lines in Nicholas Bozon\u2019s Contes moralis\u00e9s incorporating former listing DIMEV 1415 \u2014 two couplets, sometimes abbreviated to one",
+    "_witnesses": {
+        "BLHar1288": {
+            "Transcription": "\nffor was hyt neuer myn kyndChese in welle to fynde\n",
+            "Note": "\nLines 2-4 only, written as prose.",
+            "Editions": "\n\nRoss,  Alan S. C. \n             \u201cEnglish in Nicole Bozon\u2019s Contes Moralis\u00e9s.\u201d \n             Neuphilologische Mitteilungen\n         50 (1949): 200-20: 210.\nHerbert,  John Alexander. \n             Catalogue of Romances in the Department of MSS. in the British\n                Museum.\n         Vol. 3. London, 1910: 3.104.\n\n",
+            "folio": "f. 100v"
+        },
+        "BLAdd46919": {
+            "Transcription": "\nWas it nevere my kyndChese in welle\u021d grond to fyndeFor was\n                    hyt never myn kyndChese in welle to fynd\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nRoss,  Alan S. C. \n             \u201cEnglish in Nicole Bozon\u2019s Contes Moralis\u00e9s.\u201d \n             Neuphilologische Mitteilungen\n         50 (1949): 200-20: 210.\n",
+            "folio": "f. 126"
+        },
+        "GraysInn12": {
+            "Transcription": "\nWas it neuere my kyndchese in weelz grond to fyndeFor was hyt never myn kyndChese in welle to fynd\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\n\nSmith,  Lucy Toulmin,\n                        ed.  \n             Les contes moralis\u00e9s de Nicole Bozon.\nSociete des anciens textes francais\n         50. Paris: Firmin Didot, 1889: 151.\nF\u00f6rster,  Max. \n             \u201cDie Mittelenglische Sprichw\u00f6rtersammlung in Douce 52.\u201d \n             Festschrift zum XII Deutschen Neuphilolgentage in M\u00fcnchen\n                1906.\n            E. Stollreither, ed. \n         Erlangen (1906): 40-64: 59.\nF\u00f6rster,  Max. \n             \u201cDie Mittelenglische Sprichw\u00f6rtersammlung in Douce 52.\u201d \n             Festschrift zum XII Deutschen Neuphilolgentage in M\u00fcnchen\n                1906.\n            E. Stollreither, ed. \n         Erlangen (1906): 40-64: 46.\nRoss,  Alan S. C. \n             \u201cEnglish in Nicole Bozon\u2019s Contes Moralis\u00e9s.\u201d \n             Neuphilologische Mitteilungen\n         50 (1949): 200-20: 210.\n\n",
+            "folio": "f. 43"
+        }
+    }
+}

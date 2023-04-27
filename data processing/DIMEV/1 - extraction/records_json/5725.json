@@ -1,0 +1,23 @@
+{
+    "_id": 5725,
+    "_header": "This king Herod with unright",
+    "Note": "For other MSS see 5353.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "John the Baptist, saint; Herod",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Herod and John the Baptist, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\n\u00dee kyng Heroude wi\u00fe muchel mihtRefte his bro\u00feur wyf\n                    \u00feat hiht\u2026\n",
+            "Last Lines": "\n\u2026To blisse \u00feat ha\u00fe non endyngeVre lord crist\n                    \u00feider vs bringe. Amen.\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 168va-168vc"
+        },
+        "BodAsh42": {
+            "First Lines": "\n\u00feis kinge herode wi\u00fe vnrightReft his bro\u00feer his wife\n                    \u00feat hight\u2026\n",
+            "Last Lines": "\n\u2026To blisse \u00feat neuer sall haue endyngeOure lorde ihesu vs\n                    \u00feider bringe . amen .\n",
+            "Editions": "\n\nHorstmann,  Carl. \n             \u201cDie Evangelien-Geschichten der Homiliensammlung des Ms. Vernon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         57 (1877): 241-316: 243.\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n\n",
+            "folio": "ff. 12-15"
+        }
+    }
+}

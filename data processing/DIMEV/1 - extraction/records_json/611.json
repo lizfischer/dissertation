@@ -1,0 +1,22 @@
+{
+    "_id": 611,
+    "_header": "As I me lened unto a joyful place",
+    "Subjects": "birds; birds, as narrators",
+    "Versification": "\u2014 rhyme royal, seven=line \u2014 ababbcc",
+    "Macaronic": "Latin",
+    "_description": "Birds\u2019 matins \u2014 ten stanzas rhyme royal",
+    "_witnesses": {
+        "CamTCC601": {
+            "First Lines": "\naS I me lenyd vnto a ioyfull placelusty phebus to superuidehow\n                    god almyghty of hys gret gracehad florysshed the erthe on euery\n                    side\u2026\n",
+            "Last Lines": "\n\u2026The melodyous ympne with gret solaseO lux beata\n                        Trinitas\n\n",
+            "Attributed Author": "\nJohn Lydgate (added, f. 246v)",
+            "folio": "ff. 246-246v"
+        },
+        "BLHar2251": {
+            "First Lines": "\nAs I me lenyd vnto a Ioyful placeLusty phebus to\n                    supervive\u2026\n",
+            "Last Lines": "\n\u2026And thus thay songe both more and lasseThis melodious ympne\n                    with grete solasO lux beata Trinitas\n",
+            "Editions": "\n\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             A Selection from the Minor Poems of Don John Lydgate.\nPercy Society\n         2. London: T. Richard, 1840: 78-80.\nMacCracken,  Henry Noble. \n             \u201cLydgatiana.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         130 (1913): 286-311: 310.\n\n",
+            "folio": "ff. 36v-37v"
+        }
+    }
+}

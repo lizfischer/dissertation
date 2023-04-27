@@ -1,0 +1,313 @@
+{
+    "_id": 3581,
+    "_header": "Musing upon the restless business",
+    "Author(s)": "Thomas Hoccleve",
+    "Title(s)": "De Regimine Principum",
+    "Subjects": "political poems; advice, to princes; princes, advice to; envoys",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Hoccleve\u2019s De Regimine Principum \u2014 780 stanzas rhyme royal.",
+    "_witnesses": {
+        "BodLauMis735": {
+            "First Lines": "\nMvsyng vp on the restles bysynesWhich \u00feat this troubli word\n                    hath ay on honde\u2026\n",
+            "Last Lines": "\n\u2026Thi sauour \u021det is full small as I trowBut or oght long I\n                    shall te sothe y knaw\n",
+            "folio": "f. 62"
+        },
+        "BodDig185": {
+            "First Lines": "\nMvsyng vpon the resteles bysynesseThe whitch this trouble world\n                    hath ay on hond\u2026\n",
+            "Last Lines": "\n\u2026To the that all seest of loves servenceThat knoweth he that\n                    nothing is hidd fro\n",
+            "folio": "ff. 80-145v"
+        },
+        "BodSelSup53": {
+            "First Lines": "\nKny\u021dthood a wake \u00feou slepist to longeThi brother see nowe\n                    ny deed for mischeef\u2026\n",
+            "Last Lines": "\n\u2026To \u00feee \u00feat al saist of loues feruenceThat knowith\n                    he whom no \u00feing is hid fro\n",
+            "Note": "\nLines 1-896 wanting.",
+            "Attributed Title": "\nExplicit Egidius de Regimine Principum (at the end)",
+            "folio": "ff. 1-76"
+        },
+        "BodAsh40": {
+            "First Lines": "\nMUsynge vp on the resteles besynesWiche that this trowbly worlde\n                    ha\u00fe ay on hondeThat other \u00feinge \u00fean fruite of\n                    bytternesseNe \u021deldeth not as y can vndrestonde\u2026\n",
+            "Last Lines": "\n\u2026To \u00feee \u00feat al seist of loues feruenceThat knoweth\n                    he whom no \u00feing is hid fro\n",
+            "Attributed Title": "\nA the end of the poem on f. 97v: Explicit Egidius de regimine\n                        Principium. Grace growith aftir gouernaunce.",
+            "folio": "ff. 1-97v"
+        },
+        "BodRawD913": {
+            "First Lines": "\nNow noble prince \u00feough I be not wyseWel willid am I as I furst\n                    yow tolde\u2026\n",
+            "Last Lines": "\n\u2026ffor yif \u00feat he that wikkid gost recetteBy such a lord\n                    wil honour no thyng sette\n",
+            "Note": "\nA fragment: 2185-2212 on recto and 2220-2247 on verso (missing stanza\n                    2213-2219). Space at bottom of recto and top verso shows not\n                    cropped.",
+            "folio": "ff. 63-63v"
+        },
+        "BodRawPoe10": {
+            "First Lines": "\nMusynge vp on the restlees bysynesseWhich that this troubly world\n                    hath ay on honde\u2026\n",
+            "Last Lines": "\n\u2026To the that all seiste of loues feruenceThat knowith he wham\n                    no thyng ys hid froo\n",
+            "Note": "\nLacks introductory dialogue.",
+            "Attributed Author": "\nExplicit hoccleue (at the end).",
+            "folio": "ff. 1-65v"
+        },
+        "BodRawPoe168": {
+            "First Lines": "\nMy noble and mighti prince excellentMi lorde the prince o my lorde\n                    gracious\u2026\n",
+            "Last Lines": "\n\u2026To the that al seest of loues feruenceThat knoweth whom no\n                    thing is hid fro\n",
+            "Note": "\nLacks the Prologue: stanzas 1-288 only.",
+            "Attributed Author": "\nHere endeth the Boke of gouernaunce of princes that Thomas Hoccleue made.\n                    Which is a boke of moraltees and of vertues of highli dispreising lewednesse and\n                    vices (at the end).",
+            "Attributed Title": "\nHic incipit liber de regimine principum (f. 1).",
+            "folio": "ff. 1-58"
+        },
+        "BodDou158": {
+            "First Lines": "\n[ ]vpon \u00fee restles bisynesse[ ] hiche \u00feat \u00feis world\n                    hat ay onhondeThat othir \u00feing \u00fean fruyt of\n                    bittirnesse\u2026\n",
+            "Last Lines": "\n\u2026To \u00feee \u00feat alle seith of loues feruence\u00feat\n                    knoweth he whom no\u00fetnge is hid fro\n",
+            "folio": "ff. 1-96v"
+        },
+        "Bod221": {
+            "First Lines": "\nMvsyng opon the restles besynesWhich \u00feat \u00feis troubly\n                    world hath ay on hande\u2026\n",
+            "Last Lines": "\n\u2026Makes full many schippis for to sayleInto \u00fei cofre warme\n                    is \u00feine office\n",
+            "Note": "\nEnds imperfectly; some folios in the middle mutilated.",
+            "Attributed Author": "\nDe prodigalitato Thomas Occleve (f. 119)",
+            "folio": "ff. 62v-130v"
+        },
+        "CULGg617": {
+            "First Lines": "\n[m]using vpon the Restlesse besinesWhich that this troubelouse\n                    world hath ay on hond\u2026\n",
+            "Last Lines": "\n\u2026That all saiest of loves fervenceThat knowith he whom no\n                    thing is hidde fro\n",
+            "Note": "\nEnds imperfectly; some folios in the middle mutilated.",
+            "Attributed Author": "\nThe vertuouse doctrine of Hoccleue vpon the rwle of princes (added\n                    sixteenth century, top f. 1); Explicit liber de principum Regimine\n                    (scribal, f. 90v)",
+            "folio": "ff. 1-90v"
+        },
+        "CULHh411": {
+            "First Lines": "\nMVsyng vpon the restles besinesseWhich this troubly world\n                    have\u00fe in honde\u2026\n",
+            "Last Lines": "\n\u2026To \u00fee \u00feat all seest of loues feruenceAnd \u00feat\n                    knowi\u00fe he \u00feat no\u00feing ys hyd fro\n",
+            "Attributed Author": "\nOccliue one of the t[ ]er[ ] & [ ] the father of ch[ ]slore (added top\n                    margin, f. 1); The Authres name of this was Occlyue an acquaintaunce of Chaucer\n                    as ye may red in the second Page of the 33 leaf of this verce & that he was\n                    of the pryuy seale the same leaf the fyrst page of this [ ]re (added by\n                    sixteenth-century hand, f. 96)",
+            "Attributed Title": "\nExplicit liber de Regimine Principum (f. 1)",
+            "folio": "ff. 1-96"
+        },
+        "CULKk13": {
+            "First Lines": "\nMvs[ ] the restles busynesse[ ]his [ ] world hath ay in\n                    honde\u2026\n",
+            "Last Lines": "\n\u2026To the that all seyiste of lovis servensThat knowith he whom\n                    nothynge is hid fro\n",
+            "Attributed Title": "\nH[ere] [be]ginneth a tretys wiche is callid [ ] (f. 1)",
+            "folio": "Part XI, ff. 1-79"
+        },
+        "CamCCC496": {
+            "First Lines": "\nMvsyng opon \u00fee restles besinesseWhich \u00feat \u00feis trubly\n                    world hath ay in honde\u2026\n",
+            "Last Lines": "\n\u2026To the \u00feat all saist of luffis feruenceThat knowith whom\n                    no thyng is hid fro\n",
+            "Attributed Title": "\nExplicit liber iste qui vocatur Occhiffe de regimen principum &\n                        constat magistro Willelmo Wilflete socio Aule de clare Cantabrigii qui eum\n                        scribendo propriis manibus laborauit (f. 60v)",
+            "folio": "Part IV, ff. 1-60v"
+        },
+        "CamMagPep2101": {
+            "First Lines": "\nAlso ther is a nother newe getA fowle wast of cloth & an\n                    excessif\u2026\n",
+            "Last Lines": "\n\u2026he pees bade & whan he vnto heuen did styehe lefte pees\n                    in erthe truly\n",
+            "Note": "\nBegins line 449",
+            "folio": "ff. 1-83v"
+        },
+        "CamQue12": {
+            "First Lines": "\nMusyng vpon the restles besynesWich \u00feat this troubly world\n                    ha\u00fe ay on honde\u2026\n",
+            "Last Lines": "\n\u2026To the \u00feat al seist of loues feruenceThat knoweth he\n                    whom no \u00feing is hid fro\n",
+            "Note": "\nBegins line 449",
+            "folio": "ff. 1-[unfoliated]"
+        },
+        "CamStJohn223": {
+            "First Lines": "\nMUsing vpon the resteles besynesseWhich \u00feis troubly worlde\n                    hath ay on honde\u2026\n",
+            "Last Lines": "\n\u2026And alle husbandes I pray and geve \u00feem sorowThat to them\n                    telle \u00feer councelle even or morowe\n",
+            "Attributed Title": "\nExplicit liber de Regimine principum (f. 98)",
+            "folio": "ff. 1-97v"
+        },
+        "CamTCC602": {
+            "First Lines": "\nMVsinge vp on the restles besynesseWiche that \u00feis trobuly\n                    world hath ay on hondeThat other \u00feing \u00feanne froyt of\n                    bittirnesse\u2026\n",
+            "Last Lines": "\n\u2026To \u00fee \u00feat al seist of loues feruenceThat knoweth he\n                    whom no thing is hid fro\n",
+            "Attributed Author": "\nThomas hocclefe (added sixteenth century, top f. 111)",
+            "folio": "ff. 111-208"
+        },
+        "CamFitzMc182": {
+            "First Lines": "\n\u2026So flittynge is sche and so variauntThere is no triste on\n                    hir faire law\u021dyngeAftir gladde loke sche schapith hir to styngeI\n                    was a drad soo of hir gerynesse\u2026\n",
+            "Last Lines": "\n\u2026To the \u00feat all seiste of loues feruenceThat knowith he\n                    whome no \u00feinge is hid froo\n",
+            "Note": "\nBegins imperfectly due to loss of folios.",
+            "Attributed Title": "\nExplicit liber Egidii de regimine Principum translatum Per Occlyff\n                    (f. 138)",
+            "folio": "ff. 54-138"
+        },
+        "CamFitzMc185": {
+            "First Lines": "\nMusyng vpon the restles besynesseWhich this troubely world hath ay\n                    on honde\u2026\n",
+            "Last Lines": "\n\u2026To \u00fee \u00feat all seyst of Loves feruenceThat\n                    knowe\u00fe he who no\u00feing is hid fro\n",
+            "folio": "ff. 1-83"
+        },
+        "BLAru38": {
+            "First Lines": "\nMosynge vp on the restlees bysynesseWhyche that thys troubly world\n                    ha\u00fe ay on honde\u2026\n",
+            "Last Lines": "\n\u2026To the \u00feat al seest of loues feruenceThat knowyth he\n                    whom no \u00feyng is hyd froo\n",
+            "Attributed Title": "\nexplicit (f. 98v)",
+            "Editions": "\n\nGray,  Douglas. \n             The Oxford Book of Late Medieval Verse and Prose.\n         Oxford: Clarendon, 1985: 52-5 (excerpts).\nBlyth,  Charles R.,\n                        ed.  \n             The Regiment of\n                    Princes.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1999: 39-200.\n\n",
+            "folio": "ff. 1-98v"
+        },
+        "BLAru59": {
+            "First Lines": "\n[m]vsyng vpon the Resteles busynesWhiche that this troubly world\n                    hath onhond\u2026\n",
+            "Last Lines": "\n\u2026To the that al seyst of loves feruenceThat knowith he that\n                    nothyng is hid froo\n",
+            "Note": "\nCoat of arms in right margin of f. 1; the scribe is the so-called\n                    \u2018Hammond scribe\u2019; ends, \u2018Explicit\u2019 (f.\n                        89v) and a blank leaf between ff. 89 and 90.",
+            "folio": "ff. 1-89v"
+        },
+        "BLHar116": {
+            "First Lines": "\nMvsyng opon \u00fee restles bysynesWhiche \u00feat \u00feis world\n                    hath ay on honde\u2026\n",
+            "Last Lines": "\n\u2026To the that alle seith of loues feruenceThat knoweth he whom\n                    nothyng is hid fro\n",
+            "folio": "ff. 1-97v"
+        },
+        "BLHar372": {
+            "First Lines": "\n[M]ercy aftir the word of Seynt AustinOf hert is a verray\n                    compassioun\u2026\n",
+            "Last Lines": "\n\u2026To the that al seist of loves feruenceThat knowith he that\n                    nothyng is hyd fro\n",
+            "Note": "\nBeginning at line 3312. Written by the so-called \u2018Hammond\n                    scribe\u2019 as a separate booklet from rest of the manuscript.",
+            "Attributed Author": "\nThe author of this Treatise w[as] Thomas Hoccline Scholler to Geffrey\n                    Chaucer (slip of paper bound in before f. 71, written in a hand of the sixteenth\n                    century)",
+            "Attributed Title": "\nDe Misericordia (f. 71); Hocklins Poems (written by a much later\n                    hand at top of f. 71).",
+            "folio": "ff. 71-112"
+        },
+        "BLHar4826": {
+            "First Lines": "\nMVsyng of the restlees besynesseWhich this troubl\u00fe wod ay hath\n                    in honde\u2026\n",
+            "Last Lines": "\n\u2026To the that al seyst of louys feruenceThat knowith he whoom\n                    no thyng is hyd froo. Ihesu mercy\n",
+            "Attributed Title": "\nOcclyf de Regimine (RT)",
+            "folio": "ff. 84-144v"
+        },
+        "BLHar4866": {
+            "First Lines": "\nMvsyng vpon the restles bisynesseWhich that this world hath ay on honde\u2026\n",
+            "Last Lines": "\n\u2026Of hevenes blysse that is endelesTo which yow brynge thauctour of pees\n",
+            "Note": "\nHeading \u201cHeere begynnyth the Book how Pryncys sholden be governy\u201d (f. 1, above text, rubric); ends \u201cAmen,\u201d then \u201cExplicit\u201d in rubric (f. 195v); first eight stanzas, on folio 1r-v, and last 5 lines at bottom of f. 195v written by a later hand to complete the text; medieval text begins f. 2 and ends f. 195v.",
+            "folio": "ff. 1-95v"
+        },
+        "BLHar5977": {
+            "First Lines": "\nTo thyn egal concorde vnto thi fooSuffraunce and to thi self\n                    holynesTo the nedy gredy with wrecchid woo\u2026\n",
+            "Last Lines": "\nVnto his puple as plente and largesOf erthly good and better than is\n                    reyneffallyng at euyn from heuyn thei seyne\n",
+            "Note": "\nA single leaf.",
+            "folio": "ff. 90-90v"
+        },
+        "BLHar7333": {
+            "First Lines": "\nMVsing vp on the restlees besinesseWhich that this troubly wordle\n                    hath ay in honde\u2026\n",
+            "Last Lines": "\n\u2026I toke corage & whiles it was hootVn to my lorde the\n                    prince thus I wrote\u2026\n",
+            "Note": "\nBegins without incipit or title and ends at line 2016.",
+            "folio": "ff. 204va-211vb"
+        },
+        "BLRoy8Axxi": {
+            "Transcription": "\nWith litill ffode content ys natureAnd beter \u00fee bodi fareth with\n                    a liteThen when it charged ys o[u]te of mesureLuke what thing may\n                    \u00fee body profiteAnd \u00fee soule shall in \u00fee same deliteWhat\n                    thing it distempereth or disesethThe soule it hirteth for it gud\n                    displesethWynes delicat & swete & strongeCauseth full\n                    many an inconuentise\u021cif \u00feat a man outragly hem fongethei\n                    biriyen wyt & fu[r]bede silenceOf counsell \u00feei outrayen\n                    pacienceThei kyndell yre & firen lecheryeAnd causen bothe bodi\n                    & soule to die\n",
+            "Note": "\nExtract, lines 3865-71 and 3830-36, added to first parchment flyleaf,\n                    verso, by a hand of the late fifteenth or early sixteenth century.",
+            "folio": "f. 1v"
+        },
+        "BLRoy17Cxiv": {
+            "First Lines": "\nMusynge vp on the resteles bysynesseWhich that this troubly world\n                    hath ay in hande\u2026\n",
+            "Last Lines": "\n\u2026To the \u00feat al [ ] of loues feruenceThat knowith [ ] whom\n                    nothynge is hid fro\n",
+            "Note": "\nDamage to last few folios due to stain; followed by envoy to John of\n                    Lancaster, Duke of Bedford ((6116).",
+            "Attributed Author": "\nGilis (f. 2); Thomas hoccleue (f. 99v)",
+            "Attributed Title": "\nGilis de regimine principum (rubric in upper margin of f. 2, by\n                    scribe); Here endeth the book of the gouernaunce of Princes that Thomas hoccleue\n                    made whiche is a book of Moraltes and of vertues and hily dispreisinge\n                    lewednesse and vices (f. 99v, rubric at end, by scribe)",
+            "folio": "f. 2-99v"
+        },
+        "BLRoy17Dvi": {
+            "First Lines": "\nMusyng vpon the restles besynesseThe which this troubly world hath ay on hond\u2026\n",
+            "Last Lines": "\n\u2026To the that all seest of loues seruenceThat knoweth he that no thyng is hidde fro\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Royal MS 17 D VI.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Royal_MS_17_D_VI. \n",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             De Regimene Principum: a poem by Thomas Occleve.\nRoxburghe Club\n         79. London, 1860. \nFurnivall,  Frederick James,\n                        ed.  \n             \u201cHoccleve\u2019s Works: The Regement of Princes and fourteen minor\n                poems.\u201d \n             EETS\n         e.s. 72 (1897); repr. 1988: 196-7 (Envoy only).\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 377-9 (excerpt).\n\n",
+            "folio": "ff. 4-101v"
+        },
+        "BLRoy17Dxviii": {
+            "First Lines": "\nMusynge vpon the restelees bysynesseWhich that this troubly world\n                    hath ay in hande\u00deat othir thyng than fruyt of bittirnesseNe\n                    yildith naght as I can vndirstande \u2026\n",
+            "Last Lines": "\n\u2026To the \u00feat al seist of loues feruenceThat knowith he\n                    whom nothynge is hid fro\n",
+            "Note": "\nHolograph copy: see Mooney (2011)\nXMooney,  Linne R. \n             \u201cA Holograph Copy of Thomas Hoccleve\u2019s Regiment of\n                Princes.\u201d \n             Studies in the Age of Chaucer\n         33 (2011).",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             \u201cHoccleve\u2019s Works: The Regement of Princes and fourteen minor\n                poems.\u201d \n             EETS\n         e.s. 72 (1897); repr. 1988: 196-7 (Envoy only).\n",
+            "folio": "ff. 2-99v"
+        },
+        "BLRoy17Dxix": {
+            "First Lines": "\nMusynge vpon the restles besynesseWhiche that this troubli worlde\n                    hath ay in honde\u2026\n",
+            "Last Lines": "\n\u2026To the that al seist of loues feruenceThat knoweth he whom no\n                    \u00feinge is hid fro\n",
+            "Attributed Author": "\nGilis (f. 2); Thomas hoccleue (f. 99v)",
+            "Attributed Title": "\nGilis de regimine principum (rubric in upper margin of f. 2, by\n                    scribe); Here endeth the book of the gouernaunce of Princes that Thomas hoccleue\n                    made whiche is a book of Moraltes and of vertues and hily dispreisinge\n                    lewednesse and vices (f. 99v, rubric at end, by scribe)",
+            "folio": "ff. 2-99v"
+        },
+        "BLSl1212": {
+            "First Lines": "\n[M]Osyng vp on the restlees bisynesseWhiche \u00feat this world\n                    hath ay on honde\u2026\n",
+            "Last Lines": "\n\u2026to the \u00feat al seith of loouys feruence\u00deat knowith\n                    he whom nothing is hid froo\n",
+            "Note": "\nEnds, \u2018Cest tout\u2019 (f. 100), written by scribe. Scribe\n                    identifies himself with large textura script at bottom of f. 100r, \u2018Lucas\n                    enduee 27\u2019 [perhaps intended as \u2018endure\u2019]. The name also\n                    appears beside other texts in the MS, numbers 275 and 3519.",
+            "Attributed Author": "\nThomas Hoccleve (added top margin f. 5)",
+            "Attributed Title": "\nThomas Hoccleve de regimine principis [sic] (added by\n                    post-medieval hand to top margin, f. 5)",
+            "folio": "ff. 5-100"
+        },
+        "BLSl1825": {
+            "First Lines": "\nMVsynge vpon the restelees busynessewiche \u00feat this troubly\n                    world ha\u00fe ay in honde\u2026\n",
+            "Last Lines": "\n\u2026To the \u00feat al seist of lovis fervenceThat knowith he\n                    whom no \u00feing is hid fro\n",
+            "Note": "\nAfter last line, by hand of scribe, \u2018Amen / Deo\n                    gracias\u2019 (f. 88).",
+            "Attributed Title": "\nHire bigynneth a tretys wiche that is callid (f. 2, rubric by scribe above\n                    first line; not completed)",
+            "folio": "ff. 2-88"
+        },
+        "BLAdd18632": {
+            "First Lines": "\nMvsing vpon the restles besynessewich \u00feat \u00feis troubly\n                    world ha\u00fe ay on honde\u2026\n",
+            "Last Lines": "\n\u2026to the that al seest of loues feruensthat knowith he whom\n                    no\u00feing is hid fro\n",
+            "Attributed Title": "\nExplicit & cetera / Nunc fimen fixi penitet me so male / scripsi\n                    (rubric by scribe after envoy, f. 99v); Explicit Hoccleue in\n                        Aristotile & Egidio de regimine / Principum Et Jacobo de Cicile . S\n                    Chesse (f. 99v, by scribe); followed by rubric heading Verba\n                        Compilatoris ad librum (f. 99v, by scribe)",
+            "folio": "ff. 34-99v"
+        },
+        "CovAcc3251": {
+            "First Lines": "\nMusing vppon the Restles besinesseWhich that \u00feis troubli\n                    worlde hath ay on honde\u2026\n",
+            "Last Lines": "\n\u2026Of heuen blisse that is eendelesTo which \u00feou bringe\n                    \u00fee Actor of pees\n",
+            "Note": "\nFollowed by \u2018verba compilatoris ad llibrum\u2019, 2 x 8,\n                    ababbcbc, beg. \u2018[G]o litel boke who yafe \u00fee hardinesse\u2026\u2019\n                        (40rb).",
+            "Attributed Title": "\nExplicit liber de Regimine principum (f. 40rb).",
+            "folio": "ff. 1ra-48rb"
+        },
+        "NLS19111": {
+            "First Lines": "\nMUsyng vppon the restlesse besinesWhich that this troublose worlde\n                    hath ay on honde\u2026\n",
+            "Last Lines": "\n\u2026To \u00fee \u00feat all seest of lowis ferwenceThat knowyth\n                    he whom nothyng is hid froo\n",
+            "Attributed Title": "\nDe regimine principum vocatur the Kyngys Draught (f. 80);\n                        Explicit liber de Principum Regimine (f. 176).",
+            "folio": "ff. 80-176"
+        },
+        "EDU202": {
+            "First Lines": "\nMVsynge vp on \u00fee resteles besynesseWhich \u00feat ys troubly\n                    world ha\u00fe ay on honde\u2026\n",
+            "Last Lines": "\n\u2026Thi doghter preye to beseche hir soneTo stynt of werres\n                    \u00fee dampnable wone\u2026\n",
+            "Note": "\nEnds imperfectly at end of stanza 769 (of 780).",
+            "folio": "ff. 1-96v"
+        },
+        "SocAnt134": {
+            "First Lines": "\n[ ]restles besinesse[ ]li world ha\u00fe ay in\n                    honde\u2026\n",
+            "Last Lines": "\n\u2026To \u00fee \u00feat all sayest of loues feruenceThat\n                    knowe\u00fe he whom no \u00feinge is hid fro\n",
+            "Note": "\nPortion of first folio (f. 250) torn away, with loss of\n                    text.",
+            "Attributed Author": "\nExplicit Thomas Occlef (f. 283rb, rubric)",
+            "folio": "ff. 250ra-283rb"
+        },
+        "Chicago337": {
+            "First Lines": "\nMvsyng apon \u00fee restles bisynesseWhiche \u00feat \u00feis world\n                    hat ay on honde\u2026\n",
+            "Last Lines": "\n\u2026To \u00fee \u00feat alle seith of loues feruence\u00feat\n                    knoweth he whom no \u00feinge is hyd fro\n",
+            "Note": "\nIncludes \u2018Verba compilatoris ad librum\u2019 (ff.\n                        78v-79); explicit is \u2018Cest tout\u2019 (f.\n                    79).",
+            "Attributed Title": "\nHic incipit prologue de Principum regimine (f. 30), Hic tractat\n                        de Principum regimine (f. 32)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.   Hoccleve\u2019s Works: The Minor Poems. vol. 1.  EETS\n         e.s. 61 (1892); repr. with Gollancz (1925)\nXGollancz,  Israel. \n             Hoccleve\u2019s Works: The Minor Poems. vol. 2.  EETS\n         e.s. 73 (1925); repr. with 61, 1970 73; rev. J.\n            Mitchell and A. Ian Doyle, 1970: 61 (envoy only).\n",
+            "folio": "ff. 1-79"
+        },
+        "HunEL26A13": {
+            "First Lines": "\nMUsyng vp on the restles besyneswiche that trowbli world hathe ay\n                    on honde\u2026\n",
+            "Last Lines": "\n\u2026And if lust be to his magnyficenceDo be thi reed his welthes\n                    shal witnesse\n",
+            "Note": "\nEnds, \u2018Explicit liber de principium Regimine\u2019 before\n                    two-stanza envoy (f. 115); owned by \u2018Aluredo Corneburgh de Camera\n                    Regis\u2019 (f. 115)",
+            "Attributed Title": "\nExplicit liber de principium Regimine (f. 115)",
+            "folio": "ff. 18-115"
+        },
+        "HunHM111": {
+            "First Lines": "\nO litil book who yaf thee hardynesseThy wordes to pronounce in the\n                    presence\u2026\n",
+            "Last Lines": "\n\u2026To thee \u00feat al seist of loues feruence\u00deat knowith\n                    god whom no thyng is hid fro\n",
+            "Note": "\nEnvoy only (three stanzas of eight lines, ababbcbc).",
+            "Facsimiles": "\nBurrow,  John,  and  A. I. Doyle, eds.  \n             Thomas Hoccleve: A Facsimile of the Autograph Verse\n                Manuscripts.\nEETS\n         s.s. 19 (2002). \n",
+            "folio": "ff. 39v-40"
+        },
+        "HunHM135": {
+            "First Lines": "\nMusyng vpon the restelesse besynesseWyche that this troubly worlde\n                    hath ay on honde\u2026\n",
+            "Last Lines": "\n\u2026In swyche a cas ys wysdam to schaungegood ys your counsell be\n                    to your foos straunge\n",
+            "Note": "\nIncludes Latin glosses; ends imperfectly.",
+            "Attributed Author": "\n[Liber] qui [dictus] hocclyf compositus a Rege henrico quinto (f.\n                    1",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.   Hoccleve\u2019s Works: The Minor Poems. vol. 1.  EETS\n         e.s. 61 (1892); repr. with Gollancz (1925)\nXGollancz,  Israel. \n             Hoccleve\u2019s Works: The Minor Poems. vol. 2.  EETS\n         e.s. 73 (1925); repr. with 61, 1970 73; rev. J.\n            Mitchell and A. Ian Doyle, 1970: 61.\n",
+            "folio": "f. 1-82v"
+        },
+        "YaleBei493": {
+            "First Lines": "\nMvsyng vp on \u00fee restles bysynesWhich \u00feat \u00feis\n                        wor troubly World hath ay on hand\u2026\n",
+            "Last Lines": "\n\u2026To \u00feee \u00feat all seist of loves fervenceThat knawith\n                    he \u00feat nothing is hid froo\n",
+            "Note": "\nFormerly listed under 235.",
+            "Attributed Title": "\nExplicit Egidius de regimine principum (f.\n                    133v).",
+            "Facsimiles": "\nShailor,  Barbara A. \n             The Medieval Book: Catalogue of an Exhibition at the Beinecke Rare Book\n                and Manuscript Library, Yale University.\n         New Haven: Yale University Press, 1988: 54 (ff. 97v-98 only).\n",
+            "folio": "ff. 61-133v"
+        },
+        "PULGar137": {
+            "First Lines": "\nmewsing vppon the resteles bysynesWhiche that this troble world\n                    hath ay in hondeThat other thing than frute of bytternesNe yoldeth not\n                    as y can vnder stonde\u2026\n",
+            "Last Lines": "\n\u2026Of heuen blesse that ys endelesThe whiche \u00feou brynge the\n                    autour of pees\n",
+            "Attributed Author": "\nHokleffe (scribe, rubric, f. 1); Explicit hokcleue super Egidium de\n                        Regimine Principum vt supra (f. 81)",
+            "Attributed Title": "\nExplicit Tabula Super Egidium Regimine Principum (f.\n                    iiv); Explicit hokcleue super Egidium de Regimine Principum vs\n                        supra (f. 81).",
+            "folio": "ff. 1-81"
+        },
+        "PhilRos108330": {
+            "First Lines": "\nMVsyng vp on the restles bisynesseWhich that this world hath ay on\n                    honde\u2026\n",
+            "Last Lines": "\n\u2026Of hevenes blysse that is endelesTo which yow brynge\n                    thauctour of pees\n",
+            "Note": "\nMS not foliated; f. 77 = sig. k.7; Followed by envoy (3 x 8-line\n                    stanzas), ff. 77-77v, by another hand than main scribe: \u2018A\n                    [sic] lityl book who yaf the hardynesse / Thy wordys to pronounce in the\n                    presence\u2026 \u2026To the that al seyst of lovis servence / That knoweth he\n                    that no thyng is hid fro.\u2019",
+            "Attributed Author": "\nHokleffe (scribe, rubric, f. 1); Explicit hokcleue super Egidium de\n                        Regimine Principum vt supra (f. 81)",
+            "Attributed Title": "\nHeere endith Gylis de Regimine Principum (f.\n                    77v).",
+            "folio": "ff. 1-77"
+        }
+    }
+}

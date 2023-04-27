@@ -1,0 +1,15 @@
+{
+    "_id": 4873,
+    "_header": "Sir Thomas I tell you plain / He that made this book took great pain",
+    "Subjects": "scribes; bookplates",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Scribe\u2019s or stationer\u2019s assurance of care taken in making the book \u2014 one couplet",
+    "_witnesses": {
+        "OxfExe129": {
+            "Transcription": "\nser thomas I tell you playnhe that made thys boke toke greate\n                    payne\n",
+            "Note": "\nWritten as one line.",
+            "Editions": "\nWatson,  Andrew G.,\n                        ed.  \n             A Descriptive Catalogue of the Medieval Manuscripts of Exeter College,\n                Oxford.\n         Oxford: Oxford University Press, 2000: 114.\n",
+            "folio": "f. 50v"
+        }
+    }
+}

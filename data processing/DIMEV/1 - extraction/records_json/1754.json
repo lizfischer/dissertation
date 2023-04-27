@@ -1,0 +1,24 @@
+{
+    "_id": 1754,
+    "_header": "Hail star of the sea so bright / Thou grant us to been our guide",
+    "Title(s)": "Ave maris stella",
+    "Subjects": "Virgin Mary, hymns to; hymns, to Virgin Mary",
+    "Versification": "\u2014 twelve-line \u2014 ababababcdcd",
+    "_description": "Ave maris stella (cf. Daniel (1841)\nXDaniel, Hermann Adalbert. Thesaurus Hymnologicus sive canticorum sequentiarum circa annum MD usitatarum collectio amplissima. 5 vols. in 4. Halis, 1841-56, 1.204) \u2014 fourteen 12-line stanzas, with Latin verse couplet before each pair of stanzas",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nHeil sterre of \u00fee see so briht\u00deow graunt vs to ben vr\n                    gyde\u2026\n",
+            "Last Lines": "\n\u2026ffader and Sone and holy gostBeo wi\u00fe us nou and euere.\n                    Amen\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 735-40.\nPatterson,  Frank A. \n             The Middle English Penitential Lyric.\nColumbia University Studies in English.\n         New York: Columbia Press, 1911: 112-17.\n\n",
+            "folio": "ff. 412rc-412vb"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nHeil sterre of \u00fee see so briht\u00deou graunt vs to ben vr\n                    gyde\u2026\n",
+            "Last Lines": "\n\u2026ffader and sone and holygostBeo wi\u00fe vs nou and euere\n                    Amen\n",
+            "Attributed Title": "\nAve maris stella dei mater alma / Atque semper virgo felix celi\n                        porta (f. 133vb)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 133vb-134ra"
+        }
+    }
+}

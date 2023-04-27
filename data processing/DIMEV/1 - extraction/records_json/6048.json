@@ -1,0 +1,61 @@
+{
+    "_id": 6048,
+    "_header": "Today Saint Luke the gospeller",
+    "Note": "For the version in the \u2018expanded\u2019 Cycle see 4668.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Third Sunday after Trinity, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nTO daie saynte luke \u00fee gospellereSaise sinfull men come criste\n                    to here\u2026\n",
+            "Last Lines": "\n\u2026\u00fean of many \u00feat hafe no nedeTo do penaunce for\n                    synfull dede\u00feis es \u00fee texte of oure gospelle . Als man etc\n                    .\n",
+            "Note": "\n46 lines.",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 139v-140"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nTO day seint Luc telle\u00fe vs\u00deat synful men come to\n                    Ihesus\u2026\n",
+            "Last Lines": "\n\u2026And hou hit of heore lesyng felIn stude of tale I wol ow\n                    tel\n",
+            "Attributed Title": "\nAccesserunt ad Ihesu pubblicani (f. 199vc)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 199vc-200ra"
+        },
+        "CULAdd8335": {
+            "folio": "p. 228"
+        },
+        "CULDd11": {
+            "folio": "f. 143v"
+        },
+        "CULGg531": {
+            "folio": "f. 85v"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nTO day seint luc telle\u00fe vs\u00deat synful men come to\n                    Ihesus\u2026\n",
+            "Last Lines": "\n\u2026And hou hit of heore lesyng felIn stide of tale I wol ow[sic]\n                    tel\n",
+            "Attributed Title": "\nAccesserunt ad Ihesu publicani (f. 5ra)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 5ra-5rb"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nSo say saint luke the gospellersais synfull men come crist to\n                    her\u2026\n",
+            "Last Lines": "\n\u2026And how it of our tynynge fellIn stede of tale I will\n                    \u021dow tell\n",
+            "folio": "ff. 101v-102"
+        },
+        "Lam260": {
+            "folio": "f. 42rb"
+        },
+        "MinULZ822": {
+            "First Lines": "\nTo day saynt louke \u00fee gospellereand says \u00feat synfull men\n                    com criste to here\u2026\n",
+            "Last Lines": "\n\u2026ihesu for \u00fei mercy vs spedeTo do penaunce &\n                    \u00feider vs lede\n",
+            "Attributed Title": "\nDominica iiia post festum sancte trinitatis Secundum\n                        Lucam (f. 105v)",
+            "folio": "ff. 105v-107v"
+        },
+        "HunHM129": {
+            "First Lines": "\nTo day seith seint Luc \u00fee gospellere\u00deat synful men come\n                    crist to here\u2026\n",
+            "Last Lines": "\n\u2026And how hyt off his tynynge fellIn sted off tale I will\n                    \u021dow tell\n",
+            "Attributed Title": "\nDominica tercia post festum trinitatis (f. 119)",
+            "folio": "ff. 119-119v"
+        }
+    }
+}

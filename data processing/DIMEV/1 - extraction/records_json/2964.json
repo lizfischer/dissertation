@@ -1,0 +1,15 @@
+{
+    "_id": 2964,
+    "_header": "John John pick a bone",
+    "Subjects": "proverbs",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A proverbial couplet tr. Latin",
+    "_witnesses": {
+        "BodRawD328": {
+            "Transcription": "\nIon Ion pyke a boneto morrow \u00feu schall pyke none\n",
+            "Note": "\nTranslating \u2018Iohannes opica qui cras os non opicabis\n                    nullum\u2019, which precedes; English portion all written on one\n                    line.",
+            "Editions": "\n\nMeech,  Sanford Brown. \n             \u201cA Collection of Proverbs in Rawlinson MS D 328.\u201d \n             Modern Philology\n         38 (1940-41): 113-32: 119.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 560.\n\n",
+            "folio": "f. 141"
+        }
+    }
+}

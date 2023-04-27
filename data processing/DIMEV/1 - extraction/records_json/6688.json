@@ -1,0 +1,21 @@
+{
+    "_id": 6688,
+    "_header": "Will ye now I-hear words swith good",
+    "Title(s)": "Iacob and Iosep",
+    "Subjects": "tales, from Scripture; translations; scripture texts, paraphrases",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018Iacob and Iosep\u2019 \u2014 538 lines in couplets",
+    "_witnesses": {
+        "Bod652": {
+            "Note": "\nOne missing leaf.",
+            "Editions": "\n\nHeuser,  Wilhelm. \n             \u201cDas Fr\u00fchmittelenglische Josephlied (MS Bodley 652).\u201d \n             Sammelheft. Bonner Beitr\u00e4ge zur Anglistik herausgegeben von Prof.\n                Dr. M. Trautmann.\n         Heft 17. Bonn: Hansetin, 1905: 83-: 83.\nNapier,  Arthur Sampson,\n                        ed.  \n             Iacob and Iosep: A Middle English Poem of the Thirteenth\n                Century.\n         Oxford: Clarendon, 1916. \nKaiser,  Rolf,\n                        ed.  \n             Alt- und mittelenglische Anthologie.\n         Berlin, 1954; 3rd ed.; trans. as  Medieval English: a\n                Old English and Middle English Anthology Berlin West, 1958: 229-31 (extracts: 118 lines only).\n\n",
+            "folio": ""
+        },
+        "TokyoTak32": {
+            "First Lines": "\n\u2026ffo[r thee?] loue of Ioseph[yongge?] hee was and\n                    wyilde\u2026\n                \n",
+            "Last Lines": "\n[\u2026]ye of[\u2026][\u2026]Weell[\u2026]\n",
+            "Note": "\nTextually related but almost unrecognizable due to scribal alteration.\n                    Fragments of lines divided into half lines, with 524 being the only one clearly\n                    identifiable.",
+            "folio": "f. 3ra"
+        }
+    }
+}

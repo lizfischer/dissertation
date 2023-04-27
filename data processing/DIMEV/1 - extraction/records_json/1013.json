@@ -1,0 +1,53 @@
+{
+    "_id": 1013,
+    "_header": "Christ that died on the rood",
+    "Subjects": "sermons, verse in; translations",
+    "Bibliographic Ghosts": "Worcester, Worcester Cathedral Library F.19: not in this MS; OxfLin52: See Wenzel (1978)\nXWenzel, Siegfried. Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle English Poems. Cambridge, MA: Medieval Academy of America, 1978, 202-3.",
+    "_description": "A tag in the Fasciculus morum \u2014 one couplet freely translating 1 Cor. 5.7.",
+    "_witnesses": {
+        "Bod187": {
+            "Transcription": "\nCryst \u00feat deyd on \u00fee rodeHe ys owre lomb and ester\n                    fode\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 216va"
+        },
+        "Bod332": {
+            "Transcription": "\nCrist \u00feat died opon \u00fee rodeis our lambe our ester\n                    fode\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 190rb"
+        },
+        "BodLauMis213": {
+            "Transcription": "\nCryste \u00feat dyed on \u00fee rodeys oure lomb oure aster\n                    fode\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 210"
+        },
+        "BodLauMis568": {
+            "Transcription": "\nCriste \u00feat dyed on \u00fee rodees oure lombe & estyr\n                    fode\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 118ra"
+        },
+        "OxfCCC218": {
+            "Transcription": "\nCryst \u00feat deide on [\u00fee] rode[Is] owre lombe & ester\n                    fode\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 202.\n",
+            "folio": "f. 239v"
+        },
+        "CamGon71": {
+            "Transcription": "\nChryst \u00feat dyed vp on \u00fee rodeys oure lomb oure estre\n                    fode\n",
+            "folio": "f. 99"
+        },
+        "Cardiff": {
+            "folio": "f. 249v"
+        },
+        "EDU82": {
+            "Transcription": "\nCryste that dyed on the rodeYs owre lombe and estyr foode\n",
+            "folio": "f. 287v"
+        },
+        "Spalding": {
+            "Transcription": "\nCryst that dyed on the roodis our lambe and offerd food\n",
+            "Note": "\nWritten as prose",
+            "folio": "f. 181"
+        },
+        "VaticanOtto": {
+            "folio": "f. 113"
+        }
+    }
+}

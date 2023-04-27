@@ -1,0 +1,32 @@
+{
+    "_id": 950,
+    "_header": "By west under a wild wood side / In a land\u2026",
+    "Subjects": "mercy",
+    "Versification": "\u2014 twelve-line \u2014 ababababbcbc",
+    "_description": "Mercy Passes all Things \u2014 sixteen 12-line stanzas with refrain, \u2018Mercy passeth alle thinge\u2019",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nBI west vnder a wylde wode sydeIn a launde \u00feer I was\n                    lente\u2026\n",
+            "Last Lines": "\n\u2026Bi fore \u00fei face \u00feat we mai saiNow Merci passe\u00fe\n                    alle \u00feinge\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nVarnhagen,  Hermann. \n             \u201cDie kleinere gedichte der Vernon und Simeon handschrift.\u201d \n             Anglia\n         7 (1884): 280-315: 282-7.\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 658-63.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 125-31.\nLuria,  Maxwell Sidney,  and  Richard L. Hoffman, eds.  \n             Middle English Lyrics.\n         New York: Norton, 1974: 162-6.\n\n",
+            "folio": "f. 407ra-407rc"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nBI west vnder a wilde wode sydeIn a launde \u00feer I was\n                    lent\u2026\n",
+            "Last Lines": "\n\u2026Byfore \u00fei face \u00feat we may sayNow Merci passe\u00fe\n                    alle \u00feing\n",
+            "Attributed Title": "\nExplicit a songe of Merci (f. 129ra)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "Editions": "\nFurnivall,  Frederick James. \n             Early English Poems and Lives of Saints.\nTransactions of the London Philological Society\n         1858; Pt. 2, Berlin, 1862: 118-24.\n",
+            "folio": "ff. 128vb-129ra"
+        },
+        "BLAdd31042": {
+            "First Lines": "\nBE weste vndir a wilde wodde sydeAppon a launde there als I laye was lent\u2026\n",
+            "Last Lines": "\n\u2026By fore thi [\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0]That Mercy passes alle thynge\n",
+            "Note": "\nIn second line \u201claye\u201d after \u201cI\u201d crossed through and replaced by \u201cwas lent\u201d; last stanza squeezed at bottom of leaf two lines of verse per line of manuscript, the last few lines badly rubbed and partly illegible; ends \u201cExplicit Cantus Amen.\u201d",
+            "Attributed Title": "\nA Songe how \u00feat Mercy passeth alle thynge (f. 123vb)",
+            "Editions": "\nBrunner,  Karl. \n             \u201cHandschrift British Museum Additional 31042.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         132 (1914): 316-27: 323-7.\n",
+            "folio": "ff. 123vb-124v"
+        }
+    }
+}

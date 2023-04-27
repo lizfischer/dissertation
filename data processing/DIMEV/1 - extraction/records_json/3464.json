@@ -1,0 +1,26 @@
+{
+    "_id": 3464,
+    "_header": "Memento homo quod cinis me",
+    "Author(s)": "William Dunbar",
+    "Title(s)": "\u2018Of manis mortalite\u2019",
+    "Subjects": "mortality",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "Macaronic": "Latin",
+    "_description": "\u2018Of manis mortalite\u2019 by William Dunbar \u2014 six 8-line stanzas with refrain: \u2018Quod tu in cinerem reverteris\u2019",
+    "_witnesses": {
+        "CamMagPep2553": {
+            "First Lines": "\nMemento homo quod cinis esThink man \u00feow art bot erde and\n                    as\u2026\n",
+            "Last Lines": "\n\u2026To hald thy saule with him on lyveQuod tu in cinerem\n                    reuerteris\n",
+            "Editions": "\nCraigie,  William Alexander. \n             The Maitland Folio Manuscript, Containing Poems by Sir Richard\n                Maitland, Dunbar, Douglas, Henryson, and others.\n             2 vols. \n             Scottish Text Society\n         n.s. 7 (1919), 20 (1927); Edinburgh and London: Blackwood, 1919,\n            1927: 1.218-19.\n",
+            "folio": "pp. 193-194"
+        },
+        "Banna": {
+            "First Lines": "\nMemento homo quod cinis EssThink man thow art bot erd and\n                    ass\u2026\n",
+            "Last Lines": "\n\u2026To hald thy saule with him on LyveCum tu in cinerem\n                    reuerteris\n",
+            "Note": "\nffinis quod dumbar (f. 47v)",
+            "Facsimiles": "\nFox,  Denton,  and  William A. Ringler.  \n             The Bannatyne Manuscript: National Library of Scotland Advocates\u2019\n                MS. 1.1.6\n         London: Scolar Press, in Association with The National Library of\n            Scotland, 1980. \n",
+            "Editions": "\n\nDalrymple,  Sir David,\n                                Lord Hailes. \n             Ancient Scottish Poems.\n         Edinburgh, 1770; repr. London, 1815: 118-20.\nMorison,  Robert,\n                        ed.  \n             Select Poems of Wil Dunbar, Part First from the MS of George\n                Bannatyne.\n         Perth: Morison, 1788: 98-100.\nLaing,  David. \n             The Poems of William Dunbar.\n         2 vols. Edinburgh: Laing and Forbes, 1834; Supplement, 1865: 1.249-50.\nPaterson,  James. \n             The Works of William Dunbar.\n         Edinburgh: Stillie, 1863: 65-7.\nMurdoch,  James Barclay. \n             The Bannatyne Manuscript.\n             4 vols. in 11 parts, paged continuously. \n             Hunterian Club\n         16, 32, 40, 46, 50, 55-56, 64-67 Glasgow: Anderson, 1873-1896: 2.127-9.\nSmall,  John, Ae. James George Mackay,  George Powell McNeill,   and  Walter Gregor, eds.  \n             The Poems of William Dunbar.\n             5 pts. \n             Scottish Text Society\n         2, 4, 16, 21, 29. Edinburgh, 1884-93: 2.74-5.\nSmall,  John, Ae. James George Mackay,  George Powell McNeill,   and  Walter Gregor, eds.  \n             The Poems of William Dunbar.\n             5 pts. \n             Scottish Text Society\n         2, 4, 16, 21, 29. Edinburgh, 1884-93: 384-5.\nSchipper,  Jakob,\n                        ed.  \n             The Poems of William Dunbar.\n             4 vols. \n             Denkschriften der kaiserlichen Akademie der Wissenschaften,\n                Philosophische-Historische Klasse\n         40/2; 40/4; 41/4; 42/4. Vienna, 1892-93: 4.81-3.\nBaildon,  Henry Bellyse. \n             The Poems of William Dunbar.\n         Cambridge: University Press, 1907: 206-7.\nRitchie,  W. Tod,\n                        ed.  \n             The Bannatyne Manuscript.\n             4 parts in 4 vols. \n             Scottish Text Society\n         3rd ser. 5 (1928); n.s. 22 (1928); n.s. 23 (1930); n.s. 26 (1934)\n            Edinburgh and London: Blackwood, 1928-34; ed. by Ritchie et al: 2.117-19.\nMacKenzie,  William Mackay. \n             The Poems of William Dunbar.\n         Edinburgh, 1932: 149-50.\nBawcutt,  Priscilla J.,  and  Felicity Riddy, eds.  \n             Selected Poems of Henryson and Dunbar.\n         Edinburgh: 1992: 156-7.\n\n",
+            "folio": "ff. 47-47v"
+        }
+    }
+}

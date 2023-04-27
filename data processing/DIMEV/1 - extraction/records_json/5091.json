@@ -1,0 +1,22 @@
+{
+    "_id": 5091,
+    "_header": "Swines hall / Fiends falle",
+    "Subjects": "women, against; sermons, verse in",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Rhyming headings in a sermon on the failings of women, 9 lines, first two rhyme together, the rest are monorhyming",
+    "_witnesses": {
+        "OxfMert248": {
+            "First Lines": "\nSwynes hallefendes falle\u2026\n",
+            "Last Lines": "\n\u2026Lif reuereLoue lettere\n",
+            "Editions": "\nPfander,  Homer Garrison. \n             \u201cThe Popular Sermon of the Medieval Friar in England.\u201d \n         Diss. New York University, 1937: 50.\n",
+            "folio": "f. 132ra"
+        },
+        "CULIi38": {
+            "Transcription": "\nSwynes hallesffendes fallechurch robberWra\u00fee\n                    worcherherte renderWytte wenderlonde leserand lyf\n                    reuer\n",
+            "Note": "\nIn a sermon for Corpus Christi, Panem de celo prestitisti eis by\n                    Lawrence Bretoun, OFM; four couplets ",
+            "Attributed Title": "\nMulier mala vocatur (f. 68)",
+            "Editions": "\nStemmler,  Theo. \n             \u201cMore English Texts from MS. Cambridge University Library\n                Ii.III.8.\u201d \n             Anglia\n         93 (1975): 1-16: 6.\n",
+            "folio": "f. 68"
+        }
+    }
+}

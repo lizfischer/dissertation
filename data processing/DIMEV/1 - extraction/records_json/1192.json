@@ -1,0 +1,15 @@
+{
+    "_id": 1192,
+    "_header": "England is good land",
+    "Subjects": "Trevisa, verses in Polychronicon; England; chronicles, verse in",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Verses in praise of England, in Trevisa\u2019s trans of Higden\u2019s Polychronicon, Book I, ch. 41, translating Trevisa\u2019s verses, \u2018Anglia terra ferax et fertilis angulus orbis\u2026\u2019 \u2014 twenty couplets, partly prosified",
+    "_witnesses": {
+        "CamStJohn204": {
+            "First Lines": "\nEngelond is good londfruytful of \u00fee wolle but\n                    acorner\u2026\n",
+            "Last Lines": "\n\u2026Riches \u00feat \u00feere is an\u021dern wolde\n                    octauian\n",
+            "Note": "\nTwenty couplets, including 13 couplets formerly\n                    listed as 5041.",
+            "folio": "f. 64va-64vb"
+        }
+    }
+}

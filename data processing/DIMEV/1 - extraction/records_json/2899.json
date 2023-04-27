@@ -1,0 +1,33 @@
+{
+    "_id": 2899,
+    "_header": "Jesu sweet is the love of Thee / nothing so sweet may be",
+    "Note": "See also 5077 in which this piece has been combined with 5075",
+    "Title(s)": "Iesu dulcis memoria",
+    "Subjects": "hymns, to Christ; Christ, hymns to",
+    "Versification": "\u2014 four-line \u2014 aaaa",
+    "_description": "An expansion of the hymn, \u2018Iesu dulcis memoria\u2019 \u2014 fifty monorhyming quatrains",
+    "_witnesses": {
+        "BLHar2253": {
+            "First Lines": "\nIesu suete is \u00fee loue of \u00feeno\u00feing so suete may\n                    be\u2026\n",
+            "Last Lines": "\n\u2026bote ioie & blisse ant lykyngsuete iesu \u00feare to vs\n                    bryng\n",
+            "Attributed Title": "\nDulcis ihesu memoria (f. 77v)",
+            "Facsimiles": "\nKer,  Neil Ripley. \n             \u201cIntroduction.\u201d \n             Facsimile of British Museum MS. Harley 2253.\nEETS\n         o.s. 255 (1965). \n",
+            "Editions": "\n\nWright,  Thomas. \n             Specimens of Lyric Poetry composed in England in the Reign of Edward\n                the First.\nPercy Society\n         4. London: Richard, 1842: 68-76.\nB\u00f6ddeker,  Karl. \n             Altenglische Dichtungen des MS. Harl. 2253.\n         Berlin: Weidmann, 1878: 198-205.\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 2.11-24.\nFein,  Susanna Greer,\n                        ed.  \n             The Complete Harley 2253 Manuscript, Volume 2.\n         Kalamazoo, Michigan: Medieval Institute Publications, 2009: Booklet 5, no. 58.\n\n",
+            "folio": "ff. 77vb-78va"
+        },
+        "GULHun512": {
+            "First Lines": "\nIHesu swete is \u00fee loue of \u00feeeNoon o\u00feir \u00feing so\n                    swete may be\u2026\n",
+            "Last Lines": "\n\u2026\u00deanne haue I \u00fei wille al wrou\u021dt\u00deat hauest\n                    me ful dere bou\u021dt\n",
+            "Note": "\nStanzas 1-11 only, monorhyming",
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 111-12.\n",
+            "folio": "ff. 33-34"
+        },
+        "Chicago31": {
+            "First Lines": "\nIhesu swete his \u00fee loue of \u00feeNon o\u00feur \u00feyng so\n                    swete may beAl \u00feat I may wyt henn seTo halwn aswetnes lord to\n                    \u00feeNo song nys murworNo no yoth in herte\n                    blysfulore\u2026\n",
+            "Last Lines": "\n\u2026Hou long schal here be\u00feere I pe \u00fee tasy wyt henn\n                    se\n",
+            "Note": "\nIn this MS, 80 lines in couplets, aa (Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943 says 100\n                    but perhaps in another MS); may be incomplete here since no \u2018amen\u2019\n                    at end, followed by pastedown so last leaf of MS. Note last line very difficult\n                    to read and may be subject to correction from an edition.",
+            "Editions": "\nRobbins,  Rossell Hope. \n             \u201cTwo Fourteenth-Century Mystical Poems.\u201d \n             Modern Language Review\n         35 (1940): 320-9: 325-7.\n",
+            "folio": "f. 135-136v"
+        }
+    }
+}

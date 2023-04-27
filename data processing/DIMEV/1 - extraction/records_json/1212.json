@@ -1,0 +1,15 @@
+{
+    "_id": 1212,
+    "_header": "Ever beginneth our tale",
+    "Subjects": "ale; sermons, verse in",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A couplet tag in a Latin sermon on confession",
+    "_witnesses": {
+        "OxfBal220": {
+            "Transcription": "\neuere beginnit vre taleof drunkenesse & of alle\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nMynors,  Roger Aubrey Baskerville,\n                        ed.  \n             Catalogue of Manuscripts in Balliol College Library.\n         Oxford: Clarendon, 1962: 216.\n",
+            "folio": "f. 219va"
+        }
+    }
+}

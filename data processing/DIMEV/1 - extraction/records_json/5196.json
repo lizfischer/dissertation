@@ -1,0 +1,41 @@
+{
+    "_id": 5196,
+    "_header": "The arms of crist both god and man",
+    "Subjects": "Christ, \u2018arms\u2019 of; indulgences",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Indulgence for the Arma Christi devotions (2291, 4083, and 6744); seventeen irregular couplets.",
+    "_witnesses": {
+        "BLRoy17Axxvii": {
+            "Note": "\n32 lines.",
+            "folio": "f. 80"
+        },
+        "BlairsColl13": {
+            "First Lines": "\nThese armis of crist bo\u00fee god & manSeint petir \u00fee\n                    pope descriuid bein\u2026\n",
+            "Last Lines": "\n\u2026And half \u021der and daies \u00fereOf paradon \u00feese\n                    popes \u021deue \u00fee\n",
+            "Note": "\nWritten in rubric.",
+            "folio": "roll, item (c)"
+        },
+        "Longleat30": {
+            "First Lines": "\nThe armes of [crist?] both god and manSeynt pieter \u00fee pope\n                    discryued hem\u2026\n",
+            "Last Lines": "\n\u2026And half a yere and dayes threOf pardon these popes hath\n                    graunted the\n",
+            "Attributed Title": "\nThis is the pardon of the prayers before (f. 11v)",
+            "folio": "f. 11v-12"
+        },
+        "HarTYP193": {
+            "First Lines": "\nTheis armis of crist bothe gode an manSynt petir \u00fee pope\n                    discreuit hem\u2026\n",
+            "Last Lines": "\n\u2026Ande a halfe \u021dere ande days threof pardonne \u00fees\n                    popis ha\u00fe graunt it \u00fee\n",
+            "Note": "\nFifteen couplets only, written as prose, later crossed out and word\n                    \u2018pope\u2019 partly erased throughout.",
+            "folio": "ff. 188-189"
+        },
+        "HunHM142": {
+            "First Lines": "\nThe armes of criste both god and manSeynt peter \u00fee pope\n                    discryued hem\u2026\n",
+            "Last Lines": "\n\u2026And eche pope seyde to fore handeffor sycht of the uernacle\n                    graunted xl dayes to pardon\n",
+            "Note": "\nLines 1-17 only, written all in rubric.",
+            "Attributed Title": "\nThis is the pardon of the prayers before (f.\n                    10v).",
+            "folio": "f. 10v"
+        },
+        "Esopus": {
+            "folio": "roll, continued on dorse"
+        }
+    }
+}

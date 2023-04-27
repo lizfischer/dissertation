@@ -1,0 +1,54 @@
+{
+    "_id": 245,
+    "_header": "After this brightness and this leam / These herds come to Bethleham",
+    "Note": "For the version in the \u2018expanded\u2019 Cycle see 550.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Christ, birth of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "6771: not in this MS.",
+    "_description": "Missa in mane natalis domini, in the Northern Homily Cycle \u2014 in couplets",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nEfftir \u00feis brightnes & \u00feis leme\u00feir hirdmen come\n                    to bedleeme\u2026\n",
+            "Last Lines": "\n\u2026Als duse \u00fee takenynge of mekenesffor agaynes fendes it\n                    maste es\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 20v-21v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nAfter \u00feis brihtnes and \u00feis leem\u00feeos herdes come to\n                    Bethleem\u2026\n",
+            "Last Lines": "\n\u2026As do\u00fe \u00fee tokne of Meknesffor a\u021dein fendes\n                    most hit is\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 171rb-171rc"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nAfter \u00feis brightnes and \u00feis leme\u00deise hirdes come to\n                    Bedlehem\u2026\n",
+            "Last Lines": "\n\u2026Of mekenes to \u00feat grete blisse\u00deat to make men\n                    ordande is\n",
+            "Attributed Title": "\nEuangelium in secundam missa in die natalis domini secundum Lucam\n                    (p. 31)",
+            "folio": "pp. 32-37"
+        },
+        "CULDd11": {
+            "First Lines": "\nAfter \u00feis brihtnes & \u00feis lemthese herdis com to\n                    bethlem\u2026\n",
+            "Last Lines": "\n\u2026as do\u00fe \u00fee tokne of mekenesfor a \u021den fendis\n                    most it is\n",
+            "Note": "\nNo break between this and preceding work, 6772, in this MS, nor between this and following\n                    work, 5160.",
+            "folio": "ff. 53-54"
+        },
+        "CULGg531": {
+            "First Lines": "\nAftyr \u00feis brygnes and \u00feis leme\u00feare herdes come to\n                    bethleem\u2026\n",
+            "Last Lines": "\n\u2026Als dos \u00fee takenyng of meknesffore agayne \u00fee fende\n                    maste it es\n",
+            "Attributed Title": "\nMissa in mane Secundum lucam (f. 24v)",
+            "Editions": "\nSmall,  John,\n                        ed.  \n             English Metrical Homilies\u2026.\n         Edinburgh: W. Paterson, 1862: 64-8.\n",
+            "folio": "ff. 24v-25v"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nEftir this bryhtnes and \u00feis lemeTher hirdes come to\n                    bethleeme\u2026\n",
+            "Last Lines": "\n\u2026Als dose \u00fee takenyng of meknesffor agayne \u00fee fende\n                    mast it es\n",
+            "folio": "ff. 19v-20"
+        },
+        "HunHM129": {
+            "First Lines": "\nEfftyr \u00feis breyghnys and \u00feis leme\u00feis herdys come to\n                    bethleem\u2026\n",
+            "Last Lines": "\n\u2026As is \u00fee toknynge of mekenysffor agaynys \u00fee fendys\n                    most hyt is\n",
+            "Attributed Title": "\nIn nativitate domini (f. 11v)",
+            "folio": "ff. 11v-12v"
+        }
+    }
+}

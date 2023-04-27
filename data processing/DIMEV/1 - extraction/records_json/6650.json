@@ -1,0 +1,83 @@
+{
+    "_id": 6650,
+    "_header": "Whoso will over read this book",
+    "Note": "For the A Text see 2859; for the C Text see 1913.",
+    "Title(s)": "Long Charter of Christ",
+    "Subjects": "charters, of Christ; devotional treatises; instruction, religious",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The \u2018Long Charter of Christ\u2019 (B text) \u2014 414 lines in couplets",
+    "_witnesses": {
+        "CULEe215": {
+            "First Lines": "\n\u2026Nowe derworthy Sowle herkyn to meAnd a newe Ioye I shall\n                    telle the\u2026\n",
+            "Last Lines": "\n\u2026To that blysse I may the bryngeThat of nought made alle\n                    thyng\n",
+            "Note": "\nMissing lines 1-68.",
+            "Attributed Title": "\n\u00fee Chartur (RT)",
+            "Editions": "\nSpalding,  Mary Caroline. \n             The Middle English Charters of Christ.\n         Bryn Mawr, PA: Bryn Mawr College, 1914: 46-81.\n",
+            "folio": "ff. 107-111"
+        },
+        "CULFf238": {
+            "First Lines": "\nWho so will on rede this bokeAnd wyth hys goostly eye \u00feeron\n                    lokeTo odur scole dar he not wendeTo saue hys soule fro the\n                    fende\u2026\n",
+            "Last Lines": "\n\u2026To blysse y may the bryngeThat of noght made all\n                    thynge\n",
+            "Attributed Title": "\nhere folowe\u00fe \u00fee chartire of criste (f. 47vb)",
+            "Facsimiles": "\nMcSparran,  Frances,  and  Pamela R. Robinson.  \n             \u201cIntroduction.\u201d \n             Cambridge University Library MS Ff.2.38.\n         London: Scolar Press, 1979. \n",
+            "Editions": "\nSpalding,  Mary Caroline. \n             The Middle English Charters of Christ.\n         Bryn Mawr, PA: Bryn Mawr College, 1914: 46-81.\n",
+            "folio": "ff. 47vb-50va"
+        },
+        "CULIi326": {
+            "First Lines": "\nHho so euyr will rede this bokeAnd with gostly ey\n                    thereyn loke\u2026\n",
+            "Last Lines": "\n\u2026to that blysse he may vs bryngeThat made of no\u021dt all\n                    maner thynge\n",
+            "Attributed Title": "\nBona carta gloriose passionis do / minum nostri Ihesu christi (f.\n                        238ra); Explicit Carta Ihesu Cristi (f. 240)",
+            "Editions": "\nSpalding,  Mary Caroline. \n             The Middle English Charters of Christ.\n         Bryn Mawr, PA: Bryn Mawr College, 1914: 46-81.\n",
+            "folio": "ff. 238ra-240"
+        },
+        "CULIi49": {
+            "First Lines": "\nHo so euyr wyll rede ouyr this bokeAnd wyth his gostely yere In\n                    loke\u2026\n",
+            "Last Lines": "\n\u2026Be twen to iewes was I puttIhesu hygh g kynge of\n                    ryght\n",
+            "Note": "\nAn incomplete text.",
+            "Attributed Title": "\nExplicit feoffemente Ihesu (f. 47)",
+            "Editions": "\nSpalding,  Mary Caroline. \n             The Middle English Charters of Christ.\n         Bryn Mawr, PA: Bryn Mawr College, 1914: 46-81.\n",
+            "folio": "ff. 42v-47"
+        },
+        "BlCottCalAII": {
+            "First Lines": "\nWho so wyll ouer Rede thys bokeAnd with hys gostly ye \u00feer on\n                    loke\u2026\n",
+            "Last Lines": "\n\u2026Ihesu yn \u00feat holy placeGraunte vs to se \u00fey holy\n                    face\n",
+            "Note": "\n\u2018Amen / Explicit\u2019 by scribe at end, f.\n                    79rb.",
+            "Attributed Title": "\nCarta ihesu cristi (by scribe in upper margin, f. 77 and as RT on\n                    verso leaves thereafter); Charta Jesu Christi (f. 1, sixteenth-century\n                    list of contents)",
+            "Editions": "\nSpalding,  Mary Caroline. \n             The Middle English Charters of Christ.\n         Bryn Mawr, PA: Bryn Mawr College, 1914: 46-81.\n",
+            "folio": "ff. 77ra-79rb"
+        },
+        "BLHar2382": {
+            "First Lines": "\nWwoso wil ouer rede this bokeAnd with gostly eyen ther on\n                    loke\u2026\n",
+            "Last Lines": "\n\u2026To that blisse y may the bryngthat of myght made al\n                    thyng\n",
+            "Attributed Title": "\nTestamentum Cristi (ff. 112-118, as RT, by scribe); Explicit\n                        Testamentum Cristi (f. 118, after end of text, by scribe)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 637-57.\n",
+            "folio": "ff. 111v-118"
+        },
+        "HarRich22": {
+            "First Lines": "\nWho so wole ouer rede \u00feis bookeAnd wi\u00fe his gostly\n                    y\u021de \u00feereon lokeTo o\u00feer scole \u00fear he nat wendeTo\n                    saue his sowle fro \u00fee feende\u2026\n",
+            "Last Lines": "\n\u2026To \u00feat blysse I may \u00fee bryngeThat of nowht made all\n                    \u00feynge\n",
+            "Note": "\n422 lines; does not end imperfectly.",
+            "folio": "ff. 82v-89v"
+        },
+        "Corning6": {
+            "First Lines": "\nWho so wyll euer rede \u00feis boke& with hys gostly eyen\n                    \u00feer on lokeTo o\u00feer scole \u00feer he not wendeTo save hys\n                    soule from \u00fee fende\u2026\n",
+            "Last Lines": "\n\u2026To \u00feat blys I maye \u00fee bryng\u00deat of nou\u021dt\n                    made all \u00feyng\n",
+            "Note": "\n414 lines.",
+            "folio": "ff. 123v-130v"
+        },
+        "TokyoTak4": {
+            "First Lines": "\nWho so will ouer rede this bokeAnd with his gostly eygh theron\n                    loke\u2026\n",
+            "Last Lines": "\n\u2026To that blisse I may the bryngeThat of nought made alle\n                    thynge\n",
+            "Note": "\nSecond text after Speculum (MS unfoliated; follows table of\n                    chapters of Speculum Vitae).",
+            "Attributed Title": "\nThe chartour of oure lorde Ihesu Crist",
+            "folio": "ff."
+        },
+        "CantAdd46": {
+            "First Lines": "\nwho wyll euer rede\u2026\u2026oulke to odyr scole there\u2026he\n                    wyn\u2026\n",
+            "Last Lines": "\n\u2026for loue of the nyne monces with he y was to takemendys for\n                    thy trespas or y yn to thyswordel was borneAmen\n",
+            "Note": "\nThe resized fragment bears a number \u20184\u2019 what is the verso of\n                    the leaf. Copied as prose.",
+            "Editions": "\nBoffey,  Julia,  and  A. S. G. Edwards.  \n             \u201cUnrecorded Middle English Verse Texts in a Canterbury Cathedral Library\n                Manuscript.\u201d \n             Medium \u00c6vum\n         72 (2003): 49-62: 55.\n",
+            "folio": "ff. 4v-4"
+        }
+    }
+}

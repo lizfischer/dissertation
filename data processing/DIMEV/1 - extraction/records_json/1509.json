@@ -1,0 +1,20 @@
+{
+    "_id": 1509,
+    "_header": "Give me and I thee",
+    "Subjects": "A proverbial couplet; proverbs; translations; friendship",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "",
+    "_witnesses": {
+        "BodDou52": {
+            "Transcription": "\n\u021deue me & I the& so schul we frendes be\n",
+            "Editions": "\nF\u00f6rster,  Max. \n             \u201cDie Mittelenglische Sprichw\u00f6rtersammlung in Douce 52.\u201d \n             Festschrift zum XII Deutschen Neuphilolgentage in M\u00fcnchen\n                1906.\n            E. Stollreither, ed. \n         Erlangen (1906): 40-64: 44.\n",
+            "folio": "f. 13v"
+        },
+        "RylandsLat394": {
+            "Transcription": "\n\u021deue me and I theand so shull we frendes be\n",
+            "Note": "\nWritten on one line; translates Est in amore fides stabilis cum dem\n                        michi fides, which follows, f. 5v.",
+            "Editions": "\nPantin,  William A. \n             \u201cA Medieval Collection of Latin and English Proverbs\u2026from Rylands\n                Latin MS. 394.\u201d \n             Bulletin of the John Rylands Library\n         14 (1930): 81-114: 95.\n",
+            "folio": "f. 5"
+        }
+    }
+}

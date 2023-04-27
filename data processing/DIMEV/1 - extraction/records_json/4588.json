@@ -1,0 +1,94 @@
+{
+    "_id": 4588,
+    "_header": "Saint Edmund the holy king I-bore was here by east",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Edmund, king of England, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Southwell, Southwell Cathedral Library 7, f. 199: prose.",
+    "_description": "Life of St. Edmund the King in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "BodAsh43": {
+            "First Lines": "\nSEyn edmond \u00fee kyng of wan we make\u00fe festeOf \u00fee on\n                    ende of engelond kyng was bi este\u2026\n",
+            "Last Lines": "\n\u2026Nou god uor \u00fee loue of seynt edmond \u00feat was so noble\n                    kyngGrante ous \u00fee Ioie \u00feat he is Inne after our\n                    endyng\n",
+            "Attributed Title": "\nEdmond kinge (f. 184v)",
+            "folio": "ff. 184v-185v"
+        },
+        "Bod779": {
+            "First Lines": "\nSeint edemond \u00fee holy kyng of wham we make\u00fe gret festeof\n                    \u00fee on ende of ingelonde king was her be este\u2026\n",
+            "Last Lines": "\n\u2026Nou god for \u00fee loue of seint edemond \u00feat was so noble a\n                    kyngGraunte vs \u00fee ioye \u00feat he is in after oure ending\n",
+            "Attributed Title": "\nSent edemond \u00fee kyng (f. 104v)",
+            "folio": "ff. 104v-105v"
+        },
+        "BodLauMis108": {
+            "First Lines": "\nSEint Eadmund \u00fee holie kyng I bore was here bi esteIn \u00fee\n                    on ende of Engelonde of \u021dwam men makie\u021d feste\u2026\n",
+            "Last Lines": "\n\u2026Nov\u00fee god for \u00fee loue of Seint Eadmund \u00feat was so\n                    noble kingGraunte us \u00fee Ioye \u00feat he is Inne aftur ovre\n                    ending\n",
+            "Attributed Title": "\nVita Sancti Eadmundi regis (f. 131)",
+            "Editions": "\n\nHorstmann,  Carl,\n                        ed.  \n             The Early South-English Legendary.\nEETS\n         o.s. 87 (1887; repr. 1987): 296-9.\nHervey,  Lord Francis. \n             Corolla Sancti Edmundi.\n         London: J. Murray, 1907: 362-6.\n\n",
+            "folio": "ff. 131-132"
+        },
+        "BodLauMis463": {
+            "First Lines": "\nSEint Edmond \u00fee holy king of whom we make festeOf \u00feat on\n                    ende of engelond king he was here bi este\u2026\n",
+            "Last Lines": "\n\u2026Nou god for \u00fee loue of seint Edmond \u00feat was so noble\n                    kingGraunte vs \u00fee Ioye \u00feat he is inne After oure\n                    ending\n",
+            "Note": "\nTwo columns per page, one full-line, the other half-line.",
+            "folio": "ff. 109rb-110ra"
+        },
+        "OxfTri57": {
+            "folio": "f. 134"
+        },
+        "CULAdd3039": {
+            "First Lines": "\nSaynt Edmonde \u00fee haly kynge of whome we make grete festeOf ane\n                    ende of Ingelande he was kynge be esteffor of Sothfolke he was he was kynge\n                    of al \u00feat contre wydeffor \u00feat tyme was in Inglande was\n                    kynge\u021d on ilke a syde\u2026\n",
+            "Last Lines": "\n\u2026Now god for saynt Edmonde lufe \u00feat was \u00fee noble\n                    kyngeGraunte vs at our dede day \u00fee blisse withoute endynge\n",
+            "folio": "ff. 42-43v"
+        },
+        "CamMagPep2344": {
+            "First Lines": "\nSeint Edmund \u00fee holy kyng of whan we make\u00fe ffesteOf\n                    \u00fee on ende of Engelonde kyng was by heste\u2026\n",
+            "Last Lines": "\n\u2026Now ffor \u00fee loue of Seint Edmund \u00feat was so noble a\n                    kyngGod vs graunte \u00fee ioye \u00feat he is ynne after oure\n                    endyng\n",
+            "Attributed Title": "\nSanctus Edmundus Rex (RT)",
+            "folio": "pp. 506-508"
+        },
+        "CamTCC605": {
+            "First Lines": "\nSEint edmunde \u00fee king of wam we make\u00fe grete festeof\n                    \u00fee on ende of englonde king was here by este\u2026\n",
+            "Last Lines": "\n\u2026god for loue of seint edmund \u00feat was so noble a\n                    kynggraunte ous \u00fee Ioie \u00feat he is In after oure\n                    endyng\n",
+            "Attributed Title": "\nEdmundus Rex (RT)",
+            "folio": "ff. 160v-161v"
+        },
+        "BLCottJulDIX": {
+            "First Lines": "\nSEint edmond \u00fee holi king of wham we make\u00fe gret festeof \u00fee on ende of englond king was here by este\u2026\n",
+            "Last Lines": "\n\u2026nou god for \u00fee loue of seint edmond \u00feat was so noble kinggraunte ous \u00fee ioie \u00feat he is Inne & \u021diue ous god ending\n",
+            "Note": "\n\u201cCapitulum lxxxi\u201d added to left margin by later hand (f. 185v).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Julius MS D IX.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Julius_D_IX. \n",
+            "folio": "ff. 185v-187"
+        },
+        "BLEge2810": {
+            "First Lines": "\nSEint Edmunde \u00fee holi kinge of wan me maki\u00fe festeOf on onde of Engelonde kinge was her bi este\u2026\n",
+            "Last Lines": "\n\u2026Nou god vor \u00fee loue of Seint Edmunde \u00feat was so noble kingeGraunte ous \u00fee ioie \u00feat he is inne after oure endinge\n",
+            "Note": "\nEnds \u201cAmen.\u201d",
+            "folio": "ff. 114-114v"
+        },
+        "BLHar2277": {
+            "First Lines": "\nSEint Edmund \u00fee holi king of wham we makie\u00fe gret festeOf \u00feat on ende of Engelond kyng he was her bi este\u2026\n",
+            "Last Lines": "\n\u2026Nou god for \u00fee loue of Seint Edmund \u00feat was so noble kyngGrante ous \u00fee ioye \u00feat he is inne after oure ending\n",
+            "Note": "\nEnds \u201cAmen.\u201d",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 2277.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_2277. \n",
+            "Editions": "\n\nFurnivall,  Frederick James. \n             Early English Poems and Lives of Saints.\nTransactions of the London Philological Society\n         1858; Pt. 2, Berlin, 1862: 87-9.\nD\u2019Evelyn,  Charlotte,  and  A. J. Mill, eds.  \n             The South English Legendary: Corpus Christi College Cambridge MS. 145\n                and British Museum MS. Harley 2277, with variants from Bodley MS. Ashmole 43 and\n                British Museum MS. Cotton Julius D.ix.\nEETS\n         o.s. 235 (1959), 236 (1956); repr. 1967: 2.511-15.\n\n",
+            "folio": "ff. 162v-164"
+        },
+        "BLSto949": {
+            "First Lines": "\nSeynt edmund \u00fee holy king of whom we make\u00fe festeOf \u00fee on ende of engelonde kyng was her by este\u2026\n",
+            "Last Lines": "\n\u2026Nou god for loue of Seynt edmond \u00feat was so noble kyngGraunt vs \u00fee ioy\u021de \u00feat he is inne after our endyng\n",
+            "folio": "ff. 57-58"
+        },
+        "Lam223": {
+            "First Lines": "\nSAynt Edmund \u00fee holy kyng kyng was here by estOf \u00fee oon\n                    ende Of Englond of whom men make grete feste\u2026\n",
+            "Last Lines": "\n\u2026Now god for \u00fee love of saynt Edmund \u00fee\n                    kyng\u021ceue vs \u00fee ioye \u00feat he is ynne after oure endynge\n                    Amen\n",
+            "Attributed Title": "\nSaynt Edmund \u00fee kyng (RT)",
+            "folio": "ff. 220-221v"
+        },
+        "TokyoTak54": {
+            "First Lines": "\nSeynt Edmonde \u00fee kynge of whom we make gret festeOn \u00fee\n                    oon ende of engelonde a litel here by Este\u2026\n",
+            "Last Lines": "\n\u2026God for \u00fee loue of him \u00feat was so noble a\n                    kyngeGraunte vs \u00fee Ioye \u00feat he is Inne after our endynge.\n                    Amen.\n",
+            "Attributed Title": "\nVita sancti Edmundi Regis (f. 165)",
+            "folio": "ff. 165-166"
+        }
+    }
+}

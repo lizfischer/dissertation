@@ -1,0 +1,36 @@
+{
+    "_id": 6850,
+    "_header": "Ye worldly folk advise you betimes",
+    "Author(s)": "John Lydgate; Guillaume Deguileville",
+    "Title(s)": "P\u00e9lerinage de la vie humaine",
+    "Subjects": "translations; allegories; treatises, devotional",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "John Lydgate, translation of Deguileville\u2019s P\u00e9lerinage de la vie humaine \u2014 24832 lines in couplets",
+    "_witnesses": {
+        "BLCottTibAVII": {
+            "First Lines": "\n\u2026Which is to parffyte folk the gateTo let hem in eerly and\n                    late\u2026\n",
+            "Last Lines": "\n\u2026Vn to the world sche cast hir lookWhich vnder colowre sche\n                    fforsooke\u2026\n",
+            "Note": "\nA fragment, lines 18313-23676. First folio of text is damaged and so\n                    transcription begins with first readable line (f. 39v, l.1). Final\n                    folios of text are also damaged, so transcription ends with last readable lines\n                    (f.106, ll.17-18)",
+            "folio": "ff. 39-106v"
+        },
+        "BLCottVitCXIII": {
+            "First Lines": "\n[Y]e worldly folk avyse yow betymesWych in thys lyff\n                    ben\u2026\n",
+            "Last Lines": "\n\u2026And such a feer anoon me tookOut of my sleep that I a\n                    wook\n",
+            "Note": "\nManuscript is damaged. Space left for enlarged inital \u2018Y\u2019,\n                    which was left blank. Does not include Chaucer\u2019s \u2018ABC\u2019 hymn,\n                    but leaves a space for it: see 414.",
+            "folio": "ff. 2-309"
+        },
+        "BLSto952": {
+            "First Lines": "\nThe worldely ffolk avyse yow betymesWhich in this liff ben but as pylgrimes\u2026\n",
+            "Last Lines": "\n\u2026and suche a fere anon me tokeout of my shepe that I awokk\n",
+            "Note": "\nPreceded by Latin heading, \u201cQui peregrinaris : Hunc per librum docearis | Que bona vel dubia : Sit ffugienda via\u201d (f. 1); ends with Latin, \u201cTu es Refugium meum A Tribulacione\u201d (f. 287); original copy incomplete, with 11 lines on f. 303v and all of folios 304-379v written by the hand of John Stowe; scribal error \u201cshepe\u201d for \u201cslepe\u201d in last line.",
+            "Attributed Author": "\n\u201cJohn Lydgate his work\u201d (added by a hand of sixteenth century, top margin f. 1); \u201ccompilyd by John lydgate monke of berie\u201d (added by hand of John Stowe below Latin heading, f. 1)",
+            "Editions": "\n\nFurnivall,  Frederick James,  and  Katharine B. Locock, eds.  \n             The Pilgrimage of the Life of Man.\nRoxburghe Club\n         145. London: Nichols, 1905. \nFurnivall,  Frederick James,\n                        ed.  \n             The Pilgrimage of the Life of Man.\n             3 vols. \n             EETS\n         e.s. 77 (1899), 83 (1901), 92 (1904, ed. K. B. Locock); repr. as one\n            vol., 1973. \n\n",
+            "folio": "ff. 1-379v"
+        },
+        "WorcCi8": {
+            "Transcription": "\nYe worldly folk avyse yow betymesWych in thys lyff\u2026\n",
+            "Editions": "\nKer,  Neil Ripley. \n             Fragments of Medieval Manuscripts used as Pastedowns in Oxford\n                Bindings, with a survey of Oxford Binding c. 1515-1620.\nOxford Bibliographical Society\n         n.s. 5. Oxford: Clarendon, 1954: 177 (#1984).\n",
+            "folio": "front flyleaf (Ker Pastedowns  No. 1984)"
+        }
+    }
+}

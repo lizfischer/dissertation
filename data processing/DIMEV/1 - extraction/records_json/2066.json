@@ -1,0 +1,61 @@
+{
+    "_id": 2066,
+    "_header": "Honoured be Thou Holy Ghost on high",
+    "Author(s)": "Thomas Hoccleve",
+    "Title(s)": "P\u00e8lerinage de l\u2019\u00e2me; Song of Angels and All Saints at Pentecost",
+    "Subjects": "songs; pilgrims/pilgrimage; Whitsunday",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Thomas Hoccleve, Song of Angels and All Saints at Pentecost, in the English translation of the P\u00e8lerinage de l\u2019\u00e2me \u2014 three stanzas rhyme royal",
+    "_witnesses": {
+        "Bod770": {
+            "First Lines": "\nHonored be \u00feou holy goost on hy\u00feat vn to puple of so\n                    poore astate\u2026\n",
+            "Last Lines": "\n\u2026fful my\u021dtily \u00fei lawez to defendeHonoured be\n                    \u00feou lord with outen ende\n",
+            "Attributed Title": "\nSong for \u00fee fest of wit sonday (f. 96v)",
+            "folio": "f. 96vb"
+        },
+        "OxfCCC237": {
+            "First Lines": "\nHonowered be \u00feowe holygooste an hyghe\u00feat vn to pepull of\n                    soo poore asstatte\u2026\n",
+            "Last Lines": "\n\u2026ffull myghtely \u00fei lawes to defendehonowred be \u00feu\n                    lorde with owtyn ende\n",
+            "Note": "\nFirst two stanzas (on f. 132) written as prose",
+            "folio": "ff. 132-132v"
+        },
+        "OxfUni181": {
+            "folio": "f. 147"
+        },
+        "CamGon124": {
+            "First Lines": "\nhonowred be \u00feu holy goost only\u00feat vn to peple of so pore\n                    astate\u2026\n",
+            "Last Lines": "\n\u2026ful my\u021dtily \u00feis lawes to defendehonowred be\n                    \u00feow lord wi\u00fe owten ende\n",
+            "Attributed Title": "\nthe aungeles songe & alle o\u00feer seyntes in \u00fee feste of \u00fee\n                    holy Pentecost (f. 246)",
+            "folio": "pp. 246-247"
+        },
+        "BLAdd34193": {
+            "First Lines": "\nHonourede be \u00feou holy goste on hye\u00feat vnto pepull of so\n                    poore astate\u2026\n",
+            "Last Lines": "\n\u2026ffull myghtely \u00fei lawes to defende honorede be\u00feou\n                    ihesu withouten ende\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 95"
+        },
+        "BLAdd37049": {
+            "Editions": "\nDoty,  Brant Lee,\n                        ed.  \n             \u201cAn Edition of British Museum MS Additional 37049: a Religious\n                Miscellany.\u201d \n         Diss. Michigan State, 1969: 424.\n",
+            "folio": "f. 77"
+        },
+        "BLEge615": {
+            "First Lines": "\nHOnured be thu holy gost in hieThat vn to poeple of so pore astate\u2026\n",
+            "Last Lines": "\n\u2026fful myghtly thi law ys to offendeHonured be thu lord with owt ende\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             \u201cHoccleve\u2019s Works: The Regement of Princes and fourteen minor\n                poems.\u201d \n             EETS\n         e.s. 72 (1897); repr. 1988: li.\n",
+            "folio": "ff. 102-102v"
+        },
+        "HatCP270": {
+            "folio": "unfoliated"
+        },
+        "NYPLSpenc19": {
+            "First Lines": "\nHonoured be \u00feu holy goost in hyThat vn to peple of so pore\n                    estate\u2026\n",
+            "Last Lines": "\n\u2026fful myghtily thy lawes to defendehonoured be \u00feu lord\n                    with outen ende\n",
+            "Attributed Title": "\nThe aungeles song and alle othere seintes in the feste of Pentecost (f.\n                    131)",
+            "folio": "f. 131"
+        },
+        "MelSLV096G94": {
+            "Note": "\n2 additional stanzas.",
+            "folio": "f. 209"
+        }
+    }
+}

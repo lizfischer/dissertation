@@ -1,0 +1,69 @@
+{
+    "_id": 125,
+    "_header": "A monk was in Religion / And to backbiting was ever boune",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "monks, criticism/satire of; tales, religious didactic",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Backbiting Monk, in the Northern Homily Cycle \u2014 in couplets",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nA Monke was in religioune\u00feat to bakbitinge was aie\n                    boune\u2026\n",
+            "Last Lines": "\n\u2026God bringe vs \u00feidir all sameneffor \u00feare es endeles\n                    mirthe & gamen\n",
+            "Note": "\n33 couplets.",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 226v-227"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nA Monk was In ReligiounAnd to Bakbyting was euer\n                    boun\u2026\n",
+            "Last Lines": "\n\u2026God bring vs \u00feider alle in same\u00feer is endeles pley\n                    and game. Amen.\n",
+            "Attributed Title": "\nOf a monk \u00feat was abacbytere (f. 213vb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDie Evangelien-Geschichten der Homiliensammlung des Ms. Vernon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         57 (1877): 241-316: 310.\n",
+            "folio": "ff. 213vb1"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nA monke was in religioune\u00deat til bakbityng was ay\n                    vonne\u2026\n",
+            "Last Lines": "\n\u2026God lene vs grace alle so to beAnd graunte vs luf and\n                    charite\n",
+            "folio": "pp. 347-349"
+        },
+        "CULDd11": {
+            "First Lines": "\nA Monk was in religiown\u00deat to bakbiting was ay\n                    bown\u2026\n",
+            "Last Lines": "\n\u2026to heuene blisse he bringe vsGoddis sone crist\n                    ihesus\n",
+            "Attributed Title": "\nNarracio de Monacho de tractore (f. 208)",
+            "folio": "ff. 208-208v"
+        },
+        "CULGg531": {
+            "First Lines": "\nA monk in relion\u00deat tyll bakbytyng was ay\n                    won\u2026\n",
+            "Last Lines": "\n\u2026God bryng vs \u00feeder all samenffor \u00fear ys endles yoye\n                    & gamen\n",
+            "Attributed Title": "\nNarracio (f. 150v)",
+            "folio": "ff. 150v-151"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nA Monk was in ReligiounAnd to bakbityng was euer\n                    boun\u2026\n",
+            "Last Lines": "\n\u2026God bring vs \u00feider alle in same\u00deere is endeles play\n                    and game. Amen\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 17vb-17vc"
+        },
+        "BLHar2391": {
+            "First Lines": "\nA monk was in religion\u00feat to bakbityng was ay wone\u2026\n",
+            "Last Lines": "\n\u2026god bryng vs to heuen all sameffor \u00fear es endlis myrth & game\n",
+            "Note": "\nEnds \u201cAmen.\u201d",
+            "Attributed Title": "\nDominica xxii (left margin. f. 224) with \u201cA tale\u201d written below",
+            "folio": "ff. 224-224v"
+        },
+        "Lam260": {
+            "folio": "f. 61va"
+        },
+        "MinULZ822": {
+            "First Lines": "\nAne monke was in religione\u00feat tyll backbyttyng was ay\n                    wone\u2026\n",
+            "Last Lines": "\n\u2026To byng [sic] vs all \u00feidere same\u00deare es endles play\n                    and game\n",
+            "folio": "ff. 183-183v"
+        },
+        "HunHM129": {
+            "First Lines": "\nA monk wos in relygyoune\u00deat to bacbytyng wos euyr i\n                    boune\u2026\n",
+            "Last Lines": "\n\u2026God brynge vs \u00feiddyr all samyn\u00deare euyr is ioy and\n                    gamyn\n",
+            "Attributed Title": "\nrelacio (f. 192v)",
+            "folio": "ff. 192v-193"
+        }
+    }
+}

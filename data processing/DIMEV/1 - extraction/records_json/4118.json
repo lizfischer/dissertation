@@ -1,0 +1,29 @@
+{
+    "_id": 4118,
+    "_header": "O ye that put your trust and confidence",
+    "Note": "Formerly 4263.3.",
+    "Author(s)": "Thomas More (attrib.)",
+    "Title(s)": "The lamentacioun off quene Ely\u021dabeth",
+    "Subjects": "Elizabeth of York, queen; laments",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "Macaronic": "Latin",
+    "_description": "\u2018The lamentacioun off quene Ely\u021dabeth\u2019, A.D. 1503, ascribed to Thomas More \u2014 twelve stanzas rhyme royal, with Latin lines and refrain, \u2018\u2026lo here I lye\u2019. Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler TM 1257.",
+    "_witnesses": {
+        "OxfBal354": {
+            "First Lines": "\nYe \u00feat put your trust & confydenceIn worldly riches &\n                    frayll prosperyte\u2026\n",
+            "Last Lines": "\n\u2026I me commend to thy Infenyte mercyShew to thi seruaunt now\n                    for lo here I lye\n",
+            "Note": "\nFollowed by 1999.",
+            "Attributed Title": "\nThe lamytacoun off / quene Elyzabeth (p. 371)",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 184-8.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 97-9.\n\n",
+            "folio": "pp. 371-373"
+        },
+        "BLSl1825": {
+            "First Lines": "\nO you that putt youre trust and convidenceIn worldely Ioye and\n                    ffrayle Prosperytethat leve here as you shuld never henceRemember deth\n                    and loke vp here to me\u2026\n",
+            "Last Lines": "\n\u2026I me commend to thy Infenyte mercyeshewe to thy seruaunt for\n                    lo nowe here I lye\n",
+            "Note": "\nAdded to blank leaves at end of volume by a hand of the sixteenth\n                    century; first word (in a few cases first two words) of each stanza written in\n                    larger script in left margin beside first line of each.",
+            "Attributed Title": "\nO You that putt youre trust & convydence (f. 88v, written by\n                    scribe immediately above first line in slightly larger script)",
+            "folio": "f. 88v-89v"
+        }
+    }
+}

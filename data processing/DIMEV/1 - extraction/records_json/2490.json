@@ -1,0 +1,56 @@
+{
+    "_id": 2490,
+    "_header": "In Egypt whilom as I read and find",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "Fabula duorum mercatorum",
+    "Subjects": "fables; friendship; envoys",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lydgate, Fabula duorum mercatorum \u2014 130 stanzas rhyme royal, including Envoy",
+    "_witnesses": {
+        "BodRawPoe32": {
+            "First Lines": "\nIN Egipt whilom as I reede and fyndether dwellid a Marchaunt of hih\n                    and gret sttat\u2026\n",
+            "Last Lines": "\n\u2026Rith in to Egipt he is gon a geynOf heer freendschip what\n                    shold y you more seeyn\n",
+            "Note": "\nEnds imperfectly.",
+            "Editions": "\nZupitza,  Julius,  and  Gustav Schleich.  \n             Lydgate\u2019s Fabula duorum mercatorum.\nQuellen und Forschungen\n         83. Strassburg: Tr\u00fcbner, 1897. \n",
+            "folio": "ff. 38-53v"
+        },
+        "CULHh412": {
+            "First Lines": "\nIn Egipt whilom as I rede and fyndthere dwellyd a marchand of hygh\n                    & gret estate\u2026\n",
+            "Last Lines": "\n\u2026thys my desire in all degres of menthat it so be I pray\n                    \u021dow sey amen finit\n",
+            "folio": "ff. 61-77"
+        },
+        "BLAdd34360": {
+            "First Lines": "\n[I]N egipt whilom as I rede and fyndeThere dwellid a Merchaunt of\n                    high and grete Renoun\nestate\u2026\n",
+            "Last Lines": "\n\u2026This is my desire in al degrees of menThat it so be I pray\n                    you sey al Amen\n",
+            "Attributed Title": "\nExplicit ffabula virorum Mercatorum / De et super gestis Romanorum\n                    (f. 18v)",
+            "Editions": "\nZupitza,  Julius,  and  Gustav Schleich.  \n             Lydgate\u2019s Fabula duorum mercatorum.\nQuellen und Forschungen\n         83. Strassburg: Tr\u00fcbner, 1897. \n",
+            "folio": "ff. 4-18v"
+        },
+        "BLHar2251": {
+            "First Lines": "\nIn Egipt whilom as I rede and fyndTher dwellyd a Merchaunt of hye\n                    and grete estate\u2026\n",
+            "Last Lines": "\n\u2026This is my desire in al degres of MenThat it so be I prey yov\n                    sey all Amen\n",
+            "Attributed Title": "\nExplicit ffabula duorum Mercatorum / De et super gestis Romanorum\n                    (f. 70)",
+            "Editions": "\nZupitza,  Julius,  and  Gustav Schleich.  \n             Lydgate\u2019s Fabula duorum mercatorum.\nQuellen und Forschungen\n         83. Strassburg: Tr\u00fcbner, 1897. \n",
+            "folio": "ff. 55-70"
+        },
+        "BLHar2255": {
+            "First Lines": "\nIN Egipt whilom as I reede and fyndether dwellyd a marchaunt of hih\n                    & gret estat\u2026\n",
+            "Last Lines": "\n\u2026this my desyr in al degrees of menThat it so be I pray you\n                    seith Amen\n",
+            "Attributed Author": "\nExplicit quod lidgate",
+            "Editions": "\n\nZupitza,  Julius,  and  Gustav Schleich.  \n             Lydgate\u2019s Fabula duorum mercatorum.\nQuellen und Forschungen\n         83. Strassburg: Tr\u00fcbner, 1897. \nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 486-516.\n\n",
+            "folio": "ff. 72-88"
+        },
+        "BLLan699": {
+            "First Lines": "\nIn Egipt whilom as I rede and fyndeTher dwellid a marchaunt of hih\n                    & gret estat\u2026\n",
+            "Last Lines": "\n\u2026This my desire in all degrees of menThat it so be I pray yow\n                    seith Amen\n",
+            "Note": "\nFolio number reflects the most recent foliation.",
+            "Attributed Title": "\nExplicit de fideli amore duorum mecatorum (f. 18)",
+            "Editions": "\nZupitza,  Julius,  and  Gustav Schleich.  \n             Lydgate\u2019s Fabula duorum mercatorum.\nQuellen und Forschungen\n         83. Strassburg: Tr\u00fcbner, 1897. \n",
+            "folio": "ff. 3-18"
+        },
+        "Leiden": {
+            "Editions": "\nZupitza,  Julius,  and  Gustav Schleich.  \n             Lydgate\u2019s Fabula duorum mercatorum.\nQuellen und Forschungen\n         83. Strassburg: Tr\u00fcbner, 1897. \n",
+            "folio": "f. 49"
+        }
+    }
+}

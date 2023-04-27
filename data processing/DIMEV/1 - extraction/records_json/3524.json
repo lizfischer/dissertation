@@ -1,0 +1,32 @@
+{
+    "_id": 3524,
+    "_header": "Miseremini mei ye that been my friends",
+    "Note": "Four lines apparently adapted from st. 1, lines 1-3, appear beneath the Latin epitaph of Thomas Dalby, Archdeacon of Richmond, d. 26 Jan. 1526, in north aisle of choir in York Minster, pr. Leach (1903)\nXLeach, Arthur Francis. Memorials of Beverly Minster. The Chapter Act Book of the Collegiate Church of S. John of Beverley A. D. 1286-1347. Vol. 2.\nSurtees Society 108 (1903), xcv.",
+    "Author(s)": "John Skelton (attrib.)",
+    "Subjects": "Edward IV, lamentation of soul of; laments",
+    "Versification": "\u2014 twelve-line stanza \u2014 ababcdcdefef",
+    "Macaronic": "Latin",
+    "_description": "The lamentation of the soul of Edward IV, attributed to Skelton \u2014 in 12-line stanzas (ababcdcdefef) with refrain, \u2018Ecce nunc in puluere dormio\u2019",
+    "_witnesses": {
+        "BLHar4011": {
+            "First Lines": "\nMiseremini mei ye that ben my ffryndysThis world hath enformyd me\n                    fforto fall\u2026\n",
+            "Last Lines": "\n\u2026As I forsayd youre kyng I wasEt ecce nunc in puluere\n                    dormio\n",
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 250-3.\n",
+            "folio": "ff. 169v-170v"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nMiseremini mei ye that be my fryndysthe worlde hathe informed me\n                    for to fawlle\u2026\n",
+            "Last Lines": "\n\u2026As ferst sayd yowr kynge I wasEt ecce nunc in pulvere\n                    dormio\n",
+            "Attributed Author": "\nSkelton (f. 8)",
+            "Attributed Title": "\nhere folowythe the Epitaphy of Kynge Edward \u00fee fowrthe complyd\n                        [sic] by Iohn lidgate monke of burye\nSkelton (f. 8, as heading all by scribe\u2014John\n                    Stow\u2014including crossing through and substituting \u2018Skelton\u2019);\n                    \u2018Explicit \u00fee Epitaffe of Kynge edward the fowrthe made by Iohn\n                    lidgate monke of bery skelton\u2019 (f. 9r below last line all by scribe (John\n                    Stow) including crossing through and substituting \u2018Skelton')",
+            "folio": "ff. 8-9"
+        },
+        "Corning6": {
+            "First Lines": "\n\n[M]iserere mei \u021de \u00feat be my frendisfor \u00fee\n                    world ha\u00fee enformid me to fall\u2026\n",
+            "Last Lines": "\n\u2026As I arst seyd \u021dour kyng I wasEt Ecce nunc in puluere\n                        dormio\n\n",
+            "Note": "\nFive stanzas.",
+            "Attributed Title": "\nExplicit A lamentable of kyng Edward \u00fee iiii (f. 132)",
+            "folio": "ff. 131-132"
+        }
+    }
+}

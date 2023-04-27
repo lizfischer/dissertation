@@ -1,0 +1,24 @@
+{
+    "_id": 2829,
+    "_header": "Jesu Christ that is so free / To mans soul speaketh he",
+    "Title(s)": "A luytel tretys of loue, of Godes passyon",
+    "Subjects": "Christ, Passion of; Passion; Christ, appeal of, to man",
+    "Versification": "\u2014 four-line \u2014 aaaa",
+    "_description": "Christ\u2019s Appeal to Man, \u2018A luytel tretys of loue, of Godes passyon\u2019 \u2014 in quatrains",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nIhesu Crist \u00feat is so freTo Monnes soule speke\u00fe\n                    he\u2026\n",
+            "Last Lines": "\n\u2026\u021diue vs for \u00fein holy mihtAlle comen to heuene\n                    briht. Amen.\n",
+            "Attributed Title": "\nA luytel tretys of loue / Of Godes passyon (f. 299rb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 462-4.\n",
+            "folio": "f. 299rb-299rc"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nIhesus Crist \u00feat is so freTo Monnes soule speke\u00fe\n                    he\u2026\n",
+            "Last Lines": "\n\u2026\u021cif vs for \u00fein holy mihtAlle comen to heuene briht\n                    Amen\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 89vc-90ra"
+        }
+    }
+}

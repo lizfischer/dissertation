@@ -1,0 +1,29 @@
+{
+    "_id": 1216,
+    "_header": "Ever is the eye to the wood lay / Therein is that I love",
+    "Note": "Cf. 5887.",
+    "Title(s)": "Ancrene Riwle",
+    "Subjects": "proverbs",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Macaronic": "Latin",
+    "_description": "A proverbial saying, followed by miscellaneous lines and snatches, possibly verse, found in the Ancrene Riwle \u2014 couplets",
+    "_witnesses": {
+        "BLCottCleoCVI": {
+            "Transcription": "\nAch eauer is \u00fee echse to \u00fee \u01bfodelese& \u00fee halde bucke climbe\u00f0 \u00feer uppe\n",
+            "Note": "\nOlim f. 38. Variant second line means this is not rhyming.",
+            "Editions": "\n\nWilson,  Richard Middlewood. \n             \u201cMore Lost Literature in Old and Middle English.\u201d \n             Leeds Studies in English\n         5 (1936): 1-49: 6.\nWilson,  Richard Middlewood. \n             The Lost Literature of Medieval England.\n         London: Methuen, 1952: 174.\nMorton,  James. \n             The Ancren Riwle.\nCamden Society\n         o.s. 57 (1853): 96.\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: xi.\nWhiting,  Bartlett Jere. \n             \u201cReview of Brown (1932)\nXBrown,  Carleton Fairchild. \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932.\u201d \n             Speculum\n         9 (1934): 219-25: 219.\nDobson,  Eric John. \n             \u201cThe English Text of the Ancren Riwle.\u201d \n             EETS\n         o.s. 267. London: Oxford UP, 1972. \n\n",
+            "folio": "f. 39"
+        },
+        "BLCottNeroAXIV": {
+            "Transcription": "\neuer is \u00f0e eie to \u00f0e \u01bfude leie\u00feerinne is \u00feet\n                    ich luuie\n",
+            "Note": "\nOne line only; written as prose.",
+            "Editions": "\nDay,  Mabel,\n                        ed.  \n             The English Text of the Ancrene Riwle, British Museum MS Cotton Nero A.\n                xiv.\nEETS\n         o.s. 225 (1952); repr. 1957: 42.\n",
+            "folio": "f. 23v"
+        },
+        "TCD97": {
+            "First Lines": "\nEuir is min eyein \u00fee wode leieIn quam\n                        delectantillic mea lumina spectant\u2026\n",
+            "Last Lines": "\n\u2026In te ducenteme lumina fixa uident te\n\n",
+            "folio": "f. 272vb"
+        }
+    }
+}

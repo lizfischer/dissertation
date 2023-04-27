@@ -1,0 +1,24 @@
+{
+    "_id": 1773,
+    "_header": "Harkeneth all good men and still sitteth a-down",
+    "Title(s)": "lutel soth Sermun",
+    "Subjects": "advice, spiritual; religious instruction; sermons",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018A lutel soth Sermun\u2019 \u2014 fifty-four long lines in couplets, with occasional medial rhyme",
+    "_witnesses": {
+        "OxfJesus29": {
+            "First Lines": "\nHerkne\u00fe alle gode men and stylle sitte\u00fe a dunAnd ich ou\n                    wile tellen a lutel so\u00fe sermun\u2026\n",
+            "Last Lines": "\n\u2026Al so wis so he god is for hire erendyngeTo \u00fee blysse of\n                    heouene he vs alle brynge\n",
+            "Editions": "\n\nMorris,  Richard,\n                        ed.  \n             An Old English Miscellany: A Bestiary, Kentish Sermons, Proverbs of\n                Alfred and Religious Poems of the Thirteenth Century.\nEETS\n         o.s. 49 (1872); repr. 1988: 186-91.\nKaiser,  Rolf,\n                        ed.  \n             Alt- und mittelenglische Anthologie.\n         Berlin, 1954; 3rd ed.; trans. as  Medieval English: a\n                Old English and Middle English Anthology Berlin West, 1958: 284.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 11-12.\n\n",
+            "folio": "Part II, f. 185"
+        },
+        "BLCottCalAIX": {
+            "First Lines": "\nHerkine\u00f0 alle gode men and stille sitte\u00fe adounAnd ich eou \u01bfule tellen a lutel sermum\u2026\n",
+            "Last Lines": "\n\u2026Also wis so he god his for hire erndingeTo \u00fee blisse of heuene he us all bringAMEN\n",
+            "Note": "\nWritten as prose.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Caligula MS A IX.\n         http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Caligula_A_IX. \n",
+            "Editions": "\n\nMorris,  Richard,\n                        ed.  \n             An Old English Miscellany: A Bestiary, Kentish Sermons, Proverbs of\n                Alfred and Religious Poems of the Thirteenth Century.\nEETS\n         o.s. 49 (1872); repr. 1988: 186-91.\nWright,  Thomas,\n                        ed.  \n             The Owl and the Nightingale.\nPercy Society\n         11. London: Richard, 1843: 80-4.\n\n",
+            "folio": "ff. 248va2-249ra"
+        }
+    }
+}

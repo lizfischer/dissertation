@@ -1,0 +1,15 @@
+{
+    "_id": 5754,
+    "_header": "This sorrowful death which bringeth great full low",
+    "Note": "Formerly included under 6322.",
+    "Subjects": "chronicles, verse in; Edward I, death of; elegies",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Ballade on the death of Edward I, translating Latin lines that were hung over his tomb, which precedes it, in Part VII of Fabyan\u2019s Chronicle, Septima Pars, Edwardi Primi \u2014 six stanzas rhyme royal",
+    "_witnesses": {
+        "HarEng766": {
+            "First Lines": "\nThis Sorowffull deth which bringeth grete full loweAnd moost &\n                    leest he Ioyneth In to comeThis man to whom his pere was nott\n                    knoweHath now subduyd not spatyng hym aloon\u2026\n",
+            "Last Lines": "\n\u2026That lord of his Ioy perdurable to lastGrant hym Sorowlees\n                    Evirmore to tast\n",
+            "folio": "ff. 133-134"
+        }
+    }
+}

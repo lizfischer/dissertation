@@ -1,0 +1,16 @@
+{
+    "_id": 3418,
+    "_header": "Mary is a lady bright / She hath a son of much might",
+    "Subjects": "carols, to Virgin Mary",
+    "Versification": "\u2014 four-line \u2014 aaab",
+    "Macaronic": "Latin",
+    "_description": "Carol on the Virgin \u2014 five quatrains (aaab) with Latin caudae and burden: A a a a / Nu[nc] gaudet maria",
+    "_witnesses": {
+        "BLSl2593": {
+            "First Lines": "\nMary is a lady bryghtSche haght a sone of meche\n                    myght\u2026\n",
+            "Last Lines": "\n\u2026God graunt vs alle good endyngeRegnat dei\n                    gracias\n\n",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             Songs and Carols.\nWarton Club\n         4. London: Richards, 1856: 23-4.\nFehr,  Bernhard. \n             \u201cDie Lieder des HS. Sloane 2593.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         109 (1902): 33-72: 48.\nChambers,  Edmund Kerchever,  and  Frank Sidgwick.  \n             Early English Lyrics\u2026.\n         London: Buller, 1907, 1911 et seq: 108.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 139-40; 1977, 123-4.\n\n",
+            "folio": "f. 8v"
+        }
+    }
+}

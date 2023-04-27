@@ -1,0 +1,27 @@
+{
+    "_id": 747,
+    "_header": "Bachus which is god of the glad vine",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 235.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "A Mumming at Eltham",
+    "Subjects": "occasional verse; pageant verse; envoys",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lydgate, A Mumming at Eltham \u2014 twelve stanzas rhyme royal including Envoy and alternating refrains: \u2018Pees with your leges plente and gladness\u2019 and \u2018Ay by encresse Ioye gladness of harte\u2019",
+    "_witnesses": {
+        "CamTCC600": {
+            "First Lines": "\nBachus which is god of \u00fee glade vyneIuno and Ceres acorded\n                    alle \u00feeos threeThorughe \u00feeyre power which \u00feat is\n                    devyneSende nowe \u00feeyre gifftes vn to your magestee\u2026\n",
+            "Last Lines": "\n\u2026To you pryncesse al so yif yee aduerteAy be encresse Ioye\n                    gladdnesse of herte\n",
+            "Attributed Title": "\nLoo here begynne\u00fee a balade made by daun John Lidegate at Eltham in\n                    Cristmasse for a momyng to fore \u00fee Kyng and \u00fee Qwene (p. 37); \u00fee\n                    maner of a moumynge To fore \u00fee Kynge at Elthame (RT)",
+            "Editions": "\n\nBrotanek,  Rudolph. \n             Die Englischen Maskenspiele.\n         Vienna, Leipzig: W. Braum\u00fcller, 1902: 306-8.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 672-4.\n\n",
+            "folio": "pp. 38-40"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nBachus which is god of the glade vyneIuno and Ceres accorded all\n                    thes thre\u2026\n",
+            "Last Lines": "\n\u2026to you pryncesse also yff ye aduerteAy by encresse Ioye\n                    gladnesse of harte\n",
+            "Note": "\nEnds \u2018fynis\u2019 (f. 136v).",
+            "Attributed Author": "\nIohn Lidgate (f. 135v)",
+            "Attributed Title": "\nLoo here begenneth a balade made by dan Iohn Lidgate at elltham in\n                    cristmasse ffor a momyng to fore the kynge and the Qwene (f. 135v, by\n                    scribe) ",
+            "folio": "ff. 135v-136v"
+        }
+    }
+}

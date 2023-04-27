@@ -1,0 +1,17 @@
+{
+    "_id": 1399,
+    "_header": "For thing that is to asken",
+    "Author(s)": "John Grimestone",
+    "Subjects": "prayer",
+    "Macaronic": "Latin",
+    "_description": "Instructions in prayer \u2014 seven lines, probably monorime, possibly a translation of the Latin Pro debita circum\u2026 which precedes it in John Grimestone\u2019s sermon notes",
+    "_witnesses": {
+        "NLS18721": {
+            "First Lines": "\nFor \u00feing \u00feat is to askyn [ ]With stedefast herte &\n                    lesten [ ]\u2026\n",
+            "Last Lines": "\n\u2026with good hope of fordingge [ ]In time \u00feat is nouth to\n                    chelen [ ]& \u00feat man prey for himself ouer al [ ]Pro debita\n                    circum [ ]\n",
+            "Note": "\nTorn away at edge.",
+            "Editions": "\nWilson,  Edward. \n             A Descriptive Index of the English Lyrics in John of Grimestone\u2019s\n                Preaching Book.\nMedium \u00c6vum Monographs\n         n.s. 2. Oxford, 1973: 1.\n",
+            "folio": "f. 1rb"
+        }
+    }
+}

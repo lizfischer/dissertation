@@ -1,0 +1,39 @@
+{
+    "_id": 5966,
+    "_header": "To call Clio my dullness to redress",
+    "Note": "Cf. 3833.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "Life of St. Alban and St. Amphibal",
+    "Subjects": "saints\u2019 lives; Alban, saint, life of; Amphibal, saint, life of",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lydgate, Life of St. Alban and St. Amphibal \u2014 4724 lines generally in rhyme royal",
+    "_witnesses": {
+        "OxfTri38": {
+            "folio": "f. 1"
+        },
+        "BLLan699": {
+            "First Lines": "\nTo calle Clio my dulnesse to redresseWith alle hir sustren dwellyng\n                    at Elicon\u2026\n",
+            "Last Lines": "\n\u2026Worthi bi vertu & bi Roial lyneTo be registred a mong the\n                    worthi nyne\n",
+            "Attributed Author": "\nwritten by Iohn Lidgate at the request of Mr Iohn Whetchamsted abbot of St\n                    Albons in the yeare 1439 (f. 96, later hand)",
+            "Attributed Title": "\nThe legend of Saint Alban written (f. 96, later hand); Heer endith the\n                    livis & passiouns of seynt Albon & seynt Amphibal translatid out of\n                    frenssh & latin bi dan Iohn lidgate at the request of Mastir Iohn\n                    Whetehamstede abbot of seynt Albon the yeer of our lord M CCCC XXIX (f.\n                        176v)",
+            "Editions": "\nWesthuizen,  J. E. van der,  and  Siegfried Wenzel, eds.  \n             John Lydgate, The Life of St. Alban and St. Amphibal.\n         Leiden: Brill, 1974. \n",
+            "folio": "ff. 96-175"
+        },
+        "Lincoln129": {
+            "Note": "\nBegins imperfectly.",
+            "folio": "ff. 1-67v"
+        },
+        "InnerTem51111": {
+            "First Lines": "\nTO call Clio My dulnesse to RedresseWith all her Sustres dwellyng\n                    at Elicon\u2026\n",
+            "Last Lines": "\n\u2026Like an Ymage voyde of all dyvisounO prothomartir of Brutus\n                    Albioun\n",
+            "Attributed Title": "\nThus endeth the gloryous lyff and Passoun of the / blessid Martyr Seynt\n                    Alboun and seynt Amphiball / Which glorious lyves were translatyd oute of\n                    ffrenssh / and latein by Dan Iohn Lidgate Monke of Bury / att the Request and\n                    prayer of Maister Iohn / Whethamstede the yere of oure lord Ml CCCC\n                    and / xxxix and of the seid Mayster Iohn Whethamstede / of his Abbesye xix yere\n                    (f. 65v)",
+            "folio": "ff. 1-65"
+        },
+        "HunHM140": {
+            "First Lines": "\nTO call Clio my dulnesse to redresseWith all her susters dwelling\n                    at Elicon\u2026\n",
+            "Last Lines": "\n\u2026Like an ymage voide of divisiounO prothomartir of Brutis\n                    Albioun\n",
+            "Attributed Title": "\nHere endith the glorious lyf and passyon of the blessid martir Seint Albone\n                    and seint Amphiball which glorious livis were translatid oute of ffrenssh and\n                    latyn by dane Iohn Lydgate Monke of Bury at \u00fee request and prayer of Master\n                    Iohn Whethamstede the yere of oure lord Ml CCCC xxxix and of the said Master\n                    Iohn Whethamstede of his Abisse xix (f. 67)",
+            "folio": "ff. 1-67"
+        }
+    }
+}

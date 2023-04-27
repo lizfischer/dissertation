@@ -1,0 +1,29 @@
+{
+    "_id": 1329,
+    "_header": "Fleshly lusts and feasts / And furs of diverse manner of beasts",
+    "Note": "Cf. 3280.",
+    "Title(s)": "\u2018Destroy the pryde of womens hornes\u2019",
+    "Subjects": "women, against",
+    "Versification": "\u2014 eight-line, six-line \u2014 aabccb",
+    "_description": "\u2018Destroy the pryde of womens hornes\u2019",
+    "_witnesses": {
+        "Bod123": {
+            "First Lines": "\nfflesly lustes & festesAnd fururers of dyuerse\n                    bestes\u2026\n",
+            "Last Lines": "\n\u2026And women with thayre hye hedysHaue almost lost thys\n                    londe\n",
+            "Note": "\nFirst stanza only: six lines.",
+            "Attributed Author": "\nGrygges (margin, f. 6v)",
+            "folio": "f. 6v"
+        },
+        "OxfCCC274": {
+            "First Lines": "\nFleshly lustys and festysAnd furres of divers manner of\n                    bestys\u2026\n",
+            "Note": "\nEight lines.",
+            "Editions": "\n\nCoxe,  Henry Octavius. \n             Catalogus codicum mss. qui in collegiis aulisque\n                oxoniensibus\u2026.\n         Oxon: e Typographeo academico, 1852: 117.\nWright,  Thomas,\n                        ed.  \n             Political Poems and Songs relating to English History, composed during\n                the period From the Accession of Edward III to that of Richard III.\n             2 vols. \n             Rolls Series\n         14 (1859, 1861); repr. Kraus, 1965: 1.252.\n\n",
+            "folio": "f. 155"
+        },
+        "ArmaghReg": {
+            "Note": "\nTwo 6-line stanzas.",
+            "Editions": "\n\nCotton,  Henry. \n             Fasti Ecclesiae Hibernicae.\n         5 vols. Dublin: Hodges & Smith, 1848-60: 3.vi.\nSeymour,  St. John Delincourt. \n             \u201cThree Medieval Poems from Kilkenny.\u201d \n             Proceedings of the Royal Irish Academy\n         41(c) (1932-33): 205-9: 209.\n\n",
+            "folio": ""
+        }
+    }
+}

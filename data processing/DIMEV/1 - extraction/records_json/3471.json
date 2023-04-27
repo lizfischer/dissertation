@@ -1,0 +1,31 @@
+{
+    "_id": 3471,
+    "_header": "Men them bemoanen of little truth / It is dead and that is ruth",
+    "Note": "See also 3472 and 5787.",
+    "Subjects": "evils of the times",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "On the degeneracy of the times \u2014 two couplets translating \u2018Heu plebs conqueritur\u2019, etc.",
+    "_witnesses": {
+        "OxfMert248": {
+            "Transcription": "\nhallas men planys of litel trwthehit ys dede and tat is\n                    rwthefalsedum regnis and es a boweand vyris es trwloue\n",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 54.\nWenzel,  Siegfried. \n             Preachers, Poets and the English Lyric.\n         Princeton: Princeton Univ. Press, 1986: 191.\n\n",
+            "folio": "f. 166vb"
+        },
+        "BLHar2316": {
+            "Transcription": "\nMen hem bemenin of litel trewtheit is ded and \u021dat is rewtheLesing liuet and is aboueAnd now is biried trewthe and loue\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 2.121.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 259.\n\n",
+            "folio": "f. 26r6"
+        },
+        "OxfBal227": {
+            "Transcription": "\nMen hem pleynit of mikil vntrewtheRyt is det & \u021dat is\n                    rewtheTrecherye leuit & is aboueSouthe is buryit trewe\n                    loue\n",
+            "Note": "\nWritten as verse; both it and the Latin it translates (Heu plebs\n                        conqueritur\u2026) added to lower margin of page by a hand of the\n                    fourteenth century.",
+            "Editions": "\nMynors,  Roger Aubrey Baskerville,\n                        ed.  \n             Catalogue of Manuscripts in Balliol College Library.\n         Oxford: Clarendon, 1962: 229.\n",
+            "folio": "f. 258"
+        },
+        "BLEge2788": {
+            "Transcription": "\nRight is deed and \u00feat is rew\u00feeAnd ha\u00fe be beried pees\n                    & trew&effalsne & pride regnen a boueAnd haue be beried\n                    trewe loue\n",
+            "folio": "f. 53v2"
+        }
+    }
+}

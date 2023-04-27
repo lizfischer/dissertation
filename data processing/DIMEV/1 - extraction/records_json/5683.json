@@ -1,0 +1,30 @@
+{
+    "_id": 5683,
+    "_header": "This ender night / I saw a sight / A maid a cradel keep",
+    "Note": "Cf. 2089 for the same burden.",
+    "Subjects": "carols, lullaby; dialogues, Virgin and Christ",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "The Complaint of the Child Jesus to his Mother \u2014 nine six-line stanzas (aabccb) and burden: \u2018Lullay my chyld & wepe no more / Slepe & be now styll / The kyng of blys this fader ys / As it was hys wyll\u2019",
+    "_witnesses": {
+        "BodEngPoete1": {
+            "First Lines": "\nThis endrys ny\u021dtI saw a sy\u021dth\u2026\n",
+            "Last Lines": "\n\u2026\u00feat deth it ysfor \u00fee & many mo\n",
+            "Editions": "\n\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 110-12; 1977, 98-9.\nWright,  Thomas,\n                        ed.  \n             Songs and Carols from a manuscript\u2026of the Fifteenth\n                Century.\nPercy Society\n         23. London: Richards, 1847: 19-20.\nChambers,  Edmund Kerchever,  and  Frank Sidgwick.  \n             Early English Lyrics\u2026.\n         London: Buller, 1907, 1911 et seq: 119-20.\nCook,  Albert Stanburrough. \n             A Literary Middle English Reader.\n         Boston and New York: Ginn, 1915: 466-8.\nRickert,  Edith,\n                        ed.  \n             Ancient English Christmas Carols.\n         London: Chatto & Windus, 1910: 69-70.\nStevens,  John,\n                        ed.  \n             Mediaeval Carols.\nMusica Britannica\n         4. London: Stainer and Bell, 1952, 2nd ed. 1958: 10.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 472-3.\n\n",
+            "folio": "ff. 20-21"
+        },
+        "CULAdd5943": {
+            "Transcription": "\n\u00deys o\u00feer ny\u021dthy say asy\u021dta mayde a cradel\n                    kepelullay \u021de songe& seyde amongely stille my childe\n                    & slepeHow scholde I slepey ma not for wepeO so sore y am by\n                    goneSlepe y woldey may not for colde& clo\u00feys hau y\n                    noneffor Adams gultmankunde is y splylde& \u00feat me rewyth\n                    soreffor Adam & euey schal leue here\u00fetytty wynter &\n                    more\n",
+            "Note": "\n3 stanzas, corresponding to 1, 2, 5 of Oxford,  Bodleian Library Eng. poet. e.1 (SC 29734);\n                    alternate burden: \u2018Lullay lullay thow lytil child slep & be wel stylle\n                    / \u00fee kynge of blys \u00fey fader is as it was his\n                    wille\u2019.",
+            "Facsimiles": "\n\nMayer,  L. S. \n             Music, Cantilenas and Songs.\n         London, 1906 (privately printed); by \"L. S. M.\": 10.\nRastall,  Richard. \n             \u201cIntroduction.\u201d \n             A Fifteenth-Century Song Book: Cambridge University Library Additional\n                MS 5943 made in facsimile.\n         Leeds: Boethius Press, 1973. \n\n",
+            "Editions": "\n\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 110-12; 1977, 99-100.\nMayer,  L. S. \n             Music, Cantilenas and Songs.\n         London, 1906 (privately printed); by \"L. S. M.\": 11.\n\n",
+            "folio": "f. 145"
+        },
+        "BLAdd5666": {
+            "First Lines": "\nThis ender nithgtI sauy ha sithgtHa may ha credill\n                    kepe\u2026\n",
+            "Last Lines": "\n\u2026Fadere ofe blysWartu \u00feou hasForsaking me this\n                    sone\n",
+            "Note": "\n6 stanzas, corresponding to 1, 2, 3, 5, 6, 8 of Oxford,  Bodleian Library Eng. poet. e.1 (SC 29734).",
+            "Editions": "\n\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 110-12; 1977, 99.\nRitson,  Joseph,\n                        ed.  \n             Ancient Songs and Ballads from the Reign of King Henry the Second to\n                the Revolution.\n         2 vols. London, 1877; first published 1790; ed. \n                William Carew\n                Hazlitt\n            : xlviii.\nRobbins,  Rossell Hope. \n             Early English Christmas Carols.\n         New York and London: Columbia UP, 1961: 72 (burden only).\n\n",
+            "folio": "ff. 2v-3"
+        }
+    }
+}

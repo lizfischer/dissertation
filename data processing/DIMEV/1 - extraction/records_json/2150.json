@@ -1,0 +1,23 @@
+{
+    "_id": 2150,
+    "_header": "I command all the rattons that are here about",
+    "Subjects": "charms; rats",
+    "Versification": "\u2014 irregular, mostly two-line \u2014 aa",
+    "Macaronic": "Latin",
+    "_description": "Charm against Rats \u2014 twenty-one irregular lines",
+    "_witnesses": {
+        "BodRawC288": {
+            "First Lines": "\nI comawnde alle \u00fee ratones \u00feat are here abowte\u00feat\n                    non duelle in \u00feis place with Inne ne with owte\u2026\n",
+            "Last Lines": "\n\u2026god saue \u00feis place fro alle o\u00feer wykked\n                    wytesbo\u00fee be dayes & be nytes & in nomine patris & filii\n                    et cetera\n",
+            "Note": "\n21 lines, mostly couplets; writing very faded; not Oxford,  Bodleian Library Rawlinson C.85 (SC 12145), as listed in Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943.",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             Political, Religious and Love Poems, from Lambeth MS. 306 and other\n                sources.\nEETS\n         o.s. 15 (1866); repr. 1962; rev. ed. 1903: 43.\nSisam,  Kenneth. \n             Fourteenth Century Verse and Prose.\n         Oxford: Clarendon, 1921: 170.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 384-5.\n\n",
+            "folio": "f. 113v"
+        },
+        "CamGon457": {
+            "First Lines": "\nI commande all the ratonys \u00feat arn in this place withinne &\n                    withoutand be \u00fee wertu off oure swet lady \u00feat jesu bar\n                    abowte\u2026\n",
+            "Last Lines": "\n\u2026be the whiche this place ye kepe ffrom al wykkyd whehtisand\n                    from all raonys & all odyr aventorysin nomine patrys & filij\n                        & spiritus sancti amen\n\n",
+            "Note": "\nVariant; 14+ lines written as prose.",
+            "folio": "f. 1v"
+        }
+    }
+}

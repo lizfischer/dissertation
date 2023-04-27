@@ -1,0 +1,20 @@
+{
+    "_id": 2821,
+    "_header": "Jesu Christ of Nazareth / That for us all sufferedest",
+    "Subjects": "Christ, wounds of; prayers, by Christ and His Passion",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "A prayer of the Five Wounds \u2014 one 6-line stanza (aabccb)",
+    "_witnesses": {
+        "CULIi643": {
+            "First Lines": "\nihesu crist of Na\u021dare\u00feThat for vs all suffriddist\n                    de\u00fe\u2026\n",
+            "Last Lines": "\n\u2026That \u021de suffryd in \u021doure lyuehaue mercy on me\n                    Amen\n",
+            "Attributed Title": "\nOracio bona de ihesu cristi (f. 89v)",
+            "Editions": "\n\nRobbins,  Rossell Hope. \n             \u201cPopular Prayers in Middle English Verse.\u201d \n             Modern Philology\n         36 (1939): 337-50: 338.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 95.\nOliver,  Raymond. \n             Poems Without Names: The English Lyric 1200-1500.\n         Berkeley, CA: University of California, 1970: 38.\n\n",
+            "folio": "f. 89v"
+        },
+        "Wells2": {
+            "Editions": "\nGray,  Douglas. \n             \u201cThe Five Wounds of Our Lord.\u201d \n             Notes and Queries\n         n.s. 10 [208] (1963): 50-51, 82-89, 127-34, 163-8: 128.\n",
+            "folio": "at end"
+        }
+    }
+}

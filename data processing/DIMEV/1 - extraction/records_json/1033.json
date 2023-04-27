@@ -1,0 +1,42 @@
+{
+    "_id": 1033,
+    "_header": "Chronicles and annual books of kings",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 313; cf. prose chronicle in Bodl. Rolls (SC 2986), roll.",
+    "Author(s)": "William Peeris",
+    "Title(s)": "House of Percy: Metrical Chronicle",
+    "Subjects": "Percy, house of; chronicles",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "House of Percy: Metrical Chronicle by William Peeris \u2014 in rhyme royal stanzas",
+    "_witnesses": {
+        "BodDod50": {
+            "First Lines": "\nChronickles & Annuall bookes of KingesOf Ancient Lordes &\n                    estatos royall\u2026\n",
+            "Last Lines": "\n\u2026Ingram Pearcy the second the third sone which hath graces\n                    manifouldgod grant them to bee his seruantes good men &\n                    ould\n",
+            "Note": "\nMissing 19 stanzas at f. 123.",
+            "Attributed Title": "\nHere followeth \u00fee Coppy of an ould Parchment booke deuided into Seauen\n                    lines & Seauen of the Pedegrees liues & Deathes of the Percies from\n                    fower discents afore the Conquest to \u00fee Earles sone \u00feat was kild by\n                    the Commons at Thirsk in Henry the vij-th his tyme. It is in ffolio &\n                    conteines eight leaues of Parchement wherof the first word is (here) and the\n                    first letter beeinge (H) is a greate Red letter & is in length from \u00fee\n                    ffirst line to the Seauenth line. Now followeth \u00fee booke conteininge 76\n                    Deuisions of Seuen lines. Here beginneth the Prologue of this litle treatis\n                    followinge which is \u00fee discent of the Lord Percies made & compiled\n                    briefely be mee Willam Peeris Clerce & Priest. Secretary to the Right noble\n                    Earle Henry the v-th Earle of the Northumberland (f. 119); Hitherto are the\n                    wordes of the aforede Parchment booke truly copied ffinis Historia\n                        Perciorum (f. 128rb)",
+            "Editions": "\nB[esly],  John. \n             A Collection of Antiquarian Tracts relating to the North of\n                England.\n         Newcastle: Richardson, 1845; repr. 1847: 1.9.\n",
+            "folio": "ff. 119-128rb"
+        },
+        "BLRoy18Dii": {
+            "First Lines": "\nCronykillis And annuall bookis of kinges.Of Auncient lordes and estates Riall.Declarithe the discent withe many notable thingis.Their ffatall endes and theire actes marshall.\u2026\n",
+            "Last Lines": "\n\u2026Beholde and consyder the honorable discente.Of this v.thErle marke it wele in dede.His progenytoures in youre mynde yf that ye enprente.It shall appere clere And also Evidente.That descendid he is of \u00fee noble blode of Inglande.Lancasters marches Arundell & Westmorlande.\n",
+            "Note": "\n679 lines in 97 rhyme royal stanzas.",
+            "Attributed Author": "\n\u2026william peeris clerke & preste secretory to the right nobill Erle henry the vth. Erle of Northumbrelande. (f. 186)",
+            "Attributed Title": "\nHere begynnethe the prolouge of this litle treatyse folowinge whiche is the discente of the lorde percis made and compilede breuely by me william peeris clerke & preste secretory to the right nobill Erle henry the vth. Erle of Northumbrelande. (f. 186)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Royal 18 D II.\n         2015; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Royal_MS_18_D_II. \n",
+            "folio": "ff. 186-195"
+        },
+        "Alnwick79": {
+            "Note": "\n53 stanzas.",
+            "Attributed Title": "\na tretes of the noble pedegrew of the lords perses",
+            "folio": "a roll"
+        },
+        "Alnwick82": {
+            "Note": "\n651 lines in couplets, 11-line stanzas, Monk\u2019s Tale stanzas, and\n                    rhyme royal.",
+            "Attributed Title": "\ntretice\u2026of the descente of the lordes percis maid and compiled by me\n                    William Perrs clerke and secretary to the right noble erle Henry of\n                    northumberland (f. 1)",
+            "folio": "ff. 1-8"
+        },
+        "YaleBeiOsfa19": {
+            "folio": "ff. 1-11"
+        }
+    }
+}

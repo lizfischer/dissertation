@@ -1,0 +1,30 @@
+{
+    "_id": 4512,
+    "_header": "Rolling in my remembraunce",
+    "Title(s)": "\u2018The Variance of Court\u2019",
+    "Subjects": "political poems",
+    "Versification": "\u2014 five-line \u2014 aabab",
+    "_description": "Stewart, \u2018The Variance of Court\u2019 \u2014 ten 5-line stanzas aabab, including refrain phrase \u2018gud seruys\u2019",
+    "_witnesses": {
+        "CULLl510": {
+            "First Lines": "\nRolling In my rememberaunceOff court \u00fee daylie\n                    variance\u2026\n",
+            "Last Lines": "\n\u2026And pay ilk man \u00feair condigne wageAccording to \u00feair\n                    ruid service\n",
+            "Attributed Author": "\nQuod Stewart (f. 36)",
+            "folio": "ff. 35-36"
+        },
+        "CamMagPep2553": {
+            "First Lines": "\nRolling In my RememberanceOff court \u00fee daylie\n                    variance\u2026\n",
+            "Last Lines": "\n\u2026And pay ilk man \u00feair condigne wageAccording to \u00feair\n                    gud Seruys\n",
+            "Attributed Author": "\nQuod Stewarte (p. 312)",
+            "Editions": "\nCraigie,  William Alexander. \n             The Maitland Folio Manuscript, Containing Poems by Sir Richard\n                Maitland, Dunbar, Douglas, Henryson, and others.\n             2 vols. \n             Scottish Text Society\n         n.s. 7 (1919), 20 (1927); Edinburgh and London: Blackwood, 1919,\n            1927: 1.370-2.\n",
+            "folio": "pp. 311-312"
+        },
+        "Banna": {
+            "First Lines": "\nRolling in my remembranceof court the daylie\n                    variance\u2026\n",
+            "Last Lines": "\n\u2026And pay ilk man thair conding wegeAccording to their gud\n                    seruyiss\n",
+            "Facsimiles": "\nFox,  Denton,  and  William A. Ringler.  \n             The Bannatyne Manuscript: National Library of Scotland Advocates\u2019\n                MS. 1.1.6\n         London: Scolar Press, in Association with The National Library of\n            Scotland, 1980. \n",
+            "Editions": "\n\nDalrymple,  Sir David,\n                                Lord Hailes. \n             Ancient Scottish Poems.\n         Edinburgh, 1770; repr. London, 1815: 204.\nMurdoch,  James Barclay. \n             The Bannatyne Manuscript.\n             4 vols. in 11 parts, paged continuously. \n             Hunterian Club\n         16, 32, 40, 46, 50, 55-56, 64-67 Glasgow: Anderson, 1873-1896: 269-70.\nSibbald,  John. \n             Chronicle of Scottish Poetry\u2026.\n         4 vols. Edinburgh and London, 1802: 2.44.\nRitchie,  W. Tod,\n                        ed.  \n             The Bannatyne Manuscript.\n             4 parts in 4 vols. \n             Scottish Text Society\n         3rd ser. 5 (1928); n.s. 22 (1928); n.s. 23 (1930); n.s. 26 (1934)\n            Edinburgh and London: Blackwood, 1928-34; ed. by Ritchie et al: 2.249-51.\n\n",
+            "folio": "ff. 94-94v"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "_id": 612,
+    "_header": "As I me rode in a May morning",
+    "Title(s)": "Omnis caro fenum est",
+    "Subjects": "carols, satirical; chansons d\u2019aventure; birds, as narrators; contemporary conditions",
+    "Versification": "\u2014 four-line, two-line \u2014 abab, aa",
+    "Macaronic": "Latin",
+    "_description": "On contemporary conditions \u2014 eleven quatrains with refrain, \u2018quod omnis caro fenum est\u2019, and burden: \u2018Man in \u00fei mynd loket \u00feis be best / Omnis caro fenum est\u2019",
+    "_witnesses": {
+        "NLS1931": {
+            "First Lines": "\nAs I me rode in a mey mornyngI loked abowte bothe est &\n                    west\u2026\n",
+            "Last Lines": "\n\u2026ffor all \u00feis whord a a weylys noghtquod omnis carnem\n                        fenum est\n\n",
+            "Attributed Author": "\nExplycit quod John hawghton (added, f. 96)",
+            "Facsimiles": "\nHardman,  Phillipa. \n             The Heege Manuscript: A Facsimile of National Library of Scotland MS\n                Advocates 19.3.1.\n         Leeds Texts and Monographs, n.s. 16. Leeds: School of English,\n            2000. \n",
+            "Editions": "\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 253; 1977, 224.\n",
+            "folio": "ff. 95v-96"
+        }
+    }
+}

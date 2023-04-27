@@ -1,0 +1,29 @@
+{
+    "_id": 6159,
+    "_header": "Waste bringeth a kingdome in need",
+    "Title(s)": "\u2018\u00dee Prouerbis of Salamon\u2019",
+    "Subjects": "advice, moral",
+    "Versification": "\u2014 eight-line \u2014 abababab",
+    "_description": "\u2018\u00dee Prouerbis of Salamon\u2019 \u2014 90 eight-line stanzas (abababab)",
+    "_witnesses": {
+        "CULFf238": {
+            "First Lines": "\nWast bryngyth a kyngdome in nedeNede makyth a man to\n                    trauayleThe more trauayle \u00fee more medeSo he do by goode\n                    counsayle\u2026\n",
+            "Last Lines": "\n\u2026And take\u00fe hys frendys good a\u021deyn ry\u021dtTo fende\n                    hym ther with a\u021dens hys foo\n",
+            "Attributed Title": "\nHere\u2026begynnyth \u00fee prouerbis of Salamon (f. 10ra);\n                    Here endyth \u00fee prouerbys of Salamon\u2026 (f. 14va)",
+            "Facsimiles": "\nMcSparran,  Frances,  and  Pamela R. Robinson.  \n             \u201cIntroduction.\u201d \n             Cambridge University Library MS Ff.2.38.\n         London: Scolar Press, 1979. \n",
+            "Editions": "\n\nBrunner,  Karl. \n             \u201cSp\u00e4tme, Lehrgedichte 1: Proverbs of Salamon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         161 (1932): 191-5; 164 (1933): 178-99: 178-91.\nBrunner,  Karl. \n             \u201cSp\u00e4tme, Lehrgedichte 2: Cantus cuiusdam Sapientis.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         164 (1933): 178-99: 194-5.\n\n",
+            "folio": "ff. 10ra-14va"
+        },
+        "CamMagPep1584": {
+            "folio": "f. 62v"
+        },
+        "BLAdd31042": {
+            "First Lines": "\nWaste makes a kyngdome in nedeAnd nede makes a man to trauayle\u2026\n",
+            "Last Lines": "\n\u2026And charyte in herte to holdeThat we may wynn of blysse \u00fee crowne\n",
+            "Note": "\n38 stanzas, only 21 of which appear in Cambridge UK,  Cambridge University Library Ff.2.38 and Cambridge UK,  Magdalene College Pepys 1584. Ends, \u201cAmen.\u201d",
+            "Attributed Title": "\nHic Incipit Cantus Suiusdam Sapientis. Here Bygynnys a louely song of Wysdome (f. 120)",
+            "Editions": "\nBrunner,  Karl. \n             \u201cSp\u00e4tme, Lehrgedichte 2: Cantus cuiusdam Sapientis.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         164 (1933): 178-99: 193-9.\n",
+            "folio": "ff. 120-122rb"
+        }
+    }
+}

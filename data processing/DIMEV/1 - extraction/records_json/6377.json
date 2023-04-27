@@ -1,0 +1,16 @@
+{
+    "_id": 6377,
+    "_header": "When Maximian for all his tyranny",
+    "Title(s)": "South English Legendary",
+    "Subjects": "Barbara, saint, life of; saints\u2019 lives",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Barbara, in one MS of the South English Legendary",
+    "_witnesses": {
+        "BodRawPoe225": {
+            "First Lines": "\nWhan Maximian for alle his tyrandyseHadde gouernaunce of \u00fee\n                    emperyalte\u2026\n",
+            "Last Lines": "\n\u2026& of owr enymyes to sen dyscomfyteAnd euer in grace &\n                    mercy god vs alle blesse\n",
+            "Attributed Title": "\nDe sancta Barbara uirgine",
+            "folio": "f. 2-5"
+        }
+    }
+}

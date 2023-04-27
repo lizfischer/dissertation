@@ -1,0 +1,387 @@
+{
+    "_id": 6427,
+    "_header": "When that the Knight had thus his tale I-told",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Knight-Miller Link; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; prologues; links",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the Knight-Miller link in the Canterbury Tales \u2014 78 lines in rhyming couplets",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nWhan that the knyght had thus his tale toldin al the companye nas\n                    ther yonge ne olde\u2026\n",
+            "Last Lines": "\n\u2026avisith yow put me out of blameand eke men shulle not make\n                    ernest of game\n",
+            "Note": "\nI.3155-66 omitted.",
+            "Attributed Title": "\n\u2026And next folwith the Millers prolog (f. 47); the Millers prolog\n                    (RT); Here endith the Millers prolog\u2026 (f. 48)",
+            "folio": "ff. 47-48"
+        },
+        "BodBar20": {
+            "First Lines": "\nWhan that \u00fee kny\u021dt hath \u00feus his tale toldIn alle\n                    \u00feat Cumpanye nas \u00feer \u021dong ne old\u2026\n",
+            "Last Lines": "\n\u2026Auyseth \u021dow & put me out of blameAnd eke men shal\n                    not make ernyst of game\n",
+            "Note": "\nI.3116, 3155-6 omitted; 3115-3116 partially reversed.",
+            "Attributed Title": "\nHere begynnyth \u00fee prolog of \u00fee Myller (f. 32v);\n                        prologus (RT)",
+            "folio": "ff. 32v-33v"
+        },
+        "Bod414": {
+            "First Lines": "\n[W]han \u00feat the knight had \u00feus his tale toldIn al the\n                    cumpany nas \u00feer yong ne old\u2026\n",
+            "Last Lines": "\n\u2026Auisith you and putte me out of blameAnd eke men shuld not\n                    make ernest of game\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\nHere begynneth the prolog of the Millere (f. 37v)",
+            "folio": "ff. 37v-38v"
+        },
+        "Bod686": {
+            "First Lines": "\nWhan \u00feat the knight hadde \u00feis his tale toldeIn al \u00fee\n                    companye nas \u00feer yonge ne olde\u2026\n",
+            "Last Lines": "\n\u2026Avyseth you and put me out of blameAnd eek men shal not make\n                    ernest of game\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\nHic incipit prohemium fabule molendinarij (f. 40); Millere\n                    (RT)",
+            "folio": "ff. 40-40v"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nWhan \u00feat \u00fee kni\u021dt had \u00feus his tale toldeIn al\n                    \u00fee rowte nas \u00feere yong ne olde\u2026\n",
+            "Last Lines": "\n\u2026Aviseth you and put me oute of blameAnd eke men shuld make\n                    non ernest of game\n",
+            "Attributed Title": "\n\u2026and beginneth / \u00fee prolog of \u00fee Miller is tale (f. 36,\n                    margin); The prolog of the Miller (RT); Here endeth the prolog of the Millers\n                    tale\u2026 (f. 37)",
+            "folio": "ff. 36-37"
+        },
+        "BodLauMis600": {
+            "First Lines": "\nWhat \u00feat the knight had thus his tale toldeIn al the companye\n                    ne was \u00feer yong ne olde\u2026\n",
+            "Last Lines": "\n\u2026Auyse you and put me out of blameAnd eeke men shal not make\n                    ernest of game\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\n\u2026Here begynnth the prolog of the Millere (f. 48v); the\n                    prolog (RT); Here ende\u00fe \u00fee prolog\u2026 (f. 46v)",
+            "folio": "ff. 48v-49v"
+        },
+        "BodLauMis739": {
+            "First Lines": "\n[W]han that the knyght thus his tale toldIn all the company was\n                    ther yong ne olde\u2026\n",
+            "Last Lines": "\n\u2026Avyse \u021dow and put me out of blameAnd eke men shall not\n                    make ernest of game\n",
+            "Note": "\nI.3155-6 omitted.",
+            "folio": "ff. 47v-48v"
+        },
+        "BodRawPoe141": {
+            "First Lines": "\nWhen the knyght his tale had toldeIn al company was ther yong ne\n                    olde\u2026\n",
+            "Last Lines": "\n\u2026Auyseth you & putteth me out of blameAnd eke men shulde\n                    not make ernest of game\n",
+            "Note": "\nI.3147, 3155-6 omitted; spurious line after 3148.",
+            "Attributed Title": "\nHere bigynneth the Mullers tale (f. 9v, introducing the\n                        Prologue); The Muller (RT)",
+            "folio": "ff. 9v-10v"
+        },
+        "BodRawPoe149": {
+            "First Lines": "\nWhan that the knyght had thus his tale y toldeIn alle the rowte nas\n                    there yonge ne olde\u2026\n",
+            "Last Lines": "\n\u2026and saide abide Robyn abide leue brotherSome better man shall\n                    tell vs first another\u2026\n",
+            "Note": "\n1.3131-86 lost.",
+            "Attributed Title": "\nProlog of the Miller (f. 19v, margin); the Miller (RT)",
+            "folio": "f. 19v"
+        },
+        "BodRawPoe223": {
+            "First Lines": "\nWhan that the knight had thus his tale ItoldeIn al the company nas\n                    ther yong ne olde\u2026\n",
+            "Last Lines": "\n\u2026Auiseth you and put me out of blameAnd eke men shal not make\n                    ernest of game\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\nHere beginneth the prolog of the Millere (f. 43); Here is ended the Prolog\n                    of the Meller (f. 44)",
+            "folio": "ff. 43-44"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nWWhan that the knyght had thus his tale y toldeIn alle the\n                    compaignye nas there yong ne olde\u2026\n",
+            "Last Lines": "\n\u2026Auyseth yow and put me out of blameAnd eke men shal nat make\n                    ernest of game\n",
+            "Note": "\nI.3155-6 omitted. In addition to the lombard initial \u2018W\u1fbf,\n                    there is also a \u2018W\u1fbf in the text.",
+            "Attributed Title": "\n\u2026Here bigynnyth the prohemye of the Milleris tale (f. 42)",
+            "folio": "ff. 42-43"
+        },
+        "OxfCCC198": {
+            "First Lines": "\nWhan \u00feat \u00fee knight had \u00feus his tale y toldIn all\n                    \u00fee companye nas \u00feer \u021dong ne old\u2026\n",
+            "Last Lines": "\n\u2026Auise\u00fe \u021dou and putte\u00fe me out of blameAnd eek\n                    men schal not make ernest of game\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\nThe Millewardes tale (f. 44)",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "ff. 44-45"
+        },
+        "OxfNew314": {
+            "First Lines": "\nWhanne \u00feat the kny\u021dt had \u00feus his tale toldIn al\n                    \u00fee companie nas \u00feer yong ne old\u2026\n",
+            "Last Lines": "\n\u2026Avisith you and put me out of blameAnd eke men shul not make\n                    ernest of game\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\n\u2026And / begynneth the Milleris prologe (f. 35); Millere (f. 35,\n                    margin); Millere (RT)",
+            "folio": "ff. 35-36"
+        },
+        "OxfTri49": {
+            "First Lines": "\nWhenne that the knyght hath thus thys tale I toldeIn al the route\n                    nas ther yong ne olde\u2026\n",
+            "Last Lines": "\n\u2026auisith you I put me out of blameand eke men schal nat make\n                    ernest of game\n",
+            "Attributed Title": "\nknyght (RT)",
+            "folio": "ff. 43v-44v"
+        },
+        "CULDd424": {
+            "First Lines": "\nWHan that the knyght had his tale I toldIn al the companye ne was\n                    \u00feere \u021dong ne old\u2026\n",
+            "Last Lines": "\n\u2026A vyseth \u021dow and put me ou\u021dt of blameAnd eke men\n                    shuln nat make ernest of game\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\nThe Prologe of the Millere (margin, f. 39)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 39-39v"
+        },
+        "CULGg427": {
+            "First Lines": "\nSO when \u00fee knyght hath \u00feus hese tale toldIn al \u00fee\n                    route nas \u00feere \u021dyng ne old\u2026\n",
+            "Last Lines": "\n\u2026Avyseth \u021dow put me out of blameAnd ek men schal not\n                    makyn ernest of game\n",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "Editions": "\nFurnivall,  Frederick James. \n             The Cambridge MS (University Library, Gg.4.27) of Chaucer\u2019s\n                Canterbury Tales.\nChaucer Society\n         Series 1, nos. 4, 10, 17, 28, 33, 40, 52, 66. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 175-176"
+        },
+        "CULIi326": {
+            "First Lines": "\nWhenne the knyght hadde thus his tale toldeIn all the route nas\n                    there yonge ne olde\u2026\n",
+            "Last Lines": "\n\u2026Avise you I put me oute of blameAnd men shall make ernest of\n                    game\n",
+            "Attributed Title": "\n\u2026Prologus Milnere (f. 36v); Prologus Milnere\n                    (RT)",
+            "folio": "ff. 36v-37v"
+        },
+        "CULMm25": {
+            "First Lines": "\nWhen that \u00fee knyght had \u00feus his tale y toldeIn all\n                    \u00fee cumpaignye nas \u00feer \u021donge ner olde\u2026\n",
+            "Last Lines": "\n\u2026A vise \u021dowe and putte me oute of blameAnd eke men schall\n                    not make ernest of game\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\n\u2026And Here begynnyth \u00fee prologe of \u00fee Miller (f. 34); Here\n                    endeth \u00fee prologe\u2026 (f. 35)",
+            "folio": "ff. 34-35"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[W]Han that the knyght his tale hath toldeIn all the company nas\n                    ther yonge ne old\u2026\n",
+            "Last Lines": "\n\u2026But the myller ys a cherle & \u00fee Reve alsoffor\n                    harlotry \u00feey told both two\n",
+            "Note": "\nI.3155-6, 3175-6, 3181-3, 3185-6 omitted; spurious line after\n                    3180.",
+            "Attributed Title": "\nThe prolog of the Mylner (f. 46v)",
+            "folio": "ff. 46v-47"
+        },
+        "CamTCC582": {
+            "First Lines": "\nWhan that the kni\u021dt had his tale toldeIn al \u00fee companie\n                    nas young nor olde\u2026\n",
+            "Last Lines": "\n\u2026Auiseth you and put me out of blameAnd eke men shal nat make\n                    ernest of game\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\nHiere beginneth the Prolog of the Millere (f. 18rb)",
+            "folio": "ff. 18rb-18vb"
+        },
+        "CamTCC595": {
+            "First Lines": "\nWhan that the Knyght had thus his tale toldeIn alle the compeny nas\n                    ther yonge ne olde\u2026\n",
+            "Last Lines": "\n\u2026Aviseth you and put me out of blameAnd eke men shul not make\n                    ernest of game\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\n\u2026And / begynneth the Milleris Prologue (f. 53)",
+            "folio": "ff. 53-54v"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nWhan that the Knyht had thus the tale toldeIn al of the route nas\n                    ther yong ne olde\u2026\n",
+            "Last Lines": "\n\u2026Avyseth you and puttith me out of blameAnd eek men shul nat\n                    make ernest of game\n",
+            "Attributed Title": "\nIncipit prohemium Molendinarii (f. 46v); prologus (RT);\n                        Explicit Prologus molendinarij\u2026 (f. 46v)",
+            "folio": "ff. 45v-46v"
+        },
+        "BLAdd25718": {
+            "First Lines": "\nWhen that the knyght had his tale toldIn al the company was\n                    th yong nold\u2026\n",
+            "Last Lines": "\n\u2026Aviseth yow & putteth me out of blameAnd eke men shal not\n                    make Ernest of game\n",
+            "Note": "\nI.3143, 3155-6 omitted.",
+            "Attributed Title": "\n\u2026Incipit prohemium fabule molendinarij (f.\n                    24v)",
+            "folio": "ff. 24v-26"
+        },
+        "BLAdd35286": {
+            "First Lines": "\nWhan that the knyght had thus his tale toldIn al the compaynye nas\n                    ther yonge ne old\u2026\n",
+            "Last Lines": "\n\u2026Auyseth you now and put me oute of blameAnd ek men shold\n                    noght make ernest of game\n",
+            "Attributed Title": "\n\u2026Here bigynneth the prolog of the Millers tale (f. 28); The Miller\n                    (RT); Here endyth the prolog\u2026 (f. 29)",
+            "Editions": "\nHorobin,  Simon. \n             \u201cA Transcription and Study of British Library MS Additional 35286 of\n                Chaucer\u2019s Canterbury Tales.\u201d \n         Diss. Univ. of Sheffield, 1997. \n",
+            "folio": "ff. 28-29"
+        },
+        "BLEge2726": {
+            "First Lines": "\nWhan \u00feat the knight hade thus his tale ytoldeIn all the\n                    cumpany ne was there yong ne olde\u2026\n",
+            "Last Lines": "\n\u2026Aviseth you and put me out of blameAnd eke men\n                    shall nat maken ernest of game\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\nThe prologe of the myllers tale (f. 39v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 39v-40v"
+        },
+        "BLEge2863": {
+            "First Lines": "\nWhan \u00feat \u00fee knight had \u00feus his tale toldIn all the\n                    compnay nas \u00feere \u021dong ne old\u2026\n",
+            "Last Lines": "\n\u2026And nameliche \u00fee gentiles euerichonOure oost lowh and\n                    swore so mote I gon\u2026\n",
+            "Note": "\nI.3115-86 lost.",
+            "Attributed Title": "\n\u2026And here by gynneth \u00fee prolog of \u00fee Millere (f.\n                        24v)",
+            "folio": "f. 24v"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[W]Han that the knyht had thus the tale toldeIn al the route nas\n                    ther yong ne olde\u2026\n",
+            "Last Lines": "\n\u2026A viseth yow and puttith me out of blameAnd eek men shal nat\n                    make ernest of game\n",
+            "Attributed Title": "\nIncipit prohemium Molendinarij / Prologus Molendinarij (f.\n                        46v); prologe of the Miller (RT); Explicit prologus\n                    (margin f. 47v)",
+            "folio": "ff. 46v-47v"
+        },
+        "BLHar1758": {
+            "First Lines": "\nWhan that the knyght had thus his tale toldeIn all the companye nas\n                    ther yong ne olde\u2026\n",
+            "Last Lines": "\n\u2026Ther ben full gode wyues mony oonWhy arte thou angry with my\n                    tale now\n",
+            "Note": "\nI.3158-86 lost.",
+            "Attributed Title": "\nThe Millers Tale (RT)",
+            "folio": "f. 33v"
+        },
+        "BLHar7333": {
+            "First Lines": "\nWhan \u00feat \u00fee knyght had \u00feus his tale etoldIn al\n                    \u00fee companye nas \u00feer yong nor old\u2026\n",
+            "Last Lines": "\n\u2026Avyse\u00fee yowe and put me owte of blameAnd eke men shalle\n                    not maken eornste of game\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\n\u2026and nexste / here folowynge be gynnithe here \u00fee prologe of /\n                    the Milners tale (f. 53va); Loo nowe here eondi\u00fee \u00fee\n                    prologg of \u00fee / milneris tale (f. 54ra)",
+            "folio": "ff. 53va-54ra"
+        },
+        "BLHar7334": {
+            "First Lines": "\nWHan \u00feat \u00fee knight had \u00feus his tale I toldIn al\n                    \u00fee route nas \u00feer \u021dong ne old\u2026\n",
+            "Last Lines": "\n\u2026Auyse\u00fe \u021dou and put me out of blameAnd men schulde\n                    nat make ernest of game\n",
+            "Attributed Title": "\n\u2026And thus bygynneth \u00fee prologe of / \u00fee Myllere (f.\n                        41v); Here endeth \u00fee prologe of \u00fee Miller\u2026 (f.\n                        42v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "ff. 41v-42v"
+        },
+        "BLHar7335": {
+            "First Lines": "\n[W]han that the Knyght hadde his tale toldIn all the compaignye nas\n                    ther yong ne old\u2026\n",
+            "Last Lines": "\n\u2026Auyseth you and put me out of blameAnd ek men sholde noght\n                    make ernest of game\n",
+            "Attributed Title": "\nPrologus molendinarij (f. 26, margin); The Mylners tale\n                    (RT)",
+            "folio": "ff. 26-27"
+        },
+        "BLLan851": {
+            "First Lines": "\nWhat \u00feat \u00fee knyght had \u00feus his tale ytoldeIn al\n                    \u00fee company nas \u00feere \u021donge ne holde\u2026\n",
+            "Last Lines": "\n\u2026Auise\u00fe \u021dowe & putte me owte of blameAnd eke men\n                    schal nou\u021dt make ernest of game\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\nIncipit prologus Molendenarii (f. 38v); \u00dee meller\n                    (RT); Explicit prologus\u2026 (f. 39v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 38v-39v"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nWhan that \u00fee knyghte hadde \u00feus his tale toldeIn all\n                    \u00fee companye ne was \u00feer yonge ne olde\u2026\n",
+            "Last Lines": "\n\u2026Auyse you and putte me owte of blameAnd eke Men schall notte\n                    Make erneste of game\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\n\u2026And bygynnyth the prologe of the myller (f. 46v); Here\n                    endith the prolog (f. 47v)",
+            "folio": "ff. 46v-47v"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nWhan that \u00fee knyght had \u00feus his tale toldeIn al \u00fee\n                    company nas \u00feere yonge ne olde\u2026\n",
+            "Last Lines": "\n\u2026Auyse \u021dow & put me out of blameAnd eke men shal not\n                    make ernest of game\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\n\u2026And begynnyth the prolog of the Meller (f. 40v); The\n                    Miller (RT); Here endith the prolog\u2026 (f. 41v)",
+            "folio": "ff. 40v-41v"
+        },
+        "BLSl1685": {
+            "First Lines": "\nWhan that the knyght had thus his tale toldeIn al the company nas\n                    ther \u021dong ne olde\u2026\n",
+            "Last Lines": "\n\u2026Auyse \u021dou and putte me out of blameAnd eke men shal not\n                    maken ernest of game\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\n\u2026And heere / bigynneth the prolog of the Millere (f. 33); The Miller\n                    (RT); Heere eendith the prolog\u2026 (f. 34, margin)",
+            "folio": "ff. 33-34"
+        },
+        "BLSl1686": {
+            "First Lines": "\nWHan that \u00fee knight had his tale toldIn alle the companye was\n                    there yong ne old\u2026\n",
+            "Last Lines": "\n\u2026Auyseth you wele and put me owte of blameAnd eke men shalle\n                    not make ernest of game\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\n\u2026And here begynneth the Prolog of the Meller (f. 49v);\n                    Prolog of the Meller (RT); Here endith the Prolog of the Meller (f.\n                    51)",
+            "folio": "ff. 49v-51"
+        },
+        "NLWPen392": {
+            "First Lines": "\nWhan that the knyght hadde thus his tale ytooldIn al the compaignie\n                    nas ther yong ne oold\u2026\n",
+            "Last Lines": "\n\u2026Auyseth yow and put me out of blameand eek men shal noght\n                    maken ernest of game\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\nThe prologe of the Milleres tale (f. 41)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "ff. 41-42"
+        },
+        "Alnwick455": {
+            "First Lines": "\nWhen that the kny\u021dt had his tale I toldIn all the world was\n                    \u00feere yong ne oold\u2026\n",
+            "Last Lines": "\n\u2026Avisith \u021dew and put me out of blameAnd eke men shuld nat\n                    make ernest of game\n",
+            "Attributed Title": "\n\u2026And here be gynnyth the Miller his prolog (f. 40); Here endith the\n                    Millere his prologg\u2026 (f. 41v)",
+            "folio": "ff. 40-41v"
+        },
+        "GULHun197": {
+            "First Lines": "\nWhanne that \u00fee knyght had \u00feus his tale toldeIn all the\n                    company ne was \u00feere yong ne olde\u2026\n",
+            "Last Lines": "\n\u2026Aduyse you and put me out of blameAnd eke men shal nat make\n                    ernest of game\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\n\u2026And here begyn / neth the prologe of the Miller (f.\n                    16va); The Miller (RT); Here endeth the prologe\u2026 (f.\n                        17ra)",
+            "folio": "ff. 16va-17ra"
+        },
+        "Holkham667": {
+            "First Lines": "\nWhen \u00fee knight had his tale toldeIn all \u00fee company nas\n                    yonge ne olde\u2026\n",
+            "Last Lines": "\n\u2026Aviseth you and put me out of blameAnd eke men shulde nat\n                    make erneste of game\n",
+            "Note": "\nI.3155-6 omitted.",
+            "folio": "ff. 14rb-14vb"
+        },
+        "Lichfield29": {
+            "First Lines": "\nWhan \u00feat the knyght had \u00feus his tale toldeIn al the\n                    company nas ther \u021donge ne olde\u2026\n",
+            "Last Lines": "\n\u2026Auyse \u021dow and put me out of blameAnd eke men shal not\n                    make ernest of game\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\n\u2026Here bigynneth the prologe of the Miller (f. 40v);\n                        Prologus Molendenare 9RT); Here endeth \u00fee prologe\u2026 (f.\n                        41v)",
+            "folio": "ff. 40v-41v"
+        },
+        "Lincoln110": {
+            "First Lines": "\nWhanne the kny\u021dt had his tale toldIn al the compaigne was ther\n                    yond ne o[gutter]\u2026\n",
+            "Last Lines": "\n\u2026Auysith yow and put me out of blameAnd eke men shall not make\n                        of ernest of game\n",
+            "Note": "\nI.3155-6 omitted; 3397-8 reversed.",
+            "Attributed Title": "\nThe prolog of the Mellere (f. 36v); The prologus of \u00fee\n                    Mellere (RT)",
+            "folio": "ff. 36v-37v"
+        },
+        "LonPhys388": {
+            "First Lines": "\nWhat that the knyght had thus his tale I toldIn al the compaigne\n                    nas ther yong ne old\u2026\n",
+            "Last Lines": "\n\u2026Aviseth yow and put me out of blameAnd eeke men shal nat make\n                    ernest of game\n",
+            "Attributed Title": "\n\u2026The prolog of the Millers tale (f. 55)",
+            "folio": "ff. 55-56v"
+        },
+        "RylandsEng63": {
+            "First Lines": "\n\u2026I have a wyfe parde as wel as thowyit nold I nat for the\n                    Oxen in my plowe\u2026\n",
+            "Last Lines": "\n\u2026Awiseth yewe and put me out of blameAnd eke men shul nat take\n                    ernest of game\n",
+            "Note": "\nI.3158-86.",
+            "Attributed Title": "\nHere endithe the myller his Prolog\u2026 (f. 1)",
+            "folio": "f. 1"
+        },
+        "RylandsEng113": {
+            "First Lines": "\nWhan \u00feat \u00fee knyght had \u00feus his tale toldIn all the\n                    Companye was \u00feer yong ne old\u2026\n",
+            "Last Lines": "\n\u2026Avisith you and put me out of blameAnd eke men schold not\n                    make ernest of game\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\nHic incipit prologus fabule Molendinarii (f.\n                    34v)",
+            "folio": "ff. 34v-35"
+        },
+        "Petworth7": {
+            "First Lines": "\nWhan \u00feat \u00fee kny\u021dt had \u00feus his tale toldIn al\n                    \u00fee companye nas \u00feer \u021donge ne olde\u2026\n",
+            "Last Lines": "\n\u2026Avise \u021dou and put me out of blameAnd eke men shal not\n                    make ernest of game\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\n\u00fee Prologe of \u00fee Milleres tale (rubric, f.43v); The\n                    Prologe (f. 43v, margin) \u00fee prologe The Millers (RT); [\u2026]e\n                    ende\u00fe \u00fee prologe\u2026 (f. 44v)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 43v-44v"
+        },
+        "Austin143": {
+            "First Lines": "\nWhen that the knyght had thus his tale y toldeIn all the companye\n                    was ther yong ne olde\u2026\n",
+            "Last Lines": "\n\u2026Avisith you and put me oute of blameAnd eke men shulde\n                        not make ernest of game\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\nHic incipit prologus ffabule Molendinarij &c[etera] (f.\n                        34v); Molendinarius (gutter); Millere (RT)",
+            "folio": "ff. 34v-35v"
+        },
+        "PierpontM249": {
+            "First Lines": "\nWhat that \u00feat the knyght had thus his tale toldeIn al the\n                    company nas ther yonge ne olde\u2026\n",
+            "Last Lines": "\n\u2026Auyse yow and putt me out of blameAnd eke men shal not make\n                    ernest of game\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\n\u2026And here / bigynneth the prologe of the Miller & cetera (f.\n                        44v); Prologus Molendinare (RT); Here endeth the\n                    prologe\u2026 (f. 45v)",
+            "folio": "ff. 44v-45v"
+        },
+        "PUL100": {
+            "First Lines": "\nWHen that \u00fee Knyght had \u00feus his tale I toldIn al the\n                    company nas there \u021dong ne old\u2026\n",
+            "Last Lines": "\n\u2026Avisith \u021dewe and put me out of blameAnd eke men shul nat\n                    make ernest of game\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\n\u2026And here begynnyth a Prolog (f. 16v); Prologg (RT); Here\n                    endith the prologg (f. 17v)",
+            "folio": "ff. 16v-17v"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nWhan that the knyght hath thus his tale ytooldIn al the route ne\n                    was ther yong ne oold\u2026\n",
+            "Last Lines": "\n\u2026Auyseth yow putteth me out of blameAnd eek men shal nat maken\n                    ernest of game\n",
+            "Attributed Title": "\nHeere folwen the wordes bitwene the hoost and the millere (f.\n                        33v); Miller (RT)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 33v-34v"
+        },
+        "BNangl39": {
+            "First Lines": "\nUhan \u00feat the knyght ha\u00fe \u00feus his tale\n                    toldIn al \u00fee rout ne was \u00feer yong ne old\u2026\n",
+            "Last Lines": "\n\u2026Avisith yow but put me out of blameand eke men shal not make\n                    ernest of game\n",
+            "Attributed Title": "\n\u2026& incipit subsequenter prohemium fa / bule Molendinarij\n                    (f. 17vb); Explicit prohemium fabule molen / dinarij\u2026\n                    (f. 18rb)",
+            "folio": "ff. 17vb-18rb"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nWhan that the kni\u021dt had thus his tale I toldIn al the company\n                    ne was there yong ne olde\u2026\n",
+            "Last Lines": "\n\u2026Auiseth you and put me out of blameAnd eke men shal nat maken\n                    ernest of game\n",
+            "Note": "\nI.3155-6 omitted; 3158 in the margin.",
+            "Attributed Title": "\nThe prolog of the Millere (rubric, f. 38)",
+            "folio": "ff. 38-39"
+        },
+        "TokyoTak32": {
+            "First Lines": "\nWhanne thee knyght hadde his tale toldIn all the cvmpanye theer nas\n                    yong ne oold\u2026\n",
+            "Last Lines": "\n\u2026A vise yow and putte mee owt of blameAnd also men schal nowt\n                    make ernest of game\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\nHere begynnih the prologge of the Mellere (f. 36vb); Thee\n                    Mellere (RT)",
+            "folio": "ff. 36vb-37rb"
+        },
+        "Bodmer48": {
+            "First Lines": "\nWhan \u00feat \u00fee knight had \u00feus his tale toldIn al the\n                    cumpany nas ther yong ne old\u2026\n",
+            "Last Lines": "\n\u2026Aviseth you and putte me out of blameAnd eke men shuld not\n                    make ernest of game\n",
+            "Note": "\nI.3155-6 omitted.",
+            "Attributed Title": "\nThe prolog of the Mylner (f. 41v)",
+            "Facsimiles": "\n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n",
+            "folio": "ff. 41v-42v"
+        }
+    }
+}

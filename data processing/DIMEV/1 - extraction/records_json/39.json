@@ -1,0 +1,15 @@
+{
+    "_id": 39,
+    "_header": "A ferly thing it is to mean",
+    "Subjects": "carols, Nativity",
+    "Versification": "\u2014 ten-line, two-line \u2014 ababcccddd",
+    "_description": "A Christmas carol \u2014 six 10-line stanzas with wheel rhyme, and burden: \u2018Aye aye this is the day / That we shall worshep euer and eye\u2019",
+    "_witnesses": {
+        "BodEngPoete1": {
+            "First Lines": "\nA ferly thyng it is to meneThat a mayd a chyld haue\n                    borne\u2026\n",
+            "Last Lines": "\n\u2026Aye aye so \u00feat we mayWend with him at domys\n                    day\n",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             Songs and Carols from a manuscript\u2026of the Fifteenth\n                Century.\nPercy Society\n         23. London: Richards, 1847: 15-17.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 26; 1977, 20-1.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 469-72.\n\n",
+            "folio": "ff. 18v-19v"
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "_id": 4714,
+    "_header": "Saint Matthew says in our gospel",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Second Sunday after the Octave of Epiphany in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nSaynte mathewe sayse in oure gospell\u00feat criste come donward of\n                    a hill\u2026\n",
+            "Last Lines": "\n\u2026Als did vnthriue and Gyezie \u00feat wex vnhale for his\n                    gyllerie\n",
+            "folio": "ff. 40-41v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Matheu sei\u00fe in vre gospel\u00deat crist com doun of an\n                    hil\u2026\n",
+            "Last Lines": "\n\u2026As dide sum tyme Gye\u021di\u00feat wox vn hol \u00feorwh his\n                    gileri\n",
+            "Attributed Title": "\nCum descendisset Ihesu de monte secute (f.\n                    176rc)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 176rc-176va"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nSEynt Matheu sais in oure gospell\u00feat crist come donward of a\n                    folle\u2026\n",
+            "Last Lines": "\n\u2026Als did vnthryuand GyesieWherfore he felle in\n                    meselry\n",
+            "Attributed Title": "\nDominica iiia post octavam Epiphanie secundum Mathium (p.\n                    65)",
+            "folio": "pp. 65-67"
+        },
+        "CULDd11": {
+            "First Lines": "\nSEynt mathew seyth in oure gospel\u00deat crist com doun of an\n                    hil\u2026\n",
+            "Last Lines": "\n\u2026as dide sum tyme Gie\u021di\u00feat wax vnhol \u00feorw\n                    Symony\n",
+            "Note": "\nBreak between 4714 and 5223 occurs ten lines earlier in this\n                    MS.",
+            "Attributed Title": "\ncum descendisset ihesus de monte\u2026 (f. 68)",
+            "folio": "ff. 68-69"
+        },
+        "CULGg531": {
+            "First Lines": "\nSant mathew says in oure gospell\u00feat criste come dunward of a\n                    hyll\u2026\n",
+            "Last Lines": "\n\u2026Als dyd vnthrewand gene\u021dye\u00feat were vn hall thurght\n                    hys clergy\n",
+            "Attributed Title": "\ndominica tercia post octabas epiphanie Secundum Matheum (f.\n                    39)",
+            "folio": "ff. 39-40"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nSaint mathew sais in our gospellThat cryste come dunwarde of\n                    hell\u2026\n",
+            "Last Lines": "\n\u2026Als dyde vn thrywande gene\u021dyeThat wex vn haile thurgh\n                    his clergy\n",
+            "folio": "ff. 37-38"
+        },
+        "EDCPCM": {
+            "First Lines": "\nsayn matheu sais in our godspelle\u00deat crist com dunward of a\n                    felle\u2026\n",
+            "Last Lines": "\n\u2026Als did vnthriuand grezie\u00deat wex unhale thoru his\n                    gili\u00fee\n",
+            "Attributed Title": "\nDominica iia post octavam epiphanie secundum matheum (f.\n                        31ra)",
+            "Editions": "\n\nSmall,  John,\n                        ed.  \n             English Metrical Homilies\u2026.\n         Edinburgh: W. Paterson, 1862: 126-33.\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n\n",
+            "folio": "ff. 31ra-31va"
+        },
+        "Lam260": {
+            "folio": "f. 15ra"
+        },
+        "MinULZ822": {
+            "First Lines": "\nSaynt mathew says in oure gospell\u00feat criste com donwarde on a\n                    hyll\u2026\n",
+            "Last Lines": "\n\u2026als dyde vnthryuand aye\u021die\u00feat wex lepor for fals\n                    symony\n",
+            "folio": "ff. 11v-13"
+        },
+        "HunHM129": {
+            "First Lines": "\nSeint mathew seyth in oure gospellAs crist come donward of a\n                    fell\u2026\n",
+            "Last Lines": "\n\u2026As dyd vnthryvand gyesy\u00deat was vnhole \u00ferogh his\n                    gylery\n",
+            "Note": "\nBrown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943 incorrectly gives f. 73; MS treats 5223, which follows, as if part\n                    of same text.",
+            "Attributed Title": "\nDominica tercia post octavam epiphanie (f. 29v)",
+            "folio": "ff. 29v-31"
+        }
+    }
+}

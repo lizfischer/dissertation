@@ -1,0 +1,65 @@
+{
+    "_id": 2286,
+    "_header": "I sleep and my heart wakes / Who shall to my leman say",
+    "Note": "For other verse in the same text, see 3617, 3651.",
+    "Author(s)": "Richard Rolle",
+    "Title(s)": "Ego Dormio",
+    "Subjects": "Christ, love of",
+    "Versification": "\u2014 three-line \u2014 aab",
+    "Bibliographic Ghosts": "Paris, Biblioth\u00e8que Mazarine 514: not in this MS; Cambridge UK, Magdalene College Pepys 2125: not in this copy of Ego Dormio; Oxford, Bodleian Library Eng. poet. a.1 (SC 3938) [Vernon MS]: the phrase, \u2018I slepe and myn herte wake\u00fe\u2019 occurs on f. 338ra in Ego Dormio, but not as part of verse; London, British Library Egerton 3245 [olim Gurney]: not in this MS",
+    "_description": "Three rhyming lines in Rolle\u2019s Ego Dormio",
+    "_witnesses": {
+        "BodRawA389": {
+            "Transcription": "\nI slepe & myn herte wake\u00femuche loue he shewe\u00fe \u00feat\n                    neuer is wery of loue but etc\n",
+            "Note": "\nVariant, written as prose.",
+            "folio": "f. 95v"
+        },
+        "CULDd564": {
+            "Transcription": "\nI slepe and my hert wakeswha sall tyll my leman sayfor hys lufe\n                    me langes ay\n",
+            "Editions": "\n\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 1.59.\nAllen,  Hope Emily. \n             English Writings of Richard Rolle.\n         Oxford: Clarendon, 1931: 70.\nKaiser,  Rolf,\n                        ed.  \n             Alt- und mittelenglische Anthologie.\n         Berlin, 1954; 3rd ed.; trans. as  Medieval English: a\n                Old English and Middle English Anthology Berlin West, 1958: 203.\n\n",
+            "folio": "Part III, ff. 27v-28"
+        },
+        "BLAdd22283": {
+            "Transcription": "\nI slepe and myn herte wake\u00feHo schal to myn lemmon\n                    say\u00feat for his loue me longe\u00fe ay\n",
+            "Note": "\nTwo-column format. Written as prose",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 151rb1"
+        },
+        "BLAdd37790": {
+            "Transcription": "\nI slepe & my herte wakeswha schalle til my lefman sayefor\n                    his loue me langes aye\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 135"
+        },
+        "HerefordP19": {
+            "Transcription": "\nI slepe & myn herte wake\u00fe\n",
+            "Note": "\nFirst line only given, written as prose, as reference to the\n                    whole.",
+            "folio": "f. 147v"
+        },
+        "WestmSch3": {
+            "Transcription": "\nI slepe and my hert wakeswho schal to my leman say\u00feat for\n                    his loue me longe\u00fe ay\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 230"
+        },
+        "Longleat29": {
+            "Transcription": "\nI slepe & my hert wakethMich loue he sheweth \u00feat neuer is\n                    wery to loue\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nOgilvie-Thomson,  J. S.,\n                        ed.  \n             Richard Rolle: Prose and Verse.\nEETS 293 o.s. 293 (1988): 26.\n",
+            "folio": "f. 43v"
+        },
+        "SteGene3390": {
+            "Transcription": "\nI slepe & myn ei\u021de wa herte wake\u00fe\n",
+            "Note": "\nFirst line only, followed by prose.",
+            "folio": "f. 95v"
+        },
+        "TCD155": {
+            "Transcription": "\nI slepe & my herte wakes\n",
+            "Note": "\nFirst line only, introduced by \u2018In \u00fee boke of loue I fynde\n                    wrytyn \u00fees wordes\u2019 and followed by prose.",
+            "folio": "p. 1"
+        },
+        "TokyoTak66": {
+            "Transcription": "\nI slepe & my herte wakethWho xal to my leman sayfor his loue\n                    me longith ay\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 28v"
+        }
+    }
+}

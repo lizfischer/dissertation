@@ -1,0 +1,43 @@
+{
+    "_id": 4057,
+    "_header": "O star of Jacob glory of Israel",
+    "Author(s)": "John Lydgate",
+    "Subjects": "Virgin Mary, joys of; prayers, to Virgin Mary",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lydgate, \u2018To Mary the Star of Jacob\u2019, an orison to the Virgin Mary of the Five Joys \u2014 seven stanzas rhyme royal with refrain, \u2018Aue maria\u2019",
+    "_witnesses": {
+        "BodLauMis683": {
+            "First Lines": "\nO sterre of Iacob and glorye of Israellof alle blissed O blyssedest\n                    vyrgyne\u2026\n",
+            "Last Lines": "\n\u2026While I \u00fei servaunt haue hem in remembraunceageyn\n                    goostly enmyes to stonde in assuraunce\n",
+            "Attributed Title": "\nHEre is a praier to our lady of hir v Ioies (f. 29v)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 1.282-4.\n",
+            "folio": "ff. 29v-30v"
+        },
+        "BodLye30": {
+            "First Lines": "\nO lady sterre of iacob glorie of israelOff all blessis o blessedist\n                    virgine\u2026\n",
+            "Last Lines": "\n\u2026While i thi seruant haue hem in remembraunsA yeyne goosty\n                    enemyes to stode in assurauns\n",
+            "Note": "\nFormerly 2478.8\n",
+            "Attributed Title": "\nOracio de sancta maria in anglicis verbis (f.176)",
+            "folio": "ff. 176-177v"
+        },
+        "CamSidney37": {
+            "First Lines": "\nO Sterre of iacob gliorie of israelOf alle blessed o blessedest\n                    virgine\u2026\n",
+            "Last Lines": "\n\u2026While I thi seruant hem In remembransAgayne alle gostly\n                    enmyes to stonde in assurans\n",
+            "folio": "f. 145v"
+        },
+        "CamTCC601": {
+            "First Lines": "\no sterre of Iacob glory of IsraellOf all blyssyd o blyssedyst\n                    virgineffor that tydynges whyche that GabriellBrought vnto the most\n                    heuynly and dyuyne\u2026\n",
+            "Last Lines": "\n\u2026Whyle I thy seruaunt haue hem in remembraunceAgayn gostly\n                    enemyes to stond in assuraunce\n",
+            "Attributed Author": "\nLydgate (added by later hand, ff. 173v, 174)",
+            "Attributed Title": "\nIncipiunt Alia quinque gaudia (f. 173v)",
+            "folio": "ff. 173v-174"
+        },
+        "BLHar372": {
+            "First Lines": "\nO sterre of Iacob glorye of IsraellOf all blissed O blisseddest\n                    virgine\u2026\n",
+            "Last Lines": "\n\u2026whil I am thi seruaunt haue hem in RemembraunceAgayne gostely\n                    enmyes to stonde in assuraunce\n",
+            "Note": "\nPenultimate stanza has spaces left for insertion of missing words in\n                    lines 4-6, perhaps because exemplar was damaged at this point.",
+            "Attributed Title": "\nExplicit (f. 70v, margin)",
+            "folio": "ff. 70-70v"
+        }
+    }
+}

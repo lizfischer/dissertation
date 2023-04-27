@@ -1,0 +1,56 @@
+{
+    "_id": 3151,
+    "_header": "Lo here two kings right perfect and right good",
+    "Note": "A variant text in Fabyan, Robert , New Chronicles of Englande and of Fraunce, Pynson, 1533 ; Cf. 6322. See also 3841.",
+    "Author(s)": "John Lydgate",
+    "Subjects": "occasional verse; Henry VI, coronation; pageant verses; chronicles, verse in; epilogues",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "The \u2018Sotelties\u2019 at the Coronation Banquet of Henry VI (1432), by Lydgate \u2014 three 8-line stanzas, each preceded by the menu for the accompanying course",
+    "_witnesses": {
+        "OxfStJohn57": {
+            "Transcription": "\nlo here too kyngis ri\u021dte perfite & ri\u021dte goodHoly\n                    seyntis Edward and seynt lowisAnd se the braunche born of hir blessid\n                    bloodlyue a mong cristen most soveren of priseheriter of the floure\n                    deliseGod graunte he may \u00feurh help of criste IhesuThis sixt herry\n                    regne & be as wiseAnd hem resembill in kny\u021dthode and\n                    vertu\n",
+            "Note": "\nInserted in prose chronicle which begins with the year 1440, ff.\n                    138-223.",
+            "Editions": "\nHammond,  Eleanor Prescott. \n             \u201cTwo Tapestry Poems by Lydgate: the Life of St. George and the Falls of\n                Seven Princes.\u201d \n             Englische Studie\n         43 (1910-11): 10-26: 23.\n",
+            "folio": "ff. 219v-220"
+        },
+        "BLAdd6113": {
+            "First Lines": "\nLoo here here be two kingis kingis right profitable & right goodholy saint Edwarde and saint Lewis also\u2026\n",
+            "Last Lines": "\n\u2026The vith henry to Reigne & be as wiseand him to resemble in knighthode & vertue\n",
+            "Note": "\nWritten as prose, in prose description.",
+            "folio": "f. 46"
+        },
+        "BLCottJulBI": {
+            "First Lines": "\nLoo here twoo kyngis right perfite and right goodHoly Seint Edwarde\n                    and Seint lowes\u2026\n",
+            "Last Lines": "\n\u2026This sixt henry to reign and be as wiseAnd hem resemble in\n                    knyghthod & vertue\n",
+            "Editions": "\n\nNicolas,  Nicholas Harris,  and  Edward Tyrrell, eds.  \n             A Chronicle of London, from 1079 to 1483.\n         London: Longman, 1827: 168-9.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 623-4.\nHarvey,  John Harper. \n             Gothic England: A Survey of National Culture, 1300-1550.\n         New York: Scribner, 1947: 179-80.\n\n",
+            "folio": "f. 79v"
+        },
+        "BLLan285": {
+            "First Lines": "\nLo here two kynges right parfite and right goodehooly seynte\n                    Edwarde and seynt Lowes\u2026\n",
+            "Last Lines": "\n\u2026Borne by discent and title of RightIustely to Reigne in\n                    Englond and ffraunce\n",
+            "folio": "ff. 6v-7"
+        },
+        "Guildhall3313": {
+            "First Lines": "\nLo here two kynges right parfite and right goodHoly seyntes Edwarde\n                    and seint Lowes\u2026\n",
+            "Last Lines": "\n\u2026Bore by discente and by title of rightIustely to regne in\n                    Englond and in ffraunce\n",
+            "Note": "\nFirst line written as part of introductory heading rather than in verse\n                    lines with the rest.",
+            "Attributed Title": "\nA sotilte Seynt Edwarde and seint Lowes armed in Cote Armures bryngyng yn\n                    betwene hem in his Coote of armes with this scripture (f.\n                    129v)",
+            "Editions": "\n\nThomas,  Arthur Hermann,  and  Isobel Dorothy Thornley, eds.  \n             The Great Chronicle of London\u2026Attributed to Robert\n                Fabyan.\n         London: G. W. Jones, 1938: 152-3.\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 98.\n\n",
+            "folio": "ff. 129v-130v"
+        },
+        "BLEge1995": {
+            "First Lines": "\nLoo here ben ii kyngys ryght profytabylle and ryght goodeholy Synt\n                    Edwarde and synt lowys\u2026\n",
+            "Last Lines": "\n\u2026the vi harry To raygne and be as wyseAnd hym resemble in\n                    kynghode and vertu. Amen\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nGairdner,  James,\n                        ed.  \n             Historical Collections of a Citizen of London.\nCamden Society\n         n.s. 17 (1876): 169-70.\n",
+            "folio": "f. 177"
+        },
+        "PierpontM775": {
+            "First Lines": "\nLo here two kynges right perfit & right goodHoly seynt Edwarde\n                    and allso seynt lowes\u2026\n",
+            "Last Lines": "\n\u2026This sixte herry to regne and be as wiseAnd resemble in\n                    knyghthode and vertu\n",
+            "Note": "\nWith heading, \u2018The blades of the same\u2019 (f. 15); written to\n                    accompany the first course on the day of the coronation of Henry\n                    VI.",
+            "Editions": "\nArthur,  H.,\n                                viscount Dillon \n             \u201cOn a Manuscript Collection of Ordinances of Chivalry.\u201d \n             Archaeologia\n         57 (1900-01): 29-70: 57-8.\n",
+            "folio": "f. 15"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "_id": 361,
+    "_header": "All sins shall thou hate through casting of skill",
+    "Author(s)": "Richard Rolle (attrib.)",
+    "Subjects": "devotional verse",
+    "Versification": "\u2014 four-line, eight-line \u2014 aaaa, abababab",
+    "_description": "An Exhortation against Sin \u2014 six monorhyming quatrains with medial rhymes, or six 8-line stanzas, abababab",
+    "_witnesses": {
+        "CULDd564": {
+            "First Lines": "\nall synnes sal \u00feu hate / thorow castyng of skylleAnd\n                    \u021dherne to gang in \u00fee gate / \u00feat es with owten illeTumbyl\n                    noght fra \u00fee state / \u00feat \u00feu hase tane \u00fee tilleIt ledes\n                    til \u00fee kynges \u021dhate / \u00feare \u00feu may layke \u00fei\n                    fille\u2026\n",
+            "Last Lines": "\n\u2026Owre setels heuen ar with in / me lyst sytt in myneLufe\n                    criste & hate syn / & sa purges \u00fee \u00feine\n",
+            "Note": "\nFollows 5167 and\n                    precedes 3483 (both of which are\n                    short-line stanzas as this would be if 8-line stanzas).",
+            "Editions": "\n\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 1.74.\nAllen,  Hope Emily. \n             English Writings of Richard Rolle.\n         Oxford: Clarendon, 1931: 39.\nHanna,  Ralph,\n                        ed.  \n             Richard Rolle: Uncollected Verse and Prose.\n         EETS o.s. 329 (2007): 23.\n\n",
+            "folio": "Part III, ff. 36-36v"
+        },
+        "Longleat29": {
+            "First Lines": "\nAl synnes shal \u00feou hate Throgh kastynge of skyllAnd desyre to\n                    go in \u00fee gate \u00feat is withouten ille\u2026\n",
+            "Last Lines": "\n\u2026Our setys heuen ben wyth in Me list see in mynloue Crist\n                    & hate syn And so purgeth thyne Amen\n",
+            "Note": "\nWritten as verse.",
+            "Editions": "\nOgilvie-Thomson,  J. S.,\n                        ed.  \n             Richard Rolle: Prose and Verse.\nEETS 293 o.s. 293 (1988): 50.\n",
+            "folio": "ff. 54v-55"
+        }
+    }
+}

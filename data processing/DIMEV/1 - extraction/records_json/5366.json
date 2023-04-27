@@ -1,0 +1,26 @@
+{
+    "_id": 5366,
+    "_header": "The ladder of heaven I mean charity",
+    "Author(s)": "Thomas Hoccleve",
+    "Title(s)": "Address to Sir John Oldcastle",
+    "Subjects": "historical poems; Oldcastle, John, sir",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "Thomas Hoccleve, Address to Sir John Oldcastle \u2014 sixty-four 8-line stanzas",
+    "_witnesses": {
+        "HunHM111": {
+            "First Lines": "\nThe laddre of heuene I meene chariteeComandith vs if our brothir be\n                    falle\u2026\n",
+            "Last Lines": "\n\u2026Thee hie as faste as \u00feat thow canst dyuyseAnd humble eek\n                    thee to him for any thyng\n",
+            "Note": "\nTranscript in Oxford,  Bodleian Library James 34 (SC 3871), pp. 2-20 (Grosart (1880)\nXGrosart,  Alexander Balloch. \n             The Poems of Richard James, B. D.\n         London: Chiswick Press, 1880); also in BLGre35 (but Hamer (1995)\nXHamer,  Richard. \n             A Manuscript Index to the Index of Middle English Verse.\n         London: British Library, 1995 lists this\n                    latter as unidentified).",
+            "Attributed Title": "\nCeste feust faite au temps que le Roy Henri le Vt que dieu\n                        pardoint feust a hampton sur son primer passage vers harflete (f.\n                    1)",
+            "Facsimiles": "\nBurrow,  John,  and  A. I. Doyle, eds.  \n             Thomas Hoccleve: A Facsimile of the Autograph Verse\n                Manuscripts.\nEETS\n         s.s. 19 (2002). \n",
+            "Editions": "\n\nSmith,  Lucy Toulmin. \n             \u201cBallad by Thomas Ocleve addressed to Sir John Oldcastle (A.D.\n                1415).\u201d \n             Anglia\n         5 (1882): 9-42: 23-37.\nFurnivall,  Frederick James,\n                        ed.   Hoccleve\u2019s Works: The Minor Poems. vol. 1.  EETS\n         e.s. 61 (1892); repr. with Gollancz (1925)\nXGollancz,  Israel. \n             Hoccleve\u2019s Works: The Minor Poems. vol. 2.  EETS\n         e.s. 73 (1925); repr. with 61, 1970 73; rev. J.\n            Mitchell and A. Ian Doyle, 1970: 1.8-24.\n\n",
+            "folio": "ff. 1-2v;  8-16v"
+        },
+        "BodJam34": {
+            "First Lines": "\nThe ladder of hevene I meene chariteeComandith vs if our brothis be\n                    falle\u2026\n",
+            "Last Lines": "\n\u2026The hie as faste as that thow canst devyseAnd humble eek thee\n                    to him for any thing\n",
+            "Note": "\n73 stanzas. On f. iii: \u2018Thi legend and defence of \u00fee Nobli\n                    knight and Martyr Sir Ihon Oldcastel sett forth By Richard Iames Bachelour of\n                    Divinitie and fellowr of CCC in Oxford\u2019. On p. 2: \u2018Ceste feust\n                    faicte au temps que le Roy Henri le cinquiesme que Dieu pardoins feust a\n                    Helmpton sur son primer passage vers Harflete\u2019. At end: \u2018Cest\n                        tout\u2019. Followed by \u2018Observations vppon Hoccleve\u2019 by\n                    RI.",
+            "folio": "pp. 2-14"
+        }
+    }
+}

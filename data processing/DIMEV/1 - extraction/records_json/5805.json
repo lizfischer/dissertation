@@ -1,0 +1,15 @@
+{
+    "_id": 5805,
+    "_header": "Thomas Albone is my name",
+    "Note": "Cf. the similar 5806.",
+    "Subjects": "scribes; colophons",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A scribe\u2019s excuse for poor writing: \u2018if my pene had bine beter\u2019 \u2014 two couplets",
+    "_witnesses": {
+        "PierpontAcc698": {
+            "Transcription": "\nThomas Albone is my namewith hande and pene I write the sameand\n                    if my pene had bene beterthen I woulde haue mended my letter\n",
+            "Note": "\nAdded to left margin by a sixteenth-century hand in the Morgan copy of\n                        \n            Caxton, William, trans., Somme des vices et vertus [English] The Ryal Book,\n            [Westminster: William Caxton, about 1486] .",
+            "folio": "sig. l.2v"
+        }
+    }
+}

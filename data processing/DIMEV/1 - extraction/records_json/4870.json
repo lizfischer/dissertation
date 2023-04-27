@@ -1,0 +1,66 @@
+{
+    "_id": 4870,
+    "_header": "Sir Nuns Priest our Host said anon",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "\u2018Nun\u2019s Priest\u2019s Epilogue\u2019; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; epilogues; links",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the \u2018Nun\u2019s Priest\u2019s Epilogue\u2019 of the Canterbury Tales found in nine manuscripts and three pre-1500 printed editions \u2014 16 lines in couplets, possibly canceled and reworked for the Monk\u2019s Prologue",
+    "_witnesses": {
+        "OxfChrCh152": {
+            "First Lines": "\nSire Nonnes preest oure hoost seyde a noneY blessed be thy breth\n                    & euery stoone\u2026\n",
+            "Last Lines": "\n\u2026And aftir he with full mery chereSaide vnto a nother as ye\n                    shulle here\n",
+            "Attributed Title": "\nHere is ended the Nonnes prestes tale\u2026 (rubric, f. 174)",
+            "folio": "ff. 173v-174"
+        },
+        "CULDd424": {
+            "First Lines": "\nSire Nonnes Preest oure hoost seide a noonI blissed be thy breche\n                    & euery ston\u2026\n",
+            "Last Lines": "\n\u2026And after that he with ful merie chereSeide vn to a nother as\n                    \u021de shuln heere\u2026\n",
+            "Attributed Title": "\nHeere endeth the Tale of the Nonnes Preest (f. 195v, preceded by\n                    blank space of ca. 15 lines)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 195-195v"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nSIr Nvnnys preest oure host seide anoonI blessid be thi breche and\n                    every stoon\u2026\n",
+            "Last Lines": "\n\u2026And aftir that he wt full mery cheereSeid vnto the Nunne as\n                    ye may heere\n",
+            "Attributed Title": "\n\u2026Incipit prologus fabule secunde moniale (f.\n                    284v)",
+            "folio": "f. 284v"
+        },
+        "BLEge2726": {
+            "First Lines": "\nSire Nonnes Preest our hoost seid anoonYblessed be thy breche and\n                    euery stoon\u2026\n",
+            "Last Lines": "\n\u2026And after \u00feat he with full mery chereSeid vn to another\n                    as ye shull here\n",
+            "Attributed Title": "\nHic fabula Monialis Presbiteri desinit & Incipit fabula / Sancte\n                        Cecilie prologo deficiente & per secundam monialem narrata (f.\n                    217)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "f. 217"
+        },
+        "BLEge2864": {
+            "First Lines": "\nSir nunnes preest our hoost seid a noonI blissid be thi breeth and\n                    every stoon\u2026\n",
+            "Last Lines": "\n\u2026And aftir that he with ful mery cheerSeyde vn to the Nunne as\n                    ye shal heer\n",
+            "folio": "f. 233v"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nSir Nonnes prist our host sayde anonI blessid be thy breche and\n                    euery stoon\u2026\n",
+            "Last Lines": "\n\u2026And after that he with ful myrry chiereSayde vnto another as\n                    ye shul here\n",
+            "Attributed Title": "\nHere endith the tale of \u00fee / none prest\u2026 (rubric, in margin, f.\n                    284)",
+            "folio": "f. 284"
+        },
+        "RylandsEng113": {
+            "First Lines": "\nSir Nonnes prest or hoste seid anoonBlissed be \u00fei breche and\n                    euery stoon\u2026\n",
+            "Last Lines": "\n\u2026And after \u00feat he with full mery chereSeid vnto \u00fee\n                    Nonne as ye shal here\n",
+            "Attributed Title": "\nHere endith \u00fee tale of \u00fee Nonnes Prest\u2026 (f.\n                    153v)",
+            "folio": "f. 153v"
+        },
+        "Austin143": {
+            "First Lines": "\n[S]yre Nonnys prest oure hoste sayd a nonBlessyd be thy Breche and\n                    euery stone\u2026\n",
+            "Last Lines": "\n\u2026And he after \u00feat with ffull mery chereSayd vn to the\n                    Nonne as y shall here\n",
+            "Attributed Title": "\nVerba Hospitis (margin, f. 194); Here endyth the Tall of the Nonnys\n                    prest\u2026 (f. 194)",
+            "folio": "f. 194"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nSir Nonnes prest oure oost anonI blessed be thi breche and eueri\n                    ston\u2026\n",
+            "Last Lines": "\n\u2026And aftir that he with full mery chereSeid vnto anothir as ye\n                    shal hiere\n",
+            "Attributed Title": "\nHic fabula Monialis Presbiteri desinit / Et incipit fabula Sancte\n                        Cecilie prologo / deficiente et per secundum Monialem narrata\u2026 (f.\n                        213v)",
+            "folio": "f. 213v"
+        }
+    }
+}

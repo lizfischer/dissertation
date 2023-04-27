@@ -1,0 +1,22 @@
+{
+    "_id": 2944,
+    "_header": "Jesu was born in Bethlehem Iudea / Of maid Mary thus find we",
+    "Subjects": "carols, Epiphany",
+    "Versification": "\u2014 four-line \u2014 aaab",
+    "_description": "A carol for Epiphany \u2014 eleven quatrains (aaab) and burden: \u2018The sterre hym schon bothe nyght & day / To lede thre kynges ther our lord lay\u2019",
+    "_witnesses": {
+        "BLSl2593": {
+            "First Lines": "\nJhesu was born in bedlem judeOf mayde mary thus fynde\n                    we\u2026\n",
+            "Last Lines": "\n\u2026God saf vs fro the peynis of helle& fro the wykkynd\n                    fyndes pray\n",
+            "Editions": "\n\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 80-2; 1977, 69-70.\nWright,  Thomas,\n                        ed.  \n             Songs and Carols.\nWarton Club\n         4. London: Richards, 1856: 40-2.\nFehr,  Bernhard. \n             \u201cDie Lieder des HS. Sloane 2593.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         109 (1902): 33-72: 54-5.\n\n",
+            "folio": "ff. 14-14v"
+        },
+        "NLWPork10": {
+            "First Lines": "\nJhesu whas borne in bedlem judeAlle off a mayden so fyndythe\n                    whe\u2026\n",
+            "Last Lines": "\n\u2026And yne the depyste pytte he fellAnd ther he ys foreuer &\n                    ay\n",
+            "Note": "\n10 stanzas, most differing from the text of London,  British Library Sloane 2593.",
+            "Editions": "\n\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 80-2; 1977, 70.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 134-5.\n\n",
+            "folio": "ff. 198v-199v"
+        }
+    }
+}

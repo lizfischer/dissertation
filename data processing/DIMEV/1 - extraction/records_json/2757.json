@@ -1,0 +1,27 @@
+{
+    "_id": 2757,
+    "_header": "It that I give I have / It that I lend I crave",
+    "Note": "Cf. 5140, 4811, 6621.7, 2165, and 6554.",
+    "Subjects": "money; precepts",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Moralizing lines on lending money \u2014 eight lines",
+    "_witnesses": {
+        "CULLl510": {
+            "Transcription": "\nIt \u00feat I gif I haueIt \u00feat I len I craiffIt \u00feat I\n                    spend is myneIt \u00feat I leis I fyne\n",
+            "folio": "f. 57v"
+        },
+        "CamMagPep2553": {
+            "Transcription": "\nIt \u00feat I gif I haifIt \u00feat I len I\n                    craiff\u2026\u2026get and saif and \u00feou sall haifwaist and want\n                    len and craiff\n",
+            "Note": "\nWritten two lines verse to a line in MS; immediately followed by 6554 without a break; three\n                    couplets.",
+            "Editions": "\nCraigie,  William Alexander. \n             The Maitland Folio Manuscript, Containing Poems by Sir Richard\n                Maitland, Dunbar, Douglas, Henryson, and others.\n             2 vols. \n             Scottish Text Society\n         n.s. 7 (1919), 20 (1927); Edinburgh and London: Blackwood, 1919,\n            1927: 1.344.\n",
+            "folio": "p. 294"
+        },
+        "Banna": {
+            "Transcription": "\nIt \u00feat I gife I haifIt \u00feat I len I craifIt \u00feat I\n                    spend is myneIt \u00feat I leif I tynegett and saifand thow sall\n                        haifWe len and grantAnd thow sall want\n",
+            "Note": "\n4 x 2; written two lines of verse per line of MS; followed 6554.",
+            "Facsimiles": "\nFox,  Denton,  and  William A. Ringler.  \n             The Bannatyne Manuscript: National Library of Scotland Advocates\u2019\n                MS. 1.1.6\n         London: Scolar Press, in Association with The National Library of\n            Scotland, 1980. \n",
+            "Editions": "\n\nRamsay,  Allan,\n                        ed.  \n             The Ever Green.\n         2 vols. Edinburgh, 1724; repr. Ramsay and Early Scottish Poets, London,\n            n.d.: 1.107.\nRitchie,  W. Tod,\n                        ed.  \n             The Bannatyne Manuscript.\n             4 parts in 4 vols. \n             Scottish Text Society\n         3rd ser. 5 (1928); n.s. 22 (1928); n.s. 23 (1930); n.s. 26 (1934)\n            Edinburgh and London: Blackwood, 1928-34; ed. by Ritchie et al: 3.43.\n\n",
+            "folio": "f. 147"
+        }
+    }
+}

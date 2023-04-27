@@ -1,0 +1,58 @@
+{
+    "_id": 6037,
+    "_header": "To wilderness yode a young man",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "exempla",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "How a Hermit put another into Wanhope, a Narratio in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nTO wildirness \u021dode a \u021donge manTo liue als hermite be him\n                    ane\u2026\n",
+            "Last Lines": "\n\u2026\u00feat it mai so to vs fallAmen amen praye we\n                    all\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 82v-85"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nTO wildernes com a \u021don Mon[T]O lyue as an Hermyte al\n                    on\u2026\n",
+            "Last Lines": "\n\u2026Amen Amen Alle we sayffor foul lust is non in \u00feat\n                    play\n",
+            "Attributed Title": "\nHou an hermyt putte ano\u00feur in wanhope (f. 184ra)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDie Evangelien-Geschichten der Homiliensammlung des Ms. Vernon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         57 (1877): 241-316: 272.\n",
+            "folio": "f. 184ra-184rc"
+        },
+        "CULAdd8335": {
+            "Note": "\nEnds imperfectly.",
+            "folio": "p. 130"
+        },
+        "CULDd11": {
+            "folio": "f. 105"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nOf wyldernes come a yonge manTo lyue als ermyt by his\n                    ane\u2026\n",
+            "Last Lines": "\n\u2026Amen I rede we all sayffor foule luft es nan in \u00feat\n                    play\n",
+            "folio": "ff. 67-69v"
+        },
+        "BLHar2391": {
+            "First Lines": "\nTo wyldirnes went a \u021dongmanto lyf as hermit be hys an\u2026\n",
+            "Last Lines": "\n\u2026\u00feat it may so to vs falleAmen amen pray we alle\n",
+            "Note": "\nEnds \u201cAmen.\u201d",
+            "Attributed Title": "\nDominica ii in quadragesima (left margin f. 174) plus \u201cA tale\u201d written above this",
+            "folio": "ff. 174-176"
+        },
+        "Lam260": {
+            "folio": "f. 28rb"
+        },
+        "MinULZ822": {
+            "First Lines": "\nOff wildernes come a \u021dong maneTo lyfe als hermyte be hym\n                    allane\u2026\n",
+            "Last Lines": "\n\u2026Amen amen I rede we all sayeffor fowle luste es nane in\n                    \u00feat playe\n",
+            "Attributed Title": "\nparabola & bona narracio (added right margin, f. 56)",
+            "folio": "ff. 56-58v"
+        },
+        "HunHM129": {
+            "First Lines": "\nTo wildernys come a \u021dong manTo lyffe as hermyte by hym a\n                    lan\u2026\n",
+            "Last Lines": "\n\u2026Amen amen we all say\u00feat god brynge vs to gaymyn and\n                    play\n",
+            "Attributed Title": "\nnarracio (f. 76)",
+            "folio": "ff. 76-78v"
+        }
+    }
+}

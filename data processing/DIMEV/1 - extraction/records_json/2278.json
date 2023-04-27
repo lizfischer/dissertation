@@ -1,0 +1,42 @@
+{
+    "_id": 2278,
+    "_header": "I shall you tell without leasing",
+    "Note": "All these MSS are rolls. Texts vary, and sometimes incorporate sections of 4210; for others formerly listed under this item number, see 4274, 5107, 2623, 5211.",
+    "Author(s)": "George Ripley (attrib.)",
+    "Title(s)": "The Emblematical Scroll",
+    "Subjects": "alchemical poems; illustrations, verses accompanying",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Oxford, Bodleian Library Ashmole Rolls 40 (SC 8447): contains 2623, 4274 and 5211 only; Oxford, Bodleian Library Ashmole 8 (SC 8465A): contains 5746 only, though cited in edition Ashmole (1652)\nXAshmole, Elias. Theatrum Chemicum Britannicum. London: J. Grimond, 1652, 375-9.",
+    "_description": "The Emblematical Scroll, attributed to George Ripley, on preparing the Philosopher\u2019s Stone \u2014 in groups of couplets describing illustrations",
+    "_witnesses": {
+        "BodRo1": {
+            "Note": "\n137 lines.",
+            "folio": "roll"
+        },
+        "CamFitz276": {
+            "First Lines": "\nI shall you telle wythout lessyngeWho and what is my\n                    generachenOmo Ienie is my fatherAnd maguessya is my\n                    mother\u2026\n",
+            "Last Lines": "\n\u2026And make him all but oneLoo here is the phyllosyfeer\n                    stone\n",
+            "Note": "\nNineteen couplets, beneath an illustration of \u2018The sarpene of\n                    arabi\u2019; \u2018I shall you tell without lessinge\u2019 follows 5211.",
+            "folio": "roll"
+        },
+        "Wellcome693": {
+            "Note": "\nCa. A.D. 1600.",
+            "folio": "roll"
+        },
+        "YaleBeiMel41": {
+            "folio": "roll"
+        },
+        "PUL93": {
+            "First Lines": "\nI shalle yew tell with ovt lessyngWho and what ys my\n                    generasyon\u2026\n",
+            "Last Lines": "\n\u2026And make them all bvt onloo here ys the philosoffor\n                    stone\n",
+            "Note": "\n19 couplets, written in four columns, alternating red and\n                    black.",
+            "folio": "sixth item"
+        },
+        "HunHM30313": {
+            "First Lines": "\nI Shall Now tell without Leesingehou & what is My\n                    Generation\u2026\n",
+            "Last Lines": "\n\u2026And make them all thre but oneLoe here is the philosephers\n                    Stone\n",
+            "Note": "\n38 lines, fourth among four under this number.",
+            "folio": "fourth item on roll"
+        }
+    }
+}

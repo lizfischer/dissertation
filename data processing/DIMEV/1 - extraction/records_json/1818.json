@@ -1,0 +1,17 @@
+{
+    "_id": 1818,
+    "_header": "He ate bread but a quantity",
+    "Note": "Previously misidentified as fragments of 2763.",
+    "Subjects": "Theobaldus of Champagne; Charlemagne; exempla",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Metrical exemplum concerning Charlemagne and Theobaldus of Champagne, similar to versions found in \u2018Jacob\u2019s Well\u2019 and the \u2018Alphabet of Tale\u2019",
+    "_witnesses": {
+        "HarEng1032": {
+            "First Lines": "\n\u2026He ete brede bot a quantiteTua hennes at anes here ett wald\n                    heOr elles a Pakok or a craneOr a gose dyght till hym\n                    ane\u2026\n",
+            "Last Lines": "\n\u2026[ ]stall[ ] I fall\u2026\n",
+            "Note": "\nParts of two bifolia, with portions of each page torn away, with loss of\n                    text.",
+            "Editions": "\n\nHeffernan,  Thomas J. \n             \u201cThe Affiliation of Houghton MS 1032 and the Northern Homily Cycle: A\n                Disclaimer.\u201d \n             Notes and Queries\n         n.s. 28 [226] (1981): 301-3: (Theobald only), 302-3.\nAcker,  Paul. \n             \u201cHarvard MS 1032: Exemplary Verse Concerning Charlemagne and\n                Theobald.\u201d \n             Neuphilologische Mitteilungen\n         87 (1986): 354-64: 360-3.\n\n",
+            "folio": "ff. 1-2v"
+        }
+    }
+}

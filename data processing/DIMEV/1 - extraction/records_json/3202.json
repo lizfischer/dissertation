@@ -1,0 +1,20 @@
+{
+    "_id": 3202,
+    "_header": "Lord how I shall me complain",
+    "Subjects": "love lyrics, satiric",
+    "Versification": "\u2014 eight-line",
+    "_description": "A burlesque love song \u2014 eight 8-line stanzas with refrain, \u2018When I sleep I may not wake\u2019",
+    "_witnesses": {
+        "OxfBal354": {
+            "First Lines": "\nLord how shall I me complaynVnto myn own lady\n                    dere\u2026\n",
+            "Last Lines": "\n\u2026By this ensample ye may seThat whan I slepe I can not\n                    wakffinis\n",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 284-5.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 119.\n\n",
+            "folio": "pp. 5112-512"
+        },
+        "NLWPork10": {
+            "Editions": "\n\nHalliwell-Phillipps,  James Orchard. \n             Early English Miscellanies in Prose and Verse.\n         London: for the Warton Club, 1855: 6-8; comp. text.\nChambers,  Edmund Kerchever,  and  Frank Sidgwick.  \n             Early English Lyrics\u2026.\n         London: Buller, 1907, 1911 et seq: 217-19.\n\n",
+            "folio": "f. 59v"
+        }
+    }
+}

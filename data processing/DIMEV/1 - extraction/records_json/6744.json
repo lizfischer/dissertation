@@ -1,0 +1,58 @@
+{
+    "_id": 6744,
+    "_header": "With sharp thorns that beth keen",
+    "Note": "For other MSS see 6713; for the indulgence see 5196.",
+    "Subjects": "Christ, wounds of; sins, deadly",
+    "Versification": "\u2014 four-line \u2014 aabb",
+    "_description": "The Wounds of Christ as Remedies against the Deadly Sins \u2014 eight quatrains",
+    "_witnesses": {
+        "BodAsh61": {
+            "Editions": "\nShuffleton,  George. \n             Ashmole 61: A Compilation of Popular Middle English Verse.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008: 385-6; 575-9; 626.\n",
+            "folio": "f. 150v"
+        },
+        "CULEe513": {
+            "First Lines": "\n\u00feat \u00fee scheding of cristis blodis a wasing of mannis\n                    mod& not only \u00feat of \u00feingbut of svnder maner\n                    begyning\u2026\n",
+            "Last Lines": "\n\u2026mi body was bllo qwan it was betenlere at me \u00fei lustes\n                    to leten\n",
+            "Note": "\nSeven stanzas; preceded by Latin equivalent, \u2018Cristus lauit nos\n                        a peccatis nostris in sanguine suo\u2026\u2019 (f.\n                    15va).",
+            "folio": "ff. 15va-16ra"
+        },
+        "CULFf238": {
+            "First Lines": "\nWyth scharpe \u00feornes \u00feat weren full keeneMyn hedd was\n                    crowned \u021de moun well seeneThe blood ranne downe all be my\n                    chekeThou prowde man \u00feerfore be meke\u2026\n",
+            "Last Lines": "\n\u2026That te \u00feese lessons ouyr wole redeAnd ther\n                    with \u00feer sowlys fede\n",
+            "Attributed Title": "\nThe vii virtues contrarie to \u00fee vii dedli synnes (f.\n                    32vb)",
+            "Facsimiles": "\nMcSparran,  Frances,  and  Pamela R. Robinson.  \n             \u201cIntroduction.\u201d \n             Cambridge University Library MS Ff.2.38.\n         London: Scolar Press, 1979. \n",
+            "folio": "f. 33ra"
+        },
+        "CamMagPep1584": {
+            "First Lines": "\nWith scharp thornys \u00feat wer full keneMy hed was crownyd ye may\n                    well seneThe blode Ran down all by my chekeThou proude man \u00feerfor\n                    be meke\u2026\n",
+            "Last Lines": "\n\u2026That \u00feeis lessons will ouyr RedeAnd \u00feer with\n                    \u00feair soulis sede\n",
+            "Note": "\nRubric names of seven deadly sins above each stanza, e.g., \u2018a gan\n                    pride\u2019, \u2018a gayn wrothe\u2019.",
+            "Attributed Title": "\nHere sueth \u00fee vii vertuous a gayn \u00fee vii dedly synnys (f.\n                        108v)",
+            "folio": "ff. 108v-109"
+        },
+        "BLAdd37049": {
+            "Editions": "\nDoty,  Brant Lee,\n                        ed.  \n             \u201cAn Edition of British Museum MS Additional 37049: a Religious\n                Miscellany.\u201d \n         Diss. Michigan State, 1969: 197-9.\n",
+            "folio": "f. 38"
+        },
+        "BLHar2339": {
+            "First Lines": "\nWi\u00fe scharpe \u00feornes \u00feat were ful keneMyn heed was\n                    crowned \u021de moun wel sene\u2026\n",
+            "Last Lines": "\n\u2026\u00deat \u00feese lessouns ouer wole redeAnd\n                    \u00feerwi\u00fe her soulis fede\n",
+            "Attributed Title": "\n\u00dee vij virtues a\u021dens \u00fee vij deedli synnes (rubricated, f.\n                        117v)",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 227-8.\nPerson,  Henry Axel. \n             Cambridge Middle English Lyrics.\n         Seattle: University of Washington Press, 1953; rev. ed. 1962: 68-9.\n\n",
+            "folio": "ff. 117v-118v"
+        },
+        "BLSl2275": {
+            "Note": "\nStanzas 4 and 8 only.",
+            "folio": "f. 245"
+        },
+        "Longleat30": {
+            "First Lines": "\nWith scharp thornes \u00feat beth keneMy hede was crowned ye may\n                    sene\u2026\n",
+            "Last Lines": "\n\u2026That this lesson euer wil redeAnd ther with her her soules\n                    fede\n",
+            "folio": "ff. 11-11v"
+        },
+        "HunHM142": {
+            "Note": "\nInserted in 4083.",
+            "folio": "f. 10"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "_id": 5169,
+    "_header": "That Piers said",
+    "Note": "Editions without naming source: Wright (1839)\nXWright, Thomas. The Political Songs of England.\nCamden Society o.s. 6 (1839), 308; Wright (1866)\nXWright, Thomas. The Chronicle of Pierre de Langtoft, in French Verse, from the Earliest Period to the Death of King Edward I. 2 vols. Rolls Series 47 (1866-68), 2.268.",
+    "Author(s)": "Robert Mannyng",
+    "Subjects": "Merlin; prophecies; chronicles, verse in",
+    "Versification": "\u2014 tail rhyme \u2014 aab",
+    "Bibliographic Ghosts": "London, Lambeth Palace Library 131: not in this MS.",
+    "_description": "Robert Mannyng, two reflective stanzas added to his trans. of Langtoft\u2019s six Anglo-Norman stanzas on Merlin\u2019s prophecies fulfilled in King Edward",
+    "_witnesses": {
+        "InnerTem5117": {
+            "Transcription": "\n\u00feat Pers saidme \u00feink it is laid\u00fee pes so\n                    trewenow ilk \u021derebi tymes sere\u00feei gynne all\n                    neweihesu so mekeI \u00fee bisekeon croice \u00feat was\n                    wondedgraunt me \u00feat bone\u00fee scottes soneall be\n                    confounded\n",
+            "Note": "\nWritten as long lines, each containing a rhyming couplet and tail\n                    rhyme.",
+            "Editions": "\n\nHearne,  Thomas,\n                        ed.  \n             Peter Langtoft\u2019s Chronicle, and Robert Mannyng of Brunne\u2019s\n                Metrical Chronicle.\n         Oxford: at the Theatre, 1725; repr. 1810: 282.\nSullens,  Idelle,\n                        ed.  \n             Robert Mannyng of Brunne: The Chronicle.\n         Binghamton, NY: Medieval & Renaissance Texts & Studies, 1996: 657.\n\n",
+            "folio": "f. 177r3"
+        }
+    }
+}

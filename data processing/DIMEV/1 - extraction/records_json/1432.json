@@ -1,0 +1,30 @@
+{
+    "_id": 1432,
+    "_header": "Fortune alas alas what have I guilt",
+    "Subjects": "prison/prisoners; Fortune, complaint against; complaints",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "\u2018Complaint of a Prisoner against Fortune\u2019 \u2014 twenty or twenty-one stanzas rhyme royal",
+    "_witnesses": {
+        "BLAdd34360": {
+            "First Lines": "\nAllas fortune allas what have I giltIn prisoune thus to lye here\n                    desolate\u2026\n",
+            "Last Lines": "\n\u2026Now lady swete I can nomore now seyBut Rewe on me and help me\n                    whan I dey\n",
+            "Note": "\n20 stanzas; follows immediately after first three stanzas of\n                    Chaucer\u2019s \u2018Complaint to his purse\u2026\u2019 (6044) as if part of\n                    that poem; ends, \u2018Amen\u2019.",
+            "folio": "ff. 19-21v"
+        },
+        "BLHar2251": {
+            "First Lines": "\nAllas fortune alas what have I giltIn prison thus to lye here\n                    desolate\u2026\n",
+            "Last Lines": "\n\u2026Now lady swete I cannomore now seyBut Rewe on me and help me\n                    whan I dey Amen\n",
+            "Note": "\nMedieval folios 298-300; 20 stanzas; follows immediately after first\n                    three stanzas of Chaucer\u2019s \u2018Complaint to his purse\u2026\u2019\n                        (6044) as if\n                    part of that poem.",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             Originals and Analogues of some of Chaucer\u2019s Canterbury\n                Tales.\nChaucer Society\n         2nd ser. 7, 10, 15, 20, 22. London: Tr\u00fcbner, 1872-87: App. i-vi.\nHammond,  Eleanor Prescott. \n             \u201cLament of a Prisoner against Fortune.\u201d \n             Anglia\n         32 (1909): 481-90: 484-90.\n\n",
+            "folio": "ff. 271-273"
+        },
+        "BLHar7333": {
+            "First Lines": "\nFOrtune alas alas what haue I gyltIn prison thus to lye here\n                    desolate\u2026\n",
+            "Last Lines": "\n\u2026Now lady swete I can nomore now sayBut rew on me and helpe me\n                    when I dey\n",
+            "Note": "\n21 stanzas.",
+            "Attributed Title": "\nHere next folowith a litell Tretys by wey of complaint Agenis ffortune (f.\n                        30va); Explicit le compleint Agein ffortune (f.\n                    31ra)",
+            "Editions": "\nHammond,  Eleanor Prescott. \n             \u201cLament of a Prisoner against Fortune.\u201d \n             Anglia\n         32 (1909): 481-90: 484-90.\n",
+            "folio": "ff. 30va-31ra"
+        }
+    }
+}

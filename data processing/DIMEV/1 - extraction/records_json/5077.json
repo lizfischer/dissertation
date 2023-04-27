@@ -1,0 +1,64 @@
+{
+    "_id": 5077,
+    "_header": "Sweet Jesu now will I sing",
+    "Note": "This is a combination of 2899 and 5075. The texts differ materially in arrangement and length in all MSS. Cf. 2876 and 5835; also promise of grace for saying this prayer, 6622",
+    "Author(s)": "Richard Rolle (attrib.)",
+    "Subjects": "Christ, love toward; composite texts",
+    "Versification": "\u2014 four-line, monorhyme \u2014 aaaa",
+    "_description": "A song of love to Jesus \u2014 in monorhyming quatrains",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nSwete Ihesu now wol I syngeTo \u00fee a song of loue\n                    longinge\u2026\n",
+            "Last Lines": "\n\u2026But pees & Ioye with gret lykyngeSwete Ihesu \u00feerto\n                    vs bringe. Amen.\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 2.9-24.\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 2.449-62.\n\n",
+            "folio": "ff. 298ra-299rb"
+        },
+        "OxfBal8": {
+            "Transcription": "\nIhesu crist My Soule boteIn myn hert \u00feu sette a roteof\n                    \u00fey sone \u00feat ys so souuteant grante \u00feat \u00feer yt greuwe\n                    mote\n",
+            "Note": "\nStanza 4 only; added to blank flyleaf at end of volume by a hand of the\n                    fifteenth century, followed by Latin couplet by same hand: Crimen mortale dum\n                        desplicit est veniale / In nece quisque iacet dum ueniale\n                    placet\n",
+            "Editions": "\n\nCoxe,  Henry Octavius. \n             Catalogus codicum mss. qui in collegiis aulisque\n                oxoniensibus\u2026.\n         Oxon: e Typographeo academico, 1852: 3.\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.131.\nRobbins,  Rossell Hope. \n             \u201cPrivate Prayers in Middle English Verse.\u201d \n             Studies in Philology\n         36 (1939): 466-75: 470.\n\n",
+            "folio": "f. 222"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nSWete Ihesu nou wol I syngeTo \u00fee a song of loue\n                    longinge\u2026\n",
+            "Last Lines": "\n\u2026But pes and Ioye with gret lykyngeSwete Ihesu \u00feer to vs\n                    bringe\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 89ra-89vc"
+        },
+        "BLAdd37787": {
+            "First Lines": "\nSwete ihesu nou wul I syngTo \u00fee a song of loue\n                    longyng\u2026\n",
+            "Last Lines": "\n\u2026But \u00fees & Ioye wi\u00fe gret likyngSwete ihesu\n                    \u00feere to vs bryng. Amen\n",
+            "Editions": "\nBaugh,  Nita Scudder. \n             A Worcestershire Miscellany, compiled by John\n                    Northwood, c. 1400, edited from British Museum MS. Add.\n                37,787.\n         Philadelphia, 1956: 129-42.\n",
+            "folio": "ff. 146v-156v"
+        },
+        "BLRoy17Bxvii": {
+            "First Lines": "\nSwete Ihesu now wil I syngeTo \u00fee a songe of luf\n                    longynge\u2026\n",
+            "Last Lines": "\n\u2026but ioy & blis & ful likyngSwete Ihesu \u00feer to vs\n                    bryng\n",
+            "Note": "\nThis version with 6622\n                    preceding as prologue stanza. Last sixteen lines written by a different scribal\n                    hand from preceding lines.",
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 2.9-24.\n",
+            "folio": "ff. 13v2-19"
+        },
+        "Longleat29": {
+            "First Lines": "\nIhesu swet nowe wil I syngeTo the a songe of loue\n                    langynge\u2026\n",
+            "Last Lines": "\n\u2026Bot pitte & ioy with gret lykyngeSwete ihesu \u00feer to\n                    vs bryngeAmen\n",
+            "Note": "\n100 quatrains with eight \u2018Mary\u2019 quatrains added in\n                    margins",
+            "Editions": "\nOgilvie-Thomson,  J. S.,\n                        ed.  \n             Richard Rolle: Prose and Verse.\nEETS 293 o.s. 293 (1988): 50-63.\n",
+            "folio": "ff. 55-56v;  58"
+        },
+        "HunEL34B7": {
+            "First Lines": "\nJesu swete now wyll I syngTo \u00fee a song of love\n                    longyng\u2026\n",
+            "Last Lines": "\n\u2026Send it socowr and comfortyng\u00feat it dreede noo wycked\n                    thyng\n",
+            "Note": "\n31 quatrains. One prayer addressed to Jesus and two to Mary; portions\n                    addressed to Mary begin ff. 84v (\u2018Mary lady moder bryght / thow\n                    darst thow wylt thow artt of myght\u2026\u2019) and 85 (\u2018Mary \u00feat\n                    slakyst all woo / hell paynes kepe vs froo\u2026\u2019)",
+            "Attributed Title": "\nCarmen cristo Ihesu (f. 83v)",
+            "Editions": "\nLegg,  J. Wickham,\n                        ed.  \n             The Processional of the Nuns of Chester.\n         Henry Bradshaw Society, 1899: 30-3.\n",
+            "folio": "ff. 83v-85v"
+        },
+        "TCD155": {
+            "First Lines": "\nIhesu swete now wole iche syngto \u00fee a song of luf\n                    longyng\u2026\n",
+            "Last Lines": "\n\u2026but pees & myr\u00fe wi\u00fe gret lykyngswete Ihesi\n                    \u00feerto vs bryng\n",
+            "Note": "\n68 quatrains",
+            "folio": "pp. 109-119"
+        }
+    }
+}

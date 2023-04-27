@@ -1,0 +1,47 @@
+{
+    "_id": 2300,
+    "_header": "I warn each lede that liveth in land",
+    "Title(s)": "Keep Well Christ\u2019s commandments",
+    "Subjects": "advice, spiritual; ten commandments",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "Keep Well Christ\u2019s Commandments \u2014 thirteen 8-line stanzas with refrain",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nI Warne vche leod \u00feat liue\u00fe in londeAnd do hem dredles\n                    out of were\u2026\n",
+            "Last Lines": "\n\u2026ffor \u00fei I preye \u00feat crist vs spedeKuyndely to kepe\n                    his comaundement\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             Hymns to the Virgin and Christ\u2026and other religious poems.\nEETS\n         o.s. 24 (1867); repr. 1973: 106-13.\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 680-3.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 148-51.\n\n",
+            "folio": "f. 408va-408vb"
+        },
+        "CamMagPep1584": {
+            "First Lines": "\nI warne euery man \u00feat lyvith in londAnd do hym dredles oute of\n                    were\u2026\n",
+            "Last Lines": "\n\u2026That god commaundith to all menWho so will to hevyn\n                    goKepe \u00feem all breke noan of \u00feo\n",
+            "Note": "\n36 lines in a variety of verse and rhyme forms.",
+            "Attributed Title": "\nThe x commaundementis (f. 104v, where RT usually\n                    written)",
+            "folio": "ff. 104v-105"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nI warne vch leod \u00feat lyue\u00fe in londeAnd do hem dredles out\n                    of were\u2026\n",
+            "Last Lines": "\n\u2026\u00deis lesson lerne\u00fe alle at meHo sei\u00fe \u00fee\n                    so\u00fee he schal be schent\n",
+            "Attributed Title": "\nExplicit A song ho sei\u00fe \u00fee so\u00fee he schal be schent",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 130ra-130va"
+        },
+        "BLHar78": {
+            "First Lines": "\n\u2026To kepe well Crystes ComaundementThowe schalt haue o god and\n                    no moo\u2026\n",
+            "Last Lines": "\n\u2026\u00dei neybure wylfuly \u00feu ne dere\u00dee none \u00feat\n                    Comyth the besyde\u2026\n",
+            "Note": "\nLines 1-7 wanting; ends imperfectly.",
+            "folio": "ff. 86-86v"
+        },
+        "Lam853": {
+            "First Lines": "\nI Warne eche lijf \u00feat liue\u00fe in londAnd do him dredlees\n                    out of were\u00deat he must studie & vndirstonde\u00dee lawe of\n                    god to loue & lere\u2026\n",
+            "Last Lines": "\n\u2026ffor crist wole him heere help at nedeffor from hens to\n                    heuene he wole him hentffor \u00fei priere we \u00feat crist us\n                    spedeKindeli to kepe his comaundementAmen\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Hymns to the Virgin and Christ\u2026and other religious poems.\nEETS\n         o.s. 24 (1867); repr. 1973: 106-13.\n",
+            "folio": "pp. 49-53"
+        },
+        "StGeorgEII": {
+            "folio": "f. 29"
+        }
+    }
+}

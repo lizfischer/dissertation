@@ -1,0 +1,30 @@
+{
+    "_id": 2112,
+    "_header": "I am diseased and all forshend",
+    "Subjects": "sermons, verse in",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A single couplet in a Latin homily for Good Friday",
+    "_witnesses": {
+        "OxfBal149": {
+            "Transcription": "\nY am disseset & al for schendesori & sykande & alle to\n                    rent\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.131.\n",
+            "folio": "f. 34"
+        },
+        "OxfMagd93": {
+            "Transcription": "\ny am dysesyd & all for shentsory and syghand and all to\n                    rent\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 154"
+        },
+        "CULKk424": {
+            "Transcription": "\ny am desesyd & al for schendsore & syke & al to\n                    rendof \u00feys tormentes que cristus hodie pertulit\n\n",
+            "Note": "\nIn a sermon (by John Bromyard?) dominica in passione vel in die\n                        parasceue.",
+            "folio": "f. 146va"
+        },
+        "TCD277": {
+            "Transcription": "\nI am mysseyn & all to schentsory & syghand & all to\n                    rent\n",
+            "Attributed Title": "\nAmore Langueo (scribe, p. 185); Sermo de passione Cristi in die\n                        parasceues facienda (added, p. 185)",
+            "folio": "p. 190"
+        }
+    }
+}

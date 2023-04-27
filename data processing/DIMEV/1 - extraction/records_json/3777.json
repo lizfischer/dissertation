@@ -1,0 +1,40 @@
+{
+    "_id": 3777,
+    "_header": "Now late me thought I would begin / My sinful language to abate",
+    "Note": "See Holthausen (1918)\nXHolthausen, Ferdinand. \u201cZu dem me. gedichte \u2018De arte Lacrimandi,\u2019\u201d Beiblatt zur Anglia 29 (1918): 157-60, 247-50; cf. 6724 for a different poem with the same refrain.",
+    "Subjects": "Virgin Mary, lament of; laments",
+    "Versification": "\u2014 twelve-line \u2014 ababababbcbc",
+    "_description": "A lament of the Virgin Mary \u2014 in 12-line stanzas (ababababbcbc) with the refrain, \u2018Who can not wepe come lerne at me\u2019",
+    "_witnesses": {
+        "Bod423": {
+            "First Lines": "\n[N]OW at my thought I wil begynneMy synful lyuynge to\n                    abbate\u2026\n",
+            "Last Lines": "\n\u2026Aske mercy and thou shalt it haueand withouten ende welcome\n                    to me\n",
+            "Note": "\n76 stanzas; at the end: \u2018Thus endith an exhortacyoun of oure lady\n                    to mene alle o\u00feer to compassion of wepyng for cirstes peyne and\n                    passyon\u2019.",
+            "Attributed Title": "\nHere begynneth a tretys to lerne to wepe (f. 192v)",
+            "Editions": "\nBaker,  Donald C. \n             \u201c\u2018De Arte Lacrimandi\u2019: A Supplement and Some\n                Corrections.\u201d \n             Medium \u00c6vum\n         52 (1983): 222-5: 223-5 (5 stanzas not in London,  British Library Harley 2274).\n",
+            "folio": "ff. 192v-205"
+        },
+        "OxfCCC261": {
+            "First Lines": "\nffor grete angwys and ffore paynehe cryed and seyd thys word y\n                    thyrst\u2026\n",
+            "Last Lines": "\n\u2026Where y am euyr in hys syghtIn Ioy thatt lestyth\n                    eternally\n",
+            "Note": "\n3 stanzas only; in this MS, with refrain in this MS, \u2018There fore\n                    to wepe cum lerne off me\u2019.",
+            "Attributed Title": "\nHere begynneth a tretys to lerne to wepe (f. 192v)",
+            "Editions": "\nBaker,  Donald C. \n             \u201c\u2018Therfor to wepe, cum lerne of me\u2019: a planctus fragment in\n                MS. Corpus Christi College Oxford F.261.\u201d \n             Medium \u00c6vum\n         38 (1969): 291-4: 291-4.\n",
+            "folio": "f. 101"
+        },
+        "BLHar2274": {
+            "First Lines": "\nNow late me thought I wolde be gynneMy synfull lyuyng to a bate\u2026\n",
+            "Last Lines": "\n\u2026with all mercy is full repleteTherfor to wepe come lerne att me\n",
+            "Note": "\n72 stanzas.",
+            "Attributed Title": "\nDe arte lacrimandi (f. 35, in upper margin, by scribe)",
+            "Editions": "\nGarrett,  Robert Max. \n             \u201cDe arte lacrimandi.\u201d \n             Anglia\n         32 (1909): 269-94: 270-94.\n",
+            "folio": "ff. 35-46v"
+        },
+        "TCD160": {
+            "First Lines": "\nNow lat me thought y wyll begynne\u00fey synfull lysyng to a\n                    mend\u2026\n",
+            "Last Lines": "\n\u2026[ ] thankyd god with many a tereTherfor to wepe cum lerne at\n                    me\n",
+            "Note": "\nFifty-two stanzas.",
+            "folio": "Part I, ff. 1-13v"
+        }
+    }
+}

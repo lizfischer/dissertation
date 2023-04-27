@@ -1,0 +1,16 @@
+{
+    "_id": 4452,
+    "_header": "Regina celi and Lady letare",
+    "Subjects": "Virgin Mary, hymns to; hymns, to Virgin Mary",
+    "Versification": "\u2014 twelve-line \u2014 ababababbcbc",
+    "Macaronic": "Latin",
+    "_description": "A macaronic hymn to the Virgin Mary \u2014 seven 12-line stanzas, including refrain, \u2018Maria virgo virginum\u2019",
+    "_witnesses": {
+        "CamMagPep1236": {
+            "First Lines": "\nRegina celi and lady letarelemyng sely & in place of\n                    syght\u2026\n",
+            "Last Lines": "\n\u2026to se thy trone & thy tresoureMaria virgo\n                    virginum\n",
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 49-52.\n",
+            "folio": "ff. 98v-100"
+        }
+    }
+}

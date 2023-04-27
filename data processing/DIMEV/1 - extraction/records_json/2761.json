@@ -1,0 +1,85 @@
+{
+    "_id": 2761,
+    "_header": "It was a rich man o land / Full far beyond the sea woning",
+    "Note": "For another version see Handlyng Synne (1283), lines 5569-5944.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Piers Toller",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Piers Toller, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodSelSup52": {
+            "First Lines": "\nyt was arych man of landffull far be \u021dond \u00fee se\n                    wonnand\u2026\n",
+            "Last Lines": "\n\u2026\u00feat yt may wasch our syns a way& wyn vs to \u00feat\n                    blys \u00feat lastes ay\n",
+            "folio": "ff. 213v-219v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nHIt was a Riche mon of landeffer bi \u021donde \u00fee see\n                    wonande\u2026\n",
+            "Last Lines": "\n\u2026\u00deat we and \u00feei bo\u00fee mayCome to \u00fee Ioye\n                    \u00feat laste\u00fe ay Amen\n",
+            "Attributed Title": "\nHere his told hou perys tollere / Cast Awhyt lof to abeggere (f.\n                        214vb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDie Evangelien-Geschichten der Homiliensammlung des Ms. Vernon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         57 (1877): 241-316: 312.\n",
+            "folio": "ff. 214vc-215va"
+        },
+        "BodAsh42": {
+            "First Lines": "\nIt was a riche man o landffull ferre be\u021donde \u00fee se\n                    wonand\u2026\n",
+            "Last Lines": "\n\u2026\u00feat we and \u00feai bothe maieCome to \u00fee ioye\n                    \u00feat lastis aie\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 96-101"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nIt was a riche man of londefful ferre be\u021donde \u00fee ce\n                    wonand\u2026\n",
+            "Last Lines": "\n\u2026\u00deat it may wasch oure synnes awayAnd wynne vs \u00feat\n                    blisse \u00feat lastes ay\n",
+            "Attributed Title": "\nnarracio de Petro Tollere (p. 145)",
+            "folio": "pp. 145-153"
+        },
+        "CULDd11": {
+            "First Lines": "\nIt was a riche man of landeful fer be \u021dond \u00fee se\n                    wonande\u2026\n",
+            "Last Lines": "\n\u2026And \u00feat it may so besey we Amen for charite\n                    Amen\n",
+            "Attributed Title": "\nNarracio de Petro tollere (f. 222); Expliciunt dominicalia\n                        Euangelia & miracula valde bona et notabilia in lingua Anglicana. Quod\n                        Staundone .R. (f. 225v)",
+            "folio": "ff. 222-225v"
+        },
+        "BLCottTibEVII": {
+            "folio": "f. 150ra"
+        },
+        "BLHar2391": {
+            "First Lines": "\nIt was a ryche man of landefull fere be \u021dond \u00fee se wonnand\u2026\n",
+            "Last Lines": "\n\u2026\u00feat we & \u00feaim both maycum to \u00fee Ioy \u00feat lastis ay\n",
+            "Attributed Title": "\nDominica iiii in quadragesima (left margin, f. 179); with \u201cA tale\u201d written above this",
+            "folio": "ff. 179-183v"
+        },
+        "BLHar4196": {
+            "First Lines": "\nA mighty man of land and feWond sum tyme by the inde se\u2026\n",
+            "Last Lines": "\n\u2026\u00feat we may be halden for hisAnd haue oure mede in heuyn blis\n",
+            "Attributed Title": "\nNarracio de petro tholonario (rubric, f. 54ra)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): II.97-110.\n",
+            "folio": "ff. 54rb-56va"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nHIt was a riche mon of the landeffer bi\u021donde \u00fee se\n                    wonande\u2026\n",
+            "Last Lines": "\n\u2026\u00deat we & \u00feai bo\u00fee mayCome to \u00fee Ioye\n                    \u00feat laste\u00fe ay. Amen\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 18vb-19va"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nIt was a ryche mane of landeffull ferr by yonde \u00fee se\n                    wonande\u2026\n",
+            "Last Lines": "\n\u2026That it be swa says inwardlyA pater noster and an Aue\n                    mary\n",
+            "folio": "ff. 75-79"
+        },
+        "Lam260": {
+            "folio": "f. 31va"
+        },
+        "HunHM129": {
+            "First Lines": "\nHit wos a ryche man off landffull fer by \u021dond \u00fee se\n                    wonnand\u2026\n",
+            "Last Lines": "\n\u2026Amen amen I rede we all sayffor \u00feare is euyr game and\n                    play\n",
+            "Attributed Title": "\nrelacio (f. 198); Expliciunt exposisciones dominicarum (f.\n                    202)",
+            "folio": "ff. 198-202"
+        },
+        "MinULZ822": {
+            "First Lines": "\nIt was a ryche man of a landefull fere be \u021donde \u00fee se\n                    wonnande\u2026\n",
+            "Last Lines": "\n\u2026\u00feat we and \u00feai bayth maycome to \u00fee blyse\n                    \u00feat lastes ay\n",
+            "Note": "\nNote folio change from Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943.",
+            "Attributed Title": "\nNarracio de quodam diuite homine (f. 65)",
+            "folio": "ff. 65-69"
+        }
+    }
+}

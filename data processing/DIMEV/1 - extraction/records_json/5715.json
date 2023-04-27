@@ -1,0 +1,21 @@
+{
+    "_id": 5715,
+    "_header": "This is the book that I thee take",
+    "Note": "Cf. 675.",
+    "Title(s)": "\u2018Doctrina Patris ad Merlinum\u2019; \u2018Rhasis Cestrensis de 12 aquis\u2019",
+    "Subjects": "Merlin; catechisms, science and biblical lore",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018Rhasis Cestrensis de 12 aquis\u2019 with a prefatory Dialogue between Rhasis and his son Merlin \u2014 the opus (\u2018Doctrina Patris ad Merlinum\u2019) in twenty paragraphs in couplets",
+    "_witnesses": {
+        "BLAdd15549": {
+            "First Lines": "\nThis ys \u00fee boke \u00feat y \u00fee take\u00deat merliouns\n                    fadyr to hym con make\u2026\n",
+            "Last Lines": "\n\u2026And all \u00fee holy company of blisThat ay to god praye for\n                    vs. Amen\n",
+            "Attributed Title": "\nEt sic explicit Liber Merlin (Explicit, f. 168)",
+            "folio": "ff. 153-168"
+        },
+        "RylandsLat405": {
+            "Editions": "\nSinger,  Dorothea Waley. \n             Catalogue of Latin and Vernacular Alchemical Manuscripts.\n         3 vols. Brussels: Lamertin, 1928-31: 2.527 (excerpts).\n",
+            "folio": "f. 46v"
+        }
+    }
+}

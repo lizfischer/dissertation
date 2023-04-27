@@ -1,0 +1,26 @@
+{
+    "_id": 3424,
+    "_header": "Mary mother come and see / Thy son is nailed on a tree",
+    "Note": "For an earlier version in couplets see 3326; for later stanzaic versions see 2029 and 5653, where this incipit serves as the burden.",
+    "Subjects": "carols, of the Passion; Passion; dialogues, Virgin and Christ",
+    "Versification": "\u2014 four-line \u2014 aabb, aaaa",
+    "Macaronic": "Latin",
+    "_description": "Song of the Passion \u2014 seven quatrains (aabb, aaaa) and burden: \u2018Nowel el\u2026\u2019",
+    "_witnesses": {
+        "BLSl2593": {
+            "First Lines": "\nMary moder cum & seThi sone is naylyd on a\n                    tre\u2026\n",
+            "Last Lines": "\n\u2026Ther is non wyght that goth be the wayOf myn peynys can wel\n                    say\n",
+            "Facsimiles": "\nReed,  Ernest Bliss. \n             Christmas Carols Printed in the Sixteenth Century\nHuntington Library Publications.\n         Cambridge, MA: Harvard UP, 1932 [= Kele, ca. 1550]: 82.\n",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             Specimens of Old Christmas Carols, etc.\nPercy Society\n         4. London: T. Richard, 1841: 10-11.\nWright,  Thomas,\n                        ed.  \n             Songs and Carols.\nWarton Club\n         4. London: Richards, 1856: 65-6.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 118-19; 1977, 106.\n\n",
+            "folio": "ff. 23-23v"
+        },
+        "BLAdd31042": {
+            "Transcription": "\nmare moder cum & se\u00fei nawne dere chyld ys nalyd on treboth fowt & hand he may not go\u00feat blyssyd chyld ys lappyd in wo\u00feat blyssyd chy\u2026\n",
+            "Note": "\nFragment only, written two lines of verse per line of manuscript; no burden; stanza 1 and first line, stanza 2, only.",
+            "Attributed Title": "\nExultit celum lawdibus (after 2481 and before this, f. 94v, possibly belonging to either text)",
+            "Facsimiles": "\nHodder,  Karen. \n             \u201cTwo Unpublished Middle English Carol-Fragments.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         205 (1969): 378-83: 380.\n",
+            "Editions": "\n\nHodder,  Karen. \n             \u201cTwo Unpublished Middle English Carol-Fragments.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         205 (1969): 378-83: 3781.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon, 1977 (see\n            also Greene (1935)\nXGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977): 107.\n\n",
+            "folio": "f. 94v2"
+        }
+    }
+}

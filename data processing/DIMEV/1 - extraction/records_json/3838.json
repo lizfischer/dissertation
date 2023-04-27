@@ -1,0 +1,23 @@
+{
+    "_id": 3838,
+    "_header": "O blessed Jesu that art full of might",
+    "Subjects": "saints\u2019 lives; Anne, saint, life of",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Life of St. Anne \u2014 ninety-four stanzas rhyme royal, including 14-stanza prologue",
+    "_witnesses": {
+        "CamTCC601": {
+            "First Lines": "\no blessyd Ihesu that art full of myghtThe ground of vertu and of\n                    all goodnes\u2026\n",
+            "Last Lines": "\n\u2026Of hys gret mercy that we may be hysAnd when we dy to haue\n                    eternall blys\n",
+            "Attributed Author": "\nLydgate (ff. 221, 230, both added by later hand)",
+            "Attributed Title": "\nIncipit vita beate Anne matris beate Marie virginis (f. 221);\n                        Explicit vita sancte Anne Matris beate Marie Virginis (f.\n                    230)",
+            "Editions": "\nParker,  Roscoe E.,\n                        ed.  \n             The Middle English Stanzaic Versions of the Life of St. Anne.\nEETS\n         o.s. 174 (1928); repr. 1987: 90-109.\n",
+            "folio": "ff. 221-230"
+        },
+        "Chetham8009": {
+            "First Lines": "\nO blessed Ihesu that arte full of myghtThe wonder of vertu and of\n                    all goodnes\u2026\n",
+            "Last Lines": "\n\u2026Of hys gret mercy that we may be hysAnd when we dye to haue\n                    eternall blise\n",
+            "Attributed Title": "\nHere endyth the lyff of Seynt Anne (f. 29v)",
+            "folio": "ff. 18-29v"
+        }
+    }
+}

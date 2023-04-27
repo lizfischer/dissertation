@@ -1,0 +1,42 @@
+{
+    "_id": 5425,
+    "_header": "The number of Jesu Christs wounds",
+    "Subjects": "Christ, wounds of; devotional verse; illustrations, verse accompanying; Christ, wounds of; crucifixion",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The number of the Wounds of Christ and the number of the Drops of Blood from these Wounds \u2014 nine lines",
+    "_witnesses": {
+        "BodDou1": {
+            "First Lines": "\nThe numbre of the droppes of blodethat Ihesu Criste shed for\n                    manhode \u2026\n",
+            "Last Lines": "\n\u2026ffyue thousande also grete and smallHere is the nombre of\n                    them all\n",
+            "Note": "\nSix lines only and omits mention of Wounds; written as\n                    prose.",
+            "Attributed Title": "\nThus endeth the prayers of the passion of oure lorde (at the end)",
+            "folio": "ff. 70v-71"
+        },
+        "BodLatMisC66": {
+            "Transcription": "\nFyve thowsande & iiii hundrethiii score & fiftene ffull\n                    grithewere goddis woundis to safe vs wyth\n",
+            "Note": "\nWritten above heart illustrating the wounds Christ received on the\n                    cross; 3 lines monorhyming.",
+            "folio": "f. 129v"
+        },
+        "BodTan407": {
+            "First Lines": "\nThe novmbre of thes dropes all I wyll reherse in generall\n                    \u2026\n",
+            "Last Lines": "\n\u2026Vc also gret & smallHere is the nombre of hem\n                    alle\n",
+            "Note": "\nSix lines only and omits mention of Wounds.",
+            "folio": "f. 10v"
+        },
+        "CamTCC601": {
+            "First Lines": "\nThe nombre of these dropys allffyue hundred thousand for to\n                    tellAnd seuen & fourty thousand well\u2026\n",
+            "Last Lines": "\n\u2026ffyue hundred also gret & smallHere ys \u00fee nombre of\n                    hem all\n",
+            "Note": "\nFollows immediately 2419; six lines only and omits mention of\n                    Wounds.",
+            "folio": "f. 278va"
+        },
+        "BLAdd37049": {
+            "Transcription": "\nThe nowmer of Jhesu Cristes wowndesAr fyve thowsande foure hondreth\n                    sexty and fyfteeneThe whilk in his body war felt and sene\n",
+            "Note": "\nThree lines only.",
+            "Editions": "\n\nComper,  Frances M. M. \n             The Life of Richard Rolle, Together with an Edition of his English\n                Lyrics.\n         London: J. M. Dent, 1928, 1933; New York: E. P. Dutton, 1929: 318.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 401; 1977, 409 (3 lines only).\nDoty,  Brant Lee,\n                        ed.  \n             \u201cAn Edition of British Museum MS Additional 37049: a Religious\n                Miscellany.\u201d \n         Diss. Michigan State, 1969: 156.\n\n",
+            "folio": "f. 24"
+        },
+        "Wellcome632": {
+            "folio": "a roll"
+        }
+    }
+}

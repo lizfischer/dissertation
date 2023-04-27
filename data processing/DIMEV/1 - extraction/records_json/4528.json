@@ -1,0 +1,39 @@
+{
+    "_id": 4528,
+    "_header": "Saint Aethelwold the bishop in England was I-bore",
+    "Note": "For a variant text see 395.",
+    "Title(s)": "South English Legendary",
+    "Subjects": "Aethelwold, saint, life of; saints\u2019 lives",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Aethelwold in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nSEint A\u00feelwold Bisschop was and in Engelonde iboreIn childhode\n                    wel \u021dong he gon forsake sunne and hore\u2026\n",
+            "Last Lines": "\n\u2026Now swete lord Ihesu crist kyng of alle kyngeffor \u00fee\n                    loue of seint A\u00feelwold to \u00fee Ioye of heuene vs bringe.\n                    Amen.\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 38vb-39ra"
+        },
+        "CamTCC605": {
+            "First Lines": "\nSEint a\u00feelwold \u00fee byschop in englond was yboreIn childhod\n                    to clannesse he drow euer \u00fee lenge \u00fee more\u2026\n",
+            "Last Lines": "\n\u2026Now oure swete lord ihesu crist king of alle kingefor \u00fee\n                    loue of seint A\u00feelwold to \u00fee Ioie of heuene ous bringe\n",
+            "Attributed Title": "\nA\u00feelwold (RT)",
+            "folio": "ff. 235-236"
+        },
+        "BLAdd10626": {
+            "First Lines": "\nSeint Adelwolde \u00fee bischepe in englond was y boreIn chylhode\n                    wel \u021dong he gan to for sake synne & hore\u2026\n",
+            "Last Lines": "\n\u2026Now our lorde Ihesu Crist kyng of alle \u00feyngeFor love of\n                    Seint Adelwolde to \u00fee Ioye of hevene vs brynge. Amen.\n",
+            "folio": "ff. 5v-7"
+        },
+        "NLW5043": {
+            "Note": "\nFragment, lines (?).",
+            "folio": "ff. 3-3v"
+        },
+        "Lam223": {
+            "First Lines": "\nSAynt Athelwolde \u00fee bisshop was in Englond y boreIn childhode\n                    \u021donge he began to forsake synne & hore\u2026\n",
+            "Last Lines": "\n\u2026Now swete lord Ihesu Crist of alle kynges kyngffor \u00fee\n                    love of saynt Athelwolde to \u00fee ioye of heuen vs bringe Amen\n",
+            "Note": "\nAt the end of the first line \u2018hore\u2019 is glossed: \u2018.i.\n                    fil\u00fee\u2019.",
+            "Attributed Title": "\nSaynt Athelwolde (RT)",
+            "folio": "ff. 153v-154v"
+        }
+    }
+}

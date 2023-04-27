@@ -1,0 +1,21 @@
+{
+    "_id": 556,
+    "_header": "Another day Saint John says us",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel \u2018fferia va post dominicam terciam quadragesime\u2019, in the \u2018expanded\u2019 Northern Homily Cycle \u2014 in couplets",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 145vb"
+        },
+        "BLHar4196": {
+            "First Lines": "\nA no\u00feer day saint Ion sais vsGrete puple gedered to ihesus\u2026\n",
+            "Last Lines": "\n\u2026And wha in me will trewly tristHertly sal he neuer haue thrist\n",
+            "Note": "\nPreceded by Latin, \u201cDixit ihesu crist turbis iudeorum operamini & cetera.\u201d",
+            "Attributed Title": "\nFeria v post dominicam terciam quadragesime Secundum Iohannem (rubric, f. 49vb)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): II.74-76.\n",
+            "folio": "ff. 49vb-50rb"
+        }
+    }
+}

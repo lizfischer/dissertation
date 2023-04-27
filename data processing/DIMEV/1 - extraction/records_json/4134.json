@@ -1,0 +1,15 @@
+{
+    "_id": 4134,
+    "_header": "Of all mens disposition natural",
+    "Subjects": "Northampton, battle of; historical poems; allegories",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc, abababab",
+    "_description": "On the Battle of Northampton (1460) \u2014 twenty 8-line stanzas (ababbcbc, abababab)",
+    "_witnesses": {
+        "TCD432": {
+            "First Lines": "\nOf all mennys disposicion naturallPhilisophyrs wryten in euery\n                    place\u2026\n",
+            "Last Lines": "\n\u2026And illumyn hym with \u00fee holy gosteHis reme to set in\n                    perfyt charite\n",
+            "Editions": "\n\nMadden,  Frederick. \n             \u201cPolitical Poems of the Reigns of Henry VI and Edwrd IV.\u201d \n             Archaeologia\n         29 (1842): 318-47: 334-40.\nBrotanek,  Rudolph. \n             Mittelenglische Dichtungen aus der Handschrift 432 des Trinity College\n                in Dublin.\n         Halle: Niemeyer, 1940: 116-20.\nRobbins,  Rossell Hope,\n                        ed.  \n             Historical Poems of the XIV and XV Centuries.\n         New York: Columbia UP, 1959: 210-20.\n\n",
+            "folio": "ff. 67-69"
+        }
+    }
+}

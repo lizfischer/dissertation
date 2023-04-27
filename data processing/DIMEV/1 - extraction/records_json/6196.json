@@ -1,0 +1,51 @@
+{
+    "_id": 6196,
+    "_header": "Welcome Lord in form of bread",
+    "Note": "The first two lines are similar to the prayer in the Lay Folk\u2019s Mass Book \u2014 see Simmons (1879)\nXSimmons, Thomas Frederick. The Lay Folks\u2019 Mass Book.\nEETS o.s. 71 (1879); repr. 1968, 40-1.",
+    "Subjects": "prayers, for use in church; Eucharist",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "Bibliographic Ghosts": "New York, Pierpont Morgan Library G9 [olim Berkeley], Art. 3: this MS all in Latin; leaves out ME verse in this Latin text.",
+    "_description": "A prayer at the \u2018leuacion\u2019 \u2014 six 6-line stanzas",
+    "_witnesses": {
+        "BodAsh61": {
+            "First Lines": "\nWelcom lord in forme of bredIn \u00fee is both lyffe &\n                    dedIhesu is \u00fei nameThow Arte god in trinyte\u2026\n",
+            "Last Lines": "\n\u2026Heyll fader son & holy gosteWelcom in forme off\n                    brede\n",
+            "Editions": "\nShuffleton,  George. \n             Ashmole 61: A Compilation of Popular Middle English Verse.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008: 80-1; 460-2; 603.\n",
+            "folio": "ff. 26-26v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nWElcome Lord In fourme of BredIn \u00fee is bo\u00fee lyf and\n                    ded\u2026\n",
+            "Last Lines": "\n\u2026Godus sone \u00feat art so brihtIn fourme \u00feou art of\n                    bred\n",
+            "Attributed Title": "\nA preyer at \u00fee leuacioun (f. 115ra)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 1.\nEETS\n         o.s. 98 (1892; repr. 1973): 2.24-5.\n",
+            "folio": "f. 115ra1"
+        },
+        "BLAdd37787": {
+            "First Lines": "\nWelcome lord in forme of bredIn \u00fee is bo\u00fee lyf and\n                    ded\u2026\n",
+            "Last Lines": "\n\u2026ffadur and sone and holigostIn forme \u00feou art of\n                    bred\n",
+            "Editions": "\nBaugh,  Nita Scudder. \n             A Worcestershire Miscellany, compiled by John\n                    Northwood, c. 1400, edited from British Museum MS. Add.\n                37,787.\n         Philadelphia, 1956: 149-50.\n",
+            "folio": "ff. 160-160v"
+        },
+        "BLHar5396": {
+            "First Lines": "\nWelcom lord yn forme of bredeIn \u00fee ys bo\u00fee lyfe & deth\u2026\n",
+            "Last Lines": "\n\u2026hayl fader & sone & holi gostWelcum lord yn forme of bred\n",
+            "Note": "\nWritten as couplets with third and sixth lines to right; ends \u201cExplicit.\u201d",
+            "Attributed Title": "\nA Hymne at the Elevation of the hoste (added upper margin by a later hand, f. 273)",
+            "folio": "ff. 273-273v"
+        },
+        "Lam559": {
+            "First Lines": "\nWelcum lord in forme of bredin the is bothe lyfe and\n                    dede\u2026\n",
+            "Last Lines": "\n\u2026Hayle ihesu that all thing wosthayle fadyr and son and the\n                    holi gostwelcome in form of bred\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 25-26v"
+        },
+        "BrusselsIV231": {
+            "folio": "ff. 139-140"
+        },
+        "PierpontG9": {
+            "Note": "\nNB: not found in this MS.",
+            "folio": "Art. 3"
+        }
+    }
+}

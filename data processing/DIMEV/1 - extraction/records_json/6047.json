@@ -1,0 +1,51 @@
+{
+    "_id": 6047,
+    "_header": "Today Saint Luke tells us",
+    "Note": "For other MSS see 5672; for the version in the \u2018expanded\u2019 Cycle see 4687.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Second Sunday in Advent, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nTo daye saynte luke tellis vsIn oure godpell what\n                    ihesus\u2026\n",
+            "Last Lines": "\n\u2026Of ataken i herd of tell\u00feat falles wele till oure\n                    gospell\n",
+            "folio": "ff. 7-9v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nTO day seynt Luc telle\u00fe vsIn vre gospel \u00feat\n                    Ihesus\u2026\n",
+            "Last Lines": "\n\u2026Of a toknyng I haue herd telle\u00deat falle\u00fe wel to my\n                    spelle\n",
+            "Attributed Title": "\nErunt signa in sole & luna (f. 167vb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 167vb-168ra"
+        },
+        "CULAdd8335": {
+            "folio": "p. 9"
+        },
+        "CULGg531": {
+            "folio": "f. 11v"
+        },
+        "BLAdd30358": {
+            "First Lines": "\nTo day saynt luk tels vsIn oure gospell \u00feat Ihesus\n                    \u2026\n",
+            "Last Lines": "\n\u2026Of a takynyng hard I tell\u00deat fals wele to oure\n                    godspell\n",
+            "folio": "ff. 7v-9v"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nOn a day sante luke telles vsIn oure gospell \u00fee whilk\n                    ihesus\u2026\n",
+            "Last Lines": "\n\u2026Off a takenyng herd I tellThat \u00feis day falles wole till\n                    our gospell\n",
+            "folio": "ff. 7-9"
+        },
+        "EDCPCM": {
+            "First Lines": "\n[T]O day sain louk telles usIn our godspell \u00feat\n                    iesus\u2026\n",
+            "Last Lines": "\n\u2026And al ded men sal riseAnd cum bifor crist our\n                    iustise\n",
+            "Attributed Title": "\nNota iia aduentus domini secundum lucam; Incipit\n                        explanacio eiusdem euangelii ad lateram (f. 18vb)",
+            "Editions": "\n\nSmall,  John,\n                        ed.  \n             English Metrical Homilies\u2026.\n         Edinburgh: W. Paterson, 1862: 21-33.\nEmerson,  Oliver F. \n             A Middle English Reader.\n         London and New York: Macmillan, 1905: 148-54.\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n\n",
+            "folio": "ff. 18vb-19va"
+        },
+        "Lam260": {
+            "First Lines": "\nTO day saynt luk telles \u00feusIn oure gospell what\n                    ihesus\u2026\n",
+            "Last Lines": "\n\u2026& of a takenyg I herd of tell\u00deat falles wele tyll\n                    oure gospell\n",
+            "folio": "ff. 3rb-4rb"
+        }
+    }
+}

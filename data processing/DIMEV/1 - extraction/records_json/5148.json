@@ -1,0 +1,67 @@
+{
+    "_id": 5148,
+    "_header": "That is merry to be a wife",
+    "Author(s)": "Seneca",
+    "Subjects": "sermons, verse in; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A tag in the Fasciculus morum translating a Latin hexameter from Seneca, Controversia 6.8, \u2018Felices nupte moriar quia nubere dulce\u2019",
+    "_witnesses": {
+        "BodLauMis213": {
+            "Transcription": "\n\u00feat is mury to be a wyffdey y wyll & lese my\n                    lyffe\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 176v"
+        },
+        "BodLauMis568": {
+            "Transcription": "\nyt is mury to ben awyfedey I wolle ale be my lyfe\n",
+            "folio": "f. 103va"
+        },
+        "Bod187": {
+            "Transcription": "\nffor hyt ys murie to ben a wyffedeye y wul & leefe my\n                    lyf\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 204vb"
+        },
+        "Bod410": {
+            "Transcription": "\nyt is myry to be wyffdye I wol & lose my lyffe\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 86"
+        },
+        "BodRawC670": {
+            "Transcription": "\n\u00deat ys mery to be a wyfeDye y woll and lese my lyfe\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 195.\n",
+            "folio": "f. 142v"
+        },
+        "CamGon71": {
+            "Transcription": "\nffor it is myry to ben a wyfDy I will & lese my wyf\n                    [sic]\n",
+            "Note": "\nFormerly 827.5.",
+            "Editions": "\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: xxxix.\n",
+            "folio": "f. 88"
+        },
+        "CamGon364": {
+            "Transcription": "\nfor it is mery to ben a wyfedeye I wille & lese my\n                    lyfe\n",
+            "folio": "f. 145ra"
+        },
+        "BLHar7322": {
+            "Transcription": "\nffor hit is mary to beon a wifich wolle leose mu lif\n",
+            "Note": "\nIn rubric. Written as prose.",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             Political, Religious and Love Poems, from Lambeth MS. 306 and other\n                sources.\nEETS\n         o.s. 15 (1866); repr. 1962; rev. ed. 1903: 250.\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 116.\n\n",
+            "folio": "f. 45v"
+        },
+        "Lincoln44": {
+            "Transcription": "\n\u00feat is mery to ben a wyffdey I wyle and lese my lyfe\n",
+            "folio": "f. 224vb"
+        },
+        "Spalding": {
+            "Transcription": "\nYt is mery to be a wyfedye I wyll and lese my lyfe\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 155v"
+        },
+        "WorcF19": {
+            "Transcription": "\nhit his murie to be a wyfedye y wyll & lese my lyf\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 225rb"
+        },
+        "VaticanOtto": {
+            "folio": "f. 98"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "_id": 6601,
+    "_header": "Whoso can read may tell by mouth",
+    "Note": "Cf. 45.",
+    "Subjects": "tales",
+    "Versification": "\u2014 seven-line, four-line \u2014 ababbcc, abab",
+    "_description": "A story of an unhappy boy \u2014 one introductory rhyme royal stanza and 18 lines in quatrains",
+    "_witnesses": {
+        "TCD432": {
+            "First Lines": "\nWho so can rede may telle be mowtheHere is a story \u00feat offt is\n                    previd\u2026\n",
+            "Last Lines": "\n\u2026Here \u00fee knaue ha\u00fee no dredeWhan \u00fee preste vp\n                    \u00fee ofte do\u00fee liffte\n",
+            "Note": "\nEnds imperfectly.",
+            "Attributed Title": "\nA story of an onhappy boye (f. 64v)",
+            "Editions": "\nBrotanek,  Rudolph. \n             Mittelenglische Dichtungen aus der Handschrift 432 des Trinity College\n                in Dublin.\n         Halle: Niemeyer, 1940: 93.\n",
+            "folio": "f. 64v"
+        }
+    }
+}

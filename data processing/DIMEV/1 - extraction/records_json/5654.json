@@ -1,0 +1,16 @@
+{
+    "_id": 5654,
+    "_header": "This blessed book that here beginneth",
+    "Title(s)": "Commentary on the Psalter",
+    "Subjects": "prologues, to prose texts",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "Prologue to Rolle\u2019s Commentary on the Psalter (in one MS only) \u2014 120 lines",
+    "_witnesses": {
+        "BodLauMis286": {
+            "First Lines": "\nThis blessyd boke that here begynneth full of louyng and melodyeOf\n                    prayours be the which we wynneth \u00fee grace of god all\n                    my\u021dtye\u2026\n",
+            "Last Lines": "\n\u2026Hafe mercy on vs with myldnes and hampole help \u00feerto in\n                    hygthTo clywe and kunyng & clennes to buske vs to \u00fee blysse ful\n                    brigth\n",
+            "Editions": "\n\nBramley,  Henry Ramsden. \n             The Psalter, or Psalms of David and certain canticles.\n         Oxford: Clarendon, 1884: 1-2.\nAllen,  Hope Emily. \n             Writings Attributed to Richard Rolle.\n         New York: Modern Language Association of America, 1927: 174 (extracts).\n\n",
+            "folio": "ff. 1-1v"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "_id": 1553,
+    "_header": "God Father in heaven of mights most",
+    "Subjects": "Old Testament, history; paraphrases",
+    "Versification": "\u2014 twelve-line \u2014 ababababcdcd",
+    "_description": "A paraphrase of Old Testament history, including Judith and the Maccabees \u2014 18,372 lines in 12-line stanzas",
+    "_witnesses": {
+        "BodSelSup52": {
+            "First Lines": "\nGod fader in heuyn of myghtes mostThat mad this mold & all man\n                    kynd\u2026\n",
+            "Last Lines": "\n\u2026\u00feat we may be worthyto wun with \u00feem in\n                    heuyn\n",
+            "Editions": "\n\nHeuser,  Wilhelm. \n             \u201cDie altestamentlichen dichtungen des ms. Seld. Supra 52 der Bodleiana:\n                Ein vergessenes werk und ein \u00fcbersehenes manuskript.\u201d \n             Anglia\n         31 (1908): 1-24: 4-24 (extracts).\nKalen,  Herbert,  and  Urban Ohlander.  \n             A Middle English Metrical Paraphrase of the Old Testament.\n             5 vols. \n             G\u00f6teborgs H\u00f6gskolas Arsskrift 28; Gothenberg Studies in\n                English\n         5, 11, 16, 24. Stockholm: Almqvist & Wiskell; G\u00f6teborg:\n            Elanders, 1923-72: 1.5 (vv. 1-6000); 5: vv. 6001-6924; 11: vv.\n                        6925-end.\nPeck,  Russell A.,\n                        ed.  \n             Heroic Women from the Old Testament in Middle English Verse.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1991: (The Story of Jephthah and his Daughter and The Story of\n                        Judith).\n\n",
+            "folio": "ff. 2-168"
+        },
+        "Longleat257": {
+            "First Lines": "\n\u2026Thre monethis theym hym hyd and longere they durst noght\n                    abydeBot in a case hym did and layd hym by the see syde\u2026\n",
+            "Last Lines": "\n\u2026Pray we to god forthy with the modre and hire sonnes\n                    sevenThat we may be worthy to wonne with them in heven\n",
+            "Note": "\nBegins imperfectly in the Book of Exodus: Exodus (fols.\n                        119-121v), Numbers (ff. 122-125), Deuteronomy (ff.\n                        125-125v), Joshua (ff. 125v-128), Judges (ff.\n                    128-135), Ruth (ff. 135-136), Kings (ff. 136-187v), Job (ff.\n                    189-195), Tobit (ff. 195-201v), Hester (ff.\n                        201v-204v), Judith (ff.\n                        204v-208v), \u2018De matre cu[m] viite[m].\n                        pu[er]is.\u2019 (from II Maccabees: ff. 209-212).",
+            "Attributed Title": "\nExodus (RT), etc.; Explicit (f. 212)",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cNachtr\u00e4ge zu den Legenden 5: The Messengers of Death.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         79 (1887): 411-70: 447-54 (story of the Maccabees).\n",
+            "folio": "ff. 119-212"
+        }
+    }
+}

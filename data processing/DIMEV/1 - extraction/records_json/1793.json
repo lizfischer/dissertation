@@ -1,0 +1,56 @@
+{
+    "_id": 1793,
+    "_header": "Harkeneth speeches of many kind things",
+    "Note": "Cf. French texts in Cambridge UK, Cambridge University Library Gg.1.1, f. 120; London, British Library Cotton Julius A.V, f. 177v; London, British Library Harley 746; Latin texts in London, British Library Cotton Vespasian E.VII, f. 89, abridged, and London, British Library Harley 6148.",
+    "Title(s)": "\u2018Prophecia de Merlyn\u2019",
+    "Subjects": "Merlin; prophecies, political; Henry IV, attack on",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018Prophecia de Merlyn\u2019: The prophecy of the six kings to follow King John \u2014 278 lines in short couplets",
+    "_witnesses": {
+        "BodArcSelB8": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 214.",
+            "folio": "ff. 290-291"
+        },
+        "BodHat56": {
+            "First Lines": "\nHerkyns spechis of mankyn thyngOf grete ferly &\n                    wondryng\u2026\n",
+            "Last Lines": "\n\u2026Wele awey shull men sey \u00fean aldir mosteAs stepchidren\n                    \u00feat aren for loste\n",
+            "Note": "\nVariant, 136 lines. On f. 43 before the start of the poem in the same\n                    hand: \u2018John Ermyte\u2019.",
+            "folio": "ff. 43-45"
+        },
+        "BodAsh1386": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 214.",
+            "folio": "ff. 268-269"
+        },
+        "BodRawC813": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 214.",
+            "folio": "ff. 148-149"
+        },
+        "BlCottGalEIX": {
+            "First Lines": "\nHerkenes speches of manikyn thingesOf gret ferlys & of mani\n                    kynges\u2026\n",
+            "Last Lines": "\n\u2026\u00feus sall \u00fee ayres of ingland kindepas out of\n                    heritage als we here finde\n\n",
+            "Attributed Title": "\nHere bigins prophecies of Merlin (rubric, by scribe, f. 49rb);\n                    Explicit prophesia de Merlyn (below last line, by scribe, f.\n                    50vb).",
+            "Editions": "\nHall,  Joseph. \n             The Poems of Laurence Minot.\n         Oxford: Clarendon, 1887; rev. ed., 1914: 103-11.\n",
+            "folio": "ff. 49rb-50vb"
+        },
+        "BLHar559": {
+            "Note": "\nVariant, 141 lines.",
+            "folio": "ff. 45-47v"
+        },
+        "NLWLan119": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 214.",
+            "folio": "pp. 179-181"
+        },
+        "NLW441C": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 214.",
+            "folio": "pp. 36-38"
+        },
+        "NLWPen26": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 214.",
+            "folio": "pp. 113-116"
+        },
+        "NLWPen94": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 214.",
+            "folio": "pp. 259-261"
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "_id": 3312,
+    "_header": "Madame for your newfangleness",
+    "Note": "For a variant changing gender, see 6873",
+    "Author(s)": "Geoffrey Chaucer [?]",
+    "Title(s)": "Against Women Inconstant (?Chaucer); Newfangelnesse",
+    "Subjects": "women, faithlessness of",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "\u2018Against Women Inconstant\u2019 or \u2018Newfangelnesse\u2019, perhaps by Chaucer \u2014 a balade, three stanzas rhyme royal",
+    "_witnesses": {
+        "BodFair16": {
+            "First Lines": "\nMadame that throgh your newfangelnesseMany a seruaunt haue put out\n                    of your grace\u2026\n",
+            "Last Lines": "\n\u2026Alle lyght for somer ye wote wel what I meneIn sted of bliw\n                    thus may ye were al grene\n",
+            "Attributed Title": "\nBalade (f. 194v)",
+            "Facsimiles": "\nNorton-Smith,  John. \n             \u201cIntroduction.\u201d \n             Bodleian Library MS Fairfax 16.\n         London: Scolar Press, 1979. \n",
+            "Editions": "\n\nDoyle,  A. I.,  and  George B. Pace.  \n             \u201cFurther Texts of Chaucer\u2019s Minor Poems.\u201d \n             Studies in Bibliography\n         28 (1975): 41-61: 57-8.\nPace,  George B.,  and  Alfred David, eds.  \n             The Minor Poems of Geoffrey Chaucer:\nA Variorum Edition of The Works of Geoffrey Chaucer\n         vol. 5, part 1. Norman, Oklahoma: University of Oklahoma Press,\n            1982: 191-3.\nBenson,  Larry Dean,\n                        ed.  \n             The Riverside Chaucer.\n         3rd ed. Boston: Houghton Mifflin, 1987: 657.\n\n",
+            "folio": "ff. 194v-195"
+        },
+        "BLCottCleoDVII": {
+            "First Lines": "\nMadame for your newe fangelnesseManie a seruaunt haue ye put out of\n                    your grace\u2026\n",
+            "Last Lines": "\n\u2026All light for somer ye wote wel what I meneIn sted of Blewe\n                    thus may ye were grene\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             Odd Texts of the Minor Poems.\n             2 vols. \n             Chaucer Society\n         1st ser. 23, 60. London: Tr\u00fcbner, 1868, 1880; repr. New York and\n            London: Johnson, 1967. \nSkeat,  Walter William,\n                        ed.  \n             The Complete Works of Geoffrey Chaucer.\n         7 vols. Oxford: Clarendon, 1894-7: 1.409-10.\nRobinson,  F. N.,\n                        ed.  \n             The Works of Geoffrey Chaucer.\n         Oxford: Clarendon, 1933; 2nd ed. 1957: 627-8; 1957; 540.\n\n",
+            "folio": "f. 189v"
+        },
+        "BLHar7578": {
+            "First Lines": "\nMadame for youre newe fangelnesseMany seruant haue ye put oute of\n                    grace\u2026\n",
+            "Last Lines": "\n\u2026Alle light for somer ye woote wele what I meneIn steede of\n                    blewe thus may ye were grene\n",
+            "folio": "f. 17v1"
+        }
+    }
+}

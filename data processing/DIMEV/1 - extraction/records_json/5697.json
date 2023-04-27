@@ -1,0 +1,36 @@
+{
+    "_id": 5697,
+    "_header": "This high feast for to magnify",
+    "Note": "In all three MSS, ends at line 224 with note, \u2018Shirley could find no more of this text\u2019.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Procession of Corpus Christi\u2019",
+    "Subjects": "Corpus Christi, feast of",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, \u2018Procession of Corpus Christi\u2019 \u2014 twenty-eight eight-line stanzas (ababbcbc)",
+    "_witnesses": {
+        "CamTCC600": {
+            "First Lines": "\n\u00deis hye feste for to magnefye noweffeste of festes mooste\n                    hevenly and devyneIn goostly gladnesse to governe vs and guyeBy which\n                    al grace doo\u00fee vppon vs shyne\u2026\n",
+            "Last Lines": "\n\u2026Of which god graunt eternal suffysauncewhere aungels sing\n                    everlasting Osanna\n",
+            "Attributed Author": "\nby daun John Lydegate (p. 348)",
+            "Attributed Title": "\nAnd nowe here folowe\u00fee an ordenaunce of a processyoune of \u00fee\n                    feste of corpus cristi made in london by daun John Lygegate (p. 348, bottom);\n                    Procession of Corpus Cristi (RT); Processioun of Corpus Cristi feste by ledegate\n                    (RT)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 35-43.\n",
+            "folio": "pp. 349-356"
+        },
+        "BLHar2251": {
+            "First Lines": "\nTHis high feste for to magnifyeNow fest of festis most hevenly and\n                    devyne\u2026\n",
+            "Last Lines": "\n\u2026Of whiche god graunt eternal sufficaunceWhere aungels syng\n                    euerlastyng Osanna\n",
+            "Attributed Author": "\nProcessioun of corpus cristi / by lydgate (f. 224v,\n                    margin)",
+            "Attributed Title": "\nProcessioun of corpus cristi / by lydgate (f. 224v,\n                    margin)",
+            "Editions": "\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             A Selection from the Minor Poems of Don John Lydgate.\nPercy Society\n         2. London: T. Richard, 1840: 95-103.\n",
+            "folio": "ff. 224v-227v"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nthis hye feste now for to magnefyefeste of festes moste heuenly and\n                    deuyne\u2026\n",
+            "Last Lines": "\n\u2026of which god graunte eternall suffysauncewher angelles singe\n                    euerlastyng osaunce\n",
+            "Note": "\nAt end, to right of last line, scribe writes, \u2018Sherleye could fynd\n                    no more of thys copye\u2019 (f. 168v).",
+            "Attributed Author": "\ndane Iohn lydgate (f. 166)",
+            "Attributed Title": "\nAnd now here foloweth an ordenaunce of a presesyon of \u00fee feste of\n                    corpus cristie made in london by dane Iohn lydgate (f. 166)",
+            "folio": "ff. 166-168v"
+        }
+    }
+}

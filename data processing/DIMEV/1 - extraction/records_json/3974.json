@@ -1,0 +1,18 @@
+{
+    "_id": 3974,
+    "_header": "O love til restore thy expellent loss",
+    "Author(s)": "William Dunbar (?)",
+    "Title(s)": "Cristes Passioun",
+    "Subjects": "crucifixion",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "A Scottish version of a portion of Lydgate\u2019s \u2018Cristes Passioun\u2019 (3388), perhaps by Dunbar\u2014four 8-line stanzas",
+    "_witnesses": {
+        "CamMagPep1576": {
+            "First Lines": "\nO luue tyll restor \u00fei expellens & los ffrome\n                        par paradyce place off most plessance\u2026\n",
+            "Last Lines": "\n\u2026suerdis staffys & stauis importabill Cryande terandly\n                    hydwys\n",
+            "Note": "\nAdded to originally blank verso of last leaf",
+            "Editions": "\n\nJames,  Montague Rhodes. \n             Bibliotheca Pepysiana: A Descriptive Catalogue of the Library of Samuel\n                Pepys. Pt. III: Medieval Manuscripts.\n         London, 1923: 3.16-17.\nNichols,  Pierrepont H. \n             \u201cWilliam Dunbar as a Scottish Lydgatian.\u201d \n             PMLA\n         46 (1931): 214-24: 220-1.\n\n",
+            "folio": "f. 170v"
+        }
+    }
+}

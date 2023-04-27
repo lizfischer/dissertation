@@ -1,0 +1,24 @@
+{
+    "_id": 3162,
+    "_header": "Loath to offend / willing to please",
+    "Note": "Cf. 4954.",
+    "Subjects": "virtues; aphorisms; scribes",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "On suffrance \u2014 two couplets",
+    "_witnesses": {
+        "BodDou84": {
+            "Transcription": "\nLooth to afende glad ffor to pleaseWillyng to amend off Sopherauns\n                    Commyght ease\n",
+            "Note": "\nFollowed by \u2018per me Iohannem Crow\u2019 in same hand (f. iii).",
+            "folio": "f. iii"
+        },
+        "BodLye34": {
+            "Transcription": "\nLothe to a ffendfayn wolde y ples[ ] ssoffernz dothe\n                    es\n",
+            "Note": "\nOne line cut off; repeated in looking-glass letters, again with line\n                    missing.",
+            "folio": "back cover"
+        },
+        "BosMedLib": {
+            "Transcription": "\nLothe to offende wyllyng to pleseRedy to Amende sufferans\n",
+            "folio": "f. 138v"
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "_id": 4764,
+    "_header": "Saint Sylvester pope was the first that there came",
+    "Note": "For a wholly distinct Life in one MS see 555.",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Sylvester, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Sylvester in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "BodLauMis108": {
+            "First Lines": "\nSEint Siluestre pope was \u00dee furste \u00feat \u00feare\n                    cam\u00deat euere hadde Rome in pes to holde up\n                    cristindom\u2026\n",
+            "Last Lines": "\n\u2026Nou god for is swete loue us graunti \u00feulke\n                    blisse\u00deat Seint siluestre is inne \u00deat we \u00fear of ne\n                    misse\n",
+            "Attributed Title": "\nHic incipit vita sancti Siluestri (f. 166)",
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             The Early South-English Legendary.\nEETS\n         o.s. 87 (1887; repr. 1987): 391-2.\n",
+            "folio": "ff. 166-167"
+        },
+        "CamTCC605": {
+            "First Lines": "\nSEint siluester pope was \u00fee furste \u00feat \u00feer\n                    come\u00feat euer hadde rome in pes to hold vp\n                    cristendom\u2026\n",
+            "Last Lines": "\n\u2026now god for his swete loue ous graunte \u00feulke\n                    blys\u00feat seint siluester is In \u00feat we \u00feer of ne\n                    mysse\n",
+            "Attributed Title": "\nSiluester (RT)",
+            "Facsimiles": "\n\nDigital Facsimile of Trinity College Cambridge MS R.3.25.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.25. \n",
+            "folio": "ff. 269v-270"
+        },
+        "BLCottJulDIX": {
+            "First Lines": "\nSEint siluestre pope was \u00fee ferst \u00feat \u00feer com\u00feat euer hadde rome in pes to holde op cristendom\u2026\n",
+            "Last Lines": "\n\u2026nou god for his suete loue ous graunte \u00feilke blisse\u00feat sein siluestre in heuen is \u00feat we \u00feer of ne misse\n",
+            "Note": "\n\u201cCapitulum xCvi\u201d added to left margin by later hand (f. 268v).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Julius MS D IX.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Julius_D_IX. \n",
+            "folio": "ff. 268v-271v"
+        },
+        "BLEge2810": {
+            "First Lines": "\nSeint siluestre \u00fee bissop in is \u021donge childe hedebigan at \u00fee uerst tyme ihesu crist to drede\u2026\n",
+            "Last Lines": "\n\u2026At rome saynt elyne deide and \u00feer he buryed isswete ihesu crist fore har lous bring vs to \u00fei blisse\n",
+            "folio": "ff. 164v-170v"
+        },
+        "Lam223": {
+            "First Lines": "\nSAynt Siluestre Pope was \u00fee first \u00feat euer come\u00deat\n                    euer hade Rome in pees to holde vp cristendome\u2026\n",
+            "Last Lines": "\n\u2026Now god for his swete love vs graunte \u00feat blis\u00deat\n                    saynt siluestre is in in heuen \u00feat we \u00feerof ne mys. Amen\n",
+            "Attributed Title": "\nSAynt Siluestre (RT)",
+            "folio": "ff. 290v-191v"
+        }
+    }
+}

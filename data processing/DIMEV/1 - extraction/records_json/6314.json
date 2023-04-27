@@ -1,0 +1,21 @@
+{
+    "_id": 6314,
+    "_header": "When Gonewey shall on Curtays call",
+    "Subjects": "prophecies, political; political poems",
+    "Versification": "\u2014 eight-line \u2014 abababab",
+    "_description": "A prophecy following 6299 in one MS \u2014 one 8-line stanza",
+    "_witnesses": {
+        "CamMagPep1236": {
+            "Transcription": "\nWhen gonewey shall on curtays callthen wallys shall rayke &\n                    hastely rysethen Albeon skottlonde shall to hem fallthen waken wonders\n                    in euery wysethe rode Irlonde fox shall ryse with allwith glaynys\n                    grownde & gare men to a gryfeto fell & fende oure fomen\n                    allsenym shall sytt in youre asyse\n",
+            "Note": "\nFollows 6299.",
+            "Editions": "\nRobbins,  Rossell Hope,\n                        ed.  \n             Historical Poems of the XIV and XV Centuries.\n         New York: Columbia UP, 1959: 316-17.\n",
+            "folio": "f. 91"
+        },
+        "Bod851": {
+            "First Lines": "\nWhan gon awey chal on certeis calleYou wal chal hastly\n                    ryse\u2026\n",
+            "Last Lines": "\n\u2026Go fle on fend \u00feu alienis allVn chal sit on \u00feer\n                    asise\n",
+            "Note": "\nBetween the lines and in the margins: \u2018banchidmen frauns Cambria\n                    Scotlond Enlond Wales briton\u2019.",
+            "folio": "f. 4v"
+        }
+    }
+}

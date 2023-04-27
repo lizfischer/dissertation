@@ -1,0 +1,43 @@
+{
+    "_id": 6411,
+    "_header": "When Sol is in Aries and Phoebus shineth bright",
+    "Note": "All texts show variations; see Singer (1928)\nXSinger, Dorothea Waley. Catalogue of Latin and Vernacular Alchemical Manuscripts. 3 vols. Brussels: Lamertin, 1928-31, 812; edition with source unattributed is Ashmole (1652)\nXAshmole, Elias. Theatrum Chemicum Britannicum. London: J. Grimond, 1652, 380-88 (shorter version).",
+    "Author(s)": "George Ripley",
+    "Subjects": "Alchemy",
+    "Versification": "\u2014 four-line",
+    "Bibliographic Ghosts": "Lichfield, Lichfield Cathedral Library 18 [formerly MS 22], ff. 1-28v: prose version.",
+    "_description": "George Ripley, The Mystery of Alchymysts \u2014 in quatrains",
+    "_witnesses": {
+        "BodAsh759": {
+            "Note": "\n448 lines.",
+            "folio": "ff. 106v-113v"
+        },
+        "BodAsh1382": {
+            "Note": "\n65 lines; ends imperfectly.",
+            "folio": "p. 254"
+        },
+        "BLSl1098": {
+            "Note": "\nVariant version; c. 100 lines.",
+            "folio": "ff. 47v-48"
+        },
+        "BLSl1423": {
+            "folio": "ff. 37v-39v"
+        },
+        "BLSl1787": {
+            "folio": "ff. 111-117"
+        },
+        "BLSl2036": {
+            "folio": "ff. 22-25"
+        },
+        "BLSl3747": {
+            "folio": "ff. 110-115v"
+        },
+        "BosHistSoc": {
+            "First Lines": "\nWhen sol in Ariete and phebus shynes bryghtThe Elementes reviuing\n                    the new yere spryngyng\u2026\n",
+            "Last Lines": "\n\u2026Elles may ye lyghtie fayleWythout ye haue good\n                    counsaylle\n",
+            "Note": "\n132 stanzas, usually cross-rhymed quatrains but occasional stanzas of\n                    six lines, aabbcc, including the last.",
+            "Attributed Title": "\nOf the Secretes of Nature (f. 21)",
+            "folio": "ff. 21-28"
+        }
+    }
+}

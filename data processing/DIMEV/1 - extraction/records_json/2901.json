@@ -1,0 +1,29 @@
+{
+    "_id": 2901,
+    "_header": "Jesu that all this world has wroght",
+    "Note": "See 3786.",
+    "Subjects": "Passion, meditations on; Christ, Passion of",
+    "Versification": "\u2014 eight-line \u2014 ababcdcd",
+    "_description": "A Meditation on the Passion \u2014 eight 8-line stanzas with refrain: \u2018ffor \u00feus \u00feou sched \u00fei blood for me\u2019",
+    "_witnesses": {
+        "BLHar1706": {
+            "First Lines": "\nIhesu \u00feat alle \u00feis worlde haste wrou\u021dteAnd of a cleene virgyn so tokeste oure kynde\u2026\n",
+            "Last Lines": "\n\u2026If y four\u021date \u00fee vnkynd y wereffor vij tymes \u00fei blood \u00feou schede for me\n",
+            "Attributed Title": "\nAs clerkes seyne and specyally Seynt Anselme \u00feere were vppon \u00fee blessed and moste gloryouse body of oure lorde ihesu cryste open woundes by nombre v. \u00feousand iiij hundred seuenty and fyue Howe oure lorde ihesu seuene tymes bleed for vs (rubric preceding first line, f. 210)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 1706.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_1706. \n",
+            "folio": "ff. 210-211v"
+        },
+        "Longleat30": {
+            "First Lines": "\nIHesu \u00feat hast al \u00feis world I wroughtAnd of a clene\n                    virgyn so take oure kynde\u2026\n",
+            "Last Lines": "\n\u2026If I forgate \u00fee ful vnkynde I wereffor vij tymes \u00fei\n                    bloode \u00feou sched for me\n",
+            "folio": "ff. 52-53"
+        },
+        "HunHM142": {
+            "First Lines": "\nIHesu that all this worlde hast wroghteAnd of a clene virgyn so\n                    take oure kyndeAnd with thi blode oure soules hast boughteMy loue to\n                    \u00fee I pray \u00fee to bynde\u2026\n",
+            "Last Lines": "\n\u2026If I forgate \u00fee ful vnkynde I wereffor vii tymes \u00fei\n                    blode \u00feou sched for me\n",
+            "Note": "\nNot set out in stanzas.",
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 133-5.\n",
+            "folio": "ff. 48-49"
+        }
+    }
+}

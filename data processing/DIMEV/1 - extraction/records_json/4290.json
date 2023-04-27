@@ -1,0 +1,19 @@
+{
+    "_id": 4290,
+    "_header": "One thousand year three hundred ninety and one",
+    "Note": "Occurs in texts of Wyntoun\u2019s Chronicle, e.g., London, British Library Royal 17 D.XX, f. 276v (74 lines), pr. Laing (1872)\nXLaing, David. The Orygynale Cronykil of Scotland. 3 vols. Edinburgh: Edmonston and Douglas, 1872-79, 3.56.",
+    "Author(s)": "Andrew Wintoun",
+    "Title(s)": "Chronicle of Scotland",
+    "Subjects": "The Duke of Orleans\u2019 Defence of the Scots; Orleans, duke of; Scots, battle actions",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Duke of Orleans\u2019 Defence of the Scots, an extract from Wyntoun\u2019s Chronicle (658), occurring separately \u2014 64 lines in couplets.",
+    "_witnesses": {
+        "CamMagPep2553": {
+            "First Lines": "\nAne thousand \u021deir thre hundret nyntye and anefra Iesus chryst\n                    had manheid tane\u2026\n",
+            "Last Lines": "\n\u2026And held \u00feame still and spak na mairIn till dispyt as\n                    \u00feai did ayr\n",
+            "Attributed Title": "\nffinita responsio Illustrissimi ducis orlianensis in honorem et\n                        defensionem scotie (p. 107)",
+            "Editions": "\n\nLaing,  David. \n             Select Remains of the Ancient Popular and Romance Poetry of\n                Scotland.\n         Edinburgh: 1822; rev. \n                J.\n                Small\n            , Edinburgh: Blackwood, 1885; rev. \n                W. C.\n                Hazlitt\n            ,  Early Popular Poetry of Scotland, London: Reeves and\n            Turner, 1895.: 196-7; 1895, 1.305.\nCraigie,  William Alexander. \n             The Maitland Folio Manuscript, Containing Poems by Sir Richard\n                Maitland, Dunbar, Douglas, Henryson, and others.\n             2 vols. \n             Scottish Text Society\n         n.s. 7 (1919), 20 (1927); Edinburgh and London: Blackwood, 1919,\n            1927: 1.125-7.\n\n",
+            "folio": "pp. 105-107"
+        }
+    }
+}

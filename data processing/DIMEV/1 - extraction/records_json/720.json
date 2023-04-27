@@ -1,0 +1,64 @@
+{
+    "_id": 720,
+    "_header": "At the reverence of Saint Margaret / My purpose is",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 223; for a version in short couplets see 1192.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "Life of St Margaret",
+    "Subjects": "saints\u2019 lives; Margaret, saint, life of; prologues; envoys",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lydgate, Life of St Margaret \u2014 seventy-seven stanzas rhyme royal including an eleven-stanza prologue and three-stanza Envoy",
+    "_witnesses": {
+        "Bod686": {
+            "First Lines": "\nAt the reuerence of seint margareteMy purpos is hir lyf to\n                    compile\u2026\n",
+            "Last Lines": "\n\u2026Til atte last in vertu complet godeffor cristes sake she\n                    shedde hir herte blode\n",
+            "Attributed Title": "\nHere begynneth \u00fee prologe of \u00fee holy seynt seyn Margarete\n                    compendiously compiled in balade by lydgate Dan Iohn Monke of Bury. Anno viii\n                    henr viti (f. 193v); Here endeth \u00fee prologe of Seynt\n                    Margarete And nexte folowyng begynneth hir storye (194v); Here endeth\n                    \u00fee life of seynte Margarete And begynneth \u00fee lyfe of the glorious\n                    martir seint George (f. 200)",
+            "folio": "ff. 193v-200"
+        },
+        "CULLl518": {
+            "First Lines": "\nAt the Reuerence of Seint MargareteMy purpos ys hyre lyfe to\n                    Compyle\u2026\n",
+            "Last Lines": "\n\u2026Tyll at \u00fee last in vertu complete goodeffor cristes sake\n                    she shedde here chast blode\n",
+            "Attributed Title": "\nHere begynythe the lyff off Pe holy virgine & martyr Seynt Margarete\n                    (f. 29v); Explicit Vitae sancte Margarete (f.\n                    41v)",
+            "folio": "ff. 29v-41v"
+        },
+        "CamTCC600": {
+            "Attributed Title": "\nthe lyffe of saynt margret translated in to englysshe\n                    by\u2026lidgate\u2026at the request of my lady of huntingeton (f.\n                        170v)",
+            "folio": "ff. 170v-177v"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nAt\u00fee reuerence of seynt margretmy purpose is hir lyffe for to\n                    compyle\u2026\n",
+            "Last Lines": "\n\u2026but chast gemme thy servauntes sett at easebut be ther helpe\n                    in myscheffe and disease\n",
+            "Note": "\nEnds \u2018finis\u2019 (f. 177v).",
+            "Attributed Author": "\ndaune Iohn lidgate munke of berye (f. 170v)",
+            "Attributed Title": "\nHere begynneth \u00fee lyffe of saynt margret translated in to engelyshe by\n                    daune Iohn lidgate munke of berye at \u00fee request of my lady of huntingeton\n                    some tyme \u00fee countes of\u00fee marche (f. 170v)",
+            "folio": "f. 170v-177v"
+        },
+        "BLHar367": {
+            "First Lines": "\nTo the reverence of seynt margaretemy purpose is hir lyfe to\n                    compile\u2026\n",
+            "Last Lines": "\n\u2026but chaste geme thy sereaunts set at easeand be theyr shils\n                    in mischefe and dysease\n",
+            "Note": "\nHeading \u2018lenvoye\u2019 before last three stanzas; ends\n                    \u2018Explicit\u2019 (f. 83v); written by hand of John\n                    Stow.",
+            "Attributed Author": "\nlidgate dan Iohn monke of burye (f. 80)",
+            "Attributed Title": "\nhere beginnythe the prologe of the holy saint margaret compentiowsly\n                    compiled in balade be lidgate dan Iohn monke of burye in the 8 yere of kynge\n                    henry the v (f. 80)",
+            "folio": "f. 80-83v"
+        },
+        "DULCosVii14": {
+            "First Lines": "\nAT the Reuerence of seynt MargareteMy purpos is hir lyfe to\n                    compile\u2026\n",
+            "Last Lines": "\n\u2026But chaste gemme thi servauntes sette at eseAnd be her shelde\n                    in myschief and dissese\n",
+            "Attributed Author": "\nlidgate Dan John (f. 97v)",
+            "Attributed Title": "\nHere begynneth the prolog of the holy seynt seynt Margarete compendyously\n                    compiled in balade by lidgate Dan John Monk of Bury Anno viiio\n                    henrici viti (f. 97v); Explicit vita sancte\n                        Margarete before Envoy, f. 105v)",
+            "Editions": "\n\nHorstmann,  Carl. \n             Altenglische Legenden: Neue Folge.\n         Heilbronn: Henninger, 1881: 446-53.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 173-92; the Envoy alone is printed by Cohen (1915)\nXCohen,  Helen Louise. \n             The Ballade.\n         New York: Columbia UP, 1915, 255.\n\n",
+            "folio": "ff. 97v-106"
+        },
+        "Chetham6709": {
+            "First Lines": "\nAt the Reuerence of seynt MargareteMy purpos Is her lyffe to\n                    CompyleThough I have no Rethorytes sweteNor Colowre noon to Embelyssh\n                    with my style\u2026\n",
+            "Last Lines": "\n\u2026But Chaste gemme In myschef & disease[ ] ther sheelde thy\n                    seruauntes sette at ease\n",
+            "Attributed Author": "\nJohannes lydgate (f. 180)",
+            "Attributed Title": "\nHic Incipit Vita Sancte Margarete Compen[ ] Compilata per Dompnum\n                        Johannem\nlygd\nlydgate Monachum de Bury Anno viiio henrici Sexti (f.\n                    180)",
+            "folio": "ff. 180-192v"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nAT the reuerence of Seint MargareteMy purpos is hir lif to\n                    compileThou\u021d I haue non Rethorik swete\u2026\n",
+            "Last Lines": "\n\u2026But chast gemme thi seruauntes set at eseAnd be ther sheeld\n                    in mischef and disese\n",
+            "folio": "ff. 275-282v"
+        }
+    }
+}

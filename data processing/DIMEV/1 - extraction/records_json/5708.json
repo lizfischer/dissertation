@@ -1,0 +1,16 @@
+{
+    "_id": 5708,
+    "_header": "This is John Hancock is book",
+    "Subjects": "bookplates; Hancock, John, book owner; hell",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Book plate consigning Thomas Carter to hell \u2014 one couplet",
+    "_witnesses": {
+        "DULCosViii9": {
+            "Transcription": "\nThys ys John hancok ys boke hoso euer saye nayethe deuyll of hell\n                    bere Thomas carter awaye\n",
+            "Note": "\nImmediately followed by 3010 as if part of same work.",
+            "Facsimiles": "\nBurrow,  John,  and  A. I. Doyle, eds.  \n             Thomas Hoccleve: A Facsimile of the Autograph Verse\n                Manuscripts.\nEETS\n         s.s. 19 (2002). \n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.   Hoccleve\u2019s Works: The Minor Poems. vol. 1.  EETS\n         e.s. 61 (1892); repr. with Gollancz (1925)\nXGollancz,  Israel. \n             Hoccleve\u2019s Works: The Minor Poems. vol. 2.  EETS\n         e.s. 73 (1925); repr. with 61, 1970 73; rev. J.\n            Mitchell and A. Ian Doyle, 1970: 156.\n",
+            "folio": "f. 37v"
+        }
+    }
+}

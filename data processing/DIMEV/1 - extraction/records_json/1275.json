@@ -1,0 +1,27 @@
+{
+    "_id": 1275,
+    "_header": "Father and Son and Holy Ghost / Almighty God in Trinity",
+    "Note": "For other versions see 3066 and 5020.",
+    "Subjects": "dialogues; Virgin Mary, as speaker in debate; Bernard of Clairvaux, saint",
+    "Versification": "\u2014 eight-line \u2014 abababab",
+    "_description": "Dialogue between St. Bernard and the Virgin Mary \u2014 in 8-line stanzas",
+    "_witnesses": {
+        "BodRawPoe175": {
+            "First Lines": "\nFAder & son and haly gastAll mighty god in\n                    trinite\u2026\n",
+            "Last Lines": "\n\u2026And fro \u00feis ground when we sall go\u00feou hald vs fro\n                    \u00fee payns of hell\n",
+            "Editions": "\nFr\u00f6hlich,  Walter. \n             De Lamentacione Sancte Marie: Eine englische Dichtung des 14\n                Jahrhunderts.\n         Leipzig: Heinrich John, 1902: 63.\n",
+            "folio": "ff. 76rb-80rb"
+        },
+        "BLCottTibEVII": {
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 2.274-82.\n",
+            "folio": "f. 82"
+        },
+        "SionArcL402E25": {
+            "First Lines": "\nFadir and son and halygasteAlle myghty god in\n                    Trinite\u2026\n",
+            "Last Lines": "\n\u2026Why forsakes \u00feou me whyHider I come with \u00fee rede of\n                    \u00fee\n",
+            "Note": "\nCorresponding to lines 1-413 only of London,  British Library Cotton Tiberius E.VII.",
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 2.274-82.\n",
+            "folio": "ff. 39-47v"
+        }
+    }
+}

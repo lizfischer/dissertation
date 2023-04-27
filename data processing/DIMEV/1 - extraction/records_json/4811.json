@@ -1,0 +1,35 @@
+{
+    "_id": 4811,
+    "_header": "Set and save if thou will have",
+    "Note": "Lines 3, 4, occur also in 6621.7.",
+    "Subjects": "proverbs; money",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "London, British Library Harley 2252.",
+    "_description": "Rhyming proverbs \u2014 four couplets",
+    "_witnesses": {
+        "BLAdd22720": {
+            "First Lines": "\n[...]if thow will haue[...]te leue and craue\u2026\n",
+            "Last Lines": "\n\u2026Werke wysely and sey but fewOut thyne hed loke thou neuer\n                    hew\n",
+            "Note": "\nThe poor condition of the manuscript means that the first lines are\n                    incomplete.",
+            "folio": "f. 92"
+        },
+        "BLAdd37049": {
+            "Note": "\nLines 1-4 in a series of distiches: see 917.",
+            "Editions": "\nDoty,  Brant Lee,\n                        ed.  \n             \u201cAn Edition of British Museum MS Additional 37049: a Religious\n                Miscellany.\u201d \n         Diss. Michigan State, 1969: 475.\n",
+            "folio": "f. 85"
+        },
+        "BLHar116": {
+            "Transcription": "\nKepe & saue & \u00feu schall haueffrest & lene &\n                    \u00feu schall craueWalow & wast & \u00feu schall wa[u]e\n",
+            "Note": "\nThree lines monorhyming, added to flyleaf by a hand of the\n                    fifteenth-sixteenth century.",
+            "Editions": "\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.316.\n",
+            "folio": "f. 170v"
+        },
+        "NLS1931": {
+            "First Lines": "\nSette and saue yf thow wyll haueWaste and wante leue and\n                    crave\u2026\n",
+            "Last Lines": "\n\u2026Do that thi dewe is kepe \u00fee owt of presfor who do\n                    medelethe leste leuys best in pes\n",
+            "Note": "\nFollows 4800 as if part\n                    of same work.",
+            "Facsimiles": "\nHardman,  Phillipa. \n             The Heege Manuscript: A Facsimile of National Library of Scotland MS\n                Advocates 19.3.1.\n         Leeds Texts and Monographs, n.s. 16. Leeds: School of English,\n            2000. \n",
+            "folio": "f. 61v"
+        }
+    }
+}

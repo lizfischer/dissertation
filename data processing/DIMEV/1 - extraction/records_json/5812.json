@@ -1,0 +1,36 @@
+{
+    "_id": 5812,
+    "_header": "Those other three parts which in the book",
+    "Note": "Verse prologue to prose lesson and reflections on All Saints\u2019 Day, part of Hoccleve\u2019s Series, occurring after the prose moralitas to 4879 \u2014 3 stanzas rhyme royal.",
+    "Author(s)": "Thomas Hoccleve",
+    "Subjects": "death",
+    "Versification": "\u2014 seven-line \u2014 rhyme royal",
+    "_description": "",
+    "_witnesses": {
+        "Bod221": {
+            "First Lines": "\nThoo other thre partis which in \u00fee boke\n                    Of \u00fee tretice of deth expressid be\n                    \u2026\n",
+            "Last Lines": "\n\u2026That for to comprehende \u00feat gladnesse\n                    Verreyly ne wit may ne tunge expresse\n                \n",
+            "Attributed Title": "\nHere endith to lerne to dye and begynneth a prolog of \u00fee ix lesson \u00feat is red on all halow day (f. 42v); Here endith \u00fee prolog and begynnyth \u00fee lesson (f. 42v)",
+            "folio": "f. 42v"
+        },
+        "BodLauMis735": {
+            "First Lines": "\nTO other thre parties which in \u00fee booke\n                    Off \u00fee tretice of deth expressid be\n                    \u2026\n",
+            "Last Lines": "\n\u2026That for to comprehende \u00feat gladnesse\n                    Verrili not wit may ne tung expresse\n                \n",
+            "Note": "\nFirst two lines of the prose work that follows at the bottom of f. 41 are written as verse with verse markers, the prose happening to end both lines with \u201cis.\u201d",
+            "Attributed Title": "\nHere endith to lerne to dye and begynnyth a prolog of \u00fee ix lesson \u00feat is red on all halow day (f. 41); Here endith \u00fee prologue and begynnyth \u00fee lesson (f. 41)",
+            "folio": "ff 41"
+        },
+        "CovAcc3251": {
+            "First Lines": "\nThoo othir three partes which in \u00fee bokeOf the tretice of\n                    de\u00fee expressid be\u2026\n",
+            "Last Lines": "\n\u2026That for to comprehende that gladnesseVerailie noo wight may\n                    ne tonge expresse\n",
+            "Attributed Title": "\nHere beginnith the prologe of the Ixe lesson on all hallowen\n                    daie (f. 63vb)",
+            "folio": "ff. 63vb-64ra"
+        },
+        "BLRoy17Dvi": {
+            "First Lines": "\nThe other thre partes which in the bookeOf the tretice of deth expressed be\u2026\n",
+            "Last Lines": "\n\u2026That forto comprehend that gladnesseVerraily no wight may ne tonge expresse\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Royal MS 17 D VI.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Royal_MS_17_D_VI. \n",
+            "folio": "ff. 136v-137"
+        }
+    }
+}

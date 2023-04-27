@@ -1,0 +1,38 @@
+{
+    "_id": 926,
+    "_header": "By a wood as I gone ride / Walking all my self alone",
+    "Title(s)": "For thi Sunnes Amendes make",
+    "Subjects": "sins, rememdies against; penitence; penance",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "\u2018For \u00fei Sunnes Amendes make\u2019 \u2014 twelve 8-line stanzas with this refrain",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nBi a wode as I gon rydeWalkynge al mi self\n                    alone\u2026\n",
+            "Last Lines": "\n\u2026In heuene of \u00fei sone to haue a sihtAnd heer in\n                    eor\u00fee amendes make\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 727-30.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 196-9.\n\n",
+            "folio": "ff. 411vb-412ra"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nBI a wode as I gon rideWalkynge al my self a\n                    lone\u2026\n",
+            "Last Lines": "\n\u2026In heuene of \u00fei sone to haue a syhtAnd heer in\n                    eor\u00fee amendes make\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 133rb-133rc"
+        },
+        "BlCottCalAII": {
+            "First Lines": "\nBy a wylde wodes sydeAs I walked my self a loneA blysse of\n                    bryddes me bad a bydeffor cause \u00feere song mo \u00feen\n                    sum\u2026\n",
+            "Last Lines": "\n\u2026In heuen a sy\u021dth of \u021dou to se& her to a mendes\n                    make\n",
+            "Note": "\nWritten two lines of verse per line of the MS, with slashes to mark line\n                    breaks; \u2018Amen\u2019 by scribe at end of last line and\n                    \u2018Explycyt\u2019 by scribe in lower margin, partly cropped, f.\n                    69.",
+            "Attributed Title": "\nMake a mendes (by scribe in upper margin, f. 69); Another: Make amends (f.\n                    1, sixteenth-century list of contents)",
+            "Editions": "\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             A Selection from the Minor Poems of Don John Lydgate.\nPercy Society\n         2. London: T. Richard, 1840: 228-32.\n",
+            "folio": "f. 69"
+        },
+        "PULGar143": {
+            "First Lines": "\nBE a wild wodis sideas I walked my selue aloneA blisse of\n                    briddis bad me abidde\u2026\n",
+            "Last Lines": "\n\u2026In heuen a si\u021dt of \u021dou to seAnd here to amendis\n                    makke\n",
+            "Attributed Title": "\nHere begynne \u00fee songe of amendis makking (f. 49)",
+            "Editions": "\nRoot,  Robert Kilburn. \n             \u201cPoems from the Garrett MS.\u201d \n             Englische Studien\n         41 (1910): 360-79: 376-9.\n",
+            "folio": "ff. 49-51v"
+        }
+    }
+}

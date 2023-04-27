@@ -1,0 +1,31 @@
+{
+    "_id": 5059,
+    "_header": "Surge mea sponsa so sweet in sight",
+    "Title(s)": "\u2018Veni coronaberis\u2019",
+    "Subjects": "Christ, address to Virgin Mary",
+    "Versification": "\u2014 eight-line",
+    "Macaronic": "Latin",
+    "_description": "\u2018Veni coronaberis\u2019, a song of Christ to the Virgin Mary \u2014 nine 8-linestanzas",
+    "_witnesses": {
+        "BlCottCalAII": {
+            "First Lines": "\nSurge mea sponsa so swete in sy\u021dteAnd se \u00fey sone in sete\n                    full shene\u2026\n",
+            "Last Lines": "\n\u2026Thus enyeth \u00feis songe of gret swetenesseVeni\n                    coronaberis\n",
+            "Note": "\n\u2018Explicit\u2019 by scribe beneath last line, f.\n                    108ra.",
+            "Attributed Title": "\nVeni Coronaberis (in upper margin f. 108 above col. a); Veni\n                        coronaberis (f. 1, sixteenth-century list of contents)",
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 65-7.\n",
+            "folio": "ff. 107vb-108ra"
+        },
+        "BLHar2251": {
+            "First Lines": "\nSurge mea sponsa so swete in sightCom se thy sone that soke so\n                    shene\u2026\n",
+            "Last Lines": "\n\u2026Veni CoronaberisDulcra bona thow berist the nameAs the\n                    sonne that shynes so clere\n",
+            "Note": "\nLines 1-50 only.",
+            "folio": "ff. 18-18v"
+        },
+        "Lam853": {
+            "First Lines": "\nSUrge mea sponsa swete in si\u021dtAnd se \u00fei sone \u00feou\n                    \u021dafe souke so scheene\u00deou schalt abide with \u00fei babe so\n                    bri\u021dtAnd in my glorie be callide a queene\u2026\n",
+            "Last Lines": "\n\u2026So beningne a ladi of such bri\u021dtnes\u00deis is \u00fee\n                    color of kinde clennesRegina celi \u00feat neuere dide mys\u00deus\n                    eendi\u00fe \u00fee song of greet swettnesVeni cornaberis\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Hymns to the Virgin and Christ\u2026and other religious poems.\nEETS\n         o.s. 24 (1867); repr. 1973: 1-3.\n",
+            "folio": "pp. 1-4"
+        }
+    }
+}

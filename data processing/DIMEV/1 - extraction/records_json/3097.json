@@ -1,0 +1,384 @@
+{
+    "_id": 3097,
+    "_header": "Listen lords in good entent",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Sir Thopas; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; Romance; satire",
+    "Versification": "\u2014 tail-rhyme, six-line \u2014 aabaab, aabccb",
+    "_description": "Geoffrey Chaucer, the Sir Thopas in the Canterbury Tales \u2014 207 lines in 6-line, tail-rhyme stanzas.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nListeneth lordis in good ententand I wil yow telle\n                    verament\u2026\n",
+            "Last Lines": "\n\u2026as dide the knyght sir Percyvelleso worthi vnder\n                    wede\n",
+            "Note": "\nVII.805, 918 omitted.",
+            "Attributed Title": "\nHere Chauncers tellith of Sir Thopas (f. 167v); Chauncers tale\n                    (RT); Here oure Ost letteth Chauncers his rymyng (f. 170v)",
+            "folio": "ff. 167v-170v"
+        },
+        "BodBar20": {
+            "First Lines": "\nLEstneth lordes in goode ententAnd I wolle telle\n                    verament\u2026\n",
+            "Last Lines": "\n\u2026And by hym baiteth his destrerOf herbes fyne and\n                    gode\n",
+            "Note": "\nVII.804, 852-4, 915-8 omitted.",
+            "Attributed Title": "\n\u2026and / here begynnihe \u00fee tale (f. 203)",
+            "folio": "ff. 203v-206"
+        },
+        "Bod414": {
+            "First Lines": "\n[L]isten lordis in good intentAnd I wil telle\n                    verament\u2026\n",
+            "Last Lines": "\n\u2026As did the knyght Sir PercyuelleSo wurthy vndir\n                    wede\n",
+            "Note": "\nVII.803-6, 823, 887, 918 omitted",
+            "Attributed Title": "\nThe tale of Sir Thopas (f. 148v)",
+            "folio": "ff. 148v-150v"
+        },
+        "Bod686": {
+            "First Lines": "\nListenneth lordynges in gode ententAnd y wol telle\n                    verement\u2026\n",
+            "Last Lines": "\n\u2026As dide \u00fee knyght ser percyvelleSo worthi vnder\n                    wedeTyl on a day\n",
+            "Note": "\nVII.805, 887 omitted.",
+            "Attributed Title": "\nNexte folowe\u00fe Chaucers tale of Thopas / And here begynneth his tale\n                    (f. 170); Here the hoost stynteth Chaucer of his tale of / Thopas and biddeth\n                    hym telle a nother tale (f. 172v)",
+            "folio": "ff. 170-172v"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nListeth lordes in gode ententI wil you tel\n                    verament\u2026\n",
+            "Last Lines": "\n\u2026As did \u00fee knight sere percyuellSo worthely vnder\n                    wede\n",
+            "Note": "\nVII.852-4, 918 omitted; 805 left blank; 865 inserted in\n                    margin.",
+            "Attributed Title": "\n\u2026And next begynneth the tale / of sire Thopas (f. 187); The Thopas\n                    (RT); Here endeth the tale of sir Thopas\u2026 (f. 189v)",
+            "folio": "ff. 187-189"
+        },
+        "BodLauMis600": {
+            "First Lines": "\nLIstne\u00fe lordinges in good ententAnd I wol telle you\n                    verement\u2026\n",
+            "Last Lines": "\n\u2026As dide \u00fee knight sir percyvaleSo wor\u00feely vnder\n                    wede\n",
+            "Note": "\nVII.805, 918 omitted.",
+            "Attributed Title": "\n\u2026Here begynne\u00fe \u00fee tale of sir Thopas (f. 225v);\n                    thopas (RT)",
+            "folio": "ff. 226-228"
+        },
+        "BodLauMis739": {
+            "First Lines": "\n[L]Estneth lordes in goode ententAnd I will telle\n                    verrament\u2026\n",
+            "Last Lines": "\n\u2026fful strong hit was of plateAnd over that his cote\n                    armure\u2026\n",
+            "Note": "\nEverything after VII.866 lost. Catchphrase on f. 239v:\n                    \u2018As white is[gutter]\u2019.",
+            "folio": "f. 237v-239v"
+        },
+        "BodRawPoe141": {
+            "First Lines": "\nLVsteneth lordynges in good ententAnd I wol telle\n                    verement\u2026\n",
+            "Last Lines": "\n\u2026If ye wol haue more of hitTo telle hit I wol\n                    founde\n",
+            "Note": "\nVII.731-2, 822-3, 887, 891-918 omitted; spurious lines follow 733, 800,\n                    821,",
+            "Attributed Title": "\nHere bigynneth Chaucers tale of syre thopias (f. 95); Chaucer\n                    (RT)",
+            "folio": "ff. 95v-97"
+        },
+        "BodRawPoe149": {
+            "First Lines": "\nListenith lordes in good ententAnd I wil tel\n                    verament\u2026\n",
+            "Last Lines": "\n\u2026And be hym baited his desterOf herbes fyne and\n                    good\n",
+            "Note": "\nVII.805, 852-4, 915-918 omitted; 823 follows 825.",
+            "Attributed Title": "\nHere begynnyth Thopias tale (f. 104); thopas (f. 104, margin); the thopas\n                    (RT); here endith thopias tale\u2026 (f. 105v)",
+            "folio": "ff. 104-105v"
+        },
+        "BodRawPoe223": {
+            "First Lines": "\nListenith lordinges in good ententAnd I will telle you\n                    verralment\u2026\n",
+            "Last Lines": "\n\u2026As did the kni\u021dt Sir PercyuelleSo worthi vnder\n                    wode\n",
+            "Note": "\nVII.805, 918 omitted; 810-11 reversed.",
+            "Attributed Title": "\n\u2026And here beginneth A tale of Maister Chaucer (f. 180v);\n                    Chaucer (RT)",
+            "folio": "ff. 180v-182v"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nLysteneth lordes in good ententAnd I wole telle\n                    verrayment\u2026\n",
+            "Last Lines": "\n\u2026As did the knyght sir PercyuelleSo worly vnder wedeTil\n                    on a day\n",
+            "Attributed Title": "\nHere begynneth the tale (f. 135)",
+            "folio": "ff. 135-138"
+        },
+        "OxfCCC198": {
+            "First Lines": "\nLEstene\u00fe lordes in good ententAnd I wol telle\n                    verrament\u2026\n",
+            "Last Lines": "\n\u2026And by him bayte\u00fe his destrerOf herbes fyne and\n                        goodehimself drank water of \u00fee wellas dide\n                        \u00fee kny\u021dt Sire Percyu[gutter]so wor\u00feli\n                        vnderwede\n\n",
+            "Note": "\nVII.805, 915-18 omitted; 915-17 supplied in margin later; blank line\n                    follows 774.",
+            "Attributed Title": "\nHere bygynneth \u00fee tale of Chaucer of sire Thopas (f. 214);\n                            Camxixm (f. 214, margin)",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "ff. 214-216v"
+        },
+        "OxfNew314": {
+            "First Lines": "\nLEsten lordis in good ententAnd I wol telle\n                    verament\u2026\n",
+            "Last Lines": "\n\u2026As did \u00fee kny\u021dt ser PercyvelleSo worthili vnder\n                    weed\n",
+            "Note": "\nVII.715, 803, 805, 821-4, 891, 918 omitted.",
+            "Attributed Title": "\nRyme of Ser Topas (f. 208); Sir Thopas (RT)",
+            "folio": "ff. 208-211"
+        },
+        "OxfTri49": {
+            "First Lines": "\nListeneth lordis in gode intenteand I wille telle\n                    verament\u2026\n",
+            "Last Lines": "\n\u2026as did sir perciul Perciuelleso worthi vndir\n                    wedetill on a day & cetera\n\n",
+            "Note": "\nVII.720-2, 752, 846-9 omitted; spurious line follows 806.",
+            "Attributed Title": "\nIncipit fabula Chauceris de Thopas (f. 198); Chauceris de\n                        Thopas (RT); Thopas (RT)",
+            "folio": "ff. 198v-201"
+        },
+        "CULDd424": {
+            "First Lines": "\n\u2026But he was chast and no lechourAnd sete as is the brambel\n                    flourThat bereth the red hepe\u2026\n",
+            "Last Lines": "\n\u2026As ded the knyght Sire PercyuelleSo worthy vnder wedeTil\n                    on a day\n",
+            "Note": "\nVII.712-44 lost. The final line (918) follows 917 in the margin, written\n                    as if one line, separated only by a punctus elevatus.",
+            "folio": "ff. 159-160"
+        },
+        "CULGg427": {
+            "First Lines": "\nTEstyth lordyngis in good ententAnd I wele tell\n                    verrayment\u2026\n",
+            "Last Lines": "\n\u2026And forth vp on his weye he glodAs sparkele out of\n                    bronde\u2026\n",
+            "Note": "\nAlthough the guide letter for the opening initial is an \u2018L\u2019,\n                    the limner executed a \u2018T\u2019. VII.906-18 lost; 805\n                    omitted.",
+            "Attributed Title": "\nHeere begynnyth Chaucers tale of sere Thopas (f. 323)",
+            "folio": "ff. 323-324v"
+        },
+        "CULIi326": {
+            "First Lines": "\nLystenyth lordinges with good ententeAnd I wil you tell\n                    verement\u2026\n",
+            "Last Lines": "\n\u2026As did the knyght Sir percevalleSo worthy\n                    vnderwede\n",
+            "Note": "\nVII.719-20, 722, 803, 805, 887, 918 omitted; spurious line follows 806;\n                    814-15 reversed.",
+            "Attributed Title": "\n\u2026And here begynneth the tale of sir Thopas (f. 187); Chawcers (RT);\n                    Here endeth the tale of Sir Thopas (f. 188v)",
+            "folio": "ff. 187-188v"
+        },
+        "CULMm25": {
+            "First Lines": "\nListeneth lordynges in goode ententeAnd I woll tell\n                    verrramente\u2026\n",
+            "Last Lines": "\n\u2026As did \u00fee kny\u021dht sir parywellSo worthily under\n                    wede\n",
+            "Note": "\nVII.805, 852-4, 918 omitted.",
+            "Attributed Title": "\nHere begynneth \u00fee tale of Chaucer be sir thopas (f. 197); Capitulum\n                            xixm (f. 197, margin); Sir thopas (RT)",
+            "folio": "ff. 197-199v"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[L]ysteneth lordynges in goode ententAnd y woll yow tell\n                    verAment\u2026\n",
+            "Last Lines": "\n\u2026But ser Thopas he bereth \u00fee floureOf Ryall\n                    Chyualry\n",
+            "Note": "\nVII.719-22, 760-77, 805, 833-87, 903-18 omitted.",
+            "Attributed Title": "\nThe tale of Thopas (f. 218v)",
+            "folio": "ff. 218v-220"
+        },
+        "CamTCC582": {
+            "First Lines": "\nListeneth lordinges in good ententAnd I wol telle\n                    verament\u2026\n",
+            "Last Lines": "\n\u2026Of wrasteling was on his pereThere any ram shal stonde\n                        & cetera\n\n",
+            "Note": "\nVII.742-918 omitted.",
+            "folio": "f. 87va"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nLYsteneth lordynges in good ententAnd I wol telle\n                    verrayment\u2026\n",
+            "Last Lines": "\n\u2026As did the knyght Sir percyvelleTyl on a day\n",
+            "Note": "\nVII.805 omitted.",
+            "Attributed Title": "\n\u2026Et incipit fabula eiusdem (f. 234v); Chauncer\n                    (RT)",
+            "folio": "ff. 234v-238v"
+        },
+        "BLAdd35286": {
+            "First Lines": "\nListeth lordynges in good ententeAnd I wol telle\n                    veramente\u2026\n",
+            "Last Lines": "\n\u2026As dide the knyght syr percyuelleSo worthly vnder\n                    wood\n",
+            "Note": "\nVII.85, 918 omitted.",
+            "Attributed Title": "\nhere bigynneth Chaucers tale of Syr Topias (f. 166); Chaucer (RT)",
+            "folio": "ff. 166-168"
+        },
+        "BLEge2726": {
+            "First Lines": "\nListeneth lordynges in gode intentAnd I woll tell\n                    verament\u2026\n",
+            "Last Lines": "\n\u2026As did \u00fee knyght sir PercyuellSo worthy vnder\n                    wedeTill on a day\n",
+            "Note": "\nVII.893-5 omitted.",
+            "Attributed Title": "\n\u2026& incipit fabula sua de Sir Thopas (f.\n                    180v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 180v-182"
+        },
+        "BLEge2863": {
+            "First Lines": "\n\u2026Sire thopas wolde out rideHe worthe vpon his stede\n                    gray\u2026\n",
+            "Last Lines": "\n\u2026And for he was a knyght aunterousHe nolde slepen in none\n                    hous\u2026\n",
+            "Note": "\nVII.712-49, 911-18 lost; 852-4 omitted.",
+            "Attributed Title": "\nSire Thopas (RT)",
+            "folio": "ff. 149-151"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[L]Isteneth lordynges in good ententAnd I wol telle\n                    verrayment\u2026\n",
+            "Last Lines": "\n\u2026As did the knyht Sire percyuelleSo worthy vndir weedeTil\n                    on a day\n",
+            "Note": "\nVII.805 omitted.",
+            "Attributed Title": "\nHere begynneth the tale of sir Thopas (f. 189v); sir thopias is\n                    tale (RT)",
+            "folio": "ff. 189v-192"
+        },
+        "BLHar1758": {
+            "First Lines": "\nLIstneth lordis in good ententAnd I woll tell\n                    verament\u2026\n",
+            "Last Lines": "\n\u2026As dide the knyght Sir PercyuelleSo worthely vnder\n                    wedeTil it was on a daye\n",
+            "Note": "\nVII.805, 887 omitted; 803, 812, 825, 887 marked\n                    \u2018deficit\u2019 in margin.",
+            "Attributed Title": "\n\u2026and begynneth the tale (f. 166v); Sir Thopas (RT); Here\n                    endith Sir Thopas (f. 168v, with blank space following)",
+            "folio": "ff. 166v-168v"
+        },
+        "BLHar7333": {
+            "First Lines": "\nLYstenith lordinges in gode ententeAnd I wolle telle yow\n                    verament\u2026\n",
+            "Last Lines": "\n\u2026As dud the kny\u021dt sir parcivelSo worthi vndir\n                    wede\n",
+            "Note": "\nVII.805, 918 omitted; 803 follows 806.",
+            "Attributed Title": "\nNo more of this for goddis dignite (f. 99va, rubricated and\n                    formatted as heading)",
+            "folio": "ff. 98rb-99rb"
+        },
+        "BLHar7334": {
+            "First Lines": "\nLEstene\u00fe lordyngs in good ententAnd I wol telle\n                    verrayment\u2026\n",
+            "Last Lines": "\n\u2026As dede \u00fee knight of pertiuelleSo wor\u00fey vnder\n                    wede\n",
+            "Note": "\nVII.805, 918 omitted.",
+            "Attributed Title": "\n[trimmed]e\u00fe sir thopas his tale (f. 203v, margin, in\n                    scribe\u2019s informal hand); Chauceres tale (RT)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "ff. 203v-206"
+        },
+        "BLLan851": {
+            "First Lines": "\nLEstene\u00fee lordes in goo ententAnd I wil tel\n                    verrament\u2026\n",
+            "Last Lines": "\n\u2026& by him baite\u00fe his dextrereOf erbes fine &\n                    good\n",
+            "Note": "\nVII.805, 852-4, 915-18 omitted; 801-3 inserted in margin.",
+            "Attributed Title": "\n\u2026Incipit fabula (f. 189); Sir Thopas (RT)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 189-191v"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nListenyth lordynges in good ententAnd I wil yow telle\n                    verament\u2026\n",
+            "Last Lines": "\n\u2026As did the kny\u021dt sir PercyuelleSo worthy vnder\n                    woode\n",
+            "Note": "\nVII.803, 918 omitted.At the foot, in the margin, is \u2018finis\n                        verte folium\u2019. Two-thirds of the verso is left blank before the\n                        explicit.",
+            "Attributed Title": "\n\u2026And begynnyth / the tale of sir thopas by / Master Chaucer (f.\n                        238v, margin); Here endithe the tale of sir thopas by Chaucer (f.\n                        241v)",
+            "folio": "ff. 238v-241"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nLEsteneth lordes in good ententAnd I wil telle\n                    Verrayment\u2026\n",
+            "Last Lines": "\n\u2026And by hym bayteth his destrerOf herbes fyne and\n                    goode\n",
+            "Note": "\nVII.805, 852-4, 915-18 omitted.",
+            "Attributed Title": "\n\u2026And begynneth the tale (f. 194); sir Thopas (RT);\n                    Explicit\u2026 (f. 196v, margin)",
+            "folio": "ff. 194-196v"
+        },
+        "BLSl1686": {
+            "First Lines": "\nLEsteneth lordes in good ententAnd I wille telle\n                    verrament\u2026\n",
+            "Last Lines": "\n\u2026And by hym baytith his destrereOf herbys fyne and\n                    good\n",
+            "Note": "\nVII.805, 852-4, 887, 915-18 omitted.",
+            "Attributed Title": "\n\u2026And begynneth his tale (f. 244); [A] tale of Chauncer (RT)",
+            "folio": "ff. 244-247"
+        },
+        "NLWPen392": {
+            "First Lines": "\nLIsteth lordes in good ententAnd I wil telle\n                    verrayment\u2026\n",
+            "Last Lines": "\n\u2026As dide the knyght Sire PercyuellTil on a day\n",
+            "Note": "\nVII.805 omitted.",
+            "Attributed Title": "\nHere bigynneth Chaucers tale of Thopas (f. 213); Chaucer of sire Thopas\n                    (RT); here the host stynteth Chauce of his tale of / Thopas and biddeth hym\n                    telle another tale (f. 215)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "ff. 213-215"
+        },
+        "Alnwick455": {
+            "First Lines": "\nLestenyth lordingis in good ententAnd I woll tell \u021dew\n                    verament\u2026\n",
+            "Last Lines": "\n\u2026So worthy vndir wedeTyll it was on a day\n",
+            "Note": "\nVII.793, 805, 818 omitted.",
+            "Attributed Title": "\n\u2026And here begynyth the tale of Sir Thopas (f. 158)",
+            "folio": "ff. 158-160v"
+        },
+        "GULHun197": {
+            "First Lines": "\nLIsteneth lordyngges in good ententAnd I wole telle you\n                    verramente\u2026\n",
+            "Last Lines": "\n\u2026As dide \u00fee knyght sir percyuelSo worthy vnder \u00fee\n                    wood\n",
+            "Note": "\nVII.805, 887, 918 omitted.",
+            "Attributed Title": "\nHere begynneth the tale of Sir Thopas (f. 64rb); Thopas\n                    (RT)",
+            "folio": "ff. 64rb-65ra"
+        },
+        "Holkham667": {
+            "First Lines": "\nListeneth lordinges in gode ententeAnd I woll tell\n                    verramente\u2026\n",
+            "Last Lines": "\n\u2026Sir Topias wex a doughty swainewhite was his face as payn\n                    demaine\n",
+            "Note": "\nVII.726-918 lost.",
+            "folio": "f. 81vb"
+        },
+        "Lichfield29": {
+            "First Lines": "\n\u2026O Seint Mary BenediciteWhat eile\u00fe \u00feus loue at\n                    me\u2026\n",
+            "Last Lines": "\n\u2026And by hem baite\u00fe his destrerOf herbes fyne and\n                    good\n",
+            "Note": "\nVII.712-783 lost; resupplied on a seventeenth-century leaf. 805, 852-4,\n                    915-18 omitted.",
+            "Attributed Title": "\nSire Thopas (RT)",
+            "folio": "ff. 206-208"
+        },
+        "Lincoln110": {
+            "First Lines": "\nLIstenyth lordis in good ententAnd I woll \u021dow telle\n                    verament\u2026\n",
+            "Last Lines": "\n\u2026Hym self drank watir of \u00fee welleAs dede \u00fee\n                    kny\u021dt sire percefelleSo worthy vnder wede\n",
+            "Note": "\nVII.762, 818, 917-18 ommitted; 917 supplied later in\n                    margin.",
+            "Attributed Title": "\nHere byginnyth the tale of sire thopas (f. 191v); Chaucer sere\n                    Topas (RT)",
+            "folio": "ff. 192-194v"
+        },
+        "LonPhys388": {
+            "First Lines": "\nLIsteneth lordynges in goode ententAnd I wil yow telle\n                    verrament\u2026\n",
+            "Last Lines": "\n\u2026As dide the knyght sir percivelleSo worthy vndir\n                    wede\n",
+            "Note": "\nVII.803-6, 842-4, 877, 918 omitted.",
+            "Attributed Title": "\n\u2026Incipit ffabula de Thopas (f. 256)",
+            "folio": "ff. 256-258v"
+        },
+        "RylandsEng113": {
+            "First Lines": "\nListenyth lordes in good ententAnd I wolle telle\n                    verament\u2026\n",
+            "Last Lines": "\n\u2026As dede \u00fee knyght Ser percyuellSo wor\u00fei vn\u00feer\n                    wedetil on a day\n",
+            "Note": "\nVII.793, 803, 823, 887 omitted.",
+            "Attributed Title": "\nHere begynnyth Chauncers tale / of Sire Thopas (f. 126v);\n                    Chauncers tale of / Ser Thopas (f. 126v, margin); Chaucer\n                    (RT)",
+            "folio": "ff. 126v-127v"
+        },
+        "Petworth7": {
+            "First Lines": "\nLEstneth lordes in good ententAnd I will telle\n                    verrement\u2026\n",
+            "Last Lines": "\n\u2026As did \u00fee kny\u021dt sire percyvelleSo wor\u00feely\n                    vnder wede\n",
+            "Note": "\nVII.805, 852-4, 918 omitted.",
+            "Attributed Title": "\nHere bygynne\u00fe \u00fee tale of chaucere by Sire Thopas (f. 224);\n                        Capitulum xixm (f. 224, top margin); Sire Thopas\n                    (RT)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 224v-227"
+        },
+        "Austin46": {
+            "First Lines": "\nListe\u00fe lordynges in good entent& I wol telle\n                    verrayement\u2026\n",
+            "Last Lines": "\n\u2026As dide the knyght sire PercyuellTil on a day\n",
+            "Note": "\nVII.805 omitted.",
+            "Attributed Title": "\n\u2026Heere bigynneth Chaucers tale of Sire Thopas (f. 5vb);\n                    Heere stynteth the hoost Chaucer of his tale of Sire Thopas / and biddeth hym\n                    telle another tale\u2026 (f. 7)",
+            "folio": "ff. 5vb-7"
+        },
+        "Austin143": {
+            "First Lines": "\nListneth lordes in good ententAnd y will tell\n                    verament\u2026\n",
+            "Last Lines": "\n\u2026As did the knyght sir PercyuelleSo worthy vnder wedetil\n                    on a day\n",
+            "Attributed Title": "\nHere begynneth the tale of Sir Thopas (f. 160, foot); Chauncer\n                    (RT)",
+            "folio": "ff. 160v-161v"
+        },
+        "ChicagoUL564": {
+            "First Lines": "\nLvsteneth lordynges in gode ententAnd I wyll telle\n                    verament\u2026\n",
+            "Last Lines": "\n\u2026Lo lordynges myn here is a fytte\u021cif \u021de wylle more\n                    haue of hitto telle hit wyl y fonde\n",
+            "Note": "\nVII.731-2, 805, 823, 887, 891-918 omitted.",
+            "folio": "ff. 73v-75v"
+        },
+        "PierpontM249": {
+            "First Lines": "\nLesteneth lordes in good intentAnd I wil telle\n                    verement\u2026\n",
+            "Last Lines": "\n\u2026And by him bayteth his desterOf herbes fyne and\n                    good\n",
+            "Note": "\nVII.805, 852-4, 915-18 omitted.",
+            "Attributed Title": "\nHere bigynneth the tale of Chaucers of sir Thopas (f. 206v); Sir\n                    Thopas (RT)",
+            "folio": "ff. 206v-209"
+        },
+        "PhilRos10841": {
+            "First Lines": "\nListeneth lordynges in good ententeAnd y will \u021dou telle\n                    verament\u2026\n",
+            "Last Lines": "\n\u2026As the kny\u021dt sir perceuelleSo worthely under\n                    wede\n",
+            "Note": "\nVII.727-9, 805, 852-4, 918 omitted.",
+            "Attributed Title": "\n\u2026And here bygynneth the tale (f. 152); Sir thopas (RT)",
+            "folio": "ff. 152-154v"
+        },
+        "PhilRos10842": {
+            "First Lines": "\nAnd gestours for to tell talys\u2026\n",
+            "Last Lines": "\n\u2026Tyll it was oppon a day\n",
+            "Note": "\nAn 11-folio fragment, of which this leaf bears VII.846-918 of\n                        Thopas and 919-22 the \u2018Thopas-Melibee Link\u2019.",
+            "folio": "ff. 9-9v"
+        },
+        "PUL100": {
+            "First Lines": "\nListynyth lordingis in good ententAnd I wol tel\n                    verament\u2026\n",
+            "Last Lines": "\n\u2026He nold slepen in no houseBut ligen in his hode\n",
+            "Note": "\nVII.777, 803, 805, 883, 887, 912-18 omitted.",
+            "Attributed Title": "\nHer begynnyth Sir Thopas (f. 158); Sir Thopas (RT); Herer\n                    endith the tale of Sir Thopas (f. 161)",
+            "folio": "ff. 158-161"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nListeth lordes in good ententAnd I wol telle\n                    verrayment\u2026\n",
+            "Last Lines": "\n\u2026As dide the knyght sire Percyuellso worly vnder wedeTil\n                    on a day\n",
+            "Note": "\nVII.805 omitted.",
+            "Attributed Title": "\n\u2026Heere bigynneth Chaucers tale of Thopas (f. 151v);\n                    Chaucer Thopas (RT); (RT); Heere the hoost stynteth Chaucer of his tale of\n                    Thopas (f. 153)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 151v-153"
+        },
+        "BNangl39": {
+            "First Lines": "\nLystnyth lordynges in good ententand I wil telle\n                    verrament\u2026\n",
+            "Last Lines": "\n\u2026as I yow telle in good certaynehe hadde a semely\n                    nose\n",
+            "Note": "\nVII.730-918 omitted.",
+            "Attributed Title": "\nHic narrat fabula sua Chauncers / de quodam milite Thopas\u2026 (f.\n                        71va)",
+            "folio": "f. 71va-71vb"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nListeneth lordinges in gode ententAnd I wol telle\n                    verrament\u2026\n",
+            "Last Lines": "\n\u2026As did the kni\u021dt Sir PercyuelleSo worthi vnder\n                    wedeTil on a day\n",
+            "Note": "\nVII.893-5 omitted.",
+            "Attributed Title": "\n\u2026Et Incipit fabula sua de Sir Thopas (f. 171v);\n                    Chaucers Tale (RT)",
+            "folio": "ff. 171v-173"
+        },
+        "TokyoTak32": {
+            "First Lines": "\nLestynyht lordis in good ententeAnd I will tell\n                    verament\u2026\n",
+            "Last Lines": "\n\u2026As dede thee knyght sire percivallSo worthilye vnder\n                    wedeTille it was on a day\n",
+            "Note": "\nVII.805 omitted.",
+            "Attributed Title": "\nChauceris tale (RT)",
+            "folio": "ff. 106rb-107va"
+        },
+        "Bodmer48": {
+            "First Lines": "\nListeneth lordis in good ententAnd I wil telle\n                    veriment\u2026\n",
+            "Last Lines": "\n\u2026As didde the knight sir percyuellSo worthy vndir\n                    wede\n",
+            "Note": "\nVII.803-6, 823, 887. 918 omitted.",
+            "Attributed Title": "\nChaucers tale of Sir Thopas (f. 173v, rubric)",
+            "Facsimiles": "\n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n",
+            "folio": "ff. 173v-176"
+        }
+    }
+}

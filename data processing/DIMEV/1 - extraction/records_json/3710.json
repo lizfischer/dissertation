@@ -1,0 +1,76 @@
+{
+    "_id": 3710,
+    "_header": "Not mans steven but good will",
+    "Note": "Walther (1963)\nXWalther, Hans. Proverbia sententiaque latinitatis medii aevi. 6 vols. G\u00f6ttingen, 1963-69, no. 18723; Walther (1969)\nXWalther, Hans. Initia carmina ac versuum medii aevi posterioris latinorum. G\u00f6ttingen, 1959; 2nd ed. 1969, no. 12222.",
+    "Subjects": "aphorisms; sermons, verse in; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Four lines translating \u2018Non vox set votum. Non musica cordula set cor\u2019, etc., a tag in the Fasciculus Morum, which precedes it",
+    "_witnesses": {
+        "Bod410": {
+            "Transcription": "\nNo mannys steuen but good wyllNo murth of mouth but hit styllNo\n                    cry but loue ne other berenys murth ne song to here\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 4v"
+        },
+        "BodLauMis111": {
+            "Transcription": "\nNo mannis stewene but goud willeNo murthe of mouth but herte\n                    stylleNo cry but loue ne other berenys murthe ne song to l\n                    god to here\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 55v"
+        },
+        "BodLauMis213": {
+            "Transcription": "\nNo monnes stewene but good wyllno myrth of mouth but hert\n                    stilleno cry but loue ne other bereNys myrth ne song god to\n                    here\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 6"
+        },
+        "BodRawC670": {
+            "Transcription": "\nNe monnes steuen but gode wylleNo murthe of mouth but herte\n                    stylleNo cry but love ne o\u00feer bereNys murthe ny song god to\n                    here\n",
+            "Editions": "\n\nSilverstein,  Theodore,\n                        ed.  \n             Medieval English Lyrics.\n         York Medieval Texts. London: Edw. Arnold, 1971: 76.\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 142-3.\n\n",
+            "folio": "f. 13"
+        },
+        "OxfLinLat52": {
+            "Transcription": "\nNo mowthes steuyn but gode willno myrth of mouth but hert\n                    stillno crie but loue ne o\u00feer bereis myrth ne song god to\n                    here\n",
+            "folio": "f. 5va"
+        },
+        "CamGon71": {
+            "Transcription": "\nNogth man steuen bot god wyllnogth myrth of mouth bot hert\n                    stillNo cry bot loue ne no\u021der lere\u00feis myrth soundes in godes\n                    here\n",
+            "folio": "f. 16"
+        },
+        "CamGon364": {
+            "Transcription": "\nNo mowthys steuene but good wylleno myth of monyth but herte\n                    stylleno cri but loue neo\u021dir bererysmerthe no song god to\n                    here\n",
+            "folio": "ff. 6rb-6va"
+        },
+        "CamStJohn159": {
+            "Transcription": "\nNo man steuyn bot god with o gud wylleno myrthe of mothe\n                    bot hert styllno erye bot I lufe no o\u00feer bereNys myrthe no songe\n                    god to here\n",
+            "folio": "f. 38v"
+        },
+        "NLS18721": {
+            "Transcription": "\nNout mannis steuene but good willeNout mirthe of mout but herte\n                    stilleNon loud cri ne non hey layBut priue bidding is godis\n                    pay\n",
+            "Note": "\nAppears separately in John Grimestone\u2019s sermon notes, preceded by\n                        \u2018Non vox set votum non musica cordula set\n                    cor\u2019.",
+            "Attributed Title": "\nDe Oracione (f. 93)",
+            "Editions": "\nWilson,  Edward. \n             A Descriptive Index of the English Lyrics in John of Grimestone\u2019s\n                Preaching Book.\nMedium \u00c6vum Monographs\n         n.s. 2. Oxford, 1973: 28.\n",
+            "folio": "f. 93"
+        },
+        "EDU82": {
+            "Transcription": "\nNoo mannes steuen but god wyllnoo myrth of mowth but hert\n                    styllNoo crye but love ne nother bereNys ne song god to\n                    here\n",
+            "folio": "f. 11v"
+        },
+        "Lincoln44": {
+            "Transcription": "\nNon mannes steune bot god willNo mor\u00fee of mo\u00fee but hert\n                    stylleNo crys but houe no o\u00feer berenys murthe ne songe to\n                    here\n",
+            "Note": "\nTranslates preceding Latin aphorism, \u2018Nam deus non\n                        verborum\u2026\u2019; written as prose.",
+            "folio": "f. 159ra"
+        },
+        "Spalding": {
+            "Transcription": "\nNo man steuen bot god wyleNo myrth of mouth bot hert styllNo cry\n                    bot lofe non o\u00feer bere & cetera\n\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 8v"
+        },
+        "WorcF19": {
+            "Transcription": "\nnon mannis steuene bot gode willeNon murthe of mow\u00fee bot herte\n                    stille\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.450.\n",
+            "folio": "f. 162vb"
+        },
+        "VaticanOtto": {
+            "folio": "f. 4v"
+        }
+    }
+}

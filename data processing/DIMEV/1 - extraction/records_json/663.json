@@ -1,0 +1,58 @@
+{
+    "_id": 663,
+    "_header": "As of honey men gatheren oft sweetness",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Song of Vertu\u2019",
+    "Subjects": "virtues",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, \u2018Song of Vertu\u2019 \u2014 thirteen 8-line stanzas with refrain, \u2018Who sueth vertu vertu he shall lere\u2019",
+    "_witnesses": {
+        "BodAsh59": {
+            "First Lines": "\n\u2026Off Rethoricyens men lerne ffresshe languageOff holy saintes\n                    procedith parfitnesOff ffurious folke Debate and OuterageOf marcyall\n                    prynces vertuous highe noblesse\u2026\n",
+            "Last Lines": "\n\u2026Cleyme of his mercy to haue possessionWith hym to dwell aboue\n                    the sterris Clere\n",
+            "Note": "\nStanzas 1-5 missing due to loss of folio.",
+            "folio": "ff. 184-184v"
+        },
+        "BodRawC86": {
+            "First Lines": "\nOff hony men gaderen out swetnesseOf wyne & spisus is made good\n                    Ipocrase\u2026\n",
+            "Last Lines": "\n\u2026Cleyme of his mercy to haue possessionWyth hym to dwell aboue\n                    \u00fee sterres cleere\n",
+            "folio": "ff. 79v-86"
+        },
+        "CULKk16": {
+            "First Lines": "\nAs of hony men gadren swetnesseOf wyne and spices is made god\n                    ypocras\u2026\n",
+            "Last Lines": "\n\u2026Cleyme of mercy to haue possessiounWith hym to dwell above\n                    \u00fee sterrys clere\n",
+            "Note": "\nScribe(?) Rychard Fox (ff. 1, 245v).",
+            "Attributed Author": "\nJohn Lydgate (f. 203v)",
+            "Attributed Title": "\nHere\u2026begynneth a songe of vertu of \u00fee seyde John Lydgatis makyng\n                    (f. 203v); Here enduth the songe on \u00feis worde who sueth vertu\n                    vertu schall he leere (f. 205v)",
+            "folio": "ff. 203v-205v"
+        },
+        "CamJes56": {
+            "First Lines": "\n[A]s of hony men gadre out swetnesOf wyne and spices is maade goode\n                    ypocras\u2026\n",
+            "Last Lines": "\n\u2026Cleyme of his mercye to haue possessionWith hym to dwell a\n                    boue \u00fee sterrys clere\n",
+            "folio": "ff. 36-37v"
+        },
+        "CamTCC601": {
+            "First Lines": "\nOf hony men gadyr out swetnesseOf wyne and spyses ys made\n                    ypocrasffro syluyr wellys that boyle vp with fresshnesseCommyth\n                    crystall rennyng a gret pas\u2026\n",
+            "Last Lines": "\n\u2026Clayme of hys mercy to haue possessyowneWith hym to dwelle\n                    aboue the sterres clere\n",
+            "folio": "ff. 298-299v"
+        },
+        "BLHar2251": {
+            "First Lines": "\nAS of hony men gete oft swetnesOf wyne and spicis is maad\n                    ypocras\u2026\n",
+            "Last Lines": "\n\u2026Clayme of his mercy to have possessiounWith hym to dwelle\n                    above the sterris cliere\n",
+            "Note": "\nThree extra stanzas between stanzas 4 and 5.",
+            "folio": "ff. 146-147v"
+        },
+        "BLHar2255": {
+            "First Lines": "\nAs of hony men gadren out swetnesseOf wyn and spices is maad good\n                    ypocras\u2026\n",
+            "Last Lines": "\n\u2026Cleyme of his mercy to haue possessionWith hym to dwelle\n                    above the sterrys cleere Explict\n",
+            "Editions": "\n\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             A Selection from the Minor Poems of Don John Lydgate.\nPercy Society\n         2. London: T. Richard, 1840: 2.216-20.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 835-8.\n\n",
+            "folio": "ff. 12-14"
+        },
+        "HunHM140": {
+            "First Lines": "\nAs of hony men geder out swetnesseOf wyn and spices is made good\n                    ypocras\u2026\n",
+            "Last Lines": "\n\u2026Cleyme of his mercy to haue possessiounWith hym to dwell\n                    aboue \u00fee sterris clere\n",
+            "Editions": "\n\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             A Selection from the Minor Poems of Don John Lydgate.\nPercy Society\n         2. London: T. Richard, 1840: 2.216-20.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 835-8.\n\n",
+            "folio": "ff. 89v-91"
+        }
+    }
+}

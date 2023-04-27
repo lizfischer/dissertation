@@ -1,0 +1,182 @@
+{
+    "_id": 3165,
+    "_header": "Long beard heartless / Painted hood witless",
+    "Note": "Occurs in many MSS of the Brut Chronicle, some of which are listed below, and in many early printed chronicles; most editions do not attribute source manuscript or print: Brie (1906)\nXBrie, Friedrich. The Brut, or the Chronicles of England.\nEETS o.s. 131 (1906), 136 (1908); repr. 1987, 1.249, 2.249; Brie (1906)\nXBrie, Friedrich. The Brut, or the Chronicles of England.\nEETS o.s. 131 (1906), 136 (1908); repr. 1987, 2.83; bad key, 212; Camden (1633)\nXCamden, William. Remains concerning Britain. London: J. Philipot, 1633, 1636; repr. London: J. R. Smith, 1870; Hildesheim, NY: G. Olms, 1970, 194; Wright (1859)\nXWright, Thomas. Political Poems and Songs relating to English History, composed during the period From the Accession of Edward III to that of Richard III. 2 vols. Rolls Series 14 (1859, 1861); repr. Kraus, 1965, 2.251; Wright (1846)\nXWright, Thomas. Essays on Subjects Connected with the Literature, Popular Superstitions, and History of England in the Middle Ages. London: J. R. Smith, 1846, 2.261; Viles and Furnivall (1869)\nXE. Viles, and Frederick J. Furnivall. The Fraternitye of Vacabondes by John Awdeley\u2026.\nEETS e.s. 9 (1869); repr. 1988, xlvi; Furnivall (1865)\nXFurnivall, Frederick James. \u201cRev. ed. of G. H. Kingsley, Francis Thynne: Animadversions upon Chaucer\u2019s Works\u201d EETS o.s. 9 (1865), repr. 1965; re-issued Chaucer Society 2nd ser. 13 (1876), xlvi; Fairholt (1849)\nXFairholt, Frederick William. \u201cSatirical Songs and Poems on Costume.\u201d Percy Society 27. London: Richards, 1849, 55; Wilson (1936)\nXWilson, Richard Middlewood. \u201cMore Lost Literature in Old and Middle English.\u201d Leeds Studies in English 5 (1936): 1-49, 46; Wilson (1952)\nXWilson, Richard Middlewood. The Lost Literature of Medieval England. London: Methuen, 1952, 197; Henderson (1898)\nXHenderson, Thomas Finlayson. Scottish Vernacular Literature: a succinct history. London: D. Nutt, 1898, 18; bad key, 41; Owst (1933)\nXOwst, Gerald Robert. Literature and Pulpit in Medieval England. Cambridge: UP, 1933, 407; Robbins (1955)\nXRobbins, Rossell Hope. \u201cA Middle English Diatribe Against Phillip of Burgundy.\u201d Neophilologus 39 (1955): 139-56, 141; Jones (1956)\nXJones, George Fenwick. \u201cSartorial Symbols in Mediaeval Literature\u201d Medium \u00c6vum 25 (1956): 63-70, 68; Robbins (1959)\nXRobbins, Rossell Hope. Historical Poems of the XIV and XV Centuries. New York: Columbia UP, 1959, xxxviii.",
+    "Subjects": "political poems; Scots, insults by, against the English; chronicles, verse in",
+    "Versification": "\u2014 four-line \u2014 aaaa",
+    "Bibliographic Ghosts": "London, British Library Harley 372: see London, British Library Harley 266.",
+    "_description": "Tag made by the Scots in the reign of Edward III against the effeminate English, and affixed to the door of St. Peter\u2019s Church at Stangate \u2014 four monorhyming lines",
+    "_witnesses": {
+        "BodRawB171": {
+            "Transcription": "\nLonge berde hertlespeyntede hode witlesGay cote\n                    gracelesmake\u00fe englissheman \u00feriftles\n",
+            "Note": "\nWritten as prose, in rubric as a heading: \u2018Longe berde\n                    herteles.\u2019",
+            "folio": "f. 146"
+        },
+        "BodDou323": {
+            "Transcription": "\nlong berd hertles peynted hod wytlesgay cote graceles makes\n                    Englond thriftles\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 87v"
+        },
+        "CamMagPep2163": {
+            "Note": "\nUnpaginated.",
+            "folio": ""
+        },
+        "BLAdd24859": {
+            "Transcription": "\nLong berde hertlesPayntid hood witlesgay cote gracelesmakith Englond thriftles\n",
+            "Note": "\nWritten as prose, rubric.",
+            "folio": "f. 88"
+        },
+        "BLAdd26746": {
+            "Transcription": "\nLonge berdede hertlesPeyntede hodes witlesGay cotes gracelesmakethe Engelonde fulle thriftles\n",
+            "Note": "\nWritten as prose, rubric.",
+            "folio": "f. 234v"
+        },
+        "BLEge650": {
+            "Transcription": "\nLong berdes hertlesnted hoddys wyttlesGay cotes gracelesemakes ynglond Theis Saterand scottesI holde bot sottesAnd of \u00feaire Wrenches vnwarreffore erly in a mornyngin an evill tymemyngwent \u00feai from Dunbareriftles\n",
+            "Note": "\nFirst word of second line missing first few letters due to torn corner of leaf; written as prose, rubric.",
+            "folio": "f. 57v"
+        },
+        "BLHar24": {
+            "Transcription": "\nNowe longe berdes hertlysPeyntede hoodes witlesGaye Cotes GracelesMaken Englande thriftles\n",
+            "Note": "\nWritten as prose.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 24.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Harley_MS_24. \n",
+            "folio": "f. 141v"
+        },
+        "BLHar53": {
+            "Transcription": "\nMaidons of Englond sare may ye mornffor tynt ye haue youre lemans att BannokkesbornWith heue aloweWhat wend \u00fee kyng Edward till haue wonne ScottelandWith Romylow\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 119"
+        },
+        "BLHar63": {
+            "Transcription": "\nLonge berdes hertelesIagged hodes wittelespeynted cotes gracelesShal make Engelond full triftelese\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 31"
+        },
+        "BLHar266": {
+            "Transcription": "\nLonge berde herttelesPeyntede hoode wittelesGay cote gracelesMaketh alle Engelond thriftles\n",
+            "folio": "f. 40"
+        },
+        "BLHar753": {
+            "Transcription": "\nLonge berde hertlessepoynted hode wytlesseGaye cote gracelesmaketh Englysshmen thryftlesse\n",
+            "Note": "\nWritten as prose, rubric",
+            "folio": "f. 116v"
+        },
+        "BLHar1337": {
+            "Transcription": "\nLong berd hertlesePartid cote witleseGay cote gracelesmakith Englond thriftlese\n",
+            "folio": "f. 72"
+        },
+        "BLHar1568": {
+            "Transcription": "\nLonge berde hartlesPayntede hude witlesGay coott graclesMakes Englonde thrifteles\n",
+            "Note": "\nWritten as prose, rubric.",
+            "folio": "f. 118"
+        },
+        "BLHar2182": {
+            "Transcription": "\nLonge berde hertlesPeyntide hode witlesgaye cote gracelesmake Engelonde \u00ferifteles\n",
+            "Note": "\nWritten as prose, rubric.",
+            "folio": "f. 114v"
+        },
+        "BLHar2248": {
+            "Transcription": "\nlong Berde hertlespeynted hoode witlesseGay Cote gracelessemaketh Englonde thryftles\n",
+            "Note": "\nWritten as prose, rubric.",
+            "folio": "f. 185v"
+        },
+        "BLHar2279": {
+            "Transcription": "\nLonge berded hertelespeintid hode witlesgay cote gracelesmakes engelonde thrifteles\n",
+            "Note": "\nWritten as prose, rubric.",
+            "folio": "f. 126"
+        },
+        "BLHar3730": {
+            "Transcription": "\nlong Berdes hertlespaynted houdes witlesGay Cotes gracelesmaken England thriftles\n",
+            "Note": "\nWritten as prose, inserted in a prose chronicle, but two lines per line of the manuscript.",
+            "folio": "f. 64"
+        },
+        "BLHar4930": {
+            "Transcription": "\nlong beerd hertlesPayntid hode witlesgay cot gracelesmakith England thriftles\n",
+            "Note": "\nWritten as prose, rubric.",
+            "folio": "f. 94"
+        },
+        "BLHar4690": {
+            "Transcription": "\nLong Berde hertelesepeinted hode wittelesGaie cote Gracelesmaketh Englonde thrifteles\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 73rb"
+        },
+        "BLSto70": {
+            "Transcription": "\nLonge berdes hertlessePainted hoodes wittelesseAnd in \u00feeire gay kotes gracelesMaken Englande thriftles\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 90v"
+        },
+        "NLWPen396D": {
+            "Transcription": "\nlonge berde hertelespartycote wyttelesGay Cote\n                    gracelesmakith Englonde thrifteles\n",
+            "Note": "\nIn prose Brut, written as prose rubric heading.",
+            "folio": "f. 170"
+        },
+        "GULHun83": {
+            "Transcription": "\nlong berdes hertelespaynted hodes witlesGay cotes\n                    gracelesmaken England thriftles\n",
+            "Note": "\nOne monorhyming quatrain in Brut\n                    chronicle.",
+            "folio": "f. 91"
+        },
+        "WorcQ46": {
+            "Transcription": "\nLonge berdes hertlesstreyte cotes gracelespeyntet hodes\n                    wytles\u2026\u2026Nobleye penylesMakeyt \u00feis worl\n                    \u00ferifles\n",
+            "Note": "\nHere eleven lines, roughly monorhyming; separate from Fabian\u2019s\n                    chronicle, appearing with other verse added to blank space at end of Latin prose\n                    text (beg. 236), \u2018Modo videtur est vi d[five minums line\n                        over] custodire debemus qui & si heri eum\n                    suscepimus\u2026\u2019.",
+            "folio": "f. 238rb"
+        },
+        "HarEng530": {
+            "Transcription": "\nLonge berde hertelesPaynted hoode witlesAnd gaye coote\n                    gracelesmake\u00fee England thriffteles\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 152v"
+        },
+        "HarEng587": {
+            "Transcription": "\nLonge Berdes hertelespeyted hode witlesGay cote\n                    graseles\u00feat makith Englond full thrifteles\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 93v"
+        },
+        "HarEng766": {
+            "Transcription": "\nLonge Beerdis hertleesPaynted hoodis witleesGay Cotys\n                    graceleesMakith England thryftles\n",
+            "Note": "\nIn Fabyan\u2019s Chronicles; formerly included under 6322.",
+            "folio": "f. 172"
+        },
+        "YaleBei494": {
+            "Transcription": "\nLonge berde hertlespeyntede hode wytlesGay cote\n                    gracelesmakes Engelonde thriftles\n",
+            "Note": "\nWritten as prose, partially in rubric.",
+            "folio": "f. 88ra"
+        },
+        "PULTayM3": {
+            "Transcription": "\nLong berde hertelispeyntid hode wittlesgay cote\n                    gracioslesmakis Englond thryfteles\n",
+            "Note": "\n131 folios presently (14 April 1999) unfoliated; some folios in Brut\n                    apparently misbound out of order.",
+            "folio": "f. 99rb"
+        },
+        "HunHM113": {
+            "Transcription": "\nLong berd hertlesPeyntid Cote witlesGay Cote\n                    gracelesemakith Englond thriftlese\n",
+            "Note": "\nWritten as prose, in rubric.",
+            "folio": "f. 114rb"
+        },
+        "HunHM131": {
+            "Transcription": "\nLong berdes hertelesPeynted hodes witlesGay cotes\n                    gracelesMaken Englonde thryfteles\n",
+            "Note": "\nWritten as prose, with virgules to mark line breaks.",
+            "folio": "f. 103"
+        },
+        "HunHM136": {
+            "Transcription": "\nLonge berde herteleesPeynted hood wytleesgay cote\n                    graceleesmakes England thriftlees\n",
+            "Note": "\nWritten as prose, with virgules to mark line breaks.",
+            "folio": "f. 101v"
+        },
+        "TCD490": {
+            "Transcription": "\nLonge berde hertlespeyntede hode witlesgay cote\n                    gracelesmakes Englisshe man thrifteles\n",
+            "Note": "\nIn text of chapter 213.",
+            "folio": "f. 116v"
+        },
+        "TCD516": {
+            "Transcription": "\nLong berde hertelespeyntede hoode wytlesGay cote\n                    gracelesmaketh engelond \u00feriftles\n",
+            "Note": "\nOccurs with other political prophecies, not in Brut.",
+            "folio": "f. 118"
+        },
+        "TokyoTak12": {
+            "Transcription": "\nlonge berdes hertelessepeynted hodes wittelesseGaye cotes\n                    gracelessemake Englonde thryftelesse\n",
+            "Note": "\nWritten as prose rubric heading.",
+            "folio": "f. 140"
+        },
+        "TokyoTak29": {
+            "folio": "f. 98v"
+        }
+    }
+}

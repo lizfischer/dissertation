@@ -1,0 +1,58 @@
+{
+    "_id": 4670,
+    "_header": "Saint Luke says that a man dumb was",
+    "Note": "For the version in the \u2018expanded\u2019 Cycle see 654.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Third Sunday in Lent in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nSaynte luke saise \u00feat a man doumbe wasOf whaim criste chalid\n                    oute sathanas\u2026\n",
+            "Last Lines": "\n\u2026ffor god \u00feat his entente wele knawesEs full wele paied\n                    of all his sawes\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 89-92"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Luc sei\u00fe \u00feat a Mon doumbe wasOf whom crist chased\n                    Sathanas\u2026\n",
+            "Last Lines": "\n\u2026ffor God \u00feat his entent knawesIs wel payed of his\n                    sawes\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 184rc-184vc"
+        },
+        "CULAdd8335": {
+            "First Lines": "\n\u2026ffor if \u00feou schewe vs token of \u00fee heuene\u00deat\n                    \u00feou be goddes sonne wille we trowe euene\u2026\n",
+            "Last Lines": "\n\u2026ffor wele es him \u00feat with techyngMan any soule til\n                    heuene bryng\n",
+            "Note": "\nBegins imperfectly.",
+            "folio": "pp. 135-139"
+        },
+        "CULDd11": {
+            "First Lines": "\nSEynt luke seyth \u00feat a man doumb wasof whom crist chasid out\n                    sathanas\u2026\n",
+            "Last Lines": "\n\u2026for god \u00feat his entente knawisis wel payde of his\n                    sawis\n",
+            "Note": "\nDivision between this and the following, 5159, occurs two lines later in this\n                    MS.",
+            "Attributed Title": "\nDominica 3a quadragesime Euangelium secundum Lucam (f.\n                    107)",
+            "folio": "ff. 107-109"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nSaint luke says \u00feat a man dumbe wasOf whanne cryste chased\n                    sathanas\u2026\n",
+            "Last Lines": "\n\u2026ffor god \u00feat his entente knawesEs well payde of all his\n                    sawes\n",
+            "folio": "ff. 69v-72"
+        },
+        "Lam260": {
+            "folio": "f. 30ra"
+        },
+        "MinULZ822": {
+            "First Lines": "\nSaynte luke says \u00feat a man dum wasof wham cryste chasede oute\n                    Sathanas\u2026\n",
+            "Last Lines": "\n\u2026for gode \u00feat his entent knawesEs wele payde of all hys\n                    sawes\n",
+            "Note": "\nNote folio change from Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943.",
+            "Attributed Title": "\nDominica iiia quadragesime Secundum Lucam (f.\n                        58v)",
+            "folio": "ff. 58v-60v"
+        },
+        "HunHM129": {
+            "First Lines": "\nSeint luc sayth \u00feat man dowme wasOff whom crist chasid\n                    satanas\u2026\n",
+            "Last Lines": "\n\u2026ffor god \u00feat his entent knawysIs well payd of his\n                    sawys\n",
+            "Note": "\nListed in Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943 as appearing on f. 127.",
+            "Attributed Title": "\nDominica tercia in quadragesima (f. 73)",
+            "folio": "ff. 78v-81"
+        }
+    }
+}

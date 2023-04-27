@@ -1,0 +1,29 @@
+{
+    "_id": 2606,
+    "_header": "In the land of life I hope to see",
+    "Subjects": "sermons, verse in; hope, spiritual",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A single couplet in a Latin homily",
+    "_witnesses": {
+        "OxfBal149": {
+            "Transcription": "\nIn \u00dee londe of liue Y hop to seIoy & blisse \u00feat euer\n                    schal be\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 36v"
+        },
+        "OxfMagd93": {
+            "Transcription": "\nIn the londe of lyf y hope to seioie and blis that euer shalle\n                    bee\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 156v"
+        },
+        "CULKk424": {
+            "Transcription": "\nIn \u00fee lond of lyfe y hope to se\u00fee ioye & blysse\n                    \u00feat euer schal be\n",
+            "Note": "\nIn a sermon (Amore langueo) for dominica in passione vel in\n                        die parasceue, possibly by John Bromyard.",
+            "folio": "f. 148rb"
+        },
+        "TCD277": {
+            "Transcription": "\nIn land of lyf I trow to seioy & blys \u00feat euer sall\n                    be\n",
+            "Note": "\nIn a sermon (Amore langueo) for dominica in passione vel in\n                        die parasceue, possibly by John Bromyard.",
+            "folio": "p. 194"
+        }
+    }
+}

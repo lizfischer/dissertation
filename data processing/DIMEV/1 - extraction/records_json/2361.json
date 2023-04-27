@@ -1,0 +1,29 @@
+{
+    "_id": 2361,
+    "_header": "If I had wit for to indite",
+    "Note": "Composite text ed. Chambers and Sidgwick (1907)\nXEdmund Kerchever Chambers, and Frank Sidgwick. Early English Lyrics\u2026. London: Buller, 1907, 1911 et seq, 57; cf. 2360. See Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler TM 721.",
+    "Title(s)": "\u2018My hart she hath and euer shall\u2019",
+    "Subjects": "love lyrics",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "\u2018My hart she hath and euer shall\u2019 \u2014 six cross-rhymed quatrains",
+    "_witnesses": {
+        "BLAdd18752": {
+            "Editions": "\nReed,  Ernest Bliss. \n             \u201cThe Sixteenth Century Lyrics in Add. MS. 18,752.\u201d \n             Anglia\n         33 (1909): 344-69: 350-1.\n",
+            "folio": "f. 58v"
+        },
+        "BLAdd31922": {
+            "First Lines": "\nIff I had wytt to endyghtof my lady both fayre and fre\u2026\n",
+            "Last Lines": "\n\u2026happe what wyll happ fall what shallshall no man ut supra\n",
+            "Note": "\nWords and notes for the first stanza repeated twice for further singing parts; conclusion of last line from above is \u201cknow her name for me.\u201d",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Additional MS 31922.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=2&ref=Add_MS_31922. \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts, Besonders aus der Zeit Heinrichs\n                VIII.\u201d \n             Anglia\n         12 (1889): 225-72, 585-97: 235, 260.\nFl\u00fcgel,  Ewald,\n                        ed.  \n             Neuenglisches Lesebuch.\n         1 Bd. Halle: Niemayer, 1895: 134, 138.\nPadelford,  Frederick Morgan. \n             Early Sixteenth Century Lyrics.\n         Boston and London: D.C. Heath, 1907: 78.\nChambers,  Edmund Kerchever. \n             The Oxford Book of Sixteenth Century Verse.\n         Oxford: Clarendon, 1932, and subsequent editions: 41-2.\nStevens,  John,\n                        ed.  \n             Music and Poetry in the Early Tudor Court.\n         London: Methuen, 1961: 396.\nStevens,  John,\n                        ed.  \n             Music at the Court of Henry VIII.\nMusica Britannica\n         18. London: Stainer and Bell, 1962: 26.\n\n",
+            "folio": "ff. 34v-35"
+        },
+        "BLRoyApp58": {
+            "First Lines": "\n[I]ff I hade wytt fore to endyteoff my lady bothe fayre And\n                    freeOff hure goodnese then wolde I wreteschall noman know hure name\n                    for meshall nomane know hure name for me\u2026\n",
+            "Last Lines": "\n\u2026My hart she hathe & euer shalltyll by dethe departyd we\n                    behap what shall hape wylbe fallshall noman know hure name fore\n                    me\n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts, Besonders aus der Zeit Heinrichs\n                VIII.\u201d \n             Anglia\n         12 (1889): 225-72, 585-97: 235, 260.\nFl\u00fcgel,  Ewald,\n                        ed.  \n             Neuenglisches Lesebuch.\n         1 Bd. Halle: Niemayer, 1895: 134, 138.\n\n",
+            "folio": "f. 5v"
+        }
+    }
+}

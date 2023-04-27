@@ -1,0 +1,15 @@
+{
+    "_id": 5692,
+    "_header": "This good book Recluse here now maketh end",
+    "Subjects": "epilogues, to prose texts",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Couplet at end of a prose Regula anachoritarum",
+    "_witnesses": {
+        "CamMagPep2498": {
+            "Transcription": "\n\u00deis good book Recluse here now make\u00fe endeVn to \u00fee\n                    bllis of heuen god graunte vs grace to wende\n",
+            "Note": "\nAs conclusion to Ancrene Riwle.",
+            "Editions": "\n\nJames,  Montague Rhodes. \n             Bibliotheca Pepysiana: A Descriptive Catalogue of the Library of Samuel\n                Pepys. Pt. III: Medieval Manuscripts.\n         London, 1923: 3.109.\nP\u00e5hlsson,  Joel,\n                        ed.  \n             The Recluse: a Fourteenth Century Version of the Ancren Riwle.\n         Lund: Ohlsson, 1911: v, 201.\n\n",
+            "folio": "p. 449a"
+        }
+    }
+}

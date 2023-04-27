@@ -1,0 +1,33 @@
+{
+    "_id": 757,
+    "_header": "Be glad O Maid Mother of Christ Jesu",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Gaude virgo mater christi\u2019",
+    "Subjects": "Virgin Mary, praise to; envoys",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lydgate, \u2018Gaude virgo mater christi\u2019 \u2014seven stanzas rhyme royal including Envoy",
+    "_witnesses": {
+        "CamTCC600": {
+            "First Lines": "\nBe gladde mayde moder of Cryst IhesuWhiche conceyvedist oonly by\n                    heringWhane \u00feoohely gooste moost souereyn of vertuEntred \u00fey\n                    brest frome heven descending\u2026\n",
+            "Last Lines": "\n\u2026Where with \u00fey sone \u00feou regnest in gladnesseOonly of\n                    mercy and stynt oure hevynesse\n",
+            "Note": "\nLatin lines at head of each stanza.",
+            "Attributed Author": "\ndaun Johan \u00fee Munke Lydegate (p. 53)",
+            "Attributed Title": "\nBeholde\u00fee nowe filowing nexst here \u00fee translacyoune of Gaude\n                        virgo mater cristi made by daun Johan \u00fee Munke Lydegate by night as\n                    he lay in his bedde at London (p. 53); Gaude virgo mater cristi (p.\n                    53)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 288-9.\n",
+            "folio": "pp. 53-55"
+        },
+        "CamTCC601": {
+            "First Lines": "\nBe glad o mayde moder of Cryst IhesuWhyche conceuedest oonly by\n                    heryngWhen the holy gost most souereyn of vertuEntred thy brest from\n                    heuyn discendyng\u2026\n",
+            "Last Lines": "\n\u2026Where with thy son thow regnest in gladnesseOnly of mercy and\n                    stynt oure heuynesse\n",
+            "Attributed Author": "\nLydgate (added, ff. 173, 173v)",
+            "Attributed Title": "\nIncipiunt quinque gaudia beate Marie Virginis (f. 173);\n                        Expliciunt quinque gaudia beate Marie Virginis (f.\n                    173v)",
+            "folio": "ff. 173-173v"
+        },
+        "BLHar2251": {
+            "First Lines": "\nBE gladde mayde moder of IhesuWhiche conceyvedest only be\n                    heryng\u2026\n",
+            "Last Lines": "\n\u2026Where with thy sone thow reignest in gladnesseOnly of mercy\n                    and stynt oure hevynesse\n",
+            "Attributed Title": "\nGaude virgo mater cristique per aurem concepisti / gabriele\n                        nuncio (f. 234v, margin)",
+            "folio": "ff. 234v-235"
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "_id": 5598,
+    "_header": "There was a woman of ill fame",
+    "Note": "For other MSS see 56 and 4975; non-source-specific edition is Rosenthal (1936)\nXRosenthal, Constance Lowegrund. The Vitae Patrum in Old and Middle English Literature. Philadelphia, 1936; repr. Folcroft, PA: Folcroft Library, 1974, 158.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Thais, saint",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Story of Thais in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\n\u00feare was a woman of ylle fameAnd Taysis was hir ri\u021dt\n                    name\u2026\n",
+            "Last Lines": "\n\u2026\u00feat to god hir saule gaue schoAnd so lene god \u00feat\n                    we all do . Amen .\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 133v-134v"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nThar was a woman of ill fameAnd taysis was hir ri\u021dt\n                    name\u2026\n",
+            "Last Lines": "\n\u2026That to gode hir saule gefe schoAnd swa leue god \u00feat we\n                    all do. Amen.\n",
+            "folio": "ff. 96-96v"
+        },
+        "BLHar2391": {
+            "First Lines": "\nIt was a woman of hyll fameAnd tasys was hyr reght name\u2026\n",
+            "Last Lines": "\n\u2026\u00feat to god hyr saule gaff schoAnd so lene gode \u00feat we do\n",
+            "Attributed Title": "\nfferia secunda (left margin f. 194) with \u201cA tale\u201d written above",
+            "folio": "ff. 194-195"
+        },
+        "Lam260": {
+            "folio": "f. 41ra"
+        }
+    }
+}

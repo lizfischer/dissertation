@@ -1,0 +1,17 @@
+{
+    "_id": 147,
+    "_header": "A priest sometime was in Rome me cleped Saturnine",
+    "Title(s)": "South English Legendary",
+    "Subjects": "Saturninus, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St Saturninus, in one MS of the South English Legendary \u2014 in couplets",
+    "_witnesses": {
+        "Bod779": {
+            "First Lines": "\nA prest somtyme was in rome me cleped saturnyne\u00feat hadde wit\n                    him a dekene \u00feat was I hote cysine\u2026\n",
+            "Last Lines": "\n\u2026Now Ihesu crist al my\u021dty god for here bo\u00feer\n                    louebring vs to \u00fee blisse \u00feat is in heuen aboue\n",
+            "Attributed Title": "\nSeint saturnin and cicin twey holy marteres (f. 235v)",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDes Ms. Bodl. 779 j\u00fcngere Zusatzlegenden zur s\u00fcdlichen\n                Legendensammlung.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         82 (1889): 307-422: 408-11.\n",
+            "folio": "ff. 235v-236v"
+        }
+    }
+}

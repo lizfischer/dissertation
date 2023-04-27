@@ -1,0 +1,25 @@
+{
+    "_id": 2335,
+    "_header": "I would witen of some wise wight / Witterly what this world were",
+    "Title(s)": "This World Fareth as a ffantasy",
+    "Subjects": "transitoriness, of world; Worthies, Nine; death; scripture, paraphrases of",
+    "Versification": "\u2014 alliterative, twelve-line \u2014 ababababbcbc",
+    "_description": "\u2018This World Fare\u00fe as a ffantasy\u2019, based on Ecclesiastes \u2014 eleven 12-line stanzas with refrain, \u2018ffor \u00feis world fare\u00fe as a fantasye\u2019",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nI wolde witen of sum wys wihtWitterly what \u00feis world\n                    were\u2026\n",
+            "Last Lines": "\n\u2026And her we stunte\u00fe but a stoundeffor \u00feis world is\n                    but fantasye\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nVarnhagen,  Hermann. \n             \u201cDie kleinere gedichte der Vernon und Simeon handschrift.\u201d \n             Anglia\n         7 (1884): 280-315: 310-13.\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 692-6.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952. \nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 354-5.\n Bad Key: Burrow1977: 250.\n\n",
+            "folio": "ff. 409rc-409va"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nI Wolde wolde witen of sume wis wihtWitterly what \u00feis world\n                    were\u2026\n",
+            "Last Lines": "\n\u2026And here we stunte\u00fe but a stoundeffor \u00feis world is\n                    but ffantasye\n",
+            "Attributed Title": "\nExplicit A song \u00feis world is ffantasye (f. 131rb)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "Editions": "\nGray,  Douglas,\n                        ed.  \n             A Selection of Religious Lyrics.\nClarendon Medieval and Tudor Series.\n         Oxford: Clarendon, 1975: 85.\n",
+            "folio": "fF. 130vc-131rb"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "_id": 1696,
+    "_header": "Hail benign Lord Christ Jesu",
+    "Title(s)": "Hundred Meditations",
+    "Subjects": "Christ, Passion of, Passion, meditations on",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Meditations and prayers on the Passion \u2014 a verse rendering of the prose Hundred Meditations in Oxford, Bodleian Library Bodley 88 (SC 1873) (printed), ff. 79v-86, as a supplement to Suso\u2019s Horologium Sapientiae",
+    "_witnesses": {
+        "BodeMus160": {
+            "First Lines": "\nHAylle benigne lorde crist iesuffull of grace & mercyes\n                    newe\u2026\n",
+            "Last Lines": "\n\u2026& thair meke compassiounBee thowe delitit now &\n                    aye\n",
+            "Note": "\nPreceded by prose prologues on ff. 116-17.",
+            "Attributed Title": "\nThus endes \u00fee prologe of hym \u00feat in to latyn translate the said C\n                    meditacions The prologe of hym \u00feat translat \u00fees said C meditacions\n                    into ynglish meter folowes her after (f. 116); Thus endes his prologe & his\n                    prayere buke here begynes (f. 117); Her endes the prayer buke of the C\n                    meditations (f. 135v)",
+            "Editions": "\n\nWichgraf,  Wiltrud. \n             \u201cSuso\u2019s Horologium Sapientiae in England nach Mss des 15.\n                Jahrhunderts.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         169 (1936): 176-81: 180 (short extract).\nRingler Jr.,  William A. \n             Bibliography and Index of English Verse in Manuscript\n                1501-1558.\n         London: Mansell, 1992; prepared and completed by \n                Michael\n                Rudick\n             and \n                Susan J.\n                Ringler\n            : TM 507.\n\n",
+            "folio": "ff. 117v-129;  135v-136;  129v-135"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "_id": 5863,
+    "_header": "Thou us hast shend through foul looking",
+    "Note": "For a closely related text see 5849.",
+    "Subjects": "debates, theological; sermons, verse in",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Debate between the Heart and the Eye, in a Latin sermon for Corpus Christi by Franciscan Lawrence Bretoun \u2014 five couplets",
+    "_witnesses": {
+        "CULIi38": {
+            "First Lines": "\n\u00feu vs hast schent \u00feour \u00fey fol lokyg\u00feu us hast\n                    schent \u00feourch \u00fey fol rekyng\u2026\n",
+            "Last Lines": "\n\u2026Hy wol \u00feat \u00fee heye wepe for is fole lokyngAnd\n                    \u00fee herte soruwe for is fol \u00feenchyng\n",
+            "Note": "\nSermon is on ff. 66-71, titled, \u2018Panem de celo prestitisti\n                        eis\u2019.",
+            "Editions": "\nStemmler,  Theo. \n             \u201cMore English Texts from MS. Cambridge University Library\n                Ii.III.8.\u201d \n             Anglia\n         93 (1975): 1-16: 6.\n",
+            "folio": "f. 70v"
+        },
+        "OxfMert248": {
+            "First Lines": "\n\u00feou vs ast shend \u00feoru \u00fei fol lokingbut \u00feou vs\n                    ast shent \u00feouru \u00fei fol preching\u2026\n",
+            "Last Lines": "\n\u2026Ich wil \u00feat \u00fee eie wepe ful sore& \u00feat\n                    \u00fee herte sorwe & synne nomore\n",
+            "Note": "\nFollows a nine-verse French version.",
+            "Editions": "\n\nCoxe,  Henry Octavius. \n             Catalogus codicum mss. qui in collegiis aulisque\n                oxoniensibus\u2026.\n         Oxon: e Typographeo academico, 1852: 97.\nBrown,  Carleton Fairchild. \n             \u201cA Homiletic Debate between Heart and Eye.\u201d \n             Modern Language Notes\n         30 (1915): 197-8: 198.\nPfander,  Homer Garrison. \n             \u201cThe Popular Sermon of the Medieval Friar in England.\u201d \n         Diss. New York University, 1937: 50-1.\n\n",
+            "folio": "f. 132rb"
+        }
+    }
+}

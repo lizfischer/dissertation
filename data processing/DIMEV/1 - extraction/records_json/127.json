@@ -1,0 +1,16 @@
+{
+    "_id": 127,
+    "_header": "A mother and maid a child hath born",
+    "Subjects": "Virgin Mary, songs in honour of; carols, Nativity",
+    "Versification": "\u2014 four-line \u2014 aabb",
+    "Macaronic": "Latin",
+    "_description": "Christmas carol \u2014 four quatrains (aabb) plus 4-line refrain (abcb): \u2018Euixa est puerpera / Quem gabriell predixerat / Quem matris alno gestiens / Clausus Johannes senserat\u2019",
+    "_witnesses": {
+        "CULEe112": {
+            "First Lines": "\nA moder and mayde a childe hath borneAs gabriell hath tolde\n                    beforne\u2026\n",
+            "Last Lines": "\n\u2026With the fader and holygoostBothe iii and one of myghtes\n                    moost\n",
+            "Editions": "\nZupitza,  Julius,\n                        ed.  \n             \u201cDie Gedichte des Franziskaners Jacob Ryman.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         89 (1892): 167-338: 192-4.\n",
+            "folio": "ff. 29v-30"
+        }
+    }
+}

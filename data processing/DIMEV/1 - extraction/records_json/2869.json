@@ -1,0 +1,154 @@
+{
+    "_id": 2869,
+    "_header": "Jesu lord that madest me / And with thy blessed blood hast bought",
+    "Note": "Based on an existing hymn (2905); five stanzas are interwoven in 2825; some of the opening stanzas are incorporated into 3918. For early printed Primers containing this hymn see Hoskins (1900)\nXHoskins, Edgar. Horae Beatae Mariae Virginis: or, Sarum and York Primers\u2026. London, New York: Longmans, Green, 1900; repr. 1983, 218, 222; Brydges and Haslewood (1810)\nXSir Samuel Egerton Brydges, and Joseph Haslewood. The British Bibliographer. 4 vols. London: T. Bersley, vol. 1: 1810; vols. 2, 3: 1812; vol. 4: 1814, 4.139-40 (\u2018Psalter of Jesus\u2019); and B\u00fchler (1959)\nXB\u00fchler, Kurt. \u201c\u2018At thy golg first eut of the house vlysse the saynge thus.\u2019\u201d Studies in the Renaissance 6 (1959): 223-35, 235.",
+    "Author(s)": "Richard de Caistre",
+    "Subjects": "hymns, to Christ; Christ, hymns to",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "Richard de Caistre\u2019s hymn \u2014 twelve quatrains",
+    "_witnesses": {
+        "BodBar33": {
+            "First Lines": "\nIhesu lord that madest meAnd wyth thy blessid blood hath\n                    boght\u2026\n",
+            "Last Lines": "\n\u2026And send men frutes of hertely foodeAs euery man nedyth in\n                    hys degre\n",
+            "Note": "\n36 lines.",
+            "folio": "f. 57v"
+        },
+        "BodAsh751": {
+            "First Lines": "\nIhesu lord \u00feat made me & with \u00fei blessed blode has\n                    boght\u2026\nIhesu for \u00feaime I ye beseke\u00feat wrethed ye on any\n                    wyse\u2026\n",
+            "Last Lines": "\n\u2026Here & spede my prayeres& spare me \u00feat I be not\n                    spilt\n\u2026ffor wham I hafe had any gude& spare \u00feat we haue\n                    done omys\n",
+            "Note": "\nPresented in the MS as consisting of two parts, each 24 lines long. Both\n                    have titles. \u2018Amen\u2019 occurs only at the end of the second\n                    one.",
+            "Attributed Title": "\n\u00feo sauter of ihesu (f. 142); \u00feo sauter of charyte (f.\n                    142)",
+            "Editions": "\nHarford,  D. \n             \u201cRichard of Caister and his Metrical Prayer.\u201d \n             Papers of the Norfolk and Norwich Archaelogical Society\n         17, Part II (1909): 221-44: 221-44.\n",
+            "folio": "ff. 142-142v"
+        },
+        "BodLatLitE47": {
+            "First Lines": "\nIhesu lord \u00feat madyst meAnd wyth \u00fei blissyd blood hath me\n                    bowth\u2026\n",
+            "Last Lines": "\n\u2026ffor whom I hawe hadde any goodAnd spare \u00feat \u00feei\n                    haue don amys\n",
+            "Attributed Author": "\nOracio magistri Ricardi Castre vic\u2019 in Norwico (f. 206)",
+            "Attributed Title": "\nOracio magistri Ricardi Castre vic\u2019 in Norwico (f. 206);\n                    \u2018Psalterium fraternitatis\u2019 for second six stanzas (f.\n                        206v)",
+            "Editions": "\nHarford,  D. \n             \u201cRichard of Caister and his Metrical Prayer.\u201d \n             Papers of the Norfolk and Norwich Archaelogical Society\n         17, Part II (1909): 221-44: 224-5.\n",
+            "folio": "ff. 206-207"
+        },
+        "BodLatMisC66": {
+            "First Lines": "\n\u2026And neuer I mot do that thyngethat shuld the in any wise\n                    displese\u2026\n",
+            "Last Lines": "\n\u2026ffor whome I haue had any goodAnd spare that thei haue don\n                    amys\n",
+            "Note": "\nBegins imperfectly at line 15.",
+            "Attributed Author": "\nExplicit liber quod Humfrey (f. 106)",
+            "Editions": "\nRobbins,  Rossell Hope. \n             \u201cThe Poems of Humphrey Newton, Esquire, 1466-1536.\u201d \n             PMLA\n         65 (1950): 249-81: 275-6.\n",
+            "folio": "f. 106"
+        },
+        "BodRawlite3": {
+            "First Lines": "\nIhesu lorde that madest me& with thi precious blode me\n                    bought\u2026\n",
+            "Last Lines": "\n\u2026al hem \u00feat I haue had any gode& spare hem \u00feat\n                    hathe doon amysse\n",
+            "Editions": "\nHarford,  D. \n             \u201cRichard of Caister and his Metrical Prayer.\u201d \n             Papers of the Norfolk and Norwich Archaelogical Society\n         17, Part II (1909): 221-44: 221-44.\n",
+            "folio": "ff. 123v-124v"
+        },
+        "OxfMert204": {
+            "First Lines": "\nIhesu lord that madest meAnd with thi blessed blod has me\n                    bo\u021dt\u2026\n",
+            "Last Lines": "\n\u2026ffor whome I haue had any goodeAnd spare hem \u00feat\n                    \u00feei haue don amys\n",
+            "Note": "\nWith heading attributing to Richard Castre, and major break between\n                    stanzas 6 and 7 with the heading, \u2018Psalterium caritatis fraterne\u2019;\n                    and at the end of verse and prose text on this folio in the same hand: \u2018J\n                    Gisburgh\u2019.",
+            "Attributed Author": "\nOracio magistri Ricardi Castre quam ipse composuit (f. 211);\n                        Psalterium caritatis fraterne (at head of second six\n                    stanzas)",
+            "Editions": "\nHarford,  D. \n             \u201cRichard of Caister and his Metrical Prayer.\u201d \n             Papers of the Norfolk and Norwich Archaelogical Society\n         17, Part II (1909): 221-44: 221-44.\n",
+            "folio": "f. 211"
+        },
+        "CULIi643": {
+            "First Lines": "\nihesu lorde \u00feat madyst meAnd with \u00fey blysfull blood hast\n                    bou\u021dt\u2026\n",
+            "Last Lines": "\n\u2026ffor \u00fee wheche y haue had anye goodAnd spare \u00feat\n                    \u00feey han don amysse Amen\n",
+            "Attributed Title": "\nOracio bona de Ihesu (f. 92v)",
+            "Editions": "\nHarford,  D. \n             \u201cRichard of Caister and his Metrical Prayer.\u201d \n             Papers of the Norfolk and Norwich Archaelogical Society\n         17, Part II (1909): 221-44: 221-44.\n",
+            "folio": "ff. 92v-93v"
+        },
+        "CamFitz40-1950": {
+            "First Lines": "\nIhesu lorde that madest meAnd with thy blessed blode hast\n                    bought\u2026\n",
+            "Last Lines": "\n\u2026Here & spede my prayeresAnd spare me that I be not\n                    spilt\n",
+            "Note": "\nWith marginal note \u2018Pater noster\u2019 to left of each stanza;\n                    added by a contemporary hand; 6 x 4, abab.",
+            "folio": "ff. 134-134v"
+        },
+        "CamSidney80": {
+            "First Lines": "\nJhesu as thow madest me& with thi blessed blode hast me\n                    bouth\u2026\n",
+            "Last Lines": "\n\u2026That y haue had of eny godeAnd for \u021deue hem that han don\n                    amysse Amen\n",
+            "Editions": "\n\nHarford,  D. \n             \u201cRichard of Caister and his Metrical Prayer.\u201d \n             Papers of the Norfolk and Norwich Archaelogical Society\n         17, Part II (1909): 221-44: 221-44.\nJames,  Montague Rhodes. \n             A Descriptive Catalogue of manuscripts in the Library of Sidney Sussex\n                College, Cambridge.\n         Cambridge: at the UP, 1895: 65-6.\n\n",
+            "folio": "ff. 120v-122"
+        },
+        "CamTCC305": {
+            "First Lines": "\nIhesu lord \u00feat made me& wi\u00fe \u00fei blisful blood\n                    hast bou\u021dt\u2026\n",
+            "Last Lines": "\n\u2026And whom I haue had ony good& space al cristen \u00feat\n                    doon amysse\n",
+            "Note": "\nWritten 2 lines to a line of MS.",
+            "Editions": "\nHarford,  D. \n             \u201cRichard of Caister and his Metrical Prayer.\u201d \n             Papers of the Norfolk and Norwich Archaelogical Society\n         17, Part II (1909): 221-44: 221-44.\n",
+            "folio": "f. 162v"
+        },
+        "BLAru285": {
+            "First Lines": "\nIhesu lord that maid meAnd with thy blissit blude hes bocht\u2026\n",
+            "Last Lines": "\n\u2026ffor quhom I haue had ony gudAnd forgyf \u00feame all thair miss\n",
+            "Attributed Title": "\nAne orisoun to \u00fee Naim of Ihesu Crist (rubric, bottom f. 176v)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Arundel MS 285.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Arundel_MS_285. \n",
+            "Editions": "\n\nHarford,  D. \n             \u201cRichard of Caister and his Metrical Prayer.\u201d \n             Papers of the Norfolk and Norwich Archaelogical Society\n         17, Part II (1909): 221-44: 221-44.\nBennett,  Jack Arthur Walter,\n                        ed.  \n             Devotional Pieces in Verse and Prose from Ms. Arundel 285 and Ms.\n                Harleian 6919.\nScottish Text Society\n         3rd ser. 23. Edinburgh: Blackwood, 1955: 277-8.\n\n",
+            "folio": "ff. 177-178"
+        },
+        "BLCottVesAXXV": {
+            "First Lines": "\nIhesu lorde as me made and with \u00fee precious blode me beghtFor\n                    gyf me \u00feat I haue greuyd ye In worde werke wyl or\n                    thoght\u2026\n",
+            "Last Lines": "\n\u2026Ihesu on to thy mercy \u00feu take vs synners \u00feat for grace\n                    doth prayqwen we schall for ouer dedys qwake a for \u00fee lorde on\n                    domysday\n",
+            "Note": "\n8 stanzas.",
+            "Editions": "\n\nB\u00f6ddeker,  Karl. \n             \u201cEnglische Lieder und Balladen aus dem 16. Jahrhundert.\u201d \n             Jahrbuch f\u00fcr romanische und englische Sprache- und\n                Literatur\n         14 (or n.f. 2) (1875): 81-105 [933]: 111.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 98-100.\n\n",
+            "folio": "f. 171"
+        },
+        "BLHarChart": {
+            "Editions": "\n\nHarford,  D. \n             \u201cRichard of Caister and his Metrical Prayer.\u201d \n             Papers of the Norfolk and Norwich Archaelogical Society\n         17, Part II (1909): 221-44: 221-44.\nDavies,  Reginald Thorne. \n             Medieval English Lyrics: a critical anthology.\n         London, 1963; Evanston, IL: Northwestern UP, 1964: 146-8.\n\n",
+            "folio": ""
+        },
+        "Lam853": {
+            "First Lines": "\nIHesu lord that madist meAnd wi\u00fe \u00fei blessid blood hast\n                    bou\u021dtffor\u021deue \u00feat y haue greued \u00feeeWith worde with\n                    wil & eek with \u00feou\u021dt\u2026\n",
+            "Last Lines": "\n\u2026Ihesu for \u00dei blessidful bloodBringe if \u00feou wolt\n                    \u00deo soulis to blisffor whom y haue had ony goodAnd spare \u00feat\n                    \u00feei han do a mys. Amen\n",
+            "Note": "\nWritten as prose.",
+            "Attributed Title": "\nOracio magistri Richardi de castre quam ipse posunt (p. 28,\n                    rubric)",
+            "Editions": "\n\nHarford,  D. \n             \u201cRichard of Caister and his Metrical Prayer.\u201d \n             Papers of the Norfolk and Norwich Archaelogical Society\n         17, Part II (1909): 221-44: 221-44.\nFurnivall,  Frederick James,\n                        ed.  \n             Hymns to the Virgin and Christ\u2026and other religious poems.\nEETS\n         o.s. 24 (1867); repr. 1973: 15-17.\nW\u00fclker,  Richard Paul,\n                        ed.  \n             Altenglisches Lesebuch.\n         2 vols. in one. Halle: Lippert, 1874, 1880: 2.5-6.\nPatterson,  Frank A. \n             The Middle English Penitential Lyric.\nColumbia University Studies in English.\n         New York: Columbia Press, 1911: 129-31.\n\n",
+            "folio": "pp. 28-30"
+        },
+        "Longleat30": {
+            "First Lines": "\nIhesu for hem I the besecheThat wrathen \u00fei in any\n                    wyse\u2026\n",
+            "Last Lines": "\n\u2026ffro whom I haue had any goodAnd spare \u00feat \u00feei haue\n                    done amysse Amen\n",
+            "Note": "\n13 stanzas, order reversed.",
+            "Attributed Title": "\nOracio magistri Richardi de castre quam ipse composuit (f. 20,\n                    preceding usual opening stanza: \u2018Ihesu lord \u00feat madeste\n                    me\u2026\u2019).",
+            "Editions": "\nHarford,  D. \n             \u201cRichard of Caister and his Metrical Prayer.\u201d \n             Papers of the Norfolk and Norwich Archaelogical Society\n         17, Part II (1909): 221-44: 221-44.\n",
+            "folio": "ff. 19v-20v"
+        },
+        "NLWPen53": {
+            "folio": "p. 103"
+        },
+        "Plimpton80": {
+            "First Lines": "\nIhesu lorde that madyst meAnd wyth thy blode me\n                    bowght\u2026\n",
+            "Last Lines": "\n\u2026Schew hem thy mercy there payne releceSwete lord for thy\n                    mageste\n",
+            "Note": "\n15 x 4.",
+            "Editions": "\nDrake,  W. T. Tyrwhitt. \n             \u201cEarly English Poem.\u201d \n             Notes and Queries\n         4th ser. 2 (1868): 576: (60 lines).\n",
+            "folio": "ff. 154-155v"
+        },
+        "YaleBei163": {
+            "First Lines": "\nYhesu lorde \u00feat maydyst me& with thy precyus blode hast\n                    bousthe\u2026\n",
+            "Last Lines": "\n\u2026helpe me lady & all myne& shelde vs all fro hell\n                    pyne\n",
+            "Note": "\nWritten two lines of verse per line in MS.",
+            "folio": "f. 193v"
+        },
+        "HunHM142": {
+            "First Lines": "\nIhesu for hem I the besecheThan wrehen the in any\n                    wyse\u2026\n",
+            "Last Lines": "\n\u2026ffor whom I haue had any goodAnd spare \u00feat \u00feei haue\n                    doone amysse\n",
+            "Note": "\nOracio Magistri Castre quam ipse composuit (f. 17, after first\n                    six quatrains), then seventh begins, \u2018Ihesu lord that madeste me / And\n                    with \u00fei blessid blode haste bought\u2026\u2019.",
+            "Attributed Author": "\nOracio Magistri Castre quam ipse composuit (f. 17, after first six\n                    quatrains)",
+            "Attributed Title": "\nOracio Magistri Castre quam ipse composuit (f. 17, after first six\n                    quatrains)",
+            "folio": "ff. 16v-17v"
+        },
+        "Mazar514": {
+            "First Lines": "\nIesu lorde \u00feat madyst meAnd wyt thy blesyt blode hasse\n                    boght\u2026\n",
+            "Last Lines": "\n\u2026Of wom I haue hade ony godeAnd spare \u00feat \u00feay haue\n                    done amisse\n",
+            "Note": "\n48 lines, plus two additional; f. 146, between stanzas 6 and\n                    7.",
+            "folio": "ff. 145v-146v"
+        },
+        "TokyoTak17": {
+            "First Lines": "\nJhesu lorde \u00feat madyste meAnd with \u00fei precious blode me\n                    bought\u2026\n",
+            "Last Lines": "\nScele \u00feis werys & lende vs peceWith lasting loue &\n                    charyte\n",
+            "folio": "ff. 1-1v"
+        },
+        "Islip": {
+            "folio": ""
+        }
+    }
+}

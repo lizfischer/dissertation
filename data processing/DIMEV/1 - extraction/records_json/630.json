@@ -1,0 +1,29 @@
+{
+    "_id": 630,
+    "_header": "As I walked upon a day / To take the air of field & flower",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler .",
+    "Subjects": "contemporary conditions; sins, deadly; chansons d\u2019aventure",
+    "Versification": "\u2014 twelve-line \u2014 ababababbcbc",
+    "_description": "Give me License to live in Ease \u2014 eleven 12-line stanzas with refrain phrase \u2018to lyue in ease.\u2019",
+    "_witnesses": {
+        "CULFf16": {
+            "First Lines": "\nAs I walkyd a pon a dayTo take the eyre of fylde &\n                    floureApon a mylde mornyng of mayWhen floures ben full of swete\n                    savoure\u2026\n",
+            "Last Lines": "\n\u2026In that worthy blys that we may dwellAnd gyff vs all lysens\n                    to lyve in ease\n",
+            "Attributed Author": "\nquod lewestone (f. 58v)",
+            "Attributed Title": "\nExplicit in veritate Da michi quod merui (f.\n                    58v)",
+            "Facsimiles": "\nBeadle,  Richard,  and  Alfred E. B. Owen.  \n             The Findern Manuscript: Cambridge University Library MS. F.1.6.\n         London: Scolar Press, 1977. \n",
+            "Editions": "\n\nHalliwell-Phillipps,  James Orchard. \n             Nugae Poeticae: Select Pieces of Old English Popular Poetry,\n                Illustrating the Manners and Arts of the Fifteenth Century.\n         London: J. R. Smith, 1844: 64-7.\nFurnivall,  Frederick James,\n                        ed.  \n             Political, Religious and Love Poems, from Lambeth MS. 306 and other\n                sources.\nEETS\n         o.s. 15 (1866); repr. 1962; rev. ed. 1903: 244-8.\n\n",
+            "folio": "ff. 56v-58v"
+        },
+        "BLSl747": {
+            "folio": "ff. 95-96"
+        },
+        "HunHM183": {
+            "First Lines": "\nAs I walkyd vppon a dayTo take \u00fee aere off feld and\n                    flowre\u2026\n",
+            "Last Lines": "\n\u2026And withyn his gloryus blysse thatt we all may dwellAnd geve\n                    vs there licence to lyve yn ese\n",
+            "Note": "\nWritten as prose; nineteenth-century transcript by Haslewood in London,  British Library Addit. 11307, f. 121.",
+            "Editions": "\n\nBrydges,  Sir Samuel Egerton. \n             Censura Literaria.\n         10 vols. London: Longman, 1805-09; 2nd ed., 1815: 8.77-81.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 273-7.\n\n",
+            "folio": "f. 5ra-5rb"
+        }
+    }
+}

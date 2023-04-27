@@ -1,0 +1,25 @@
+{
+    "_id": 3748,
+    "_header": "Now hath ye heard both old and young",
+    "Note": "For other MSS without a prologue, see 3245; for others with a 16-line Prologue, see 3122.",
+    "Subjects": "prognostications; didactic verse",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Prognostics from the day on which Christmas falls, with a 32-line prologue \u2014 in couplets.",
+    "_witnesses": {
+        "BodDig88": {
+            "First Lines": "\nNow hathe ye harde bothe olde & yongeDiscriuede many a dyuers\n                    thyng\u2026\n",
+            "Last Lines": "\n\u2026What woman that day of childe travaileThey shall bothe be in\n                    grete paraile amen\n",
+            "Note": "\nFormerly listed under 3122.",
+            "Editions": "\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 63-7.\n",
+            "folio": "ff. 75-76v"
+        },
+        "BLHar1735": {
+            "First Lines": "\nNOw haue \u00fee herd bo\u00fen held & yungDyscryeyed many\n                    dyuers thing\u2026\n",
+            "Last Lines": "\n\u2026Leue vs so to don quat so be falle\u00deat we to hys blys mon\n                    come alle\n",
+            "Note": "\nThe first transcription includes the Prologue, 32 lines; the second is\n                    the text 120 lines; formerly listed under 3122. Folio number reflects the most recent\n                    foliation.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 1735.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_1735. \n",
+            "Editions": "\nMooney,  Linne R. \n             \u201cPractical Didactic Works in Middle English.\u201d \n         Diss. Toronto, 1981: 300-16.\n",
+            "folio": "ff. 12v;  13v-16v"
+        }
+    }
+}

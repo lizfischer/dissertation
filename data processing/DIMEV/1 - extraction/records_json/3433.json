@@ -1,0 +1,348 @@
+{
+    "_id": 3433,
+    "_header": "Mary mother well thou be / Mary maiden think on me",
+    "Note": "For an expansion into long lines see 3423.",
+    "Title(s)": "Speculum Christiani (Octaua Tabula)",
+    "Subjects": "Virgin Mary, prayers to; prayers, to Virgin Mary",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "An orison to the Virgin Mary in the Speculum Christiani (Octaua Tabula) \u2014 twenty-seven couplets",
+    "_witnesses": {
+        "BodAddA268": {
+            "First Lines": "\nMArie moder wele \u00feou bemary maiden \u00feenke on memaiden\n                    & moder was neuer nonto geder ladie but \u00feou\n                    allon\u2026\n",
+            "Last Lines": "\n\u2026& shilde me out of dedly synne\u00feat I be neuer taken\n                    \u00feer inne\n",
+            "Note": "\nIn the Speculum.",
+            "Attributed Title": "\nOracio ad sanctam Mariam (f. 63)",
+            "folio": "ff. 63-64"
+        },
+        "BodAsh61": {
+            "First Lines": "\nMary moder wele \u00feu beMary moder thinke on meModer and\n                    mayd was neuer noneIn \u00feis werld bot \u00feu A lone\u2026\n",
+            "Last Lines": "\n\u2026That I may fynd it so beAmen Amen for charyte\n",
+            "Note": "\nOccurs separately, 41 lines.",
+            "Editions": "\n\nRobbins,  Rossell Hope. \n             \u201cPrivate Prayers in Middle English Verse.\u201d \n             Studies in Philology\n         36 (1939): 466-75: 468-9.\nShuffleton,  George. \n             Ashmole 61: A Compilation of Popular Middle English Verse.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008: 73-4; 454-6; 602.\n\n",
+            "folio": "ff. 22v-23"
+        },
+        "BodAsh750": {
+            "First Lines": "\nMary moder well the beMary maden \u00feenk on\n                    me\u2026\n",
+            "Last Lines": "\n\u2026And schelde me oute of dedely synne\u00feat I be neuer taken\n                    \u00fear Inne\n",
+            "Note": "\nOccurs separately, at the end: \u2018Amen\u2019.",
+            "folio": "ff. 100-100"
+        },
+        "Bod89": {
+            "First Lines": "\nMary moder wele you beMary mayden thenke on me\u2026\n",
+            "Last Lines": "\n\u2026And shelde me oute of dedly synneThat I be neuer taken\n                    \u00feer Inne\n",
+            "Note": "\nIn the Speculum.",
+            "Attributed Title": "\nOracio de beata virgine maria (f. 26v)",
+            "folio": "ff. 26v-27v"
+        },
+        "Bod61": {
+            "First Lines": "\nMary modyr wele \u00fee beMary mayden thynk one\n                    me\u2026\n",
+            "Last Lines": "\n\u2026And schyld me owt of dedely synne\u00feat y be neuer takyn\n                    \u00feer Inne\n",
+            "Note": "\nIn the Speculum.",
+            "folio": "ff. 28v-29v"
+        },
+        "Bod850": {
+            "First Lines": "\nMary modir well thowe bemary mayde haue mercy on\n                    me\u2026\n",
+            "Last Lines": "\n\u2026Beseche for me \u00feat I haue graceIn heuen for to haue a\n                    place\n",
+            "Note": "\nOccurs separately; written as prose.",
+            "folio": "ff. 92vb-93vb"
+        },
+        "BodEngTheole16": {
+            "First Lines": "\nMary moder wel thou beMary mayden think on me\u2026\n",
+            "Last Lines": "\n\u2026And schyld me out of dedly synneThat I be neuer take\n                    \u00feerInne\n",
+            "Note": "\nIn the Speculum.",
+            "folio": "ff. 42-43"
+        },
+        "BodHat97": {
+            "First Lines": "\nMAry mo\u00feer wel \u00feow beMary maydyn thynke on\n                    me\u2026\n",
+            "Last Lines": "\n\u2026And schyld me owt of dedly syn\u00feat I be neuer takyn\n                    \u00feer in\n",
+            "Note": "\nIn the Speculum.",
+            "folio": "f. 33v"
+        },
+        "BodLauMis513": {
+            "First Lines": "\nMAry modyr wel \u00feow beMary mayden \u00feink on\n                    me\u2026\n",
+            "Last Lines": "\n\u2026And schelde me owt of dedly synne\u00feat I be neuyr takyn\n                    \u00feer ynne\n",
+            "Note": "\nIn the Speculum.",
+            "folio": "ff. 78-79"
+        },
+        "BodLauMis104": {
+            "First Lines": "\nMAry moder wele thou beMary mayden thenk on me\u2026\n",
+            "Last Lines": "\n\u2026And schylde me out of dedly synneThat I be neuer take ther\n                    ynne\n",
+            "Note": "\nIn the Speculum.",
+            "folio": "f. 12v"
+        },
+        "BodLye30": {
+            "First Lines": "\nMary modur well thou beeMary mayde thynke on me\u2026\n",
+            "Last Lines": "\n\u2026And that he graunt me that graceIn heuen for to haue a\n                    place\n",
+            "Note": "\nTwo fragments, 44 lines only; occurs separately.",
+            "folio": "ff. 142-143"
+        },
+        "BodRawC401": {
+            "First Lines": "\nMarye moder wele \u00feou beMarye mayden thenk on\n                    me\u2026\n",
+            "Last Lines": "\n\u2026And shelde me out of dedely synneThat I be neuer takyn\n                    \u00feer ynne\n",
+            "Note": "\nIn the Speculum.",
+            "folio": "ff. 12-12va"
+        },
+        "BodRawlitg2": {
+            "First Lines": "\nMarie moder wel the beMarie mayde \u00feenk on me\n                    \u2026\n",
+            "Last Lines": "\n\u2026And that we mote thider wendeTher ioie is with outen ende\n                    Amen\n",
+            "Note": "\nLines 1-48; occurs separately; written as prose.",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 216-17.\nStevick,  Robert D.,\n                        ed.  \n             One Hundred Middle English Lyrics.\n         Indianapolis: Bobbs-Merrill, 1964: 77-8.\nSaupe,  Karen,\n                        ed.  \n             Middle English Marian\n                    Lyrics.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1998: 121-2; 244-5.\n\n",
+            "folio": "ff. 4v-6"
+        },
+        "CULAdd6150": {
+            "First Lines": "\nMarie moder wel thou beMarie mayden \u00feenk on\n                    me\u2026\n",
+            "Last Lines": "\n\u2026And schild me out of dedli synneThat I be neuere takyn\n                    \u00feer ynne\n",
+            "Note": "\nIn the Speculum.",
+            "Attributed Title": "\nOracio ad sanctam Mariam (f. 20v)",
+            "folio": "ff. 20v-21v"
+        },
+        "CULDd1426": {
+            "First Lines": "\nMary moder wele \u00feou beMary mayden thenke onn\n                    me\u2026\n",
+            "Last Lines": "\n\u2026Ac shelde me out of dedely synneThat I be neuer takyn\n                    \u00feer inne Amen\n",
+            "Note": "\nIn the Speculum.",
+            "folio": "Part III, ff. 41-42v"
+        },
+        "CULFf114": {
+            "First Lines": "\nMAri modir wele \u00feu beMary madyne thynke on\n                    me\u2026\n",
+            "Last Lines": "\n\u2026And sheld me oute of dedly synneThat I be neuer takyn\n                    \u00feer ynne\n",
+            "Note": "\nIn the Speculum.",
+            "folio": "ff. 68-69"
+        },
+        "CULFf548": {
+            "First Lines": "\nMary moder wel \u00feu beMary mayden thynk on\n                    me\u2026\n",
+            "Last Lines": "\n\u2026Andkepe me out of dedly synneThat I be neuer takyn \u00feer\n                    In\n",
+            "Note": "\nOccurs separately.",
+            "Editions": "\n\nMarsh,  George Perkins. \n             Origin and History of the English Language.\n         New York: C. Scribner\u2019s Sons, 1866: 465.\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 2.212-3.\nDowning,  Janay Young A.,\n                        ed.  \n             \u201cA Critical Edition of Cambridge University MS Ff.5.48.\u201d \n         2 vols. Diss. University of Washington, 1969: 205-7.\n\n",
+            "folio": "ff. 74v-75v"
+        },
+        "CULHh113": {
+            "First Lines": "\nMary modre wele thou beMary modre thenke on me\u2026\n",
+            "Last Lines": "\n\u2026And shilde me oute of dedely synneThat I be neuer take ther\n                    Inne\n",
+            "Note": "\nIn the Speculum.",
+            "folio": "ff. 42v-44"
+        },
+        "CULIi643": {
+            "First Lines": "\nmArye modyr well l\u00feu beMarye mayden \u00feu \u00feenke on\n                    me\u2026\n",
+            "Last Lines": "\n\u2026And \u00feat he send me graceIn heuen to haue a place\n                    Amen\n",
+            "Note": "\n23 stanzas; occurs separately.",
+            "Attributed Title": "\nOracio bona de sancta maria sequens (f. 93v)",
+            "folio": "ff. 93v-94v"
+        },
+        "CamJes51": {
+            "First Lines": "\nMary moder wele \u00fee beMary moder thynk on\n                    me\u2026\n",
+            "Last Lines": "\n\u2026And saue me owt of dedely synneThat I neuer be takyn\n                    \u00feere In Amen\n",
+            "Note": "\nIn the Speculum.",
+            "folio": "ff. 23v-24"
+        },
+        "CamPem285": {
+            "First Lines": "\nMarie moder wil (sic) thou beMarie and moder thenke on\n                    me\u2026\n",
+            "Last Lines": "\n\u2026And schilde me ou\u021dt of dedely synneThat I be neuere take\n                    \u00feereynne amen\n",
+            "Note": "\nIn the Speculum.",
+            "folio": "ff. 26v-27v"
+        },
+        "CamStJohn176": {
+            "First Lines": "\nMary moder wele \u00feu beMare maydyn thynk on\n                    me\u2026\n",
+            "Last Lines": "\n\u2026And kepe me oute of dedely syn\u00deat I be neuyr takyn\n                    \u00feer In\n",
+            "Note": "\nLast line followed by \u2018Pater noster & aue quinquies / Et crede\n                    in deum to dices. Amen\u2019.",
+            "folio": "ff. 24-25"
+        },
+        "CamSidney55": {
+            "First Lines": "\nMAry modir well thu beMary mayden thynke one me\u2026\n",
+            "Last Lines": "\n\u2026And schelde me out of dedely synneThat I beneuer taken\n                    \u00fear Inne\n",
+            "Note": "\nIn the Speculum.",
+            "folio": "ff. 23v-24v"
+        },
+        "BLAdd10052": {
+            "First Lines": "\nMary modyr well thou beMary mayden thenk on me\u2026\n",
+            "Last Lines": "\n\u2026and shilde me out of deedly synneThat I be neuir take ther\n                    ynne\n",
+            "Note": "\nIn the Speculum.",
+            "folio": "ff. 49-50"
+        },
+        "BLAdd15237": {
+            "First Lines": "\nMAry modyr wel \u00feou beMary maydyn thou thynke on\n                    me\u2026\n",
+            "Last Lines": "\n\u2026And shylde me lady fro all synneThat I neuer be take there\n                    ine\n",
+            "Note": "\nIn the Speculum. Written as prose.",
+            "folio": "f. 8"
+        },
+        "BLAdd21202": {
+            "First Lines": "\nMary modyr welle thou beMary modir thenk on me\u2026\n",
+            "Last Lines": "\n\u2026And schilde me oute of deedely synneThat y be neuer take ther\n                    ynne\n",
+            "Note": "\nIn the Speculum.",
+            "folio": "ff. 40v-42"
+        },
+        "BLAdd22121": {
+            "First Lines": "\nMAry modir well thou beMary modir thynk on me\u2026\n",
+            "Last Lines": "\n\u2026And shulde me oute of dedely synneThat I be neuer take there\n                    ynne\n",
+            "Note": "\nIn the Speculum.",
+            "folio": "ff. 42-43v"
+        },
+        "BLAdd37787": {
+            "First Lines": "\nMari moder wel \u00fee beMari mayden \u00feu \u00feenke on\n                    me\u2026\n",
+            "Last Lines": "\n\u2026Helpe me leuedi of \u00fei graceIn heuene forto haue a\n                    place\n",
+            "Note": "\n34 lines; an abridgement of London,  British Library Royal 17 A.XXVII and London,  British Library Addit. 39574, occurring separately.",
+            "Editions": "\nBaugh,  Nita Scudder. \n             A Worcestershire Miscellany, compiled by John\n                    Northwood, c. 1400, edited from British Museum MS. Add.\n                37,787.\n         Philadelphia, 1956: 143-4.\n",
+            "folio": "ff. 156v-157v"
+        },
+        "BLAdd39574": {
+            "First Lines": "\nMArye modir wel \u00feee beMarye modir \u00feinke on\n                    me\u2026\n",
+            "Last Lines": "\n\u2026And helpe me to haue \u00feat ilk blisseThat neuere schal\n                    mysse\n",
+            "Note": "\n52 lines; occurs separately.",
+            "Editions": "\nDay,  Mabel,\n                        ed.  \n             The Wheatley Manuscript: Middle English Verse and Prose in British\n                Museum MS. Additional 39574.\nEETS\n         o.s. 155 (1921; repr. 1971): 74-5.\n",
+            "folio": "ff. 58r2-59v"
+        },
+        "BLHar206": {
+            "First Lines": "\nMary moder weill \u00feou beMary maydyn thynk on\n                    me\u2026\n",
+            "Last Lines": "\n\u2026And schild me out of dedly synn\u00deat I be neuer takyn\n                    \u00feer in\n",
+            "Note": "\nIn the Speculum.",
+            "folio": "ff. 43v-44v"
+        },
+        "BLHar1288": {
+            "First Lines": "\nMAry moder well \u00feou beMary madyn thynke on\n                    me\u2026\n",
+            "Last Lines": "\n\u2026Swete lady ful of wynneffull of grace and god with\n                    inne\n",
+            "Note": "\nIn the Speculum; last 4 lines wanting.",
+            "folio": "ff. 16-16v"
+        },
+        "BLHar2382": {
+            "First Lines": "\nMary moder well thu beMary mayden thenk on me\u2026\n",
+            "Last Lines": "\n\u2026and kepe me out of dedly synnethat I be not y take ther\n                    ynne\n",
+            "Note": "\nUsually in Speculum Christiani, Octava Tabula, but here extracted\n                    and occurring separately; ends \u2018Amen\u2019 and\n                        \u2018Explicit\u2019 (f. 87)",
+            "Attributed Title": "\nOracio Sanctam Mariam (ff. 86v-87, in upper margin, as\n                    running title, by scribe)",
+            "Editions": "\n\nWarton,  Thomas. \n             The History of English Poetry.\n         London, 1824; rev. ed., \n                William Carew\n                Hazlitt\n             London, 1871: 3.153.\nPatterson,  Frank A. \n             The Middle English Penitential Lyric.\nColumbia University Studies in English.\n         New York: Columbia Press, 1911: 139-41.\n\n",
+            "folio": "ff. 86v-87"
+        },
+        "BLHar5396": {
+            "First Lines": "\nMare moder wele \u00feu beMare maydyn thynk on me>\u2026\n",
+            "Last Lines": "\n\u2026And kepe me owt of dedly synneThat I be neuyr takyn \u00feere yn\n",
+            "Note": "\nThis witness standing alone, not in the Speculum Christiani; ends \u201cExplicit.\u201d",
+            "Attributed Title": "\nAn Hymne to our Lady (added to upper margin by a later hand, f. 274v)",
+            "folio": "ff. 274v-275v"
+        },
+        "BLHar6580": {
+            "First Lines": "\nMAry moder wele thou beMary moder thynk on me\u2026\n",
+            "Last Lines": "\n\u2026And schilde me oute of dedly synneThat I be neuer take ther\n                    inne\n",
+            "Note": "\nIn the Speculum Christiani; written as prose.",
+            "Editions": "\nHolmstedt,  Gustaf,\n                        ed.  \n             Speculum Christiani.\nEETS\n         o.s. 182 (1933); repr. 1988: 160-9, 336-40.\n",
+            "folio": "ff. 35v-36"
+        },
+        "BLLan344": {
+            "First Lines": "\nMari modir wel \u00feou beMari modir \u00feenke on\n                    me\u2026\n",
+            "Last Lines": "\n\u2026And schilde me oute of dedli synne\u00deat y be neuere take\n                    \u00feere inne\n",
+            "Note": "\nIn the Speculum. Folios have been re-numbered to include the\n                    flyleaves, and foliation here refers to the new numbers.",
+            "Editions": "\nHolmstedt,  Gustaf,\n                        ed.  \n             Speculum Christiani.\nEETS\n         o.s. 182 (1933); repr. 1988: 160-9, 336-40.\n",
+            "folio": "ff. 38v-39"
+        },
+        "BLRoy8Ev": {
+            "Note": "\nIn the Speculum.",
+            "folio": "f. 27v"
+        },
+        "BLRoy17Axxvii": {
+            "Note": "\nExpanded recension; occurs separately.",
+            "folio": "f. 82"
+        },
+        "Ushaw28": {
+            "First Lines": "\nMary modir wel \u00feow bemary meyden \u00feinke on\n                    me\u2026\n",
+            "Last Lines": "\n\u2026And shelde me out of deedly syn\u00feat i neuer e takyn\n                    \u00feer in\n",
+            "Note": "\nIn the Speculum.",
+            "Editions": "\n\nBridgett,  Thomas Edward. \n             Our Lady\u2019s Dowry.\n         3rd ed. London: Burns & Oates; New York: Catholic Publishing\n            Society, 1890. \nBonney,  Edward,\n                        ed.  \n             \u201cSome Prayers and Prayer-books of our Forefathers.\u201d \n             Ushaw Magazine\n         12 (1902): 279-80: 286-7.\n\n",
+            "folio": "ff. 105v-107"
+        },
+        "Lam559": {
+            "First Lines": "\nMAri modir wel \u00feow bemodir and mayde thenke on\n                    me\u2026\n",
+            "Last Lines": "\n\u2026Ladi as I aske in the thes prayersthou graunt me that we mow\n                    haue that blisthat euere shal last with oute mis\n",
+            "Note": "\nOccurs separately. Written as prose",
+            "Editions": "\nHolmstedt,  Gustaf,\n                        ed.  \n             Speculum Christiani.\nEETS\n         o.s. 182 (1933); repr. 1988: 160-9, 336-40.\n",
+            "folio": "ff. 19-21"
+        },
+        "Longleat29": {
+            "First Lines": "\nMary modyr wel \u00fee be Mary modyr \u00feou \u00feynke on meModyr\n                    & Maid was neuere none To gyddyr mary bot \u00feou alo[ne?\n                    (gutter)]\n",
+            "Last Lines": "\n\u2026Mary I fiche me in the \u00feis prayer graunt \u00feou to\n                    meAnd help me to haue \u00feat ilk blisse \u00feat euer lesteth without\n                    myssheAMEN\n",
+            "Note": "\nOccurs separately.",
+            "folio": "f. 57v;  57"
+        },
+        "Longleat30": {
+            "First Lines": "\nMAry moder wel thow beMary moder thenke on me\u2026\n",
+            "Last Lines": "\n\u2026And kepe me out of dedly synneThat I be neuer take ther ynne\n                    Amen\n",
+            "Note": "\nOccurs separately.",
+            "Attributed Title": "\nSivis dei graciam & vitam eternam obtinere dic / quotidie istam\n                        oracionem sequentem de sancta maria / mater domini nostri ihesu cristi\n                        Oracio (f. 21v)",
+            "folio": "ff. 21v-22v"
+        },
+        "Chetham8009": {
+            "First Lines": "\nMary moder well thou beMary mayden think on me\u2026\n",
+            "Last Lines": "\n\u2026Shryfte and housell at myn endTo hevyn blis that I may\n                    wend\n",
+            "Note": "\nOccurs separately.",
+            "Attributed Title": "\nApayde of oure lady. Explicith\n",
+            "Editions": "\nF\u00f6rster,  Max. \n             \u201cKleinere mittelenglische texte.\u201d \n             Anglia\n         42 (1918): 145-224; 43 (1919): 191: 172-5.\n",
+            "folio": "ff. 121-121v"
+        },
+        "BlairsColl22": {
+            "First Lines": "\nMAry mayden wel \u00feow beMary modyr thenke on\n                    me\u2026\n",
+            "Last Lines": "\n\u2026And saue me owte of dedely synne\u00deat I be neuer takyn\n                    \u00feere Inne\n",
+            "folio": "ff. 15-16v"
+        },
+        "YaleBei163": {
+            "Note": "\nOccurs separately.",
+            "folio": "f. 186v"
+        },
+        "YaleBeiOsfa2": {
+            "First Lines": "\n[M]ary moder wel \u00feu beMary mayden thenke on\n                    me\u2026\n",
+            "Last Lines": "\n\u2026And schelde me out of dedely synne\u00feat I be neuer takyn\n                    \u00feer ynne\n",
+            "Note": "\nIn the Speculum.",
+            "Attributed Title": "\nOracio ad sanctam mariam (f. 84)",
+            "folio": "ff. 84-85"
+        },
+        "PULSchei127": {
+            "First Lines": "\nMary moder well \u00feu beEuere mylde \u00feenk on meModer\n                    & mayde was neuer noneTo geder lasy but the oneMary moder &\n                    mayde cleneShyld me fro Sorowe & tene\u2026\n",
+            "Last Lines": "\n\u2026Shild me lady fro velonyAnd fro wyckyd companySwete\n                    moder & maide myelde\u2026\n",
+            "Note": "\nAdded to blank page at end of volume by a different hand of the\n                    fifteenth century; imperfect at end \u2014 only five 4-line stanzas rhyming\n                    aabb and first line of sixth. Not set out as stanzas, but 21 lines written one\n                    after the other without line break between stanzas. Previously registered in\n                        Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943 as 3279.",
+            "folio": "f. 91v"
+        },
+        "HunHM124": {
+            "First Lines": "\nMary modir wel thou beMary modir thenk on meMayden and modir\n                    was neuer nooneTo gedir lady but thou alone\u2026\n",
+            "Last Lines": "\n\u2026And schilde me out of deedely synneThat I be neuer take there\n                    ynne\n",
+            "Note": "\nIn the Speculum.",
+            "folio": "ff. 44-45"
+        },
+        "HunHM142": {
+            "First Lines": "\nMary moder et cetera\u2026\n",
+            "Last Lines": "\n\u2026Do my folyes for to blynneAnd kepe me oute of deedly\n                    synneThat I be neuer take ther Inne\n",
+            "Note": "\nLast three lines only, except for introductory words, as above, which\n                    follow the heading on f. 18v and may have been added\n                    later.",
+            "Attributed Title": "\nSi vis dei graciam et vitam rectam obtinere dic quotidie istam oracionem\n                        sequentem de sancta maria mater domini nostri ihesu cristi. Oracio (f.\n                        18v)",
+            "folio": "f. 19"
+        },
+        "Urbana71": {
+            "Note": "\nOccurs separately.",
+            "folio": ""
+        },
+        "TCD159": {
+            "First Lines": "\nMary moder welle \u00feu beMary mayden thenke on\n                    me\u2026\n",
+            "Last Lines": "\n\u2026And scheylde me owte of dedely synne\u00deat I be neuer take\n                    \u00feer Inne\n",
+            "Note": "\nIn the Speculum.",
+            "Attributed Title": "\n\nOracio ad sanctam Mariam\n",
+            "folio": "ff. 175-176"
+        },
+        "TCD351": {
+            "First Lines": "\nMAry modere wele \u00feu beMary mayden \u00feinke on\n                    me\u2026\n",
+            "Last Lines": "\n\u2026And schilde me owte of dedly synneThat I be neuer taken there\n                    Inne\n",
+            "Note": "\nIn the Speculum.",
+            "Attributed Title": "\n\nOracio ad sanctam Mariam\n",
+            "folio": "ff. 48v-49v"
+        },
+        "TokyoTak65": {
+            "folio": ""
+        },
+        "TokyoTak96": {
+            "First Lines": "\nMary modyr wel \u00feu beMary mayden \u00feenk on meMayden and\n                    modyr was neuer noneTo gedyr lady saue \u00feow alone\u2026\n",
+            "Last Lines": "\nAnd schild me out of dedly synne\u00feat I neuer be takyn \u00feer\n                    ynne\n",
+            "Note": "\nOccurs separately. Added \u2018Amen\u2019 on same line at\n                    end.",
+            "folio": "ff. 20-21"
+        },
+        "Borneman": {
+            "Note": "\nOccurs separately; possibly same as New Haven,  Yale University, Beinecke Library, Takamiya Deposit 65 [olim Goldschmidt Cat. 71, 1943, item 1, olim Greg, olim\n               Bradfer-Lawrence 8, olim Huth 153].",
+            "folio": ""
+        },
+        "PriO3": {
+            "Note": "\nIn the Speculum.",
+            "folio": ""
+        }
+    }
+}

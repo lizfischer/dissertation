@@ -1,0 +1,36 @@
+{
+    "_id": 2591,
+    "_header": "In that time thus befell / A false man began to spell",
+    "Note": "Occurs as lines 123-346 of 5800-1.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Simon Magus",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Simon Magus, a Narratio in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nIn \u00feat tyme \u00feus it be fellA fals man be gan to\n                    spell\u2026\n",
+            "Last Lines": "\n\u2026To \u00feat ilk blisse he vs bringe\u00feat for oure lufe on\n                    rode walde hinge\n",
+            "Attributed Title": "\nSymon magus (f. 253)",
+            "Editions": "\n\nHorstmann,  Carl. \n             Altenglische Legenden: Neue Folge.\n         Heilbronn: Henninger, 1881: 78-80.\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n\n",
+            "folio": "ff. 253-257v"
+        },
+        "CULDd11": {
+            "First Lines": "\nA fals prophete \u00feat was Symon cald& seyde he myhte don wht\n                    he wald\u2026\n",
+            "Last Lines": "\n\u2026Amen I rede we alle singeffor of \u00feat blisse is non\n                    endinge\n",
+            "Note": "\nVariant beginning, following 6087 without a break.",
+            "folio": "f. 146v"
+        },
+        "CULGg531": {
+            "First Lines": "\nIn \u00feat tyme \u00feus by fellA fals man by gan to\n                    spell\u2026\n",
+            "Last Lines": "\n\u2026Tyll \u00feat blys he bryng vsOure Lord dere swete ihesus\n                    Amen\n",
+            "Attributed Title": "\nHic Expliciunt Euangelia (f. 167)",
+            "folio": "ff. 164-167"
+        },
+        "HunHM129": {
+            "First Lines": "\nA fals prophete wos Symon caldAnd said he myght do what he\n                    wald\u2026\n",
+            "Last Lines": "\n\u2026And to \u00feat same blysfull bywystBrynge vs oure loure\n                    ihesu crist\n",
+            "Note": "\nNo heading or other indicator of separate text, so treated as part of\n                        5800.",
+            "folio": "ff. 215-218"
+        }
+    }
+}

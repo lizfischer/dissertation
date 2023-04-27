@@ -1,0 +1,29 @@
+{
+    "_id": 201,
+    "_header": "Abide good man and hold your peace / And hear what God Himselven says until",
+    "Subjects": "Christ, appeal of, to man",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "Appeal of Christ to man, \u2018O vos omnes qui transitis\u2019, etc. \u2014 three 6-line stanzas",
+    "_witnesses": {
+        "BodDonC13": {
+            "First Lines": "\nHabide gode men and hald \u021dou stilAnd here what god sais\n                    \u021dou vntil\u2026\n",
+            "Last Lines": "\n\u2026& in my mercie haue affiaunce& \u00feou sal haue\n                    grace\n",
+            "Note": "\nHeading naming speaker, \u2018Ihesus\u2019 (f. 165vb);\n                    followed by five stanzas of 3387.",
+            "folio": "f. 165vb"
+        },
+        "BodRawPoe175": {
+            "First Lines": "\nAbyde gud men & hald yhour paysAnd here what god him seluen\n                    says\u2026\n",
+            "Last Lines": "\n\u2026And in my mercy haue affyanceAnd \u00feou sall gett my\n                    grace\n",
+            "Note": "\nAccompanied by Latin, \u2018O uos omnes qui\n                    transitis\u2026\u2019, very faint.",
+            "Editions": "\n\nReed,  Ernest Bliss. \n             Christmas Carols Printed in the Sixteenth Century\nHuntington Library Publications.\n         Cambridge, MA: Harvard UP, 1932 [= Kele, ca. 1550]: 59-60.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 362-3.\nLuria,  Maxwell Sidney,  and  Richard L. Hoffman, eds.  \n             Middle English Lyrics.\n         New York: Norton, 1974: 215.\n\n",
+            "folio": "f. 80rb"
+        },
+        "BlCottGalEIX": {
+            "First Lines": "\nBides a while and haldes \u021doure paisand heres what god him\n                    seluen sais\u2026\n",
+            "Last Lines": "\n\u2026and in my mercy haue affianceand \u00feou sall get my\n                    grace\n",
+            "Note": "\n54 lines in 6-line stanzas, aabccb. Rubric Latin heading above first\n                    line: \u2018Vos qui transitis: si crimina flere nelitis / Per me transite:\n                        quia sum ianua inte\u2019.\n",
+            "Editions": "\n\nHall,  Joseph. \n             \u201cShort Pieces from MS Cotton Galba E.ix.\u201d \n             Englische Studien\n         21 (1895): 201-9: 207.\n Bad Key: Horstmann1895-6: 2.457.\nFr\u00f6hlich,  Walter. \n             De Lamentacione Sancte Marie: Eine englische Dichtung des 14\n                Jahrhunderts.\n         Leipzig: Heinrich John, 1902: 94.\n\n",
+            "folio": "f. 51va1"
+        }
+    }
+}

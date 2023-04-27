@@ -1,0 +1,37 @@
+{
+    "_id": 1525,
+    "_header": "Glory unto God laud and benison / To John to Peter",
+    "Note": "Ringler Jr. (1988)\nXRingler Jr., William A. Bibliography and Index of English Verse Printed 1476-1558. London: Mansell, 1988, TP 466.7.",
+    "Title(s)": "The Pain and Sorrow of Evil Marriage",
+    "Subjects": "marriage",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "The Pain and Sorrow of Evil Marriage \u2014 twenty-two stanzas rhyme royal",
+    "_witnesses": {
+        "BodDig181": {
+            "First Lines": "\nGlory vnto god laude and benysonTo Iohn to Petir & also to\n                    laurence\u2026\n",
+            "Last Lines": "\n\u2026Wherfore yonge men to eschewe sorowe & careWithdrawe your\n                    foot or ye ffall in the snare\n",
+            "Note": "\n16 stanzas beginning at stanza 2.",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             The Latin Poems Commonly Attributed to Walter Mapes.\nCamden Society\n         o.s. 16 (1841): 295-9 (with 7 additional stanzas from \n            Lydgate, John, trans., The Payne and Sorowe of Evyll Maryage, de Worde, [c.\n            1530]).\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 456-60 (17 stanzas; composite text).\n\n",
+            "folio": "ff. 7-8v"
+        },
+        "CULFf16": {
+            "First Lines": "\nTake hede and lern lytull chyld and seeThat tyme passyd wull not a\n                    yen retorne\u2026\n",
+            "Last Lines": "\n\u2026O labore passeth ther comyth a no\u00feer newAnd euery day\n                    she beginneth batayle\n",
+            "Note": "\nNine stanzas plus 3 lines of next stanza only.",
+            "Facsimiles": "\nBeadle,  Richard,  and  Alfred E. B. Owen.  \n             The Findern Manuscript: Cambridge University Library MS. F.1.6.\n         London: Scolar Press, 1977. \n",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 456-60 (17 stanzas; composite text).\n",
+            "folio": "ff. 155-156"
+        },
+        "BLHar2251": {
+            "First Lines": "\nAfter this story tellith alsoIn confirmatioun of wymmens\n                    fragilite\u2026\n",
+            "Last Lines": "\n\u2026By aventure at even or amoroweIn faith the cely husbond shal\n                    have al the sorwe\n",
+            "Note": "\n6 stanzas beginning at stanza 7.",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 456-60 (17 stanzas; composite text).\n",
+            "folio": "ff. 150-150v"
+        },
+        "RomeEC1306": {
+            "Note": "\n17 stanzas.",
+            "folio": "f. 81v"
+        }
+    }
+}

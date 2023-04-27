@@ -1,0 +1,15 @@
+{
+    "_id": 2968,
+    "_header": "Jolif te Jolif te",
+    "Note": "A similar French scrap occurs in Oxford, Bodleian Library Digby 86 (SC 1687), f. 114 \u2018Jolif te / Me fest aler ad p[r]e\u2019.",
+    "Subjects": "songs, popular",
+    "_description": "A tag, the first two lines of a popular song, quoted in a Latin exemplum De Guloso, introduced with \u2018Quadam autem die sic comedit,et postea versus silvam ivit, incipiens istum cantum\u2019",
+    "_witnesses": {
+        "BLHar2316": {
+            "Transcription": "\nJolifte JolifteMaket me to ye wede the\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\n\nWright,  Thomas. \n             A selection of Latin stories.\nPercy Society\n         8. London: Richard, 1842: 81.\nWilson,  Richard Middlewood. \n             \u201cMore Lost Literature II.\u201d \n             Leeds Studies in English\n         6 (1937): 30-49: 46.\nWilson,  Richard Middlewood. \n             The Lost Literature of Medieval England.\n         London: Methuen, 1952: 185.\n\n",
+            "folio": "f. 54"
+        }
+    }
+}

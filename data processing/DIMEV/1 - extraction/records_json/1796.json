@@ -1,0 +1,63 @@
+{
+    "_id": 1796,
+    "_header": "Harkeneth what Saint Luke will say / In our gospel of this day",
+    "Note": "For the version in the \u2018expanded\u2019 Cycle see 4680.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Sixteenth Sunday after Trinity, in Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nHErknes what sainte luke will saieIn oure gospell of to\n                    daie\u2026\n",
+            "Last Lines": "\n\u2026Tyne his praie \u00feat he wele wendeTo haue in hell wi\u00fe\n                    outen ende\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 187-188"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nHErkne\u00fe what seint luc wol sayIn vre gospel of to\n                    day\u2026\n",
+            "Last Lines": "\n\u2026Leose his preye \u00feat he wel wendeTo haue an helle\n                    wi\u00fe outen ende\n",
+            "Attributed Title": "\nIbat Ihesu in ciuitatem que vocatur naym (f.\n                    207rc)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 207rc-207va"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nHErkens what Seynt Luk wille sayIn oure godspelle of \u00feis\n                    day\u2026\n",
+            "Last Lines": "\n\u2026Als orisonne & deuoute prayereAls \u021de may by \u00feis\n                    tale here\n",
+            "Attributed Title": "\nDominica xvja post festum trinitatis secundum Lucam (f.\n                    299)",
+            "folio": "pp. 299-301"
+        },
+        "CULDd11": {
+            "First Lines": "\nHErkeni\u00fe what seynt Luke wile sayin oure gospel of \u00feis\n                    dayvn to a cite \u00feat highte Naym\u2026\n",
+            "Last Lines": "\n\u2026as orisons & deuoute preyereas \u021de may be \u00feis\n                    tale here\n",
+            "Attributed Title": "\nDominica xvia post festum sancte trinitatis Euagelim secundum\n                        Lucam. Ibat ihesus in ciuitatem que vocatur naym & ce (f.\n                        189v)",
+            "folio": "ff. 189v-190v"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nHErkene\u00fe what saint luc wol sayIn vre gospel of to\n                    day\u2026\n",
+            "Last Lines": "\n\u2026Leose his pray \u00feat he wel wendeTo haue in helle\n                    withouten ende\n",
+            "Attributed Title": "\nIbat Jhesus in ciuitatem que uocatur naym (f.\n                    12rb)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 12ra-12rb"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nHerkens what saynt lowk wyll sayeIn our gospell of to\n                    daye\u2026\n",
+            "Last Lines": "\n\u2026Tynre hys praye \u00feat he wele wendeTo haue in helle with\n                    outene ende\n",
+            "folio": "ff. 146v-147v"
+        },
+        "Lam260": {
+            "folio": "f. 54rb"
+        },
+        "MinULZ822": {
+            "First Lines": "\nHerkyns what saynt Luke will sayIn oure gospell of to\n                    day\u2026\n",
+            "Last Lines": "\n\u2026tyne hys pray \u00feat he wole wendeto haue in hell with\n                    outyn ende\n",
+            "Attributed Title": "\nDominica xvia Secundum Lucam (f. 151)",
+            "folio": "ff. 151-152"
+        },
+        "HunHM129": {
+            "First Lines": "\nHerke what seynt Luc woll sayIn oure gospel off to dayTo a\n                    cyte \u00feat heght naym\u021dede crist and moche folke with\n                    hym\u2026\n",
+            "Last Lines": "\n\u2026Lesse his pary \u00feat he well wendTo haue in hell with\n                    outyn end\n",
+            "Attributed Title": "\nDominica sexta decima (f. 160v)",
+            "folio": "ff. 160v-161v"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "_id": 1059,
+    "_header": "Coming the great time of mercy",
+    "Note": "Lacks the Prologue of 22 lines; for MSS containing the Prologue see 426.",
+    "Author(s)": "Robert of Brunne",
+    "Title(s)": "Meditations on the Soper",
+    "Subjects": "Eucharist, meditations on",
+    "_description": "Robert of Brunne, Meditations on the Soper",
+    "_witnesses": {
+        "BLHar218": {
+            "First Lines": "\nComyng the gret tyme of mercyWhan the fadyr sent his sone from an\n                    hy\u2026\n",
+            "Last Lines": "\n\u2026To that pees perles we pray thou vs bringThat lyvest &\n                    rei\u021dnest with out endyng\n",
+            "folio": "f. 83r2"
+        },
+        "BLHar2338": {
+            "First Lines": "\nComyng \u00fee gret tyme of mercyWhan \u00fee fadir sent his sone from an hy\u021d\u2026\n",
+            "Last Lines": "\n\u2026[   ]it pes perles we pray \u00feu vs bryng[\u00a0\u00a0\u00a0] lyuys and regnys without endyng\n",
+            "Note": "\nPreceded by rubric Latin, \u201cCum esset plenitudo temporis misit deus filium suum factum\u201d (f. 1br)",
+            "Attributed Author": "\n[\u00a0\u00a0\u00a0]na Breus (added by later hand, f. 28, with date 1422)",
+            "Attributed Title": "\n[\u00a0\u00a0\u00a0] passionis christi (added by later hand, f. 28, with date 1422)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 2338.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_2338. \n",
+            "folio": "f. 1br-28"
+        }
+    }
+}

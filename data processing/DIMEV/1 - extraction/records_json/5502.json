@@ -1,0 +1,29 @@
+{
+    "_id": 5502,
+    "_header": "The time approacheth of necessity",
+    "Title(s)": "\u2018Liber Prouerbium\u2019; \u2018Summum Sapientie\u2019",
+    "Subjects": "proverbs; translations",
+    "Versification": "\u2014 seven-line \u2014 ababbbcc",
+    "_description": "Sayings of Old Philosophers (or \u2018Liber Prouerbium\u2019 or \u2018Summum Sapientie\u2019) \u2014 116 stanzas rhyme royal",
+    "_witnesses": {
+        "BodAsh59": {
+            "First Lines": "\n\u00feE tyme approche\u00fee of necessite To reherce \u00fee\n                    material sentence Which \u00feat to fore al equite Is \u00fee\n                    pryncipul of al sapience\u2026\n",
+            "Last Lines": "\n\u2026\u00feane after \u00feis worlde transmygracoun In heven have\n                    youre habitacyoun\n",
+            "Attributed Title": "\nHere folowen nowe \u00fee seyinges of wysemen of Prophetes of Poetes of\n                    Philosophres of hooly men of gret and Autorysed Clerkes of \u00fee olde\n                    testament and of \u00fee nuwe (f. 84v)",
+            "folio": "f. 84v-98"
+        },
+        "BLHar2251": {
+            "First Lines": "\nThe tyme approached of necessiteTo reherse the marshal\n                    sentence\u2026\n",
+            "Last Lines": "\n\u2026And after worldly transmygratiounIn hevyns high have youre\n                    habitacioun\n",
+            "Editions": "\nF\u00f6rster,  Max. \n             \u201cKleine Mitteilungen zur mittelenglische Lehrdichtung, VI.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         104 (1900): 293-309: 308 (stanzas 1-7).\n",
+            "folio": "ff. 156v-167v"
+        },
+        "BLHar7578": {
+            "First Lines": "\n[T]he tyme approached of necessiteTo reherce the material\n                    sentence\u2026\n",
+            "Last Lines": "\n\u2026And after worldly transmygraciounIn heuyns high haue youre\n                    habitacioun\n",
+            "Note": "\nPreceded by a unique Prologue of 18 stanzas (5967). Initial\n                    \u2018T\u2019 is missing, with space left for illuminated\n                    initial.",
+            "Editions": "\n\nKniep,  R. M. \n             \u201cLiber Pouerbium: An Edition of Middle English Proverbs Formerly\n                Attributed to John Lydgate.\u201d \n         Diss. University of Florida 1954 (DA 22.3185). \nNapierkowski,  T. J. \n             \u201cA Critical Edition of the Summum Sapientiae.\u201d \n         Diss. University of Colorado, 1971 (DA 32.2063A-64B). \n\n",
+            "folio": "ff. 3v-13"
+        }
+    }
+}

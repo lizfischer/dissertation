@@ -1,0 +1,52 @@
+{
+    "_id": 508,
+    "_header": "And ended my complaint in this manner",
+    "Author(s)": "Thomas Hoccleve",
+    "Title(s)": "\u2018Dialogus cum Amico\u2019",
+    "Subjects": "dialogues; mutability, of world; frames, literary; madness; death, approach of; money",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Thomas Hoccleve, \u2018Dialogue with a Friend,\u2019 or \u2018Dialogus cum Amico,\u2019 the second of several works in verse and prose that form Hoccleve\u2019 Series, preceded by 235 and followed by 2621 \u2014 118 rhyme royal stanzas.",
+    "_witnesses": {
+        "BodSelSup53": {
+            "First Lines": "\nAnd endid my compleinte in this manereDon knockid at my chaumbre\n                    dore sore \u2026\n",
+            "Last Lines": "\n\u2026Wole I translate and that my gifte I hopeShal pourge as clene\n                    as keuerchiefs doo\u00fe sope\n",
+            "Attributed Title": "\nExplicit dialogus & incipit quedam fabula quadam bona & nobili\n                        Imperatrice Romana (f. 98)",
+            "Editions": "\nHammond,  Eleanor Prescott. \n             English Verse between Chaucer and Surrey.\n         Durham, NC: Duke UP, 1927: 69 (extract).\n",
+            "folio": "ff. 83v-98"
+        },
+        "Bod221": {
+            "First Lines": "\nAnd endith my complaynte in \u00feys manereOne knokkid at my\n                    chaumbir dore sore\u2026\n",
+            "Last Lines": "\n\u2026Well I translate & \u00feat my gilt I hopeShall purge as\n                    clene as kerchiffes doth sope\n",
+            "Attributed Title": "\nHere endith my complaynte and begynnes a dialogg (f. 6v);\n                        Explicit dialogus & incipit ffabula de quandam bona & nobile\n                        Imperatrice Romana . Ca iij (f. 15v)",
+            "folio": "ff. 6v-15"
+        },
+        "BodLauMis735": {
+            "First Lines": "\nAnd endid my compleynt in \u00feis manereOne knokkid at my chaumbre\n                    dore sore\u2026\n",
+            "Last Lines": "\n\u2026Wole I translate & \u00feat my gilt I hoopeShall purge as\n                    clene kerchefes doth soope\n",
+            "Attributed Title": "\nHere endith my compleynt & begynneth A dialoggus (f.\n                    5v)",
+            "folio": "ff. 5v-15v"
+        },
+        "CovAcc3251": {
+            "First Lines": "\nANd eendid my compleint in \u00feis manereOone knockid at my\n                    chambir dore sore\u2026\n",
+            "Last Lines": "\n\u2026Wol I translate and \u00feat my gelte I hopeShall purge as\n                    clene as kerchief do\u00fee soope\n",
+            "Attributed Title": "\nEt Incipit quidam Dialogus inter eundem Thomam & quemdam amicum\n                        suum (f. 43rb) [heading at bottom of previous column];\n                        Explicit dialogus (f. 49rb)",
+            "folio": "ff. 43va-49rb"
+        },
+        "DULCosViii9": {
+            "First Lines": "\nAnd endyd my complaynt in this manereone knocked at my chambre dore\n                    sore\u2026\n",
+            "Last Lines": "\n\u2026Wole I translate and \u00feat shal pourge I hopeMy gilt as\n                    cleene as keuerchiefs dooth sope\n",
+            "Note": "\nFolios 13-26v author\u2019s holograph.",
+            "Attributed Author": "\nThomas hoccleve (f. 26v)",
+            "Attributed Title": "\nDialogue cum Amico (added modern hand, f. 9)",
+            "Facsimiles": "\nBurrow,  John,  and  A. I. Doyle, eds.  \n             Thomas Hoccleve: A Facsimile of the Autograph Verse\n                Manuscripts.\nEETS\n         s.s. 19 (2002). \n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.   Hoccleve\u2019s Works: The Minor Poems. vol. 1.  EETS\n         e.s. 61 (1892); repr. with Gollancz (1925)\nXGollancz,  Israel. \n             Hoccleve\u2019s Works: The Minor Poems. vol. 2.  EETS\n         e.s. 73 (1925); repr. with 61, 1970 73; rev. J.\n            Mitchell and A. Ian Doyle, 1970: 110-39.\n",
+            "folio": "ff. 9-26v"
+        },
+        "YaleBei493": {
+            "First Lines": "\nAnd endid my compleynt in this manereOne knokkid at my chaumbre\n                    dore sore\u2026\n",
+            "Last Lines": "\n\u2026Wole I translate & \u00feat my gilt I hoopeSchall purge\n                    as clene as kerchefes doth soop\n",
+            "Attributed Title": "\n\u2026begynneth a dialogg (f. 6v); Explicit\n                        dialogus\u2026 (f. 16v)",
+            "folio": "ff. 6v-16v"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "_id": 2754,
+    "_header": "It seems white and is red / It is quick and seems dead",
+    "Note": "Cf. The \u2018Long Charter\u2019 of Christ, B Text, lines 117-20 (6650), and 5665.",
+    "Subjects": "Host, description of; riddles",
+    "Versification": "\u2014 four-line, five-line \u2014 aaaa, aaabb",
+    "_description": "Rhyming lines on the Host \u2014 one quatrain",
+    "_witnesses": {
+        "BLRoy17Axvi": {
+            "Transcription": "\nHyt semes quite and is redHyt is quike and semes dedeHyt is\n                    ffleshe & semes bredHyt is on & semes tooHyt is god body &\n                    no mo\n",
+            "Note": "\nFive lines.",
+            "Editions": "\n\nRobbins,  Rossell Hope. \n             \u201cPopular Prayers in Middle English Verse.\u201d \n             Modern Philology\n         36 (1939): 337-50: 344.\nDavies,  Reginald Thorne. \n             Medieval English Lyrics: a critical anthology.\n         London, 1963; Evanston, IL: Northwestern UP, 1964: 196.\nOliver,  Raymond. \n             Poems Without Names: The English Lyric 1200-1500.\n         Berkeley, CA: University of California, 1970: 64.\n\n",
+            "folio": "f. 27v1"
+        },
+        "DULCosVi12": {
+            "Transcription": "\nHit semeth whi\u021dth & hit is reedHit is quyk & seme\u00fe\n                    deedHit is flessh & semeth breedand veray god in his\n                    godhed\n",
+            "Editions": "\n\nRobbins,  Rossell Hope. \n             \u201cPopular Prayers in Middle English Verse.\u201d \n             Modern Philology\n         36 (1939): 337-50: 344.\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.444.\n\n",
+            "folio": "f. 65"
+        },
+        "CopenThott110": {
+            "Editions": "\nRobbins,  Rossell Hope. \n             \u201cPopular Prayers in Middle English Verse.\u201d \n             Modern Philology\n         36 (1939): 337-50: 344.\n",
+            "folio": "f. 163"
+        }
+    }
+}

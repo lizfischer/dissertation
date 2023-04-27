@@ -1,0 +1,29 @@
+{
+    "_id": 5112,
+    "_header": "Take time in time and no time defer",
+    "Note": "Concludes with first two lines of 513; cf. 6554.",
+    "Subjects": "advice, moral",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Four moralizing couplets",
+    "_witnesses": {
+        "CULLl510": {
+            "First Lines": "\nTak tyme in tyme and not deferQuhen tyme is past \u021de may do\n                    wer\u2026\n",
+            "Last Lines": "\n\u2026Bettir is to suffer and fortoun to avidThane Easilie to clym\n                    and suddanlie to slyd\n",
+            "folio": "f. 58"
+        },
+        "CamMagPep2553": {
+            "First Lines": "\nTak tyme in tyme and no tyme deferQuhone tyme is past \u021de may\n                    do wer\u2026\n",
+            "Last Lines": "\n\u2026Bettir is to suffir and fortoun to abydThan haistalie to clym\n                    and suddenlie to slyd\n",
+            "Attributed Title": "\nQuod quha to quhame (p. 294)",
+            "Editions": "\nCraigie,  William Alexander. \n             The Maitland Folio Manuscript, Containing Poems by Sir Richard\n                Maitland, Dunbar, Douglas, Henryson, and others.\n             2 vols. \n             Scottish Text Society\n         n.s. 7 (1919), 20 (1927); Edinburgh and London: Blackwood, 1919,\n            1927: 1.344.\n",
+            "folio": "p. 294"
+        },
+        "Banna": {
+            "Transcription": "\nTak tyme in tyme and nocht diffarquhen tyme is past \u021de ma do\n                    war\n",
+            "Note": "\nSingle couplet in this MS; immediately follows 6330 and precedes 418.",
+            "Facsimiles": "\nFox,  Denton,  and  William A. Ringler.  \n             The Bannatyne Manuscript: National Library of Scotland Advocates\u2019\n                MS. 1.1.6\n         London: Scolar Press, in Association with The National Library of\n            Scotland, 1980. \n",
+            "Editions": "\nRitchie,  W. Tod,\n                        ed.  \n             The Bannatyne Manuscript.\n             4 parts in 4 vols. \n             Scottish Text Society\n         3rd ser. 5 (1928); n.s. 22 (1928); n.s. 23 (1930); n.s. 26 (1934)\n            Edinburgh and London: Blackwood, 1928-34; ed. by Ritchie et al: 3.44.\n",
+            "folio": "f. 147"
+        }
+    }
+}

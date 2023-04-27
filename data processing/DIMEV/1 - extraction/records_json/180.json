@@ -1,0 +1,16 @@
+{
+    "_id": 180,
+    "_header": "A very friend at need",
+    "Subjects": "friendship; proverbs",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A rhyming proverb that serves as the opening of a letter from William Worcester to an unknown member of Sir John Fastolf\u2019s household, Paston Letters and Papers 604; Worcester cites Aristotle\u2019s Ethics and Cicero\u2019s de Amicitia \u2014 one couplet",
+    "_witnesses": {
+        "BLAdd27444": {
+            "Transcription": "\nA very frende at nedeexperience will schewe be deede\n",
+            "Note": "\nWritten as prose.",
+            "Attributed Author": "\nWilliam Worcester",
+            "Editions": "\nDavis,  Norman,\n                        ed.  \n             Paston Letters and Papers of the Fifteenth Century.\nEETS\n         s.s. 20 and 21 (2004): 2.203.\n",
+            "folio": "f. 71"
+        }
+    }
+}

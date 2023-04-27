@@ -1,0 +1,25 @@
+{
+    "_id": 5004,
+    "_header": "Sore I sigh and sore I may",
+    "Note": "Cf. 6341.",
+    "Subjects": "sorrowful things, lists of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "London, British Library Harley 3362",
+    "_description": "Three sorrowful things \u2014 three couplets",
+    "_witnesses": {
+        "BodDou52": {
+            "First Lines": "\nSore I syke & well I mayffor thre thynges \u00feat comyn\n                    ay\u2026\n",
+            "Last Lines": "\n\u2026\u00fee thrydde is most careI not ner whider I schall\n                    fare\n",
+            "Note": "\nIncomplete: lines 3-4 occur on f. 20v and line 6 on f.\n                    24.",
+            "Editions": "\n\nPantin,  William A. \n             \u201cA Medieval Collection of Latin and English Proverbs\u2026from Rylands\n                Latin MS. 394.\u201d \n             Bulletin of the John Rylands Library\n         14 (1930): 81-114: 101.\nF\u00f6rster,  Max. \n             \u201cDie Mittelenglische Sprichw\u00f6rtersammlung in Douce 52.\u201d \n             Festschrift zum XII Deutschen Neuphilolgentage in M\u00fcnchen\n                1906.\n            E. Stollreither, ed. \n         Erlangen (1906): 40-64: 49, 51.\n\n",
+            "folio": "ff. 20v;  24"
+        },
+        "RylandsLat394": {
+            "Transcription": "\nSore y sye & sore I mayfor \u00fere \u00feynges me comys\n                    alday\u00dee ton is \u00feat I shal hen\u00fee to\u00feer is wot not\n                    when\u00fee \u00ferydde is my most careI not wheder I shal\n                    fare\n",
+            "Note": "\nWritten three long lines, two verse lines for each, translating\n                        \u2018Sunt tria que vere faciunt me sepe dolere\u2026\u2019, which\n                    follows.",
+            "Attributed Title": "\nSore y syke and sore y may (title or false start, f. 13)",
+            "Editions": "\nPantin,  William A. \n             \u201cA Medieval Collection of Latin and English Proverbs\u2026from Rylands\n                Latin MS. 394.\u201d \n             Bulletin of the John Rylands Library\n         14 (1930): 81-114: 101.\n",
+            "folio": "ff. 13-13v"
+        }
+    }
+}

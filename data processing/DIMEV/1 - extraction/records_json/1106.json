@@ -1,0 +1,21 @@
+{
+    "_id": 1106,
+    "_header": "Death is strong and mastereth all thing",
+    "Subjects": "death, power of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The qualities of death \u2014 five couplets",
+    "_witnesses": {
+        "BodRawC301": {
+            "First Lines": "\ndeeth is strong & mastryth al \u00feynghe ne sparyth emperour\n                    ne kyng\u2026\n",
+            "Last Lines": "\n\u2026of werdely offys be \u00feou notth boldded ne sparyth\n                    ney\u00feyr \u021downg ne hold\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 92v-93"
+        },
+        "BLHar2316": {
+            "First Lines": "\nDed is strong and maystret alle thingDed fordoth barown and king\u2026\n",
+            "Last Lines": "\n\u2026Man of \u021di lyf be nowht to boldffor ded ne sparet ying ne old\n",
+            "Editions": "\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 2.120.\n",
+            "folio": "f. 25v1"
+        }
+    }
+}

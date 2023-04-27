@@ -1,0 +1,31 @@
+{
+    "_id": 3383,
+    "_header": "Man that will of wisdom hearen / At wise Hendyng he may leren",
+    "Note": "For other MSS see 2834.",
+    "Author(s)": "Hendyng",
+    "Title(s)": "The Proverbs of Hendyng",
+    "Subjects": "proverbs",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "The Proverbs of Hendyng, with six introductory lines prefixed",
+    "_witnesses": {
+        "CULAdd4407d": {
+            "First Lines": "\nAt wise hending he may lerne\u00feat was marcolfes\n                    sone\u2026\n",
+            "Last Lines": "\n\u2026\u00feer if it mote hand all is willeWilton nilton it schal\n                    spille\n",
+            "Note": "\nLines 2-36 only",
+            "folio": ""
+        },
+        "CamGon351": {
+            "Transcription": "\nMeni man syngatwan he hom bringatA fayr \u021dung wys\n                        [sic]& hym he by \u00feo\u021dte& wyste\n                    wat he bro\u021dtea my\u021dte wepe all hys lyf\n",
+            "Note": "\nSix lines rhyming aabccb.",
+            "Editions": "\n\nWenzel,  Siegfried. \n             \u201cUnrecorded Middle-English Verses.\u201d \n             Anglia\n         92 (1974): 55-78: no. 38.\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 95.\nLaing,  Margaret. \n             Catalogue of sources for a Linguistic Atlas of Early Medieval\n                English.\n         Cambridge: UP, 1993: p. ? (first three lines only, listing as f.\n                            102v, and mistranscribing \u2018wyf\u2019 at end third\n                        line).\n\n",
+            "folio": "f. 104v"
+        },
+        "BLHar2253": {
+            "First Lines": "\nMon \u00feat wol of wysdam herenAt wyse Hendyng he may\n                    leren\u2026\n",
+            "Last Lines": "\n\u2026\u00feat sit in heuene vs aboue\u021ceue vs god\n                    endynge\n",
+            "Facsimiles": "\nKer,  Neil Ripley. \n             \u201cIntroduction.\u201d \n             Facsimile of British Museum MS. Harley 2253.\nEETS\n         o.s. 255 (1965). \n",
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.109-16.\nKemble,  John Mitchell. \n             The Dialogue of Salomon and Saturnus.\n         London: Aelfric Society, 1848: 270.\nM\u00e4tzner,  Edouard Adolf Ferdinand. \n             Altenglische Sprachproben, I: Poesie.\n         Berlin: Wiedmann, 1867: 1.304.\nMorris,  Richard,  and  Walter William Skeat, eds.  \n             Specimens of Early English , Pt. I, A.D. 1150-A.D.1300.\n         Oxford: Clarendon, 1882, 2nd ed. 1885; Pt. II, A.D. 1298-A.D.1393,\n            Oxford: Clarendon, 1872, 2nd ed. 1894; Pt. III. Orig. published separately,\n            1871: 2.35.\nB\u00f6ddeker,  Karl. \n             Altenglische Dichtungen des MS. Harl. 2253.\n         Berlin: Weidmann, 1878: 287-300.\nMorris,  Richard,\n                        ed.  \n             Specimens of Early English A.D. 1250-A.D. 1400.\n         Oxford, 1867 [See also Morris  and  Skeat (1882)\nXRichard Morris,   and  Walter William Skeat.  \n             Specimens of Early English , Pt. I, A.D. 1150-A.D.1300.\n         Oxford: Clarendon, 1882, 2nd ed. 1885; Pt. II, A.D. 1298-A.D.1393,\n            Oxford: Clarendon, 1872, 2nd ed. 1894; Pt. III. Orig. published separately,\n            1871]: 96-102.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 559.\nFein,  Susanna Greer,\n                        ed.  \n             The Complete Harley 2253 Manuscript, Volume 2.\n         Kalamazoo, Michigan: Medieval Institute Publications, 2009: Booklet 6, no. 89.\n\n",
+            "folio": "ff. 125ra-127ra"
+        }
+    }
+}

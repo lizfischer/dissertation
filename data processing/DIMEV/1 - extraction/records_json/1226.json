@@ -1,0 +1,23 @@
+{
+    "_id": 1226,
+    "_header": "Every man and woman hath great need",
+    "Title(s)": "\u2018Sex obseruanda omni Christiano in extremis\u2019",
+    "Subjects": "death, approach of",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "\u2018Sex obseruanda omni Christiano in extremis\u2019 \u2014 twenty-four quatrains",
+    "_witnesses": {
+        "BodDou322": {
+            "First Lines": "\nEuery man and woman that grete nedeThat be of age or that they\n                    dye\u2026\n",
+            "Last Lines": "\n\u2026We haue heuen to oure herytageThat cryste for vs ordeyned\n                    Amen\n",
+            "folio": "ff. 18rb-19rb"
+        },
+        "BLHar1706": {
+            "First Lines": "\nEuery man and woman hath grette nedeThat be of age or that they deye\u2026\n",
+            "Last Lines": "\n\u2026We haue heuen to oure herytageThat cryst for vs ordeyned\n",
+            "Note": "\nBegins written as verse with some lines running over two lines of column, but soon turns to written as prose with gaps and paraphs to indicate beginnings of lines; ends \u201cAmen\u201d at end of last line (f. 19rb).",
+            "Attributed Title": "\n\u201cHec sex obseruanda sunt omni Christiano in extremis\u2026\u201d in rubric, followed by Latin text of same content (ff. 19va-19vb).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 1706.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_1706. \n",
+            "folio": "ff. 18vb-19rb"
+        }
+    }
+}

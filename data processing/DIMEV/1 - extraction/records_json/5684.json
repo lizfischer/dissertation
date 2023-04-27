@@ -1,0 +1,24 @@
+{
+    "_id": 5684,
+    "_header": "This ender night / I saw a sight / All in my sleep",
+    "Subjects": "carols, lullaby; dialogues, Virgin and Christ",
+    "Versification": "\u2014 eighteen-line \u2014 aabccbddeffegghiih",
+    "_description": "A cradle song of the Virgin Mary \u2014 in 18-line stanzas, with 7-line burden: \u2018A my dere a my dere son / Seyd Mary a my dere / [lines repeated] / Kys thy moder Jhesu / Kys thi moder Jhesu / With a lawghyng chere\u2019",
+    "_witnesses": {
+        "BLHar2380": {
+            "First Lines": "\nThis endres nyghtAbout mydnyghtAs I me lay for to\n                    sclepe\u2026\n",
+            "Last Lines": "\n\u2026He sayd ba baySco sayd lullayThe virgin fresch as ros in\n                    m[ay]\n",
+            "Note": "\nEleven stanzas of 9 or 10 lines each, rhyming aabccb + ddd (repeated\n                    each stanza as a refrain); burden lacking.",
+            "Attributed Title": "\nan old songe (in a later hand)",
+            "Editions": "\n\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 99-101; 1977, 89-90.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 4-7.\n\n",
+            "folio": "ff. 70v-71"
+        },
+        "BLAdd5465": {
+            "First Lines": "\nThis endurs nyghtI sawe a syghtAll in my\n                    slepe\u2026\n",
+            "Last Lines": "\n\u2026Man to restoreNaylid ful soreVppon a tre\n",
+            "Note": "\nEighteen line stanzas.",
+            "Editions": "\n\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 99-101; 1977, 88-9.\nSandys,  William,\n                        ed.  \n             Christmas Carols, Ancient and Modern.\n         London: Richard Beckley, 1833: 11.\nBullen,  Arthur Henry. \n             Carols and Poems from the fifteenth century to the present\n                time.\n         London, 1866, repr. as  Songs and Carols.\n            London: John C. Nimmo, 1885\n            \n                \n                \n            \n        London: John C. Nimmo, 1885: 21-2.\nFehr,  Bernhard. \n             \u201cDie Lieder des Fairfax MS (Add. 5465 Brit. Mus.).\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         106 (1901): 48-70: 60.\nPearce,  Charles William. \n             A Collection of Songs and Madrigals by English Composers of the close\n                of the 15th Century.\nPlainsong and Medieval Music Society.\n         London: Quaritch, 1891: No. 5.\nChambers,  Edmund Kerchever,  and  Frank Sidgwick.  \n             Early English Lyrics\u2026.\n         London: Buller, 1907, 1911 et seq: 157-8.\nRickert,  Edith,\n                        ed.  \n             Ancient English Christmas Carols.\n         London: Chatto & Windus, 1910: 62-3.\nSegar,  Mary Gertrude,\n                        ed.  \n             A Mediaeval Anthology.\n         London, NY: Longmans, Green, 1915: 72-4.\nStevens,  John,\n                        ed.  \n             Music and Poetry in the Early Tudor Court.\n         London: Methuen, 1961: 366-7.\nStevens,  John,\n                        ed.  \n             Early Tudor Songs and Carols.\nMusica Britannica\n         36. London: Stainer and Bell, 1975: 78.\n\n",
+            "folio": "ff. 50v-53"
+        }
+    }
+}

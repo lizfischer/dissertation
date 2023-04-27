@@ -1,0 +1,16 @@
+{
+    "_id": 751,
+    "_header": "Banners beth displayed",
+    "Author(s)": "John of Bromyard",
+    "Subjects": "sermons, verse in; Passion; heraldry",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Couplets of varying line length interspersed in a Latin sermon (?by John of Bromyard), \u2018de passione domini vel in Ramispalmarum\u2019 \u2014 nine couplets",
+    "_witnesses": {
+        "CULKk424": {
+            "First Lines": "\nBaneres beth displaydhostes beth araydPartys byth\n                    ascrydd& werryous beth y tryed\u2026\n",
+            "Last Lines": "\n\u2026\u00fee banerys of syluer wykkyd for to bereWyt iii mennys\n                    hertes y persyd wyt a spere\n",
+            "Note": "\nOther verses in same sermon, see 918 and 2160. Possibly incomplete since sermon ends\n                    imperfectly at f. 138.",
+            "folio": "ff. 135vb-138"
+        }
+    }
+}

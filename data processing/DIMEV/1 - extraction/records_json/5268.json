@@ -1,0 +1,21 @@
+{
+    "_id": 5268,
+    "_header": "The first day of the moon Adam / Our fore father to the\u2026",
+    "Note": "The Old French version occurs in London, British Library Royal 12 C.XII, Art. 25; and Worcester, Cathedral Lib. Q.61, f. 42v, printed by bad key, 21. For versions which prefix a short Prologue see 1593 and 3247; for prose versions see Lewis, Blake, and Edwards (1985) XR. E. Lewis, N. F. Blake, and A. S. G. Edwards. Index of Printed Middle English Prose. New York: Garland, 1985, 100, 337.",
+    "Title(s)": "Lunationes et Somnia ; Somnia Danieli",
+    "Subjects": "dream visions; dreams, interpretation of",
+    "_description": "Lunationes et Somnia or Somnia Danieli \u2014 1282 lines.",
+    "_witnesses": {
+        "BLHar3725": {
+            "First Lines": "\nThe first day of the mone AdamOwre fore fader to the world came\u2026\n",
+            "Last Lines": "\n\u2026That dat is tyme godeIeff \u00feu will blede wayne blode\n",
+            "folio": "ff. 66-81v"
+        },
+        "BLRoy12Exvi": {
+            "First Lines": "\nThe furste of the moone adam our former fadyr to \u00feis worlde\n                    cameThat day ys good without synne all thyng to begyne\u2026\n",
+            "Last Lines": "\n\u2026To by & fyl & make weddyng to passe \u00fee se & lete\n                    bloode& to al o\u00feer thyngis goode That \u00feu wult by gyn\n                    than\n",
+            "Note": "\nTwo verse lines per manuscript line.\n                    Incomplete.",
+            "folio": "ff. 51v-53v"
+        }
+    }
+}

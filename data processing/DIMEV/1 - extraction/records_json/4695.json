@@ -1,0 +1,69 @@
+{
+    "_id": 4695,
+    "_header": "Saint Mark speaks in our gospel",
+    "Note": "For the version in the \u2018expanded\u2019 Cycle see 4690.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Twelfth Sunday after Trinity in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nSaynte marke in oure gospell spellisOf cristis lawe and vs \u00feus\n                    tellis\u2026\n",
+            "Last Lines": "\n\u2026We mai be sikir of heuene medeOure lorde ihesu vs thidir lede\n                    amen .\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 158v-161"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Mark sei\u00fe in vre gospelI rede \u021de here what he wol\n                    tel\u2026\n",
+            "Last Lines": "\n\u2026We may beo siker of heuene medeVr lord Ihesu \u00feidere vs\n                    lede. Amen\n",
+            "Attributed Title": "\nExiens Ihesu de finibus tyri (f. 202vc)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 202vc-203rb"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nSEynt Marke sais in \u00feis godspelleAls I til \u021dowe thenk ac\n                    telle\u2026\n",
+            "Last Lines": "\n\u2026he may be sekire of heuene medeNowe ihesu crist til \u00feat\n                    blisse vs lede\n",
+            "Attributed Title": "\nDominica xxiia post festum trinitatis secundum Marcum (p.\n                    262)",
+            "folio": "pp. 262-266"
+        },
+        "CULDd11": {
+            "First Lines": "\nSEynt Mark seyth in oure GospelleI rede \u021de here what I wile\n                    tellehe seyth crist com fro a cuntre\u2026\n",
+            "Last Lines": "\n\u2026Ihesu crist vs alle to \u00feat ioye bringeamen I rede we\n                    alle now singe\n",
+            "Attributed Title": "\nDominica 12a post festum sancte trinitatis Euangelium\n                        secundum Marcum (f. 162v)",
+            "folio": "ff. 162v-164v"
+        },
+        "CULGg531": {
+            "First Lines": "\nSaynt marke spekys in oure gospellOf crystys sawe and vs gan\n                    tell\u2026\n",
+            "Last Lines": "\n\u2026We may be syker of heuen medeOur lord ihesu \u00feeder vs\n                    lede\n",
+            "Attributed Title": "\nDominica duodecima post trinitatem secundum Marcum (f.\n                        111v)",
+            "folio": "ff. 111v-113"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nSEint Mark sei\u00fe in vre gospelleI rede \u021de here what I wol\n                    telle\u2026\n",
+            "Last Lines": "\n\u2026We may be siker of heuene medeVre lord Ihesus \u00feidur vs\n                    lede. Amen\n",
+            "Attributed Title": "\nExiens Ihesu de finibus tyri & sy (f. 7vb)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 7vb-8rb"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nSaint marke in our gospell spellisOf crist sawe and \u00feus vs\n                    tellis\u2026\n",
+            "Last Lines": "\n\u2026We may be siker of heuen medeOure lorde ihesu vs thider\n                    lede\n",
+            "folio": "ff. 120-122v"
+        },
+        "Lam260": {
+            "folio": "f. 47rb"
+        },
+        "MinULZ822": {
+            "First Lines": "\nSaynt marke spekes in oure gospellMede [sic] \u021de here\n                    what yt wyll tell\u2026\n",
+            "Last Lines": "\n\u2026we may be sykyr of heuen medeoure lorde Ihesu \u00feider vs\n                    spede\n",
+            "Attributed Title": "\nDominica duodecima Secundum Marcum  (f. 122)",
+            "folio": "ff. 122-124"
+        },
+        "HunHM129": {
+            "First Lines": "\nSeint marc spekyth in oure gospellI rede we hire whate hit woll\n                    tell\u2026\n",
+            "Last Lines": "\n\u2026We may be sikkyr off heuynnys medeOure loueryd ihesu\n                    \u00feiddyr vs lede\n",
+            "Attributed Title": "\nDominica duodecima post [festum] trinitatis (f.\n                    135v)",
+            "folio": "ff. 135v-137v"
+        }
+    }
+}

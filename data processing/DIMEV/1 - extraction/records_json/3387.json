@@ -1,0 +1,31 @@
+{
+    "_id": 3387,
+    "_header": "Man thus on Rood I hang for thee / Forsake thy sin for love of me",
+    "Note": "For similar lines see 2199, 4275, and 6135; compare also 201.",
+    "Title(s)": "\u2018How Crist spekes tyll synfull man of his gret mercy\u2019",
+    "Subjects": "Christ, appeal of, to man",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "\u2018How Crist spekes tyll synfull man of his gret mercy\u2019 \u2014 six 6-line stanzas",
+    "_witnesses": {
+        "BodRawPoe175": {
+            "First Lines": "\nMan \u00feus on rode I hymg for \u00feeffor sake \u00fei syn for\n                    luf of me\u2026\n",
+            "Last Lines": "\n\u2026Man \u00fee same I will do \u00fee\u00feer for lete at my\n                    lare\n",
+            "Attributed Title": "\nNow crist spekes tyll synfull man of his gret mercy (f.\n                    93va)",
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 60-1.\n",
+            "folio": "f. 93va"
+        },
+        "BodDonC13": {
+            "First Lines": "\nlo hou I hinge on rode for \u00feeforsake \u00fei syn for loue of\n                    me\u2026\n",
+            "Last Lines": "\n\u2026\u00feat with syn was forlayn& als of o\u00feir\n                    ma\n",
+            "Note": "\n5 stanzas.",
+            "folio": "f. 165vb-166ra"
+        },
+        "BlCottGalEIX": {
+            "First Lines": "\nMan \u00feus on rode I hing for \u00feeforsake \u00fei sin for luf\n                    of me\u2026\n",
+            "Last Lines": "\n\u2026Man \u00fee same I will do \u00fee\u00fearfore lete at my\n                    lare\n",
+            "Note": "\nLatin rubric above first line, by scribe: \u2018In cruce sum pro te\n                        . qui peccas desine pro me / desine do neman . dic culpam corrige\n                    intam\u2019.",
+            "Editions": "\n\nHall,  Joseph. \n             \u201cShort Pieces from MS Cotton Galba E.ix.\u201d \n             Englische Studien\n         21 (1895): 201-9: 208-9.\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 2.457.\n\n",
+            "folio": "ff. 51va2-51vb"
+        }
+    }
+}

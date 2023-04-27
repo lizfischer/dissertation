@@ -1,0 +1,36 @@
+{
+    "_id": 1688,
+    "_header": "Hail be thou Mary mild queen of heaven",
+    "Note": "Stanzas 1, 8, and 11 = stanzas 2, 3, and 4 of 1685.",
+    "Subjects": "Virgin Mary, joys of",
+    "Versification": "\u2014 four-line \u2014 aaaa",
+    "Bibliographic Ghosts": "",
+    "_description": "An Orison of the Five Joys \u2014 fourteen monorhyming quatrains plus 1 x 8, abababab at end",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nHeil beo \u00feou MarieMylde qwen of heueneBlessed is \u00fei\n                    NomeAnd good hit is to nemene\u2026\n",
+            "Last Lines": "\n\u2026Schild me from synne and schome\u00deat I falle no\n                    mareAnd send me hosul and schriftAr I he\u00feene fare.\n                    A.M.E.N.\n",
+            "Note": "\nFourteen monorhyming quatrains; written in half-lines.",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nHorstmann,  Carl,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 1.\nEETS\n         o.s. 98 (1892; repr. 1973): 30-2.\nPatterson,  Frank A. \n             The Middle English Penitential Lyric.\nColumbia University Studies in English.\n         New York: Columbia Press, 1911: 149-51.\n\n",
+            "folio": "f. 115va-115vb"
+        },
+        "CamStJohn256": {
+            "First Lines": "\nHeyl be \u00feu marie milde quen of heueneBlessed be \u00fei name\n                    & god it is to neuene\u2026\n",
+            "Last Lines": "\n\u2026In non of \u00fee sinnes seuene\u00feorw no fedes\n                    willeNou brig my saule to heuene \u00feerin a place to\n                    fille\n",
+            "Note": "\nWith rubric heading for each stanza, \u2018Aue maria gracia plena\n                        dominus tecum\u2019; last stanza, abababab, is written two lines verse\n                    per line of MS.",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 29-31.\nSaupe,  Karen,\n                        ed.  \n             Middle English Marian\n                    Lyrics.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1998: 142-4; 256-7.\n\n",
+            "folio": "pp. 268-269"
+        },
+        "BLRoy17Axxvii": {
+            "Note": "\nVariant text.",
+            "folio": "f. 81"
+        },
+        "Lam559": {
+            "First Lines": "\nHeyl be thow mary blisful quene of heueneand blessid be thi name\n                    for good hit is to nempne\u2026\n",
+            "Last Lines": "\n\u2026and bringe me to hevinther in a place to fillethat i may\n                    thorow thi gracewith the wonynand be to se thi sone in\n                    faceiustice & kyng so freof lyfe \u021diff me a spacethat i\n                    amendid beand in heuene a place amen\n",
+            "Attributed Title": "\nThis orisone here / swynge schal be sayde vn to / oure ladi saynt marie\n                    deuou / teli and with kneling (f. 15v, rubric)",
+            "folio": "ff. 15v2-19"
+        }
+    }
+}

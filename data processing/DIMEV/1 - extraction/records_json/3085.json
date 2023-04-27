@@ -1,0 +1,47 @@
+{
+    "_id": 3085,
+    "_header": "Like as the Bible maketh mention",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Legend of St. Austin at Compton\u2019",
+    "Subjects": "Augustine of Canterbury, saint; miracles; envoys",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, \u2018Legend of St. Austin at Compton\u2019 \u2014 fifty-one 8-line stanzas (ababbcbc), including envoy",
+    "_witnesses": {
+        "CULHh412": {
+            "First Lines": "\nLike as the bybyll makyth mencyounThe originall grownd of deuote\n                    offeryng\u2026\n",
+            "Last Lines": "\n\u2026By cause I am of wittys dulle and oldDo \u021dowr deuour thys\n                    processe to correct\n",
+            "Editions": "\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             A Selection from the Minor Poems of Don John Lydgate.\nPercy Society\n         2. London: T. Richard, 1840: 135-49.\n",
+            "folio": "ff. 37-43"
+        },
+        "BLHar2255": {
+            "First Lines": "\nLyk as the Bible makith menciounThe Original ground of devout\n                    offryng\u2026\n",
+            "Last Lines": "\n\u2026by cause I am of wittis dul and oldDoth your deveer this\n                    processe to corecte\n",
+            "Attributed Author": "\nExplicit quod lidgate (f. 32v, in margin)",
+            "Editions": "\n\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             A Selection from the Minor Poems of Don John Lydgate.\nPercy Society\n         2. London: T. Richard, 1840: 135-49.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 193-206.\nWhatley,  Gordon E.,\n                        ed.  \n             Saints\u2019 Lives in Middle English Collections.\n         With Anne B. Thompson and Robert K. Upchurch. MI: Western Michigan\n            University for TEAMS, 2004. \n\n",
+            "folio": "ff. 24*-32v"
+        },
+        "BLHar4826": {
+            "First Lines": "\nLyke as the byble makith menciounthe Original ground of devout\n                    offryng\u2026\n",
+            "Last Lines": "\n\u2026Be cause I am of wittys dul and OldDoth yowr deveer this\n                    processe to Correcte\n",
+            "Attributed Title": "\nhere be gynneth a myracle doon in seynt Austeyn is tyme (f. 46, rubricated\n                    incipit)",
+            "folio": "ff. 46-51v"
+        },
+        "BLLan699": {
+            "First Lines": "\nLYk as the bible makith mencionThe origynall ground of devout\n                    offryng\u2026\n",
+            "Last Lines": "\n\u2026Bi cause I am of wittis dull & oldDoth your deveer this\n                    processe to correcte\n",
+            "Note": "\nFolio number reflects the most recent foliation.",
+            "Attributed Title": "\nIncipit miraculum sancti augustini de decis (f. 34v);\n                        Explicit miraculum sancti augustini (f. 41)",
+            "folio": "ff. 35-41"
+        },
+        "Lincoln129": {
+            "First Lines": "\nThus he began bi grace of goddis hondWher god list werce may be\n                    noon obstacle\u2026\n",
+            "Last Lines": "\n\u2026bi cause I am of wittis dul & olddoth your deveer this\n                    processe to correcte\n",
+            "Note": "\nLines 1-128 wanting: two folios cut out.",
+            "Attributed Title": "\nIncipit miraculum sancti Augustini de decis (f. 74v);\n                        Explicit miraculum sancti Augustini (f. 79)",
+            "folio": "ff. 75-79"
+        },
+        "Leiden": {
+            "folio": "f. 8v"
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "_id": 843,
+    "_header": "Between midnight and the fresh morrow gray",
+    "Note": "Formerly 447; see also 6541.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "Fifteen Joys and Sorrows of Our Lady",
+    "Subjects": "Virgin Mary, joys of; Virgin Mary, sorrows of; dream visions; envoys",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lydgate, Fifteen Joys and Sorrows of Our Lady \u2014 in rhyme royal including Prologues and an Envoy",
+    "_witnesses": {
+        "Bod686": {
+            "First Lines": "\nBe twene mydnyght and \u00fee fressh morowe greyNat longe agon in\n                    herte ful pensife\u2026\n",
+            "Last Lines": "\n\u2026To \u00feat entent ydo the forth directeWhere \u00feu failest\n                    \u00feat men shal \u00fee correcte\n",
+            "Attributed Author": "\nLydgate (RT (RT, ff. 207-208)",
+            "Attributed Title": "\nxv Ioyes (RT, ff. 204-206); Here endeth the lyfe of seynt George.And here\n                    begynneth \u00fee prologe of \u00fee xv Ioyes of our ladye (f. 204); Here\n                    ende\u00fe \u00fee prolog of \u00fee xv Ioyes & begyne\u00fe \u00fee tale\n                    (f. 204v); xv heuynesse of oure ladye (f. 207); Here endeth the xv\n                    heuynes of oure lady (f. 208)",
+            "folio": "ff. 204-208v"
+        },
+        "CamFitzMc182": {
+            "First Lines": "\nGoo litill boke and mekely me excuseTo all tho that schall \u00fee\n                    see or rede\u2026\n",
+            "Last Lines": "\n\u2026To \u00feat entent I doo the forthe directeWhere thow failist\n                    that men schall the correcte\n",
+            "Note": "\nFragment (one-stanza envoy) used as envoy to 1544; with rubric heading, \u2018Lenuoy\u2019\n                    and rubric \u2018Explicit\u2019.",
+            "folio": "f. 49"
+        },
+        "CamJes56": {
+            "First Lines": "\n[A]twene mydnyght and \u00fee fressh morowe grayeNot yore ago in\n                    herte full pensife\u2026\n",
+            "Last Lines": "\n\u2026To \u00feat entent I do \u00fee forth directeWhere \u00feu\n                    failest \u00feat men shall \u00fee correcte\n",
+            "Note": "\n45 stanzas.",
+            "Attributed Title": "\nIncipiunt quindecim gaudia beate marie (f. 53)",
+            "folio": "ff. 53-58"
+        },
+        "CamTCC601": {
+            "First Lines": "\nBetwene mydnyght and the morow fresshe grayNat yore agone in hert\n                    full pensyfOf thoughtfull syghes my payne to put awayCausyd by the\n                    troble of thys vnstabyll lyst\u2026\n",
+            "Last Lines": "\n\u2026To that entent dothe forth dyrectWhere thow faylyst that men\n                    shall the correct\n",
+            "Note": "\n45 stanzas including two prologues of 5 and 4 stanzas and one envoy of 3\n                    stanzas.",
+            "Attributed Author": "\nJohn Lydgate (added by later hand, ff. 238, 242)",
+            "Attributed Title": "\nExpliciunt quindecim gaudia beate Marie Virginis (f. 240);\n                        Incipit prologus quindecim Dolorum beate Marie (f. 240);\n                        Expliciunt quindecim dolores beate Marie Virginis (f. 242)",
+            "folio": "ff. 238-242"
+        },
+        "BLCottAppXXVII": {
+            "First Lines": "\nThou that arte called glorie of IsraellFor that Ioye moste\n                    souereyne of renoun\u2026\n",
+            "Last Lines": "\n\u2026Of eche conseuruyd the same obserueanceAs here to forne is\n                    put in remembraunce\n",
+            "Note": "\nStanzas 8-23.",
+            "folio": "ff. 1-2v"
+        },
+        "BLHar2255": {
+            "First Lines": "\nAtween mydnyght and the fressh morwe grayNat yore ago in herte ful\n                    pensiff\u2026\n",
+            "Last Lines": "\n\u2026To that entent I do the forth directeWher thu faylest that\n                    men shal the correcte\n",
+            "Attributed Author": "\nExplicit quod lidgate (f. 93v)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 268-79.\n",
+            "folio": "ff. 88-93v"
+        }
+    }
+}

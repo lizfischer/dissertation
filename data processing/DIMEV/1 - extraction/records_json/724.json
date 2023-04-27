@@ -1,0 +1,374 @@
+{
+    "_id": 724,
+    "_header": "At Trumpington not far fro Cantebridge",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Reeve\u2019s Tale; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; millers; contest; fabliau",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the Reeve\u2019s Tale of the Canterbury Tales \u2014 404 lines in couplets.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nAT Trumpynton nought fer fro Cambriggether goth a broke & ouer\n                    that a brigge\u2026\n",
+            "Last Lines": "\n\u2026saue al this companye grete & smalethus haue I quytte the\n                    Miller in my tale\n",
+            "Attributed Title": "\n\u2026And next folwith / his tale of the Millere and his wiff how thei\n                    were bigiled (f. 58); the Reve (RT); Here endith the Reve his tale\u2026 (f.\n                    64)",
+            "folio": "ff. 58v-64"
+        },
+        "BodBar20": {
+            "First Lines": "\nAt Trumpyngton nou\u021dt fer fro Canterburyther gooth a broke and\n                    ouer \u00feat a brige\u2026\n",
+            "Last Lines": "\n\u2026Saue all \u00feis companye grete and smaleThus haue I quyte\n                    \u00fee Miller in my tale\n",
+            "Attributed Title": "\n\u2026and here begynneth \u00fee tale (f. 44); The Reve (RT); here endith\n                    \u00fee Reves tale\u2026 (f. 49v)",
+            "folio": "ff. 44-49v"
+        },
+        "Bod414": {
+            "First Lines": "\n[A]T Trumpington not ferre from CambriggeTher goth a broke and ouer\n                    that a brigge\u2026\n",
+            "Last Lines": "\n\u2026Saue al this cumpany gret & smaleThus haue I quitte the\n                    Milners tale\n",
+            "Attributed Title": "\nHere begynneth the Reves tale (f. 47)",
+            "folio": "ff. 47-51v"
+        },
+        "Bod686": {
+            "First Lines": "\nAt Trompyngton nat ferre fro cantebriggeTher goth a brok and over\n                    \u00feat a brygge\u2026\n",
+            "Last Lines": "\n\u2026Save al \u00feis company grete and smaleThus have y quyt\n                    \u00fee Miller in my tale\n",
+            "Attributed Title": "\nHere begynneth the Reues tale (f. 49); Reue (RT); Here endeth the Reues\n                    tale\u2026 (f. 54)",
+            "folio": "ff. 49-54"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nAt Trumpingtoun not fer fro Canterbrigge\u00feere goth a broke and\n                    ouer \u00feat a brigge\u2026\n",
+            "Last Lines": "\n\u2026Saue al \u00feis compani grete and smaleThus haue I quite\n                    \u00fee millers tale\n",
+            "Note": "\nI.3698, 4313 omitted.",
+            "Attributed Title": "\n\u2026And next / beginneth \u00fee Carpenters tale of \u00fee Miller of\n                    Trumpyngdoun (f. 45v); The Carpenters tale (RT); Here endeth \u00fee\n                    Carpenters tale of \u00fee Miller of Trympingdoun\u2026 (f.\n                    50v)",
+            "folio": "ff. 45v-50v"
+        },
+        "BodLauMis600": {
+            "First Lines": "\n\u2026This long night ther tides men no resteBut yett in force al\n                    shal be for \u00fee best\u2026\n",
+            "Last Lines": "\n\u2026Saue all \u00feis companye grete and smaleThus haue I quyt\n                    \u00fee Meller in my tale\n",
+            "Note": "\nI.3921-4174 lost.",
+            "Attributed Title": "\n\u00fee Reue (RT)",
+            "folio": "ff. 59-61"
+        },
+        "BodLauMis739": {
+            "First Lines": "\n[A]t Trumpyngton noght fer fro CambrygeTher gothe a broke and ouer\n                    that bryge\u2026\n",
+            "Last Lines": "\n\u2026Saue all this cumpany grete & smaleThus haue I quyt the\n                    myller my tale\n",
+            "folio": "ff. 60-66"
+        },
+        "BodRawPoe141": {
+            "First Lines": "\nAt Trompynton not fer from Cam briggeTher goth a broke & ouer\n                    that a brigge\u2026\n",
+            "Last Lines": "\n\u2026Saue all the companye gret & smaleThus haue I quyt the\n                    myller his tale\n",
+            "Note": "\nI.4161-287 lost; 4287-8 reversed.",
+            "Attributed Title": "\n\u2026Here bygynneth the Reues tale (f. 22); The reue (RT); Here endeth\n                    the Reues tale\u2026 (f. 27v)",
+            "folio": "ff. 22-27v"
+        },
+        "BodRawPoe149": {
+            "First Lines": "\n\u2026Nowe may I sey \u00feat I am but an Apeyet hath my felowe\n                    sum what for his harme\u2026\n",
+            "Last Lines": "\n\u2026Saue alle this Cumpany grete & smaleThus haue I quitte\n                    the Millers tale\n",
+            "Note": "\nI.3921-4201 lost.",
+            "Attributed Title": "\nthe Reve (RT)",
+            "folio": "ff. 22-23"
+        },
+        "BodRawPoe223": {
+            "First Lines": "\nAt trompington nat fer fro cambriggeTher goth a brook and ouer that\n                    a brigge\u2026\n",
+            "Last Lines": "\n\u2026A gilour shal him self be giled beAnd god that sitteth hy in\n                    mageste\u2026\n",
+            "Note": "\nI.4323-4 lost.",
+            "Attributed Title": "\n\u2026And here beginneth his tale folwing (f. 55); The Reues tale\n                    (RT)",
+            "folio": "ff. 55-60v"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nAt Trompyngton nat fer fro CantebriggeTher gooth a broke and ouer\n                    that a brigge\u2026\n",
+            "Last Lines": "\n\u2026Saue all this compaignye grete and smaleThus haue I quyte the\n                    Millere in my tale\n",
+            "Note": "\nI.4269-70 reversed; 4029, 4082, 4184 inserted in margin.",
+            "Attributed Title": "\nhe be gynnyth the tale / Narrat (f. 52, margin)",
+            "folio": "ff. 52-57"
+        },
+        "OxfCCC198": {
+            "First Lines": "\nAt Trumpyngton nought fer fro CantabreggeTher go\u00fe a brook and\n                    ouer \u00feat a bregge\u2026\n",
+            "Last Lines": "\n\u2026Saue all \u00feis companye grete and smaleThus haue I quytte\n                    \u00fee meller in my tale\n",
+            "Note": "\nBegins I.73; ends X.290.",
+            "Attributed Title": "\nffabula (margin, f. 55)",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "ff. 55-61"
+        },
+        "OxfNew314": {
+            "First Lines": "\nAt trompynton not fer from CambrigTher goth a brook & ouer\n                    \u00feat a brig\u2026\n",
+            "Last Lines": "\n\u2026Saue al \u00feis compane grete and smaleThus haue I quyt\n                    \u00fee myllere his tale\n",
+            "Note": "\nI.4204 omitted.",
+            "Attributed Title": "\n\u2026begynning his tale (f. 45v); Reve (RT); Here endith the\n                    Revis tale\u2026 (f. 51v)",
+            "folio": "ff. 45v-51v"
+        },
+        "OxfTri49": {
+            "First Lines": "\nAt trumpynton nat fer fro Cambruggether goth a broke and ouer that\n                    a brigge\u2026\n",
+            "Last Lines": "\n\u2026Saue all this cumpanye grete and smalethus haue I quite the\n                    Miller his tale\n",
+            "Note": "\nI. 4191-4, 4269 omitted.",
+            "Attributed Title": "\nthe Reues Tale (f. 54v); The Reue (RT)",
+            "folio": "ff. 54v-59"
+        },
+        "CULDd424": {
+            "First Lines": "\nAt Trompyngton nat fer fro CaumbryggeThere goth a broke and ouer\n                    that a brygge\u2026\n",
+            "Last Lines": "\n\u2026Saue al this companye grete and smaleThus haue I quyt the\n                    Millere in my tale\n",
+            "Attributed Title": "\nHeere bigynneth the Reues Tale (f. 48); Thus endeth the Reues Tale\u2026\n                    (f. 52v); quod the Reve (f. 52v, right margin)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 48-52v"
+        },
+        "CULGg427": {
+            "First Lines": "\nAT Trompynton not fer fram cantabregge\u00feere goth a brok &\n                    ouer \u00feat a bregge\u2026\n",
+            "Last Lines": "\n\u2026Save all \u00feese cumpanyis grate & smaleThus haue I\n                    quit \u00fee Mellere in myn tale\n",
+            "Attributed Title": "\nHere begynnyth the Reue his tale (f. 186)",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "Editions": "\nFurnivall,  Frederick James. \n             The Cambridge MS (University Library, Gg.4.27) of Chaucer\u2019s\n                Canterbury Tales.\nChaucer Society\n         Series 1, nos. 4, 10, 17, 28, 33, 40, 52, 66. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 186v-192"
+        },
+        "CULIi326": {
+            "First Lines": "\n[A]t trompyngton nought ferre from CambryggeThere gothe a broke and\n                    ouer that a brygge\u2026\n",
+            "Last Lines": "\n\u2026Saue all this companye grete and smaleAnd thus haue I quyt\n                    the mylner his tale\n",
+            "Note": "\nI.4090-1 reversed.",
+            "Attributed Title": "\nReve (RT); Here endeth the reves tale of the mylner\u2026 (f.\n                    52)",
+            "folio": "ff. 46-51"
+        },
+        "CULMm25": {
+            "First Lines": "\n\u2026Atte Trumpyngton no\u021dt ferre from CantirbriggeTher goth\n                    a broke and ouer \u00feat a brygge\u2026\n",
+            "Last Lines": "\n\u2026Saue all \u00feis company grete and smalleThus haf I quytte\n                    \u00fee Meller in my tale\n",
+            "Note": "\nI.3698 inserted in margin.",
+            "Attributed Title": "\nHic incipit fabula (f. 43); The Reues tale (RT)",
+            "folio": "ff. 43-47v"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[A]t Trumpyngton not ferre fro CaumbrigeTher gothe a broke and ouer\n                    \u00feat a brygge\u2026\n",
+            "Last Lines": "\n\u2026Save all this company grete & smaleThus haue I quytte\n                    \u00fee myller his tale\n",
+            "Attributed Title": "\nThe Carpenters tale (f. 58); The C[trimmed] (RT); Here endeth \u00fee\n                    Carpenters Tale (f. 63v)",
+            "folio": "ff. 58-63v"
+        },
+        "CamTCC582": {
+            "First Lines": "\nAt Trompington nat fer fro CambriggeTher goth a brook and ouer that\n                    a brigge\u2026\n",
+            "Last Lines": "\n\u2026Saue all this company gret & smallThus haue I aquitt the\n                    Miller in my tale\n",
+            "Attributed Title": "\n\u2026with his tale folwing (f. 23ra)",
+            "folio": "ff. 23ra-25va"
+        },
+        "CamTCC595": {
+            "First Lines": "\nAT trompyngton not fer from CambrigeThere goth a broke and ouer\n                    that a brige\u2026\n",
+            "Last Lines": "\n\u2026Saue alle this compeny grete and smaleThus haue I quyt the\n                    Miller his tale\n",
+            "Attributed Title": "\n\u2026And here begynneth his tale (f. 66); Here endeth the Reues\n                    tale\u2026 (f. 72)",
+            "folio": "ff. 66-72"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nAT trompyngton nat fer fro CambryggeTher goth a broke and ovir that\n                    a brygge\u2026\n",
+            "Last Lines": "\n\u2026Save al this companye grete and smaleThus haue y quyte the\n                    myller in my tale\n",
+            "Attributed Title": "\nHic Incipit fabula prepositi (f. 68v); Reve (RT);\n                        Explicit fabula prepositi\u2026 (f. 65)",
+            "folio": "ff. 58v-65"
+        },
+        "BLAdd35286": {
+            "First Lines": "\n\u2026Round was his face and camysed was his noseAnd piled as an\n                    ape was his sculle\u2026\n",
+            "Last Lines": "\n\u2026Saue al this compaignye gret and smaleThus haue I quyt the\n                    miller in my tale\n",
+            "Note": "\nI.3921-33 lost.",
+            "Attributed Title": "\nThe Reue (RT); Here endeth the Reues tale\u2026 (f. 43)",
+            "Editions": "\nHorobin,  Simon. \n             \u201cA Transcription and Study of British Library MS Additional 35286 of\n                Chaucer\u2019s Canterbury Tales.\u201d \n         Diss. Univ. of Sheffield, 1997. \n",
+            "folio": "ff. 38-43"
+        },
+        "BLEge2726": {
+            "First Lines": "\nAt Trumpyngton nat fer from CaumbriggeThere goth a broke and ouere\n                    that a brigge\u2026\n",
+            "Last Lines": "\n\u2026Save all this company grete and smaleThus haue I quytte the\n                    myller in my tale\n",
+            "Attributed Title": "\nThus endeth the Reves tale\u2026 (f. 54v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 49v-54v"
+        },
+        "BLEge2863": {
+            "First Lines": "\n\u2026A ful faire sight was it vpon hem twoOn halidaies biforne\n                    hire wolde he goo\u2026\n",
+            "Last Lines": "\n\u2026Some esement ha\u00fe lawe schapen vsffor Iohn \u00feere is a\n                    lawe \u00feat seith \u00feus\u2026\n",
+            "Note": "\nI.3921-50, 4181-4324 lost; 4031-2 omitted.",
+            "Attributed Title": "\nThe Reue (RT)",
+            "folio": "ff. 34-36v"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[A]t trompyngton nat fer fro CambreggeTher goth a brook and ouer\n                    that a brigge\u2026\n",
+            "Last Lines": "\n\u2026Save all this companye grete and smaleThus have I quyt the\n                    millere in my tale\n",
+            "Attributed Title": "\nHic incipit fabula prepositi (f. 57v); The Reve is tale\n                    (RT); Explicit fabula prepositi\u2026 (f. 63)",
+            "folio": "ff. 57v-63"
+        },
+        "BLHar1758": {
+            "First Lines": "\nAt Trompyngton nou\u021dt fer fro CambryggeTher goth a broke &\n                    ouer that a brigge\u2026\n",
+            "Last Lines": "\n\u2026Saue all this companye grete & smaleThus haue I quyt the\n                    Miller in my tale\n",
+            "Note": "\nA blank space of about about ten lines intervenes between the\n                        explicit and the incipit for the Cook\u2019s\n                    Prologue.",
+            "Attributed Title": "\n\u2026& begynneth the Tale (f. 41); The Reues Tale (RT); here endith\n                    the Reues tale (f. 45v)",
+            "folio": "ff. 41-45v"
+        },
+        "BLHar7333": {
+            "First Lines": "\nAt Thorpyngton not fer from Caumb[ugge?]\u00deer\n                    goo\u00fee a brooke & ouer \u00feat a brugge\u2026\n",
+            "Last Lines": "\n\u2026Save alle \u00feis companye her gret & smaleThus have I\n                    qwite \u00fee milner his tale\n",
+            "Note": "\nI.4115 omitted; 3055, 4136 inserted in margin; 4159-60 reversed;\n                    spurious line follows 4116.",
+            "Attributed Title": "\n\u2026and / nowe begynnythe here nexste \u00fee Revis tale (f.\n                        57vb)",
+            "folio": "ff. 57vb-59va"
+        },
+        "BLHar7334": {
+            "First Lines": "\nAT Trompyngtoun nat fer fro CantebriggeTher goth a brook and ouer\n                    \u00feat a brigge\u2026\n",
+            "Last Lines": "\n\u2026Saue al \u00feis compaignie gret & smaleThus haue I quyt\n                    \u00fee Miller in his tale\n",
+            "Note": "\nI.4209-10 reversed.",
+            "Attributed Title": "\n\u2026And here bygynne\u00fe his tale (f. 52v); Reues tale\n                    (RT); here ende\u00fe \u00fee / Reeues tale (f. 57v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "ff. 52v-57v"
+        },
+        "BLHar7335": {
+            "First Lines": "\n[A]t Trompyngton nat fer from CambriggeTher goth a brok and ouer\n                    that a brigge\u2026\n",
+            "Last Lines": "\n\u2026Saue al this Compaynye greet and smaleThus haue I quyted the\n                    Millere in my tale\n",
+            "Note": "\nI.4051-2 reversed.",
+            "Attributed Title": "\nffabula Carpentarij (f. 37, margin)",
+            "folio": "ff. 37-42v"
+        },
+        "BLLan851": {
+            "First Lines": "\nAt Trumpyngton nouht fer fro Cam bruggeThere go\u00fee a broke\n                    & ouere \u00feat a brugge\u2026\n",
+            "Last Lines": "\n\u2026Saue al \u00feis compainye grete & smaleThus haue I quyte\n                    \u00fee Meller in my tale\n",
+            "Note": "\nVerse ends on f. 230v.",
+            "Attributed Title": "\n\u00fee revese tale / begynne\u00fe here (f. 48v); \u00dee Reve\n                    (RT); Explicit fabula\u2026 (f. 53)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 48v-53"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nAtte Trumpyngton notte fferre ffrome CambrygeThere gothe A brooke\n                    and ouer that A brygge\u2026\n",
+            "Last Lines": "\n\u2026Saue all \u00feis Companye grete & smaleThus haue I\n                    qwytte the Myller in my tale\n",
+            "Attributed Title": "\n\u2026And begynnyth the tale of the Reve (f. 59); Here endith the tale of\n                    the reve\u2026 (f. 65)",
+            "folio": "ff. 59-65"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nAT Trumpyngton nou\u021dt fer fro CaumbryggeTher goth a broke and\n                    ouer that a brygge\u2026\n",
+            "Last Lines": "\n\u2026Saue alle this companye grete & smaleThus haue I quyt\n                    \u00fee Mellere in my tale\n",
+            "Attributed Title": "\n\u2026And begynneth the tale (f. 50v); The Reve (RT)",
+            "folio": "ff. 50v-55v"
+        },
+        "BLSl1685": {
+            "First Lines": "\nAT trympyngton not fer fro CantebriggeTher goth a brook and ouer\n                    that a brigge\u2026\n",
+            "Last Lines": "\n\u2026Saue all \u00feis companye grete & smaleThus haue I quyt\n                    \u00fee Meller in my tale\n",
+            "Attributed Title": "\nHeere bigynneth the Reues tale (f. 44v, in margin); The Reue\n                    (RT)",
+            "folio": "ff. 44v-50"
+        },
+        "BLSl1686": {
+            "First Lines": "\nAT Trompington not fer from CambrigeThere goth A brook & ouere\n                    \u00feat a brigge\u2026\n",
+            "Last Lines": "\n\u2026Save alle this company gret and smaleThus have I quitte the\n                    myller in my tale\n",
+            "Attributed Title": "\n\u2026And here begynneth his tale folwyng (f. 62v); [t]He Reues\n                    tale (RT); Here endithe the tale of the Reve \u00feat he tolde be \u00fee\n                    Meller\u2026 (f. 69v)",
+            "folio": "ff. 62v-69v"
+        },
+        "NLWPen392": {
+            "First Lines": "\nAT Trompyngtoun nat fer fro CantebryggeTher gooth a book and ouer\n                    that a brygge\u2026\n",
+            "Last Lines": "\n\u2026Saue al this compaignie grete and smaleThus haue I quyt the\n                    Miller in my tale\n",
+            "Attributed Title": "\nNarrat (f. 51, margin); The Reve (RT); Here endeth the Reues tale\n                    (f. 56v)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "ff. 51-56v"
+        },
+        "Alnwick455": {
+            "First Lines": "\nAt Trompyngton nat ferr fro cambriggThere goith a brook & ovir\n                    \u00feat a brigg\u2026\n",
+            "Last Lines": "\n\u2026And feir & wele she crepith in to the clerkAnd lay ful\n                    still and wold hav cau\u021dt a sclepe\u2026\n",
+            "Note": "\nI.4228-324 lost; 4005, 4065-70 omitted; 3923-4 reversed.",
+            "Attributed Title": "\n\u2026And here begynnyth he his tale (f. 50v)",
+            "folio": "ff. 50v-54v"
+        },
+        "GULHun197": {
+            "First Lines": "\nAt Trumpyngton nat fer fro CanterbriggeThere goth a broke and ouere\n                    \u00feat a brigge\u2026\n",
+            "Last Lines": "\n\u2026Save all this companye grete and smaleThus haue I quytte the\n                    myller in his tale\n",
+            "Attributed Title": "\nHere begynneth the Reves Tale (f. 21rb); The Reve (RT)",
+            "folio": "ff. 21rb-23va"
+        },
+        "Holkham667": {
+            "First Lines": "\nAtte trumpington nat fer from cambriggeTher goth a broke and ouere\n                    that a brigge\u2026\n",
+            "Last Lines": "\n\u2026Save all this companye grete and smaleThus haue I quyt the\n                    miller in my tale\n",
+            "Note": "\nI.4250 omitted; 4047-8, 4269-7 reversed; spurious line follows 4246. The\n                    leaf containing the end of Reeve\u2019s Tale and the beginning of the\n                        Second Nun\u2019s Prologue (comprising ff. 2+7 of Quire 4) is\n                    inverted, with f. 22 consequently following f. 16.",
+            "folio": "ff. 19va-22rb"
+        },
+        "Lichfield29": {
+            "First Lines": "\nAT Trumpyngton nou\u021dt fer fro CaumbriggeTher goth a brook and\n                    ouer \u00feat a brigge\u2026\n",
+            "Last Lines": "\n\u2026Saue al this company grete & smaleThus haue I quitte the\n                    Millere his tale\n",
+            "Attributed Title": "\n\u2026et Incipit fabula (f. 51); The Reue (RT); Explicit\n                        fabula (f. 56)",
+            "folio": "ff. 51-56"
+        },
+        "Lincoln110": {
+            "First Lines": "\nAT Trumpyngtoun not fer fro CambriggeTher renny\u00fe abrook &\n                    ouer \u00feat is abrygge\u2026\n",
+            "Last Lines": "\n\u2026Saue alle this compaignye gret and smaleThus haue y quytte\n                    the miller in my tale\n",
+            "Note": "\nI.4077-8 reversed.",
+            "Attributed Title": "\nThe Revestale (RT); The Reve (RT)",
+            "folio": "ff. 47v-52v"
+        },
+        "LonPhys388": {
+            "First Lines": "\nAt Trumpyngton nat fer from CambriggeTher goth a brooke and ouer\n                    that a brigge\u2026\n",
+            "Last Lines": "\n\u2026Save al this compaigne grete and smaleThus have I quyt the\n                    Miller in his tale\n",
+            "Attributed Title": "\n\u2026Incipit ffabula (f. 69); Here endith the Reeves tale\u2026\n                    (f. 76)",
+            "folio": "ff. 69-76"
+        },
+        "RylandsEng113": {
+            "First Lines": "\nAtt Trumpyngton not fer fro Cambrigge\u00feer goth a brook and ouer\n                    \u00feat a brigge\u2026\n",
+            "Last Lines": "\n\u2026Save all \u00feis Company grete and smaleThus haue I quytte\n                    \u00fee Miller his tale\n",
+            "Note": "\nI.3981-6, 4173-4 omitted.",
+            "Attributed Title": "\nHic incipit fabula praepositi (f. 42); ffabula praepositi (f.\n                    42, margin); Reve (RT); Explicit fabula praepositi (f.\n                    45v)",
+            "folio": "ff. 42-45v"
+        },
+        "Petworth7": {
+            "First Lines": "\nAt Trumpington not fer fro CaunterbrugeTher go\u00fe a broke and\n                    over \u00feat a bruge\u2026\n",
+            "Last Lines": "\n\u2026Saue al \u00fee company grete & smaleThus haue I quytte\n                    \u00fee Meller in my tale\n",
+            "Attributed Title": "\n\u2026And here begynne\u00fe \u00fee Reeues Tale (f. 55); The Reues Tale\n                    (RT); Thus Endeth \u00fee Reues Tale\u2026 (f. 60v)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 55-60v"
+        },
+        "Austin143": {
+            "First Lines": "\nAt Trumpyngton not fer fro CaumbriggeThere goith a broke and ouere\n                    that a Brigge\u2026\n",
+            "Last Lines": "\n\u2026Save alle thise companye grete and smaleThus haue y quyt the\n                    Millers tale\n",
+            "Note": "\nI.3981-6, 4172-4 omitted.",
+            "Attributed Title": "\nHic incipit fabula praepositi; (f. 44v); ffabula\n                        praepositi (f. 44v, in margin); Reve (RT); Explicit fabula\n                        prapositi\u2026 (f. 49v)",
+            "folio": "ff. 44v-49v"
+        },
+        "ChicagoUL564": {
+            "First Lines": "\nAtte Trumpyngton not fer fro caunterbrugge\u00feere goth a brook\n                    & ouer \u00feat a brugge\u2026\n",
+            "Last Lines": "\n\u2026Saue all \u00feis company grete & smale\u00feus haue I\n                    quyt \u00fee myller his tale\n",
+            "Note": "\nI.4287-8 reversed.",
+            "folio": "ff. 2-8v"
+        },
+        "PierpontM249": {
+            "First Lines": "\nAt Trumpyngton nou\u021dt fer fro CaumbriggeTher goth a brook and\n                    over that a brigge\n",
+            "Last Lines": "\n\u2026Save al this company grete and smaleThus have I quytte the\n                    Millere his tale\n",
+            "Attributed Title": "\n\u2026et Incipit fabula (f. 55v); The Reve (RT);\n                        Explicit fabula & cetera\u2026 (f. 60v)",
+            "folio": "ff. 55v-60v"
+        },
+        "PhilRos10842": {
+            "First Lines": "\nWich that I help my fadir for to steleAnd good lemman God the save\n                    and keep\u2026\n",
+            "Last Lines": "\n\u2026Save al this compane grete and smaleThus have I quyt the\n                    myller his tale\n",
+            "Note": "\nOnly I.4246-4372 of the Reeve\u2019s Tale survives.",
+            "Attributed Title": "\nHere endith the Reve his tale\u2026 (rubric, f. 2v)",
+            "folio": "1-2v"
+        },
+        "PUL100": {
+            "First Lines": "\nAt Trompyngdon nat fer fro CambriggThere goith a broke and ovir\n                    that abrigg\u2026\n",
+            "Last Lines": "\n\u2026Save al this company grete & smaleThus haue I quyt\n                    \u00fee Miller in my tale\n",
+            "Note": "\nI.3950, 4125 omitted.",
+            "Attributed Title": "\n\u2026And here begynnyth the tale of the Reve (f. 27v); Ryve\n                    (RT); Reve (RT); Here endith the Ryve his tale (f. 33)",
+            "folio": "ff. 27v-33"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nAt Trumpyngton nat fer fro CantebriggeTher gooth a brook and ouer\n                    that a brigge\u2026\n",
+            "Last Lines": "\n\u2026Saue al this compaignye grete and smaleThus haue I quyt the\n                    Miller in my tale\n",
+            "Attributed Title": "\nHeere bigynneth the Reues tale (f. 41); Reue (RT); Heere is ended the Reues\n                    tale\u2026 (f. 46v)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 42-46v"
+        },
+        "BNangl39": {
+            "First Lines": "\nAt Trumpyngton not fer for Caumbrigge\u00feer gos a brook and ouyr\n                    \u00feat a brigge\u2026\n",
+            "Last Lines": "\n\u2026saue al this company gret & smalethus haue I quyt the\n                    mylner in my tale\n",
+            "Note": "\nI.4092-3 omitted (defectus in margin); 4005-6, 4040-39\n                    reversed.",
+            "Attributed Title": "\n& subsequenter incipit fabula eiusdem (f. 22rb);\n                        Explicit fabula prepositi\u2026 (f. 24va)",
+            "folio": "ff. 22rb-24va"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nAt Trompington nat fer from CambriggeThere goth a brook & ouer\n                    that a brigge\u2026\n",
+            "Last Lines": "\n\u2026Saue al this company gret and smaleThus haue I quit the\n                    Millere in my tale\n",
+            "Attributed Title": "\nHiere beginneth the Reues tale folwing (f. 48); Reues tale (RT)",
+            "folio": "ff. 48-53"
+        },
+        "TokyoTak32": {
+            "First Lines": "\nAt Trvmpyngtone nowt fer fro cantebreggeTheer gooht a broke &\n                    over it lyght a bregge\u2026\n",
+            "Last Lines": "\n\u2026Saue all this cvmpane greete and smaleAnd thus have I quit\n                    thee Mellere his tale\n",
+            "Note": "\nI.4231 omitted; spurious lines follow 4230.",
+            "Attributed Title": "\nhere be gynnyht thee tale (f. 42ra); The Revis Tale (RT); here\n                    endyht thee Revis tale (f. 44vb)",
+            "folio": "ff. 42ra-44vb"
+        },
+        "Bodmer48": {
+            "First Lines": "\nAt Trumpington not ferre fro CambriggeTher goth a brook and ouer\n                    that a Brigge\u2026\n",
+            "Last Lines": "\n\u2026Save all this cumpany gret & smaleThus haue I quitte the\n                    mylneres tale\n",
+            "Attributed Title": "\nNow begynneth the Reves tale (rubric, f. 51)",
+            "Facsimiles": "\n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n",
+            "folio": "ff. 51-56v"
+        }
+    }
+}

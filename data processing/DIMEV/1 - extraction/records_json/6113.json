@@ -1,0 +1,57 @@
+{
+    "_id": 6113,
+    "_header": "Unto his disciples said Christ",
+    "Note": "For the version in the \u2018expanded\u2019 Cycle see 1560.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Fifteenth Sunday after Trinity, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nUNto his dissiples saide cristeAls saise mathew \u00fee\n                    ewangeliste\u2026\n",
+            "Last Lines": "\n\u2026\u00feat mai we se wele be a tale\u00feat to iow now tell i\n                    sale\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 179v-182"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nTO his disciples seide cristAs sei\u00fe Matheu \u00fee\n                    Ewangelist\u2026\n",
+            "Last Lines": "\n\u2026ffor wel may he \u00fee foode vs sende\u00deat schal vs feede\n                    wi\u00fe outen ende\n",
+            "Attributed Title": "\nNemo potest duoborum dominis seruire (f. 206rb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 206rb-206vb"
+        },
+        "CULAdd8335": {
+            "folio": "f. 290"
+        },
+        "CULDd11": {
+            "folio": "f. 186"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nTO his disciples seide cristAs sei\u00fe seint Mathe \u00fee\n                    euaungelist\u2026\n",
+            "Last Lines": "\n\u2026ffor wel may he \u00fee foode vs sende\u00deat schal vs fede\n                    withouten ende\n",
+            "Attributed Title": "\nNemo potest duoborum dominis seruire (f. 11ra)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 11ra-11rc"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nVn to his dissiples said cristeAls sais mathewe \u00fee\n                    euangeliste\u2026\n",
+            "Last Lines": "\n\u2026That may we se wele be a taleThat I now to \u00feow tell\n                    sall\n",
+            "folio": "ff. 139v-141v"
+        },
+        "Lam260": {
+            "folio": "f. 52vb"
+        },
+        "MinULZ822": {
+            "First Lines": "\nTyll hys disciples sayd crysteals says Saynt marke \u00fee\n                    euangelysteHe sayde es na maid at may\u2026\n",
+            "Last Lines": "\n\u2026\u00feat may \u021de se wele be a tale\u00feat I now tell\n                    \u021dow sall\n",
+            "Attributed Title": "\nDominica xva Secundum Marcum (f.\n                    142v)",
+            "folio": "ff. 142v-144"
+        },
+        "HunHM129": {
+            "First Lines": "\nHow haue \u021de herd sum \u00feynge of schryfftAnd how man his\n                    hert to god schall lyfftForthi is gode \u00feat we vs schryveAnd with\n                    penauns a mend oure lyue\u2026\n",
+            "Last Lines": "\n\u2026ffor well may he \u00fee fode vs send\u00deat schall vs fede\n                    with oure end\n",
+            "Attributed Title": "\nDominica quinta decima post festum trinitatis (f.\n                    154v)",
+            "folio": "ff. 154v-156v"
+        }
+    }
+}

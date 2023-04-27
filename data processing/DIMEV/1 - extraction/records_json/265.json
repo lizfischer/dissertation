@@ -1,0 +1,94 @@
+{
+    "_id": 265,
+    "_header": "Alas alas that I was born",
+    "Note": "Includes former 141.5; for another version in Fasciculus morum, see 264; cf. 2027, 6216.",
+    "Subjects": "sinner, lament of; sermons, verse in",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Sinner\u2019s Lament, a tag in the Fasciculus morum, Version B",
+    "_witnesses": {
+        "Bod187": {
+            "Transcription": "\nAlas alas \u00feat y was bornBo\u00fee body & sowle y em for\n                    lorn\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 181ra"
+        },
+        "Bod410": {
+            "Transcription": "\nAlas Alas \u00feat I was bornBoth lyf & sowle I am for\n                    lorn\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 60v"
+        },
+        "BodLauMis213": {
+            "folio": "f. 109v"
+        },
+        "BodLauMis568": {
+            "Transcription": "\nAlas alas \u00feat y was bornbo\u00fee lyfe and sale I am for\n                    lorne\n",
+            "folio": "f. 75ra"
+        },
+        "BodLauMis111": {
+            "folio": "f. 171"
+        },
+        "BodRawC670": {
+            "Transcription": "\nAlas alas \u00feat I was bornBo\u00fee lyf & sowle y am for\n                    lorn\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 187.\n",
+            "folio": "f. 104v"
+        },
+        "CamGon71": {
+            "Transcription": "\nAllas allas \u00feat I was borneboth lyue & soule I am for\n                    lorne\n",
+            "folio": "f. 67"
+        },
+        "CamGon364": {
+            "Transcription": "\nAlas alas \u00feat I was bornbothe lyf and soule I am for\n                    lorne\n",
+            "folio": "f. 100va"
+        },
+        "CamStJohn159": {
+            "Transcription": "\nAlas alas \u00feat I was bornbot lyf and saul I ame\n                    forlorne\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 136"
+        },
+        "CantLitD14": {
+            "Transcription": "\nAllas allas \u00feat i was borneboth life & soule i am for\n                    lorne\n",
+            "Note": "\nWritten as prose with a \u2018Nota\u2019 in the margin.",
+            "folio": "f. 141v"
+        },
+        "DULCosViv2": {
+            "Transcription": "\nAlas alas \u00feat I was bornboth lyue & saule I am for\n                    lorne\n",
+            "folio": "f. 56v"
+        },
+        "Eton34": {
+            "Transcription": "\nAlas Alas \u00feat I was bornBothe lyfe & sowle I am\n                    forlorn\n",
+            "Note": "\nWritten as prose; f. 161v of continuous\n                    foliation.",
+            "folio": "Part II, f. 58v"
+        },
+        "Lam78": {
+            "Transcription": "\nAlas alas that I was bornbothe lyf ant saule I am for lorn\n",
+            "Note": "\nCopied from Fasciculus. Written as prose.",
+            "folio": "f. 219vb"
+        },
+        "Lincoln44": {
+            "folio": "f. 205ra"
+        },
+        "Lincoln234": {
+            "Transcription": "\nAlas alas \u00feat euer I was bornffor body and soule I am for\n                    lorn\n",
+            "Note": "\nNot in the Fasciculus morum, but occurring in a treatise on the\n                    Ten Commandments, in portion on the Fifth Commandment, telling story of a sinner\n                    who cried this out to his confessor.",
+            "Editions": "\nOwst,  Gerald Robert. \n             Preaching in Medieval England.\n         Cambridge: UP, 1926; rev. ed. New York, 1961: 273.\n",
+            "folio": "f. 163"
+        },
+        "Spalding": {
+            "Transcription": "\nAla[ ] allace that I was bornelyfe and soule I am forlorne\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 110v"
+        },
+        "WorcF19": {
+            "Transcription": "\nAlas alas \u00feat y was borynBoth lyf & saule I am for\n                    loryn\n",
+            "Note": "\nWritten as verse.",
+            "folio": "f. 206vb"
+        },
+        "WorcQ3": {
+            "Transcription": "\nAllas allas \u00feat I was bornebo\u00fee lyf & saul I haue\n                    lorne\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 115"
+        },
+        "VaticanOtto": {
+            "folio": "f. 68v"
+        }
+    }
+}

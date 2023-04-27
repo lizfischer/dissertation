@@ -1,0 +1,18 @@
+{
+    "_id": 3868,
+    "_header": "O David thou noble key",
+    "Subjects": "songs; Advent",
+    "Versification": "\u2014 five-line \u2014 abaab",
+    "Macaronic": "Latin",
+    "_description": "A song based on the antiphon \u2018O clavis Dauid\u2019, etc. \u2014 three 5-line stanzas (abaab, lines 3 & 4 identical) and a 7-line Latin burden: O clavis dauid inclita / Dans viam in portis / [1 & 2 repeated] / Educ nos de carcere [repeated] / Et de vmbra mortis",
+    "_witnesses": {
+        "BLAdd5665": {
+            "First Lines": "\nO dauid \u00feow nobell keyCepter of \u00fee howse of\n                    israell\u2026\n",
+            "Last Lines": "\n\u2026For that thou losest no many may byndeAnd \u00feat \u00feu\n                    losest may no man bynde\n",
+            "Attributed Author": "\nSmert (f. 20v); Troulouffe Jhon (f. 21v); Smert\n                        Ric9 (f. 21v)",
+            "Attributed Title": "\nIn die natiuitatis (f. 20v)",
+            "Editions": "\n\nFehr,  Bernhard. \n             \u201cDie Lieder der Hs. Add. 5665 (Ritson\u2019s Folio-MS).\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         106 (1901): 262-85: 268-9.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977:  3; 1977, 1.\nStevens,  John,\n                        ed.  \n             Mediaeval Carols.\nMusica Britannica\n         4. London: Stainer and Bell, 1952, 2nd ed. 1958: 78.\n\n",
+            "folio": "f. 20v"
+        }
+    }
+}

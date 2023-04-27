@@ -1,0 +1,16 @@
+{
+    "_id": 1986,
+    "_header": "Here lies Arfaxat Father Brandan",
+    "Subjects": "inscriptions",
+    "Versification": "\u2014 four-line",
+    "_description": "A verse inscription from Shrewsbury recording the burial of the father and mother of three saints \u2014 four unrhymed lines",
+    "_witnesses": {
+        "Lam499": {
+            "Transcription": "\nHer lis arfaxat fader brandanant kolmkilne ant cowhel \u00feer\n                    haleweant dame coroune moder \u00feeyre halewe\u00feat komen in to\n                    bretene sautes to seke\n",
+            "Note": "\nIn lower margin.",
+            "Attributed Title": "\nHec scripta inueniebantur super quoddam vas plumbeum exterius sub\n                        fundamento operis capelle beate virginis Salobebire (f. 69)",
+            "Editions": "\nPickering,   Oliver S. \n             \u201cAn Early Middle English Verse Inscription from Shrewsbury.\u201d \n             Anglia\n         106 (1988): 411-14: 412.\n",
+            "folio": "f. 69"
+        }
+    }
+}

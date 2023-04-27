@@ -1,0 +1,31 @@
+{
+    "_id": 5800,
+    "_header": "This worlds princes haveth service",
+    "Note": "For other MSS which lack the first two lines see 6087; for the version in the \u2018expanded\u2019 Cycle see 4748; see also 2591.",
+    "Subjects": "Peter, saint; Paul, saint; Paul, saint",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018Sermo in festo Apostolorum Petri et Pauli\u2019, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\n\u00feir werldes princes hafe seruiseOf \u00feaire seruauntes on\n                    all wise\u2026\n",
+            "Last Lines": "\n\u2026In pouerte all his life he leddeIn mantil & kirtill was\n                    he cledde\n",
+            "Note": "\n454 lines.",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 251v-253"
+        },
+        "CULGg531": {
+            "First Lines": "\n\u00deir werldys prynces takes seruyseOf \u00fee seruand in al\n                    wyse\u2026\n",
+            "Last Lines": "\n\u2026In kyrtell and mantell was he cladAnd in pouert hys lyf he\n                    led\n",
+            "Attributed Title": "\nIn die apostolorum petri & pauli (f. 162v)",
+            "folio": "ff. 162v-164"
+        },
+        "HunHM129": {
+            "First Lines": "\n\u00deis worldys princys hauith seruysOff har seruandys on alkyn\n                    wyse\u2026\n",
+            "Last Lines": "\n\u2026In porte all his lyffe he ledAnd mantill and kyrtill hym\n                    cled\n",
+            "Note": "\nContinues with narrative of Simon Magnus (2591) as if part of same\n                    text.",
+            "Attributed Title": "\nDe sanctis petro et paulo (f. 213v)",
+            "Editions": "\nHorstmann,  Carl. \n             Altenglische Legenden: Neue Folge.\n         Heilbronn: Henninger, 1881: 77-92.\n",
+            "folio": "ff. 213v-215"
+        }
+    }
+}

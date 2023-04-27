@@ -1,0 +1,27 @@
+{
+    "_id": 1099,
+    "_header": "David that prophet was ay",
+    "Note": "For a tag with a picture see 2284.",
+    "Title(s)": "The Desert of Religion",
+    "Subjects": "treatises, devotional; allegories",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018The Desert of Religion\u2019, incorporating much material from the Speculum Vitae and some passages from the Pricke of Conscience \u2014 940 lines in couplets",
+    "_witnesses": {
+        "BLAdd37049": {
+            "Editions": "\n\nH\u00fcbner,  W.,  and  K. Schreiner.  \n             \u201cThe Desert of Religion Mit dem Bilde des Richard Rolle of\n                Hampole.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         126 (1911): 58-74, 360-4; (pt. 2 by Schreiner): 59-73.\nDoty,  Brant Lee,\n                        ed.  \n             \u201cAn Edition of British Museum MS Additional 37049: a Religious\n                Miscellany.\u201d \n         Diss. Michigan State, 1969: 291-364.\n\n",
+            "folio": "ff. 46-66v"
+        },
+        "BLCottFausBVI": {
+            "First Lines": "\nDauit \u00feat prophete was ayIn \u00fee sawter buke \u00feas\u2026\n",
+            "Last Lines": "\n\u2026\u00deat for to dwel with hali meneWith outene ende Amen Amen\n",
+            "Note": "\nWritten beside and around illustrations of holy hermits and trees,",
+            "folio": "Part II, ff. 3-23v"
+        },
+        "BLSto39": {
+            "First Lines": "\nDavid \u00feat prophet was ay In \u00fee sauter loke \u00feer here we\n                    sayffleand i fled fro more to les And duelled in herd\n                    wyldernes\u2026\n",
+            "Last Lines": "\n\u2026Vn to \u00fee whilke ioye he vs bryng \u00deat for our sake on\n                    rode gun hang\u00deore to duell with holy men With outen ende Amen\n                    amen\n",
+            "Note": "\nTwo verse lines per manuscript line. Folio number reflects the most\n                    recent foliation.",
+            "folio": "ff. 10v-31v"
+        }
+    }
+}

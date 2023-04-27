@@ -1,0 +1,71 @@
+{
+    "_id": 6091,
+    "_header": "Two monks were woning in a cell",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "exempla ; monks, tales of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Monk who was harsh in judging, a Narratio in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodSelSup52": {
+            "First Lines": "\nTwo monkes wonyd in a cell& of \u00feem als Aunter\n                    fell\u2026\n",
+            "Last Lines": "\n\u2026Our lord Ihesu crist vs spedTo do penance & \u00feer vs\n                    lede\n",
+            "folio": "ff. 206v-207v"
+        },
+        "BodAsh42": {
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 142v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nTWo monkes woned in a CelleAnd on of hem as aunter\n                    felle\u2026\n",
+            "Last Lines": "\n\u2026Vre lord Ihesu crist vs spedeTo do penaunce and \u00feider vs\n                    lede. Amen\n",
+            "Attributed Title": "\nHou on demed on o\u00feur for brekynge off hys fast (f.\n                    200rc)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDie Evangelien-Geschichten der Homiliensammlung des Ms. Vernon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         57 (1877): 241-316: 288.\n",
+            "folio": "ff. 200rc-200va"
+        },
+        "CULAdd8335": {
+            "folio": "p. 233"
+        },
+        "CULDd11": {
+            "folio": "p. 150"
+        },
+        "CULGg531": {
+            "folio": "f. 88v"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nTWo Monkes woned in a CelleAnd on of hem as aunter\n                    felle\u2026\n",
+            "Last Lines": "\n\u2026Vre lord Ihesus crist vs spedeTo do penaunce & \u00feider\n                    vs lede. Amen\n",
+            "Attributed Title": "\nDe Monacho / reprobatem\u2026 (f. 5rc)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 5rc-5va"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nTwa monkes were wonnande in a cellAnd ane of \u00fean als awnter\n                    fell\u2026\n",
+            "Last Lines": "\n\u2026Oure lorde brynge vs to \u00feat blysseEuer \u00feare to\n                    duelle with hym and hisse\n",
+            "folio": "ff. 104v-105v"
+        },
+        "BLCottTibEVII": {
+            "folio": "f. 207va"
+        },
+        "BLHar2391": {
+            "First Lines": "\nTo monkes war wonand in a celleAnd one of \u00feam as aunter felle\u2026\n",
+            "Last Lines": "\n\u2026Owr lord bryng vs to \u00feat blyseEuer \u00fear to duell with hym & hys\n",
+            "Attributed Title": "\nDominica iiii (left margin, f. 197) with \u201cA tale\u201d written above",
+            "folio": "ff. 197-198"
+        },
+        "Lam260": {
+            "folio": "f. 43rb"
+        },
+        "MinULZ822": {
+            "First Lines": "\nTwa monkys wonnes in a celland ane of \u00feam aunter\n                    fell\u2026\n",
+            "Last Lines": "\n\u2026oure lorde ihc ihesu criste vs spedeto do penaunce\n                    & \u00feider vs lede\n",
+            "folio": "ff. 108v-109"
+        },
+        "HunHM129": {
+            "First Lines": "\nTwo monkys wonnyd in a cellAnd one off ham as a tyme\n                    fell\u2026\n",
+            "Last Lines": "\n\u2026Oure loueryd ihesu crist vs spedeTo do penauns and\n                    \u00feiddyr vs lede\n",
+            "Attributed Title": "\nnarracio (f. 121v)",
+            "folio": "ff. 121v-122"
+        }
+    }
+}

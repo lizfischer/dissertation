@@ -1,0 +1,22 @@
+{
+    "_id": 2700,
+    "_header": "Iste liber pertinet And bear it well in mind / Per me Gulielmum downes so gentelle ande so kynde",
+    "Subjects": "bookplates",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Macaronic": "Latin",
+    "_description": "Bookplate of William Downes \u2014 two couplets",
+    "_witnesses": {
+        "HunEL26A17": {
+            "Transcription": "\n\nIste liber me pertinet And bear it wel in myndePer me\n                        Gulielmum downes so gentelle ande so kyndeA vinculis doloris\n                    Iesue do hym bryngeAd vitam etername to lyfe everlastynge.\n                    Amen\n",
+            "Note": "\nAdded by a hand of late sixteenth century.",
+            "Editions": "\n\nHanna,  Ralph,\n                        ed.  \n             \u201cThe Index of Middle English Verse and Huntington Library Collections: A\n                Checklist of Addenda.\u201d \n             Publications of the Bibliographical Society of America\n         74 (1980): 235-58: 247.\nDutschke,  C. W. \n             Guide to Medieval and Renaissance Manuscripts in the Huntington\n                Library.\n         2 vols. San Marino, CA: Huntington Library, 1989: 1.40.\n\n",
+            "folio": "f. 170"
+        },
+        "HunHM132": {
+            "Transcription": "\n\nIste liber pertinet beare it well in mynde Ad me Georgium\n                        Savagium Boothe curteyes and kynde A penis inferni Iehesu\n                    him bringe Ad gaudia celestia to everlastinge ioye\n",
+            "Note": "\nAdded by a hand of first half of the sixteenth century; written as\n                    prose. Possibly the George Savage who was Chancellor of the cathedral in Chester\n                    in 1541 (see Dutschke (1989)\nXDutschke,  C. W. \n             Guide to Medieval and Renaissance Manuscripts in the Huntington\n                Library.\n         2 vols. San Marino, CA: Huntington Library, 1989, 1.177).",
+            "Editions": "\n\nHanna,  Ralph,\n                        ed.  \n             \u201cThe Index of Middle English Verse and Huntington Library Collections: A\n                Checklist of Addenda.\u201d \n             Publications of the Bibliographical Society of America\n         74 (1980): 235-58: 247.\nDutschke,  C. W. \n             Guide to Medieval and Renaissance Manuscripts in the Huntington\n                Library.\n         2 vols. San Marino, CA: Huntington Library, 1989: 1.177.\n\n",
+            "folio": "back pastedown"
+        }
+    }
+}

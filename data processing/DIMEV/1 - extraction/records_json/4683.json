@@ -1,0 +1,22 @@
+{
+    "_id": 4683,
+    "_header": "Saint Luke us leres in his lesson",
+    "Note": "For the usual version see 2766.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Seventeenth Sunday after Trinity in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 232rb"
+        },
+        "BLHar4196": {
+            "First Lines": "\nSaint luke vs leres in his lessouneAls ihesus crist went fra towne to towne\u2026\n",
+            "Last Lines": "\n\u2026And he \u00feat lawes him seluen hereSall be enhied in heuin clere\n",
+            "Note": "\nPreceded by Latin, \u201cCum intrauit ihesus crist in domum cuiusdam.\u201d",
+            "Attributed Title": "\nDominica xvii secundum Lucam (rubric, f. 124ra)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): III.138-140.\n",
+            "folio": "ff. 124ra-124va"
+        }
+    }
+}

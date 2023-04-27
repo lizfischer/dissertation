@@ -1,0 +1,34 @@
+{
+    "_id": 4750,
+    "_header": "Saint Petronilla the holy maid right is to have in mind",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Petronilla, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Petronilla in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "Bod779": {
+            "First Lines": "\nSeint pernel \u00fee holy mayd ry\u021dt is to haue in mendegood\n                    womon \u021dhe was \u021dhe au\u021dte wel be kende\u2026\n",
+            "Last Lines": "\n\u2026to heuen \u021dhe went clene mayd & is wit outin\n                    endyngnow god for \u00fee loue of here to \u00feilke ioy vs\n                    bring\n",
+            "Attributed Title": "\nSeint pernel \u00fee holy virgyne (f. 304v)",
+            "folio": "ff. 304v-305"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Pernele \u00feat holi Mayde riht is to habben in muyndeGood\n                    wommon heo was inou\u021d heo ou\u021dte wel beo kuynde\u2026\n",
+            "Last Lines": "\n\u2026To heuene clene Maide heo wende \u00feat is wi\u00fe outen\n                    endyngeNow God for \u00fee loue of hire to \u00feulke Ioye vs bringe.\n                    Amen\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 31vb-32ra"
+        },
+        "BLEge1993": {
+            "First Lines": "\nSeint purnele \u00fee holi maide ri\u021dt is to habbe in mindeGod wommon heo was inow heo au\u021dte wel bi kuynde\u2026\n",
+            "Last Lines": "\n\u2026To heuene clene maide heo wende & wi\u00fe outen endingeNow god for \u00fee loue of hire to \u00feilke ioie vs bringe\n",
+            "Note": "\nEnds \u201cAmen\u201d (f. 158v).",
+            "folio": "ff. 157v-158v"
+        },
+        "BLSto949": {
+            "First Lines": "\nSeynt pernel \u00feat holy mayde riht it is to habbe in myndeHeo was good wumman ynou vor heo ouhte wel by kynde\u2026\n",
+            "Last Lines": "\n\u2026Clene mayde to hevene neo wente & \u00feere is wi\u00fe outen endeNow god for here swete loue to \u00feulke ioye make vs wende\n",
+            "Note": "\nEnds \u201cAmen\u201d at end of last line.",
+            "folio": "ff. 154-155"
+        }
+    }
+}

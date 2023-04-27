@@ -1,0 +1,25 @@
+{
+    "_id": 6393,
+    "_header": "When Phoebus in the Crab had near his course run",
+    "Author(s)": "John Lydgate (attrib.)",
+    "Title(s)": "The Assembly of Gods",
+    "Subjects": "dream poems; virtues",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "The Assembly of Gods, perhaps by Lydgate \u2014 301 stanzas rhyme royal",
+    "_witnesses": {
+        "CamTCC599": {
+            "First Lines": "\n[W]han Phebus in the Crabbe had nere hys cours ronneAnd toward the\n                    leon his iourne gan takeTo loke on Pictagoras speere I had\n                    begonneSyttyng all solytary alone besyde a lake\u2026\n",
+            "Last Lines": "\n\u2026All that to thys vysion haue youyn her audyenceGraunt\n                    eternall ioy aftyr thy last sentence\n",
+            "Attributed Author": "\nBanquet of Gods and Goddesses by Lydgate (added by later hand, top margin,\n                    f. 68)",
+            "Facsimiles": "\nFletcher,  Bradford Y. \n             \u201cIntroduction.\u201d \n             Manuscript Trinity R.3.19. A Facsimile.\n         Norman, OK: Pilgrim, 1987. \n",
+            "Editions": "\nTriggs,  Oscar Lovell,\n                        ed.  \n             John Lydgate: The Assembly of Gods.\nEETS\n         e.s. 69 (1896); repr. 1976. \n",
+            "folio": "ff. 68-97v"
+        },
+        "BLRoy18Dii": {
+            "First Lines": "\nWHan phebus in the crabbe had nere his cours ronneAnd towarde the leon his iourney gan take\u2026\n",
+            "Last Lines": "\n\u2026All \u00feat to this vysyon haue gyuen her audyenc[sic]Graunt eternall Ioye after thy last sentenceAmen\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Royal 18 D II.\n         2015; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Royal_MS_18_D_II. \n",
+            "folio": "ff. 167ra-180va"
+        }
+    }
+}

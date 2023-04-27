@@ -1,0 +1,32 @@
+{
+    "_id": 4374,
+    "_header": "Piteously / Constrained am I",
+    "Note": "Cf. 808.",
+    "Author(s)": "John Skelton (attrib.)",
+    "Subjects": "lovers absence/separation of",
+    "Versification": "\u2014 eight-line \u2014 aabaab",
+    "Bibliographic Ghosts": "Philadelphia, Rosenbach Museum and Library 678, Boethius, De Disciplina Scholarum, Deventer 1496, [olim Heber Incunabula, Sotheby\u2019s Sale Cat. 1834, Part III, No. 810], f. iii: see Princeton, Princeton University Library Taylor B 741 (Boethius de disciplina scholarium; Deventer, 1496) [olim Rosenbach Foundation 678; olim John F. Fleming].",
+    "_description": "Sorrow at parting, sometimes ascribed to John Skelton \u2014 three 8-line stanzas",
+    "_witnesses": {
+        "BLRoyApp58": {
+            "First Lines": "\nPetyously constraynyd am Iwith wepyng yes to morne& playne\n                    that we soo nyof progeny so sodenlyshulde part twaynewhen ye ar\n                    gon comfort ys none\u2026\n",
+            "Last Lines": "\n\u2026there may no wyght make my hert lyghttyll I haue A syght of\n                    yow A gayne\n",
+            "Attributed Author": "\nQuod doctor Coper (f. 21)",
+            "Editions": "\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts, Besonders aus der Zeit Heinrichs\n                VIII.\u201d \n             Anglia\n         12 (1889): 225-72, 585-97: 266-7.\n",
+            "folio": "f. 19v-21"
+        },
+        "NLS6128": {
+            "Transcription": "\n\u2026sly constreynyd am I with wepyng eyes to morne & pleyne[\n                    ]s so my off proheny so sodenly xuld parte on twyne gen[ ] the ys gon\n                    comforte ys none saffe all alone indwre mwste I\n",
+            "Note": "\nFormerly listed as 2163;\n                    three lines only.",
+            "Editions": "\nRobbins,  Rossell Hope. \n             \u201cMiddle English Lyrics: Handlist of New Texts.\u201d \n             Anglia\n         83 (1965): 35-47: 46.\n",
+            "folio": "f. 142v"
+        },
+        "PULTayB741": {
+            "First Lines": "\nPetevellyConstranyd am yWith wepyng yTo Morne &\n                    playne\u2026\n",
+            "Last Lines": "\n\u2026I cannot layneNor \u021deet refrayneMyne yes\n                    tweyneffrome soore wepyng\n",
+            "Note": "\nThree 8-line stanzas (aaabaaab); in manuscript gathering bound into\n                    printed book (see also 808).",
+            "Editions": "\n\nBirch,  Walter de Gray. \n             \u201cA New Poem by John Skelton.\u201d \n             The Athenaeum\n         (London, November 29, 1873): 2.697: 697; rpr. Ashton (1882)\nXAshton,  John. \n             A Ballade of the Scottysshe Kyng\n         London: Elliot Stock, 1882, 19.\nK\u00f6lbing,  Eugen. \n             Zur Charakteristik John Skelton\u2019s\u2026.\n         Stuttgart: Druck von Streeker & Schr\u00f6der, 1904. \nHenderson,  Phillip. \n             The Complete Poems of John Skelton, laureate.\n         London: J. M. Dent, 1931; further eds. 1948, 1959: 19.\nHughes,  Richard Arthur Warren,\n                        ed.  \n             Poems by Skelton.\n         London: W. Heinemann, 1924: 207.\n\n",
+            "folio": "ff. iii-iiiv"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "_id": 3042,
+    "_header": "Learn thou unkind man to be kind",
+    "Title(s)": "Have Pity on Christ",
+    "Subjects": "devotional verse",
+    "Versification": "\u2014 four-line \u2014 aaaa",
+    "_description": "Have Pity on Christ \u2014 four monorhyming lines, each ending in the same word, in an English tract on Penance",
+    "_witnesses": {
+        "CULIi12": {
+            "Transcription": "\nLeerne \u00feou vnkynde man to be kyndeof a beest \u00feat ha\u00fe\n                    no skille of kyndehou \u00feou doist schame to \u00fei kyndebut\n                    \u00feou to ihesu crist be kynde\n",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 290.\nOliver,  Raymond. \n             Poems Without Names: The English Lyric 1200-1500.\n         Berkeley, CA: University of California, 1970: 61.\n\n",
+            "folio": "f. 127ra-127rb"
+        },
+        "LibCong4": {
+            "Transcription": "\nlere \u00feou vnkynd man to be kyndeof beste \u00feat haues no skil of kyndehou \u00feou doo scham to \u00fei kyndebot \u00feou to ihesu crist be kynde\n",
+            "Note": "\nWritten as prose.",
+            "Facsimiles": "\n\nDigital Facsimile of Washington, Library of Congress MS 4 [BX3004 .E66 1400] (Benedict, Saint, Abbot of Monte Cassino. Regula. Selections.).\n         https://lccn.loc.gov/2013659153. \n",
+            "folio": "f. 72v"
+        }
+    }
+}

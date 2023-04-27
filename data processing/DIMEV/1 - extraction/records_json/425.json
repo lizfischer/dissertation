@@ -1,0 +1,27 @@
+{
+    "_id": 425,
+    "_header": "Almighty God in Trinity / Leave us well to speed",
+    "Title(s)": "Luytel Caton; Distichs",
+    "Subjects": "precepts, moral",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "Macaronic": "Latin, French",
+    "_description": "\u2018Luytel Caton\u2019 \u2014 644 lines in quatrains",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nAlmihti god in TriniteLeeue vs wel to spedeSend vs of his holy\n                    graceAnd help vs at vr nede\u2026\n",
+            "Last Lines": "\n\u2026\u00deif \u00feou beo a strong monAnd riche of worldes\n                    goodDispyse \u00feou no luytel monNe hate hym in \u00fey\n                    mod[followed by Latin and French ending \u2018Suffre\u021d amiste / Quaunt\n                    purchase le as\u2019]\n",
+            "Note": "\n112 lines, written in half-lines.",
+            "Attributed Title": "\nHer bi ginne\u00fe luytel Caton (f. 309va); Here endet petyt\n                    catoun (f. 310rb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nGoldberg,  Max Otto. \n             Die Catonischen Distichen\u2026.\n         Leipzig: Joachim & J\u00fcstel, 1883: 13-15.\nGoldberg,  Max Otto. \n             \u201cEin englischer Cato.\u201d \n             Anglia\n         7 (1884): 165-77: 167.\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 553-62.\n\n",
+            "folio": "ff. 309va-310rb"
+        },
+        "BLAdd22283": {
+            "First Lines": "\n\u2026\u00deeore sone I schal \u00fee teche\u00dee maners of my\n                    wille\u2026\n",
+            "Last Lines": "\n\u2026Suffre\u00fe a misteQuant purchas le as\n",
+            "Note": "\nLines 1-20 wanting.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 119ra-119va"
+        }
+    }
+}

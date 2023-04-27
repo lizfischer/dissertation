@@ -1,0 +1,68 @@
+{
+    "_id": 1786,
+    "_header": "Harkeneth hitherward ye lordlings",
+    "Title(s)": "The Anonymous Short Metrical Chronicle of England",
+    "Subjects": "chronicles",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Anonymous Short Metrical Chronicle of England \u2014 in couplets",
+    "_witnesses": {
+        "BodRawF145": {
+            "First Lines": "\nIn that tyme \u00fee pope of romeHe be thowth hym wel swythe\n                    sone\u2026\n",
+            "Last Lines": "\n\u2026He lete hym in a schryne doneBothe with flesshe & with\n                    bone\n",
+            "Note": "\nC-text; fragment: 226 lines, corresponding to lines 301-66, 629-766 of\n                        London,  British Library Royal 12 C.XII, A-text.",
+            "Editions": "\nCarroll,  Marion Crane,  and  Rosemond Tuve.  \n             \u201cTwo Manuscripts of the Middle English Anonymous Riming\n                Chronicle.\u201d \n             PMLA\n         46 (1931): 115-54: 117-48.\n",
+            "folio": "ff. 12;  11;  6;  7"
+        },
+        "CULDd142": {
+            "First Lines": "\nHerkeni\u00fe hederward lordyngishe \u00feat wollen here of\n                    kyngis\u2026\n",
+            "Last Lines": "\n\u2026praying for \u00fee pees to our gode spedeNow Ihesu Cristys\n                    sone help vs \u00feerto vp oure grete nede\n",
+            "Note": "\nC-text, with prose insertions.",
+            "folio": "ff. 260-285"
+        },
+        "CULFf548": {
+            "First Lines": "\nHerkenet hiderward lordynges\u021de that willen here of\n                    kynges\u2026\n",
+            "Last Lines": "\n\u2026thrugh his hestis tensyng we now alle Amen\n",
+            "Note": "\nHeadings for each king, e.g., \u2018After him regned edwarde his\n                    sone\u2019 (f. 112).",
+            "Attributed Title": "\nPrincipium Anglie (f. 95)",
+            "Editions": "\nDowning,  Janay Young A.,\n                        ed.  \n             \u201cA Critical Edition of Cambridge University MS Ff.5.48.\u201d \n         2 vols. Diss. University of Washington, 1969: 249-87.\n",
+            "folio": "ff. 95-112"
+        },
+        "BLAdd19677": {
+            "First Lines": "\nHerkene\u00fe hider ward \u021de lordynges\u021ce \u00feat wollen\n                    ihure of kynges\u2026\n",
+            "Last Lines": "\n\u2026\u00deoru his hestis \u00feat be\u00fe ten& sei we alle\n                    nou amen amen\n",
+            "Note": "\nC-text; 1061 lines. Two-column format.",
+            "Editions": "\nZettl,  Ewald,\n                        ed.  \n             An Anonymous Short English Metrical Chronicle.\nEETS\n         o.s. 196 (1935); repr. 1971: 1-45 (with all variants).\n",
+            "folio": "ff. 92va-100rb"
+        },
+        "BLCottCalAXI": {
+            "First Lines": "\nAfter \u00fee king lud Regnede king bladudHe was a kelere of\n                    nigremancie\u2026\n",
+            "Last Lines": "\n\u2026For god ne was no\u021dt \u021dut iborNe de\u00fe soff rede\n                    him bifore\n",
+            "Note": "\nC-text; a single leaf, 48 lines. Corrected (Hamer (1995)\nXHamer,  Richard. \n             A Manuscript Index to the Index of Middle English Verse.\n         London: British Library, 1995,\n                    note) from London,  British Library Cotton Caligula A.IX.",
+            "folio": "f. 14"
+        },
+        "BLRoy12Cxii": {
+            "First Lines": "\nHErkne\u00fe hedeward Lordynges\u021ce \u00feat wolle\u00fe here of\n                    kynges\u2026\n",
+            "Last Lines": "\n\u2026At gauerssich \u021de mowe wyte\u00deer his heued wes of\n                    smyte\n",
+            "Note": "\nA-text; 1037 lines.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Royal MS 12 C XII.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Royal_MS_12_C_XII. \n",
+            "Editions": "\n\nRitson,  Joseph,\n                        ed.  \n             Ancient English Metrical Romances.\n         3 vols. London, 1802; rev. Edmund Goldsmid and repr. Edinburgh:\n            Goldlsmid, 1884: 2.270-31.\nO\u2019Farrell-Tate,  Una,\n                        ed.  \n             The Abridged English Metrical Brut: Edited from British Library MS\n                Royal 12 C.xii.\n         Middle English Texts 32. Heidelberg: Carl Winter\n            Universit\u00e4tsverlag: Hedelberg, 2002. \n\n",
+            "folio": "ff. 62-68v"
+        },
+        "NLS1921": {
+            "First Lines": "\nHerkene\u00fe hiderward lordinges\u021ce \u00feat wil here of\n                    kinges\u2026\n",
+            "Last Lines": "\n\u2026\u00deurth his hates \u00feat be tenSay we now alle\n                    amen\n",
+            "Note": "\nC-text, 2370 lines in this MS.",
+            "Attributed Title": "\nExplicit Liber Regum Anglie (f. 317rb); Here may men rede who so\n                    can / hou Inglond first bigan / \u00feen mow it finde In englische / as \u00fee\n                    brout it telle\u00fe y wiis (f. 304ra)",
+            "Facsimiles": "\nPearsall,  Derek,  and  I. C. Cunningham, eds.  \n             The Auchinleck Manuscript. National Library of Scotland\n                Advocates\u2019 MS. 19.2.1.\n         London: Scolar Press, 1977. \n",
+            "Editions": "\nCarroll,  Marion Crane,  and  Rosemond Tuve.  \n             \u201cTwo Manuscripts of the Middle English Anonymous Riming\n                Chronicle.\u201d \n             PMLA\n         46 (1931): 115-54: 117-48.\n",
+            "folio": "ff. 304ra-317rb"
+        },
+        "AmsterdamBPHM199": {
+            "First Lines": "\nAfter [the] king Ludreigned his sonne bladud\u2026\n",
+            "Last Lines": "\n\u2026\u00fee thyrd ele;omg streate is\u00fee iiijth\n                    sottis diche ywis &c\n",
+            "Note": "\nA fragment, equivalent to lines 151-224 in Zettl (1935)\nXZettl,  Ewald. \n             An Anonymous Short English Metrical Chronicle.\nEETS\n         o.s. 196 (1935); repr. 1971;\n                    leaves misbound.",
+            "Editions": "\nGrund,  Peter. \n             \u201cA Previously Unrecorded Fragment of the Middle English Short\n                    Metrical Chronicle in Bibliotheca Philosophica Hermetica M199.\u201d \n             English Studies\n         87 (2006): 277-93: 289-90.\n",
+            "folio": "ff. 392v;  391v-391"
+        }
+    }
+}

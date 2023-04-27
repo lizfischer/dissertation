@@ -1,0 +1,37 @@
+{
+    "_id": 590,
+    "_header": "As Holy Scripture maketh mention",
+    "Note": "See 975.",
+    "Author(s)": "George Ripley",
+    "Title(s)": "Compound of Alchemy",
+    "Subjects": "alchemical poems",
+    "Versification": "\u2014 seven-line \u2014 seven-line",
+    "_description": "Verses attached to a figure of a sphere in George Ripley\u2019s Compound of Alchemy \u2014 six stanzas rhyme royal",
+    "_witnesses": {
+        "CULFf223": {
+            "Note": "\nStanzas 1-2 only; transcribed by Thomas Knyvet, 1545.",
+            "folio": "f. 32"
+        },
+        "CamTCC1120": {
+            "First Lines": "\nAs holy script maketh mencionIn \u00fee wombe of a virgin\n                    immacvlat\u2026\n",
+            "Last Lines": "\n\u2026& to god both nyght & dayffor grace & for thy\n                    auctor praye\n",
+            "Note": "\nWritten on, around, and below a figure of a sphere.",
+            "Attributed Title": "\nthys ffygure conteynyth all our secrettes both gret & small (f.\n                        127v)",
+            "folio": "Part I, f. 127v"
+        },
+        "EDCPAN": {
+            "folio": "f. 28v"
+        },
+        "EDUDbII18": {
+            "Editions": "\nLaing,  David. \n             Select Remains of the Ancient Popular and Romance Poetry of\n                Scotland.\n         Edinburgh: 1822; rev. \n                J.\n                Small\n            , Edinburgh: Blackwood, 1885; rev. \n                W. C.\n                Hazlitt\n            ,  \u201cEarly Popular Poetry of Scotland\u201d , London: Reeves and\n            Turner, 1895. \n",
+            "folio": ""
+        },
+        "EDULaiii164": {
+            "First Lines": "\nAs holy scrypture makythe mensionin to \u00fee wombe off a wyrgyn\n                    immaculateChryste dessendyd for owr redemcionfro his hye trone to be\n                    incarnate\u2026\n",
+            "Last Lines": "\n\u2026to his fyrste glory renyuyd with youtheassendythe to be\n                    introny\u021date in \u00fee sowthe\n",
+            "Note": "\nCopied 1510; four stanzas only, interspersed with English prose and some\n                    Latin verses not translated (those for sun, moon, venus, mercury).",
+            "Editions": "\nLaing,  David. \n             Select Remains of the Ancient Popular and Romance Poetry of\n                Scotland.\n         Edinburgh: 1822; rev. \n                J.\n                Small\n            , Edinburgh: Blackwood, 1885; rev. \n                W. C.\n                Hazlitt\n            ,  \u201cEarly Popular Poetry of Scotland\u201d , London: Reeves and\n            Turner, 1895. \n",
+            "folio": "pp. 109-111"
+        }
+    }
+}

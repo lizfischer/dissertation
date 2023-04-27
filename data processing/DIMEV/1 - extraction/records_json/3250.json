@@ -1,0 +1,49 @@
+{
+    "_id": 3250,
+    "_header": "Lordings listeneth to my tale / That is merrier than the nightingalee",
+    "Title(s)": "Sir Beues of Hamtoun",
+    "Subjects": "romances",
+    "Versification": "\u2014 six-line, two-line \u2014 aabccb, aa",
+    "_description": "Sir Beues of Hamtoun \u2014 4620 lines in 6-line stanzas (lines 1-474) and couplets (lines 475-4620)",
+    "_witnesses": {
+        "CULFf238": {
+            "Note": "\n\u2018A\u2019 text.",
+            "folio": "ff. 102rb-133v?"
+        },
+        "CamGon175": {
+            "First Lines": "\nLordynges lystni\u00fe to my tale\u00deat is meryere \u00fean\n                    \u00fee ny\u021dtyngale\u2026\n",
+            "Last Lines": "\n\u2026\u00deus endi\u00fe Sere beffs off Hamptoun\u00deat was so\n                    noble a baroun\n",
+            "Note": "\n\u2018A\u2019 text; many leaves missing in this MS.",
+            "Attributed Title": "\nHic incipit beffs de Hamptoun (p. 131b)",
+            "folio": "pp. 31b-156a"
+        },
+        "BLEge2862": {
+            "First Lines": "\nOrdynges lystene\u00fe to my taleIt is meryer \u00fean \u00fee ny\u021dtyngale\u2026\n",
+            "Last Lines": "\n\u2026And told how B was come fro ferreWith Ost on him for to werre\u2026\n",
+            "Note": "\n\u2018A\u2019 text. Two leaves of Degare (3116, on ff. 97 and 95) interrupt; ends incomplete.",
+            "Attributed Title": "\nBeuens of Hampton (running titles split across tops throughout).",
+            "folio": "ff. 45-94v;  96-96v"
+        },
+        "NLS1921": {
+            "First Lines": "\nLordinges herkne\u00fe to me taleIs merier \u00fean \u00fee\n                    ni\u021dtingale\u2026\n",
+            "Last Lines": "\n\u2026\u00deus ende\u00fe beues of hamtounGod \u021deue vs alle is\n                    benesoun\n",
+            "Note": "\n\u2018A\u2019 text; one leaf missing.",
+            "Attributed Title": "\nsir beues of hamtoun (f. 170ra)",
+            "Editions": "\n\nTurnbull,  William Barclay David Donald,\n                        ed.  \n             Sir Beves of Hamtoun.\nMaitland Club\n         44. Edinburgh, 1838. \nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: (extracts), 2.64-5.\nK\u00f6lbing,  Eugen,\n                        ed.  \n             The Romance of Sir Beues of Hamtoun.\nEETS\n         e.s. 46 (1885), 48 (1886), 65 (1894); repr. 1973. \nHertzman,  Ronald B., Graham Drake,   and  Eve Salisbury, eds.  \n             Four Romances of England: King Horn, Havelok the Dane, Bevis of Hampton,\n                    Athelston.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1999. \n\n",
+            "folio": "ff. 176ra-201ra"
+        },
+        "Chetham8009": {
+            "Note": "\n\u2018B\u2019 text; 4332 lines.",
+            "Editions": "\nK\u00f6lbing,  Eugen,\n                        ed.  \n             The Romance of Sir Beues of Hamtoun.\nEETS\n         e.s. 46 (1885), 48 (1886), 65 (1894); repr. 1973. \n",
+            "folio": "ff. 122-190v"
+        },
+        "NapXIIIB29": {
+            "First Lines": "\n[L]ordlingis lystenith to my tale\u00feat is meriour \u00fean\n                    \u00fee ny\u021dtingale\u2026\n",
+            "Last Lines": "\n\u2026And that we were al of suche renownAs was B[evys] of\n                    Hamptoune Amen.\n",
+            "Note": "\n\u2018A\u2019 text; 4560 lines.",
+            "Attributed Title": "\nsir beuys of hamtoun (p. 23); Here endith Bevys of Hampton (p.\n                    79)",
+            "Editions": "\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 2.64-5 (12 lines only).\n",
+            "folio": "pp. 23-79"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "_id": 601,
+    "_header": "As I find written of a king / That never would laugh\u2026",
+    "Note": "Cf. 2655; for other MSS see 644, 4973.",
+    "Title(s)": "Melancholy King; Northern Homily Cycle",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Melancholy King, in the Northern Homily Cycle \u2014 in couplets",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nAls i finde writen of a kinge\u00feat neuer wald laghe for no\n                    gladdinge\u2026\n",
+            "Last Lines": "\n\u2026And bringe vs to thi blisseful belde\u00feat tholemodemen\n                    wi\u00fe \u00fee sall welde\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 129v-130v"
+        },
+        "CULGg531": {
+            "First Lines": "\nAls I fynd wryten of a kyng\u00deat neuer wald laugh for na\n                    gladdyng\u2026\n",
+            "Last Lines": "\n\u2026And bryng vs to \u00feat blissefull belde\u00dear tholmode\n                    men with \u00fee sall welde\n",
+            "Attributed Title": "\nNarracio (added, f. 187v)",
+            "folio": "ff. 87v-88v"
+        },
+        "BLHar2391": {
+            "First Lines": "\nAls I fynd wrytyn of a kyng\u00feat neuer wyld lagh for no gladdyng\u2026\n",
+            "Last Lines": "\n\u2026And bryng vs to \u00fei plysful w beyld\u00feat tholemode men with \u00fee schall weyld\n",
+            "Note": "\nPenultimate line has \u201cw\u201d written and crossed through before \u201cbeyld\u201d; ends \u201cAmen.\u201d",
+            "Attributed Title": "\nDominica infra octava ascencionis (left margin, f. 192v) with \u201cA tale\u201d written below",
+            "folio": "ff. 192v-193v"
+        },
+        "Lam260": {
+            "Editions": "\nRosenthal,  Constance Lowegrund. \n             The Vitae Patrum in Old and Middle English Literature.\n         Philadelphia, 1936; repr. Folcroft, PA: Folcroft Library,\n            1974: 155.\n",
+            "folio": "f. 39vb"
+        }
+    }
+}

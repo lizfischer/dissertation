@@ -1,0 +1,21 @@
+{
+    "_id": 1020,
+    "_header": "Christ to His apostles said these saws",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the first Friday in Lent, in the \u2018expanded\u2019 Northern Homily Cycle \u2014 in couplets",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 132ra"
+        },
+        "BLHar4196": {
+            "First Lines": "\nCrist to his apostels said \u00feis saws\u021ce haue herd said oft in olde daws\u2026\n",
+            "Last Lines": "\n\u2026\u00dean bus vs forgif al misdedeIf we of forgifnes will spede\n",
+            "Note": "\nPreceded by Latin, \u201cAudistis quia dictum est antiquis.\u201d",
+            "Attributed Title": "\nfferia vi in capite ieiunii Secundum Matheum (rubric, f. 42rb)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): II.32-36.\n",
+            "folio": "ff. 42rb-43ra"
+        }
+    }
+}

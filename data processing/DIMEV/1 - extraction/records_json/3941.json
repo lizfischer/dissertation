@@ -1,0 +1,43 @@
+{
+    "_id": 3941,
+    "_header": "O Jesu Christ of everlasting sweetness",
+    "Subjects": "fifteen, O\u2019s of Christ; Christ, fifteen O\u2019s",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "The Fifteen O\u2019s of Christ \u2014 thirty-four stanzas rhyme royal",
+    "_witnesses": {
+        "BodAsh191": {
+            "folio": "f. 110"
+        },
+        "BodRawPoe32": {
+            "folio": "f. 169v"
+        },
+        "Longleat30": {
+            "First Lines": "\nO Ihesu criste lorde euerlastynge swetnesseOwre verray loue and\n                    hele of oure synne\u2026\n",
+            "Last Lines": "\n\u2026And \u00fean graunt me \u00feat eritage at myn endyngwicht\n                    \u00feou hast graunted virtuous lyuyng\n",
+            "folio": "ff. 12v-13v"
+        },
+        "Plimpton39": {
+            "Facsimiles": "\nPlimpton,  George A. \n             The Education of Chaucer: Illustrated from the Schoolbooks in Use in\n                his Time.\n         London: Oxford University Press, 1935: 38 (Pl. XII).\n",
+            "Editions": "\nPlimpton,  George A. \n             The Education of Chaucer: Illustrated from the Schoolbooks in Use in\n                his Time.\n         London: Oxford University Press, 1935: 39 (first 23 lines only).\n",
+            "folio": "a roll"
+        },
+        "PlimptonAd4": {
+            "Note": "\n257 lines.",
+            "folio": "a roll"
+        },
+        "HunHM142": {
+            "First Lines": "\n\u2026Thow suffrediste passion blessed mot \u00feow beThi feruent\n                    loue \u00feat neuer wol cese\u2026\n",
+            "Last Lines": "\n\u2026And \u00fean graunt me \u00feat eritage at myn endyngWhich\n                    \u00feou hast graunted to uertuous lyuyngAmen\n",
+            "Note": "\nBegins imperfectly.",
+            "Editions": "\nSchulz,  Herbert. C. \n             \u201cMiddle English Texts from the \u2018Bement\u2019 Manuscript.\u201d \n             Huntington Library Quarterly\n         3 (1940): 440-65: 451-2.\n",
+            "folio": "f. 11"
+        },
+        "TokyoTak4": {
+            "First Lines": "\nO Ihesu cryst euerlastynge suetnesseOure verray loue and hele of\n                    oure synne\u2026\n",
+            "Last Lines": "\n\u2026To be partynere of that place wer rythfulmenHaue blisfull\n                    syght and Ioye euer Amen\n",
+            "Note": "\nFirst text after Speculum (the MS is unfoliated; this text occurs\n                    between the end of Speculum Vitae and table of chapter of\n                    same).",
+            "Attributed Title": "\nThe xv Oes in englyssh tonge",
+            "folio": ""
+        }
+    }
+}

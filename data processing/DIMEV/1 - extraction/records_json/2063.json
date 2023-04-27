@@ -1,0 +1,61 @@
+{
+    "_id": 2063,
+    "_header": "Honoured be Thou blissful Lord benign",
+    "Author(s)": "Thomas Hoccleve",
+    "Title(s)": "Song of the Nativity of the Virgin Mary; P\u00e8lerinage de l\u2019\u00e2me",
+    "Subjects": "Virgin Mary, nativity of",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Thomas Hoccleve, Song of the Nativity of the Virgin Mary, in the English translation of the P\u00e8lerinage de l\u2019\u00e2me \u2014 seven stanzas rhyme royal",
+    "_witnesses": {
+        "Bod770": {
+            "First Lines": "\nHOnourid be \u00feou blissid lord benygne\u00fean vnto man now wilt\n                    be merciable\u2026\n",
+            "Last Lines": "\n\u2026ffor loue of here honour we \u00feis dayeWith all our songe\n                    all that we maye\n",
+            "Attributed Title": "\nOf \u00fee song of \u00fee natiuite of our lady (f. 91ra); Here\n                    ende\u00fe \u00fee song (f. 91rb)",
+            "folio": "f. 91ra-91rb"
+        },
+        "OxfCCC237": {
+            "First Lines": "\nHonowred be \u00feowe blestfull lorde benyngne\u00deat vn to man\n                    wolte nowe be merciable\u2026\n",
+            "Last Lines": "\n\u2026ffor love of her honowr we \u00feis dayWith all \u00fee songe\n                    & \u00feat we maye\n",
+            "folio": "ff. 123v-124"
+        },
+        "OxfUni181": {
+            "folio": "f. 138"
+        },
+        "CamGon124": {
+            "First Lines": "\nhonoured be \u00feu blisful lord benygne\u00feat now vn to man wolt\n                    be mercyable\u2026\n",
+            "Last Lines": "\n\u2026ffor loue of hire honoure we \u00feis dayWi\u00fe alle\n                    \u00fee songes & myr\u00fees \u00feat we may\n",
+            "Attributed Title": "\nthe recordynge of aungeles songe (p. 228)",
+            "folio": "pp. 228-229"
+        },
+        "CULKk17": {
+            "First Lines": "\nHonourid be \u00feou blisful lord benygneThat now vn to man wilt be\n                    mercyable\u2026\n",
+            "Last Lines": "\n\u2026ffor loueof hir honoure we \u00feis dayWith alle \u00fee\n                    songis and merthis \u00feat we may\n",
+            "Attributed Title": "\nher endith \u00fee drem of \u00fee pilgrimage of \u00fee soule (f.\n                        124v)",
+            "folio": "ff. 114v-115"
+        },
+        "BLAdd34193": {
+            "First Lines": "\nHonourede be \u00feou lorde benigne\u00feat to mane will nowe be\n                    merciable\u2026\n",
+            "Last Lines": "\n\u2026ffor lufe of her honoure to dayewithe all \u00fee songe\n                    \u00feat we maye\n",
+            "Note": "\nWritten in prose.",
+            "folio": "f. 90v"
+        },
+        "BLEge615": {
+            "First Lines": "\nHOnured be thu blisseful lord benigneThat now vnto man wil be merciable\u2026\n",
+            "Last Lines": "\n\u2026ffor loue of hire honure we this dayWith alle the songes & myrthes \u00feat we may\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             \u201cHoccleve\u2019s Works: The Regement of Princes and fourteen minor\n                poems.\u201d \n             EETS\n         e.s. 72 (1897); repr. 1988: xlv-xlvii.\n",
+            "folio": "ff. 95v-96"
+        },
+        "HatCP270": {
+            "folio": "unfoliated"
+        },
+        "NYPLSpenc19": {
+            "First Lines": "\nHonoured be thow blisful lord benigneThat now vn to men wilt be\n                    merciable\u2026\n",
+            "Last Lines": "\n\u2026ffor loue of hir honoure we this dayWith alle songes and\n                    myrthes \u00feat we may\n",
+            "Attributed Title": "\nThe recordyng of aungeles song of the natiuite of oure lady (f.\n                    122)",
+            "folio": "ff. 122-123"
+        },
+        "MelSLV096G94": {
+            "folio": "f. 196"
+        }
+    }
+}

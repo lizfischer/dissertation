@@ -1,0 +1,26 @@
+{
+    "_id": 5918,
+    "_header": "Throughout a palace as I gan pass",
+    "Title(s)": "The Lamentacioun of the Duchess of Glossester",
+    "Subjects": "Eleanor [Cobham], duchess of Gloucester; laments; historical poems; Fortune, wheel of",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "\u2018The Lamentacioun of the Duchess of Glossester\u2019 (1447) \u2014 13 eight-line stanzas including refrain: \u2018All women may be ware by me\u2019",
+    "_witnesses": {
+        "OxfBal354": {
+            "First Lines": "\nThorow owt a pales as I can passeI hard a lady make a gret\n                    mone\u2026\n",
+            "Last Lines": "\n\u2026In prayer I will both walke & wakeAll women may be ware\n                    by me\n",
+            "Note": "\n104 lines.",
+            "Attributed Title": "\nHic incipit (p. 360); Here endith \u00fee lamyntacion / of the\n                    Duches of Glowcetter (p. 362)",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             Political Poems and Songs relating to English History, composed during\n                the period From the Accession of Edward III to that of Richard III.\n             2 vols. \n             Rolls Series\n         14 (1859, 1861); repr. Kraus, 1965: 2.205-8.\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 177-80.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 95.\n\n",
+            "folio": "pp. 360-362"
+        },
+        "CULHh412": {
+            "First Lines": "\nThorow owt a palys as I gan passeI herd a lady make gret\n                    mone\u2026\n",
+            "Last Lines": "\n\u2026And in prayers wyll I wache and wakeAll women may be ware by\n                    me\n",
+            "Note": "\n132 lines.",
+            "Editions": "\n\nHardwick,  Charles. \n             \u201cLament of Eleanor Cobham, Duchess of Gloucester, when Convicted of\n                Sorcery.\u201d \n             Cambridge Antiquarian Society, Communications\n         1 (1851-59): 177-90: 186-90.\nRobbins,  Rossell Hope,\n                        ed.  \n             Historical Poems of the XIV and XV Centuries.\n         New York: Columbia UP, 1959: 176-80.\n\n",
+            "folio": "ff. 92-94"
+        }
+    }
+}

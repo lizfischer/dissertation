@@ -1,0 +1,15 @@
+{
+    "_id": 36,
+    "_header": "A false behighting",
+    "Subjects": "sermons, verse in",
+    "Versification": "\u2014 three-line \u2014 aaa",
+    "_description": "Phrases describing three evils, in a sermon \u2014 three monorhyming lines",
+    "_witnesses": {
+        "BLHar7322": {
+            "Transcription": "\nA fals byhetygA lyeres anansyngA bitynde fondig\n",
+            "Note": "\nSet out to right of lines of Latin of similar content, \u201cpromissio fallax, promocio mendax, prolacio Mordax.\u201d",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Political, Religious and Love Poems, from Lambeth MS. 306 and other\n                sources.\nEETS\n         o.s. 15 (1866); repr. 1962; rev. ed. 1903: orig ed. 242; rev. ed. 270.\n",
+            "folio": "f. 185"
+        }
+    }
+}

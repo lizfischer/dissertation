@@ -1,0 +1,150 @@
+{
+    "_id": 5395,
+    "_header": "The masters that usen blood letting",
+    "Note": "Formerly 3848; cf. 1570; for a variant version see 6847.",
+    "Subjects": "bloodletting; didactic verse",
+    "Versification": "\u2014 two-line",
+    "Bibliographic Ghosts": "Oxford, Bodleian Library Ashmole 391, Part II.5 (SC 6733), f. 9: see 1570; London, British Library Sloane 610, ff. 5-6: see 1570",
+    "_description": "Poem on Phlebotomy or Bloodletting \u2014 in couplets, often with an introduction of six lines, for a total of 90 lines",
+    "_witnesses": {
+        "BodSelSup73": {
+            "First Lines": "\nMaistres ye that vsen blode lettyngeAnd therby goten youre\n                    lyuyngeHere May ye lerne Wysdome goodeWhat plase that ye shall letten\n                    blode\n",
+            "Note": "\n88 lines",
+            "Editions": "\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 77-80.\n",
+            "folio": "ff. 25-26"
+        },
+        "BodArcSelSup90": {
+            "First Lines": "\nAlle \u021de \u00feat vsyn blod letyngAnd \u00feerbi geti\u00fe\n                    \u021doure levyngHere may \u021de lern wysdome goodeWhat place \u021de\n                    schal lete blod\n",
+            "Note": "\n46 couplets, written as prose.",
+            "folio": "ff. 16-16v"
+        },
+        "BodAsh391II": {
+            "First Lines": "\nAlle ye \u00feat vse bloode letingAnd \u00feerby geeten your\n                    lyvyngHere mow ye lere wisdem goodeIn what place ye shul lete\n                    bloode\n",
+            "Note": "\nEnds imperfectly due to loss of folio: 49 lines only, written as\n                    prose",
+            "folio": "f. 4v"
+        },
+        "BodAsh1448": {
+            "First Lines": "\nThe masters \u00feat vse blode lettyngAnd \u00feer by gete her\n                    levyngHere may thei lere wisdome godeWhat place thei shulde lett\n                    blode\n",
+            "Note": "\nEnds imperfectly: 74 lines only",
+            "folio": "pp. 199-200"
+        },
+        "BodAsh1477": {
+            "First Lines": "\nThes masters \u00feat vse blode lettyngeAnd there by getteth\n                    \u00feer lyuyngeHere ye maye here wysdome godeIn what place ye schalle\n                    lett blode\n",
+            "Note": "\n88 lines; on f. 96 \u2018Here it techethe a man to knowe \u00fee veynys\n                    And where \u00feat they schalle be fownde fore blode lettynge on man or\n                    woman where euer that they sytt\u2019.",
+            "folio": "Part I, pp. 96-98"
+        },
+        "BodAsh1481": {
+            "First Lines": "\n[\u021c]e maysters \u00feat vsen blod latyng& \u00feere with\n                    getyn here lyuyngHere \u021de may lere wysdam godeIn wat place\n                    \u021dow schal lat blode\n",
+            "Note": "\n90 lines.",
+            "Attributed Title": "\nHer be gynne \u00fee knowing of veynys (f. 25v)",
+            "folio": "Part I, E, ff. 25v-26"
+        },
+        "BodRawC506": {
+            "First Lines": "\nThe mastyrs \u00feat vse blod lattyngAnd \u00feer by getti\u00fe\n                    \u00feer lyvyngHer may \u00feai lern wisdom goodIn what place \u00feai\n                    shall let blod\n",
+            "Note": "\n92 lines",
+            "folio": "ff. 27-28v"
+        },
+        "BodRawD251": {
+            "First Lines": "\n\u021ce mastrys \u00feat off phisik canneAnd by gete \u021dour\n                    goodHer may \u021de lern wysdom \u00feanWhat placys \u021de xuld lete\n                    blode\n",
+            "Note": "\n88 lines; with variant 6-line introduction (ababcc).",
+            "folio": "ff. 51v-53"
+        },
+        "CamTCC1037": {
+            "First Lines": "\n\u2026The myddel veyne be twex \u00fee to\u00dee Coral he is\n                    clepyd soThat veyn clenseth with owte dowteA bove be ne\u00fee with\n                    Inne & with owte\n",
+            "Note": "\nBegins imperfectly due to loss of folio; begins line 57.",
+            "Facsimiles": "\n\nDigital Facsimile of Trinity College Cambridge MS O.1.13.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/O.1.13. \n",
+            "folio": "ff. 20-20v"
+        },
+        "CamTCC1440": {
+            "First Lines": "\nMen \u00feat vsyn blodlatyngAnd therby geten here lewyngHer\n                    they may leren wysdam godIn quat place they xuln laten blod\n",
+            "Note": "\n92 lines",
+            "folio": "ff. 142v"
+        },
+        "BLAdd30338": {
+            "First Lines": "\nAlle ye \u00feat vsyth blode letyng & \u00feer by gety\u00fe your\n                    leuyng \u2026Here may ye lerne wysdoom good what place \u021de\n                    schulle\n",
+            "Last Lines": "\n\u2026yf \u00feu \u00feese vse at \u00fey nede \u00fee forseyde euylys\n                    \u00feu dar not dredeSo \u00ferouw\u021d crystys helpyng \u00feat all hath\n                    in gouernyng\n",
+            "Note": "\nWritten one couplet per line: 45 couplets or 90 lines.",
+            "folio": "ff. 212-213"
+        },
+        "BLEge1995": {
+            "First Lines": "\nThe maysters that vsyn bloode latyngeAnd there by gete there\n                    leuynge\u2026\n",
+            "Last Lines": "\n\u2026So mote hyt be sey nowe weAmen Amen for charyte\n",
+            "Note": "\n84 lines.",
+            "Attributed Title": "\nFOr bloode latynge (f. 79)",
+            "folio": "ff. 79-80"
+        },
+        "BLSl100": {
+            "First Lines": "\n\u021ce maistris \u00feat vsen blood letyngeAnd \u00feer wi\u00fe\n                    geten \u021doure lyuyngeHere mai \u021de lerne wijsdom goodIn what\n                    place \u021de schulen lete blood\n",
+            "Note": "\n92 lines",
+            "folio": "ff. 34-35v"
+        },
+        "BLSl357": {
+            "First Lines": "\nThe maystres \u00feat vsith blode letyngAnd \u00feus doith gaith\n                    here leuyngHere \u021de may lerne wysdom godeIn whate place \u021de\n                    schull lete blode\n",
+            "Note": "\n92 lines",
+            "folio": "ff. 46-47v"
+        },
+        "BLSl540A": {
+            "First Lines": "\n\u00deys maystres \u00feat vsed blod letyngAnd \u00feer by geten\n                    here lyuyngHere he may lerne wysdom ful goudIn wych places he schul\n                    lete blod\n",
+            "Note": "\n90 lines, followed by pose text on perilous days",
+            "folio": "ff. 23-23v"
+        },
+        "BLSl963": {
+            "First Lines": "\nThe maystris that vse blood latyngeAnd \u00feere by \u021de gete\n                    \u021doure leuyngeHere may \u021de lere wysdam goodWhat place \u021de\n                    schull lete blood\n",
+            "Note": "\n92 lines.",
+            "Editions": "\nMooney,  Linne R. \n             \u201cPractical Didactic Works in Middle English.\u201d \n         Diss. Toronto, 1981: 139-55.\n",
+            "folio": "ff. 71-72v"
+        },
+        "BLSl2457": {
+            "First Lines": "\nThe maystres that vsen blood lettyngAnd ther by gether her\n                    lyuyngHer \u021de may lerne wysdam goodIn wat place \u021de schal late\n                    blood\n",
+            "Note": "\n89 lines.",
+            "folio": "ff. 1-2"
+        },
+        "BLSl3160": {
+            "First Lines": "\nThe maystris \u00feat vson blode lettyngAnd \u00feer by geten hor\n                    levyngHer thai may lerne wysdam godeIn what place \u00feay schulde\n                    lette blode\n",
+            "Note": "\n86 lines",
+            "folio": "ff. 149-150"
+        },
+        "BLSl3285": {
+            "First Lines": "\nThe maistres that vsith blood letyngeAnd therby getith your\n                    lyuyngeHyer ye may lerne wisdom goodIn what place ye shal late\n                    blood\u2026\n",
+            "Last Lines": "\n\u2026Yf thou vse thise veynes at nedeOf euelis for nemenyd dar ton\n                    naught dredeSo that god helpe\n",
+            "Note": "\n88 lines. Folio number reflects the most recent foliation",
+            "Attributed Title": "\nHow thou shalt knowe veynes for blod letyng (f.75)",
+            "folio": "ff. 74-75v"
+        },
+        "BLAdd18216": {
+            "First Lines": "\n\u2026that vset blod latynge & therby gete her leuyngeHer\n                    may\u021de lerne wysdam good & yn what place \u021de schole lete blod\n                    \u2026\n",
+            "Last Lines": "\n\u2026\u021cif \u00feu hem vse at \u00fei nede \u00fee forseyd euelys\n                    thar \u00fee nowt dredeSo god be helpyng \u00feat al hath yn\n                    gouernynge\n",
+            "Note": "\nWritten one couplet per line; 46 couplets, or 92 lines. Initial two\n                    words indecipherable. Scribe uses \u2018\u00fe\u2019 and \u2018y\u2019\n                    graphs interchangeably to represent thorn.",
+            "folio": "ff. 9v-10"
+        },
+        "DULCosViii10": {
+            "First Lines": "\n\u021ce mastris \u00feat vsyn blod letyngAnd \u00feer with getyn\n                    her leuyngHer ye mey ler wysedom goodIn what place ye schall be let\n                    blod\n",
+            "folio": "ff. 41v-43"
+        },
+        "GULHun258": {
+            "First Lines": "\nHere ye may lerne wisdom ful goodIn which placis ye shall lete\n                    blode\u2026\u2026And in what place \u00feey shalbe foundeI shall you\n                    tell in lityl stounde\u2026\n",
+            "Note": "\nTen lines only, including 4-line preface; added to blank space at end of\n                        Studium sapiencie.",
+            "Editions": "\nYoung,  John,  and  Patrick Henderson Aitken.  \n             A Catalogue of the Manuscripts in the Library of the Hunterian\n                Museum.\n         Glasgow: James Maclehose, 1908: 210.\n",
+            "folio": "p. 190"
+        },
+        "Wellcome406": {
+            "First Lines": "\nMaystris \u00feat u\u00feyth bl[ ]de letyng& \u00feer wy\u00fe\n                    gete\u00fe \u021dour [ ]Here \u021de may lere wysdom ful godeIn what\n                    plase \u021de schull let blode\u2026\n",
+            "Last Lines": "\n\u2026\u021cyf yow \u00feys vse at \u00fei nedeOf [?\u00fee] euelys\n                    dar \u021de no\u021dt dredeSo [?god \u2026of] lor[?]e be helpyng[?]\n                    ha\u00fe in gouernyng\n",
+            "Attributed Title": "\nExplicit ars fleobotuma di secundii (f. 3v)",
+            "Editions": "\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.189-90.\n",
+            "folio": "ff. 1v-3v"
+        },
+        "NatLibMed514": {
+            "First Lines": "\n\u021cE maisters \u00feat vse blode latingAnd \u00feerby gete yowr leving\u2026\n",
+            "Last Lines": "\n\u2026yff \u00feou vse theise at nedeOf \u00fee evill vij forn \u00fear \u00feou not dredeSo that lordis be helping\u00feat al thing hath in welding\n",
+            "Facsimiles": "\n\nDigital Facsimile of U.S. National Library of Medicine (Bethesda, MD) MS E 4.\n         https://collections.nlm.nih.gov/bookviewer?PID=nlm:nlmuid-100899906-bk. \n",
+            "Editions": "\nMayer,  Claudius F. \n             \u201cA Medieval English Leechbook and its 14th Century Poem on\n                Bloodletting.\u201d \n             Bulletin of the History of Medicine\n         7 (1939): 381-91: 388-90.\n",
+            "folio": "ff. 16-17"
+        },
+        "AshburnhamApp121": {
+            "Note": "\nPossibly = London,  British Library Sloane 3285 Sloane 3285, above, which begins\n                    fol. 74; Hamer (1995)\nXHamer,  Richard. \n             A Manuscript Index to the Index of Middle English Verse.\n         London: British Library, 1995 lists as unidentified, missing or\n                    destroyed.",
+            "Editions": "\nMayer,  Claudius F. \n             \u201cA Medieval English Leechbook and its 14th Century Poem on\n                Bloodletting.\u201d \n             Bulletin of the History of Medicine\n         7 (1939): 381-91: 388-90.\n",
+            "folio": "p. 74"
+        }
+    }
+}

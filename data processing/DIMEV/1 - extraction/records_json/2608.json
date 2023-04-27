@@ -1,0 +1,17 @@
+{
+    "_id": 2608,
+    "_header": "In the land of Rome I-bore was Saint Calston",
+    "Title(s)": "South English Legendary",
+    "Subjects": "Calixtus, pope, life of; saints\u2019 lives",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of Pope Calixtus, in one MS of the South English Legendary",
+    "_witnesses": {
+        "Bod779": {
+            "First Lines": "\nIn \u00fee lond of rome I bore was seint calstonto swy\u00fee gret\n                    goodnesse he drou\u021d in his \u021dou\u00fee anon\u2026\n",
+            "Last Lines": "\n\u2026& bring vs to \u00fee ioye \u00feat euermore I leste&\n                    \u00feer in to wonye & maken \u00feer oure feste\n",
+            "Attributed Title": "\nSeint calston \u00fee pope (f. 187)",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDes Ms. Bodl. 779 j\u00fcngere Zusatzlegenden zur s\u00fcdlichen\n                Legendensammlung.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         82 (1889): 307-422: 328-31.\n",
+            "folio": "ff. 187-188v"
+        }
+    }
+}

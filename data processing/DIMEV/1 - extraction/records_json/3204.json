@@ -1,0 +1,22 @@
+{
+    "_id": 3204,
+    "_header": "Lord I yield me guilty / That I never fed the hungry",
+    "Subjects": "prayers, of confession; mercy, works of",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "Bibliographic Ghosts": "London, British Library Addit. 22283 [Simeon]: not in this MS.",
+    "_description": "A confession for negligence of the Works of Mercy \u2014 four 6-line stanzas",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nLord I \u021delde me gulti\u00deat I neuere fedde \u00fee\n                    hungri\u2026\n",
+            "Last Lines": "\n\u2026\u00deat I may comen aftur my dedAnd wonen euere lord\n                    wi\u00fe \u00fee. Amen.\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 1.\nEETS\n         o.s. 98 (1892; repr. 1973): 34.\n",
+            "folio": "ff. 115vc2-116ra"
+        },
+        "BLAdd37787": {
+            "First Lines": "\nLord I \u021delde me gulty\u00deat I neuer fedde \u00fee\n                    hungri\u2026\n",
+            "Last Lines": "\n\u2026\u00deat I may comen after my dedAnd wonen euer lord with\n                    \u00fee. Amen.\n",
+            "folio": "ff. 158-159"
+        }
+    }
+}

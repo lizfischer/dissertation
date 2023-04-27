@@ -1,0 +1,27 @@
+{
+    "_id": 5552,
+    "_header": "Then the knight and the steward free",
+    "Title(s)": "Sir Amadace",
+    "Subjects": "romances",
+    "Versification": "\u2014 twelve-line \u2014 aabccbddbeeb",
+    "_description": "Sir Amadace \u2014 generally in 12-line stanzas",
+    "_witnesses": {
+        "NLS1931": {
+            "First Lines": "\n\u2026\u00feoffe y owe syche toodowne sate sir amadas &\n                    heeAnd kast how \u00feat best my\u021dt beebo\u00fee far and\n                    nere\u2026\n",
+            "Last Lines": "\n\u2026yette schall \u00feei cum sum tyme \u00feer tyllAnd passe\n                    full wele a wey\n",
+            "Note": "\n778 lines.",
+            "Attributed Title": "\nSir amadas (RT)",
+            "Facsimiles": "\nHardman,  Phillipa. \n             The Heege Manuscript: A Facsimile of National Library of Scotland MS\n                Advocates 19.3.1.\n         Leeds Texts and Monographs, n.s. 16. Leeds: School of English,\n            2000. \n",
+            "Editions": "\n\nWeber,  Henry William. \n             Metrical Romances of the Thirteenth, Fourteenth, and Fifteenth\n                Centuries.\n         3 vols. Edinburgh: A. Carstalle, 1810: 3.243-75.\nSmith,  M. N.,\n                        ed.  \n             \u201cAn Edition of the Ireland and Edinburgh Texts of Sir Amadace.\u201d \n         Leeds University Library, unpublished. \n\n",
+            "folio": "ff. 68-84"
+        },
+        "PULTayM9": {
+            "First Lines": "\n\u2026Henne the kny\u021dt and \u00fee stuard fre\u00deay casten\n                    \u00feere hone hit best my\u021dte bebothe be ferre and\n                    Nere\u2026\n",
+            "Last Lines": "\n\u2026Blesse and glade \u00feis cumpanyAnd ore vs halde his\n                    hande\n",
+            "Note": "\nImperfect at beginning due to loss of folio 16, with first 48\n                    lines.",
+            "Attributed Title": "\nffinis de sir Amadace (f. 34v)",
+            "Editions": "\n\nRobson,  John. \n             \u201cThree Early English Metrical Romances.\u201d \n             Camden Society\n         o.s. 18 (1842): 27-56.\nStephens,  George. \n             Ghost-Thanks, or, The Grateful Unburied.\nHazlitt Tracts\n         4/6. Cheapinghaven: Michaelsen and Tillge, 1860. \nSmith,  M. N.,\n                        ed.  \n             \u201cAn Edition of the Ireland and Edinburgh Texts of Sir Amadace.\u201d \n         Leeds University Library, unpublished. \nFoster,  Edward E.,\n                        ed.  \n             Amis and Amiloun,\n                    Robert of Cisyle, and Sir Amadace.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1997. 2nd ed.\n            2007: 111-145.\n\n",
+            "folio": "ff. 17-34v"
+        }
+    }
+}

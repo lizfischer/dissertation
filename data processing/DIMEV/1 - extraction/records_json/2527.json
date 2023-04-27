@@ -1,0 +1,16 @@
+{
+    "_id": 2527,
+    "_header": "In libro men shall read",
+    "Title(s)": "Verbum domini comparatur",
+    "Subjects": "Scripture; God, word of",
+    "Versification": "\u2014 monorhyme \u2014 aaaa",
+    "Macaronic": "Latin",
+    "_description": "Verbum domini comparatur \u2014 four monorhyming lines",
+    "_witnesses": {
+        "Bod649": {
+            "Transcription": "\nlibro leryng In libro men schul redegladio keruyng men schul\n                    dredelucerne schynyng In nocte men schul ledesemini sato wexing In\n                    fruit schal sprede\n",
+            "Attributed Title": "\nVerbum domini comparatur (f. 164)",
+            "folio": "f. 164"
+        }
+    }
+}

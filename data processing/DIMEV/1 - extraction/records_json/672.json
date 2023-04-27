@@ -1,0 +1,21 @@
+{
+    "_id": 672,
+    "_header": "As that a great clerk shows in his books",
+    "Note": "See 671; the rhyming paraphrase of the Ten Commandments occurs separately as 5843.",
+    "Subjects": "instruction, religious; religious instruction",
+    "Versification": "\u2014 alliteration \u2014 alliteration",
+    "_description": "A Wycliffite expansion of Gaytryge\u2019s Lay Folk\u2019s Catechism (671) \u2014 in non-rhyming alliterative verse",
+    "_witnesses": {
+        "Lam408": {
+            "First Lines": "\nAs a gret clerk tellys and schewys in his bokysOf alle \u00fee\n                    creaturis \u00feat god made in heuyn and erthe\u2026\n",
+            "Last Lines": "\nKunnyngly to know god almy\u021dty ys endles lyf and lastynge\n                    blysseHe bryngge vs \u00feerto \u00feat bow\u021dt vs with hys herte blod\n                    on \u00fee cros Christ Ihesu Amen\n",
+            "Note": "\nProse?",
+            "Attributed Title": "\nMandatum domini Johannis de ThoresbyEbor. arhciepi\n",
+            "Editions": "\nSimmons,  Thomas Frederick,  and  Henry Edward Nolloth, eds.  \n             \u201cThe Lay Folks\u2019 Catechism.\u201d \n             EETS\n         o.s. 118 (1901); repr. 1987: 3-99.\n",
+            "folio": "f. 1"
+        },
+        "YorkMinXVIL12": {
+            "folio": "f. 1"
+        }
+    }
+}

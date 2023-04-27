@@ -1,0 +1,19 @@
+{
+    "_id": 1917,
+    "_header": "He which eateth of this bread",
+    "Subjects": "scripture texts, Engl. trans. of; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "One couplet translating \u2018Qui manducat hunc panem uiuit in eternum\u2019 (John 6.58)",
+    "_witnesses": {
+        "BLHar3760": {
+            "Transcription": "\nhe whyche etyth of thys bredeshal euer lyue & neuer be\n                    dede\n",
+            "Note": "\nMarginal annotation. Written as prose.",
+            "folio": "Part 2, f. 274v"
+        },
+        "TCD317": {
+            "Transcription": "\nWho so etyth this bredehe schal lyve and neuere be dede\n",
+            "Editions": "\nColker,  Marvin L.,\n                        ed.  \n             Trinity College Library, Dublin: Descriptive catalogue of the Mediaeval\n                and Renaissance Latin Manuscripts.\n         Aldershot, Hants.: Scolar Press, 1991: 1.639.\n",
+            "folio": "f. 18"
+        }
+    }
+}

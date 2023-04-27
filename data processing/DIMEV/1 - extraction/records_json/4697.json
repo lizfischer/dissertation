@@ -1,0 +1,120 @@
+{
+    "_id": 4697,
+    "_header": "Saint Mark the holy gospeller wide went a-land",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Mark, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Mark in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "BodAddC38": {
+            "folio": "f. 104v"
+        },
+        "BodAsh43": {
+            "First Lines": "\nSEyn Marc \u00fee holi gospellare wide wende alondeVorto preche\n                    cristendom \u00feoru\u021d our lordes sonde \u2026\n",
+            "Last Lines": "\n\u2026& for feste of \u00fee letanye \u00feat byuore mayHoli\n                    chirche halt ech \u021der a seyn Markes day\n",
+            "Attributed Title": "\nsyn Marke (f. 60v)",
+            "folio": "ff. 60v-61"
+        },
+        "Bod779": {
+            "First Lines": "\nSeint mark \u00fee holy godspeller wyde wente alondefor to prechy\n                    cristindom \u00feorw oure lordes sonde\u2026\n",
+            "Last Lines": "\n\u2026men go\u00fe wit letanye a processioun in eche cherche by\n                    woneto preye for \u00fee wedering & mankynne & good hit is to\n                    done\n",
+            "Attributed Title": "\nSeint Mark \u00fee holy gospeler (f. 143)",
+            "folio": "ff. 143-143v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSEint Mark \u00fee Godspellere wyde wende aboute in londefforte\n                    preche cristendom \u00feoruh vr lordes sonde\u2026\n",
+            "Last Lines": "\n\u2026God for \u00fee grete ioye \u00feat laste\u00fe wi\u00fe outen\n                    endeAnd for \u00fee loue of seint Mark graunt vs \u00feider to wende.\n                    Amen.\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 28rb1"
+        },
+        "BodLauMis108": {
+            "First Lines": "\nSeint Marc \u00fee holie godspellare wide wende in londefor to\n                    prechi cristinedom \u00feoru\u021d ore louerdes sonde\u2026\n",
+            "Last Lines": "\n\u2026Bidde we nou\u00fee seint Marc \u021dwas liif we halbe\u021d i\n                    heord to \u00fee ende\u00deat ore soule mote \u00feoru\u021d his Arndingue\n                    into heouene i wiende\n",
+            "Attributed Title": "\nVita sancti Marci ewangeliste (f. 155v)",
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             The Early South-English Legendary.\nEETS\n         o.s. 87 (1887; repr. 1987): 362-3.\n",
+            "folio": "ff. 155v-156"
+        },
+        "BodLauMis463": {
+            "First Lines": "\nSEint Mark \u00fee holy gospeller wide went a londefforto preche\n                    Cristendom thorwe oure lordes sonde\u2026\n",
+            "Last Lines": "\n\u2026And for \u00fee feste of letanie \u00feat bifore mayHoli\n                    chirche halt eche \u021der on Seint Markes day\n",
+            "Note": "\nTwo columns per page, one full-line, the other half-line.",
+            "folio": "ff. 42rb-42va"
+        },
+        "BodTan17": {
+            "First Lines": "\nSEint mark \u00fee holi gospeller wide wente in londeffor to preche\n                    cristindom \u00feour oure lordis sonde\u2026\n",
+            "Last Lines": "\n\u2026And for \u00fee feste of letanye \u00feat be fore mayHoli\n                    chirche halt eche \u021der on seint markis day\n",
+            "folio": "ff. 92v-93v"
+        },
+        "OxfTri57": {
+            "First Lines": "\nSeint Mark \u00fee holy gospellere wyde wente a londeffor to prechy\n                    cristendon \u00feorgh oure lordis sonde\u2026\n",
+            "Last Lines": "\n\u2026and for \u00fee feste of letanie \u00feat by fore mayholy\n                    cherche halt ech \u021der a seint Markes day\n",
+            "Attributed Title": "\nVita Sancti Marcii (f. 33)",
+            "folio": "ff. 33-33v"
+        },
+        "CamCCC145": {
+            "First Lines": "\nSein Mark \u00fee holy gospellares wide wende alonefforto prechi\n                    cristendom \u00feoru oure louerdes sonde sone\u2026\n",
+            "Last Lines": "\n\u2026And for feste of letanie \u00feat biuore mayHoly churche halt\n                    eche \u021der a sein markes day\n",
+            "Editions": "\nD\u2019Evelyn,  Charlotte,  and  A. J. Mill, eds.  \n             The South English Legendary: Corpus Christi College Cambridge MS. 145\n                and British Museum MS. Harley 2277, with variants from Bodley MS. Ashmole 43 and\n                British Museum MS. Cotton Julius D.ix.\nEETS\n         o.s. 235 (1959), 236 (1956); repr. 1967: 1.159-60.\n",
+            "folio": "ff. 60-60v"
+        },
+        "CamMagPep2344": {
+            "First Lines": "\nSeint Mark \u00fee holy gospellere wyde wende a londeffor to prechi\n                    cristendom \u00feorw oure lordes sonde\u2026\n",
+            "Last Lines": "\n\u2026And ffor \u00fee ffeste of \u00fee Letanye \u00feat by ffore\n                    mayHoly chirche halt eche \u021der on Seint Markes day\n",
+            "Attributed Title": "\nMarcus (RT)",
+            "folio": "pp. 260-261"
+        },
+        "CamTCC605": {
+            "First Lines": "\nSEint mark \u00fee godspellere wende wyde in londefor to preche\n                    cristendom \u00feor\u021d oure lordes sonde\u2026\n",
+            "Last Lines": "\n\u2026& for \u00fee feste of letanye \u00feat is by for\n                    may\u00feat holychurche holt eche \u021dere on seint markes day\n",
+            "Attributed Title": "\nMark (RT)",
+            "Facsimiles": "\n\nDigital Facsimile of Trinity College Cambridge MS R.3.25.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.25. \n",
+            "folio": "f. 61v"
+        },
+        "BLAdd10301": {
+            "First Lines": "\nSEyn Mark \u00fee holy gospellare wide wende aloneforto prechy\n                    cristendom \u00feoru oure lordes sonde\u2026\n",
+            "Last Lines": "\n\u2026And for \u00fee feste of letanye \u00feat by fore MayHoly\n                    chirche halt eche \u021dere a sein Markes day\n",
+            "Attributed Title": "\nDe sancto Marco (f. 71v, by scribe in margin beside first\n                    line); sancto Marco (RT)",
+            "folio": "ff. 71v-72v"
+        },
+        "BLCottJulDIX": {
+            "First Lines": "\nSEint Marc \u00fee holi gospellare wide wente alondeforto prechi cristendom \u00feorou our lordes sonde\u2026\n",
+            "Last Lines": "\n\u2026& for feste of \u00fee letanie \u00feat bifore maiholi cherche halt eche \u021der a sein Markes dai\n",
+            "Note": "\n\u201cCapitulum xxxiii\u201d added to right margin by later hand (f. 64).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Julius MS D IX.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Julius_D_IX. \n",
+            "folio": "ff. 64-64v"
+        },
+        "BLEge1993": {
+            "First Lines": "\nSeint Marc \u00fee gospellere wide wende alondeForto prechi cristendom \u00feorw oure lordes sonde\u2026\n",
+            "Last Lines": "\n\u2026And vor feste of \u00fee became \u00feat is bifore mayHoli chirche halt ech \u021der at seint markes day\n",
+            "folio": "ff. 142-142v"
+        },
+        "BLEge2810": {
+            "First Lines": "\nSEint marke \u00fee godspellare wide wende alondeVor to prechi cristindom \u00feor\u021doure louirdis sonde\u2026\n",
+            "Last Lines": "\n\u2026And vor \u00fee feste of letanie \u00feat comi\u00fe biuore mayHoli churche halt eche \u021der a seint Markis day\n",
+            "folio": "ff. 54-55"
+        },
+        "BLEge2891": {
+            "First Lines": "\nSEin Mark \u00fee holy gospellare wide wende alonefforto prechi cristendom \u00feoru oure louerdes sonde\u2026\n",
+            "Last Lines": "\n\u2026And for \u00fee feste of letanie \u00feat biuore mayHoly churche halt ech \u021der a sein markes day\n",
+            "Attributed Title": "\nDe sancto Marco (rubric in margin, f. 70)",
+            "folio": "ff. 70-70v"
+        },
+        "BLHar2277": {
+            "First Lines": "\nSEint Marc \u00fee holi godspellere wide wende alondefforto prechi cristendom \u00feurf oure louerdes sende\u2026\n",
+            "Last Lines": "\n\u2026& for \u00fee feste of \u00fee letanye \u00feat is bifore mayHoli churche hal\u00fe ech \u021der a Seint Markes day\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 2277.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_2277. \n",
+            "folio": "ff. 34v-35"
+        },
+        "Lam223": {
+            "First Lines": "\nSAynt Marke \u00fee gospelere wel wyde went in londefforto preche\n                    cristendome \u00feur\u021d oure lordes sonde\u2026\n",
+            "Last Lines": "\n\u2026Saynt Marke dyed in ful stronge peyne as did mony moTo\n                    \u00feat ioye \u00feat he is ynne god graunte vs all to go. Amen\n",
+            "Attributed Title": "\nSaynt Marke (RT)",
+            "folio": "ff. 95v-96"
+        },
+        "TokyoTak54": {
+            "First Lines": "\nSeynt Marke \u00fee holy gospellere wide went in londeForto prech\n                    cristendom \u00feorgh our lordys sonde\u2026\n",
+            "Last Lines": "\n\u2026And for \u00fee grete letany \u00feat bifore mayHoly chirch\n                    holdeth ech \u021dere on seint Markis day\n",
+            "folio": "ff. 73-73v"
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "_id": 1142,
+    "_header": "Doctors words may not vary",
+    "Subjects": "zodiac",
+    "Versification": "\u2014 four-line \u2014 aabb",
+    "_description": "On the natures of the Twelve Signs \u2014 four quatrains at the end of a prose tract on this subject",
+    "_witnesses": {
+        "BodAsh191IV": {
+            "First Lines": "\nDoctouris wordis \u00feat mou not varieseien \u00feat Aries leo\n                    & Sagittarie\u2026\n",
+            "Last Lines": "\n\u2026And as bokys us ensureseptemtrional of \u00feeir\n                    nature\n",
+            "Note": "\nWritten as prose; divided into four quatrains with subtitles: \u2018Est\n                    parte\u2019, \u2018South parte\u2019, \u2018West parte\u2019, \u2018North\n                    parte\u2019.",
+            "folio": "f. 210v"
+        },
+        "BodAsh391II": {
+            "First Lines": "\nDOctours woordes mowe not variseyen \u00feat aries leo and\n                    sagittari\u2026\n",
+            "Last Lines": "\n\u2026And as bookes vs ensureSeptentrional of \u00feaire\n                    nature\n",
+            "Note": "\nStanzas have subtitles: \u2018Eest\u2019, \u2018Southe\u2019,\n                    \u2018Weste\u2019, \u2018Northe\u2019.",
+            "Editions": "\nMooney,  Linne R. \n             \u201cPractical Didactic Works in Middle English.\u201d \n         Diss. Toronto, 1981: 276-8.\n",
+            "folio": "f. 4v"
+        },
+        "BodAsh1393": {
+            "First Lines": "\n\u2026tores woordes \u00feat mow not warreSeyhtte \u00feat Aries\n                    leo & sagittarySeyht Theis synys ben in es ynesspiciallColoryke\n                    fier yn the orientall\u2026\n",
+            "Last Lines": "\n\u2026And of lookes vs ynsewyreSeptem trianall of ther\n                    nature\n",
+            "Note": "\nEach stanza with heading, as for the first, \u2018Este whoot &\n                    dry\u2019.",
+            "folio": "f. 55"
+        },
+        "BodArcSelSup90": {
+            "First Lines": "\nDoctouris wordis \u00feat mou not varieSeien \u00feat aries leo\n                    & sagitarie\u2026\n",
+            "Last Lines": "\n\u2026And as bokis vs ensureSeptemtrional al \u00feeir\n                    nature\n",
+            "folio": "f. 21v"
+        },
+        "BLCottVitAI": {
+            "First Lines": "\n[D]octouris wordis \u00feat mou not varieSeien \u00feat aries leo\n                    & sagittarie\u2026\n",
+            "Last Lines": "\n\u2026And as bookis us ensureSeptemtrional of her\n                    nature\n",
+            "Note": "\nSpace was left for an enlarged initial \u2018D\u2019, which was left\n                    blank.",
+            "folio": "f. 18v"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "_id": 5035,
+    "_header": "Still then stood Sir Zacharie",
+    "Note": "Followed by 6313 without break in Oxford, Bodleian Library Ashmole 42 (SC 6923), Cambridge UK, Cambridge University Library Dd.1.1, San Marino, CA, Henry Huntington Library HM 129 [olim Phillipps 20420].",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel, \u2018In die sancti Iohannis ad missam matutinalem,\u2019 in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nStill \u00fean stode sir zacharieand \u00feo\u021dt of \u00feis\n                    tithand ferlie\u2026\n",
+            "Last Lines": "\n\u2026If \u021de will listen & hald \u021dou stillI sall\n                    \u021dow tell it wi\u00fe gode will\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 239v-243"
+        },
+        "CULDd11": {
+            "First Lines": "\nfful stille stod \u00fean sire \u021dacharye& \u00feouhte of\n                    \u00feis tyding ferlye\u2026\n",
+            "Last Lines": "\n\u2026And to his blisse he vs bringe\u00deat of nouht made al\n                    thinge\n",
+            "Note": "\nNo marked break between this and the preceding 4247 in this MS.",
+            "folio": "ff. 141-143v"
+        },
+        "CULGg531": {
+            "First Lines": "\nStyll stode syr \u021dacharyAnd thoght of \u00feis tythand\n                    folly\u2026\n",
+            "Last Lines": "\n\u2026And \u00fear scho toke in hyr ihesus\u00feat with hys blode\n                    on rode botht vs\n",
+            "Attributed Title": "\nIn die ad messam natiuitatis matutinalis (f.\n                    155v)",
+            "folio": "ff. 155v-156"
+        },
+        "HunHM129": {
+            "First Lines": "\nStill stode Syr ZacharyAnd \u00feoght off \u00feis tythand\n                    ferly\u2026\n",
+            "Last Lines": "\n\u2026And \u00feare scho toke in hir ihesus\u00deat with his blode\n                    on rode boght vs\n",
+            "Attributed Title": "\nSequitur explanacio secundi ewangelii (f. 204",
+            "folio": "ff. 204-204v"
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "_id": 1761,
+    "_header": "Half in a dream not fully awaked",
+    "Author(s)": "Roos Roos (??)",
+    "Title(s)": "La Belle Dame sans Mercy",
+    "Subjects": "women, as speakers/narrators; envoys",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "\u2018La Belle Dame sans Mercy\u2019, perhaps by Sir Richard Roos, translated from Alain Chartier \u2014 856 lines (including 4-stanza Envoy) in rhyme royal and 8-line stanzas",
+    "_witnesses": {
+        "BodFair16": {
+            "First Lines": "\nHAlffe in a dreme not fully wel awakydThe golden slepe me wrapt\n                    vndir his wing\u2026\n",
+            "Last Lines": "\n\u2026And in their trouth purpose hem to endureI pray god sende hem\n                    bettir aventure\n",
+            "Attributed Title": "\nBalade de la bele Dame sanz mercy (f. 50v); Explicit\n                        la bele dame sanz mercy (f. 62)",
+            "Facsimiles": "\nNorton-Smith,  John. \n             \u201cIntroduction.\u201d \n             Bodleian Library MS Fairfax 16.\n         London: Scolar Press, 1979. \n",
+            "Editions": "\nSkeat,  Walter William,\n                        ed.  \n             The Complete Works of Geoffrey Chaucer.\n         7 vols. Oxford: Clarendon, 1894-7: 7.299.\n",
+            "folio": "ff. 50v-62v"
+        },
+        "CULFf16": {
+            "First Lines": "\nHalfe in a dreme not fully well a wakedThe golden slepe me wrapt\n                    vndir his wyng\u2026\n",
+            "Last Lines": "\n\u2026And in \u00feair trouth purpose hem to EndureI pray god sende\n                    hem bettyr aventure\n",
+            "Attributed Title": "\nChaucer La belle dame sans mercy (f. 117, post-medieval\n                    hand)",
+            "Facsimiles": "\nBeadle,  Richard,  and  Alfred E. B. Owen.  \n             The Findern Manuscript: Cambridge University Library MS. F.1.6.\n         London: Scolar Press, 1977. \n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             Political, Religious and Love Poems, from Lambeth MS. 306 and other\n                sources.\nEETS\n         o.s. 15 (1866); repr. 1962; rev. ed. 1903: rev. ed. 80-111.\nGray,  Douglas. \n             The Oxford Book of Late Medieval Verse and Prose.\n         Oxford: Clarendon, 1985: 85-8.\n\n",
+            "folio": "ff. 117-134v"
+        },
+        "CamTCC599": {
+            "First Lines": "\nHalfe in a dreme nat fully well awakydThe goldyn slepe me wrappyd\n                    vndyr hys wyng\u2026\n",
+            "Last Lines": "\n\u2026And in theyre trowthe purpose theym to endureI pray god sende\n                    hem bettyr Auenture\n",
+            "Attributed Author": "\nby Chaucer (f. 98)",
+            "Attributed Title": "\nlabell dame saunce mercy (f. 98)",
+            "Facsimiles": "\n\nFletcher,  Bradford Y. \n             \u201cIntroduction.\u201d \n             Manuscript Trinity R.3.19. A Facsimile.\n         Norman, OK: Pilgrim, 1987. \n\nDigital Facsimile of Trinity College Cambridge MS R.3.19.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.19. \n\n",
+            "folio": "ff. 98-108v"
+        },
+        "BLAdd17492": {
+            "First Lines": "\nO marble herte and yet more harde perdewych mercy may not perce for\n                    no labor\u2026\n",
+            "Last Lines": "\n\u2026ryght as ye lyst yt be ryght so wyll Ito bynd myself were I\n                    was at lyberty\n",
+            "Note": "\nLines 717-24, 229-36.",
+            "folio": "f. 90r2"
+        },
+        "BLHar372": {
+            "First Lines": "\n[H]Alf in a dreme not fully weel a wakidthe golden sleep me wrapt\n                    vndir his wieng\u2026\n",
+            "Last Lines": "\n\u2026And in there trouthe purpose hem to endureI praye god sende\n                    hem better aventure\n",
+            "Note": "\nSome stanzas disarranged.",
+            "Attributed Title": "\nLa belle dame sanz mercy translatid out of ffrenche by sir Richard\n                    Ros (f. 61, in right margin beside first line, by original scribe);\n                    speakers\u2019 names, \u2018La dame\u2019 or \u2018Lamant\u2019 written in\n                    outer margins beside alternating stanzas in the dialogue, and \u2018Verba\n                        Auctoris\u2019 and \u2018Verba translatoris\u2019 on ff. 69\n                    and 69v; after conclusion on f. 69v, original scribe has\n                    written \u2018Qui legit emendat scriptorem non\n                    reprehendat\u2019.",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Political, Religious and Love Poems, from Lambeth MS. 306 and other\n                sources.\nEETS\n         o.s. 15 (1866); repr. 1962; rev. ed. 1903: 52-80.\n",
+            "folio": "ff. 61-69v"
+        },
+        "BLSl1710": {
+            "Note": "\nLines 93-140, 191-764.",
+            "folio": "ff. 164-176v"
+        },
+        "Longleat258": {
+            "First Lines": "\n[H]alf in a dreme nat fully wele awakedThe golden slepe me wrapt\n                    vndre his whynge\u2026\n",
+            "Last Lines": "\n\u2026And in thair trouth purpose hem to endureI pray god sende hem\n                    better aventure\n",
+            "Attributed Title": "\nHere endith la bell / dame sanz mercy (f. 136v)",
+            "Editions": "\nSymons,  Dana M.,\n                        ed.  \n             Chaucerian Dream\n                    Visions and Complaints.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2004. \n",
+            "folio": "ff. 120-136v"
+        }
+    }
+}

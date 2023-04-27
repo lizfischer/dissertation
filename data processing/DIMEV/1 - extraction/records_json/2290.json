@@ -1,0 +1,56 @@
+{
+    "_id": 2290,
+    "_header": "I thank Thee Lord that Thou me wrought / And with strong\u2026",
+    "Note": "For a related indulgence see 5196.",
+    "Title(s)": "Arma Christi",
+    "Subjects": "prayers, thanksgiving",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A prayer of thanksgiving for the Redemption, at the end of (4083) \u2014 forty-eight lines in couplets",
+    "_witnesses": {
+        "OxfQueens207": {
+            "First Lines": "\nI thonke the lorde \u00feat thow me wrou\u021dtAnd with stronge\n                    paynys that thow me bou[ ]\u2026\n",
+            "Last Lines": "\n\u2026Thi body was hongyd to a treWhat may I say thow hast do for\n                    meWith scorges [ ]\n",
+            "Note": "\nEnds imperfectly because the folio is damaged.",
+            "folio": "f. 174v"
+        },
+        "CULIi643": {
+            "First Lines": "\ni \u00feanke \u00fee lorde \u00feat \u00feu me wro\u021dteAnd with\n                    stronge peynes \u00feu me bo\u021dte\u2026\n",
+            "Last Lines": "\n\u2026\u00feis graunte me lorde y praye to \u00feeffor marye loue\n                    \u00fey modyr free Amen\n",
+            "folio": "f. 111v"
+        },
+        "BLAdd32006": {
+            "First Lines": "\nI thanke \u00fee lorde \u00feat \u00feu me wrowtAnd with stronge\n                    peynes you me bow\u021dtt\u2026\n",
+            "Last Lines": "\n\u2026\u00deis graunte me lorde I pray to \u00feeffor mari loue\n                    \u00fei moder so fre\n",
+            "folio": "roll"
+        },
+        "BLRoy17Axxvii": {
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             Legends of the Holy Rood, Symbols of the Passion, and\n                Cross-Poems.\nEETS\n         o.s. 46 (1871); repr. 1973: 194-5.\n",
+            "folio": "f. 79"
+        },
+        "Longleat30": {
+            "First Lines": "\nI Thanke the lord that thow me wroughtAnd with stronge peynes\n                    \u00feow me bought\u2026\n",
+            "Last Lines": "\n\u2026This graunt to me lord I pray theffor mary loue thy moder\n                    free Amen\n",
+            "folio": "ff. 10v-11"
+        },
+        "BlairsColl13": {
+            "First Lines": "\nI \u00feanke \u00fee lord \u00feat \u00feou me wro\u021dtFor with\n                    strong painis \u00feu me bout\u2026\n",
+            "Last Lines": "\n\u2026Wher \u00feoru \u00feat in maner dampnid beDerwor\u00fee lord\n                    for \u00fei pite Amen\n",
+            "folio": "roll, item (b)"
+        },
+        "HarTYP193": {
+            "First Lines": "\nI Thank \u00fee lorde \u00feat \u00feou me wrouthAnd strong peynes\n                    \u00feu hast me bout\u2026\n",
+            "Last Lines": "\n\u2026this grant me lorde I pray to \u00feeffor mari loue \u00fei\n                    moder fre\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 186v-188"
+        },
+        "HunHM142": {
+            "First Lines": "\nI Thanke the lord that \u00feow me wroughtAnd with stronge peynes\n                    \u00feow me bought\u2026\n",
+            "Last Lines": "\n\u2026Thus graunt to me lord I pray theFor mary loue thi moder\n                    fre\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 9-10"
+        },
+        "Esopus": {
+            "folio": "roll"
+        }
+    }
+}

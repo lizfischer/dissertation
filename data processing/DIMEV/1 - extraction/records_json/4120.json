@@ -1,0 +1,25 @@
+{
+    "_id": 4120,
+    "_header": "O ye women which been inclined",
+    "Note": "The Envoy of Lydgate\u2019s \u2018Doublenesse\u2019 occurring separately; see 5793.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Doublenesse\u2019",
+    "Subjects": "envoys; women, against; satires",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "Advice to Women \u2014 one 8-line stanza (ababbcbc)",
+    "_witnesses": {
+        "BodAsh39": {
+            "First Lines": "\nO ye women wyche be enclynedbe the enfflewens off your\n                    natureTo be as pure as gold reffynedIn yowr trowth\n                    tendure\u2026\n",
+            "Last Lines": "\n\u2026sset uppon your brest your sselffe to assureA myghtty scheld\n                    off dowbelnesse\n",
+            "Note": "\nNow unreadable writing (possibly a name) occurs above the first\n                    line.",
+            "Editions": "\n\nBlack,  William Henry. \n             Catalogi Codicum Manuscriptorum Bibliothecae Bodleianae\u2026Pars X,\n                A\u2026Catalogue of the Manuscripts bequeathed\u2026by Elias Ashmole.\n         Oxford: Clarendon, 1845: 61-2.\nLauritis,  Joseph Aloysius,\n                        ed.  \n             A Critical Edition ofJohn Lydgate\u2019s Life of Our Lady.\nDuquesne Studies, Philological Series\n         2. Pittsburgh: Duquesne University, 1961; orig. ed. diss. University\n            Pennsylvania 1951 (Ralph Albert Klinefelter); 1952 (Vernon F. Gallagher), 1958\n            (Lauritis), in 3 vols: 40.\n\n",
+            "folio": "end cover"
+        },
+        "NapXIIIB29": {
+            "First Lines": "\nO ye wymmen whiche been enclynedBi enfluence of \u021doure\n                    nature\u2026\n",
+            "Last Lines": "\n\u2026Set on \u021doure silue to assureA mighti schilde of\n                    doblenesse\n",
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 2.70.\nVallese,  Tarquinio. \n             La Novella del Chierico di Oxford.\n         Naples: A.G.D.A., 1939: 77.\n\n",
+            "folio": "p. 1462"
+        }
+    }
+}

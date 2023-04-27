@@ -1,0 +1,25 @@
+{
+    "_id": 19,
+    "_header": "A celuy que pluys eyme en mounde",
+    "Note": "Formerly two separate entries, 16 and 19.",
+    "Subjects": "lovers, addresses to beloved; dialogues, lovers\u2019",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "Macaronic": "Latin, French",
+    "_description": "De amico ad amicam and Responcio \u2014 twenty-one 6-line stanzas, in alternate French, English, and Latin lines",
+    "_witnesses": {
+        "CULGg427": {
+            "First Lines": "\nA Celuy qui pluys eyme en MoundeOf alle \u00feo \u00feat I haue\n                    foundeCarissimaSaluz od treye amour\u2026\n",
+            "Last Lines": "\n\u2026In \u021doure herte stedefastlyNotate\n",
+            "Attributed Title": "\nDe Amico ad amicam (f. 10v); Responcio (f. 11)",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "Editions": "\n\nEllis,  Alexander John,\n                        ed.  \n             On Early English Pronunciation.\n             4 vols. \n             EETS\n         e.s. 2 (1867), 7 (1869), 14 (1871), 23 (1874), repr. 1973; issued\n            jointly by the Philological Society, the EETS, and the Chaucer Society [2nd ser. 1, 4-5,\n            25] London: Tr\u00fcbner; ed. note: with rare exceptions, entries from these volumes are\n            identical; where variants occur, both editions are cited: 4.463.\nChambers,  Edmund Kerchever,  and  Frank Sidgwick.  \n             Early English Lyrics\u2026.\n         London: Buller, 1907, 1911 et seq: 15-19.\nBradshaw,  Henry. \n             \u201cPrivate printing of CUL Gg.4.27.\u201d \n         (Cambridge, 1889); not seen since used by Ellis 1867-74; not in BL\n            Catalogue or Bradshaw\u2019s Collected Papers. \nSmall,  John, Ae. James George Mackay,  George Powell McNeill,   and  Walter Gregor, eds.  \n             The Poems of William Dunbar.\n             5 pts. \n             Scottish Text Society\n         2, 4, 16, 21, 29. Edinburgh, 1884-93: 3.100-101.\nWehrle,  William Otto. \n             The Macaronic Hymn Tradition in Medieval English Literature.\n         Washington, D.C.: Catholic UP, 1933: 119.\nQuiller-Couch,  A. \n             The Oxford Book of English Verse.\n         Oxford: Clarendon, 1939: 7.\nKaiser,  Rolf,\n                        ed.  \n             Alt- und mittelenglische Anthologie.\n         Berlin, 1954; 3rd ed.; trans. as  Medieval English: a\n                Old English and Middle English Anthology Berlin West, 1958: 298.\nDavies,  Reginald Thorne. \n             Medieval English Lyrics: a critical anthology.\n         London, 1963; Evanston, IL: Northwestern UP, 1964: 159-60.\n\n",
+            "folio": "ff. 10v-11v"
+        },
+        "BLHar3362": {
+            "First Lines": "\nA celuy qui ploys eyne en mundeof all tho \u00feat haue I fonde\u2026\n",
+            "Last Lines": "\n\u2026Quant a vous venu ferrayI yow swere by thys day\n",
+            "Attributed Title": "\nDe amico ad amicam (f. 90v)",
+            "folio": "ff. 90v-91"
+        }
+    }
+}

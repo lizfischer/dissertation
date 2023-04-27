@@ -1,0 +1,49 @@
+{
+    "_id": 2560,
+    "_header": "In our gospel Matthew says us",
+    "Note": "For this text in the \u2018expanded\u2019 version, see 4713.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Palm Sunday, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nIn oure gospell mathewe saise vs\u00feat to ierusalem \u021dode\n                    ihesus\u2026\n",
+            "Last Lines": "\n\u2026And breke \u00fee bandes of oure baleAls i mai schew \u021dow\n                    be a tale\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 105-107"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nSEynt Matheu \u00feis day telles vs\u00deat toward Jerusalem\n                    \u021dede ihesus\u2026\n",
+            "Last Lines": "\n\u2026Bot god him helpe of his mercyEnsaumple wille I \u021dowe\n                    telle \u00feere by\n",
+            "Attributed Title": "\nDominica in ramis palmarum secundum Matheum Et idem euangelium legitur\n                        in prima dominica aduentus secundum ysum E (p. 160)",
+            "folio": "pp. 160-164"
+        },
+        "CULDd11": {
+            "First Lines": "\nSEynt mathew \u00feis day telli\u00fe vs\u00deat toward ierusalem\n                    \u021dede ihesus\u2026\n",
+            "Last Lines": "\n\u2026But god him helpe of his mercyExsample I wile telle \u021dow\n                    \u00feer by\n",
+            "Attributed Title": "\nDominica in ramispalmarum. Euangelium secundum Mathium. Et idem\n                        euangelium legitur in prima dominica aduentus domini.\n",
+            "folio": "ff. 219v-221"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nSaint matthew says vs in our gospellThat to ward Ierusalem\n                    \u021dude Ihesus\u2026\n",
+            "Last Lines": "\n\u2026And broke \u00fee bande of his ballAls yhe may se her by a\n                    tall\n",
+            "folio": "ff. 86-87v"
+        },
+        "Lam260": {
+            "folio": "f. 33va"
+        },
+        "MinULZ822": {
+            "First Lines": "\nMathew in oure gospell schawes\u00feat oh to Iherusalem wrade rod\n                    Ihesus\u2026\n",
+            "Last Lines": "\n\u2026& breke \u00fee bande of hys ballals \u021de may se here\n                    by a tale\n",
+            "Note": "\nDominica in Ramis palmarum Secundum Matheum (f.\n                    75v)",
+            "folio": "ff. 75v-77v"
+        },
+        "HunHM129": {
+            "First Lines": "\nSeint mathew in oure gospell sais vs\u00feat toward Ierusalem\n                    \u021dede ihesus\u2026\n",
+            "Last Lines": "\n\u2026And brek \u00fee bondis off all his baleAs \u021de may se\n                    here by a tale\n",
+            "Note": "\nDominica in ramis palmarum (f. 89)",
+            "folio": "ff. 89-91"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "_id": 6215,
+    "_header": "Wellaway that I ne span",
+    "Note": "Cf. the burden to 3044 for a parallel text.",
+    "Subjects": "sermons, verse in; complaints",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Complaint of a fallen girl, a couplet in a Latin sermon",
+    "_witnesses": {
+        "BLAdd33956": {
+            "Transcription": "\nWeylawey \u00feat iche ne spanWhan y to \u00fee ringe ran\n",
+            "Editions": "\n\nWenzel,  Siegfried. \n             \u201cUnrecorded Middle-English Verses.\u201d \n             Anglia\n         92 (1974): 55-78: 75.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon, 1977 (see\n            also Greene (1935)\nXGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977): 490.\n\n",
+            "folio": "f. 98"
+        },
+        "BerlinTheol": {
+            "Transcription": "\nWeilawei \u00feat ich ne span\u00feo ich into wude ran\n",
+            "Editions": "\nRobbins,  Rossell Hope. \n             \u201cMiddle English Lyrics: Handlist of New Texts.\u201d \n             Anglia\n         83 (1965): 35-47: 47.\n",
+            "folio": "f. 132v"
+        }
+    }
+}

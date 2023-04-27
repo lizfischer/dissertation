@@ -1,0 +1,29 @@
+{
+    "_id": 3510,
+    "_header": "Mine hearts joy is went away",
+    "Note": "Correct order of lines 1-2, which are reversed in two witnesses. For other translations, see 384, 4307, 5216, 5349, 5352.",
+    "Subjects": "translations; scripture, translations of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Two couplets, translating Lamentations 5:15-16",
+    "_witnesses": {
+        "BLRoy7Ci": {
+            "First Lines": "\n\u00fee joy of hour hert is away went\u2026\n",
+            "Note": "\nVariant (Wenzel describes as \u2018garbled\u2019)\n                    version.",
+            "Editions": "\nWenzel,  Siegfried. \n             \u201cUnrecorded Middle-English Verses.\u201d \n             Anglia\n         92 (1974): 55-78: 67 (first line only).\n",
+            "folio": "f. 121"
+        },
+        "NLS18721": {
+            "Transcription": "\nTo sorwe & to care turned is my pley\u00fee ioy\u021de of myn\n                    herte al it is awey\u00fee garlond of myng heued falen is to\n                    grounde\u00deat i euere sennede allas \u00feat ilke stounde\n",
+            "Note": "\nFirst two lines reversed, and formerly 384; second copy in Grimestone\u2019s notebook, with\n                    same Latin text preceding.",
+            "Attributed Title": "\nDe Inferno (f. 69v)",
+            "Editions": "\nWenzel,  Siegfried. \n             \u201cUnrecorded Middle-English Verses.\u201d \n             Anglia\n         92 (1974): 55-78: 67 (first line only).\n",
+            "folio": "f. 69v"
+        },
+        "WorcF126": {
+            "Transcription": "\nMyn hertes ioye is went a-wayto wo and sorwe ys turne my playOf\n                    myn heued \u00fee garland ys afallen to grounde\u00feat I euer\n                    sengethe\u00fee weylaway \u00fee stounde\n",
+            "Note": "\nWritten as prose",
+            "Editions": "\nWenzel,  Siegfried. \n             \u201cUnrecorded Middle-English Verses.\u201d \n             Anglia\n         92 (1974): 55-78: 6-7.\n",
+            "folio": "f. 29"
+        }
+    }
+}

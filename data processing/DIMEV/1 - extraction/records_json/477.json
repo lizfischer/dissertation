@@ -1,0 +1,41 @@
+{
+    "_id": 477,
+    "_header": "An doly season to an careful ditty",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 165; Ringler Jr. (1988)\nXRingler Jr., William A. Bibliography and Index of English Verse Printed 1476-1558. London: Mansell, 1988, TP 156.9.",
+    "Author(s)": "Robert Henryson",
+    "Title(s)": "The Testament of Cresseid",
+    "Subjects": "Troilus and Criseyde, story of",
+    "Versification": "\u2014 seven-line, nine-line \u2014 ababbcc, aabaabbab",
+    "_description": "Robert Henryson, The Testament of Cresseid \u2014 eighty-six stanzas rhyme royal, with Complaint in seven 9-line stanzas",
+    "_witnesses": {
+        "BodAddC287": {
+            "First Lines": "\nA doly seasun till a care full diteShould correspond & be\n                    equiualentRight so it was when I began to writeThis tragedy the weder\n                    right feruent\u2026\n",
+            "Last Lines": "\n\u2026Of faire Creseid as I haue saied beforeSith she is dedde I\n                    spake of her no more\n",
+            "Note": "\n1640 transcript of Thynne\u2019s edition by Kinaston;\n                    \u2018Annotationes in Triste Creseide Testamentum\u2019 follow the poem on pp.\n                    510-525; at the end on p. 525: \u2018Finis. Quarto Maii 1640\u2018. Eng. from\n                    Thynne, with Latin tr. by Kinaston, c. 1639.",
+            "Editions": "\nSmith,  G. Gregory,\n                        ed.  \n             The Poems of Robert Henryson.\n             3 vols. \n             Scottish Text Society\n         55 (1906), 58 (1908), 64 (1914); rpt. New York, 1968: 1.1.\n",
+            "folio": "pp. 476-509"
+        },
+        "CULGg4271b": {
+            "First Lines": "\n\u2026This roiall ringe set with this rubie reddWhich Troilus in\n                    dowrie to me sende\u2026\n",
+            "Last Lines": "\n\u2026Some time compted the flovere of woman hedvnder this stone\n                    late leper lieth dedde\n",
+            "Note": "\nFragment, lines 582-609, in a seventeenth-century hand from Speght (1598)\nXSpeght,  Thomas. \n             The Workes of\u2026Geffrey Chaucer.\n         London, [A. Islip,] imp. G. Bishop, 1598; rev. ed. A. Islip, 1602 (STC\n            5077, 5080).",
+            "Attributed Title": "\nThe Testament of Creside (f. 9)",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "folio": "f. 9"
+        },
+        "CamStJohn235": {
+            "First Lines": "\nA doly season till a carefull diteShould correspond and be\n                    aequivalent\u2026\n",
+            "Last Lines": "\n\u2026Of faire Creiseid as I haue said beforeSith shee is dedd I\n                    speake of her noe more\n",
+            "Note": "\nAdded by a hand of s. xvi2.",
+            "Attributed Title": "\nThe Testament of Criseide (f. 121v); Explicit Liber Troili &\n                    Creiseidos (f. 128v)",
+            "Facsimiles": "\nBeadle,  Richard,  and  Jeremy Griffiths.  \n             \u201cIntroduction.\u201d \n             St. John\u2019s College, Cambridge Manuscript L. 1. A\n                Facsimile.\n         Norman, OK: Pilgrim, and Woodbridge: Boydell and Brewer, 1983. \n",
+            "folio": "ff. 121v-128v"
+        },
+        "EDUDc143": {
+            "First Lines": "\ndoly sassone onto ane cayrfull ditsuld corespond & be\n                    eqewolent\u2026\n",
+            "Last Lines": "\n\u2026And poell artyk com wystleand lovd & schyllAnd causit me\n                    rai[ ]t agane my wyll\u2026\n",
+            "Note": "\nStanzas 1-3 only, added to flyleaf.",
+            "folio": "f. 301v"
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "_id": 5211,
+    "_header": "The bird of Hermes is my name",
+    "Note": "Formerly included under number 2278.",
+    "Author(s)": "George Ripley (attrib.)",
+    "Title(s)": "Emblematical Scroll",
+    "Subjects": "alchemical poems; illustrations, verse accompanying",
+    "_description": "George Ripley(?), alchemical rhyme accompanying illustration of bird on Ripley scrolls \u2014 one couplet",
+    "_witnesses": {
+        "BodAshRol40": {
+            "Transcription": "\nThe Byrd of Hermes Is my namEating my winges too make me\n                    Tame\n",
+            "folio": "third item on roll"
+        },
+        "CamFitz276": {
+            "Transcription": "\nThe brede of ermes is my nameetynge my wyges [sic] to make me\n                    tame\n",
+            "Note": "\nSingle couplet beneath illustration of and eagle on a globe; follows\n                        2623.",
+            "folio": "roll"
+        },
+        "EDCPRS": {
+            "Transcription": "\nThe birde of hermes is my nameeatinge my winges to make me\n                    tame\n",
+            "Note": "\nOne couplet; fifth verse on scroll, beneath preceding verse, with\n                    heading, \u2018The Red See I The Red Soll I Red Elixer Vite\u2019\n                    intervening.",
+            "Editions": "\nMcCallum,  R. I. \n             \u201cThe Ripley Scroll of the Royal College of Physicians of\n                Edinburgh.\u201d \n             Vesalius\n         2:1 (June, 1996): 39-49: 39-46.\n",
+            "folio": "fifth item on roll"
+        }
+    }
+}

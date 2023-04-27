@@ -1,0 +1,65 @@
+{
+    "_id": 443,
+    "_header": "Almighty Lord our blissful king Jesu",
+    "Author(s)": "Guillaume Deguileville",
+    "Title(s)": "P\u00e8lerinage de l\u2019\u00e2me",
+    "Subjects": "soul, pilgrimage of; pilgrims/pilgrimage",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "\u2018The Aungelles Songe\u2019 in the English translation of Deguileville\u2019s P\u00e8lerinage de l\u2019\u00e2me \u2014 five stanzas rhyme royal",
+    "_witnesses": {
+        "Bod770": {
+            "First Lines": "\n[A]lmygty lord our blisful king ihesu\u00feou mirrour of \u00feee\n                    fadir mageste\u2026\n",
+            "Last Lines": "\n\u2026\u00fee remenant is relesid of thi graceIn heuen an hi\u021d\n                    assigned is hem place\n",
+            "Attributed Title": "\nThe angelez song (f. 24va)",
+            "folio": "f. 24va-24vb"
+        },
+        "OxfCCC237": {
+            "First Lines": "\nAlmyghti god oure blyssed kyng Ihesu\u00deu merrour of \u00fee\n                    fadres mageste\u2026\n",
+            "Last Lines": "\n\u2026The remnaunt is relesed of \u00fei graceIn heuene a boue\n                    assyngnes her place\n",
+            "Attributed Title": "\nThe Aungelles songe (f. 48)",
+            "folio": "ff. 48-48v"
+        },
+        "OxfUni181": {
+            "folio": "f. 41v"
+        },
+        "CULKk17": {
+            "First Lines": "\nAlmy\u021dti lord our blisful kyng Ihesu\u00feou myrour of \u00fee\n                    fader mageste\u2026\n",
+            "Last Lines": "\n\u2026The remenaunt is relecyd of \u00fei graceIn heuen on hi\u021d\n                    assigned is \u00feeir place\n",
+            "Attributed Title": "\nHer endith \u00fee drem of \u00fee pilgrimage of \u00fee soule (f.\n                        124v)",
+            "folio": "ff. 34v-35"
+        },
+        "CamGon124": {
+            "First Lines": "\nAlmy\u021dty lord oure blisful kyng Jhesu\u00feu Mirrour of \u00fee\n                    fadir maieste\u2026\n",
+            "Last Lines": "\n\u2026\u00fee reminaunt is relecid of \u00fei graceIn heuen an hye\n                    assygned is \u00feeire place\n",
+            "Attributed Title": "\nWhat tym \u00feat \u00fees pilgrimes hadden songe in \u00feis wyse\n                    \u00feeir aungels wich \u00feat lade hem aunsuerd a no\u00feer singe ful swet\n                    & delicious & seid \u00feus (p. 39)",
+            "folio": "pp. 39-40"
+        },
+        "BLAdd34193": {
+            "First Lines": "\nAll myghty lorde oure blissede kynge Ihesu\u00fee merore of \u00fee\n                    fadures maieste\u2026\n",
+            "Last Lines": "\n\u2026\u00fee remenaunte is relecede by \u00fei graceIn heuene on\n                    hye assignede is here place\n\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 31v"
+        },
+        "BLAdd37049": {
+            "folio": "f. 70v"
+        },
+        "BLEge615": {
+            "First Lines": "\nAll myghti lord oure blisful lord IhuThu myroure of the fadier & maieste\u2026\n",
+            "Last Lines": "\n\u2026The remenaunt is relessed of thi graceIn heuene is assigned hire place\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             \u201cHoccleve\u2019s Works: The Regement of Princes and fourteen minor\n                poems.\u201d \n             EETS\n         e.s. 72 (1897); repr. 1988: xxxiii-iv.\n",
+            "folio": "ff. 29v-30"
+        },
+        "HatCP270": {
+            "folio": ""
+        },
+        "NYPLSpenc19": {
+            "First Lines": "\nAlmyghti lorde oure blisful lord IhesuThow myrrour of the fader in\n                    maieste\u2026\n",
+            "Last Lines": "\n\u2026The remenaunt is relesed of thy graceIn heuene assigned is\n                    her place\n",
+            "Attributed Title": "\nCantus angelorum (38v)",
+            "folio": "ff. 38v-39"
+        },
+        "MelSLV096G94": {
+            "folio": "f. 125v"
+        }
+    }
+}

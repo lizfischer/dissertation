@@ -1,0 +1,34 @@
+{
+    "_id": 4308,
+    "_header": "Our glorious Father that art in heaven",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "Pater Noster",
+    "Subjects": "Lord\u2019s Prayer; paraphrases",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "Macaronic": "Latin",
+    "_description": "John Lydgate, paraphrase of the Pater Noster \u2014 seven rhyme royal stanzas with Latin refrain in stanzas 1-6",
+    "_witnesses": {
+        "CamTCC601": {
+            "First Lines": "\noure glorious ffadyr \u00feat art in heueneKepe vs \u00fey chyldre\n                    \u00feat \u00feow hast wroughtGraunt vs these petycions seueneAs thy\n                    son taught \u00feat hath vs bought\u2026\n",
+            "Last Lines": "\n\u2026And gracious ffadyr take no vengeaunceSed libera nos a\n                        malo\n\n",
+            "Note": "\nNine 8-line stanzas, ababbcbc including Latin eighth line, \u2018O\n                        pater noster qui es in celis\u2019 (stanzas 1-8) and \u2018Sed\n                        libera nos a malo\u2019 (stanza 9).",
+            "Attributed Author": "\n\u2026 per dominum Iohannem lydegate translata (f.\n                        274ra)",
+            "Attributed Title": "\nHic sequitur Oracio dominica per dominum Iohannem lydegate translata\n                    (f. 274ra)",
+            "Editions": "\n\nMahir,  Otto,\n                        ed.  \n             Eine religi\u00f6se Gedichte John Lydgates.\n         Oberviechtach: Adolf Mahir, 1910: 16-18.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 18-20.\n\n",
+            "folio": "f. 274ra-274rb"
+        },
+        "Longleat30": {
+            "First Lines": "\nGlorious fader \u00feat art in heuenkepe vs \u00fei childer that\n                    thow has wrou\u021dt\u2026\n",
+            "Last Lines": "\n\u2026kepynge oure wittes and thy hestes tenAnd gracious fader take\n                    no vengaunceSed libera nos a malo Amen\n\n",
+            "Note": "\nThe rubric \u2018Pater noster qui es in celis\u2019 follows\n                    every stanza but the last.",
+            "Attributed Title": "\nHere begynneth \u00fee Pater noster in englys (f. 24)",
+            "folio": "ff. 24-25"
+        },
+        "HunHM142": {
+            "First Lines": "\nGlorious fader \u00feat art in heuenKepe us \u00fei childer\n                    \u00feat \u00feou has wrou\u021dt\u2026\n",
+            "Last Lines": "\n\u2026Kepynge oure wittes and \u00fei hestes tenAnd gracious fader\n                    take no uengeaunceSet libera nos a malo amen\n\n",
+            "Attributed Title": "\nHere begynneth the Pater noster in englys (f. 20v)",
+            "folio": "ff. 20v-21"
+        }
+    }
+}

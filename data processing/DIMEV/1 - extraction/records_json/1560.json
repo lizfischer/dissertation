@@ -1,0 +1,22 @@
+{
+    "_id": 1560,
+    "_header": "God Himself says no man may / Serve two lords unto pay",
+    "Note": "For the usual text see 6113.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Fifteeth Sunday after Trinity, in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 227ra"
+        },
+        "BLHar4196": {
+            "First Lines": "\nGod him self sais no man maySerue twa lordes vnto pay\u2026\n",
+            "Last Lines": "\n\u2026\u00fean heuyn blis sal be oure medeOure lord vntill \u00feat life vs lede\n",
+            "Note": "\nPreceded by Latin, \u201cNemo potest duobus dominis seruire.\u201d",
+            "Attributed Title": "\nDominica xv estatis Secundum Matheum (rubric, f. 119ra)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): III.110-11.\n",
+            "folio": "ff. 119ra-119vb"
+        }
+    }
+}

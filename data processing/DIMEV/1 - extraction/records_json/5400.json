@@ -1,0 +1,35 @@
+{
+    "_id": 5400,
+    "_header": "The mighty Maker of the major mound",
+    "Note": "There is a Pt. II, 18 ten-line stanzas, beginning \u2018Thow man that is of power and smal valoue\u2019: see Robbins (1975)\nXRobbins, Rossell Hope. \u201cPoems Dealing with Contemporary Conditions.\u201d A Manual of the Writings in Middle English. Albert E. Hartung Vol. 5, fascicle 13. New Haven, CT: Connecticut Academy of Arts and Sciences, 1975: 1385-1536, 1631-1725, 1495.",
+    "Title(s)": "\u2018Lamentacio domini Dalphini Francie pro morte uxoris sue dicte Margarete\u2019",
+    "Subjects": "laments; Francie, Dalphin and Margaret",
+    "Versification": "\u2014 ten-line \u2014 aabaabbcbc",
+    "_description": "\u2018Lamentacio domini Dalphini Francie pro morte uxoris sue dicte Margarete\u2019 \u2014 twenty-three l0-line stanzas (aabaabbcbc) inserted in Bk. XI of the Liber Pluscardensis",
+    "_witnesses": {
+        "BodFair8": {
+            "First Lines": "\nThe myhti makar of \u00fee moior mondeQuhille reuly rollis this\n                    hevinly regions round\u2026\n",
+            "Last Lines": "\n\u2026Was put to deed with tyrannis cruelyQuhy suld we \u00fean for\n                    fair deed may or meyn\n",
+            "Note": "\nTranscript, c. 1675, Oxford,  Bodleian Library Jones 8 (SC 8915), f. 555.",
+            "Attributed Title": "\nIncipit lamentacio dalphili francie pro morte uxoris sue dicte\n                        margarete (f. 188)",
+            "Editions": "\n\nStevenson,  Joseph,\n                        ed.  \n             The Life and Death of King James I of Scotland.\nMaitland Club\n         42. Edinburgh, 1837: 17.\nSkene,  Felix James Henry,\n                        ed.  \n             Liber Pluscardensis.\n             2 vols. \n             The Historians of Scotland\n         vols. 7, 10. Edinburgh: Paterson, 1877-80: 7.382-88 (from transcript).\n\n",
+            "folio": "ff. 188-189v"
+        },
+        "BodJones8": {
+            "First Lines": "\nThee myti makar of \u00fee major mondeQuhille reuly rollis this\n                    hevinly regions round \u2026\n",
+            "Last Lines": "\n\u2026And pray to Mary moder vergyn cleynThat for hir grace scho\n                    bring ws to gud end\n",
+            "Note": "\nTranscript, c. 1675, Oxford,  Bodleian Library Jones 8 (SC 8915), f. 555.",
+            "Attributed Title": "\nIncipit lamentatio Domini Delphini ffrancie pro morte uxoris sue dicte\n                        Margarite (f. 555); Explicit consolatio rationis ad lamentantem\n                    (at the end)",
+            "Editions": "\n\nStevenson,  Joseph,\n                        ed.  \n             The Life and Death of King James I of Scotland.\nMaitland Club\n         42. Edinburgh, 1837: 17.\nSkene,  Felix James Henry,\n                        ed.  \n             Liber Pluscardensis.\n             2 vols. \n             The Historians of Scotland\n         vols. 7, 10. Edinburgh: Paterson, 1877-80: 7.382-88 (from transcript).\n\n",
+            "folio": "ff. 555-559"
+        },
+        "Marchmont": {
+            "folio": ""
+        },
+        "Brussels4628": {
+            "First Lines": "\nThe michti makar of \u00fee maior MondayQuhilk reuli reul yn\n                    hevynli regiouns roundabout \u00feis erd be motion circulerger al\n                    \u00fee cloudis of \u00fee hevin habond\u2026\n",
+            "Attributed Title": "\nIncipit Lamentacio domini dalphini francie pro morte uxoris sue dicte\n                        margarete (f. 229)",
+            "folio": "ff. 229-230v"
+        }
+    }
+}

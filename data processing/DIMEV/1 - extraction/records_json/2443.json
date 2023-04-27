@@ -1,0 +1,33 @@
+{
+    "_id": 2443,
+    "_header": "In a church there I can kneel / This ender day in on morning",
+    "Title(s)": "Deo gracias",
+    "Subjects": "thanksgiving",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "Macaronic": "Latin",
+    "_description": "Deo gracias \u2014 eleven 8-line stanzas (ababbcbc) with this refrain",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nIN a Chirche \u00feer I con knel\u00deis ender day in on\n                    Morwenynge\u2026\n",
+            "Last Lines": "\n\u2026And sitte a mong his seintes hendeAnd \u00feer synge Deo\n                        Gracias\n\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nVarnhagen,  Hermann. \n             \u201cDie kleinere gedichte der Vernon und Simeon handschrift.\u201d \n             Anglia\n         7 (1884): 280-315: 287-9.\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 664-6.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 131-4.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 350-1.\n\n",
+            "folio": "ff. 407rc-407va"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nIN a chirche \u00feere I con knel\u00deis ender fay in on\n                    Morwenynge\u2026\n",
+            "Last Lines": "\n\u2026And sitte amonges his seyntes hendeAnd \u00feere synge Deo\n                    gracias\n",
+            "Attributed Title": "\nExplicit a songe of Deo gracias (f. 129rb)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 129ra-129rb"
+        },
+        "NLS1931": {
+            "First Lines": "\niN a kyrke as can knele\u00deis endyr dey be a wode sydeMe\n                    lyked \u00feo serwys wonder wele\u2026\n",
+            "Last Lines": "\n\u2026And sitte a mong his seyntes hendeAnd in \u00feat place syng\n                        deo gracias\n\n",
+            "Note": "\nLacks stanzas 4, 5.",
+            "Facsimiles": "\nHardman,  Phillipa. \n             The Heege Manuscript: A Facsimile of National Library of Scotland MS\n                Advocates 19.3.1.\n         Leeds Texts and Monographs, n.s. 16. Leeds: School of English,\n            2000. \n",
+            "Editions": "\nTurnbull,  William Barclay David Donald,\n                        ed.  \n             The Visions of Tundale.\n         Edinburgh: T.G. Stevenson, 1843: 161-3.\n",
+            "folio": "ff. 93-94"
+        }
+    }
+}

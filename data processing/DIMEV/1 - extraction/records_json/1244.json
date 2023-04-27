@@ -1,0 +1,14 @@
+{
+    "_id": 1244,
+    "_header": "Faber faber fabre fac",
+    "Subjects": "mnemonics",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Macaronic": "Latin",
+    "_description": "A single mnemonic for learning Latin, among others in Latin \u2014 one couplet",
+    "_witnesses": {
+        "TCD509": {
+            "Transcription": "\nffaber faber fabre facHere here a chelde mak\n",
+            "folio": "p. 115"
+        }
+    }
+}

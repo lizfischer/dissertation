@@ -1,0 +1,26 @@
+{
+    "_id": 1452,
+    "_header": "Fresh lusty beauty joined with gentleness",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 445; cf. 5167.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018A Balade of her that hath all virtues\u2019",
+    "Subjects": "love lyrics; envoys",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lydgate, \u2018A Balade of her that hath all virtues\u2019, written for \u2018Sir Othes of Holand\u2019 \u2014 seven rhyme royal stanzas including Envoy",
+    "_witnesses": {
+        "CamTCC600": {
+            "First Lines": "\nffresshe lusty beaute Joyned with gentylesseDemure appert glad\n                    chere with gouernaunce\u2026\n",
+            "Last Lines": "\n\u2026Truwly to hir to done my messagewhich ha\u00fee alle vertues\n                    sette in hirymage\n",
+            "Attributed Title": "\nLoo here begynne\u00fee a Balade whiche \u00feat Lydegate wrote at \u00fee\n                    request of a squyer \u00feat serued in loves court (p. 34); Balade of Love by\n                    sir Othes of holand (RT)",
+            "Editions": "\n\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 379-81.\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 129-30.\nStevick,  Robert D.,\n                        ed.  \n             One Hundred Middle English Lyrics.\n         Indianapolis: Bobbs-Merrill, 1964: 116-18.\n\n",
+            "folio": "pp. 34-35"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nffreshe lusty beaute Ioyned with gentyllnessedemure apperte glad\n                    chere with gouernaunce\u2026\n",
+            "Last Lines": "\n\u2026truly to hir to done my messagewhich hath all vertues sett in\n                    hir Image\n",
+            "Attributed Author": "\nlydegate (f. 157)",
+            "Attributed Title": "\nLo here beginneth a balade which \u00feat lydegate wrote at \u00fee request\n                    of a squyer \u00feat serued in loues courte (f. 157)",
+            "folio": "ff. 157-157v"
+        }
+    }
+}

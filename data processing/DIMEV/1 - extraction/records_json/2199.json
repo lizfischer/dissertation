@@ -1,0 +1,52 @@
+{
+    "_id": 2199,
+    "_header": "I hung on the cross for love of thee",
+    "Note": "For very similar lines see 3387, 4275, 6032, 6135, and last stanza of 6713. In the same form as here, they were incorporated in 1913 and 6650.",
+    "Subjects": "sermons, verse in; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018In cruce sum pro te\u2019 (4 lines), a tag in the Fasciculus morum, translating \u2018In cruce sum pro te qui peccas desine pro me / Desine do veniam dic culpam retraho penam\u2019 which precedes them",
+    "_witnesses": {
+        "BodLauMis213": {
+            "Transcription": "\nI hong one cros for loue of \u00feeleue \u00fei synne for loue of\n                    meMercy aske amende \u00fee sone& y for \u021dyf \u00feat ys mis\n                    done\n",
+            "Note": "\nWritten as prose, trans. In cruce sum pro te\u2026, which\n                    precedes it.",
+            "folio": "f. 34"
+        },
+        "Bod410": {
+            "Transcription": "\nI honge on cros for loue of \u00feeLeue \u00fei synne for loue of\n                    meMercy ask amend \u00fee soneAnd I for\u021dif \u00feat is\n                    mysdone\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 25"
+        },
+        "BodRawC670": {
+            "Transcription": "\nI honge on cros for loue of theLef \u00fey synne for loue of\n                    meMercy aske amende \u00fee soneAnd I for\u021dyf \u00fee \u00feat is\n                    mysdone\n",
+            "folio": "f. 45"
+        },
+        "CamGon364": {
+            "Transcription": "\nI hange on cros for loue of \u00feeleue \u00fei synne for loue of\n                    meMerci \u00feou aske a mende \u00fee soneAnd for \u021deue \u00feat\n                    is mys dome\n",
+            "folio": "f. 40rb"
+        },
+        "CamStJohn159": {
+            "Transcription": "\nI hange on crose for lust luf of \u00feelef \u00fei syn\n                    for luf of meMercy ask amend \u00fee soneAnd I for gyf \u00fee\n                    \u00feat ys mysdone\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 57v"
+        },
+        "Lincoln44": {
+            "Transcription": "\nI hong on croys for loue of \u00feeleue \u00fey synne for loue of\n                    meMercy aske amende the soneAnd I for \u00fe \u021defe\n                    \u00feat is mysdone\n",
+            "folio": "f. 175vb"
+        },
+        "WorcQ3": {
+            "Transcription": "\nI hong on \u00fee crosse for loue of \u00feeleue \u00fee syn for loue\n                    of meMercy ask amend \u00fee soneAnd I for gyf \u00feat is mys\n                    done\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 47"
+        },
+        "WorcF19": {
+            "Transcription": "\nI honge on \u00fee cros fo \u00fee loue oft of theMan aske\n                    amende amende \u00fee sone & y for geue \u00fee \u00feat ys\n                    misdon\n",
+            "Note": "\nCorrupt; written as prose.",
+            "folio": "f. 178ra"
+        },
+        "Spalding": {
+            "Transcription": "\nI hyng on \u00fee cros for luffe of theleue thi syn for lufe of\n                    meMercy aske amend \u00fee sone& I forgyf \u00feat is\n                    mysdone\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 48"
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "_id": 4879,
+    "_header": "Sith all men naturally desire",
+    "Author(s)": "Thomas Hoccleve",
+    "Title(s)": "\u2018Ars Sciendi Mori\u2019",
+    "Subjects": "death",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "Bibliographic Ghosts": "San Marino, CA, Henry Huntington Library HM 144 [olim Huth 7], f. 55: actually in HM 744.",
+    "_description": "Thomas Hoccleve, \u2018Learn to Die\u2019 or \u2018Ars Sciendi Mori,\u2019 translated from the Horologium Sapientiae of Heinrich Suso, plus a prologue of three stanzas, one of several works in verse and prose that form Hoccleve\u2019s Series, usually preceded by 2621 and followed by 5663 but sometimes occurring separately\u2014134 stanzas rhyme royal, including the prologue.",
+    "_witnesses": {
+        "BodSelSup53": {
+            "First Lines": "\nNowe herkene a doctrine substancialffirste howe lerne to die telle\n                    wole I\u2026\n",
+            "Last Lines": "\n\u2026That for to comprehende \u00feat gladnesseVerrely no wit may\n                    ne tounge expresse\n",
+            "Note": "\nMissing stanzas 1-3, the Prologue.",
+            "Attributed Title": "\nprolog on \u00fee ix\u1d49 leson \u00feat is redde on alle halwen day (f. 117).",
+            "folio": "ff. 117-133"
+        },
+        "Bod221": {
+            "First Lines": "\nSethen all men naturally desirethTo knowe O eterne\n                    sapience\u2026\n",
+            "Last Lines": "\n\u2026That for to comprehende \u00feat gladnesseVerreyly ne wit may\n                    ne tunge expresse\n",
+            "Attributed Title": "\nHere endith \u00fee moralisyng of my tale and begynneth \u00fee moste\n                    profitabill and holsom crafte that is to kun lern to dye (f. 30); Here endith to\n                    lern to dye and begynneth a prolog of \u00fee ix lesson \u00feat is red on all\n                    halow day. At the end: Here endith \u00fee prolog and begynnyth \u00fee lesson\n                    (f. 42v)",
+            "folio": "ff. 30-42v"
+        },
+        "BodLauMis735": {
+            "First Lines": "\nSEthen all men naturely desyreTo kunne O eterne\n                    sapience\u2026\n",
+            "Last Lines": "\n\u2026That for to comprehende \u00feat gladnesseVerrili not wit may\n                    ne tung expresse\n",
+            "Note": "\nFollowed by a \u2018lesson\u2019 in prose.",
+            "Attributed Title": "\nHere endeth \u00fee moralisyng of my tale And begynneth \u00fee moost\n                    profitable and holsomest crafte that is to cvnne Lerne to dye (f. 29), Here\n                    endith to lerne to dye and begynnyth A prologue of \u00fee ix lessoun \u00feat\n                    is red on all halow day (before the last two stanzas)",
+            "folio": "ff. 29-41"
+        },
+        "BLHar172": {
+            "First Lines": "\nsythen al men naturally desyreTo konne & knowe O eterne\n                    sapience\u2026\n",
+            "Last Lines": "\n\u2026Se to thy soule soo or thou hens wendeThat hit may haue\n                    \u00fee lyf whiche hathe non ende\n",
+            "Note": "\nFollowed on f. 88 by motto, \u2018Soli deo honor et\n                    gloria\u2019, written by scribe",
+            "Attributed Author": "\nThomas hoccleve (f. 73, added by a hand of sixteenth century, possibly\n                    John Stow); Thomas hoccleve (f. 88, added by a hand of 16th century, possibly\n                    John Stow)",
+            "Attributed Title": "\nHere endythe the moste profytable and holsummyste crafte that ys oonlye\n                    lerne to dye",
+            "folio": "ff. 73-88"
+        },
+        "BLRoy17Dvi": {
+            "First Lines": "\nSithen all men naturelly desirenTo knowe I eterne Sapience\u2026\n",
+            "Last Lines": "\n\u2026See to thy soule or thou hens wendeThat it may haue the lyfe that hath none ende\n",
+            "Attributed Title": "\nDiscipulus Cum omnes homines naturalis scire desiderant (left margin beside first line, f. 120v)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Royal MS 17 D VI.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Royal_MS_17_D_VI. \n",
+            "folio": "ff. 120v-136v"
+        },
+        "CovAcc3251": {
+            "First Lines": "\nSethen all men naturalli desirenTo knowe O Eterne\n                    sapience\u2026\n",
+            "Last Lines": "\n\u2026See to thi soule or thou hens weendeThat it mai haue the life\n                    \u00feat hath none eende\n",
+            "Attributed Title": "\nHere beginnethe a processe to lerne to deie (f. 57rb)",
+            "folio": "ff. 57rb-63va"
+        },
+        "DULCosViii9": {
+            "First Lines": "\nSyn all men naturelly desyreTo konne o eterne\n                    sapience\u2026\n",
+            "Last Lines": "\n\u2026That for to comprehende \u00feat gladnesseVerraily no wit may\n                    ne tonge expresse\n",
+            "Attributed Title": "\n\u2026incipit ars vtillissima sciendi mori Cum omnes homines\n                        naturaliter scire desiderant (f. 52v); Explicit illa pars\n                        per quam sciendum est mori (f. 74v)",
+            "Facsimiles": "\nBurrow,  John,  and  A. I. Doyle, eds.  \n             Thomas Hoccleve: A Facsimile of the Autograph Verse\n                Manuscripts.\nEETS\n         s.s. 19 (2002). \n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.   Hoccleve\u2019s Works: The Minor Poems. vol. 1.  EETS\n         e.s. 61 (1892); repr. with Gollancz (1925)\nXGollancz,  Israel. \n             Hoccleve\u2019s Works: The Minor Poems. vol. 2.  EETS\n         e.s. 73 (1925); repr. with 61, 1970 73; rev. J.\n            Mitchell and A. Ian Doyle, 1970: 178-212.\n",
+            "folio": "ff. 52v-74v"
+        },
+        "HunHM744": {
+            "First Lines": "\nSyn alle men naturelly desyreTo konne o eterne\n                    sapience\u2026\n",
+            "Last Lines": "\n\u2026Horrible freendes and innumerableAwayten on my soule\n                    miserable\u2026\n",
+            "Note": "\nAfter imperfect ending, catchwords, \u2018The blake faced\u2019;\n                    wrongly listed as in San Marino, CA,  Henry Huntington Library HM 744 [olim Ashburnham 133; olim Gollancz] in Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943.",
+            "Attributed Title": "\nHic incipit Ars vtilissima sciendi mori Cum omnes homines et cetera\n                    (f. 53)",
+            "Facsimiles": "\nBurrow,  John,  and  A. I. Doyle, eds.  \n             Thomas Hoccleve: A Facsimile of the Autograph Verse\n                Manuscripts.\nEETS\n         s.s. 19 (2002). \n",
+            "folio": "ff. 53-68v"
+        },
+        "YaleBei493": {
+            "First Lines": "\nSEthen all men naturely desyreTo kunne O eterne\n                    sapience\u2026\n",
+            "Last Lines": "\n\u2026\u00deat for to comprehende \u00feat gladnesseVerrily no wit\n                    may ne tong expresse\n",
+            "Note": "\nTreatise proper ends f. 41: \u2018\u2026Se to \u00fei soule soo or\n                    \u00feow hens wende / That it may have the lyf \u00feat hath non ende\u2019 and\n                    is followed by the \u2018prolog of \u00fee ix lesson \u00feat is redd on all\n                    halow day\u2019 (f. 41): \u2018Tho othere thre parties which in \u00fee booke\n                    / Off \u00fee tretice of deth expressid be\u2026\u2019, followed by prose\n                    lesson beginning f. 41v.",
+            "Attributed Title": "\nHere\u2026begynneth the most profitable and holsomest crafte that is to\n                    kune lerne to dye (f. 30); Here endith to lerne to dye (f. 41)",
+            "folio": "ff. 30-41"
+        }
+    }
+}

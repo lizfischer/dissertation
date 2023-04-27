@@ -1,0 +1,33 @@
+{
+    "_id": 1712,
+    "_header": "Hail glorious Lady and heavenly queen",
+    "Note": "First 7 stanzas have \u2018c\u2019 lines in Latin; final stanza English as conclusion.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Salutacio Angelica\u2019",
+    "Subjects": "Virgin Mary, salutation to; hymns, to Virgin Mary",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "Macaronic": "Latin",
+    "_description": "John Lydgate, \u2018Salutacio Angelica\u2019 \u2014 eight 8-line stanzas (ababbcbc)",
+    "_witnesses": {
+        "CamTCC601": {
+            "First Lines": "\nhayle glorious lady & heuenly queneCrownyd & regnyng in\n                    \u00fee blysfull cage\u2026\n",
+            "Last Lines": "\n\u2026Helpe vs fayre lady \u00feys lyfe whyle we dryueAnd aftyr\n                    oure endyng god sende vs heuyn Amen\n",
+            "Attributed Author": "\nJohn Lydgate (added by later hand between last line and rubric\n                        Explicit (f. 274vb)",
+            "Attributed Title": "\nHic sequitur Salutacio Angelica per dictum dompnum Johannem lydegate\n                        translata (f. 274)",
+            "Editions": "\n\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 280-2.\nSaupe,  Karen,\n                        ed.  \n             Middle English Marian\n                    Lyrics.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1998: 58-60; 186-7.\n\n",
+            "folio": "ff. 274rb-274vb"
+        },
+        "Longleat30": {
+            "First Lines": "\nHAyle glorious and heuen queneCrouned and reyned in the blysful\n                    cage\u2026\n",
+            "Last Lines": "\n\u2026Help vs fayre lady this lyfe whil we drieAnd after oure\n                    endinge got bringe vs to heueneAmen\n",
+            "Attributed Title": "\nHere begynneth \u00fee aue maria (f. 25)",
+            "folio": "ff. 25-26"
+        },
+        "HunHM142": {
+            "First Lines": "\nHAyle glorious and heuen queneCrouned & reyned in \u00fee\n                    blysful cage\u2026\n",
+            "Last Lines": "\n\u2026Help us fayre lady \u00feis lyf whil we drieAnd after oure\n                    endyng god bringe us to heuen\n",
+            "Attributed Title": "\nSalutacio Angelica (f. 21); Here begynneth \u00fee Aue maria\n                    (f. 21)",
+            "folio": "ff. 21-22v"
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "_id": 1698,
+    "_header": "Hail blessed Lady the Mother of Christ Jesu",
+    "Note": "Initial letters of first five lines, stanzas 15-17, read M-A-R-I-A.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Ave Iesse Virgula\u2019",
+    "Subjects": "Virgin Mary, hymns to; hymns, to Virgin Mary; acrostics",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "Macaronic": "Latin",
+    "_description": "John Lydgate, \u2018Ave Iesse Virgula\u2019 \u2014 nineteen 8-line stanzas (ababbcbc) with this refrain",
+    "_witnesses": {
+        "CamTCC601": {
+            "First Lines": "\nhayle blyssyd lady the modyr of cryst IhesuOf pease and concorde\n                    hayle fresshest on lyue\u2026\n",
+            "Last Lines": "\n\u2026Releue all tho by thy mercyfull puruyaunceThat syng of hole\n                    hert O Aue Jesse virgula\n",
+            "Attributed Author": "\nLydgate (f. 234; f. 235v)",
+            "folio": "ff. 234-235v"
+        },
+        "BLHar2251": {
+            "First Lines": "\nHAile blissed lady the moder of crist JhesuOf pees and concorde\n                    haile fresshest on lyve\u2026\n",
+            "Last Lines": "\n\u2026Releve al tho be thy merciful purviaunceThat syng of hole\n                    hert o Ave Iesse virgula\n",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 299-304.\n",
+            "folio": "ff. 30-32v"
+        },
+        "BLHar2255": {
+            "Note": "\nStanzas 1-7 wanting.",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 299-304.\n",
+            "folio": "ff. 140-141v"
+        }
+    }
+}

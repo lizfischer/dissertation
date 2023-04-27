@@ -1,0 +1,17 @@
+{
+    "_id": 681,
+    "_header": "As the Pilgrims forth did ride",
+    "Subjects": "tales; Virgin Mary, miracles of",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Prologue to \u2018The Ploughman\u2019s Tale\u2019 (6603) inserted into in one version of Chaucer\u2019s Canterbury Tales (6414) \u2014 two rhyme royal stanzas",
+    "_witnesses": {
+        "OxfChrCh152": {
+            "First Lines": "\nAs the Pylgrymys fforth ded rydeOwr host be gan to loke\n                    A boute\u2026\n",
+            "Last Lines": "\n\u2026And heuene blysse had to hys medeHoo seruyth Owr lady the\n                    better shalle spede\n",
+            "Note": "\nAn incipit for the tale is copied at the foot of f.\n                        248v, and then crossed out, with the \u2018Prologue\u2019\n                    continuing on f. 229. The \u2018Tale\u2019 follows on f. 229 (6603).",
+            "Attributed Title": "\nThe prologe of the Ploughman (f. 228v); Here be gynnyth the\n                        tale (f. 148v, foot)",
+            "Editions": "\nBowers,  John M.,\n                        ed.  \n             The Canterbury Tales:\n                    Fifteenth-Century Continuations and Additions.\n         Kalamazoo, MI: Medieval Institute Publications, 1992. \n",
+            "folio": "ff. 228v-229"
+        }
+    }
+}

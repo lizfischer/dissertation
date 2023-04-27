@@ -1,0 +1,42 @@
+{
+    "_id": 6049,
+    "_header": "Today says John the good gospeller",
+    "Note": "For other MSS see 5671; for the version in the \u2018expanded\u2019 Cycle see 5394.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Fourth Sunday in Advent, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nTO day sei\u00fe seint Ion \u00fee gospellereIn vr gospel as\n                    \u021de mowe here\u2026\n",
+            "Last Lines": "\n\u2026I wol on telle of a pilgrymHow Sathanas bi gyled\n                    him\n",
+            "Attributed Title": "\nMiserunt Iudei ab Ierosolimie (f. 169vc)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 169vc-170rb"
+        },
+        "CULAdd8335": {
+            "folio": "p. 21"
+        },
+        "CULGg531": {
+            "folio": "f. 19"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nTo day sais Iohn \u00fee gospellerIn oure gospell als \u021de may\n                    here\u2026\n",
+            "Last Lines": "\n\u2026And halde vs in rightwisnesThat euen gate to warde heuen es\n",
+            "folio": "ff. 14-16"
+        },
+        "EDCPCM": {
+            "First Lines": "\ntO day sais Ion \u00fee god godspellereIn our god spel als ye mai\n                    her\u2026\n",
+            "Last Lines": "\n\u2026\u00dei vaiage may noht pai meBot ef \u00feou do \u00feat I\n                    bid \u00fee\n",
+            "Attributed Title": "\nDominica iiiia in aduentu domini secundum Johannem (f.\n                        22va)",
+            "Editions": "\n\nSmall,  John,\n                        ed.  \n             English Metrical Homilies\u2026.\n         Edinburgh: W. Paterson, 1862: 47-53.\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n\n",
+            "folio": "ff. 22va-23va"
+        },
+        "HunHM129": {
+            "First Lines": "\nTo day seyt seynt Ion \u00fee gospellerIn oure gospell as \u021de\n                    may here\u2026\n",
+            "Last Lines": "\n\u2026I wyll \u021dow tell of a pylgrymHow satanas be gylyt\n                    hym\n",
+            "Attributed Title": "\nDominica quarta aduentus domini (f. 6)",
+            "folio": "ff. 6-8"
+        }
+    }
+}

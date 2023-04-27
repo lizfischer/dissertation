@@ -1,0 +1,20 @@
+{
+    "_id": 4546,
+    "_header": "Saint Bartholomew as Christ command",
+    "Title(s)": "\u2018Passio sancti Bartholomei appostoli\u2019",
+    "Subjects": "Bartholomew, saint",
+    "_description": "\u2018Passio sancti Bartholomei appostoli\u2019 (version in short lines)",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 258ra"
+        },
+        "BLHar4196": {
+            "First Lines": "\nSaint berthelmeu als crist cummandvnto \u00fee puple went prechand\u2026\n",
+            "Last Lines": "\n\u2026vnto wham be ay loueingand till his blis us all he bring\n",
+            "Note": "\nEnds \u201cAMEN.\u201d",
+            "Attributed Title": "\nPassio sancti Bartholomei appostoli x v (rubric, f. 173rb)",
+            "Editions": "\nHorstmann,  Carl. \n             Altenglische Legenden: Neue Folge.\n         Heilbronn: Henninger, 1881: 119-23.\n",
+            "folio": "ff. 173rb-175va"
+        }
+    }
+}

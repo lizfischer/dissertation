@@ -1,0 +1,27 @@
+{
+    "_id": 2229,
+    "_header": "I must go walk the wood so wild",
+    "Note": "The first line occurs as a title in London, British Library Sloane 3501, f. 2v; referred to by title/first line in a Lyffe of Sir Peter Carew, ed. Phillipps (1840)\nXPhillipps, Sir Thomas. \u201cThe Life of Sir Peter Carew, of Mohun Ottery, co. Devon.\u201d Archaeologia 28 (1840): 96-151, 113.",
+    "Title(s)": "The Banished Lover",
+    "Subjects": "lovers, absence/separation of",
+    "Versification": "\u2014 five-line \u2014 abbac",
+    "_description": "The Banished Lover \u2014 fifteen 5-line stanzas including refrain, \u2018And all for your loue my dere\u2019",
+    "_witnesses": {
+        "BLAdd22718": {
+            "Transcription": "\nI muste nedes wander here & there& yn dedly fare\n",
+            "folio": "f. 54"
+        },
+        "TCD160": {
+            "First Lines": "\nI muste go walke the woodes so wyldand wander here &\n                    there\u2026\n",
+            "Last Lines": "\n\u2026that ar the causers of this stryfe& all for your Loue my\n                    dere\n",
+            "Editions": "\nMuir,  Kenneth. \n             Unpublished Poems [by] Sir Thomas Wyatt and His Circle.\nEnglish Reprints Series\n         18. Liverpool: Liverpool UP, 1961: 26-8.\n",
+            "folio": "Part II, ff. 108-108v"
+        },
+        "HunEL34B60": {
+            "First Lines": "\nI must go walke the wood so wylde& wander here &\n                    therin dred & dedly fere\u2026\n",
+            "Last Lines": "\n\u2026but when that I of hur bewtye do thynkeand all for my loue my\n                    dere\n",
+            "Note": "\nSecond occurrence in this MS; written as prose into margins: lines 1-5\n                    on 108v, 6-10 and 16-20 on f. 107v, 6-9 on f. 109, by a\n                    hand of very end of the fifteenth century or sixteenth century; with variant\n                    refrain, \u2018and all for my loue my dere\u2019 or \u2018and all for your\n                    loue my dere\u2019.",
+            "folio": "ff. 108v;  109;  107v"
+        }
+    }
+}

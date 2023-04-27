@@ -1,0 +1,15 @@
+{
+    "_id": 638,
+    "_header": "As I went to kirk weeping",
+    "Note": "Cf. 710.",
+    "Subjects": "schools/scholars; translations",
+    "Versification": "\u2014 two-line, eight-line \u2014 aa, aaabaabb",
+    "_description": "An exercise in translation, with the original Latin \u2014 sixteen lines",
+    "_witnesses": {
+        "DULCosViii10": {
+            "First Lines": "\nAs I went to \u00fee kyrk wepondI met a nowld wyfe\n                    crepond\u2026\n",
+            "Last Lines": "\n\u2026\u00fee mone was lytmak \u021dow me thys laten o\n                    reyt\n",
+            "folio": "f. 72v"
+        }
+    }
+}

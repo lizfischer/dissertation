@@ -1,0 +1,38 @@
+{
+    "_id": 1834,
+    "_header": "He is wise that can be ware ere him be woe",
+    "Note": "Cf. 1832, and Whiting (1968)\nXWhiting, Bartlett Jere. Proverbs, Sentences, and Proverbial Phrases from English Writings Mainly before 1500. Cambridge, MA: Belknap, 1968, W45.",
+    "Subjects": "aphorisms",
+    "Versification": "\u2014 four-line \u2014 aaaa",
+    "_description": "On the Wise Man \u2014 a single monorhyming quatrain",
+    "_witnesses": {
+        "BLHar116": {
+            "Transcription": "\nHe ys wyse that can be ware er he be woHe ys wyse that can do well\n                    and say alsoHe ys wyse that can ber yeue betwene frend and fooHe ys\n                    wyse that hath inoghth and can say hooHe ys wyse that [hath] on wyffe and\n                    wol no moo\n",
+            "Note": "\nFive lines monorhyming (aaaaa); added to flyleaf by a hand of the\n                    fifteenth-sixteenth century.",
+            "Editions": "\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 420; 1977, 437.\n",
+            "folio": "f. 170v"
+        },
+        "BLHar2316": {
+            "Transcription": "\nHe is wys \u021dat kan be war or him be woHe is wys \u021dat louet his frend and ek his foHe is wys \u021dat hauet inow and kan seyn hoHe is wys \u021dat kan don wel and doeth al so\n",
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 2.120.\n Bad Key: Patterson1916: 450.\n\n",
+            "folio": "f. 26r2"
+        },
+        "NLS18721": {
+            "Transcription": "\nHe is wis \u00feat can ben war or he is woHe is wis \u00feat louet is\n                    frend & is foHe is wis \u00feat hat inou & \u00feanne seit\n                    HoHe is wis \u00feat dot\u021d ay wel an seit ay so\n",
+            "Note": "\nIn John Grimestone\u2019s sermon notebook.",
+            "Attributed Title": "\nDe Sapientia (f. 151va)",
+            "Editions": "\nWilson,  Edward. \n             A Descriptive Index of the English Lyrics in John of Grimestone\u2019s\n                Preaching Book.\nMedium \u00c6vum Monographs\n         n.s. 2. Oxford, 1973: 61.\n",
+            "folio": "f. 151v"
+        },
+        "HerefordO414": {
+            "Transcription": "\nHee is wys \u021dat is war her hym be woHee is wys \u00feat con say\n                    wel & deth al soHee is wys \u00feat ha\u00fe ynow\u021d\u00fe & kon\n                    say hoo\n",
+            "Note": "\n3 monorhyming lines.",
+            "folio": "inside front cover"
+        },
+        "TCD158": {
+            "Transcription": "\nHe is wyse \u00feat can be war or hym be wohe is wyse \u00feat can\n                    say wele and do alsohe is wyse \u00feat hac eight and can par hooand\n                    he is wyse \u00feat thankes is god in wele & woo\n",
+            "Note": "\nAdded to right margin.",
+            "folio": "f. 48v"
+        }
+    }
+}

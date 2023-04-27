@@ -1,0 +1,34 @@
+{
+    "_id": 1157,
+    "_header": "Each day me cometh tidings three",
+    "Note": "For other versions see 2707, 5902, 5905, 5906 and 6341.",
+    "Subjects": "sorrowful things, lists of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Three Sorrowful Things \u2014 six lines in couplets",
+    "_witnesses": {
+        "OxfJesus29": {
+            "First Lines": "\nYche day me cume\u00fe tydinges \u00fereofor wel swi\u00fee sore\n                    beo\u00fe heo\u2026\n",
+            "Last Lines": "\n\u2026\u00dee \u00feridde is my meste kare\u00deat ich not hwider\n                    ich scal fare\n",
+            "Editions": "\n\nMorris,  Richard,\n                        ed.  \n             An Old English Miscellany: A Bestiary, Kentish Sermons, Proverbs of\n                Alfred and Religious Poems of the Thirteenth Century.\nEETS\n         o.s. 49 (1872); repr. 1988: 101.\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 18.\nSilverstein,  Theodore,\n                        ed.  \n             Medieval English Lyrics.\n         York Medieval Texts. London: Edw. Arnold, 1971: 20-1.\n\n",
+            "folio": "Part II, f. 189"
+        },
+        "CamEmm27": {
+            "First Lines": "\nBoe ware hoe ih boeAday me come\u00fe sorewen\n                    \u00fere\u2026\n",
+            "Last Lines": "\n\u2026\u00feat \u00feridde is mi meste careNot ih \u00feanne wider\n                    ih schal fare\n",
+            "Note": "\nTrans. \u2018Sunt tria ve qui mescificant me nocte die\n                    quoque\u2026\u2019, written to right.",
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 19.\n",
+            "folio": "f. 162va"
+        },
+        "CamPem258": {
+            "First Lines": "\nHeuerei deg me comez ti\u00feings \u00fere wel sori ben\n                    wee\u2026\n",
+            "Last Lines": "\n\u2026\u00fee \u00feridde is mi moste kare\u00feat I ne\n                    wi\u021dtwider I sall fare\n",
+            "Note": "\nFormerly double-listed under 738.5.",
+            "Editions": "\nHeffernan,  Thomas J. \n             \u201cUnpublished Middle English Verses on \u2018The Three Sorrowful\n                Things.\u2019\u201d \n             Neuphilologische Mitteilungen\n         83 (1982): 31-3: 33.\n",
+            "folio": "f. 134v"
+        },
+        "MaidstA13": {
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 172.\n",
+            "folio": "f. 243v"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "_id": 4602,
+    "_header": "Saint George the good knight a holy man was he",
+    "Note": "For the ordinary text see 4603.",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; George, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A variant text of the Life of St. George in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "MinULZ822": {
+            "First Lines": "\nSaynt george \u00fee gude knyght a haly man was hegeten & borne\n                    in \u00fee lande of caped se full fre\u2026\n",
+            "Last Lines": "\n\u2026\u00fee kynge garte rayse a faire kyrke & craftyly yt\n                    dyghteIn \u00fee hond [sic] of owre swete lorde & sayn george\n                    \u00fee knyght\u2026\n",
+            "Attributed Title": "\nDe sancto Georgio (f. 218v)",
+            "Editions": "\n\nParker,  Roscoe E. \n             \u201cA Northern Fragment of the Life of St. George.\u201d \n             Modern Language Notes\n         38 (1923): 97-101: 97.\nWhatley,  Gordon E.,\n                        ed.  \n             Saints\u2019 Lives in Middle English Collections.\n         With Anne B. Thompson and Robert K. Upchurch. MI: Western Michigan\n            University for TEAMS, 2004. \n\n",
+            "folio": "ff. 218v-219v"
+        }
+    }
+}

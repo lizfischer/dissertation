@@ -1,0 +1,19 @@
+{
+    "_id": 1455,
+    "_header": "Friar Thomas Stanfield",
+    "Author(s)": "John Crophill",
+    "Subjects": "drinking songs",
+    "Versification": "\u2014 eight-line, six-line",
+    "_description": "John Crophill\u2019s Loving Cups, an alewives\u2019 poem \u2014 eight 8-line stanzas with a concluding 6-line stanza",
+    "_witnesses": {
+        "BLHar1735": {
+            "First Lines": "\nffrere Tomas StanfeldeGod al megthete hem It\n                    \u021delde\u2026\n",
+            "Last Lines": "\n\u2026Scharyte most com be hendAnd ellys wyll nought be \u00fei\n                    frend\n",
+            "Note": "\nFolio number reflects the most recent foliation.",
+            "Attributed Author": "\nmy name is crophill (f. 49, part of the poem); quod Iohn Crophill (f.\n                    49)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 1735.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_1735. \n",
+            "Editions": "\nRobbins,  Rossell Hope. \n             \u201cJohn Crophill\u2019s Ale-Pots.\u201d \n             Review of English Studies\n         n.s. 20 (1969): 182-9: 188.\n",
+            "folio": "ff. 48-49"
+        }
+    }
+}

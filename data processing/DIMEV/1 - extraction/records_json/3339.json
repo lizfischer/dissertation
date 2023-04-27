@@ -1,0 +1,23 @@
+{
+    "_id": 3339,
+    "_header": "Man behold and thou might hear / Thing full needful for to lere",
+    "Note": "Part of the \u2018Continuation\u2019 of Handlyng Synne (1283), for which see Sullivan (1978)\nXSullivan, S. A. \u201cHandlyng Synne in Its Tradition: A Study of Robert Mannyng of Brunne\u2019s Handlyng Synne and Its Relation to Other Instructional Works, in Order to Establish the Place of the Poem in Its Genre.\u201d Diss. Cambridge, 1978. Other sections are 378, 1598, 3099, 3355, 3358.",
+    "Subjects": "The Seven Principal Virtues; virtues, seven principal",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Seven Principal Virtues \u2014 198 lines in couplets",
+    "_witnesses": {
+        "CULIi49": {
+            "First Lines": "\nMan be helde & thu may herethyng \u00feat nedful is to\n                    lere\u2026\n",
+            "Last Lines": "\n\u2026Cryst \u021deue vs grace to kepe hem \u021deuen\u00deat we\n                    mown come to \u00fee blysse of heuen\n",
+            "Attributed Title": "\nIste Sunt Septem virttes principales (f. 185)",
+            "folio": "f. 185"
+        },
+        "BLHar3954": {
+            "First Lines": "\nMan begold \u00fe \u00feu myth hereThyng ful nedful for to lere\u2026\n",
+            "Last Lines": "\n\u2026Cryst \u021dyf vs grace so hem to \u021deuene\u00feat we moun onlyn \u00fee blys of heuene\n",
+            "Attributed Title": "\nIste sunt vii virtutes Principales (rubric, f. 85va); Expliciunt vii virtutes (rubric, f. 86vb)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 3954.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_3954. \n",
+            "folio": "ff. 85va-86vb"
+        }
+    }
+}

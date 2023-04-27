@@ -1,0 +1,17 @@
+{
+    "_id": 2580,
+    "_header": "In some time weren in England kings swith rife",
+    "Title(s)": "South English Legendary",
+    "Subjects": "Oswin, saint, life of; saints\u2019 lives",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Oswin in one MS of the South English Legendary",
+    "_witnesses": {
+        "Bod779": {
+            "First Lines": "\nIn somtyme weren in ingelonde kingus swy\u00fee ryuefor so ich\n                    finde in bok I wro\u021dt at onus \u00feer weren fyue\u2026\n",
+            "Last Lines": "\n\u2026\u00feat we after oure ending mot to him come& wende to\n                    \u00fee ioye \u00feer \u00feat he do\u00fe wone\n",
+            "Attributed Title": "\nSeint oswin \u00fee king \u00fee holy marter (f. 208)",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDes Ms. Bodl. 779 j\u00fcngere Zusatzlegenden zur s\u00fcdlichen\n                Legendensammlung.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         82 (1889): 307-422: 369-78.\n",
+            "folio": "ff 208-212v"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "_id": 3402,
+    "_header": "Many man singeth",
+    "Note": "Cf. 3383.",
+    "Subjects": "proverbs",
+    "Versification": "\u2014 six-line",
+    "_description": "A six-line stanza from The Proverbs of Hendyng",
+    "_witnesses": {
+        "CamGon351": {
+            "folio": "f. 102v"
+        },
+        "Lam78": {
+            "Transcription": "\nMany man syngyhthwan he hom brengytha new weddyth wyfYf he\n                    hym wel be thowthand wyste hwat a brosthehe myth wepe al hys\n                    ly\u021df\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 206vb"
+        }
+    }
+}

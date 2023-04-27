@@ -1,0 +1,17 @@
+{
+    "_id": 4451,
+    "_header": "Regem regum a maid hath born",
+    "Note": "See 1512.",
+    "Subjects": "hymns",
+    "Versification": "\u2014 four-line \u2014 aaab",
+    "Macaronic": "Latin",
+    "_description": "A macaronic song of the Nativity \u2014 seven quatrains (aaab)",
+    "_witnesses": {
+        "BodAsh189": {
+            "First Lines": "\nRegem regum A mayde hath borneTo Sawe mankynde that was\n                    forlorne\u2026\n",
+            "Last Lines": "\n\u2026\u00fean shalt \u00feou synge welawyebut \u00feou be lyve\n                        hec predicta\n\n",
+            "Editions": "\n\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: lxxxi; 1977, ci.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 112-13.\n\n",
+            "folio": "ff. 104v-105"
+        }
+    }
+}

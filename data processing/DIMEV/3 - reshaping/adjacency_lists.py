@@ -1,0 +1,35 @@
+import json
+import csv
+from itertools import combinations
+
+
+with open('all_records.json', 'r') as infile:
+    texts = json.load(infile)
+
+# # MS-MS
+# with open('rel_ms-ms.csv', 'w') as outfile:
+#     writer = csv.writer(outfile, lineterminator='\n')
+#     writer.writerow(['Source', 'Target', 'Label', 'Type'])
+#     for t in texts:
+#         text_label = f"DIMEV {t}"
+#         witnesses = [w for w in texts[t]['_witnesses']]
+#         pairs = list(combinations(witnesses, 2))
+#         for p in pairs:
+#             writer.writerow([p[0], p[1], text_label, 'Undirected'])
+
+# Text-Text
+with open('rel_text-text.csv', 'w') as outfile:
+    writer = csv.writer(outfile, lineterminator='\n')
+    writer.writerow(['Source', 'Target', 'Label', 'Type'])
+    mss = {}
+    for t in texts:
+        text_label = f"DIMEV {t}"
+        for w in texts[t]['_witnesses']:
+            if w in mss:
+                mss[w].append(text_label)
+            else:
+                mss[w] = [text_label]
+    for ms in mss:
+        pairs = list(combinations(mss[ms], 2))
+        for p in pairs:
+            writer.writerow([p[0], p[1], ms, 'Undirected'])

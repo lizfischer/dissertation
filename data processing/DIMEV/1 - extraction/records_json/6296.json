@@ -1,0 +1,319 @@
+{
+    "_id": 6296,
+    "_header": "When ended was the life of Saint Cecilia",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Canon\u2019s Yeoman\u2019s Prologue; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; links; alchemy",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the Canon\u2019s Yeoman\u2019s Prologue of the Canterbury Tales \u2014 166 lines in rhyming couplets.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nWHan ended was the liff of seint Cecileer we hadde riden fully fyve\n                    myle\u2026\n",
+            "Last Lines": "\n\u2026syn that my lord is goon I wol not sparesuche thing as I\n                    knowe I wol declare\n",
+            "Attributed Title": "\n\u2026And next / folwith the prolog of the Chanons yoman &\n                        cetera (f. 222v); the Chanons yoman (RT); Here endith the\n                    Chanons yoman his prolog\u2026 (f. 225)",
+            "folio": "ff. 222v-225"
+        },
+        "BodBar20": {
+            "First Lines": "\nWhan endid was \u00fee tale of Seyn CecileEr we fully hadden riden\n                    fye myle\u2026\n",
+            "Last Lines": "\n\u2026Sethyns \u00feat my lord is gone I wil not spareSuche\n                    \u00feing as I know I wil declare\n",
+            "Attributed Title": "\n\u2026& here bygynnyth \u00fee prologe of \u00fee yoman (f. 169);\n                    yoman (RT); Here endith the prologe\u2026 (f. 172)",
+            "folio": "ff. 169-172"
+        },
+        "Bod414": {
+            "First Lines": "\n[W]han endid was the life of seint CecileOr we hadde riden fully\n                    fyue myle\u2026\n",
+            "Last Lines": "\n\u2026Syn my lord is gone I wille declareSuch thing as I knowe I\n                    wille declare\n",
+            "Note": "\nVIII.710-11 omitted.",
+            "Attributed Title": "\nThe prolog of the Chanons yoman (f. 118v)",
+            "folio": "ff. 118v-120v"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nWhan ended was \u00fee life of seint CecileEr we fulli hadde reden\n                    fyve myle\u2026\n",
+            "Last Lines": "\n\u2026Syns that my lorde is gon I wol not spareSiche \u00feing as I\n                    know I shal declare\n",
+            "Attributed Title": "\n\u2026And next beginneth the / Prolog of the Chanons yoman (f. 142); The\n                    Nonne (RT [sic]); Here endeth the Prolog of the Chanons yoman\u2026 (f.\n                    144)",
+            "folio": "ff. 142-144"
+        },
+        "BodLauMis600": {
+            "First Lines": "\nWhan ended was \u00fee lif of seint CecileEr we fully had riden\n                    five myle\u2026\n",
+            "Last Lines": "\n\u2026It wol vs make beggers atte lasteWhiles \u00feis yoman was\n                    \u00feus in \u00feis talkyng\u2026\n",
+            "Note": "\nVIII.685-719 lost (resupplied in the seventeenth century on f.\n                    194).",
+            "Attributed Title": "\n\u2026Here begynne\u00fe \u00fee prolog of the chanons yoman (f. 192);\n                    \u00fee chanons yoman (RT)",
+            "folio": "ff. 192-193v"
+        },
+        "BodLauMis739": {
+            "First Lines": "\n[W]Han endid was the lyfe of Seint CecilieOr we fully had riden\n                    fyfe myle\u2026\n",
+            "Last Lines": "\n\u2026Syns \u00feat my lorde is goone I will not spareSuche thyng\n                    as I knowe I will declare\n",
+            "folio": "ff. 198-200v"
+        },
+        "BodRawPoe149": {
+            "First Lines": "\nWhen endid was the lif of seynt CecileOr we fully had riden fyve\n                    myle\u2026\n",
+            "Last Lines": "\n\u2026Sith that my lorde is gone I wil not spareSoche thyng as I\n                    know I wil declare\n",
+            "Attributed Title": "\nprolog chanon yoman (f. 86, margin); the chanons yoman (RT)",
+            "folio": "ff. 86-87v"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nWhan that told was \u00fee lyfe of seint CecileEr we fully hadde\n                    riden fyue Mile\u2026\n",
+            "Last Lines": "\n\u2026He coude al clene turnen vp & dounAnd paue it al of\n                    siluer and of golde\u2026\n",
+            "Note": "\nVII.627-719 lost; 584-6 omitted; 564-5 precede 562-3.",
+            "Attributed Title": "\nHere begynneth the Chanons yemans prologe (f. 238)",
+            "folio": "ff. 238-238v"
+        },
+        "OxfCCC198": {
+            "First Lines": "\nWhan ended was \u00fee lyf of seint CecileEr we fully hadde ryden\n                    fyue myle\u2026\n",
+            "Last Lines": "\n\u2026Sy\u00feens \u00feat my lord is gon I wol not spareSuch\n                    \u00feing as I knowe I wol declare\n",
+            "Attributed Title": "\nHic incipit fabula Canonici (f. 177v, margin)",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "ff. 177v-180"
+        },
+        "OxfNew314": {
+            "First Lines": "\nWHenne told was \u00fee lif of Saint CecilyEr we hadde riden fulli\n                    v myle\u2026\n",
+            "Last Lines": "\n\u2026Syn that my lord is goon I wol not spareSuch \u00feing as I\n                    knowe I wol declare\n",
+            "Note": "\nVIII.584-6, 622-3, 704-9 omitted; 564-5 precede 562-3.",
+            "Attributed Title": "\n\u2026And / Here begynneth the prolog of \u00fee chanons yeman (f. 170);\n                    Chanons yeman (RT); Here endith \u00fee Prolog\u2026 (f. 172)",
+            "folio": "ff. 170-172"
+        },
+        "OxfTri49": {
+            "First Lines": "\nWhenne tolde was the lif of seint CecileEre we had ridyn fully v\n                    myle\u2026\n",
+            "Last Lines": "\n\u2026Sithins that my lorde is gon I wil nought spareSuche thingis\n                    as I knowe I wille declare\n",
+            "Note": "\nVIII.613, 640, 654-5, 673 omitted.",
+            "Attributed Title": "\nChanons yoman prologus (RT); Explicit prologus (f.\n                    248v)",
+            "folio": "ff. 246v-248v"
+        },
+        "CULDd424": {
+            "First Lines": "\nWHan that told was the lyf of Seynt CecileEr we had riden fully\n                    fyue myle\u2026\n",
+            "Last Lines": "\n\u2026Syn \u00feat my lord is gon I wyl nat spareSwich thyng as\n                    that I knowe I wil declare\n",
+            "Note": "\nVIII.711 omitted (\u2018deficit versus\u2019 in margin); 564-5\n                    precede 562-3.",
+            "Attributed Title": "\n\u2026& bigynneth the / Prologe of the Chanouns \u021ceman (f. 202);\n                    Heere endeth the prologe of the Chanouns \u021deman\u2026 (f. 204)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 202-204"
+        },
+        "CULGg427": {
+            "First Lines": "\n\u2026[torn]hat told was the lif of seynt Cecile[torn]e fully\n                    haddyn redyn fyue myle\u2026\n",
+            "Last Lines": "\n\u2026Al that I can a non now wele I telleSyn he is goon the foule\n                    fend hym quelle\u2026\n",
+            "Note": "\nVIII.706-19 lost; 554-64, 592-602 partially lost.",
+            "Attributed Title": "\nHere folwyn the mery wordys of chaucer and of \u00fee host / And the\n                    Prologe of the chanounys man (f. 380v)",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "Editions": "\nFurnivall,  Frederick James. \n             The Cambridge MS (University Library, Gg.4.27) of Chaucer\u2019s\n                Canterbury Tales.\nChaucer Society\n         Series 1, nos. 4, 10, 17, 28, 33, 40, 52, 66. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 381-380v"
+        },
+        "CULIi326": {
+            "First Lines": "\nWhen endid was the lif of Seint CecileEr we fully hadde riden five\n                    myle\u2026\n",
+            "Last Lines": "\n\u2026Sith that my lorde is gone I wil not spareSuche thing as I\n                    knowe I will declare\n",
+            "Attributed Title": "\n\u2026And here be gynneth the prologe / Of the Chanons yoman that he told\n                    / Be his maister of multiplicacioun (f. 156v); The chanons yeman\n                    (RT); Here endeth the prologe of the Chanons yeman\u2026 (f.\n                    158v)",
+            "folio": "ff. 156v-158v"
+        },
+        "CULMm25": {
+            "First Lines": "\nWhen ended was \u00fee liffe of seynt CecileEr we fully hadde riden\n                    fife Mile\u2026\n",
+            "Last Lines": "\n\u2026Syns \u00feat my lorde is gone I will not spareSwiche thynge\n                    as I knowe I woll declare\n",
+            "Attributed Title": "\n\u00fee prologe of \u00fee chanons yoman (f. 176v, above the\n                    written space); Prologus (RT); Explicit prologus\u2026 (f.\n                    178)",
+            "folio": "ff. 176v-178"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[W]Hen ended was the Tale of seynt CecyleEr we had Ryden fully v\n                    myle\u2026\n",
+            "Last Lines": "\n\u2026Syth my mayster ys gon y woll not spareSuch thyng as y know y\n                    woll declare\n",
+            "Note": "\nVIII.564-5, 568-71, 574-82, 585-7, 595-6, 601-3, 610-13, 631, 638-9,\n                    646-7 omitted.",
+            "Attributed Title": "\n\u2026the prolog of \u00fee chanouns yeman (f. 183v); The\n                    prologes ende of \u00fee Chanouns yeman",
+            "folio": "ff. 183v-185v"
+        },
+        "CamTCC582": {
+            "First Lines": "\nWhan that told was the lif of Seint CecilieOr we full had riden V\n                    myle\u2026\n",
+            "Last Lines": "\n\u2026Sethins my lord is gond I wil nat spareSuch thing as that I\n                    knowe I wil declare\n",
+            "Attributed Title": "\n\u2026And hiere beginneth a prolog of the / Chanons yoman (f.\n                        70ra); Hiere endeth a prolog of the Chanons yoman\u2026 (f.\n                        71ra)",
+            "folio": "ff. 70ra-71ra"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nWHan tolde was the lyff of seynt CicileEr we fully haddyn ryden\n                    fyve myle\u2026\n",
+            "Last Lines": "\n\u2026Syn that my lord is gon I wol nat spareSuch thyng as I knowe\n                    I wol declare\n",
+            "Note": "\nVIII.155-61 omitted.",
+            "Attributed Title": "\n\u2026Incipit prologus famuli Canonici (f. 294v);\n                    Chanoun yeman (RT); Explicit prologus famuli Canonici\u2026 (f.\n                        297v)",
+            "folio": "ff. 295-297v"
+        },
+        "BLAdd35286": {
+            "First Lines": "\nAt boughton vnder the blee vs gan atakeA man that clothed was in\n                    clothes blake\u2026\n",
+            "Last Lines": "\n\u2026Syn that my lord is goon I wol nat spareSwich thing as I know\n                    I wol declare\n",
+            "Note": "\nVIII.554-5, 564-5 omitted.",
+            "Attributed Title": "\nHere bygynneth the prologe of the chanons yeman (f. 215v); the\n                    chanons yeman (RT)",
+            "Editions": "\nHorobin,  Simon. \n             \u201cA Transcription and Study of British Library MS Additional 35286 of\n                Chaucer\u2019s Canterbury Tales.\u201d \n         Diss. Univ. of Sheffield, 1997. \n",
+            "folio": "ff. 215v-218"
+        },
+        "BLEge2726": {
+            "First Lines": "\nWhan that told was the lyf of seint CecilieOr we hade yryden fully\n                    fyve myle\u2026\n",
+            "Last Lines": "\n\u2026Sen \u00feat my lord is goon I woll you\n                    declareSoch thyng as I knowe I woll you declare\n",
+            "Note": "\nVIII.584-6 omitted; 564-5 precede 562-3; spurious lines follow\n                    593.",
+            "Attributed Title": "\n\u2026& incipit prologus seruientis Canonici de multiplicacione\n                    (f. 224); Hic desinit prologus per Canonici seriuentem narratus\u2026\n                    (f. 226v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 224v-226v"
+        },
+        "BLEge2863": {
+            "First Lines": "\nWHan ended was the lyf of seint CecileOr we fully hadde riden fyue\n                    myle\u2026\n",
+            "Last Lines": "\n\u2026Therof no fors good \u021deman quod oure oostSethyns of\n                    \u00fee connyng of thi lord \u00feou woost\u2026\n",
+            "Note": "\nVIII.654-719 lost.",
+            "Attributed Title": "\n\u2026And here byginne\u00fe the prologe of \u00fee Chanons \u021deman (f.\n                        128v); The yeman (RT)",
+            "folio": "ff. 128v-129v"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[W]Han toold was the lyff of seynt CicilyeEr we fully haddyn redyn\n                    fyve myle\u2026\n",
+            "Last Lines": "\n\u2026Syn that my lord is gon I wol nat spareSuch thyng as I knowe\n                    I wol declare\n",
+            "Note": "\nVIII.637-43 omitted; spurious line follows 685.",
+            "Attributed Title": "\n\u2026Heer begynneth the prologe of the Chanouns yoman (f.\n                    241v); The Chanons is tale (RT)",
+            "folio": "ff. 241v-243v"
+        },
+        "BLHar1758": {
+            "First Lines": "\nWHan endid was the lif of seynt CecileEr we had riden fully fyue\n                    myle\u2026\n",
+            "Last Lines": "\n\u2026Sethyn my lord is goon I will noght spareSuche thyng as I\n                    knowe I woll declare\n",
+            "Attributed Title": "\nHere begynneth the Prolog of the Chanounys yeman (f. 138); The Chanounys\n                    yeman (RT); Here endith the Prolog\u2026 (f. 145)",
+            "folio": "ff. 143-145"
+        },
+        "BLHar7333": {
+            "First Lines": "\nWhen tolde was the lyf of seint CecelyEr we hadde redyn fully half\n                    a myle\u2026\n",
+            "Last Lines": "\n\u2026Sithe that my lorde is gon I wolle not spareSuche thing as I\n                    know I wolde declare\n",
+            "Note": "\nVIII.838-9, 1182, 1451 omitted.",
+            "Attributed Title": "\nHere Begynnithe the / Chanons yomanis tale (f. 89ra,\n                    rubric)",
+            "folio": "ff. 89ra-89vb"
+        },
+        "BLHar7334": {
+            "First Lines": "\nWhan ended was \u00fee lif of seynt CecileEr we fully had riden\n                    fyue myle\u2026\n",
+            "Last Lines": "\n\u2026Sin \u00feat my lord is goon I wol noght spareSuch \u00feing\n                    al \u00feat I knowe I wol declare\n",
+            "Attributed Title": "\n\u2026And here bygynneth \u00fee tale of \u00fee Chanouns \u021deman\n                    prologus (f. 169); Chanouns \u021demans Tale (RT)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "ff. 169-171v"
+        },
+        "BLLan851": {
+            "First Lines": "\nWHan ended was \u00fee lif of seint CecileEr we had reden fulli\n                    fiue myle\u2026\n",
+            "Last Lines": "\n\u2026Se\u00feen my lorde is gone I wil not spareSuche \u00feinge\n                    as I knowe I wil declare\n",
+            "Attributed Title": "\n\u2026Incipit prologus Canonice (f. 158); \u00dee \u021coman (RT);\n                        Explicit prologus\u2026 (f. 160)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 158-160"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nWhanne that tolde was the lyf of Seynt CecilyOr we had ryden fully\n                    v myle\u2026\n",
+            "Last Lines": "\n\u2026Sithen that my lord as gon I wil nat spareSuche thyng as I\n                    knowe I wil declare\n",
+            "Note": "\nVIII.598 omitted; 564-5 precede 562-3; spurious line follows\n                    696.",
+            "Attributed Title": "\n\u2026And begynnyth the / prolog of the cha / nons yeman (f. 199, margin);\n                    Here endith the prolog\u2026 (f. 201v, margin)",
+            "folio": "ff. 199-201v"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nWHan ended was \u00fee lyf of seynt CecileEr we fully hadde Ryden\n                    fyfe myle\u2026\n",
+            "Last Lines": "\n\u2026Syns \u00feat my lord Is goon I wil not spareSuche \u00feing\n                    as I know I wil declare\n",
+            "Attributed Title": "\nThe prolog of the Chanons yoman (f. 163); The chanouns yoman (RT); Here\n                    endith the prolog\u2026 (f. 165)",
+            "folio": "ff. 163-165"
+        },
+        "BLSl1685": {
+            "First Lines": "\nWhan endid was \u00fee lyf of Seynt CecileEr we fully hade ryden\n                    fyue myle\u2026\n",
+            "Last Lines": "\n\u2026Sy\u00feens \u00feat my lorde ys gone I wolle not spareSuche\n                    \u00feenge as I knowe I wille declare\n",
+            "Attributed Title": "\n\u2026Here bygynnethe \u00fee Prologge of the Chanons \u021doman (f. 165);\n                    The Chanon \u021doman (RT); Here endith \u00fee Prolooge (f.\n                    167v)",
+            "folio": "ff. 165-167v"
+        },
+        "Alnwick455": {
+            "First Lines": "\nWhen endit was this tale meryleOr wee had riden fully fyve\n                    myle\u2026\n",
+            "Last Lines": "\n\u2026Syn that my lord is goon I woll nat spareSuch thingis as I\n                    know I woll declare\n",
+            "Note": "\nVIII.584-6 omitted; 564-5 precede 562-3.",
+            "Attributed Title": "\n\u2026And here begynnyth the Chanons yeman his prologg (f.\n                    169v); Here endith the Chanons yeman his prologg\u2026 (f.\n                    172)",
+            "folio": "ff. 169v-172"
+        },
+        "GULHun197": {
+            "First Lines": "\nWHenne ended was the life of seynt CecileEr we fully had riden fyve\n                    myle\u2026\n",
+            "Last Lines": "\n\u2026Sith \u00feat my lord is goon I wole nat spareSuche thyng as\n                    y knowe y wole declare\n",
+            "Attributed Title": "\nThe prolog of the Chanons yoman (f. 110ra); The Chanons yoman\n                    (RT); Explicit prologus\u2026 (f. 111ra)",
+            "folio": "ff. 110ra-111ra"
+        },
+        "Holkham667": {
+            "First Lines": "\nWhen ended was the life of seint CecileEr we hadde riden fully fyve\n                    myle\u2026\n",
+            "Last Lines": "\n\u2026Seth that my lorde is gone I wolle nat spareSuch thinge as I\n                    knowe I woll declare\n",
+            "folio": "ff. 24ra-25ra"
+        },
+        "Lichfield29": {
+            "First Lines": "\nWhan ended was the tale of seint CecyleEr we fully had riden fif\n                    myle\u2026\n",
+            "Last Lines": "\n\u2026Syn \u00feat my lord is goon I wol not spareSwich \u00feing\n                    as I knowe I wol declare\n",
+            "Attributed Title": "\n\u2026and now / begynneth the prologe of the Chanons yoman (f. 172); The\n                    prologe of the Chanons \u021doman (RT); Thus endeth \u00fee prologe\u2026 (f.\n                    174)",
+            "folio": "ff. 172-174"
+        },
+        "Lincoln110": {
+            "First Lines": "\nWhanne that told was \u00fee lyff of seint CecyleOr we hadde fully\n                    reden V myle\u2026\n",
+            "Last Lines": "\n\u2026Sithens my lord is gon I woll not spareSiche thing as I knowe\n                    I wol declare\n",
+            "Attributed Title": "\nThe prolog of \u00fee Chanones \u021doman here begynneth (f. 157, heavily\n                    stained); The prologe of \u00fee Chanouns yeman (RT)",
+            "folio": "ff. 157-159"
+        },
+        "LonPhys388": {
+            "First Lines": "\nTHan told was the tale of seynt CecilyOr we hadde Riden fully v\n                    myle\u2026\n",
+            "Last Lines": "\n\u2026Syn that my lord is gon I wil nat spareSuche thyng as I know\n                    I wil declare\n",
+            "Note": "\nVIII.564-5 precede 562-3; spurious line follows 698.",
+            "Attributed Title": "\nExplicit prologus\u2026 (f. 213v)",
+            "folio": "ff. 210v-213v"
+        },
+        "RylandsEng113": {
+            "First Lines": "\nWHan \u00feat tolde was \u00fee lif of Seynt CecileOr we hadde\n                    reden ffully V Mile\u2026\n",
+            "Last Lines": "\n\u2026Syn \u00feat my lorde is goon I wol not spareSuche \u00feinge\n                    as I knowe I woll declare\n",
+            "Note": "\nVIII.564-5 precede 562-3.",
+            "Attributed Title": "\n\u2026And / bigynnyth \u00fee prologe of \u00fee Chanons yoman (f.\n                        158v); Chanons yoman (RT); Here endith \u00fee prologe of \u00fee\n                    Chanons yoman\u2026 (f. 160)",
+            "folio": "ff. 158v-160"
+        },
+        "Petworth7": {
+            "First Lines": "\nWhan ended was the lif of seinte CecileEr we fully had ryden five\n                    myle\u2026\n",
+            "Last Lines": "\n\u2026Si\u00fees \u00feat my lorde is goon I wil not spareSuch\n                    \u00feinge as I knowe I wil declare\n",
+            "Attributed Title": "\n\u2026And here bygynne\u00fe \u00fee prologe of the chanouns \u021deman\n                    (f. 198, rubric); The prologe (f. 198, margin); The prologe of \u00fee chanons\n                    \u021deman (RT, rubric); \u00feus ende\u00fe \u00fee prologe of the chanons\n                    \u021deman\u2026 (f. 200)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 198-200v"
+        },
+        "Austin143": {
+            "First Lines": "\n[W]hen \u00feat told was the lyff of seynt CecilieOr we had rydyn\n                    ffully V mylle\u2026\n",
+            "Last Lines": "\n\u2026Sythe \u00feat my lorde ys gon y woll not spareSuch \u00feing\n                    as I can I woll declare\n",
+            "Note": "\nVIII.564-5 precede 562-3.",
+            "Attributed Title": "\n\u2026And be gynnyth the prologge / of the Chanons yeman (f. 201); Chanons\n                    yoman (RT); Here endyth the prologe of the Chanons yeman\u2026 (f.\n                    203)",
+            "folio": "ff. 201-203"
+        },
+        "ChicagoUL564": {
+            "First Lines": "\nWhen \u00feat told was \u00fee lyf of seynt CecelyEr we fully had\n                    riden fyue myle\u2026\n",
+            "Last Lines": "\n\u2026Sen \u00feat my lord is goon y will not spareSuch \u00feing\n                    as y knowe y wyll declare\n",
+            "folio": "ff. 184v-186"
+        },
+        "PierpontM249": {
+            "First Lines": "\nWhan ended was the tale of seynt CecyleEr we fully had riden fif\n                    myle\u2026\n",
+            "Last Lines": "\n\u2026But syn that my lorde is goon I wol not spareSwich thyng as I\n                    knowe I wol declare\n",
+            "Attributed Title": "\n\u2026And here begynneth the prologe of the Chanons yoman (f.\n                        171v); The prologe of the Chanons yoman (RT); Thus endeth the\n                    prologe\u2026 (f. 173v)",
+            "folio": "ff. 171v-173v"
+        },
+        "PhilRos10841": {
+            "First Lines": "\nWhanne ended was the lyf of seynt cecileEr we ffully hadde ryden\n                    fyf myle\u2026\n",
+            "Last Lines": "\n\u2026Syns that my lord ys goon y wil not spareSuch thynge as y\n                    know y wol declare\n",
+            "Note": "\nThirteen blank lines follow VIII.631.",
+            "Attributed Title": "\n\u2026And bygynneth the prologe of the Chanons \u021deman (f.\n                        127v); The prologe of the chanons \u021deman (RT); Here endyth\n                    \u00fee prologe\u2026 (f. 130)",
+            "folio": "ff. 127v-130"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nWhan toold was al the lyf of seinte CecileOr we hadde riden fully\n                    fyue Mile\u2026\n",
+            "Last Lines": "\n\u2026Syn that my lord is goon I wil nat spareswich thyng as that I\n                    knowe I wol declare\n",
+            "Note": "\nVIII.564-5 omitted.",
+            "Attributed Title": "\n\u2026The prologe of the Chanouns yemannes tale (f. 192); Chanouns yeman\n                    (RT); Heere ende\u00fe \u00fee prologe of the Chanouns yemannes\n                    tale\u2026 (f. 194)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 192-194"
+        },
+        "BNangl39": {
+            "First Lines": "\nUhan told was the lyfe of seynt Cecyleer we fully hadde ryden v\n                    myle\u2026\n",
+            "Last Lines": "\n\u2026sithen that my lord is gon I wil not sparewhich thing as I\n                    knew I wil yow declare\n",
+            "Attributed Title": "\n\u2026& iam incipit fabula seruientis Ca / nonici & primo de\n                        prologo fabule / hoc modo dicendum est & cetera (f.\n                    80rb); Explicit prologus fabule seruien / tis Canonici\u2026\n                    (f. 81rb)",
+            "folio": "ff. 80rb-81rb"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nWhan told was the lif of Seint CecilieOr we had riden fulli v\n                    myle\u2026\n",
+            "Last Lines": "\n\u2026Syn that my lord is goon I nill nat spareSuch thing as I\n                    knowe I wol you declare\n",
+            "Note": "\nVIII.584-6, omitted; 564-5 precede 562-3; spurious lines follow\n                    593.",
+            "Attributed Title": "\n\u2026Et incipit Prologus seruientis Canonici de la Multiplicacion\n                    (f. 221); Hic deficit Prologus per Canonici seriuentem narratus\u2026\n                    (f. 223)",
+            "folio": "ff. 221-223"
+        },
+        "TokyoTak32": {
+            "First Lines": "\nWhanne ended was thee lyf of seynt cecilyEr wee hadde Riden fully\n                    fyue Myle\u2026\n",
+            "Last Lines": "\n\u2026Sythyn my lord is goon I wole nowt spareSwich thyng as I\n                    knowe I wole declare\n",
+            "Attributed Title": "\n\u2026Here is the prolog of the chanownis yoman (f. 88vb); Thee\n                    Chanovnnis yoman (RT)",
+            "folio": "ff. 88vb-90ra"
+        },
+        "Bodmer48": {
+            "First Lines": "\nWhan endid was \u00fee lif of seint cecilOr we had riden fulli five\n                    mile\u2026\n",
+            "Last Lines": "\n\u2026Si\u00feen my lord is gon I wille not spareSuch \u00feing as\n                    I know I wille declare\n",
+            "Note": "\nVIII.562-3, 710-11 omitted.",
+            "Attributed Title": "\nThe prolog of \u00fee chanonis yoman (f. 137v, rubric)",
+            "Facsimiles": "\n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n",
+            "folio": "ff. 137v-139v"
+        }
+    }
+}

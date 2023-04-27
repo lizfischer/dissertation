@@ -1,0 +1,36 @@
+{
+    "_id": 606,
+    "_header": "As I lay upon a night",
+    "Subjects": "dialogues, Virgin and Christ; Virgin Mary, dialogue, with Christ; Christ, dialogue, with Virgin Mary; Virgin Mary, lullay songs of",
+    "Versification": "\u2014 four-line, two-line \u2014 abab, aa",
+    "_description": "A Dialogue between the Virgin Mary and her Infant \u2014 thirty-seven quatrains (abab) with refrain \u2018Alone in my longyng\u2019 and two-line burden: \u2018Lullay lullay la lullay / My dere moder lullay\u2019",
+    "_witnesses": {
+        "CULAdd5943": {
+            "Transcription": "\nAs y lay on \u021dole is ny\u021dtalone in my lo[ng]yng My\n                    \u00feo\u021dt y sawe a wall sayr sy\u021dta may hir child rokyng\n                    lolay\n",
+            "Note": "\nFirst stanza only.",
+            "Facsimiles": "\n\nMayer,  L. S. \n             Music, Cantilenas and Songs.\n         London, 1906 (privately printed); by \"L. S. M.\": 40.\nRastall,  Richard. \n             \u201cIntroduction.\u201d \n             A Fifteenth-Century Song Book: Cambridge University Library Additional\n                MS 5943 made in facsimile.\n         Leeds: Boethius Press, 1973. \n\n",
+            "Editions": "\n\nMayer,  L. S. \n             Music, Cantilenas and Songs.\n         London, 1906 (privately printed); by \"L. S. M.\": 41.\nRobbins,  Rossell Hope. \n             \u201cAn Early Rudimentary Carol.\u201d \n             Modern Language Review\n         54 (1959): 221-2: 221.\nStevens,  John,\n                        ed.  \n             Mediaeval Carols.\nMusica Britannica\n         4. London: Stainer and Bell, 1952, 2nd ed. 1958: 110.\nRobbins,  Rossell Hope. \n             Early English Christmas Carols.\n         New York and London: Columbia UP, 1961: 73.\n\n",
+            "folio": "f. 169"
+        },
+        "CamStJohn259": {
+            "First Lines": "\nAs I me lay \u00feis endyres nythAll on my loue\n                    lokyng\u2026\n",
+            "Last Lines": "\n\u2026And xalt haue in manys blysGoddys owene son\n",
+            "Note": "\nStanzas 1-9.",
+            "Editions": "\nJames,  Montague Rhodes,  and  G. C. Macaulay, eds.  \n             \u201cFifteenth Century Carols and Other Pieces.\u201d \n             Modern Language Review\n         8 (1913): 68-87: 72-3.\n",
+            "folio": "ff. 4-4v"
+        },
+        "BLHar2330": {
+            "First Lines": "\nAs I me went \u00feis enderdayAlone on my longyng\u2026\n",
+            "Last Lines": "\n\u2026I pray \u021dow \u00feat \u021de woll me IokeAnd syng sum wat \u00feerto\u2026\n",
+            "Note": "\nFive quatrains only, the last incomplete, added to leaf at end of manuscript.",
+            "folio": "f. 120"
+        },
+        "NLS18721": {
+            "First Lines": "\nAls i lay vp on a nithalone in my longging\u2026\n",
+            "Last Lines": "\n\u2026Als i lay \u00feis \u021dolis dayAlone in my\n                    longgingge\n",
+            "Note": "\n37 stanzas.",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 70-5.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 103-5; 1977, 92-4.\nObertello,  Alfredo,\n                        ed.  \n             Liriche religiose ingelsi del secolo quattordicesimo.\n         Milan: Bompiani, 1947: 110.\nDavies,  Reginald Thorne. \n             Medieval English Lyrics: a critical anthology.\n         London, 1963; Evanston, IL: Northwestern UP, 1964: 112-14.\nDavies,  Reginald Thorne. \n             Medieval English Lyrics: a critical anthology.\n         London, 1963; Evanston, IL: Northwestern UP, 1964: 61-8.\nDobson,  Eric John,  and  F. L. Harrison.  \n             Medieval English Songs.\n         New York: Cambridge UP, 1979: 352 (16 stanzas, with variants and modified\n                        spelling).\nSaupe,  Karen,\n                        ed.  \n             Middle English Marian\n                    Lyrics.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1998: 71-6; 199-201.\n\n",
+            "folio": "ff. 3v-4v"
+        }
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "_id": 4628,
+    "_header": "Saint John in our Gospel shows",
+    "Note": "For the version in the \u2018expanded\u2019 Cycle see 4645.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Third Sunday after Easter in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nSAynte Ione in oure gospell schawesHow ihesus spak to his\n                    felawes\u2026\n",
+            "Last Lines": "\n\u2026Bot als ane oure of a daieAls bi a tale tell \u021dou i\n                    maye\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 121-121v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Ion in vr gospel schawesHou crist spac to his\n                    felawes\u2026\n",
+            "Last Lines": "\n\u2026As hit weore \u00fee \u00feridde part a dayAs beo a tale here\n                    \u021de may\n",
+            "Attributed Title": "\nModicum & non videbitis me (f. 190rb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 190rb-190rc"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nSEynt Ione vs telles \u00fee euangelist\u00deat to his disciples\n                    saide ihesu crist\u2026\n",
+            "Last Lines": "\n\u2026Als to were thrid part a dayAls by a tale \u021de here\n                    may\n",
+            "Attributed Title": "\nDominica iia post octava Pasche secundum Iohannem (p.\n                    194)",
+            "folio": "pp. 194-196"
+        },
+        "CULDd11": {
+            "First Lines": "\nSEynt Iohn in oure Gospel schawishow crist spak to his\n                    felawisand seyde a litil while schal be\u2026\n",
+            "Last Lines": "\n\u2026As it were \u00fee thrid part of a dayas be a fayr tale heren\n                    \u021de may\n",
+            "Attributed Title": "\nDominica 3a post Pascha euangelium secundum Iohannem (f.\n                    125",
+            "folio": "ff. 125-126"
+        },
+        "CULGg531": {
+            "First Lines": "\n\u2026And spak \u00feus to \u00feaim all by deneOf my wordes thynk\n                    \u021dou ferly\u2026\n",
+            "Last Lines": "\n\u2026Bot as ane houre of a dayAls by a tale schew \u021dow I\n                    may\n",
+            "Note": "\nLines 1-11 wanting.",
+            "folio": "ff. 81-81v"
+        },
+        "Lam260": {
+            "folio": "f. 37vb"
+        },
+        "MinULZ822": {
+            "First Lines": "\nSaynt Iohn in oure gospell vs scheweshow Ihesu spake tyll hys\n                    felowes\u2026\n",
+            "Last Lines": "\n\u2026als yt was \u00fee threde parte a dayals \u021de here be a\n                    tale se may\n",
+            "Attributed Title": "\nDominica secunda post octavas pasche Secundum Iohannem (f.\n                    89)",
+            "folio": "ff. 89-89v"
+        },
+        "HunHM129": {
+            "First Lines": "\nSeint Ion in oure gospell schawysHow crist spak to his\n                    fellawis\u2026\n",
+            "Last Lines": "\n\u2026As hit ware \u00ferydparte a dayAs \u021de here by a tale se\n                    may\n",
+            "Attributed Title": "\nDominica tercia post octavam pasche (f. 103)",
+            "folio": "ff. 103-103v"
+        }
+    }
+}

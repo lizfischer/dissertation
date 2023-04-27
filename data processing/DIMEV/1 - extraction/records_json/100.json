@@ -1,0 +1,33 @@
+{
+    "_id": 100,
+    "_header": "A Lord God of mights most / Father and Son and Holy Ghost",
+    "Author(s)": "William of Nassington",
+    "Title(s)": "Tractatus de Trinitate et Vnitate",
+    "Subjects": "Trinity, treatise on",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "William of Nassington, Tractatus de Trinitate et Vnitate \u2014 in couplets",
+    "_witnesses": {
+        "BLAdd33995": {
+            "First Lines": "\nA louerd god of myght mastfader and son and haly\n                    gast\u2026\n",
+            "Last Lines": "\n\u2026Louerd Ihesu Crist yhtt thank I ye\u00deat alle \u00feis\n                    & mar has done for me\n",
+            "Note": "\nTwo columns. Lines 1-328 only.",
+            "folio": "f. 155rv-156vb"
+        },
+        "Lincoln91": {
+            "First Lines": "\nA lord god of myghtes mastefader and son and haly gasteffader\n                    for \u00feu ert almyghttyson for thow ert all wytty\u2026\n",
+            "Last Lines": "\n\u2026thurghe whilke I may at \u00fee dredfull daybe led to \u00fee\n                    blyse \u00feat sall last a\n",
+            "Note": "\n432 lines, written one couplet per line in MS.",
+            "Attributed Author": "\nWillelmus Nassyngton (f. 189)",
+            "Attributed Title": "\nIncipit Tractatus Wilelmi Nassyngton quondam aduocati Iuris Eboraci de\n                        Trinitate & Vnitate cum declaracione operum dei & de passione domini\n                        nostri ihesu Cristi & cetera (f. 189)",
+            "Editions": "\n\nPerry,  George G.,\n                        ed.  \n             Religious Pieces in Prose and Verse from R. Thornton\u2019s\n                MS.\nEETS\n         o.s. 26 (1867); repr. 1973: 63-75.\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 2.334-39.\n\n",
+            "folio": "ff. 189-191v"
+        },
+        "YaleBeiOs19558": {
+            "First Lines": "\n[ ][ya][ ][h]eued ya[t][A Crown]e of thornys yat priked ye\n                    sar\u2026\n",
+            "Last Lines": "\n\u2026Elles thurt ye haf tholed nane oyer paynBot ye ded anely\n                    forto by vs agayn\u2026\n",
+            "Note": "\nA fragment of 47 lines [some partially illegible] in two columns on the\n                    inside of the wrapper.",
+            "Editions": "\nZweck,  Jordan. \n             \u201cTwo Recently Discovered Fragments of Nassington and Rolle.\u201d \n             Journal of the Early Book Society\n         13 (2010): 203-19: 209-11.\n",
+            "folio": "wrapper"
+        }
+    }
+}

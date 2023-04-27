@@ -1,0 +1,29 @@
+{
+    "_id": 5224,
+    "_header": "The book of marshalcy here shall begin",
+    "Subjects": "introductions, to prose texts; horses; utilitarian instructions",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A verse introduction to a prose treatise on horses \u2014 seven couplets",
+    "_witnesses": {
+        "BodWoodEmpt18": {
+            "First Lines": "\nThe booke of merschalsy here hit schall begynHe \u00feat will with\n                    yt crafte any goode wyn\u2026\n",
+            "Last Lines": "\n\u2026Till \u00feai be of age & myghtefull at nedeA knyght apon\n                    to ride on euery dughty dede\n",
+            "Editions": "\nSmith,  Sir Frederick. \n             The Early History of Veterinary Literature.\n         London: Bailliere, Tindall, and Cox, 1919: 1.110.\n",
+            "folio": "f. 82"
+        },
+        "OxfBal354": {
+            "First Lines": "\nThe boke of marchalsie here shall begynYe \u00feat will with\n                    \u00feat Craft any honour wynne\u2026\n",
+            "Last Lines": "\n\u2026Tyll they be of age & myghtifull at nedeA knyght to Ride\n                    vpon at euery dowghty dede\n",
+            "Note": "\n14 lines",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 100.\n",
+            "folio": "p. 21"
+        },
+        "BLHar5086": {
+            "First Lines": "\nThe booke of marchaulsye here it shall bygyneyee that wole with the\n                    craft eny honour wyne\u2026\n",
+            "Last Lines": "\n\u2026Tyl they ben of age and myhtfull atte nedeA knyght to ryde\n                    vpon at euery douhty dede\n",
+            "Attributed Title": "\nThe boke of medycene for horses and to know of what cuntry the best horses\n                    be bredin contaynyng 30 leves (f. 99).",
+            "folio": "f. 99"
+        }
+    }
+}

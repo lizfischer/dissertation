@@ -1,0 +1,15 @@
+{
+    "_id": 1273,
+    "_header": "Fart on hill",
+    "Subjects": "proverbs; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A proverbial couplet, written as one line",
+    "_witnesses": {
+        "RylandsLat394": {
+            "Transcription": "\nffart on hylland fart ther \u00feu nylle\n",
+            "Note": "\nTranslates \u2018Pede super colles pedes vbi pedere\n                    nolles\u2019 which follows.",
+            "Editions": "\nPantin,  William A. \n             \u201cA Medieval Collection of Latin and English Proverbs\u2026from Rylands\n                Latin MS. 394.\u201d \n             Bulletin of the John Rylands Library\n         14 (1930): 81-114: 103.\n",
+            "folio": "f. 16v"
+        }
+    }
+}

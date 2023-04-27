@@ -1,0 +1,82 @@
+{
+    "_id": 5803,
+    "_header": "This wretched worlds transmutation",
+    "Note": "Oxford, Bodleian Library Ashmole 59 (SC 6943) and London, British Library Harley 2251 wrongly add the Envoy from Chaucer\u2019s \u2018Venus\u2019 (4904); Cambridge UK, Cambridge University Library Ii.3.21 is introduced into Chaucer\u2019s translation of Boethius; non-source-specific edition is Anderson (1793)\nXAnderson, Robert. The Works of the British Poets, or, Complete Edition of the Poets of Great Britain. 13 vols. Vol. 1. Edinburgh, 1793; London, 1795, 1.578.",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Balade of Fortune; Fortune",
+    "Subjects": "Fortune; mutability; princes, advice to; advice, to princes; envoys; dialogues",
+    "Versification": "\u2014 eight-line, six-line \u2014 ababbcbc, ababab",
+    "_description": "Geoffrey Chaucer, \u2018Balade of Fortune\u2019 \u2014 nine eight-line stanzas and a six-line Envoy",
+    "_witnesses": {
+        "BodArcSelB10": {
+            "First Lines": "\nThis wredchid wolde is transmutaciounAs welle and wo now pore &\n                    now honour\u2026\n",
+            "Last Lines": "\n\u2026Thy last day is ende of myne intresseIn generall I this rule\n                    may not fayle\n",
+            "Attributed Title": "\npaupertas conqueritur super fortunam (f. 200v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             More Odd Texts.\nChaucer Society\n         1st ser. 77. London: Tr\u00fcbner, 1886; repr. New York and London:\n            Johnson, 1967. \n",
+            "folio": "ff. 200v-201v"
+        },
+        "BodAsh59": {
+            "First Lines": "\nThis wrecched worldes transmutacounAs wele and woo nowe poure and\n                    nowe honourWith oute ordre or wyse discressyounGoverned is by\n                    ffortunes fals errour\u2026\n",
+            "Last Lines": "\n\u2026Preye\u00fee \u00feane his beste freonde of his\n                    noblesse\u00feat to some better estate he may atteyne\n",
+            "Note": "\nFollowed by Lenvoy to Chaucer\u2019s \u2018Complaint of Venus\u2019\n                        (5590).",
+            "Attributed Title": "\nHere folowe\u00fee nowe a compleynte of \u00fee pleintyff ageinst [ageinst]\n                    fortune translated oute of ffrenshe in to Englisshe by \u00feat famous\n                    Rethorissyen Geffrey Chaucier (f. 37)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \n",
+            "folio": "ff. 37-38v"
+        },
+        "Bod638": {
+            "First Lines": "\nThis wrechid worldis transmutacionAs wele & wo now pore &\n                    now honoure\u2026\n",
+            "Last Lines": "\n\u2026Praieth his best ffrende of his noblesseThat to som bettyr\n                    estate he may Atteyne\n",
+            "Note": "\nAt the end: \u2018Explicit\u2019 and \u2018Lyty\u2019.",
+            "Attributed Title": "\nBalade de Vilage saunz peynture (f. 208); La Repons du ffortune Au\n                    pleyntyff (f. 208v); le pleyntyff encountre ffortune (f. 209);\n                    Lenvoye du ffortune (f. 209v)",
+            "Facsimiles": "\nRobinson,  Pamela. \n             \u201cIntroduction.\u201d \n             Manuscript Bodley 638: A Facsimile.\n         Norman, OK: Pilgrim, and Woodbridge: Boydell and Brewer, 1982. \n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \n",
+            "folio": "ff. 208-209v"
+        },
+        "BodFair16": {
+            "First Lines": "\nThis wrechched (sic) worldes transmutaciounAs wele and woo\n                    now pouerte and now riche honoure\u2026\n",
+            "Last Lines": "\n\u2026Prayeth his beeste frend of his noblesseThat to some beter\n                    estate he may atteyne\n",
+            "Attributed Author": "\nPar Chaucer (f. 191)",
+            "Attributed Title": "\nBalade de vilage saunz Peynture Par Chaucer (f. 191)",
+            "Facsimiles": "\nNorton-Smith,  John. \n             \u201cIntroduction.\u201d \n             Bodleian Library MS Fairfax 16.\n         London: Scolar Press, 1979. \n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \n",
+            "folio": "ff. 191-192v"
+        },
+        "CULIi321": {
+            "First Lines": "\nThis wrecched worlde is transmutaciounas wele or wo now poeere\n                    & now ho honour\u2026\n",
+            "Last Lines": "\n\u2026preyeth hys best frend of his noblesseThat to som betere\n                    estat he may attayne\n",
+            "Attributed Title": "\nCauser Balades de vilage sanz peinture (f. 53); le repounce de fortune a\n                    pleintif (f. 53v); le Respounce du pleintif contre fortune (f.\n                        53v); etc.",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \nFurnivall,  Frederick James,\n                        ed.  \n             A One-Text Print of the Minor Poems.\n         2 pts. London: Tr\u00fcbner, 1871, 1880; repr. New York and London:\n            Johnson, 1967. \nSkeat,  Walter William,\n                        ed.  \n             The Complete Works of Geoffrey Chaucer.\n         7 vols. Oxford: Clarendon, 1894-7: 1.383-6.\nRobinson,  F. N.,\n                        ed.  \n             The Works of Geoffrey Chaucer.\n         Oxford: Clarendon, 1933; 2nd ed. 1957: 630-1; 1957, 535-6.\nPace,  George B.,  and  Alfred David, eds.  \n             The Minor Poems of Geoffrey Chaucer:\nA Variorum Edition of The Works of Geoffrey Chaucer\n         vol. 5, part 1. Norman, Oklahoma: University of Oklahoma Press,\n            1982: 110-18.\nBenson,  Larry Dean,\n                        ed.  \n             The Riverside Chaucer.\n         3rd ed. Boston: Houghton Mifflin, 1987: 652-3.\n\n",
+            "folio": "ff. 53-54"
+        },
+        "CamMagPep2006": {
+            "Transcription": "\nPrayeth his best frend of his noblesseThat to som bettre estat he may\n                    atteyn\u2026\n",
+            "Note": "\nLines 78-79, followed by \u2018Lenvoie de Chaucer\u2019.",
+            "Facsimiles": "\nEdwards,  A. S. G. \n             \u201cIntroduction.\u201d \n             Manuscript Pepys 2006: A Facsimile. Magdalen College,\n                Cambridge.\n         Norman, OK: Pilgrim, and [Woodbridge, Suffolk]: Boydell and Brewer,\n            1985. \n",
+            "folio": "p. 385"
+        },
+        "CamTCC600": {
+            "First Lines": "\n\u00deis wrechched worldes transmutacyounAs weele and woo nowe\n                    poure and nowe honnourWith outen ordir or wyse discresciounGouuerned\n                    is by ffortunes hye errour\u2026\n",
+            "Last Lines": "\n\u2026Preye\u00fee his best freond of his hye noblesse\u00deat to\n                    some beter estate he may atteyne\n",
+            "Attributed Title": "\nHit is sayde \u00feat Graunsomme made \u00feis last balade for venus\n                    resembled to my lady of york aunswering \u00fee complaynt of Mars and here\n                    filowe\u00fee a balade made by Chaucier of \u00fee louer and of dame ffortune\n                    (p. 142); Dialoge bytwene \u00fee lover and fortune (RT)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \n",
+            "folio": "pp. 142-144"
+        },
+        "BLHar2251": {
+            "First Lines": "\nThis wrecchid worldis transmutaciounAs weele and woo now poore and\n                    now honour\u2026\n",
+            "Last Lines": "\n\u2026Prayeth that his best friend of his noblesThat to som better\n                    estate he may atteyne\n",
+            "Note": "\nWith the envoy of \u2018The Complaint of Venus\u2019 (5590) following the\n                    usual \u2018Envoy\u2019.",
+            "Attributed Title": "\nThe pleyntef countre fortune (f. 45)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \n",
+            "folio": "ff. 45-46"
+        },
+        "BLLan699": {
+            "First Lines": "\nThe wrechid werldis transmutacionAs wele & woo now poore &\n                    now honour\u2026\n",
+            "Last Lines": "\n\u2026Thi laste day is eende of my intresseIn general this rewle\n                    may nat faile\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Supplementary Parallel-Text Edition of Chaucer\u2019s Minor\n                Poems.\n             2 vols. \n             Chaucer Society\n         1st ser. 22, 59. London: Tr\u00fcbner, n.d.; repr. New York and London:\n            Johnson, 1967. \n",
+            "folio": "ff. 81-82v"
+        },
+        "Leiden": {
+            "folio": "f. 94v"
+        }
+    }
+}

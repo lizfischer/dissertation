@@ -1,0 +1,20 @@
+{
+    "_id": 6514,
+    "_header": "While I sing in selcouth sound",
+    "Note": "For further MSS see Allen (1927)\nXAllen, Hope Emily. Writings Attributed to Richard Rolle. New York: Modern Language Association of America, 1927, 170-7.",
+    "Author(s)": "Richard Rolle",
+    "Title(s)": "English Psalter",
+    "Subjects": "psalms",
+    "Versification": "\u2014 two-line",
+    "_description": "An irregular couplet in Richard Rolle\u2019s English Psalter (Ps. 56)",
+    "_witnesses": {
+        "BodHat12": {
+            "Editions": "\nAllen,  Hope Emily. \n             English Writings of Richard Rolle.\n         Oxford: Clarendon, 1931: 16.\n",
+            "folio": "f. 85v"
+        },
+        "OxfUni64": {
+            "Editions": "\nBramley,  Henry Ramsden. \n             The Psalter, or Psalms of David and certain canticles.\n         Oxford: Clarendon, 1884. \n",
+            "folio": ""
+        }
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "_id": 2945,
+    "_header": "Jesu was of Mary born / For sinful man that was forlorn",
+    "Subjects": "dialogues, Christ and man",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A Dialogue between Christ and Man \u2014 76 lines in couplets",
+    "_witnesses": {
+        "BLAdd31042": {
+            "First Lines": "\nIhesu was of Mary borneffor Synfull man \u00feat was forlorne\u2026\n",
+            "Last Lines": "\n\u2026that we may when we hethyn wendeCome to \u00fei Ioye with owtten ende\n",
+            "Note": "\nEnds, \u201cAmen Amen Per charite Amen Amen.\u201d",
+            "folio": "ff. 32rv-32vb"
+        },
+        "BLCottVesAIII": {
+            "First Lines": "\nIhesu o maria bornfor sinful man \u00feat was for\n                    lorn\u2026\n",
+            "Last Lines": "\n\u2026\u00feat we mai quen we he\u00feen wendCum to \u00fei ioi wit\n                    vten end\n",
+            "Note": "\nIncorporated in Cursor Mundi.",
+            "folio": "ff. 94vb-95rb"
+        },
+        "GottingenTheo107": {
+            "First Lines": "\nIhesu of mari bornfor sinful man \u00feat was for\n                    lorn\u2026\n",
+            "Last Lines": "\n\u2026langage of \u00fee nor\u00feeren lede\u00feat can nan\n                    o\u00feer englis rede\n",
+            "Note": "\nIncorporated in Cursor Mundi.",
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 978-82.\n",
+            "folio": "f. 114va-134ra"
+        },
+        "KeioHopton": {
+            "First Lines": "\nIhesus was of mary borne for synfulle man \u00feat was\n                    forlorne\u2026\n",
+            "Last Lines": "\n\u2026And so owre mys here for to amendyn in lestande lyfe \u00feat\n                    we may lende\n",
+            "Note": "\nSeventy-four lines written two lines of verse per line of manuscript,\n                    signed \u2018Amen quod Hall\u2019 (f. 13v).",
+            "folio": "f. 13-13v"
+        },
+        "TokyoTak15": {
+            "First Lines": "\nIhesu of mari \u00feat was borneffor synfull man \u00feat was\n                    forlorne\u2026\n",
+            "Last Lines": "\n\u2026\u00feat we may when we bethen wendeCome to \u00fee ioy with\n                    owten ende\n",
+            "Note": "\nfollowed by \u2018Amen\u2019.",
+            "Attributed Title": "\nBona meditatio de bonitate domini nostri ihesu cristi (f.\n                        83vb)",
+            "folio": "f. 83vb-84ra"
+        }
+    }
+}

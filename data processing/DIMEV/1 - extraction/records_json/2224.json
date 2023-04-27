@@ -1,0 +1,35 @@
+{
+    "_id": 2224,
+    "_header": "I Master Andro Kennedy",
+    "Author(s)": "William Dunbar",
+    "Title(s)": "\u2018The Testament of Mr Andro Kennedy\u2019",
+    "Subjects": "testaments; satire",
+    "Versification": "\u2014 eight-line, twelve-line \u2014 abababab, abababababab",
+    "Macaronic": "Latin",
+    "_description": "William Dunbar, \u2018The Testament of Mr Andro Kennedy\u2019 \u2014 thirteen 8-line macaronic stanzas and a concluding 12-line stanza",
+    "_witnesses": {
+        "CULLl510": {
+            "First Lines": "\nI Maister walter KennedieCurro quando sum\n                    vocatus\u2026\n",
+            "Last Lines": "\n\u2026to flie \u00fee devill \u00fean hardelie singde terra\n                    plasmasti me\n",
+            "Note": "\n14 x 8, abababab, plus 1 x 12, abababababab; 5th, 6th, 8th, 14th stanzas\n                    corrupt.",
+            "Attributed Author": "\nffinis quod Kennedie (f. 26)",
+            "folio": "ff. 24v-26"
+        },
+        "CamMagPep2553": {
+            "First Lines": "\nI maister Walter KennedieCurro quando sum\n                    vocatus\u2026\n",
+            "Last Lines": "\n\u2026To fle \u00fee dewill \u00fean hardelie singDe terra\n                    plasmasti me\n",
+            "Attributed Author": "\nfinis quod kennedie (p. 138)",
+            "Editions": "\nCraigie,  William Alexander. \n             The Maitland Folio Manuscript, Containing Poems by Sir Richard\n                Maitland, Dunbar, Douglas, Henryson, and others.\n             2 vols. \n             Scottish Text Society\n         n.s. 7 (1919), 20 (1927); Edinburgh and London: Blackwood, 1919,\n            1927: 1.155-9.\n",
+            "folio": "pp. 135-138"
+        },
+        "Banna": {
+            "First Lines": "\nI maister andro KennedyCurro quando sum vocatus\u2026\n",
+            "Last Lines": "\n\u2026To fle the feyndis than hardly singDe terra plasmati\n                    me\n",
+            "Attributed Author": "\nbe dumbar (f. 155v)",
+            "Attributed Title": "\nHeir endis the tesment of maister andro kennedy Maid be dumbar quhen he wes\n                    lyk to dy (f. 155v)",
+            "Facsimiles": "\nFox,  Denton,  and  William A. Ringler.  \n             The Bannatyne Manuscript: National Library of Scotland Advocates\u2019\n                MS. 1.1.6\n         London: Scolar Press, in Association with The National Library of\n            Scotland, 1980. \n",
+            "Editions": "\n\nRamsay,  Allan,\n                        ed.  \n             The Ever Green.\n         2 vols. Edinburgh, 1724; repr. Ramsay and Early Scottish Poets, London,\n            n.d.: 2.76-81.\nMackay,  Charles. \n             The Poetical Works of Allan Ramsay.\n         2 vols. London: Virture, 1866-68; repr. of \n                Alan\n                Ramsay\n            ,  The Evergreen; alt. title:  Ramsay\n                and the Earlier Scots Poets : 273.\nDalrymple,  Sir David,\n                                Lord Hailes. \n             Ancient Scottish Poems.\n         Edinburgh, 1770; repr. London, 1815: 42-7.\n\nPoems in the Scottish Dialect by Several Celebrated Poets.\n         Glasgow: R. Foulis, 1748: 18-22.\nMorison,  Robert,\n                        ed.  \n             Select Poems of Wil Dunbar, Part First from the MS of George\n                Bannatyne.\n         Perth: Morison, 1788: 41-6.\nLaing,  David. \n             The Poems of William Dunbar.\n         2 vols. Edinburgh: Laing and Forbes, 1834; Supplement, 1865: 1.137-41.\nPaterson,  James. \n             The Works of William Dunbar.\n         Edinburgh: Stillie, 1863: 153-8.\nMurdoch,  James Barclay. \n             The Bannatyne Manuscript.\n             4 vols. in 11 parts, paged continuously. \n             Hunterian Club\n         16, 32, 40, 46, 50, 55-56, 64-67 Glasgow: Anderson, 1873-1896: 4.488-91.\nSmall,  John, Ae. James George Mackay,  George Powell McNeill,   and  Walter Gregor, eds.  \n             The Poems of William Dunbar.\n             5 pts. \n             Scottish Text Society\n         2, 4, 16, 21, 29. Edinburgh, 1884-93: 2.54-8.\nSchipper,  Jakob. \n             The Poems of William Dunbar.\n         Vienna: Kaiserliche Akademie der Wissenschaften, 1894: 211-15.\nSchipper,  Jakob,\n                        ed.  \n             The Poems of William Dunbar.\n             4 vols. \n             Denkschriften der kaiserlichen Akademie der Wissenschaften,\n                Philosophische-Historische Klasse\n         40/2; 40/4; 41/4; 42/4. Vienna, 1892-93: 3.11-17.\nBaildon,  Henry Bellyse. \n             The Poems of William Dunbar.\n         Cambridge: University Press, 1907: 100-3.\nRitchie,  W. Tod,\n                        ed.  \n             The Bannatyne Manuscript.\n             4 parts in 4 vols. \n             Scottish Text Society\n         3rd ser. 5 (1928); n.s. 22 (1928); n.s. 23 (1930); n.s. 26 (1934)\n            Edinburgh and London: Blackwood, 1928-34; ed. by Ritchie et al: 3.62-6.\n\n",
+            "folio": "ff. 154-155v"
+        }
+    }
+}

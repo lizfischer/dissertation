@@ -1,0 +1,41 @@
+{
+    "_id": 1599,
+    "_header": "God that died for us all",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 489; Ringler Jr. (1988)\nXRingler Jr., William A. Bibliography and Index of English Verse Printed 1476-1558. London: Mansell, 1988, TP 500.5; for a modernized text, c. 1680, see Camb., Magdalene College, Pepys 358; see Wing F 2205-2206 (ed. Fl\u00fcgel (1903)\nXFl\u00fcgel, Ewald. \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d Anglia 26 (1903): 94-285, 104 seqq.).",
+    "Title(s)": "\u2018The Frere and the Boy\u2019; \u2018The Chylde and hes Stepdame\u2019; \u2018Jak and His Stepdame\u2019",
+    "Subjects": "fabliaux; friars",
+    "Versification": "\u2014 six-lines \u2014 aabccb",
+    "_description": "\u2018The Frere and the Boy\u2019 or \u2018The Chylde and hes Stepdame\u2019 \u2014 in 6-line stanzas",
+    "_witnesses": {
+        "BodRawC86": {
+            "First Lines": "\nGod that died for vs allAnd drank both eysell &\n                    gall\u2026\n",
+            "Last Lines": "\n\u2026That drank both eysill and gallHoly God in His empere\n                    Amen\n",
+            "Editions": "\n\nZupitza,  Julius. \n             \u201cIak and his step dame nach der Handschrift Rawlinson C 86 mit den\n                Abweichungen des Porkington-Manusckripts.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         90 (1893): 57-82: 66-82.\nFurrow,  Melissa M.,\n                        ed.  \n             Ten Fifteenth-Century Comic Poems.\nGarland Medieval Texts\n         13. New York and London: Garland, 1985: 95-153 (with additions from Oxford,  Balliol College 354 and\n                            Aberystwyth,  National Library of Wales Brogyntyn ii.1 [olim Porkington 10] and the extra episode from Cambridge UK,  Cambridge University Library Ee.4.35, Part I\n                        and London,  British Library Addit. 27879).\n\n",
+            "folio": "f. 52"
+        },
+        "OxfBal354": {
+            "First Lines": "\nGod that died for vs allAnd drank aysell &\n                    gall\u2026\n",
+            "Last Lines": "\n\u2026That drank aysell & gallHoly god in his\n                    empereExplicit\n",
+            "Attributed Title": "\nIak & his Step Dame / & of the ffrere (p. 199)",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 105-32.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 120-7.\n\n",
+            "folio": "pp. 199-206"
+        },
+        "CULEe435a": {
+            "First Lines": "\nGod that deyde ffor vs allAnd drancke Aysell &\n                    Gall\u2026\n",
+            "Last Lines": "\n\u2026bryng them All to they bles\u00deat beleuet on the name\n                    Ihesu\n",
+            "Attributed Title": "\nExpleycet the cheylde & hes stepdame (f. 6v); Explicit the\n                    Cheylde & hes stepdame (f. 13v)",
+            "Editions": "\nWright,  Thomas,\n                        ed.  \n             The Tale of the Basyn and The Frere and the Boy.\n         London: Pickering, 1836. \n",
+            "folio": "ff. 6v-13v"
+        },
+        "BLAdd27879": {
+            "Editions": "\nHales,  John Wesley,  and  Frederick James Furnivall, eds.  \n             Bishop Percy\u2019s Folio Manuscript: Ballads and Romances.\n         3 vols. London: Tr\u00fcbner, 1867-68: 4.9-28.\n",
+            "folio": ""
+        },
+        "NLWPork10": {
+            "Transcription": "\n\u2026Yn hevyn blys schall be her woneAmen amen for\n                    charyte\n",
+            "Editions": "\nHalliwell-Phillipps,  James Orchard. \n             Early English Miscellanies in Prose and Verse.\n         London: for the Warton Club, 1855: 45-62.\n",
+            "folio": "f. 139"
+        }
+    }
+}

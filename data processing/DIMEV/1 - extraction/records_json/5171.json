@@ -1,0 +1,22 @@
+{
+    "_id": 5171,
+    "_header": "That that is sweet in thy mum",
+    "Note": "Cf. Watson (1867)\nXWatson, Thomas. Proverbs and Epigrams of John Heywood (A.D. 1562). Manchester: for the Spenser Society, 1867.",
+    "Subjects": "proverbs",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "London, British Library Harley 3362",
+    "_description": "A proverbial couplet",
+    "_witnesses": {
+        "BodDou52": {
+            "Transcription": "\nThat at is swete in thy mummegeue thy felawe summe\n",
+            "Editions": "\nF\u00f6rster,  Max. \n             \u201cDie Mittelenglische Sprichw\u00f6rtersammlung in Douce 52.\u201d \n             Festschrift zum XII Deutschen Neuphilolgentage in M\u00fcnchen\n                1906.\n            E. Stollreither, ed. \n         Erlangen (1906): 40-64: 52.\n",
+            "folio": "f. 25"
+        },
+        "RylandsLat394": {
+            "Transcription": "\nThat that is swete in \u00fey monne\u021cefe \u00fei felow\u021d\n                    \u00feerof somme\n",
+            "Note": "\nTranslating Da pertem socio quod sapit ora tup, which\n                    follows.",
+            "Editions": "\nPantin,  William A. \n             \u201cA Medieval Collection of Latin and English Proverbs\u2026from Rylands\n                Latin MS. 394.\u201d \n             Bulletin of the John Rylands Library\n         14 (1930): 81-114: 102.\n",
+            "folio": "f. 15"
+        }
+    }
+}

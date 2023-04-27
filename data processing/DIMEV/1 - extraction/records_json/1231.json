@@ -1,0 +1,59 @@
+{
+    "_id": 1231,
+    "_header": "Every night there a cock",
+    "Note": "Ringler Jr. (1988)\nXRingler Jr., William A. Bibliography and Index of English Verse Printed 1476-1558. London: Mansell, 1988, TP 378.5.",
+    "Author(s)": "John Trevisa; Ranulf Higden",
+    "Title(s)": "Polychronicon",
+    "Subjects": "aphorisms; death, approach of; time, use of",
+    "Versification": "\u2014 four-line, two-line \u2014 abab, aa",
+    "Bibliographic Ghosts": "Glasgow, Glasgow University Library Hunterian 83 (T.3.21): this is Brut Chronicle, not Trevisa; New York, Pierpont Morgan Library M275: neither this MS nor New York, Pierpont Morgan Library M875 [olim Helmingham Hall] with which it may be confused in Robbins and Cutler (1965)\nXRossell Hope Robbins, and John L. Cutler. Supplement to the Index of Middle English Verse. Lexington, Kentucky: University of Kentucky Press, 1965, contain Trevisa\u2019s trans. of Polychronicon.",
+    "_description": "Verses on a table of brass, in Trevisa\u2019s translation of Higden\u2019s Polychronicon (Book 1, ch. 24) \u2014 five cross-rhymed quatrains",
+    "_witnesses": {
+        "CamStJohn204": {
+            "First Lines": "\nEuerich ny\u021dt \u00feere a CokWake\u00fe som man or it\n                    daweAll his song in a flokmay like no man by \u00fee\n                    lawe\u2026\n",
+            "Last Lines": "\n\u2026Of morwe song kynde\u00feey haue\u00fe at eue no\n                    mynde\n",
+            "Note": "\nOne cross-rhymed quatrain and eight couplets in this\n                    witness.",
+            "Editions": "\n\nBabington,  Churchill,  and  Joseph Rawson Lumby, eds.  \n             Polychronicon Ranulphi Higden Monachi Cestrensis.\n             9 vols. \n             Rolls Series\n         41 (1865-66; repr. Kraus, 1964): 1.237, 239.\nM\u00e4tzner,  Edouard Adolf Ferdinand. \n             Altenglische Sprachproben, I: Poesie.\n         Berlin: Wiedmann, 1867:  2.367.\n\n",
+            "folio": "ff. 49vb-50ra"
+        },
+        "BLAdd24194": {
+            "First Lines": "\nEueriche ny\u021dt \u00feere a CokWaki\u00fe sum man or hit\n                    daweAl his song yn a flokMay like no man by \u00fee\n                    lawe\u2026\n",
+            "Last Lines": "\n\u2026Of morwe song kynde\u00feey haue\u00fe at eue no\n                    mynde\n",
+            "Note": "\nIn this MS, one cross-rhymed quatrain followed by eight couplets;\n                    written as prose.",
+            "folio": "f. 52vb"
+        },
+        "BLCottTibDVII": {
+            "First Lines": "\nEuerych ny\u021dt par a cokWake\u00fe som man ar hyt\n                    dawe\u2026\n",
+            "Last Lines": "\n\u2026Of morowe song kuynde\u00feay habbe\u00fe at eue no\n                    muynde\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 23r1"
+        },
+        "BLHar1900": {
+            "First Lines": "\nEuereche ny\u021dt \u00feere a cokkeWaki\u00fe somme man er it\n                    daweAl his song in a flokmay like noman by \u00fee\n                    lawe\u2026\n",
+            "Last Lines": "\n\u2026Of morow songe kynde\u00feei haue\u00fe at eue no\n                    mynde\n",
+            "Note": "\nOne cross-rhymed quatrain and eight couplets in this MS; written as\n                    prose.",
+            "folio": "f. 62v"
+        },
+        "BLSto65": {
+            "First Lines": "\nEuery nyght where a cockewaketh some maner it\n                    dawe\u2026\n",
+            "Last Lines": "\n\u2026Of morow songe kyndethey haue al euen no mynde\n",
+            "Note": "\nWritten as prose. Folio number reflects the most recent\n                    folia.",
+            "folio": "f. 17va"
+        },
+        "AbeUL21": {
+            "First Lines": "\nEueriche ny\u021dt a Cok waki\u00fe sum man or hit dawe al his\n                    song\u2026\n",
+            "Last Lines": "\nOf morowe song kynde \u00deey have\u00fe at eve no mynde\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 27ra"
+        },
+        "HunHM28561": {
+            "First Lines": "\neuerche ny\u021dt \u00feere a cokkewaki\u00fe somme man er it\n                    dawe\u2026\n",
+            "Last Lines": "\n\u2026\u00fean chiteri\u00fe \u00fee stare of morow songe\n                    kynde\u00feei haue\u00fe at eue no mynde\n",
+            "Note": "\nWritten as prose; one quatrain rhyming abab, four couplets, another\n                    quatrain rhyming abba, and a final couplet; in Polychronicon, Book I,\n                    cap. 24: see Hanna (1980)\nXHanna,  Ralph. \n             \u201cThe Index of Middle English Verse and Huntington Library Collections: A\n                Checklist of Addenda.\u201d \n             Publications of the Bibliographical Society of America\n         74 (1980): 235-58, n. 10.",
+            "folio": "f. 60rb"
+        },
+        "Schoyen194": {
+            "folio": ""
+        }
+    }
+}

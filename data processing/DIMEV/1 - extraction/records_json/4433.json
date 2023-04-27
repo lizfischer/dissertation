@@ -1,0 +1,18 @@
+{
+    "_id": 4433,
+    "_header": "Queramus ergo istum puerum",
+    "Note": "Very similar to 3399.",
+    "Subjects": "Christ, uniqueness of; sermons, verse in",
+    "Versification": "\u2014 ten-line \u2014 ababababab",
+    "Macaronic": "Latin",
+    "_description": "Christ\u2019s singularity in a Latin sermon in natali domini \u2014 ten lines, alternating Latin and English",
+    "_witnesses": {
+        "CULIi38": {
+            "First Lines": "\n\nQueramus ergo istum puerum\u00feat rotyth nowthistum\n                        amicum\u2026\n",
+            "Last Lines": "\n\u2026illus idem perducat nos ad celum\u00feat dere hath vs\n                    bowth\n",
+            "Note": "\nFolio formerly numbered 161.",
+            "Editions": "\nStemmler,  Theo. \n             \u201cMore English Texts from MS. Cambridge University Library\n                Ii.III.8.\u201d \n             Anglia\n         93 (1975): 1-16: 16.\n",
+            "folio": "f. 168"
+        }
+    }
+}

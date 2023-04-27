@@ -1,0 +1,30 @@
+{
+    "_id": 5213,
+    "_header": "The black shall bleed and the blue shall fare and feed",
+    "Note": "Extrapolation of lines 28, 31, 33-35 of 3994, occurring separately; usually follows 1215; included as if part of 1215 in Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler TM 387.",
+    "Subjects": "prophecies, political; astrology/astronomy; political poems",
+    "Versification": "\u2014 two-line, seven-line \u2014 aa, ababbcc",
+    "_description": "A political prophecy by the stars \u2014 couplets or rhyme royal, loosely rhyming",
+    "_witnesses": {
+        "CamTCC1157": {
+            "First Lines": "\nThe blak schall blede the blew schall haue his hed[ ]The white\n                    & the blewe schall torne al to one\u2026\n",
+            "Last Lines": "\n\u2026That after schal it neuer thyng ne keuerAnd Iubiter schall do\n                    this dede at dovere\n",
+            "Note": "\n7 lines, rhyme royal; follows 1215.",
+            "folio": "f. 41"
+        },
+        "BLCottCleoCIV": {
+            "First Lines": "\nThe Blake shall bledeThe Blewe shall haue his\n                    hed\u2026\n",
+            "Last Lines": "\n\u2026\u00deat after shall it neuer shyn ne couerAnd Iubiter shall\n                    doo \u00feat dede atte douer\n",
+            "Note": "\n6 long lines; precedes 1215.",
+            "Editions": "\nRobbins,  Rossell Hope. \n             \u201cPoems Dealing with Contemporary Conditions.\u201d \n             A Manual of the Writings in Middle English.\n            Albert E. Hartung, ed. \n         Vol. 5, fascicle 13. New Haven, CT: Connecticut Academy of Arts and\n            Sciences, 1975: 1385-1536, 1631-1725: 1530.\n",
+            "folio": "f. 123v1"
+        },
+        "BLHar559": {
+            "folio": "f. 39"
+        },
+        "BLLan762": {
+            "Note": "\n6 lines.",
+            "folio": "f. 96"
+        }
+    }
+}

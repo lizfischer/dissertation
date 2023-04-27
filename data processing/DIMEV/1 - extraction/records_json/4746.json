@@ -1,0 +1,96 @@
+{
+    "_id": 4746,
+    "_header": "Saint Peres the friar preacher in the city of Verona",
+    "Title(s)": "South English Legendary",
+    "Subjects": "Peres, saint, life of; saints\u2019 lives",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Peres (Peter) in the South English Legendary",
+    "_witnesses": {
+        "BodAsh43": {
+            "First Lines": "\nSEyn Peres \u00fee frere prechour In \u00fee cite of beronyeIbore\n                    was of mysbilievned men \u00feat were al in eresie\u2026\n",
+            "Last Lines": "\n\u2026At \u00fee endyng of aueryl he \u00feolede MartirdomGod ous\n                    bringe to \u00feulke Ioie \u00feat his soule to com\n",
+            "Attributed Title": "\nsyn peres \u00fee frere prechoure (f. 62)",
+            "folio": "ff. 62-62v"
+        },
+        "Bod779": {
+            "First Lines": "\nSeint peter \u00fee frere prechour In \u00fee cite of veronyeI bore\n                    was of mysbyleued men \u00feat were al in erersy\u021de\u2026\n",
+            "Last Lines": "\n\u2026now god for \u00fee loue of seint peter bring vs to \u00feilke\n                    blisse\u00feer \u00feat he is brou\u021dt to & \u00feer of \u00feat we\n                    ne mysse\n",
+            "Attributed Title": "\nSeint petir \u00fee frere prechour (f. 144)",
+            "folio": "ff. 144-144v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSEint Peter \u00fee frere prechour in \u00fee Cite of VeronyeI bore\n                    was of lu\u00feur Men \u00feat weren in heresye\u2026\n",
+            "Last Lines": "\n\u2026Atte ende of Aueril he \u00feolede MartirdomGod vs bringe to\n                    \u00feat Ioye \u00feat his soule to com. A. M. E. N.\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 28rb2-28va"
+        },
+        "BodLauMis463": {
+            "First Lines": "\nSEint peres \u00fee frere prechour In \u00fee cite of veronieBore\n                    was of misbileued men \u00feat were in herisie\u2026\n",
+            "Last Lines": "\n\u2026Atte ending of Aueril he tholede martirdomGod vs bringe to\n                    \u00feilk Ioye \u00feat is soule to com\n",
+            "Note": "\nTwo columns per page, one full-line, the other half-line.",
+            "folio": "ff. 42vb-43ra"
+        },
+        "BodTan17": {
+            "First Lines": "\nSEint petir \u00fee frere prechour in \u00fee cite of veronyeBore\n                    was of mys bileued men \u00feat were in heresye\u2026\n",
+            "Last Lines": "\n\u2026Atte endynge of auerille he \u00feolid martirdomGod vs bringe\n                    to \u00feat ioye \u00feat his soule to com\n",
+            "Note": "\n19 couplets.",
+            "folio": "f. 93v"
+        },
+        "OxfTri57": {
+            "First Lines": "\nSeinte Peres \u00fee frere prechour in \u00fee Cyte of VeronieBore\n                    was of mysbyleuede men \u00feat were alle in eresie\u2026\n",
+            "Last Lines": "\n\u2026Atte endynge of aueril he \u00feolede martirdomGod vs bringe\n                    to \u00feulke ioye \u00feat his soule to com\n",
+            "Attributed Title": "\nvita sancti Petri fratris predicatorum (f. 34)",
+            "folio": "ff. 34-34v"
+        },
+        "CamCCC145": {
+            "First Lines": "\nSein Peres \u00fee frere prechour In \u00fee cite of veronieIbore\n                    was of misbileuede men \u00feat were al in heresie\u2026\n",
+            "Last Lines": "\n\u2026Atte endinge of aueril he \u00feolede martirdomGod us bringe\n                    to \u00feulke \u00feat is soule to com\n",
+            "Editions": "\nD\u2019Evelyn,  Charlotte,  and  A. J. Mill, eds.  \n             The South English Legendary: Corpus Christi College Cambridge MS. 145\n                and British Museum MS. Harley 2277, with variants from Bodley MS. Ashmole 43 and\n                British Museum MS. Cotton Julius D.ix.\nEETS\n         o.s. 235 (1959), 236 (1956); repr. 1967: 1.162-3.\n",
+            "folio": "f. 61v"
+        },
+        "CamMagPep2344": {
+            "First Lines": "\nSeint Peris \u00fee ffrere prechour in \u00fee Cite of VeronyeYbore\n                    was of mysbyleouede men \u00feat \u00feo were in heresye\u2026\n",
+            "Last Lines": "\n\u2026Atten ende of \u00fee moun\u00fee of Aueril he \u00feolede\n                    \u00feis martyrdomGod vs bringe to \u00feulke ioye \u00feat his soule to\n                    com\n",
+            "Attributed Title": "\nPetrus Predicator (RT)",
+            "folio": "pp. 262-263"
+        },
+        "CamTCC605": {
+            "First Lines": "\nSEint peres \u00fee frere prechure in \u00fee cite of versiebore\n                    was of mysbyleued men \u00feat were in eresie\u2026\n",
+            "Last Lines": "\n\u2026atte \u00fean endyng of aueryl he \u00feoled marterdomgod ous\n                    bringe to \u00feulke Ioie \u00feat his saule to come\n",
+            "Attributed Title": "\nperes frere prechure (RT)",
+            "folio": "f. 62v"
+        },
+        "BLAdd10301": {
+            "First Lines": "\nSEin peres \u00fee frere prechour in \u00fee cite of veronyey bore\n                    was of mys byleued men \u00feat wore al in herisye\u2026\n",
+            "Last Lines": "\n\u2026Atte ending of Aueril he \u00feolede MartirdomGod vs bring to\n                    \u00feulke Ioie \u00feat is soule to com\n",
+            "Attributed Title": "\nDe sancto petro predicatore (f. 73, by scribe in margin beside first\n                    line); petro predicatore (RT)",
+            "folio": "ff. 73-73v"
+        },
+        "BLCottJulDIX": {
+            "First Lines": "\nSEint peres \u00fee frere precher in \u00fee cite of veronieibore was of misbileue\u00fe men \u00feat were alle in heresie\u2026\n",
+            "Last Lines": "\n\u2026at \u00fee ending of aueril he \u00feole\u00fee martirdomgod ous bringe to \u00feilke ioie \u00feat his soule to com\n",
+            "Note": "\n\u201cCapitulum xxxv\u201d added to left margin by later hand (f. 65v).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Julius MS D IX.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Julius_D_IX. \n",
+            "folio": "f. 65v1"
+        },
+        "BLEge1993": {
+            "First Lines": "\nSeint peres \u00fee frere prechour in \u00fee cite of veronieIbore was of lu\u00feere men \u00feat weren in eresye\u2026\n",
+            "Last Lines": "\n\u2026Ate endynge of auerel he \u00feolede martirdomGod vs bringe to \u00feat ioie \u00feat is soule to com\n",
+            "Note": "\nEnds \u201cAmen\u201d (f. 143v).",
+            "folio": "ff. 143-143v"
+        },
+        "BLEge2891": {
+            "First Lines": "\nSEin Peres \u00fee frere prechour In \u00fee cite of VeronieIbore was of misbeleuede men \u00feat were al in heresie\u2026\n",
+            "Last Lines": "\n\u2026Atte ending of aueril he \u00feolede martirdomGod us bringe to \u00feulke ioie \u00feat is soule to com\n",
+            "Attributed Title": "\nDe sancto Petro predicatore (rubric in margin, f. 71)",
+            "folio": "ff. 71-71v"
+        },
+        "BLHar2277": {
+            "First Lines": "\nSEint Peres \u00fee frere prechour in \u00fee Cite of veronieIbore was of misbileouede men \u00feat were al in heresie\u2026\n",
+            "Last Lines": "\n\u2026Ate ending of Aueryl \u00feo he \u00feolede martirdomGod ous bringe to \u00feulke ioye \u00feat his soule to com\n",
+            "Note": "\nEnds \u201cAmen.\u201d",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 2277.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_2277. \n",
+            "folio": "ff. 36-36v"
+        }
+    }
+}

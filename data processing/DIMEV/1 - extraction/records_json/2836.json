@@ -1,0 +1,25 @@
+{
+    "_id": 2836,
+    "_header": "Jesu for Thine precious blood",
+    "Note": "For a variant in 8-line stanzas see 2846; for a very similar prayer in 6-line stanzas see 2838.",
+    "Subjects": "prayers, by Christ and His Passion; Christ, wounds of; sins, deadly",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "A prayer by the Seven Times Christ shed His Blood, linked as Remedies against the Deadly Sins \u2014 seven 6-line stanzas",
+    "_witnesses": {
+        "BodRawlitg2": {
+            "Note": "\nStanzas disarranged: 4, 7, 5, 6, 3, 1, 2.",
+            "folio": "f. 62"
+        },
+        "CamStJohn237": {
+            "First Lines": "\nIhesu ffor \u00feyn precius blode\u00feat thow schedest for owre\n                    gode\u2026\n",
+            "Last Lines": "\n\u2026To loue Ihesu & holy ChyrcheAnd to Ihesu Crist me\n                    take\n",
+            "folio": "pp. 33-35"
+        },
+        "Lam559": {
+            "First Lines": "\nIhesu for thi blod so swetethat swettis on olyuete of thi\n                    facelette me nevir in wreth fallebut loue myn evyncristen\n                    alle\u2026\n",
+            "Last Lines": "\n\u2026Ihesu for thi woundis smerteand for thi blod that ran fro\n                    thin harteand watir I menged to gedirmake stil in chariteand in\n                    thi blisse thou bringe meand all cristen th\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 34-35"
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "_id": 4078,
+    "_header": "O thou my soul give laud unto the Lord",
+    "Author(s)": "John Lydgate",
+    "Subjects": "scripture texts, paraphrases; paraphrases",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "Macaronic": "Latin",
+    "_description": "John Lydgate, paraphrase of Psalm 102 \u2014 twenty-two 8-line stanzas (ababbcbc) with Latin text of Psalm preceding each stanza",
+    "_witnesses": {
+        "CamTCC600": {
+            "First Lines": "\nO \u00feowe my soule gif laude vn to \u00fee lordBlesse him and\n                    preyse and forgete him noughtAlle myne entraylles beo\u00fee in deede and\n                    wordAnd al \u00feat euer is in myn Inward thought\u2026\n",
+            "Last Lines": "\n\u2026Enseele oure qwytaunce with \u00fey RedempcionWhane \u00feou\n                    shalt deeme vs stondyng afore \u00fey face\n",
+            "Note": "\nSecond occurrence in this MS.",
+            "Attributed Title": "\nA deuoute salme of \u00fee sautier which Lydegate daun Iohn translated in\n                    \u00fee Chapell at Wyndesore at \u00fee request of \u00fee dean whyles \u00fee\n                    Kyng was at evensonge (p. 165); Benedic anima mea domino by\n                    Lidegate(RT)",
+            "folio": "pp. 165-171"
+        },
+        "BLAdd34360": {
+            "First Lines": "\n[O?] thow my soule gif laude vnto the lordBlisse hym and preyse and\n                    forgete hym nought\u2026 [f. 53v)\nAl sodainly and nowhile abydeIn this world here nomore knowe his\n                    place\u2026 [f. 56v)\n",
+            "Last Lines": "\n\u2026To have mercy on oure wrecchidnesseThe spirit of man shal\n                    sone from hym passe [f. 55]\n\u2026And late thy mercy bien oure protecciounffor other\n                    saufconduyt have I non forme [f. 57]\n",
+            "Note": "\nLines 1-113, 114-52 interrupted by 4271; missing stanzas 20-22.",
+            "Attributed Title": "\nTakith goode heede sirs and Dames howe lyd / gate Daun Iohn the Monk of\n                    Bury moeued / of Deuocioun hath translated the psalme / Benedic Anima mea\n                        domino (f. 153v)",
+            "Editions": "\nMahir,  Otto,\n                        ed.  \n             Eine religi\u00f6se Gedichte John Lydgates.\n         Oberviechtach: Adolf Mahir, 1910: 20-9.\n",
+            "folio": "ff. 53v-55;  56v-57"
+        },
+        "BLHar2251": {
+            "First Lines": "\nO thow my soule gyf lawde vnto the lordBlesse hym and preyse and\n                    forgete hym nought\u2026\n",
+            "Last Lines": "\n\u2026Enseale oure quytaunce with thy redempciounWhan thow shalt\n                    deme vs stondyng afore thy face\n",
+            "folio": "ff. 236-238v"
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "_id": 2797,
+    "_header": "Jesu by Your speed",
+    "Subjects": "Saunders, Laurence, of Coventry; occasional verse; historical poems; protest verse",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "Verses on injustice against Laurence Saunders at Coventry (1496) \u2014 four 6-line stanzas (aabccb)",
+    "_witnesses": {
+        "CovLeet": {
+            "First Lines": "\nJhesu be your spedeI hope hit be nede\u2026\n",
+            "Last Lines": "\n\u2026both erly & latekepe well your patefor after\n                    clappys\n",
+            "Editions": "\n\nHarris,  Mary Dormer,\n                        ed.  \n             The Coventry Leet Book.\n             4 vols. in 2 \n             EETS\n         o.s. 134-5, 138, 146 (1907-13); repr. 1971: 577.\nKendall,  P. M. \n             The Yorkist Age.\n         New York: W. W. Norton & Co., 1962: 110 (omits first 3 lines).\nScattergood,  V. John. \n             Politics and Poetry in the Fifteenth Century.\n         London: Blandford Press, 1971: 374.\n\n",
+            "folio": "f. 277v"
+        }
+    }
+}

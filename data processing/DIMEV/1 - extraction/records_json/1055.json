@@ -1,0 +1,15 @@
+{
+    "_id": 1055,
+    "_header": "Come wind come rain",
+    "Subjects": "proverbs; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Proverbial couplet translating \u2018Ventus cum pluuia &c.\u2019",
+    "_witnesses": {
+        "BodRawD328": {
+            "Transcription": "\ncome wynde come reynecome he neuer agayne\n",
+            "Note": "\nTranslating \u2018Ventus cum pluuia\u2026\u2019, which\n                    precedes it; English portion all written on one line.",
+            "Editions": "\nMeech,  Sanford Brown. \n             \u201cA Collection of Proverbs in Rawlinson MS D 328.\u201d \n             Modern Philology\n         38 (1940-41): 113-32: 124.\n",
+            "folio": "f. 143v"
+        }
+    }
+}

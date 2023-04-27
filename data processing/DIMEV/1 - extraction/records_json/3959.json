@@ -1,0 +1,19 @@
+{
+    "_id": 3959,
+    "_header": "O Lord almighty blessed thou be",
+    "Note": "A direct translation of the Latin which precedes in Oxford, Bodleian Library Hatton 73 (SC 4119); English prose versions occur in London, British Library Harley 1706, ff. 17v and 84.",
+    "Subjects": "prayers, of confession; confession; translations",
+    "Versification": "\u2014 eight-line, four-line \u2014 ababbcbc, abab",
+    "_description": "A prayer of confession \u2014 three 8-line and one 4-line stanzas",
+    "_witnesses": {
+        "BodHat73": {
+            "folio": "f. 121"
+        },
+        "Lam344": {
+            "First Lines": "\nLorde allemyghty blessud thu beThat hast me formed and\n                    redemyd\u2026\n",
+            "Last Lines": "\n\u2026Late thy pytee sprynge and spredeeAnd graunt the nevyre here\n                    after y do amysse\n",
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 216-17.\n",
+            "folio": "f. 13"
+        }
+    }
+}

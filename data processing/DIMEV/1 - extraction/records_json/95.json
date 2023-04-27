@@ -1,0 +1,17 @@
+{
+    "_id": 95,
+    "_header": "A little tale I will you tell / I trow it will like you well",
+    "Subjects": "hunting",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "The Huntyng of the Hare \u2014 in 6-line stanzas",
+    "_witnesses": {
+        "NLS1931": {
+            "First Lines": "\nA letyll tale y wyll yow telly troye hit wyll lyke yow\n                    well\u2026\n",
+            "Last Lines": "\n\u2026God gyff vs all gud endyngAnd hevon tyll owre\n                    mede\n",
+            "Note": "\nWith concluding scribal rubric, 762.",
+            "Facsimiles": "\nHardman,  Phillipa. \n             The Heege Manuscript: A Facsimile of National Library of Scotland MS\n                Advocates 19.3.1.\n         Leeds Texts and Monographs, n.s. 16. Leeds: School of English,\n            2000. \n",
+            "Editions": "\nWeber,  Henry William. \n             Metrical Romances of the Thirteenth, Fourteenth, and Fifteenth\n                Centuries.\n         3 vols. Edinburgh: A. Carstalle, 1810: 3.279-90 (270 lines).\n",
+            "folio": "ff. 1-7"
+        }
+    }
+}

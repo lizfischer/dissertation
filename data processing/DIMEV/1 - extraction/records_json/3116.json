@@ -1,0 +1,52 @@
+{
+    "_id": 3116,
+    "_header": "Listeneth lordings gent and free",
+    "Note": "Critical editions Schleich (1929)\nXSchleich, Gustav. Sire Degarre. Heidelberg: Winter, 1929 (all mss); Carr (1923)\nXCarr, Muriel B. \u201c Sir Degarre: A Middle English Metrical Romance Edited from the MS and Black Letter Texts with Introductory Chapters on the Filiation of Text and Phonology\u201d Diss. Chicago, 1923 (all mss and prints).",
+    "Title(s)": "Sir Degare",
+    "Subjects": "romances; lais, Breton",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Sir Degare \u2014 1076 verses in short couplets",
+    "_witnesses": {
+        "BodRawPoe34": {
+            "First Lines": "\nLordyngges yff ye wyll herk & dwellOff noble men y wole yow\n                    tell\u2026\n",
+            "Last Lines": "\n\u2026Thus cam \u00fee knyght outt of his careGod yff vs grace well\n                    to fare\n",
+            "Note": "\n989 lines. At the end: \u2018Iohn bygge\u2019.",
+            "Attributed Title": "\nThe lyff of Sir Degare both Curteys and ffre (f. 17v)",
+            "folio": "ff. 10va-17v"
+        },
+        "BodDou261": {
+            "First Lines": "\nSyr Degore stode in study thanAnd thought he was a doughtye\n                    man\u2026\n",
+            "Last Lines": "\n\u2026And that we vpon domes dayeMay come to the blysse that\n                    lasteth aye\n",
+            "Note": "\nTranscript, c. 1564, of an early print; four fragments, 350\n                    lines.",
+            "Attributed Title": "\nHere endeth the treatyse of Syr Degore (f. 14v)",
+            "folio": "ff. 8-14v"
+        },
+        "CULFf238": {
+            "First Lines": "\nLysteny\u00fe lordynges gente & freY wyll yow telle of sir\n                    degare\u2026\n",
+            "Last Lines": "\n\u2026Be fallyth many aman \u00feorow chaun[ce]And comy\u00fe\n                    for\u00fee in to vncerthe lede\n",
+            "Note": "\n602 lines; ends imperfectly.",
+            "Facsimiles": "\nMcSparran,  Frances,  and  Pamela R. Robinson.  \n             \u201cIntroduction.\u201d \n             Cambridge University Library MS Ff.2.38.\n         London: Scolar Press, 1979. \n",
+            "folio": "ff. 257vb-261vb"
+        },
+        "BLEge2862": {
+            "First Lines": "\n\u2026Wel ynorshid good and hende\u00deat was no better in al \u00feat ende\u2026\n",
+            "Last Lines": "\n\u2026When \u00fee Parlement was plenereHe let crye ferre and nere\u2026\n",
+            "Note": "\nTwo fragments: lines 275-436 of London,  British Library Addit. 27879. Only two leaves survive, bound with Bevis of Hamptoun (3250). The text starts on f. 97 and continues on f. 95 (i.e., bound inverted).",
+            "Attributed Title": "\nSir Degare (running titles split versos and rectos on each of the leaves).",
+            "folio": "ff. 97;  95v"
+        },
+        "BLAdd27879": {
+            "Note": "\n900 lines.",
+            "Editions": "\nHales,  John Wesley,  and  Frederick James Furnivall, eds.  \n             Bishop Percy\u2019s Folio Manuscript: Ballads and Romances.\n         3 vols. London: Tr\u00fcbner, 1867-68: 3.16-48.\n",
+            "folio": "p. 371"
+        },
+        "NLS1921": {
+            "First Lines": "\nKni\u021dtes \u00fe[ ]ferli fele wolde fondeAnd sechen\n                    auentures bi ni\u021dt and daihou \u021dhe mi\u021dte here strengthe\n                    asai\u2026\n",
+            "Last Lines": "\n\u2026\u00dee[ ]Go[ ]And [ ]Ga[ ]\u2026\n",
+            "Note": "\n1076 lines in this MS; text continues on stub, 84a, probably to\n                        84arb.",
+            "Facsimiles": "\nPearsall,  Derek,  and  I. C. Cunningham, eds.  \n             The Auchinleck Manuscript. National Library of Scotland\n                Advocates\u2019 MS. 19.2.1.\n         London: Scolar Press, 1977. \n",
+            "Editions": "\n\nLaing,  David,\n                        ed.  \n             Sire Degarre.\nAbbotsford Club\n         28. Edinburgh: Laurie, 1849. \nFrench,  Walter Hoyt,  and  Charles Brockway Hale.  \n             Middle English Metrical Romances.\n         New York: Prentice-Hall, 1930: 287.\nLaskaya,  Anna,  and  Eve Salisbury, eds.  \n             The Middle English\n                    Breton Lays.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1995: 89-144.\n\n",
+            "folio": "ff. 78rb-84ara"
+        }
+    }
+}

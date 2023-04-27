@@ -1,0 +1,37 @@
+{
+    "_id": 4503,
+    "_header": "Right noble lord and prelate dear",
+    "Author(s)": "William Bolosse",
+    "Title(s)": "\u2018The Marrow or Pithe of Alkymy\u2019,",
+    "Subjects": "alchemy",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "Bibliographic Ghosts": "Philadelphia, University of Pennsylvania Library Codex 111 [formerly Smith 4], ff. 1-10: this is a prose treatise.",
+    "_description": "Wylliam Bolosse, \u2018The Marrow or Pithe of Alkymy\u2019, an alchemical tract \u2014 nineteen stanzas rhyme royal",
+    "_witnesses": {
+        "BodAsh1479": {
+            "First Lines": "\nRyght noble lorde & prelat dearewouchesafe of me thes versys\n                    take\u2026\n",
+            "Last Lines": "\n\u2026& in syche force thy worke displayeas sownde maye to thy\n                    laude all waye\n",
+            "Attributed Author": "\nHere after folowythe thes versys in ynglysshe & put in mytter by\n                    William Bolosse (f. *32)",
+            "folio": "ff. *32-*34v"
+        },
+        "BodRawB306": {
+            "First Lines": "\nRight noble Lord & prelate dearevoutch safe of me thes verses\n                    take\u2026\n",
+            "Last Lines": "\n\u2026And in such sorte this worke displayeAs sownd may to this\n                    Lourde all waye\n",
+            "Attributed Title": "\nThe preface to Ryples Marye (f. 53)",
+            "Editions": "\nAshmole,  Elias. \n             Theatrum Chemicum Britannicum.\n         London: J. Grimond, 1652: 389-92 (mistaken for the Prologue of Ripley\u2019s\n                            Medulla).\n",
+            "folio": "ff. 53-54v"
+        },
+        "CamTCC1137": {
+            "First Lines": "\nRight noble lord and prelate deareVouchsafe of me these versis\n                    take\u2026\n",
+            "Last Lines": "\n\u2026and in such sort the worcke displayas sounde to thy laude\n                    alway\n",
+            "Attributed Title": "\nThe marrow or pithe of Alkymye (f. 1)",
+            "folio": "Part I, ff. 1-3"
+        },
+        "BLSl1787": {
+            "folio": "f. 107"
+        },
+        "BLSl3667": {
+            "folio": "f. 92"
+        }
+    }
+}

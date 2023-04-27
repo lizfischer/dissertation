@@ -1,0 +1,22 @@
+{
+    "_id": 518,
+    "_header": "And I am soaked in my sin",
+    "Note": "For further MSS see Allen (1931)\nXAllen, Hope Emily. English Writings of Richard Rolle. Oxford: Clarendon, 1931, 170-7.",
+    "Author(s)": "Richard Rolle",
+    "Title(s)": "English Psalter",
+    "Subjects": "sinner, lament of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Lament of the sinner in Rolle\u2019s English Psalter (Ps. 3) \u2014 one couplet",
+    "_witnesses": {
+        "BodHat12": {
+            "Transcription": "\n& i am soked in my synnelange liggand \u00feare in\n",
+            "Editions": "\nAllen,  Hope Emily. \n             English Writings of Richard Rolle.\n         Oxford: Clarendon, 1931: 9.\n",
+            "folio": "ff. 8-8v"
+        },
+        "OxfUni64": {
+            "Transcription": "\nAnd i am soked in my synnelang liggand \u00feare in\n",
+            "Editions": "\nBramley,  Henry Ramsden. \n             The Psalter, or Psalms of David and certain canticles.\n         Oxford: Clarendon, 1884: 14.\n",
+            "folio": "f. 9va"
+        }
+    }
+}

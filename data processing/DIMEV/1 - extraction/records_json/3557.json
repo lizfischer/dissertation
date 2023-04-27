@@ -1,0 +1,27 @@
+{
+    "_id": 3557,
+    "_header": "Most noble prince with support of your grace",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "A Mumming at Hertford",
+    "Subjects": "pageant verses; occasional verse; marriage; Hertford",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A Mumming at Hertford, c. A.D. 1428, by Lydgate \u2014 254 lines in couplets",
+    "_witnesses": {
+        "CamTCC600": {
+            "First Lines": "\nMoost noble prynce with support of your grace\u00deer been entred\n                    in to youre royal placeAnd late coomen in to youre castellYoure poure\n                    lieges wheche lyke no thing weel\u2026\n",
+            "Last Lines": "\n\u2026\u00deoughe \u00feat his prysoun his castell or his holdeWer\n                    depeynted with asure or with gold\n",
+            "Note": "\n\u2018Brys slayne at Loviers\u2019 added to heading after original\n                    writing.",
+            "Attributed Title": "\nNowe folowe\u00fee here \u00fee manere of a bille by wey of supplicacion\n                    putte to \u00fee Kyng holding his noble feest of Cristmasse in \u00fee Castel of\n                    Hertford as in a disguysing of \u00fee Pride Vpplandisshe people compleyning on\n                    hir wyves with \u00fee boystous aunswere of hir wyves devysed by lydegate at\n                    \u00fee Request of \u00fee Counte Roullour Brys slayne at Loviers (p. 40); A\n                    desguysing to fore \u00fee kyng In cristemasse In \u00fee castell of Hertford\n                    (RT)",
+            "Editions": "\n\nHammond,  Eleanor Prescott. \n             \u201cLydgate\u2019s Mumming at Hertford.\u201d \n             Anglia\n         22 (1899): 364-74: 367-74.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 675-82.\nNeilson,  William Allan,  and  Kenneth Grant Tremaye Webster.  \n             Chief British Poets of the 14th and 15th Centuries\n         London: Dent; and New York: Dutton, 1916: 223-7.\nWickham,  Glynne. \n             English Moral Interludes.\n         London: Dent, 1976: 204.\n\n",
+            "folio": "pp. 40-48"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nMost noble prynce with support of your gracether bene entred in to\n                    your royall place\u2026\n",
+            "Last Lines": "\n\u2026though that his prysone his castell or his holdewere\n                    depeynted with asure or with golde\n",
+            "Note": "\nHeading precedes at bottom of folio 136v.",
+            "Attributed Author": "\nlidgate (f. 136v)",
+            "Attributed Title": "\nNowe foloweth here the maner of a bille by weye of supplycation put to the\n                    kynge holdinge his noble fest of crystmasse in the castell of hartford as in\n                    dysguysinge of \u00fee rude vpplandishe people compleyninge on theyr wynes with\n                    the boystrus answere of theyr wynes deuysed by lidgate at \u00fee requeste of\n                    the countrowlore Brys stayn at louiers (f. 136v, at bottom of leaf\n                    before beginning of text on f. 137; note that \u2018theyr wynes\u2019 twice\n                    written first as \u2018his wynes\u2019 and written over to change to\n                    \u2018theyr\u2019)",
+            "folio": "ff. 137-140"
+        }
+    }
+}

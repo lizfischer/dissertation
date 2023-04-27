@@ -1,0 +1,23 @@
+{
+    "_id": 3589,
+    "_header": "My dear friends I you pray",
+    "Note": "For MSS, see 3492.",
+    "Subjects": "introductions, to prose texts; prayers; advice",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Introductory couplet to Quinta Tabula in Speculum Christiani with heading \u2018Hec tria coinquinant hominem\u2019",
+    "_witnesses": {
+        "BLHar1197": {
+            "Transcription": "\nMy dere frendis I you prayiiij thingis bere in youre hertis awey\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 98v"
+        },
+        "HunHM124": {
+            "Transcription": "\nMy dere freendis y \u021dou prayThre thyngis bere in your hertis\n                    away\n",
+            "folio": "f. 26v"
+        },
+        "BodDou107": {
+            "Transcription": "\nmy dere frendis I \u021dou prayffoure \u00feingis in \u021dour hertes\n                    bere a way\n",
+            "folio": "f. 62"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "_id": 4006,
+    "_header": "O Mossy Quince hanging by your stalk",
+    "Note": "Cf. 6798; editions not specifying source include Urry (1721)\nXUrry, John. The Works of Geoffrey Chaucer. London: B. Lintot, 1721, 558; Bell (1782)\nXBell, John. The Poetical Works of Geoffrey Chaucer. 14 vols. in 7. The Poets of Great Britain. Edinburgh, 1782; repr. London: Cadell and Davies, 1807, 13.133; Anderson (1793)\nXAnderson, Robert. The Works of the British Poets, or, Complete Edition of the Poets of Great Britain. 13 vols. Vol. 1. Edinburgh, 1793; London, 1795, 1.568; Skeat (1900)\nXSkeat, Walter William. The Chaucer Canon. Oxford: Clarendon, 1900, 124",
+    "Subjects": "women, praise of; lovers, addresses to beloved",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "A scurrilous balade against his mistress \u2014 three stanzas rhyme royal.",
+    "_witnesses": {
+        "CamTCC599": {
+            "First Lines": "\nO mosy Quince hangyng on youre stalkeThe whyche noman dar pluk away\n                    ner takeOf all the folk that passe forby or walkeYoure flowres fresshe\n                    be fallyn away and shake\u2026\n",
+            "Last Lines": "\n\u2026Ye do me so moche worshyp there as ye be presentOf all wemen\n                    I loue yow best a thowsand tymes fy\n",
+            "Note": "\nInserts 6798 after\n                    stanza 1",
+            "Attributed Author": "\nChaucer (added by later hand, left margin, f. 205v)",
+            "Facsimiles": "\n\nPerson,  Henry Axel. \n             Cambridge Middle English Lyrics.\n         Seattle: University of Washington Press, 1953; rev. ed. 1962: 40-1.\nFletcher,  Bradford Y. \n             \u201cIntroduction.\u201d \n             Manuscript Trinity R.3.19. A Facsimile.\n         Norman, OK: Pilgrim, 1987. \n\nDigital Facsimile of Trinity College Cambridge MS R.3.19.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.19. \n\n",
+            "Editions": "\nForni,  Kathleen,\n                        ed.  \n             The Chaucerian\n                    Apocrypha: A Selection.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2005. \n",
+            "folio": "ff. 205v-206"
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "_id": 3306,
+    "_header": "Madame and I durst I would you pray",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "\u2018Second Nun\u2019s Prologue\u2019; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; epilogues; links",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the \u2018Second Nun\u2019s Prologue\u2019 of The Canterbury Tales found in four manuscripts \u2014 six lines in couplets",
+    "_witnesses": {
+        "BLAdd5140": {
+            "Transcription": "\nMadame and I durst I wolde you prayTo telle a tale in fortheryng of\n                    oure wayThan myht ye do vn to vs gret eeseGladly sire quod she so that\n                    I myht pleeseYou and this worthi companyAnd began hir tale riht thus\n                    fulle sobirly\n",
+            "Attributed Title": "\nExplicit prologus Secunde Monialis\u2026 (f. 285); Nvnne\n                    (RT)",
+            "folio": "f. 285"
+        },
+        "BLEge2864": {
+            "Transcription": "\nMadame and I durste I wolde you prayTo telle a tale in fortheryng of\n                    our wayThan myhte ye do vn to vs gret easeGladly sir quod she so that\n                    I myht pleaseYou & this worthi companyAnd began hir tale riht thus\n                    ful sobirly\n",
+            "Attributed Title": "\nHeer endith the tale of the Nunnys preest (f. 233v)",
+            "folio": "f. 233v"
+        },
+        "RylandsEng113": {
+            "Transcription": "\nMadam & I durst I wold you prayTo tell vs a tale in forderyng of\n                    our wayThen myght ye do vnto vs grete easeGladly quod sche so \u00feat\n                    I myght pleaseYou and this worthy CompanyAnd bigan here tale right\n                    \u00feus full sobrely\n",
+            "Attributed Title": "\nHere endith \u00fee tale of \u00fee Nonnes Prest and / bigynnyth the\n                    seconde Nonnes tale of \u00fee / lyf of Seynt Cecilie without Prologe (f.\n                        153v)",
+            "folio": "f. 153v"
+        },
+        "Austin143": {
+            "Transcription": "\nMadame and y durst y wold you prayTo telle vs a talle y furtheryng of\n                    oure way\u00deen myg\u0127t ye do vn to vs gret easeGladly quod she so\n                    \u00feat y myght you pleaseYou and this wurthy companyAnd be gan here\n                    tale ryght \u00feus full sobyrly\n",
+            "Attributed Title": "\nHere endyth the Tall of the Nonnys prest and begynnyth / the second Nonnys\n                    tale of the lyf of seint Cecilie (f. 194)",
+            "folio": "f. 194"
+        }
+    }
+}

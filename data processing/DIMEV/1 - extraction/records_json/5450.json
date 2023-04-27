@@ -1,0 +1,44 @@
+{
+    "_id": 5450,
+    "_header": "The rich nor riches God ne hates / But them that for riches God forsakes",
+    "Note": "Wenzel (1978)\nXWenzel, Siegfried. Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle English Poems. Cambridge, MA: Medieval Academy of America, 1978, p. 181, separates from preceding verses. Cf. Walther (1963)\nXWalther, Hans. Proverbia sententiaque latinitatis medii aevi. 6 vols. G\u00f6ttingen, 1963-69, no.17493a.",
+    "Subjects": "sermons, verse in; wealth, dangers of; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "On God\u2019s attitude toward the rich, from the Fasciculus morum \u2014 one couplet",
+    "_witnesses": {
+        "Bod187": {
+            "First Lines": "\nNei\u00feer \u00fee rychesseNe \u00fee ryche man God ne\n                    haty\u00fe\u2026\n",
+            "Last Lines": "\n\u2026But hem \u00feat for rychessisGod forsaky\u00fe\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 180-1.\n",
+            "folio": "f. 166v"
+        },
+        "BodRawC670": {
+            "Transcription": "\nThe ryche ne rychesse god ne hatythBut who so for rychesse god\n                    forsakyth\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 180-1.\n",
+            "folio": "f. 81v"
+        },
+        "BodLauMis213": {
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 180-1.\n",
+            "folio": "f. 69"
+        },
+        "BLAdd25013": {
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 180-1.\n",
+            "folio": "f. 45v"
+        },
+        "Lincoln44": {
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 180-1.\n",
+            "folio": "f. 193v"
+        },
+        "WorcF19": {
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 180-1.\n",
+            "folio": "f. 194va"
+        },
+        "EDU82": {
+            "Transcription": "\nThe ryght ne rychesse god ne hathesButt whoo so for rychesse god for\n                    sakes\n",
+            "folio": "f. 99"
+        },
+        "Spalding": {
+            "folio": "f. 83v"
+        }
+    }
+}

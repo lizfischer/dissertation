@@ -1,0 +1,136 @@
+{
+    "_id": 3290,
+    "_header": "Loved be thou king and thanked be thou king",
+    "Note": "Cf. a Levacion prayer in Lay Folks\u2019 Mass Book (5537), lines 427-35, pr. Horstmann (1895)\nXHorstmann, Carl. Yorkshire Writers. 2 vols. London, Sonnenschein; New York: Macmillan, 1895-96 2.6. For second song see 6482",
+    "Author(s)": "Richard Rolle",
+    "Title(s)": "Form of Living",
+    "Subjects": "prayers; songs; Christ, praise to",
+    "Versification": "\u2014 irregular, two-line \u2014 aa",
+    "Bibliographic Ghosts": "Cambridge UK, Cambridge University Library Ff.5.45: not in this MS; Cambridge UK, Cambridge University Library Hh.1.12: not in this MS; Cambridge UK, Cambridge University Library Ii.4.9: text ff. 190-197 similar to Rolle\u2019s Form, but varies considerably; Cambridge UK, Cambridge University Library Ii.6.55: this copy of Form of Living begins imperfectly in chapter x; Manchester, Chetham\u2019s Library 6691 [Mun.A.7.1]: not in this MS; Dublin, Trinity College, Dublin 155: not in this MS; Oxford, Bodleian Library Eng. poet. a.1 (SC 3938) [Vernon MS]: Form of Perfect Living ff. 334ra -338ra but does not include this verse; HM127 ; London, British Library Egerton 3245 [olim Gurney]: not in this MS; London, British Library Harley 1022: not in this MS",
+    "_description": "The first song in Rolle\u2019s Form of Living (Cap. vii) \u2014 eight, nine (or eleven) irregular lines",
+    "_witnesses": {
+        "BodLauMis524": {
+            "First Lines": "\nloued be \u00feou kyng blessyd be \u00feou kyngIhesu al my\n                    ioyng\u2026\n",
+            "Last Lines": "\n\u2026\u00feou \u021def me grace tosyng \u00fee song of \u00fey\n                    preysyng\n",
+            "Note": "\n8 lines rhyming aaabbbaa",
+            "folio": "f. 53"
+        },
+        "BodLauMis210": {
+            "First Lines": "\nWorschiped be \u00feou kyngAnd \u00feanked be \u00feou\n                    kyng\u2026\n",
+            "Last Lines": "\n\u2026\u00feou \u021def me ioye to synge\u00fee song of \u00fey\n                    worschipinge\n",
+            "Note": "\n9 lines rhyming aaaabbbaa",
+            "folio": "f. 11v"
+        },
+        "BodDig18": {
+            "First Lines": "\npreisid be \u00feou kyng & blessid be \u00feou\n                    kyng\u2026\n",
+            "Last Lines": "\n\u2026\u00feou \u021deue me grace to synge\u00fee songe of \u00fei\n                    preisyng\n",
+            "Note": "\n8 lines rhyming aaabbbcc; written as prose",
+            "folio": "ff. 83-83v"
+        },
+        "Bod110": {
+            "First Lines": "\nWorschyped be \u00feou kyng and blessid be \u00feou\n                    kyng\n",
+            "Last Lines": "\n\u2026\u00feou \u021diue me grace to syng \u00fee song of \u00fei\n                    louyng\n",
+            "Note": "\n8 lines rhyming aaabbbcc; written as prose",
+            "folio": "f. 146v"
+        },
+        "BodRawA389": {
+            "First Lines": "\nloued be \u00feou kyng & \u00feanked be \u00feou kyngof alle\n                    \u00fei \u021diftes god \u00feat for me spilledest \u00fei\n                    blode\u2026\n",
+            "Last Lines": "\n\u2026\u021dyue me grace to synge\u00fee songe of \u00fei\n                    loue\n",
+            "Note": "\n5 lines rhyming abba(a); written as prose",
+            "folio": "f. 90v"
+        },
+        "BodRawC285": {
+            "First Lines": "\nLooued by \u00feou kyngAnd thanked be \u00feou\n                    kyng\u2026\n",
+            "Last Lines": "\n\u2026\u00feou gif me grace to syng\u00fee sang of \u00fei\n                    loouyng\n",
+            "Note": "\n9 lines rhyming aaaabbbaa; written as prose",
+            "folio": "f. 50"
+        },
+        "OxfUni97": {
+            "Transcription": "\nWorschipeded be \u00feou kyng & blessed be \u00feow\n                    kyngihesu al my ioyingOf alle \u00feine \u021diftes goode\u00deat\n                    for me spildest \u00fei blodeand dydest on roodeThow \u021deue me\n                    grace to synge\u00fee song of \u00fei louynge\n",
+            "Note": "\nIn this MS in sermon on Luke XVI, \u2018Redde racionem villicacionis\n                    tue luce\u2019 (beg. f. 101); 8 lines in this MS",
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 1.30.\n",
+            "folio": "f. 144v"
+        },
+        "CULDd564": {
+            "First Lines": "\nLoued be \u00feu keyng& thanked be \u00feu keyng&\n                    blyssed be \u00feu keyngIhesu all my ioyng\u2026\n",
+            "Last Lines": "\n\u2026\u00feu gyf me grace to syng\u00fee sang of \u00fei\n                    louyng\n",
+            "Note": "\nNine lines aaaabbbcc",
+            "Editions": "\n\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 1.30.\nAllen,  Hope Emily. \n             English Writings of Richard Rolle.\n         Oxford: Clarendon, 1931: 107.\n\n",
+            "folio": "Part III, f. 13"
+        },
+        "CamGon669": {
+            "Transcription": "\npreisid be \u00feou kinge blessid be \u00feou kingeihesu al my\n                    ioyengOf al \u00fei \u021diftis good\u00feat for me spilledist \u00fei\n                    blood& deidest on \u00fee rood\u00feu \u021dif me grace to\n                    singea songe of \u00fei preising\n",
+            "Note": "\nEight short lines only, aaabbbcc",
+            "folio": "pp. 183-184"
+        },
+        "CamTCC322": {
+            "Transcription": "\npreysed be \u00feou kyngeblessid \u00feu king Ihesu al my\n                    ioyngof al \u00fey \u021diftes goude\u00feat for me scheddyst \u00fey\n                    blodeand deydist on \u00fee rode\u00feou \u021dyue me grace to\n                    synge\u00fee song of \u00fey praysynge\n",
+            "Note": "\nWritten as prose, eight lines",
+            "folio": "ff. 138v-139"
+        },
+        "CamTCC1053": {
+            "First Lines": "\nLooued be \u00feow Ihesu my kyngeand blissed be \u00feou Ihesu myy\n                    kyngeIhesu all my ioyeyngeof all \u00fei giftes gode\u00feat for\n                    me spylte \u00fei blodeand seyn dyed on \u00fee rode\u00feou gife me\n                    grace to synge\u00fee sange of \u00fei looueynge\n",
+            "Note": "\nWritten as prose, eight lines",
+            "Attributed Title": "\nIncipit forma uiuendi scripta a beato Ricardo heremita ad margaretam\n                        anachoritam suamdilectam dispulam (f. 3)",
+            "folio": "f. 109v"
+        },
+        "BLLan455": {
+            "First Lines": "\nPreised be \u00feou kyngeblessid be \u00feou\n                    kinge\u2026\n",
+            "Last Lines": "\n\u2026\u00feou \u021dyue me grace to singe\u00fee song of \u00fee\n                    preysinge\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 37vb"
+        },
+        "BLRoy17Bxvii": {
+            "Transcription": "\nLoued be \u00feu kyng & \u00feanked by \u00feu kyng& blessid\n                    be \u00feu kyng ihesu al my ioyingof alle \u00fei gyftes gode \u00feat for\n                    me spilt \u00fei blodeand dyed opon \u00feo rode\u00feou gyue me grace\n                    to singe \u00feo song of \u00fei louing\n",
+            "Note": "\nIn 5537.",
+            "Editions": "\nComper,  Frances M. M. \n             The Life of Richard Rolle, Together with an Edition of his English\n                Lyrics.\n         London: J. M. Dent, 1928, 1933; New York: E. P. Dutton, 1929: 221.\n",
+            "folio": "f. 10"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nHeried beo \u00feou kyngand \u00feonked be \u00feou of alle \u00fei\n                    \u021diftesGod \u00feat for me spildest \u00fei bodiand dyedest for me\n                    on \u00fee rode\u021cif me grace to synge \u00fee song of \u00fei\n                    loue\n",
+            "Note": "\nTwo-column format. Writte as prose and somewhat prosified.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 149ra"
+        },
+        "HerefordP19": {
+            "First Lines": "\npreisid be \u00feou kyngblessid be \u00feou kingihesu al\n                    weldyng\u2026\n",
+            "Last Lines": "\n\u2026\u00feou \u021diue me grace to synge\u00fee song of \u00fei\n                    preisinge\n",
+            "Note": "\nNine lines in this MS, written as prose",
+            "folio": "ff. 146v-147"
+        },
+        "WestmSch3": {
+            "First Lines": "\nLoued be \u00feou kyng& \u00feankyd be \u00feou kyngof all\n                    \u00fei \u021dyftes goode\u00feat for me scheddyst \u00fei blod&\n                    deyde on \u00fee roode\u021dyue me grace to synge\u00fee song of\n                    \u00fei lufe\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 215v"
+        },
+        "BeeleighRolle": {
+            "folio": ""
+        },
+        "Longleat29": {
+            "First Lines": "\npreised be \u00feou kynge& \u00feanked be \u00feou\n                    kyngeAnd blessed by \u00feou kyngeIhesu al my\n                    ioynge\u2026\n",
+            "Last Lines": "\n\u2026Thou gif me grace to synge\u00fee songe of \u00fei\n                    preisynge\n",
+            "folio": "f. 38"
+        },
+        "HunHM127": {
+            "folio": "f."
+        },
+        "Mazar514": {
+            "First Lines": "\nLOuyd be \u00feou kyng& thanked be \u00feou kyngand\n                    blessid be \u00feu kyngihesu my ioying\u2026\n",
+            "Last Lines": "\n\u2026\u00feou gyf me grace to synge\u00fee song of \u00fei\n                    louynge\n",
+            "Note": "\nOccurs separately as a prayer at the end of prose",
+            "Attributed Title": "\nOracio valde deuota facta per sanctum Alquin (f. 7)",
+            "folio": "f. 7"
+        },
+        "SteGene3390": {
+            "First Lines": "\nLouede be \u00feu kyng & blissed be \u00feu kyngihesu all\n                    my ioying\u2026\n",
+            "Last Lines": "\n\u2026\u00feu gyf me grace to synge\u00fee sange of \u00fei\n                    loueing\n",
+            "Note": "\nVariant; written as prose.",
+            "folio": "f. 77"
+        },
+        "PierpontM818": {
+            "Transcription": "\nLoued be \u00feou kyng& \u00feanked be \u00feou lordof alle\n                    \u00fei \u021diftes gode\u00feat for me spildest \u00fein herte\n                    blode& diedest on \u00fee rode tre\u021diue me grace to synge\n                    \u00fee songe of \u00fei loue sweteli\n",
+            "Note": "\nEight lines, aaabbbcc, written as prose",
+            "folio": "f. 11"
+        }
+    }
+}

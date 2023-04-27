@@ -1,0 +1,19 @@
+{
+    "_id": 6399,
+    "_header": "When Rome is removed into England",
+    "Note": "All MSS show considerable variations, but derive from an original short prophecy, Scottish in sympathy, developing some of the symbols used by Geoffrey of Monmouth.",
+    "Title(s)": "The Second Scottish Prophecy",
+    "Subjects": "prophecies, political",
+    "Versification": "\u2014 two-line",
+    "_description": "The Second Scottish Prophecy, the B Text \u2014 in couplets",
+    "_witnesses": {
+        "BLCottVesEVIII": {
+            "Note": "\nThis MS has a Latin prose text on these leaves; but whole MS is well beyond the dates covered by Boffey  and  Edwards (2005)\nXJulia Boffey,   and  A. S. G. Edwards.  \n             A New Index of Middle English Verse.\n         London: The British Library, 2005.",
+            "folio": "ff."
+        },
+        "BLSl1802": {
+            "Note": "\n90 lines.",
+            "folio": "ff. 10v-14v"
+        }
+    }
+}

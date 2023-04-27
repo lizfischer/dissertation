@@ -1,0 +1,69 @@
+{
+    "_id": 5511,
+    "_header": "The twelfth day from Christs birth",
+    "Note": "For the version in the \u2018expanded\u2019 Cycle see 6387.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Epiphany, feast of; sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Epiphany in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nThe twelft daye fra cristis birtheBiddes cristen men make ioye\n                    & myrthe\u2026\n",
+            "Last Lines": "\n\u2026Oure lorde ihesu criste vs spedeTo do penaunce &\n                    \u00feider vs lede . Amen .\n",
+            "folio": "ff. 30-34"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\n\u00deE twelf\u00fee day from cristes bur\u00feeCristen men make\n                    muche mur\u00fee\u2026\n",
+            "Last Lines": "\n\u2026Vre lord Ihesu crist vs spedeTo do penaunce and \u00feider vs\n                    lede AMEN\n",
+            "Attributed Title": "\nCum natus esset Ihesu in Bethleem Iude (f.\n                    173vc)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 173vc-174va"
+        },
+        "CULAdd8335": {
+            "First Lines": "\n\u00feE tuelft day fro cristes birtheBurd cristen men make ioy\n                    & myrthe\u2026\n",
+            "Last Lines": "\n\u2026Oure lorde ihesu crist vs spedeTil do penaunce &\n                    \u00feedire vs lede\n",
+            "Attributed Title": "\nIn epiphania domini Euangelium secundum mathium (p. 47)",
+            "folio": "pp. 47-54"
+        },
+        "CULDd11": {
+            "First Lines": "\nOn \u00fee twelf day fro cristis birthecristen men make moche\n                    mirthe\u2026\n",
+            "Last Lines": "\n\u2026Oure lord ihesu crist vs spedeto don penauns & \u00feedir\n                    vs lede\n",
+            "Note": "\nFolio 61 missing.",
+            "Attributed Title": "\nCum natus esset ihesus in Bethleem inde in diebus herodis regis ecce\n                        magi et cetera (f. 60v)",
+            "folio": "ff. 60v-63v"
+        },
+        "CULGg531": {
+            "First Lines": "\nThe twelfe day fra cristes berthByddys cristen men make ioy and\n                    merth\u2026\n",
+            "Last Lines": "\n\u2026Oure lord ihesu criste vs spedeTo do penance and \u00feeder\n                    vs lede\n",
+            "Attributed Title": "\nIn die Epiphanie domini secundum Matheum (f. 32)",
+            "folio": "ff. 32-34v"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nThe tuelfte day fra cristes birthWill crysten men make ioy &\n                    myrth\u2026\n",
+            "Last Lines": "\n\u2026And at Ihesu vs sa spedeTo do penaunces and \u00feithir vs\n                    lede\n",
+            "folio": "ff. 28-31v"
+        },
+        "EDCPCM": {
+            "First Lines": "\n\u00fee tuelft dai fra cristes birtheBides cristen men mak ioy and\n                        myr\u00fee\u2026\n",
+            "Last Lines": "\n\u2026Our lauerd iesus crist us redeTo do penans and \u00feider us\n                    lede\n",
+            "Note": "\nLast word of second line erased.",
+            "Attributed Title": "\nIn ephiphania domini secundum matheum (f. 26va)",
+            "Editions": "\n\nSmall,  John,\n                        ed.  \n             English Metrical Homilies\u2026.\n         Edinburgh: W. Paterson, 1862: 94-106.\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n\n",
+            "folio": "ff. 26va-28rb"
+        },
+        "Lam260": {
+            "folio": "f. 11vb"
+        },
+        "MinULZ822": {
+            "First Lines": "\nThe twlfe day fra crystes byrthbyddes crysten men make Ioy &\n                    mir\u021dth\u2026\n",
+            "Last Lines": "\n\u2026oure lorde ihe ihesu cryst vs spedeTo do penaunce &\n                    \u00feidyr vs lede\n",
+            "folio": "ff. 2v-6"
+        },
+        "HunHM129": {
+            "First Lines": "\n\u00dee twolft day fro crist is byrthByddyt cristynmen mak ioy and\n                    myrth\u2026\n",
+            "Last Lines": "\n\u2026Oure loueryd ihesu crist vs spedTo do penauns and \u00feeddyr\n                    vs led\n",
+            "Attributed Title": "\nIn die Epiphanie (f. 20v)",
+            "folio": "ff. 20v-24"
+        }
+    }
+}

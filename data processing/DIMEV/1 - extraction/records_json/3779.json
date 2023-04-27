@@ -1,0 +1,32 @@
+{
+    "_id": 3779,
+    "_header": "Now let us talk of Mount of Flodden",
+    "Note": "Formerly included in 4040; see Baird (1981)\nXBaird, Ian. \u201cThe Poems Called Flodden Field.\u201d Notes and Queries n.s. 28 [226] (1981): 15-19, 16-17.",
+    "Title(s)": "Flodden Feilde",
+    "Subjects": "Flodden Feilde; Flodden Field, battle of; historical poems; Stanley, house of",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "A ballad in praise of the Stanley family, detailing events in France after Flodden Field \u2014 428 lines in rhyme royal",
+    "_witnesses": {
+        "BLHar293": {
+            "First Lines": "\nNowe lett vs take of the mounte of ffloddenefforsoothe suche is our\n                    fortune and Chaunce\u2026\n",
+            "Last Lines": "\n\u2026Save oure noble prince that weres \u00fee CrowneAnd shewe\n                    thie mercye one the Erle of derby\n",
+            "Note": "\n\u2018Finis\u2019 written below last line by scribe (f.\n                    55).",
+            "Attributed Title": "\nA Ballate of the Batalle of Floden Feeld foughte betweene the Earle of\n                    Surrey and the King of Scots (f. 55)",
+            "Editions": "\n\nWeber,  Henry William. \n             The Battle of Flodden Field.\n         Edinburgh: Ballantyne, 1808: 366-89.\nEvans,  Thomas. \n             Old Ballads: historical and narrative, with some of modern\n                date.\n         London: for R. H. Evans by W. Bulmer, 1810: 3.58-76.\n\n",
+            "folio": "ff. 55v-61v"
+        },
+        "BLHar367": {
+            "First Lines": "\nNowe lett vs talke of the mounte of flodenfforsothe suche is our\n                    fortune and Chaunce\u2026\n",
+            "Last Lines": "\n\u2026Save our Nowble prynces that weareth the CrowneAnd haue\n                    mercye on the Earles Sowle of Derbye\n",
+            "Attributed Title": "\nFlowden feilde (f. 120); finis flowden feilde (f. 125)",
+            "Editions": "\n\nWeber,  Henry William. \n             The Battle of Flodden Field.\n         Edinburgh: Ballantyne, 1808: 366-89.\nEvans,  Thomas. \n             Old Ballads: historical and narrative, with some of modern\n                date.\n         London: for R. H. Evans by W. Bulmer, 1810: 3.58-76.\n\n",
+            "folio": "ff. 120-125"
+        },
+        "BLAdd27879": {
+            "Note": "\n513 lines.",
+            "Attributed Title": "\nFlodden Feilde (p. 117)",
+            "Editions": "\n\nRitson,  Joseph,\n                        ed.  \n             Ancient Songs from the Time of King Henry the Third to the\n                Revolution.\n         London, 1790. Further editions as Ritson,\n                    Joseph, ed.  Ancient Songs and Ballads\n                from the Reign of King Henry the Second to the Revolution. 2 vols. London,\n            1829; re-ed. \n                William Carew\n                Hazlitt\n             London, 1877: 210.\nHales,  John Wesley,  and  Frederick James Furnivall, eds.  \n             Bishop Percy\u2019s Folio Manuscript: Ballads and Romances.\n         3 vols. London: Tr\u00fcbner, 1867-68: 1.318-40.\n\n",
+            "folio": "p. 117"
+        }
+    }
+}

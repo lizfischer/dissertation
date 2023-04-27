@@ -1,0 +1,14 @@
+{
+    "_id": 2259,
+    "_header": "I saw a sparrow",
+    "Subjects": "school lessons; schoolboy exercises; translations",
+    "Versification": "\u2014 four-line \u2014 aaaa",
+    "_description": "Tag translating Latin, \u2018vidi passerem sagitare sagittam\u2026\u2019 which follows it, in a series of Latin sentences with English translations in a schoolbook \u2014 four monorhyming lines",
+    "_witnesses": {
+        "OxfLinLat129": {
+            "Transcription": "\ny say a sparow schote an a rowby an harow into a\n                    barowe\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 93"
+        }
+    }
+}

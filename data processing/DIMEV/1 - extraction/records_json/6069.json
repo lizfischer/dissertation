@@ -1,0 +1,18 @@
+{
+    "_id": 6069,
+    "_header": "True love is a law that seemeth he had not right",
+    "Subjects": "God, love of; love, nature of; sermons, verse in",
+    "Versification": "\u2014 three-line \u2014 aaa",
+    "_description": "On God\u2019s Love \u2014 three monorhyming lines in a Latin sermon for Corpus Christi by Lawrence Bretoun, OFM",
+    "_witnesses": {
+        "OxfMert248": {
+            "Transcription": "\nTrewe loue is a lawe \u00feat seme\u00fe he had no ri\u021dtTrewe\n                    loue is a wisdom wi\u00fe outen insi\u021dtTrewe loue is a rowour &\n                    do\u00fe noman vnri\u021dt\n",
+            "Editions": "\nPfander,  Homer Garrison. \n             \u201cThe Popular Sermon of the Medieval Friar in England.\u201d \n         Diss. New York University, 1937: 50.\n",
+            "folio": "f. 131va"
+        },
+        "CULIi38": {
+            "Transcription": "\nLoue ys a lawe \u00feat schinit wi\u00feoute rist\n",
+            "folio": "f. 66v"
+        }
+    }
+}

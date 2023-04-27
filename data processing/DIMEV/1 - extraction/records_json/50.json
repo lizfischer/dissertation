@@ -1,0 +1,14 @@
+{
+    "_id": 50,
+    "_header": "A girdle of guile",
+    "Subjects": "sermons, verse in",
+    "Versification": "\u2014 three-line \u2014 aab",
+    "_description": "The refrain of a dance-song, quoted in a sermon \u2014 three lines",
+    "_witnesses": {
+        "OxfMert248": {
+            "Transcription": "\nA gurdul of gileIch wolde go a mileTo see \u00fee\n                    mordaunt\n",
+            "Editions": "\nBennett,  Jack Arthur Walter,  and  G. V. Smithers, eds.  \n             Early Middle English Verse and Prose.\n         Oxford: Clarendon, 1966: 128.\n",
+            "folio": "f. 146v"
+        }
+    }
+}

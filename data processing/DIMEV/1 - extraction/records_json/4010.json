@@ -1,0 +1,19 @@
+{
+    "_id": 4010,
+    "_header": "O my dear heart the lantern of light",
+    "Note": "Second stanza extracted from John Lydgate\u2019s Temple of Glass (1403); see Jansen and Jordan (1991)\nXSharon L. Jansen, and Kathleen H. Jordan. The Welles Anthology: MS. Rawlinson C.813: A Critical Edition. Binghamton, NY: Medieval & Renaissance Texts and Studies, 1991, 303.",
+    "Subjects": "lovers, addresses to beloved; envoys",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "To his Mistress, a letter protesting his devotion \u2014 five stanzas rhyme royal with 4-line Envoy: \u2018Farewell swet harte\u2019",
+    "_witnesses": {
+        "BodRawC813": {
+            "First Lines": "\nO my dere harte the lanterne of lyghtwhyche hathe my harte hollye\n                    In gouernance\u2026\n",
+            "Last Lines": "\n\u2026To my sweteharte whome I loue bestwhome I pray god gyffe hur\n                    and me good reste\n",
+            "Editions": "\n\nPadelford,  Frederick Morgan. \n             \u201cLiedersammlungen des xvi. Jahrhunderts\u2026IV.\u201d \n             Anglia\n         31 (1908): 309-96: 358-9.\nJansen,  Sharon L.,  and  Kathleen H. Jordan, eds.  \n             The Welles Anthology: MS. Rawlinson C.813: A Critical Edition.\n         Binghamton, NY: Medieval & Renaissance Texts and Studies,\n            1991: 188-90.\n\n",
+            "folio": "ff. 46-46v"
+        },
+        "Banna": {
+            "folio": ""
+        }
+    }
+}

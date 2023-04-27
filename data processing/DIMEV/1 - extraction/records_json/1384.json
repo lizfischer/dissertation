@@ -1,0 +1,70 @@
+{
+    "_id": 1384,
+    "_header": "For Scots / Tell I for sots",
+    "Note": "See 5618 for Brut version; cf. Fabyan\u2019s Chronicle, ed.Ellis (1811)\nXEllis, Sir Henry. The New Chronicles of England and France in Two Parts. repr. of Robert Fabyan, New Chronicles, Pynson 1516 (STC 10659). London: Rivington, 1811, 398.",
+    "Title(s)": "Chronicle",
+    "Subjects": "chronicles, verse in; Scots, songs against; historical poems; songs, soldiers\u2019",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "Bibliographic Ghosts": "London, Lambeth Palace Library 131: not in this MS.",
+    "_description": "A song of victory over the Scots inserted in Peter Langtoft\u2019s Chronicle \u2014 one 6-line stanza",
+    "_witnesses": {
+        "BodFair24": {
+            "Editions": "\nWright,  Thomas,\n                        ed.  \n             The Political Songs of England.\nCamden Society\n         o.s. 6 (1839): 298, 395.\n",
+            "folio": "f. 8"
+        },
+        "OxfAllS39": {
+            "Transcription": "\nffor scottestelle I for sottes and wreches vn wareVnselle\n                    dentes to dele \u00feaym drogh to sunbare\n",
+            "Note": "\nPeter Langtoft\u2019s Chronicle.",
+            "folio": "f. 102v"
+        },
+        "CULGg11": {
+            "Transcription": "\nFor sottesTelle i for sottesAnd wirches vn warreVn\n                    selediutes to dele\u00feaim drohg to dunbarre\n",
+            "Note": "\nPeter Langtoft\u2019s Chronicle.",
+            "Editions": "\nWright,  Thomas,\n                        ed.  \n             The Political Songs of England.\nCamden Society\n         o.s. 6 (1839): 298, 395.\n",
+            "folio": "f. 341"
+        },
+        "BLCottJulAV": {
+            "Transcription": "\nFor scottesTell I for sottesAnd wreches un\n                    warVnseleDintes to dele\u00deam drohu to Dunbar\n",
+            "Note": "\nPeter Langtoft\u2019s Chronicle.",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             The Chronicle of Pierre de Langtoft, in French Verse, from the Earliest\n                Period to the Death of King Edward I.\n             2 vols. \n             Rolls Series\n         47 (1866-68): 2.252.\nHearne,  Thomas,\n                        ed.  \n             Peter Langtoft\u2019s Chronicle: as illustrated and improv\u2019d by\n                Robert of Brunne, from the death of Cadwalader to the end of K. Edward the\n                First\u2019s reign.\n         Oxford : Printed at the Theater, [London: Reprinted for S. Bagster, in\n            the Strand], 1810: 278.\nWilson,  Richard Middlewood. \n             The Lost Literature of Medieval England.\n         London: Methuen, 1952: 210.\n\n",
+            "folio": "f. 148"
+        },
+        "BLHar114": {
+            "Transcription": "\nFor scottesTelle i for sottesand wreches vn warreUn\n                    seleDintes to tele\u00feaim drohg to dunbarre\n",
+            "Note": "\nPeter Langtoft\u2019s Chronicle. Lines 1-2 and 4-5 written two\n                    verse lines per line of M.",
+            "folio": "f. 137"
+        },
+        "BLRoy20Aii": {
+            "Transcription": "\nffor scottesTel I for sottesAnd Wreches vn\n                    waireVnseleDintes to dele\u00deam drought to Dunbar\n",
+            "Note": "\nPeter Langtoft\u2019s Chronicle.",
+            "folio": "ff. 126v-127"
+        },
+        "BLRoy20Axi": {
+            "Transcription": "\nFor \u00fee scottis . telli for sottis . & wetchis vnwarVnsele\n                    dintes to dele . \u00feem drouh to dunbar\n",
+            "Note": "\nSeveral verse lines per manuscript line. Peter Langtoft\u2019s\n                        Chronicle.",
+            "folio": "f. 109v"
+        },
+        "CollArmsAr14": {
+            "Transcription": "\nSkiterende scottesI telle for sottesAnd wreches vnwarMikel\n                    vnseleDintes to dele\u00feem drof to Dunbar\n",
+            "Note": "\nPeter Langtoft\u2019s Chronicle.",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             The Political Songs of England.\nCamden Society\n         o.s. 6 (1839): 298, 395.\nScattergood,  V. John. \n             \u201cRevision in some Middle English Political Verses.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         211 (1974): 287-99. \n\n",
+            "folio": "f. 140v2"
+        },
+        "CollArmsAr61": {
+            "Transcription": "\nffor scottes tell i for sottes and wrecches on warVnsele dyntes to\n                    dele \u00feam drog to Dunbare\n",
+            "Note": "\nPeter Langtoft\u2019s Chronicle.",
+            "folio": "f. 130r2"
+        },
+        "InnerTem5117": {
+            "Transcription": "\n\u00fee scottis I tell for sottis & wrecchis vnwarvnsele dyntis\n                    to dele \u00feam drouh to dunbar\n",
+            "Note": "\nIn Robert Mannyng of Brunne; see 3253.",
+            "Attributed Author": "\nCouwe (f. 176, rubric, in margin)",
+            "Editions": "\nSullens,  Idelle,\n                        ed.  \n             Robert Mannyng of Brunne: The Chronicle.\n         Binghamton, NY: Medieval & Renaissance Texts & Studies, 1996: 654.\n",
+            "folio": "f. 176r1"
+        },
+        "BNfr12154": {
+            "Note": "\nPeter Langtoft\u2019s Chronicle.",
+            "folio": ""
+        }
+    }
+}

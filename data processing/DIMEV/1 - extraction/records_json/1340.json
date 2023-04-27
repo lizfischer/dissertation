@@ -1,0 +1,65 @@
+{
+    "_id": 1340,
+    "_header": "For Balliol bred in his book",
+    "Note": "Cf. 848",
+    "Author(s)": "Peter Langtoft",
+    "Title(s)": "Chronicle",
+    "Subjects": "Balliol, John; political poems",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "Bibliographic Ghosts": "Lincoln, Cathedral Library: deleted by Supplement; London, College of Arms, Arundel 14: not found in this copy of Peter Langtoft\u2019s Chronicle (ff. 133-147); London, Lambeth Palace Library 131: not in this MS.",
+    "_description": "English abuse of John Balliol inserted in Peter Langtoft\u2019s Chronicle \u2014 two six-line stanzas (preceded by a French stanza)",
+    "_witnesses": {
+        "BodFair24": {
+            "folio": ""
+        },
+        "OxfAllS39": {
+            "First Lines": "\nfor boule bredde in his hokewenne he tint \u00feat he\n                    toke\u2026\n",
+            "Last Lines": "\n\u2026His tipetis es tippedHis tabard es tome\n",
+            "Note": "\nFirst stanza only, in Peter Langtoft\u2019s\n                    Chronicle.",
+            "folio": "f. 103v"
+        },
+        "CULGg11": {
+            "First Lines": "\nFor boule bred in his bokewenne he tint \u00feat he\n                    toke\u2026\n",
+            "Last Lines": "\n\u2026Rede him at rideIn \u00fee dismale\n",
+            "Note": "\nPeter Langtoft\u2019s Chronicle, at end of inserted French\n                    verse.",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             The Political Songs of England.\nCamden Society\n         o.s. 6 (1839): 303.\nWright,  Thomas,\n                        ed.  \n             The Chronicle of Pierre de Langtoft, in French Verse, from the Earliest\n                Period to the Death of King Edward I.\n             2 vols. \n             Rolls Series\n         47 (1866-68): ix, 258.\n\n",
+            "folio": "f. 342v"
+        },
+        "BLCottJulAV": {
+            "Transcription": "\nFor boule bred in his bokWen he tint \u00feat he tokWhyt \u00fee\n                    kinge domeFor he haues ouerhippedHis tipet is tippedHis tabard is\n                    torn\n",
+            "Note": "\nPeter Langtoft\u2019s Chronicle.",
+            "Editions": "\nWright,  Thomas,\n                        ed.  \n             The Chronicle of Pierre de Langtoft, in French Verse, from the Earliest\n                Period to the Death of King Edward I.\n             2 vols. \n             Rolls Series\n         47 (1866-68): ix, 258.\n",
+            "folio": "f. 149"
+        },
+        "BLHar114": {
+            "Transcription": "\nFor boule bredd in his bokWenne he tint \u00feat he tokWith\n                    \u00fee kynge domeFor he has ouer hyppedHise typeth es typpedHis\n                    tabard es tome\n",
+            "Note": "\nPeter Langtoft\u2019s Chronicle. Six-line French stanza followed\n                    by one six-line English stanza; third and sixth lines written to right of lines\n                    1-2 and 4-5.",
+            "folio": "f. 138"
+        },
+        "BLRoy20Aii": {
+            "Transcription": "\nffor boule bredde in his bokeWen he tynt \u00feat he tokeWith\n                    \u00fee kyngdomeffor haues ouer hippedeHys typet is typpedeHys\n                    tabard es torne\n",
+            "Note": "\nPeter Langtoft\u2019s Chronicle.",
+            "folio": "f. 127v"
+        },
+        "BLRoy20Axi": {
+            "Transcription": "\nFor boule bred in his book . whan he tynt \u00feat he took. with \u00fee\n                    kingdomFor he has ouerhipped . his tipet is tippid . his tabard is\n                    torne\n",
+            "Note": "\nSeveral verse lines per manuscript line. Peter Langtoft\u2019s\n                        Chronicle.",
+            "folio": "f. 110"
+        },
+        "CollArmsAr61": {
+            "Transcription": "\nffor boule bred in his bokeWhen he tynt \u00feat he tokeWi\u021d\n                    \u00fee kinge domeffor he haues ouer hyppedHis typet is typpedHis\n                    taberd is torne\n",
+            "Note": "\nPeter Langtoft\u2019s Chronicle. Written in three-line stanzas,\n                    with a rhyming couplet and an offset tail rhyme.",
+            "folio": "f. 131"
+        },
+        "InnerTem5117": {
+            "First Lines": "\nfor boule bred in his whan he tynt \u00feat he toke all his\n                    kyngdomefor he has ouerhipped his tippet is tipped his tabard is\n                    torn\n",
+            "Note": "\nRobert Mannyng of Brunne; see 3253.",
+            "Editions": "\n\nHearne,  Thomas,\n                        ed.  \n             Peter Langtoft\u2019s Chronicle: as illustrated and improv\u2019d by\n                Robert of Brunne, from the death of Cadwalader to the end of K. Edward the\n                First\u2019s reign.\n         Oxford : Printed at the Theater, [London: Reprinted for S. Bagster, in\n            the Strand], 1810: 280.\nWilson,  Richard Middlewood. \n             The Lost Literature of Medieval England.\n         London: Methuen, 1952: 210.\nSullens,  Idelle,\n                        ed.  \n             Robert Mannyng of Brunne: The Chronicle.\n         Binghamton, NY: Medieval & Renaissance Texts & Studies, 1996: 655.\n\n",
+            "folio": "f. 176v"
+        },
+        "BNfr12154": {
+            "Note": "\nPeter Langtoft\u2019s Chronicle.",
+            "folio": ""
+        }
+    }
+}

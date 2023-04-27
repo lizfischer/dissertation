@@ -1,0 +1,23 @@
+{
+    "_id": 1936,
+    "_header": "Henry sayeth my Son as thy Sovereign hath th\u2019assembly assigned",
+    "Subjects": "occasional verse; Virgin Mary; Henry VII",
+    "Versification": "\u2014 eight-line, ten-line \u2014 ababbcbc",
+    "_description": "Welcome to Henry VII at York in 1486: Speech of the Virgin Mary \u2014 one 8-line and one 10-line stanzas",
+    "_witnesses": {
+        "BLCottJulBXII": {
+            "First Lines": "\nHenry sith my sone as thy souueraigne hath the sothly assignedOf\n                    his grace to be gouernor of his peoplez proteccon\u2026\n",
+            "Last Lines": "\n\u2026Contynuelly her in thy Rennyng I the pray in this spaceI\n                    shall shewe to my sonne to sende thee his grace\n",
+            "Note": "\n\u2018Our lady\u2019 written in the left margin (f. 11v).\n                    Final lines continue into margin. Folio number reflects the most recent\n                    foliation.",
+            "Editions": "\nSmith,  A. H. \n             \u201cA York Pageant, 1486.\u201d \n             London Medieval Studies\n         1 (1937-39): 382-98: 394-5.\n",
+            "folio": "f. 11v-12"
+        },
+        "YorkCity6": {
+            "First Lines": "\nHenrie seth my sone as thi sufferayne haith te sembly assynydOf his\n                    grace to be gouerner for his people Election\u2026\n",
+            "Last Lines": "\n\u2026Continuall heir in this reynyngI shall sew to my sone to\n                    sendyou his grace\n",
+            "Attributed Title": "\nOure lady (f. 17v)",
+            "Editions": "\n\nRaine,  James,\n                        ed.  \n             A Volume of English Miscellanies Illustrating the History and Language\n                of the Northern Counties of England.\nSurtees Society\n         85 (1890): 57.\nSmith,  A. H. \n             \u201cA York Pageant, 1486.\u201d \n             London Medieval Studies\n         1 (1937-39): 382-98: 394-5.\nRaine,  Angelo,\n                        ed.  \n             York Civic Records.\n             Vol. 1. \n             Yorkshire Archaelogical Society, Records Series.\n         98 (1939): 158-9.\n\n",
+            "folio": "f. 17v-18"
+        }
+    }
+}

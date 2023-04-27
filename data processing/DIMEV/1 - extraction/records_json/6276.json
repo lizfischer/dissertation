@@ -1,0 +1,170 @@
+{
+    "_id": 6276,
+    "_header": "When bright Phoebus passed was the Ram",
+    "Note": "All MSS are more or less imperfect, except Oxford, Bodleian Library Laud misc. 557 (SC 1124) and London, British Library Arundel 119.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "The Siege of Thebes",
+    "Subjects": "two-line",
+    "Versification": "\u2014 aa",
+    "_description": "John Lydgate, The Siege of Thebes \u2014 4716 lines in couplets",
+    "_witnesses": {
+        "Bod776": {
+            "First Lines": "\nWhan aurora was in \u00fee morowe redeand Iubiter in \u00fee\n                    crabbes hed\u2026\n",
+            "Last Lines": "\n\u2026Here is now ended a fynal destrucciounof mighty Thebes\n                    \u00feat strong & roial toun\n",
+            "Note": "\nLacks lines 1-8 of Prologue.",
+            "Attributed Title": "\nHere endeth \u00fee Destrucc\u2026 (at the end, partly\n                    unreadable)",
+            "folio": "ff. 1-71"
+        },
+        "BodDig230": {
+            "First Lines": "\nffully in purpos to come vnto dinereVn to Ospringe and breke\n                    \u00feere oure faste\u2026\n",
+            "Last Lines": "\n\u2026And Ioye eternal whan we hens wendeOf my tale thus I make an\n                    ende\n",
+            "Note": "\nBegins imperfectly.",
+            "Attributed Title": "\nHere endith the Sege of Thebes And begyneth the Sege of Troye (at the\n                    end)",
+            "folio": "ff. 1ra-27vb"
+        },
+        "BodLauMis416": {
+            "First Lines": "\nWhan bright phebus passid was \u00fee ramMid of aprell & in\n                    \u00fee bull cam\u2026\n",
+            "Last Lines": "\n\u2026And ioy eternall whan we hennys wendOf my tale \u00feus I\n                    make an end\n",
+            "Attributed Title": "\nHere endith \u00fee distruccion of thebes (at the end)",
+            "folio": "ff. 227-254ra"
+        },
+        "BodLauMis557": {
+            "folio": "ff. 1-66"
+        },
+        "BodRawC48": {
+            "First Lines": "\nWhan phebus passid was the RamMid of aprill & in the bole\n                    cam\u2026\n",
+            "Last Lines": "\n\u2026And thus eendith the fynal destrucciounOff worthi Thebes the\n                    myhti Roiall toun\n",
+            "Attributed Title": "\nExplicit finalis destructio Cuntatis Thebanorum (at the end)",
+            "folio": "ff. 5-78"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nWhan Phebus passed was the RamMidde of Aprile and into the bole\n                    cam\u2026\n",
+            "Last Lines": "\n\u2026Of Martes swerdes shal nomore manaceNor his spere greuous to\n                    sustene\n",
+            "Note": "\nImperfect at the end.",
+            "Attributed Title": "\nThe sege of Thebes (f. 282)",
+            "folio": "ff. 292-350v"
+        },
+        "OxfStJohn266": {
+            "Note": "\nExemplar for \n            Lydgate, John, The Storye [of The Siege] of Thebes, [de Worde, 1497?] ; see Bone (1931)\nXBone,  G. \n             \u201cExtant Manuscripts Printed from by W. de Worde with Notes on the Owner,\n                Roger Thorney.\u201d \n             The Library\n         4th ser. 12 (1931-1932): 284-306; listed as MS 256 in Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943.",
+            "folio": "ff. 292-350v"
+        },
+        "CULAdd707": {
+            "Note": "\nLines 14-21, 54-58, 92-98, and 134-140.",
+            "folio": "single leaf"
+        },
+        "CULAdd3137": {
+            "folio": "ff. 14-48"
+        },
+        "CULAdd6864": {
+            "folio": "ff. 1-75v"
+        },
+        "CamMagPep2011": {
+            "First Lines": "\nWHan phebus passed was the RameMidde of Aprill and in to \u00fee\n                    boll came\u2026\n",
+            "Last Lines": "\n\u2026And Ioy eternall whan we hense wendeAnd of my Tale thus y\n                    make an Ende\n",
+            "Attributed Title": "\nThe Destruccioun of Thebes (contemporary) (f. 1); Here endeth the\n                    distruccioun off Thebes secundum lidgate Monke off Bury (f.\n                    76v)",
+            "folio": "ff. 1-76v"
+        },
+        "CamTCC652": {
+            "folio": "ff. 1-76v"
+        },
+        "CamTCC1283": {
+            "folio": "ff. 191ra-211va"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nWHan briht phebus passid was the RamMyd of Aprill and in to the\n                    boole cam\u2026\n",
+            "Last Lines": "\nAll clad in blak with her wymplys whiteWith gret honour and dwe\n                    reuerence\u2026\n",
+            "Note": "\nLines 1-4503.",
+            "Attributed Title": "\nIncipit ultima de fabulus Canuarie / translata per Dompnum / Iohannem\n                        lidgate monachum / in redundo a Canuaria Incipit prologus (f.\n                        259v)",
+            "folio": "ff. 360-425v"
+        },
+        "BLAdd18632": {
+            "Transcription": "\nWhanne bri\u021dte Phebus Passed was \u00fee RamMid of April & in\n                    to \u00fee bole camAnd Saturne olde with his ffrosti ffaceIn virgyn\n                    taken ha\u00fe his placeMalincolik and slow of mocioun And was al so\n                    in \u00fee opposicioun[\u2026]Of gret Rome so royal and\n                    LargeWhane the ladies departed from Argeo her cuntrees ful trist and\n                    desolatLo here the fyn of contek and debatLo here \u00fee mi\u021dt of\n                    Mars the sterreLo what hit is to bi gune a werreHow hit concludi\u00fe\n                    ensample ye may seffirst of grekes and sith of this Citee\n",
+            "Note": "\nA 6-line fragment of the beginning of Siege of Thebes, then an\n                    8-line passage, possibly also extracted from Siege of Thebes, both\n                    written by the same hand as the full copy just ended in first\n                    column.",
+            "folio": "f. 33rb"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nWhan brighte phebus passid was the RamMid of aprill &\n                    into\u00fee bole cam\u2026\n",
+            "Last Lines": "\n\u2026And Ioye etarnall whan we hens wendeof my tale thus I make an\n                    ende\n",
+            "Note": "\nBelow last line, f. 83, \u2018lawes deo\u2019 [sic] by scribe\n                    (John Stow).",
+            "Attributed Author": "\nIohn lydgatt (f. 83)",
+            "Attributed Title": "\nher endyth the sege of worthy thebes by Iohn lydgatt monk of bury on his\n                    sowll god have mercy wretyn by Iohn Stowe (f. 83, below end of text; written in\n                    rubric by scribe, John Stow)",
+            "folio": "ff. 17-83"
+        },
+        "BLAru119": {
+            "First Lines": "\nWhan bri\u021dt phebus passed was \u00fee RamMyd of Aprille &\n                    in to bole cam\u2026\n",
+            "Last Lines": "\n\u2026And ioye eternal whan we hens wendeOf my tale thus I make an\n                    ende\n",
+            "Attributed Title": "\nhere end the the destruction of Thebes (f. 79)",
+            "Editions": "\n\nErdmann,  Axel,  and  Eilert Ekwall, eds.  \n             Lydgate\u2019s Siege of Thebes.\n             2 vols. \n             EETS\n         e.s. 108 (1911); 125 (1930); repr. 1984, 1973. \nErdmann,  Axel,  and  Eilert Ekwall, eds.  \n             Lydgate\u2019s Siege of Thebes.\nChaucer Society\n         2nd ser. 46. London: Tr\u00fcbner, 1911. \nHammond,  Eleanor Prescott. \n             \u201cLydgate\u2019s Prologue to the Story of Thebes.\u201d \n             Anglia\n         36 (1912): 360-76: 363-8 (Prologue only).\nEdwards,  Robert,\n                        ed.  \n             The Siege of\n                    Thebes.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2001. \n\n",
+            "folio": "ff. 1-79"
+        },
+        "BLCottAppXXVII": {
+            "First Lines": "\nWhan bryght Phebus passyd was the RamMyd of Aprell and In to bole\n                    kam\u2026\n",
+            "Last Lines": "\n\u2026Off here wepynge was som whatt ouergonThe lyttyll course was\n                    grayun vnder stone\u2026\n",
+            "Note": "\nLines 1-3408. Final folio is badly damaged.",
+            "folio": "ff. 3-51v"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[W]Han bright Phebus passid was the RamMid of Aprill and to the\n                    foule cam\u2026\n",
+            "Last Lines": "\n\u2026And Ioye eternall whan we haue weendeAnd of my tale thus I\n                    make an eende\n",
+            "Attributed Title": "\nHeer begynneth the last tale of Cauntirbury / talis tolde homward and maad\n                    bi dan John / Lidgate Monk of Bury (f. 292v); Heere endith the laste\n                    tale of Cauntirbury / maad and told be Dan Iohn Lidgate Monachi (f.\n                    341)",
+            "folio": "ff. 292v-341"
+        },
+        "BLRoy18Dii": {
+            "First Lines": "\nWhan bright Phebus passyd was \u00fee ramMid of Aprile and in the\n                    bulle cam\u2026\n",
+            "Last Lines": "\n\u2026And Ioye eternall whan we hens wendeOf my tale thus I\n                    make an ende. Amen\n",
+            "Attributed Author": "\nIn this preamble shortly is comprihendid a Mery conseyte of John lydgate Monke of Bury declarynge how he aionyde \u00fee sege of Thebes to the mery tallys of Caunterburye (f. 147ra, in rubric)",
+            "Attributed Title": "\nIn this preamble shortly is comprihendid a Mery conseyte of John lydgate Monke of Bury declarynge how he aionyde \u00fee sege of Thebes to the mery tallys of Caunterburye (f. 147ra, in rubric); Here now endeth as ye may see The destruccyon of Thebes the Cytee (f. 162va, rubric)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Royal 18 D II.\n         2015; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Royal_MS_18_D_II. \n",
+            "folio": "ff. 147va-162va"
+        },
+        "CovAcc3251": {
+            "First Lines": "\nWHan phebus passid was the RamMid of Aprille and in to \u00fee bole\n                    cam\u2026\n",
+            "Last Lines": "\n\u2026And ioie eternalle whan we hens wendeAnd of my tale thus I\n                    make an eende\n",
+            "Attributed Title": "\nHere endith the Sege of Thebes / God sende vs loue and Pees (f.\n                        167ra)",
+            "folio": "ff. 137ra-167ra"
+        },
+        "DULCosVii14": {
+            "folio": "ff. 1-68"
+        },
+        "Lam742": {
+            "folio": ""
+        },
+        "Longleat257": {
+            "First Lines": "\nWhan that Phebus passed was the RamMid of Aprill and into the bole\n                    cam\u2026\n",
+            "Last Lines": "\n\u2026ffull hevy chered and disconsolateIn this assemble afforn as\n                    I you told\u2026\n",
+            "Note": "\nFolios 28, 49-52 missing.",
+            "Attributed Title": "\nThe Sege of Thebes (RT)",
+            "folio": "ff. 1-48v"
+        },
+        "Singh": {
+            "folio": ""
+        },
+        "Austin143": {
+            "First Lines": "\nWhanne bright Phebus passyd was the RamMiddys of Apprill and in\n                        to the bole cam\u2026\n",
+            "Last Lines": "\n\u2026And Ioy enternall when we hens wendeAnd of my tale thus y\n                    make an ende\n",
+            "Attributed Author": "\nExplicit ffabula Monachi de Burie (f. 304)",
+            "Editions": "\nLovell,  Robert Earl,\n                        ed.  \n             \u201cJohn Lydgate\u2019s Siege of Thebes and Churl and Bird:\n                Edited from the Cardigan-Brudenell Manuscript.\u201d \n         Diss. University of Texas at Austin, 1969: 1-215.\n",
+            "folio": "ff. 246-304"
+        },
+        "BosPLMed94": {
+            "First Lines": "\nWhan phebus passed was the Rammyd of Aprille and in to the bole\n                    cam\u2026\n",
+            "Last Lines": "\n\u2026and of our synnes parfyt amendementAnd ioye eternal whan we\n                    hens wendeand of my tale thus make I an ende\n",
+            "Attributed Author": "\nExplicit destruccio Ciuitatis Thebarum (f. 74)",
+            "folio": "ff. 1-74"
+        },
+        "YaleBei661": {
+            "First Lines": "\nWHan phebus passed was the Ram[En]d of Apprill & in to the Bole\n                    cam\u2026\n",
+            "Last Lines": "\n\u2026And ioye eternal whan we hens wendeof my tale thus I make an\n                    ende\n",
+            "Note": "\nWith rubric text-divisions or glosses written between lines of text\n                    instead of to side (\u2018Phebus in Ariete\u2019, \u2018Saturnus in\n                    Virgine\u2019, etc.).",
+            "Attributed Author": "\nNow is here ended the fynal destruccyon / of myghty Thebes that strong\n                    & roial toun (f. 61v)",
+            "folio": "ff. 1-61v"
+        },
+        "PierpontM4": {
+            "First Lines": "\nWhan phebus passed was the RamMidde off Aprill and in to \u00fee\n                    Bull kam\u2026\n",
+            "Last Lines": "\n\u2026And Ioye eternall whan we hense wendeAnd of my tale thus y\n                    make an ende\n",
+            "Note": "\nWith rubric text-divisions or glosses written between lines of text\n                    instead of to side (\u2018Phebus in Ariete\u2019, \u2018Saturnus in\n                    Virgine\u2019, etc.).",
+            "Attributed Author": "\nNow is here ended the fynal destruccyon / of myghty Thebes that strong\n                    & roial toun (f. 61v)",
+            "folio": "ff. 1-74"
+        }
+    }
+}

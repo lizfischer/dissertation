@@ -1,0 +1,41 @@
+{
+    "_id": 1865,
+    "_header": "He that in this book beginneth to read",
+    "Note": "For a similar but shorter poem cf. 2121.",
+    "Title(s)": "Patris Sapientiae",
+    "Subjects": "alchemy",
+    "Versification": "\u2014 four-line \u2014 aabb",
+    "Bibliographic Ghosts": "New Haven, Yale University, Beinecke Library Osborn fa.16",
+    "_description": "Patris Sapientiae, an alchemical poem \u2014 in quatrains (aabb)",
+    "_witnesses": {
+        "BodAsh1445": {
+            "First Lines": "\nThou that this boke beginneth to readekeepe well thy Counsell the\n                    better to speede\u2026\n",
+            "Last Lines": "\n\u2026And if thou than not fynde in this booke nether sone nor\n                    moneThen goe and seeke further as other fooles haue done\n",
+            "Note": "\n120 stanzas; at the end: \u2018finis\u2019.",
+            "Attributed Title": "\nPater sapientiae (f. 8v)",
+            "folio": "Part V, ff. 8v-14"
+        },
+        "BodAsh1490": {
+            "First Lines": "\nHe that in this bocke beginneth to readKepe well thine owne\n                    Councelle, the bettar shalt thou spead\u2026\n",
+            "Last Lines": "\n\u2026And if your dannot find bt this bock neither sonn nor monThen\n                    goe farder and seke thee forth as other fooles have don\n",
+            "Note": "\n120 stanzas; at the end: \u2018Explicit Liber patris sapientiae\n                    / 1599 Rescriptum per Simonem Forman\u2019.",
+            "Attributed Title": "\nPater Sapientiae (f. 336)",
+            "folio": "ff. 336-342v"
+        },
+        "BLSl2352": {
+            "folio": "ff. 86-91v"
+        },
+        "LincInnH90": {
+            "First Lines": "\nYe \u00feat in this booke beginneth to readeKeep well thine owne\n                    Counsell \u00fee better shall thou spede\u2026\n",
+            "Last Lines": "\n\u2026Gum & galls but also eggs shellsHony wax Lun Oyles or\n                    Eallyelse\n",
+            "folio": "ff. 32-34v"
+        },
+        "BosHistSoc": {
+            "First Lines": "\nHe that in thys booke begynneth to redeKepe well thy awne counsell\n                    the better shall thou spede\u2026\n",
+            "Last Lines": "\n\u2026Also therof thou must haue manye symples to shewOr elles they\n                    wyll shrowdlie thynke and say few\n",
+            "Note": "\n114 stanzas, aabb.",
+            "Attributed Title": "\nPatris Sapientia (f. 14v)",
+            "folio": "ff. 14v-19v"
+        }
+    }
+}

@@ -1,0 +1,324 @@
+{
+    "_id": 5756,
+    "_header": "This Summoner in his stirrups high stood",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Sommoner\u2019s Prologue; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; links; friars; contest",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the Sommoner\u2019s Prologue of the Canterbury Tales \u2014 44 lines in rhyming couplets.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nThis sompnour in his stiropis high stoodvppon this frere his herte\n                    was so wood\u2026\n",
+            "Last Lines": "\n\u2026god saue yow alle saue this cursed freremy prolog wil I ende\n                    in this manere\n",
+            "Attributed Title": "\n\u2026And next / folwyng biginneth the sompour his prolog (f.\n                        105v); the sompnour (RT); Here endith the sompnour is\n                    Prolog\u2026 (f. 106v)",
+            "folio": "ff. 105v-106"
+        },
+        "BodBar20": {
+            "First Lines": "\nThis Sompnour in his stirop hygh stodeVpon \u00feis ffrere his hert\n                    was so woode\u2026\n",
+            "Last Lines": "\n\u2026God saue \u021dow alle saue \u00feis Cursed frereMyn prolog\n                    wol I ende in \u00feis manere\n",
+            "Attributed Title": "\nSompnour (RT)",
+            "folio": "ff. 125v-126"
+        },
+        "Bod414": {
+            "First Lines": "\n[T]his Somonour in his stiropis high he stoodVpon this frere his\n                    hert was so wood\u2026\n",
+            "Last Lines": "\n\u2026God saue you alle saue this cursid frereMy prolog wil I ende\n                    in this manere\n",
+            "Attributed Title": "\nThe Prolog of the Somonour (f. 82v)",
+            "folio": "ff. 82v-83"
+        },
+        "Bod686": {
+            "First Lines": "\nThis somnoure n his storopes high he stodeVpon \u00feis frere his\n                    hert was so wodde\u2026\n",
+            "Last Lines": "\n\u2026God save you alle save \u00feis cursed frereMy prologe wol y\n                    ende in \u00feis manere\n",
+            "Attributed Title": "\n\u2026And here / begynneth the Somnours tale (f. 91); Somnoure (RT); Here\n                    endeth the prolage of the / Somnours tale\u2026 (f. 91v)",
+            "folio": "ff. 91-91v"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nThis Somnour in his stiropp ful high he stodeVpon \u00feis ffrere\n                    his hert was so wode\u2026\n",
+            "Last Lines": "\n\u2026God saue yow all saue this cursed frereMi prolong wol I ende\n                    in \u00feis maner\n",
+            "Attributed Title": "\n\u2026And next biginneth / the Prolog of the Somnours (f. 128); Here\n                    bigynneth \u00fee Prolog of \u00fee Somnoure (RT); Here endeth \u00fee Prolog of\n                    the Somnours tale\u2026 (f. 129)",
+            "folio": "ff. 128v-129"
+        },
+        "BodLauMis739": {
+            "First Lines": "\n[T]His sompnour in his stiropis hie he stodeVpon this frere his\n                    hert was so woode\u2026\n",
+            "Last Lines": "\n\u2026God save \u021dou alle safe the cursed frereMy prologe wile I\n                    ende in this manere\n",
+            "folio": "ff. 151-151v"
+        },
+        "BodRawPoe141": {
+            "First Lines": "\nTHis sompnour in his stirop hye stodeVppon this ffrere his hert was\n                    wode\u2026\n",
+            "Last Lines": "\n\u2026God saue you al saue this cursed frereMy prolong\n                    wol I ende in this manere\n",
+            "Attributed Title": "\nHere bigynneth the prolog of the sompnor tale (f. 147v); The\n                    sompnor (RT)",
+            "folio": "ff. 147v-148"
+        },
+        "BodRawPoe149": {
+            "First Lines": "\nThis somonour in his stirop hihe stoodVpon this frere his herte was\n                    so wood\u2026\n",
+            "Last Lines": "\n\u2026God save yov al save this cursed frereMy prolog wil I ende in\n                    this manere\n",
+            "Attributed Title": "\n\u2026And here begynneth the prolog the somonoure and is of a frere (f.\n                        70v); Incipit sommonitoris (f. 70v, margin);\n                    Here endith the somonours prolog of a frere\u2026 (f. 71)",
+            "folio": "ff. 70v-71"
+        },
+        "BodRawPoe223": {
+            "First Lines": "\nThis sompnour in his stiroppes high he stoodVpon this frere his\n                    herte was wood\u2026\n",
+            "Last Lines": "\n\u2026God saue you alle saue this cursed frereMy prolog wol I ende\n                    in this manere\n",
+            "Attributed Title": "\n\u2026And here beginneth the Prolog of the sompnour (f. 148); Prologus\n                        Apparitoris (RT); Here endith the Prolog of the Sompnour\u2026 (f.\n                    149)",
+            "folio": "ff. 148-149"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nThis sompnour in his stiropes hiegh he stoodVpon this frere his\n                    hert was so wood\u2026\n",
+            "Last Lines": "\n\u2026God saue yow alle saue this cursed frereMy prologe wol I ende\n                    in this manere\n",
+            "Attributed Title": "\n\u2026and bygynnyth / the prologe of the Sompnour (f. 93); Here endeth the\n                    prologe of the Sompnour\u2026 (f. 93v)",
+            "folio": "ff. 93-93v"
+        },
+        "OxfCCC198": {
+            "First Lines": "\nThis somnour in his styrop heyhe stoodvpon \u00feis frere his herte\n                    was so wood\u2026\n",
+            "Last Lines": "\n\u2026God saue \u021dow all saue \u00feis cursed frereMy prologe\n                    wol I ende in \u00feis manere\n",
+            "Attributed Title": "\nprologus (RT, rubric)",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "ff. 120v-121"
+        },
+        "OxfNew314": {
+            "First Lines": "\nTHis sompnour in his stirop hi\u021d stoodVp on this frere his\n                    herte was so wood\u2026\n",
+            "Last Lines": "\n\u2026God save you alle save this cursid frereMi prolog wil I ende\n                    in this manere\n",
+            "Attributed Title": "\n\u2026Here begynnyth \u00fee Sompnouris prolog (f. 121); Here endith the\n                    Prolog\u2026 (f. 122)",
+            "folio": "ff. 121-122"
+        },
+        "OxfTri49": {
+            "First Lines": "\nThis Sompnour in his stirope hie stodevpon the ffrere his hert was\n                    wode\u2026\n",
+            "Last Lines": "\n\u2026god saue you alle saue this cursid freremy prologe wille I\n                    ende in this manere\n",
+            "Note": "\nIII.1689, 1692 omitted.",
+            "Attributed Title": "\n\u2026Prologus Sompnour (f. 97v); Sompnoure\n                    (RT)",
+            "folio": "ff. 97v-98"
+        },
+        "CULDd424": {
+            "First Lines": "\nTHis Sompnour in hise stiryopes heye stodeVp on this frere his hert\n                    was so wode\u2026\n",
+            "Last Lines": "\n\u2026God saue \u021dow alle saue this cursed ffrereMy prolog wol I\n                    ende in this manere\n",
+            "Attributed Title": "\nEt incipit prologus Summonitoris (f. 85v); Hic desinit\n                        prologus\u2026 (f. 86)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 85v-86"
+        },
+        "CULIi326": {
+            "First Lines": "\nThis sompnoure in his styrrope highe stodeVppon this ffrere his\n                    herte was so wode\u2026\n",
+            "Last Lines": "\n\u2026My prologe wil I ende in ths manereGod save you all save this\n                    cursed frere\n",
+            "Note": "\nIII.1707-8 reversed.",
+            "Attributed Title": "\n\u2026And here begynneth the Sompnour his prologe (f. 128v);\n                    Sompnour prologe (RT); Here Endeth the Sompnours prologe\u2026 (f.\n                    129)",
+            "folio": "ff. 128v-129"
+        },
+        "CULMm25": {
+            "First Lines": "\nThis somnour in his stirope hye stodeOpon \u00feis frere his herte\n                    was so woode\u2026\n",
+            "Last Lines": "\n\u2026God saue \u021dowe alle saue \u00feis cursed frereMy prologe\n                    woll I ende in \u00feis manere\n",
+            "Attributed Title": "\n\u2026Incipit prologus apparitoris (f. 132v);\n                        Capitulum ixm (f. 132v, margin); \u00fee\n                    somnour (RT)",
+            "folio": "ff. 132v-133"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[T]His Sompnoure in his styrop high stoodeVpon this ffrere in his\n                    herte was woode\u2026\n",
+            "Last Lines": "\n\u2026God save you all safe \u00feis cursed ffrereMy prolog woll y\n                    ende in this manere\n",
+            "Attributed Title": "\nThe prologe of \u00fee Sompnoure (f. 152, rubric); Sompnoure (RT)",
+            "folio": "ff. 152-152v"
+        },
+        "CamTCC595": {
+            "First Lines": "\nTHis sompnour in his stirop high stodeVpon this frere his hert was\n                    so wode\u2026\n",
+            "Last Lines": "\n\u2026God saue you alle saue this cursid frereMy prologe wolle I\n                    ende in this manere\n",
+            "Attributed Title": "\n\u2026And / begynneth the sompnours prolge (f. 147); Here\n                    endith the Sompnour prologe\u2026 (f. 147v)",
+            "folio": "ff. 147-147v"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nThys sompnour in his styropes hyh he stoodVppon this ffrere hys\n                    hert was so wood\u2026\n",
+            "Last Lines": "\n\u2026God save you all save this cursed ffrereMy prolog wol y ende\n                    in this maneer\n",
+            "Attributed Title": "\n\u2026& incipit prologus apparitoris (f. 117); Explicit\n                        prologus apparitoris\u2026 (f. 118)",
+            "folio": "ff. 117-118"
+        },
+        "BLAdd35286": {
+            "First Lines": "\nThis sompnour in his stiroppes high he stodVpon this frere his hert\n                    was so wood\u2026\n",
+            "Last Lines": "\n\u2026God saue yow al saue this cursed frereMy prologe wil I ende\n                    in this manere\n",
+            "Attributed Title": "\n\u2026Here bygynneth the prologe of the Sompnours tale (f.\n                    73v); The Sompnour (RT); Here endeth the prologe\u2026 (f.\n                    74)",
+            "Editions": "\nHorobin,  Simon. \n             \u201cA Transcription and Study of British Library MS Additional 35286 of\n                Chaucer\u2019s Canterbury Tales.\u201d \n         Diss. Univ. of Sheffield, 1997. \n",
+            "folio": "ff. 73v-74"
+        },
+        "BLEge2726": {
+            "First Lines": "\nThis Sompnour in his styroppes hie stodeVp on this frere his hert\n                    was so wode\u2026\n",
+            "Last Lines": "\n\u2026God save you all save this cursed frereMy prologge\n                    woll I ende in this manere\n",
+            "Attributed Title": "\n\u2026& / Incipit prologus Summonitoris (f. 100); Hic\n                        desinit prologus Summonitoris\u2026 (f. 100v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 100-100v"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[T]his Sompnowr in his stiropes hih he stoodVp on this freere his\n                    herte was so wood\u2026\n",
+            "Last Lines": "\n\u2026God save you alle save this cursed freereMi prologe wol I\n                    ende in this maneere\n",
+            "Attributed Title": "\nIncipit prologus apparitoris (f. 103); The prolog of the Sompnour\n                    (RT); Hic desinit prologg apparitoris (f. 103v,\n                    margin)",
+            "folio": "ff. 103-103v"
+        },
+        "BLHar1758": {
+            "First Lines": "\nThis Somnour in his stirop hye stoodVp on this ffrere his herte was\n                    so wood\u2026\n",
+            "Last Lines": "\n\u2026God saue you alle saue this cursid ffrereMy prolog woll I\n                    ende in this manere\n",
+            "Attributed Title": "\nHere begynneth the Prolog of the Somnour (f. 106v); The Somnour\n                    (RT); Here endith the Prolog\u2026 (f. 107)",
+            "folio": "ff. 106v-107"
+        },
+        "BLHar7333": {
+            "First Lines": "\nThis Sompnour in his stirope hye stodevp on this ffrere his herte\n                    was so wode\u2026\n",
+            "Last Lines": "\n\u2026God save yow all saff this Curside frereMy prologe wolle I\n                    ende in this manere\n",
+            "Attributed Title": "\nHere Endith \u00fee Sompnour his tale Prolog (f. 74rb,\n                    rubric)",
+            "folio": "f. 74rb"
+        },
+        "BLHar7334": {
+            "First Lines": "\nThis sompnour in his styrop vp he stoodvpon \u00fee frere his herte\n                    was so wood\u2026\n",
+            "Last Lines": "\n\u2026God saue \u021dow alle saue \u00feis cursed frereMy prolong\n                    wol I ende in \u00feis manere\n",
+            "Attributed Title": "\n\u2026And here begynneth \u00fee sompnour his prologe\u2026 (f. 108); The\n                    Sompnours Tale (RT)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "ff. 108-108v"
+        },
+        "BLHar7335": {
+            "First Lines": "\n[T]His Sompnour in his stiropes heigh he stoodvpon this frere his\n                    hert was so wood\u2026\n",
+            "Last Lines": "\n\u2026God saue you alle saue this cursed frereMi prologe wil y\n                    yende in this manere\n",
+            "Attributed Title": "\nPrologus sumonitoris (f. 80v, margin)",
+            "folio": "ff. 80v-81"
+        },
+        "BLLan851": {
+            "First Lines": "\nTHis Somnour in his stirep hihe stodevpon \u00feis frere his hert\n                    was so wode\u2026\n",
+            "Last Lines": "\n\u2026God saue \u021doue al saue \u00feis curse frereMy prologe wil\n                    I ende in \u00feis manere\n",
+            "Attributed Title": "\n\u2026Incipit prologus aparitoris (f. 106v); \u00fee\n                    Somnour (RT); Explicit prologus\u2026 (f. 107)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 106v-107"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nTHis sompnoure in his Styrope vppe stodeAnd vppon \u00feis ffryer\n                    his herte was so wode\u2026\n",
+            "Last Lines": "\n\u2026God saue you All saufe \u00feis cursede ffryerMy prologe woll\n                    I ende in \u00feis manere\n",
+            "Attributed Title": "\n\u2026And / begynnyth the prolog of the Sompnore (f. 148); Here endithe\n                    the prologe\u2026 (f. 149)",
+            "folio": "ff. 148-149"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nThis Sompnour in his stiropis hye he stodVp on \u00feis frere his\n                    herte ws so wod\u2026\n",
+            "Last Lines": "\n\u2026God saue \u021dou alle saue \u00feis cursid frereMi prolog\n                    wil I ende in \u00feis manere\n",
+            "Attributed Title": "\nHere begynneth the prolog of the Sompnoure (f. 125); The Sompnoure (RT);\n                    Here endith the prologe\u2026 (f. 125v)",
+            "folio": "ff. 125-125v"
+        },
+        "BLSl1685": {
+            "First Lines": "\nThis Somnour in his sterop hi\u021de stodeVpon \u00feis ffrere his\n                    hert was so wood\u2026\n",
+            "Last Lines": "\n\u2026In spririt ones by a vysiounAnd as an Aungell ladde hym up\n                    & doun\u2026\n",
+            "Note": "\nIII.1679-708 lost.",
+            "Attributed Title": "\n\u2026Here begynneth \u00fee Prologe of \u00fee Somnour (f.\n                        124v)",
+            "folio": "f. 124v"
+        },
+        "BLSl1686": {
+            "First Lines": "\nTHis sompnour in his stirop hie stoodVpon this ffrere his hert was\n                    so wood\u2026\n",
+            "Last Lines": "\n\u2026God save you alle saue this cursed ffrereMy prolog wille I\n                    ende in this manere\n",
+            "Attributed Title": "\n\u2026And here begynneth the Prolog of \u00fee Sompnour (f.\n                        145v); a Prolog of the Sompnour (RT); Here endeth the Prolog of\n                    the sompnour\u2026 (f. 146)",
+            "folio": "ff. 145-146"
+        },
+        "NLWPen392": {
+            "First Lines": "\nThis Somnour in his Stiropes hye he stoodVp on this frere his herte\n                    was so wood\u2026\n",
+            "Last Lines": "\n\u2026God saue yow alle saue this cursed frereMy prologe wol I ende\n                    in this manere\n",
+            "Attributed Title": "\n\u2026The Prologe of the Somnours tale (f. 78v); The Somnour\n                    (RT); Here endeth the prologe of the Somnours tale\u2026 (f. 79)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "ff. 78v-79"
+        },
+        "Alnwick455": {
+            "First Lines": "\nThis Sompnour in his stirop hi\u021de stodeOppon this ffrere his\n                    hert was so wood\u2026\n",
+            "Last Lines": "\n\u2026God save \u021dew al save this cursid ffrereMy prolog woll I\n                    ende in this manere\n",
+            "Attributed Title": "\nAnd here begynnyth the Sompnoure his prolog (f. 110); Here endith the\n                    Sompnour his prologg\u2026 (f. 110v)",
+            "folio": "f. 110-110v"
+        },
+        "GULHun197": {
+            "First Lines": "\nTHis Somnour in his stiropes high he stodeVp on \u00feis frere his\n                    herte was wode\u2026\n",
+            "Last Lines": "\n\u2026\u00deat is hese heritage of verray kyndeMy prologg wole I\n                    ende in \u00feis manere\n",
+            "Attributed Title": "\n\u2026And begynneth \u00fee prologe of \u00fee Somynour (f.\n                        54ra); The Somynours Tale (RT)",
+            "folio": "f. 54ra-54rb"
+        },
+        "Holkham667": {
+            "First Lines": "\nThis sumpnour in his stiroppes hye stodevpon \u00feis frere his\n                    hert was so wode\u2026\n",
+            "Last Lines": "\n\u2026God save you all save this cursed frereMy prologge wol I ende\n                    in this manere\n",
+            "folio": "ff. 75vb-76rb"
+        },
+        "Lichfield29": {
+            "First Lines": "\nThis Somnour in his stirop high stoodVp on this freer his herte was\n                    so wood\u2026\n",
+            "Last Lines": "\n\u2026God saue vs alle saf this cursed frereMy prologe wol I ende\n                    in this manere\n",
+            "Attributed Title": "\n\u2026and bigynneth the prologe / of the Somenour (f. 129v,\n                    rubric); The Somenour (RT); Thus endeth the prologe\u2026 (f. 130,\n                    rubric)",
+            "folio": "f. 129v-130"
+        },
+        "Lincoln110": {
+            "First Lines": "\nTHis sompnour in his hi\u021de steropis hye stoodVp on this frere\n                    his herte was was\nner wod\u2026\n",
+            "Last Lines": "\n\u2026God saue \u021dow all saue \u00feis cursid frereMy prolog\n                    wole I ende in \u00feis manereffor trewly with outen ony delayIf\n                    \u00fee frere liste he wol be shrewid alday\n",
+            "Note": "\nTwo spurious lines follow III.1708 (see above).",
+            "Attributed Title": "\n\u2026and bigynny\u00fe \u00fee sompnours tale of \u00fee frere lymytour\n                    (f. 113, heavily stained)",
+            "folio": "ff. 113-113v"
+        },
+        "LonPhys388": {
+            "First Lines": "\nTHis sompnour in his stiropis hie he stoodeVpon this frere his hert\n                    was so woode\u2026\n",
+            "Last Lines": "\n\u2026God save yow all sauf this cursid frereMy prologe wil I end\n                    in this manere\n",
+            "Attributed Title": "\n\u2026Incipit Prologus Aperitoris versitatoris (f.\n                    156v); Explicit prologus\u2026 (f. 157v)",
+            "folio": "ff. 156v-157v"
+        },
+        "RylandsEng113": {
+            "First Lines": "\nThis Sompnour in hs steropis hie stoodVpon the ffrere his hert was\n                    so wood\u2026\n",
+            "Last Lines": "\n\u2026God save you all safe \u00feis cursede ffrereMy prologe woll\n                    y ende in this manere\n",
+            "Attributed Title": "\n\u2026Incipit prologus fabule Sumpmonitoris (f. 70v);\n                        prologus Sumpmonitoris (f. 70v, margin); Sompnour\n                    (RT)",
+            "folio": "ff. 70v-71"
+        },
+        "Petworth7": {
+            "First Lines": "\nThis somnour in his stirop hi\u021de stodeVpon \u00feis frere his\n                    hert was so wode\u2026\n",
+            "Last Lines": "\n\u2026God saue \u021dou all saue \u00feis [cursid?] frereMy prologe\n                    wil I ende in \u00feis manere\n",
+            "Attributed Title": "\n\u2026And here bygynne\u00fee \u00fee prologe of \u00fee somnour (f. 152);\n                    \u00fee prologe (f. 152, margin); The Prologe (RT); Thus ende\u00fe \u00fee\n                    prologe of \u00fee somnour\u2026 (f. 152v)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 152-152v"
+        },
+        "Austin143": {
+            "First Lines": "\nThis Sompnoure in his Stiropis hygh stodevppon this frere his harte\n                    was so wode\u2026\n",
+            "Last Lines": "\n\u2026God save you all save this cursid frereMy prologge will y\n                    ende on this manere\n",
+            "Attributed Title": "\nIncipit prologus Sompnitoris (f. 85); prologus Sompnitoris\n                    (f. 85, margin); Sompnoure (RT); Hic desinit prologus Sompnitoris\u2026\n                    (f. 85v)",
+            "folio": "ff. 85-85v"
+        },
+        "ChicagoUL564": {
+            "First Lines": "\nThis sompnour in his stirop heye stodVpon \u00feis frere his hert\n                    was wod\u2026\n",
+            "Last Lines": "\n\u2026God saue \u021dow all saue \u00feis cursed frereMy prolong\n                    wylle I ende in \u00feis manere\n",
+            "folio": "ff. 148-148v"
+        },
+        "PierpontM249": {
+            "First Lines": "\nThis Somnour in his stirop high stoodVpon this ffrere his herte was\n                    so wood\u2026\n",
+            "Last Lines": "\n\u2026God saue vs all saf this cursed frereMy prologe wol I ende in\n                    this manere\n",
+            "Attributed Title": "\n\u2026And here bigynneth \u00fee prologe of the somnour (f. 128); The\n                    Sompnour (RT); This endeth the prologe of the Sompnour\u2026 (f.\n                        128v)",
+            "folio": "ff. 128-128v"
+        },
+        "PhilRos10841": {
+            "First Lines": "\nThys somner in hys styrop hy\u021de stoodeVppon thys frere hys hert\n                    was so wood\u2026\n",
+            "Last Lines": "\n\u2026God saue \u021dow all saue thys cursed frereMi prologe woll y\n                    ende on thys manere\n",
+            "Attributed Title": "\n\u2026And begynneth / \u00fee prologe of the somnoure (f. 99v);\n                    The sompnour (RT); Here endeth \u00fee prologe of \u00fee sompnour\u2026 (f.\n                    100)",
+            "folio": "ff. 99v-100"
+        },
+        "PUL100": {
+            "First Lines": "\nTHis sompnoure in his stiroppis hi\u021de stodeOppon this ffrere\n                    his hert was so wood\u2026\n",
+            "Last Lines": "\n\u2026God save \u021dewe al save this cursid ffrereMy prolog wol I\n                    end in this manere\n",
+            "Attributed Title": "\n\u2026Begynnyng of the Sompnouris Prolog (f. 98); Here endith the Sompnour\n                    his prolog\u2026 (f. 98v)",
+            "folio": "ff. 98-98v"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nThis somonour in his styropes hye stoodVp on this frere his herte\n                    was so wood\u2026\n",
+            "Last Lines": "\n\u2026God saue yow alle saue this cursed frereMy prologe wol I ende\n                    in this manere\n",
+            "Attributed Title": "\n\u2026The prologe of the Somonours tale (f. 80v); Somonour\n                    (RT)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 80v-81"
+        },
+        "BNangl39": {
+            "First Lines": "\nThis sommonour in his stirop high vpstoodvppon this frere his hert\n                    was so wood\u2026\n",
+            "Last Lines": "\n\u2026god saue yow alle sauf this cursid freremy prologe wil I ende\n                    in this manere\n",
+            "Note": "\nIII.1705-6 omitted.",
+            "Attributed Title": "\n\u2026& subse / quenter incipit prohemium fabule / apparitoris hoc\n                        modo sequente (f. 46vb); Explicit prohemium fabule ap /\n                        paritoris\u2026 (f. 47ra)",
+            "folio": "ff. 46vb-47ra"
+        },
+        "TokyoTak22": {
+            "First Lines": "\nThis sompnour in his stiropis high stodevppon \u00fee frere his\n                    hert was so wode\u2026\n",
+            "Last Lines": "\n\u2026god saue you all saue \u00feis cursed freremy prologe wole I\n                    ende in \u00feis manere\n",
+            "folio": "ff. 64v-65v"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nThis Sompnour in his stiroppis high stoodVpon this ffrere his herte\n                    was so wood\u2026\n",
+            "Last Lines": "\n\u2026God saue you alle saue this cursed frereMy prolog wol I ende\n                    in this manere\n",
+            "Attributed Title": "\n\u2026Et / Incipit Prologus Apparitoris (f. 90v); Hic\n                        desinit Prologus Apparitoris\u2026 (f. 91)",
+            "folio": "ff. 90v-91"
+        },
+        "Bodmer48": {
+            "First Lines": "\nThis Somonour in his stirops hie he stodevpon this frere his hert\n                    was so wode\u2026\n",
+            "Last Lines": "\n\u2026god saue you al sauf \u00feis cursid frermy prolog wil I ende\n                    in this maner\n",
+            "Attributed Title": "\nThe prolog of the Somonours tale (f. 92v, rubric)",
+            "Facsimiles": "\n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n",
+            "folio": "ff. 92v-93"
+        }
+    }
+}

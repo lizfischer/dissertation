@@ -1,0 +1,26 @@
+"source","relation","target","source_id","source_tags","target_id","target_tags"
+"H.V.Jones","Next in chain","J.L.Clawson","776da1b0-c43a-4182-9bd2-984e2b0ed3f1","","16e0bf6d-e7b4-4b5f-bf15-2a50641368c5",""
+"Huntington","Sold to","Jones","821dd234-07ce-4cee-a81a-9c5502da1956","","6e54ec05-224d-4a7f-b5a1-4fff8e3696b1",""
+"Devonshire","Next in chain","Collier","9df560fe-7e0d-45cf-83c7-b7e21dcc4296","","8ee4d370-c220-432e-b522-05ea5d66f9bf",""
+"William Fellowes","Next in chain","Peter Le Neve","31f8f567-104f-4e0d-9dc9-e65accfc36d5","","023d036c-fa1b-4d17-917e-f0fd2416a42e",""
+"H.Mordaunt 
+[?2nd Earl of Peterborough]","Next in chain","William Fellowes","1bd9290a-788d-40aa-8271-0f5af2606641","","31f8f567-104f-4e0d-9dc9-e65accfc36d5",""
+"Huth","Next in chain","Hagen","fe8d480d-33a3-4026-ab0f-4bea416a5632","","a8caaa48-ce55-4185-af9f-dbd9fcdd6e3c",""
+"The Kemble","Sold to","Devonshire","588f8327-8669-4a69-8d1b-1777c0822e9f","","222bdc45-80d9-4ba8-b51c-260850bc1a0f",""
+"Devonshire","Sold to","Huntington","222bdc45-80d9-4ba8-b51c-260850bc1a0f","","238c7152-8436-45a6-aeea-daa4536c0aa0",""
+"Marsden J. Perry","Next in chain","H.V.Jones","20d7655b-6949-4f1c-a0ca-11de4079b321","","776da1b0-c43a-4182-9bd2-984e2b0ed3f1",""
+"Charles Bruce, Vis- 
+count Ampthill","Next in chain","Van Antwerp","562080bd-1b0d-4a40-88df-9d81306fb135","","962ab836-a54f-4dfb-9e76-02d3b97d3224",""
+"Peter Le Neve","Next in chain","Charles Bruce, Vis- 
+count Ampthill","023d036c-fa1b-4d17-917e-f0fd2416a42e","","562080bd-1b0d-4a40-88df-9d81306fb135",""
+"The Corser","Next in chain","Huth","42e7c236-a102-46db-a7a9-0a0d5e5027c0","","fe8d480d-33a3-4026-ab0f-4bea416a5632",""
+"The Lefferts","Sold to","Poor","c388ead9-925c-460b-9028-4069e19376f1","","44c03208-7eda-4552-a373-dcbb24bdc711",""
+"Jo. Searlleith","Next in chain","H.Mordaunt 
+[?2nd Earl of Peterborough]","111b99d6-70f9-496f-9fbd-9373abed0b7a","","1bd9290a-788d-40aa-8271-0f5af2606641",""
+"The William Smyth","Next in chain","Jo. Searlleith","2b53f0ea-a692-49c2-bf36-6cb47715747d","","111b99d6-70f9-496f-9fbd-9373abed0b7a",""
+"Collier","Next in chain","Locker","8ee4d370-c220-432e-b522-05ea5d66f9bf","","469dd75c-665f-482c-b5dc-c325a1497a58",""
+"The Devonshire","Sold to","Huntington","e76d93f5-b5c4-4192-9059-af9d02f10f75","","821dd234-07ce-4cee-a81a-9c5502da1956",""
+"The Lefferts","Sold to","Poor","2fd88f96-4470-420a-b361-9ef4caa7670f","","fed6633e-e242-40d1-af6f-616a92ae270b",""
+"The Kemble","Next in chain","Devonshire","f330fc67-5d84-47b7-b5ec-19a4ac2e970e","","9df560fe-7e0d-45cf-83c7-b7e21dcc4296",""
+"Sotheby’s","Next in chain","Marsden J. Perry","55d8c006-53c8-4712-80f1-7279a3ccd55d","","20d7655b-6949-4f1c-a0ca-11de4079b321",""
+"Poor","Sold to","Huntington","44c03208-7eda-4552-a373-dcbb24bdc711","","16f418f9-8872-4041-bfc8-588de1590062",""

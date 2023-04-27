@@ -1,0 +1,16 @@
+{
+    "_id": 1955,
+    "_header": "Here begins a story",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Solomon; tales",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A fragment introducing the narracio of Solomon in one manuscript of the Northern Homily Cycle \u2014 four lines",
+    "_witnesses": {
+        "BodSelSup52": {
+            "Transcription": "\nHeyr be gynys a story no\u021dte gadOf salamon \u00feat was full\n                    madffor weuis gart hym god forsakeAnd tyll mawmentis wrschyp\n                    make\n",
+            "Note": "\nNarration itself missing; a folio appears to be missing between\n                        195v and 196, on which begins 65.",
+            "Editions": "\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.42.\n",
+            "folio": "f. 195v"
+        }
+    }
+}

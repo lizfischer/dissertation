@@ -1,0 +1,92 @@
+{
+    "_id": 1642,
+    "_header": "Good bidder good warner",
+    "Subjects": "sermons, verse in; proverbs",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A proverbial phrase in the Fasciculus morum \u2014 one couplet",
+    "_witnesses": {
+        "BodLauMis213": {
+            "Transcription": "\ngoode byddergood werner\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 122"
+        },
+        "BodLauMis568": {
+            "Transcription": "\ngoude biddergoude warner\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 79ra"
+        },
+        "BodLauMis111": {
+            "Transcription": "\nA goode askera goode warner\n",
+            "Note": "\nWritten as prose; followed by prose saying, \u2018Aske and\n                    haue\u2019.",
+            "folio": "f. 176v"
+        },
+        "Bod187": {
+            "Transcription": "\nGoode bydders god werny\u00feTo goode bydders god goodelich\n                    \u021deuy\u00fe\n",
+            "folio": "f. 184ra"
+        },
+        "Bod410": {
+            "Transcription": "\nGoode bydder goode wernerTo gode bydder fre \u021deuer\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 63v-64"
+        },
+        "Bod687": {
+            "Transcription": "\ngod byddy\u00fe god worne\u00feto god byddy\u00fe fre\n                    \u00feeuer\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 49va"
+        },
+        "BodRawC670": {
+            "Transcription": "\nGoode bydder goode wernerTo gode bydder fre \u021deuer\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 204.\n",
+            "folio": "f. 109v"
+        },
+        "OxfMagd13": {
+            "Note": "\nOccurs separately; copied from Fasciculus.",
+            "folio": "f. 95"
+        },
+        "CamGon71": {
+            "Transcription": "\nGod byddesa gode werneris\n",
+            "folio": "f. 69"
+        },
+        "CamGon364": {
+            "Transcription": "\nA good asker a good warnerTo good byddyth for \u021deuyth\n",
+            "folio": "f. 106va"
+        },
+        "CamStJohn159": {
+            "Transcription": "\nGaude bidderfre \u021deuer\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 143"
+        },
+        "CantLitD14": {
+            "Transcription": "\nto a goode bidder goode wernarTo goode bidder fre yever\n",
+            "Note": "\nWritten as prose with Latin prose betwen.",
+            "folio": "f. 150"
+        },
+        "Eton34": {
+            "Transcription": "\nto god byddythfre \u021deuyth\n",
+            "Note": "\nWritten as prose; f. 165 of continuous foliation.",
+            "folio": "Part II, f. 62"
+        },
+        "Lincoln44": {
+            "Transcription": "\nGode by dere goude worun\u2026 [one Latin line]To gode byddyr\n                    fre \u021deuer\n",
+            "folio": "f. 207va"
+        },
+        "Spalding": {
+            "Transcription": "\nGood bydder goode wernerTo a good bydder a good gyfer\n",
+            "Note": "\nTwo lines separated by Latin prose; written as prose.",
+            "folio": "f. 116va"
+        },
+        "WorcF19": {
+            "Transcription": "\nto gode byder god wernereto god byder fro gyfer\n",
+            "Note": "\nWenzel lists as \u2018B\u2019 under \u2018Other English\n                    Phrases\u2019, Fasc. Morum, p. 204. 1 x 2, separated by Latin prose; written as\n                    prose.",
+            "folio": "f. 209rb"
+        },
+        "WorcQ3": {
+            "Transcription": "\ngod bydderegod warnere\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 121"
+        },
+        "VaticanOtto": {
+            "folio": "f. 72"
+        }
+    }
+}

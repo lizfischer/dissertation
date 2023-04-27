@@ -1,0 +1,32 @@
+{
+    "_id": 3193,
+    "_header": "Lord God all-wielding / I beteach today into Thy hand",
+    "Note": "Following 424.",
+    "Subjects": "prayers, domestic",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A general morning prayer \u2014 in couplets",
+    "_witnesses": {
+        "BLEge3245": {
+            "First Lines": "\nAnd lord god al weldandeI beteche today in \u00fey hande\u2026\n",
+            "Last Lines": "\n\u2026And lat vs neuere parte fro thegraunt vs lord \u00feat it so be\n",
+            "Note": "\n18 lines. Written as if part of 424.",
+            "Editions": "\nRobbins,  Rossell Hope. \n             \u201cThe Gurney Series of Religious Lyrics.\u201d \n             PMLA\n         54 (1939): 369-90: 376.\n",
+            "folio": "f. 191r2"
+        },
+        "Lincoln91": {
+            "First Lines": "\nLorde god alweldandeI beteche to daye in to \u00fei\n                    hande\u2026\n",
+            "Last Lines": "\n\u2026Alls thow for vs died one a treeGraunte vs lorde \u00feat swa\n                    beeAmen Amen par charite\n\n",
+            "Note": "\n20 lines, written 2-3 verse lines per line of MS; immediately follows\n                        424 as if same\n                    text.",
+            "Facsimiles": "\nBrewer,  Derek Stanley,  and  A. E. B. Owen.  \n             \u201cIntroduction.\u201d \n             The Thornton Manuscript (Lincoln Cathedral MS. 91).\n         London: Scolar Press, 1975. \n",
+            "Editions": "\n\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 1.364 (and cf. 1.222).\nPerry,  George G.,\n                        ed.  \n             Religious Pieces in Prose and Verse from R. Thornton\u2019s\n                MS.\nEETS\n         o.s. 26 (1867); repr. 1973: 77.\nComper,  Frances M. M. \n             The Life of Richard Rolle, Together with an Edition of his English\n                Lyrics.\n         London: J. M. Dent, 1928, 1933; New York: E. P. Dutton, 1929: 294.\n\n",
+            "folio": "f. 191v"
+        },
+        "PULKane21": {
+            "First Lines": "\nLord god alweldandI beteche in to \u00fein\n                    hande\u2026\n",
+            "Last Lines": "\n\u2026And lat vs neuer departe fro \u00feeAls \u00feow for vs deyde\n                    on a rode treAnd graunt vs lord \u00feat itte so beAmen amen for\n                    charite\n",
+            "Note": "\n20 lines.",
+            "Editions": "\nB\u00fchler,  Kurt. \n             \u201cA Middle English Versified Prayer to the Trinity.\u201d \n             Modern Language Notes\n         66 (1951): 312-14: 314.\n",
+            "folio": "f. 112v"
+        }
+    }
+}

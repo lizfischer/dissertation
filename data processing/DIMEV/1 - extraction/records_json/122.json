@@ -1,0 +1,59 @@
+{
+    "_id": 122,
+    "_header": "A mery tale y telle yow may",
+    "Note": "Formerly 2165. For the Cursor Mundi \u2018Assumption\u2019, which is directly based on this text, but lacks the Prologue, see 6363; for other versions see 549, 1767, 3523, 4190, 4703.",
+    "Title(s)": "The Assumption of Our Lady",
+    "Subjects": "Virgin Mary, assumption of; legends, of Jesus and Mary",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Assumption of Our Lady (earliest version) \u2014 in couplets, with a Prologue of ten lines",
+    "_witnesses": {
+        "CULDd11": {
+            "First Lines": "\nOf seynt marie \u00fee swete maya meri tale tellen I\n                    may\u2026\n",
+            "Last Lines": "\n\u2026In to heuene \u00feer he is king& \u021deue vs alle good\n                    ending\n",
+            "Note": "\nFolio 179 missing.",
+            "Attributed Title": "\nDe Assumpcione Beate Marie Virginis (f. 175)",
+            "folio": "ff. 175-181v"
+        },
+        "CULFf238": {
+            "First Lines": "\nA louely tale y yow tell mayOf seyne mary that swete mayThe be\n                    bynnyng of \u00feys lessonYs of hur Assumpcyon\u2026\n",
+            "Last Lines": "\n\u2026To haue \u00feat blys \u00feere he ys kyngAnd gyf vs all\n                    goode endynge\n",
+            "Note": "\nOne folio missing between 40v-41.",
+            "Facsimiles": "\nMcSparran,  Frances,  and  Pamela R. Robinson.  \n             \u201cIntroduction.\u201d \n             Cambridge University Library MS Ff.2.38.\n         London: Scolar Press, 1979. \n",
+            "folio": "ff. 40va-45ra"
+        },
+        "CULGg4272": {
+            "First Lines": "\nMerie tale telle ihc \u00feis dayOf seinte Marye \u00feat swete\n                    may\u2026\n",
+            "Last Lines": "\n\u2026Marie ansuerde wi\u00fe milde steu[en]A[ ]sende me al while\n                    of ful in [ ]\u2026\n",
+            "Note": "\nLines 1-240 only.",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "Editions": "\n\nLumby,  Joseph Rawson,\n                        ed.  \n             King Horn, Floriz and Blaunchfleur, The Assumption of Our Lady.\n            \n                G. H.\n                McKnight\n            \n             EETS\n         1901, o.s. 14 (1866); repr. 1990: 111-36.\nHackauf,  Emil,\n                        ed.  \n             Die \u00e4lteste mittelenglischeVersion der Assumptio Marie.\n         Erfurt: Ohlenrothische Buchdr\u00fcckerei, 1902: (lines 1-250).\n\n",
+            "folio": "pp. 26a-28b"
+        },
+        "BLAdd10036": {
+            "First Lines": "\nIn honorance of Ihesus CrystSitte\u00fe stille & haue\u00fe\n                    lyft\u2026\n",
+            "Last Lines": "\n\u2026And an Aue marie \u00feer toThat Ihesus graunt so.\n                    Amen\n",
+            "Note": "\nThe usual Prologue replaced by another of 12 lines.",
+            "Attributed Title": "\nHic incipit assumpto beate marie (f. 62)",
+            "folio": "ff. 62-80v"
+        },
+        "BLHar2382": {
+            "First Lines": "\nA mery tale y telle yow mayof seynt Marie that swete\n                    may\u2026\n",
+            "Last Lines": "\n\u2026that we may to hene wendethat is withoute begynnyng &\n                    ende\n",
+            "Attributed Title": "\nDe assumpcione sancte Marie (original textura heading in top margin\n                    f. 75); Explicit sextus liber sancte Marie (as if continuation of 4080, original in large script\n                    below last line of text, f. 86)",
+            "Editions": "\n\nLumby,  Joseph Rawson,\n                        ed.  \n             King Horn, Floriz and Blaunchfleur, The Assumption of Our Lady.\n            \n                G. H.\n                McKnight\n            \n             EETS\n         1901, o.s. 14 (1866); repr. 1990: 111-36 (lines 241-716).\nHackauf,  Emil,\n                        ed.  \n             Die \u00e4lteste mittelenglischeVersion der Assumptio Marie.\n         Erfurt: Ohlenrothische Buchdr\u00fcckerei, 1902: (lines 251-).\n\n",
+            "folio": "ff. 75-86"
+        },
+        "UnivLonSLV17": {
+            "First Lines": "\n\u2026\u00deer to ne lette\u00fe hem haue no my\u021dtffor\n                    sikerlyche hit were vnry\u021dt\u2026\n",
+            "Last Lines": "\n\u2026\u00deat he ha\u00fe vs here I seydeffor hit was in \u00fee\n                    tumbe y leyde\u2026\n",
+            "Note": "\nEmbedded in item 2. Lines 389-842.",
+            "folio": "ff. 112-114v"
+        },
+        "Chetham8009": {
+            "First Lines": "\nA merye tale tell I mayOf seint marye that swete mayAll this\n                    tale and this lessonIs of here holy Assumpcion\u2026\n",
+            "Last Lines": "\n\u2026That we may to the blysse wendThat lastithe evire with owte\n                    end\n",
+            "Attributed Title": "\nExplicit Assvmpcio Sancte Marie Amen (f. 17v)",
+            "folio": "ff. 3-17v"
+        }
+    }
+}

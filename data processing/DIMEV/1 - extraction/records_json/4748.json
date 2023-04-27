@@ -1,0 +1,22 @@
+{
+    "_id": 4748,
+    "_header": "Saint Peter prince of apostles all",
+    "Note": "For the usual version see 5800 and 6087.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel; Peter, saint; Paul, saint",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018In festo sanctorum apostolorum Petri et Pauli\u2019, in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 243va"
+        },
+        "BLHar4196": {
+            "First Lines": "\nSAint peter prince of appostils all\u00feat cristen men aw on to call\u2026\n",
+            "Last Lines": "\n\u2026Whare \u00feai sall lif euer in lykingVnto \u00feat blis ihesu us bring\n",
+            "Note": "\nEnds \u201cAmen.\u201d",
+            "Attributed Title": "\nIn festo sanctorum apostolorum Petri et Pauli (rubric, f. 152va)",
+            "Editions": "\nHorstmann,  Carl. \n             Altenglische Legenden: Neue Folge.\n         Heilbronn: Henninger, 1881: 62-76.\n",
+            "folio": "ff. 152va-156vb"
+        }
+    }
+}

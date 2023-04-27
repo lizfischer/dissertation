@@ -1,0 +1,30 @@
+{
+    "_id": 1285,
+    "_header": "Father and Son and Holy Ghost / To Thee I cry and call most",
+    "Note": "Lines 25403-86 in some MSS of Cursor Mundi (3474).",
+    "Title(s)": "Cursor Mundi",
+    "Subjects": "Trinity, prayers to; prayers, to Trinity",
+    "Versification": "\u2014 twelve-line \u2014 aabccbddbeeb",
+    "_description": "A prayer to the Trinity \u2014 seven 12-line stanzas",
+    "_witnesses": {
+        "BodFair14": {
+            "First Lines": "\nFader & sone & haligasteto \u00fee I cry & calle\n                    maste\u00feat trewest art in trone\u2026\n",
+            "Last Lines": "\n\u2026lorde fader louid in trinitefader sone &\n                    haligaste\n",
+            "Attributed Title": "\nAn orisoun of \u00fee trinite (f. 109va)",
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 1454-9.\n",
+            "folio": "ff. 109va-110ra"
+        },
+        "BLCottVesAIII": {
+            "First Lines": "\nffader and sun and haligastTo \u00fee i cri and call\n                    mast\u2026\n",
+            "Last Lines": "\n\u2026Lauerd loued in triniteffader and sune and\n                    haligast\n",
+            "Editions": "\n\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 1454-9.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 37-9.\n\n",
+            "folio": "ff. 142va-143ra"
+        },
+        "GottingenTheo107": {
+            "First Lines": "\nfAdir and sune and hali gastTo \u00fee i cri and call\n                    mast\u2026\n",
+            "Last Lines": "\n\u2026Lauerd loues in triniteFadir and sun and haligast\n",
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 1454-9.\n",
+            "folio": "ff. 167va-168ra"
+        }
+    }
+}

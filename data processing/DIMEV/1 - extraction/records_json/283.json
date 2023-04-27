@@ -1,0 +1,34 @@
+{
+    "_id": 283,
+    "_header": "Alas I woeful creature",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 99.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018A Gentlewoman\u2019s Lament\u2019",
+    "Subjects": "lovers\u2019 laments; women, as speakers/narrators",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, \u2018A Gentlewoman\u2019s Lament\u2019 \u2014 seven 8-line stanzas",
+    "_witnesses": {
+        "CamTCC600": {
+            "First Lines": "\nAllas I wooful creatureLyving betweene hope and dreedHowe\n                    might I \u00fee woo endureIn tendrenesse of wommanhede\u2026\n",
+            "Last Lines": "\n\u2026To haue hooly my RemembraunceOn his persone so mychil I\n                    thynke\n",
+            "Attributed Author": "\nLidegate (RT, 152-154)",
+            "Attributed Title": "\nAnd here begynne\u00fee a balade sayde by a gentil womman whiche loued a\n                    man of gret estate (p. 152); A Womans Compleynte made by Lidegate (RT,\n                    152-154)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 418-20.\n",
+            "folio": "pp. 152-154"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nAllas I wofull creaturelyuinge betwene hope and dredhow mighte\n                    I the woo endurein tendernesse of womanhede\u2026\n",
+            "Last Lines": "\n\u2026to haue holy my remembraunceon hys persone so mychill I\n                    thynke\n",
+            "Note": "\nEnds \u2018funis\u2019 (f. 161).",
+            "Attributed Author": "\nlidgate (f. 160)",
+            "Attributed Title": "\nAnd here begynneth a balade sayde by a gentillwoman which loued a man of\n                    gret estate made by lidgate (f. 160)",
+            "folio": "ff. 160-161"
+        },
+        "BLHar2251": {
+            "First Lines": "\nAllas woful creatureLyveng betwene hope and\n                    drede\u2026\n",
+            "Last Lines": "\n\u2026Is whether that I wake of wynkeTo have holy my\n                    RemembraunceOn his persone so mochil I thynk\n",
+            "Editions": "\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             A Selection from the Minor Poems of Don John Lydgate.\nPercy Society\n         2. London: T. Richard, 1840: 220-2.\n",
+            "folio": "ff. 250v-251v"
+        }
+    }
+}

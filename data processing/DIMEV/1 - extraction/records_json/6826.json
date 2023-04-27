@@ -1,0 +1,24 @@
+{
+    "_id": 6826,
+    "_header": "Ye lords eke shining in noble fame",
+    "Author(s)": "Thomas Hoccleve",
+    "Title(s)": "Balade au tres honourable compaignie du Garter",
+    "Subjects": "Garter, Order of",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "Thomas Hoccleve, Balade au tres honourable compaignie du Garter \u2014 four 8-line stanzas (same three rhymes throughout).",
+    "_witnesses": {
+        "CamTCC595": {
+            "First Lines": "\nThe Lordes eke shynynge in noble fameTo whiche approued is the\n                    mayntenance\u2026\n",
+            "Last Lines": "\n\u2026Of whose vertue the myghtie haboundance\u00feou herte and\n                    strength in faithful vnitee\n",
+            "Note": "\nAdded to flyleaf by a hand of sixteenth century. Transcript from  Geoffrey Chaucer, Workes, Thynne, 1532  combined with 6299 as if one work in this MS.",
+            "Attributed Title": "\nTo the kinges moste noble grace and To the Lordes and Knightes of the\n                    garter (f. 2)",
+            "folio": "ff. 2v-3"
+        },
+        "HunHM111": {
+            "First Lines": "\nYee lordes eek shynyng in noble fameTo whiche appropred is the\n                    maintenance\u2026\n",
+            "Last Lines": "\n\u2026Of whos vertu the mighty habundaunceYow herte & strengthe\n                    in feithful vnitee\n",
+            "Facsimiles": "\nBurrow,  John,  and  A. I. Doyle, eds.  \n             Thomas Hoccleve: A Facsimile of the Autograph Verse\n                Manuscripts.\nEETS\n         s.s. 19 (2002). \n",
+            "folio": "ff. 28-28v"
+        }
+    }
+}

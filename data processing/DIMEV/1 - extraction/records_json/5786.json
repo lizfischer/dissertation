@@ -1,0 +1,45 @@
+{
+    "_id": 5786,
+    "_header": "This world foul is and cleanseth lite",
+    "Note": "Cf. Walther (1963)\nXWalther, Hans. Proverbia sententiaque latinitatis medii aevi. 6 vols. G\u00f6ttingen, 1963-69, no. 15467.",
+    "Subjects": "sermons, verse in; greed; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Spalding, Lincolnshire, Spalding Gentlemen\u2019s Society M.J.B.14 [olim Maurice Johnson No. LIV], f. 83v: not in this MS.",
+    "_description": "On shunning greed \u2014 a tag in the Fasciculus morum, translating a Latin distich",
+    "_witnesses": {
+        "BodLauMis213": {
+            "Transcription": "\n\u00deis world vs fule\u00fe and clansyth lyteOff ful\u00fee \u00feer\n                    yn who be quite\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 69"
+        },
+        "Bod187": {
+            "Transcription": "\nThys wordle vs defyl\u00fe& clansyth but a lyteOf fil\u00fee\n                    \u00feat ys \u00feerynneWho can hym best quyte\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 180.\n",
+            "folio": "f. 166vb"
+        },
+        "Bod410": {
+            "Transcription": "\nthis world vs foules & clanset lyte of fylth \u00feerinne who be\n                    qwyte\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 45v"
+        },
+        "BodRawC670": {
+            "Transcription": "\n\u00deis world fyle ys and clansyt lyteOf fyl\u00fee \u00feerinne who\n                    may be quyte\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 179.\n",
+            "folio": "f. 81v"
+        },
+        "EDU82": {
+            "Transcription": "\nThe worlde is fule and clensyth lyteOff fylthe ther in whoo may be\n                    qwyte\n",
+            "folio": "f. 98v"
+        },
+        "Lincoln44": {
+            "Transcription": "\n\u00feis worle ys foul and clanse\u00fe lytOf ful\u00fee \u00feerin\n                    ho may be quite\n",
+            "folio": "f. 193va"
+        },
+        "WorcF19": {
+            "Transcription": "\n\u00feis worle fyle ous fulet & clanseth lyteof fulth ther inne\n                    he may be quite\n",
+            "Note": "\nWritten as prose.",
+            "Attributed Title": "\nquod ex que deus ipse detestatur & \u2026 (f.\n                    194va)",
+            "folio": "f. 194va"
+        }
+    }
+}

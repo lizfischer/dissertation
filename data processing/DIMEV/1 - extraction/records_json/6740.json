@@ -1,0 +1,17 @@
+{
+    "_id": 6740,
+    "_header": "With rest and peace",
+    "Subjects": "proverbs",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "London, British Library Cotton Julius B.I: see Nicolas and Tyrrell (1827)\nXNicholas Harris Nicolas, and Edward Tyrrell. A Chronicle of London, from 1079 to 1483. London: Longman, 1827.",
+    "_description": "A proverbial couplet inserted in a chronicle.",
+    "_witnesses": {
+        "BLHar565": {
+            "Transcription": "\nWith reste and Peesa man schal best encrees\n",
+            "Note": "\nCouplet inserted in chronicle, concluding account of the siege of Rokesburgh Castle.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 525.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_565. \n",
+            "Editions": "\nNicolas,  Nicholas Harris,  and  Edward Tyrrell, eds.  \n             A Chronicle of London, from 1079 to 1483.\n         London: Longman, 1827: 122.\n",
+            "folio": "ff. 91-91v"
+        }
+    }
+}

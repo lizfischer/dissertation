@@ -1,0 +1,20 @@
+{
+    "_id": 20,
+    "_header": "A child is born amongst man",
+    "Subjects": "carols, Nativity",
+    "Versification": "\u2014 four-line, six-line \u2014 aaaa, aabaab",
+    "_description": "A Christmas carol \u2014 three stanzas with a 4-line burden: \u2018Honnd by honnd we schulle ous take / & joye & blisse schulle we make / For the deuel of ele man haght forsake / & godes sone ys maked our make\u2019",
+    "_witnesses": {
+        "Bod26": {
+            "First Lines": "\nA child is boren amo[n]ges man& in \u00feat child was no\n                    wam\u2026\n",
+            "Last Lines": "\n\u2026for \u00fee he \u021dahf a hondre fo[l]dhys lif to\n                    bote\n",
+            "Editions": "\n\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 9-10; 1977, 6.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 110-11.\nChambers,  Edmund Kerchever. \n             English Literature at the Close of the Middle Ages. Oxford History of\n                English Literature.\n         Oxford: Clarendon, 1945: 80.\nKaiser,  Rolf,\n                        ed.  \n             Alt- und mittelenglische Anthologie.\n         Berlin, 1954; 3rd ed.; trans. as  Medieval English: a\n                Old English and Middle English Anthology Berlin West, 1958: 290.\nGreene,  Richard Leighton,\n                        ed.  \n             A Selection of English Carols.\nClarendon Medieval and Tudor Series.\n         Oxford: Clarendon, 1962: 59.\nStevick,  Robert D.,\n                        ed.  \n             One Hundred Middle English Lyrics.\n         Indianapolis: Bobbs-Merrill, 1964: 65.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 183-4.\n\n",
+            "folio": "f. 202v"
+        },
+        "UnivLon657": {
+            "Note": "\nThird stanza\n                    only.",
+            "Editions": "\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 9-10; 1977, p. 6.\n",
+            "folio": "p. 280b"
+        }
+    }
+}

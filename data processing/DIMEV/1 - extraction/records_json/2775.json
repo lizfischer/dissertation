@@ -1,0 +1,17 @@
+{
+    "_id": 2775,
+    "_header": "I-wandering full weary and walking the ways",
+    "Note": "Formerly 1378.5.",
+    "Subjects": "alphabetic poems; flowers",
+    "Versification": "\u2014 alliteration, four-line \u2014 abab",
+    "_description": "An ABC alliterative poem on flowers, one stanza to each letter of the alphabet \u2014 15 alliterative quatrains (abab)",
+    "_witnesses": {
+        "OxfLinLat129": {
+            "First Lines": "\nY Wandryng ful wery & walkynge \u00fee wayesIn Somer whan\n                    \u00fee schene sonne saylyd on hy\u021de\u2026\n",
+            "Last Lines": "\n\u2026And for \u00fey blode \u00feat bleddyst to thy blys vs\n                    bryngeAnd send vs here so\u00feely \u00fey swete helpe at nede\n                    Amen\n",
+            "Attributed Title": "\nVmbraculi descriptio ab herbis & arboribus illud constituentibus\n                        secundum literam seriem cum benedictione insidentium (f. 44, top margin,\n                    by a later hand)",
+            "Editions": "\nWilson,  Edward. \n             \u201cAn Unpublished Alliterative Poem on Plant-Names from Lincoln College,\n                Oxford, MS. Lat. 129 (E).\u201d \n             Notes and Queries\n         n.s. 26 [224] (1979): 504-8: 504-8.\n",
+            "folio": "ff. 44-45"
+        }
+    }
+}

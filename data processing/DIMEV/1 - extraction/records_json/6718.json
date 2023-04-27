@@ -1,0 +1,25 @@
+{
+    "_id": 6718,
+    "_header": "With bodkins was Caesar Julius",
+    "Note": "Cf. Monk\u2019s Tale (2316), 7.2707.",
+    "Title(s)": "Serpent of Division",
+    "Subjects": "Fortune",
+    "_description": "Four rhyming lines at end of Serpent of Division, quoting \u2018my maister Chaucer\u2019",
+    "_witnesses": {
+        "BLAdd48031": {
+            "Transcription": "\nWith boidkynnes was Cesar JuliusMurdrid at Rome of Brutus cassusWhan many a regeon he had broughte ful loweLoo whoo may truste fortvne any throwe\n",
+            "Note": "\nThe longer prose text in which this verse is embedded ends on f. 175v with \u201cHere endeth the cronycule of Julius Cesar Emperoure of Rome tyme specifying cavse of the Ruyne and Destruccion of \u00fee same Citie translated by me Danna John lidgate nomke of Bury Seint Edmund the yere of our lord god ml iiij c.\u201d",
+            "folio": "f. 175"
+        },
+        "CamMagPep2006": {
+            "Transcription": "\nWyth Bodekyne was Cesar JuliusMurdred at Rome of brutus\n                    CassiusWhen mony land and regne hadd brought ful loweloo who may trust\n                    fortune eny throwe\n",
+            "Facsimiles": "\nEdwards,  A. S. G. \n             \u201cIntroduction.\u201d \n             Manuscript Pepys 2006: A Facsimile. Magdalen College,\n                Cambridge.\n         Norman, OK: Pilgrim, and [Woodbridge, Suffolk]: Boydell and Brewer,\n            1985. \n",
+            "folio": "p. 208"
+        },
+        "HarEng530": {
+            "Transcription": "\nWith boidekynes was Cesar JuliusMordred at Rome of Brutus\n                    CassiusWhan many londe & Regne had brought ful loweLo who may\n                    trust ffortune eny throwe\n",
+            "Editions": "\nRobinson,  F. N. \n             \u201cOn Two MSS of Lydgate\u2019s  Guy of\n                Warwick.\u201d \n             Harvard Studies and Notes in Philology\n         5 (1897): 177-220: 184.\n",
+            "folio": "f. 57v"
+        }
+    }
+}

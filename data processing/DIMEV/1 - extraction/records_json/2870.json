@@ -1,0 +1,36 @@
+{
+    "_id": 2870,
+    "_header": "Jesu Lord Thy blessed life",
+    "Note": "Many other copies occur at end of Love\u2019s prose Mirror, e.g. Cambridge UK, Cambridge University Library Addit. 6578, f. 124; Cambridge UK, Cambridge University Library Addit. 6686 [olim Ashburnham 140], p. 233. In Cambridge UK, Cambridge University Library Ii.4.9 it follows the Northern Passion.",
+    "Subjects": "devotional verse",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "One couplet as conclusion to Wycliffite trans. of St. Bonaventure, Speculum Vite Christi",
+    "_witnesses": {
+        "OxfBras9": {
+            "Transcription": "\nJhesu lorde thy blessid lyfhelpe & conforte oure wrecchid\n                    lyf\n",
+            "Note": "\nEnd flyleaf; at end of Speculum Vitae.",
+            "Attributed Title": "\nExplicit Speculum vite cristi complete (f.\n                    150v)",
+            "Editions": "\nCoxe,  Henry Octavius. \n             Catalogus codicum mss. qui in collegiis aulisque\n                oxoniensibus\u2026.\n         Oxon: e Typographeo academico, 1852: 2.\n",
+            "folio": "f. 150v"
+        },
+        "OxfUni123": {
+            "Transcription": "\nIhesu lorde \u00fei blesside lifehelpe and counforte oure wrechede\n                    life\n",
+            "Note": "\nNot fol. 74v as in IMEV.",
+            "Attributed Title": "\nSpeculum Vite Cristi (f. 1); Explicit Speculum Vite cristi\n                        complete (follows couplet; f. 74)",
+            "Editions": "\n\nCoxe,  Henry Octavius. \n             Catalogus codicum mss. qui in collegiis aulisque\n                oxoniensibus\u2026.\n         Oxon: e Typographeo academico, 1852: 37.\nRobbins,  Rossell Hope. \n             \u201cPopular Prayers in Middle English Verse.\u201d \n             Modern Philology\n         36 (1939): 337-50: 348.\n\n",
+            "folio": "f. 74"
+        },
+        "BLAdd19901": {
+            "Transcription": "\nJhesu lord \u00fei blessed lifehelpe & confort our wrechede\n                    life\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 86v"
+        },
+        "BLHar4011": {
+            "First Lines": "\nheyle holiest body of oure lorde Ihesu Criste\u00feat art now\n                    sothfast conteyned here in\u2026\n",
+            "Last Lines": "\n\u2026departyng \u00feat y may come with \u00fee to life\n                    euerlastyngIhesu lord by uertewe & grace of \u00fei life blessid\n                    without endyng\n",
+            "Note": "\nExtract, written as prose.",
+            "Attributed Title": "\nA devovte orysoun to \u00fee holy sacrament (f. 2vb, above first\n                    line, by scribe)",
+            "folio": "f. 2vb"
+        }
+    }
+}

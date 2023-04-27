@@ -1,0 +1,30 @@
+{
+    "_id": 3200,
+    "_header": "Lord god preserve under thy mighty hand / the king the queen the people and this land",
+    "Note": "= lines 6-7 of 3563, occurring separately.",
+    "Subjects": "prayers, for the nation",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A prayer tag for England \u2014 one couplet",
+    "_witnesses": {
+        "CamCCC61": {
+            "Transcription": "\nLord god preserve under \u00fey mighty handesOure kyng oure qwene\n                    \u00feeyre pepul and \u00feeyre landes\n",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Elizabeth Salter.  \n             \u201cIntroduction.\u201d \n             Troilus and Criseyde. Geoffrey Chaucer. A Facsimile of Corpus Christi\n                College Cambridge MS 61.\n         Cambridge: D. S. Brewer, 1978. \n",
+            "folio": "flyleaf"
+        },
+        "CamTCC600": {
+            "Transcription": "\nLord god preserve vnder \u00fey mighty hande\u00dee Kyng \u00fee\n                    Qwene \u00feeire peple and \u00feis lande\n",
+            "folio": "p. 359"
+        },
+        "BLAdd5467": {
+            "Transcription": "\nLorde god preserve vnder thy myghty hondeOure kynge oure Qwene theire\n                    pepull and this lande\u2026\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 221"
+        },
+        "HunEL26A13": {
+            "Transcription": "\nLord god preserue vnder \u00fey mighty hande\u00dee kynge \u00fee\n                    qwene \u00fee people and \u00feis lande\n",
+            "Note": "\nThese two lines (6-7) only; \u2018Ihesu\u2019 above as\n                    heading.",
+            "Editions": "\nDutschke,  C. W. \n             Guide to Medieval and Renaissance Manuscripts in the Huntington\n                Library.\n         2 vols. San Marino, CA: Huntington Library, 1989: 1.35.\n",
+            "folio": "f. iiv"
+        }
+    }
+}

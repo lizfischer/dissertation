@@ -1,0 +1,62 @@
+{
+    "_id": 5982,
+    "_header": "To his disciples said Jesus / As Saint Matthew here tells us",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel, \u2018Dominica iiij. post Octave Epiphanie\u2019, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nTO his diciples seide IhesusAs seint Matheu telle\u00fe\n                    vs\u2026\n",
+            "Last Lines": "\n\u2026Couetyse and TricheryeGlotonye and Lecherye\n",
+            "Note": "\nThis MS separates 5982 and 528 two lines later, ending 5982 with the first\n                    two lines of 528.",
+            "Attributed Title": "\nSimile est regnum celorum homini igitur seminauit (f.\n                        177rb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 177rb-177rc"
+        },
+        "BodAsh42": {
+            "First Lines": "\nTill his dissiples saide ihesusAls saynte mathewe here tellis\n                    vs\u2026\n",
+            "Last Lines": "\n\u2026& couetyce and liccheryeAnd glotonye and\n                    triccherie\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 46-47"
+        },
+        "CULAdd8335": {
+            "folio": "p. 76"
+        },
+        "CULDd11": {
+            "Note": "\nMissing lines 1-36.",
+            "folio": "f. 73"
+        },
+        "CULGg531": {
+            "folio": "f. 41v"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nTyll his dysciples said ihesusAls saint matheu her telles\n                    vs\u2026\n",
+            "Last Lines": "\n\u2026Glotony slewth and lycheryAnd couatyse and\n                    trechery\n",
+            "folio": "ff. 42-42v"
+        },
+        "EDCPCM": {
+            "First Lines": "\ntil his decipeles said iesusAls sain matheu her tellis\n                    us\u2026\n",
+            "Last Lines": "\n\u2026And couaitys and tricherieAnd glotonnye and\n                    licherye\n",
+            "Attributed Title": "\nDominica iiii post octavam epiphanie Secundum matheum (f.\n                    33va)",
+            "Editions": "\n\nSmall,  John,\n                        ed.  \n             English Metrical Homilies\u2026.\n         Edinburgh: W. Paterson, 1862: 145-52.\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n\n",
+            "folio": "ff. 33va-34ra"
+        },
+        "Lam260": {
+            "folio": "f. 16vb"
+        },
+        "MinULZ822": {
+            "First Lines": "\nTyll hys discipyles sayd ihesusals saynt mathew telles\n                    vs\u2026\n",
+            "Last Lines": "\n\u2026With couatyse and trecheryAnd luste with [illegible]\n                    lychery\n",
+            "Attributed Title": "\nDominica iiiia post octavas Epiphanie Secundum Matheum (f.\n                    17)",
+            "folio": "ff. 17-17v"
+        },
+        "HunHM129": {
+            "First Lines": "\nTo his discples sayd ihesusAs seint mathew here tellyth\n                    vs\u2026\n",
+            "Last Lines": "\n\u2026Couetys and lecheryGlotowny and trechery\n",
+            "Note": "\nListed in Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943 incorrectly as appearing on f.\n                    117.",
+            "Attributed Title": "\nDominica quinta post octavam epiphanie (f. 35v)",
+            "folio": "ff. 35v-36"
+        }
+    }
+}

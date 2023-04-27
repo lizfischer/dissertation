@@ -1,0 +1,19 @@
+{
+    "_id": 3705,
+    "_header": "Not dreamed I in the mount of Parnassus",
+    "Author(s)": "Benedict Burgh",
+    "Subjects": "Lydgate, John",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Burgh\u2019s poem in praise of Lydgate \u2014 eight stanzas rhyme royal",
+    "_witnesses": {
+        "BLAdd29729": {
+            "First Lines": "\nNat dremyd I in \u00fee mownt of pernasene dranke I nevar at\n                    pegases welle\u2026\n",
+            "Last Lines": "\n\u2026of the moneth when this vnadvisid lettarwrit was but with\n                    yowr helpe here aftar bettar\n",
+            "Note": "\nHeading f. 6, of which at least one line cropped (bottoms of letters\n                    still visible), ending \u2018\u2026booke dwelyng at\n                    wyndsorre\u2019.",
+            "Attributed Author": "\nExplicit per Mag[ist]rum burgh ad Ioannem lidgate (f.\n                    6v)",
+            "Attributed Title": "\nMaister Burgh in \u00fee prays of John Lidgate [written out of Maister\n                    Hanlay his] booke dwelyng at Wyndsor (f. 6; but see note above)",
+            "Editions": "\n\nSteele,  Robert,\n                        ed.  \n             Lydgate and Burgh\u2019s Secrees of Old Philisoffres: A version of the\n                \u2018Secreta Secretorum\u2019.\nEETS\n         e.s. 66 (1894); repr. 1973: xxxi-xxxii.\nHammond,  Eleanor Prescott. \n             English Verse between Chaucer and Surrey.\n         Durham, NC: Duke UP, 1927: 189-90.\nF\u00f6rster,  Max. \n             \u201c\u00fcber Benedict Burghs Leben und Werke.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         101 (1898): 53-5: 48-50.\n\n",
+            "folio": "ff. 6-6v"
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "_id": 6363,
+    "_header": "When Jesu Christ was done on rood",
+    "Note": "For the earlier version on which this is based see 2165.",
+    "Title(s)": "Cursor Mundi",
+    "Subjects": "Virgin Mary, assumption of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Assumption of Our Lady, added to the Cursor Mundi (3474) \u2014 784 lines",
+    "_witnesses": {
+        "BodFair14": {
+            "First Lines": "\nQuen ihesus criste was done on rode& \u00feoled dede alle for\n                    our gode\u2026\n",
+            "Last Lines": "\n\u2026al at \u00feis boke heris & redislauedi ham help in al\n                    \u00feaire nedis\n",
+            "Note": "\nMissing 188 lines.",
+            "Attributed Author": "\nIste liber restat domino iohanni de croft (f.\n                    102ra)",
+            "Attributed Title": "\nOf \u00fee life of our lauedi (f. 83ra)",
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 3.1148-93.\n",
+            "folio": "ff. 83ra-102ra"
+        },
+        "BodLauMis416": {
+            "Transcription": "\nHeryth now that wille haue medeAnd I shalle you the story redeof\n                    the holy maydins byrth\n",
+            "Note": "\nFormerly f. 171.",
+            "Attributed Title": "\nlystyn now to my lessonThat wille here of the concepcoun (f.\n                    120)",
+            "folio": "f. 120"
+        },
+        "CamTCC588": {
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 3.1148-93.\n",
+            "folio": "f. 122v"
+        },
+        "BLAdd36983": {
+            "First Lines": "\nWhen Ihesu crist was done on Rodeand Soffred de\u00fe ffor manis\n                    gode\u2026\n",
+            "Last Lines": "\n\u2026lete me So long & [sic] \u00fey Seruis\u00feat I\n                    may com to paradysAs [sic] Myn endyng I pray to \u00feeIn tyme\n                    of Nede Myn help \u00feu be\n",
+            "Attributed Title": "\nWho so desireth grete Pardon / Here of our ladies assumpcion (f.\n                        148vb)",
+            "folio": "ff. 149ra-154va"
+        },
+        "BLCottVesAIII": {
+            "First Lines": "\n[Q]Ven iheus crist was don on rodeAnd thold ded al for vr\n                    gode\u2026\n",
+            "Last Lines": "\n\u2026At mine ending i prai it teAmen say yee say par\n                    charite\n",
+            "Note": "\nSpace was left for enlarged initial \u2018Q\u2019, which was left\n                    blank.",
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 3.1148-93.\n",
+            "folio": "ff. 113ra-117va"
+        },
+        "EDCPCM": {
+            "First Lines": "\nqVen ihesu crist was don on rodeAnd \u00feolid dede al for us\n                    gode\u2026\n",
+            "Last Lines": "\n\u2026\u00deate \u00feai mai \u00feaim penance beteQuen \u00feat\n                    penance til ende of w[ ]\n",
+            "Note": "\nFragmentary.",
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 3.1148-93.\n",
+            "folio": "ff. 43rb-50vb"
+        },
+        "CollArmsAr57": {
+            "First Lines": "\nWhenne ihesu crist was done on rode& suffered deep for oure\n                    gode\u2026\n",
+            "Last Lines": "\n\u2026She lyued \u021deere but seuen & nyneSixty \u021deer\n                    & \u00fere bi taleffoure mone\u00fees & two wikes al\n                    hale\u00feat I bihet now haue I doneLady bi \u00fei sone in\n                    troneLet me so longe in \u00fei seruyse\u00deat I may come to\n                    paradiseAt myn endynge I preye to \u00feeIn tyme of nede my help\n                    \u00feou be\n",
+            "Attributed Title": "\nWho so desire\u00fe greet pardoun / Here of Oure lady assumpcioun (f.\n                        117va, rubric)",
+            "folio": "ff. 117va-122rb"
+        },
+        "GottingenTheo107": {
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 3.1148-93.\n",
+            "folio": "f. 134"
+        }
+    }
+}

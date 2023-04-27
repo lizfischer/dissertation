@@ -1,0 +1,43 @@
+{
+    "_id": 3164,
+    "_header": "London thou art of towns a per se",
+    "Author(s)": "William Dunbar (attrib.)",
+    "Title(s)": "To the City of London",
+    "Subjects": "eight-line",
+    "Versification": "\u2014 ababbcbc",
+    "_description": "To the City of London, attributed to William Dunbar \u2014 seven 8-line stanzas with refrain",
+    "_witnesses": {
+        "OxfBal354": {
+            "First Lines": "\nLondon thow art of townes a per seSoverayn of Cyties semlyest by\n                    sight\u2026\n",
+            "Last Lines": "\n\u2026A bove all mayres as master most worthyLondon \u00feou art\n                    the flowr of Cities all\n",
+            "Attributed Title": "\nA treatice of London (p. 418); Explicit \u00fee treatise of London made /\n                    at [Marshaa?] table whan he was mayre (p. 419",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.205-7.\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 199-201.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 100-2.\n\n",
+            "folio": "pp. 418-419"
+        },
+        "BLCottVitAXVI": {
+            "First Lines": "\nLondon thou art of Townes A per seSouerayn of Cities semeliest in sight\u2026\n",
+            "Last Lines": "\n\u2026aboue all Maires as Maister moost worthyLondon thou art the fflour of Cities all\n",
+            "Editions": "\n\nLaing,  David. \n             The Poems of William Dunbar.\n         2 vols. Edinburgh: Laing and Forbes, 1834; Supplement, 1865: 1.277-9.\nSmall,  John, Ae. James George Mackay,  George Powell McNeill,   and  Walter Gregor, eds.  \n             The Poems of William Dunbar.\n             5 pts. \n             Scottish Text Society\n         2, 4, 16, 21, 29. Edinburgh, 1884-93: 2.276-8.\nEyre-Todd,  George. \n             Mediaeval Scottish Poetry.\nAbbotsford Series of the Scottish Poets.\n         Glasgow: W. Hodge, 1892: 182-4.\nSchipper,  Jakob. \n             The Poems of William Dunbar.\n         Vienna: Kaiserliche Akademie der Wissenschaften, 1894: 88-90.\nSchipper,  Jakob,\n                        ed.  \n             The Poems of William Dunbar.\n             4 vols. \n             Denkschriften der kaiserlichen Akademie der Wissenschaften,\n                Philosophische-Historische Klasse\n         40/2; 40/4; 41/4; 42/4. Vienna, 1892-93: 1.87-90.\nBaildon,  Henry Bellyse. \n             The Poems of William Dunbar.\n         Cambridge: University Press, 1907: 36-8.\nArber,  Edward. \n             The Dunbar Anthology, 1401-1508.\n         London, New York: Frowde, 1901: 31-3.\nKingsford,  Charles Lethbridge. \n             Chronicles of London.\n         Oxford: Clarendon, 1905: 253-5.\nMacKenzie,  William Mackay. \n             The Poems of William Dunbar.\n         Edinburgh, 1932: 177-8.\n\n",
+            "folio": "f. 200-201"
+        },
+        "BLLan762": {
+            "folio": "f. 7v"
+        },
+        "Guildhall3313": {
+            "First Lines": "\nLondone thow art of Townys a per seSoverayn of Cytees semelyest In\n                    sygth\u2026\n",
+            "Last Lines": "\n\u2026Above all Mayrys as Mastyr most worthyLondon thow art the\n                    flower of Cytees all\n",
+            "Note": "\nIntroduced in chronicle,\u2018In the Crystmesse weke ffolowyng the\n                    Mayer had to dyner My lord Chanceler whom Accompanyed the fforenamyd Scottysh\n                    Ambassadour wyth Many othyr honourable Men In tyme of which dyner a Scottysh\n                    preyst Syttyng at oon of the syde tablys made thys Balade here vndyr\n                    ffoluyng\u2019 (f. 292v)",
+            "Attributed Title": "\nA Scottes Balad (left margin, by scribe, f. 292v)",
+            "Editions": "\n\nMackie,  Robert Laird. \n             King James IV of Scotland.\n         Edinburgh: Oliver and Boyd, 1958; repr. 1976. \nB\u00fchler,  Kurt. \n             \u201c\u2018London Thow Art the Flowre of Cytes All.\u2019\u201d \n             Review of English Studies\n         13 (1938): 1-9: 8-9.\n\n",
+            "folio": "ff. 292v-294"
+        },
+        "PierpontMA717": {
+            "First Lines": "\nLondon thow arte of townes Chefe of dygnyteAnd saverent of all\n                    Cytes semlyste in syght\u2026\n",
+            "Last Lines": "\n\u2026A bow all meyres ys moste wurthylondon \u00feu art the flowre\n                    of Cytes all\n",
+            "Note": "\nRemoved from Caxton\u2019s Cordiale, 1479, where probably originally\n                    flyleaves.",
+            "Attributed Title": "\nA balad made at london when my lorde prince Arthur was wed by a skotte\n                    hauyng muche money of dyuerse lordes for hys Indytyng (f. 1)",
+            "folio": "ff. 1-2v"
+        }
+    }
+}

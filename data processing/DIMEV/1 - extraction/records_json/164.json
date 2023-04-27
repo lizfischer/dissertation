@@ -1,0 +1,15 @@
+{
+    "_id": 164,
+    "_header": "A sour apple when it is hot",
+    "Subjects": "proverbs",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A proverbial couplet",
+    "_witnesses": {
+        "RylandsLat394": {
+            "Transcription": "\nA sowre appul whan it is hooteShytes out alle \u00feat he\n                    woote\n",
+            "Note": "\nTrans. \u2018Omne quod est in se calidum pomum cacat acre /\n                        Commitando locum non mutant poma saporem\u2019, which\n                    follows.",
+            "Editions": "\nPantin,  William A. \n             \u201cA Medieval Collection of Latin and English Proverbs\u2026from Rylands\n                Latin MS. 394.\u201d \n             Bulletin of the John Rylands Library\n         14 (1930): 81-114: 106.\n",
+            "folio": "f. 19"
+        }
+    }
+}

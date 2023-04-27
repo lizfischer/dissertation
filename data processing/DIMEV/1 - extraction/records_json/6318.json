@@ -1,0 +1,71 @@
+{
+    "_id": 6318,
+    "_header": "When holy kirk bigan newly",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "tales; John the apostle, saint",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "St. John and the Boy, a Narratio in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodSelSup52": {
+            "First Lines": "\nSant Ion the euangelyst dydTyll a \u021dong man \u00feat he luf\n                    kyd\u2026\n",
+            "Last Lines": "\n\u2026To \u00feis tempyll ihesu vs bryng& graunt vs all gud\n                    endyng\n",
+            "Note": "\nWith ten extra lines at the beginning.",
+            "folio": "ff. 183-185v"
+        },
+        "BodAsh42": {
+            "First Lines": "\nWhen halikirk beganne newlySaynte Ione was full\n                    bisy\u2026\n",
+            "Last Lines": "\n\u2026In \u00feat tempiles ihesu kyngeffor his mercye he \u00feidir\n                    vs bringe . Amen .\n",
+            "folio": "ff. 35v-38"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nWhon holi chirche bi gon newelySeint Ion was euere ful\n                    bisy\u2026\n",
+            "Last Lines": "\n\u2026In \u00feat Temple is Ihesu kyngffor his Merci he \u00feidere\n                    vs bring. Amen.\n",
+            "Attributed Title": "\nHou a bisschop myskepte seynt Iones child (f. 175va)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDie Evangelien-Geschichten der Homiliensammlung des Ms. Vernon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         57 (1877): 241-316: 252.\n",
+            "folio": "ff. 175va-176ra"
+        },
+        "CULAdd8335": {
+            "folio": "p. 57"
+        },
+        "CULDd11": {
+            "Note": "\nEnds imperfectly.",
+            "folio": "f. 64v"
+        },
+        "CULGg531": {
+            "folio": "f. 33v"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nQwen holy kyrke be gan newlySaint Iohn was traweland &\n                    besy\u2026\n",
+            "Last Lines": "\n\u2026In \u00feat temple es ieshu kyngeffor his mercy \u00feithir\n                    he vs brynge\n",
+            "folio": "ff. 33-35"
+        },
+        "BLHar2391": {
+            "First Lines": "\nWhen holy kyrk be gan nwlySayn Iohn was full besy\u2026\n",
+            "Last Lines": "\n\u2026In \u00fee tempull es Ihesu kyngffor hys mercy he \u021dedir vs bryng\n",
+            "Note": "\nEnds \u201cAmen.\u201d",
+            "Attributed Title": "\nDominica i post epiphaniam (left margin, f. 164), plus \u201cA tale\u201d written above this",
+            "folio": "ff. 164-166"
+        },
+        "EDCPCM": {
+            "First Lines": "\nquen hali kirc bigan newliSain Ion was sisel and\n                    bisi\u2026\n",
+            "Last Lines": "\n\u2026In \u00feat tempil es iesus kingFor his merci he \u00feider\n                    us bring\n",
+            "Editions": "\n\nSmall,  John,\n                        ed.  \n             English Metrical Homilies\u2026.\n         Edinburgh: W. Paterson, 1862: 112-18.\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n\n",
+            "folio": "ff. 26ra-30ra"
+        },
+        "Lam260": {
+            "folio": "f. 13vb"
+        },
+        "MinULZ822": {
+            "First Lines": "\nWhen haly kyrke be gane newlySaynt ion was traual wide &\n                    besy\u2026\n",
+            "Last Lines": "\n\u2026In \u00feat temple ys ihesu kyngefor hys mercy he \u00feidere\n                    vs brynge\n",
+            "folio": "ff. 7v-9v"
+        },
+        "HunHM129": {
+            "First Lines": "\nWhen holy cyrk be gan newlySeint Ion wos gerne and\n                    besy\u2026\n",
+            "Last Lines": "\n\u2026In \u00feat tempyll is ihesu kyngeffor his mercy he theddyre\n                    vs brynge\n",
+            "Note": "\nNo indication of new text at beginning; treated as part of 5347.",
+            "folio": "ff. 25v-27v"
+        }
+    }
+}

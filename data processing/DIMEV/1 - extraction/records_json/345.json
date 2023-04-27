@@ -1,0 +1,44 @@
+{
+    "_id": 345,
+    "_header": "All mankind turneth in wheel and that on wonder guise",
+    "Subjects": "Fortune, wheel of; mutability; translations; sermons, verse in",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Cambridge UK, St John\u2019s College F.22 (159): not in this MS.",
+    "_description": "A tag in the Fasciculus morum \u2014 one long couplet translating two Latin hexameters",
+    "_witnesses": {
+        "Bod187": {
+            "Transcription": "\nAl man kynde ys turnyd and wentAnd Pat yn wondyr gyseFor wennys\n                    hyt com a\u021den hyt wenteHyt abydyth yn noyn a fyse\n",
+            "Note": "\nWritten as a quatrain.",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 178.\n",
+            "folio": "f. 162ra"
+        },
+        "Bod410": {
+            "Transcription": "\nAl monkyn turnyein wele and \u00feat on wonder gyseffro when it\n                    come a\u021den it went to dwell on all wyse\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 40v"
+        },
+        "BodLauMis213": {
+            "Transcription": "\nAl mankynd turne\u00fe in weel and \u00feat oon wondere gisefor\n                    wheyne hit come a\u021den hit went to dwelle on al wise\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 59v"
+        },
+        "BodRawC670": {
+            "Transcription": "\nAll monkyn tornth in well and \u00feat on wonder gyseFor wethen hit\n                    come a\u021deyn hit wente to dwelle on all wyse\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 177.\n",
+            "folio": "f. 72v"
+        },
+        "EDU82": {
+            "Transcription": "\nAll man kynde torneth to wele & \u00feat on a wonder wyseffro\n                    whom hit cometh a \u021den hit weynth to dwelle on al wyse\n",
+            "folio": "f. 87v"
+        },
+        "Lincoln44": {
+            "Transcription": "\nAl mon kynde torne to wyl & \u00feat on a wonder wysefor when hit\n                    com\u00fe a \u021den hit weynit do to dwel on al wyse\n",
+            "folio": "f. 189ra"
+        },
+        "WorcF19": {
+            "Transcription": "\nAll mon kynne tornetgh in wele and i \u00feat on wonder gyseffor were\n                    \u00feat comen a gayn hit went to dwelle on alle wyse\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 109rb"
+        }
+    }
+}

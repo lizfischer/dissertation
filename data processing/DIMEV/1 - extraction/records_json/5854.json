@@ -1,0 +1,38 @@
+{
+    "_id": 5854,
+    "_header": "Thou that has cast three sixes here",
+    "Note": "Cf. More (1540)\nXMore, Sir Thomas. The Boke of the Fayre Gentylwoman\u2026Lady Fortune. London: Robert Wyer, 1540 (STC 18078.5), trans. of Le livre de passetemps de la Fortune des Dez.",
+    "Subjects": "divination; dice",
+    "Versification": "\u2014 four-line, two-line \u2014 aabb, aa",
+    "_description": "Divination by means of dice \u2014 in quatrains, one for each possible combination of three dice",
+    "_witnesses": {
+        "BLSl513": {
+            "First Lines": "\n\u00feu \u00feat hast y cast tre syses here\u00feu schalt haue\n                    \u00fey desere \u00feis same \u021dere\u2026\n",
+            "Last Lines": "\n\u2026he \u00feat sy\u021de trey & as ha\u00fe takeyn his\n                    workes wisily do\u00fe wake\u2026\n",
+            "Note": "\n74 lines only; ends with first two lines for combination\n                    6-3-1.",
+            "folio": "ff. 98v-99v"
+        },
+        "AbeUL123": {
+            "First Lines": "\nThow \u00feat has cast iij sixes hereShalt have \u00fey desyre\n                    \u00feis same \u021dere\u2026\n",
+            "Last Lines": "\n\u2026\u00feou canst \u00fey love as privily kepewy\u00fee hur\n                    byrdys when men hem seche\u2026\n",
+            "Note": "\n188 lines; ends incomplete.",
+            "Editions": "\nTweedie,  Michael G. \n             \u201cAn astrogalantic poem of the fifteenth century.\u201d \n         M.Litt thesis. University of Aberdeen, 1973. \n",
+            "folio": "ff. 149v-152v"
+        },
+        "YaleBei365": {
+            "First Lines": "\n\u2026Schall haue \u021dowre dessyer \u00feis same \u021derhold\n                    \u021dow stabyll and ware now\u021dt\u2026\n",
+            "Last Lines": "\n\u2026Be trew and trost in mary myldand sche wyll \u021dow fro\n                    schame schyld\u2026\n",
+            "Note": "\nFragment: 95 lines only, missing first line; ends with 5-5-3\n                    cast.",
+            "Editions": "\n\nSmith,  Lucy Toulmin,\n                        ed.  \n             A Commonplace Book of the Fifteenth Century.\n         Norwich: Kerrison, Goose, 1886: 15-18.\nSmith,  Lucy Toulmin,\n                        ed.  \n             \u201cNotes on A Common-Place Book of the Fifteenth Century with a Religious\n                Play of Abraham and Isaac.\u201d \n             The Norfolk Antiquarian Miscellany.\n            Walter Rye, ed. \n         3 vols. Norwich: Goose & Co, 1873-87: 3.115-67: 150-2.\n\n",
+            "folio": "ff. 2-3"
+        },
+        "BosPLMed100": {
+            "First Lines": "\n\u00deai \u00feat has castin iii sisses hereSal haue \u00fei\n                    dissire \u00feis sam yhereHald \u00fee stabil & wari \u00feou\n                    noghtfor \u00feou sal haue \u00fei dissir \u00feat is in \u00fei\n                    thoght\u2026\n",
+            "Last Lines": "\n\u2026\u00deou has casted thre acys on rawI rede \u00feou lar god\n                    to knaw& prai ihesu of his special graceat \u00feou myght se hym\n                    in his face\n",
+            "Note": "\nComplete: 224 lines written as 56 quatrains, with illustrations of the\n                    dice to right of each quatrain.",
+            "Facsimiles": "\nIves,  S. A. \n             \u201cAn Unpublished Piece of Medieval English Folklore.\u201d \n             Rare Books: Notes on the History of Old Books and\n                Manuscripts\u2026Together with Catalogue No. 22.\n            H. P. Kraus, ed. \n         (1942): 4 (facsim. of f. 84v).\n",
+            "Editions": "\nIves,  S. A. \n             \u201cAn Unpublished Piece of Medieval English Folklore.\u201d \n             Rare Books: Notes on the History of Old Books and\n                Manuscripts\u2026Together with Catalogue No. 22.\n            H. P. Kraus, ed. \n         (1942): 6-7 (first 10 quatrains only).\n",
+            "folio": "ff. 84v-87"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "_id": 951,
+    "_header": "By wit of man all thing that is contrived",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018A song of Iust Mesure\u2019",
+    "Subjects": "advice, moral; precepts; moderation",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, \u2018A song of Iust Mesure\u2019 \u2014 in 8-line stanzas with refrain, \u2018Nothyng commendyd but it in measure be\u2019",
+    "_witnesses": {
+        "BLAdd29729": {
+            "First Lines": "\nBy wytte of man A thyng that is contryvedstandyth in proporcion\n                    playnlye to conclude\u2026\n",
+            "Last Lines": "\n\u2026so as thow weyest be mercy or RygourThe same mesure shall be\n                    done to the\n",
+            "Note": "\n13 stanzas.",
+            "Attributed Author": "\nby Iohn lidgate (squeezed between last line and rubric title, f. 124; by\n                    scribe, Stow)",
+            "Attributed Title": "\nExplicit the songe of Iust mesure writen by Iohn stowe (in rubric below\n                    last line, f. 124; by scribe, Stow)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 772-5 (composite text, 13 stanzas).\n",
+            "folio": "ff. 123-124"
+        },
+        "BLHar2251": {
+            "First Lines": "\nBY witte of man al thyng that is contryvedStandith in proporcioun\n                    plainly to conclude\u2026\n",
+            "Last Lines": "\n\u2026So as thow weyest be mercy or RigoureThe mesure same shalbe\n                    don to the\n",
+            "Note": "\n10 stanzas.",
+            "Editions": "\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             A Selection from the Minor Poems of Don John Lydgate.\nPercy Society\n         2. London: T. Richard, 1840: 80-3.\n",
+            "folio": "ff. 27v-28v"
+        }
+    }
+}

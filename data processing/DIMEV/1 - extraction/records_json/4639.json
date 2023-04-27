@@ -1,0 +1,72 @@
+{
+    "_id": 4639,
+    "_header": "Saint John the Gospeller says us / That til his disciples said",
+    "Note": "For the version in the \u2018expanded\u2019 Cycle see 4648.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Whit Monday in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nSaynte Ione \u00fee gospellere saise vs\u00feat to his dissipils\n                    saide iesus\u2026\n",
+            "Last Lines": "\n\u2026He dredes more mannes sight\u00fean god \u00feat seis all his\n                    plightA gude tale here by lyes\u00feat i will tell \u021dou or i\n                    ryse\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 133-133v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Ion \u00fee gospiler sei\u00fe vs\u00deat to his disciples\n                    seide Ihesus\u2026\n",
+            "Last Lines": "\n\u2026He drede\u00fe more monnes siht\u00deen God \u00feat\n                    seo\u00fe al his synne riht\n",
+            "Attributed Title": "\nSicud deus dilexit mundum (f. 195rc)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 195rc-195va"
+        },
+        "BodEngPoetc3": {
+            "First Lines": "\nAeynt Iohn \u00fee go[ ] says vs\u00feat to \u00fee apostlis [ ]\n                    \u2026\n",
+            "Last Lines": "\n\u2026he dreds mar mans syght\u00fean god \u00feat sees all his\n                    plyght\n",
+            "Note": "\nDamaged, partly unreadable.",
+            "folio": "ff. 2rb-2va"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nSEynt Ione \u00fee gospellere sais vs\u00feat til his apostles\n                    saide ihesus\u2026\n",
+            "Last Lines": "\n\u2026ffor mans sight more dredes he\u00feen he dos god \u00feat al\n                    may se\n",
+            "Attributed Title": "\nfferia iia ebdomade pentecoste secundum Iohannem (p.\n                    216)",
+            "folio": "pp. 216-217"
+        },
+        "CULDd11": {
+            "First Lines": "\nSEynt Iohn \u00fee Gospellere seyth vs\u00feat to his disciplis\n                    seyde ihesusMi fader loui\u00fe \u00feis world so\u2026\n",
+            "Last Lines": "\n\u2026he dredi\u00fe mor mennes sight\u00dean god \u00feat\n                    see\u00fe al his plight\n",
+            "Attributed Title": "\nEuangelium secundum Iohannem. Sic deus dilexit mundum vt filium suum\n                        vnigenitum et cetera (f. 134v)",
+            "folio": "ff. 134v-135v"
+        },
+        "CULGg531": {
+            "First Lines": "\nSayne Iohn \u00fee a gospeller says vs\u00feat tyll hys disciples\n                    sayd ihesus\u2026\n",
+            "Last Lines": "\n\u2026He dredys mare mannes syght\u00fean goddes \u00feat sese all\n                    hys plyght\n",
+            "Attributed Title": "\n\u00feis es \u00fee gospell of wytsonun monunday (f.\n                    90v)",
+            "folio": "ff. 90v-91"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nSEint Ion \u00fee gospeler sei\u00fe vs\u00deat to his disciples\n                    seide Ihesus\u2026\n",
+            "Last Lines": "\n\u2026He drede\u00fe more monnes siht\u00deen god \u00feat\n                    seo\u00fe al hys synne riht\n",
+            "Attributed Title": "\nSic delixit mundum (f. 1vb)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 1vb-1vc"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nSaint Iohn \u00fee gospeller says vsThat to his dissiples said\n                    ihesus\u2026\n",
+            "Last Lines": "\n\u2026A gude tale here by lyesThat I will tell you or I\n                    rysse\n",
+            "folio": "ff. 95v-96"
+        },
+        "Lam260": {
+            "folio": "f. 40vb"
+        },
+        "MinULZ822": {
+            "First Lines": "\nSaynt Ion \u00fee gospellere says vs\u00feat to hys apposteles sayd\n                    Ihesusmy fader lufed \u00feis warlde swa\u2026\n",
+            "Last Lines": "\n\u2026he dredys mare mans syght\u00fean gode \u00feat sees all hys\n                    plyght\n",
+            "Attributed Title": "\nfferia secunda in ebdomada pentecoste Secundum Iohannem (f.\n                    99)",
+            "folio": "ff. 90v-100"
+        },
+        "HunHM129": {
+            "folio": "f. 113v"
+        }
+    }
+}

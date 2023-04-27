@@ -1,0 +1,25 @@
+{
+    "_id": 3212,
+    "_header": "Lord Jesu Christ in Trinity / Three persons in unity",
+    "Note": "For other texts which lack the Prologue see 1909.",
+    "Title(s)": "The Stacions of Rome",
+    "Subjects": "pilgrims/pilgrimage; geographical writings",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018The Stacions of Rome\u2019, in couplets, with a Prologue of 78 lines",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nLOrd Ihesu crist In Trinite\u00dereo persones In\n                    vnite\u2026\n",
+            "Last Lines": "\n\u2026Graunt vs part of \u00feis pardounAnd \u00feerto his\n                    Benisoun. Amen.\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Stacions of Rome.\nEETS\n         o.s. 25 (1867); repr. 1973: 1-24 (text).\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 609-11.\n\n",
+            "folio": "ff. 314rb-315vc"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nLOrd ihesu crist in Trinite\u00dereo persones in\n                    vnite\u2026\n",
+            "Last Lines": "\n\u2026Graunt vs part of \u00feis pardounAnd \u00feerto his benesoun\n                    Amen\n",
+            "Attributed Title": "\nHere bygynne\u00fee stacions of Ro / me (f. 123rb, rubric); Here\n                    ende\u00fe \u00fee staciouns of Rome (f. 124vb, rubric)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 123rb-124vb"
+        }
+    }
+}

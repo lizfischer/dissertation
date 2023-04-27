@@ -1,0 +1,15 @@
+{
+    "_id": 3556,
+    "_header": "Most noble prince our sovereign lord",
+    "Subjects": "pageant verses; occasional verse; Henry VII",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Pageant verses for Henry VII in A.D. 1486 at Bristol \u2014 three stanzas rhyme royal",
+    "_witnesses": {
+        "BLCottJulBXII": {
+            "First Lines": "\nMoost noble prynce and souueraigne hege lordeTo this poore towne of\n                    Bristow that is youre\u2026\n",
+            "Last Lines": "\n\u2026To withstonde thoo thing[is] that bee conturiousAnd to doo\n                    that may please god moost glorious\n",
+            "Note": "\nFolio number reflects the most recent foliation.",
+            "folio": "f. 19v"
+        }
+    }
+}

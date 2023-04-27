@@ -1,0 +1,18 @@
+{
+    "_id": 5720,
+    "_header": "This is the stone cut of the hill",
+    "Author(s)": "James Ryman",
+    "Title(s)": "The Prophecy of Emmanuel",
+    "Subjects": "carols, Nativity",
+    "Versification": "\u2014 six-line \u2014 ababbb",
+    "Macaronic": "Latin",
+    "_description": "James Ryman, The Prophecy of Emmanuel \u2014 six six-line stanzas (ababbb, including a 3-line refrain, \u2018Nomen eius emanuell / Scripture full welle to vs doth tell / Nomen eius emanuell\u2019, and burden: \u2018A chielde is borne with vs to dwell / Nomen eius emanuell\u2019",
+    "_witnesses": {
+        "CULEe112": {
+            "First Lines": "\nThis is the stone kut of the hilleThus seith the prophete\n                    Daniell\u2026\n",
+            "Last Lines": "\n\u2026Scripture full well to vs doth tellNomen eius\n                    Emanuell\n\n",
+            "Editions": "\n\nZupitza,  Julius,\n                        ed.  \n             \u201cDie Gedichte des Franziskaners Jacob Ryman.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         89 (1892): 167-338: 274-5.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 45; 1977, 37.\n\n",
+            "folio": "ff. 75v-76"
+        }
+    }
+}

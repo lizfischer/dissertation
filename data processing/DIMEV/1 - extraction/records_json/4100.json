@@ -1,0 +1,20 @@
+{
+    "_id": 4100,
+    "_header": "O worthy noble King Henry the fourth",
+    "Note": "Editions with unattrib. sources: Chalmers (1810)\nXChalmers, Alexander. The Works of the English Poets from Chaucer to Cowper. London, 1810; repr. New York: Greenwood, 1969, 1. 548-51; Wright (1859)\nXWright, Thomas. Political Poems and Songs relating to English History, composed during the period From the Accession of Edward III to that of Richard III. 2 vols. Rolls Series 14 (1859, 1861); repr. Kraus, 1965, 2.4-15; Skeat (1894)\nXSkeat, Walter William. The Complete Works of Geoffrey Chaucer. 7 vols. Oxford: Clarendon, 1894-7, 7.205-16; Macaulay (1900)\nXMacaulay, George Campbell. English Works of John Gower. 2 vols. EETS e.s. 81, 82 (1900, 1901); repr. 1978, 2.481-92.",
+    "Author(s)": "John Gower",
+    "Title(s)": "In Praise of Peace",
+    "Subjects": "political poems",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Gower, In Praise of Peace \u2014 fifty-five stanzas rhyme royal with an introductory seven lines in Latin",
+    "_witnesses": {
+        "BLAdd59495": {
+            "First Lines": "\nO wor\u00fei noble Kyng Henry \u00fee fer\u00feeIn whom \u00fee\n                    glade fortune is befalle\u2026\n",
+            "Last Lines": "\n\u2026Kep charite and draugh pite to hondeMaintene lawe and so\n                    \u00fee pes schal stonde\n",
+            "Note": "\nEighteenth-century transcript is London,  British Library Addit. 59496.",
+            "Attributed Author": "\nIohannes Gower composuit (f. 10v).",
+            "Editions": "\nForni,  Kathleen,\n                        ed.  \n             The Chaucerian\n                    Apocrypha: A Selection.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2005. \n",
+            "folio": "ff. 5-10v"
+        }
+    }
+}

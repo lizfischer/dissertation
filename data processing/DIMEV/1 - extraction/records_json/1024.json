@@ -1,0 +1,24 @@
+{
+    "_id": 1024,
+    "_header": "Criste qui lux es et dies",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 309.",
+    "Subjects": "Christ, attributes of; prayers",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "Macaronic": "Latin",
+    "_description": "A macaronic hymn \u2014 seven 8-line stanzas",
+    "_witnesses": {
+        "Banna": {
+            "First Lines": "\n\nChriste qui lux es et diesO Iesu chryst the verry\n                    licht\u2026\n",
+            "Last Lines": "\n\u2026That we thyne Endles Ioy may seIn sempiterna\n                    secula\n\n",
+            "Facsimiles": "\nFox,  Denton,  and  William A. Ringler.  \n             The Bannatyne Manuscript: National Library of Scotland Advocates\u2019\n                MS. 1.1.6\n         London: Scolar Press, in Association with The National Library of\n            Scotland, 1980. \n",
+            "Editions": "\n\nRitchie,  W. Tod,\n                        ed.  \n             The Bannatyne Manuscript.\n             4 parts in 4 vols. \n             Scottish Text Society\n         3rd ser. 5 (1928); n.s. 22 (1928); n.s. 23 (1930); n.s. 26 (1934)\n            Edinburgh and London: Blackwood, 1928-34; ed. by Ritchie et al: 1.21-3; 2.50-1.\nMurdoch,  James Barclay. \n             The Bannatyne Manuscript.\n             4 vols. in 11 parts, paged continuously. \n             Hunterian Club\n         16, 32, 40, 46, 50, 55-56, 64-67 Glasgow: Anderson, 1873-1896: 52-4.\n\n",
+            "folio": "ff. 21-21v"
+        },
+        "EDULaiii149": {
+            "First Lines": "\n\nCriste qui lux es et diesO Iesu Crist \u00fee verray\n                    lycht\u2026\n",
+            "Note": "\nEnd illegible.",
+            "Editions": "\nStevenson,  George. \n             Pieces from the Makculloch and the Gray MSS. together with The Chepman\n                and Myllar Prints.\nScottish Text Society\n         65. Edinburgh, 1918: 20-1.\n",
+            "folio": "f. 120v"
+        }
+    }
+}

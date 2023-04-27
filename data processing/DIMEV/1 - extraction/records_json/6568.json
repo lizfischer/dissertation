@@ -1,0 +1,19 @@
+{
+    "_id": 6568,
+    "_header": "Who that cometh to an house",
+    "Subjects": "advice",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "Advice to take what you can find or what you bring \u2014 one 6-line stanza accompanied with Latin",
+    "_witnesses": {
+        "Bod315": {
+            "Note": "\nOccurs with 1879, 2711, 4102, 6644; all\n                    originally copied from Cornwall,  olim Launceston Priory,  a wall inscription, no longer visible.",
+            "Editions": "\n\nRobbins,  Rossell Hope. \n             \u201cWall Verses at Launceston Priory.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         200 (1963): 338-43: 342.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 562.\n\n",
+            "folio": "f. 268"
+        },
+        "CamTCC1450": {
+            "Transcription": "\nhoo that comy\u021dt to an howseloke he be noo thynge\n                    dongerowseTo take soche as he fyndy\u021dtAnd yf he woll not do\n                    soReson a gree\u021dt there tooTo take suche as he\n                    bryngy\u021dt\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Babees Book, etc.\nEETS\n         o.s. 32 (1868); rev. ed.  Early English Meals and\n                Manners London: Tr\u00fcbner, 1876; repr. 1973: 35 (orig. ed.).\n",
+            "folio": "f. 47"
+        }
+    }
+}

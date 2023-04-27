@@ -1,0 +1,22 @@
+{
+    "_id": 4626,
+    "_header": "Saint John Gods darling dear",
+    "Note": "For the usual version see 4643.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the First Sunday after Easter in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 187vb"
+        },
+        "BLHar4196": {
+            "First Lines": "\nSaint Iohn goddes derling dereTels till vs on \u00feis manere\u2026\n",
+            "Last Lines": "\n\u2026And euer fend vs fro \u00fee fendeAnd wiss vnto welth at wende\n",
+            "Note": "\nPreceded by Latin, \u201cCum esset sero die illo & cetera.\u201d",
+            "Attributed Title": "\nDominica in octava pasche secundum Iohannem (rubric, f. 89va)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): II.187-193.\n",
+            "folio": "ff. 89va-90vb"
+        }
+    }
+}

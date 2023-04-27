@@ -1,0 +1,33 @@
+{
+    "_id": 390,
+    "_header": "All thing in kind desireth thing I-like",
+    "Note": "Ringler Jr. (1988)\nXRingler Jr., William A. Bibliography and Index of English Verse Printed 1476-1558. London: Mansell, 1988, TP 114.5.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Rime without Accord\u2019",
+    "Subjects": "evils of the time; lust",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, \u2018Rime without Accord\u2019 or \u2018On the Inconsistency of Men\u2019s Actions\u2019 \u2014 usually eleven 8-line stanzas with refrain",
+    "_witnesses": {
+        "BLHar2251": {
+            "First Lines": "\nAll thyng in kynde desirith thyng IlikeBut the contrary hatis euery\n                    thyng\u2026\n",
+            "Last Lines": "\n\u2026And bryng vs al to thyn enheritauncewith thi precious bloode\n                    as thow vs bought\n",
+            "Note": "\nEleven stanzas.",
+            "Editions": "\n\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             A Selection from the Minor Poems of Don John Lydgate.\nPercy Society\n         2. London: T. Richard, 1840: 2.55-8.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 792-4.\n\n",
+            "folio": "ff. 26-27"
+        },
+        "CamMagPep2553": {
+            "First Lines": "\nAll thyng in kynde desirith thyng I like\u2026\n",
+            "Note": "\nEight stanzas.",
+            "Editions": "\nCraigie,  William Alexander. \n             The Maitland Folio Manuscript, Containing Poems by Sir Richard\n                Maitland, Dunbar, Douglas, Henryson, and others.\n             2 vols. \n             Scottish Text Society\n         n.s. 7 (1919), 20 (1927); Edinburgh and London: Blackwood, 1919,\n            1927: 1.195-6.\n",
+            "folio": "p. 171"
+        },
+        "Banna": {
+            "First Lines": "\nThingis in kynd desyris thingis lykeBot discontrair haitis Every\n                    thing\u2026\n",
+            "Last Lines": "\n\u2026a wantoun hird and a weill rewlit flokIt may weill ryme bot\n                    it accordis nocht\n",
+            "Note": "\nStanzas 1-5, 8 in disarranged order, plus two more stanzas.",
+            "Facsimiles": "\nFox,  Denton,  and  William A. Ringler.  \n             The Bannatyne Manuscript: National Library of Scotland Advocates\u2019\n                MS. 1.1.6\n         London: Scolar Press, in Association with The National Library of\n            Scotland, 1980. \n",
+            "Editions": "\n\nMurdoch,  James Barclay. \n             The Bannatyne Manuscript.\n             4 vols. in 11 parts, paged continuously. \n             Hunterian Club\n         16, 32, 40, 46, 50, 55-56, 64-67 Glasgow: Anderson, 1873-1896: 217-19.\nRitchie,  W. Tod,\n                        ed.  \n             The Bannatyne Manuscript.\n             4 parts in 4 vols. \n             Scottish Text Society\n         3rd ser. 5 (1928); n.s. 22 (1928); n.s. 23 (1930); n.s. 26 (1934)\n            Edinburgh and London: Blackwood, 1928-34; ed. by Ritchie et al: 2.199-201.\n\n",
+            "folio": "ff. 79-79v"
+        }
+    }
+}

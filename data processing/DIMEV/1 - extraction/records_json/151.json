@@ -1,0 +1,38 @@
+{
+    "_id": 151,
+    "_header": "A Robin gentle Robin",
+    "Note": "In London, British Library Addit. 31922 eleven lines in three stanzas; in London, British Library Addit. 28636 and London, British Library Egerton 2711, attributed to Wyatt and expanded to five quatrains and burden; see Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 85.",
+    "Author(s)": "Thomas Wyatt",
+    "Subjects": "complaints, lovers\u2019; women, praise of; women, against",
+    "Versification": "\u2014 four-line",
+    "_description": "Women kind and unkind \u2014 eleven to twenty lines in quatrains, with refrain, \u201cA robin gentle Robin / tell me how thy leman doth / and thou shall know of mine.\u201d",
+    "_witnesses": {
+        "BLAdd17492": {
+            "First Lines": "\nMy ladye ys wnkynd pardyalas why is she sooshe lowes another\n                    Better then Iand yett she wyll say noo\u2026\n",
+            "Last Lines": "\n\u2026at others fyers thy self to warnand lett them warn wyth\n                    the\n",
+            "Note": "\nSecond occurrence in MS, four stanzas with refrain.",
+            "folio": "ff. 24-24v"
+        },
+        "BLAdd28636": {
+            "Note": "\nTranscript of London,  British Library Addit. 17492 [Devonshire].",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts, Besonders aus der Zeit Heinrichs\n                VIII.\u201d \n             Anglia\n         12 (1889): 225-72, 585-97: 272.\nFl\u00fcgel,  Ewald,\n                        ed.  \n             Neuenglisches Lesebuch.\n         1 Bd. Halle: Niemayer, 1895: 23.\n\n",
+            "folio": "f. 34"
+        },
+        "BLAdd31922": {
+            "First Lines": "\nA robyn gentyl robyn tel me how thy leman dothand thow shall know of myne\u2026\n",
+            "Last Lines": "\n\u2026In faith my lady louith me wellShe will change for no new\n",
+            "Note": "\n\u201cA robyn\u201d at end for repeat.",
+            "Attributed Author": "\nCornysh (f. 54)",
+            "Facsimiles": "\n\nFoxwell,  Agnes Kace. \n             The Poems of Sir Thomas Wiat.\n         London: University of London, 1933: 1.62 facing.\n\nDigital Facsimile of British Library Additional MS 31922.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=2&ref=Add_MS_31922. \n\n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts, Besonders aus der Zeit Heinrichs\n                VIII.\u201d \n             Anglia\n         12 (1889): 225-72, 585-97: 241-2.\nReese,  Gustave. \n             Music in the Renaissance.\n         New York: Norton, 1954: 770.\nStevens,  John,\n                        ed.  \n             Music and Poetry in the Early Tudor Court.\n         London: Methuen, 1961: 111, 405.\nStevens,  John,\n                        ed.  \n             Music at the Court of Henry VIII.\nMusica Britannica\n         18. London: Stainer and Bell, 1962: 38-9.\n\n",
+            "folio": "ff. 53v-54"
+        },
+        "BLEge2711": {
+            "First Lines": "\nMy lady is vnkynde pardealack whi is she so\u2026\n",
+            "Last Lines": "\n\u2026at other fires thy self to warmeand let them warme with the\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Egerton MS 2711.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Egerton_MS_2711. \n",
+            "Editions": "\n\nFoxwell,  Agnes Kace. \n             The Poems of Sir Thomas Wiat.\n         London: University of London, 1933: 1.106.\nPadelford,  Frederick Morgan. \n             Early Sixteenth Century Lyrics.\n         Boston and London: D.C. Heath, 1907: 10.\nTillyard,  Eustace,  and  Mandeville Wetenhall, eds.  \n             The Poetry of Sir Thomas Wyatt.\n         London: Chatto and Windus, 1929: 90.\n\n",
+            "folio": "f. 37v"
+        }
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "_id": 2392,
+    "_header": "If the stone is one",
+    "Author(s)": "John Trevisa; Ranulph Higden",
+    "Subjects": "inscriptions; chronicles, verse in; illustrations, verses accompanying; riddles",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Glasgow, Glasgow University Library Hunterian 83 (T.3.21): this is Brut Chronicle, not Trevisa; New York, Pierpont Morgan Library M875 [olim Helmingham Hall]: has only Trevisa\u2019s De Proprietatibus here, not Polychronicon.",
+    "_description": "Riddling couplets inscribed on a pillar, in John Trevisa\u2019s translation of Higden\u2019s Polychronicon (Book I, Cap. 24)",
+    "_witnesses": {
+        "CamStJohn204": {
+            "Transcription": "\n\u021dif \u00fee stone is oontelle what craft brou\u021dt hym\n                    vppon\u021dif meny stes telle where \u00feey ioyne attones\u00feis\n                    arche & piler is I founded & y sette vppon foure lyons\n",
+            "Editions": "\n\nBabington,  Churchill,  and  Joseph Rawson Lumby, eds.  \n             Polychronicon Ranulphi Higden Monachi Cestrensis.\n             9 vols. \n             Rolls Series\n         41 (1865-66; repr. Kraus, 1964): 1.227.\nM\u00e4tzner,  Edouard Adolf Ferdinand. \n             Altenglische Sprachproben, I: Poesie.\n         Berlin: Wiedmann, 1867: 2.364.\n\n",
+            "folio": "f. 49ra"
+        },
+        "BLCottTibDVII": {
+            "Transcription": "\n\u021cef \u00fee stoon ys oontel what craft brou\u021dt hym a\n                    pon\u00feef meny stonestel whar hy Iurne\u00fe at ones\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 22"
+        },
+        "BLHar1900": {
+            "Transcription": "\n\u021dif \u00fee stoon is oontelle what crafte brou\u021dt hym\n                    vppon\u021dif meny stonestelle where \u00feei ioyne\u00fe at\n                    ones\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 61v"
+        },
+        "BLSto95": {
+            "folio": ""
+        },
+        "BLAdd24194": {
+            "Transcription": "\n\u021dif \u00fee stoon is oontelle what craft brou\u021dte him\n                    vppon \u021dif meny stonestelle where \u00feei ioyne\u00fe\n                    attones\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 52ra"
+        },
+        "AbeUL21": {
+            "Transcription": "\n\u021dif \u00fee stoon is oon telle what craft brou\u021dt hym\n                    vppon\u021dif meny stones telle where \u00feai joyne\u00fe\n                    attones\n",
+            "folio": "f. 26rb"
+        },
+        "Schoyen194": {
+            "folio": ""
+        },
+        "HunHM28561": {
+            "Transcription": "\n\u021cif \u00fee stoon is oontelle what crafte brou\u021dt him\n                    vppon\u021cif meny stonestelle where \u00feei ioyne\u00fe at\n                    ones\n",
+            "Note": "\nWritten as prose; two couplets in this witness.",
+            "folio": "f. 59va"
+        }
+    }
+}

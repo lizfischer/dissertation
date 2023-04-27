@@ -1,0 +1,55 @@
+{
+    "_id": 4637,
+    "_header": "Saint John the good gospeller / Tells us as I said you here",
+    "Note": "For the version in the \u2018expanded\u2019 Cycle see 6361.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Twenty-first Sunday after Trinity in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Ion \u00fee gude gospellereTelle\u00fe \u00feat I schal sei\n                    ow here\u2026\n",
+            "Last Lines": "\n\u2026\u00feat may \u021de bi a tale here\u00feat falle\u00fe wel\n                    to vre matere\n",
+            "Attributed Title": "\nErat quidam Regulus cuius filius infirm (f.\n                    212rc)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 212rc-212vb"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nSEynt Ione \u00fee gode gospellereSais \u00feus in oure godspelle\n                    here\u2026\n",
+            "Last Lines": "\n\u2026\u00feat may we se by a tale here\u00feat acordes til\n                    \u00feis matere\n",
+            "Attributed Title": "\nDominica xxia post festum trinitatis secundum Iohannem (p.\n                    334)",
+            "folio": "pp. 334-337"
+        },
+        "CULDd11": {
+            "First Lines": "\nSEynt Iohn \u00fee good gospellereSeyth \u00feus in oure gospel\n                    hereA town was callid caphasnaumto whilk crist was wont to\n                    com\u2026\n",
+            "Last Lines": "\n\u2026& \u00feat may we seen be a tale here\u00feat acordip to\n                    \u00feis matere\n",
+            "Attributed Title": "\nDominica vicesima prima post festum sancte trinitatis. Euangelium\n                        secundum Iohannem (f. 203)",
+            "folio": "ff. 203-204"
+        },
+        "CULGg531": {
+            "First Lines": "\nSeynt Iohn \u00fee gospelerTelles vs als I sayd \u021dow\n                    are\u2026\n",
+            "Last Lines": "\n\u2026Haf mercy on oure soules allAnd late vs neuer in syn\n                    fall\n",
+            "Attributed Title": "\ndominica xxia post trinitatem Secundum Iohannem (f.\n                        146v)",
+            "folio": "ff. 146v-147v"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nSEint Ion \u00fee gospelereTelle\u00fe \u00feat I scal sei\n                    owhere\u2026\n",
+            "Last Lines": "\n\u2026\u00deat may \u021de bi a tale here\u00deat falle\u00fe wel\n                    to vre matere\n",
+            "Attributed Title": "\nErat quidam regulus cuius filius . inf . (f.\n                    16vb)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 16vb-16vc"
+        },
+        "Lam260": {
+            "folio": "f. 60va"
+        },
+        "MinULZ822": {
+            "First Lines": "\nSaynte Ihon \u00fee gud gospellereTelles \u00feat I sall say\n                    \u021dow hereIn oure gospell of to day\u2026\n",
+            "Last Lines": "\n\u2026\u00feat may \u021de se be a tale here\u00feat falles wele\n                    tyll oure matere\n",
+            "Attributed Title": "\nDominica xxia Secundum Johannem (f.\n                    175v)",
+            "folio": "ff. 175v-177"
+        },
+        "HunHM129": {
+            "folio": "f. 186v"
+        }
+    }
+}

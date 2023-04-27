@@ -1,0 +1,29 @@
+{
+    "_id": 3328,
+    "_header": "Maiden in the moor lay",
+    "Note": "Probably ends imperfectly; formerly 3891.",
+    "Subjects": "roundels; women; flowers; songs",
+    "Versification": "\u2014 seven-line \u2014 aabbaac",
+    "_description": "The Maid of the Moor \u2014 four rondel-type 7-line stanzas (aabbaac)",
+    "_witnesses": {
+        "BodRawD913": {
+            "First Lines": "\nMaiden in the mor layin the mor lay\u2026\n",
+            "Last Lines": "\n\u2026wat was hire bour\u00fee rede rose ante lilie\n                    flour\n",
+            "Note": "\nItem I (b); written as prose, ends imperfectly.",
+            "Editions": "\n\nMacray,  William D. \n             Catalogi Codicum Manuscriptorum Bibliothecae Bodleianae\u2026Pars V,\n                Ricardi Rawlinson Codicum classes [A-D]\u2026complectens.\n         5 vols. Oxford: Clarendon, 1862-1900: 6.137.\nHeuser,  Wilhelm. \n             \u201cFragmente von Unbekannten Spielmansliedern des 14. Jahrhunderts, aus\n                Ms. Rawl. D.913.\u201d \n             Angli\n         30 (1907): 173-9: 175.\nSisam,  Kenneth. \n             Fourteenth Century Verse and Prose.\n         Oxford: Clarendon, 1921: 167.\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 12-13.\nAuden,  Wystan Hugh,  and  Norman Holmes Pearson, eds.  \n             Poets of the English Language.\nViking Portable Library\n         vol. 1. New York, 1950: 1.26.\nKaiser,  Rolf,\n                        ed.  \n             Alt- und mittelenglische Anthologie.\n         Berlin, 1954; 3rd ed.; trans. as  Medieval English: a\n                Old English and Middle English Anthology Berlin West, 1958: 471.\nHughes,  Anselm,\n                        ed.  \n             The New Oxford History of Music. Volume 3: Ars Nova and the\n                Renaissance.\n         London, New York: Oxford UP, 1960: 3.119.\nSpeirs,  John. \n             Medieval English Poetry: the non-Chaucerian Tradition.\n         London: Faber, 1957: 62.\nDavies,  Reginald Thorne. \n             Medieval English Lyrics: a critical anthology.\n         London, 1963; Evanston, IL: Northwestern UP, 1964: 102.\nStevick,  Robert D.,\n                        ed.  \n             One Hundred Middle English Lyrics.\n         Indianapolis: Bobbs-Merrill, 1964: 60-1.\nOliver,  Raymond. \n             Poems Without Names: The English Lyric 1200-1500.\n         Berkeley, CA: University of California, 1970: 137-8.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 167-8.\nSilverstein,  Theodore,\n                        ed.  \n             Medieval English Lyrics.\n         York Medieval Texts. London: Edw. Arnold, 1971: 83-4.\nLuria,  Maxwell Sidney,  and  Richard L. Hoffman, eds.  \n             Middle English Lyrics.\n         New York: Norton, 1974: 128-9.\nDobson,  Eric John,  and  F. L. Harrison.  \n             Medieval English Songs.\n         New York: Cambridge UP, 1979: 188-9.\nSaupe,  Karen,\n                        ed.  \n             Middle English Marian\n                    Lyrics.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1998: 154-5; 269-70.\n\n",
+            "folio": "f. 1v"
+        },
+        "WorcF126": {
+            "First Lines": "\n\u2026\u00fee mayde bi wode lay\u2026\n",
+            "Last Lines": "\n\u2026\u00fee cold water of \u00fee well spryng\u2026\n",
+            "Note": "\nIntroduced by, \u2018videlicet karole\u2019; written as\n                    prosereference to this song in prose sermon, \u2018Viderunt reuolutum\n                        lapidem\u2019 \u2014 only these lines are given.",
+            "folio": "f. 145rb"
+        },
+        "DublinRepD11": {
+            "Transcription": "\nMayde yn the moore [l]ay\n",
+            "Note": "\nFirst line only; accompanies Latin.",
+            "Editions": "\n\nGreene,  Richard Leighton. \n             \u201c\u2018The Maid of the Moor\u2019 in the Red Book of Ossory.\u201d \n             Speculum\n         27 (1952): 504-6: 504.\nStemmler,  Theo. \n             Medieval English Love-Lyrics.\n         T\u00fcbingen: Niemeyer, 1970: 111, 21.\n\n",
+            "folio": "f. 71ra"
+        }
+    }
+}

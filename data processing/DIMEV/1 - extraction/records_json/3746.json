@@ -1,0 +1,23 @@
+{
+    "_id": 3746,
+    "_header": "Now harken every man both more and less",
+    "Note": "For other versions, see 3813, 3244, 5397, 5651, 6817.",
+    "Author(s)": "Augustine of Hippo",
+    "Subjects": "mass, virtues of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "St. Augustine on the Virtues of the Mass \u2014 fifteen couplets",
+    "_witnesses": {
+        "BodRawPoe118": {
+            "First Lines": "\nHere may euery man lern bo\u00fee more & lesseWhat mede it is\n                    to here well \u00fee messe \u2026\n",
+            "Last Lines": "\n\u2026Oure sauyour to se \u00feat we may com to \u00feat holy\n                    placeEuyrmore to se hym face to face\n",
+            "Note": "\n17 couplets.",
+            "folio": "f. 118v"
+        },
+        "CamTCC601": {
+            "First Lines": "\nNow herken euery man bothe more and lesseWhat mede ye receue to\n                    here your messe\u2026\n",
+            "Last Lines": "\n\u2026Now Ihesu lord for thy myghtThow graunt vs grace to here\n                    masse aryght\n",
+            "Attributed Title": "\nSeynt Austyne noteth howe the Angell of heuen declaryd to hym the Merytes\n                    of the Masse that men Receue in Heryng deuoutly a masse (f.\n                    214v)",
+            "folio": "f. 214v"
+        }
+    }
+}

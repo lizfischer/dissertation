@@ -1,0 +1,27 @@
+{
+    "_id": 238,
+    "_header": "After that this lither folk this maid thus I-slowe",
+    "Note": "Cf. 4532.",
+    "Title(s)": "South English Legendary",
+    "Subjects": "Agnes, saint, miracle of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A miracle of St. Agnes added to her Life in some MSS of the South English Legendary \u2014 in couplets",
+    "_witnesses": {
+        "OxfCCC431": {
+            "First Lines": "\nAfter \u00feat \u00feis lu\u00feer folk \u00feis maide \u00feus\n                    aslowehure kynesmen \u00feat hire louede were sori\n                    ynowe\u2026\n",
+            "Last Lines": "\n\u2026\u00deis was lo a fair miracle of S[eint] Agneis iwisNow god\n                    vs bringe to \u00feulke ioie \u00featte maide in is\n",
+            "Note": "\nPortion of text lost due to mutilation of leaves.",
+            "Attributed Title": "\nDe sancta Agnete secundo (f. 9v)",
+            "folio": "ff. 9v-10"
+        },
+        "CamCCC145": {
+            "First Lines": "\nAfter \u00feat \u00feis lu\u00feer folk \u00feis holy maide\n                    slouHure kynesmen \u00feat louede hure wel sori were\n                    Inou\u2026\n",
+            "Last Lines": "\n\u2026\u00deis was lo anair miracle of seint Anneis iwisNou god vs\n                    bringe to \u00feulke ioye \u00feat \u00feis maide Inne is\n",
+            "Editions": "\nD\u2019Evelyn,  Charlotte,  and  A. J. Mill, eds.  \n             The South English Legendary: Corpus Christi College Cambridge MS. 145\n                and British Museum MS. Harley 2277, with variants from Bodley MS. Ashmole 43 and\n                British Museum MS. Cotton Julius D.ix.\nEETS\n         o.s. 235 (1959), 236 (1956); repr. 1967: 33.\n",
+            "folio": "ff. 9-9v"
+        },
+        "Winches33": {
+            "folio": "f. 53v"
+        }
+    }
+}

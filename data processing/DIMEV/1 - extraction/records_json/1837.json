@@ -1,0 +1,29 @@
+{
+    "_id": 1837,
+    "_header": "He loses His might and waxeth wan",
+    "Subjects": "love, vicissitudes of; sermons, verse in; Christ, suffering of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Christ\u2019s suffering for humankind in a Latin sermon (by John Bromyard?), dominica in passione vel in die parasceue or Amore langueo \u2014 six lines in couplets",
+    "_witnesses": {
+        "OxfBal149": {
+            "Transcription": "\nHe lesus is myth and waxit wanHe syket as a sorfulmanAlone he\n                    drawes fro compenyeAnd ever he herkenes one ys drurieLoneliche he\n                    spekis to his herteFor hym he suffrus peynis smert\n",
+            "Editions": "\nWoolf,  Rosemary. \n             The English Religious Lyric in the Middle Ages.\n         Oxford: Clarendon, 1968: 192.\n",
+            "folio": "ff. 32v-33"
+        },
+        "OxfMagd93": {
+            "Transcription": "\nhe losys his myght and wexyth al wanhe syketh as a sorwfull\n                    manAllone he drawes fro companyand euer herkenes of his\n                    drewrylouely he spekes to his hertfor hym that suffred peynes\n                    smerty swete yn hert for mornyng\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 153-153v"
+        },
+        "CULKk424": {
+            "Transcription": "\nHe lost hys my\u021dth & wexit al wanhe sykyth as a sorwful\n                    manA lone he draweth fro companyeAnd euer he herkneth afftyr hys\n                    drewerylouelyche he spekyth to hys hertefor hym he suffreth paynes\n                    smerte\n",
+            "Note": "\nFollows 1367; phrases\n                    from this repeated in the Latin commentary, f. 146vb.",
+            "folio": "f. 145rb"
+        },
+        "TCD277": {
+            "Transcription": "\n\u2026losys hys myht & waxys wan\u2026syghys as a sorofull\n                    man\n",
+            "Note": "\nAdded interlinearly.",
+            "folio": "p. 191"
+        }
+    }
+}

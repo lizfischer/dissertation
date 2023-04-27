@@ -1,0 +1,54 @@
+{
+    "_id": 545,
+    "_header": "And thus may you hear",
+    "Author(s)": "Peter Langtoft",
+    "Title(s)": "Chronicle",
+    "Subjects": "Wallace, William; popular verses; chronicles, verse in",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "Bibliographic Ghosts": "Lincoln, Lincoln Cathedral Library: a ghost?: Deleted by Robbins and Cutler (1965)\nXRossell Hope Robbins, and John L. Cutler. Supplement to the Index of Middle English Verse. Lexington, Kentucky: University of Kentucky Press, 1965; Cambridge UK, Cambridge University Library Gg.1.1: not in this MS of Peter Langtoft\u2019s Chronicle, ff. 328v-345v; edition by Wright in 1839 erroneously applied to this MS in Brown and Robbins (1943)\nXCarleton Fairchild Brown, and Rossell Hope Robbins. The Index of Middle English Verse. New York: Printed for the Index Society by Columbia University Press, 1943; London, College of Arms, Arundel 14: not found in this copy of Peter Langtoft\u2019s Chronicle (ff. 133-147); London, Lambeth Palace Library 131: not in this MS.",
+    "_description": "Popular verses on Wallace inserted in Peter Langtoft\u2019s Chronicle \u2014 one 6-line stanza, or in Robert Mannyng of Brunne\u2019s \u2014 three stanzas",
+    "_witnesses": {
+        "BodFair24": {
+            "Note": "\nInserted in Peter Langtoft\u2019s Chronicle.",
+            "folio": ""
+        },
+        "BLCottJulAV": {
+            "Transcription": "\nAnd tus may you hereA ladde to lereto bigken in paisIt\n                    falles in his egheThat hackes ovre heghewit at Walays\n",
+            "Note": "\nInserted in Peter Langtoft\u2019s Chronicle; Wright\u2019s\n                    edition in 1839 erroneously applied to the ghost entry in Cambridge UK,  Cambridge University Library Gg.1.1\n                    in Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943.",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             The Political Songs of England.\nCamden Society\n         o.s. 6 (1839): 323.\nWright,  Thomas,\n                        ed.  \n             The Chronicle of Pierre de Langtoft, in French Verse, from the Earliest\n                Period to the Death of King Edward I.\n             2 vols. \n             Rolls Series\n         47 (1866-68): (ii) 364.\n\n",
+            "folio": "f. 168v"
+        },
+        "BLHar114": {
+            "Transcription": "\nAnd tus may you hereAi ladde to lereto biggen in paysIt\n                    falles in his eghe\u00feat hackes ouer hegheWitte at Walays\n",
+            "Note": "\nInserted in Peter Langtoft\u2019s Chronicle. Lines 3 and six\n                    written to right of coulpets of 1-2 and 4-5.",
+            "Editions": "\nWilson,  Richard Middlewood. \n             The Lost Literature of Medieval England.\n         London: Methuen, 1952: 211.\n",
+            "folio": "f. 158"
+        },
+        "BLRoy20Aii": {
+            "Transcription": "\nAnd thus may \u00feou hereA ladde to leereTo biggin in\n                    paysIt falles in his eghe\u00deat hagges ouer hegheWit at\n                    Walais\n",
+            "Note": "\nInserted in Peter Langtoft\u2019s Chronicle.",
+            "folio": "f. 145"
+        },
+        "BLRoy20Axi": {
+            "Transcription": "\nAnd \u00feus mai men here . A ladde te lere . to biggin in paisIt\n                    fallis in his i \u021de . \u00feat hakkis ouer hie . with \u00feat\n                    Waleis\n",
+            "Note": "\nSeveral verse lines per manuscript line. Inserted in Peter\n                    Langtoft\u2019s Chronicle.",
+            "folio": "f. 126"
+        },
+        "CollArmsAr61": {
+            "Transcription": "\nAnd \u00feus may you hereA ladde to lereTo bigken in paysIt\n                    falles in his eghe\u00deat hackes ouer hegheWit at Walays\n",
+            "Note": "\nInserted in Peter Langtoft\u2019s Chronicle. Written in\n                    three-line stanzas with a rhyming couplet and an offset tail rhyme.",
+            "folio": "f. 149"
+        },
+        "InnerTem5117": {
+            "Transcription": "\n\u00feer may men here a ladde fort lere to biggen in paysit fallis in\n                    his I\u021de \u00feat hewes ouer hie with \u00fee walays\n",
+            "Note": "\nRobert Mannyng of Brunne (see 3253): 12 lines.",
+            "Attributed Title": "\nCouwe de waleys (f. 191v, rubric, in margin)",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             The Political Songs of England.\nCamden Society\n         o.s. 6 (1839): 323, 399.\nHearne,  Thomas,\n                        ed.  \n             Peter Langtoft\u2019s Chronicle: as illustrated and improv\u2019d by\n                Robert of Brunne, from the death of Cadwalader to the end of K. Edward the\n                First\u2019s reign.\n         Oxford : Printed at the Theater, [London: Reprinted for S. Bagster, in\n            the Strand], 1810: 330.\nSullens,  Idelle,\n                        ed.  \n             Robert Mannyng of Brunne: The Chronicle.\n         Binghamton, NY: Medieval & Renaissance Texts & Studies, 1996: 685.\n\n",
+            "folio": "f. 191v"
+        },
+        "BNfr12154": {
+            "Note": "\nInserted in Peter Langtoft\u2019s Chronicle.",
+            "folio": ""
+        }
+    }
+}

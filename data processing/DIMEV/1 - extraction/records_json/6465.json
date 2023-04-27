@@ -1,0 +1,22 @@
+{
+    "_id": 6465,
+    "_header": "When thou art at Rome",
+    "Subjects": "aphorisms; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Verses exhorting reader to conform to his surroundings \u2014 two couplets translating \u2018Cum fueris Rome\u2026\u2019",
+    "_witnesses": {
+        "BodRawD328": {
+            "Transcription": "\nWhan tho herd dome romedo so of ther \u00fee domewhen \u00feu\n                    herd hels waredo of ther as \u00fee dothe thare\n",
+            "Note": "\nTranslating \u2018Cum fueris Rome\u2026\u2019, which precedes\n                    7 lines above; English written as prose at bottom of page.",
+            "Editions": "\nMeech,  Sanford Brown. \n             \u201cA Collection of Proverbs in Rawlinson MS D 328.\u201d \n             Modern Philology\n         38 (1940-41): 113-32: 122.\n",
+            "folio": "f. 142v"
+        },
+        "OxfBal354": {
+            "Transcription": "\nWhan thou art at Romedo after the domeAnd whan \u00feout art els\n                    wherdo as they do ther\n",
+            "Note": "\nTranslating \u2018Cum fueris Rome\u2026\u2019, which follows\n                    immediately; both written as prose.",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 202.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 130.\nTilley,  Morris Palmer. \n             A Dictionary of the Proverbs in England in the 16th and 17th\n                Centuries.\n         Ann Arbor, MI: University of Michigan, 1950: 575.\n\n",
+            "folio": "p. 4192"
+        }
+    }
+}

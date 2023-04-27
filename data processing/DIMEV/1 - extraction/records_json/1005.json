@@ -1,0 +1,26 @@
+{
+    "_id": 1005,
+    "_header": "Christ that art both day and light",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Criste qui lux es et dies\u2019",
+    "Subjects": "Christ, attributes of; hymns, to Christ; paraphrases",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "Macaronic": "Latin",
+    "_description": "John Lydgate\u2019s version of the hymn \u2018Criste qui lux es et dies\u2019 \u2014 seven 8-line stanzas with Latin cauda as headings to each stanza",
+    "_witnesses": {
+        "CamTCC600": {
+            "First Lines": "\nCryst \u00feat art boo\u00fee daye and lightAnd soo\u00feefaaste\n                    sonne of al gladnesse\u00deat doost awey derknesse of nightAnd\n                    souereyne light of al brightnesse\u2026\n",
+            "Last Lines": "\n\u2026for which wee sing in Ioye and woodeo patri sit\n                    gloria\n",
+            "Attributed Author": "\nby Lydegate (f. 195)",
+            "Attributed Title": "\nBeholde\u00fee here and see\u00fee \u00fee translacion of \u00fee ympne\n                        Criste qui lux es & dies by Lydegate in wyse of balade (p. 195);\n                        Criste qui lux es & dies made by Lidegate (RT)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 235-7.\n",
+            "folio": "pp. 195-197"
+        },
+        "BLHar2251": {
+            "First Lines": "\nCRist that art both day and lightAnd sothfast sonne of al\n                    gladnesse\u2026\n",
+            "Last Lines": "\n\u2026Bien thre and oon per seculaffor whiche we synge In Ioye and\n                    wooDeo patri sit gloria\n",
+            "Attributed Title": "\nCriste qui lux es et dies (f. 235v, margin)",
+            "folio": "ff. 235v-236"
+        }
+    }
+}

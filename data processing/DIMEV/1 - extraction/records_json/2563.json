@@ -1,0 +1,68 @@
+{
+    "_id": 2563,
+    "_header": "In our gospel says Matthew / That Christs deeds til us will show",
+    "Note": "For the text in the \u2018expanded\u2019 Cycle see 6360",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Nineteenth Sunday after Trinity, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nIN vre gospel sei\u00fe Matheu\u00deat mony of cristes dedes\n                    kneu\u2026\n",
+            "Last Lines": "\n\u2026And aftur in helle wi\u00fe \u00fee fende\u00feer \u00feei\n                    schul dwelle wi\u00fe outen ende\n",
+            "Attributed Title": "\nAscendens Ihesu in nauiculam transfre (f.\n                    210va)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 210va-210vc"
+        },
+        "BodAsh42": {
+            "First Lines": "\nIN oure gospell of saynte mathewe\u00feat cristes dedes will vs\n                    schewe\u2026\n",
+            "Last Lines": "\n\u2026\u00feat may i schew \u021dow be a tale\u00feat i to \u021dow\n                    now tell sale\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 206v-210v"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nSEynt Matheu sais in oure godspelleAls I \u021dowe wille on\n                    englisch telle\u2026\n",
+            "Last Lines": "\n\u2026\u00deat may we se by \u00feis tale\u00deat I til \u021dowe\n                    nowe telle sale\n",
+            "Attributed Title": "\nDominica xixapost festum trinitatis secundum Mathium (p.\n                    316)",
+            "folio": "pp. 316-323"
+        },
+        "CULDd11": {
+            "First Lines": "\n\u2026In \u00feis schip passid crist \u00fee se& com in to his\n                    owne cyte\u2026\n",
+            "Last Lines": "\n\u2026& \u00feat may we seen be \u00feis tale\u00deat I to\n                    \u021dow now tellin schale\n",
+            "Note": "\nLines 1-54 wanting (f. 196 missing).",
+            "folio": "ff. 197-198v"
+        },
+        "CULGg531": {
+            "First Lines": "\nIn oure gospell says mathew\u00feat crystes dedys tyll vs wyll\n                    schew\u2026\n",
+            "Last Lines": "\n\u2026\u00feat may \u021de he[r] by a tale\u00feat I right now tell\n                    sale\n",
+            "Attributed Title": "\ndominica xixma secundum Matheum (f. 136v,\n                    followed by two lines Latin scripture)",
+            "folio": "ff. 136v-140"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nIN vre gospel say seint Matheu\u00deat Mony of cristes dedes\n                    knew\u2026\n",
+            "Last Lines": "\n\u2026And aftur in helle with \u00fee fende\u00deere \u00feei schul\n                    dwelle withouten ende\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 14vc-15rc"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nIn owre gospell says saynte mathewe\u00deat crist dedes to ws wyll\n                    schewe\u2026\n",
+            "Last Lines": "\n\u2026\u00deat I may schew \u021dow by a tayll\u00deat I to\n                    \u021dow now tell sall\n",
+            "folio": "ff. 166v-170v"
+        },
+        "Lam260": {
+            "folio": "f. 58ra"
+        },
+        "MinULZ822": {
+            "First Lines": "\nIN oure gospell says sant Mathew\u00feat many of crystes dedes\n                    knewe\u2026\n",
+            "Last Lines": "\n\u2026\u00feat may \u021de se be a tale\u00feat I now tell \u021dow\n                    sall\n",
+            "Attributed Title": "\nDominica xix Secundum Matheum (f. 167v)",
+            "folio": "ff. 167v-170v"
+        },
+        "HunHM129": {
+            "First Lines": "\nIn oure gospell said mathew\u00deat many off cristys dedis\n                    knew\u2026\n",
+            "Last Lines": "\n\u2026\u00deat may \u021de se by a tale\u00deat ryght now I tell\n                    schalle\n",
+            "Attributed Title": "\nDominica undevicesima post festum trinitatis (f.\n                    176v)",
+            "folio": "ff. 176v-179v"
+        }
+    }
+}

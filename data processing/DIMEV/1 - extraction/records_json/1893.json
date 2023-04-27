@@ -1,0 +1,35 @@
+{
+    "_id": 1893,
+    "_header": "He that oweth much and hath nought / and spendeth much and getteth nought",
+    "Note": "Cf. 1892, 2217, 5597; cf. Tilley (1950)\nXTilley, Morris Palmer. A Dictionary of the Proverbs in England in the 16th and 17th Centuries. Ann Arbor, MI: University of Michigan, 1950, M 1275.",
+    "Subjects": "proverbs; money",
+    "Versification": "\u2014 four-line, two-line \u2014 aaaa, aa",
+    "_description": "Proverbial rhymes on \u2018Nought\u2019 \u2014 two quatrains and a couplet",
+    "_witnesses": {
+        "OxfBal354": {
+            "First Lines": "\nHe \u00feat owith mych & hath nowght& spendith mych &\n                    gettith nowght\u2026\n",
+            "Last Lines": "\n\u2026He \u00feat will venge euery wreth\u00dee longer he levith\n                    \u00fee lesse he hath\n",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 220.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 140.\n\n",
+            "folio": "p. 436"
+        },
+        "OxfCCC237": {
+            "Transcription": "\nHe that spendes myche & getes nothyngAnd owthe myche & hathe\n                    nothyngAnd Lokes in his porse & fyndes nothynghe may be sorye And\n                    saue nothyng\n",
+            "Note": "\nFirst quatrain only in this MS.",
+            "Attributed Author": "\nQuothe R L S(?) (f. i)",
+            "Editions": "\n\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 81.\nLuria,  Maxwell Sidney,  and  Richard L. Hoffman, eds.  \n             Middle English Lyrics.\n         New York: Norton, 1974: 118.\n\n",
+            "folio": "f. i"
+        },
+        "BLHar2252": {
+            "Transcription": "\nHe \u00feat spendes myche And getythe nowghteAnd oweth myche And\n                    hathe nowghteAnd lokys in hys purse And fynde nowghteHe may be sory\n                    Thowe he seythe nowghte\n",
+            "Note": "\nFirst stanza.",
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.316.\nPatterson,  Frank A. \n             \u201cShakspeare and the Medieval Lyric.\u201d \n             Shakesperian Studies by Members of the Department of English And\n                Comparative Literature in Columbia University.\n            B. Matthews,\n                              and  A. H. Thorndike,\n                            eds. \n         New York: Columbia University Press, 1916. 431-52: 450.\nTilley,  Morris Palmer. \n             A Dictionary of the Proverbs in England in the 16th and 17th\n                Centuries.\n         Ann Arbor, MI: University of Michigan, 1950: 483.\n\n",
+            "folio": "f. 2r1"
+        },
+        "BodLye34": {
+            "Transcription": "\nHe that spendyth muche & getyth noghthe that borwith much &\n                    haueth nohthe may be sory in hert & sey nouht\n",
+            "Note": "\n3 lines only.",
+            "folio": "back cover"
+        }
+    }
+}

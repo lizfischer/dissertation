@@ -1,0 +1,290 @@
+{
+    "_id": 6711,
+    "_header": "Wit ye not where there stands a little town",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Manciple\u2019s Prologue; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; wine; contest",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the Manciple\u2019s Prologue of the Canterbury Tales \u2014 104 lines in rhyming couplets.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nWEte ye nought where stondith a litel tounwhiche that cleped is\n                    bobbe vp & doun\u2026\n",
+            "Last Lines": "\n\u2026tell on thi tale Maunciple I the praywel quod he herkeneth\n                    what I say\n",
+            "Attributed Title": "\n\u2026And next folwyng bigineth the Maunciple (f. 262); the Maunciple\n                    (RT); Here endith the Maunciple his prolog\u2026 (f. 263v)",
+            "folio": "ff. 262-263v"
+        },
+        "BodBar20": {
+            "First Lines": "\nWOte \u021de not where stant a lytul tounwiche \u00feat is clepid\n                    bob vp & doun\u2026\n",
+            "Last Lines": "\n\u2026Telle on \u00fey tale \u00feou manciple I the prayWel sir\n                    quod he now herkenyth what I saye\n",
+            "Note": "\nIX.25-6 reversed.",
+            "Attributed Title": "\n\u2026and / here begynnyth \u00fee prologe of \u00fee Maunciple (f. 255);\n                    here endith \u00fee prologe\u2026 (f. 256v)",
+            "folio": "ff. 255-256v"
+        },
+        "Bod414": {
+            "First Lines": "\n[W]Ote ye not wher \u00feere stant a litle townWhich that clepid is\n                    Bobupandoun\u2026\n",
+            "Last Lines": "\n\u2026Telle on thy tale Manciple I thee preyWel sir coth he now\n                    herkneth what I sey\n",
+            "Attributed Title": "\nThe Maunciples prolog (f. 180)",
+            "folio": "ff. 180-181"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nWote ye not where stondeth a litel towneWhich is cleped bob vp and\n                    downe\u2026\n",
+            "Last Lines": "\n\u2026Tel on \u00feou maunciple I the prayWele sir quod he\n                    herkeneth what I say\n",
+            "Attributed Title": "\n\u2026And next begynneth / \u00fee Prolog of the Maunciple (f. 224); The\n                    Maunciple (RT); Here endeth the Prologg of the Maunciple\u2026 (f.\n                        225v)",
+            "folio": "ff. 224-225v"
+        },
+        "BodLauMis600": {
+            "First Lines": "\n\u2026Of me certain \u00feou shalt not ben glosidSe how he\n                    ganu\u00fe loo \u00feis dronke wight\u2026\n",
+            "Last Lines": "\n\u2026Tel on \u00feou maunciple I \u00fee praieWel sir quod he now\n                    herken what I saye\n",
+            "Note": "\nIX.1-33 lost.",
+            "Attributed Title": "\n\u00fee maunciple (RT); Here ende\u00fe \u00fee prolog of \u00fee\n                    maunciple\u2026 (f. 264v)",
+            "folio": "ff. 264-264v"
+        },
+        "BodRawPoe141": {
+            "First Lines": "\n\u2026Al though hit be not worth a botel hayAwake thou Coke god\n                    gif the sorewe\u2026\n",
+            "Last Lines": "\n\u2026Telle on thou maunciple I the preyWel sire quod he herkeneth\n                    what I say\n",
+            "Note": "\nIX.1-13 lost.",
+            "Attributed Title": "\nThe Mauncyple (RT)",
+            "folio": "ff. 156-157"
+        },
+        "BodRawPoe149": {
+            "First Lines": "\nWete ye not where ther stante a litil tounwhich that cleped is\n                    bobvp and doun\u2026\n",
+            "Last Lines": "\n\u2026tel on thi tale maunsiple I the preyWel quod he now herkenyth\n                    what I say\n",
+            "Attributed Title": "\n\u2026and / here begynneth the maunciples prolog (f. 119); prolog mansiple\n                    (f. 119, margin)",
+            "folio": "ff. 119-119v"
+        },
+        "BodRawPoe223": {
+            "First Lines": "\nWote ye not where ther stont a litel tounWhich that clepid is Bobbe\n                    vp and doun\u2026\n",
+            "Last Lines": "\n\u2026Telle on Manciple I they preyWel sir quod he now\n                    herkeneth what I sey\n",
+            "Attributed Title": "\n\u2026And here beginneth the Manciples Prolog (f. 175); Manciple (RT);\n                    Here endith the Prolog of the Manciple\u2026 (f. 176v)",
+            "folio": "ff. 175-176v"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nWOot ye nat where there stante a litel tounWhiche that cleped is\n                    Bobbe vp & down\u2026\n",
+            "Last Lines": "\n\u2026Telle on thy tale Manciple I the preyWel sire quod he now\n                    herkeneth what I sey\n",
+            "Note": "\nIX.64 inserted interlinearly.",
+            "Attributed Title": "\n\u2026And folowith the prologe of the Maunciples tale (f. 174);\n                        Explicit prohemium\u2026 (f. 175)",
+            "folio": "ff. 174-175"
+        },
+        "OxfCCC198": {
+            "First Lines": "\nWot \u021de not wher \u00feer stant a litel tounWhich \u00feat is\n                    cleped Bobbe vp and doun\u2026\n",
+            "Last Lines": "\n\u2026Tel on \u00fei tale \u00feou maunciple I \u00fee preyeWel\n                    sire quod he now herkene\u00fe what I seye\n",
+            "Attributed Title": "\n\u2026Here folwe\u00fe \u00fee Prologe of \u00fee maun / ciples tale (f.\n                    256); Camxxiijm (f. 256, margin); Prologus (RT,\n                    rubric); Explicit prologus\u2026 (f. 257v, margin)",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "ff. 256-257v"
+        },
+        "OxfNew314": {
+            "First Lines": "\nWoot ye not where \u00feer stondith a litil tounWhiche that is\n                    clepid Bob vp and doun\u2026\n",
+            "Last Lines": "\n\u2026Tel on thi tale thou mauncipil I the preyWel sere quod he\n                    herkenyth what I say\n",
+            "Attributed Title": "\nHere begynneth \u00fee Mauncipelis Prolog (f. 259); Here endith \u00fee\n                    Maunciplis prolog\u2026 (f. 260v)",
+            "folio": "ff. 259-260v"
+        },
+        "CULGg427": {
+            "First Lines": "\nWOte \u021de not where there stant alityl tounWhich that I clepid\n                    is Bobbe vp & doun\u2026\n",
+            "Last Lines": "\n\u2026Telle on thyn tale manciple I the preyeWeel sere quod he\n                    herkenyth what I schal seye\n",
+            "Attributed Title": "\n\u2026Hereyth the merye wordys of the Host to the cok of Lundene (f.\n                        393v)",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "Editions": "\nFurnivall,  Frederick James. \n             The Cambridge MS (University Library, Gg.4.27) of Chaucer\u2019s\n                Canterbury Tales.\nChaucer Society\n         Series 1, nos. 4, 10, 17, 28, 33, 40, 52, 66. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 393v-394v"
+        },
+        "CULIi326": {
+            "First Lines": "\nWote ye not where stondeth a litle townWhich that is cleped bob vp\n                    and doun\u2026\n",
+            "Last Lines": "\n\u2026Tell on thy tale Maunciple I the prayWele sir quod he\n                    herkenyth what I shall say\n",
+            "Note": "\nIX.5, 85 omitted.",
+            "Attributed Title": "\n\u2026And here begynneth the maunciples prologe (f. 219); Prologe (RT);\n                    Here endeth the maunciples prologe\u2026 (f. 220)",
+            "folio": "ff. 219-220"
+        },
+        "CULMm25": {
+            "First Lines": "\nWote \u021de not where stondeth a litill townWhich \u00feat is\n                    cleped bob up and down\u2026\n",
+            "Last Lines": "\n\u2026Tell on \u00feou maunciple I \u00fee preyeWele sir quod he\n                    nowe herkenyth what I seye\n",
+            "Note": "\nIX.47-52 omitted.",
+            "Attributed Title": "\nHere edneth Chaucers tale of Meloby & prudence / Here begynneth the\n                    prologe of the Maunciple (f. 217v); \u00fee prologe of \u00fee\n                    maunciple (RT); Thus endith \u00fee prologe\u2026 (f.\n                    218v)",
+            "folio": "ff. 217v-218v"
+        },
+        "CamFitzMc181": {
+            "Transcription": "\nWOte ye not wher ys a TounThat me calleth bob up and dounThere\n                    our oste spake now lete se with \u00fee bestWho schal tell as meryly as\n                    hath \u00fee presteCome nere Mauncypull and tell a tale hereAlle Redy\n                    oste quoth he with gode chereBut have me excused ful sympully y kanAnd\n                    with a glad chere his tale he bygan\n",
+            "Note": "\nIX.3-104 omitted; six spurious lines follow IX.2 (see\n                    above).",
+            "Attributed Title": "\n\u2026The prolog of the Mauncypal (f. 263)",
+            "folio": "f. 263"
+        },
+        "CamTCC582": {
+            "First Lines": "\nUot ye not where stant a litill tounWich that is cleped Bobbe vp\n                    and doun\u2026\n",
+            "Last Lines": "\n\u2026Tel on thou Mancipill I the preyeWel sir quod he now\n                    herkeneth what I say\n",
+            "Attributed Title": "\n\u2026And hiere beginneth a Prolog of the Manciple (f.\n                    85rb)",
+            "folio": "ff. 85rb-85vb"
+        },
+        "CamTCC595": {
+            "First Lines": "\nWOte ye not where stondith a litil tounWhiche is called bob vp and\n                    doun\u2026\n",
+            "Last Lines": "\n\u2026Tel on thy tale thou maunciple I the preyWelle sir quod he\n                    herkeneth whate I sey\n",
+            "Attributed Title": "\nHere begynneth the Maunciples Prologe (f. 271); Here endith the mauncipiles\n                    prologe\u2026 (f. 272)",
+            "folio": "ff. 271-272v"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nWOt ye nat wher ther stant a litel tounwhich I cleped is Bobbe\n                        vp and doun\u2026\n",
+            "Last Lines": "\n\u2026Telle on thi tale maunciple I the preyeWel sire quod he nowe\n                    herkeneth what I seye\n",
+            "Attributed Title": "\n\u2026Incipit Prologus Mancipij (f. 309); Mancyple (RT);\n                        Explicit prologus mancipij\u2026 (f. 311)",
+            "folio": "ff. 309-311"
+        },
+        "BLAdd35286": {
+            "First Lines": "\nWoot ye nat where ther stant a litel tounWhich that I cleped is\n                    Bobbe vp and doun\u2026\n",
+            "Last Lines": "\n\u2026Telle on thi tale maunciple I the preyeWel syr quod he now\n                    herkeneth what I seye\n",
+            "Attributed Title": "\n\u2026Here bigynneth the prologe of the maunciples tale (f.\n                        209v); the Maunciple (RT); Here endeth the prologe of the\n                    maunciple\u2026 (f. 210)",
+            "Editions": "\nHorobin,  Simon. \n             \u201cA Transcription and Study of British Library MS Additional 35286 of\n                Chaucer\u2019s Canterbury Tales.\u201d \n         Diss. Univ. of Sheffield, 1997. \n",
+            "folio": "ff. 209v-210"
+        },
+        "BLEge2726": {
+            "First Lines": "\nWot ye nat where \u00feere stant a litle tounWhich \u00feat clepd\n                    is bob vp and doun\u2026\n",
+            "Last Lines": "\n\u2026Tell on thy tale Maunciplie I the preyWele sir koth he now\n                    herken what I sey\n",
+            "Attributed Title": "\n\u2026et incipit prologus Mancipuly (f. 236); Hic desinit\n                        prologus Mancipij\u2026 (f. 236v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 236-237v"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[W]ot ye nat where there stant a litel tonWhich I cleped is Bobbe\n                    vp and don\u2026\n",
+            "Last Lines": "\n\u2026Tel on thi tale manciple I the prayeWeel sire quod he now\n                    herkeneth what I seye\n",
+            "Attributed Title": "\nIncipit prologus Mancipij (f. 253v); The tale of the\n                    Manciple (RT)",
+            "folio": "ff. 253v-255"
+        },
+        "BLHar1758": {
+            "First Lines": "\nWOte ye not where stont a litell towneWhiche that is clepid Bob vp\n                    & downe\u2026\n",
+            "Last Lines": "\n\u2026Tell on thou Manciple I the preieSir quod he now herkenyth\n                    what I seie\n",
+            "Attributed Title": "\nHere begynneth the Prolog of the Manciples tale (f. 200); The Manciple\n                    (RT); Here endith the Prolog\u2026 (f. 201)",
+            "folio": "ff. 200-201"
+        },
+        "BLHar7333": {
+            "First Lines": "\nWot ye not wher \u00feer stant a litle tounewhiche that I clepid is\n                    bobbe vp & doun\u2026\n",
+            "Last Lines": "\n\u2026Tel on thi tale maunciple I \u00fee prayWel sir quod he\n                    harkenith what I shall say\n",
+            "Attributed Title": "\n\u2026The mery wordes of \u00fee hoste to \u00fee cook of / londoun (f.\n                        114va)",
+            "folio": "ff. 114va-115ra"
+        },
+        "BLHar7334": {
+            "First Lines": "\nWOt \u021de not wher \u00feer stont a litel tounWhich \u00feat\n                    cleped is Bob vp and doun\u2026\n",
+            "Last Lines": "\n\u2026Tel on \u00fei tale mauncipel I \u00fee prayWel sir quod he\n                    now herkyn what I say\n",
+            "Attributed Title": "\n\u2026Here bygynne\u00fe \u00fee prologe of \u00fee maunciples tale (f.\n                    246); \u00dee prologe of \u00fee maunciple (RT)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "ff. 246-247v"
+        },
+        "BLLan851": {
+            "First Lines": "\nWEte \u021de nouht where \u00feere stant a litel touneWhiche\n                    \u00feat cleped is Bobe vp & doune\u2026\n",
+            "Last Lines": "\n\u2026Tel on \u00feou Manciple I \u00fee preieSires quod he nowe\n                    herkene\u00fe what I seye\n",
+            "Attributed Title": "\n\u2026Incipit prologus Mancipij (f. 225); \u00fee Maunciple (RT);\n                        Explicit prologus\u2026 (f. 226v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 225-226v"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nWote ye nat where ther stant a litel d towneWhiche that\n                    clepid is bob vp and doun\u2026\n",
+            "Last Lines": "\n\u2026Telle on thi tale [tear]le I the prayWele sir quod he\n                    n[tear]th what I say\n",
+            "Note": "\nIX.32 omitted.",
+            "Attributed Title": "\n\u2026And begynnyth / the prolog of the Maunciple (f. 284, margin); Here\n                    endith the [tear]\u2026 (f. 285v)",
+            "folio": "ff. 284-285v"
+        },
+        "BLSl1686": {
+            "First Lines": "\nWote ye nought where there stant a litle tounWhich that men cleped\n                    bob vp and doun\u2026\n",
+            "Last Lines": "\n\u2026Telle on thy tale \u00feou manciple I the prayeSir quod he\n                    now herkeneth what I saye\n",
+            "Attributed Title": "\n\u2026And here begynneth the Prolog of the Manciple (f. 290); [A] Prolog\n                    of the Manciple (RT); Here endith the Prolog of the Manciple\u2026 (f.\n                        291v)",
+            "folio": "ff. 290-291v"
+        },
+        "NLWPen392": {
+            "First Lines": "\nWoot ye nat where ther stant a litel townWhich \u00feat clepid is\n                    Bobbe vpanddown\u2026\n",
+            "Last Lines": "\n\u2026Telle on thy Manciple I the preyeWel sir wuod he now herkneth\n                    what I seye\n",
+            "Attributed Title": "\n\u2026And here folweth the prologe of the/ Manciples tale (f. 107); The\n                    Manciple tale of the Crow[tear] (RT)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "ff. 107-108v"
+        },
+        "GULHun197": {
+            "First Lines": "\nWOte ye nat where ther stant a litel tounWhiche \u00feat cleped is\n                    Bobbeth vp and doun\u2026\n",
+            "Last Lines": "\n\u2026Telle on Manciple I the preyeWel sir quod he herkeneth what I\n                    seye\n",
+            "Attributed Title": "\nHere begynneth the prologe of the manciple (f. 62va); the\n                    Manciple (RT)",
+            "folio": "ff. 62va-63ra"
+        },
+        "Holkham667": {
+            "First Lines": "\nWote ye nat where there stant a litle tounWhich that cleped is bob\n                    vp and doun\u2026\n",
+            "Last Lines": "\n\u2026Tell on thy tale maunciple I the preyWell sir quod he now\n                    herken what I sey\n",
+            "folio": "ff. 29va-30ra"
+        },
+        "Lichfield29": {
+            "First Lines": "\nWote \u021de not wher stont a litel tounWhiche \u00feat is cleped\n                    bob vp and doun\u2026\n",
+            "Last Lines": "\n\u2026Telle on \u00feou manciple I \u00fee preyeSir quod he nowe\n                    herkene\u00fe what I seye\n",
+            "Attributed Title": "\n\u2026And here bygynne\u00fe \u00fee prologe of \u00fee manciple tale (f.\n                        249v, rubric); The prologe (RT); Here ende\u00fe \u00fee prologe\n                    of \u00fee manciples tale\u2026 (f. 251, rubric)",
+            "folio": "ff. 249v-251"
+        },
+        "Lincoln110": {
+            "First Lines": "\nWOte \u021de not where \u00feer stant a litil tounWhiche \u00feat\n                    clepid is bob vp and doun\u2026\n",
+            "Last Lines": "\n\u2026Telle on \u00fey tale maunciple I \u00fee preyeWel sir quod\n                    he now herkene what I seie\n",
+            "Attributed Title": "\n\u2026And heere bigynneth the prolog / Of the Maunciplis tale (f.\n                        240v); The Maunciple (RT)",
+            "folio": "ff. 240v-242"
+        },
+        "LonPhys388": {
+            "First Lines": "\nWote ye nat wher there stant a litel tounWhiche that clepid is\n                    Bobvp and doun\u2026\n",
+            "Last Lines": "\n\u2026Tel on thy tale Manciple I the prayWele sir quod he now\n                    herkenyth what I say\n",
+            "Note": "\nSecond occurrence of IX.1-3 in MS. IX.15-16 reversed.",
+            "Attributed Title": "\n\u2026Incipit Prologus Mancipij (f. 312v); Explicit\n                        prologus\u2026 (f. 314v)",
+            "folio": "ff. 312v-314v"
+        },
+        "RylandsEng113": {
+            "First Lines": "\nWote ye not wher \u00feer stont A litle TounWhich \u00feat is\n                    cleped bob vp and doun\u2026\n",
+            "Last Lines": "\n\u2026Tell on \u00fei tale mAnciple I \u00fee prayWell sir quod he\n                    now herken what I say\n",
+            "Attributed Title": "\n\u2026And bigynnyth / the prologe of the Maunciples tale (f. 167);\n                    MAunciple (RT); Here endith \u00fee prologe\u2026 (f. 168)",
+            "folio": "ff. 167-168"
+        },
+        "Petworth7": {
+            "First Lines": "\nWEte \u021de not where stont a litel tounewhich \u00feat is cleped\n                    bob vp and doune\u2026\n",
+            "Last Lines": "\n\u2026Telle on \u00feou manciple I \u00fee prayWel sir quod he now\n                    harkene what I say\n",
+            "Note": "\nIX.47-52 omitted",
+            "Attributed Title": "\n\u2026And \u00feus / bygynnes \u00fee manciples tale (f. 266v,\n                    rubric); The prologe (f. 266v, margin); The Prologe (RT); Thus\n                    ende\u00fe \u00fee prologe of \u00fee Manciple\u2026 (f. 268)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 266v-268"
+        },
+        "Austin143": {
+            "First Lines": "\nWot ye not where ther stondyth a lityll tovnWhich that ys callyd\n                    bob vp and dovn\u2026\n",
+            "Last Lines": "\n\u2026Tell on thy tale mauncypyl I the prayNow wille syr quod he\n                    herkyn what I say\n",
+            "Attributed Title": "\n\u2026and be gynnyth the prolog of the mancipill tale (f. 212)",
+            "folio": "ff. 212-213"
+        },
+        "ChicagoUL564": {
+            "First Lines": "\nWote \u021de not where stondeth a lyttel tounWhich \u00feat cleped\n                    bob vp & doun\u2026\n",
+            "Last Lines": "\n\u2026Tell on \u00feou maunciple y \u00fee preyWell sir\n                    quod he herkeneth what y say\n",
+            "folio": "ff. 169-171"
+        },
+        "PierpontM249": {
+            "First Lines": "\nWote ye not wher stont a lytel tounWhich that is cleped bob vp and\n                    down\u2026\n",
+            "Last Lines": "\n\u2026Telle on thou manciple I the preyeSir quod he nowe herkeneth\n                    what I seye\n",
+            "Attributed Title": "\n\u2026And here bygynneth the prologe of the Manciples tale (f. 239); The\n                    prologe (RT); Thus endeth the prologe of the manciples tale\u2026 (f.\n                        240v)",
+            "folio": "ff. 239-240v"
+        },
+        "PUL100": {
+            "First Lines": "\nWHote yee nat where there stondith a litil TownWich that is clepid\n                    bob vp and doun\u2026\n",
+            "Last Lines": "\n\u2026And with that spech the cook wex al wraweAnd on the mancipil\n                    he gan to nod fast\u2026\n",
+            "Note": "\nVIII.48-104 lost.",
+            "Attributed Title": "\n\u2026Here begynneth \u00fee Mauncipil his prolog (f. 200); Nonn Prologg\n                    (RT)",
+            "folio": "ff. 200-200v"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nWoot ye nat where ther stant a litel tounWhich \u00feat ycleped is\n                    Bobbeup and doun\u2026\n",
+            "Last Lines": "\n\u2026Telle on thy tale Manciple I thee preyeWel sire quod he now\n                    herkneth what I seye\n",
+            "Attributed Title": "\n\u2026Heere folweth the Prologe of the Maunciples tale (f. 202); Maunciple\n                    (RT)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 202-203"
+        },
+        "BNangl39": {
+            "First Lines": "\nUot yee not where ther standi\u00fe a litel tounwhich \u00feat\n                    clepid is bobbe vp and doun\u2026\n",
+            "Last Lines": "\n\u2026telle on thi tale maunciple I the preyewel sir quoth he now\n                    herkyn what I seye\n",
+            "Attributed Title": "\n\u2026& subsequenter incipit fabu / la mancipij & primo de\n                        prohemio / fabule dicendum est hoc modo & cetera (f.\n                    82vb); Explicit prohemium ffabule\u2026 (f.\n                    83vb)",
+            "folio": "ff. 81vb-82va"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nWot ye nat wher ther stant a litil tounWich that cleped is Bob vp\n                    & doun\u2026\n",
+            "Last Lines": "\n\u2026Tel on thi tale Manciple I the preyWel sir quod he now\n                    herkeneth what I sey\n",
+            "Attributed Title": "\n\u2026Et incipit Prologus / Mancipuli (f. 233); Hic deficit\n                        Prologus Mancipuli\u2026 (f. 234v)",
+            "folio": "ff. 233-234v"
+        },
+        "Bodmer48": {
+            "First Lines": "\nWOt ye not wher \u00feer stant a litil townwhich clepid is bob up\n                    and doun\u2026\n",
+            "Last Lines": "\n\u2026Telle on thi tale maunciple I \u00fee preyWel sir quod he now\n                    herkneth what I sey\n",
+            "Attributed Title": "\nThe prolog of the Manciple (f. 210v, rubric)",
+            "Facsimiles": "\n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n",
+            "folio": "ff. 210v-212"
+        }
+    }
+}

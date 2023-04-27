@@ -1,0 +1,56 @@
+{
+    "_id": 2298,
+    "_header": "I vow to God she makes great steer",
+    "Title(s)": "Chronicle",
+    "Subjects": "Black Agnes of Dunbar; historical poems; chronicles, verse in",
+    "_description": "A song of the English against Black Agnes of Dunbar, quoted in Wyntoun\u2019s Chronicle (658) \u2014 two couplets (VIII. 4993)",
+    "_witnesses": {
+        "BLCottNeroDXI": {
+            "Transcription": "\nI wow to god scho mais gret stere\u00fee scottis wenche ploddeyrCum I are or cum I latI fande Annete at \u00fee \u021dhat\n",
+            "Note": "\nTwo couplets at end of Book 8, chapter 29 line 4993 in Wyntoun\u2019s  Chronicle.",
+            "Editions": "\n\nAmours,  Fran\u00e7ois Joseph. \n             The Original Chronicle of Andrew of Wyntoun.\n             6 vols. \n             Scottish Text Society.\n         50, 53-4, 56-7, 63 Edinburgh, London: Blackwood, 1903-14: 6.91.\nWilson,  Richard Middlewood. \n             The Lost Literature of Medieval England.\n         London: Methuen, 1952: 231.\nWilson,  Richard Middlewood. \n             \u201cMore Lost Literature in Old and Middle English.\u201d \n             Leeds Studies in English\n         5 (1936): 1-49: 44.\n\n",
+            "folio": "f. 181"
+        },
+        "BLLan197": {
+            "folio": ""
+        },
+        "BLRoy17Dxx": {
+            "Editions": "\n\nLaing,  David,\n                        ed.  \n             The Orygynale Cronykil of Scotland.\n         3 vols. Edinburgh: Edmonston and Douglas, 1872-79: 2.436.\nMacPherson,  David,\n                        ed.  \n             De orygynale cronykil of Scotland.\n         London: Bensley, 1795. \n\n",
+            "folio": ""
+        },
+        "NLS1923": {
+            "Transcription": "\nI wow to god scho makis gret stere\u00fee scottis wench\n                    ploddereCum I aire or cum I laitI fand Annes at \u00fee\n                    \u021date\n",
+            "Note": "\nAt end of Book VIII, chapter 29.",
+            "folio": "f. 401"
+        },
+        "NLS1924": {
+            "Transcription": "\nI wow to god scho beris hir weillThe scottis wenche with hir\n                    plodtillffor cum I air cum I laitI fand Dayme annes at \u00fee\n                    \u021dait\n",
+            "Note": "\nAt end of Chapter CLXVIII.",
+            "folio": "f. 354v"
+        },
+        "EDULaiii431": {
+            "Transcription": "\nI wow to god scho makis gret stere\u00fee scottis wench\n                    ploddereCum I aire or cum I laitI fand Annes at \u00fee\n                    \u021date\n",
+            "Note": "\nAt end of Book VIII, chapter 29.",
+            "folio": ""
+        },
+        "NLS651": {
+            "Transcription": "\nI wow to god scho beris hire weleThe scottis wenche with hire\n                    plodilleffor cum I ayrly cum I layteI fynd Dame Annes at the\n                    \u021dhate\n",
+            "Note": "\nAt end of Chapter CLXVIII (viiixx viii).",
+            "folio": "f. 251v"
+        },
+        "StADA775": {
+            "Transcription": "\nI wow to god scho mais gret stere\u00dee Scotts wenche\n                    ploddereCum I ayre cum I latI fynd annot at \u00fee gat\n",
+            "Note": "\nAt end of Book VIII, ch. 29.",
+            "folio": "f. 304"
+        },
+        "Colville": {
+            "folio": ""
+        },
+        "Weymyss": {
+            "Transcription": "\nI wowe to god scho mais gret stereThe Scottis wenche ploddeyrCum\n                    I are cum I latI fande Annote at \u00fee \u021dhat\n",
+            "Note": "\nBook VIII, line 4993.",
+            "Editions": "\nAmours,  Fran\u00e7ois Joseph. \n             The Original Chronicle of Andrew of Wyntoun.\n             6 vols. \n             Scottish Text Society.\n         50, 53-4, 56-7, 63 Edinburgh, London: Blackwood, 1903-14: 6.90.\n",
+            "folio": ""
+        }
+    }
+}

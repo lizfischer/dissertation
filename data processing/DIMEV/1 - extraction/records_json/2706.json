@@ -1,0 +1,16 @@
+{
+    "_id": 2706,
+    "_header": "It belimpeth for to speak to readen and to sing",
+    "Subjects": "prayers, to God",
+    "Versification": "\u2014 four-line \u2014 aaaa",
+    "_description": "A prayer to God (with the Pater Noster as its basis) \u2014 nine monorhyming quatrains",
+    "_witnesses": {
+        "OxfCCC59": {
+            "First Lines": "\nHit bilimpe\u00f0 forte speke to reden & to singeOf him \u00fee\n                    no mon mai at reke king of alle kinge\u2026\n",
+            "Last Lines": "\n\u2026mid \u00feicke speche & false spare & mid\n                    lesinge\u00feu ert hele & help & lif & king of alle\n                    kinge\n",
+            "Note": "\nMS incorrectly identified by Morris as CCCO 54 instead of\n                    59.",
+            "Editions": "\n\nMorris,  Richard,\n                        ed.  \n             Old English Homilies of the Twelfth Century: From the Unique MS.\n                B.14.52 in the Library of Trinity College, Cambridge\n             Vol. 2. \n             EETS\n         o.s. 53 (1873); repr. 1973: 258-9.\nPatterson,  Frank A. \n             The Middle English Penitential Lyric.\nColumbia University Studies in English.\n         New York: Columbia Press, 1911: 110-11.\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 114-16.\n\n",
+            "folio": "ff. 66-66v"
+        }
+    }
+}

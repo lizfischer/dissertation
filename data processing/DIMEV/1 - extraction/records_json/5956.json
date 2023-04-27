@@ -1,0 +1,60 @@
+{
+    "_id": 5956,
+    "_header": "Til his disciples said Jesus / As Luke the gospeller tells us",
+    "Note": "For the version in the \u2018expanded\u2019 Cycle see 3299.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Second Sunday after Trinity, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nTO his disciples seide IhesusAs seint Luc telle\u00fe\n                    vs\u2026\n",
+            "Last Lines": "\n\u2026As of \u00fee ful\u00fee of lecheryAs here a take\n                    schewe\u00fe openly\n",
+            "Attributed Title": "\nHomo quidam fecit cenam magnam (f. 199va)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 199va-199vb"
+        },
+        "BodAsh42": {
+            "First Lines": "\nTo his dissiples saide iesusAls luke \u00fee gospellere tellis\n                    vs\u2026\n",
+            "Last Lines": "\n\u2026Als duse of some synne of lyccherieAls in a tale writen find\n                    I\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 137-138v"
+        },
+        "CULAdd8335": {
+            "folio": "p. 223"
+        },
+        "CULDd11": {
+            "folio": "f. 137v"
+        },
+        "CULGg531": {
+            "folio": "f. 84"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nTO his disciples seide IhesusAs seint luc telle\u00fe\n                    vs\u2026\n",
+            "Last Lines": "\n\u2026As of \u00fee ful\u00fee of lecheryAs here a tale\n                    schewe\u00fe openly\n",
+            "Attributed Title": "\nHomo quidam fecit cenam magnam (f. 4bv)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 4vb-4vc"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nTo his dissiples said ihesuAls luke \u00fee gospeller tellis\n                    vs\u2026\n",
+            "Last Lines": "\n\u2026Als dose of filth of lichoryAls in a tale written fynde\n                    I\n",
+            "folio": "ff. 99v-101"
+        },
+        "Lam260": {
+            "folio": "f. 41vb"
+        },
+        "MinULZ822": {
+            "First Lines": "\nTyll Hys discipiles sayde ihesusas oure gospell now tellys vsA\n                    man he sayde made a gret soper\u2026\n",
+            "Last Lines": "\n\u2026And \u00feam to halde fra synne dedeAnd vs & \u00feam fra\n                    hell lede\n",
+            "Attributed Title": "\nDominica secunda post festum sancte trinitatis Secundum Lucam (f.\n                        103v)",
+            "folio": "ff. 103v-105v"
+        },
+        "HunHM129": {
+            "First Lines": "\nTo his disciplis said ihesusAs Luc \u00fee gospeller saith\n                    vs\u2026\n",
+            "Last Lines": "\n\u2026As of \u00fee syn and filth of lecheryAs \u00feis tale\n                    schowyth oppynly\n",
+            "Attributed Title": "\nDominica secunda post festum trinitatis (f. 117)",
+            "folio": "ff. 117-118"
+        }
+    }
+}

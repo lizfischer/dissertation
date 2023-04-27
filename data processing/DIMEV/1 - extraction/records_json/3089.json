@@ -1,0 +1,17 @@
+{
+    "_id": 3089,
+    "_header": "Listen all great and small / I shall you tell a little tale",
+    "Note": "Ends imperfectly, lines 1-192; for another version of the same section, see 2809.",
+    "Title(s)": "Chateau d'Amour ; The Four Daughters of God",
+    "Subjects": "allegories; instruction, religious",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "The Four Daughters of God, a paraphrase of one section of Grosseteste\u2019s Chateau d\u2019Amour \u2014 32 tail-rhyme stanzas",
+    "_witnesses": {
+        "BLCottAppVII": {
+            "First Lines": "\n[L]ystyns all gret and smaleI shall \u021dow tell a lytell\n                    tale\u2026\n",
+            "Last Lines": "\n\u2026In powere and in digniteAnd \u00fee wisdome am I of\n                    \u00fee\n",
+            "Editions": "\n\nBrunner,  Karl. \n             \u201cDer Streit der vier Himmelst\u00f6chter.\u201d \n             Englische Studien\n         68 (1933-34): 188-94: 189-94.\nSajavaara,  K.,\n                        ed.  \n             The Middle English Translations of Robert Grosseteste\u2019s Chateau\n                d\u2019Amour.\nM\u00e9moires de la Soci\u00e9t\u00e9 N\u00e9ophilologique de\n                Helsinki\n         32. Helsinki, 1967: 366.\n\n",
+            "folio": "ff. 1-2v"
+        }
+    }
+}

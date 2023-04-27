@@ -1,0 +1,38 @@
+{
+    "_id": 5021,
+    "_header": "Spend and God shall send",
+    "Note": "Cf. 4361.",
+    "Subjects": "money",
+    "Versification": "\u2014 five-line \u2014 abbbc",
+    "_description": "On Penny \u2014 five lines",
+    "_witnesses": {
+        "Bod851": {
+            "Transcription": "\nSpend and God send alleluiaspare and go bare tristicia\n",
+            "Note": "\nA single line in an anthology table of contents.",
+            "Editions": "\nRigg,  A. George. \n             \u201cMedieval Latin Poetic Anthologies (II).\u201d \n             Mediaeval Studies\n         40 (1978): 396-409: 405.\n",
+            "folio": "flyleaf, f. 2v"
+        },
+        "BodDou52": {
+            "Transcription": "\nSpende & god wyl sendespare & euere bare\n",
+            "Note": "\nLines 1-2 only.",
+            "Editions": "\nF\u00f6rster,  Max. \n             \u201cDie Mittelenglische Sprichw\u00f6rtersammlung in Douce 52.\u201d \n             Festschrift zum XII Deutschen Neuphilolgentage in M\u00fcnchen\n                1906.\n            E. Stollreither, ed. \n         Erlangen (1906): 40-64: 45.\n",
+            "folio": "f. 15v"
+        },
+        "CamGon261": {
+            "Transcription": "\nspend and god schal sendespare and ermor carenon penni non\n                    warenon catel non carego penni go\n",
+            "Note": "\nAdded by another hand; 5 lines, abbbc, with internal rhyme in the short\n                    \u2018a\u2019 and \u2018c\u2019 lines.",
+            "Editions": "\n\nJames,  Montague Rhodes. \n             A Descriptive Catalogue of the Manuscripts in the Library of Gonville\n                and Caius College, Cambridge.\n         2 vols. Cambridge: at the UP, 1907: 1.317.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 429; 1977, 448.\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 57.\nKaiser,  Rolf,\n                        ed.  \n             Alt- und mittelenglische Anthologie.\n         Berlin, 1954; 3rd ed.; trans. as  Medieval English: a\n                Old English and Middle English Anthology Berlin West, 1958: 550.\nOliver,  Raymond. \n             Poems Without Names: The English Lyric 1200-1500.\n         Berkeley, CA: University of California, 1970: 65.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 558.\nSilverstein,  Theodore,\n                        ed.  \n             Medieval English Lyrics.\n         York Medieval Texts. London: Edw. Arnold, 1971: 96-7.\nScattergood,  V. John. \n             Politics and Poetry in the Fifteenth Century.\n         London: Blandford Press, 1971: 336.\nLuria,  Maxwell Sidney,  and  Richard L. Hoffman, eds.  \n             Middle English Lyrics.\n         New York: Norton, 1974: 114.\n\n",
+            "folio": "f. 234rb"
+        },
+        "BLSl2232": {
+            "Note": "\nVariant, 4 lines.",
+            "folio": "f. 9v"
+        },
+        "RylandsLat394": {
+            "Transcription": "\nSpende & god woll sendespare & euer bare\n",
+            "Note": "\nWritten all on one line; translating \u2018Expendas late mittet deus\n                        omnia grate / Expensis parce viues par secula parce\u2019, which\n                    follows.",
+            "Editions": "\nPantin,  William A. \n             \u201cA Medieval Collection of Latin and English Proverbs\u2026from Rylands\n                Latin MS. 394.\u201d \n             Bulletin of the John Rylands Library\n         14 (1930): 81-114: 96.\n",
+            "folio": "f. 7"
+        }
+    }
+}

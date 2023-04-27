@@ -1,0 +1,27 @@
+{
+    "_id": 4622,
+    "_header": "Saint Jerome telleth in his book of fifteen tokening",
+    "Note": "Part of the concluding section of 4196 occuring separately; precedes 5278; cf. 6345.",
+    "Subjects": "Doomsday, signs of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Fifteen Signs of Doomsday \u2014 twenty-two lines",
+    "_witnesses": {
+        "BodLauMis622": {
+            "First Lines": "\nSEint Ieremie telle\u00fe in his book of xv tokenyng\u00feat god\n                    wil a\u021deins domesdai here on er\u00fee bring\u2026\n",
+            "Last Lines": "\n\u2026Ich bid hym \u00feat vs deme schal kyng of all kyngeAmong his\n                    blissed sones our soules to heuen brynge\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Adam Davy\u2019s 5 Dreams about Edward II, etc. from Bodleian Laud\n                Misc. 622.\nEETS\n         o.s. 69 (1878; repr. 1973): 92-6.\n",
+            "folio": "ff. 70vb-71ra"
+        },
+        "Lam223": {
+            "First Lines": "\nSAynt Ierome telles in his boke of xv tokenys\u00deat our lord wole\n                    a\u021deyn domesday here on er\u00fee bringe\u2026\n",
+            "Last Lines": "\n\u2026I pray god \u00feat vs deme shal \u00feat of all kynges is\n                    kyng\u00deat amonge his blessed sones to reste our soules he bryng.\n                    Amen\n",
+            "Attributed Title": "\nIerome (RT)",
+            "folio": "ff. 31-31v"
+        },
+        "TokyoTak54": {
+            "First Lines": "\nSeynt Ieremye in his book telle\u00fe of v. tokenyngeThat our lorde\n                    or domysday wil on er\u00fee bringe\u2026\n",
+            "Last Lines": "\n\u2026I prey to god \u00feat vs shal deme kyng of all\n                    kynges\u00deat among his blessed sones \u00feat day he vs bringe.\n                    Amen.\n",
+            "folio": "ff. 39-39v"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "_id": 385,
+    "_header": "All the trespass of my tender youth",
+    "Note": "The first stanza also appears as the concluding stanza in \u2018Eight Verses of Bernard:\u2019 see 4051.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Prayer in Old Age\u2019",
+    "Subjects": "prayers, to Christ; old age",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, \u2018Prayer in Old Age\u2019 \u2014 four 8-line stanzas",
+    "_witnesses": {
+        "BodHat73": {
+            "First Lines": "\nAll the trespas of my tendre youthWith grevous gyltes rekenyd of\n                    yonge age\u2026\n",
+            "Last Lines": "\n\u2026Thy blode thy passioun graunte me for a signeMercifull ihesu\n                    to patyse my passages\n",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 20-1.\n",
+            "folio": "ff. 116-116v"
+        },
+        "Lam344": {
+            "First Lines": "\nAll the trespace of my tender youtheWyth greuous gyltes rekened of\n                    yonge age\u2026\n",
+            "Last Lines": "\n\u2026Thy blode thy passyon graunt me for a sygneMercyfull ihesu to\n                    patyse my passage\n",
+            "folio": "f. 10-10v"
+        }
+    }
+}

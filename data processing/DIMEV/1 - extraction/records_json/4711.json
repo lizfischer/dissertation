@@ -1,0 +1,67 @@
+{
+    "_id": 4711,
+    "_header": "Saint Matthew in our gospel shows",
+    "Note": "For the version in the \u2018expanded\u2019 Cycle see 4712.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Eighteenth Sunday after Trinity in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nSaynte mathew in oure gospel saise\u00feat \u00fee Iewes \u00feat\n                    wyse ware of te lawes\u2026\n",
+            "Last Lines": "\n\u2026And if \u021de will \u021de may hereA litil tale of \u00feis\n                    matere\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 202-205"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Matheu In vr gospel schowes\u00feat Iewes wise weoren holden\n                    in lawes\u2026\n",
+            "Last Lines": "\n\u2026And \u021dif \u021de wole \u021de may hereA luytel tale of\n                    \u00feis Matere\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 209vc-210rb"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nSEynt Matheu telles vs in his sawe\u00deat iewes \u00feat were wyse\n                    men of lawe\u2026\n",
+            "Last Lines": "\n\u2026And if \u021de wille \u021de may nowe hereA litel tale of\n                    \u00feis matere\n",
+            "Attributed Title": "\nDominica xviiia post festum trinitatis secundum Mathium\n                    (p. 311)",
+            "folio": "pp. 311-314"
+        },
+        "CULDd11": {
+            "First Lines": "\nSEynt mathew telli\u00fe in his sawe\u00feat iewis \u00feat were\n                    wise men of lawewere gaderid manye in a stede\u2026\n",
+            "Last Lines": "\n\u2026and if \u021de wile \u021de may now herea litil tale of\n                    \u00feis matere\n",
+            "Attributed Title": "\nDominica xviii post festum sancte trinitatis Euangelium secundum\n                        Matheum (f. 194)",
+            "folio": "ff. 194-195"
+        },
+        "CULGg531": {
+            "First Lines": "\nSeynt matheu in oure gospel shawes\u00feat iewes \u00feat wys war\n                    of lawes\u2026\n",
+            "Last Lines": "\n\u2026And if \u021de wyll \u021de may hereA lytell tale of \u00feis\n                    mater\n",
+            "Attributed Title": "\nDominica xviiia secundum Matheum (bottom f.\n                    133)",
+            "folio": "ff. 133v-135v"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nSEint Matheu In vr gospel schewes\u00deat Iewes wis were holden in\n                    lawes\u2026\n",
+            "Last Lines": "\n\u2026And \u021dif \u021de wol \u021de may hereA luytel tale of\n                    \u00feis Matere\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 14rb-14vb"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nSaynt mathewe in owre gospell schewes\u00deat \u00fee Jowes\n                    \u00feat wyse were of \u00fee lawes\u2026\n",
+            "Last Lines": "\n\u2026And yf \u021de may hereA lytyll tayel of \u00feis\n                    maudre\n",
+            "folio": "ff. 162-165"
+        },
+        "Lam260": {
+            "folio": "f. 57ra"
+        },
+        "MinULZ822": {
+            "First Lines": "\nSaynte Mathew in oure gospell schewes\u00feat \u00fee Iewes ware\n                    wyse halden in \u00feer lawes\u2026\n",
+            "Last Lines": "\n\u2026\u00feer oure lorde cryste whare he es kyngfor hys mercy he\n                    \u00feider vs bryng\n",
+            "Attributed Title": "\nDominica xviiia Secundum Matheum (f.\n                    164v)",
+            "folio": "ff. 164v-167v"
+        },
+        "HunHM129": {
+            "First Lines": "\nSeint mathew in oure gospell schawis\u00deat iowis \u00feat wise\n                    ware holdyn in lowys\u2026\n",
+            "Last Lines": "\n\u2026And \u021dyff \u021de will \u021de may hereA lytill tale off\n                    \u00feis matere\n",
+            "Attributed Title": "\nDominica duodevicesima post festum trinitatis (f. 173)",
+            "folio": "ff. 173-175v"
+        }
+    }
+}

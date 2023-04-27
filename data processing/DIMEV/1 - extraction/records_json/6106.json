@@ -1,0 +1,22 @@
+{
+    "_id": 6106,
+    "_header": "Understand what thou were and what thou art",
+    "Note": "See James (1907)\nXJames, Montague Rhodes. A Descriptive Catalogue of the Manuscripts in the Library of Gonville and Caius College, Cambridge. 2 vols. Cambridge: at the UP, 1907, 1.398.",
+    "Subjects": "advice, moral; sermons, verse in",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A bishop reminds himself of his humble origins \u2014 one couplet in an exemplum",
+    "_witnesses": {
+        "CamGon351": {
+            "Transcription": "\nunder stand wel gris wat \u00feou were and wat \u00feu ertand hou\n                    \u00feou driue \u00fei fader cart\n",
+            "Note": "\nCf. Wenzel (1974)\nXWenzel,  Siegfried. \n             \u201cUnrecorded Middle-English Verses.\u201d \n             Anglia\n         92 (1974): 55-78, no. 78.",
+            "Editions": "\n\nJames,  Montague Rhodes. \n             A Descriptive Catalogue of the Manuscripts in the Library of Gonville\n                and Caius College, Cambridge.\n         2 vols. Cambridge: at the UP, 1907: 1.398.\nLaing,  Margaret. \n             Catalogue of sources for a Linguistic Atlas of Early Medieval\n                English.\n         Cambridge: UP, 1993: (mistranscribing as \u2018drue\u2019 in second\n                        line).\n\n",
+            "folio": "f. 97"
+        },
+        "Lam78": {
+            "Transcription": "\nUndyrstande what thow were and artffor sum tyme thow dreue thy fadyr\n                    cart\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nWenzel,  Siegfried. \n             \u201cUnrecorded Middle-English Verses.\u201d \n             Anglia\n         92 (1974): 55-78: 74.\n",
+            "folio": "f. 225va"
+        }
+    }
+}

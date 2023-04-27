@@ -1,0 +1,23 @@
+{
+    "_id": 4265,
+    "_header": "On Easter day in the dawing Jesu rose fro death to life",
+    "Note": "For the usual text see 787.",
+    "Subjects": "Christ, burial and resurrection",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Story of the Resurrection based upon the South English Legendary",
+    "_witnesses": {
+        "CULDd11": {
+            "First Lines": "\nOn Esterne day in \u00fee dawingihesu ros fro deth to\n                    lyueblissid be \u00feat ilke tidingwho so him louid \u00feei were ful\n                    bri\u00fee\u2026\n",
+            "Last Lines": "\n\u2026& gaderid \u00fee disciplis ageyn\u00feat in wide londis\n                    were \u00fean brouht\n",
+            "Note": "\nIn this MS, break between this and the following 2647 is 4 lines earlier,\n                    ending, \u2018In Galile \u00feei schul me fynde\u2019.",
+            "folio": "ff. 30-31"
+        },
+        "BLCottVesAIII": {
+            "First Lines": "\nOn sononday in \u00fee daghyngHe ros fro ded to\n                    liue\u2026\n",
+            "Last Lines": "\nThole ded & rise thriddayand bring til end his dede\n",
+            "Note": "\nInserted in one MS of Cursor Mundi.",
+            "Editions": "\n\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 3.985-91.\nBrown,  Beatrice Daw,\n                        ed.  \n             The Southern Passion, Pepysian MS. 2344\nEETS\n         o.s. 169 (1927); repr. 1987: 63-77.\n\n",
+            "folio": "f. 95vb-98vb"
+        }
+    }
+}

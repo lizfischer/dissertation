@@ -1,0 +1,51 @@
+{
+    "_id": 2292,
+    "_header": "I Thee honour with all my might / In form of bread as I Thee see",
+    "Subjects": "prayers, for use in church",
+    "Versification": "\u2014 four-line \u2014 abab with all b-rhymes rhyming with each other",
+    "_description": "A prayer at the \u2018leuacion\u2019 \u2014 five quatrains",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nI \u00fee honoure wi\u00fe al my mihtIn fourme of Bred as i \u00fee\n                    se\u2026\n",
+            "Last Lines": "\n\u2026Wi\u00fe ffadur and sone and holygost\u00deat Regne\u00fe God\n                    In Trinite. Amen.\n",
+            "Note": "\n1 x 8 abababab, 1 x 10 abababcbab",
+            "Attributed Title": "\nA preyer at \u00fee leuacioun (f. 115ra)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nHorstmann,  Carl,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 1.\nEETS\n         o.s. 98 (1892; repr. 1973): 25.\nPatterson,  Frank A. \n             The Middle English Penitential Lyric.\nColumbia University Studies in English.\n         New York: Columbia Press, 1911: 70-1.\n\n",
+            "folio": "f. 115ra2"
+        },
+        "OxfBal316A": {
+            "First Lines": "\ni the honour with al mightInforme of brede as y \u00fee\n                    seeIhesu \u00feat of \u00feat lady bryghtMary man be cam for\n                    me\u2026\n",
+            "Last Lines": "\n\u2026That he \u00feat mannes soule sleetheNeuer haue power of\n                    me\n",
+            "Note": "\nAdded by original scribe to last folio of volume, to fill out\n                    quire.",
+            "Editions": "\nRobbins,  Rossell Hope. \n             \u201cPrivate Prayers in Middle English Verse.\u201d \n             Studies in Philology\n         36 (1939): 466-75: 472-3.\n",
+            "folio": "f. 110v"
+        },
+        "OxfChrCh151": {
+            "First Lines": "\nIn the honour with all myghtIn forme of brede as y \u00fee\n                    see\u2026\n",
+            "Last Lines": "\n\u2026That he \u00feat mannes sowle sleethNeuer haue power on\n                    me\n",
+            "Note": "\nLast item in the manuscript (MS has no foliation).",
+            "folio": ""
+        },
+        "BLAdd37787": {
+            "First Lines": "\nWelcome be \u00feu soule fodeBo\u00fee Jhesu god and manneffor\n                    me \u00feu honge apon \u00fee roode\u00dee bodi blike ande wonneThe\n                    water & \u00fee blod out of \u00fei side ronOf my sinnes lorde do me\n                    boteIhesus god and monGraunte me \u00feat I \u00fee loue moteI\n                    \u00fee honour with al my myht\u2026\n",
+            "Last Lines": "\n\u2026ffadur & son and holigostThat regne\u00fe god in\n                    trinite\n",
+            "Note": "\n26 lines; with two introductory \u2018Welcome\u2019\n                    stanzas.",
+            "Editions": "\n\nRobbins,  Rossell Hope. \n             \u201cLevation Prayers in Middle English Verse.\u201d \n             Modern Philology\n         40 (1942): 131-46: 138-9.\nBaugh,  Nita Scudder. \n             A Worcestershire Miscellany, compiled by John\n                    Northwood, c. 1400, edited from British Museum MS. Add.\n                37,787.\n         Philadelphia, 1956: 97-100.\n\n",
+            "folio": "ff. 12-12v"
+        },
+        "Lam559": {
+            "First Lines": "\nLorde I the honoure with all my myghtIn forme of bred as i the\n                    seeIhesu that in mari hym lythAnd man bi come for loue of\n                    me\u2026\n",
+            "Last Lines": "\n\u2026And through that ladi of mercie mostmi soule thou take to\n                    theTo thi mercie I triste as \u00feow wel wostNow gracius god graunte\n                    it me. Amen\n",
+            "Note": "\nWritten as prose.",
+            "Attributed Title": "\nThis prayer schal be said at agnus dei (f. 32, rubric)",
+            "folio": "ff. 32-32v"
+        },
+        "PhilUPEng2": {
+            "First Lines": "\nI The honour with al my my\u021dtin forme of brede as y \u00feee\n                    see\u2026\n",
+            "Last Lines": "\n\u2026That he \u00feat mannes soule sleetheneuere haue power of\n                    me\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 135-135v"
+        }
+    }
+}

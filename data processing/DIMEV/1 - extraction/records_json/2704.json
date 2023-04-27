@@ -1,0 +1,18 @@
+{
+    "_id": 2704,
+    "_header": "It befell some time in certain / In the City of Thessaly",
+    "Title(s)": "De Theodosio Imperatore; Golden Legend",
+    "Subjects": "Theodosius, emperor",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018De Theodosio Imperatore\u2019, in the Vernon Golden Legend \u2014 in short couplets",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nHIt bifel sum tyme in certeynIn \u00fee Cite of\n                    Tessaleyn\u2026\n",
+            "Last Lines": "\n\u2026Of \u00feis lyf is \u00feer no moreGod \u021dif vs grace to\n                    beo not lore\n",
+            "Attributed Title": "\nDe Theodosio imperatore (f. 91rb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             Sammlung altenglischer Legenden.\n         Heilbronn: Henninger, 1878: 22-5.\n",
+            "folio": "ff. 91rb-91vc"
+        }
+    }
+}

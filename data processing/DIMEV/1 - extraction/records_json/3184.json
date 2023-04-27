@@ -1,0 +1,34 @@
+{
+    "_id": 3184,
+    "_header": "Look well about ye that lovers be",
+    "Note": "For refrain cf. 4225; also cf. Tilley (1950)\nXTilley, Morris Palmer. A Dictionary of the Proverbs in England in the 16th and 17th Centuries. Ann Arbor, MI: University of Michigan, 1950, B 541; edition without attributing source: Hammond (1927)\nXHammond, Eleanor Prescott. English Verse between Chaucer and Surrey. Durham, NC: Duke UP, 1927, 413.",
+    "Subjects": "women, against; satires",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "Bibliographic Ghosts": "Oxford, Bodleian Library Tanner 407 (SC 10234), f. 38.",
+    "_description": "Beware of deceitful women \u2014 six stanzas rhyme royal with refrain: \u2018Bewar therfor the blynde etith many a flye\u2019",
+    "_witnesses": {
+        "CamTCC599": {
+            "First Lines": "\nLOoke well about ye that louers belat nat youre lustes leede yow to\n                    dotage\u2026\n",
+            "Last Lines": "\n\u2026Nat cowde then wryte womans trecheryBeware therfore the\n                    blynde eteth many a fly Explicit\n",
+            "Attributed Author": "\nChaucer (added to right margin next to line 1, by a later hand, f.\n                    207)",
+            "Facsimiles": "\n\nFletcher,  Bradford Y. \n             \u201cIntroduction.\u201d \n             Manuscript Trinity R.3.19. A Facsimile.\n         Norman, OK: Pilgrim, 1987. \n\nDigital Facsimile of Trinity College Cambridge MS R.3.19.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.19. \n\n",
+            "Editions": "\n\nSkeat,  Walter William,\n                        ed.  \n             The Complete Works of Geoffrey Chaucer.\n         7 vols. Oxford: Clarendon, 1894-7: 7.295-6.\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 244, 290.\nDavies,  Reginald Thorne. \n             Medieval English Lyrics: a critical anthology.\n         London, 1963; Evanston, IL: Northwestern UP, 1964: 238-40.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 566.\nForni,  Kathleen,\n                        ed.  \n             The Chaucerian\n                    Apocrypha: A Selection.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2005. \n\n",
+            "folio": "ff. 207-207v"
+        },
+        "CamTCC1450": {
+            "First Lines": "\nLokyth well a bowte ye that louers belet no\u021dt yowre lustys\n                    lede \u021dow to dotage\u2026\n",
+            "Last Lines": "\n\u2026lett passe ouer yn ese & let \u00fee wynd blowBe ware the\n                    blynde ettyth many a flye\n",
+            "Note": "\nSeven eight-line stanzas, ababbcbc.",
+            "Editions": "\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 244, 290.\n",
+            "folio": "ff. 28-28v"
+        },
+        "BLHar2251": {
+            "First Lines": "\nLOke wele aboute ye that lovers beLate nat youre lustis leede yow\n                    to dotage\u2026\n",
+            "Last Lines": "\n\u2026Nat cowde write wommans trecheryBe ware therfor the blynde\n                    ete many a flye\n",
+            "folio": "ff. 149v-150"
+        },
+        "RomeEC1306": {
+            "folio": "f. 75v"
+        }
+    }
+}

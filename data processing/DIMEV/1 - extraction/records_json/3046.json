@@ -1,0 +1,28 @@
+{
+    "_id": 3046,
+    "_header": "Len puet fere et defere",
+    "Title(s)": "On the King\u2019s Breaking the Magna Charta",
+    "Subjects": "abuses, of the age; Edward II, criticism of; political poems",
+    "Versification": "\u2014 four-line, six-line, three-line \u2014 abab, aabccb, aaa",
+    "Macaronic": "Anglo-Norman",
+    "_description": "The Abuses of the Age: On the King\u2019s Breaking the Magna Charta \u2014 English lines in varying stanzas, with alternate Anglo-Norman lines at the beginning",
+    "_witnesses": {
+        "CamStJohn112": {
+            "First Lines": "\nRome poet fere e defere Si fet ele trop souent\u00feat nis\n                    no\u00feer wel ne veyrefor \u00fei is holy cherche\n                    ysend\u2026\n",
+            "Last Lines": "\n\u2026Curt and laghe hundred a syre al it god aduuele\n                    vay\n",
+            "Note": "\nAccording to Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943 the text has 12 lines: actually 1 x 16 and 1 x\n                    8, abababababababab and abababab; or 3 x 8 with same rhymes in first two\n                    stanzas; written two lines of verse per line of MS.",
+            "Attributed Title": "\nDe prouisione Oxonie (f. 400)",
+            "Editions": "\n\nJames,  Montague Rhodes. \n             A Descriptive Catalogue of the Manuscripts in the Library of St.\n                John\u2019s College, Cambridge.\n         Cambridge: at the UP, 1913: 146.\nRobbins,  Rossell Hope,\n                        ed.  \n             Historical Poems of the XIV and XV Centuries.\n         New York: Columbia UP, 1959: 325-6, 140-3.\nAspin,  Isabel Stewart Tod. \n             Anglo-Norman Political Songs.\n         Oxford: Clarendon, 1953: 62-3.\n\n",
+            "folio": "f. 400"
+        },
+        "NLS1921": {
+            "First Lines": "\nLen puet fere et defere ceo fait il trop souventIt nis nouther wel\n                    ne faire \u00feerfore engelond is shent\u2026\n",
+            "Last Lines": "\n\u2026Sen him \u00feat us bouhte dereIn ioye wid oute\n                    ende\n",
+            "Note": "\n98 lines, in 6-line stanzas, aabaab.",
+            "Attributed Title": "\nUn sarmoun of iiij wise men (f. 105ra)",
+            "Facsimiles": "\nPearsall,  Derek,  and  I. C. Cunningham, eds.  \n             The Auchinleck Manuscript. National Library of Scotland\n                Advocates\u2019 MS. 19.2.1.\n         London: Scolar Press, 1977. \n",
+            "Editions": "\n\nLaing,  David,  and  William Barclay David Donald Turnbull, eds.  \n             Owain Miles &c.\n         Edinburgh, 1837. \nWright,  Thomas,\n                        ed.  \n             The Political Songs of England.\nCamden Society\n         o.s. 6 (1839): 253-8.\nEllis,  Alexander John,\n                        ed.  \n             On Early English Pronunciation.\n             4 vols. \n             EETS\n         e.s. 2 (1867), 7 (1869), 14 (1871), 23 (1874), repr. 1973; issued\n            jointly by the Philological Society, the EETS, and the Chaucer Society [2nd ser. 1, 4-5,\n            25] London: Tr\u00fcbner; ed. note: with rare exceptions, entries from these volumes are\n            identical; where variants occur, both editions are cited: 2.449.\nW\u00fclker,  Richard Paul,\n                        ed.  \n             Altenglisches Lesebuch.\n         2 vols. in one. Halle: Lippert, 1874, 1880: 1.74-6.\nVatke,  Theodor. \n             \u201cLied auf den Bruch der Magna Charta durch Edward II.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         72 (1884): 467: 467.\nHerrtage,  Sidney John Hervon,\n                        ed.  \n             The Early English Version of the Gesta Romanorum.\nEETS\n         e.s. 33 (1879); repr. 1962: 498-9.\nHolmstedt,  Gustaf,\n                        ed.  \n             Speculum Christiani.\nEETS\n         o.s. 182 (1933); repr. 1988: clxxxv-clxxxvii.\nRobbins,  Rossell Hope,\n                        ed.  \n             Historical Poems of the XIV and XV Centuries.\n         New York: Columbia UP, 1959: 325-6; 140-3.\nMarsh,  George Perkins. \n             Origin and History of the English Language.\n         New York: C. Scribner\u2019s Sons, 1866: 244-7.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 74-6.\n\n",
+            "folio": "f. 105ra-105rb"
+        }
+    }
+}

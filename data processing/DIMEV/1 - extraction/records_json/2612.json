@@ -1,0 +1,16 @@
+{
+    "_id": 2612,
+    "_header": "In the months of June and July",
+    "Note": "Following 5920; two lines occur in 4210.",
+    "Subjects": "alchemy",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Alchemical verses \u2014 twenty lines (Singer (1928)\nXSinger, Dorothea Waley. Catalogue of Latin and Vernacular Alchemical Manuscripts. 3 vols. Brussels: Lamertin, 1928-31, 864)",
+    "_witnesses": {
+        "BodAsh759": {
+            "First Lines": "\nIn the monthes of Iune and Iulyvnderstond be then non\n                    dully\u2026\n",
+            "Last Lines": "\n\u2026which is cally anymalricher then the mynerall\n",
+            "Note": "\n10 couplets.",
+            "folio": "f. 55"
+        }
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "_id": 4715,
+    "_header": "Saint Matthew says in our gospel",
+    "Note": "For the version in the \u2018expanded\u2019 Cycle see 648.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Second Sunday in Lent in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nSaynte mathewe sais im oure gospell\u00feat ihesus \u021dode als\n                    awntir fell\u2026\n",
+            "Last Lines": "\n\u2026\u00fearebi a tale now will i telleIf \u021de will here\n                    awhile dwelle\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 79v-82v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Matheu sei\u00fe in vre gospel\u00deat Ihesu eode as Aunter\n                    fel\u2026\n",
+            "Last Lines": "\n\u2026And beo \u00feis tale may we wel kenHow flesches lust\n                    gyle\u00fe wyse men\n",
+            "Attributed Title": "\nEgressus Ihesu secessit impertes tyri & sidonis (f.\n                        183va)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 183va-184ra"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nSEynt Matheu seys in oure godspelle\u00deat ihesu went als auenture\n                    felle\u2026\n",
+            "Last Lines": "\n\u2026ffor alle by \u00feis tale may we kenneHowe lust makes foles\n                    of wyse men\n",
+            "Attributed Title": "\nDominica iia quadragesime secundum Mathium (p.\n                    125)",
+            "folio": "pp. 125-130"
+        },
+        "CULDd11": {
+            "First Lines": "\nSEynt matthew seyth in oure Gospel\u00deat ihesu \u021dede as\n                    aunter fel\u2026\n",
+            "Last Lines": "\n\u2026& be \u00feis tale may we wel kennehow fleschli lust\n                    marrith wise menne\n",
+            "Attributed Title": "\nDominica 2a quadragesime Euangelium secundum Matheum (f.\n                        102v)",
+            "folio": "ff. 102v-105"
+        },
+        "CULGg531": {
+            "First Lines": "\nSaint Mathew says in oure gospell\u00deat ihesu wende als aunter\n                    fell\u2026\n",
+            "Last Lines": "\n\u2026And \u00feis woman comm \u00fean hym toAnd lauted hym als hyr\n                    aghte to do\u2026\n",
+            "Note": "\nLines 1-18 only.",
+            "Attributed Title": "\nDominica secunda quadragesime Secundum lucam (f.\n                    70v)",
+            "folio": "f. 72v"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nSaint mathew sais in our gospellThat ihesus \u021dude als aunter\n                    fell\u2026\n",
+            "Last Lines": "\n\u2026How luste mas foules wysemenAnd by \u00feis tall may \u021de\n                    well kene\n",
+            "folio": "ff. 64-67"
+        },
+        "Lam260": {
+            "folio": "f. 27va"
+        },
+        "MinULZ822": {
+            "First Lines": "\nSaynte mathew says in oure gospell\u00feat Ihesu \u021dode als\n                    aunter fell\u2026\n",
+            "Last Lines": "\n\u2026& by \u00feis tale may men kenehow lust mase folys\n                    vnwysmen\n",
+            "Attributed Title": "\nDominica iia quadragesime Secundum Matheum (f.\n                    53)",
+            "folio": "ff. 53-56"
+        },
+        "HunHM129": {
+            "First Lines": "\nSeint mathew seith in oure gospell\u00deat ihesu \u021dede as a\n                    tyme fell\u2026\n",
+            "Last Lines": "\n\u2026\u00deat may \u021de se by an hermyte\u00feat for lykynge\n                    lefft his habyte\n",
+            "Attributed Title": "\nDominica secunda quadragesime (f. 73)",
+            "folio": "ff. 73-76"
+        }
+    }
+}

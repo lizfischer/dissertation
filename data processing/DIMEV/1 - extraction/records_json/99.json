@@ -1,0 +1,14 @@
+{
+    "_id": 99,
+    "_header": "A lord god mercy qui verba cuncta creasti",
+    "Subjects": "prayers, to God; God, prayers to; mercy, plea for",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Macaronic": "Latin",
+    "_description": "Prayer to God for mercy \u2014 one macaronic couplet",
+    "_witnesses": {
+        "YaleBei365": {
+            "First Lines": "\nA lord god mercy qui verba cuncta creastiHelpe kyng of\n                    cowmefort qui vitam semper amasti\n\n",
+            "folio": "f. 1v"
+        }
+    }
+}

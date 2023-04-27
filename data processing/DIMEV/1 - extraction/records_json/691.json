@@ -1,0 +1,55 @@
+{
+    "_id": 691,
+    "_header": "As we may by Saint Martin see / That was so full of charity",
+    "Title(s)": "Northern Homily Cycle ; St Martin and the Naked Pilgrim",
+    "Subjects": "Martin, saint",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "St Martin and the Naked Pilgrim, in the Northern Homily Cycle \u2014 in couplets",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nAls we maie be saynte martin se\u00feat was so full of\n                    charite\u2026\n",
+            "Last Lines": "\n\u2026\u00feat we in heuene him finde mayeAmen i rede \u00feat we\n                    all saye\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 110v-112v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nAS we may bi seint Martin se\u00deat was so ful of\n                    Charite\u2026\n",
+            "Last Lines": "\n\u2026\u00deat we in heuene hym fynde MayAnd wi\u00fe hym lyue\n                    euere in play. Amen.\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDie Evangelien-Geschichten der Homiliensammlung des Ms. Vernon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         57 (1877): 241-316: 275.\n",
+            "folio": "f. 186rb-186rc"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nAls we may by Seynt Martyn se\u00deat was so full of\n                    charite\u2026\n",
+            "Last Lines": "\n\u2026\u00deat we in heuene fynde it mayAnd \u00feore in blisse to\n                    lif for ay\n",
+            "folio": "pp. 177-180"
+        },
+        "CULDd11": {
+            "First Lines": "\nAs we may be seynt martyn se\u00deat was so ful of\n                    Charite\u2026\n",
+            "Last Lines": "\n\u2026And \u00feat it may so beSey we amen pur Charite\n",
+            "folio": "ff. 117v-119"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nAls we may be sainte martyn seThat was swa full of\n                    charite\u2026\n",
+            "Last Lines": "\n\u2026That we in heuen hym fynde mayAmen amen I rede we\n                    say\n",
+            "folio": "ff. 91-92v"
+        },
+        "BLHar2391": {
+            "First Lines": "\nAls we may be saynt martyn se\u00feat was so full of charite\u2026\n",
+            "Last Lines": "\n\u2026\u00feat we in heuen fynd mayAmen I red we all say\n",
+            "Attributed Title": "\nIn die pasche (left margin, f. 185v), with \u201cA tale\u201d written below",
+            "folio": "ff. 185v-187"
+        },
+        "MinULZ822": {
+            "First Lines": "\nals we may be saynt martyn se\u00feat was ful fulle of\n                    charyte\u2026\n",
+            "Last Lines": "\n\u2026\u00feat we in heuen fynde hym may& \u00feer to lyfe with\n                    & hys hallus ayand thurght his grace \u00feat yt saveAmen now all\n                    hale say we\n",
+            "folio": "ff. 80v-82"
+        },
+        "HunHM129": {
+            "First Lines": "\nAs we may be seint martyn se\u00feat wos so ful of gode\n                    charyte\u2026\n",
+            "Last Lines": "\n\u2026\u00deat we in heuyn hym fynd mayAnd \u00feare with hym ay\n                    lyue in play\n",
+            "Attributed Title": "\nnarracio (f. 94v)",
+            "folio": "ff. 94v-96"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "_id": 4129,
+    "_header": "Of Agamemnon under the large empire born in Athens",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Life of St. Giles\u2019",
+    "Subjects": "Giles, saint, life of; saints\u2019 lives; envoys",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, \u2018Life of St. Giles\u2019, including a prayer to that saint and envoy \u2014 forty-six 8-line stanzas (ababbcbc)",
+    "_witnesses": {
+        "BodLauMis683": {
+            "First Lines": "\nOf agamenoun vnder the large Empyreborn in athenys of grekis regall\n                    lyne\u2026\n",
+            "Last Lines": "\n\u2026yif thou be mene we stonde no thyng in wereto haue his mercy\n                    \u00feat bouhte us with his blood\n",
+            "Attributed Title": "\nHere begynneth the lyff of seynt Gyle (f. 33v)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 161-73.\n",
+            "folio": "ff. 33v-41v"
+        },
+        "BLHar2255": {
+            "First Lines": "\nOff Agamenoun vnder the large Empireborn in Athenys of grekys Roial\n                    lyne\u2026\n",
+            "Editions": "\nHorstmann,  Carl. \n             Altenglische Legenden: Neue Folge.\n         Heilbronn: Henninger, 1881: 371.\n",
+            "folio": "ff. 95v-103"
+        },
+        "BLLan699": {
+            "First Lines": "\n\u2026Bi a spiryt oonly of prophecieKnewh biforn whan thou\n                    sholdist passe\u2026\n",
+            "Last Lines": "\n\u2026Yiff thou be mene we stond nothyng in weereTo haue his mercy\n                    that bouht vs with his blood\n",
+            "Note": "\nLast 6 stanzas only. Folio number reflects the most recent\n                    foliation.",
+            "Attributed Title": "\nExplicit vita sancti Egidii (f. 2v)",
+            "folio": "ff. 2-2v"
+        },
+        "Leiden": {
+            "folio": "f. 1"
+        }
+    }
+}

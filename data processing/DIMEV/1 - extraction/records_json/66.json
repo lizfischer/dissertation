@@ -1,0 +1,78 @@
+{
+    "_id": 66,
+    "_header": "A holy monk had great yearning / In his life to see tokening",
+    "Note": "For another version see 4991.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "tales, religious didactic",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Monk who wished to see the least Joy in Paradise, in the Northern Homily Cycle \u2014 in couplets",
+    "_witnesses": {
+        "BodSelSup52": {
+            "First Lines": "\nA holy monke had grett \u021dernyngTo heyr in hys lyf som to\n                    kynyng\u2026\n",
+            "Last Lines": "\n\u2026\u00feat god for hys mercy graunt vs graceTo com to \u00feat\n                    blessydfull place\n",
+            "folio": "ff. 200-201v"
+        },
+        "BodAsh42": {
+            "First Lines": "\nA hali monke had grete \u021dernyngeIn his life to se takenynge\n                    \u2026\n",
+            "Last Lines": "\n\u2026\u00feare euire es mirthe and ioliteAmen amen all saie\n                    we\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 121v-123v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nAn holi Monk hedde gret longyngTo seo in his lyf sum\n                    toknyng\u2026\n",
+            "Last Lines": "\n\u2026God for his merci \u021diue vs graceTo gete sum part of heore\n                    solace. Amen.\n",
+            "Attributed Title": "\nOf a monk desirede to seo \u00fee leste blis of paradys (f.\n                        190rc)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDie Evangelien-Geschichten der Homiliensammlung des Ms. Vernon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         57 (1877): 241-316: 277.\n",
+            "folio": "ff. 190rc-190va"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nA holi monke had grete longyngTo se in his life summe\n                    tokenyng\u2026\n",
+            "Last Lines": "\n\u2026God for his merci gif vs graceTo come to \u00feat blissefull\n                    place\n",
+            "Attributed Title": "\nnarracio de monacho orante vt videret minimum gaudium paradisi (p.\n                    196)",
+            "folio": "pp. 196-198"
+        },
+        "CULDd11": {
+            "First Lines": "\nAn holi monk had gret longingto seen in his lyf sum\n                    toknyng\u2026\n",
+            "Last Lines": "\n\u2026& God of his merci \u021deue vs graceto gete sum merthe\n                    of hire solace\n",
+            "Attributed Title": "\nNarracio (f. 126)",
+            "folio": "ff. 126-127"
+        },
+        "CULGg531": {
+            "First Lines": "\nA haly monk had grete \u021dernyngTo se in hys lyf sum\n                    takenyng\u2026\n",
+            "Last Lines": "\n\u2026And bryng vs to \u00feat ilk blys\u00deat he as ordand for\n                    all hys\n",
+            "Attributed Title": "\nNarracio (f. 81v)",
+            "folio": "ff. 81v-82v"
+        },
+        "BLCottTibEVII": {
+            "folio": "f. 190vb"
+        },
+        "BLHar2391": {
+            "First Lines": "\nA holy monk had gret \u021deryngIn hys lyff to se takenyng\u2026\n",
+            "Last Lines": "\n\u2026\u00feer euer es myrth & IoliteAmen amen all say we\n",
+            "Attributed Title": "\nDominica iii post pasche (left margin, f. 189v), with \u201cA tale\u201d written above",
+            "folio": "ff. 189v-191"
+        },
+        "BLHar4196": {
+            "First Lines": "\nAne haly monk had grete langingIn his life to se sum takining\u2026\n",
+            "Last Lines": "\n\u2026\u00fean sal we beld with \u00feam in blis\u00fearto alweldand god vs wis\n",
+            "Attributed Title": "\nNarracio de monacho (rubric, f. 92va)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): II.203-206.\n",
+            "folio": "ff. 92va-93rb"
+        },
+        "Lam260": {
+            "folio": "f. 38ra"
+        },
+        "MinULZ822": {
+            "First Lines": "\nAne haly monke hade gret langyngTo se in hys lyfe some\n                    takenyng\u2026\n",
+            "Last Lines": "\n\u2026gode for hys mercy graunte vs \u00feat graceTo come in to\n                    \u00feat blysefull place\n",
+            "folio": "ff. 88v-89v"
+        },
+        "HunHM129": {
+            "First Lines": "\nA holy monk had grete langyngeTo se in his lyffe sum\n                    tokenynge\u2026\n",
+            "Last Lines": "\n\u2026God for his mercy gyff vs grasTo wyn sum parte of har\n                    solas\n",
+            "Attributed Title": "\nnarracio (f. 103v)",
+            "folio": "ff. 103v-105"
+        }
+    }
+}

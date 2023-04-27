@@ -1,0 +1,37 @@
+{
+    "_id": 4970,
+    "_header": "Some while I was with sin I-bound",
+    "Note": "See 442, 1954 for the end of this work preserved separately; and 1907 for extracts totalling 260 lines inserted in one MS of the \u2018Northern Passion\u2019, printed Foster (1913)\nXFoster, Frances Allen. The Northern Passion.\nEETS o.s. 145, 147 (1913, 1916); repr. 1971.",
+    "Title(s)": "La Estorie del Euangelie",
+    "Subjects": "translations; scripture texts, paraphrases; Christ, life of",
+    "Versification": "\u2014 four-line \u2014 aaaa, aabb",
+    "_description": "La Estorie del Euangelie \u2014 1876 lines in monorhyming quatrains",
+    "_witnesses": {
+        "BodAddC38": {
+            "Editions": "\n\nCampbell,  Gertrude H. \n             \u201cThe Middle English \u2018Evangelie.\u2019\u201d \n             PMLA\n         30 (1915): 529-613, 851-3: 545-610.\nMillward,  Celia,\n                        ed.  \n             The Estorie del Evangelie: A Parallel-Text Edition.\nMiddle English Texts\n         30. Heidelberg: Winter, 1998. \n\n",
+            "folio": "f. 71v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSum while ich was wi\u00fe sunne i boundeAnd sunne me hath icast to\n                    grounde\u2026\n",
+            "Last Lines": "\n\u2026He schal his of sunne bringeAs crist and lord of alle\n                    \u00feinge\u2026\n",
+            "Note": "\n396 lines; ends imperfectly due to loss of folios 106-113.",
+            "Attributed Title": "\nla estorie del Euangelie en engleis (f. 105ra)",
+            "Editions": "\n\nHorstmann,  Carl. \n             \u201cLa Estorie de Euangelie.\u201d \n             Englische Studien\n         8 (1885): 259-75: 254.\nHorstmann,  Carl,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 1.\nEETS\n         o.s. 98 (1892; repr. 1973): 1.1-11.\nMillward,  Celia,\n                        ed.  \n             The Estorie del Evangelie: A Parallel-Text Edition.\nMiddle English Texts\n         30. Heidelberg: Winter, 1998. \n\n",
+            "folio": "f. 105ra-105vc"
+        },
+        "Dulwich22": {
+            "First Lines": "\nSum whyle i was wyt sinne ibundeAnt sinne me hauid cast to\n                    grunde\u2026\n",
+            "Last Lines": "\n\u2026Ant of nazaret him bi gan to hyeAnt to bethleem weys\n                    guye\u2026\n",
+            "Note": "\n519 lines; ends imperfectly.",
+            "Editions": "\n\nCampbell,  Gertrude H. \n             \u201cThe Middle English \u2018Evangelie.\u2019\u201d \n             PMLA\n         30 (1915): 529-613, 851-3: 545-80.\nMillward,  Celia,\n                        ed.  \n             The Estorie del Evangelie: A Parallel-Text Edition.\nMiddle English Texts\n         30. Heidelberg: Winter, 1998. \n\n",
+            "folio": "ff. 81v-85v"
+        },
+        "UnivLonSLV17": {
+            "First Lines": "\n[S]um while iwas with synne ibounde& synne me ha\u00fe i caste\n                    to brounde\u2026\n",
+            "Last Lines": "\n\u2026ffor wo hem was of \u00fee ty\u00feynge& serew made &\n                    grete mornynge\u2026\n",
+            "Note": "\n2209 lines. Ends imperfectly at l. 1672.",
+            "Editions": "\nMillward,  Celia,\n                        ed.  \n             The Estorie del Evangelie: A Parallel-Text Edition.\nMiddle English Texts\n         30. Heidelberg: Winter, 1998. \n",
+            "folio": "ff. 97va-111vb"
+        }
+    }
+}

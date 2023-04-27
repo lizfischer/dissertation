@@ -1,0 +1,25 @@
+{
+    "_id": 3355,
+    "_header": "Man if that thou wilt flee sin / Never more to come therein",
+    "Note": "Part of the \u2018Continuation\u2019 of Handlyng Synne (1283), for which see Sullivan (1978)\nXSullivan, S. A. \u201cHandlyng Synne in Its Tradition: A Study of Robert Mannyng of Brunne\u2019s Handlyng Synne and Its Relation to Other Instructional Works, in Order to Establish the Place of the Poem in Its Genre.\u201d Diss. Cambridge, 1978. Other sections are 378, 1598, 3099, 3339, 3358.",
+    "Subjects": "virtues, principal; sins, deadly",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "The Seven Virtues opposed to the Seven Deadly Sins, illustrated by Narrationes \u2014 454 lines in couplets",
+    "_witnesses": {
+        "CULIi49": {
+            "First Lines": "\nMan if \u00feat \u00feu wylt fle synneNeuer more to come \u00feer\n                    Inne\u2026\n",
+            "Last Lines": "\n\u2026\u00deat god in heuen plesyd beAmen Ame ffor\n                    Charyte\n",
+            "Note": "\n458 lines.",
+            "Attributed Title": "\nHec sunt virtutes Septem. Prima virtus humilitas (f. 165);\n                        Expliciunt vij medicine contra peccata mortalia (f. 173)",
+            "folio": "ff. 165-173"
+        },
+        "BLHar3954": {
+            "First Lines": "\nMan \u021dyf \u00feat \u00feu wylt fle synneNeuer more to come \u00feerInne\u2026\n",
+            "Last Lines": "\n\u2026And for our synnus ofte to wepe\u00feat god in heuene may plecyd beAmen Amen for charyte\n",
+            "Attributed Title": "\nHec sunt vii virtutes contra vii vices Prima humilitas contra superbiam (rubric above first line, f. 78va); Explicit Medicina contra peccata (below last line, f. 80rb)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 3954.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_3954. \n",
+            "Editions": "\nBraekman,  W. L. \n             \u201cThe Seven Virtues as Opposed to the Seven Vices.\u201d \n             Neuphilologische Mitteilungen\n         74 (1973): 247-68: 247.\n",
+            "folio": "ff. 78va-88rb"
+        }
+    }
+}

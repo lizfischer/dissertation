@@ -1,0 +1,72 @@
+{
+    "_id": 3651,
+    "_header": "My song is in singing / My life is in longing",
+    "Note": "For a small portion of this piece in slightly varied form see 6482; for another verse piece in the same treatise see 3617.",
+    "Title(s)": "Cantus Amoris; Ego dormio",
+    "Subjects": "love, divine and human",
+    "Versification": "\u2014 two-line, three-line, six-line \u2014 aa, aaa, aaaaaa, aabccb",
+    "Bibliographic Ghosts": "Paris, Biblioth\u00e8que Mazarine 514 ; Cambridge UK, Magdalene College Pepys 2125, f. 99v: this lyric omitted from this copy of Ego Dormio; London, British Library Egerton 3245 [olim Gurney]: not in this MS",
+    "_description": "\u2018Cantus Amoris,\u2019 rhyming lines in the treatise, Ego dormio \u2014 93 lines in varying meters and stanzaic patterns including long-line couplets with or without medial rhyme, monorhyming 3-6-line stanzas, and a six-line stanza aabccb",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nIhesu crist my song is in syngyngMi lyf is in\n                    longing\u2026\n",
+            "Last Lines": "\n\u2026\u00feorw si\u021dt of \u00fei schinyngeIn heuene with outen\n                    endynge\n",
+            "Attributed Author": "\nExplicit quoddam notable Ricardi heremite (f.\n                    339ra)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 1.60.\nAllen,  Hope Emily. \n             English Writings of Richard Rolle.\n         Oxford: Clarendon, 1931: 70.\n\n",
+            "folio": "ff. 338vb-339ra"
+        },
+        "BodRawA389": {
+            "First Lines": "\nMy song is in sittyngMy lyf is in longyng\u2026\n",
+            "Last Lines": "\n\u2026\u00feour\u021de si\u021dte of \u00fei shynyngeIn heuen\n                    wi\u00feoute endynge\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 98v-99"
+        },
+        "CULDd564": {
+            "First Lines": "\nMy sange es in syhtyngmy lyfe es in langyngetil I \u00fee se\n                    my keyngso fayre in \u00fei schynyng\u2026\n",
+            "Last Lines": "\n\u2026thorow syght of \u00fei schynyngin heuen with owten\n                    endyng\n",
+            "Attributed Author": "\nExplicit tractatus Ricardi heremite de hampole scriptus quondam monaci\n                        de \u021dedyngham (f. 29)",
+            "Attributed Title": "\nExplicit tractatus Ricardi heremite de hampole scriptus quondam monaci\n                        de \u021dedyngham (f. 29)",
+            "Editions": "\n\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 1.60.\nAllen,  Hope Emily. \n             English Writings of Richard Rolle.\n         Oxford: Clarendon, 1931: 70.\nKaiser,  Rolf,\n                        ed.  \n             Alt- und mittelenglische Anthologie.\n         Berlin-Charlottenburg: E. Sch\u00fctt, 1954: 171.\nKaiser,  Rolf,\n                        ed.  \n             Alt- und mittelenglische Anthologie.\n         Berlin-Charlottenburg: E. Sch\u00fctt, 1954: 203.\nDavies,  Reginald Thorne. \n             Medieval English Lyrics: a critical anthology.\n         London, 1963; Evanston, IL: Northwestern UP, 1964: 108-10.\n\n",
+            "folio": "Part III, ff. 28-29"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nIhesu crist my song is in syngyngMi lyf is in\n                    longyng\u2026\n",
+            "Last Lines": "\n\u2026\u00deorw si\u021dt of \u00fei schynyngeIn heuene withoute\n                    endynge. Amen A M E N\n",
+            "Note": "\nTwo-column format. Written as prose.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 151rb2-151va"
+        },
+        "BLAdd37790": {
+            "First Lines": "\nMy sange is in sighyngemy life is in langynge\u2026\n",
+            "Last Lines": "\n\u2026The fyrst degree of luf is Insuperablethe second\n                    InseperableThe thyrde Syngular\n",
+            "Note": "\nWritten as prose. The ending of the verse item in this manuscript\n                    differs from other manuscript sources significantly.",
+            "folio": "ff. 135-135v"
+        },
+        "WestmSch3": {
+            "First Lines": "\nMi songe is in si\u021dyngemy lyif is in\n                    longyngetil \u00feat I see my swetynge\u2026\n",
+            "Last Lines": "\n\u2026\u00fean schal we syngethorow sy\u021dt of \u00fei\n                    schynyngein heuene withouten endynge. Amen So be it . good\n                    Ihesu\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 230-231"
+        },
+        "Longleat29": {
+            "First Lines": "\nMy songe is in seghyngeMy lif is in langynge\u2026\n",
+            "Last Lines": "\n\u2026And I \u00fei loue shal synge\u00ferogh syght in \u00fey\n                    shynyngeIn heuyn with outen endynge Amen\n",
+            "Note": "\nWritten as prose with line divisions indicated.",
+            "Editions": "\nOgilvie-Thomson,  J. S.,\n                        ed.  \n             Richard Rolle: Prose and Verse.\nEETS 293 o.s. 293 (1988): 32-3.\n",
+            "folio": "ff. 47-47v"
+        },
+        "SteGene3390": {
+            "First Lines": "\nMI song is in syngyngmy loue is in longyng\u2026\n",
+            "Last Lines": "\n\u2026\u00feorou\u021d si\u021dt of \u00fei schynyngIn heuene\n                    wi\u00fe outen endyng\n",
+            "Attributed Author": "\nExplicit Ricardus Hampole (f. 108v)",
+            "folio": "ff. 107-108v"
+        },
+        "TokyoTak66": {
+            "First Lines": "\nMi songe is in si\u021dingeMi loue is in\n                    longynge\u2026\n",
+            "Last Lines": "\n\u2026And I \u00fei loue xal synge\u00feoru si\u021dt in \u00fei\n                    schynyngein heuen withoutyn ende\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 28v-29"
+        }
+    }
+}

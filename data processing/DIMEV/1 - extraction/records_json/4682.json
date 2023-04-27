@@ -1,0 +1,21 @@
+{
+    "_id": 4682,
+    "_header": "Saint Luke us leres full openly",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel, \u2018In Nativitate Sancti Iohannis baptiste\u2019, in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "Note": "\nLacking lines 1-4.",
+            "folio": "f. 104v"
+        },
+        "BLHar4196": {
+            "First Lines": "\nSaint luke us leres ful opinlyElizabeth \u00fee aunt of mary\u2026\n",
+            "Last Lines": "\n\u2026To \u00feat blis god bring vs ilkonethurgh \u00fee beseking of saint Iohn\n",
+            "Note": "\nreceded by Latin, \u201cElizabeth impletum est temper & cetera.\u201d",
+            "Attributed Title": "\nIn Natiuitate sancti Iohannis baptiste (rubric, f. 151va)",
+            "folio": "ff. 151va-152va"
+        }
+    }
+}

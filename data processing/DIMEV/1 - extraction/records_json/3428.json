@@ -1,0 +1,70 @@
+{
+    "_id": 3428,
+    "_header": "Mary Mother of grace we cryen to Thee",
+    "Note": "A translation of Anselm\u2019s Admonitio morienti.",
+    "Subjects": "Virgin Mary, prayers to; sermons, verse in; translations; prayers, to Virgin Mary, and saints",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A prayer to the Virgin Mary and All Saints (10 lines), a tag in the Fasciculus morum",
+    "_witnesses": {
+        "Bod410": {
+            "First Lines": "\nMary moder of grace we cry to \u00feemoder of mercy & of\n                    pite\u2026\n",
+            "Last Lines": "\n\u2026Help \u00feat ctyst my gyst for\u021dyf \u00feat will hym\n                    serue whill I lyfe\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 6v"
+        },
+        "BodLauMis213": {
+            "First Lines": "\nMary modyr of grace we cryin to \u00feeModyr of mercy and of\n                    pyte\u2026\n",
+            "Last Lines": "\n\u2026Help \u00feat crist my gult for \u021dyfe\u00feat wull hym\n                    serue whil I life\n",
+            "Note": "\nWritten as prose, 1 x 10.",
+            "folio": "ff. 8-8v"
+        },
+        "BodLauMis111": {
+            "First Lines": "\nMary moder of grace we crye vn to \u00feeModer of mercy and of\n                    pyteWyte vs fro \u00fee fendes fondyngeAnd helpe vs at oure last\n                    endyng\u2026\n",
+            "Last Lines": "\n\u2026help \u00feat crist my gylt for \u021diueAnd I wol hym serue\n                    wil I lyue\n",
+            "Note": "\nWritten as verse.",
+            "folio": "ff. 59-59v"
+        },
+        "BodRawC670": {
+            "First Lines": "\nMary moder of grace we cryen to \u00feeModer of mercy and of\n                    pyte\u2026\n",
+            "Last Lines": "\n\u2026Helpe \u00feat Cryst my gult for\u021deueAnd I wol him serue\n                    whyl \u00feat I leue\n",
+            "Editions": "\n\nWoolf,  Rosemary. \n             The English Religious Lyric in the Middle Ages.\n         Oxford: Clarendon, 1968: 120.\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 143-4.\nSilverstein,  Theodore,\n                        ed.  \n             Medieval English Lyrics.\n         York Medieval Texts. London: Edw. Arnold, 1971: 76-7.\n\n",
+            "folio": "ff. 15v-16"
+        },
+        "CamGon71": {
+            "First Lines": "\nMary moder of grace we cry to \u00feemoder of mercy & of\n                    pyte\u2026\n",
+            "Last Lines": "\n\u2026helpe \u00feat criste my gylth for gyue& wilt hym serue\n                    will I lyue\n",
+            "Editions": "\n\nRobbins,  Rossell Hope. \n             \u201cPopular Prayers in Middle English Verse.\u201d \n             Modern Philology\n         36 (1939): 337-50: 345.\nSaupe,  Karen,\n                        ed.  \n             Middle English Marian\n                    Lyrics.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1998: 128; 248.\n\n",
+            "folio": "f. 17v"
+        },
+        "CamGon364": {
+            "First Lines": "\nMarie moder of grace we crien to \u00feeModer of merci hey & al\n                    so of pite\u2026\n",
+            "Last Lines": "\n\u2026Helpyth \u00feat crist mi gilt for\u021deueand i wele hym\n                    serue whil i leue\n",
+            "folio": "f. 9ra"
+        },
+        "CamStJohn159": {
+            "First Lines": "\nModer of mercy & of piteedefend vs fro \u00fee fendys\n                    fondynge\u2026\n",
+            "Last Lines": "\n\u2026helpe \u00feat crist my gylt for gyfAnd swilke hym serue wyl\n                    I leyfe\n",
+            "Note": "\nWritten as prose; 4 1/2 x 2, or 9 lines in couplets, the first a\n                    single.",
+            "folio": "f. 40v"
+        },
+        "EDU82": {
+            "First Lines": "\nMary moder of grace whe crye to theModer of mercy and of\n                    pyte\u2026\n",
+            "Last Lines": "\n\u2026help that criste my syne for yeveand I woll hym serue whyle I\n                    lyue\n",
+            "Note": "\nLatin prose interupts after line 6.",
+            "folio": "ff. 14v-15"
+        },
+        "Lincoln44": {
+            "First Lines": "\nMary moder of grace we cri to \u00feeModer of mercy & of\n                    pyte\u2026\n",
+            "Last Lines": "\n\u2026helpe \u00feat crys may gylt for gyfeAnd I wyl hym serue wile\n                    I leue\n",
+            "folio": "ff. 160rb-160va"
+        },
+        "WorcF19": {
+            "First Lines": "\nMarie modir of grace we crye to \u00feeModir of mercy & of\n                    pyte\u2026\n",
+            "Last Lines": "\n\u2026help \u00feat crist my gylt for \u021defeAnd wel wol y serue\n                    hym wyle y lyue\n",
+            "folio": "f. 164ra"
+        },
+        "VaticanOtto": {
+            "folio": "f. 6"
+        }
+    }
+}

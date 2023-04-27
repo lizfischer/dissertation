@@ -1,0 +1,23 @@
+{
+    "_id": 3016,
+    "_header": "Kyrieleyson have mercy good Lord",
+    "Subjects": "litanies",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "Macaronic": "Latin",
+    "_description": "A Litany \u2014 twenty-five 8-line stanzas",
+    "_witnesses": {
+        "Longleat30": {
+            "First Lines": "\nKyrieleyson haue mercy good lordeCristeleyson we crye now to\n                    \u00fee\u2026\n",
+            "Last Lines": "\n\u2026And teche vs alle \u00fee for to pleseThat deydest for vs\n                    chrsteleysonkyrieleyson\n",
+            "Note": "\n24 stanzas.",
+            "folio": "ff. 46v-48v"
+        },
+        "HunHM142": {
+            "First Lines": "\n\nKyrieleyson haue mercy good lordeCristeleyson we crye\n                    now to \u00fee\u2026\n",
+            "Last Lines": "\n\u2026And teche us alle \u00fee for to pleseThat deydest for us\n                        christeleyson\n\n",
+            "Note": "\nAfter end, on next line, rubric\n                    \u2018Kyrieleyson\u2019.",
+            "Editions": "\nSchulz,  Herbert. C. \n             \u201cMiddle English Texts from the \u2018Bement\u2019 Manuscript.\u201d \n             Huntington Library Quarterly\n         3 (1940): 440-65: 460-5.\n",
+            "folio": "ff. 41v-44v"
+        }
+    }
+}

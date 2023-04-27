@@ -1,0 +1,20 @@
+{
+    "_id": 2479,
+    "_header": "In beginning word it was / And the word at God it was",
+    "Note": "For other versions of this Gospel see 463 and 874.",
+    "Title(s)": "In principio erat verbum;",
+    "Subjects": "scripture texts, Engl. trans. of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018In principio erat verbum\u2019 (Gospel \u2018In die natalis ad altam missam\u2019) \u2014 16 rough couplets",
+    "_witnesses": {
+        "Bod425": {
+            "folio": "f. 106v"
+        },
+        "CULAdd6860": {
+            "First Lines": "\nIn bygingnys word it wasAt god him self \u00fee word it\n                    ros\u2026\n",
+            "Last Lines": "\n\u2026And god hym self \u00fee word is he\u00feat was and euirmor\n                    schal be\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 99"
+        }
+    }
+}

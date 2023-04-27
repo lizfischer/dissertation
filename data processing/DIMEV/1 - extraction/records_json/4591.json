@@ -1,0 +1,29 @@
+{
+    "_id": 4591,
+    "_header": "Saint Etheldreda of Ely good woman was and hende",
+    "Note": "For a quatrain version, see 4815.",
+    "Title(s)": "South English Legendary",
+    "Subjects": "Etheldreda, saint, life of; saints\u2019 lives",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Etheldreda in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "Bod779": {
+            "First Lines": "\nE\u00feeldrede of ely gode mayde was & hendehere fadir was king\n                    of ingelond of al \u00fee est ende\u2026\n",
+            "Last Lines": "\n\u2026of here me make\u00fe in holy chirche gret feste a \u021der I\n                    wisnow god for \u00fee loue of here bring vs to heuin blis\n",
+            "Attributed Title": "\nE\u00feildrede \u00fee holy virgyne (f. 279v)",
+            "folio": "ff. 279v-280"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Aeldrede of heli god Mayde was and hendeHire fader was kyng\n                    of Engelonde of al \u00fee Est ende\u2026\n",
+            "Last Lines": "\n\u2026Of hire me make\u00fe in Heli gret feste a \u021der i wisNou\n                    God for \u00fee loue of hire bring vs to heuene blis. A.M.E.N.\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 33rb-33va"
+        },
+        "BLEge1993": {
+            "First Lines": "\nSeint aeldri of eli god mon was & hendeHire fader was king of engelond of al \u00feat est ende\u2026\n",
+            "Last Lines": "\n\u2026Of hire me make\u00fe in eli gret feste a\u021der iwisNow god for \u00fee loue of hire bring us to heuene blis\n",
+            "Note": "\nEnds \u201cAmen\u201d (f. 163v).",
+            "folio": "ff. 163-163v"
+        }
+    }
+}

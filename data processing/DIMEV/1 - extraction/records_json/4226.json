@@ -1,0 +1,221 @@
+{
+    "_id": 4226,
+    "_header": "Of them that written us tofore",
+    "Note": "See 4227 for the B Text, 4228 for the C Text, and 4229 for fragments.",
+    "Author(s)": "John Gower",
+    "Title(s)": "Confessio Amantis",
+    "Subjects": "tales; love",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Macaronic": "Latin",
+    "_description": "John Gower, Confessio Amantis, A Text \u2014 in eight Books and a Prologue: the longest version has about 34,000 lines",
+    "_witnesses": {
+        "BodArcSelB11": {
+            "First Lines": "\nTO hem that written vs be foreThe bokes dwelle we\n                    therfore\u2026\n",
+            "Last Lines": "\n\u2026Where Resteth loue and alle peesOur Ioye may been\n                    endeles\n",
+            "Attributed Author": "\nJohannis Gower",
+            "Attributed Title": "\n\nConfessio Amantis\n",
+            "folio": "ff. 1-169"
+        },
+        "BodAsh35": {
+            "First Lines": "\nSo stant \u00fee pes un even partidWith hem \u00feat lyuen nowe a\n                    daiesBot forto loke at all asaiesTo hym \u00feat wold resoun\n                    seche\n",
+            "Last Lines": "\n\u2026[         ]\u00fee and in seyenges[            ]st of his pleyenges\n",
+            "Note": "\nSeveral leaves missing; begins Pro. 170, ends 8.3082. Outer half of f. 182 torn away, so only beginning of lines appear in col. a on f. 182 and ends of lines in col. b on 182v remain; thus only 32 lines of Version A would have remained on a leaf now lost.",
+            "folio": "ff. 1ra-182vb"
+        },
+        "Bod693": {
+            "First Lines": "\nOf hem \u00feat writen us to fore\u00fee bokes dwelle & we\n                    \u00feerfore\u2026\n",
+            "Last Lines": "\n\u2026Where reste\u00fe loue & all pesOure ioie may ben\n                    endeles\n",
+            "Attributed Author": "\nIohn Gower",
+            "Attributed Title": "\n\nNomenque presentis opusculi Confessio Amantis specialiter intitulatur\n",
+            "folio": "ff. 1ra-196"
+        },
+        "Bod902": {
+            "First Lines": "\nAnd namely but \u00fee powerOf hem \u00feat ben \u00fee worldes\n                    guydes\u2026\n",
+            "Last Lines": "\n\u2026Wher reste\u00fe loue and alle peesOure ioye mai been\n                    eendelees\n",
+            "Note": "\nThe first leaf is lost, its place is supplied by a sixteenth-century\n                    transcript of the missing prologue entitled: \u2018Prologus. Hic imprimis\n                        declarat Iohannes Gower quam ob causam presentem libellum composuit et\n                        finaliter compleuit. Anno regni regis Ric Secundi: 16\u2019. The\n                    transcript begins with: \u2018Of them that writen vs to fore / bookes dwell and\n                    we therefore\u2019; ends with Latin metrical explicit and Gower\u2019s account\n                    of his works in Latin.",
+            "folio": "ff. 1-184"
+        },
+        "BodLauMis609": {
+            "First Lines": "\nOff hem \u00feat writen us tofore\u00fee bookes dwelle & we\n                    \u00feer fore\u2026\n",
+            "Last Lines": "\n\u2026Wher reste\u00fe loue and all pesOure ioye may ben endeles\n                    Amen\n",
+            "Note": "\nTen leaves missing.",
+            "folio": "ff. 1-170"
+        },
+        "OxfCCC67": {
+            "First Lines": "\nOff hem \u00feat writen vs toforeThe bookes dwelle and we\n                    \u00feerfore\u2026\n",
+            "Last Lines": "\n\u2026Wher reste\u00fe loue and alle peesOure ioye may ben\n                    endeles\n",
+            "Note": "\nFour leaves missing; text continues to 207vb in Latin (and\n                    rubric).",
+            "Attributed Author": "\nGower (f. 207va)",
+            "Attributed Title": "\nConfessio Amantis specialiter intitulatur Deo Gracias (f.\n                        207vb)",
+            "folio": "ff. 2ra-207va"
+        },
+        "OxfNew326": {
+            "First Lines": "\nOff hem \u00feat writen ous toforeThe bokes duelle and we\n                    \u00feerfore\u2026\n",
+            "Last Lines": "\n\u2026Wher reste\u00fe sone and al pesOure ioie may ben\n                    endeles\n",
+            "Note": "\nFour leaves missing.",
+            "Attributed Author": "\nExempla super huius opusculi sui complementum Iohanni Gower a quodam\n                        Philosopho transmissa (f. 194",
+            "Attributed Title": "\nExempla super huius opusculi sui complementum Iohanni Gower a quodam\n                        Philosopho transmissa (f. 194)",
+            "folio": "ff. 1-194"
+        },
+        "OxfMagd213": {
+            "First Lines": "\nOf hem that writen vs toforeThe bokes duelle and we\n                    therfore\u2026\n",
+            "Last Lines": "\n\u2026Where reste loue and all peesOure ioye may ben\n                    endeles\n",
+            "Note": "\nNine leaves missing.",
+            "folio": "pp. 1-377"
+        },
+        "OxfChrCh148": {
+            "First Lines": "\nOff hem \u00feat writen vs toforeThe bookes dwelle and we\n                    \u00feerfore\u2026\n",
+            "Last Lines": "\n\u2026Do make his testament of loueAs \u00feou hast do \u00fey\n                    schrift aboue\n",
+            "Note": "\nThe MS is unfoliated.",
+            "Attributed Author": "\nHic declarat \u2026[reve]rentiam sereniss[imi] Regis Anglie Ricardi\n                        [secundi] \u2026 Johannes Gower licet \u2026multiplicibus fatigatus\n                        \u2026 suscipere non recusavit [et] variis floribus recollectis [ex] variis\n                        Cronicam historiis \u2026 (folio is damaged)",
+            "Attributed Title": "\nNomenque praesentis Opusculi Confessio Amantis specialiter\n                        intitulatur (at the end)",
+            "folio": ""
+        },
+        "CULDd819": {
+            "First Lines": "\nof hem that writen vs to foreThe bokes dwelle and we\n                    therfore\u2026\n",
+            "Last Lines": "\n\u2026And \u00feus \u00feere lasten in that stedeWith hym thre\n                    hundred & no mo\u2026\n",
+            "Note": "\nMany leaves missing; ends VII, 3683.",
+            "Attributed Author": "\nJohannes Gower (f. ii, added by later hand)",
+            "folio": "ff. 1-130v"
+        },
+        "CULMm221": {
+            "First Lines": "\nOf hem \u00feat Writen vs to foreThe bokes duelle & kep\n                    \u00feer fore\u2026\n",
+            "Last Lines": "\n\u2026Wher reste\u00fe loue and alle peesOure Joye may been\n                    endelees\n",
+            "Attributed Author": "\nJoh. Goweri (added by later hand, top f. 1)",
+            "Attributed Title": "\nConfessio amantis (added by later hand, top f. 1); Torpor hebes\n                        sensus scola\u2026 (Latin prose intro., f. 1)",
+            "folio": "ff. Ira-CLXXXIIIvb"
+        },
+        "CamPem307": {
+            "First Lines": "\nOf hem \u00feat writen vs toforeThe bookes dwelle & we\n                    \u00feerfor\u2026\n",
+            "Last Lines": "\n\u2026Wher reste\u00fe loue and all peesOure Ioie may ben\n                    endelees\n",
+            "Attributed Author": "\nJohannem Gower (f. 197r)",
+            "Attributed Title": "\nExplicit super huius operis opustli qui complementum Iohannem Gower a\n                        quodam Philosopho transmissa (f. 197ra)",
+            "folio": "ff. 1-197"
+        },
+        "CamStCat7": {
+            "First Lines": "\nOff hem \u00feat were vs by foreThe bokes dwel and we\n                    \u00feerfore\u2026\n",
+            "Last Lines": "\n\u2026Nowe haue y seid al \u00feat \u00feer isOf bue as for \u00fey\n                    final ende\u2026\n",
+            "Note": "\nSeveral leaves missing; ends imperfectly.",
+            "folio": "ff. 1ra-188vb"
+        },
+        "CamStJohn34": {
+            "First Lines": "\nOf hem \u00feat writen ous to foreThe bokes duelle and we \u00feer\n                    fore\u2026\n",
+            "Last Lines": "\n\u2026Wher reste\u00fe loue and alle pesOure ioie may ben\n                    endeles\n",
+            "Attributed Author": "\nJohannes Gower (f. 214rb)",
+            "folio": "ff. 1ra-214rb"
+        },
+        "BLAdd22139": {
+            "First Lines": "\n\u2026 \u00feat luste apiere\u2026\n",
+            "Last Lines": "\n\u2026Where resteth loue and all peesOure Ioy may ben\n                    endelees\n",
+            "Note": "\nBegins imperfectly because most of folio 1 cut away, leaving only lower\n                    border with coat of arms on 1r and bottoms of last lines, with three\n                    words discernable in col. b (see above), identifying it as line Prol. 85*; and\n                    last line of each column on f. 1va (\u2018\u2026Nought vpon oon\n                        but vpon [al]\u2026\u2019; f. 1vb \u2018\u2026In which\n                        non woot who hathe \u00fee werre\u2026\u2019 = lines 125 and 176 of\n                    the Prologue), beginning again on f. 2ra with Prol. 177-180\n                        (\u2018\u2026ffor euery lond himself deceyue\u00fe / And of desese his\n                        part receyue\u00fe / And \u021dit take men no keepeBut \u00feilke lord\n                    which al may keepe\u2026\u2019), and thereafter damage to most leaves in first\n                    quire, and many leaves missing throughout the volume; followed by the usual\n                    Latin endings, written in black rather than the usual rubric.",
+            "folio": "ff. 1rb-137va"
+        },
+        "BLEge913": {
+            "First Lines": "\nOf hem that writen vs toforeThe bokes dwelle and we\n                    therefore\u2026 \n",
+            "Last Lines": "\nHim \u00feenke\u00fe wel ny\u021d his hert breke\u00fe[\u2026]\n                    sorwe \u00feat he may not flee[\u2026]lde vntrewe be[\u2026]an for\n                    his heele[\u2026]h Canele[\u2026] sucre[\u2026]ere\n                    lucre[\u2026] [\u2026]ete[\u2026]e\n\n",
+            "Note": "\nPrologue and Book 1.1-1709. Preceded by the usual Latin lines, beginning\n                        \u2018Torpor hebes sensus scola\u2026\u2019, followed by large red\n                    initial \u2018O\u2019 to left of Incipit prologus.",
+            "folio": "f. 1-47v"
+        },
+        "BLEge1991": {
+            "First Lines": "\nWh[ic]h [a]l \u00fee [wor]ld ha\u00fe ouertakTher is no regne of\n                    all outake\u2026\n",
+            "Last Lines": "\nWher reste\u00fe loue and alle pesOur ioye [\u2026] ben\n                    endeles\n",
+            "Note": "\nAcephalus due to loss of a single folio at beginning, so begins Prol.\n                    135; folio 1r much damaged, very dark from wear(?); English ending\n                    followed by the usual rubric Latin endings, fols\n                        214rb-214va.",
+            "folio": "ff. 1ra-214ra"
+        },
+        "BLHar3490": {
+            "First Lines": "\nOf hem that wryten vs to foreThe bookes dwelle and we ther\n                    fore\u2026\n",
+            "Last Lines": "\n\u2026And eke somdele for luste and gameI haue it made for thilke\n                    same\n",
+            "Note": "\nEnds at VIII.3062*, but with bottom of column and all column b left\n                    blank.",
+            "folio": "ff. 8-215va"
+        },
+        "BLRoy18Cxxii": {
+            "First Lines": "\nOff hem \u00feat writen vs toforeThe bookes duelle & we\n                    \u00feerforeBen taught of \u00feat was writen \u00feoffor \u00fei good\n                    is \u00feat we also\u2026\n",
+            "Last Lines": "\n\u2026where reste\u00fe loue and all peesOure ioye may been\n                    endeles\n",
+            "Attributed Author": "\nGower (in usual rubric Latin ending, \u2018Quia\n                    conxere\u2026\u2019, f. 206ra)",
+            "Attributed Title": "\nConfessio Amantis (in usual rubric Latin ending, f.\n                    206rb)",
+            "folio": "ff. 1-205v"
+        },
+        "BLSto950": {
+            "First Lines": "\n\u2026Ne hyde it nought for yif thou feynestI can do the no\n                    medicyneMa dame I am a man of thyneThat in thy Courte haue longe\n                    serued\u2026 \n",
+            "Last Lines": "\n\u2026I sih with many an other mooWhich hadden bee fortuned\n                    sore\u2026 \n",
+            "Note": "\nBegins 1.166; many leaves missing; ends 3.361.",
+            "folio": "f. 1-176v"
+        },
+        "GULHun7": {
+            "First Lines": "\nOff hem \u00feat writen vs toforeThe bookes dwelle and we\n                    \u00feerfore\u2026\n",
+            "Last Lines": "\n\u2026Hem \u00feought it sowne\u00fe in here EreAs \u00feough\n                    \u00feat it an Aungel were\u2026\n",
+            "Note": "\nLast sixteen leaves and eight others are missing.",
+            "folio": "ff. 1ra-179vb"
+        },
+        "CollArmsAr45": {
+            "First Lines": "\nOf hem \u00feat writen vs to fore\u00dee bokes dwelle & we\n                    \u00feerfore\u2026\n",
+            "Last Lines": "\n\u2026With pitous herte and thus to sayIt is al reson that \u021de\n                    prayQualiter suadentibus nautis corpus vxoris\u2026\n",
+            "Note": "\nEnds incomplete at 8.1102 and missing one quire; two leaves foliated\n                    107; last line written over with brown and red ink as if scribe noticed it was\n                    misplaced here. Note that MS number is corrected from Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943,\n                    \u2018LXV.\u2019",
+            "folio": "f. 1ra-167vb"
+        },
+        "SocAnt134": {
+            "First Lines": "\nOff hem \u00feat writen vs toforeThe bookis dwelle & we\n                    \u00feerfore\u2026\n",
+            "Last Lines": "\n\u2026Where reste\u00fe loue and all peesOure ioye may ben\n                    endelesA M E N\n",
+            "Note": "\nFollowed by usual Confessio Amantis envoys on f.\n                        249va-249vb, all in rubric.",
+            "Attributed Title": "\nIncipit prologue libri qui vocatur Gower (f.\n                    30va)",
+            "folio": "ff. 30va-249rb"
+        },
+        "Chetham6696": {
+            "First Lines": "\n\u2026To thinke Apon the daies oldeThe lyf of Clerkes to\n                    eholdeMen sayn how \u00feat in thei wern thoEnsample &\n                    rule of all tho\u2026\n",
+            "Last Lines": "\n\u2026Where Resteth loue & all pesOure Ioye may ben\n                    endles\n",
+            "Note": "\nBegins Prologue 193; many omissions; at end in a scroll,\n                    \u2018Notehurste\u2019.",
+            "folio": "ff. 1-126v"
+        },
+        "Chicago335": {
+            "First Lines": "\n\u2026In middlerth I sey al soPryde is \u00fee cause of al\n                    woo\u2026\n",
+            "Last Lines": "\n\u2026Where reste\u00fe loue and al peesOure Ioie may be\n                    endles\n",
+            "Note": "\nBegins imperfectly at book 1, line 3305; Latin verse and prose continues\n                    after English concludes, ending \u2018Confessio amantis specialiter\n                        intitulatur\u2019.",
+            "Attributed Author": "\nJohannes Gower De Confessio Amantis (s. xviii), folio i",
+            "Attributed Title": "\nJohannes Gower De Confessio Amantis (s. xviii), folio i",
+            "folio": "ff. 1ra-110rb"
+        },
+        "Plimpton265": {
+            "First Lines": "\n\u2026a tonne whan his lye aristeTobreke\u00fe & renne\u00fe\n                    al abouteWhich elles scholde nought gon oute\u2026\n",
+            "Last Lines": "\n\u2026uppon \u00fee ground tofore his yhenand \u00feey \u00feat my\n                    disese syhenSupposen not I scholde lyve\u2026\n",
+            "Note": "\nBegins at Prologue 504, ends Bk. 8, v. 2791.",
+            "folio": "ff. 1-171v"
+        },
+        "PierpontM125": {
+            "First Lines": "\nBut ofte is [seen] \u00feat mo[chel slouth][ ]ma[\n                    ]\u2026\n",
+            "Last Lines": "\n\u2026[ ] reste\u00fe loue [ ] alle p [ ][ ]ioie may been endele[s\n                    ]\n",
+            "Note": "\nBegins at Prologue 342; pages at beginning and end damaged by damp, so\n                    part of text lost.",
+            "Attributed Author": "\nExplicit liber qui vocatur Gower (180ra)",
+            "Attributed Title": "\nExplicit liber qui vocatur Gower (180ra)",
+            "folio": "ff. 1ra-180ra"
+        },
+        "PierpontM126": {
+            "First Lines": "\nOf hem that wryten us beforeThe bokes dwelle and we ther\n                    fore\u2026\n",
+            "Last Lines": "\n\u2026Wher resteth loue and alle peesOure Ioye may been\n                    endelees\n",
+            "Note": "\nUsual prose colophons, to 204v; lacks two leaves in Bk.\n                    4.",
+            "Attributed Author": "\nJohannem Gower (204rb)",
+            "Attributed Title": "\nConfessio amantis specialiter intitulatur (f.\n                    204v)",
+            "folio": "ff. 1ra-204rb"
+        },
+        "PierpontM690": {
+            "First Lines": "\n\u2026ffor euery climat ha\u00fe his delAfter \u00fee turnyng of\n                    \u00fee whel\u2026\n",
+            "Last Lines": "\n\u2026I fel on kneus vpon \u00fee greeneAnd toke my leeue forto\n                    wende\u2026\n",
+            "Note": "\nBegins Prologue 162; ends imperfectly.",
+            "folio": "ff. 2ra-204vb"
+        },
+        "PhilRos108329": {
+            "First Lines": "\nOff hem \u00feat writen vs beforeThe bookes dwelle and we\n                    \u00feerfore\u2026\n",
+            "Last Lines": "\n\u2026And eke somdel for lust and gameI haue it made for \u00feilke\n                    same\u2026\n",
+            "Note": "\nIn 1924 added last 56 lines of text on folio 162, copying letter forms;\n                    verse on 162rb ends (added 1924): \u2026Wher reste\u00fe loue and\n                    alle pes / Oure ioye mai ben endeles.",
+            "folio": "ff. 1ra-161vb"
+        },
+        "PULGar136": {
+            "First Lines": "\nOf hem \u00feat writen vs to fore\u00fee bokes dwelle & we\n                    \u00feerfore\u2026\n",
+            "Last Lines": "\n\u2026Where reste\u00fe loue & al pesOure Ioy may be\n                    endeles\n",
+            "Note": "\nAfter last line, \u2018Amen Amen Amen / Explicit iste liber\u2019 (f.\n                        191rb).",
+            "folio": "ff. 1ra-191rb"
+        },
+        "EscorGII19": {
+            "folio": ""
+        }
+    }
+}

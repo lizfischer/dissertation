@@ -1,0 +1,23 @@
+{
+    "_id": 2711,
+    "_header": "It falleth for every gentleman",
+    "Note": "See Whiting (1968)\nXWhiting, Bartlett Jere. Proverbs, Sentences, and Proverbial Phrases from English Writings Mainly before 1500. Cambridge, MA: Belknap, 1968, G45",
+    "Subjects": "precepts; speech, advice concerning",
+    "Versification": "\u2014 eight-line \u2014 aabbcdcd",
+    "Bibliographic Ghosts": "Oxford, Bodleian Library Rawlinson C.83 (SC 11948), f. 31: this MS has only 7 folios and does not seem to contain any verse.",
+    "_description": "Speak no evil behind a friend\u2019s back \u2014 short poem, accompanied by Latin",
+    "_witnesses": {
+        "Bod315": {
+            "Transcription": "\nHit falleth to a gentil manTo say \u00fee best \u00feat he canOf\n                    euery man in his absenceAnd say hym soth in his presence\n",
+            "Note": "\nFirst four lines only; occurs with 1879, 6568, 6621.5, 6644 (the last formerly included with this; all\n                    originally copied from Cornwall,  olim Launceston Priory,  a wall inscription, no longer visible).",
+            "Editions": "\n\nRobbins,  Rossell Hope. \n             \u201cWall Verses at Launceston Priory.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         200 (1963): 338-43: 342, 353.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 562.\n\n",
+            "folio": "f. 268ra-b"
+        },
+        "CamTCC595": {
+            "Transcription": "\nIt falleth for every gentlemanTo saie the best that he canIn\n                    mannes absenceAnd the sothe in his presenceIt cometh by kinde of\n                    gentle bloddeTo cast awaie all heuynesseAnd gader togider wordes\n                    goodThe werke of wisdome beareth wittnesse\n",
+            "Note": "\nEight lines; immediately follows 6299 as if another stanza.",
+            "Editions": "\n\nRobbins,  Rossell Hope. \n             \u201cWall Verses at Launceston Priory.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         200 (1963): 338-43: 342, 353.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 562.\n\n",
+            "folio": "f. 3"
+        }
+    }
+}

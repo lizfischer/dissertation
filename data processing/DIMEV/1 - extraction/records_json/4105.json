@@ -1,0 +1,52 @@
+{
+    "_id": 4105,
+    "_header": "O ye creatures that be reasonable",
+    "Note": "For other MSS that have a Prologue of five stanzas see 4107.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "Dance of Macabre",
+    "Subjects": "death, dance of",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "Bibliographic Ghosts": "Cambridge MA, Harvard University, Houghton Library, Eng. 752 [olim *27282. 67.10; priorAshburnham 131]: A single stanza (22) inserted in the text of Lydgate\u2019s Troy Book. [Thus Bergen, but the lines he cites do not appear on f. 44 in this MS.]",
+    "_description": "John Lydgate, \u2018Dance of Macabre\u2019 \u2014 seventy-three 8-line stanzas",
+    "_witnesses": {
+        "Bod686": {
+            "First Lines": "\nHec scriptura deus pompam luxumque relegatInque choris nostris\n                    ducere festa monetCreatures ye \u00feat be resonableThe life desiryng\n                    whiche is eternal\u2026\n",
+            "Last Lines": "\n\u2026Sit Iugiter cuncti sapientes vinere certentVt velut inferni\n                    sit metuenda palus\n",
+            "Attributed Title": "\nHere begynne\u00fe a tretis of the daunce of Poulys otherweyes called\n                    Makabre (f. 209); Here endeth a tretis of the daunce of Poules otherweyes called\n                    Makabre (at the end)",
+            "folio": "ff. 209-216"
+        },
+        "OxfCCC237": {
+            "First Lines": "\nO creatures \u021de \u00feat ben resonabylleThe lyfe desyring\n                    wheche ys eternall\u2026\n",
+            "Last Lines": "\n\u2026To eschewe peyne & come to gloryWhele ys hym that so may\n                    at \u00fee laste\n",
+            "Note": "\n70 eight-line stanzas.",
+            "Attributed Title": "\nThe daunce of Powlys (f. 147)",
+            "folio": "ff. 147-157"
+        },
+        "BLCottVesAXXV": {
+            "First Lines": "\nO ye creatures that be ResonableThe lyffe desyring that be\n                    naturall\u2026\n",
+            "Last Lines": "\n\u2026Bewaire be tyme & labour for mercy in stantlyWho tresteth\n                    most there stait shall oftymes be begyled\n",
+            "Note": "\n49 stanzas only",
+            "Editions": "\nB\u00f6ddeker,  Karl. \n             \u201cEnglische Lieder und Balladen aus dem 16 Jahrhundert, nach einer\n                Handschrift der Cottonianischen Bibliothek des Britischen Museums.\u201d \n             Jahrbuch f\u00fcr romanische und englische Sprache- und\n                Literatur\n         15 (or n.f. 3) (1876): 92-129 [2590 (3)]: 115.\n",
+            "folio": "ff. 172-177v"
+        },
+        "BLLan699": {
+            "First Lines": "\nO Creatures that been resonableThe liff desiryng which is\n                    eternall\u2026\n",
+            "Last Lines": "\n\u2026And vse vertu prayer & almesse deedeAnd than I dar sey ye\n                    shal doon the bettir\n",
+            "Note": "\nFolio number reflects to the most recent foliation.",
+            "Attributed Title": "\nIncipit macrobius (f. 41)",
+            "Editions": "\nWarren,  Florence,  and  Beatrice White, eds.  \n             The Dance of Death.\nEETS\n         o.s. 181 (1931); repr. 1971: 7-77.\n",
+            "folio": "ff. 41v-50v"
+        },
+        "Lincoln129": {
+            "First Lines": "\nO Creaturs that been resounnablethe lyff desiryng which is\n                    eternallye may see heer doctryne ful notableYour lyff to leede the\n                    which that is mortall\u2026\n",
+            "Last Lines": "\n\u2026and vse vertu prayeer & almesse deedeand than I dar say\n                    ye shal do the bettir\n",
+            "Note": "\n55 stanzas.",
+            "Attributed Author": "\nIncipit Macrobius (f. 79)",
+            "Editions": "\nWarren,  Florence,  and  Beatrice White, eds.  \n             The Dance of Death.\nEETS\n         o.s. 181 (1931); repr. 1971: 7-77.\n",
+            "folio": "f. 79v-86"
+        },
+        "Leiden": {
+            "folio": "f. 29v"
+        }
+    }
+}

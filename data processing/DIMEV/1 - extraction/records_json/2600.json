@@ -1,0 +1,15 @@
+{
+    "_id": 2600,
+    "_header": "In the day of Saint Swithin",
+    "Note": "Cf. Wright and Halliwell-Phillipps (1845)\nXThomas Wright, and James Orchard Halliwell-Phillipps. Reliquiae Antiquae. 2 vols. London: Smith, 1845, 1.93.",
+    "Subjects": "prognostications; translations",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "A quatrain (abab) translating \u2018Si pluat in festo processi S. Martiniari\u2019 etc. which follows",
+    "_witnesses": {
+        "CamEmm27": {
+            "Transcription": "\nIn \u00fee daye of seynte SvythoneVane ginne\u00fe riniggefforti\n                    dawes mid ywonellestez such ti\u00feinge\n",
+            "Editions": "\nRobbins,  Rossell Hope. \n             \u201cEnglish Almanacks of the XVth Century.\u201d \n             Philological Quarterly\n         18 (1939): 321-31: 322.\n",
+            "folio": "f. 164"
+        }
+    }
+}

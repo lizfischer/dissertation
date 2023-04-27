@@ -1,0 +1,56 @@
+{
+    "_id": 6629,
+    "_header": "Whoso speaketh of thing that is unrest",
+    "Author(s)": "Hendyng (attrib.)",
+    "Subjects": "sermons, verse in; tongue, advice concerning use of",
+    "Versification": "\u2014 six-line \u2014 ababab",
+    "_description": "A single stanza ascribed to \u2018Hendyng\u2019 but not occurring in the Proverbs of Hendyng (see 2800 and 3383), a six-line tag in the Fasciculus Morum.",
+    "_witnesses": {
+        "Bod410": {
+            "folio": "f. 2v"
+        },
+        "BodLauMis111": {
+            "Transcription": "\nWo so speket ofte of \u00feynk \u00feat is vnwrest\u00feou hit seme\n                    softwen he speketh most he sachal hyt heryn on loftwen he wenth\n                    lest\n",
+            "Note": "\nWritten as prose; followed immediately by English prose saying of\n                    Hending: \u2018Et so let thy tunge rest And ye ne schal nouth rew quod\n                    hyndyng\u2019.",
+            "folio": "f. 52"
+        },
+        "BodLauMis213": {
+            "Transcription": "\nWho so spekith offte of thyng \u00feat ys vn wrestthow hyt seme\n                    sofft when he spekyth mestehe schall hyt heryn a loffteWhen he\n                    wenet leste\n",
+            "Note": "\nWritten as prose; followed by prose saying, \u2018let \u00fei tonge\n                    reste & ye ne schall rwe quod hendyng\u2019 (f.\n                    3v).",
+            "folio": "f. 3v"
+        },
+        "BodRawC670": {
+            "Transcription": "\nWho so spekyth [oft]Of \u00feyng \u00feat is vn wrest\u00deouh\n                    hit seme softWhen he spekyth mestHe schal hit heren on [loft]When\n                    he wenyth lest\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 138.\n",
+            "folio": "f. 10"
+        },
+        "OxfLinLat52": {
+            "Transcription": "\nWho so spekis oftof thyng \u00feat is nou\u021dtWost \u00feerof\n                    it seme softWhen he it spekis mostHe sall it here on loftWhen he\n                    wenys lest\n",
+            "Note": "\nImmediately preceded by 6052.",
+            "folio": "f. 3rb"
+        },
+        "CamGon71": {
+            "folio": "f. 14v"
+        },
+        "CamGon364": {
+            "folio": "f. 3va"
+        },
+        "EDU82": {
+            "Transcription": "\nWho so spekys ofteof thyng that now is resteThaw it seme\n                    softewhen he spekes mestehe schal hit here on loftewhen he wenes\n                    lestelatt thy tonge rest and the not rewe\n",
+            "Note": "\nWritten two lines of text per line of MS; after ends, \u2018quod\n                    hendyng\u2019 (f. 7v).",
+            "folio": "f. 7v"
+        },
+        "Lincoln44": {
+            "Transcription": "\nWho so spekyt oftof \u00feyng \u00feat is vn wreste\u00feau hit\n                    seme\u00fe softwan he spehet mosthe schall hyt hure on lestWene\n                    he wene\u00fe lest\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.451.\n",
+            "folio": "f. 157va"
+        },
+        "WorcF19": {
+            "folio": "f. 16rb"
+        },
+        "VaticanOtto": {
+            "folio": "f. 2v"
+        }
+    }
+}

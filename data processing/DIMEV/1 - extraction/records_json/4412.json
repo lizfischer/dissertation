@@ -1,0 +1,16 @@
+{
+    "_id": 4412,
+    "_header": "Primum nomen istius prisone vocatur",
+    "Note": "Last two words in each stanza are Latin.",
+    "Subjects": "prison/prisoners",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "Macaronic": "Latin",
+    "_description": "Seven Names of a Prison \u2014 eight stanzas rhyme royal",
+    "_witnesses": {
+        "BLHar7256": {
+            "Note": "\nIncorrect shelfmark. MS indeterminate. Robbins  and  Cutler (1965)\nXRossell Hope Robbins,   and  John L. Cutler.  \n             Supplement to the Index of Middle English Verse.\n         Lexington, Kentucky: University of Kentucky Press, 1965 says\n                    \u2018MS. to be established\u2019; Hamer (1995)\nXHamer,  Richard. \n             A Manuscript Index to the Index of Middle English Verse.\n         London: British Library, 1995 says not Harley\n                    2756, f. 35, and lists as Unidentified, Missing or\n                    Destroyed.",
+            "Editions": "\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.27.\n",
+            "folio": "f. 35"
+        }
+    }
+}

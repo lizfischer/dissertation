@@ -1,0 +1,22 @@
+{
+    "_id": 2970,
+    "_header": "Joseph and Mary maiden good / Had mickle marvel\u2026",
+    "Note": "For the ordinary text of this gospel see 5345 and 5613.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel, \u2018Dominica infra octabas nativitatis\u2019, in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 115ra"
+        },
+        "BLHar4196": {
+            "First Lines": "\nIoseph and mari maiden gudeHad mekill meruail in \u00feaire mode\u2026\n",
+            "Last Lines": "\n\u2026ffor wele \u00feai wist whare \u00feai gan wende\u00deat he was noght \u00fee childes frende\n",
+            "Note": "\nPreceded by Latin, \u201cErant Ioseph & Maria & cetera.\u201d",
+            "Attributed Title": "\nDominica infra octobas natiuitatis cristi Euangelium secundum Lucam (rubric, f. 26va)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): I.243-247.\n",
+            "folio": "ff. 26va-27rb"
+        }
+    }
+}

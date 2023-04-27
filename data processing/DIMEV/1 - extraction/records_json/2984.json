@@ -1,0 +1,25 @@
+{
+    "_id": 2984,
+    "_header": "Katherine with glorious Margaret",
+    "Title(s)": "\u2018De tribus Virginibus Katerina Margareta & Magdalena\u2019",
+    "Subjects": "Katherine of Alexandria, saint; Margaret, saint; Mary Magdalen, saint",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "\u2018De tribus Virginibus Katerina Margareta & Magdalena\u2019 \u2014 four 8-line stanzas (ababbcbc)",
+    "_witnesses": {
+        "CamJes56": {
+            "First Lines": "\n[K]aterina with glorious margarete\u00deat be virgines and martires\n                    both two\u2026\n",
+            "Last Lines": "\n\u2026By \u00fee prayer of \u00feees sayntes allIhesu haue marcye\n                    when we vn to \u00fee call\n",
+            "Note": "\n3 x 8, ababbcbc, plus 1 x 6, ababcc",
+            "Attributed Title": "\nDe tribus Virginibus Katerina Margareta & Magdalena (f.\n                    76)",
+            "folio": "ff. 76-76v"
+        },
+        "BLHar2255": {
+            "First Lines": "\nKateryne with glorious Margaretethat be virgines and martirs both\n                    tweyne\u2026\n",
+            "Last Lines": "\n\u2026Bi the prayeer of thes seyntis alleIhu haue mercy whan we to\n                    the calle\n",
+            "Attributed Author": "\nExplicit quod lidgate (f. 115v)",
+            "Attributed Title": "\nIncipit de tribus virginibus Katerine Margerite & Magdelene (f.\n                    115, in rubric)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 134-5.\n",
+            "folio": "f. 115"
+        }
+    }
+}

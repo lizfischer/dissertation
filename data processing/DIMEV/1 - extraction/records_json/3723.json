@@ -1,0 +1,20 @@
+{
+    "_id": 3723,
+    "_header": "Now Christ Jesu soothfast priest and king",
+    "Subjects": "prayers, to Christ; Christ, prayer to",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "A prayer to Jesus \u2014 five stanzas rhyme royal",
+    "_witnesses": {
+        "Longleat30": {
+            "First Lines": "\nNOw criste iheu so\u00feefast preest & kyngAnd for mankynde\n                    mooste worthi werriour\u2026\n",
+            "Last Lines": "\n\u2026Alle \u00feat be sory and scabbed eke with synneRather with\n                    pyte \u00fean with reddure wynneAmen\n",
+            "folio": "ff. 19-19v"
+        },
+        "HunHM142": {
+            "First Lines": "\nNOw criste Ihesu so\u00feefast preest & kyngeAnd for mankynde\n                    mooste worthi werriour\u2026\n",
+            "Last Lines": "\n\u2026Alle \u00feat be sory and scabbed eke with synneRather with\n                    pite \u00fean with reddure wynne\n",
+            "Editions": "\nSchulz,  Herbert. C. \n             \u201cMiddle English Texts from the \u2018Bement\u2019 Manuscript.\u201d \n             Huntington Library Quarterly\n         3 (1940): 440-65: 457-8.\n",
+            "folio": "ff. 16-16v"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "_id": 4408,
+    "_header": "Pride pride woe thou be mater visiorum",
+    "Subjects": "sins, deadly; satires; Satan",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Macaronic": "Latin",
+    "_description": "Against Pride and Flaunting Manners \u2014 twenty macaronic lines in couplets",
+    "_witnesses": {
+        "DublinNatLib1435": {
+            "First Lines": "\nPryd pryd wo thow be mater uisyorumLucifer alas for the\n                        gaudia polorum\u2026\n",
+            "Last Lines": "\n\u2026He putth hyt hand in hys powrs cum nichyll intus\n                    fueratHe ffownd none \u00feer saw godeys cowrs hoc non sibi\n                        deerat\n\n",
+            "Editions": "\nSeymour,  St. John Delincourt. \n             \u201cThree Medieval Poems from Kilkenny.\u201d \n             Proceedings of the Royal Irish Academy\n         41(c) (1932-33): 205-9: 207.\n",
+            "folio": "piece of vellum"
+        },
+        "PROC4734112": {
+            "Transcription": "\nPryde pryde wo thow be mater uisyorumLucifer has lost [ ]ia\n                        gaudiorumLucifer was f[ ]i polorumBot for pride he fal\n                    [ ]vala saculorum\u2026\n",
+            "Note": "\nPortions illegible due to water damage and wear.",
+            "folio": "f. 2v"
+        }
+    }
+}

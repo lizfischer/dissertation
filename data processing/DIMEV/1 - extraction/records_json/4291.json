@@ -1,0 +1,79 @@
+{
+    "_id": 4291,
+    "_header": "One year other two",
+    "Note": "Cf. 6588.",
+    "Author(s)": "Walter de Henley",
+    "Title(s)": "Le Dite de Hoseboundrie",
+    "Subjects": "proverbs; sin, consequences of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Cambridge UK, Corpus Christi College 301, f. 141v: this Walter of Henley text does not include these English lines; Oxford, Bodleian Library Selden Supra 74 (SC 3462).",
+    "_description": "An English proverb \u2014 two short couplets in Le Dite de Hoseboundrie by Walter de Henley",
+    "_witnesses": {
+        "BodDou98": {
+            "Transcription": "\nOn yer other thowrong wile on hond gon\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 188"
+        },
+        "BodRawB471": {
+            "Transcription": "\nOn yer and other wrong wol and hond goand euere atte ende\n                    wrong wol wende\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 2"
+        },
+        "OxfMert321": {
+            "Transcription": "\nOn yer other twoWrong wol an honde goand euere atte \u00fee\n                    endewrong wol wende\n",
+            "folio": "f. 153v"
+        },
+        "CULEe11": {
+            "Transcription": "\nOn \u021deer o\u00feer toWroge wylle on honde goAnt euere aten\n                    hendewrong wile wende\n",
+            "Editions": "\n\nLamond,  Elizabeth,\n                        ed.  \n             Walter of Henley\u2019s Husbandry.\n         London, New York: Longmans, Green, 1890: 4.\nMustanoja,  Tauno F. \n             How the Good Wife Taught her Daughter, etc.\n         Helsinki: Suomalaisen Kirjallisuuden Scuran, 1948: 75n.\nMustanoja,  Tauno F. \n             \u201cThe Index of Middle English Verse: Corrections, Additions,\n                Deletions.\u201d \n             Neuphilologische Mitteilungen\n         49 (1948): 126-33: 130.\n\n",
+            "folio": "f. 251ra"
+        },
+        "CULHh311": {
+            "Transcription": "\no \u021deyr o\u00feer twowrong wole an ond goAnd euere at\n                    \u00fean endewrange wele wende\n",
+            "folio": "f. 77v"
+        },
+        "CamTCC1438": {
+            "Transcription": "\nOn yer and otherwrong wol and hond goand euere atte\n                    endewrong wol wende\n",
+            "Attributed Title": "\nfee\u021d sage e ne eye\u021d de nuly a tort / beau fi\u021d seie\u021d\n                        sages en vos fe\u021d (f. 99)",
+            "folio": "f. 99"
+        },
+        "BLAdd6159": {
+            "Transcription": "\nO \u021dier o\u00feer thwoWrong wole an honde goAnde euere aten\n                    endewrong wole wende\n",
+            "Attributed Author": "\nSire Walter de Henley (f. 222)",
+            "Attributed Title": "\nLe dite de hosebounderie (f. 222)",
+            "folio": "f. 222r2"
+        },
+        "BLHar3860": {
+            "Transcription": "\nAi\u00feer o\u00feir tua wrangwil on hands gaAnd euir at \u00fee endeWrange wil wende\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 3860.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_3860. \n",
+            "folio": "f. 78ra"
+        },
+        "NLWPen22": {
+            "folio": ""
+        },
+        "CantRegJ": {
+            "Transcription": "\nOn \u021dier o\u00feer twowrong wole an honde goand euere aten\n                    endewrong wole wende\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\n\nHistorical Manuscripts Commission Ninth Report: Calendar of the\n                Manuscripts of the Most Hon. The Marquis of Salisbury, K. G., etc., preserved at\n                Hatfield House, Hertfordshire.\n         24 vols. (1883-84, with addenda to 1976): App., 75.\n",
+            "folio": "p. 2002"
+        },
+        "CantRegP": {
+            "folio": ""
+        },
+        "GuildhallHorn": {
+            "Note": "\nNineteenth-century transcription by H. T. Riley, Cambridge UK,  Cambridge University Library Addit. 4026, p. 45.",
+            "folio": ""
+        },
+        "BNfr7011": {
+            "folio": ""
+        },
+        "AclandHood": {
+            "Note": "\nHamer (1995)\nXHamer,  Richard. \n             A Manuscript Index to the Index of Middle English Verse.\n         London: British Library, 1995 notes as Unidentified, Missing or\n                    Destroyed.",
+            "folio": ""
+        },
+        "Alnwick468": {
+            "Note": "\nNot Listed in Hamer (1995)\nXHamer,  Richard. \n             A Manuscript Index to the Index of Middle English Verse.\n         London: British Library, 1995.",
+            "folio": ""
+        }
+    }
+}

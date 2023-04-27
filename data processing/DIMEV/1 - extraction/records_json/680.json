@@ -1,0 +1,32 @@
+{
+    "_id": 680,
+    "_header": "As the philosopher in meters doth write",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 212; attributed to George Ripley, with Epistle (in Ashmole (1652)\nXAshmole, Elias. Theatrum Chemicum Britannicum. London: J. Grimond, 1652, 109-11) dedicating 975 to Edward IV [Singer (1928)\nXSinger, Dorothea Waley. Catalogue of Latin and Vernacular Alchemical Manuscripts. 3 vols. Brussels: Lamertin, 1928-31, 810A].",
+    "Author(s)": "George Ripley (attrib.)",
+    "Subjects": "alchemy; Edward IV, work dedicated to",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "Bibliographic Ghosts": "Oxford, Corpus Christi College 172, ff. 39v-43: epilogue to 975",
+    "_description": "An alchemical poem on the red, black and white stones \u2014 in 8-line stanzas",
+    "_witnesses": {
+        "BodAsh759": {
+            "First Lines": "\nAs the philosopher in metheours doith writeThat the liknesse of\n                    bodies metalline be not transmutable\u2026\n",
+            "Last Lines": "\n\u2026Thus shall ye haue bothe gret elixer and aurum potabileBy the\n                    grace of God to whom be laude and joy eternally\n",
+            "Note": "\n168 lines; the rest of the text on f. 105v has been\n                    erased.",
+            "folio": "ff. 103-105v"
+        },
+        "BodAsh1442": {
+            "First Lines": "\nTake maydens vrine yonge of AgeAshen burnte bothe salte &\n                    lyme\u2026\n",
+            "Last Lines": "\n\u2026And if I had more tyme & spacebetter to saye God sende me\n                    grace\n",
+            "Note": "\n124 lines; written two lines of verse per line in MS.",
+            "folio": "pp. 16-19"
+        },
+        "BLSl3747": {
+            "folio": "ff. 102-105"
+        },
+        "BLSl3667": {
+            "Note": "\n168 lines.",
+            "Editions": "\nAshmole,  Elias. \n             Theatrum Chemicum Britannicum.\n         London: J. Grimond, 1652: 111-16.\n",
+            "folio": "ff. 157v-160v"
+        }
+    }
+}

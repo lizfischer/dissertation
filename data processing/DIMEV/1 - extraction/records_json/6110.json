@@ -1,0 +1,29 @@
+{
+    "_id": 6110,
+    "_header": "Unkind man give keep to me",
+    "Author(s)": "Richard Rolle (attrib.); Bernard of Clairvaux (attrib.)",
+    "Subjects": "Christ, appeal of, to man; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Appeal of Christ to Man from the Cross \u2014 fifteen couplets",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nUn kuinde mon \u021dif kep to meAnd seo what pyne i soffre for\n                    \u00fee\u2026\n",
+            "Last Lines": "\n\u2026Ouer al \u00feis \u021dit I wisIn eor\u00fee my grace in\n                    heuene my blis\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 334ra"
+        },
+        "CULDd564": {
+            "First Lines": "\nUnkynde man gif kepe til meand loke what payne I suffer for\n                    \u00fee\u2026\n",
+            "Last Lines": "\n\u2026\u00dee unkyndenes \u00feat I fynd in \u00fee\u00feat for\n                    \u00fei lufe \u00feus hynged on tre\n",
+            "Editions": "\n\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 1.71.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 93.\nComper,  Frances M. M. \n             The Life of Richard Rolle, Together with an Edition of his English\n                Lyrics.\n         London: J. M. Dent, 1928, 1933; New York: E. P. Dutton, 1929: 282-3.\nWoolf,  Rosemary. \n             The English Religious Lyric in the Middle Ages.\n         Oxford: Clarendon, 1968: 39.\n\n",
+            "folio": "Part III, f. 34"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nUn kynde Mon \u021dif kepe to meAnd se what pyne I suffre for\n                    \u00fee\u2026\n",
+            "Last Lines": "\n\u2026Ouer al \u00feis \u021dit I wisIn eor\u00fee mi grace In\n                    heuene my blis\n",
+            "Note": "\nTwo-column format. Written as prose.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "fd. 146vb-147ra"
+        }
+    }
+}

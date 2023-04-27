@@ -1,0 +1,20 @@
+{
+    "_id": 4975,
+    "_header": "Some time befell so in this land",
+    "Note": "For the usual text see 56 and 5598.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Thais, saint; exempla",
+    "_description": "Thais, a Narratio in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 196rb"
+        },
+        "BLHar4196": {
+            "First Lines": "\nSum tyme bifell so in \u00feis landA comun woman was dwelland\u2026\n",
+            "Last Lines": "\n\u2026And se\u00fein hir gast to god gaf schoGod grante vs grace so forto do\n",
+            "Attributed Title": "\nNarratio de meretrice (rubric, f. 96vb)",
+            "Editions": "\n\nRosenthal,  Constance Lowegrund. \n             The Vitae Patrum in Old and Middle English Literature.\n         Philadelphia, 1936; repr. Folcroft, PA: Folcroft Library,\n            1974: 159-60.\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): II.231-233.\n\n",
+            "folio": "ff. 96vb-97ra"
+        }
+    }
+}

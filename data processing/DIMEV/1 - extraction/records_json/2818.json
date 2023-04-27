@@ -1,0 +1,33 @@
+{
+    "_id": 2818,
+    "_header": "Jesu Christ my leman sweet that diedest on the Rood-Tree",
+    "Note": "For an adaptation to the Virgin Mary see 3024.",
+    "Subjects": "Christ, wounds of; prayers, by Christ and His Passion",
+    "Versification": "\u2014 four-line \u2014 aaaa",
+    "_description": "A prayer of the Five Wounds \u2014 one long monorhyming quatrain",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "Transcription": "\nIhesu Crist my lemmon swete\u00feat dy\u021dedest on \u00fee Rode\n                    treWi\u00fe al my miht I \u00fee bi secheffor \u00feyne woundes two\n                    and \u00fere\u00deat as depe in to myn herteMot \u00fei loue I stiked\n                    beAs was \u00fee spere in to \u00feyn herteWhon \u00feou suffredest\n                    de\u00fe for me\n",
+            "Note": "\nAppended to 5988;\n                    written as eight lines.",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 476.\nDavies,  Reginald Thorne. \n             Medieval English Lyrics: a critical anthology.\n         London, 1963; Evanston, IL: Northwestern UP, 1964: 117.\n\n",
+            "folio": "f. 300rb1"
+        },
+        "BLHar2316": {
+            "Transcription": "\nIhesu cryst myn leman swete\u021dat for me deyedes on rode treWiht al myn herte i \u021de bisekefor \u021di wudes to and thre\u021cat al so faste in to myn herte\u021di loue roted mute beAs was \u021de spere in to \u021di sidewhan \u021dow suffredis ded for me\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 2.119.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 68.\nOliver,  Raymond. \n             Poems Without Names: The English Lyric 1200-1500.\n         Berkeley, CA: University of California, 1970: 58.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 234.\n\n",
+            "folio": "f. 25r2"
+        },
+        "BLAdd22283": {
+            "Transcription": "\nIhesu crist me lemmon swete\u00deat di\u021dedest on \u00fee Rode\n                    treWith al my mi\u021dt I \u00fee bisecheffor \u00feyne woundes two\n                    and \u00fere\u00deat is deope In to myn herteMot \u00fei loue I stiked\n                    beAs was \u00fee spere In to \u00fein herteWhon \u00feou suffredest\n                    de\u00fe for me Amen\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 90vb1"
+        },
+        "Lam559": {
+            "Transcription": "\nIhesu criste mi lord swetethat deidist on the rode trewith all\n                    mi hert I the bisechefor thi wundes two or threthat also fast in hert\n                    mynmote thi loue stykid beso was the scharpe sperewhen thou\n                    suffirdist deth for me\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 35-35v"
+        }
+    }
+}

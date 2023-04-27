@@ -1,0 +1,15 @@
+{
+    "_id": 1536,
+    "_header": "Go little book of commendation",
+    "Subjects": "envoys",
+    "Versification": "\u2014 eight-line",
+    "_description": "Envoy at the end of a Commentary on the Psalter \u2014 three 8-line stanzas",
+    "_witnesses": {
+        "NLS1885": {
+            "First Lines": "\nGoo litle book of commendacionI pray to god that right wele must\n                    thowe spede\u2026\n",
+            "Last Lines": "\n\u2026shewyng howe goddes lawe shall yeue theym meedeIn euer\n                    lastyng blisse where that rest is\n",
+            "Editions": "\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 97.\n",
+            "folio": "f. 53"
+        }
+    }
+}

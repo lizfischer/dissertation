@@ -1,0 +1,60 @@
+{
+    "_id": 5183,
+    "_header": "That was well on Saint Edmund seen",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Edmund, saint; devil; Satan",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "St. Edmund and the Devil; Narratio in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodSelSup52": {
+            "First Lines": "\nYt was on sant Edmund seneTo qwom ye fend was full\n                    kene\u2026\n",
+            "Last Lines": "\n\u2026\u00feat ledes to Ioy \u00feat lastes ayAmen I red \u00feat\n                    we all say\n",
+            "Note": "\n13 couplets.",
+            "folio": "f. 200"
+        },
+        "BodAsh42": {
+            "First Lines": "\n\u00feat was on saynte Edmunde seneOn whaim te fende was full\n                    kene\u2026\n",
+            "Last Lines": "\n\u2026\u00feat lastis euer more & aieAmen Amen i rede we\n                    saie\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 116v-117"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\n\u00deat was wel on seint Edmund seneOn whom \u00fee fend was ful\n                    kene\u2026\n",
+            "Last Lines": "\n\u2026\u00deat lede\u00fe to Ioye \u00feat laste\u00fe ayAMEN I\n                    rede \u00feat we alle say. AMEN.\n",
+            "Attributed Title": "\nEdmund (f. 189va)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDie Evangelien-Geschichten der Homiliensammlung des Ms. Vernon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         57 (1877): 241-316: 276.\n",
+            "folio": "f. 189va1"
+        },
+        "CULAdd8335": {
+            "First Lines": "\n\u00deat was on Seynt Edmunde seneTil whome \u00fee fende was ful\n                    kene\u2026\n",
+            "Last Lines": "\n\u2026\u00deat fedes to ioy \u00feat lastes ayAmen I rede \u00feat\n                    we alle say\n",
+            "folio": "p. 188"
+        },
+        "CULDd11": {
+            "First Lines": "\n& \u00feat was wel on seynt Edmound seneon whom \u00fee fend\n                    was ful keneFor in his lyf wretin fynde we\u00feat holi man & good\n                    was he\u2026\n",
+            "Last Lines": "\n\u2026\u00feat ledi\u00fe to \u00fee ioye \u00feat lasti\u00fe\n                    ayAmen I rede \u00feat we alle say\n",
+            "Note": "\nDivision between this and preceding 4643 comes two lines later in this MS, so begins,\n                    \u2018For in his\u2026\u2019.",
+            "folio": "ff. 122-122v"
+        },
+        "BLHar2391": {
+            "First Lines": "\n\u00deat was on saynt edmunde seneOn wham \u00fee feind was full kene\u2026\n",
+            "Last Lines": "\n\u2026\u00feat lastis euer more & ayAmen amen I red we say\n",
+            "Attributed Title": "\nDominica i post pasche (left margin, f. 187v), with \u201cA tale\u201d written below",
+            "folio": "f. 187v1"
+        },
+        "Lam260": {
+            "folio": "f. 36v"
+        },
+        "MinULZ822": {
+            "First Lines": "\n\u00feat was wele one saynt Edmunde seneone wham \u00fee fende was\n                    full keneffor of hys lyfe wryten fynde we\u2026\n",
+            "Last Lines": "\n\u2026\u00feat ledes vs to Ioy \u00feat lastes ayAmen I rede we all\n                    \u00feus say\n",
+            "folio": "ff. 85v-86"
+        },
+        "HunHM129": {
+            "First Lines": "\n\u00deat wos well on seint emoune seneOn whom \u00fee fend wos full\n                    kene\u2026\n",
+            "Last Lines": "\n\u2026\u00deat ledyth to \u00fee ioy \u00feat lestyth ayAmen I rede\n                    we all say\n",
+            "folio": "ff. 99v-100"
+        }
+    }
+}

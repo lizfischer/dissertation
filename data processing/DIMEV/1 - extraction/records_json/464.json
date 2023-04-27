@@ -1,0 +1,21 @@
+{
+    "_id": 464,
+    "_header": "Among the host of Greeks as we heard",
+    "Note": "Extract from Confessio Amantis (4226)?",
+    "Subjects": "classical literature, references from/to; knights, behavior of",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "A single stanza on Greek warriors, based on Juvenal, Satires, 8.269-71, probably an extract from a longer work \u2014 one eight-line stanza",
+    "_witnesses": {
+        "BosPLMed94": {
+            "Transcription": "\n\u2026Amang the sist of greikis as we hardTwa kny\u021dttis war\n                    achillis and teseteThe ane moist vail\u021de and \u00fee other moist\n                    cowartBettir is the sayis Iuuenale poeteThersetis sone luvand achillis\n                    sprettWith manlie force his purposis to fulfillThan the lord of werie\n                    land and streteAnd syne moist cowart cummyn of Achill\u2026\n",
+            "folio": "f. ii"
+        },
+        "AbeUL223": {
+            "First Lines": "\nAmang the ost of grek\u2026The knytis war achilles and\n                    \u2026\n",
+            "Last Lines": "\n\u2026Thane to be lorde of every land and streitAnd syne moist\n                    cowart comung of achille\n",
+            "Note": "\nEnds of lines 1-3 obliterated by damp.",
+            "Attributed Title": "\nJuvenall poete",
+            "folio": "f. 58v"
+        }
+    }
+}

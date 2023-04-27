@@ -1,0 +1,36 @@
+{
+    "_id": 2557,
+    "_header": "In old Romance and stories as I read",
+    "Note": "See 111.",
+    "Title(s)": "Generydes",
+    "Subjects": "romances",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Generydes (Version B) \u2014 6995 lines in rhyme royal stanzas",
+    "_witnesses": {
+        "CamEmm405": {
+            "First Lines": "\n\u2026When he her saw he drew hym [ ]her commyng theder liked hym\n                    [ ]yllMyrable than Anon hym ass[ ]d\u2026\n",
+            "Last Lines": "\n\u2026In paradyse where all his [ ] dwell\n",
+            "Note": "\nFragments of 9 folios, written on both sides, damaged.",
+            "Editions": "\nStubbings,  Frank. \n             \u201cA New Manuscript of Generydes.\u201d \n             Cambridge Bibliographical Society Transactions\n         10 (1993): 317-40: 317-40.\n",
+            "folio": "ff. 1-9v"
+        },
+        "CamTCC1283": {
+            "First Lines": "\n[In] olde Romans and storys as I redeOf Jude somtyme ther was a\n                    nobyll kyng\u2026\n",
+            "Last Lines": "\n\u2026he graunt vs a place perpetuallIn paradise where all his\n                    seyntes duell\n",
+            "Note": "\nOne leaf missing.",
+            "Attributed Title": "\nExplicit the boke of Senerides and of his faire Lady Clarionas (f.\n                        37v)",
+            "Editions": "\nWright,  William Aldis,\n                        ed.  \n             Generydes, a romance.\nEETS\n         o.s. 55 (1873), 70 (1878); repr. as one, 1987. \n",
+            "folio": "ff. 1ra-37vb"
+        },
+        "Fenn": {
+            "Note": "\nFragments of early prints intermingled; parallels lines\n                    3508-3587.",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Royal Historie of the Excellent Knight Generides.\nRoxburghe Club\n         85. Hertford: S. Austin, 1865: xxxiii*-xxxv*.\n",
+            "folio": ""
+        },
+        "CamTCCParis1525": {
+            "Note": "\nIn binding, fragments of ? de Worde; parallels lines 8371-8423,\n                    8791-8981.",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Royal Historie of the Excellent Knight Generides.\nRoxburghe Club\n         85. Hertford: S. Austin, 1865: xxv-xxx.\n",
+            "folio": ""
+        }
+    }
+}

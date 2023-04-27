@@ -1,0 +1,28 @@
+{
+    "_id": 6788,
+    "_header": "Worlds bliss have good day",
+    "Note": "A similar couplet occurs in Bromyard, under Desperatio; cf. , 529.",
+    "Subjects": "world, farewell to; sermons, verse in",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Rich Man\u2019s Farewell to the World \u2014 three couplets",
+    "_witnesses": {
+        "BodRawC301": {
+            "Transcription": "\nWordys blysse haue now go day from \u00fee I schal so weyla way\n                    \u00fee bettere for \u00fee werse o I haue for go ala alas & weyla\n                    wey\n",
+            "Note": "\n4 lines",
+            "folio": "f. 93v"
+        },
+        "CamPem248": {
+            "Transcription": "\nWorldys blys haue good dayNo lengur habbe ych \u00fee ne\n                    may\u00fee more for \u00fee lasse y haue for lorey cursyd be \u00fee\n                    tyme \u00feat ych was borey haue lore for euur heuun blysAnd go now\n                    \u00feer as euur sorow & care ys\n",
+            "Note": "\n6 lines",
+            "Editions": "\n\nJames,  Montague Rhodes. \n             A Descriptive Catalogue of the Manuscripts in the Library of Pembroke\n                College, Cambridge.\n         Cambridge: at the UP, 1905: 223.\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.226.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 253.\n\n",
+            "folio": "f. iii"
+        },
+        "WorcQ46": {
+            "First Lines": "\nWorldes blisse haue god day\u00deat i \u00fee lete so\n                    waylaway\u2026\n",
+            "Last Lines": "\n\u2026y rede \u00feou be war by me\u00feat \u00feou bee nou\u00fet\n                    hent\n",
+            "Note": "\nTen lines, possibly incorporating 6789.",
+            "Editions": "\nWenzel,  Siegfried. \n             \u201cUnrecorded Middle-English Verses.\u201d \n             Anglia\n         92 (1974): 55-78: 78.\n",
+            "folio": "f. 238"
+        }
+    }
+}

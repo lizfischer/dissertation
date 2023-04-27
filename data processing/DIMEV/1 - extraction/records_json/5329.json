@@ -1,0 +1,24 @@
+{
+    "_id": 5329,
+    "_header": "The high feast of Gods blood that late was I-found",
+    "Title(s)": "South English Legendary",
+    "Subjects": "Corpus Christi, feast of; transubstantiation; Eucharist",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Feast of Corpus Christi, in some MSS of the South English Legendary \u2014 268 lines",
+    "_witnesses": {
+        "Bod779": {
+            "First Lines": "\n\u00dee hy\u021de feste of goddes blood \u00feat late was I\n                    foundegood is to honoure In euery a stounde\u2026\n",
+            "Last Lines": "\n\u2026& god leue \u00feat we moot \u00feer to vs clensy\n                    so\u00feat we mowe \u00feer \u00feorw\u021d be sauid fro pyne & fro\n                    wo\n",
+            "Note": "\nThree and a half pages blank following this\n                    (175-176v).",
+            "Attributed Title": "\n\u00dee feste of corpus day cristy (f. 172v)",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDes Ms. Bodl. 779 j\u00fcngere Zusatzlegenden zur s\u00fcdlichen\n                Legendensammlung.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         82 (1889): 307-422: 307.\n",
+            "folio": "ff. 172-175"
+        },
+        "BLEge2810": {
+            "First Lines": "\n\u00dee he\u021de feste of godis blode \u00feat late was ifundegode is to honouren in eueriche stounde\u2026\n",
+            "Last Lines": "\n\u2026& god lene \u00feat we mote \u00feer to us clansi so\u00feat we mowe \u00feer \u00feor\u021d be ssilde uram pine & uram wo\n",
+            "Note": "\nEnds \u201cAmen.\u201d",
+            "folio": "ff. 176v-179v"
+        }
+    }
+}

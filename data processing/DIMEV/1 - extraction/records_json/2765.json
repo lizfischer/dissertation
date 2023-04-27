@@ -1,0 +1,71 @@
+{
+    "_id": 2765,
+    "_header": "It was once a hende knight / That slew another knight in fight",
+    "Note": "For another version see 846.",
+    "Title(s)": "Northern Homily Cycle ; The Knight who forgave the Slayer of his Father",
+    "Subjects": "miracles; tales",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Knight who forgave the Slayer of his Father, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nHit was ones a riche kniht\u00feat slouh ano\u00feer kniht in\n                    fiht\u2026\n",
+            "Last Lines": "\n\u2026Vre lord crist Is \u00feer kyngffor his Merci he \u00feider\n                    vs bring. Amen.\n",
+            "Attributed Title": "\nHou a knyt for\u021daf ano\u00feur knyt hys fadur ded (f.\n                    210rb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDie Evangelien-Geschichten der Homiliensammlung des Ms. Vernon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         57 (1877): 241-316: 305.\n",
+            "folio": "ff. 210rb-210va"
+        },
+        "BodAsh42": {
+            "First Lines": "\nIt was one tyme a hende knight\u00feat slewe a no\u00feer knight in\n                    fight\u2026\n",
+            "Last Lines": "\n\u2026Oure lorde criste \u00feat \u00feare es kingeffor his mercie\n                    he \u00feidir vs bringe . Amen .\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 205-206v"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nIt was ones a riche knyght\u00deat ano\u00feer knyght slough in\n                    fight\u2026\n",
+            "Last Lines": "\n\u2026\u00deat euer sale last with outen endyngNowe til \u00feat\n                    blisse grete god vs bryng\n",
+            "Attributed Title": "\nnarracio de duobus militibus pacificatis in die pasche (p.\n                    314)",
+            "folio": "pp. 314-316"
+        },
+        "CULDd11": {
+            "First Lines": "\nIt was ones a riche knyght\u00deat ano\u00feer knyght slow in\n                    fight\u2026\n",
+            "Last Lines": "\n\u2026not for \u00fei him \u00feought \u00feat tyme\u00deat ihesu\n                    crist \u00feankid hym\n",
+            "Note": "\nEnds imperfectly because f. 196 missing.",
+            "Attributed Title": "\nnarracio de duobus militibus pacificatis in die parasceues (f.\n                    195)",
+            "folio": "ff. 195-195v"
+        },
+        "CULGg531": {
+            "First Lines": "\nIt was onle a hend knyght\u00deat slew a no\u00feer knyght in\n                    fyght\u2026\n",
+            "Last Lines": "\n\u2026Oure lord ihesu \u00feat \u00fear ys kyngffor hys mercy\n                    \u00feeder vs bryng\n",
+            "Attributed Title": "\nNarracio (f. 117v)",
+            "folio": "ff. 135v-136v"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nHIt was ones a riche kniht\u00deat slouh a no\u00feer kniht in\n                    fiht\u2026\n",
+            "Last Lines": "\n\u2026Vre lord crist is \u00feer kyngffor his Merci he \u00feider\n                    vs bring. Amen\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 14vb-14vc"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nIt was a tyme a hend kny\u021dte\u00deat slewe a no\u00feer\n                    kny\u021dte in fi\u021dte\u2026\n",
+            "Last Lines": "\n\u2026Vre lord crist \u00feat \u00feair es kyngeffor hys mercy\n                    \u00feeder es brynge\n",
+            "folio": "ff. 165-166v"
+        },
+        "BLHar2391": {
+            "First Lines": "\nIt was a tym a hynd knyght\u00feat saw ano\u021dyr knyght in syght\u2026\n",
+            "Last Lines": "\n\u2026Owr lord Ihesu \u00feat es kyngffor hys mercy to heuen vs bryng\n",
+            "Note": "\nEnds \u201cAmen.\u201d",
+            "Attributed Title": "\nDominica xviii (left margin, f 221), with \u201cA tale\u201d written above",
+            "folio": "ff. 221-222"
+        },
+        "Lam260": {
+            "folio": "f. 57va"
+        },
+        "HunHM129": {
+            "First Lines": "\nHit wos onys a ryche knyght\u00deat slow a nothir knyght in\n                    fyght\u2026\n",
+            "Last Lines": "\n\u2026Oure loueryd crist \u00feat \u00feare is kyngeffor his mercy\n                    \u00feaddyr vs brynge\n",
+            "Attributed Title": "\nnarracio (f. 175v)",
+            "folio": "ff. 175v-176v"
+        }
+    }
+}

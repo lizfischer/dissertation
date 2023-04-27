@@ -1,0 +1,27 @@
+{
+    "_id": 4621,
+    "_header": "Saint Jerome says that signs fifteen",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Doomsday, signs of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Fifteen Signs of Doomsday in the \u2018expanded\u2019 Northern Homily Cycle \u2014 forty-seven couplets",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 126ra"
+        },
+        "BLHar4196": {
+            "First Lines": "\nSaint Ierom sais \u00feat signes fifteneSal bifore \u00fee day of dome be sene\u2026\n",
+            "Last Lines": "\n\u2026And here a tale now wil I telleAcordand to \u00feis same godspelle\n",
+            "Attributed Title": "\nDe xv signis ante diem iudicii (rubric, f. 4ra)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): I.162-164.\n",
+            "folio": "ff. 4ra-4va"
+        },
+        "EDCPCM": {
+            "First Lines": "\n\u00dean sal crist de[ ]all king ful wisAnd ger \u00fee sinful sare\n                    grise\u2026\n",
+            "Last Lines": "\n\u2026Of ataking \u00feat I haf herd telle\u00deat falles wel til\n                    our gosspelle\n",
+            "Attributed Title": "\nUnde uersus de eiusdem signis (followed by Latin verses, then these\n                    verses, f. 19va) with accompanying Latin text",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 19vb-20ra"
+        }
+    }
+}

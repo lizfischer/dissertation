@@ -1,0 +1,49 @@
+{
+    "_id": 3770,
+    "_header": "Now is time to slay and time to heal",
+    "Subjects": "sermons, verse in; scripture texts, Engl. trans. of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Oxford, Lincoln College Lat. 52; Worcester, Worcester Cathedral Library F.19.",
+    "_description": "A tag in the Fasciculus morum \u2014 one couplet translating Eccles. 3.3",
+    "_witnesses": {
+        "Bod187": {
+            "Transcription": "\nNow ys tyme to sle and tyme to heleNow ys tyme to geddyr and tyme to\n                    dele\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 215ra"
+        },
+        "Bod332": {
+            "Transcription": "\nNow is tyme to sle & tyme to heletyme to gedder & tyme to\n                    dele\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 188va"
+        },
+        "BodLauMis213": {
+            "Transcription": "\nNow ys tyme to sle & tyme to heleTyme to god geder\n                    & tyme to dele\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 205"
+        },
+        "BodLauMis568": {
+            "Transcription": "\nNow is tyme to fle & time to heletime to gadir & time to\n                    dele\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 116ra"
+        },
+        "OxfCCC218": {
+            "Transcription": "\nNow ys tyme to sle & tyme to heleTyme to geder & tyme to\n                    dele\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 200.\n",
+            "folio": "f. 237"
+        },
+        "CamGon71": {
+            "Transcription": "\nNow is tyme to sle & tyme to heletyme to gedyr & tyme to\n                    dele\n",
+            "folio": "f. 97v"
+        },
+        "Cardiff": {
+            "folio": "f. 242v"
+        },
+        "EDU82": {
+            "Transcription": "\nNow is tyme to fle & tyme to heletyme to gedyr & tyme to\n                    delle\n",
+            "folio": "f. 248v"
+        },
+        "VaticanOtto": {
+            "folio": "f. 111"
+        }
+    }
+}

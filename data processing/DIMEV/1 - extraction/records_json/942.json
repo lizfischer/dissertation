@@ -1,0 +1,16 @@
+{
+    "_id": 942,
+    "_header": "By the grace of Our Lord omnipotent",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 300.",
+    "Title(s)": "Biblia pauperum",
+    "Subjects": "scripture texts, Engl. trans. of; tales, from scripture",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "An English metrical version of the Biblia pauperum (perhaps sixteenth century) \u2014 forty-three stanzas rhyme royal",
+    "_witnesses": {
+        "CamGon793": {
+            "First Lines": "\nBy the grace of our lord omnipotentWith suffrage of mary virgyn\n                    moost gloryous\u2026\n",
+            "Last Lines": "\n\u2026That affter thys passage & vale of myseryIn blys we may\n                    regne with eternall glory\n",
+            "folio": "pp. 161-171"
+        }
+    }
+}

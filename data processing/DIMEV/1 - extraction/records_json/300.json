@@ -1,0 +1,15 @@
+{
+    "_id": 300,
+    "_header": "Alas to whom should I complain",
+    "Note": "Stanza 1 of 301 occurring separately; followed by 384.",
+    "Subjects": "complaints; lover\u2019s, lament",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "A lover\u2019s complaint \u2014 one cross-rhymed quatrain",
+    "_witnesses": {
+        "BodAsh176": {
+            "Transcription": "\nAlas to whom should I complayneor shewe my wofull heavynessyth\n                    fortune hathe me in disdayne& am exyled remedylesse\n",
+            "Editions": "\n\nWagner,  B. M. \n             \u201cNew Songs of the Reign of Henry VIII.\u201d \n             Modern Language Notes\n         50 (1935): 452-55: 455.\nSeaton,  Ethel. \n             Sir Richard Roos, c. 1410-1482: Lancastrian Poet.\n         London: R. Hart-Davis, 1961: 305.\n\n",
+            "folio": "f. 100"
+        }
+    }
+}

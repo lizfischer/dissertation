@@ -1,0 +1,14 @@
+{
+    "_id": 2425,
+    "_header": "If thy russet hood oppose my red hood",
+    "Subjects": "schoolbooks; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Translation of Latin, in a schoolbook \u2014 one couplet",
+    "_witnesses": {
+        "OxfLinLat129": {
+            "Transcription": "\nYff \u00fei russet hode oppose my rede hodeMy rede hode schal answere\n                    thy russet hoode\n",
+            "Note": "\nTranslating \u2018Si tu cuius capicium est elbidum opponas in cuius\n                        capicium est rubeum Ego cuius capicium est rubeum respondebo tibi cuius\n                        capicium est elbidum, which follows.",
+            "folio": "f. 65v"
+        }
+    }
+}

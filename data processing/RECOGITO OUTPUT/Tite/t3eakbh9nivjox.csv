@@ -1,0 +1,63 @@
+"UUID","FILE","QUOTE_TRANSCRIPTION","ANCHOR","TYPE","URI","VOCAB_LABEL","VOCAB_TEMPORAL_BOUNDS","LAT","LNG","PLACE_TYPE","VERIFICATION_STATUS","TAGS","COMMENTS","GROUP_ID","GROUP_ORDER"
+"e4f7a522-13a5-44f7-a324-68f1e0a84719","Tite_entries_entry-72.0_julius-fvi.txt","Henry Howard, after Christmas 1604 (129.16: ?   parts of this, Calig. B.IV, C.I-III, and IX);","char-offset:511","","","","","","","","","Loan|Partial","","",""
+"654931d4-24c2-4067-b768-aa5aeb314a26","Tite_entries_entry-72.0_julius-fvi.txt","Henry Howard","char-offset:511","PERSON","","","","","","","","","","",""
+"cd320af7-84a7-428d-8127-70749adcc7d8","Tite_entries_entry-72.0_julius-fvi.txt","after Christmas 1604","char-offset:525","","","","","","","","","Date","","",""
+"b588e48b-d1a2-4e97-8929-40d63a39f7ad","Tite_entries_entry-72.0_julius-fvi.txt","129.16","char-offset:547","","","","","","","","","List Reference","","",""
+"14116c6d-4dab-4dfc-971f-060479a8470d","Tite_entries_entry-72.0_julius-fvi.txt","Thomas   Wilson, 1617, 1621 (111.21, 2.101: ? fols 168v-69, art. 91,   of this, and / or parts of Vit. C.XI, XVI, Vesp. F.V1);","char-offset:605","","","","","","","","","Loan|Partial","","",""
+"5126a13c-e292-444c-9bf3-5abe0e0dcdfc","Tite_entries_entry-72.0_julius-fvi.txt","Thomas   Wilson","char-offset:605","PERSON","","","","","","","","","","",""
+"6ace32d9-9b71-4c24-bd7c-19d87ddf8204","Tite_entries_entry-72.0_julius-fvi.txt","1617, 1621","char-offset:622","","","","","","","","","Date","","",""
+"e356bac7-7db0-4305-9124-2c6528d254a9","Tite_entries_entry-72.0_julius-fvi.txt","111.21, 2.101","char-offset:634","","","","","","","","","List Reference","","",""
+"5deff83a-42f2-45d0-901e-77a840fb970f","Tite_entries_entry-72.0_julius-fvi.txt","Edward Herbert","char-offset:734","PERSON","","","","","","","","","","",""
+"fa18cb39-f52d-4f5d-a9ad-426633d17afb","Tite_entries_entry-72.0_julius-fvi.txt","Edward Herbert, 1636 (116.1 and 118.2: ? fols 36v—41v,   artt. 18 and 19, of this or ? Vesp. F.[X);","char-offset:734","","","","","","","","","Loan|Partial","","",""
+"779dbfdc-5cb4-4b8c-8640-89f115842bb4","Tite_entries_entry-72.0_julius-fvi.txt","1636","char-offset:750","","","","","","","","","Date","","",""
+"4bacdf89-8a56-41e5-87ef-8204b63c92a5","Tite_entries_entry-72.0_julius-fvi.txt","116.1 and 118.2","char-offset:756","","","","","","","","","List Reference","","",""
+"02e36bf8-f29e-40bc-a072-466c48a9e0f0","Tite_entries_entry-72.0_julius-fvi.txt","John Strype, 1697 (BL, Lansdowne   MS  814, fol. 25; the loan, with             Vit. F.V, was for 2 months and a bond of £200, to cover             both manuscripts, was  required as security).","char-offset:834","","","","","","","","","Loan","","",""
+"9c597755-f203-4d5e-815a-ffeb6d156196","Tite_entries_entry-72.0_julius-fvi.txt","John Strype","char-offset:834","PERSON","","","","","","","","","","",""
+"db6cacf3-61df-4a0f-845c-d9cfac7b40ad","Tite_entries_entry-72.0_julius-fvi.txt","1697","char-offset:848","","","","","","","","","Date","","",""
+"ecd31af1-a344-444a-9163-c82fa54a22b6","Tite_entries_entry-72.0_julius-fvi.txt","BL, Lansdowne   MS  814, fol. 25","char-offset:854","","","","","","","","","List Reference","","",""
+"66cfffc5-b60d-4d96-b513-577acdec3eaa","Tite_entries_entry-72.0_julius-fvi.txt","Thomas             Smith asked  to borrow F-VI in about 1690 (Bodl., MS             Smith 59 (SC 15666), p. 196.","char-offset:1029","","","","","","","","","Loan|Uncertain Loan","","",""
+"400274cd-a231-4fa7-9330-f03747b76d95","Tite_entries_entry-72.0_julius-fvi.txt","Thomas             Smith","char-offset:1029","PERSON","","","","","","","","","","",""
+"b0f989b6-2821-4876-bfee-1fd48fb3d354","Tite_entries_entry-72.0_julius-fvi.txt","about 1690","char-offset:1079","","","","","","","","","Date","","",""
+"316f2da6-4bd6-4f6e-b0b8-bb47a7b54a85","Tite_entries_entry-72.0_julius-fvi.txt","Bodl., MS             Smith 59 (SC 15666), p. 196.","char-offset:1091","","","","","","","","","List Reference","","",""
+"4a6dfcd4-3293-4556-9b77-9c929e852d8e","Tite_entries_entry-69.0_julius-fiii.txt","Nicholas Gilborne, by 1611 (56.5: ? this)","char-offset:227","","","","","","","","","Loan|Uncertain Book","","",""
+"961251f2-72e4-4a3c-aeb1-0b4388229157","Tite_entries_entry-69.0_julius-fiii.txt","Nicholas Gilborne","char-offset:227","PERSON","","","","","","","","","","",""
+"9c0c3c9d-5c78-4ae6-85a6-51eab6787827","Tite_entries_entry-69.0_julius-fiii.txt","by 1611","char-offset:246","","","","","","","","","Date","","",""
+"7d231460-7c5f-4473-b337-f08b1d7eb8fb","Tite_entries_entry-69.0_julius-fiii.txt","56.5","char-offset:255","","","","","","","","","List Reference","","",""
+"16f89086-eb37-4400-97e7-0deaae9f2870","Tite_entries_entry-69.0_julius-fiii.txt","Edward   Coke, ¢.1612 (53.3: ? this, but see below)","char-offset:270","","","","","","","","","Loan|Uncertain Book","The loans at 53.3 and 83.4 might (also) refer to the
+ official copies of the report of the Navy Commission,
+ now in the PRO (SP 14/41/1, 2): see CSP Dom. 1603-10,
+ p. 484. There are photostats of the report in BL,
+ MS Facs 513/1, 2. The second of the two volumes
+ contains numerous additions and annotations by
+ Cotton. Cotton's note on fol. 216y, art. 23, of Tit. B-VII probably
+ refers to this manuscript.","",""
+"1fadeb96-f5ba-441c-9895-7c1ad720597a","Tite_entries_entry-69.0_julius-fiii.txt","Edward   Coke","char-offset:270","PERSON","","","","","","","","","","",""
+"0d33f3fa-9bb3-4c7f-a1e3-3c9630e32c47","Tite_entries_entry-69.0_julius-fiii.txt","¢.1612","char-offset:285","","","","","","","","","Date","","",""
+"6d261a48-7c5d-4f5f-b560-84e780491e80","Tite_entries_entry-69.0_julius-fiii.txt","53.3","char-offset:293","","","","","","","","","List Reference","","",""
+"a72c4ff7-3411-470e-a4b6-8629e60ca6f4","Tite_entries_entry-69.0_julius-fiii.txt","Edward Coke,   ¢.1612-21 (83.4: ? this, but see below)","char-offset:323","","","","","","","","","Loan|Uncertain Book","The loans at 53.3 and 83.4 might (also) refer to the
+ official copies of the report of the Navy Commission,
+ now in the PRO (SP 14/41/1, 2): see CSP Dom. 1603-10,
+ p. 484. There are photostats of the report in BL,
+ MS Facs 513/1, 2. The second of the two volumes
+ contains numerous additions and annotations by
+ Cotton. Cotton's note on fol. 216y, art. 23, of Tit. B-VII probably
+ refers to this manuscript.","",""
+"c0eed174-6dbf-44a3-9b1c-0e3615b0e450","Tite_entries_entry-69.0_julius-fiii.txt","Edward Coke","char-offset:323","PERSON","","","","","","","","","","",""
+"a18b0c8e-eaf7-4a66-9b3a-e2967f05bef0","Tite_entries_entry-69.0_julius-fiii.txt","¢.1612-21","char-offset:338","","","","","","","","","Date","","",""
+"752d8883-7a7f-4697-a9af-7547768a7964","Tite_entries_entry-69.0_julius-fiii.txt","83.4","char-offset:349","","","","","","","","","List Reference","","",""
+"6d489fca-7213-432b-bd9e-f5719b416a28","Tite_entries_entry-69.0_julius-fiii.txt","John Selden","char-offset:379","PERSON","","","","","","","","","","",""
+"822f18a0-2c0e-4ed5-9363-f7cbd806a5b0","Tite_entries_entry-69.0_julius-fiii.txt","John Selden,  1621 (2.89: (1) this, Otho E-VII or IX, or (2) Otho   EVIID","char-offset:379","","","","","","","","","Loan|Uncertain Book","","",""
+"1a4061a3-485f-4ae9-8ce7-7ba3a05d9422","Tite_entries_entry-69.0_julius-fiii.txt","1621","char-offset:393","","","","","","","","","Date","","",""
+"18a9629c-0774-46d4-8acd-363d0820c481","Tite_entries_entry-69.0_julius-fiii.txt","2.89","char-offset:399","","","","","","","","","List Reference","","",""
+"ef89b31b-c5b6-40e8-8e95-e76974e2bb0b","Tite_entries_entry-69.0_julius-fiii.txt","John Egerton, c.1626 (Jul. C.III, fol. 165: ?   this).","char-offset:454","","","","","","","","","Loan|Uncertain Book","","",""
+"59a5a4c3-5002-46bf-8425-190f236bd821","Tite_entries_entry-69.0_julius-fiii.txt","John Egerton","char-offset:454","PERSON","","","","","","","","","","",""
+"3d538823-c698-4f9a-8c6f-ae1d184da318","Tite_entries_entry-69.0_julius-fiii.txt",", c.1626","char-offset:466","","","","","","","","","Date","","",""
+"56b68015-712e-4198-ac19-e379d2e6ef4e","Tite_entries_entry-69.0_julius-fiii.txt","Jul. C.III, fol. 165","char-offset:476","","","","","","","","","List Reference","","",""
+"8b3781c5-074d-4f8f-8674-ccaf7a123b40","Tite_entries_entry-79.0_julius-fxi.txt","Elias Ashmole, 1660 (262.1: this or Jul. C.TX).","char-offset:587","","","","","","","","","Loan|Uncertain Book","","",""
+"92c4b3e1-dd9d-4c8b-9f76-f183e7a7b4a1","Tite_entries_entry-79.0_julius-fxi.txt","Elias Ashmole","char-offset:587","PERSON","","","","","","","","","","",""
+"6ad0ac2d-eedd-40bd-8534-09518373e809","Tite_entries_entry-79.0_julius-fxi.txt","1660","char-offset:602","","","","","","","","","Date","","",""
+"85c2382a-a199-4c5e-b8a0-bc13313afb83","Tite_entries_entry-79.0_julius-fxi.txt","262.1","char-offset:608","","","","","","","","","List Reference","","",""
+"9e7bf65f-4962-4c0a-baad-b330a3dccabd","Tite_entries_entry-78.0_julius-fx.txt","Thomas Smith asked to borrow F.X in about 1690 (Bodl.,   MS Smith 59 (SC 15666), p. 196).","char-offset:342","","","","","","","","","Loan|Uncertain Loan","","",""
+"a330c322-b6fc-4f6b-a00c-16175466a15e","Tite_entries_entry-78.0_julius-fx.txt","Thomas Smith","char-offset:342","PERSON","","","","","","","","","","",""
+"d2ea9096-b7b1-4fe0-a782-8f74c01cc3c0","Tite_entries_entry-78.0_julius-fx.txt","about 1690","char-offset:378","","","","","","","","","Date","","",""
+"9a85cd5e-3648-4400-932c-ed970835e2a9","Tite_entries_entry-78.0_julius-fx.txt","Bodl.,   MS Smith 59 (SC 15666), p. 196","char-offset:390","","","","","","","","","List Reference","","",""

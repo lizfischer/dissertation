@@ -1,0 +1,22 @@
+{
+    "_id": 4939,
+    "_header": "So it befell upon a day",
+    "Note": "For the usual version see 4723.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Fourth Sunday after Epiphany incorrectly headed: \u2018Dominica iiij post octavam Epiphie\u2019 in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 131ra"
+        },
+        "BLHar4196": {
+            "First Lines": "\nSo it bifell opon a dayAls ihesu prechid in \u00fee way\u2026\n",
+            "Last Lines": "\n\u2026His rising turned it into careAnd endles schame for euer mare\n",
+            "Note": "\nPreceded by Latin, \u201cAscendente ihesu in nauiculam.\u201d",
+            "Attributed Title": "\nDominica quarta post octava Epiphanie secundum Matheum (rubric, f. 35va)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): I.292-296.\n",
+            "folio": "ff. 35va-36rb"
+        }
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "_id": 5280,
+    "_header": "The fleshes lust may thou not alive better quench",
+    "Subjects": "sermons, verse in; mortality; translations",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A tag in the Fasciculus morum \u2014 one couplet translating \u2018Non aliter poterit melius caro viva domari/ Mortua qualis erit quam semper premeditari\u2019 which precedes it",
+    "_witnesses": {
+        "Bod410": {
+            "Transcription": "\nthe fflesch lust may \u00feu not on lyue better qwenchbut after\n                    \u00fei deth what \u00feu art euermore thench\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 10"
+        },
+        "BodLauMis213": {
+            "folio": "f. 13"
+        },
+        "BodLauMis111": {
+            "Transcription": "\n\u00fee flesches lust may \u00feou noht on lyue beter quenchebot\n                    after \u00fei deth woth \u00feou be\u021d euer more \u00feonche\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 65v"
+        },
+        "BodRawC670": {
+            "Transcription": "\n\u00dee flesches lust may \u00feou nou\u021dt o lyue bettur\n                    quencheBote aftur \u00fey deth which \u00feou be\u021d euer more be\n                    \u00feenche\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 148.\n",
+            "folio": "f. 20v"
+        },
+        "CamGon71": {
+            "Transcription": "\n\u00fei flech lust may \u00feu nogth better quenk\u00fean of \u00fei\n                    dede euer more thenk\n",
+            "folio": "f. 20"
+        },
+        "CamStJohn159": {
+            "Transcription": "\n\u00fei fleschly lust may \u00feu no better wenchebot eftyr \u00fei\n                    dede day ay for to thenche\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 44v"
+        },
+        "EDU82": {
+            "Transcription": "\nThy fflesly lustes may \u00feu not on lyve better qwencheThen after\n                    thy dethe wyche thou best euermore to thenche\n",
+            "folio": "f. 21"
+        },
+        "Lincoln44": {
+            "Transcription": "\n\u00fee fluschly luste may \u00feow nocht only bett qwencheBot of\n                    \u00fei dede \u00feu euermore to \u00feenke\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 163ra"
+        },
+        "WorcF19": {
+            "folio": "f. 9"
+        }
+    }
+}

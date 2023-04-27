@@ -1,0 +1,16 @@
+{
+    "_id": 1516,
+    "_header": "Glad us Maiden Mother mild",
+    "Subjects": "Virgin Mary, hymns to; hymns, to Virgin Mary; translations",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "A literal rendering of the Latin \u2018Gaude virgo mater christi / que per aurem concepisti etc.\u2019 \u2014 three 6-line stanzas",
+    "_witnesses": {
+        "CamTCC323": {
+            "First Lines": "\nGlade us maiden moder milde\u00feurru \u00fein herre \u00feu were\n                    wid childe\u2026\n",
+            "Last Lines": "\n\u2026Be \u00feerin us forto fondenin ioye \u00feat is\n                    endeles\n",
+            "Note": "\nLatin texts precede each stanza, with the first Gaude virgo mater\n                        christi / que per aurem concepisti.",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 32-3.\nSaupe,  Karen,\n                        ed.  \n             Middle English Marian\n                    Lyrics.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1998: 162-3; 274-6.\n\n",
+            "folio": "ff. 28v-29"
+        }
+    }
+}

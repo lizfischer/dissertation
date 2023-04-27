@@ -1,0 +1,58 @@
+{
+    "_id": 3801,
+    "_header": "Now the book taketh on hand",
+    "Note": "See also 2748.",
+    "Author(s)": "John Trevisa; Ranulf Higden",
+    "Title(s)": "Polychronicon; \u2018Of the londe of Wales\u2019",
+    "Subjects": "Wales, description of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Glasgow, Glasgow University Library Hunterian 83 (T.3.21): this is Brut chronicle; Manchester, Chetham\u2019s Library 11379 [Mun. A.6.90]: missing folios between 48 and 49, chapters 34-43; New York, Pierpont Morgan Library M875 [olim Helmingham Hall]: Only Trevisa\u2019s De Proprietatibus here, not Polychronicon.",
+    "_description": "\u2018Of the londe of Wales\u2019, a verse description of Wales in Trevisa\u2019s translation of Higden\u2019s Polychronicon (Book I, Chap. 38) \u2014 460 lines in doggerel couplets",
+    "_witnesses": {
+        "CamStJohn204": {
+            "First Lines": "\nNOw \u00fee book take\u00fe in hondeWales to fore\n                    Engelonde\u2026\n",
+            "Last Lines": "\n\u2026O\u00feir in schroysbury strete\u00feere \u00feat mayde\n                    reste\u00fe swete\n",
+            "Editions": "\n\nBabington,  Churchill,  and  Joseph Rawson Lumby, eds.  \n             Polychronicon Ranulphi Higden Monachi Cestrensis.\n             9 vols. \n             Rolls Series\n         41 (1865-66; repr. Kraus, 1964): 1.395-431 (odd pages).\nBerdan,  John M. \n             Early Tudor Poetry, 1485-1547.\n         New York: Macmillan, 1920: 169-70 (extracts).\n\n",
+            "folio": "ff. 60vb-63va"
+        },
+        "BLAdd24194": {
+            "First Lines": "\nNOw \u00fee book take\u00fe on hondeWales tofore EngelondeSo I\n                    take my talesAnd wende forth in to Wales\u2026\n",
+            "Last Lines": "\n\u2026O\u00feer in Shrouysbury strete\u00feere \u00feat mayde\n                    reste\u00fe swete\n",
+            "Note": "\nWritten as verse.",
+            "folio": "ff. 63ra-65va"
+        },
+        "BLCottTibDVIII": {
+            "First Lines": "\nNow \u00fee book take\u00fe on hondWales tofor engelond\u2026\n",
+            "Last Lines": "\n\u2026o\u00feer yn Schroysbury strete\u00fear \u00feat mayde reste\u00fe swete\n",
+            "Note": "\nFormerly listed as in BL Cotton Tiberius D.II; written as prose.",
+            "folio": "ff. 35v-37v;  35v"
+        },
+        "BLHar1900": {
+            "First Lines": "\nNow \u00fee book taki\u00fe an hondWales tofore EnglondSo I\n                    take my tales& wende into Wales\u2026\n",
+            "Last Lines": "\nO\u00feer in Schrosbury strete\u00feere \u00feat mayde resti\u00fe\n                    swete\n",
+            "Note": "\nPenultimate line bottom f. 76v; written as\n                    prose.",
+            "folio": "ff. 74v-77"
+        },
+        "BLSto65": {
+            "First Lines": "\nNow \u00fee bucke take\u00fe an hondWales to fore\n                    engelond\u2026\n",
+            "Last Lines": "\n\u2026O\u00feere in schrouesbery strete\u00feere \u00feat mayde\n                    reste\u00fe swete\n",
+            "Note": "\nWritten as prose. Folio number reflects the most recent\n                    foliatio.",
+            "folio": "ff. 27ra-28rb"
+        },
+        "AbeUL21": {
+            "First Lines": "\nNow \u00fee book take\u00fe on hondeWales tofore\n                    Engelonde\u2026\n",
+            "Last Lines": "\n\u2026O\u00feer in shrouysbury strete\u00feere \u00feat mayde\n                    reste\u00fe swete\n",
+            "folio": "ff. 37-39v"
+        },
+        "Schoyen194": {
+            "folio": ""
+        },
+        "HunHM28561": {
+            "First Lines": "\nNOw \u00fee book taki\u00fe an hondWales to fore EnglondSo I\n                    take my talesAnd wende in to Wales\u2026\n",
+            "Last Lines": "\n\u2026 \u00feer in Shrosbury strete\u00feere \u00feat maide\n                    resti\u00fe swete\n",
+            "Note": "\nWritten as prose.",
+            "Attributed Title": "\nDe Wallia (f. 71vb)",
+            "folio": "ff. 71vb-73va"
+        }
+    }
+}

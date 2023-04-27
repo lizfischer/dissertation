@@ -1,0 +1,38 @@
+{
+    "_id": 3645,
+    "_header": "My noble sons and eke my lords dear",
+    "Note": "Cf. 5277.",
+    "Title(s)": "\u2018Moral Balade\u2019",
+    "Subjects": "old age; precepts; advice, moral; prologues",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "Scogan\u2019s \u2018Moral Balade\u2019 \u2014 twenty-one 8-line stanzas",
+    "_witnesses": {
+        "BodAsh59": {
+            "First Lines": "\nMy noble sonnes and eke my lordes dereI your fader called\n                    vnwor\u00feelySende vn to yowe \u00feis balade folowing hereWriten of\n                    myne owen hande ful rudely\u2026\n",
+            "Last Lines": "\n\u2026God you conferme in vertuous goodnesseSo \u00feat thorughe\n                    necgligence yee no thing leese\n",
+            "Note": "\nWith the insertion between stanzas 13 and 14 of Chaucer\u2019s\n                    \u2018Gentilesse\u2019 \u2014 see 3348.",
+            "Attributed Title": "\nHere folowe\u00fee nexst a moral balade to my lord \u00fee Prince to my\n                    lord of Clarence to my lord of Bedford and to my lorde of Gloucestre by Henry\n                    Scogan at a souper of feor\u00fee merchande in \u00fee vyntre in londoun at\n                    \u00fee hous of Lowys Johan (f. 25)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \n",
+            "folio": "ff. 25-28"
+        },
+        "CULFf49": {
+            "First Lines": "\n\u2026I Complayne me sore whan I remembre meThe sodayn age\n                    \u00feat vppon me is falle\u2026\n",
+            "Last Lines": "\n\u2026To yeve vs myght to ben vertuousAnd of \u00feis \u00feinge\n                    herkyn houw my mayster seyd\n",
+            "Note": "\nStanzas 2-13 only.",
+            "folio": "ff. 85-86"
+        },
+        "BLHar2251": {
+            "First Lines": "\nI compleyne sore whan I remembe meThe sodayn Age that is vpon me\n                    falle\u2026\n",
+            "Last Lines": "\n\u2026Thow lorde of Rest and parfite vnitePut fro me vices and kepe\n                    my soule heele\n",
+            "Note": "\nstanzas 2, 3, only, conflated with Cato Major (1418).",
+            "folio": "f. 178v"
+        },
+        "BLHar367": {
+            "First Lines": "\nMi noble sonns and eke my lords dereI yowr fathar called\n                    vnworthyly\u2026\n",
+            "Last Lines": "\n\u2026that myne vnkonunge ye take beninglyfor gods sake and harken\n                    what I saye\n",
+            "Note": "\nStanza 1 only. Written by the hand of John Stow; followed at end of last\n                    line by \u2018& setra . they say it is in Chawcer\u2019 by scribe\u2019s,\n                    John Stow\u2019s hand.",
+            "Attributed Title": "\nHere folowed a morall ballad to the princes the duke of Clarens the duke of\n                    bedford the duke of wincestar the kyngs sonns by harry scogan at a [f or s] ey\n                    as amonge the marchaunts in the vintry at london in the howse of lewys jhon\n                    bigininge thus (by scribe, John Stow, f. 86v)",
+            "folio": "f. 86v2"
+        }
+    }
+}

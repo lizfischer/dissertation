@@ -1,0 +1,23 @@
+{
+    "_id": 688,
+    "_header": "As was Herod the cursed king / That yode to hell at his ending",
+    "Title(s)": "Northern Homily Cycle ; Of Kyng Heroud \u00feat slou \u00fee chyldren",
+    "Subjects": "Holy Innocents",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018Of Kyng Heroud \u00feat slou \u00fee chyldren\u2019 \u2014 Narratio for 19th Sunday after Trinity, in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nAS was Heroudes \u00fee cursed kyng\u00deat eode to helle at his\n                    endyng\u2026\n",
+            "Last Lines": "\n\u2026\u00deat mai \u021de seo wel bi a Tale\u00deat I riht now\n                    telle schale\n",
+            "Attributed Title": "\nOf kyng heroud \u00feat slou \u00fee chyldren (f.\n                    210vc)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 210vc-211ra"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nAS was Heroudes \u00fee cursed kyng\u00deat eode to helle at his\n                    endyng\u2026\n",
+            "Last Lines": "\n\u2026\u00deat may \u021de seo wel bi a tale\u00deat I riht now\n                    telle schale\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 15rc-15av"
+        }
+    }
+}

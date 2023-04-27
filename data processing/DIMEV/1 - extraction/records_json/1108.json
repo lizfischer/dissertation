@@ -1,0 +1,83 @@
+{
+    "_id": 1108,
+    "_header": "Deceit deceiveth and shall be deceived",
+    "Note": "Cf. also 270",
+    "Author(s)": "John Lydgate",
+    "Subjects": "deceit, on",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "Bibliographic Ghosts": "London, Lambeth Palace Library Carew 623 [Book of Howth], p. 84: Hamer (1995)\nXHamer, Richard. A Manuscript Index to the Index of Middle English Verse. London: British Library, 1995 could not find, in spite of Brown and Robbins (1943)\nXCarleton Fairchild Brown, and Rossell Hope Robbins. The Index of Middle English Verse. New York: Printed for the Index Society by Columbia University Press, 1943 reference to editions, Brewer and Bullen (1867)\nXJ. S. Brewer, and William Bullen. Calendar of the Carew Manuscripts Preserved in the Archiepiscopal Library at Lambeth. 6 vols. Public Record Office Texts and Calendars. London: 1867-73; Seymour (1929)\nXSeymour, St. John Delincourt. Anglo-Irish Literature, 1200-1582. Cambridge: at the UP, 1929; and several repr, 99.",
+    "_description": "A single stanza (Bk. II, lines 4432-8) from Lydgate\u2019s Fall of Princes (1904) \u2014 rhyme royal.",
+    "_witnesses": {
+        "BodAuct7Q221": {
+            "Transcription": "\nDisceit disceyuyth & shalbe deceyvidffor who bi disceit is\n                    deceyvableThofe his disceit be not owt perceyvidTo such a deceyvour\n                    deceyt is retornableffraude quyt with fraude is guerdon coverableThofe\n                    fraude of defraudour be not son owt fowndTo such a defraudour yet\n                        sha frawde shall ay rebound\n",
+            "Note": "\nAdded to last paper leaf of volume by a hand of the sixteenth century,\n                    after end of printed text 3 pages previously; Hamer (1995)\nXHamer,  Richard. \n             A Manuscript Index to the Index of Middle English Verse.\n         London: British Library, 1995 lists as\n                    \u2018number does not exist\u2019 since listed as Auct. 7.Q.21 in Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943; also several later transcripts on same page, including\n                    that cited by Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943, \u2018Deceit decieveth & shal be\n                    decievid / For lo by Deciet is decievable\u2026\u2019.",
+            "folio": "penultv"
+        },
+        "BodDou45": {
+            "First Lines": "\nDeceyt deceyvyth & shalbe deceyuydffor who by deceyt is\n                    deceyuable\u2026\n",
+            "Last Lines": "\n\u2026ffor who by fraude is fraudulent foundeTo a defraudour fraude\n                    will ay rebounde\n",
+            "folio": "f. 116"
+        },
+        "BodFair16": {
+            "First Lines": "\nDeceyt disceyveth and shal be deceyvedffor by deceyt who is\n                    deceyvable\u2026\n",
+            "Last Lines": "\n\u2026ffor whoo with fraude fraudelent ys foundeTo a defrauder\n                    fraude wol ay rebounde\n",
+            "Note": "\nAs a separate text between end of 3312 and beginning of 6798.",
+            "Facsimiles": "\nNorton-Smith,  John. \n             \u201cIntroduction.\u201d \n             Bodleian Library MS Fairfax 16.\n         London: Scolar Press, 1979. \n",
+            "folio": "f. 195"
+        },
+        "BodHat73": {
+            "First Lines": "\nDysceyt disceyueth and shal be disceyvedffor by disceyt who that is\n                    disceyvable\u2026\n",
+            "Last Lines": "\n\u2026ffor who with fraude fraudulent is foundeTo such defraudor\n                    fraude wele ay rebounde\n",
+            "Editions": "\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 100.\n",
+            "folio": "f. 122v"
+        },
+        "CamTCC600": {
+            "First Lines": "\nDisceyte deceyue\u00fee and shal beo deceyuedffor by disceyte who\n                    \u00feat is desceyvable\u00deaughe heos disceytes beo not\n                    aperceyvableTo a desceyuous disceytes beon retournable\u2026\n",
+            "Last Lines": "\n\u2026ffor whoo with fraude \u00feat fraudelent is foundeTil a\n                    defraudour fraude wol ay Rebounde\n",
+            "Note": "\nRhymes abbbbcc because scribe miswrites line 3; with Latin equivalent\n                    below, beg. \u2018Dampno quid peneris vuulnus quid vuulnere\n                    morbus\u2026\u2019.",
+            "Attributed Title": "\nA prouerbe (p. 368)",
+            "folio": "p. 368"
+        },
+        "BLHar7578": {
+            "Transcription": "\n[D]eceit destayneth and shal be desteynedeffor by disceit who is\n                    disteynableThough his deceyte be not a perceyuedeTo a desceyoure\n                    desceyt is retornableffor who with fraude fraudelent is foundeTo a\n                    defrauder fraude wel ay rebounde\n",
+            "Note": "\nInitial \u2018D\u2019 is missing, with space left for illuminated\n                    initial.",
+            "folio": "f. 20r1"
+        },
+        "BLSl1825": {
+            "First Lines": "\nDisceite disceyeth and shall b[ ]yuedffor by disceyte who ys\n                    disceyuableThough hys disceytis be not oute perceyuedTo a disceyuour\n                    disceyte ys retornableffraude quit with fraude is guerdoun\n                    conuenableffor who with fraude fraudelent ys foundTo a defrauder\n                    fraude wol aye rebound\n",
+            "Note": "\nSecond copy in manuscript, added to MS by a hand of the fifteenth or\n                    sixteenth century. Different from that on f. 90v.",
+            "folio": "f. 91"
+        },
+        "NLWPork10": {
+            "Editions": "\nKurvinen,  Auvo. \n             \u201cMS. Porkington 10. Description with Extracts.\u201d \n             Neuphilologische Mitteilungen\n         54 (1953): 33-67: 62.\n",
+            "folio": "f. 198"
+        },
+        "Banna": {
+            "First Lines": "\nDissait dissauis and salbe dissauitquha with dissait is\n                    dissauable\u2026\n",
+            "Last Lines": "\n\u2026and quha with fraud Is frawdfully ay fundTo \u00fee\n                    defraudour defraud sall ay redound\n",
+            "Note": "\nOne stanza rhyme royal in this MS",
+            "Facsimiles": "\nFox,  Denton,  and  William A. Ringler.  \n             The Bannatyne Manuscript: National Library of Scotland Advocates\u2019\n                MS. 1.1.6\n         London: Scolar Press, in Association with The National Library of\n            Scotland, 1980. \n",
+            "Editions": "\nMurdoch,  James Barclay. \n             The Bannatyne Manuscript.\n             4 vols. in 11 parts, paged continuously. \n             Hunterian Club\n         16, 32, 40, 46, 50, 55-56, 64-67 Glasgow: Anderson, 1873-1896: 202.\n",
+            "folio": "f. 74v"
+        },
+        "NLS1931": {
+            "First Lines": "\nDeceyte deceyvyt and schall be deceyuydffor by deceyte who is\n                    deceyvable\u2026\n",
+            "Last Lines": "\n\u2026for who by fraude fraudelent is fondeTo a defrauder defraude\n                    wyll ay rebound\n",
+            "Facsimiles": "\nHardman,  Phillipa. \n             The Heege Manuscript: A Facsimile of National Library of Scotland MS\n                Advocates 19.3.1.\n         Leeds Texts and Monographs, n.s. 16. Leeds: School of English,\n            2000. \n",
+            "Editions": "\nRitchie,  W. Tod,\n                        ed.  \n             The Bannatyne Manuscript.\n             4 parts in 4 vols. \n             Scottish Text Society\n         3rd ser. 5 (1928); n.s. 22 (1928); n.s. 23 (1930); n.s. 26 (1934)\n            Edinburgh and London: Blackwood, 1928-34; ed. by Ritchie et al: 2.184.\n",
+            "folio": "f. 61v"
+        },
+        "NottsULMeLm1": {
+            "First Lines": "\nDysceyt dysceyvyth and shall be dysceyvedffor who by dysceyt ys\n                    dysceyvableThough hys dysceyt be not owt perseyvedTo a dysceyuour\n                    disceytes ben retornable\u2026\n",
+            "Last Lines": "\n\u2026ffor who with frawde frawdently is fowndeTo euery suche man\n                    frawde wull euer rebounde\n",
+            "Attributed Title": "\nA Balade for dysceyuors (f. 2vb)",
+            "folio": "f. 2vb"
+        },
+        "PierpontM775": {
+            "First Lines": "\nDesceyt desceyueth and shall be deseyuedffor be descey who is\n                    deseyuable\u2026\n",
+            "Last Lines": "\nffor who with fraude fraudelent is foundeTo a defraudour fraude wil\n                    ay rebounde\n",
+            "Note": "\nImmediately follows 6798\n                    as if continuation of same.",
+            "folio": "f. 320"
+        }
+    }
+}

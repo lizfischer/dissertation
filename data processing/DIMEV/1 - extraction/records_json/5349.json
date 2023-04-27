@@ -1,0 +1,67 @@
+{
+    "_id": 5349,
+    "_header": "The joy of our heart is ago",
+    "Note": "For very similar lines see 384, 5216, and 5352; a prose version is in Cambridge UK, Sidney Sussex College 74, f. 179. For numerous printed editions, see STC 25823.3-25839.",
+    "Subjects": "sermons, verse in; laments, sinners\u2019; scripture texts, Engl. trans. of; translations",
+    "Versification": "\u2014 four-line \u2014 aaaa",
+    "Bibliographic Ghosts": "Cambridge UK, Sidney Sussex College 74: no verse in this copy; Cambridge UK, Cambridge University Library Ii.3.8, f. 43v: see 5350; Cambridge UK, Gonville & Caius College 334/727 ; London, British Library Addit. 35213 : incorrectly listed by Robbins and Cutler (1965)\nXRossell Hope Robbins, and John L. Cutler. Supplement to the Index of Middle English Verse. Lexington, Kentucky: University of Kentucky Press, 1965; see 5349-6 below.",
+    "_description": "A single quatrain occurring in a sermon, Redde racionem villicacionis tue, preached by Wimbledon, translating Deficit gaudium cordis nostri\u2026from Lamentations 5 \u2014 four monorhyming lines",
+    "_witnesses": {
+        "BodEngTheolf39": {
+            "Transcription": "\n\u00fee io\u021de of oure herte is agoOure song is turned in to\n                    wo\u00fee crowne of oure hed is falle vs froalas for synne pat we han\n                    do so\n",
+            "Note": "\nWritten as prose",
+            "folio": "f. 37"
+        },
+        "BodHat57": {
+            "Editions": "\nSund\u00e9n,  K. F. \n             A famous Middle English sermon\u2026preached at St Paul\u2019s Cross,\n                London, on Quinquagesima Sunday, 1388.\nG\u00f6tesborgs H\u00f6gskola \u00c5rsskrift\n         31 (1925) [based on Oxford, Bodleian Library MS Hatton 57]: 35.\n",
+            "folio": "f. 16v"
+        },
+        "CULIi38": {
+            "Transcription": "\ny-turned into ioye is al my wo\u00feou hast wrapped me wy\u021dt\n                    blisse for euere mo\n",
+            "Note": "\nVariant of 2 lines; Stemmler (1975)\nXStemmler,  Theo. \n             \u201cMore English Texts from MS. Cambridge University Library\n                Ii.III.8.\u201d \n             Anglia\n         93 (1975): 1-16, p. 3 says this is not\n                    a variant, but should be a separate entry.",
+            "Editions": "\nErb,  Peter C. \n             \u201cVernacular Material for Preaching in MS Camb. Univ. Lib.\n                Ii.III.8.\u201d \n             Mediaeval Studies\n         33 (1971): 63-84: 71.\n",
+            "folio": "f. 51v"
+        },
+        "CamMagPep2125": {
+            "Transcription": "\nThe ioye of oure herte is agoOwre song is turned in to wo\u00dee\n                    crowne of our hed is fallen ous froAlas for synne pat we hauep\n                    ydo\n",
+            "Attributed Author": "\nSermo Thome Wymbeldone londone predicatur ad crucem in cimiterio\n                        ecclesie sancti Pauli (f. 73v)",
+            "Editions": "\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.219.\n",
+            "folio": "f. 73v"
+        },
+        "CamTCC322": {
+            "Transcription": "\n\u00dee ioye of houre hert is agooure song is turnyd in to woope\n                    crown of oure heuyd is falle vs froalas for synne pat we haue do\n",
+            "Note": "\nWritten as prose",
+            "Attributed Author": "\nThomas Wymmyldoun istum composuit sermonem (f. 127)",
+            "Attributed Title": "\nSonge (f. 127); Thomas Wymmyldoun istum composuit sermonem ad crucem\n                        sancti pauli Londoni qui obiit in die omnium sanctorum amen Ricardi tercii\n                        post conquestum xv anus anime propicietur deus amen (f. 127)",
+            "Editions": "\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.236.\n",
+            "folio": "f. 127"
+        },
+        "BLAdd37677": {
+            "Transcription": "\n\u00dee ioye of oure herte is agoooure quere is turnyd in to\n                    wo\u00fee corounne of oure hed is falle vs froAlas for syne \u00feat\n                    we haue do\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 98"
+        },
+        "BLHar2398": {
+            "Transcription": "\n\u00fee ioye of oure herte is agooure songe is turnyd in to woo\u00fee croune of oure heued is falle ous froAlas for synne \u00feat we haue do\n",
+            "folio": "f. 153"
+        },
+        "BLRoy18Axvii": {
+            "Transcription": "\n\u00dee ioye of oure herte is agoooure queer is turned in to\n                    woo\u00dee corovne of our heed is falle vs froAllas for synne \u00feat\n                    we hau doo\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 198"
+        },
+        "BLRoy18Bxxiii": {
+            "Transcription": "\n\u00fee ioye of oure herte is A goyeoure velle is turned in to\n                    voo\u00fee crowne of owre hed is fallon vs froAlas for synne \u00feat\n                    we haue do\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 48v"
+        },
+        "LeedsBro501": {
+            "Transcription": "\nThe ioye of oure herte is gooure quere is turnyd into wothe\n                    coroun of our hed ys fal vs froallas for senne that we haue do\n",
+            "folio": "f. 67v"
+        },
+        "HelminghamLJii2": {
+            "Note": "\nHamer (1995)\nXHamer,  Richard. \n             A Manuscript Index to the Index of Middle English Verse.\n         London: British Library, 1995 \u2014 lists as unidentified, missing or\n                    destroyed",
+            "folio": "at end"
+        }
+    }
+}

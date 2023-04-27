@@ -1,0 +1,24 @@
+{
+    "_id": 2540,
+    "_header": "In May when every heart is light",
+    "Title(s)": "\u201cBirds\u2019 Praise of Love\u201d",
+    "Subjects": "birds, as narrators; May, songs of",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "Macaronic": "French",
+    "_description": "Lament for death of Edward IV \u2014 fifteen 8-line stanzas",
+    "_witnesses": {
+        "CULGg427": {
+            "First Lines": "\nIn may whan euery herte is ly\u021dtAnd flourrys fresschely sprede\n                    & sprynge\u2026\n",
+            "Last Lines": "\n\u2026\u00feat wele not fayle in non distresseEn dieu maffie\n                        Gau\u021d departer Amen\n\n",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "Editions": "\n\nEllis,  Alexander John,\n                        ed.  \n             On Early English Pronunciation.\n             4 vols. \n             EETS\n         e.s. 2 (1867), 7 (1869), 14 (1871), 23 (1874), repr. 1973; issued\n            jointly by the Philological Society, the EETS, and the Chaucer Society [2nd ser. 1, 4-5,\n            25] London: Tr\u00fcbner; ed. note: with rare exceptions, entries from these volumes are\n            identical; where variants occur, both editions are cited: 2.463 (2 st. only).\nHammond,  Eleanor Prescott. \n             \u201cA Parliament of Birds.\u201d \n             Journal of English and Germanic Philology\n         7 (1907-08): 105-9: 105.\nBradshaw,  Henry. \n             \u201cPrivate printing of CUL Gg.4.27.\u201d \n         (Cambridge, 1889); not seen since used by Ellis 1867-74; not in BL\n            Catalogue or Bradshaw\u2019s Collected Papers. \nConlee,  John W.,\n                        ed.  \n             Middle English Debate Poetry: A Critical Anthology.\n         East Lansing, MI: Colleagues Press, 1991: 287-93.\n\n",
+            "folio": "ff. 8v-10v"
+        },
+        "BLHar3952": {
+            "Transcription": "\nIn may whan euery herte is lyghteAnd fayr flourys do\u00fe sprede\n                    & springI rese me up by fore the daye bryghtefor to heyre the\n                    birddis syngI herd a dreofull lamentingeOff lad[yes] as was\n                    ware Cloth[yd] in blake\u2026\n",
+            "Note": "\nAdded by a sixteenth-century hand with other pentrials of first line and\n                    title; 6 lines only.",
+            "Attributed Title": "\nThe lamentacione of ladyes for the deth of king edward the iij [sic]\n                    (f. 105v, on right side of leaf above this second copy and below the\n                    title attaching to the first copy in this MS)",
+            "folio": "f. 105v"
+        }
+    }
+}

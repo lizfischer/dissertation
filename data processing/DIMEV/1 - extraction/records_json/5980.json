@@ -1,0 +1,23 @@
+{
+    "_id": 5980,
+    "_header": "To him and to us all God grant",
+    "Note": "One version formerly listed separately as 1009.5.",
+    "Subjects": "devotional verse",
+    "Versification": "\u2014 four-line \u2014 abbb",
+    "_description": "A benediction serving as a book tag \u2014 four lines",
+    "_witnesses": {
+        "OxfMagd30": {
+            "Editions": "\nCoxe,  Henry Octavius. \n             Catalogus codicum mss. qui in collegiis aulisque\n                oxoniensibus\u2026.\n         Oxon: e Typographeo academico, 1852: 19.\n",
+            "folio": ""
+        },
+        "PierpontM775": {
+            "Transcription": "\nTo him and to vs alle god graunteGrace of oure offendyngeSpace\n                    to oure amendyngeAnd his face to see at oure endynge\n",
+            "folio": "f. 121v"
+        },
+        "BodLauMis416": {
+            "Transcription": "\nTo hym and to vs alle god grauntGrace of oure offendyngSpace of\n                    oure amendyngAnd his face to se at oure endyng\n",
+            "Note": "\nAt end of Trevisa\u2019s translation of De re Militari; scribe\n                    signs name \u2018John Neuton\u2019, copied at Rhodes 25 October\n                    1459.",
+            "folio": "f. 226v"
+        }
+    }
+}

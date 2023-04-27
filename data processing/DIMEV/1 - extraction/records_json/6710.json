@@ -1,0 +1,27 @@
+{
+    "_id": 6710,
+    "_header": "Wit thou well that this book is leech",
+    "Note": "Cf. 2688, of which this is the last eight lines; usually occurs with \u2018Ipocras \u00feis bok sende to \u00fee emperour sesar\u2019 preceding, and followed by a prose treatise on urines.",
+    "Subjects": "introductions, to prose works; recipes, medical; medicine",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Preface to a prose book of Medical Receipts \u2014 in couplets",
+    "_witnesses": {
+        "BodDou84": {
+            "Note": "\n10 lines.",
+            "Editions": "\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 95.\n",
+            "folio": "f. 1"
+        },
+        "CamStJohn37": {
+            "folio": "Part II, f. 10v"
+        },
+        "BLSl3285": {
+            "First Lines": "\nWytith wel this book is good lecheWith alle thynge that hit doth\n                    tech\u2026\n",
+            "Last Lines": "\n\u2026Now man tak thow right good \u021demeHou thou maist thi body\n                    queme\n",
+            "Note": "\n10 lines. Folio number reflects the most recent foliation.",
+            "folio": "ff. 73-73v"
+        },
+        "YaleMed27": {
+            "folio": "f. 7v"
+        }
+    }
+}

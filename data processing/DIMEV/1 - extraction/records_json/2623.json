@@ -1,0 +1,52 @@
+{
+    "_id": 2623,
+    "_header": "In the sea withouten lease",
+    "Note": "Formerly included under 2278.",
+    "Author(s)": "George Ripley (attrib.)",
+    "Title(s)": "Emblematical Scroll",
+    "Subjects": "illustrations, verse accompanying; alchemical poems",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Oxford, Bodleian Library Ashmole 8 (SC 8465A): contains 5746 only.",
+    "_description": "George Ripley(?), alchemical poem on the Ripley scrolls \u2014 six couplets",
+    "_witnesses": {
+        "BodRo1": {
+            "folio": ""
+        },
+        "BodAshRol40": {
+            "First Lines": "\nIn the See withouten leesStode the Byrd of\n                    hermes\u2026\n",
+            "Last Lines": "\n\u2026Vnderstand non well A RightAnd thanck god of this\n                    Sight\n",
+            "folio": "second item on roll"
+        },
+        "CamFitz276": {
+            "First Lines": "\nIn the see wythe outten leseStandith the bride of ermesEtynge\n                    his wynges variabelleAnd maketh hem selfe \u00fee full\n                    stabill\u2026\n",
+            "Last Lines": "\n\u2026vnder stande nowe well and rygtheAnd thanke \u00feou god of\n                    this syete\n",
+            "Note": "\nSix couplets accompanying illustration of and eagle on a globe; follows\n                        5107.",
+            "folio": "roll"
+        },
+        "EDCPRS": {
+            "First Lines": "\nIn the se[ ] withoutten lesestandes the birde of\n                    hermes\u2026\n",
+            "Last Lines": "\n\u2026vnderstande [ ] well a right& thanke thou god of this\n                    sighte\n",
+            "Note": "\nSix couplets in two columns of 3 x 2 each; fourth verse on scroll; word\n                    rubbed so illegible.",
+            "Editions": "\nMcCallum,  R. I. \n             \u201cThe Ripley Scroll of the Royal College of Physicians of\n                Edinburgh.\u201d \n             Vesalius\n         2:1 (June, 1996): 39-49: 39-46.\n",
+            "folio": "fourth item"
+        },
+        "Wellcome693": {
+            "folio": "roll"
+        },
+        "YaleBeiMel41": {
+            "folio": "roll"
+        },
+        "PUL93": {
+            "First Lines": "\nIn The see wythe owtyn leseStonte the bryde off\n                    ermes\u2026\n",
+            "Last Lines": "\n\u2026Vnder stond now ffull and reyghtAnd thanke \u00feov god off\n                    thys same seyte\n",
+            "Note": "\n6 couplets, each line alternating red and black.",
+            "folio": "third item"
+        },
+        "HunHM30313": {
+            "First Lines": "\nIn the sea withouten leesStoude the Byrd of\n                    Hermes\u2026\n",
+            "Last Lines": "\n\u2026Vnderstand now well A Right& thancke God of this\n                    Sight\n",
+            "Note": "\n12 lines, third among four under this number.",
+            "folio": "roll"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "_id": 5603,
+    "_header": "There was one Philip king some tide",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "John the Baptist, saint",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018De decollacione sancti Iohannis baptiste\u2019, in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 260rb"
+        },
+        "BLHar4196": {
+            "First Lines": "\n\u00deare was ane Philyp king sum tydeof yturie and of trachomde\u2026\n",
+            "Last Lines": "\n\u2026God len us so to leue all sin\u00deat we vntill his welth may win\n",
+            "Note": "\nEnds \u201cAMEN.\u201d",
+            "Attributed Title": "\nDe decollacione sancti Iohannis baptiste (rubric, f. 175va)",
+            "Editions": "\nHorstmann,  Carl. \n             Altenglische Legenden: Neue Folge.\n         Heilbronn: Henninger, 1881: 124-7.\n",
+            "folio": "ff. 175va-177rb"
+        }
+    }
+}

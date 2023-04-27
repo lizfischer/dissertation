@@ -1,0 +1,18 @@
+{
+    "_id": 5745,
+    "_header": "This royal King Robert of Sicily land",
+    "Note": "Cf. 4415.",
+    "Subjects": "Robert of Sicily; tales",
+    "Versification": "\u2014 seven-line, four-line \u2014 ababbcc, aabb",
+    "_description": "A story of Kyng Robert of Sicily \u2014 one stanza rhyme royal and eighteen quatrains",
+    "_witnesses": {
+        "TCD432": {
+            "First Lines": "\nThis riall kyng Robert of cesile londTo \u00fee churche went on a\n                    seynt Iones nyght\u2026\n",
+            "Last Lines": "\n\u2026Vnto \u00fee pepyl & bad \u00feeyme to fle prideWhich\n                    caused lucifere from hevyn to helle slyde\n",
+            "Note": "\n79 lines; ends incomplete.",
+            "Attributed Title": "\nA story of Kyng Robert of Cesyle (f. 60)",
+            "Editions": "\nBrotanek,  Rudolph. \n             Mittelenglische Dichtungen aus der Handschrift 432 des Trinity College\n                in Dublin.\n         Halle: Niemeyer, 1940: 36-8.\n",
+            "folio": "ff. 60-61v"
+        }
+    }
+}

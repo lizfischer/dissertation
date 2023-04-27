@@ -1,0 +1,23 @@
+{
+    "_id": 3560,
+    "_header": "Most reverend righteous regent of this regality",
+    "Subjects": "Henry VII; occasional verse; York; historical verse",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Address of Welcome to Henry VII at York (1486), presentation of the Keys of the City \u2014 four stanzas rhyme royal",
+    "_witnesses": {
+        "YorkCity6": {
+            "First Lines": "\nMost Reuerend rightwose regent of this RigalitieWhos primatiue\n                    patrone I peyre to your presence\u2026\n",
+            "Last Lines": "\n\u2026Gladdith and Inioith your high grace and commyngWith our\n                    concent knowing you \u00feus sufferaine and king\n",
+            "Note": "\n\u2018Ebrauke\u2019 at top of f. 16.",
+            "Editions": "\n\nRaine,  James,\n                        ed.  \n             A Volume of English Miscellanies Illustrating the History and Language\n                of the Northern Counties of England.\nSurtees Society\n         85 (1890): 54-5.\nRaine,  Angelo,\n                        ed.  \n             York Civic Records.\n             Vol. 1. \n             Yorkshire Archaelogical Society, Records Series.\n         98 (1939): 156-7.\nSmith,  A. H. \n             \u201cA York Pageant, 1486.\u201d \n             London Medieval Studies\n         1 (1937-39): 382-98: 1.388-90.\n\n",
+            "folio": "ff. 16-16v"
+        },
+        "BLCottJulBXII": {
+            "First Lines": "\nO Reuerdende Rightwis Regent of this RegalitieWhos\n                    primatyve patron I apper to your presence\u2026\n",
+            "Last Lines": "\n\u2026Gladdeth & enoyneth your highnesse and commyngWith hole\n                    consente knowing you ther souueraigne & king\n",
+            "Note": "\n\u2018Ebraucus\u2019 written in the left margin (f. 10v).\n                    Folio number reflects the most recent foliation.",
+            "Editions": "\nSmith,  A. H. \n             \u201cA York Pageant, 1486.\u201d \n             London Medieval Studies\n         1 (1937-39): 382-98: 1.388-90.\n",
+            "folio": "ff. 10v-11"
+        }
+    }
+}

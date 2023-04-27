@@ -1,0 +1,66 @@
+{
+    "_id": 4431,
+    "_header": "Queen of heaven of hell eke empress",
+    "Author(s)": "John Lydgate",
+    "Subjects": "Virgin Mary, joys of; envoys",
+    "Versification": "\u2014 eight-line, four-line \u2014 ababbcbc, abba",
+    "_description": "John Lydgate, Verses On the Five Joys addressed to the Virgin Mary \u2014 seven 8-line stanzas(ababbcbc) and an Envoy of 28 lines (3 8-line stanzas, ababbcbc and four-line verba compilatoris, abba)",
+    "_witnesses": {
+        "BodHat73": {
+            "First Lines": "\nQvene of heuen and of helle emperresseLady of this worlde verrey\n                    lode sterre\u2026\n",
+            "Last Lines": "\n\u2026To make you strong be ware forgete hem nought On cristes\n                    passioun and on hir Ioyes fyve\n",
+            "folio": "ff. 119v-120v"
+        },
+        "BodLauMis683": {
+            "First Lines": "\nQueen of hevene of helle eek Empresselady of this world o verray\n                    loode sterre\u2026\n",
+            "Last Lines": "\n\u2026on cristis passioun and on hir Ioies ffyveto make yow strong\n                    be war for get hem nouht\n",
+            "Note": "\nEnvoy complete, not only 20 lines as recorded in Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943.",
+            "Attributed Title": "\nHere begynneth a prayer on to our lady (f. 17)",
+            "folio": "ff. 17-19"
+        },
+        "BodRawC48": {
+            "First Lines": "\nQVeen of heuene of Helle eek emperesselady of this world o varray\n                    lood sterr\u2026\n",
+            "Last Lines": "\n\u2026On cristis passioun and on hir Ioies fyue make you strong bi\n                    war for gete hem nouht\n",
+            "Note": "\nEnvoy complete, not only 20 lines as recorded in Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943.",
+            "Attributed Title": "\nHere begynneth a prayer on to our lady (f. 17)",
+            "folio": "f. 80"
+        },
+        "BodTan110": {
+            "First Lines": "\nQween of heuene of helle eeke EmperesseLady of this world O verray\n                    loodsterre\u2026\n",
+            "Last Lines": "\n\u2026On Cristys passyoun and on hir Ioyes fyveTo make you strong\n                    bewar forget hem nouht\n",
+            "Note": "\nSecond occurrence in this MS; written by a different hand(?); ten 8-line\n                    stanzas and one quatrain.",
+            "folio": "ff. 244-244v"
+        },
+        "CULKk16": {
+            "First Lines": "\nQvene of heuene of Helle eeke EmperesseLady of this Worlde O verrey\n                    loode sterre\u2026\n",
+            "Last Lines": "\n\u2026On cristus Passion & on here Ioyes ffyueTo make \u021dow\n                    stronge be war for get hem nought\n",
+            "Attributed Author": "\nLydgate (f. 199); Quod dan Iohn Lydgate (f. 200v)",
+            "Attributed Title": "\nHere\u2026begyneth an holy preyer to oure moste blesset Lady Seynt Mari of\n                    here V Ioyes. Lydgate (f. 199)",
+            "folio": "ff. 199-200v"
+        },
+        "CamJes56": {
+            "First Lines": "\n[O] quene of heuen of hell eeke emperesLady of \u00feis worlde o\n                    verrey loode sterre\u2026\n",
+            "Last Lines": "\n\u2026To make you strong be ware forget \u00feamOn Cristes passion\n                    and on hir Ioyes fyue\n",
+            "Attributed Title": "\nIncipit de sancta maria (f. 71v)",
+            "folio": "ff. 71v-72v"
+        },
+        "CamTCC601": {
+            "First Lines": "\nquene of heuyn of hell eke Emperesselady of thys world o verrey\n                    loode sterreTo marynerys geyn all martall distresseIn theyre passage\n                    that they ne erre\u2026\n",
+            "Last Lines": "\n\u2026On Crystes passion & on her ioyes fyueTo make yow strong\n                    beware foryete hem nought\n",
+            "Attributed Author": "\nLydgate (added next to \u2018lenuoy\u2019, f. 168; added next to\n                    \u2018Explicit\u2019, f. 168v)",
+            "folio": "ff. 167v-168"
+        },
+        "BLHar2255": {
+            "First Lines": "\nQueen of heuene of helle Eek emperesselady of this world O verray\n                    lood sterre\u2026\n",
+            "Last Lines": "\n\u2026On cristis passioun and on hir Ioyes fyveTo make you strong\n                    be war forget hem nouht\n",
+            "Attributed Author": "\nExplicit quod lidgate (f. 113v)",
+            "Attributed Title": "\nIncipit de Sancta Maria (f. 111v, in rubric)",
+            "folio": "ff. 111v-113v"
+        },
+        "Lam344": {
+            "First Lines": "\nQvene of heuene and of helle emperesseLady of thys world verrey\n                    lood sterre\u2026\n",
+            "Last Lines": "\n\u2026To make you strange be ware forget her nowghtIn crystes\n                    passyon and on hyre Ioyes fyve\n",
+            "folio": "ff. 11-12v"
+        }
+    }
+}

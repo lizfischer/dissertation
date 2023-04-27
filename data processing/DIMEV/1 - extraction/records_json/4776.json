@@ -1,0 +1,16 @@
+{
+    "_id": 4776,
+    "_header": "Salue decus pauperum",
+    "Subjects": "hymns, to saints; Francis of Assisi, saint",
+    "Versification": "\u2014 six-line \u2014 ababcc",
+    "Macaronic": "Latin",
+    "_description": "A macaronic hymn to St. Francis, in a volume of songs by Ryman \u2014 eight 6-line stanzas, including a 2-line refrain, \u2018As clerly nowe itte dothe appere / To feithfull man bothe farre & nere\u2019",
+    "_witnesses": {
+        "CULEe112": {
+            "First Lines": "\n\nSalue decus pauperumIn whom be vertuys\n                    ryue\u2026\n",
+            "Last Lines": "\n\u2026Thatt clerly then they may appereBefore thy face thatt is so\n                    clere\n",
+            "Editions": "\nZupitza,  Julius,\n                        ed.  \n             \u201cDie Gedichte des Franziskaners Jacob Ryman.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         89 (1892): 167-338: 318.\n",
+            "folio": "ff. 100v-101"
+        }
+    }
+}

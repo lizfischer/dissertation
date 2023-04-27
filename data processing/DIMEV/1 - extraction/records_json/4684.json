@@ -1,0 +1,22 @@
+{
+    "_id": 4684,
+    "_header": "Saint Luke us says whoso will hear",
+    "Note": "For the usual version see 4679.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Fourteenth Sunday after Trinity in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 225va"
+        },
+        "BLHar4196": {
+            "First Lines": "\nSaint luke vs sais who so will hereIn oure godspell on \u00feis manere\u2026\n",
+            "Last Lines": "\n\u2026\u00feat we be worthi forto winVntill his blis \u00feat neuer sal blin\n",
+            "Note": "\nPreceded by Latin, \u201cDum iret ihesus crist in ierusalem.\u201d",
+            "Attributed Title": "\nDominica xiiii estatis Secundum Lucam (rubric, f. 117va)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): III.102-105.\n",
+            "folio": "ff. 117va-118ra"
+        }
+    }
+}

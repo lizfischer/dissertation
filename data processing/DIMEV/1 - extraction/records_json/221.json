@@ -1,0 +1,24 @@
+{
+    "_id": 221,
+    "_header": "Adieu adieu my hearts lust",
+    "Note": "Following 299; Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 64.",
+    "Author(s)": "William Cornish",
+    "Subjects": "complaints",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "William Cornish, A complaint, perhaps of one exiled \u2014 one cross-rhymed quatrain",
+    "_witnesses": {
+        "BodAsh176": {
+            "Transcription": "\nAdewe adewe my hartes lustadewe my ioye & my solaswith\n                    double sorowes complayne I mustvntyll I dye alas alas\n",
+            "Editions": "\nSeaton,  Ethel. \n             Sir Richard Roos, c. 1410-1482: Lancastrian Poet.\n         London: R. Hart-Davis, 1961: 405.\n",
+            "folio": "f. 100"
+        },
+        "BLAdd31922": {
+            "Transcription": "\nA dew a dew my hartis lustAdew my Ioy and my solaceWyth dowbyl sorow complayn I mustvn tyl I dye alas alas\n",
+            "Note": "\nWords repeated twice more with musical notes for two further singing parts.",
+            "Attributed Author": "\nCornysch (after last line, f. 24)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Additional MS 31922.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=2&ref=Add_MS_31922. \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts, Besonders aus der Zeit Heinrichs\n                VIII.\u201d \n             Anglia\n         12 (1889): 225-72, 585-97: 232.\nStevens,  John,\n                        ed.  \n             Music and Poetry in the Early Tudor Court.\n         London: Methuen, 1961: 14, 390.\nStevens,  John,\n                        ed.  \n             Music at the Court of Henry VIII.\nMusica Britannica\n         18. London: Stainer and Bell, 1962: 17.\n\n",
+            "folio": "ff. 23v-24"
+        }
+    }
+}

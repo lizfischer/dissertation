@@ -1,0 +1,24 @@
+{
+    "_id": 1365,
+    "_header": "For lack of sight great cause I have to pleyne",
+    "Note": "Possibly originally a \u2018triple ballade\u2019.",
+    "Subjects": "lovers, addresses to beloved; envoys",
+    "Versification": "\u2014 eight-line, four-line \u2014 abab, ababbcbc",
+    "_description": "To his Mistress \u2014 eight 8-line stanzas including refrain, \u2018Of my desire that I may ce ryghte noghte\u2019, and four-line envoy.",
+    "_witnesses": {
+        "BodTan346": {
+            "First Lines": "\nFor lak of sighte grete cause haue I to pleynelonge absence so sore\n                    me werreyth\u2026\n",
+            "Last Lines": "\n\u2026Disdeyneth not but of godely hedeHaueth ther on mercy and\n                    pite\n",
+            "Facsimiles": "\nRobinson,  Pamela. \n             \u201cIntroduction.\u201d \n             Manuscript Tanner 346: A Facsimile.\n         Norman, OK: Pilgrim, and Woodbridge: Boydell and Brewer, 1980. \n",
+            "folio": "ff. 74v-75v"
+        },
+        "CULFf16": {
+            "First Lines": "\nfor lac of sight grete cause I haue to pleynlonge absense so sore\n                    me werreyth\u2026\n",
+            "Last Lines": "\n\u2026Disdeyneth not but of godely hedehaueth ther on mercy and\n                    pite\n",
+            "Note": "\n7 stanzas plus envoy",
+            "Facsimiles": "\nBeadle,  Richard,  and  Alfred E. B. Owen.  \n             The Findern Manuscript: Cambridge University Library MS. F.1.6.\n         London: Scolar Press, 1977. \n",
+            "Editions": "\n\nMacCracken,  Henry Noble. \n             \u201cLydgatiana.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         127 (1911): 323-7: 323.\nCohen,  Helen Louise. \n             The Ballade.\n         New York: Columbia UP, 1915: 287-9 (with st. 5 from Oxford,  Bodleian Library Tanner 346 (SC 10173)).\n\n",
+            "folio": "ff. 19-19v"
+        }
+    }
+}

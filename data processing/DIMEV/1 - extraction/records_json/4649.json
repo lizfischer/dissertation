@@ -1,0 +1,22 @@
+{
+    "_id": 4649,
+    "_header": "Saint John witness til us alway",
+    "Note": "For the usual version see 4636 and 4644.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Fourth Sunday in Lent in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 149rb"
+        },
+        "BLHar4196": {
+            "First Lines": "\nSaint Iohn witnes till vs alwayIn \u00fee godspell of \u00feis day\u2026\n",
+            "Last Lines": "\n\u2026Gladly to do almus dedeAnd to help \u00feam \u00feat here has nede\n",
+            "Note": "\nPreceded by Latin, \u201cAbiit ihesu crist transmare galile.\u201d",
+            "Attributed Title": "\nDominica quarta quadragesime Secundum Iohannem (rubric, f. 53rb)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): II.93-97.\n",
+            "folio": "ff. 53rb-54ra"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "_id": 4440,
+    "_header": "Ravished was I that well was me",
+    "Subjects": "Henry VIII; Mary, princess",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "A song on the Princess Mary\u2019s dancing with her father Henry VIII \u2014 six quatrains",
+    "_witnesses": {
+        "BodAsh176": {
+            "First Lines": "\nRavyssed was I that well was meo lord to me so fayneto see\n                    \u00feat sight that I dyd see I longe full sore ageyne\u2026\n",
+            "Last Lines": "\n\u2026and send her shortlye a Brotherto be englandes right\n                    heire\n",
+            "Note": "\nAt the end: \u2018finis\u2019.",
+            "Editions": "\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.258.\n",
+            "folio": "ff. 100v-101"
+        },
+        "BLCottTitDXI": {
+            "Transcription": "\nRawyshyd was I\u2026\n",
+            "Note": "\nTitle only: first three words.",
+            "folio": "f. 56v"
+        }
+    }
+}

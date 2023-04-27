@@ -1,0 +1,82 @@
+{
+    "_id": 4753,
+    "_header": "Saint Quintin the martyr of the country was of Rome",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Quintin, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Quintin in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "BodAsh43": {
+            "First Lines": "\nSEyn Quintyn \u00fee martyr of \u00fee contreie was of romeVor\n                    godes loue he \u00feolede much as he to heuene come\u2026\n",
+            "Last Lines": "\n\u2026Hi seie heuene openy \u00feet a\u021den In heo flei anonNou\n                    god uor \u00fee loue of seynt qiutyne ous bringe \u00feuder echon\n",
+            "folio": "ff. 162v-164v"
+        },
+        "Bod779": {
+            "First Lines": "\nseint quintin \u00fee marter of \u00fee contre was of romefor\n                    goddus loue he \u00feolid de\u00fe or he to heuin come\u2026\n",
+            "Last Lines": "\n\u2026\u00deey sey\u021d heuin opin \u00feer a\u021den in he fley\n                    anonnow god for \u00fee loue of hym bring vs \u00feedir echon\n",
+            "folio": "ff. 282v-284v"
+        },
+        "BodLauMis463": {
+            "First Lines": "\nSEint quyntyn \u00fee martir of \u00fee countreie of Romeffor godes\n                    loue \u00feolede de\u00fe er he to heuen come\u2026\n",
+            "Last Lines": "\n\u2026\u00feei seyen heuen opene \u00feer a\u021dein & he fley in\n                    anonGod for \u00fee loue of seint quintyn \u00feider vs bring\n                    echon\n",
+            "Note": "\nTwo columns per page, one full-line, the other half-line.",
+            "folio": "ff. 98rb-99ra"
+        },
+        "OxfTri57": {
+            "folio": "f. 118v"
+        },
+        "CULAdd3039": {
+            "First Lines": "\nSayne quentyne \u00fee haly martir of \u00fee contre of Romeffor\n                    godde\u021d lufe he tholed mekil or he to heuene comeAn Emperoure \u00feer\n                    was at Rome \u00feat hight MaximianHe garte torment whore so he fande any\n                    cristen man\u2026\n",
+            "Last Lines": "\n\u2026And heuen opend \u00feer agayne with ioy & myrth gude\n                    woneNowe godde for lufe of Sayne Quintyne brynge vs \u00feedre\n                    ilkone\n",
+            "folio": "ff. 22v-24"
+        },
+        "CamMagPep2344": {
+            "First Lines": "\nSeint Quyntyn \u00fee martyr of \u00fee countre was of Romeffor\n                    godes loue he \u00feolede muche ar he to heuene come\u2026\n",
+            "Last Lines": "\n\u2026Hi seye heuene openy \u00feer a\u021den yn he ffley anonNow\n                    god ffor \u00fee loue of Seint Quyntyn bringe vs \u00feuder echon\n",
+            "Attributed Title": "\nSanctus Quintinus (RT)",
+            "folio": "pp. 461-464"
+        },
+        "CamTCC605": {
+            "First Lines": "\nSEint quintyn \u00fee marter of \u00fee contre was of romefor god\n                    he \u00feoled muche or he to heuene come\u2026\n",
+            "Last Lines": "\n\u2026hii sey heuene opene hure a\u021den In heo fley anonnow god\n                    for \u00fee loue of seint quintyn ous bringe \u00feuder echon\n",
+            "Attributed Title": "\nquyntyn (RT)",
+            "folio": "ff. 252v-254"
+        },
+        "BLCottJulDIX": {
+            "First Lines": "\nSEyn quintyn \u00fee martir of \u00fee contrei was of romefor godes loue he \u00feole\u00fee moche ar he to heuen come\u2026\n",
+            "Last Lines": "\n\u2026hi seie heuen openy him a\u021den in he flei anonnou god for \u00fee loue of seyn quintin ous bring \u00feu\u00feer echon\n",
+            "Note": "\n\u201cCapitulum lxxii\u201d added to left margin by later hand (f. 158v).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Julius MS D IX.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Julius_D_IX. \n",
+            "folio": "ff. 158v-160v"
+        },
+        "BLEge2891": {
+            "First Lines": "\nSEin quintin \u00fee martir of \u00fee contreie was of romefor godes loue he \u00feolede muche ar he to heuene come\u2026\n",
+            "Last Lines": "\n\u2026hy seie heuene openi \u00feer a\u021den In he flei anonNou god for \u00fee loue of sein quintin  us bringe \u00feuder echon\n",
+            "folio": "ff. 162v-164"
+        },
+        "BLHar2277": {
+            "First Lines": "\nSEint Quintin \u00fee martir of \u00fee contray was of Romeffor godes loue he \u00feolede de\u00fe er he to heuene come\u2026\n",
+            "Last Lines": "\n\u2026Hi se\u021de heuene openy \u00feer a\u021den in he fle\u021d anonNou god for \u00fee lous of Seint quintin ous bringe \u00feider echon\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 2277.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_2277. \n",
+            "Editions": "\nD\u2019Evelyn,  Charlotte,  and  A. J. Mill, eds.  \n             The South English Legendary: Corpus Christi College Cambridge MS. 145\n                and British Museum MS. Harley 2277, with variants from Bodley MS. Ashmole 43 and\n                British Museum MS. Cotton Julius D.ix.\nEETS\n         o.s. 235 (1959), 236 (1956); repr. 1967: 2.456-60.\n",
+            "folio": "ff. 142-143v"
+        },
+        "BLSto949": {
+            "First Lines": "\nSeyn quyntyn \u00fee martyr of \u00fee cuntrey was of Romeffor godes loue he \u00feolede moche ar he to heuene come\u2026\n",
+            "Last Lines": "\n\u2026hii sey heuene openy \u00feera\u021den in heo fley anonNou god for loue of Seyn Quyntyn vs brynge \u00feyder echon\n",
+            "folio": "ff. 34v-36v"
+        },
+        "Lam223": {
+            "First Lines": "\nSAynt Quintyne \u00fee martir of \u00fee cuntrey was of RomeMiche\n                    he \u00feoled for goddes love er he to heuen come\u2026\n",
+            "Last Lines": "\n\u2026\u00deai seen heuen open \u00feera\u021deyn & in he flagh\n                    anonNow god for \u00fee love of saynt Quintyn bringe vs \u00feider ychone\n                    Amen\n",
+            "Attributed Title": "\nSaynt Quintyn (RT)",
+            "folio": "ff. 198-200"
+        },
+        "TokyoTak54": {
+            "First Lines": "\nSeynt Quintyne \u00fee marter was of \u00fee contre of RomeFor\n                    goddis loue he \u00feoled pyne er he to heuene come\u2026\n",
+            "Last Lines": "\n\u2026And heuene opned it a\u021dein and Inne it fle anonNow god\n                    for \u00fee loue of seynt Quintyne bryng vs \u00feider echon\n",
+            "Attributed Title": "\nVita sacti Quintini martiris (f. 151v)",
+            "folio": "ff. 151v-153"
+        }
+    }
+}

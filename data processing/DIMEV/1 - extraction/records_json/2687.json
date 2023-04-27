@@ -1,0 +1,21 @@
+{
+    "_id": 2687,
+    "_header": "Ipocras made this book / Whoso will therein look",
+    "Note": "Cf. 2688 and 6710.",
+    "Subjects": "epilogues; medicine",
+    "Versification": "\u2014 eight-line \u2014 aabccbdd",
+    "_description": "Verses at the end of a Book of Medicines",
+    "_witnesses": {
+        "BodLauMis685": {
+            "First Lines": "\nIpocras made thys bokho so wylle ther inne loke\u2026\n",
+            "Last Lines": "\n\u2026the fyrste way ate the hed he moste be gynneand afterward\n                    atte alle othere lymmys\n",
+            "Note": "\n8 lines, written as prose.",
+            "Editions": "\nKeiser,  George R. \n             \u201cVerse Introductions to Middle English Medical Treatises.\u201d \n             English Studies\n         84 (2003): 301-17: 314.\n",
+            "folio": "f. 72v"
+        },
+        "BLSl3160": {
+            "Note": "\n6 lines.",
+            "folio": "f. 153"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "_id": 2937,
+    "_header": "Jesu Thy name honored might be",
+    "Note": "Preceded by 2875",
+    "Subjects": "Christ, prayers to; prayers, to Christ",
+    "Versification": "\u2014 eight-line \u2014 abababab",
+    "_description": "A prayer to Jesus \u2014 five 8-line stanzas (abababab)",
+    "_witnesses": {
+        "CamTCC223": {
+            "First Lines": "\nIhesu \u00fei name honourde my\u021dt bewith al \u00feat any lyfe\n                    is in\u2026\n",
+            "Last Lines": "\n\u2026\u00deu wesche a way al my mysdede& graunt me blyse\n                    withouten ende Amen\n",
+            "Attributed Title": "\nAlya cantica (f. 55)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             Political, Religious and Love Poems, from Lambeth MS. 306 and other\n                sources.\nEETS\n         o.s. 15 (1866); repr. 1962; rev. ed. 1903: 139-40.\nPatterson,  Frank A. \n             The Middle English Penitential Lyric.\nColumbia University Studies in English.\n         New York: Columbia Press, 1911: 134-5.\n\n",
+            "folio": "ff. 55-55v"
+        },
+        "Chetham6691": {
+            "First Lines": "\nIhesu \u00fei name honoured beWi\u00fe alle \u00feat ony lyf is\n                    Inne\u2026\n",
+            "Last Lines": "\n\u2026Wasche awey al my mysdedeAnd graunte me blysse withouten ende\n                    Amen\n",
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 2 27-9.\n",
+            "folio": "f. 134v"
+        }
+    }
+}

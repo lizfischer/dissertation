@@ -1,0 +1,27 @@
+{
+    "_id": 5364,
+    "_header": "The knowledge of God passeth comparison",
+    "Author(s)": "William Cornish",
+    "Title(s)": "A Treatise bytweene Enformacione and Musyke",
+    "Subjects": "debates",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "William Cornish, A Treatise bytweene Enformacione and Musyke (A.D. 1504) \u2014 Prologue of four stanzas rhyme royal and text of twelve stanzas rhyme royal",
+    "_witnesses": {
+        "BLHar43": {
+            "First Lines": "\nThe knowlege of god passythe comparysonethe devyle knowthe all\n                    evyle thyng consentyd or done\u2026\n",
+            "Last Lines": "\n\u2026for yif he dyd then change sholde the thys songpyte for\n                    pacyens & concyens for wrong\n",
+            "Note": "\nImperfect; added to back flyleaves; damage to f. 88 means that third\n                    stanza virtually lost; ends bottom of page on 91 recto; this version has\n                    4-stanza prologue followed by sixteen stanzas rhyme royal.",
+            "Attributed Title": "\nA tretyse by twene enformacione and musyke (f. 88v after\n                    prologue)",
+            "folio": "ff. 88-91v"
+        },
+        "BLRoy18Dii": {
+            "First Lines": "\nThe knowledge of god passith comparysonThe devill knowith all il thinge consented or done\u2026\n",
+            "Last Lines": "\n\u2026ffor if he didde then change shulde this in songepitie for pacience and conscience for wronge\n",
+            "Attributed Author": "\nIn the fleete maade be me William Cornysshe otherwyse called Nysshewhete Chapelman with the moost famost and noble kyng Henry the viith his raigne the xixth yere, the moneth of Iuly, a Treatise bitwene Trowth and enformacion (f. 163); Ne nysswhete parabolam (f. 164ra, in rubric)",
+            "Attributed Title": "\nA. B. of E. how C. for T. was P. in P (f. 163, in rubric)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Royal 18 D II.\n         2015; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Royal_MS_18_D_II. \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cKleinere Mitteilungen aus handschriften: Cornyshe\u2019s Treatise\n                bitwene Trowth and Enformacion (Royal ms. 18.D.II).\u201d \n             Anglia\n         14 (1892): 466-71: 467.\nHollander,  John. \n             The Untuning of the Sky.\n         Princeton, NJ: Princeton UP, 1961; repr. 1983; Norton, 1970: 433-6.\n\n",
+            "folio": "ff. 163ra-164ra"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "_id": 3765,
+    "_header": "Now is England perished in fight",
+    "Subjects": "evils of the time; clothing, against extremes of",
+    "Versification": "\u2014 four-line \u2014 aaaa",
+    "_description": "On the state of England \u2014 seven quatrains, generally monorime",
+    "_witnesses": {
+        "OxfCCC237": {
+            "First Lines": "\nNow ys yngland all in fyghtMoche peple of consyens\n                    lyght\u2026\n",
+            "Last Lines": "\n\u2026moch bost of there clothysBut wele I wot they lake none\n                    othys\n",
+            "Note": "\nAdded by a later hand of the fifteenth century, same as 2503.",
+            "Editions": "\n\nWright,  Thomas,\n                        ed.  \n             Political Poems and Songs relating to English History, composed during\n                the period From the Accession of Edward III to that of Richard III.\n             2 vols. \n             Rolls Series\n         14 (1859, 1861); repr. Kraus, 1965: 2.252-3.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 450.\n\n",
+            "folio": "f. 243v"
+        },
+        "CULHh26": {
+            "First Lines": "\nNowe is Englond perisshed in sightWith moche peple & consciens\n                    light\u2026\n",
+            "Last Lines": "\n\u2026The cause is for lak of lightThat shuld be in the church of\n                    right\n",
+            "Note": "\nWritten by a hand of the sixteenth century.",
+            "Editions": "\nRobbins,  Rossell Hope,\n                        ed.  \n             Historical Poems of the XIV and XV Centuries.\n         New York: Columbia UP, 1959: 149-50.\n",
+            "folio": "f. 58rb"
+        }
+    }
+}

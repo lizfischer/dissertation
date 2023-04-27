@@ -1,0 +1,36 @@
+{
+    "_id": 4247,
+    "_header": "Oft then have ye heard tell",
+    "Note": "For the version in the \u2018expanded\u2019 Cycle see 2514.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018Euangelium in vigilia Sancti Iohannis Baptiste\u2019 in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nOfft \u00fean haue \u021de herd tellBa\u00fee in tale & in\n                    spell\u2026\n",
+            "Last Lines": "\n\u2026Before criste sall he graithe \u00fee waie& rightwise\n                    folk to him puruaie\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 238-239v"
+        },
+        "CULDd11": {
+            "First Lines": "\nOften haue I herd tellebo\u00fee in talking & in\n                    spelle\u00feat seynt Iohn \u00fee Baptist\u2026\n",
+            "Last Lines": "\n\u2026Be forn god he schal greythen \u00fee wayand gode men to him\n                    puruay\n",
+            "Note": "\nNo division marker between this and the following text, 5035.",
+            "Attributed Title": "\nIn die Natiuitatis sancti Iohannis Baptiste Precursoris nostri ihesu\n                        cristi (f. 139v)",
+            "folio": "ff. 139v-140v"
+        },
+        "CULGg531": {
+            "First Lines": "\nOf tyme haf \u021de hard tellBoth in tale and in\n                    spell\u2026\n",
+            "Last Lines": "\n\u2026By for cryste sall be grayth \u00fee wayAnd ryght wys folk\n                    tyll heuen purway\n",
+            "Attributed Title": "\nIn vigilia natiuitatis sancti iohannis baptiste\u2026 (f.\n                        154v)",
+            "folio": "ff. 154v-155v"
+        },
+        "HunHM129": {
+            "First Lines": "\nOfft haue \u021de herd tellBoth in talkyn and in\n                    spell\u2026\n",
+            "Last Lines": "\n\u2026Be for crist schall he gray \u00fee wayAnd ryghtwyse folk to\n                    hym puruay\n",
+            "Attributed Title": "\nIn vigilia sancti Iohannis baptiste secundum Lucam (f.\n                        202v)",
+            "folio": "ff. 202v-204v"
+        }
+    }
+}

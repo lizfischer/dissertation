@@ -1,0 +1,23 @@
+{
+    "_id": 4635,
+    "_header": "Saint John the good Evangelist",
+    "Note": "For the text in the \u2018expanded\u2019 Cycle see 4632; see also 4642.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Twenty-fifth Sunday after Trinity in the Northern Homily Cycle",
+    "_witnesses": {
+        "CULAdd8335": {
+            "First Lines": "\nSEynt Ione \u00fee gode euangelistTelles vs \u00feis day howe ihesu\n                    crist\u2026\n",
+            "Last Lines": "\n\u2026And coueres vs fro oure enemyVndere \u00fee wenges of his\n                    mercy\n",
+            "Attributed Title": "\nDominica xxva post festum trinitatis secundum Iohannem (p.\n                    366)",
+            "folio": "pp. 366-373"
+        },
+        "CULDd11": {
+            "First Lines": "\nSEynt Iohn \u00fee good Euangelisttelli\u00fe vs \u00feis day how\n                    ihesu cristkaste vp his eyne & lokid a boute\u2026\n",
+            "Last Lines": "\n\u2026& kepi\u00fe vs fro oure enmyvnder \u00fee wengis of his\n                    mercy\n",
+            "Attributed Title": "\nDominica vicesima quinta post festum sancte trinitatis. Euangelium\n                        secundum Iohannem (f. 215v)",
+            "folio": "ff. 215v-218"
+        }
+    }
+}

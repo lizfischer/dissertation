@@ -1,0 +1,21 @@
+{
+    "_id": 5643,
+    "_header": "Think on him and have good mind",
+    "Note": "Cf. 6512.",
+    "Title(s)": "Gesta Romanorum",
+    "Subjects": "Christ, Passion of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A couplet in the story of Emperor Fredericus in the Gesta Romanorum",
+    "_witnesses": {
+        "BLHar5369": {
+            "Transcription": "\n\u00feynke on hym and haue gode mynde\u00feat tho \u00fee wos so kynde\n",
+            "Note": "\nAdded to lower margin by a later hand.",
+            "folio": "f. 48v"
+        },
+        "BLAdd45557": {
+            "Transcription": "\nThenke on hym & haue minde\u00feat to \u00fee was so\n                    kynde\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 15v"
+        }
+    }
+}

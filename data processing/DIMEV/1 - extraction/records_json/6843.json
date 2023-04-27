@@ -1,0 +1,22 @@
+{
+    "_id": 6843,
+    "_header": "Ye that passen by the way",
+    "Subjects": "scripture texts, Engl. trans. of; sermons, verse in; Christ, Passion of; Christ, address to humankind; Christ, wounds of",
+    "Versification": "\u2014 four-line \u2014 aaaa",
+    "_description": "O vos omnes qui transitis per viam \u2014 four long lines translating Lamentations 1.12",
+    "_witnesses": {
+        "CULIi38": {
+            "Transcription": "\n\u021ce \u00feat go\u021dt bi \u00fee weye abide\u021dt a litul\n                    stoundeby holde\u021dt & take\u021dt hede \u021dif \u00feer eny is in\n                    peyne \u021dliche me ifondeto \u00fee tre wi\u021dt nayles \u00fere fete\n                    & handes ful faste ystonge & boundeWit\u021d a spere depe &\n                    sore to my herte \u00feer is ismete a wounde\n",
+            "Note": "\nAn independent insertion into the sermon Christus passus est pro\n                        nobis (ff. 59-60).",
+            "Editions": "\nStemmler,  Theo. \n             \u201cMore English Texts from MS. Cambridge University Library\n                Ii.III.8.\u201d \n             Anglia\n         93 (1975): 1-16: 4.\n",
+            "folio": "f. 59v"
+        },
+        "NLS18721": {
+            "First Lines": "\n\u021ce \u00feat pasen be \u00fee wey\u021deA bidet a litel\n                    stounde\u2026\n",
+            "Last Lines": "\n\u2026with a spere al \u00feoru mi sideto min herte is mad\n                    awounde\n",
+            "Note": "\nIn John Grimestone\u2019s sermon notebook. Written as one eight-line\n                    stanza, abcbdbeb (or four monorhyming long lines).",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 90.\nDavies,  Reginald Thorne. \n             Medieval English Lyrics: a critical anthology.\n         London, 1963; Evanston, IL: Northwestern UP, 1964: 125.\nSilverstein,  Theodore,\n                        ed.  \n             Medieval English Lyrics.\n         York Medieval Texts. London: Edw. Arnold, 1971: 64.\nLuria,  Maxwell Sidney,  and  Richard L. Hoffman, eds.  \n             Middle English Lyrics.\n         New York: Norton, 1974: 208.\n\n",
+            "folio": "f. 125vb"
+        }
+    }
+}

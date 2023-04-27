@@ -1,0 +1,25 @@
+{
+    "_id": 6226,
+    "_header": "What can it avail",
+    "Author(s)": "John Skelton",
+    "Title(s)": "\u2018Colyn Cloute\u2019",
+    "Versification": "\u2014 skeltonic",
+    "_description": "John Skelton, \u2018Colyn Cloute\u2019 \u2014 1270 lines in \u2018skeltonics\u2019",
+    "_witnesses": {
+        "BodRawC813": {
+            "Note": "\nA fragment. Cf. 6205.",
+            "folio": ""
+        },
+        "BLHar2252": {
+            "First Lines": "\nWhat can hyt avayleHo dryve forthe a snayle\u2026\n",
+            "Last Lines": "\n\u2026Thyngis \u00feat ar amysWhen hys pleasure ys\n",
+            "Attributed Author": "\nQuod Scelltonys lawreatis (f. 153)",
+            "folio": "ff. 147-153v"
+        },
+        "BLLan762": {
+            "Note": "\n\u2018The Profecy of Skelton\u2019; same as lines 462-80 of Dyce\n                    text.",
+            "Editions": "\n\nDyce,  Alexander,\n                        ed.  \n             The Poetical Works of John Skelton.\n         2 vols. London: T. Rodd, 1843: 1.329.\nDyce,  Alexander,  and  Izaak Walton, eds.  \n             The Poetical Works of Skelton and Donne.\n         Boston: Houghton, Osgood, 1879: 1.141-2.\n\n",
+            "folio": "f. 71"
+        }
+    }
+}

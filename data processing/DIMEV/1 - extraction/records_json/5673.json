@@ -1,0 +1,63 @@
+{
+    "_id": 5673,
+    "_header": "This day Saint Matthew tells us",
+    "Note": "For the version in the \u2018expanded\u2019 Cycle see 4726.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Twenty-third Sunday after Trinity, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nTO daie sainte mathew telles vsHow fals men temptid\n                    iesus\u2026\n",
+            "Last Lines": "\n\u2026ffor criste \u00feaim sette qwamteli at\n                    hame\u00feis es \u00fee text of oure gospell als fer forthe etc\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 227-228"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nTO dai seint Matheu telle\u00fe vsHou false men fonded\n                    Ihesus\u2026\n",
+            "Last Lines": "\n\u2026\u00deat may \u021de by a tale I witeAnd \u021de wole I schal\n                    telle ow hite\n",
+            "Attributed Title": "\nAbuentes pharisei consilium (f. 213vb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 213vb2-213vc"
+        },
+        "CULAdd8335": {
+            "First Lines": "\n\u00deis day Seynt Matheu telles vsHowe false men come to fonde\n                    ihesus\u2026\n",
+            "Last Lines": "\n\u2026\u00deat may we by a story witteOf whilk we rede in holi\n                    writte\n",
+            "Attributed Title": "\nDominica xxiija secundum Mathium (p. 349)",
+            "folio": "pp. 349-351"
+        },
+        "CULDd11": {
+            "First Lines": "\nThis day seynt Mathew telli\u00fe vsHow fals men com to fond\n                    ihesus\u2026\n",
+            "Last Lines": "\n\u2026\u00feat may we be a stori witeWher of we rede in holi\n                    write\n",
+            "Attributed Title": "\nDominica vicesima tercia Post festum sancte trinitatis Euangelium\n                        secundum Matheum Aventes pharisei consilium inierunt vt caperunt ihesum in\n                        sermone & cetera (f. 209)",
+            "folio": "ff. 209-209v"
+        },
+        "CULGg531": {
+            "First Lines": "\n\u00deis day saynt matheu tellys vsHow fals men temped [sic]\n                    ihesus\u2026\n",
+            "Last Lines": "\n\u2026\u00feat may \u021de by a tale weteAnd yf \u021de wyll I sall\n                    tell yt\n",
+            "Attributed Title": "\nDominica xxiijma post trinitatem secundum matheum (f.\n                    151)",
+            "folio": "ff. 151-151v"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nTO day seint Matheu telle\u00fe vsHou false men fonded\n                    Ihesus\u2026\n",
+            "Last Lines": "\n\u2026\u00deat may \u021de bi a tale I witeAnd \u021de wol I schal\n                    telle owhite\n",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 17vc-18ra"
+        },
+        "Lam260": {
+            "folio": "f. 61vb"
+        },
+        "MinULZ822": {
+            "First Lines": "\nTo day saynte mathew tels vsHow fals men fondide\n                    Ihesus\u2026\n",
+            "Last Lines": "\n\u2026\u00deat may \u021de be a tale here wyte& yfe \u021de\n                    wyle \u021de may here yte\n",
+            "Attributed Title": "\nDominica xxiiia Secundum Matheum (f.\n                    183v)",
+            "folio": "ff. 183v-184v"
+        },
+        "HunHM129": {
+            "First Lines": "\nTo day seint mathew tellyth vsHow flas [sic] men fandyt\n                    ihesus\u2026\n",
+            "Last Lines": "\n\u2026\u00deat \u021de may here by atale wytAnd \u021dyff \u021de\n                    will I woll tell hyt\n",
+            "Attributed Title": "\nDominica vicesima tercia post festum trinitatis (f. 193)",
+            "folio": "ff. 193-193v"
+        }
+    }
+}

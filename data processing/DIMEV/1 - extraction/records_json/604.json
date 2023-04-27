@@ -1,0 +1,30 @@
+{
+    "_id": 604,
+    "_header": "As I gan wander in my walking / Besides an holt\u2026",
+    "Title(s)": "Hours of Man\u2019s Life",
+    "Subjects": "vanity, against worldly; human life, transitory nature of; transitoriness, of life",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "The Hours of Man\u2019s Life \u2014 ten 8-line stanzas with the refrain: \u2018\u00feis worlde is but a vanyte\u2019",
+    "_witnesses": {
+        "BodLatMisE85": {
+            "First Lines": "\nAs I wanderd in my walkyngbe syde an holt wondyr an\n                    hyll\u2026\n",
+            "Last Lines": "\n\u2026bot good and yll I may hue\u00feis world ys bot a\n                    wanite\n",
+            "Note": "\nNine 8-line stanzas.",
+            "Attributed Author": "\nExplicit [?tautus] quod de Thomas Peny OP (f. 82); also \u2018 houghton\u2019 after title, same folio (possibly scribe)",
+            "Attributed Title": "\n\u00deis world ys bot a wanite (f. 82)",
+            "folio": "ff. 81-82"
+        },
+        "NLWPork10": {
+            "Note": "\nWith an extra stanza between stanzas 1 & 2.",
+            "Editions": "\n\nHalliwell-Phillipps,  James Orchard. \n             Early English Miscellanies in Prose and Verse.\n         London: for the Warton Club, 1855: 9-12.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 230-3.\n\n",
+            "folio": "ff. 61-63"
+        },
+        "Lam853": {
+            "First Lines": "\nAS Y Gan wandre in my walkingeBisidis an holt vndir an hilleY\n                    say an oolde man sitte wepingeWith si\u021dynge sore he seide me\n                    tille\u2026\n",
+            "Last Lines": "\n\u2026\u00deus an oold man y herde mornyngeBiside an holte vndir a\n                    treeGod graunte us his blis euerlastinge\u00deis world is but a\n                    vanite\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The History of the Holy Grail by Henry Lovelich.\nEETS\n         e.s. 20, 24, 28, 30, 95 (1874-8); repr. in 2 vols, 1973: 83-5.\nW\u00fclker,  Richard Paul,\n                        ed.  \n             Altenglisches Lesebuch.\n         2 vols. in one. Halle: Lippert, 1874, 1880: 2.12-4.\n\n",
+            "folio": "ff. 58-61"
+        }
+    }
+}

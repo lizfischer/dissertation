@@ -1,0 +1,20 @@
+{
+    "_id": 5116,
+    "_header": "Tancred that was prynce of Salerno",
+    "Note": "Cf. 6534.",
+    "Title(s)": "Tale of Guiscardo and Ghismonda",
+    "Subjects": "romances",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "The Tale of Guiscardo and Ghismonda \u2014 rhyme royal",
+    "_witnesses": {
+        "CamTCC599": {
+            "First Lines": "\ntancret that was Prynce of Salerneffloure of knyghthode and myrrour\n                    of provesseWhiche reioysyd euer hys pepyll to gouernWyttyly by\n                    behygnyte and gentylnesse\u2026\n",
+            "Last Lines": "\n\u2026Lord and gouernour & comfort ayenst all baleGraunt these\n                    louers ioy and thus endeth my tale\n",
+            "Note": "\n1050 lines.",
+            "Attributed Title": "\nGuystard & seiesemonde (added by later hand, f. 26); Explicit guystard\n                    & seiesmonde (added by later hand, f. 40v)",
+            "Facsimiles": "\n\nFletcher,  Bradford Y. \n             \u201cIntroduction.\u201d \n             Manuscript Trinity R.3.19. A Facsimile.\n         Norman, OK: Pilgrim, 1987. \n\nDigital Facsimile of Trinity College Cambridge MS R.3.19.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.19. \n\n",
+            "Editions": "\nWright,  Herbert Gladstone,\n                        ed.  \n             Early English Versions of the Tales of Guiscardo and Ghismonda and\n                Titus and Gisippus from the Decameron.\nEETS\n         o.s. 205 (1937); repr. 1988: 38-99 (alternate pages with \n            Certaine Worthye Manuscript Poems of Great Antiquitie, ed. J. S[tow?], R. Robinson f. R.\n            D[exter], 1597 ).\n",
+            "folio": "ff. 26-40v"
+        }
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "_id": 2465,
+    "_header": "In a wilderness an hermit found",
+    "Note": "For other MSS see 486.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "tales; angels",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Hermit and the Angel, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodSelSup52": {
+            "First Lines": "\nI awyldernes on hermett fandOn ded body fowll\n                    stynkand\u2026\n",
+            "Last Lines": "\n\u2026& \u00feem to helpe fro synfull dede& \u00feem &\n                    vs tyll heuyn lede\n",
+            "folio": "ff. 205v-206v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nIN Wildernesse an hermyte fandA ded monnes bodi\n                    stinkand\u2026\n",
+            "Last Lines": "\n\u2026And hem to holde from synnes dedeAnd hem and vs to blisse\n                    lede. amen.\n",
+            "Attributed Title": "\nDe angelo & hermita in [?] odorantibus (f.\n                    199vb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDie Evangelien-Geschichten der Homiliensammlung des Ms. Vernon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         57 (1877): 241-316: 288.\n",
+            "folio": "f. 199vb-199vc"
+        },
+        "BodAsh42": {
+            "First Lines": "\nIN wildirnes ane ermite fandA dede mannes bodi foule\n                    stinkand\u2026\n",
+            "Last Lines": "\n\u2026And to halde \u00feaim fro sinfull dedeAnd vs & \u00feaim\n                    to heuene lede . Amen .\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 138v-139v"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nIn wildirnes an heremite fandea ded mans body foule\n                    stynkand\u2026\n",
+            "Last Lines": "\n\u2026And \u00feem to kepe fro synfull dedeAnd \u00feem and vs til\n                    heuen lede Amen\n",
+            "Attributed Title": "\nIn W de heremita inueniente quemdam mortuum fotantem (p.\n                    226)",
+            "folio": "pp. 226-228"
+        },
+        "CULDd11": {
+            "First Lines": "\nIN wildernes an Ermyte fanda ded mannesbodi\n                    stinkand\u2026\n",
+            "Last Lines": "\n\u2026& hem toholde fro Synnes dedeAnd hem & vs to blisse\n                    he lede Amen\n",
+            "folio": "ff. 139-139v"
+        },
+        "CULGg531": {
+            "First Lines": "\nIn wyldernes an hermet fandA ded mannes body foule\n                    stynkand\u2026\n",
+            "Last Lines": "\n\u2026And to halde \u00feaim fra synfull dedeAnd \u00feaim and vs\n                    tyll heuen lede Amen\n",
+            "folio": "ff. 95-95v"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nIn wildernes a hermete fandeA ded man body soule\n                    stinkande\u2026\n",
+            "Last Lines": "\n\u2026And to halde \u00feame fra synfull dedeAnd vs and \u00feai to\n                    heuen to lede\n",
+            "folio": "ff. 101-101v"
+        },
+        "BLHar2391": {
+            "First Lines": "\nIn wyldernes ane hermit fandA deyd mans body fowle stynkand\u2026\n",
+            "Last Lines": "\n\u2026And so hold \u00feem fro synfull deedAnd vs & \u00feame to heuen lede\n",
+            "Note": "\nEnds \u201cAmen.\u201d",
+            "Attributed Title": "\nDominica ii post festum trinitatis (left margin, f. 195v) with \u201cA tale\u201d written above",
+            "folio": "ff. 195v-196"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nIN wildernesse an hermite fandeA ded monnes body\n                    stynkande\u2026\n",
+            "Last Lines": "\n\u2026And hem to holde from synnes dedeAnd hem and vs to blis lede.\n                    Amen\n",
+            "Attributed Title": "\nNarracio de heremita & Anglorum (f. 4vc)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 4vc"
+        },
+        "Lam260": {
+            "folio": "f. 42rb"
+        },
+        "HunHM129": {
+            "First Lines": "\nIn wildernys and hermyte fandA dede man is body\n                    stynkand\u2026\n",
+            "Last Lines": "\n\u2026And ham to hold fro synnys dedeAnd vs and ham to heuyn\n                    lede\n",
+            "Attributed Title": "\nnarracio (f. 118)",
+            "folio": "ff. 118-118v"
+        }
+    }
+}

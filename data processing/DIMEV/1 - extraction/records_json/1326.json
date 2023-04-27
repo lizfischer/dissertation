@@ -1,0 +1,172 @@
+{
+    "_id": 1326,
+    "_header": "Flee from the press and dwell with sothfastness",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 414; Ringler Jr. (1988)\nXRingler Jr., William A. Bibliography and Index of English Verse Printed 1476-1558. London: Mansell, 1988, TP 404.5",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Truth; Balade de bon conseyl (Chaucer)",
+    "Subjects": "counsel, value of; envoys",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Chaucer, \u2018Truth\u2019 or \u2018Balade de bon conseyl\u2019 \u2014 four stanzas rhyme royal including Envoy, with refrain, \u2018And trouthe the shall delyuer it is no drede\u2019",
+    "_witnesses": {
+        "BodArcSelB10": {
+            "First Lines": "\nFLe from the prece & dwell with sothfastnesSuffyse vnto thy god\n                    thoughe it be small\u2026\n",
+            "Last Lines": "\n\u2026Weye thy luste and let thy gooste the ledeAnd trouthe shall\n                    the delyuer it is no drede\n",
+            "Note": "\n3 stanzas",
+            "Attributed Author": "\nEcce bonum consilium galfridi chaucers contra fortunam (f.\n                        201v)",
+            "Attributed Title": "\nEcce bonum consilium galfridi chaucers contra fortunam (f.\n                        201v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             More Odd Texts.\nChaucer Society\n         1st ser. 77. London: Tr\u00fcbner, 1886; repr. New York and London:\n            Johnson, 1967. \n",
+            "folio": "ff. 201v-202"
+        },
+        "BodArcSelB24": {
+            "First Lines": "\nFlee from the pres and duell with suthfastnessSuffice vnto thy gude\n                    thocht It be small\u2026\n",
+            "Last Lines": "\n\u2026Wayue thy lust and lat thy goste the ledeAnd treuth the\n                    schall deliuer this is no drede\n",
+            "Note": "\nWithout envoy; followed by 4490\n",
+            "Attributed Author": "\nExplicit Chauceris counsoling (f. 119)",
+            "Facsimiles": "\nBoffey,  Julia,  and  A. S. G. Edwards, eds.  \n             Chaucer, Works. Bodleian Library MS Arch Selden B.24: Facsimile\n                Edition.\n         Cambridge: D. S. Brewer, 1995. \n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Odd Texts of the Minor Poems.\n             2 vols. \n             Chaucer Society\n         1st ser. 23, 60. London: Tr\u00fcbner, 1868, 1880; repr. New York and\n            London: Johnson, 1967. \n",
+            "folio": "f. 119"
+        },
+        "BodFair16": {
+            "First Lines": "\nfflee fro the pres and dwelle with withfastnes (sic)Suffise\n                    vn to thy good though hyt be smalle\u2026\n",
+            "Last Lines": "\n\u2026Weyve thy lust and let thy gooste the ledeAnd trouthe shall\n                    the delyuer hyt is no drede\n",
+            "Note": "\nSecond occurrence in MS; followed by note, \u2018Qui legit\n                        scriptorem non reprehendat\u2019 (f. 201)",
+            "Attributed Title": "\nBalade (f. 201)",
+            "Facsimiles": "\nNorton-Smith,  John. \n             \u201cIntroduction.\u201d \n             Bodleian Library MS Fairfax 16.\n         London: Scolar Press, 1979. \n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \n",
+            "folio": "f. 201"
+        },
+        "BodHat73": {
+            "First Lines": "\nFle fro the prees and dwelle with sothfastnesseSuffise vnto thi\n                    good though it be final\u2026\n",
+            "Last Lines": "\n\u2026Weyve thi luste and lete thi goost the ledeAnd trouthe the\n                    shal delyuere it is no drede\n",
+            "Attributed Title": "\nGood conseyll (f. 118v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Odd Texts of the Minor Poems.\n             2 vols. \n             Chaucer Society\n         1st ser. 23, 60. London: Tr\u00fcbner, 1868, 1880; repr. New York and\n            London: Johnson, 1967. \n",
+            "folio": "f. 118v"
+        },
+        "OxfCCC203": {
+            "First Lines": "\nffle fro the pres and dwell wyth sothfastnesSuffyse vn to thy good\n                    yef hit be small\u2026\n",
+            "Last Lines": "\n\u2026And wayue thy lust and let thy gost the ledeAnd treuthe the\n                    schall delyuer hit ys no drede\n",
+            "Attributed Title": "\nProuerbium Scogan (p. 22)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Odd Texts of the Minor Poems.\n             2 vols. \n             Chaucer Society\n         1st ser. 23, 60. London: Tr\u00fcbner, 1868, 1880; repr. New York and\n            London: Johnson, 1967. \n",
+            "folio": "pp. 22-23"
+        },
+        "CULGg427": {
+            "First Lines": "\nFle from \u00fee pres & dwelle with so\u00fefastnesseSuffise\n                    vnto \u00feyn \u00feyng \u00feow it be smal\u2026\n",
+            "Last Lines": "\n\u2026hold \u00fee heye wey & lat \u00feyn gost \u00fee ledeAnd\n                    trouthe schal deliure it is no drede\n",
+            "Attributed Title": "\nBalade de / bone conseyl (to left and right of line 1,\n                    margins)",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \n",
+            "folio": "f. 8v"
+        },
+        "CULKk15": {
+            "First Lines": "\nffle fra the pres and duell with suthfastnesSuffice one to thi gud\n                    \u00feocht It be small\u2026\n",
+            "Last Lines": "\n\u2026Reull thi self that vthir folk can Reidand treuthe the sall\n                    deliuyr that is no dreid\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             Odd Texts of the Minor Poems.\n             2 vols. \n             Chaucer Society\n         1st ser. 23, 60. London: Tr\u00fcbner, 1868, 1880; repr. New York and\n            London: Johnson, 1967. \nLumby,  Joseph Rawson,\n                        ed.  \n             Ratis Raving, and other Moral and Religious Pieces in prose and\n                verse.\nEETS\n         o.s. 43 (1870); repr. 1973: 9-10.\nGirvan,  Ritchie,\n                        ed.  \n             Ratis raving, and other early Scots poems on morals.\nScottish Text Society 3rd ser.\n         11. Edinburgh and London: Blackwood, 1939: 175.\n\n",
+            "folio": "(Part 6), ff. 4v-5"
+        },
+        "CamMagPep2006": {
+            "First Lines": "\nFle fro the pres and dwelle with sothfastnesseSuffise vnto thi gode\n                    \u00feough it be small\u2026\n",
+            "Last Lines": "\n\u2026Weyne thine luste and lat thi goste the ledeAnd trouth the\n                    shall delyuer it is no drede Explicit\n",
+            "Attributed Title": "\nLe bon Counsell de Chaucer (p. 389)",
+            "Facsimiles": "\nEdwards,  A. S. G. \n             \u201cIntroduction.\u201d \n             Manuscript Pepys 2006: A Facsimile. Magdalen College,\n                Cambridge.\n         Norman, OK: Pilgrim, and [Woodbridge, Suffolk]: Boydell and Brewer,\n            1985. \n",
+            "Editions": "\nPace,  George B. \n             \u201cFour Unpublished Chaucer Manuscripts.\u201d \n             Modern Language Notes\n         63 (1948): 457-62: 458-60.\n",
+            "folio": "pp. 389-390"
+        },
+        "CamTCC600": {
+            "First Lines": "\nfflee frome \u00fee prees and dwelle with so\u00feefastnesseSuffice\n                    vn to \u00fey goode \u00feaughe it bee smal\u2026\n",
+            "Last Lines": "\n\u2026Weyve \u00fey louste and let \u00fey gooste \u00feee ledeAnd\n                    trouth \u00feee shal delyver owte of drede\n",
+            "Note": "\nSecond occurrence in MS",
+            "Attributed Title": "\nBalade by Chaucier [\u2018on his dethe bede\u2019 added later] (p. 357);\n                    Balades by Chaucer Made (RT)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967: both texts.\n",
+            "folio": "pp. 357-358"
+        },
+        "BLAdd10340": {
+            "First Lines": "\nffle fro \u00fee pres & dwelle wi\u00fe\n                    so\u00feefastnesseSuffise \u00fein owen \u00feing \u00feei it be\n                    smal\u2026\n",
+            "Last Lines": "\n\u2026ffor \u00fee & eke for o\u00feer heuenlyche medeAnd\n                    trou\u00fee schal delyuere it is no drede\n",
+            "Note": "\nWith unique Envoy.",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             A One-Text Print of the Minor Poems.\n         2 pts. London: Tr\u00fcbner, 1871, 1880; repr. New York and London:\n            Johnson, 1967. \nFurnivall,  Frederick James,\n                        ed.  \n             Odd Texts of the Minor Poems.\n             2 vols. \n             Chaucer Society\n         1st ser. 23, 60. London: Tr\u00fcbner, 1868, 1880; repr. New York and\n            London: Johnson, 1967. \nBrusendorff,  Aage. \n             The Chaucer Tradition.\n         Copenhagen, 1925; repr. Oxford: Clarendon, 1967: 246-8.\nRobinson,  F. N.,\n                        ed.  \n             The Works of Geoffrey Chaucer.\n         Oxford: Clarendon, 1933; 2nd ed. 1957: 631; 1957; 536.\nDavies,  Reginald Thorne. \n             Medieval English Lyrics: a critical anthology.\n         London, 1963; Evanston, IL: Northwestern UP, 1964: 135-6.\nLuria,  Maxwell Sidney,  and  Richard L. Hoffman, eds.  \n             Middle English Lyrics.\n         New York: Norton, 1974: 168-9.\nPace,  George B.,  and  Alfred David, eds.  \n             The Minor Poems of Geoffrey Chaucer:\nA Variorum Edition of The Works of Geoffrey Chaucer\n         vol. 5, part 1. Norman, Oklahoma: University of Oklahoma Press,\n            1982: 59-64.\nPearsall,  Derek,\n                        ed.  \n             Chaucer to Spenser: An Anthology of Writings in English\n                1375-1575.\n         Oxford and Malden, MA: Blackwell, 1999: 176.\nBenson,  Larry Dean,\n                        ed.  \n             The Riverside Chaucer.\n         3rd ed. Boston: Houghton Mifflin, 1987: 653.\n\n",
+            "folio": "f. 41"
+        },
+        "BLAdd22139": {
+            "First Lines": "\nffle fro the pres and dwell with sothfastnesseSuffice vn to thi\n                    lynynge thogh hit be smal\u2026\n\n",
+            "Last Lines": "\n\u2026Hold the hie wey and lete thi gost the ledeAnd truth shal the\n                    delyuer hit is no drede\n\n",
+            "Note": "\nImmediately follows 4990 at end of MS",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Supplementary Parallel-Text Edition of Chaucer\u2019s Minor\n                Poems.\n             2 vols. \n             Chaucer Society\n         1st ser. 22, 59. London: Tr\u00fcbner, n.d.; repr. New York and London:\n            Johnson, 1967. \n",
+            "folio": "f. 138rb"
+        },
+        "BLAdd36983": {
+            "First Lines": "\nFle ffrom the pres and dwell with sotheffastnesseSuffyse vnto thy\n                    Goode though it be smalle\u2026\n",
+            "Last Lines": "\n\u2026Wayse thy lust and lete thy gost the ledeAnd trouthe the\n                    schall deliuer it is no drede\n",
+            "Editions": "\nPace,  George B. \n             \u201cFour Unpublished Chaucer Manuscripts.\u201d \n             Modern Language Notes\n         63 (1948): 457-62: 458-60.\n",
+            "folio": "f. 262"
+        },
+        "BLCottCleoDVII": {
+            "First Lines": "\nFlee fro the prees and dwell with sothfasnesse [sic]Suffice\n                    vnto the thing though it be smal\u2026\n",
+            "Last Lines": "\n\u2026Holde the high way and lete thi goost the ledeAnd trouthe\n                    shal deliuere it is no drede\n",
+            "Note": "\nLacks envoy",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 312.\n\n",
+            "folio": "ff. 189-189v"
+        },
+        "BLCottOthoAXVIII": {
+            "Note": "\nBM Cat. 643.m.4; transcripts by William Thomas in 1721, pasted into copy\n                    of Urry (1721)\nXUrry,  John. \n             The Works of Geoffrey Chaucer.\n         London: B. Lintot, 1721, 2.548.",
+            "Editions": "\nPace,  George B. \n             \u201cOtho A.XVIII.\u201d \n             Speculum\n         26 (1951): 306-16: 366-7.\n",
+            "folio": ""
+        },
+        "BLHar7333": {
+            "First Lines": "\nFLe ffrome \u00fee pes and dwell with sothefastnesseSuffice vn to\n                    \u00fei goode \u00feaughe it be smalle\u2026\n",
+            "Last Lines": "\n\u2026Weyve thi luste & lete thi goste \u00fee ledeAnd trowthe\n                    the shall deliuer it is noo drede\n",
+            "Note": "\nThe \u03b3 version (see Pace  and  David (1982)\nXGeorge B. Pace,   and  Alfred David.  \n             The Minor Poems of Geoffrey Chaucer:\nA Variorum Edition of The Works of Geoffrey Chaucer\n         vol. 5, part 1. Norman, Oklahoma: University of Oklahoma Press,\n            1982). Follows\n                        Gentilesse (5277) on f. 147vb).",
+            "Attributed Title": "\nMoral balade of Chaucyre (f. 147vb)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \n",
+            "folio": "f. 147vb2"
+        },
+        "BLLan699": {
+            "First Lines": "\nFlee from the press & dwell with sothfastnesseSuffise to thi\n                    good thouh it be small\u2026\n",
+            "Last Lines": "\n\u2026War be thi lust & lat thi gost the leedeAn trouthe the\n                    shal delyver it is no dreede\n",
+            "Attributed Title": "\nIncipit bon counceil de le Auctour (f. 82v); Explicit\n                        optinus tractatus de ffortuna (f. 83v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Supplementary Parallel-Text Edition of Chaucer\u2019s Minor\n                Poems.\n             2 vols. \n             Chaucer Society\n         1st ser. 22, 59. London: Tr\u00fcbner, n.d.; repr. New York and London:\n            Johnson, 1967. \n",
+            "folio": "ff. 82v-83"
+        },
+        "CovAcc3251": {
+            "First Lines": "\nFle fro the pres and dwelle with sothfastnesSuffice vn to thi\n                    thinge thou\u021d it be small\u2026\n",
+            "Last Lines": "\n\u2026Holde the hie weie and lete \u00fei goost the ledeAnd trouth\n                    the shall deliuer it is noo drede\n",
+            "Note": "\nOnly three stanzas, no envoy",
+            "Attributed Title": "\nBalade de bone Counsail (f. 77ra)",
+            "folio": "f. 77ra"
+        },
+        "Lam344": {
+            "First Lines": "\nFle fro the prees & dwell wyth sothefastnesseSuffyce vnto thy\n                    good thought it be small\u2026\n",
+            "Last Lines": "\n\u2026Weye thy lust and lete thy goste the ledeAnd trowyth the\n                    shall dylyver yit ys no drede\n",
+            "Note": "\nNo envoy.",
+            "Attributed Title": "\nGoode counselle (rubricated)",
+            "folio": "f. 10v"
+        },
+        "NottsULMeLm1": {
+            "First Lines": "\nffle fro pres and dwelle wyth sothefastnesSuffice vnto thy goode\n                    though it be smalle\u2026\n",
+            "Last Lines": "\n\u2026Weyve thy lust And lete thy goost \u00fee ledeAnd trowth\n                    shalle the delyuer it is no drede\n",
+            "Attributed Title": "\nle bon councell de Chawcer (f. 2, margin)",
+            "Editions": "\nDoyle,  A. I.,  and  George B. Pace.  \n             \u201cFurther Texts of Chaucer\u2019s Minor Poems.\u201d \n             Studies in Bibliography\n         28 (1975): 41-61: 56-7.\n",
+            "folio": "f. 2va"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nffle fro the prees and dwell with sothfastnesseSuffise vnto thi\n                    good though it be smal\u2026\n",
+            "Last Lines": "\n\u2026Hold the hye wey and lat thi gost the ledeAnd trouthe shal\n                    deliuere it is no drede\n",
+            "Note": "\nAdded fifteenth century; does not include envoy; 3 stanzas\n                    only",
+            "Facsimiles": "\nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995. \n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \nTodd,  Henry John. \n             Illustrations of the Lives and Writings of Gower and Chaucer.\n         London: Rivington, 1810: 131-2.\nSkeat,  Walter William,\n                        ed.  \n             The Complete Works of Geoffrey Chaucer.\n         7 vols. Oxford: Clarendon, 1894-7: 1.390-1.\n\n",
+            "folio": "f. viii [back]"
+        },
+        "HunHM140": {
+            "First Lines": "\nffle from the prees and dwell with sothfastnesseSuffise the thyne\n                    owne though it be small\u2026\n",
+            "Last Lines": "\n\u2026Holde the high wey and let thy goste the ledeAnd treuth shall\n                    the delyuer it is no drede\n",
+            "Note": "\nFollows immediately after Chaucer\u2019s Clerk\u2019s Tale\n                        (5573), as if part of same text;\n                    three stanzas, lacking envoy",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             More Odd Texts.\nChaucer Society\n         1st ser. 77. London: Tr\u00fcbner, 1886; repr. New York and London:\n            Johnson, 1967. \n",
+            "folio": "ff. 83v-84"
+        },
+        "Leiden": {
+            "First Lines": "\nffle from the pres & dwelle with sothfastnesseSuffice to the\n                    good thouh it be small\u2026\n",
+            "Last Lines": "\n\u2026Weyve thi lust & late thi goost the ledeand trouth the\n                    shall delyuer it is no drede\n",
+            "Attributed Title": "\nExplicit optimus tractatus / de ffortuna (p. 191)",
+            "folio": "p. 191"
+        }
+    }
+}

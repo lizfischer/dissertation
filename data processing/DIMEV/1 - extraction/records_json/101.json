@@ -1,0 +1,18 @@
+{
+    "_id": 101,
+    "_header": "A lord king of might that leaven wouldst thy might",
+    "Author(s)": "Richard Rolle",
+    "Title(s)": "Meditations on the Passion",
+    "Subjects": "Passion, meditations on",
+    "Versification": "\u2014 irregular, two-line \u2014 aa",
+    "_description": "Irregular rhyming lines in Rolle\u2019s Meditations on the Passion (Text A only) \u2014 ten and four lines",
+    "_witnesses": {
+        "CULLl18": {
+            "First Lines": "\nA lord king of my\u021dt \u00feat leuyn woldust \u00fei\n                    my\u021dt& os vnmy\u021dty become my wrongys to\n                    ry\u021dt\u2026\n",
+            "Last Lines": "\n\u2026And stoppyth al \u00fee sauoure \u00feat I may nou\u021dt the\n                    fele\u00feat so schamely haue ben \u00fei tretoure vntrewe\n",
+            "Note": "\nTen lines, aabcbcddef, written as prose.",
+            "Editions": "\n\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 1.87.\nUllman,  J. \n             \u201cStudien zu Richard Rolle de Hampole.\u201d \n             Englische Studien\n         7 (1884): 415-72: 458.\nAllen,  Hope Emily. \n             English Writings of Richard Rolle.\n         Oxford: Clarendon, 1931: 24-5.\n\n",
+            "folio": "f. 204"
+        }
+    }
+}

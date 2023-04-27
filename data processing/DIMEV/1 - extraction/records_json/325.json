@@ -1,0 +1,32 @@
+{
+    "_id": 325,
+    "_header": "All ghostly songs and hymns that be sung",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Misericordias Domini in Eternum Cantabo\u2019",
+    "Subjects": "mercy, songs of; God, praise to",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, \u2018Misericordias Domini in Eternum Cantabo\u2019 \u2014 24 eight-line stanzas with \u2018syng\u2019 last word of each stanza",
+    "_witnesses": {
+        "CamJes56": {
+            "First Lines": "\n[A]ll goostly songes and ympnes \u00feat be sungeOf olde and newe\n                    remembrid in scripture\u2026\n",
+            "Last Lines": "\n\u2026In feith hope and Charite stable as a stoonEternally \u00fei\n                    mercies \u00feei do syng\n",
+            "Attributed Title": "\nMisericordias domini in eternum cantabo (f. 41)",
+            "folio": "ff. 41-44"
+        },
+        "CamTCC601": {
+            "First Lines": "\nAll gostly songys and hympnes \u00feat be songOf olde and new\n                    remembryd in scryptureHeuynly symball or bellys that be rongTo prayse\n                    the lord by musyk or mesure\u2026\n",
+            "Last Lines": "\n\u2026In feythe hope & Charyte stable as a stoneEternally thy\n                    mercyes they do syng\n",
+            "Attributed Author": "\nJohn Lydgate (added by later hand, ff. 193v, 196)",
+            "Attributed Title": "\nOn Psalmody (added by later hand, 193v)",
+            "folio": "ff. 193v-196"
+        },
+        "BLHar2255": {
+            "First Lines": "\nAlle goostly songis & ympnes that be songeOf Oold and newe\n                    remembrid in Scripture\u2026\n",
+            "Last Lines": "\n\u2026In feith hoope and Charite stable as a stoonEternally thy\n                    mercyes they do syng\n",
+            "Attributed Author": "\nExplicit quod lidgate (f. 21, in margin)",
+            "Attributed Title": "\nMisericordias domini in eternum cantabo (f. 17, in rubric)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 71-7.\n",
+            "folio": "ff. 17-21"
+        }
+    }
+}

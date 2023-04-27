@@ -1,0 +1,386 @@
+{
+    "_id": 2618,
+    "_header": "In the old days of King Arthur",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Wife of Bath\u2019s Tale; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; women; Arthur; supernatural; quest",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the Wife of Bath\u2019s Tale of the Canterbury Tales \u2014 408 lines in couplets, with some versions including additional lines.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nIN the olde dayes of kyng Arthourof the which bretons speken grete\n                    honour\u2026\n",
+            "Last Lines": "\n\u2026and olde & angry nygardis of dispencegod sende hem sone a\n                    verry pestilence\n",
+            "Note": "\nIII.1031-2 reversed.",
+            "Attributed Title": "\n\u2026And folwyng bigynneth hir tale (f. 94v); the wiff of\n                    Bathe (RT); Here endith the wiff of Bathe hir tale\u2026 (f. 100)",
+            "folio": "ff. 94v-100"
+        },
+        "BodBar20": {
+            "First Lines": "\nIn old dayes of Kyng ArthourOf wiche \u00feat britons spake grete\n                    honour\u2026\n",
+            "Last Lines": "\n\u2026And old and angry nygardes of dispenceGod send hem sone\n                    verray pestilence\n",
+            "Note": "\nIII.1034 omitted.",
+            "Attributed Title": "\nOf bathe (RT); Here endithe Wif of Bathe\u2026 (f.\n                    120v)",
+            "folio": "ff. 114v-120"
+        },
+        "Bod414": {
+            "First Lines": "\n[I]N olde dayes of Kyng ArthoureOf whom that Britons speke gret\n                    honoure\u2026\n",
+            "Last Lines": "\n\u2026And olde and angry negardis of her spenceGod send hem sone a\n                    veraye pestilence\n",
+            "Note": "\nIII.945-6 omitted.",
+            "Attributed Title": "\nThe\n                    w\n                    wife of Bathis tale (f. 64)",
+            "folio": "ff. 74-78"
+        },
+        "Bod686": {
+            "First Lines": "\nIn the olde dayes of Kyng arthoureOf which \u00feat Britons speke\n                    grete honoure\u2026\n",
+            "Last Lines": "\n\u2026And olde and angry nygardys of dispenceGod sende hem sone\n                    verray pestellence\n",
+            "Note": "\nIII.1088, 1110-17 inserted at foot.",
+            "Attributed Title": "\n\u2026And here / begynneth her tale (f. 80v); The Wyfe of Bath\n                    (RT); Here endeth the Wyfes tale of Bathe (f. 85v)",
+            "folio": "ff. 81-85v"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nIN \u00fee olde daies of King ArtourOf which Britones speke grete\n                    honour\u2026\n",
+            "Last Lines": "\n\u2026And olde and angry nygardes of dispenseGod sende hem sone\n                    verry pestilence\n",
+            "Note": "\nIII.899, 1064 omitted.",
+            "Attributed Title": "\n\u2026And next / biginneth the tale of \u00fee Wife of Bath (f. 119); The\n                    tale of \u00fee wife of Bathe (RT); Here endeth the Wifes tale of Bathe\u2026\n                    (f. 123v)",
+            "folio": "ff. 119-123v"
+        },
+        "BodLauMis600": {
+            "First Lines": "\n\u2026\u00feer walke\u00fe now the limitour him selfIn vnder melis\n                    and in mornyng\u2026\n",
+            "Last Lines": "\n\u2026An olde and angrie nygard of dispenceGod sende him soon a\n                    varrai pestilence\n",
+            "Note": "\nIII.857-73 lost; 1031-2 reversed. Fol. 88 is a seventeenth-century\n                    replacement leaf.",
+            "Attributed Title": "\n\u00fee wif of ba\u00fee (RT)",
+            "folio": "ff. 89-94v"
+        },
+        "BodLauMis739": {
+            "First Lines": "\n[I]N olde daies of kyng ArthoureOf which the britones speketh moch\n                    honoure\u2026\n",
+            "Last Lines": "\n\u2026And olde and angry nygardes of expenseGod send hem sone\n                    verrey pestilence\n",
+            "Note": "\nIII.1123-90 lost; 963-4, 988, 1019-20, 1260 omitted.",
+            "folio": "ff. 140-145"
+        },
+        "BodRawPoe141": {
+            "First Lines": "\nIN the olde dayes of kyng arthourOf wheche that britaynes speke\n                    gret honour\u2026\n",
+            "Last Lines": "\n\u2026And olde & angri Nygardes of dispenceGod send hem sone a\n                    very pestylence\n",
+            "Attributed Title": "\nHere bygynneth the Wyfes tale of Bathe (f. 135); The wyfe of Bathe\n                    (RT)",
+            "folio": "ff. 135-141v"
+        },
+        "BodRawPoe149": {
+            "First Lines": "\nIn the olde daies of kyng ArthoureOf which that bretons speken\n                    greete hounoure\u2026\n",
+            "Last Lines": "\n\u2026And olde angry nygardes of dispenceGod sende hem sone veri\n                    pestilence\n",
+            "Note": "\nIII.1081 omitted.",
+            "Attributed Title": "\nHere begynnith the wif of Bathes tale (f. 64v); the wif of bathe\n                    (RT); Here endith the Wif of Bathes tale\u2026 (f. 68)",
+            "folio": "ff. 64v-67v"
+        },
+        "BodRawPoe223": {
+            "First Lines": "\nIn the olde dayes of kyng arthourOf which that bretons speken gret\n                    honour\u2026\n",
+            "Last Lines": "\n\u2026And olde and angry nygardes of dispenceGod send hem sone\n                    verry pestilence\n",
+            "Attributed Title": "\n\u2026with here tale folwing (f. 136); The wif of bathe (RT); Here endith\n                    the tale of the Wif of Bathe\u2026 (f. 142)",
+            "folio": "ff. 136-142"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nIn olde dayes of the kyng ArtourOf which that Britons speken greet\n                    honour\u2026\n",
+            "Last Lines": "\n\u2026And olde and angry nygardes of dispenceGod sende hem sone\n                    verrey pestilence\n",
+            "Note": "\nIII.1056, 1198 inserted.",
+            "Attributed Title": "\n\u2026Here bygynneth the the tale of the Wyfe of Bathe (f. 83); here\n                    endeth the tale of the Wyf of Bathe\u2026 (f. 88)",
+            "folio": "ff. 83-88"
+        },
+        "OxfCCC198": {
+            "First Lines": "\n[torn]e olde dayes of \u00fee king arthourOf which \u00feat britons\n                    speken gret honour\u2026\n",
+            "Last Lines": "\n\u2026And olde and angry nyggardes of dispenceGod send hem a verray\n                    pestilence\n",
+            "Note": "\nIII.858-68 partially lost due to tear; 1031-2 reversed.",
+            "Attributed Title": "\n\u00dee goode wyues tale of bathe (f. 110v)",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "ff. 110v-115b"
+        },
+        "OxfNew314": {
+            "First Lines": "\nIn olde daies of kyng ArturOf whiche britons spekith gret\n                    honour\u2026\n",
+            "Last Lines": "\n\u2026And olde and angry nygardis of dispenceGod sende hem sone a\n                    foul verye pestilence\n",
+            "Note": "\nIII.927-8 reversed; spurious lines follow 1248.",
+            "Attributed Title": "\n\u2026and here begynnyth her tale (f. 109); Bathe (RT); Wif of Bathe (RT);\n                    Here endith \u00fee tale of \u00fee Wif of the Wif of Bathe\u2026 (f.\n                    115)",
+            "folio": "ff. 109-115"
+        },
+        "OxfTri49": {
+            "First Lines": "\nIN the olde daies of the kyng Arthureof whiche that bretonnes speke\n                    grete honoure\u2026\n",
+            "Last Lines": "\n\u2026and olde and angry nygardes in dispencegod sende hem sone a\n                    verry pestelence\n",
+            "Note": "\nIII.918, 1149, 1198 omitted; 1031-2 reversed.",
+            "Attributed Title": "\nBathe (RT)",
+            "folio": "ff. 85v-91v"
+        },
+        "CULDd424": {
+            "First Lines": "\nIn the olde dayes of kyng ArthourOf which that Bretons speken gret\n                    honour\u2026\n",
+            "Last Lines": "\n\u2026And old and angry nygardes of despenceGod send hem sone\n                    verray pestilence\n",
+            "Attributed Title": "\n\u2026et incipit fabula vxoris de Bathe (f. 76v); Hic\n                        desinit fabula Vxoris de Bathe\u2026 (f. 81)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 76v-81"
+        },
+        "CULGg427": {
+            "First Lines": "\nIN olde dayis of kyng ArthourOf whiche \u00feat brytons spekyn gret\n                    honour\u2026\n",
+            "Last Lines": "\n\u2026And olde & angery nygardys of dispenceGod sende hem sone\n                    verray pestelence\n",
+            "Attributed Title": "\n\u2026Here begynnyt the Wyf of Bathe hire tale (rubric, f. 222); Here\n                    endith the wif of Bathe hyre tale\u2026 (f. 227v)",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "Editions": "\nFurnivall,  Frederick James. \n             The Cambridge MS (University Library, Gg.4.27) of Chaucer\u2019s\n                Canterbury Tales.\nChaucer Society\n         Series 1, nos. 4, 10, 17, 28, 33, 40, 52, 66. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 222v-227v"
+        },
+        "CULIi326": {
+            "First Lines": "\nIn olde dayes of Kyng ArthoureOf which that bretonis speke the\n                    honour\u2026\n",
+            "Last Lines": "\n\u2026And olde and angre nygardes of dispenceGod sende hym full\n                    soone a verrey pestilence\n",
+            "Note": "\nIII.945, 1234-5 omitted; 1031-2, 1179-80 reversed; 1144 blank; spurious\n                    lines follow 1248.",
+            "Attributed Title": "\n\u2026And here begynneth hir Tale (f. 119); Wyff of Bathe (RT); Here\n                    endeth the Wyff of Bathes tale\u2026 (f. 124)",
+            "folio": "ff. 119-124"
+        },
+        "CULMm25": {
+            "First Lines": "\nIn \u00fee olde dayes of \u00fee Kyng ArthoureOf whiche \u00feat\n                    bretouns speken grete honour\u2026\n",
+            "Last Lines": "\n\u2026And olde and angry nygardes and dispenseGod send hem sone a\n                    verrey pestilence\n",
+            "Note": "\nIII.1031-2 reversed.",
+            "Attributed Title": "\nIncipit fabula (f. 123); \u00fee wiffe of bathe (RT);\n                        Explicit (f. 127v)",
+            "folio": "ff. 123-127v"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[I]N the olde dayes of kyng ArthurOf which Bretons speken gret\n                    honour\u2026\n",
+            "Last Lines": "\n\u2026Ioy after our heuynesse that we not mysseAfter this lyfe to\n                    come to thy blysse Amen\n",
+            "Note": "\nIII.865-82, 1028-21, 1-81, 1125-68, 1187-92, 1259-64 omitted; spurious\n                    lines follow 1017, 1082, 1258.",
+            "Attributed Title": "\nThe tale of \u00fee Wyfe of Bath (f. 141v)",
+            "folio": "ff. 141v-146"
+        },
+        "CamTCC582": {
+            "First Lines": "\nIn olde daies of King ArthourOf wich Bretons speke gret\n                    honoure\u2026\n",
+            "Last Lines": "\n\u2026And olde and angry & nigardes of dispenceGod send hem\n                    sone veri pestilence\n",
+            "Note": "\nIII.1089-90 reversed; 1094 follows 1096.",
+            "Attributed Title": "\nA tale of the wif of Bathe (f. 58va)",
+            "folio": "ff. 58vb-61ra"
+        },
+        "CamTCC595": {
+            "First Lines": "\nIN olde days of Kynge ArthurOf whiche Britons speketh grete\n                    honour\u2026\n",
+            "Last Lines": "\n\u2026And olde and angre nygardes of dispenceGod sende hem sone a\n                    foule verey pestilence\n",
+            "Note": "\nIII.1049-115 lost; 927-8 reversed; spurious lines follow\n                    1248.",
+            "Attributed Title": "\n\u2026and begynneth hir tale (f. 135); Here endeth the tale of the Wyf of\n                    Bathe\u2026 (f. 141)",
+            "folio": "ff. 135-141"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nIn olde days of the kyng ArtourOf whom that Britons speken gret\n                    honour\u2026\n",
+            "Last Lines": "\n\u2026And olde and angry and nygardes of dispenceY pray god sende\n                    hem a verray pestilence\n",
+            "Attributed Title": "\n\u2026& incipit ffabula eiusdem (f. 102v); Wyf of\n                    Bathe (RT); Explicit fabula Vxoris de Bathe\u2026 (f. 110)",
+            "folio": "ff. 102v-110"
+        },
+        "BLAdd35286": {
+            "First Lines": "\nIn olde dayes of Kyng arthourof which that britons speken gret\n                    honour\u2026\n",
+            "Last Lines": "\n\u2026And old and angry nygardes of dispenceGod sende hem sone\n                    verry pestilence\n",
+            "Note": "\nIII.890 omitted.",
+            "Attributed Title": "\n\u2026Here bigynneth the the Wifes tale of bathe (f. 62v); The\n                    Wif of bathe (RT); Here endeth the Wifes tale of bathe\u2026 (f. 68)",
+            "Editions": "\nHorobin,  Simon. \n             \u201cA Transcription and Study of British Library MS Additional 35286 of\n                Chaucer\u2019s Canterbury Tales.\u201d \n         Diss. Univ. of Sheffield, 1997. \n",
+            "folio": "ff. 62v-68"
+        },
+        "BLEge2726": {
+            "First Lines": "\nIn old daies of kyng ArthourOf which \u00feat bretons speken grete\n                    honour\u2026\n",
+            "Last Lines": "\n\u2026And old and angrie nygardes of dispenceGod send hem sone\n                    verray pestilence\n",
+            "Note": "\nIII.1091-2, 1129-30 reversed.",
+            "Attributed Title": "\n\u2026Et incipit fabula eiusdem vxoris (f. 89v); Hic\n                        desinit fabula vxoris de Bathe\u2026 (f. 94v)",
+            "folio": "ff. 89v-94v"
+        },
+        "BLEge2863": {
+            "First Lines": "\n\u2026Hadde in his hous a lusty bacheler\u00feat on a day come\n                    ridynge fro \u00fee ryver\u2026\n",
+            "Last Lines": "\n\u2026And eke I pray ihesu schorte here lyuesThat wil nat be\n                    gouerned by here wuyes\u2026\n",
+            "Note": "\nIII.857-82, 1263-4 lost; 1031-2 reversed.",
+            "Attributed Title": "\nThe wyf Of bathe (RT)",
+            "folio": "ff. 87-91v"
+        },
+        "BLEge2864": {
+            "First Lines": "\nIn olde dayes of the kyng ArtourOf whom that Britons speke gret\n                    honour\u2026\n",
+            "Last Lines": "\n\u2026And old and angry and nygardes of dispenceI pray god sende\n                    hem a verray pestilence\n",
+            "Attributed Title": "\n\u2026Incipit fabula vxor de Bathe (f. 92, margin); The wyff of\n                    bathe (RT); Hic desinit fabula vxor de Bathe\u2026 (f.\n                    97v)",
+            "folio": "ff. 92-97v"
+        },
+        "BLHar1239": {
+            "First Lines": "\nIN \u00fee olde days of kyng ArthourOf wych \u00feat brythens spake\n                    gret honowr\u2026\n",
+            "Last Lines": "\n\u2026& olde & Angry nygard of dyspenceGod send hem sone a\n                    wery pestylence\n",
+            "Note": "\nIII.900, 1057, 1144 omitted; 875-6 reversed.",
+            "Attributed Title": "\nHere \u00fee gud Wyfe of Bath endyth (f. 91)",
+            "folio": "ff. 88-91"
+        },
+        "BLHar1758": {
+            "First Lines": "\nIN the olde daies of the kyng ArthourOf whiche that Bretouns spekyn\n                    gret honour\u2026\n",
+            "Last Lines": "\n\u2026And olde & angrie nygarde of dispenceGod sende hem sone a\n                    verray pestilence\n",
+            "Note": "\nIII.1031-2 reversed. A blank space of approximately ten lines between\n                    the explicit for the Wife of Bath\u1fbfs Tale and the\n                        Friar\u2019s Prologue.",
+            "Attributed Title": "\nHere begynneth the tale of the Wif of Bathe (f. 97v); The Wif of\n                    Bathe (RT); Here endith the goode wifes tale of Bathe (f. 102)",
+            "folio": "ff. 97v-102"
+        },
+        "BLHar7334": {
+            "First Lines": "\nIn olde dayes of \u00fee Kyng ArthourOf which \u00feat britouns\n                    speken gret honour\u2026\n",
+            "Last Lines": "\n\u2026And old and angry nygardes of despenseGod send hem sone\n                    verray pestilence\n",
+            "Note": "\nIII.1213-14 reversed.",
+            "Attributed Title": "\nNarrat (f. 97v, margin); The Wyf Of Bathe (RT); Here\n                    endith \u00fee Wif of Bathe hir tale\u2026 (f. 102v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "ff. 97v-102v"
+        },
+        "BLHar7335": {
+            "First Lines": "\n[I]n olde dayes of the Kyng ArtourOf which that Britons speken gret\n                    honour\u2026\n",
+            "Last Lines": "\n\u2026And olde and angry nygardes of dispenceGod send hem sone\n                    verrey pestilence\n",
+            "Note": "\nIII.939-1210 lost.",
+            "folio": "ff. 72v-74v"
+        },
+        "BLLan851": {
+            "First Lines": "\nIN \u00fee olde daies of \u00fee kinge ArthoureOf whiche \u00feat\n                    bretons speken grete honour\u2026\n",
+            "Last Lines": "\n\u2026And olde Angrye nigard in dispenceGod send hem sone a verrei\n                    pestelence\n",
+            "Note": "\nIII.1031-2 reversed.",
+            "Attributed Title": "\nIncipit fabula vxoris de Bathonia (f. 97); \u00fee wif of Ba\u00fee\n                    (RT); Explicit fabula Matrone vxoris de Bathonia\u2026 (f.\n                    102)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 97-102"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\n[torn]n \u00fee olde dayes of kynge Arthoure[torn]f whiche \u00feat\n                    brytouns speke grete honoure\u2026\n",
+            "Last Lines": "\n\u2026And olde and Angrye Nygarde of dispenceGod sone hym sende a\n                    verreye pestylence\n",
+            "Note": "\nIII.1159 inserted in margin; 1031-2 reversed.",
+            "Attributed Title": "\n\u2026& begynnyth her tale (f. 136v); Here endith the tale\n                    of the Wyf of Bathe\u2026 (f. 143)",
+            "folio": "ff. 136v-143"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nIn olde daies of kyng ArtourOf whiche \u00fee Britouns speke\u00fe\n                    moche honour\u2026\n",
+            "Last Lines": "\n\u2026And olde and angry nygardeye of expenceGod sende hem sone\n                    verrey pestilence Amen\n",
+            "Note": "\nIII.963-4, 1019-20, 1124, 1260 omitted.",
+            "Attributed Title": "\nThe Wyf of Bathe (RT)",
+            "folio": "ff. 115-120"
+        },
+        "BLSl1685": {
+            "First Lines": "\n[torn]N \u00fee olde dayes of kynge ArthourOf whiche bretons speken\n                    grete honour\u2026\n",
+            "Last Lines": "\n\u2026And whan \u00fee kny\u021dt sawe\u021d alle \u00feisThat sho\n                    so fayre and so yonge also\u2026\n",
+            "Note": "\nIII.1252-64 lost; 857-91 partially lost due to tear; 1031-2\n                    reversed.",
+            "Attributed Title": "\n\u2026[torn]nneth the tale (f. 114v); The Wyf Of Bathe\n                    (RT)",
+            "folio": "ff. 114v-119v"
+        },
+        "BLSl1686": {
+            "First Lines": "\nIN the olde daies of king ArthourOf which that bretons speken gret\n                    honour\u2026\n",
+            "Last Lines": "\n\u2026And olde and angry and nygard and dispenceGod sende hem sone\n                    a verry pestilence\n",
+            "Note": "\nIII.1144 omitted; 1239-40 reversed.",
+            "Attributed Title": "\n\u2026And here begynneth her tale folowyng (f. 132); Tale off the wiff of\n                    bathe (RT); Here endith the tale of the Wyf of Bathe\u2026 (f.\n                    138v)",
+            "folio": "ff. 132-138v"
+        },
+        "NLWPen392": {
+            "First Lines": "\nIN tholde dayes of the kyng ArthourOf which that Britons speken\n                    greet honour\u2026\n",
+            "Last Lines": "\n\u2026And olde and angry nygardes of dispenceGod sende hem soone\n                    verray pestilence\n",
+            "Note": "\nIII.899 omitted.",
+            "Attributed Title": "\nHere bigynneth the tale / of the Wyf of Bathe (f. 68v); The Wyf\n                    of Bathe (RT); Here endeth the Wyues tale of Bathe (f. 73v)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "ff. 68v-73v"
+        },
+        "Alnwick455": {
+            "First Lines": "\nIn old dayis of kyng ArthurOf wich that bretons speken gret\n                    honoure\u2026\n",
+            "Last Lines": "\n\u2026And old and angry nygard of dispenceGod send hem sone a verry\n                    pestelence\n",
+            "Note": "\nIII.1051-4, 1134 omitted; 1031-2 reversed.",
+            "Attributed Title": "\nHere begynnyth the Wyffe of Bathe hir tale (f. 99); Here endith the Wyff of\n                    Bathe hire tale\u2026 (104v)",
+            "folio": "ff. 99-104"
+        },
+        "GULHun197": {
+            "First Lines": "\nIN olde dayes of \u00fee kyng ArthourOf whiche \u00feat bretons\n                    speken grete honour\u2026\n",
+            "Last Lines": "\n\u2026And olde and angry nygardes of dispenceGod sende hem sone\n                    verray pestilence\n",
+            "Attributed Title": "\nAd huc de fabula (f. 50ra); The Wif of Bathe (RT); Here\n                    endeth the tale of \u00fee wyf of Bathe\u2026 (f. 52ra)",
+            "folio": "ff. 50ra-52ra"
+        },
+        "Holkham667": {
+            "First Lines": "\nIN olde dayes of the kinge ArthoureOf which the britons speke much\n                    honoure\u2026\n",
+            "Last Lines": "\n\u2026And olde and angry nygardes of expenceGod send hem sone\n                    verrey pestilence\n",
+            "Note": "\nIII.963-4, 1019-20 omitted.",
+            "folio": "ff. 55rb-57vb"
+        },
+        "Lichfield29": {
+            "First Lines": "\nIN olde dayes of the kyng ArthourOf which \u00feat Britons speken\n                    such honoure\u2026\n",
+            "Last Lines": "\n\u2026And olde and angry and nygard of dispenceGod sende hem sone a\n                    verray pestilence\n",
+            "Note": "\nIII.1031-2 reversed.",
+            "Attributed Title": "\nHere begynneth \u00fee tale of the Wyf of Bathe (f. 119, rubric); The wyf\n                    Of Bathe (RT); Thus endeth \u00fee tale of \u00fee Wyf of Bathe\u2026 (f.\n                        124v, rubric)",
+            "folio": "ff. 119-124v"
+        },
+        "Lincoln110": {
+            "First Lines": "\nIN olde daies of kyng artourOf \u00feat bretons spak gret\n                    honour\u2026\n",
+            "Last Lines": "\n\u2026And oolde and angri nygardis of dispenceGod sende hem sone\n                    veri pestilence\n",
+            "Attributed Title": "\nThe Wyf of Bathe (RT); Here endith the wyues tale of bathe\u2026 (f.\n                    108)",
+            "folio": "ff. 102v-108"
+        },
+        "LonPhys388": {
+            "First Lines": "\nIN old daies of kyng ArthurOf whom Bretons speken grete\n                    honour\u2026\n",
+            "Last Lines": "\n\u2026And old and angry and nygardis of dispenceGod send hem soone\n                    a verray pestilence\n",
+            "Note": "\nIII.1307-8 follow 1294.",
+            "Attributed Title": "\n\u2026Incipit ffabula vxoris de Bath (f. 143); Explicit\n                        ffabula (f. 149v)",
+            "folio": "ff. 143-149v"
+        },
+        "RylandsEng113": {
+            "First Lines": "\nIn olde dayes of kyng ArthourOf whom \u00feat Bretons speke grete\n                    honour\u2026\n",
+            "Last Lines": "\n\u2026And olde and angry nygardes of dispenceGod send hem sone a\n                    verray pestilence\n",
+            "Note": "\nIII.1163-4, 1255-6 omitted.",
+            "Attributed Title": "\n\u2026et incipit fabula eiusdem uxoris (f. 64); Incipit fabula\n                        Vxoris / de Bathe (f. 64, margin); Wyfe of Bathe (RT); Explicit\n                        fabula vxoris de Bathe\u2026 (f. 67v)",
+            "folio": "ff. 64-67v"
+        },
+        "Petworth7": {
+            "First Lines": "\nIn \u00fee olde dayes of \u00fee king arthoureOf which \u00feat\n                    bretons speken gret hohonour\u2026\n",
+            "Last Lines": "\n\u2026And olde and angry nygard & dispenceGod sende hem sone a\n                    verrey pestilence\n",
+            "Note": "\nIII.1031-2 reversed.",
+            "Attributed Title": "\nffabula (f. 141, margin); The Wyff Of Bath (RT); Thus ende\u00fe\n                    \u00fee tale of \u00fee wif of bath\u2026 (f. 146v,\n                    rubric)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 141-146v"
+        },
+        "Austin143": {
+            "First Lines": "\nIn olde days of kynge ArthoureOf whom that Brutons speken grete\n                    honoure\u2026\n",
+            "Last Lines": "\n\u2026And olde and angry Nigardes of dispenceGod sende them sone a\n                    verrey pestilence\n",
+            "Note": "\nIII.1163-4, 1255-6 omitted; spurious line follows 1239.",
+            "Attributed Title": "\n\u2026Et hic incipit fabula Vxoris de Bathe (f. 75); Wife of Bathe\n                    (RT); Hic desinit fabula vxoris de Bathe\u2026 (f. 80)",
+            "folio": "ff. 75-80"
+        },
+        "ChicagoUL564": {
+            "First Lines": "\nIn \u00fee olde dayes of King ArthoureOf which \u00feat britaynes\n                    speken gret honoure\u2026\n",
+            "Last Lines": "\n\u2026And olde and angry nygardes of dispenceGod sende hem sone a\n                    verry pestilence\n",
+            "folio": "ff. 134-141"
+        },
+        "PierpontM249": {
+            "First Lines": "\nIn olde dayes of kyng ArthourOf whiche that Britons speken such\n                    honour\u2026\n",
+            "Last Lines": "\n\u2026And olde and angry and nygard of dispenceGod sende hem sone a\n                    verray pestilence\n",
+            "Note": "\nIII.1031-2 reversed.",
+            "Attributed Title": "\n\u2026Here begyneth the tale of the Wyf of Bathe (f. 117); The wyf Of\n                    Bathe (RT); Thus endeth the tale of \u00fee Wyf of Bathe\u2026 (f.\n                        122v)",
+            "folio": "ff. 117v-122v"
+        },
+        "PhilRos10841": {
+            "First Lines": "\nIn the olde dayes of kynge ArthourOf whyche that bretouns speken\n                    greet honour\u2026\n",
+            "Last Lines": "\n\u2026And olde and angry and nygardes of dispenceGod send hem sone\n                    a verry pestelence\n",
+            "Note": "\nIII.1031-2 reversed.",
+            "Attributed Title": "\nHere bygynneth the Wyffes tale of Bathe (f. 89v); The Wyff of\n                    Bathe (RT); Here ende\u00fe \u00fee Wyfes tale of ba\u00fee\u2026 (f.\n                        94v)",
+            "folio": "ff. 89v-94v"
+        },
+        "PUL100": {
+            "First Lines": "\nIn old dayis of Kyng ArthureOf wich the brytons speke grete\n                    honoure\u2026\n",
+            "Last Lines": "\n\u2026And take yeur aventure of \u00fee repeyreThat be to yeur\n                    house because of me\u2026\n",
+            "Note": "\nIII.1226-64 lost; 1031-2 omitted.",
+            "Attributed Title": "\n\u2026And here begynnyth she her tale (f. 87); Bathe (RT)",
+            "folio": "ff. 87-91v"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nIN tholde dayes of Kyng ArthourOf which that Britons speken greet\n                    honour\u2026\n",
+            "Last Lines": "\n\u2026And olde and angry nygardes of dispenceGod sende hem soone\n                    verray pestilence\n",
+            "Attributed Title": "\n\u2026And / bigynneth hir tale (f. 72); Wyf of Bathe (RT); Heere endeth\n                    the Wyues tale of Bathe (f. 76, foot)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 72-76"
+        },
+        "BNangl39": {
+            "First Lines": "\nIN the olde dayes of King Arthureof which \u00feat bretouns spak\n                    gret honour\u2026\n",
+            "Last Lines": "\n\u2026and old and angry nygardes of dispencegod sende hem sone a\n                    verray pestilence\n",
+            "Note": "\nIII.875-6 reversed.",
+            "Attributed Title": "\n\u2026Hic narrat ffabulam suam vxor de / bathe hoc modo sequente\n                    (f. 42rb); Explicit fabula vxoris de bathe\u2026 (f.\n                        44va)",
+            "folio": "ff. 42rb-44va"
+        },
+        "TokyoTak22": {
+            "First Lines": "\nIN olde dayes of kyng artureof whiche \u00feat bretons speken gret\n                    honour\u2026\n",
+            "Last Lines": "\n\u2026and olde and angry nygardys of dispencegod sende hem som\n                    verry pestilence silence\n",
+            "folio": "ff. 48-56"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nIn olde daies of King ArthourOf wich that Britons speke gret\n                    honour\u2026\n",
+            "Last Lines": "\n\u2026And olde and angri nigardes of dispenceGod send hem sone\n                    verri pestilence\n",
+            "Note": "\nIII.1091-2, 1129-30 reversed.",
+            "Attributed Title": "\nAnd hiere beginneth a tale of the wif / of Bathe as is here aftirward\n                    remembred (f. 80v); Vxor de Bathe (RT); Hic desinit fabula\n                        vxoris de Bathe\u2026 (f. 85v)",
+            "folio": "ff. 80v-85v"
+        },
+        "Bodmer48": {
+            "First Lines": "\nIN olde daies of king ArthureOf whom \u00fee Britons speke gret\n                    honoure\u2026\n",
+            "Last Lines": "\n\u2026And old and Angry negardis of spenceGod send hem sone veray\n                    pestilence\n",
+            "Note": "\nIII.1032 omitted.",
+            "Attributed Title": "\nThe tale of the wif of Bathe (rubric, f. 81v)",
+            "Facsimiles": "\n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n",
+            "folio": "ff. 81v-87"
+        }
+    }
+}

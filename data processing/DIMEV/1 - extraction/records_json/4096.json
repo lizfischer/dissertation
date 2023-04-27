@@ -1,0 +1,17 @@
+{
+    "_id": 4096,
+    "_header": "O woeful world deceiver of mankind",
+    "Subjects": "Fortune, complaint against",
+    "Versification": "\u2014 seven-line, two-line \u2014 ababbcc, aa",
+    "_description": "The Treachery of Fortune \u2014 four stanzas rhyme royal plus two-line closing couplet",
+    "_witnesses": {
+        "BodRawC86": {
+            "First Lines": "\nO wofull worlde deceyver of mankyndeOure mortall foo we maye be\n                    ryght \u00fee calle\u2026\n",
+            "Last Lines": "\n\u2026Geve god \u00fey hert many maner wyseNow blissed is he\n                    \u00feis worlde \u00feat can despiseIn wele beware \u00fee wyselyffor\n                    fortune turneth sodenly\n",
+            "Note": "\nPossibly part of prologue to Guyscard and Segismonde: title\n                    \u2018Guyscard and segismonde\u2019 (by scribe or near contemporary, top\n                    margin f. 142v), who took this to be part of prologue to 6534, and note that scribe or\n                    near contemporary wrote beginning \u2018O Wofull vorlde\u2019 at bottom f.\n                    143, after \u2018Explicit prologus\u2019 see 6534.",
+            "Attributed Title": "\nGuyscard and segismonde (by scribe or near contemporary, top margin f.\n                        142v, who took this to be part of prologue to 4082, and note that\n                    scribe or near contemporary wrote beginning \u2018O Wofull vorlde\u2019 at\n                    bottom f. 143, after \u2018Explicit prologus\u2019)",
+            "Editions": "\nWright,  Herbert Gladstone,\n                        ed.  \n             Early English Versions of the Tales of Guiscardo and Ghismonda and\n                Titus and Gisippus from the Decameron.\nEETS\n         o.s. 205 (1937); repr. 1988: xiii (two stanzas only).\n",
+            "folio": "f. 142v"
+        }
+    }
+}

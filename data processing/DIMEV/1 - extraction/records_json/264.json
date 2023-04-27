@@ -1,0 +1,70 @@
+{
+    "_id": 264,
+    "_header": "Alas alas that I was born",
+    "Note": "Foster (1940)\nXFoster, Frances Allen. \u201cSome English Words from the Fasciculus Morum.\u201d Essays and Studies in Honor of Carleton Brown. Percy Waldron Long New York: NYU Press; London: Humphrey Milford, Oxford University Pres, 1940: 149-57, 31A; for another version in Fasciculus morum, see 265.",
+    "Subjects": "sinner, lament of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Sinner\u2019s Lament, a tag usually in the Fasciculus morum, Version A",
+    "_witnesses": {
+        "Bod187": {
+            "Transcription": "\nAlas alas \u00feat y was bornfor dom with dom y am for\n                    lorn\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 160ra"
+        },
+        "Bod410": {
+            "Transcription": "\nAlas Alas \u00feat I was bornfor dom by dom I am for lorn\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 39"
+        },
+        "BodLauMis111": {
+            "Transcription": "\nAlas Alas that euer I was borenBody and soule I am\n                    forloren\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 171"
+        },
+        "BodLauMis213": {
+            "Transcription": "\nAlas alas \u00feat I was bornBoth lyfe & sowle I am for\n                    lorn\n",
+            "Note": "\nSecond occurrence in MS; written as prose.",
+            "folio": "f. 109v"
+        },
+        "BodLauMis568": {
+            "Transcription": "\nalas alas \u00feat y was borneffor dome wyt dome I am\n                    forlorne\n",
+            "folio": "f. 47va"
+        },
+        "BodRawC670": {
+            "Transcription": "\nAlas alas \u00feat I was borenFor dome with dome I am for\n                    loren\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 172.\n",
+            "folio": "f. 69v"
+        },
+        "CamGon71": {
+            "Transcription": "\nAlas alas \u00feat I was bornefor dome with dome I am for\n                    lorne\n",
+            "folio": "f. 47v"
+        },
+        "EDU82": {
+            "Transcription": "\nAlas alas that I was bornefor dome with dome I am for\n                    lorne\n",
+            "folio": "f. 83v"
+        },
+        "Lincoln44": {
+            "Transcription": "\nAlas alas \u00feat I was bornfor dom with dome \u00feus arn for\n                    lorne\n",
+            "Note": "\nSecond occurrence in MS.",
+            "folio": "f. 205ra"
+        },
+        "Spalding": {
+            "Transcription": "\nAllas allas \u00feat I was bornefor dome with dome I am\n                    forlorne\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 74"
+        },
+        "WorcF19": {
+            "Transcription": "\nAllas alas \u00feat y was borynfor dome with dome y am\n                    forlorn\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 189ra"
+        },
+        "WorcF126": {
+            "Note": "\nNot in Fasciculus morum; written as prose in a Latin prose\n                    sermon.",
+            "Editions": "\nWenzel,  Siegfried. \n             \u201cThe Gay Carol and Exemplum.\u201d \n             Neuphilologische Mitteilunge\n         77 (1976): 85-91: 90.\n",
+            "folio": "f. 28"
+        },
+        "VaticanOtto": {
+            "folio": "f. 41v"
+        }
+    }
+}

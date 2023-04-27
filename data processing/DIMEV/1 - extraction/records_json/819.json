@@ -1,0 +1,24 @@
+{
+    "_id": 819,
+    "_header": "Believe in God that all hath wrought",
+    "Subjects": "virtues, theological",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "On the cardinal virtues \u2014 in couplets",
+    "_witnesses": {
+        "BLHar1706": {
+            "First Lines": "\nByleue in god \u00feat alle ha\u00fe wrou\u021dteHeuene and er\u00fee and alle of nou\u021dte\u2026\n",
+            "Last Lines": "\n\u2026Dyuyne vertuose men \u00feese \u00fere calleThey be moste hy\u021de of o\u00feer al\n",
+            "Note": "\nFour couplets on the Three Theological Virtues, with\n                    \u2018Fides\u2019, \u2018Spes\u2019, and\n                    \u2018Caritas\u2019 in right margin beside lines 1, 3, 5.",
+            "Attributed Title": "\nTres virtutes theologice (rubric heading preceding first line, f. 208)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 1706.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_1706. \n",
+            "folio": "f. 208"
+        },
+        "Ushaw28": {
+            "First Lines": "\nBeleue in god \u00feat alle hathe wroughtheuen & erthe &\n                    alle of nought\u2026\n",
+            "Last Lines": "\n\u2026\u00feies ben foure virtues cardinalle\u00feat shulde rewle\n                    men bothe grete and smalle\n",
+            "Note": "\nNine couplets on the seven cardinal virtues, included in Speculum\n                        Cristiani, tercia tabula.",
+            "Attributed Title": "\nDe septem virtutibus principalibus de quibus\u2026 (f.\n                        55v); Incipit speculum cristiani (f. 4)",
+            "folio": "ff. 55v-56v"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "_id": 1217,
+    "_header": "Ever longer the worse",
+    "Subjects": "proverbs",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A proverbial couplet",
+    "_witnesses": {
+        "BodDou52": {
+            "Transcription": "\nEuer lenger \u00fee wors lokys \u00fee blynde hors\n",
+            "Editions": "\nF\u00f6rster,  Max. \n             \u201cDie Mittelenglische Sprichw\u00f6rtersammlung in Douce 52.\u201d \n             Festschrift zum XII Deutschen Neuphilolgentage in M\u00fcnchen\n                1906.\n            E. Stollreither, ed. \n         Erlangen (1906): 40-64: 45.\n",
+            "folio": "f. 15v"
+        },
+        "RylandsLat394": {
+            "Transcription": "\nEuer lengere \u00fee werslokes \u00fee blynde hore\n",
+            "Note": "\nWritten on one line, with \u2018hopes\u2019 written over\n                    \u2018lokes\u2019 (as alternative reading?); trans. Latin \u2018Semper\n                        cecus equus peius videt & puto peius / Ambulat omnis equus semper peius\n                        puto cecus / ffur furatur equum suspenditur & manet equum\u2019\n                    with \u2018salit\u2019 over first\n                    \u2018peius\u2019.",
+            "Editions": "\nPantin,  William A. \n             \u201cA Medieval Collection of Latin and English Proverbs\u2026from Rylands\n                Latin MS. 394.\u201d \n             Bulletin of the John Rylands Library\n         14 (1930): 81-114: 96.\n",
+            "folio": "f. 7v"
+        },
+        "WorcF126": {
+            "Transcription": "\nEuer \u00fee lenger \u00fee worshoppede \u00fee blynde\n                    hors\n",
+            "Editions": "\nWenzel,  Siegfried. \n             \u201cUnrecorded Middle-English Verses.\u201d \n             Anglia\n         92 (1974): 55-78: 61.\n",
+            "folio": "f. 29v"
+        }
+    }
+}

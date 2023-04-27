@@ -1,0 +1,50 @@
+{
+    "_id": 376,
+    "_header": "All that the prophets told while in their prophecy",
+    "Subjects": "prologues; Old Testament, prophets",
+    "Bibliographic Ghosts": "Cambridge UK, St John\u2019s College B.6 (28), f. 25: see 3452",
+    "_description": "Lines on the Prophets, used in the South English Legendary as prologue or headlink to a number of legends (4196, 3452, 6380, and 6690) \u2014 four or five lines in couplets",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nAll \u00feat \u00fee prophetes tolden whylen in heore prophecieAl\n                    was of vr lord crist and of his Modur Marie\u2026\n",
+            "Last Lines": "\n\u2026Dauid and Daniel and \u00fee holy IeremyeAnd alle \u00feis\n                    o\u00feere goode men and \u00fee holy zakarie\n",
+            "Note": "\nAs headlink to the Prologue of the Founding of the Feast of the\n                    Conception (6690)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 6va"
+        },
+        "BodRawPoe225": {
+            "Transcription": "\nIn olde time prophetes tolde in hir prophecyeAl was of any [\n                    ]\u2026\n",
+            "Note": "\nAs headlink to Prologue to the \u2018Long Life of Christ\u2019 (6380); page damaged by damp, such\n                    that ink faded and virtually unreadable in places.",
+            "folio": "f. 24"
+        },
+        "CamTCC605": {
+            "Transcription": "\nIn olde time prophetes tolde in hir prophecyeAl was of any [\n                    ]\u2026\n",
+            "Note": "\nAs headlink to the \u2018Long Life of Christ\u2019 (6380).",
+            "Facsimiles": "\n\nDigital Facsimile of Trinity College Cambridge MS R.3.25.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.25. \n",
+            "folio": "f. 22"
+        },
+        "BLEge1993": {
+            "Transcription": "\n\u00dee prophetes tolden while in here prophecieAl it was of oure lord and of is moder marieBo\u00fee abraham & moises ionas and elieElise and abacuc & \u00fee wise ysaieDauid and daniel & \u00fee holi ieremie\n",
+            "Note": "\nAs Prologue to the \u2018Short Life of Christ\u2019 (4196).",
+            "folio": "f. 21"
+        },
+        "BLSto949": {
+            "First Lines": "\nPes nou pes among vs be \u021de godemen alle & someHerkne\u00fe one wyle to me \u021de \u00feat be\u00fe hider icome\u2026\n",
+            "Last Lines": "\n\u2026Bo\u00fee Moyses & Abraham Ionas and hely\u021deDauyd & Danyel & \u00fee holy Ieremy\u021de\n",
+            "Note": "\nSix lines written on one side of a fragment bound into the MS between full-sized folios 88 and 90, with catchword \u201cWhon men heren\u201d to indicate placement before Prologue to the \u201cLong Life of Christ\u201d (6380).",
+            "folio": "f. 89v"
+        },
+        "NLS1921": {
+            "Transcription": "\nAl \u00feat \u00fee prophetes schewed whilom In her prophecieAl it\n                    was of our lord & of his moder marieBo\u00fee moyses and abraham Jonas\n                    & helyeDauid & daniel & \u00fee holy geromie\n",
+            "Note": "\nAs headlink to Prologue to the \u2018Long Life of Christ\u2019 (6380); couplets written half line\n                    of verse per line of manuscript.",
+            "Attributed Title": "\n[Our] leuedis moder (f. 65vb)",
+            "folio": "f. 66ra"
+        },
+        "Lam223": {
+            "First Lines": "\nPEs now amonges vs gode men all & someHerkenes a whyle to me\n                    \u021de \u00feat ben hider come\u00deat \u00fee prophetes tolden som tyme\n                    in her prophecye\u2026\n",
+            "Last Lines": "\n\u2026Bo\u00fee Moyses & Abraham Ionas and ElyeDauid and Daniel\n                    and \u00fee holy Ieremy\n",
+            "Note": "\nAs headlink to Prologue to the \u2018Long Life of Christ\u2019 (6380).",
+            "folio": "f. 33r1"
+        }
+    }
+}

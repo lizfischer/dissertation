@@ -1,0 +1,76 @@
+{
+    "_id": 23,
+    "_header": "A Christian priest was called Carpus",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Carpus, story of; exempla",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The story of Carpus in the Northern Homily Cycle \u2014 in couplets",
+    "_witnesses": {
+        "BodSelSup52": {
+            "First Lines": "\nA Crrystyn prest was cald carpus\u00feat so in \u00feis werld lufyd\n                    Ihesus\u2026\n",
+            "Last Lines": "\n\u2026Now Ihesus graunt vs \u00feat wetnesof \u00feat trew luf\n                    \u00feat ys endelese\n",
+            "folio": "ff. 202-203v"
+        },
+        "BodAsh42": {
+            "First Lines": "\nA cristend preste was callid carpus\u00feat luffid so inwardeli\n                    ihesus\u2026\n",
+            "Last Lines": "\n\u2026\u00feare to ihesu criste vs spedeAnd to him self vs luffli\n                    lede\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 127v-128v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nAN holy prest was clept carpusAnd louede so inwardliche\n                    Ihesus\u2026\n",
+            "Last Lines": "\n\u2026Ihesu to loue him help vs and redeAnd to his blisse alle vs\n                    lede. Amen.\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cDie Evangelien-Geschichten der Homiliensammlung des Ms. Vernon.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         57 (1877): 241-316: 278-9.\n",
+            "folio": "ff. 191vc-192ra"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nA cristen preste was called Carpus\u00deat so inwardli lufed\n                    ihesus\u2026\n",
+            "Last Lines": "\n\u2026Nowe ihesu graunte vs \u00feat swetnesOf \u00fei trewe luf\n                    \u00feat es endeles\n",
+            "Attributed Title": "\nde sancto Carpo presbitere orante pro vindicta capienda (f.\n                    206)",
+            "folio": "pp. 206-208"
+        },
+        "CULDd11": {
+            "First Lines": "\nA cristen prest was cald Carpus& he louid so inwardli\n                    ihesus\u2026\n",
+            "Last Lines": "\n\u2026Ihesu to loue him righteli vs redeand to his blisse alle vs\n                    lede\n",
+            "Attributed Title": "\nNarracio (f. 130v)",
+            "folio": "ff. 130v-131"
+        },
+        "CULGg531": {
+            "First Lines": "\nA cristen preste was cald carpus\u00feat lufed swa inwardly\n                    ihesus\u2026\n",
+            "Last Lines": "\n\u2026\u00feare to ihesu criste vs spedeAnd tyll hym selfe vs fully\n                    lede\n",
+            "Attributed Title": "\nNarracio (f. 86)",
+            "folio": "ff. 86-87"
+        },
+        "BLCottTibEVII": {
+            "folio": "f. 193va"
+        },
+        "BLHar2391": {
+            "First Lines": "\nA cristen prest was cald karpus\u00feat lufd so inle Indwardly Ihesus\u2026\n",
+            "Last Lines": "\n\u2026\u00feat so Ihesu crist vs spedeAnd to hym self vs lufly lede\n",
+            "Note": "\nIn second line, \u201cinle\u201d written and crossed through before \u201cIndwardly\u201d; ends \u201cAmen.\u201d",
+            "Attributed Title": "\nIn ascencione domini (left margin, f. 191v) with \u201cA tale\u201d written below",
+            "folio": "ff. 191v-192v"
+        },
+        "BLHar4196": {
+            "First Lines": "\nA cristen prest \u00feat hight carpusSo inwardly he lufed ihesus\u2026\n",
+            "Last Lines": "\n\u2026And bring vs to \u00feat blisced hede\u00feare \u00fee sight of ihesu sall vs fede\n",
+            "Attributed Title": "\nNarracio de carpo presbitero (rubric, f. 94ra)",
+            "folio": "ff. 94ra-94va"
+        },
+        "Lam260": {
+            "folio": "f. 39va"
+        },
+        "MinULZ822": {
+            "First Lines": "\nA crystyn preste \u00feat hyght carpus\u00feat lufyd swa inwardly\n                    Ihesus\u2026\n",
+            "Last Lines": "\n\u2026Ihesu to lufe hym ryght vs spedeand till hym selfe vs lufly\n                    lede\n",
+            "folio": "ff. 94-95"
+        },
+        "HunHM129": {
+            "First Lines": "\nA cristyn prest wos callyd carpusAnd he so in wardly louyd\n                    ihesus\u2026\n",
+            "Last Lines": "\n\u2026Ihesu to loue ryght hym vs spedeAnd to hym self he vs lonely\n                    lede\n",
+            "Attributed Title": "\nnarracio (f. 108v)",
+            "folio": "f. 108va"
+        }
+    }
+}

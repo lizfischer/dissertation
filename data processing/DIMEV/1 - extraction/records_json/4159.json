@@ -1,0 +1,13 @@
+{
+    "_id": 4159,
+    "_header": "Of English kings here lieth the beauteous flower",
+    "Subjects": "chronicles, verse in; Edward III, death of; epitaphs",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Epitaph for Edward III, translating four lines of Latin verse which precede it, in Part VII of Fabyan\u2019s Chronicle, Septima Pars, Edwardi Tercii \u2014 one stanza rhyme royal",
+    "_witnesses": {
+        "HarEng766": {
+            "Transcription": "\nOf Englissh kinges here lyeth the bewtevous fflourOf alle before\n                    passed And mirrour to them shall sueA mercyfull kyng of peace\n                    conservatourThe thrid Edward the Deth of Whom maye RueAlle Inglisshe\n                    men ffor he by knyghthood dueWas lybard Invict And by ffeate\n                    marciallTo worthy machobe In vertue peregall\n",
+            "folio": "f. 226v"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "_id": 429,
+    "_header": "Almighty God in Trinity / That bought man",
+    "Subjects": "Christ, life of",
+    "Versification": "\u2014 twelve-line, eight-line",
+    "_description": "The Apocryphal History of the Infancy \u2014 in 12- and 8-line stanzas",
+    "_witnesses": {
+        "BLAdd31042": {
+            "First Lines": "\nAllemyghty god in Trynytee\u00feat boughte man on \u00fee Rode so dere\u2026\n",
+            "Last Lines": "\n\u2026Withowten ende with \u021dow to wonneThare Ioyes are euer & myrthe & playe\n",
+            "Note": "\nEnds, \u201cAmen.\u201d",
+            "Attributed Title": "\nHere Bigynnys the Romance of the childhode of Ihesu Criste \u00feat clerkes callys Ipokrephum (rubric, f. 163va)",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cNachtr\u00e4ge zu Legenden.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         74 (1885): 327-68: 327-39.\n",
+            "folio": "ff. 163va-166vb"
+        },
+        "BLHar2399": {
+            "First Lines": "\nAlle my\u021dty god yn trynyte\u00deat bowth man on rode\n                    dere\u2026\n",
+            "Last Lines": "\n\u2026for your holy my\u021dtus mostGrante vsyour blysse par\n                        cheryte\n\n",
+            "Note": "\nPartially illegible due to manuscript damage.",
+            "Editions": "\nHorstmann,  Carl. \n             Sammlung altenglischer Legenden.\n         Heilbronn: Henninger, 1878: 111-23; 101-10.\n",
+            "folio": "ff. 47v-61"
+        },
+        "BLHar3954": {
+            "First Lines": "\nLOrd god in trinite\u00deu boutyst man on rode dere\u2026\n",
+            "Last Lines": "\n\u2026Cryst vs chylde \u00feat best mayffro \u00fee peyne of helle\n",
+            "Note": "\nShowing much variation; includes lines 37-92, 109-82 of 3120, embedded, beginning f. 70v.",
+            "Attributed Title": "\nHic incipit infancia saluatoris (rubric above first line, f. 70ra); Explicit infancia saluatoris (rubric below last line, f. 74ra)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 3954.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_3954. \n",
+            "Editions": "\nHorstmann,  Carl. \n             Sammlung altenglischer Legenden.\n         Heilbronn: Henninger, 1878: 111-23; 101-10.\n",
+            "folio": "ff. 70ra-74ra"
+        }
+    }
+}

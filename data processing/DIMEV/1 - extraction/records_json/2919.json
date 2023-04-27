@@ -1,0 +1,25 @@
+{
+    "_id": 2919,
+    "_header": "Jesu that is heaven king / To His disciples said this thing",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel, \u2018In vigilia apostolorum Petri et Pauli\u2019, in the \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nIHesus \u00feat is heuene kyngTo his disciplus seide \u00feis\n                    \u00feing\u2026\n",
+            "Last Lines": "\n\u2026He vs graunte \u00feat ilke way\u00deat for vs di\u021dede a\n                    goode fryday. Amen.\n",
+            "Attributed Title": "\nDixit Ihesus petro sequere me / Hoc est preceptum meum vt dilgatus\n                    (f. 222vc-223ra)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nHorstmann,  Carl. \n             \u201cProprium Sanctorum, Zusatz-Homilien des Ms. Vernon fol. CCXV zur\n                n\u00f6rdlichen Sammlung der Domicalia evangelia.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         81 (1888): 83-114, 300-21: 109.\n",
+            "folio": "f. 222ra-222rc"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nIHesus \u00feat is heuene kyngTo his disciples seide \u00feis\n                    \u00feing\u2026\n",
+            "Last Lines": "\n\u2026He vs graunt \u00feat ilke way\u00feat for vs dyed on goode\n                    friday. Amen\n",
+            "Attributed Title": "\nDixit Ihesus Petro sequere me / Hoc est preceptum meum vt diligatis\n                    (f. 25rb)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 25rb-25va"
+        }
+    }
+}

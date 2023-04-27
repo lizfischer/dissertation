@@ -1,0 +1,30 @@
+{
+    "_id": 519,
+    "_header": "And I it lose and you it find",
+    "Note": "See 2368: apparently this was of common occurrence in the fifteenth century.",
+    "Subjects": "book plates",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "San Marino, CA, Henry Huntington Library HM 140 [olim Phillipps 8299], f. 170v (referenced in Hanna (1980)\nXHanna, Ralph. \u201cThe Index of Middle English Verse and Huntington Library Collections: A Checklist of Addenda.\u201d Publications of the Bibliographical Society of America 74 (1980): 235-58, n. 1; but see 5660; London, British Library Addit. 39659: see 2368-2.",
+    "_description": "A Book Plate \u2014 two couplets",
+    "_witnesses": {
+        "BodLye16": {
+            "Transcription": "\nIohn brack own this bookeyf I it loost and you it findeI prai\n                    you take so muche paineas to bringe me my booke againe\n",
+            "folio": "f. i"
+        },
+        "BLCottTitCXIX": {
+            "Transcription": "\nThys ys Iohn Orms bookeAnd he hyt loose and you hyt fyndI praye\n                    you hertile\u2026\n",
+            "Note": "\nText incomplete.",
+            "folio": "f. 144"
+        },
+        "BLEge1151": {
+            "Transcription": "\nMysterys felys owyth thys bokeAnd she yt lose and you yt fyndeI\n                    pray you to take the payneTo brynge my boke home agayne\n",
+            "folio": "f. 159"
+        },
+        "BLHar1251": {
+            "Transcription": "\nand I yt los and yow yt fyndI pray yow hartely to be so kyndthat yow wol take a letel payneto se my boke brothe home agayne\n",
+            "Note": "\nAdded to back flyleaf by same hand as 5560 at front; preceded by note of ownership, \u201cThys boke ys myne eleanour worcestar,\u201d then signed on f. 185 \u201cE worcester.\u201d",
+            "Editions": "\n\nWanley,  Humphrey. \n             A Catalogue of the Harleian Manuscripts in the British Museum.\n         4 vols. London: Eyre and Strahan, 1808-12; ed. Wanley et al: 1.635.\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 2.163.\nBenham,  Sir William Gurney. \n             Benham\u2019s Book of Quotations, proverbs, and household\n                words.\n         London: Harrap, 1948: 495b.\nLittlehales,  Henry,\n                        ed.  \n             The Prymer or Lay Folks\u2019 Prayer Book.\nEETS\n         o.s. 105 (1895); 109 (1897); repr. as one volume, 1973: xlviii.\nWordsworth,  Charles,  and  Henry Littlehales.  \n             The Old Service Books of the English Church.\n         London: 1904: 61.\nCoulton,  George Gordon. \n             Life in the Middle Ages.\n         Cambridge: at the UP, 1931, and New York: Macmillan, 1931: 2.118.\nBennett,  Henry Stanley. \n             England from Chaucer to Caxton.\n         London: Methuen, 1928: 161.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 563-4.\n\n",
+            "folio": "ff. 184v-185"
+        }
+    }
+}

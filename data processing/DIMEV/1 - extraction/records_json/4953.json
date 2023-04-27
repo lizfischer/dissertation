@@ -1,0 +1,23 @@
+{
+    "_id": 4953,
+    "_header": "Solomon sat and said many sooth saws",
+    "Note": "Formerly 3069.",
+    "Subjects": "advice, moral",
+    "Versification": "\u2014 six-line \u2014 aaaabb",
+    "_description": "\u2018Prouerba Solomonis\u2019 \u2014 35 lines, generally in 6-line stanzas (aaaabb) with an \u20180 and I\u2019 refrain",
+    "_witnesses": {
+        "CULGg132": {
+            "First Lines": "\nSalamon sat & sayde many soth sawysWordis \u00feat walkys wyde\n                    by wyndowes & by wawys\u2026\n",
+            "Last Lines": "\n\u2026With an O & an I \u00feus men gedyrrys godeCatel cummys\n                    & catel gase ryth as dos \u00fee fflode\n",
+            "Editions": "\nBrunner,  Karl. \n             \u201cWith an O and an J. I.\u201d \n             Anglia\n         54 (1930): 288-91: 291.\n",
+            "folio": "ff. 3v-4"
+        },
+        "CamGon84": {
+            "First Lines": "\nSalamon \u00fee wyse says in hys sawysWordys walkon full wyde be\n                    woundys & be ways\u2026\n",
+            "Last Lines": "\n\u2026With a o and I invi to hym \u00feai haueqwar to mak us he hit\n                    so sum tyme he was bot a knaue\n",
+            "Note": "\nStanzas of 4, 3, 3, and 4 lines, monorhyming, with two-line\n                    \u2018o\u2019 and \u2018I\u2019 refrains.",
+            "Attributed Title": "\nProuerbia Salomonis (p. 191)",
+            "folio": "p. 91"
+        }
+    }
+}

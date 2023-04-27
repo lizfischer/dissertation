@@ -1,0 +1,32 @@
+{
+    "_id": 5107,
+    "_header": "Take the father that Phoebus so bright",
+    "Note": "Formerly included under 2278.",
+    "Subjects": "alchemy; illustrations, verse accompanying",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "George Ripley, alchemical verses on the Ripley scrolls \u2014 40 lines in ten cross-rhymed quatrains",
+    "_witnesses": {
+        "CamFitz276": {
+            "First Lines": "\nTake the father that febys so brithThat siette so hey in\n                    magisteWythe his bemes that schinyth so britheIn all places were euer\n                    that he be\u2026\n",
+            "Last Lines": "\n\u2026Some be hinde and some be foreAs philosifeares dothe hime\n                    gefe\n",
+            "Note": "\nTen quatrains rhyming abab, in two columns on either side of\n                    illustration of the sun; follows 4274.",
+            "folio": "roll"
+        },
+        "HunHM30313": {
+            "First Lines": "\n[Take thy] father that phebus Soe bright[That] sit so highe in\n                    Maiestie\u2026\n",
+            "Last Lines": "\n\u2026Sum behinde & some beforeAs philosephers there him\n                    gaue\n",
+            "Note": "\nSecond among four items on this scroll.",
+            "folio": "roll"
+        },
+        "EDCPRS": {
+            "First Lines": "\nTake thy father that febus soe brightethat sites soe hye in\n                    magistye\u2026\n",
+            "Last Lines": "\n\u2026some be hinde & some beforeas philosophers there him\n                    gafe\n",
+            "Note": "\nTen quatrains, abab, third verse on roll.",
+            "Editions": "\nMcCallum,  R. I. \n             \u201cThe Ripley Scroll of the Royal College of Physicians of\n                Edinburgh.\u201d \n             Vesalius\n         2:1 (June, 1996): 39-49: 39-46.\n",
+            "folio": ""
+        },
+        "YaleBeiMel41": {
+            "folio": "roll"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "_id": 3989,
+    "_header": "O merciful and O merciable",
+    "Note": "Stanza 10 = st. 19 of Craft of Lovers (5990); st. 1-4 from Lydgate\u2019s Court of Sapience (5365); editions not indicating source include Urry (1721)\nXUrry, John. The Works of Geoffrey Chaucer. London: B. Lintot, 1721, 556; Bell (1782)\nXBell, John. The Poetical Works of Geoffrey Chaucer. 14 vols. in 7. The Poets of Great Britain. Edinburgh, 1782; repr. London: Cadell and Davies, 1807, 13.27; Anderson (1793)\nXAnderson, Robert. The Works of the British Poets, or, Complete Edition of the Poets of Great Britain. 13 vols. Vol. 1. Edinburgh, 1793; London, 1795, 1.585.",
+    "Subjects": "envoys; complaints, lovers\u2019; composite poems; mercy, plea for",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "A lover pleading for mercy from his beloved, a pseudo-Chaucerian lyric, but apparently made up of scraps of other poems \u2014 thirteen stanzas rhyme royal including 3-stanza envoy",
+    "_witnesses": {
+        "CamTCC599": {
+            "First Lines": "\nO merciful and o mercyableKyng of kynges & fadyr of\n                    piteWhos myght mercy ys incomparableO prynce eterne o myghty lord sey\n                    we\u2026\n",
+            "Last Lines": "\n\u2026My goodly masteras \u00feus of her good graceGod graunte hys\n                    lysse in heuen to haue a place\n",
+            "Note": "\n13 stanzas.",
+            "Attributed Author": "\nChaucer (added by later hand, f. 161ra)",
+            "Facsimiles": "\n\nFletcher,  Bradford Y. \n             \u201cIntroduction.\u201d \n             Manuscript Trinity R.3.19. A Facsimile.\n         Norman, OK: Pilgrim, 1987. \n\nDigital Facsimile of Trinity College Cambridge MS R.3.19.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.19. \n\n",
+            "Editions": "\nForni,  Kathleen,\n                        ed.  \n             The Chaucerian\n                    Apocrypha: A Selection.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2005. \n",
+            "folio": "ff. 161ra-161va"
+        }
+    }
+}

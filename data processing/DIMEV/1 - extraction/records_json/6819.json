@@ -1,0 +1,66 @@
+{
+    "_id": 6819,
+    "_header": "Ye devout people which have observance",
+    "Author(s)": "John Lydgate",
+    "Subjects": "religious observance",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, On Kissing at \u2018Verbum caro factum est\u2019 \u2014 four 8-line stanzas",
+    "_witnesses": {
+        "BodAsh59": {
+            "folio": "f. 56v"
+        },
+        "BodLauMis683": {
+            "First Lines": "\nYE devout peple which kepe an observaunce meekly in chirche to\n                    kysse stoon or tre\u2026\n",
+            "Last Lines": "\n\u2026And euere haue mynde on crystys passyoun wich for thy sake\n                    weryd a crowne of thorn\n",
+            "Attributed Title": "\nHEre begynneth a tretis of the knelyng and kyssyng maad at verbum caro\n                    factum est (f. 87v)",
+            "folio": "ff. 87v-88"
+        },
+        "OxfBal354": {
+            "First Lines": "\nO devout peple \u00feat kepe an aff observanceLowly in\n                    church to kysse stone or treErth or yren bothe in remembravnceWhat\n                    they do meane take in moralite\u2026\n",
+            "Last Lines": "\n\u2026Your mowth first crossid of high devocounKyssyng the tokyns\n                    rehersid here be fore& euer haue mynd on crystes passyounWhich for\n                    your sake werid a crown of thornAmenExplicit\n",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "folio": "pp. 331-332"
+        },
+        "CamJes56": {
+            "folio": "f. 72"
+        },
+        "CamGon174": {
+            "First Lines": "\nO devout people which kepe an obseruance louly in chyrch to kysse\n                    ston or tre\u2026 \n",
+            "Last Lines": "\n\u2026And euer haue mynd on crystis passion Which for oure sakys\n                    dyd were a crovn of thorn\n",
+            "Note": "\nScribe ends, \u2018Explicit expliciat ludere scriptor est\u2018 (p.\n                    455)",
+            "Attributed Title": "\nQuod ffysshar",
+            "folio": "p. 455"
+        },
+        "CamTCC600": {
+            "First Lines": "\nYe devoute people whiche kepe an observaunce Meekly in chirche to\n                    kisse stone or tree Eer\u00fee or yren kepe\u00fee remembrance What\n                    \u00feey mene take\u00fee \u00fee moralitee\u2026\n",
+            "Last Lines": "\n\u2026And ever haue mynde of cristes passiion Which for \u00fey\n                    sake wered \u00fee crowne of thorne\n",
+            "Note": "\nScribe John Shirley",
+            "Attributed Title": "\nA balade made by \u00fee munk of Bury whiles it is seyde verbum caro factum\n                    est (p. 362)",
+            "folio": "p. 362"
+        },
+        "CamTCC601": {
+            "First Lines": "\na deuout pepyll whyche kepe an obseruaunce Lowly in churche to\n                    kysse stoone or tre\u2026\n",
+            "Last Lines": "\n\u2026And euer haue mynde on crystes passioun Whyche for youre sake\n                    weryd a crowne of thorne\n",
+            "Attributed Author": "\n\u2018John Lydgate\u2019 (f. 215, added by later hand)",
+            "Attributed Title": "\nA lytyll compilacioun declaryng when men kysse in Churche stoone or erthe\n                    Tymber or Iron what they shuld remembre therby (f. 215); Verbum Caro factum est\n                    (f. 215, added by later hand)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 116-7.\n",
+            "folio": "f. 215"
+        },
+        "BLAdd34360": {
+            "First Lines": "\n[Y]E devoute peple whiche kepe on observaunceMekely in chirche to\n                    kysse stone or tre\u2026\n",
+            "Last Lines": "\n\u2026And euer have mynd on cristes passiounWhiche for thi sake\n                    wered a Crowne of thorn\n",
+            "folio": "ff. 68-68v"
+        },
+        "BLHar2251": {
+            "First Lines": "\nYe devoute people whiche kepe one obseruaunceMekely in chirche to\n                    kysse stone or tree\u2026\n",
+            "Last Lines": "\n\u2026And euer have mynd on cristis passiounwhiche for thy sake\n                    wered a crowne of thorne\n",
+            "Editions": "\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             A Selection from the Minor Poems of Don John Lydgate.\nPercy Society\n         2. London: T. Richard, 1840: 60-1.\n",
+            "folio": "ff. 9-9v"
+        },
+        "BLHar2255": {
+            "First Lines": "\nYE devout peeple which keepe an observaunceMeekly in chirche to\n                    kisse stoon or tre\u2026\n",
+            "Last Lines": "\n\u2026And evir haue mynde on cristis passiounwhich for thy sake\n                    weryd a crowne of thorn Explicit\n",
+            "folio": "f. 113v"
+        }
+    }
+}

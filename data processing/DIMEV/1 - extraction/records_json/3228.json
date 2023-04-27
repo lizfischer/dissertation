@@ -1,0 +1,34 @@
+{
+    "_id": 3228,
+    "_header": "Lord that sufferedest hard torment",
+    "Subjects": "sermons, verse in; Christ, prayers to; prayers, to Christ",
+    "Versification": "\u2014 four-line \u2014 aabb",
+    "_description": "A series of eight prayers to Christ, each beginning \u2018Lorde\u2019 (except 4) scattered throughout a Latin Good Friday homily, \u2018Amore langueo\u2019: \u2018Sermo de passione Cristi in die parasceueus facienda\u2019, possibly by John Bromyard \u2014 in quatrains",
+    "_witnesses": {
+        "OxfBal149": {
+            "First Lines": "\nLorde \u00feat suffrydist harde turmentAnd on the rode were alle to\n                    rentLet me suffri wo & pyne\u00deat y may be on of\n                    \u00feine\u2026\n",
+            "Last Lines": "\n\u2026Ihesu that were to man so\n                    kyndegrant vs \u00fei blisse wy\u00fe oute ende\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 34v-38v"
+        },
+        "OxfMagd93": {
+            "First Lines": "\nlorde that suffred harde tormentand on \u00fee rode was al to\n                    rent\u2026\n",
+            "Last Lines": "\n\u2026ihesu that was to man so kyndgraunte vs thy blis with outen\n                    ende\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 154-157"
+        },
+        "CULKk424": {
+            "First Lines": "\nlord \u00feat suffredist hard torment& on \u00fee rood was al\n                    to rent\u2026\n",
+            "Last Lines": "\n\u2026Ihesu \u00feat were to man so kyndGraunt vs \u00fey blysse\n                    with owte ende\n",
+            "Note": "\nWritten as prose.",
+            "Editions": "\nWenzel,  Siegfried. \n             Preachers, Poets and the English Lyric.\n         Princeton: Princeton Univ. Press, 1986: 124 (treating each stanza as a separate\n                        work).\n",
+            "folio": "ff. 146vb-150ra"
+        },
+        "TCD277": {
+            "First Lines": "\nLord \u00feu sufferyd herd tourment& in \u00fee rode was all to\n                    rent\u2026\n",
+            "Last Lines": "\n\u2026Ihesu \u00feat was to man so kyndegrant vs euer blys with\n                    owtyn ende\n",
+            "Editions": "\nPfander,  Homer Garrison. \n             \u201cThe Popular Sermon of the Medieval Friar in England.\u201d \n         Diss. New York University, 1937: 47, 48 (st. 2 and 4 only).\n",
+            "folio": "pp. 191;  193;  196;  198"
+        }
+    }
+}

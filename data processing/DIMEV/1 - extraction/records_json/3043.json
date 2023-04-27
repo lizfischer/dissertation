@@ -1,0 +1,24 @@
+{
+    "_id": 3043,
+    "_header": "Learn to love as I love thee",
+    "Note": "See Woolf (1968)\nXWoolf, Rosemary. The English Religious Lyric in the Middle Ages. Oxford: Clarendon, 1968, 152, 156-7; and Wilson (1973)\nXWilson, Edward. A Descriptive Index of the English Lyrics in John of Grimestone\u2019s Preaching Book.\nMedium \u00c6vum Monographs n.s. 2. Oxford, 1973, 55 for a discussion of splitting this into two different poems, with the second beginning at line 7.",
+    "Title(s)": "The Christ Child Shivering with Cold",
+    "Subjects": "dialogues, Virgin and Christ",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "The Christ Child Shivering with Cold: a dialogue between Christ and the Virgin Mary \u2014 five 6-line stanzas (aabccb)",
+    "_witnesses": {
+        "BLHar7322": {
+            "Transcription": "\nLere to loue as i loue \u00feefor on al mi lemes \u00feou mait it se\n",
+            "Note": "\nFirst two lines only; second occurrence.",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             Political, Religious and Love Poems, from Lambeth MS. 306 and other\n                sources.\nEETS\n         o.s. 15 (1866); repr. 1962; rev. ed. 1903: 255.\nSisam,  Kenneth. \n             Fourteenth Century Verse and Prose.\n         Oxford: Clarendon, 1921: 167-8.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 200.\n\n",
+            "folio": "f. 154r3"
+        },
+        "NLS18721": {
+            "First Lines": "\nLer to louen as i loue \u00feeOn al my limes \u00feu \u00feith i\n                    se\u2026\n",
+            "Last Lines": "\n\u2026After \u00fei det me vnderfongeTo ben for euermo\n                    Amen\n",
+            "Note": "\nJohn Grimestone\u2019s preaching notebook.",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 91.\nSaupe,  Karen,\n                        ed.  \n             Middle English Marian\n                    Lyrics.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1998: 70-1; 198-9.\n\n",
+            "folio": "f. 122rb"
+        }
+    }
+}

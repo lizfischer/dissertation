@@ -1,0 +1,44 @@
+{
+    "_id": 4744,
+    "_header": "Saint Paul the apostle thus says he",
+    "Note": "For a different version see 2535.",
+    "Subjects": "mercy, works of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Seven Works of Mercy Bodily \u2014 ten couplets",
+    "_witnesses": {
+        "CULFf238": {
+            "First Lines": "\nSeynt poule the apostell \u00feus sey\u00fee heDoy\u00fe all youre\n                    werkys in charyteffor werke of mercy analyly\u00fe nou\u021dtBut hyt\n                    in charyte be wrought\u2026\n",
+            "Last Lines": "\n\u2026These ben the werkys seueneffulfylle ys them \u00feat wole\n                    haue heuene\n",
+            "Attributed Title": "\nHere suen \u00fee vii werkis of merci bodili (f. 32rb)",
+            "Facsimiles": "\nMcSparran,  Frances,  and  Pamela R. Robinson.  \n             \u201cIntroduction.\u201d \n             Cambridge University Library MS Ff.2.38.\n         London: Scolar Press, 1979. \n",
+            "folio": "ff. 32rb-32va"
+        },
+        "BLHar1706": {
+            "First Lines": "\nSeynt poule apostel \u00feus say\u00fe heDo\u00fe alle your werkys in charyte\u2026\n",
+            "Last Lines": "\n\u2026\u00feese ben e werkes of mercy seueneffulfylle \u00feou hem \u00feat wolle haue heuene\n",
+            "Note": "\nLatin terms for works of mercy written in rubric in outer margins beside first lines for each work.",
+            "Attributed Title": "\nSeptem opera misericordie (rubric preceding first line (f. 206v)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 1706.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_1706. \n",
+            "folio": "ff. 206v-207"
+        },
+        "BLHar2339": {
+            "First Lines": "\nSeint poul \u00fee apostle \u00feus sei\u00fe heDoi\u00fe alle\n                    \u021doure werkis in charite\u2026\n",
+            "Last Lines": "\n\u2026These ben \u00fee werkis seueneffulfille \u021de hem \u00feat\n                    wolen haue heuene\n",
+            "Attributed Title": "\n\u00deese ben \u00fee vij werkis of Ihesu bodili (rubricated, f.\n                        118v)",
+            "folio": "ff. 118v-119"
+        },
+        "Lam491": {
+            "First Lines": "\nSaynt paule \u00fee apostyl \u00feus sais hedos al youre werkes in\n                    charite\u2026\n",
+            "Last Lines": "\n\u2026\u00feise ben \u00fee werkes of mercy sevenffulfylles\n                    \u00feam al \u00feat wyl hafe hevyn\n",
+            "Attributed Title": "\nHere begynnes \u00fee vij werkys of mercy (f. 295va)",
+            "Editions": "\nB\u00fclbring,  Karl Daniel. \n             \u201c\u00fcber die Handschrift Nr. 491 der Lambeth-Bibliothek.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         86 (1891): 383-92: 389.\n",
+            "folio": "f. 295va"
+        },
+        "Ushaw28": {
+            "First Lines": "\nSent paule apostile \u00feus saithedo alle \u021doue werkes in\n                    chariteffor werkes of mercy a vailen noughtbut \u00feei in charite be\n                    wrought\u2026\n",
+            "Note": "\nImmediately follows 765.",
+            "Attributed Title": "\nSeptem virtutes contra septem peccata predicta (f. 77)",
+            "folio": "f. 77"
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "_id": 2489,
+    "_header": "In earth there is a little thing",
+    "Note": "Compare 4361, 4496, and 3209; and a sixteenth-century poem of seven 8-line stanzas in Cambridge UK, Magdalene College Pepys 2253, ed. Craigie (1919)\nXCraigie, William Alexander. The Maitland Folio Manuscript, Containing Poems by Sir Richard Maitland, Dunbar, Douglas, Henryson, and others. 2 vols. Scottish Text Society n.s. 7 (1919), 20 (1927); Edinburgh and London: Blackwood, 1919, 1927, 1.399; also in Edinburgh, National Library of Scotland, Advocates\u2019 1.1.6 [Bannatyne MS], & Dalrymple (1770)\nXDalrymple, Sir David, Lord Hailes. Ancient Scottish Poems. Edinburgh, 1770; repr. London, 1815, 193-5; Sibbald (1802)\nXSibbald, John. Chronicle of Scottish Poetry\u2026. 4 vols. Edinburgh and London, 1802, 3.207, etc.",
+    "Title(s)": "Sir Peny",
+    "Subjects": "money, use of",
+    "Versification": "\u2014 six-line \u2014 aabccb, aabaab",
+    "_description": "Sir Peny \u2014 in 6-line stanzas",
+    "_witnesses": {
+        "CamGon174": {
+            "First Lines": "\nIn erth there ys a lityll thyngThat reynes as a grete\n                    kyng\u2026\n",
+            "Last Lines": "\n\u2026Wretyn al without the bokeRyght on this wyse\n",
+            "Note": "\n93 lines in 6-line stanzas, aabccb.",
+            "Attributed Title": "\nExplicit de dynario Johanne magistro (p. 486)",
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 2.108-10.\nHazlitt,  William Carew. \n             Remains of the Early Popular Poetry of England.\n         London: J. R. Smith, 1864-6: 1.161-7.\nCoulton,  George Gordon. \n             Social Life in Britain from the Conquest to the Reformation.\n         Cambridge: at the UP, 1914: 367-70.\n\n",
+            "folio": "pp. 484-486"
+        },
+        "BlCottGalEIX": {
+            "First Lines": "\nIn erth it es a litill thingand regnes als a riche\n                    king\u2026\n",
+            "Last Lines": "\n\u2026\u00feat we may haue his blis to medeeuer with owten\n                    end\n",
+            "Note": "\n123 lines.",
+            "Attributed Title": "\nIncipit narracio de duo denario (by scribe, in space above first\n                    line, f. 50vb)",
+            "Editions": "\n\nRitson,  Joseph,\n                        ed.  \n             Pieces of Ancient Popular Poetry.\n         London: Clarke, 1791; 2nd ed. 1833: 103-8.\nWright,  Thomas,\n                        ed.  \n             The Latin Poems Commonly Attributed to Walter Mapes.\nCamden Society\n         o.s. 16 (1841): 359.\nFitzgibbon,  Henry Macaulay. \n             Early English and Scottish Poetry.\n         London, New York, and Melbourne: White, 1888: 13-14.\nRobbins,  Rossell Hope,\n                        ed.  \n             Secular Lyrics of the XIV and XV Centuries.\n         2nd ed. Oxford: Clarendon, 1955: 51-5.\n\n",
+            "folio": "ff. 50vb-51rb"
+        }
+    }
+}

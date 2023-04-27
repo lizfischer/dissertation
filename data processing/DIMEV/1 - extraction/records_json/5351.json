@@ -1,0 +1,44 @@
+{
+    "_id": 5351,
+    "_header": "The Joy of our heart is done & passed away",
+    "Note": "Cf. 384, 5216, 5349, 5352.",
+    "Subjects": "scripture texts, Engl. trans. of",
+    "Versification": "\u2014 four-line \u2014 aabb",
+    "_description": "Another translation of the Latin text of Lamentations 5:15, at the beginning of cap. XV in Dives and Pauper \u2014 one quatrain",
+    "_witnesses": {
+        "BodAsh750": {
+            "Note": "\nVariant form of Dives and Pauper, consisting of extracts; may not\n                    include this portion.",
+            "folio": ""
+        },
+        "BodDou295": {
+            "folio": ""
+        },
+        "BodEngTheole1": {
+            "folio": ""
+        },
+        "BLHar149": {
+            "folio": ""
+        },
+        "BLRoy17Cxx": {
+            "Transcription": "\n\u00fee ioy of our herte is done & passid aweyto sorwe & care\n                    is turnyd oure pley\u00fee garlond of our hed is falle to\n                    grounde\u00feat euer did we synne wel away \u00fee stounde\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 238-238v"
+        },
+        "BLRoy17Cxxi": {
+            "Transcription": "\n\u00fee io\u021de of our hert is doneand passynd awey to\n                    sorweAnd care is turnyd our pley\u00fee garlond of our hede is fallyn\n                    to grounde\u00feat euer we synnyd al wele away \u00fee\n                    stounde\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 231v"
+        },
+        "GULHun270": {
+            "Transcription": "\n\u00dee ioy of our herte is don and pasyd aweyTo sorwe and care is\n                    turnyd our play\u00dee gerlond of our hefd is fallyn to\n                    grounde\u00deat euere dede we synne welaway \u00fee stounde\n",
+            "Editions": "\nBarnum,  Priscilla Heath,\n                        ed.  \n             Dives and Pauper.\nEETS\n         2 vols. o.s. 275 (1976) and o.s. 280 (1980): 2.245.\n",
+            "folio": "f. 238"
+        },
+        "Lichfield5": {
+            "folio": ""
+        },
+        "YaleBei228": {
+            "folio": ""
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "_id": 6060,
+    "_header": "Toward the end of windy February",
+    "Note": "A prose paraphrase occurs in London, British Library Cotton Vitellius A.XVI and London, College of Arms, Arundel 19; cf. 396, 6042; Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler TM 1773; Ringler Jr. (1988)\nXRingler Jr., William A. Bibliography and Index of English Verse Printed 1476-1558. London: Mansell, 1988 TP 2056.5.",
+    "Author(s)": "John Lydgate",
+    "Subjects": "Henry VI, entry into London, 1432; envoys; historical poems; pageants, accounts of",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Lydgate, King Henry VI\u2019s Triumphal Entry into London (1432) \u2014 seventy-six stanzas rhyme royal and 8-line Envoy",
+    "_witnesses": {
+        "BLCottCleoCIV": {
+            "First Lines": "\nToward the end of wyndy ffebruarieWhan phebus whas in the ffyssh\n                    coroune\u2026\n",
+            "Last Lines": "\n\u2026Considre this that in most lowly wiseMy will were good for to\n                    do you seruise\n",
+            "Attributed Title": "\nPur le Roy (f. 38)",
+            "Editions": "\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             A Selection from the Minor Poems of Don John Lydgate.\nPercy Society\n         2. London: T. Richard, 1840: 2-22.\n",
+            "folio": "ff. 38-48"
+        },
+        "BLCottJulBII": {
+            "First Lines": "\nTowarde the ende off wyndy ffebruarieWhanne Phebus was in the ffysshe eronne\u2026\n",
+            "Last Lines": "\n\u2026Considre this that in moste lowly wyseMy wille were goode fforto do yow servyse\n",
+            "Note": "\nRubric \u201cenvoye\u201d between last line and the 8-line envoy (f. 100v). 76 stanzas rhyme royal and 8-line envoy.  Ends on 100v not 101v as listed in Brown  and  Robbins (1943)\nXCarleton Fairchild Brown,   and  Rossell Hope Robbins.  \n             The Index of Middle English Verse.\n         New York: Printed for the Index Society by Columbia University Press,\n            1943.",
+            "Attributed Title": "\nOrdenaunces ffor the kyng made in the entere off London (rubric in right margin beside first line, f. 89)",
+            "Editions": "\n\nSchleich,  Gustav. \n             \u201cEin mittelenglische Rondel.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         96 (1896): 191-4: 191-4 (roundel only).\nKingsford,  Charles Lethbridge. \n             Chronicles of London.\n         Oxford: Clarendon, 1905: 97-116.\nCohen,  Helen Louise. \n             Lyric Forms from France.\n         Folcroft, PA: Folcroft Library Editions, 1922; repr. 1971: 69 (roundel only).\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 630-48.\nMacCracken,  Henry Noble. \n             \u201cKing Henry\u2019s Triumphal Entry into London: Lydgate\u2019s Poem\n                and Carpenter\u2019s Letter.\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         126 (1911): 75-102: 75-97 (roundel only).\n\n",
+            "folio": "ff. 89-100v"
+        },
+        "BLHar565": {
+            "First Lines": "\nToward\u00fee ende of wyndy ffebruarieWhanne Phebus was in \u00fee fyssh ronne\u2026\n",
+            "Last Lines": "\n\u2026Considere \u00feis \u00feat in \u00fee moost lowly wyseMy will were goodfor to do seruyse\n",
+            "Attributed Author": "\nBe \u00fee Monk of Bery (f. 124)",
+            "Attributed Title": "\nHere endith \u00fee makyng of \u00fee comynge of \u00fee kyng out of ffraunce to London (f. 124)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 525.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_565. \n",
+            "Editions": "\nNicolas,  Nicholas Harris,  and  Edward Tyrrell, eds.  \n             A Chronicle of London, from 1079 to 1483.\n         London: Longman, 1827: 235-50.\n",
+            "folio": "ff. 114v-124"
+        },
+        "Guildhall3313": {
+            "First Lines": "\nToward the ende of wyndy ffebruaryWhan Phebus was in the ffyssh\n                    eronne\u2026\n",
+            "Last Lines": "\n\u2026Considre this that in lowly wyseMy wille were good forto do\n                    you seruyse\n",
+            "Editions": "\nThomas,  Arthur Hermann,  and  Isobel Dorothy Thornley, eds.  \n             The Great Chronicle of London\u2026Attributed to Robert\n                Fabyan.\n         London: G. W. Jones, 1938: 156-70.\n",
+            "folio": "ff. 132v-142"
+        },
+        "Longleat53": {
+            "Note": "\nStanzas 1-23 only.",
+            "Attributed Title": "\nThe ordenaunces made in the Citee of londone a yenst the comyng of the kyng\n                    from his coronacion oute of ffraunce (rubric, f. 132v)",
+            "folio": "at end of MS"
+        },
+        "RomeEC1306": {
+            "Editions": "\nRobbins,  Rossell Hope. \n             \u201cA Middle English Diatribe Against Phillip of Burgundy.\u201d \n             Neophilologus\n         39 (1955): 139-56: 132-3.\n",
+            "folio": "f. 67"
+        }
+    }
+}

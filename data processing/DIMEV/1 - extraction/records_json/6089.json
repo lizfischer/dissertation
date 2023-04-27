@@ -1,0 +1,23 @@
+{
+    "_id": 6089,
+    "_header": "Two friars and a fox make three shrews",
+    "Subjects": "friars, criticism/satire of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "One long couplet",
+    "_witnesses": {
+        "BodDou52": {
+            "Transcription": "\nThre freris and thre fox maken thre shrewysAnd euer berus the\n                    fox the boxof alle gode thewy\n",
+            "Editions": "\nF\u00f6rster,  Max. \n             \u201cDie Mittelenglische Sprichw\u00f6rtersammlung in Douce 52.\u201d \n             Festschrift zum XII Deutschen Neuphilolgentage in M\u00fcnchen\n                1906.\n            E. Stollreither, ed. \n         Erlangen (1906): 40-64: 57.\n",
+            "folio": "f. 31"
+        },
+        "BodHolkM39": {
+            "Transcription": "\nTo frerys and a fox makyn thre chrewysAnd \u00fee fox beryth in hys\n                    box alle \u00fee good thewys\n",
+            "Note": "\nFollowed by a Latin version.",
+            "folio": "f. 439v"
+        },
+        "RylandsLat394": {
+            "Editions": "\n\nPantin,  William A. \n             \u201cA Medieval Collection of Latin and English Proverbs\u2026from Rylands\n                Latin MS. 394.\u201d \n             Bulletin of the John Rylands Library\n         14 (1930): 81-114: 109.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 561.\n\n",
+            "folio": "f. 25"
+        }
+    }
+}

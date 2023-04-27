@@ -1,0 +1,37 @@
+{
+    "_id": 5424,
+    "_header": "The nobleness and great magnificence",
+    "Note": "Critical edition Fox (1981)\nXFox, Denton. The Poems of Robert Henryson. Oxford: Clarendon, 1981, 132-53.",
+    "Author(s)": "Robert Henryson",
+    "Title(s)": "Orpheus and Eurydice",
+    "Subjects": "tales; allegories",
+    "Versification": "\u2014 seven-line, ten-line, two-line \u2014 ababbcc, aabaabbcbc, aa",
+    "_description": "Robert Henryson, Orpheus and Eurydice \u2014 52 rhyme royal stanzas; five 10-line stanzas (aabaabbcbc); 218 lines in couplets",
+    "_witnesses": {
+        "Banna": {
+            "First Lines": "\nThe nobilnes and grit magnificensOf prince and lord quhai list to\n                    magnifie\u2026\n",
+            "Last Lines": "\n\u2026In perfyte luve As he is gloriusAnd thus endis \u00fee taill\n                    of orpheus\n",
+            "Note": "\nTreated as one of Henryson\u2019s Fables, interrupting the segments of\n                    Fables in this MS, and having title by a later hand added to left margin,\n                    \u2018Fable VI. Orpheus & Eurydice\u2019 (f. 317v); 633 lines\n                    in rhyme royal.",
+            "Attributed Author": "\nfinis quod maister R H (f. 325)",
+            "Attributed Title": "\nOrpheus & Eurydice (added by later hand, f. 317v)",
+            "Facsimiles": "\nFox,  Denton,  and  William A. Ringler.  \n             The Bannatyne Manuscript: National Library of Scotland Advocates\u2019\n                MS. 1.1.6\n         London: Scolar Press, in Association with The National Library of\n            Scotland, 1980. \n",
+            "Editions": "\n\nLaing,  David. \n             The Poems and Fables of Robert Henryson.\n         Edinburgh: Paterson, 1865: 47.\nSmith,  G. Gregory,\n                        ed.  \n             The Poems of Robert Henryson.\n             3 vols. \n             Scottish Text Society\n         55 (1906), 58 (1908), 64 (1914); rpt. New York, 1968: 3.26-87.\nRitchie,  W. Tod,\n                        ed.  \n             The Bannatyne Manuscript.\n             4 parts in 4 vols. \n             Scottish Text Society\n         3rd ser. 5 (1928); n.s. 22 (1928); n.s. 23 (1930); n.s. 26 (1934)\n            Edinburgh and London: Blackwood, 1928-34; ed. by Ritchie et al: 4.182-20.\nMurdoch,  James Barclay. \n             The Bannatyne Manuscript.\n             4 vols. in 11 parts, paged continuously. \n             Hunterian Club\n         16, 32, 40, 46, 50, 55-56, 64-67 Glasgow: Anderson, 1873-1896: 922.\nLaing,  David. \n             The Poems and Fables of Robert Henryson.\n         Edinburgh: Paterson, 1865: 49.\nWood,  Henry Harvey. \n             The Poems and Fables of Robert Henryson.\n         Edinburgh, London: Oliver and Boyd, 1933; 2nd ed. rev., 1958: 129-48.\nKinghorn,  Alexander Manson,\n                        ed.  \n             The Middle Scots Poets.\n         London: Arnold, and Evanston, IL: Northwestern UP, 1970: 86.\nBawcutt,  Priscilla J.,  and  Felicity Riddy, eds.  \n             Selected Poems of Henryson and Dunbar.\n         Edinburgh: 1992: 66-89.\nKindrick,  Robert L.,\n                        ed.  \n             The Poems of Robert\n                Henryson.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1997. \n\n",
+            "folio": "ff. 317v-325"
+        },
+        "Asloan": {
+            "First Lines": "\nTHe nobilnes and gret magnificenceOff Prince or Lord quha list to\n                    magnify\u2026\n",
+            "Last Lines": "\n\u2026In parfyte luf as he Is gloriusAnd \u00feus endis \u00fee\n                    tale of orpheus\n",
+            "Note": "\n578 lines; also paginated 513-532.",
+            "Attributed Title": "\nHeir followis \u00fee buke of orpheus And Erudices his quene (f. 247);\n                    Explicit \u00fee buke of orpheus (f. 256v)",
+            "Editions": "\n\nLaing,  David. \n             The Poems and Fables of Robert Henryson.\n         Edinburgh: Paterson, 1865: 47.\nSmith,  G. Gregory,\n                        ed.  \n             The Poems of Robert Henryson.\n             3 vols. \n             Scottish Text Society\n         55 (1906), 58 (1908), 64 (1914); rpt. New York, 1968: 3.26-87.\nCraigie,  William Alexander. \n             The Asloan Manuscript.\n             2 vols. \n             Scottish Text Society\n         n.s. 14, 16. Edinburgh, London: Blackwood, 1923, 192: 2.155-74.\nKinghorn,  Alexander Manson,\n                        ed.  \n             The Middle Scots Poets.\n         London: Arnold, and Evanston, IL: Northwestern UP, 1970: 86.\n\n",
+            "folio": "ff. 247-256v"
+        },
+        "ESRORH13": {
+            "First Lines": "\n\u2026Wen sche [ ]aid w[ ] allway it [ ]and we sal les see mot I\n                    hay[ ]\u2026\n",
+            "Last Lines": "\n\u2026and wan \u00fee Ioy of hewin so hiegod grany ws all\n                    \u00feairin to be\n",
+            "Note": "\nFolios now disbound and mounted as bifolia, with sides of leaves (i.e.\n                    original pages) indicated by column letters above.",
+            "Attributed Title": "\nfinis huius fabule (12ra)",
+            "folio": "ff. 10vb;  10ra;  11vb;  11ra;  12vb;  12ra"
+        }
+    }
+}

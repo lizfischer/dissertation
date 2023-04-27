@@ -1,0 +1,25 @@
+{
+    "_id": 3538,
+    "_header": "More than the death nis thing unto me lief",
+    "Author(s)": "Charles d\u2019Orl\u00e9ans",
+    "Subjects": "roundels; lover\u2019s lament",
+    "Versification": "\u2014 twenty-one line \u2014 aabbaaabaabaabbaaabba",
+    "_description": "A roundel by Charles d\u2019Orl\u00e9ans \u2014 21 lines, translated from his French poem (Champollion-Figeac (1842)\nXChampollion-Figeac, Aime. Les Poesies du duc Charles d\u2019Orleans. Paris, 1842, 34)",
+    "_witnesses": {
+        "BodHerD38": {
+            "First Lines": "\nMOre then the deth nys thing vn to me leefSyn recomfort vnto my\n                    carful gref\u2026\n",
+            "Last Lines": "\n\u2026Al thow from deth y kepe not now astertThowh that he stood\n                    ry\u021dt even here at me sleve\n",
+            "Note": "\n8 lines rhyming aabbaaab and 5 lines aabba.",
+            "Editions": "\n\nHausknecht,  Emil. \n             \u201cVier gedichte von Charles d\u2019Orleans.\u201d \n             Anglia\n         17 (1895): 445-7: 446.\nBliss,  Philip. \n             Reliquiae Hearnianae.\n         London: J. Russel Smith, 1869: 1.265-6.\n\n",
+            "folio": "p. 261"
+        },
+        "BLHar682": {
+            "First Lines": "\nMOre then the deth nys thyng vnto me leefSyn recomfort vnto my\n                    karfull greef\u2026\n",
+            "Last Lines": "\n\u2026But as a wrecche avaunt y may of smertThat wrongfully my\n                    payne is to geef\n",
+            "Note": "\nAs written, repeats first words of lines 1-3 at end to indicate going back to first four lines of the roundel.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 682.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_682. \n",
+            "Editions": "\n\nTaylor,  G. Watson. \n             Poems Written in English by Charles Duke of OrleansOrleans, during his\n                Captivity in England after the Battle of Azincourt\nRoxburghe Club\n         44. London, 1827: 146.\nHammond,  Eleanor Prescott. \n             English Verse between Chaucer and Surrey.\n         Durham, NC: Duke UP, 1927: 231.\nSteele,  Robert,\n                        ed.  \n             Charles of Orleans: The English Poems.\n             Vol. 1. \n             EETS\n         o.s. 215 (1941); vol. 2. ed. Robert Steele and Mabel Day, o.s. 220; repr. as one volume, 1970: 111-12.\nArn,   Mary-Jo,\n                        ed.  \n             Fortunes Stabilnes: Charles of Orleans\u2019s English Book of Love. A\n                Critical Edition.\n         Binghamton, NY: Medieval and Renaissance Texts and Studies,\n            1994: 258-9.\n\n",
+            "folio": "f. 68"
+        }
+    }
+}

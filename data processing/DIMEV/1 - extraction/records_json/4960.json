@@ -1,0 +1,14 @@
+{
+    "_id": 4960,
+    "_header": "Some gay squire of Devonshire",
+    "Subjects": "school lessons; schoolboy exercises; translations; nonsense verse",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Tag translating Latin, \u2018Cuidam armigere curioso de comitatu deuanie\u2026\u2019 which follows it, in a series of Latin sentences with English translations in a schoolbook",
+    "_witnesses": {
+        "OxfLinLat129": {
+            "Transcription": "\nSum gay squyer of deuynschereSchal wed my dow\u021dter \u00fee weche\n                    go to schole ap on \u00fee new \u021dere\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 92v"
+        }
+    }
+}

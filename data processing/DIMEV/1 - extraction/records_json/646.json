@@ -1,0 +1,21 @@
+{
+    "_id": 646,
+    "_header": "As Jesu among the Jews stood",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Thursday after Passion Sunday, in \u2018expanded\u2019 Northern Homily Cycle \u2014 in couplets",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 160va"
+        },
+        "BLHar4196": {
+            "First Lines": "\nAls ihesu crist omang \u00fee iews stodeAnd spake to \u00feam with mild mode\u2026\n",
+            "Last Lines": "\n\u2026When \u00feis was done \u00fee folk gan fareIn to \u00feaire howses and spak no mare\n",
+            "Note": "\nPreceded by Latin, \u201cCum audissent quidam de turba.\u201d",
+            "Attributed Title": "\nfferia v proxima secundum Iohannem (rubric, f. 64rb)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): II.152-154.\n",
+            "folio": "ff. 64rb-64vb"
+        }
+    }
+}

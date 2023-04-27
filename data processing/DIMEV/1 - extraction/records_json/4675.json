@@ -1,0 +1,97 @@
+{
+    "_id": 4675,
+    "_header": "Saint Luke the Evangelist none apostle nas",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Luke, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Luke in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "BodAsh43": {
+            "First Lines": "\nSEyn Luc \u00fee euangelist non apostel nasAc \u00fee apostles he\n                    siwede & hor diciple was\u2026\n",
+            "Last Lines": "\n\u2026Nou bidde we seynt Ion & seynt Luc & hor felawes\n                    beie\u00feat hi bringe ous toward heuene In \u00fee ri\u021dte\n                    weie\n",
+            "folio": "ff. 154-155v"
+        },
+        "Bod779": {
+            "First Lines": "\nSeint Luk \u00fee gospeller non apostle nas& \u00feou he sewed\n                    \u00fee apostlis & here desiple was\u2026\n",
+            "Last Lines": "\n\u2026Now bidde we Ihesu for lukes loue \u00feat good clerk was &\n                    wisbring vs in to \u00feat ilke ioye \u00feer \u00feat he in is\n",
+            "Attributed Title": "\nSeint luk \u00fee gospeler (f. 190)",
+            "folio": "ff. 190-190v"
+        },
+        "BodLauMis463": {
+            "First Lines": "\nSEint luk \u00fee euangelist Non apostle nasAc \u00fee apostles he\n                    suede & here disciple was\u2026\n",
+            "Last Lines": "\n\u2026Nou bidde we seint Ion & seint Luk & here felawes\n                    beye\u00feat \u00feei bring vs toward heuen in \u00fee right\n                    weye\n",
+            "Note": "\nTwo columns per page, one full-line, the other half-line",
+            "folio": "ff. 94vb-95va"
+        },
+        "OxfTri57": {
+            "folio": "f. 114"
+        },
+        "CULAdd3039": {
+            "First Lines": "\nSeyn luke \u00fee wangelyst \u00feat holy man was &\n                    godeApostill was he noght butt wyth \u00feem he \u021dodeIn antioche\n                    he was born a clerk he was full godeAnd fysician nobull inogh hys bokes\n                    wele vndurstode\u2026\n",
+            "Last Lines": "\n\u2026Pray we Iohne & Matheu als Luke & Marke also\u00deat\n                    \u00feei vs bryng to heuen blys & cheld vs alle fro wo\n",
+            "Note": "\nVariant text; formerly 2974.",
+            "folio": "ff. 16v-17v"
+        },
+        "CamCCC145": {
+            "First Lines": "\nSein luc \u00fee wangelist non apostel nasAc \u00fee appostles he\n                    siwede & \u021dare deciple was\u2026\n",
+            "Last Lines": "\n\u2026Nou bidde we sein Ion & sein luc & \u021dare felawes\n                    beie\u00deat hi bringe us toward heuene in \u00fee ri\u021dte\n                    weie\n",
+            "Editions": "\nD\u2019Evelyn,  Charlotte,  and  A. J. Mill, eds.  \n             The South English Legendary: Corpus Christi College Cambridge MS. 145\n                and British Museum MS. Harley 2277, with variants from Bodley MS. Ashmole 43 and\n                British Museum MS. Cotton Julius D.ix.\nEETS\n         o.s. 235 (1959), 236 (1956); repr. 1967: 2.439.\n",
+            "folio": "ff. 163-164"
+        },
+        "CamMagPep2344": {
+            "First Lines": "\nSeint Luk \u00fee Ewangelist non apostel nasAk \u00fee apostles he\n                    sywede and hare disciple was\u2026\n",
+            "Last Lines": "\n\u2026And whanne he is so [ ]\u021dut he may here [ ]And a\n                    smal ff[ ]\u00deer nys no [ ]Seint [ ]O [ ]\u2026\n",
+            "Note": "\nEnds imperfectly on f. 457, most of which has been torn\n                    away.",
+            "Attributed Title": "\nSanctus Lucas (RT)",
+            "folio": "pp. 455-457"
+        },
+        "CamTCC605": {
+            "First Lines": "\nSEint luc \u00fee ewangelyst non apostel nasac \u00fee appostles he\n                    suwed & here decyple was\u2026;\n",
+            "Last Lines": "\n\u2026bydde we seint luc & seint Ion & here felawes\n                    beye\u00feat hii bringe ous toward heuene in \u00fee ry\u021dt\n                    wey\n",
+            "Attributed Title": "\nluc (RT)",
+            "folio": "ff. 89-90"
+        },
+        "BLCottJulDIX": {
+            "First Lines": "\nSEin luc \u00fee euangelist non apostel nasac \u00fee apostol he sue\u00fee & hor deciple was\u2026\n",
+            "Last Lines": "\n\u2026nou bidde we sein Ion & sein luc & hor felaues beie\u00feat ho bring vs touard in \u00fee ri\u021dte weie\n",
+            "Note": "\n\u201cCapitulum lxix\u201d added to left margin by later hand (f. 152v).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Julius MS D IX.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Julius_D_IX. \n",
+            "folio": "ff. 152v-153v"
+        },
+        "BLEge2810": {
+            "First Lines": "\nSeint luc \u00fee ewangeliste non apostel nasac \u00fee apostles he siwed & hore diciple was\u2026\n",
+            "Last Lines": "\n\u2026Nou bidde we seint ion & Seint luc & hor felawes bere\u00feat hii bringe vs to ward heuene in \u00fee ri\u021dt weie\n",
+            "Note": "\nEnds \u201cAmen.\u201d",
+            "folio": "ff. 90-91v"
+        },
+        "BLEge2891": {
+            "First Lines": "\nSEIN Luk \u00fee ewangelist non apostel nasAc \u00fee apostles he siwede and \u021dare deciple was\u2026\n",
+            "Last Lines": "\n\u2026Nou bidde we sein Ion and sein Luc and hare felawes beie\u00feat hi bringe us toward heuene In \u00fee ri\u021dte weie\n",
+            "folio": "ff. 156v-157v"
+        },
+        "BLHar2277": {
+            "First Lines": "\nSEint Luc \u00fee wangelist non apostle nasAc \u00feapostles he suede & here disciple was\u2026\n",
+            "Last Lines": "\n\u2026Nou bidde we Seint Iohn & Seint Luc & his felawes beye\u00deat hi bringe ous toward heuene in to \u00fee ri\u021dte weye\n",
+            "Note": "\nEnds \u201cAmen.\u201d",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 2277.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_2277. \n",
+            "folio": "ff. 136-137"
+        },
+        "BLSto949": {
+            "First Lines": "\nSeynt luk \u00fee Euuangeliste non apostel nasAc \u00fee apostles he swede & hir discipyl was\u2026\n",
+            "Last Lines": "\n\u2026Nou bidde we seyn Ion & Seyn Luk & hor felawes beye\u00feat hii brynge vs toward heuene in \u00fee rihte weye\n",
+            "folio": "ff. 28v-29v"
+        },
+        "Lam223": {
+            "First Lines": "\nSAynt luke \u00fee euaungelist non apostle nasBut \u00fee apostles\n                    he serued & her disciple he was\u2026\n",
+            "Last Lines": "\n\u2026Now bidde we saynt Ioon & saynt luke & her felawes\n                    beye\u00deat \u00feai vs lede toward heuen in \u00fee ri\u021dt weye\n                    Amen\n",
+            "Attributed Title": "\nSaynt luke (RT)",
+            "folio": "ff. 194-195"
+        },
+        "TokyoTak54": {
+            "First Lines": "\nSeynt Luke \u00fee euaungelist non apostel nasBut \u00fee appostels\n                    he swed and her disciple was\u2026\n",
+            "Last Lines": "\n\u2026Prey we \u021derne seynt luke and his felowe beye\u00deat\n                    \u00feei vs bring toward heuene into \u00fee ri\u021dt weye. Amen.\n",
+            "Attributed Title": "\nVita sancti Luce Euaungeliste (f. 147v)",
+            "folio": "ff. 147v-148"
+        }
+    }
+}

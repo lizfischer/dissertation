@@ -1,0 +1,17 @@
+{
+    "_id": 735,
+    "_header": "Ave Maria Maiden immaculate",
+    "Subjects": "Virgin Mary, praise of; Virgin Mary, prayers to; Ave Maria",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "Macaronic": "Latin",
+    "_description": "Verses addressed to the Virgin Mary \u2014 one stanza rhyme royal",
+    "_witnesses": {
+        "YaleBei317": {
+            "First Lines": "\n\nAue maria mayden ymmaculateEram plena et\n                        humylytedominus tecum bothe erthely and late\u2026\n",
+            "Last Lines": "\n\u2026Et benedictus frustus moost worthyventris tui\n                    Ihesus on vs have mercy\n",
+            "Attributed Author": "\nquod Aqua ceruisiavum [Water Alewyne] (f. 154v)",
+            "Attributed Title": "\nThe Aue Mary (f. 154v)",
+            "folio": "f. 154v"
+        }
+    }
+}

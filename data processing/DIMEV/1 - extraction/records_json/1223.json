@@ -1,0 +1,19 @@
+{
+    "_id": 1223,
+    "_header": "Every day before you go to your bede",
+    "Author(s)": "George Ashby",
+    "Title(s)": "Dicta et opiniones diversorum philosophorum",
+    "Subjects": "aphorisms; paraphrases; precepts",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "Macaronic": "Latin",
+    "_description": "George Ashby, Dicta et opiniones diversorum philosophorum \u2014 rhyme royal stanzas, each preceded by the Latin sentence which it translates",
+    "_witnesses": {
+        "CULMm442": {
+            "First Lines": "\nEuery day before ye go to youre bedeSerche wele al your guidyng by\n                    remembrance\u2026\n",
+            "Last Lines": "\n\u2026In the world for he maketh no p[ ]mentOf his permisse but so\n                    in neglige[nce]\n",
+            "Note": "\nEnds imperfectly at line 1263.",
+            "Editions": "\nBateson,  Mary,\n                        ed.  \n             George Ashby\u2019s Poems.\nEETS\n         e.s. 76 (1899), repr. 1965: 43-100.\n",
+            "folio": "ff. 19-48v"
+        }
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "_id": 5823,
+    "_header": "Thou fierce god of arms Mars the red",
+    "Note": "Includes at lines 211-350 \u2018Anelida\u2019s Complaint\u2019, which is also found separately: see 4949.",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Anelida and Arcite",
+    "Subjects": "complaints, lovers\u2019; lover\u2019s lament; women, as speakers/narrators",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Geoffrey Chaucer, Anelida and Arcite \u2014 357 lines in 45 stanzas of various forms, mostly rhyme royal",
+    "_witnesses": {
+        "Bod638": {
+            "First Lines": "\nThe fers god of Armes Mars the redethat in the frosty contre callid\n                    trace\u2026\n",
+            "Last Lines": "\n\u2026And with her owne hond she gan hit write& sent hit to her\n                    theban knght Arcyte\n",
+            "Note": "\n\u2018Anelida\u2019s Complaint\u2019 (4949) occurs before 5823 in this MS .",
+            "Attributed Title": "\nThe boke of feyre Anelida & fals\n                    Arcyte (f. 7v), So thrillyd with the poynt . vt supra et\n                        cetera (at the end).",
+            "Facsimiles": "\nRobinson,  Pamela. \n             \u201cIntroduction.\u201d \n             Manuscript Bodley 638: A Facsimile.\n         Norman, OK: Pilgrim, and Woodbridge: Boydell and Brewer, 1982. \n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Supplementary Parallel-Text Edition of Chaucer\u2019s Minor\n                Poems.\n             2 vols. \n             Chaucer Society\n         1st ser. 22, 59. London: Tr\u00fcbner, n.d.; repr. New York and London:\n            Johnson, 1967. \n",
+            "folio": "ff. 7v-11"
+        },
+        "BodDig181": {
+            "First Lines": "\nThowe fers god of Armes Mars the redeThat in thy ffrosty Cuntre\n                    called Trace\u2026\n",
+            "Last Lines": "\n\u2026With in the Temple with a sorowfull chereThat Shapyn was as\n                    ye shall aftir here\n",
+            "Attributed Title": "\nExplicit lamentacio Annelide Regine Ermonie (at the end)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             A Supplementary Parallel-Text Edition of Chaucer\u2019s Minor\n                Poems.\n             2 vols. \n             Chaucer Society\n         1st ser. 22, 59. London: Tr\u00fcbner, n.d.; repr. New York and London:\n            Johnson, 1967. \nFurnivall,  Frederick James,\n                        ed.  \n             A One-Text Print of the Minor Poems.\n         2 pts. London: Tr\u00fcbner, 1871, 1880; repr. New York and London:\n            Johnson, 1967. \nSkeat,  Walter William,\n                        ed.  \n             The Complete Works of Geoffrey Chaucer.\n         7 vols. Oxford: Clarendon, 1894-7: 1.365-78.\n\n",
+            "folio": "ff. 39v-43v"
+        },
+        "BodFair16": {
+            "First Lines": "\nThou fers god of Armes Mars the redethat in the frosty contre\n                    called Trace\u2026\n",
+            "Last Lines": "\n\u2026and with her ovne honde she gan hit writeAnd sent to her\n                    theban knyght Arcite\u2026\n",
+            "Note": "\nEnds incomplete after 30 stanzas, with note for continuance, \u2018So\n                    thirled with the poynt & cetera\u2019 in display script at end (f\n                    .35)",
+            "Attributed Title": "\nThe compleynt of feire Anelida And fals Arcite (f. 32)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \nRobinson,  F. N.,\n                        ed.  \n             The Works of Geoffrey Chaucer.\n         Oxford: Clarendon, 1933; 2nd ed. 1957: 355-60; 1957, 303-8.\nBenson,  Larry Dean,\n                        ed.  \n             The Riverside Chaucer.\n         3rd ed. Boston: Houghton Mifflin, 1987: 376-81.\n\n",
+            "folio": "ff. 30-35"
+        },
+        "BodTan346": {
+            "First Lines": "\nThou ferse god of armes Mars the redeThat in thi firsty contre\n                    called Trace\u2026\n",
+            "Last Lines": "\n\u2026With Iune the temple with a sorofull chereThat shapyn was as\n                    ye shall aftyr here\n",
+            "Attributed Title": "\nOf Qu. Annelida & \u00fee false Arcite (f. 59v, added by\n                    post-medieval hand)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \n",
+            "folio": "ff. 59v-65"
+        },
+        "BLAdd16165": {
+            "First Lines": "\n\u00feow fers god of armes mars \u00fee red\u00feat in \u00fey\n                    frosty cuntrey called Trace\u2026\n",
+            "Last Lines": "\n\u2026How \u00feat Arcyte Anelyda so soreHope thirlled with \u00fee\n                    poynte of Remembraunce\n",
+            "Note": "\nMiscopied, end first (256-258v,\n                        241v-243v).",
+            "Attributed Author": "\n\u2026made by Geffrey Chaucyer (f. 256v)",
+            "Attributed Title": "\nBalade of Anelyda Qwene of Cartage made by Geffrey Chaucyer (f.\n                        256v); And \u00feus endi\u00fee here \u00fee compleynte of\n                    Anelyda (243v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Supplementary Parallel-Text Edition of Chaucer\u2019s Minor\n                Poems.\n             2 vols. \n             Chaucer Society\n         1st ser. 22, 59. London: Tr\u00fcbner, n.d.; repr. New York and London:\n            Johnson, 1967. \n",
+            "folio": "ff. 256-258v;  241v-243v"
+        },
+        "BLAdd17492": {
+            "First Lines": "\n\u2026for thowgh I had yow to morow agayneI myght as well hold\n                    apryl from rayneas holde yow to maken stedfast\u2026\n",
+            "Last Lines": "\n\u2026ys that a tame beest that ys aye fayneto renne away whan he\n                    ys lefte agaste\u2026\n",
+            "Note": "\nLines 308-316 only",
+            "folio": "f. 91r2"
+        },
+        "BLHar372": {
+            "First Lines": "\n[T]How ferse god of Armes Marce the reedethat in the frosty contre\n                    called Trace\u2026\n",
+            "Last Lines": "\n\u2026How that Arcyte Annelyda to soorehath thrilled with \u00fee\n                    poynt of Remembraunce\n",
+            "Note": "\nEnds \u2019Explicit\u2019 (f. 60v).",
+            "Attributed Title": "\nHere begynneth the / Compleynt of faire / Anelida & fals Arcite (f.\n                    57)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \n",
+            "folio": "ff. 57-60v"
+        },
+        "BLHar7333": {
+            "First Lines": "\n\u00deow fiers god of armes mars the redeThat in \u00fee frosty\n                    contry called Trace\u2026\n",
+            "Last Lines": "\n\u2026How \u00feat Arcyte Anelyda so soreHa\u00fee trilled with\n                    \u00fee poynte of Rememberaunce\n",
+            "Attributed Title": "\nLo my lordis and ladyes here folowyng may ye see / the maner of the lovyng\n                    bytwene Arcite of / Thebes and Anelida the faire Quene of hermony / which with\n                    his feyned chere doublenesse and / flateryng disceuied here withouten cause she\n                    / beyng than oon of \u00fee trewest gentilwomen / that bere lyf compleyneth here\n                    I beseche you (f. 134ra, rubric)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             A Parallel-Text Edition of Chaucer\u2019s Minor Poems.\n             3 vols. \n             Chaucer Society\n         1st. ser. 21, 57, 58. London: Tr\u00fcbner, n.d. repr. New York and\n            London: Johnson, 1967. \nFurnivall,  Frederick James,\n                        ed.  \n             A One-Text Print of the Minor Poems.\n         2 pts. London: Tr\u00fcbner, 1871, 1880; repr. New York and London:\n            Johnson, 1967. \n\n",
+            "folio": "ff. 134ra-135rb"
+        },
+        "Longleat258": {
+            "First Lines": "\n[O]thou fers god of Armes the RedeThat in thy frosty Countrey\n                    called trace\u2026\n",
+            "Last Lines": "\n\u2026Within the Temple with a woful chereThat shapen was as ye may\n                    plainly here\n",
+            "Attributed Title": "\nHere endith the complaint of / Annelada the quene ayeinst fals / Arcite the\n                    Theban knyght (f. 84)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             A Supplementary Parallel-Text Edition of Chaucer\u2019s Minor\n                Poems.\n             2 vols. \n             Chaucer Society\n         1st ser. 22, 59. London: Tr\u00fcbner, n.d.; repr. New York and London:\n            Johnson, 1967. \n",
+            "folio": "ff. 76-84"
+        }
+    }
+}

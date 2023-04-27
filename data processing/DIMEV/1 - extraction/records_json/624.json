@@ -1,0 +1,17 @@
+{
+    "_id": 624,
+    "_header": "As I sat upon a straw",
+    "Note": "Formerly 102.3; Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler TM 196.",
+    "Subjects": "nonsense verse; carols, humorous",
+    "Versification": "\u2014 four-line, two-line \u2014 abab, aa",
+    "_description": "A carol lacking first and sixth stanzas \u2014 six quatrains (abab) and 2-line burden (bb): \u2018Newes newes newes newes / Ye never herd so many newes\u2019",
+    "_witnesses": {
+        "BLCottVesAXXV": {
+            "First Lines": "\nA [ ] upon a straweCudlyng of my cowe\u2026\n",
+            "Last Lines": "\n\u2026Our cate lyet syke and takyte gret sorowe\u2026\n",
+            "Note": "\nMS damaged; beginning illegible and ends incomplete.",
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.239.\nB\u00f6ddeker,  Karl. \n             \u201cEnglische Lieder und Balladen aus dem 16. Jahrhundert.\u201d \n             Jahrbuch f\u00fcr romanische und englische Sprache- und\n                Literatur\n         14 (or n.f. 2) (1875): 81-105 [933]: 2.90.\nBaskerville,  Charles Read. \n             The Elizabethan Jig and related song drama.\n         Chicago: University of Chicago Press, 1929: 61 (2 st. only).\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 317-18; 1977, 290.\nOrme,  Nicholas. \n             \u201cChildren and Literature in Medieval England.\u201d \n             Medium \u00c6vum\n         68 (1999): 218-46: 221 (extract).\n\n",
+            "folio": "f. 126v"
+        }
+    }
+}

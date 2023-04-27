@@ -1,0 +1,21 @@
+{
+    "_id": 3360,
+    "_header": "Man in mirth hath measure in mind",
+    "Title(s)": "\u2018Mesure is tresure\u2019",
+    "Subjects": "precepts",
+    "Versification": "\u2014 two-line, four-line \u2014 aa, abab",
+    "_description": "Moral advice: \u2018Mesure is tresure\u2019 \u2014 twenty-six lines",
+    "_witnesses": {
+        "BLRoy8Axxi": {
+            "Note": "\nFirst two lines only.",
+            "Editions": "\n\nWarner,  Sir George Frederic,  and  Julius P. Gilson, eds.  \n             Catalogue of Western Manuscripts in the old Royal and King\u2019s\n                Collections.\n         4 vols. London: Trustees of the British Museum, 1921: 1.218.\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.361.\n\n",
+            "folio": "f. 223"
+        },
+        "YaleBei365": {
+            "First Lines": "\nMAn In merthe hath meser In myndFor meser ys treser whan merthe ys\n                    be hynd\u2026\n",
+            "Last Lines": "\n\u2026For yt may so be tydeThat thow schall have mych\n                    more\n",
+            "Editions": "\nSmith,  Lucy Toulmin,\n                        ed.  \n             A Commonplace Book of the Fifteenth Century.\n         Norwich: Kerrison, Goose, 1886: 14-15.\n",
+            "folio": "f. 1"
+        }
+    }
+}

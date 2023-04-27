@@ -1,0 +1,26 @@
+{
+    "_id": 4444,
+    "_header": "Read distinctly / Pray devoutly",
+    "Note": "Cf. 553, 560, 4810, 4840.",
+    "Title(s)": "\u2018A spesiall Glasse to loke in daily\u2019",
+    "Subjects": "precepts",
+    "Versification": "\u2014 irregular",
+    "_description": "\u2018A spesiall Glasse to loke in daily\u2019, precepts in -ly \u2014 thirty-two irregular rhyming lines",
+    "_witnesses": {
+        "BLHar2252": {
+            "First Lines": "\nRede dystynctlyePray devoutlye\u2026\n",
+            "Last Lines": "\n\u2026Lyve in aduersyteLyve in prossperyte\n",
+            "Attributed Title": "\nA specyall glasse to loke in dayle (f. 166)",
+            "Editions": "\nLouis,  Cameron,\n                        ed.  \n             The Commonplace Book of Robert Reynes of Acle: an edition of Tanner MS\n                407.\n         New York: Garland, 1980: 394.\n",
+            "folio": "f. 166"
+        },
+        "UnivLon278": {
+            "First Lines": "\nRead distnctlyPray deutlySygh\n                    depelyMeke your selffe lowely\u2026\n",
+            "Last Lines": "\n\u2026loue in ad uerssyteloue in prosperyteThus all way thynke\n                    on loue for \u00feat longythto gode & to his creatores thus to loue\n                    bryngththe loue[?] to euer lastyne lyffe in heuen worldewithowten ende\n                    AMen & cetera\n",
+            "Note": "\nA flyleaf.",
+            "Attributed Title": "\nA spesiall Glasse to loke in daily (f. iiv)",
+            "Editions": "\nPafford,  J. H. P. \n             \u201cUniversity of London Library MS. 278: Robert of Glouchester\u2019s\n                Chronicle.\u201d  In  Studies Presented to Sir Hilary\n                Jenkinson.\n            J. Conway Davies, ed. \n         London: Oxford UP, 1957: 304-19: 515-16, 313-14.\n",
+            "folio": "f. iiv"
+        }
+    }
+}

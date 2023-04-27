@@ -1,0 +1,54 @@
+{
+    "_id": 3354,
+    "_header": "Man I-born of woman ne liveth but a stound",
+    "Subjects": "scripture texts, Engl. trans. of; translations",
+    "Versification": "\u2014 four-line \u2014 aaaa",
+    "Bibliographic Ghosts": "Edinburgh, Edinburgh University Library 82: see 3349",
+    "_description": "A paraphrase of Job XIV. 1-2 (4 lines), a tag in the Fasciculus morum",
+    "_witnesses": {
+        "BodBar24": {
+            "Transcription": "\nA man ibore of a woman lyuyth butt a stowndIn wrechydnysse and moche\n                    woo hys dayys beth ifowndHe sprygyth and blossumyth \u00feat sone fallyth\n                    to growndAnd passyth as \u00fee schadow \u00feat no wyse ys\n                    ifownd\n",
+            "Editions": "\nFletcher,  Alan J. \n             \u201cI Sing of a Maiden: A Fifteenth-Century Sermon Reminiscence.\u201d \n             Notes and Queries\n         n.s. 25 [223] (1978): 108: 108.\n",
+            "folio": "f. 206"
+        },
+        "BodLauMis213": {
+            "Transcription": "\nMon I borun of woman ne lyuet\u021d bot a stoundeIn wrechednes &\n                    in woo ben hys days I woundeHe sprykes out as blosme & sone fallt\u021d\n                    to groundeAnd wendes a way as schadewe \u00feat nouwes is i\n                    founde\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 13"
+        },
+        "BodLauMis111": {
+            "Transcription": "\nMan I born of woman ne leuet\u021d bot astoundeIn wrechednesse &\n                    in wo ben is days I woundehe sprynges out as blosme & sone fallet\u021d\n                    to grounde& wendys awye as schadew \u00feat neuer is I\n                    founde\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 65v"
+        },
+        "Bod410": {
+            "Transcription": "\nMan iborn of woman ne lyues but a stoundeIn wrecchednes & In wo\n                    ben his dayesI wounde He sprynges out as a blosme & sone falles to\n                    grounde And wendes a way os shadewe \u00feat non is I founde\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 10"
+        },
+        "BodRawC670": {
+            "Transcription": "\nMon iboren of wommon ne lyueth but a stoundeIn wrechednes and in wo\n                    ben his dayes i woundeHe spryngus out as blossome and sone falles to\n                    groundeAnd wendes away as schadewe \u00feat no wey is ifounde\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 148-9.\n",
+            "folio": "f. 20v"
+        },
+        "CamGon364": {
+            "Transcription": "\nMan born of woman ne leuyth but a stowdeIn wrechidnesse & in wo\n                    ben hys dayes woundehe spryngyth out as blosme \u00feat sone fallith to\n                    groundeWendith a wey as a schadwe \u00feat nowise is founde\n",
+            "folio": "f. 13vb"
+        },
+        "CamStJohn159": {
+            "Transcription": "\nMan born of a woman lefes bot astondIn wrechytnes and in woo ben all\n                    hys days wondehes he sprynges out als blossom and son fallys to\n                    grondeAnd wendys away as schadow \u00feat neuer ys fonde\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 44v"
+        },
+        "Lincoln44": {
+            "Transcription": "\nMan y bore of womman ne lyuy\u00fe but a stondeIn wreche domus an wo\n                    bey al ys days \u00fei wondehe sprynky\u00fe out as blossue ansone tali to\n                    grondeAnt wende\u00fe awe as schadow \u00feat eu neuer ys yfonde\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 163ra"
+        },
+        "WorcF19": {
+            "Transcription": "\nMan y bore of womman Ne leuit bot a stoundeIn wreche deuyste and in\n                    wo bet his days wenthe springit out as a blossum & sone falli\u00fe to\n                    grounde& wendys a way ase a schadew \u00feat now is founde\n",
+            "Editions": "\nBrown,  Carleton Fairchild. \n             A Register of Middle English Religious & Didactic Verse.\n         2 vols. London: Oxford University Press for the Bibliographical\n            Society: 1916-20: 1.451.\n",
+            "folio": "f. 166va"
+        }
+    }
+}

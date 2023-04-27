@@ -1,0 +1,29 @@
+{
+    "_id": 2908,
+    "_header": "Jesu that born was of a may / I amendment of mankind",
+    "Title(s)": "Stanzaic Exposition of the Life of Christ and the Feasts of the Church",
+    "Subjects": "Christ, life of; religious instruction",
+    "Versification": "\u2014 four-line",
+    "_description": "Stanzaic Exposition of the Life of Christ and the Feasts of the Church \u2014 10840 lines in quatrains",
+    "_witnesses": {
+        "BLHar2250": {
+            "First Lines": "\nIhesus wos gefen hym by resonTo nome er mad wos ston er\n                    tre\u2026\n",
+            "Last Lines": "\n\u2026ffrom heuen to hom hit li\u021dt AdovnAs we in holy chirche\n                    con syng\n",
+            "Note": "\nLines 1-623 wanting.",
+            "folio": "ff. 1-147v"
+        },
+        "BLHar3909": {
+            "First Lines": "\n\u2026ffor on a friday bi trewe storyAdam both wro\u021dt a wayuet wesse\u2026\n",
+            "Last Lines": "\n\u2026the holy gost as \u021de schun seMay seond be rekenes hu here\n",
+            "Note": "\nLines 1-66 wanting: ends imperfectly; photo. facsimile in Oxford,  Bodleian Library Facs. e.23 [of Harley 3909].",
+            "Editions": "\nFoster,  Frances Allen,\n                        ed.  \n             A Stanzaic Life of Christ, from Harley MS. 3909.\nEETS\n         o.s. 166 (1926). \n",
+            "folio": "ff. 1-157v"
+        },
+        "BLAdd38666": {
+            "First Lines": "\nJhesu \u00feat born was of a mayIn amendement of\n                    mankynde\u2026\n",
+            "Last Lines": "\n\u2026Of oure lyfe be clene & clereAnd with hym in \u00feat\n                    blisse be\n",
+            "Note": "\nEnds imperfectly.",
+            "folio": "ff. 5-173v"
+        }
+    }
+}

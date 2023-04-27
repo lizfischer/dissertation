@@ -1,0 +1,25 @@
+{
+    "_id": 1705,
+    "_header": "Hail fairest that ever God found",
+    "Note": "For a similar version by John Audelay see 2909.",
+    "Title(s)": "\u2018A salutacion of oure Lady\u2019",
+    "Subjects": "Virgin Mary, salutation to",
+    "Versification": "\u2014 twelve-line \u2014 ababababcdcd",
+    "_description": "\u2018A salutacion of oure Lady\u2019 \u2014 seven l2-line stanzas (ababababcdccd)",
+    "_witnesses": {
+        "CULFf238": {
+            "First Lines": "\nHeyle fareest \u00feat euyr god fondeHeyle modyr & mayden\n                    free\u2026\n",
+            "Last Lines": "\n\u2026That we in heuene maie haue a seteAnd dwelle with the blessyd\n                    floure Amen\n",
+            "Attributed Title": "\nHere\u2026begynne\u00fe a salutacion of our lady (f. 31va);\n                    Here endy\u00fe \u00fee salutacion of oure lady (colophon, f.\n                    32ra)",
+            "Facsimiles": "\nMcSparran,  Frances,  and  Pamela R. Robinson.  \n             \u201cIntroduction.\u201d \n             Cambridge University Library MS Ff.2.38.\n         London: Scolar Press, 1979. \n",
+            "Editions": "\nPerson,  Henry Axel. \n             Cambridge Middle English Lyrics.\n         Seattle: University of Washington Press, 1953; rev. ed. 1962: 11-13.\n",
+            "folio": "ff. 31va-32ra"
+        },
+        "CamMagPep1584": {
+            "First Lines": "\nHeile fairist \u00feat euer was foundeHeile modir and maydon\n                    fre\u2026\n",
+            "Last Lines": "\n\u2026That we in heuyn may haue a seteAnd Duell with \u00fee\n                    blissid floure Amen\n",
+            "Attributed Title": "\nHere begynnyth \u00fee salutacioun of owre lady (rubric heading, bottom, f.\n                        102r); salutacion of our lady (RT)",
+            "folio": "ff. 102v-104"
+        }
+    }
+}

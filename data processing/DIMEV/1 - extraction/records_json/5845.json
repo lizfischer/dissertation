@@ -1,0 +1,250 @@
+{
+    "_id": 5845,
+    "_header": "Thou shalt love God with heart entire",
+    "Note": "For an introductory couplet in some MSS see 2511; for two MSS which use a completely different version see 5843. For still another version occurring separately with a unique stanza prefixed, etc., see 1768.",
+    "Subjects": "Ten Commandments",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "The Ten Commandments \u2014 ten quatrains; usually occurring in the Speculum Christiani (Secunda Tabula), sometimes occurring separately",
+    "_witnesses": {
+        "Bod61": {
+            "First Lines": "\nThou schalt loue god wyth hert entereWyth all thy lowle and all thy\n                    myth\u2026\n",
+            "Last Lines": "\n\u2026But kepe ay wele goddys byddyngon kyrstyn feyth leue\n                    stedfastly\n",
+            "folio": "ff. 4-8"
+        },
+        "Bod89": {
+            "Note": "\nLacks st. 8 and 9.",
+            "Editions": "\nBrown,  Carleton Fairchild. \n             \u201cThe Towneley Play of the Doctors and the Speculum Christiani.\u201d \n             Modern Language Notes\n         31 (1916): 223-6: 224-5.\n",
+            "folio": "f. 3"
+        },
+        "Bod423": {
+            "First Lines": "\nThow shalt loue god with hert enterWith all \u00fei saule and all\n                    \u00fei might\u2026\n",
+            "Last Lines": "\n\u2026But kepe ay wele goddys byddyng and crysten faithe leue\n                    stedefastly\n",
+            "Note": "\nIntermixed with Latin prose.",
+            "folio": "ff. 351v-353"
+        },
+        "BodDou107": {
+            "First Lines": "\n\u00feou schalt lofe god with hert entereWith al \u00fei sowle\n                    & al \u00fei my\u021dte\u2026\n",
+            "Last Lines": "\n\u2026but kepe wel ay goddis bidding & kristin fayth leue\n                    stedfastly\n",
+            "Note": "\nInserted in Latin prose.",
+            "folio": "ff. 51-53"
+        },
+        "BodEngTheole16": {
+            "Note": "\nLacking st. 7 and 8.",
+            "folio": "f. 6v"
+        },
+        "BodGreaves54": {
+            "First Lines": "\nThy holydayes kepe well alsoffro worly workys thu take thy\n                    reste\u2026\n",
+            "Last Lines": "\n\u2026But kepe euer well god ys byddyngOn cryst ys feythe lyue\n                    stedfastly\n",
+            "Note": "\nLacks first two stanzas; each quatrain followed by an English prose\n                    expansion.",
+            "folio": "ff. 1v-8v"
+        },
+        "BodHat97": {
+            "folio": "f. 2"
+        },
+        "BodLauMis104": {
+            "First Lines": "\n\u00feu schalt loue god with hert enterewith alle thy soule and all\n                    \u00fei my\u021dt\u2026\n",
+            "Last Lines": "\n\u2026But kepe wyll ay goddis byddyngAnd crysten feythe leue\n                    stedfastly\n",
+            "folio": "ff. 3rb-4vb"
+        },
+        "BodLauMis513": {
+            "folio": "f. 64"
+        },
+        "BodRawC401": {
+            "folio": "f. 2v"
+        },
+        "OxfCCC155": {
+            "First Lines": "\n\u00deu sall luf god with hert entereWith all thy saull & all\n                    thy myght\u2026\n",
+            "Last Lines": "\n\u2026Bot kepe ay wele goddis biddyng& cristen faith leue\n                    stedfastly\n",
+            "folio": "ff. 149v-154v"
+        },
+        "CULAdd6150": {
+            "folio": "f. 5"
+        },
+        "CULDd451": {
+            "Note": "\nScraps only.",
+            "folio": "ff. 7;  8-8v;  9"
+        },
+        "CULFf114": {
+            "First Lines": "\nThou schall loue god with hert entereWyth all \u00fei soule and all\n                    \u00fei myght\u2026\n",
+            "Last Lines": "\n\u2026Bote kepe ay well godes byddyngAnd cristen fayth leue\n                    stedfastly\n",
+            "Attributed Title": "\nExplicit spculum cristiani (f. 69)",
+            "folio": "ff. 25v-29v"
+        },
+        "CULHh113": {
+            "First Lines": "\nThou shalt loue god with hert entierWith alle thi soule and alle\n                    \u00fei my\u021dt\u2026\n",
+            "Last Lines": "\n\u2026But kepe wele ay goddes biddyngeAnd cristen feith leeue\n                    stedfastly\n",
+            "Note": "\nFollows 2511 without\n                    break.",
+            "folio": "ff. 6v-13"
+        },
+        "CULIi126": {
+            "First Lines": "\n\u00feu shalt love god with hert with all \u00fei soule & al\n                    \u00fei mighto\u00feer god in no maner\u00feu shalt not haue be day\n                    nor nyght\u2026\n",
+            "Last Lines": "\n\u2026Bot kepe ay wele godde\u021d biddyngand cristen faithe leve\n                    stedfastly\n",
+            "Note": "\nOccurring separately from Speculum Christiani; instead in a prose\n                    tract De decem mandatis, interspersed with Latin prose text; first stanza\n                    treated as a long-line couplet; others as quatrains rhyming abcb.",
+            "folio": "ff. 88v-91"
+        },
+        "CamCCC423": {
+            "First Lines": "\nThow shalt love god with hart entereWith all thi sowle with all thy\n                    my\u021dthe\u2026\n",
+            "Last Lines": "\n\u2026Butte kepe ay welle goddes byddyngOn cristeyn fai\u021dth be\n                    stedefastelye\n",
+            "Note": "\nOccurring separately from Speculum Christiani.",
+            "Attributed Title": "\nSequitur de decem mandatis & de septem peccatis Capitalibus siue\n                    mortalibus (p. 81)",
+            "folio": "pp. 81-82"
+        },
+        "CamJes51": {
+            "First Lines": "\n\u00deow shalt luf god with hert entereWith all thy saull & all\n                    thy myght\u2026\n",
+            "Last Lines": "\n\u2026Bot kepe ay wele goddes biddyngAnd cristen fayth trow\n                    stedfastly\n",
+            "Note": "\nPreceded by 2511.",
+            "Editions": "\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.49-50.\n",
+            "folio": "ff. 4-7v"
+        },
+        "CamPem285": {
+            "First Lines": "\n\u00deu schalt loue god with hert entyreWith all \u00fei soule and\n                    all \u00fei myghte\u2026\n",
+            "Last Lines": "\n\u2026But kepe wel euere godes byddyngeAnd cristen feyth leue\n                    stedefastly\n",
+            "Note": "\nPreceded by 2511;\n                    interspersed with Latin prose commentary.",
+            "folio": "ff. 4-8"
+        },
+        "CamTCC376": {
+            "First Lines": "\nThou schalt loue god entierlyWith all \u00fei soule and thy\n                    my\u021dttOure god in no maner sekurly\u00feu schalt nat haue by day\n                    ne by ny\u021dtt\u2026\n",
+            "Last Lines": "\n\u2026And in her nede \u00feu schalt hem socourAnd kepe to hem\n                    godis holi obedy[ ]\n",
+            "Note": "\nStanzas 1-4 only.",
+            "Attributed Title": "\nDe decem mandatis (f. 103rb)",
+            "folio": "ff. 103va-103Ava"
+        },
+        "CamStJohn176": {
+            "First Lines": "\nthow schalt loue god with hert entereWy\u00fee all \u00fei soule\n                    and all \u00fei myght\u2026\n",
+            "Last Lines": "\n\u2026But kepe ay well goddes biddyngeAnd crysten fayth trowe\n                    stedfastly\n",
+            "Note": "\nTen quatrains separated by Latin prose; preceded by 1491, separated by\n                    Latin.",
+            "folio": "ff. 5-10v"
+        },
+        "BLAdd10052": {
+            "First Lines": "\nThou shalt love god with herte entereWith alle thi soule and all\n                    thy myght\u2026\n",
+            "Last Lines": "\n\u2026But kepe well ar godys byddyngAnd cristen fayth leve\n                    stedefastly\n",
+            "folio": "ff. 22r2-27"
+        },
+        "BLAdd15237": {
+            "First Lines": "\nThou shalt loue god with herte entereWith all thi soule and all thi\n                    myght\u2026\n",
+            "Last Lines": "\n\u2026But kepe ay wele goddis biddyngAnd cristen faith leue\n                    stedefastely\n",
+            "Note": "\nRubricated.",
+            "folio": "ff. 11-14"
+        },
+        "BLAdd21202": {
+            "First Lines": "\nThou shalt love god wyth hert entereWyth alle tby soule and alle\n                    thy myght\u2026\n",
+            "Last Lines": "\n\u2026But kepe welle ay godis byddyngAnd cristen fayth leve\n                    stedefastly\n",
+            "folio": "f. 6v"
+        },
+        "BLAdd22121": {
+            "First Lines": "\nThou schalt loue gode with hert entereWyth all thy sowle and all\n                    thy myght\u2026\n",
+            "Last Lines": "\n\u2026But kepe wel ay goddis byddyngAnd cristen feyth love\n                    stedfastely\n",
+            "Note": "\nRubricated.",
+            "folio": "ff. 6r2-12v"
+        },
+        "BLAdd37049": {
+            "Note": "\nOccurring separately from Speculum Christiani.",
+            "Editions": "\nDoty,  Brant Lee,\n                        ed.  \n             \u201cAn Edition of British Museum MS Additional 37049: a Religious\n                Miscellany.\u201d \n         Diss. Michigan State, 1969: 127-9.\n",
+            "folio": "f. 20v"
+        },
+        "BLHar206": {
+            "First Lines": "\nThoue schat loue gode with hert entereWith all \u00fei\n                        saull and \u00fei myght\u2026\n",
+            "Last Lines": "\n\u2026Bot kye ally well godes byddyngAnd\n                    cristen faith leue stedfastly\n",
+            "Note": "\nPassim, with one stanza on each leaf, recto and verso; \u2018u\u2019\n                    of \u2018saull\u2019 in line 2 added above the line (f. 21v);\n                    \u2018ay\u2019 of penultimate line originally written \u2018all\u2019 and\n                    corrected by scribe by subpunction and adding \u2018y\u2019 above the line (f.\n                    25).",
+            "folio": "ff. 20v2-25"
+        },
+        "BLHar1197": {
+            "First Lines": "\nThou shalte loue god with hert entierWith all thi soule and all thi might\u2026\n",
+            "Last Lines": "\n\u2026But kepe well ay goddis biddingAnd caste faithe loue stedfastly\n",
+            "Note": "\nWritten in rubric verse lines with Latin prose between.",
+            "folio": "ff. 82-87"
+        },
+        "BLHar2250": {
+            "First Lines": "\nThow shall luf god with herte entereWith all \u00fei saule &\n                    all \u00fei my\u021dt\u2026\n",
+            "Last Lines": "\n\u2026Bot kepe wele ay goddis byddyngAnd cristenfayth leue\n                    stydfastly\n",
+            "folio": "ff. 51-52"
+        },
+        "BLHar2379": {
+            "First Lines": "\n\u00feu xalt loue god with hert entireWith al \u00fei sowle & al \u00fei myth\u2026\n",
+            "Last Lines": "\n\u2026But kepe ay weel goddes byddyng& cristen feyth love stedfastly\n",
+            "Note": "\nWritten interspersed with Latin text, two lines of verse per line of manuscript.",
+            "folio": "ff. 65v-68v"
+        },
+        "BLHar6580": {
+            "First Lines": "\nThou schalte loue god with herte entiereWyth al thi saule and al\n                    thy myght\u2026\n",
+            "Last Lines": "\n\u2026bot kepe ay wele godes byddyngeAnd cristen feyth lufe\n                    stedfastly\n",
+            "Editions": "\nHolmstedt,  Gustaf,\n                        ed.  \n             Speculum Christiani.\nEETS\n         o.s. 182 (1933); repr. 1988: 16-37.\n",
+            "folio": "ff. 6v-11v"
+        },
+        "BLHar7578": {
+            "First Lines": "\nThow schalte lufe godde wyth herte entereWhych all \u00fey sawle\n                    and all \u00fey myght\u2026\n",
+            "Last Lines": "\n\u2026But kepe wele ay goddes bydyngsAnd crysten feyth leue\n                    stedfastely\n",
+            "Note": "\nOccurring separately from Speculum Christiani.",
+            "folio": "f. 1"
+        },
+        "BLLan344": {
+            "First Lines": "\n\u00deou schalt lou god with herte enterewith al \u00fei sowle\n                    & al \u00fei my\u021dte\u2026\n",
+            "Last Lines": "\n\u2026but kepe wel ay goddis bidding& cristen feyth loue\n                    stedefastli\n",
+            "Note": "\nWritten as prose and rubricated. Folios have been re-numbered to include\n                    the flyleaves, and foliation here refers to the new numbers.",
+            "Editions": "\nHolmstedt,  Gustaf,\n                        ed.  \n             Speculum Christiani.\nEETS\n         o.s. 182 (1933); repr. 1988: 16-37.\n",
+            "folio": "ff. 7v-13"
+        },
+        "BLRoy8Ev": {
+            "folio": "f. 5v"
+        },
+        "BLSl1253": {
+            "First Lines": "\n\u00deou shalt love God with hert entereWith all \u00fey soule\n                    & all \u00fey mi\u021dte\u2026\n",
+            "Last Lines": "\n\u2026But kepe \u00feou well Goddis byddyngAnd cristen feyth love\n                    stedfastly\n",
+            "Note": "\nVerses on the Ten Commandments (Decem precepta) intercalcated\n                    with English quatrains on ff. 32v-44.",
+            "Editions": "\nDiekstra,  F. N. M.,\n                        ed.  \n             \u201cRobert de Sorbon, the Speculum Christiani and the Visio\n                    Sancto Pauli: Notes on British Library MS Sloane 1253.\u201d \n             English Studies\n         73 (1992): 385-405: 396-7.\n",
+            "folio": "ff. 32v-44"
+        },
+        "UnivLon657": {
+            "First Lines": "\n\u00deu xalt loue god with hert entereWtih all \u00fei sowle &\n                    all \u00fei my\u021dth\u2026\n",
+            "Last Lines": "\n\u2026but kepe euer wil goddys byddyngand cristen feyt leue\n                        stedfastly\n",
+            "Note": "\nInterspersed, quatrain by quatrain, in the Latin text.",
+            "folio": "pp. 922-95"
+        },
+        "HerefordP77": {
+            "First Lines": "\n\u00feou schalt loue god with herte entereWith alle \u00fei soule\n                    & all \u00fei my\u021dte\u2026\n",
+            "Last Lines": "\n\u2026Bur kepe wele ay goddys byddyngAnd cristen faythe leue stede\n                    fastly\n",
+            "folio": "ff. 184va-187rb"
+        },
+        "RylandsLat201": {
+            "First Lines": "\nThow schalt loue god with herte entereWyth al \u00fey sowle &\n                    \u00fey my\u021dtOther god in no manereThow schalt non haue by day nor\n                    ny\u021dt\u2026\n",
+            "Last Lines": "\n\u2026but kepe wel ay godys byddyngAnd crystyn fayth beleue\n                    stedefastly\n",
+            "Attributed Title": "\nDecem Mandata (f. 227)",
+            "Editions": "\nFawtier,  E. C.,  and  R. Fawtier.  \n             \u201cFrom Merlin to Shakespeare: Adventures of an English Prophecy.\u201d \n             Bulletin of the John Rylands Library\n         5 (1918-20): 388-92: 389.\n",
+            "folio": "ff. 227-230"
+        },
+        "Stonyh30": {
+            "folio": "f. 122v"
+        },
+        "Ushaw28": {
+            "First Lines": "\n\u00feu shalt loue god with hert interewith all \u00fei soule &\n                    al \u00fei myght\u2026\n",
+            "Last Lines": "\n\u2026but euer uele goddes biddyng& on cristen fei\u00fee leue\n                    stedfastly\n",
+            "folio": "ff. 35v;  37;  38v-39;  40;  41;  43;  44-44v;  45v;  46v;  48"
+        },
+        "YaleBeiOsfa2": {
+            "First Lines": "\nThow schalt loue god with hert entereWyth all \u00fei sowle &\n                    all \u00fei myght\u2026\n",
+            "Last Lines": "\n\u2026But kepe ay wele godes byddyngeAnd cristen fayth leue\n                    stedefastely\n",
+            "folio": "ff. 66-68v"
+        },
+        "HunHM124": {
+            "First Lines": "\nThou schalt love god wyth hert enteereWyth alle thi soule and all\n                    thy myght\u2026\n",
+            "Last Lines": "\n\u2026But kepe welle ay godes byddyngAnd cristen fayth leve\n                    stedefastly\n",
+            "folio": "ff. 6v-13"
+        },
+        "Urbana71": {
+            "Note": "\nOccurring separately from Speculum Christiani.",
+            "folio": ""
+        },
+        "TCD159": {
+            "Note": "\n3 st. omitted.",
+            "folio": "f. 152"
+        },
+        "TCD351": {
+            "folio": "f. 7"
+        },
+        "TokyoTak96": {
+            "First Lines": "\n\u00deow schalt loue god with hert enterewith al \u00fei soule and\n                    al \u00fei my\u021dtOther god on no manere\u00feow schalt not haue be\n                    day nor ny\u021dt\u2026\n",
+            "Last Lines": "\n\u2026But kepe ay wel goddess byddyngAnd cristen fayth leue\n                    stedfastly\n",
+            "folio": "ff. 3v-7"
+        }
+    }
+}

@@ -1,0 +1,385 @@
+{
+    "_id": 2476,
+    "_header": "In Armorica that called is Brittany",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Franklin\u2019s Tale; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; marriage; illusion; Breton lays",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the Franklin\u2019s Tale of the Canterbury Tales \u2014 896 lines in couplets.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nTher was a knyght that loued & did his peynein Armorike that\n                    cleped is Bretaigne\u2026\n",
+            "Last Lines": "\n\u2026now telleth me er that I ferther wendeI can no more my tale\n                    is at an ende\n",
+            "Note": "\nV.1455-6, 1493-8 omitted; 729-30, 987-8, 1265-6, 1353-4\n                    reversed.",
+            "Attributed Title": "\n\u2026And next folwyng bigynneth his tale (f. 249v); the\n                    ffrankeleyne (RT); Here endith the ffrankeleyne his tale\u2026 (f.\n                    262)",
+            "folio": "ff. 249v-262"
+        },
+        "BodBar20": {
+            "First Lines": "\nIn armoryk \u00feat callid is bretayne\u00feer was a knyght\n                    \u00feat callid is bretayne\u2026\n",
+            "Last Lines": "\n\u2026No telle\u00fe me er \u00feat I fer\u00feer wendeI con no\n                    more my tale is atte an end\n",
+            "Note": "\nV.828, 1422-7, 1455-6, 1493-8, 1525-7 omitted.",
+            "Attributed Title": "\nffrankeleyn (RT); here endith \u00fee frankeleyns tale\u2026 (f.\n                        161v)",
+            "folio": "ff. 149v-161v"
+        },
+        "Bod414": {
+            "First Lines": "\n[T]her was a knyght that loued and did his peineIn Armorik that\n                    clepid is Briteyne\u2026\n",
+            "Last Lines": "\n\u2026Now tellith me ere that I further wendeI can no more my tale\n                    is at an ende\n",
+            "Note": "\nV.1147-8, 1191-6, 1423-58, 1493-8, 1529 omitted; 729-30, 917-18, 987-8,\n                    1345-6, 1353-4 reversed; spurious lines follow 13-4, 1530.",
+            "Attributed Title": "\nHere begynneth the ffrankleyns tale (f. 103)",
+            "folio": "ff. 103-112v"
+        },
+        "Bod686": {
+            "First Lines": "\n\u2026And forto lede \u00fee more in blisse hir lyvesOf his fre\n                    wille he swore hir as a knyght\u2026\n",
+            "Last Lines": "\n\u2026Now telleth me er \u00feat ye ferther wendeI kan namore my\n                    tale is at an ende\n",
+            "Note": "\nV.709-28 (Prologue), 726-43 lost; 1013, 1455-6. 1493-8, omitted; 1286-9\n                    inserted at foot.",
+            "Attributed Title": "\nffrankeleyn (RT); Here endeth the ffrankeleyns tale\u2026 (f.\n                        148v)",
+            "folio": "ff. 138-148v"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nIn Armorik \u00feat called is BretaineThere was a knight \u00feat\n                    loued & did his paine\u2026\n",
+            "Last Lines": "\n\u2026Now telleth me er ye ferther wendeI can no more my tale is at\n                    an ende\n",
+            "Attributed Title": "\nNarrat (f. 99, margin); The ffrankelens tale (RT); Here endeth\n                    \u00fee ffrankeleyns tale of \u00fee Rokkes of Bretaigne\u2026 (f.\n                        109v)",
+            "folio": "ff. 99-109v"
+        },
+        "BodLauMis600": {
+            "First Lines": "\nTHer was a knight \u00feat loued and did his peyneIn armorik\n                    \u00feat clepud is bretayne\u2026\n",
+            "Last Lines": "\n\u2026Now telle\u00fe me er \u00feat I fer\u00feer wendeI can no\n                    more my tale is at an ende\n",
+            "Note": "\nV.1147-8, 1422-7, 1433-4, 1436, 1455-6, 1493-8, 1529 omitted; 729-30,\n                    917-18, 987-8, 1265-6, 1345-6, 1353-4 reversed; spurious lines follow 1432,\n                    1530.",
+            "Attributed Title": "\n\u2026Here begynne\u00fe \u00fee frankeleyns tale (f. 171v);\n                    \u00fee frankeleyn (RT); Here ende\u00fe \u00fee frankeleyns tale\u2026 (f.\n                        184v)",
+            "folio": "ff. 172-184v"
+        },
+        "BodLauMis739": {
+            "First Lines": "\n[T]Here was a knyght \u00feat louyd and dyd his peyneIn armorike\n                    that clepyd is brytayn\u2026\n",
+            "Last Lines": "\n\u2026Now tellez me er \u00feat I ferther wendeI can\n                    nomore my tale is at an ende\n",
+            "Note": "\nV.1147-8, 1422-7, 1433-4, 1436, 1455-6, 1493-8, 1529 omitted; 729-30,\n                    917-18, 1345-6, 1353-4, reversed; spurious lines follow 1432, 1530.",
+            "folio": "ff. 177-190"
+        },
+        "BodRawPoe223": {
+            "First Lines": "\nIn armorik that called was britayneTher was a kni\u021dt that loued\n                    and did his payne\u2026\n",
+            "Last Lines": "\n\u2026Now telleth me or that ye further wendeI can no more my tale\n                    is at an ende\n",
+            "Note": "\nAlthough referred to as the \u2018Merchant\u2019s Tale\u2019 in the\n                        incipit and explicit, the text is that of the\n                        Franklin\u2019s Tale. V.1455-6, 1493-8 omitted; 731-2, 893-4\n                    reversed; 999-1000 follow 1006; 1541-4 follow 1550.",
+            "Attributed Title": "\n\u2026And here beginneth his tale folwing (f. 219); Arueragus Dorigen\n                    Aurelius (RT); Here endeth the tale of the Marchaunt\u2026 (f. 232)",
+            "folio": "ff. 219-232"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nIn Armoryk that called is BretayneTher was a knyght \u00feat loued\n                    & dede his payne\u2026\n",
+            "Last Lines": "\n\u2026Now telleth me er that ye ferther wendeI kan no more my tale\n                    is at an ende\n",
+            "Note": "\nV.1455-6, 1493-8 omitted; 1120 blank with caret versus in\n                    margin.",
+            "Attributed Title": "\nHere bygynnyth the ffrankeleyns tale (f. 179)",
+            "folio": "ff. 179-190"
+        },
+        "OxfCCC198": {
+            "First Lines": "\nTher was a knight \u00feat loued and did his peyneIn amoryke\n                    \u00feat cleped is Briteyne\u2026\n",
+            "Last Lines": "\n\u2026Tuo \u021dere or \u00fere to respiten me\u00feenne were I wel\n                    for elles moste I selle\u2026\n",
+            "Note": "\nV.1584-624 lost; 1147-8, 1191-6, 1423-4, 1433-4, 1436, 1455-6, 1493-8,\n                    1529, 1556, 1567-8 omitted; 729-30, 917-18, 987-8, 165-6, 1345-6, 1353-4\n                    reversed; spurious lines follow 1432, 1530.",
+            "Attributed Title": "\nffreynkeleyn (RT, rubric)",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "ff. 159-170v"
+        },
+        "OxfNew314": {
+            "First Lines": "\nIN Armoric \u00feat callid is Britayne\u00deer was a kny\u021dt\n                    \u00feat lovid & dede his payne\u2026\n",
+            "Last Lines": "\n\u2026Now tellith me er ye furthir wendeI can no more my tale is at\n                    an ende\n",
+            "Note": "\nV.764, 828, 975, 982, 1030, 1257-61, 1455-6, 1463-6, 1493-8 omitted;\n                    829-30 reversed; 999-1000 follow 1006.",
+            "Attributed Title": "\n\u2026And here begynneth his tale (f. 149); ffrankeleyn (f. 149, margin);\n                    ffrankeleyn (RT); Here endith \u00fee ffrankeleyns tale\u2026 (f.\n                        161v)",
+            "folio": "ff. 149-161v"
+        },
+        "OxfTri49": {
+            "First Lines": "\nther was a knyght that louyd and did his peineIn Armorike that\n                    callid is britaine\u2026\n",
+            "Last Lines": "\n\u2026nowe tellith me or that I forthir wendeI canne no more my\n                    tale is atte an ende\n",
+            "Note": "\nV.1035-8, 1047, 1235-7, 1266, 1335-6, 1365, 1400, 1420, 1425-56, 1493-8,\n                    1524, 1259, 1546, 1568 omitted; 729-30, 987-8, 1195-6, 1353-4\n                    reversed.",
+            "Attributed Title": "\nffrankeleyn (RT); Explicit fabula\u2026 (f. 165)",
+            "folio": "ff. 153v-165"
+        },
+        "CULDd424": {
+            "First Lines": "\n\u2026She seide sire sithe of \u021doure gentillesse\u021de profre\n                    me to haue so large a reyne\u2026\n",
+            "Last Lines": "\n\u2026Now telleth me or that \u021de ferthere wendeI can namore my\n                    tale is at an ende Amen\n",
+            "Note": "\nV.709-53, 1472-564 lost; 1455-6 omitted.",
+            "Attributed Title": "\nHere endeth the ffrenkeleyns tale\u2026 (f. 138v)",
+            "folio": "ff. 129-138v"
+        },
+        "CULGg427": {
+            "First Lines": "\nIN Armoryk that callyd is BritayneThere was a kny\u021dt that\n                    louede & dede his payne\u2026\n",
+            "Last Lines": "\n\u2026The valew of fyue hunderede pound I gesseAnd hym be sechith\n                    of hise gentilesse\u2026\n",
+            "Note": "\nV.1575-624 lost; 1132, 1455-6, 1473-4, 1493-8 omitted; spurious line\n                    follows 1109.",
+            "folio": "ff. 287-297v"
+        },
+        "CULIi326": {
+            "First Lines": "\nIn Amoryk that called is BretaynThere was a knyght that loued and\n                    did his payn\u2026\n",
+            "Last Lines": "\n\u2026Nowe telleth me or ye firther wendeI can no more my tale is\n                    at an ende\n",
+            "Note": "\nV.975, 1455-6, 1493-8 omitted; 817-18, 829-30, reversed; spurious line\n                    follows 976; 999-1000 follow 1006; 1517-37 partially lost\n                    (illegible).",
+            "Attributed Title": "\n\u2026And here begynneth his tale (f. 98v); ffrankleyn (RT);\n                    Here Endith the ffrankeleyns tale\u2026 (f. 109)",
+            "folio": "ff. 98v-109"
+        },
+        "CULMm25": {
+            "First Lines": "\nTher was a kny\u021dt \u00feat loued and did his peyneIn Armorike\n                    that cleped it Britayne\u2026\n",
+            "Last Lines": "\n\u2026Nowe tellith me er \u00feat I fer\u00feer wendeI can no more\n                    my tale is at an ende\n",
+            "Note": "\nV.994, 1004, 1147-8, 1191-6, 1286-9, 1390, 1423-4, 1433-4, 1436, 1455-6,\n                    1493-8, 1529 omitted; 729-30, 917-18, 987-8, 1265-6, 1345-6, 1353-4 reversed;\n                    spurious lines follow 1432, 1530.",
+            "Attributed Title": "\n\u00fee fraunkekleyns tale (RT); \u00fee fraunkeleyn (RT); Here endith\n                    \u00fee ffrankeleyns tale\u2026 (f. 163v)",
+            "folio": "ff. 154-163v"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\nIN amoryk that kalled ys BretaynWhere was a knyght loued and dyd\n                    his peyn\u2026\n",
+            "Last Lines": "\n\u2026Now telleth or \u00feat y further wendeI kan no more my tale\n                    ys at an ende\n",
+            "Note": "\nV.857-92, 911-12, 991-2, 1015-18, 1109-10, 113-15, 1209-16, 1243-56,\n                    1297-90, 1387-94, 1409-13, 1493-8, 1549-50, 1553-6, 1581-2, 1593-4 omitted;\n                    809-14 follow 816; spurious lines follow 1116, 1408. About half the recto and\n                    all of the verso left blank following the Tale.",
+            "Attributed Title": "\nHere endeth \u00fee ffrancleyns tale (f. 129)",
+            "folio": "ff. 118v-129"
+        },
+        "CamTCC582": {
+            "First Lines": "\nIn armork that callid is BritaineThere was a kni\u021dt \u00feat\n                    loued and did his peine\u2026\n",
+            "Last Lines": "\n\u2026Now tellith me or that ye forther wendeI can nomore my tale\n                    is at an ende\n",
+            "Note": "\nV.1063-4. 1455-6, 1462, 1493-8 omitted; spurious lines follow\n                    922.",
+            "Attributed Title": "\nHiere beginneth a tale of the ffrankeleyn (f. 108ra); Hiere is\n                    finisshed the tale of the ffrankeleyn\u2026 (f. 113rb)",
+            "folio": "ff. 108ra-113rb"
+        },
+        "CamTCC595": {
+            "First Lines": "\nIN Armoryke that called is BritaigneThere was a knyght that loued\n                    & did his peyne\u2026\n",
+            "Last Lines": "\n\u2026Nowe telleth me or ye ferther wendeI can no more my tale is\n                    at an ende\n",
+            "Note": "\nV.764, 772, 975, 1257-62, 1322, 1424, 1439-42, 1455-6, 1493-8 omitted;\n                    818-19, 994-5 reversed; spurious line follows 976; 999-1000 follow 1006. A blank\n                    space of approximately fifteen lines interevenes between the end of\n                        Franklin\u2019s Tale and the explicit, which occurs at the\n                    foot of f. 201v.",
+            "Attributed Title": "\nHere endeth the ffrankeleyns tale of the knyght / Averagus and dame\n                    Dorygene his wyff / and the noble Philosophre of Orlyaunce\u2026 (f.\n                        201v)",
+            "folio": "ff. 186-201v"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nIn armoryk that called is brytayneTher was a knyht that loved &\n                    did his payne\u2026\n",
+            "Last Lines": "\n\u2026Now telleth me er ye ferther wendeI can no mor my tale is at\n                    an ende\n",
+            "Note": "\nV.1455-6, 1493-8 omitted.",
+            "Attributed Title": "\nffrankelyn (RT); Explicit fabula de le ffrankeleyn\u2026 (f.\n                    201)",
+            "folio": "ff. 184v-201"
+        },
+        "BLAdd35286": {
+            "First Lines": "\nIn armorik that called is brytaynTher was a knyght that loued and\n                    did his payn\u2026\n",
+            "Last Lines": "\n\u2026Now telleth me er that ye ferther wendeI kan namore my tale\n                    is at an ende\n",
+            "Note": "\nV.1465-6 reversed.",
+            "Attributed Title": "\nthe frankeleyn (RT)",
+            "Editions": "\nHorobin,  Simon. \n             \u201cA Transcription and Study of British Library MS Additional 35286 of\n                Chaucer\u2019s Canterbury Tales.\u201d \n         Diss. Univ. of Sheffield, 1997. \n",
+            "folio": "ff. 132v-144v"
+        },
+        "BLEge2726": {
+            "First Lines": "\nIn Amoryk \u00feat called is BretaynThere was a knyght \u00feat\n                    loued and did his peyn\u2026\n",
+            "Last Lines": "\n\u2026Now telleth me or \u00feat ye ferther wendI can no more my\n                    tale is at an end\n",
+            "Note": "\nV.1063-4, 1455-6, 1493-8 omitted; spurious lines follow\n                    922.",
+            "Attributed Title": "\nSic desinit fabula de ffrankelayn\u2026 (f. 159)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 148-159"
+        },
+        "BLEge2863": {
+            "First Lines": "\n\u2026Who couthe telle but he hadde wedded beThe ioye the ese\n                    & the prosperite\u2026\n",
+            "Last Lines": "\n\u2026Now telleth me er \u00feat I further wendeI can na more my\n                    tale is at an ende\n",
+            "Note": "\nV.709-802, 879-954, 1185-1266 lost; 1147-8, 1185-1266, 1423-4, 1436,\n                    1455-6, 1493-8, 1529 omitted; 987-8, 1345-6, 1353-4 reversed; spurious lines\n                    follow 1432, 1530.",
+            "Attributed Title": "\nThe ffrankeleyn (RT); Here endith \u00fee ffrankeleyns tale\u2026 (f.\n                        123v)",
+            "folio": "ff. 115-123v"
+        },
+        "BLEge2864": {
+            "First Lines": "\nIn Armoryk that called is brytayneTher was a knyht that loved and\n                    did his payne\u2026\n",
+            "Last Lines": "\n\u2026Nou telleth me er ye ferthere wendeI can no more my tale is\n                    at an ende\n",
+            "Note": "\nV.1455-6, 1493-8, 1525-7 omitted; spurious line follows\n                    1617.",
+            "Attributed Title": "\nHe begynneth \u00fee tale of the Rokkis of Brytayne (f. 155); The\n                    ffrankeleyn (RT); Explicit (f. 167)",
+            "folio": "ff. 155-167"
+        },
+        "BLHar1239": {
+            "First Lines": "\nLystenythe of a knygh of tyme ful oldeOff werrys he was wyse and\n                    eke ful boldeA lady to his wyffe for love he chesseThat evere tyll hys\n                    entent wolde hym plesseHe sayd in fayth for no erthly creatureWolde he\n                    ne change wyle lyue may in dureAnd she to hym wysely gan swere\u00feat\n                    neuer shuld he deffaute in hyre\u2026\n",
+            "Last Lines": "\n\u2026Now tel me or \u00feat \u00fee forth wendeI can no more my\n                    tale is at an ende\n",
+            "Note": "\nV.870-80, 939-50, 1123-241, 1453-562 lost; 882-4, 951-5 partially lost\n                    (tear);709-88, 1284, 1296, 1405 omitted; six spurious lines precede 789 (the\n                    first line of text). On 106v is a colophon: \u2018Vestre\n                        magnifice & generosissime dominacionis humilimus seruiens / & ser\n                        Orate heremita de Grenewych mundo quasi totaliter / segregatus ac mentibus\n                        suorum fortune amicorum & hominum per / oblitus\u2019.",
+            "folio": "ff. 101-106v"
+        },
+        "BLHar1758": {
+            "First Lines": "\nTHere was a knyght that loueyd and did his payneIn armorike that\n                    clepid is Britayne\u2026\n",
+            "Last Lines": "\n\u2026Now tellith me er that I ferthir wendeI can no more my tale\n                    is at an ende\n",
+            "Note": "\nV.1147-8, 1423-4, 1433-4, 1436, 1455-6, 1493-8, 1529 omitted; 729-30,\n                    917-18, 987-8, 1147-8, 1265-6, 1345-6, 1353-4 reversed; spurious line follows\n                    1530. Large blank space between the explicit for the Franklin\u2019s\n                        Tale and the incipit for the Second Nun\u2019s\n                    Prologue.",
+            "Attributed Title": "\nThe ffrankeleyn (RT); Here endith the ffrenkeleyns tale (f. 137)",
+            "folio": "ff. 127v-137"
+        },
+        "BLHar7333": {
+            "First Lines": "\nIN Amoryk \u00feat callid is britayne\u00feer was a kny\u021dt and\n                    loved and ded his peyn\u2026\n",
+            "Last Lines": "\n\u2026Now tellithe me er ye fur\u00feer wendeI can no more my tale\n                    is at an ende\n",
+            "Note": "\nV.764, 814, 828, 975, 978, 982, 1257-62, 1286-9, 1371, 1422-7, 1455-6,\n                    1463-6, 1493-8 omitted; 999-1000 follow 1006; 829-30 reversed.",
+            "Attributed Title": "\nAnd here begynnithe \u00fee ffranklens tale (f. 82vb); Here\n                    Endithe the ffrankleyn his tale\u2026 (f. 86va)",
+            "folio": "ff. 82vb-86va"
+        },
+        "BLHar7334": {
+            "First Lines": "\n\u2026lasse \u00fean a \u00feousand pound he wolde noght haueNe\n                    gladly for \u00feat somme he wolde not goon\u2026\n",
+            "Last Lines": "\n\u2026Now telle\u00fe me or \u00feat I fer\u00feer wendeI can no\n                    more my tale is at an ende\n",
+            "Note": "\nV.709-1223 lost; 1455-6, 1493-8 omitted.",
+            "Attributed Title": "\nffrankeleynes Tale (RT); Here endeth \u00fee ffrankeleynes tale\u2026 (f.\n                    162)",
+            "folio": "ff. 157-162"
+        },
+        "BLHar7335": {
+            "First Lines": "\n[I]N Armoryk that called was BreteigneTher was a knyght that louede\n                    and dede his peyne\u2026\n",
+            "Last Lines": "\n\u2026Now tellith me or that ye ferthere wendeI can no more my tale\n                    is at an endeYee late that passe quod oure host as nowSire doctour of\n                    phisik y pray youTelle vs a tale at my prayereHit shal be doon if that\n                    ye wil hit hereSaid this doctour and his tale bygan anoonNow good men\n                    quod he herkenyth euerichon\n",
+            "Note": "\nV.1455-6, 1493-8, 1593-4 omitted; 999-1000 follow 1006; six spurious\n                    lines follow 1624 (functioning as a \u2018Franklin-Physician\n                    Link\u2019).",
+            "folio": "ff. 140v-153v"
+        },
+        "BLLan851": {
+            "First Lines": "\nTher was a knyt \u00feat loued & did his peyneInArmorik\n                    \u00feat cleped is bretaigne\u2026\n",
+            "Last Lines": "\n\u2026Nowe telle\u00fe me or \u00feat I for\u00fee wendeI can no\n                    more my tale is att an ende\n",
+            "Note": "\nV.774, 1147-8, 1191-6, 1324, 1423-4, 1433-4, 1436, 1455-6, 1493-8, 1512,\n                    1529, 1556, 1567-8, 1595-1602 omitted; 729-30, 917-18, 987-88, 1265-6, 1353-4\n                    reversed; spurious lines follow 1432, 1530, 1558.",
+            "Attributed Title": "\n\u2026Incipit fabula (f. 141v);\u00fee ffrankeleyne\n                    (RT); Explicit Liber\u2026 (f. 152)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 141v-151v"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nTher was a knyght that loved and dide his peyneIn Amorik that\n                    clepid is Bretaigne\u2026\n",
+            "Last Lines": "\n\u2026No tellith me or that I further wendeI can no more my tale is\n                    at an ende\n",
+            "Note": "\nV.1147-8, 1455-6, 1493-8, 1529 omitted; 729-30. 987-8, 1195-6, 1265-6,\n                    1353-4, 1563-4 reversed; spurious lines follow 922, 1530.",
+            "Attributed Title": "\nExplicit / Here endith the tale of the ffranklyn\u2026 (f.\n                        190v)",
+            "folio": "ff. 177-190v"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\n[I]N armoryk \u00feat called is BretayneTher was a knyght \u00feat\n                    loued and dede his payne\u2026\n",
+            "Last Lines": "\n\u2026Now telle\u00fe me er \u00feat I fer\u00feer wendeI can no\n                    more my tale is at an ende\n",
+            "Note": "\n1147-8, 1191-6, 1423-4, 1455-6, 1493-8, 1529 omitted; 1265-6, 1345-6,\n                    1353-4 reversed; spurious lines follow 1432, 1530.",
+            "Attributed Title": "\nThe ffrankleyn (RT)",
+            "folio": "ff. 146-156v"
+        },
+        "BLSl1685": {
+            "First Lines": "\nHere was a kny\u021dt \u00feat loued and did his peyneIn Armoryke\n                    \u00feat clepid ys bretaigne\u2026\n",
+            "Last Lines": "\n\u2026Now telle\u00fee me or \u00feat I ferthere wendeI can no more\n                    my tale ys at an ende\n",
+            "Note": "\nV.800-4, 1147-8, 1191-6, 1223, 1423-4, 1433-4, 1436, 1455-6, 1493-8,\n                    1514, 1529 omitted; 729-30, 917-18, 987-8, 1265-6, 1345-6, 1353-4 reversed;\n                    spurious lines follow 1432, 1530.",
+            "Attributed Title": "\nThe ffrenkeleyn (RT); Here endithe \u00fee ffrankeleyns tale\u2026 (f.\n                        157v)",
+            "folio": "ff. 145v-157v"
+        },
+        "BLSl1686": {
+            "First Lines": "\nTHere was a knight \u00feat lovid & did his peyneIn Armorik\n                    that clepid is breteyne\u2026\n",
+            "Last Lines": "\n\u2026Nowe telle me or than I forthe wendeI can no more my tale is\n                    at an ende\n",
+            "Note": "\nV.880, 1118, 1147-8, 1191-6, 1286-9, 1423-4, 1433-4, 1436-52, 1455-6,\n                    1493-8, 1524, 1556, 1567-8, 1595-602, 1618 omitted; 729-30, 917-18, 987-8,\n                    1265-6, 1345-6, 1353-4, 1603-4 reversed; 1092 inserted at foot; spurious lines\n                    follow 1432, 1530, 1558.",
+            "Attributed Title": "\n\u2026And here begynneth his tale folowyng (f. 193v); [A] Tale\n                    of the ffrankelyn (RT); [D]ORigen (RT); Here endith the ffrankeleyns tale\u2026\n                    (f. 207v)",
+            "folio": "ff. 193v-207v"
+        },
+        "NLWPen392": {
+            "First Lines": "\nIN Armorik that called is BritayneTher was a knyght \u00feat louede\n                    & dide his payne\u2026\n",
+            "Last Lines": "\n\u2026Now telleth me er that ye ferther wendeI kan namoore my tale\n                    is at an ende\n",
+            "Note": "\nV.1455-6, 1493-8 omitted.",
+            "Attributed Title": "\nNarrat (f. 154); The ffrankeleyn (RT); Here endeth the ffrankeleyns\n                    tale (f. 165, leaving half a blank page)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "ff. 154-165"
+        },
+        "Alnwick455": {
+            "First Lines": "\nIn Amorik that callid is breteynTher was a kny\u021dt a\n                    kny\u021dt \u00feat lovid & did his peyn\u2026\n",
+            "Last Lines": "\n\u2026Now tellith or that wee ferther wendeI can no more my tale is\n                    att a ende\n",
+            "Note": "\nV.796, 861-92, 911-12, 1015-18, 1024, 1030, 1109-15, 1209-16, 1243-56,\n                    1277-90, 1409-12, 1423-56, 1565-6, 1569-70, 1577-8, 1583-4, 1591-602, 1620, 1622\n                    omitted; 1048-86, 1075-6 partially lost (tear); spurious lines follow\n                    806.",
+            "Attributed Title": "\nHere endith the / ffrankelen his tale (f. 140, margin)",
+            "folio": "ff. 130v-140"
+        },
+        "GULHun197": {
+            "First Lines": "\nIn Armorike \u00feat called was bretayneThere was a knyght \u00feat\n                    lyved and dide his payne\u2026\n",
+            "Last Lines": "\n\u2026Now telleth me er \u00feat ye ferther wendeI can no more my\n                    tale is at an ende\n",
+            "Note": "\nV.740, 1422-7, 1455-6, 1469-70, 1493-8 omitted; 731-2, 893-4 reversed;\n                    999-1000 follow 1006; 1541-4 follow 1550.",
+            "Attributed Title": "\nHere begynneth the tale of the fraunkleyn (f. 81rb); the\n                    ffrankeleyn (RT)",
+            "folio": "ff. 81vs-86ra"
+        },
+        "Holkham667": {
+            "First Lines": "\nIN armonyk that cleped ys bretayneThere dwelte a knight that loued\n                    & did his peine\u2026\n",
+            "Last Lines": "\n\u2026Nowe telleth me er ye ferther wendeI can nomore my tale ys at\n                    an ende\n",
+            "Note": "\nV.1257-62, 1455-6, 1493-8 omitted; 764 blank; 999-1000 follow 1006;\n                    829-30 reversed.",
+            "folio": "ff. 32ra-37vb"
+        },
+        "Lichfield29": {
+            "First Lines": "\nTher was a knyght that loued and did his payneIn Armorke that\n                    cleped is Britayne\u2026\n",
+            "Last Lines": "\n\u2026Now telleth me er \u00feat we fertherther wendeI\n                    ca no more my tale is at an ende\n",
+            "Note": "\nV.1147-8, 1191-6, 1204, 1423-4, 1433-4, 1436, 1455-6 omitted; 729-30,\n                    917-18, 987-8,1265-6, 1345-6, 1353-4 reversed; spurious lines follow 1432,\n                    1530.",
+            "Attributed Title": "\nThe ffrenkeleyn (RT); Thus endeth the ffrankeleyns tale\u2026 (f.\n                    165)",
+            "folio": "ff. 153v-165"
+        },
+        "Lincoln110": {
+            "First Lines": "\nIN armorik \u00feat callyd is breteyne\u00feer was a kny\u021dt\n                    \u00feat louede and dede his peyne\u2026\n",
+            "Last Lines": "\n\u2026Now tellyth me or \u00feat I forth wendeI can no more my tale\n                    is at an ende\n",
+            "Note": "\nV.1058-61, 1287-8, 1423-4, 1455-6, 1493-8 omitted; 885-6, 987-8, 1195-6,\n                    1341-2, 1353-4 reversed; spurious lines follow 921, 922, 1057; 1436 left blank\n                    and supplied later.",
+            "Attributed Title": "\nffrankleyn (RT); Here endith the ffrankleyns tale\u2026 (f.\n                        149v)",
+            "folio": "ff. 138-149v"
+        },
+        "LonPhys388": {
+            "First Lines": "\nIN Armorik that called is BretaigneTher was a knyght that loved and\n                    did his peyne\u2026\n",
+            "Last Lines": "\n\u2026Now tellith me er that ye further wendeI can no more my tale\n                    is at an ende\n",
+            "Note": "\nV.1006, 1009, 1180, 1182, 1278, 1455-6, 1493-8, 1525-7 omitted; 975-6,\n                    1083-4, 1165-6 reversed; spurious line follows 1052.",
+            "Attributed Title": "\nExplicit ffabula (f. 201)",
+            "folio": "ff. 186v-201"
+        },
+        "RylandsEng113": {
+            "First Lines": "\nIn Armorik \u00feat called is Bretaigne\u00feer was a knyght\n                    \u00feat loued & dede his peyne\u2026\n",
+            "Last Lines": "\n\u2026Now tellith me or \u00feat ye forther wendeI can no more my\n                    tale is atte an ende\n",
+            "Note": "\nV.1286, 1289, 1455-6, 1493-8 omitted..",
+            "Attributed Title": "\nHere endith \u00fee ffrankleynes tale\u2026 (f. 112) ffrankleyn\n                    (RT)",
+            "folio": "ff. 104v-112"
+        },
+        "Petworth7": {
+            "First Lines": "\nTher was a knyght \u00feat loued & did his peyneIn armorike\n                    \u00feat cleped is breteyne\u2026\n",
+            "Last Lines": "\n\u2026Nowe telle\u00fe me er \u00feat I for\u00feer wendeI can no\n                    more my tale is at an ende\n",
+            "Note": "\nV.1147-8, 1191-6, 1423-4, 1433-4, 1436, 1455-6, 1493-8, 1529 omitted;\n                    729-30, 917-18, 987-8, 1265-6, 1345-6, 1353-4 reversed; spurious lines follow\n                    1432, 1530.",
+            "Attributed Title": "\nThe ffrankleyn Tale (RT); Thus ende\u00fe \u00fee ffrankleyn his tale (f.\n                        190v)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 178v-190v"
+        },
+        "Austin143": {
+            "First Lines": "\nIn Armorik that called is BritaigneThere was a knyght that loved\n                    and did his peine\u2026\n",
+            "Last Lines": "\n\u2026Nowe telle me er ye ferther wendeI can\n                    no more my tale is at an ende\n",
+            "Note": "\nV.836-40, 982, 1283, 1286, 1289, 1353, 1455-6, 1493-8, 1548\n                    omitted.",
+            "Attributed Title": "\nffrankeleyne (RT); here endeth the ffrankeleyns tale (f. 140v,\n                    foot)",
+            "folio": "ff. 130v-140v"
+        },
+        "Plimpton253": {
+            "First Lines": "\nTher was a kny\u021dt that loued and dede his peyneIn armorike that\n                    called was brytaynne \u2026[f. 1v, 730-29]\n\u2026Than sawe he kny\u021dtes Iosten in aplaynAnd after this he\n                    dede hym suche plesaunce\u2026[f. 2, 1198-9]\n",
+            "Last Lines": "\n\u2026Saue that the name of souereygnteThat wolde he haue for shame\n                    of his degre\u2026[f. 1v, 751-2]\n\u2026To make his iapes and his wrechednesOf whiche a sibstocems\n                    cursidnes\u2026[f. 2v, 1271-2]\n",
+            "Note": "\nFragments on two leaves. V.729-30 reversed; 753-1197 lost.",
+            "Facsimiles": "\n\nDigital Scriptorium: Facsimile of Plimpton MS 253.\n         Columbia University, 1996-. \n",
+            "folio": "f. 1v-2v"
+        },
+        "PierpontM249": {
+            "First Lines": "\nTher was a knyght that loued and dide his payneIn Armorike that\n                    cliped is Britayne\u2026\n",
+            "Last Lines": "\n\u2026Now telleth me er that we ferther wendeI can no more my tale\n                    is at an ende\n",
+            "Note": "\nV.729-30 reversed.",
+            "Attributed Title": "\nThe ffrankeleyn (RT); Thus endeth the ffrankeleyns tale\u2026 (f.\n                    164)",
+            "folio": "ff. 152v-164"
+        },
+        "PhilRos10841": {
+            "First Lines": "\nIn armonyke that called ys breteyneTher was a kny\u021dte \u00feat\n                    loued at mannes in mayne\u2026\n",
+            "Last Lines": "\n\u2026Hath not lucres y sleyn hirself allasAt rome ther sche\n                    oppresed was\u2026\n",
+            "Note": "\nV.1407-624; 893-4, 1001-6, 1264, 1276-8, 1283-4, 1289-90 omitted;\n                    1345-6, 1353-4 reversed; spurious lines follow 778, 1161, 1275. Catchphrase\n                    \u2018Of tarquyne\u2019 at foot of f. 184v.",
+            "Attributed Title": "\nThe ffrankleynis (RT, rubric; also present in informal scribal\n                    direction)",
+            "folio": "ff. 176v-184v"
+        },
+        "PUL100": {
+            "First Lines": "\nIn Armorik \u00feat called is breteyn\u00feere was aknyght that\n                    lovid & did his peyn\u2026\n",
+            "Last Lines": "\n\u2026Nowe tellith me or yee ferthere wendeI can no more my tale is\n                    atta ende\n",
+            "Note": "\nV.764, 828, 975, 1177-8, 1213-14, 1257-62, 1455-6, 1463-6, 1490, 1493-8\n                    omitted; 829-30 reversed; 999-1000 follow 1006; spurious line follows\n                    1487.",
+            "Attributed Title": "\n\u2026Here begynnyth the ffranklen his tale (f. 122v);\n                    ffranklen (RT)",
+            "folio": "ff. 122v-134v"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nIN Armorik that called is BritayneTher was a knyght \u00feat loued\n                    & dide his payne\u2026\n",
+            "Last Lines": "\n\u2026Now telleth me er that ye ferther wendeI kan namoore my tale\n                    is at an ende\n",
+            "Attributed Title": "\nHeere bigynneth the ffrenkeleynis tale (f. 123v); ffrankeleyn\n                    (RT); Heere is ended the ffrankeleyns tale\u2026 (f. 133)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 123v-133"
+        },
+        "BNangl39": {
+            "First Lines": "\nIn almaryk that callid is bretaynther was a knyght \u00feat lyuyd\n                    & did his payn\u2026\n",
+            "Last Lines": "\n\u2026now tellith me or that yee ferther wendeI can nomore my tale\n                    is at an ende\n",
+            "Note": "\nV.1280, 1405-6, 1455-6, 1493-8, 1525-8 omitted; 999-1000 follow 1006;\n                    spurious lines follow 776, 784, 952, 1408.",
+            "Attributed Title": "\nExplicit fabula ffrancolani\u2026 (f. 62va)",
+            "folio": "ff. 57va-62va"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nIn Amorik that callid is BretainThere was a kni\u021dt that loued\n                    & did his peine\u2026\n",
+            "Last Lines": "\n\u2026Now telleth me or that ye forther wendeI can nomore my tale\n                    is at an ende\n",
+            "Note": "\nV.971, 1063-4, 1455-6, 1493-8 omitted; spurious lines follow\n                    922.",
+            "Attributed Title": "\nffrankeleins tale (RT); Hic desinit fabula de la ffrankeleyn\u2026\n                    (f. 150)",
+            "folio": "ff. 139v-150"
+        },
+        "TokyoTak32": {
+            "First Lines": "\nTheere was a knyght that lovede & dede his peyneIn armorke that\n                    klepid is Britayne\u2026\n",
+            "Last Lines": "\n\u2026Now tellyht mee er that I ferther wendeI can no more my tale\n                    is atte an Ende\n",
+            "Note": "\nV.1147-8, 1180, 1191-6, 1523-4, 1436, 1455-6, 1493-8, 1529 omitted;\n                    729-30, 917-18, 987-8 reversed; spurious lines follow 1432, 1530.",
+            "Attributed Title": "\nHere endhyt thee ffrankeleynis tale (f. 81va); the frankeleynis\n                    tale (RT)",
+            "folio": "f. 81vb-86rb"
+        },
+        "Bodmer48": {
+            "First Lines": "\nTher was a knight \u00feat loued & did his peinIn Armoric\n                    \u00feat clepid is Briteyn\u2026\n",
+            "Last Lines": "\n\u2026now telli\u00fe me or \u00feat I fur\u00feer wendI can no\n                    more my tale is at an ende\n",
+            "Note": "\nV.1147-8, 1191-6, 1399-1456, 1493-8 omitted; 729-30. 917-18, 987-8,\n                    1265-6, 1345-6, 1353-4 reversed.",
+            "Attributed Title": "\nThe ffrankleyns Tale (f. 118, rubric)",
+            "Facsimiles": "\n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n",
+            "folio": "ff. 118-129v"
+        }
+    }
+}

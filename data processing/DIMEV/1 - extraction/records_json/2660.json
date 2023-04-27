@@ -1,0 +1,30 @@
+{
+    "_id": 2660,
+    "_header": "In vice most vicious he excels",
+    "Author(s)": "William Dunbar",
+    "Title(s)": "\u2018Aganis treason: Epitaphe for Donald Owre\u2019",
+    "Subjects": "epitaphs; Owre, Donald",
+    "Versification": "\u2014 six-line \u2014 aabbba",
+    "_description": "William Dunbar, \u2018Aganis treason: Epitaphe for Donald Owre\u2019 \u2014 eight 6-line stanzas",
+    "_witnesses": {
+        "CULLl510": {
+            "First Lines": "\nIN vyce most vitious he excellisThat with \u00fee vyce of treasoun\n                    mellis\u2026\n",
+            "Last Lines": "\n\u2026ay rinnis \u00fee foxquill he foott hais\n",
+            "Note": "\n8 x 6, aabbba.",
+            "Attributed Author": "\nQuod dumbar (f. 11v)",
+            "folio": "ff. 11-11v"
+        },
+        "CamMagPep2553": {
+            "First Lines": "\nIn wyce most vicius he excellisThat with \u00fee wyce off tresoune\n                    mellis\u2026\n",
+            "Last Lines": "\n\u2026Ay rynnes the foxquhille he fut hais\n",
+            "Attributed Author": "\nQuod dumbar (p. 12)",
+            "Editions": "\nCraigie,  William Alexander. \n             The Maitland Folio Manuscript, Containing Poems by Sir Richard\n                Maitland, Dunbar, Douglas, Henryson, and others.\n             2 vols. \n             Scottish Text Society\n         n.s. 7 (1919), 20 (1927); Edinburgh and London: Blackwood, 1919,\n            1927: 1.11-12.\n",
+            "folio": "pp. 11-12"
+        },
+        "Banna": {
+            "Facsimiles": "\nFox,  Denton,  and  William A. Ringler.  \n             The Bannatyne Manuscript: National Library of Scotland Advocates\u2019\n                MS. 1.1.6\n         London: Scolar Press, in Association with The National Library of\n            Scotland, 1980. \n",
+            "Editions": "\n\nRamsay,  Allan,\n                        ed.  \n             The Ever Green.\n         2 vols. Edinburgh, 1724; repr. Ramsay and Early Scottish Poets, London,\n            n.d.: 2.209.\nLaing,  David. \n             The Poems of William Dunbar.\n         2 vols. Edinburgh: Laing and Forbes, 1834; Supplement, 1865: 1.135-6.\nPaterson,  James. \n             The Works of William Dunbar.\n         Edinburgh: Stillie, 1863: 150-1.\nMurdoch,  James Barclay. \n             The Bannatyne Manuscript.\n             4 vols. in 11 parts, paged continuously. \n             Hunterian Club\n         16, 32, 40, 46, 50, 55-56, 64-67 Glasgow: Anderson, 1873-1896: 4.1094-5.\nSmall,  John, Ae. James George Mackay,  George Powell McNeill,   and  Walter Gregor, eds.  \n             The Poems of William Dunbar.\n             5 pts. \n             Scottish Text Society\n         2, 4, 16, 21, 29. Edinburgh, 1884-93: 2.190-1.\nSchipper,  Jakob. \n             The Poems of William Dunbar.\n         Vienna: Kaiserliche Akademie der Wissenschaften, 1894: 208-9.\nSchipper,  Jakob,\n                        ed.  \n             The Poems of William Dunbar.\n             4 vols. \n             Denkschriften der kaiserlichen Akademie der Wissenschaften,\n                Philosophische-Historische Klasse\n         40/2; 40/4; 41/4; 42/4. Vienna, 1892-93: 3.9-11.\nBaildon,  Henry Bellyse. \n             The Poems of William Dunbar.\n         Cambridge: University Press, 1907: 98-100.\nRitchie,  W. Tod,\n                        ed.  \n             The Bannatyne Manuscript.\n             4 parts in 4 vols. \n             Scottish Text Society\n         3rd ser. 5 (1928); n.s. 22 (1928); n.s. 23 (1930); n.s. 26 (1934)\n            Edinburgh and London: Blackwood, 1928-34; ed. by Ritchie et al: 1.87.\nMacKenzie,  William Mackay. \n             The Poems of William Dunbar.\n         Edinburgh, 1932: 65-6.\n\n",
+            "folio": "pp. 53-54"
+        }
+    }
+}

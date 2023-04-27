@@ -1,0 +1,378 @@
+{
+    "_id": 142,
+    "_header": "A poor widow somedeal stoop in age",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Nun\u2019s Priest\u2019s Tale; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; beast fables; dreams",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the Nun\u2019s Priest\u2019s Tale of the Canterbury Tales \u2014 626 lines in couplets.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nA poure widowe somdel stopen in agewas whilom dwellynge in a narowe\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026as seith oure lorde so make vs alle good menand bringe vs to\n                    his highe blis Amen\n",
+            "Attributed Title": "\n\u2026and next folwyng bigynneth his tale (f. 206); The nonnys preste\n                    (rubric, RT); Here endith the nonnes prest his tale\u2026 (f. 215)",
+            "folio": "ff. 206v-215"
+        },
+        "BodBar20": {
+            "First Lines": "\nA pore widow somdel stope in ageWas whilom dwellyng in a narow\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026As seit my lord so make vs alle gode menAnd bryng vs alle to\n                    his highe blysse amen\n",
+            "Note": "\nVII.2922, 2924, 2944, 2973, 3043-8, omitted; 2860-1, 3391-2\n                    reversed.",
+            "Attributed Title": "\n\u2026& here bygynnyth \u00fee tale (f. 246); Here endith \u00fee\n                    Nonne preostes tale\u2026 (f. 255)",
+            "folio": "ff. 246-255"
+        },
+        "Bod414": {
+            "First Lines": "\n[A] Pore widow sumdele stept in AgeWas whilom duelling in a narow\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026As saith my lord god make us al good menAnd bring us alle to\n                    his high blisse Amen\n",
+            "Note": "\nVII.2922, 2924, 2973, 3043-8, 4297-8, 3207-14 omitted; 2860-1, 3391-2\n                    reversed; 2876 inserted in margin.",
+            "Attributed Title": "\nThe Nonnes prestis tale of the cokke / and the henne Chauntclere and\n                    pertlot (f. 172v)",
+            "folio": "ff. 172v-180"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nA Poor widow som dele stape in ageAs whilom dwelling in a narow\n                    cage\u2026\n",
+            "Last Lines": "\n\u2026As seith my lorde so make vs al gode menAnd bring vs all to\n                    his high blisse amen\n",
+            "Note": "\nVII.2902, 2922 omitted; 3831-2, 2965-6, 3391-2 reversed; 2822, 3135\n                    inserted in margin.",
+            "Attributed Title": "\n\u2026And next beginneth the Nonnes Prest tale of the Cok and of \u00fee\n                    Foxe (rubric, f. 217); The Nonne Prest (rubric, RT); Here endeth the Nonnes\n                    Prest tale\u2026 (rubric, f. 224)",
+            "folio": "ff. 217-224"
+        },
+        "BodLauMis600": {
+            "First Lines": "\nA pore widow somdel stope in ageWas whilom duelling in a pore\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026And to him rennen his wifes alle\u00deus real as a Prince in\n                    his halle\u2026\n",
+            "Note": "\nVII.3185-446 lost; 2946-7 omitted.",
+            "Attributed Title": "\nHEre begynne\u00fe \u00fee nonne prestis tale (f. 259); \u00dee nonne prest\n                    (rubric, RT)",
+            "folio": "ff. 259-263v"
+        },
+        "BodRawPoe141": {
+            "First Lines": "\n\u2026And casten hem ful erly for to seyleBut herkene how that the\n                    oo man fille in a gret peryle\u2026\n",
+            "Last Lines": "\n\u2026ffull is myn hert of Reuell & solasBut sodenly hym fel a\n                    sorewfull cas\u2026\n",
+            "Note": "\nVII.2821-3074, 3205-446 lost; 3083-4 omitted.",
+            "Attributed Title": "\nThe nonnes preest (rubric, RT)",
+            "folio": "ff. 154-155v"
+        },
+        "BodRawPoe149": {
+            "First Lines": "\n\u2026As for that night departe companyAnd ich of hem goth into\n                    his hostelery\u2026\n",
+            "Last Lines": "\n\u2026As saith my lord god make vs al good menAnd bryng vs al to\n                    the hihe blis Amen\n",
+            "Note": "\nVII.2821-2992 lost; 3043-8, 3368 omitted; 3391-2 reversed.",
+            "Attributed Title": "\nthe nonne preest (rubric, RT); Here endith the non preestes tale\u2026\n                    (rubric, f. 119)",
+            "folio": "ff. 116-119"
+        },
+        "BodRawPoe223": {
+            "First Lines": "\nA pore widewe somdel stope in agWas whilom dwelling in a narwe\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026As seith my lord so make us alle gode menAnd bringe us to his\n                    hi\u021de blisse Amen\n",
+            "Note": "\nVII.2923-4, 2973-4, 3413-14, 3417-18 reversed.",
+            "Attributed Title": "\nHere beginneth the Nonnes Prestes tale of Chauntecler & Pertelote (f.\n                        194v, positioned in the middle of an otherwise blank, ruled\n                    verso); Chauntecler Pertlote (RT); Here endith the Nonnes Prestes tale\u2026\n                    (rubric, f. 204)",
+            "folio": "ff. 195-204"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nA Pore widowe somdele stape in ageWas whilom dwellyng in a narwe a\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026As seith my lorde so make vs alle good menAnd brynge vs to\n                    his blysse amen\n",
+            "Note": "\nFollowed by sixteen-line \u2018Nun\u2019s Priest\u2019s\n                    Epilogue\u2019 (4870).",
+            "Attributed Title": "\nHere bygynnet\u0127 the Nonnes prestes tale (rubric, f. 166)",
+            "folio": "ff. 166-173v"
+        },
+        "OxfCCC198": {
+            "First Lines": "\nA Pouere wydewe somdel stope in ageWas whilom dwellyng in a narwe\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026As sei\u00fe my lord so make vs all goode menAnd bringe vs\n                    all to his heihe blisse amen\n",
+            "Note": "\nVII.2822, 2824, 2973, 3033-8 omitted; 2861-2, 3391-2\n                    reversed.",
+            "Attributed Title": "\nHere begynneth the Nonnes Prestes tale / of the Kokke and his vij Hennes\n                    (f. 249v); nonne prestes (rubric, RT); Here ende\u00fe \u00fee Nonne\n                    prestes tale",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "ff. 247v-256"
+        },
+        "OxfNew314": {
+            "First Lines": "\nA pore widow som deel stept in ageWas sumtyme dwellyng in a\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026As seith my lorde so make vs alle gode menAnd brynge vs to\n                    his hi\u021d blisse Amen\n",
+            "Note": "\nVII.2877, 3124 omitted; 3391-2 reversed.",
+            "Attributed Title": "\n\u2026And here begynnyth his tale (rubric, f. 249)v); Nonnys\n                    Prest (rubric, RT)",
+            "folio": "ff. 249v-259"
+        },
+        "OxfTri49": {
+            "First Lines": "\nA pore wonman somdell stope in agethat whelom dwellid in an narowe\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026as seith my lorde god make vs al gode menand bringe vs al\n                    vnto his hie blisse amen\n",
+            "Note": "\nVII.2904, 2973, 2990, 3022, 3043-8, 3054, 3066, 3092 omitted; 2861-2,\n                    3391-2 reversed.",
+            "Attributed Title": "\nffabula presbeteri de Chauntecler / And Pertelt (rubric, f. 231);\n                    Chauntecler (rubric, RT)",
+            "folio": "ff. 231-239"
+        },
+        "CULDd424": {
+            "First Lines": "\n\u2026What eyleth yow to grone in this manere\u021ce ben a verrey\n                    slepere fy for shame\u2026\n",
+            "Last Lines": "\n\u2026As seith my lord so make vs alle goode menAn brynge vs to his\n                    blisse Amen\n",
+            "Note": "\nFollowed by sixteen-line \u2018Nun\u2019s Priest\u2019s\n                    Epilogue\u2019 (4870). VII.2821-2889 lost; 3163-6\n                    omitted.",
+            "Attributed Title": "\nHeere endeth the Tale of the Nonnes Preest (f. 195v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 189-195"
+        },
+        "CULGg427": {
+            "First Lines": "\n\u2026His color was reddere than the fyne coralAnd batayled as it\n                    were a castel wal\u2026\n",
+            "Last Lines": "\n\u2026The dokis cryedyn as men wolde hem quelleAnd that the\n                    Romaynys haddyn brente Cartage\u2026\n",
+            "Note": "\nVII.2821-58, 3391-446 lost; 2958, 3365 inserted at foot; 3365 follows\n                    3390 as final surviving lines.",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "Editions": "\nFurnivall,  Frederick James. \n             The Cambridge MS (University Library, Gg.4.27) of Chaucer\u2019s\n                Canterbury Tales.\nChaucer Society\n         Series 1, nos. 4, 10, 17, 28, 33, 40, 52, 66. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 365-370v"
+        },
+        "CULIi326": {
+            "First Lines": "\nA pore wedowe somdele stepe in ageWas some tyme dwellyng in a\n                    narowe cotage\u2026\n",
+            "Last Lines": "\n\u2026As saithe my lorde so make vs all good menAnd brynge vs to\n                    the highe blisse Amen\n",
+            "Note": "\nVII.2904, 2962, 3054, 3338 omitted; 3291-4 follow 3298.",
+            "Attributed Title": "\nHere endeth the prologe of the nonnes preest / And here begynneth his tale\n                    (f. 211v); Nonnes preste (rubric, RT); Here Endeth the nonnes prestes\n                    tale\u2026 (f. 219)",
+            "folio": "ff. 211v-219"
+        },
+        "CULMm25": {
+            "First Lines": "\nA pore wydowe som dele stope in ageWas whilom dwellynge in an\n                    narowe cotage\u2026\n",
+            "Last Lines": "\n\u2026As seith my lorde so make us all goode menAnde brynge us all\n                    to \u00fee hye blysse amen\n",
+            "Note": "\nVII.2878-81, 2973, 3043-8, 3235-96; 3861-2, 3391-2\n                    reversed.",
+            "Attributed Title": "\n\u2026& here begynneth \u00fee tale (f. 164v); \u00fee\n                    Nonne preste tale (RT); Here endeth \u00fee nonne prestes tale\u2026 (f.\n                        170v)",
+            "folio": "ff. 164v-170v"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[A] Pore wydow somdele stope in ageWas whilom dwellyng in a\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026Thorou thi grace make us all gode menAnd bryng us to his\n                    Blysse Amen\n",
+            "Note": "\nVII.2821-2, 2871-6, 2921-40, 2943-74, 3043-8. 3159-60, 3175-84, 3189-90,\n                    3205-14, 3226-9, 3235-50, 3267-72, 3279-82, 3293-83339-59, 3363-4, 3394-6,\n                    3401-4 omitted; 2061-2, 3391-2 reversed.",
+            "Attributed Title": "\nThe tale of \u00fee nonnes preste (f. 256v); The nonnis prest\n                    (RT); Here endeth \u00fee nonnes prestes Tale (f. 263)",
+            "folio": "ff. 256v-263"
+        },
+        "CamTCC582": {
+            "First Lines": "\nA pore widewe somdel stope in ageWas whilom duelling in a narwe\n                    cage\u2026\n",
+            "Last Lines": "\n\u2026As saith my lord so make vs alle goode menAnd bringe vs alle\n                    to his high blisse Amen\n",
+            "Note": "\nVII.2973, 3043-8, 3080-4, 3086, 3093-4, 3253-4 omitted; 3391-2\n                    reversed.",
+            "Attributed Title": "\nA Tale of the Nonnes prest (f. 81vb); Hiere endeth the tale of\n                    the Nonnes prest (f. 85rb)",
+            "folio": "ff. 81vb-85rb"
+        },
+        "CamTCC595": {
+            "First Lines": "\nA poure wedowe somdel stept in AgeWas somtyme dwollynge in a\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026As seith my lorde so make vs all good menAnd brynge vs to his\n                        blys high blis amen\n",
+            "Note": "\nVII.2945, 3256 omitted; 2877-8, 3391-2 reversed.",
+            "Attributed Title": "\n\u2026and begynneth his tale (f. 261)",
+            "folio": "ff. 261-270v"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nA poore Widdwe somdel stopen in ageWas whilom dwellyng in a naruh\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026As seith my lord so maake vs alle good menAnd bryng vs to his\n                    hihe blys Amen\n",
+            "Note": "\nVII.4491-4, 3343-4 omitted; followed by sixteen-line \u2018Nun\u2019s\n                    Priest\u2019s Epilogue\u2019 (4870.",
+            "Attributed Title": "\n\u2026Incipit narracio eiusdem de Chaunteclere & Pertelotte (f.\n                    275); Nonnys preest (rubric, RT); Explicit fabula sacerdotis\n                    monialium\u2026 (f. 284v)",
+            "folio": "ff. 275-284v"
+        },
+        "BLAdd35286": {
+            "First Lines": "\nA pore widow somdel stepe in ageWas whilom dwellyng in a narow\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026As seith my lord so make vs alle good menAnd brynge vs to his\n                    hie blis Amen\n",
+            "Attributed Title": "\n\u2026Here bigynneth the tale of the nonnes prest (f. 201); The nonnes\n                    prest (rubric, RT); Here endeth the nonnes prestes tale (f.\n                    209v)",
+            "Editions": "\nHorobin,  Simon. \n             \u201cA Transcription and Study of British Library MS Additional 35286 of\n                Chaucer\u2019s Canterbury Tales.\u201d \n         Diss. Univ. of Sheffield, 1997. \n",
+            "folio": "ff. 201-209v"
+        },
+        "BLEge2726": {
+            "First Lines": "\nA poure widowe somdele stope in ageWas whilom dwellyng in a narow\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026As seith my lord so make vs all gode menAnd bryng vs vn to\n                    his blisse amen\n",
+            "Note": "\nVII.3084 inserted at foot; 2941-2 reversed; followed by sixteen-line\n                    \u2018Nun\u2019s Priest\u2019s Epilogue\u2019 (4870).",
+            "Attributed Title": "\n\u2026and begynneth his tale of \u00fee Cok and \u00fee Hen (f.\n                    209)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 209-217"
+        },
+        "BLEge2863": {
+            "First Lines": "\n\u2026With stikkes & drye diche wi\u00fe outeIn whiche sche\n                    hadde acok \u00feat highte chaunteclere\u2026\n",
+            "Last Lines": "\n\u2026So aferd for berkynge of doggesAnd showtyng of men & of\n                    women eke\u2026\n",
+            "Note": "\nVII.2821-47, 3388-3446 lost; 2922, 2924, 2973, 3043-8 omitted; 2061-2\n                    reversed.",
+            "Attributed Title": "\nThe Nonne preest (RT)",
+            "folio": "ff. 177-182v"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[A] poore widowe somdel stopen in ageWas whilom dwellyng in a naruh\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026As seith my lord so make vs alle goode menAnd bryng vs to his\n                    hihe blisse Amen\n",
+            "Note": "\nVII.2924, 2991-4, 3343-4 omitted; followed by sixteen-line\n                    \u2018Nun\u2019s Priest\u2019s Epilogue\u2019 (4870).",
+            "Attributed Title": "\nIncipit narracio Sacerdotis Monialium (f. 225v); The\n                    nonnesse is tale (RT)",
+            "folio": "ff. 225v-233v"
+        },
+        "BLHar1758": {
+            "First Lines": "\nA Pore widowe somdell stope in ageWas whilom dwellyng in a narow\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026As seith my lorde so make vs alle good men And bryng vs alle\n                    to his hye blis amen\n",
+            "Note": "\nVII.2973, 3043-8 omitted; 2861-2, 3391-2 reversed; 28 lines left blank\n                    after explicit.",
+            "Attributed Title": "\nHere endith the Prolog And begynneth the tale (f. 193); Nonnes Preest (RT);\n                    Here endith the tale of the Nonnes Preest (f. 200)",
+            "folio": "ff. 193-200"
+        },
+        "BLHar7333": {
+            "First Lines": "\nA Pore wedow somdele steppid in AgeWas some tyme dwellyng in a\n                    narow cotage\u2026\n",
+            "Last Lines": "\n\u2026As sey myn lord so make vs al gode menAnd bringe vs to his\n                    hie blisse amen\n",
+            "Note": "\nVII.3077-8 omitted.",
+            "Attributed Title": "\nHere begynnith \u00fee nonne preste / of chauntclere (f. 112rb,\n                    rubric); Here Endithe \u00fee nonne prestes tale\u2026 (f. 114va,\n                    rubric)",
+            "folio": "ff. 112rb-114va"
+        },
+        "BLHar7334": {
+            "First Lines": "\nA Pore wydow some del stope in ageWas whilom duellyng in a pore\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026As saith my lor so make vs all good menAnd bring\n                    vs all to his blisse ameN\n",
+            "Note": "\nVII.2646-7, 3289-90 omitted.",
+            "Attributed Title": "\nHere bygynneth the Nonne prest his tale (f. 238); The prestes tale (rubric,\n                    RT); Here ende\u00fe \u00fee tale of Chaunteclere and pertelote\u2026 (f.\n                    246)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "ff. 238-246"
+        },
+        "BLLan851": {
+            "First Lines": "\nA Pouer wedowe sumdel stoupe in ageWas whilom dwellynge in a narwe\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026As sei\u00fee my lorde so make\u00fe vs al good menAnd bringe\n                    vs al to his hihe blisse Amen\n",
+            "Note": "\nVII.2922, 2924, 2973, 3043-8, 3067, 3300-1 omitted; 2861-2, 3389-90,\n                    3391-2 reversed; 3007 inserted in margin.",
+            "Attributed Title": "\n\u00fee Preste (RT); Explicit fabula Capellani\u2026 (f.\n                    225)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 218-225"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nA pore widowe dwellid in a narow cotageAnd was somdel stopen in\n                    age\u2026\n",
+            "Last Lines": "\n\u2026As seyt\u0127 my lord so make vs al goode menAnd bryng vs to his\n                    blis Amen\n",
+            "Note": "\nVII.2973, 3259 omitted; 2821-2 reversed; followed by sixteen-line\n                    \u2018Nun\u2019s Priest\u2019s Epilogue\u2019 (4870).",
+            "Attributed Title": "\n\u2026And begynnyth the tale of the nones prest (rubric, in margin, f.\n                        274v)",
+            "folio": "ff. 274v-284"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nA Pore widowe somdel stope in ageWas whilom dwelling in a narow\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026As seith my lord so make vs alle gode menAnd bringe vs alle\n                    to his hye blisse Amen\n",
+            "Note": "\nVII.2922, 2924, 2973, 3253-8 omitted; 2861-2, 3391-2\n                    reversed.",
+            "Attributed Title": "\n\u2026And begynneth the tale (rubric, f. 226v); The Nonne prest\n                    (RT)",
+            "folio": "ff. 226v-234"
+        },
+        "BLSl1685": {
+            "First Lines": "\nA pore wydowe some dele stope in ageWas whilom dwellyng in a narow\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026But sir I dyd it nou\u021dt in no wicked ententeCometh doune\n                    & I shalle telle you what I ment\u2026\n",
+            "Note": "\nVII.3424-46 lost; 2973, 3043-8 omitted; 2861-2, 3391-2 reversed.\n                    Catchwords on f. 222v: \u2018I shalle\u2019. The rest of the MS\n                    lost.",
+            "Attributed Title": "\n\u2026& begynneth \u00fee tale (f. 214v); The Nunne Prest\n                    (rubric, RT)",
+            "folio": "ff. 214v-222v"
+        },
+        "BLSl1686": {
+            "First Lines": "\nA Pore widewe somdele stope in ageWas whilom dwellyng in a narwe\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026As seithe my lorde so make vs alle good menAnd bryng vs alle\n                    to his high blisse Amen\n",
+            "Note": "\nVII.2973, 3043-8 omitted; 2862-3, 3391-2 reversed.",
+            "Attributed Title": "\nHere endith the Prolog of the Nonnes Preest / And here begynneth his tale\n                    folowyng (rubric, f. 281); Tale of the Nonnes Preest (RT)v); Here\n                    endith the Nonnes prest tale\u2026 (rubric, f. 290)",
+            "folio": "ff. 281v-290"
+        },
+        "NLW21972D": {
+            "First Lines": "\n[\u2026]om dwel[\u2026]ng[\u2026][\u2026]groue\n                    stondyng\u2026\n[\u2026]par[\u2026]ee no re[\u2026][\u2026]n ne\n                    compleyne\u2026\n[\u2026]hall[\u2026][\u2026]ere in h[\u2026]\n                    pasture\u2026\n",
+            "Last Lines": "\n\u2026His kombe was redder than the fyn coralAnd batailled as it\n                    were a castel wal\u2026\n\u2026God wot it reweth me and haue good dayAnd thus he toke his\n                    leue and went his way\u2026\n\u2026If I conseil of women w[\u2026]de blamePas ouer for I seyde\n                    it in my [\u2026]e\u2026\n",
+            "Note": "\nThree damaged leaves containing: VII.2784-2820; VII.2822-2860;\n                    VII.3021-3058; VII.3060-3098; VII 3184-3222; VII.3223-3262.",
+            "Attributed Title": "\nHere endeth the prologe / Here endeth the prologe and bygynneth the tale\n                    (f. 1, foot)",
+            "Facsimiles": "\nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n",
+            "Editions": "\nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000: Contains a digital facsimile and transcription of the\n                        Merthyr Fragments.\n",
+            "folio": "ff. 1v;  2-2v;  3-3v"
+        },
+        "NLWPen392": {
+            "First Lines": "\nA poore widwe som del stape in ageWas whilom dwellynge in a narwe\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026As seith my lord so make vs alle goode menAnd brynge vs to\n                    his heye blisse Amen\n",
+            "Attributed Title": "\nHere bigynneth the Nonnes preestes tale of the Cok and hen / Chauntecler\n                    & Pertelote (f. 99v); The Nonnes preestes tale (RT); Here is\n                    ended the Nonnes preestes tale\u2026 (f. 107)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "ff. 99v-107"
+        },
+        "Alnwick455": {
+            "First Lines": "\nA pore wedow som dele stepid in agewas whilom dwellyng in a narow\n                    corage\u2026\n",
+            "Last Lines": "\n\u2026As thow art lord so make vs al good menAnd bryng vs to thy\n                    blis amen\n",
+            "Note": "\nVII.2859, 2922, 3163-6, 3256, 3325-9 omitted.",
+            "Attributed Title": "\n\u2026And here he begynnyth his tale of Chauntclere & Pertelot (f.\n                    274); Here endith the tale of \u00fee Nonnys preest of Chauntclere / And of\n                    Pertelot\u2026 (f. 282v)",
+            "folio": "ff. 274-282v"
+        },
+        "GULHun197": {
+            "First Lines": "\nA Pore widowe somdel stoupe in ageWas whilom duellyng in a narwe\n                    Cotage\u2026\n",
+            "Last Lines": "\n\u2026As seith my lord so make vs alle good menAnd bryng vs to the\n                    high blisse amen\n",
+            "Note": "\nVII.3312 blank; 2973-4, 3413-14, 3417-18 reversed.",
+            "Attributed Title": "\nNow begynneths the preestis tale (f. 73ra); The Preste (RT); The\n                    Priest (RT); The Pryest (RT); Here endeth the tale of the Nunnes preste\u2026\n                    (f. 76rb)",
+            "folio": "ff. 73rb-76rb"
+        },
+        "Lichfield29": {
+            "First Lines": "\nA pore wydowe somdele stoupe in ageWhilom was dwelling in a narowe\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026As sei\u00fe my lorde so make vs al good menAnd bringe vs all\n                    to his high blisse Amen\n",
+            "Note": "\nVII.2922, 2924, 2973, 3043-8 omitted; 2861-2, 3391-2\n                    reversed.",
+            "Attributed Title": "\n\u2026and here bygynneth the the Preest his tale (f. 241v); The\n                    Tale of \u00fee non preest (RT); The nonnes Preest (RT); Here endeth \u00fee\n                    nonne preest his tale (f. 249v)",
+            "folio": "ff. 242-249v"
+        },
+        "Lincoln110": {
+            "First Lines": "\nA Pouere widowe sumdel stope in ageWas whilome dwellynge in a narw\n                    vilage\u2026\n",
+            "Last Lines": "\n\u2026As seith my lord so make vs alle good menAnd brynge vs vn to\n                    his blisse amen\n",
+            "Note": "\nVII.3343-6 omitted.",
+            "Attributed Title": "\nheere bigynnyth \u00feee tale Of \u00fee Cokk / And the henne and the fox\n                    (f. 232v); The Nonnes Preest (RT); here eendith \u00fee tale of\n                    \u00fee Nunnes preest\u2026 (f. 240v)",
+            "folio": "ff. 232v-240v"
+        },
+        "LonPhys388": {
+            "First Lines": "\nA Poore widew sumdel stope in aageWas whilom dwellyng in a narow\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026As seith my lord so make vs al goode menAnd bryng vs to his\n                    hie blisse Amen\n",
+            "Attributed Title": "\n\u2026Incipit Fabula (f. 301v); Explicit ffabula\n                    (f. 312v)",
+            "folio": "ff. 301v-312v"
+        },
+        "RylandsEng113": {
+            "First Lines": "\n[A] Powre Wedowe somdele stopen in ageWas whilom dwellyng in a\n                    narowe Cotage\u2026\n",
+            "Last Lines": "\n\u2026As seid my lord god make vs all good menAnd brynge vs vnto\n                    his blis Amen\n",
+            "Note": "\nVII.2078-81 omitted; followed by sixteen-line \u2018Nun\u2019s\n                    Priest\u2019s Epilogue\u2019 (4870).",
+            "Attributed Title": "\nHere begynnyth the Nonnes prestis / tale of the Cokke and of the Henne (f.\n                        147v); Nonnes Prest (RT); Here endith \u00fee tale of \u00fee\n                    Nonnes Prest\u2026 (f. 153v)",
+            "folio": "ff. 148-153v"
+        },
+        "Petworth7": {
+            "First Lines": "\nA poor wydowe somdel stope in ageWas whilom dwelling in anarowe\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026As sei\u00fe my lorde so make vs all good menAnd bringe vs al\n                    to his blisse Amen\n",
+            "Note": "\nVII.2973, 3043-8 omitted; 2861-2 reversed.",
+            "Attributed Title": "\n\u2026And here bygynne\u00fe \u00fee nonne preest his tale (f.\n                        258v); The Nonnes Preestes (RT); Thus ende\u00fe \u00fee preestes\n                    tale\u2026 (f. 266v)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 258v-266v"
+        },
+        "Austin143": {
+            "First Lines": "\nA povyr wydewe somedell stopyn yn ageWas whilome dwellyng in a\n                    narew cotage\u2026\n",
+            "Last Lines": "\n\u2026Off \u00fey grace make vs all goodmenAnd bryng vs to thy\n                    blysse Amen\n",
+            "Note": "\nVII.2878-81 omitted; followed by sixteen-line \u2018Nun\u2019s\n                    Priest\u2019s Epilogue\u2019 (4870).",
+            "Attributed Title": "\n[H]Ere begynnyth the Nonnys prestis tale / Off the Cok & off the henne\n                    (f. 186v); Nonnys preste (RT); Here endyth the Tall of the Nonnys\n                    prest\u2026 (f. 194)",
+            "folio": "ff. 186v-194"
+        },
+        "ChicagoUL564": {
+            "First Lines": "\nA Pore wydowe some dele stope in ageWas whylom dwellynge in a\n                    narowe cage\u2026\n",
+            "Last Lines": "\n\u2026As seyth my lord so make vs alle gode menAnd bringe vs all to\n                    his heye blysse amen\n",
+            "Note": "\nVII.2973, 3043-8 omitted; 3391-2 reversed.",
+            "folio": "ff. 159-169"
+        },
+        "PierpontM249": {
+            "First Lines": "\nA poor wydowe somdele stoupe in ageWhilom was dwellyng in a narowe\n                    cotage\n",
+            "Last Lines": "\n\u2026As seith my lorde so make vs alle good menAnd brynge vs all\n                    to his hig\u0127 blisse Amen\n",
+            "Note": "\nVII.2922, 2924, 2973. 3043-8 omitted; 2861-2, 3391-2\n                    reversed.",
+            "Attributed Title": "\n\u2026And here bygynneth the same preest his tale (f. 231); The tale of\n                    the Nonne prest (RT); The Nonnes Preeste (RT); Here endet\u0127 the Nonne prestes\n                    tale\u2026 (f. 239)",
+            "folio": "ff. 231-239"
+        },
+        "PhilRos10841": {
+            "First Lines": "\nA Poore wydewe somdeel stoop in ageWas whilom dwellynge in a narewe\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026Now goode god if it be thi willeAs seyth my lord soo make vs\n                    alle goode men\u2026\n",
+            "Note": "\nVII.3446 lost; 2973, 3043-8 omitted; 2861-2, 3391-2\n                    reversed.",
+            "Attributed Title": "\nHeere begynneth the nonne preestis tale (f. 35); The Nonne Preest\n                    (RT)",
+            "folio": "ff. 35-42v"
+        },
+        "PUL100": {
+            "First Lines": "\nA pore wydowe som dele steppid in ageWas som tym dwellyng in a\n                    narowe cotag\u2026\n",
+            "Last Lines": "\n\u2026As seith my lord God make vs al good menAnd bring vs to his\n                    hy blis Amen\n",
+            "Note": "\nPreceded by 20 blank lines. VII.2884-6 obscured by patch; 2922, 2924,\n                    3236, 3339 omitted.",
+            "Attributed Title": "\nHere begynnyth the Nonnys Prestis tale (rubric, f. 192); Nonnys Prest /\n                    Chauntclere (RT); Chanticler & Pertelot (RT); Here endith \u00fee Nonnys\n                    Prest his tale\u2026 (f. 200)",
+            "folio": "ff. 192-200"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nA poure wydwe somdeel stape in ageWas whilom dwellyng in a narwe\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026As seith my lord so make vs alle goode menAnd brynge vs to\n                    his heighe blisse Amen\n",
+            "Note": "\nVerse ends on f. 206v.",
+            "Attributed Title": "\nHeere bigynneth the Nonnes Preestes tale of the Cok and / hen Chauntecleer\n                    and Pertelote (f. 179); Nonnes Preest (RT); Heere is ended the Nonnes preestes\n                    tale (f. 185v)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 179-185v"
+        },
+        "BNangl39": {
+            "First Lines": "\nA pouer widow sumdel stept in to agewas sum tyme dwellyng in a narw\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026as seith my lord make vs alle good menand bryng vs to thyn\n                    heuyn blisse amen\n",
+            "Note": "\nVII.3291-4 omitted; 2973-4, 3299-3300, 3205-6, 3417-18\n                    reversed.",
+            "Attributed Title": "\nConsequenter incipit fabula presbiteri (f. 73vb);\n                        Explicit fabula presbiteri (f. 77rb)",
+            "folio": "ff. 73vb-77rb"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nA pore wudewe som del stope in ageWas whilom duelling in a narwe\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026As seith my lord so make vs alle gode menAnd bringe vs to his\n                    blisse Amen\n",
+            "Note": "\nVII.2841-2 reversed; followed by sixteen-line \u2018Nun\u2019s\n                    Priest\u2019s Epilogue\u2019 (4870).",
+            "Attributed Title": "\n\u2026and hiere / beginneth his tale of the Cok and / the Henne (f.\n                        205v); Prestes tale of Chauntecler Pertelot (RT)",
+            "folio": "ff. 205v-213v"
+        },
+        "TokyoTak32": {
+            "First Lines": "\nA pore wydwe svmdel stepen in ageWas whilvm dwelynge in a narwe\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026Of yowre grace lord make vs all goode menAnd brynge vs alle\n                    to his heyghe blisse amen\n",
+            "Note": "\nVII.2973, 3043-8 omitted; 2861-2, 3075-6, 3391-2 reversed; 3036 inserted\n                    at foot.",
+            "Attributed Title": "\nHere by gynnyht thee tale (f. 128rb); Thee Nvnnis preest (RT);\n                    Explicit / Here Eendyht Chauntekleer & pertilote (f.\n                    132rb)",
+            "folio": "ff. 128rb-132rb"
+        },
+        "Bodmer48": {
+            "First Lines": "\nA pore widow sumdel stept in ageWas whilom duelling in a narow\n                    cotage\u2026\n",
+            "Last Lines": "\n\u2026As sei\u00fe my lord god make us al gode menAnd bring vs al\n                    to his high blis amen\n",
+            "Note": "\nVII.2922, 2924, 3043-8, 3107-8 omitted; 2861-2, 3391-2\n                    reversed.",
+            "Attributed Title": "\nThe tale of \u00fee Nonnes preste of Chauntclere & Pertlot (f.\n                        202v)",
+            "Facsimiles": "\n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n",
+            "folio": "ff. 202v-210v"
+        }
+    }
+}

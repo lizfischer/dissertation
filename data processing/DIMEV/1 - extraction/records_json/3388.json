@@ -1,0 +1,54 @@
+{
+    "_id": 3388,
+    "_header": "Man to reform thine exile and thy loss",
+    "Note": "See also 3974",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "Complaint \u00feat Crist maketh of his Passioun",
+    "Subjects": "complaints; Christ, appeal of, to man; envoys",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "Lydgate\u2019s \u2018Complaint \u00feat Crist maketh of his Passioun\u2019 \u2014 fifteen 8-line stanzas (ababbcbc) including 8-line envoy, and various refrains: \u2018thynke on my passyoun\u2019 (st. 1-9, 14); \u2018syth I am merciable\u2019 (st. 15-19)",
+    "_witnesses": {
+        "BodLauMis683": {
+            "First Lines": "\nMan to refourme thyn exil and thy loosfro paradys place of moost\n                    plesaunce\u2026\n",
+            "Last Lines": "\n\u2026no bettir socour nor support in your needethan offte thynkyng\n                    on crystys passioun\n",
+            "Attributed Title": "\nHere is a compleynt \u00feat crist maketh of his passioun (f. 12)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 216-21 (with collation of other MSS).\n",
+            "folio": "ff. 12-14v"
+        },
+        "CULKk16": {
+            "First Lines": "\nMan to reforme \u00feyn exile & \u00fey loossffro paradyse\n                    place of moste plesaunce\u2026\n",
+            "Last Lines": "\n\u2026No bettur socour ner support in \u021doureneedeThan ofte\n                    tymes thyngk on Cristus Passion\n",
+            "Attributed Author": "\nLydgate (f. 194); Ion lidgate late a monke of the house of Seynt Edmundus\n                    of Bery (f. 194)",
+            "Attributed Title": "\nHEre begynneth an holy meditacioun to oure lord criste Ihesu hangyng on the\n                    Croose compiled & made by Ion lidgate late a monke of the house of Seynt\n                    Edmundus of Bery on whose sowle God haue mercy Amen (f. 194); Here enduth this\n                    holy preyere to the lord ",
+            "folio": "ff. 194-196"
+        },
+        "CamTCC601": {
+            "First Lines": "\nman to reforme thyne exyle & thy losseffom paradyse place of\n                    most plesaunce\u2026\n",
+            "Last Lines": "\n\u2026No bettyr socour ne support in oure nedeThen oft thynke on\n                    crystes passyon Explicit\n\n",
+            "Note": "\n20 stanzas",
+            "Attributed Author": "\nLydgate (f. 189v; f. 191)",
+            "Attributed Title": "\nvpon shriftes passyon (f. 189v)",
+            "folio": "ff. 189v-191"
+        },
+        "BLHar372": {
+            "First Lines": "\nMan to refourme thyn exil & thi losfro paradis place of most\n                    plesaunce\u2026\n",
+            "Last Lines": "\n\u2026no bettre socoure nor support in your needethan ofte thynkyng\n                    of cristis passioun\n",
+            "Attributed Title": "\nAn exhortacioun / of the crucifix (f. 54)",
+            "folio": "ff. 54-55"
+        },
+        "BLHar7333": {
+            "First Lines": "\nMAn to Reforme \u00feyne exile and \u00fei losseffrome paradys\n                    place of moste plesaunce\u2026\n",
+            "Last Lines": "\n\u2026No better socoure ne supporte in oure neode\u00dean ofte\n                    thenkynge on Cristes passioun\n",
+            "Attributed Title": "\nHere nowe folowith and begynnethe / a devoute compleynte Off the\n                    / passioune of oure Lorde Ihesus Criste / made by lidgate with \u00fee Refrayde\n                    man / thenke on my Passioune (f. 147ra, rubric)",
+            "folio": "f. 147ra-147va"
+        },
+        "BLAdd31042": {
+            "First Lines": "\nMan to reforme thyne Exile and thi losseffrome Paradyce place of moste plesance\u2026\n",
+            "Last Lines": "\n\u2026No bettir socoure And Support in \u00feaire nedeThan ofte to thynke one Cristes Passioun\n",
+            "Note": "\nNine lines only on f. 94, then begins again repeating these lines on 94v.",
+            "Attributed Title": "\nPassionis Cristi Cantus. Hic Incipit quedam Tractatus Passionis Domini nostri Ihesu cristi in Anglice (f. 94); Explicit Passio Cristi (f. 96)",
+            "Editions": "\nHeuser,  Wilhelm. \n             \u201cWith an O and an I.\u201d \n             Anglia\n         27 (1904): 283-319: 210 (stanzas 1-2).\n",
+            "folio": "ff. 94-96"
+        }
+    }
+}

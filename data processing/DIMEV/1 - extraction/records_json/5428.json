@@ -1,0 +1,62 @@
+{
+    "_id": 5428,
+    "_header": "The order of fools full yore agone begun",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "The Order of Fools",
+    "Subjects": "fools, order of",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, The Order of Fools \u2014 twenty-two 8-line stanzas",
+    "_witnesses": {
+        "BLHar374": {
+            "Note": "\nStanzas 6, 10, 12, 13, and 14 only.",
+            "Editions": "\nBowers,  Robert Hood. \n             \u201cLydgate\u2019s The Order of Fools in Harley MS 374.\u201d \n             Modern Language Notes\n         67 (1952): 534-6. \n",
+            "folio": "f. 22"
+        },
+        "BLHar542": {
+            "First Lines": "\n\u2026who holdithe it treaswre that that he wysshitheand gadrithe hym gossomer to pak it for wolle\u2026\n",
+            "Last Lines": "\n\u2026swyche falce erewyges suche covart losyngarsa scale vp theyr pattent for they shall nevar the\n",
+            "Note": "\nStanzas 18 to end of the Harley 2251 version as noted by Macracken, written by the hand of John Stow on a single sheet of paper, written only on one side; this appears to come from the same source as the fragment of 5428 in London,  British Library Harley 374. Lydgate\u2019s Order of Fools  22 8-line stanzas; but here, only 5 last stanzas in Stow's hand\n                    In Stow\u2019s hand, from same original manuscript as London,  British Library Harley 374.",
+            "Facsimiles": "\nRobinson,  Pamela. \n             \u201cIntroduction.\u201d \n             Manuscript Bodley 638: A Facsimile.\n         Norman, OK: Pilgrim, and Woodbridge: Boydell and Brewer, 1982. \n",
+            "folio": "f. 13"
+        },
+        "Bod638": {
+            "First Lines": "\nThe ordre of ffolys well yare age bigonneNewly provessid encrecyth\n                    the Couente\u2026\n",
+            "Last Lines": "\n\u2026Or when that sperado louyth pa[ramours]On [of] the noumbre\n                    that will neure the\n",
+            "Note": "\nSix stanzas only, omits lines 41-48 and 57-176.",
+            "Attributed Title": "\nThe ordre of ffolys (219); The Ordre (RT)",
+            "Facsimiles": "\nRobinson,  Pamela. \n             \u201cIntroduction.\u201d \n             Manuscript Bodley 638: A Facsimile.\n         Norman, OK: Pilgrim, and Woodbridge: Boydell and Brewer, 1982. \n",
+            "folio": "ff. 219-219v"
+        },
+        "Bod648": {
+            "First Lines": "\n[T]he order of fooles fele yere a goo begunneNewly professyd\n                    encresyd the couent\u2026\n",
+            "Last Lines": "\n\u2026With hores hasardores to hold her resydensHonge \u00feem vp\n                    for \u00feey shall neuer thee\n",
+            "folio": "ff. 19-21"
+        },
+        "BodLauMis683": {
+            "First Lines": "\nThe ordre of foolis ful yore agoon be gonneneuly professed\n                    encreseth the kovent\u2026\n",
+            "Last Lines": "\n\u2026ther bulle [ ]sselyd concludyng in sentencenoon of th[ ]\n                    ordre is neuer lyk to the\n",
+            "Attributed Title": "\nHere begynneth a tale of thre skore ffoolys and thre wich ar lyk neuer ffor\n                    to the (f. 56)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 2.449-55.\n",
+            "folio": "ff. 56-60"
+        },
+        "BLAdd34360": {
+            "First Lines": "\n[T]He order of folis ful yore ago bigonneNewly professid encresith\n                    the covent\u2026\n",
+            "Last Lines": "\n\u2026Swiche false Erwygges suche covert losengeoursAsseale vp\n                    theyr patent for they shal neuer the\n",
+            "folio": "ff. 24-26v"
+        },
+        "BLCottNeroAVI": {
+            "First Lines": "\nThe ordre of folys ful yore be gonneNwly professyd encresith the\n                    couente\u2026\n",
+            "Last Lines": "\n\u2026[H]er bul enselyd concludyng in sentence[Th]at none of al\n                    \u00feys ordyr ys neuer like to the\n",
+            "Note": "\n24 stanzas. Folio number reflects the most recent foliation. Some text\n                    runs down left margin and line beginnings have been lost through\n                    trimming.",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Queene Elizabethes Achademy, etc.\nEETS\n         e.s. 8 (1869); repr. 1973: 79-84.\n",
+            "folio": "ff. 194v-195"
+        },
+        "BLHar2251": {
+            "First Lines": "\nTHe order of foles ful yore ago bigonneNewly professed encresith\n                    the covent\u2026\n",
+            "Last Lines": "\n\u2026Suche false Erwygges suche covert losengeoursEnseale vp theyr\n                    patent for they shul neuer the\n",
+            "Note": "\n24 stanzas.",
+            "Editions": "\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             A Selection from the Minor Poems of Don John Lydgate.\nPercy Society\n         2. London: T. Richard, 1840: 164.\n",
+            "folio": "ff. 274-276v"
+        }
+    }
+}

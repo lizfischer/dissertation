@@ -1,0 +1,18 @@
+{
+    "_id": 22,
+    "_header": "A child is born of a maid",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 3.",
+    "Author(s)": "Richard Smert",
+    "Subjects": "carols, Nativity",
+    "Versification": "\u2014 four-line \u2014 abab, aaaa",
+    "_description": "A Christmas carol by Richard Smert \u2014 two quatrains (abab) and four-line burden: \u2018Nascitur ex virgine / sine viri semine\u2019 (repeated)",
+    "_witnesses": {
+        "BLAdd5665": {
+            "First Lines": "\nA childe ys born of a maydeIn redempcion of vs\n                    all\u2026\n",
+            "Last Lines": "\n\u2026To be born of a mayde that ys bryghtThat all mankynde shall\n                    noght [be] shent\n",
+            "Attributed Title": "\nde natiuitate\n",
+            "Editions": "\n\nFehr,  Bernhard. \n             \u201cDie Lieder der Hs. Add. 5665 (Ritson\u2019s Folio-MS).\u201d \n             Archiv f\u00fcr das Studium der neueren Sprachen und\n                Literaturen\n         106 (1901): 262-85: 272.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 37; 1977, 30.\nStevens,  John,\n                        ed.  \n             Mediaeval Carols.\nMusica Britannica\n         4. London: Stainer and Bell, 1952, 2nd ed. 1958: 92.\n\n",
+            "folio": "ff. 34v-35"
+        }
+    }
+}

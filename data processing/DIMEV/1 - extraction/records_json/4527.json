@@ -1,0 +1,36 @@
+{
+    "_id": 4527,
+    "_header": "Saint Aethelberht the holy king king was of England",
+    "Title(s)": "South English Legendary",
+    "Subjects": "Aethelbert, saint, life of; saints\u2019 lives",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Aethelberht in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Aylbriht \u00fee holy kyng kyng was of Engelonde\u00dee\n                    kynges sone Aylred \u00feat gret pouwer hedde an honde\u2026\n",
+            "Last Lines": "\n\u2026Now God for \u00fee loue of him to \u00feulke ioye vs\n                    bringe\u00deat his soule is to i went  aftur vr endynge.\n                    AMEN.\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 33ra-33rb"
+        },
+        "CamTCC605": {
+            "First Lines": "\nSEint albry\u021dt \u00fee king was king of englonde\u00dee kinges\n                    sone ayldred \u00feat grete powere hadde an honde\u2026\n",
+            "Last Lines": "\n\u2026now god for \u00fee loue of hym to \u00feulke Ioie ous\n                    bringe\u00feat his saule is to wente after oure endynge\n",
+            "Attributed Title": "\nAlbry\u021dt (RT)",
+            "folio": "ff. 254-255"
+        },
+        "BLCottJulDIX": {
+            "First Lines": "\nSEint ailbri\u021dt \u00fee holi king king was in englonde\u00fee kingis sone aildre\u00fe \u00feat gret poer hadde an honde\u2026\n",
+            "Last Lines": "\n\u2026nou god for \u00fee loue of him to such ioie ous bringe\u00feat his soule is to ywent after our ending\n",
+            "Note": "\n\u201cCapitulum xCvii\u201d added to left margin by later hand (f. 271v).",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Julius MS D IX.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Julius_D_IX. \n",
+            "folio": "ff. 271v-272v"
+        },
+        "BLEge1993": {
+            "First Lines": "\nSeint Ailbri\u021dt \u00fee holi king was of engelonde\u00dee kinges sone aldred \u00feat gret power hadde an honde\u2026\n",
+            "Last Lines": "\n\u2026Now god for \u00fee loue of him to \u00feulke ioie vs bringe\u00deat is soule is to iwent after oure endinge\n",
+            "Note": "\nEnds \u201cAmen\u201d (f. 155).",
+            "Editions": "\nNagy,  Michael S. \n             \u201cSaint \u00c6\u00feelberht of East Anglia in the South English\n                    Legendary.\u201d \n             Chaucer Review\n         37 (200): 159-72: 165-8.\n",
+            "folio": "ff. 154-155"
+        }
+    }
+}

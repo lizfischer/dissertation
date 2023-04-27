@@ -1,0 +1,31 @@
+{
+    "_id": 410,
+    "_header": "All ye mowen of joy sing / Fro heaven us come",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler TM 1344.",
+    "Subjects": "carols; Virgin Mary, praise of",
+    "Versification": "\u2014 four-line, two-line \u2014 aaab, aa",
+    "Macaronic": "Latin",
+    "_description": "A carol in praise of the Virgin Mary \u2014 six quatrains (aaab) with Latin caudae and burden: \u2018Virgo rosa virginum / tuum precare Filium\u2019",
+    "_witnesses": {
+        "OxfBal354": {
+            "First Lines": "\nQvene of hevyn blessyd mot \u00feou beFor Godis son born he was of\n                    the\u2026\n",
+            "Last Lines": "\n\u2026That we may to his blis cumGloria tibi\n                    domineExplicit\n",
+            "Note": "\nThis MS only 3 stanzas, 3 x 4 (aaab) including refrain, \u2018Gloria\n                        tibi domine\u2019, and burden (cc): \u2018Virgo rosa virginum /\n                        Tuum precor.\u2019",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 139; 1977, 123.\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 49-50.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 49-50.\nRickert,  Edith,\n                        ed.  \n             Ancient English Christmas Carols.\n         London: Chatto & Windus, 1910: 22-3.\n\n",
+            "folio": "p. 5062"
+        },
+        "CamGon383": {
+            "First Lines": "\nAlle \u021de mouwen of ioye syngefro heuene ys come god\n                    ty\u00feyng\u2026\n",
+            "Last Lines": "\n\u2026\u00feat we mowen wyt hym woneIn perheum\n                    Gloria\n\n",
+            "Note": "\nThis MS 6 x 4, aaab, where \u2018b\u2019 is Latin, plus burden, b:\n                        \u2018Virgo rosa virginum tuum precare filium.\u2019",
+            "Attributed Author": "\nWymond (p. 68, added to bottom margin)",
+            "Editions": "\n\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 139; 1977, 123.\nBrunner,  Karl. \n             \u201cKirchenleider aus dem 15. Jahrhundert.\u201d \n             Anglia\n         61 (1937): 13-51: 150.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XVth Century.\n         Oxford: Clarendon, 1939: 33-4.\n\n",
+            "folio": "p. 68a"
+        },
+        "BLC21": {
+            "Note": "\nNew from Greene (1977)\nXGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon, 1977 (see\n            also Greene (1935)\nXGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977), 123; Stanzas 2, 3 only; initial\n                    burden lacking.",
+            "folio": "sig. c.12"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "_id": 5671,
+    "_header": "This day Saint John the gospeller",
+    "Note": "For other MSS see 6049; for the version in the \u2018expanded\u2019 Cycle see 5394.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Fourth Sunday in Advent, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nThis daye saynte Ione \u00fee gospellereSaise in oure gospell als\n                    \u021de may here\u2026\n",
+            "Last Lines": "\n\u2026I will \u021dow tell of a pilgrimeHow sathanas him trayed ane\n                    tyme\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 15-17"
+        },
+        "CULDd11": {
+            "First Lines": "\nThis day seyth seynt iohn \u00fee gospellerein oure gospel as\n                    \u021de may here\u2026\n",
+            "Last Lines": "\n\u2026I wile \u021dow tellin of a pilgrymhow sathanas begiled\n                    hym\n",
+            "Attributed Title": "\nMiserunt iudei ab ierosolimis (f. 48v)",
+            "folio": "ff. 48v-50"
+        },
+        "Lam260": {
+            "First Lines": "\nTO day saynt Iohn \u00fee gospelereSays in oure gospell as \u021de\n                    may here\u2026\n",
+            "Last Lines": "\n\u2026I wyll \u021dow tell of a pylgrymeHow sathanas hym tryed a\n                    tyme\n",
+            "folio": "ff. 6rb-7rb"
+        }
+    }
+}

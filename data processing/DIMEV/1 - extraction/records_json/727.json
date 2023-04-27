@@ -1,0 +1,137 @@
+{
+    "_id": 727,
+    "_header": "At Westminster William I-crowned was",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler ; TM 224; see also 1472, 5731",
+    "Subjects": "kings of England",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Verses on the kings of England, from William the Conqueror to Henry VI \u2014 in couplets",
+    "_witnesses": {
+        "BodAddE7": {
+            "First Lines": "\nThe mighty William Duk of Normandy By Iust tale and by his\n                    CheualryAs olde Bokys to vs makyn mensiounMade kyng by conquest of\n                    brutis of Albioun\u2026\n",
+            "Last Lines": "\n\u2026Now lord him sende suche gouernaunceLong to reioise and Regne\n                    in his Right\n",
+            "Note": "\nA roll: 192 lines in couplets except last stanza, which uses alternate\n                    rhyme (abab); names of the kings appear before each entry",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 717-22.\n",
+            "folio": "roll"
+        },
+        "BodAshRol21": {
+            "First Lines": "\nAt Westmyster William icrowned wasThe furst day day of\n                    CristemasA gret thyng after he dude \u00feanneMade the kyng of Skottys\n                    his legeman\u2026\n",
+            "Last Lines": "\n\u2026And \u00fee x \u021dere by and byHe was crowned at\n                        Westmyster Parise trywlyHe weddid \u00fee kynges\n                    dou\u021dter of sisssile margretThe whuch wold to yngland neuer good ne\n                    profet\n",
+            "Note": "\nA roll, number 25 in Black (1845)\nXBlack,  William Henry. \n             Catalogi Codicum Manuscriptorum Bibliothecae Bodleianae\u2026Pars X,\n                A\u2026Catalogue of the Manuscripts bequeathed\u2026by Elias Ashmole.\n         Oxford: Clarendon, 1845; last two lines added,\n                    and followed by further prose notes of the reign",
+            "folio": "roll"
+        },
+        "Bod131": {
+            "First Lines": "\n\u00deis myghtty William duke of Northmandy\u00deat by iuste tytill\n                    And also by chyualeryConquered this land And kyng bycomeAnd \u00fee\n                    kyng of Scotts he made his legeman\u2026\n",
+            "Last Lines": "\n\u2026Now lord send hym siche gouernauncelong to reioyse &\n                    reigne in his ryght\n",
+            "Note": "\n194 lines; variant first three lines influenced by Lydgate\u2019s\n                    \u2018Kings\u2019 (5731)",
+            "folio": "ff. 140v-144"
+        },
+        "BodDig186": {
+            "First Lines": "\nAt Westmynster William he crownnyd wasThe fyrste day of\n                    CrystynmesA grete thynge after dyd he \u00feanneMade \u00fee\n                        kynge of Scotland his hegmann\u2026\n",
+            "Last Lines": "\n\u2026Att Westmynster he had his beryingexxxvi \u021dere he reigned\n                    kynge\n",
+            "Note": "\nAlternating with 5731 up\n                    to Edward I, scattered in a prose chronicle",
+            "folio": "ff. 49v-63v"
+        },
+        "BodDoug2": {
+            "First Lines": "\nThis myghty William duke of NormandyBy iuste titel and by\n                    chyueleryConquerid englond and kynge bycomeAnd [ ] kynge of Scotts\n                    made his legemon\u2026\n",
+            "Last Lines": "\n\u2026Of vertues lyfe & chosen hym for his knyghtLonge to\n                    reioyse in his right\n",
+            "Note": "\nA roll; borrowing lines from 5731 at beginning and end",
+            "folio": "roll"
+        },
+        "BodRawC86": {
+            "First Lines": "\nThe myghte William Duke of Normandyhat be ryght tytle & be\n                    chevalryConqueryd Inglond & was kyng euynand also the lond\n                        g of scottes he wane certen\u2026\n",
+            "Last Lines": "\n\u2026he raynyd kyng xxxviij ye & more& is buryed att\n                    Wyndesore\n",
+            "Note": "\nVariant beginning echoing 5731; King\u2019s names as headings to each stanza;\n                    followed by prose \u2018Title of France\u2019",
+            "folio": "ff. 187-189"
+        },
+        "BLCottJulDVIII": {
+            "First Lines": "\n[ ]t Westminster Willyam I crovnyd wasThe first day of\n                    Cristemas\u2026\n",
+            "Last Lines": "\n\u2026And the x \u021dere by and byAt Parysh he was crouned\n                    tryly\n",
+            "folio": "ff. 27-31v"
+        },
+        "BLCottJulEIV": {
+            "First Lines": "\nThe mi\u021dti William duke of NormandyAs bokis old makith\n                    mensionBi iuste titill & bi his chivalriWas king bi conquest of\n                    brutes albion\u2026\n",
+            "Last Lines": "\n\u2026And the x yere by and byAt Parise he was crownid\n                    truli\n",
+            "Note": "\n224 lines; first ten based on 5731\n",
+            "folio": "ff. 2-9"
+        },
+        "BLHar78": {
+            "First Lines": "\natt Westmynster William Crownyd wasThe ffurst daye of\n                    Cristemasse\u2026\n",
+            "Last Lines": "\n\u2026In the x yere by and byhe was Crownyn in parys\n                    Trowly\n",
+            "Note": "\nNames of kings at head of each stanza, beginning, \u2018William\n                    Conquerowr\u2019 f. 69v, and prose notes in margins",
+            "folio": "ff. 69v-72"
+        },
+        "BLHar4205": {
+            "First Lines": "\nAt westminster william I crowned wasthe first day of Cristymasse\u2026\n",
+            "Last Lines": "\n\u2026And the xe yere by and byAt Parys was crownyd trewly\n",
+            "Note": "\n217 lines, with Full-page illustrations of each of the kings.s",
+            "folio": "ff. 1-8"
+        },
+        "BLSl1986": {
+            "First Lines": "\nAt Westmynster William i crownyd wasThe furst day then of\n                    Crystemas\u2026\n",
+            "Last Lines": "\n\u2026And in \u021de regne of the xix \u021dere verament\u00fee\n                    duke of york whas made of france regent\n",
+            "Note": "\nAdditional eight lines at end on reign of Henry VI",
+            "folio": "ff. 103-110v"
+        },
+        "Aylesford": {
+            "First Lines": "\n\u2026At westmynstre William y crowned was\n                    The furst day of Crystynmasse\n                    A grete thyng dyd he thanne\n                    Made the kyng of Scottes hys legeman\u2026\n",
+            "Last Lines": "\n\u2026In hys regne the viij. \u021dere\n                    he was Crowned at westmynstre\n                    And the x. \u021dere by and by\n                    At Parys he was Crowned truly\n                \n",
+            "Note": "\nPhotocopies in Warwickshire, Warwickshire Record Office Z 155[L], and Coventry, Coventry Archives Acc. 351. At end, portrait of Edward IV but no stanza to describe his reign.",
+            "folio": "roll"
+        },
+        "Hertfordroll": {
+            "First Lines": "\n\u2026[ ] king of s[ ]Also of [ ]y h[ ][ ]glond he [ ][\n                    ] regned here [ ]Be [ ]nd [ ] see he [ ]\u2026\n",
+            "Last Lines": "\n\u2026And the x yere by and byAtt Paris he was crovnyd\n                    truly\n",
+            "Note": "\nA roll; top damaged so that text illegible; first legible words from\n                    usual line 4 of the text",
+            "folio": ""
+        },
+        "CollArmsAr58": {
+            "First Lines": "\nAt Westmynster William I Crovned was\u2026\n",
+            "Last Lines": "\n\u2026And the x yere by and byAt Parys he was crouned\n                    truly\n",
+            "Note": "\nConcluding interpolation in 1193; post-medieval transcription is Cambridge UK,  Magdalene College Pepys 2833, ff. 519-526 ",
+            "Editions": "\nHearne,  Thomas,\n                        ed.  \n             Robert of Gloucester\u2019s Chronicle.\n         Oxford: at the Theatre, 1724; repr. 1810: 585-95.\n",
+            "folio": "ff. 335v-342v"
+        },
+        "YaleBeiOsa14": {
+            "First Lines": "\nThis [ ] William Duk of NormandyThat by Iust tytell And Also by\n                    chyualryConquered this lond And kynge bycomeAnd the kynge of scottes\n                    made his lechman\u2026\n",
+            "Last Lines": "\n\u2026And in \u021de regne of the xix \u021dere verament\u2026The\n                    vi herry Brougth forth in vertuBy Iuste tytell born by\n                    enherytanceAfore provyded by grace of criste IhesuTo were ii crounes\n                    in Englond & ffraunseCrowned at Westmester \u00fee viii \u021dyer of\n                    his reigneAnd in his x \u021dyer a parys in substaunceRyally Resseyuyd\n                    for lord and souereynAs rightfull kyng of Englond and ffraunseTo whom\n                    oure lord hath gyff suffisaunceOf wertuous lyfe and chose hym for his\n                    kneyteNow lord hym send such gouernauncelonge to reigne\n                    reioyse and reigne in his reght\n",
+            "Note": "\nFollowed by note, \u2018Phelop the kyng of ffraunse had Isew in sonnus\n                    which iii sonnus deyd with oute Isew, And \u00feen he had a dou\u021dter\n                    \u00feat higte Isabell \u00fee wich was Maryed to kyng Edward off Carnaruerne By\n                    whom sche had Isew kyng Edward of Wyndesore and after the deth of \u00feis iii\n                    sonnus Phelyp \u00fee son off Charlys of Valays was made kyng wich Charlys was\n                    Broder to \u00fee forseyd kyng Phelype fadur to Isabell and \u00feus wrongfully\n                    dysheryth \u00fee seyd Edward of Wyndesore which was rigfull eyer to Eynglond\n                    and ffraunse\u2019 (end of roll); second word illegible due to\n                    wear",
+            "folio": "roll"
+        },
+        "NYPLSpenc193": {
+            "First Lines": "\nAt Westmynster William crowned was\u00fee first day of\n                    Cristenmas\u2026\u2026After hym reygned his sone full ry\u021dtHerry\n                    \u00fee v \u00feat \u021donge knycht[ ] with good [ ]Was his vncle a[\n                    ]nyst \u00fee [ ]& iij \u00fee [ ]\u2026\n",
+            "Last Lines": "\n\u2026After hym reygnd his sone full ry\u021dt\u00fee vj Herry\n                    \u00feat noble knyght\u2026\n",
+            "Note": "\nA roll; at end, text partly damaged by damp or wear, and partly lost\n                    through loss of last vellum piece",
+            "folio": "roll"
+        },
+        "TokyoTak35": {
+            "First Lines": "\nEdwarde \u00fee first renyde trwlyAnd sonne he was to kynge\n                    herryHe conqueryde than all scottlandAnd tok Irelande in to his\n                    hand\u2026\n",
+            "Last Lines": "\n\u2026And \u00fee tente yere by and byAt parys he was crownyde\n                    truly\n",
+            "Note": "\nBegins with Edward I; roll covers earlier kings, but only in Latin\n                    prose; ends in reign of Henry VI.",
+            "folio": "roll"
+        },
+        "TokyoTak52": {
+            "First Lines": "\n[ ] by \u021donde \u00fee [ ]In Normandy h[ ]d a hameAnd ys\n                    buryid in \u00fee toune of Came\u2026\n",
+            "Last Lines": "\n\u2026And in the x-th \u021dere by and byAt parys he was cronyd\n                    truly\n",
+            "Note": "\nDamaged at top of first membrane, so part of text at beginning is\n                    lost.",
+            "folio": "roll"
+        },
+        "StA38660": {
+            "First Lines": "\nAtt Westminster William i Crownyd was\n                    The firste day of Crystynmas\n                    A grett thynge aftur dyd he than\n                    He made the kynge of scottis his ligeman\n                    \u2026\n",
+            "Last Lines": "\n\u2026He regnyd xxij yere & moore\n                    And to langeley he was y boore\n                    But in the .v. kynge harryes tyme\n                    He was leyde at westmynstere by Anne the quene\n                \n",
+            "Note": "\nEnds imperfectly after the stanza on Richard II, due to loss of third membrane, though portrait of Henry IV in its roundel survives at base of second membrane. Starts with large medallion with full-length portrait and text: \u201cWillelmus Conquerour,\u201d text beneath.",
+            "folio": "roll"
+        },
+        "SomersetDDS": {
+            "First Lines": "\nAt Westmynstr William y crowned was\n                    The forste daye of Cristynmas\n                    A grett thyng aftur dyd he thanne\n                    He made the kyng of scottes hys lyege man\u2026\n",
+            "Last Lines": "\n\u2026In hys regne the viij yere\n                    he was crowned att Westmynstre\n                    And the .x yere by and by\n                    Att paryse he was crowned trewly\n                \n",
+            "Note": "\nAlongside the final stanza is a 6-line extension to in a different hand and ink:\n                    \n                    At laste of his enemys \u00feat were\n                    I sleyne he was and suffred deth cruell\n                    Almost xl wynter he raynyd here\n                    he lay in cherssay many a yere\n                    Aftyr transferred to windsesore with solace\n                    Now euery man may know what he was\n                    \n                    But the main hand/ink continues directly below the Henry VI stanza with a prose note about Edward III\u2019s claim to the throne of France.\n                ",
+            "folio": "roll"
+        },
+        "Northallerton": {
+            "First Lines": "\n\u2026Thanne reyned Willilam the secunde sonne\n                    A Full stueue lokeyng goome\n                    he yawe the eldyr brothyr for his parte\n                    Euery yere iij thowsande marke\u2026\n",
+            "Last Lines": "\n\u2026yn hys [\u202f\u202f\u202f]ne the viij yere\n                    [\u202f]e was crowned at westemynster\n                    [\u202f]nd in the x yer by and by\n                    \u202fwas crowned at paryse\n                    \u2026 wyrshypfully\n                \n",
+            "Note": "\nAdded to dorse of an account roll. First stanza missing so begins William Rufus, though it retains the portrait of William I in a roundel. Begins roundel and sketch of William I with space left for verse but text not supplied; text thus begins with William II stanza. The roll is damaged at the left side here, and the ME text is set right at the left so the starts of lines are lost, but it is clearly the Henry VI stanza.\n                ",
+            "folio": "roll"
+        }
+    }
+}

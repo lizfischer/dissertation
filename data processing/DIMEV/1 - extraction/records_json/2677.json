@@ -1,0 +1,142 @@
+{
+    "_id": 2677,
+    "_header": "Insufficiency of cunning and of wit",
+    "Note": "For extracts occurring separately see 2078, 4490.",
+    "Author(s)": "John Walton; Boethius",
+    "Title(s)": "De consolatione philosophiae",
+    "Subjects": "mutability; translations; instruction, philosophical",
+    "Versification": "\u2014 eight-line, seven-line \u2014 ababbcbc, ababbcc",
+    "Bibliographic Ghosts": "Untraced, Present whereabouts unknown Cited in the IMEV as \u2018? Helmingham Hall\u2019; possibly Newberry Library MS f36",
+    "_description": "John Walton\u2019s metrical version of Boethius (with Translator\u2019s Preface and Prologue) \u2014 7584 lines in 8-line stanzas (ababbcbc) and rhyme royal (Books IV and V)",
+    "_witnesses": {
+        "BodeMus53": {
+            "First Lines": "\nINsufficiens of konnynge and of witteDefaute of langage and of\n                    eloquence\u2026\n",
+            "Last Lines": "\n\u2026but alle \u00feise passeth yit intelligenceas be a sight of\n                    \u00feeire excellence\n",
+            "Note": "\nA few leaves cut out at end",
+            "folio": "ff. 1-112v"
+        },
+        "BodRawPoe151": {
+            "First Lines": "\nAnd eke in reuerence of \u021doure worthynesseThis symple werk as\n                    for ane obseruaunce\u2026\n",
+            "Last Lines": "\n\u2026Vn to \u00fee presence of \u00fee iuge on hye\u00feat all\n                    \u00feing doth beholde plenerly\n",
+            "Note": "\nBegins imperfectly with the last four lines of Translator\u2019s\n                    Preface. At the end: \u2018Explicit liber Boecii de consolacione philosophie de\n                    latino in Anglicum translatus Anno domini anllmo cccc(mo) r(o) per capellanum\n                    Iohannem\u2019.",
+            "folio": "ff. 1-108v"
+        },
+        "BodDou100": {
+            "First Lines": "\nUN suffischaunce of kunnyng and of witDefawte of langage and of\n                    eloquence\u2026\n",
+            "Last Lines": "\n\u2026And so of other craftes sewynglyDooth any \u00feing \u00feese\n                    crafty men compel\n",
+            "Note": "\nEnds imperfectly",
+            "folio": "ff. 1-104v"
+        },
+        "OxfBal316A": {
+            "First Lines": "\nINsuffishaunce of connyng & wytteDefaute of langage & of\n                    eloquence\u2026\n",
+            "Last Lines": "\n\u2026Vn to \u00fee presence of \u00fee Iuge on hieThat all\n                    \u00feinge doth beholde plenerlye\n",
+            "Attributed Title": "\nExplicit liber Boicii de consolacione philosophie de latino in Anglicum\n                        translatus per Iohannem Waltoun nuper Canonicum de Osenye Anno domini\n                        Milesimo CCCCmo decimo (f. 109v)",
+            "folio": "ff. 2-109v"
+        },
+        "OxfChrCh151": {
+            "First Lines": "\nIN suffishaunce of connyng & wytteDefaute of langage & of\n                    eloquence\u2026\n",
+            "Last Lines": "\n\u2026Vn to \u00fee presence of \u00fee Iuge on hieThat all\n                    \u00feing doth beholde plenerly\n",
+            "Note": "\nVerse form: 8-line stanzas ababbcbc and rhyme royal",
+            "Attributed Title": "\nExplicit liber Boitij de Consolacione Philosophie de Latino in Anglicum\n                        translatus per Iohannem Waltonum nuper Canonicum de Oseneye Anno domini\n                        1410 (at end)",
+            "folio": "first item in the manuscript (MS has no foliation)"
+        },
+        "OxfNew319": {
+            "Note": "\nBegins imperfectly with the last two lines of Translator\u2019s\n                    Preface",
+            "folio": "f. 1"
+        },
+        "OxfTri21": {
+            "Note": "\nWithout Translator\u2019s Preface or Prologue",
+            "folio": ""
+        },
+        "CULGg418": {
+            "First Lines": "\nThe Whyle \u00feat Rome Was regnyng in Hys FlouresAnd of \u00fee\n                    world held all \u00fee monarchye\u2026\n",
+            "Last Lines": "\n\u2026Vn to \u00fee presence of \u00fee Iuge on hye\u00deat all\n                    thing doth behold plenerly\n",
+            "Note": "\nWithout Translator\u2019s Preface",
+            "Attributed Title": "\nExplicit liber Boecii de consolacione philosophie de latino in anglicum\n                        translatus Anno domini Mie ccccmo*mo Per\n                        Capellum Johannem (f. 112v)",
+            "folio": "ff. 1-112v"
+        },
+        "CULAdd3573": {
+            "First Lines": "\nINsufficiaunce of conning and of WytDefaute of langage and of\n                    Eloquence\u2026\n",
+            "Last Lines": "\n\u2026And so it hyndrith hym to a litill stoundeTo haue a maner\n                    perdurablenesse\u2026\n",
+            "Note": "\nImperfect, with note \u2018leaves 93-96 gone\u2019; 3 other leaves\n                    missing as noted in collation inside back cover",
+            "folio": "ff. 1-92v"
+        },
+        "CamStJohn196": {
+            "First Lines": "\nINsuffychance of Connyng And WitteDefaute of langage and of\n                    eloquence\u2026\n",
+            "Last Lines": "\n\u2026Whiche on \u00fee sight of his eterniteBene presente nowe but\n                    to \u00fee sight of man\u2026\n",
+            "Note": "\nEnds imperfectly; catchword \u2018There tym \u00feei\u2019 (f.\n                        80v)",
+            "folio": "ff. 1-80v"
+        },
+        "CamFitzMc184": {
+            "First Lines": "\nInsufficience of connynge and witteDefaute of langage and\n                    eloquence\u2026\n",
+            "Last Lines": "\n\u2026Vnto \u00fee presence of \u00fee Iuge on hye\u00feat all\n                    \u00feing beholde\u00fe plenerlye\n",
+            "Attributed Title": "\nExplicit liber Boicii de consolacione philosophie translatus de Latino\n                        in Anglice 1410 anno (f. 119)",
+            "folio": "ff. 1-119"
+        },
+        "BLHar43": {
+            "First Lines": "\n\u2026Allas I wrech that whylom was in wel\u00feeAnd lusty song\n                    vsede for to wry\u021dte\u2026\n",
+            "Last Lines": "\n\u2026ffor whi the knowyng of dyuyne sightHit gothe by fore\n                    \u00feat thyng \u00feat shold be fall\u2026\n",
+            "Note": "\nWithout Translator\u2019s preface or prologue; begins with 5-line\n                    decorated initial; ends incomplete at usual lower margin of a\n                    verso.",
+            "folio": "ff. 4-86v"
+        },
+        "BLHar44": {
+            "First Lines": "\nINsuffisaunce of cummyng and of wytteDefaute of langwage and of\n                    Eloquence\u2026\n",
+            "Last Lines": "\n\u2026Vnto the presence of the Iuge an hyeThat al thyng doith be\n                    holde playnerly\n",
+            "Note": "\nWith a Proheme of 31 st. on f. 2.",
+            "Attributed Author": "\nJohannem (f. 102)",
+            "Attributed Title": "\nBoetius De Consolatione Philosophiae (f. 1v, added by a later\n                    hand); Explicit liber Boecii de consolacione Philosophie de latino in\n                        anglicum translatus Anno domini Millesimo CCCCmo xmo\n                        per Capellanum Johannem (f. 102, by scribe)",
+            "folio": "ff. 2-102"
+        },
+        "BLRoy18Axiii": {
+            "First Lines": "\nInsuffisiaunce of cunnyng & of witDefaut of langage & of\n                    eloquence\u2026\n",
+            "Last Lines": "\n\u2026Vnto \u00fee presence of \u00fee iuge on hyeThat all thinge\n                    doth beholde plenerlye\n",
+            "Note": "\n348 stanzas only; classmark changed as per Gray.",
+            "Attributed Author": "\nIohannem (f. 113v)",
+            "Attributed Title": "\nExplicit liber Boetij de consolacione philosophie de latio in anglicum\n                        translatus. Anno domini milesimo CCCCmo Xo per\n                        capellum Iohannem (f. 113v)",
+            "Editions": "\nSchuemmer,  Carl,\n                        ed.  \n             John Waltons metrische \u00fcbersetzung der Consolatio\n                Philosophiae.\nBonner Studien zur Englischen Philologie\n         6. Bonn: Hanstein, 1914. \n",
+            "folio": "ff. 2-113v"
+        },
+        "BLSl554": {
+            "Note": "\nBegins imperfectly",
+            "folio": "ff. 1-52v"
+        },
+        "DULCosVii15": {
+            "First Lines": "\n\u2026Soo that in shenshippe And confusionOf alle this foule\n                    worldy wrecchidnes\u2026\n",
+            "Last Lines": "\n\u2026vnto the presence of the Iugis on hyewhiche alle thynge\n                    doothe beholde plenerly Explicit\n\n",
+            "Note": "\nWithout first 8 of 9 stanzas of the Translator\u2019s Preface (one\n                    folio missing), so begins at line 65.",
+            "Attributed Title": "\nBoetius his 5 Bookes of Philosophicall Comfort (f. 1v)",
+            "folio": "ff. 2-112v"
+        },
+        "Lincoln103": {
+            "First Lines": "\nIN suffishaunce of cunnyng & of witDefaut of langage & of\n                    eloquence\u2026\n",
+            "Last Lines": "\n\u2026Vnto \u00fee presence of \u00fee iuge on hye\u00deat al\n                    \u00feing doth be holde plenerlye\n",
+            "Attributed Title": "\nExplicit liber Boecii de consolacione philosophie de latino in anglicum\n                        translatus Anno domini Millesimo ccccmo xo Per\n                        capellum Johanem (f. 100v)",
+            "Editions": "\nScience,  Mark,\n                        ed.  \n             Boethius: De Consolatione Philosophiae, translated by John\n                Walton.\nEETS\n         o.s. 170 (1927); repr. 1971. \n",
+            "folio": "ff. 3-100v"
+        },
+        "SocAnt134": {
+            "First Lines": "\nInsuffisaunce of konnynge and of witDefaute of langage and of\n                    eloquence\u2026\n",
+            "Last Lines": "\n\u2026ffor to dilate his name and his renounAmonges hem \u00feat\n                    dwelle ny\u021de present\u2026\n",
+            "Note": "\nBreaks off in Book II, stanza 10.",
+            "Attributed Title": "\nIn nomine trino hoc opus incipio (f. 283va, rubric);\n                        Explicit prefacio translatoris Incipit prologus eiusdem super librum\n                        Boecii (f. 283vb); Explicit prologue Incipit liber Boecii\n                        de consolacione philosophie (f. 285ra)",
+            "folio": "ff. 283va-297vb"
+        },
+        "Chicago36": {
+            "First Lines": "\nThe wyle that Rome was reynyng in hys flowresAnd of the worlde\n                    helde the monarclyeHe was gouerned than by emperowresAnd was renouned\n                    wonder nobylye\u2026\n",
+            "Last Lines": "\n\u2026Vn to \u00fee presennce of \u00fee Iuge on hye\u00feat all\n                    \u00feing do be holde plenerly\n",
+            "Note": "\nWithout Translator\u2019s Preface. Followed by a Latin prose\n                    recapitulation of the Consolatio Philosophiae, \u2018per dominum I.\n                    Glynton prorem scripsit. .148.\u2019 [sic] (ff.\n                    204-207v).",
+            "folio": "ff. 78-204"
+        },
+        "PhilRos108330": {
+            "First Lines": "\nINsuffisaunce of kunnyng and of wytDefaute of langage and of\n                    eloquence\u2026\n",
+            "Last Lines": "\n\u2026Vn to the presence off the Iuge on hyeThat al thyng dooth\n                    beholde plenerlye\n",
+            "Note": "\nFolios not numbered; this has sig. a.1, beginning second half of\n                    book.",
+            "Attributed Title": "\nHeere begynnyth Boys of the consolacioun of Philosophie (f. 78); Explicit\n                    liber Boecii de consolacione philosophie de latino in Anglicum translatus Anno\n                    domino Millesimo CCCC xo per Capellanum Johannem Teband Alias\n                    Watyrbeche (177v = sig. n.2v)",
+            "folio": "ff. 78-177v"
+        },
+        "CopenThott304": {
+            "Note": "\nBegins and ends imperfectly.",
+            "folio": ""
+        }
+    }
+}

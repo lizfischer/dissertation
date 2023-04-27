@@ -1,0 +1,38 @@
+{
+    "_id": 1011,
+    "_header": "Christ that bread broke",
+    "Note": "Texts vary materially; see also 1602.",
+    "Subjects": "grace, at meals",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "Grace before supper \u2014 six or eight lines",
+    "_witnesses": {
+        "CamNewn4": {
+            "Transcription": "\nGod that his brede brakeat his mawde whanne he sateAmong his\n                    postyllis twelueHe bles oure brede and oure ayl\u00deat we haw and haw\n                    schaland be with vs him selwe\n",
+            "Note": "\nWritten as prose; followed by line, \u2018In nomine patris &\n                        filii & spiritus Sancti / Amen\u2019.",
+            "Attributed Title": "\ngracias (left margin, f. 109v)",
+            "Editions": "\nSimmons,  Thomas Frederick. \n             The Lay Folks\u2019 Mass Book.\nEETS\n         o.s. 71 (1879); repr. 1968: 60.\n",
+            "folio": "f. 109v"
+        },
+        "BLHar2339": {
+            "Transcription": "\nCrist \u00feat breed brak at \u00fee soper \u00feer he satWi\u00fe\n                    hise apostlis twelueBlesse oure breed and oure aleAnd \u00feat we haue\n                    & haue schaleAnd fede us wi\u00fe him silfAnd graunte us grace of\n                    gostli fodeOf breed of liif \u00feat is so goodeTo fede wi\u00fe oure\n                    soulis amen\n",
+            "Attributed Title": "\nGracis afore soper (rubricated, f. 122v)",
+            "folio": "f. 122v2"
+        },
+        "HerefordO414": {
+            "First Lines": "\nIhesus \u00feat \u00fee bred bracTo hys diciplys \u00feer he\n                    sat\u2026\n",
+            "Last Lines": "\n\u2026And alle that therof eteAnd schylde vs from sorwe &\n                    tene\n",
+            "Editions": "\nBannister,  Arthur Thomas. \n             A Descriptive Catalogue of the Manuscripts in the Hereford Cathedral\n                Library.\n         Hereford: Wilson & Phillips, 1929: 48.\n",
+            "folio": "f. 199"
+        },
+        "TCD70": {
+            "Transcription": "\nCrist \u00feat breed brakAt his soper \u00feere he satA mong his\n                    postlis twelueblesse oure breed & oure ale& \u00feat we haue\n                    & haue schalAnd fede us wi\u00fe him selueand graunte us grace of\n                    goostli fodeOf breed of liif \u00feat is so godeTo fede wi\u00fe oure\n                    soule amen\u00deat is to seie goddis word& cristis fleisch &\n                    his blood\n",
+            "Attributed Title": "\nGraces bifor soper (bottom f. 194v)",
+            "folio": "f. 195"
+        },
+        "Holkham229": {
+            "Transcription": "\nGode \u00feat hys bred[e bra]ke& wyt hys syplys spakebleys\n                    howr [me]te& al \u00feat \u00feerof schal hete& sch[y]w us all\n                    fro teneamen amen pur [charite]\n",
+            "Editions": "\nGriffiths,  Jeremy. \n             \u201cUnrecorded Middle English Verse in the Library of Holkham Hall,\n                Norfolk.\u201d \n             Medium \u00c6vum\n         64 (1995): 278-84: 282.\n",
+            "folio": "small vellum fragment bound in at end of volume"
+        }
+    }
+}

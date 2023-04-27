@@ -1,0 +1,44 @@
+{
+    "_id": 4403,
+    "_header": "Pride is head of all kind sin",
+    "Subjects": "sins, deadly",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Seven Deadly Sins \u2014 sixteen couplets",
+    "_witnesses": {
+        "CULFf238": {
+            "First Lines": "\nPryde ys hedd of allyre synne\u00feat maky\u00fe mannys soule fro\n                    god to twynneTo wyckyd hyghnes he wole ayAnd loue\u00fe to moche hys\n                    owne noblay\u2026\n",
+            "Last Lines": "\n\u2026These ben the synnes seueneThat reuen men \u00fee blys of\n                    heuene\n",
+            "Attributed Title": "\nHere suen \u00fee vii deedly synnes (f. 32vb)",
+            "Facsimiles": "\nMcSparran,  Frances,  and  Pamela R. Robinson.  \n             \u201cIntroduction.\u201d \n             Cambridge University Library MS Ff.2.38.\n         London: Scolar Press, 1979. \n",
+            "folio": "f. 32v"
+        },
+        "CamMagPep1584": {
+            "First Lines": "\nPride is hed of all maner synthat makith mannys soule from god to\n                    wynTo wickydnes & hyghnes he will ayAnd louyth to moche his own\n                    noblay\u2026\n",
+            "Last Lines": "\n\u2026Theis be \u00fee synnys sevynThat Reuyn men \u00fee blis of\n                    hevyn\n",
+            "Attributed Title": "\nThe vii dedly synnes (f. 107v); The vii dedly synnys (RT, f.\n                    108); These ben \u00fee vii deedly synnis \u00feat folowith (added by later\n                    hand, f. 107v)",
+            "folio": "ff. 107v-108v"
+        },
+        "BLHar1706": {
+            "First Lines": "\nPryde ys hede of alle kynne synne\u00feat make\u00fe mannes soule fro god to twyne\u2026\n",
+            "Last Lines": "\n\u2026\u00feese ben \u00fee synnes seuene\u00feat reuen a man \u00fee blysse of heuene\n",
+            "Note": "\nLatin terms for vices in rubric in outer margins beside first line on each.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 1706.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_1706. \n",
+            "Editions": "\nHeuser,  Wilhelm. \n             Die Kildare-Gedichte\u2026\nBonner Beitr\u00e4ge zur Anglistik\n         14. Bonn: P. Hanstein, 1904: 205.\n",
+            "folio": "ff. 205v-206"
+        },
+        "BLHar2339": {
+            "First Lines": "\nPride is heed of all kyns synne\u00feat maki\u00fe mannys soule fro\n                    god to twyn\u2026\n",
+            "Last Lines": "\n\u2026These ben \u00fee synnes seuene\u00deat reuen men \u00fee\n                    blis of heuene\n",
+            "Attributed Title": "\n\u00deese ben \u00fee vij deedly synnes \u00feat suen (rubricated, f.\n                        116v)",
+            "Editions": "\nBlack,  William Henry. \n             \u201cA Paraphrase on the Seven Penitential Psalms.\u201d \n             Percy Society\n         7. London: Richards, 1842: 61-2.\n",
+            "folio": "ff. 116v-117v"
+        },
+        "Ushaw28": {
+            "First Lines": "\nPride is hede of alle kinnesse syn\u00feat make\u00fee mannes soule\n                    fro god to twyn\u2026\n",
+            "Last Lines": "\n\u2026\u00feies ben \u00fee synnes seuen\u00feat reuen a man\n                    \u00fee blisse of heuen\n",
+            "Note": "\nIn Speculum Cristiani, Quarta Tabula\n",
+            "Attributed Title": "\nSeptem peccata mortalia (f. 76)",
+            "folio": "ff. 76-77"
+        }
+    }
+}

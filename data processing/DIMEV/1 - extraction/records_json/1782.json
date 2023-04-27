@@ -1,0 +1,73 @@
+{
+    "_id": 1782,
+    "_header": "Harkeneth all to my speech",
+    "Title(s)": "\u2018Speculum Gy de Warewyke\u2019; \u2018Speculum Mundi\u2019; \u2018Speculum vtile istius mundi\u2019",
+    "Subjects": "Guy of Warwick; Romances",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018Speculum Gy de Warewyke\u2019 (also entitled \u2018Speculum Mundi\u2019 and \u2018Speculum vtile istius mundi\u2019) \u2014 in couplets",
+    "_witnesses": {
+        "BodAddC220": {
+            "First Lines": "\nHErkene\u00fe alle to my speche& helpe of soule y wol \u021dow\n                    teche\u00feat y wole speke it is no fableAc it is swy\u00fee\n                    profytable\u2026\n",
+            "Last Lines": "\n\u2026for \u021dif he dede he wot welhe scholde lese of his\n                    catel\u2026\n",
+            "Note": "\nLines 1-896 only.",
+            "folio": "ff. 2va-8vb"
+        },
+        "CULDd1189": {
+            "First Lines": "\nHerkene\u00fe all vnto my specheHele of saule I wyll \u00feu\n                    teche\u2026\n",
+            "Last Lines": "\n\u2026In trow\u00fee loue & in chariteAmen Amen so mot it\n                    be\n",
+            "folio": "ff. 162v-179v"
+        },
+        "CamStJohn256": {
+            "First Lines": "\nlestnet alle to my spelleHel\u00fee of soule i wil \u021dou\n                    telle\u00feat i wil saie nis no fablebote it is swi\u00fee\n                    profitable\u2026\n",
+            "Last Lines": "\n\u2026& god leue so mote weSey alle amen par\n                    charite\n",
+            "folio": "pp. 254a-269a"
+        },
+        "BLAdd36983": {
+            "First Lines": "\nHerkene\u00fe alle to my spelleAnd hele of soule I wolle\n                    telle\u2026\n",
+            "Last Lines": "\n\u2026In trewe loue & chariteAmen amen so mow hit\n                    be\n",
+            "Attributed Title": "\nIncipit alquyne (f. 258rb); Explicit alquyne (f.\n                        274ra)",
+            "folio": "ff. 268rb-275ra"
+        },
+        "BLAru140": {
+            "First Lines": "\nHErkeny\u00fee all to my specheAnd heel of soul I wyll \u021dow\n                    tech\u2026\n",
+            "Last Lines": "\n\u2026\u00dee bonde nyl neuer lond ne styllDo nou\u021dt a\n                    \u021deyne his lordes wyll\n",
+            "folio": "ff. 147ra-151vb"
+        },
+        "BLHar525": {
+            "First Lines": "\nHerkenithe all vn to my speche& hele of sowle I wylle you teche\u2026\n",
+            "Last Lines": "\n\u2026And that hit soo mote beeAmen Amen for seynte charyte\n",
+            "Note": "\nWith many omissions.",
+            "Attributed Author": "\nsir Alquinum heremite (f. 53)",
+            "Attributed Title": "\nExplicit speculum Gy de Warewyk (f.53)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 525.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_525. \n",
+            "folio": "ff. 44-53"
+        },
+        "BLHar1731": {
+            "First Lines": "\nHArkene\u00fe al to my specheAnd heel of soul I wil \u021dow teche\u2026\n",
+            "Last Lines": "\n\u2026And leue & flye synful dedeBo\u00fe for luffe & for drede\u2026\n",
+            "Note": "\nLines 1-910 only, ending imperfectly at bottom of folio, end of volume.",
+            "folio": "ff. 134-148v"
+        },
+        "BLRoy17Bxvii": {
+            "First Lines": "\nHerkens alle to my specheAnd hele of soule I wil \u021dou\n                    teche\u2026\n",
+            "Last Lines": "\n\u2026In trewe loue & chariteAmen amen so mot hit\n                    be\n",
+            "Attributed Title": "\nExplicit hic speculum vtile istius mundi (f. 36)",
+            "Editions": "\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 2.24-36.\n",
+            "folio": "ff. 19-36"
+        },
+        "NLS1921": {
+            "First Lines": "\nHerkne\u00fe alle to my specheAnd hele of soule i may ou\n                    teche\u2026\n",
+            "Last Lines": "\n\u2026\u00deat is king [ ]And \u021deue us [ ]\u2026\n",
+            "Note": "\n1031 lines; ends imperfectly due to loss of part of folio.",
+            "Facsimiles": "\nPearsall,  Derek,  and  I. C. Cunningham, eds.  \n             The Auchinleck Manuscript. National Library of Scotland\n                Advocates\u2019 MS. 19.2.1.\n         London: Scolar Press, 1977. \n",
+            "Editions": "\nMorrill,  Georgiana Lea,\n                        ed.  \n             Speculum Gy de Warewyke.\nEETS\n         e.s. 75 (1898); repr. 1988. \n",
+            "folio": "ff. 39ra-48ra"
+        },
+        "RylandsEng50": {
+            "First Lines": "\nHerkenes alle to my specheAnd hele of soule I may \u021dow\n                    teche\u2026\n",
+            "Last Lines": "\n\u2026The vertu of he[ ]teff[ ] \u00feing wolde [ ] \u00feow\n                    show\n",
+            "Note": "\nLines 1-659 only; ends incomplete, damaged by damp.",
+            "folio": "pp. 205-224"
+        }
+    }
+}

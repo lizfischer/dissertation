@@ -1,0 +1,15 @@
+{
+    "_id": 5237,
+    "_header": "The commandments expounded here enden I you say",
+    "Subjects": "epilogues, to prose texts",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Intro to Middle English prose text on the Ten Commandments \u2014 one couplet",
+    "_witnesses": {
+        "CamMagPep2498": {
+            "Transcription": "\n\u00dee comaundementz expouned here enden I \u021dou seievnto \u00fee\n                    blis of heuene god vs wisse \u00fee weie\n",
+            "Note": "\nAs colophon to preceding prose work introduced by 4220.",
+            "Editions": "\n\nJames,  Montague Rhodes. \n             Bibliotheca Pepysiana: A Descriptive Catalogue of the Library of Samuel\n                Pepys. Pt. III: Medieval Manuscripts.\n         London, 1923: 3.107.\nP\u00e5hlsson,  Joel,\n                        ed.  \n             The Recluse: a Fourteenth Century Version of the Ancren Riwle.\n         Lund: Ohlsson, 1911: iv.\n\n",
+            "folio": "p. 226b"
+        }
+    }
+}

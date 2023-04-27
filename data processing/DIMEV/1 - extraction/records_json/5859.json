@@ -1,0 +1,16 @@
+{
+    "_id": 5859,
+    "_header": "Thou that madest all thing",
+    "Subjects": "paraphrases; translations; God, hymns to",
+    "Versification": "\u2014 three-line, four-line \u2014 aaa, aabb",
+    "_description": "A paraphrase of \u2018Aspice mitissime conditor\u2019, etc. \u2014 fourteen lines in 3- or 4-line stanzas",
+    "_witnesses": {
+        "CamTCC323": {
+            "First Lines": "\n\u00deu \u00fead madist alle \u00feincmi suete fadir hewene\n                    kinc\u2026\n",
+            "Last Lines": "\n\u2026fadir \u00feau monkine abidon folieMid mine wondis for hem\n                    mercy ic \u00fee crie\n",
+            "Note": "\n6-line Latin verse, \u2018Aspice mitissime\n                    conditor\u2026\u2019, precedes it; written two lines of verse per line in\n                    MS.",
+            "Editions": "\nBrown,  Carleton Fairchild,\n                        ed.  \n             English Lyrics of the XIIIth Century.\n         Oxford: Clarendon, 1932: 61.\n",
+            "folio": "f. 83v"
+        }
+    }
+}

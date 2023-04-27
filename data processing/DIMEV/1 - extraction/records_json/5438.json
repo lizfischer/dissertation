@@ -1,0 +1,21 @@
+{
+    "_id": 5438,
+    "_header": "The pope hath granted a full fair pardon",
+    "Subjects": "rubrics; indulgences",
+    "Versification": "\u2014 six-line",
+    "_description": "An introductory rubric to 1164.",
+    "_witnesses": {
+        "BLAdd37787": {
+            "Transcription": "\n\u00dee pope ha\u00fe graunt a ful fayre pardonTo al \u00feo \u00feat\n                    seye\u00fe \u00feis matens with good devocionOn\n                    \u00feer\u2026remissionSo \u00feat he be clene shre\u00feuen with very\n                    contritionGod sende us lyues fode & in heuyn a place\u00derouh\n                    godes grace\n",
+            "Note": "\nThird line includes a crossing out of \u2018to pardon\u2019, and a\n                    smudging of the ink which makes one word indecipherable.",
+            "Editions": "\nBaugh,  Nita Scudder. \n             A Worcestershire Miscellany, compiled by John\n                    Northwood, c. 1400, edited from British Museum MS. Add.\n                37,787.\n         Philadelphia, 1956: 98.\n",
+            "folio": "f. 12v1"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\n\u00dee Pope Ion ha\u00fe grauntedA ful feir pardounTo alle\n                    \u00feat siggen \u00feis MatynsWi\u00fe good deuocioun\u2026\n",
+            "Last Lines": "\n\u2026God sende us lyues fodeAnd in heuene a place.\n                    AMEN.\n",
+            "Note": "\n11 line rhyming abcbdbebfgf, as colophon to 1164.",
+            "folio": "f. 116va1"
+        }
+    }
+}

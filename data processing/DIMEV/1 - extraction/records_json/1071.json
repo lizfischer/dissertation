@@ -1,0 +1,38 @@
+{
+    "_id": 1071,
+    "_header": "Considerance is taken at prudence",
+    "Note": "For Latin texts see Singer (1928)\nXSinger, Dorothea Waley. Catalogue of Latin and Vernacular Alchemical Manuscripts. 3 vols. Brussels: Lamertin, 1928-31, 2.649-51.",
+    "Author(s)": "Palladius",
+    "Title(s)": "Palladius on Husbondrie",
+    "Subjects": "agriculture",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "Bibliographic Ghosts": "Oxford, Bodleian Library Arch. Dd.1 (SC 31502) [photographic facsimile (1893) of Oxford, Bodleian Library Duke Humfrey d.2 [olim Earl Fitzwilliam]]: see BodEngPoed27.",
+    "_description": "Palladius on Husbondrie, in twelve books \u2014 rhyme royal stanzas",
+    "_witnesses": {
+        "BodAddA369": {
+            "First Lines": "\nConsideraunce is taken atte prudenceWhat mon me moost enfourme and\n                    husbondrieNo Rethorik doo teche or eloquenceAs sum haue doon hemself\n                    to magnifie\u2026\n",
+            "Last Lines": "\n\u2026Doon in and dreynt a cruste vpon it makeAnd fille it to the\n                    brinke vntil it take\n",
+            "Note": "\nBegins with the table of contents entitled \u2018Tabula\u2019; the\n                    title page and part of the table of contents are missing; the text of the poem\n                    starts on f. 14v; ends imperfectly due to loss of folios at\n                    end.",
+            "Attributed Title": "\nDe precepis rei Rustice (f. 14v)",
+            "Editions": "\nLodge,  Burton,  and  S. J. Herrtage, eds.  \n             Palladius on Husbondrie.\nEETS\n         o.s. 52, 72 (1872, 1879); repr. 1988. \n",
+            "folio": "ff. 14v-121v"
+        },
+        "BodDHumd2": {
+            "First Lines": "\nCOnsideraunce is taken at prudenceWhat man me must enfourme And\n                    husbondrie\u2026\n",
+            "Last Lines": "\n\u2026Thy self in hym to se yit treste y crieThy lande And his\n                    honour eft precouise\n",
+            "Note": "\nWith an introduction, for which, see \u2018Agriculture\u2026\u2019,\n                    and a table of contents, ff. ix-xviiiv and two-stanza envoy;\n                    photographic facsimile is Oxford,  Bodleian Library Arch. Dd.1 (SC 31502) [photographic facsimile (1893) of Oxford,  Bodleian Library Duke Humfrey d.2 [olim Earl Fitzwilliam]], ff. 19-260v, made\n                    in 1893 as \u2018Earl Fitzwilliam MS of Palladius on\n                    Husbondrie\u2019.",
+            "Editions": "\n\nLiddell,  Mark Harvey,\n                        ed.  \n             The Middle-English translation of Palladius de re rustica.\n         Berlin: Ebering, 1896. \nDe la Mare,  A. C. \n             \u201cDuke Humfrey\u2019s English Palladius (MS. Duke Humfrey d.2).\u201d \n             Bodleian Library Record\n         12, no. 1 (Oct., 1985): 39-51, figs 1-4: 39-51, figs 1-4.\n\n",
+            "folio": "ff. 1-118v"
+        },
+        "BLHar116": {
+            "Note": "\nTranslated by Nicholas Bollarde.",
+            "folio": "f. 154"
+        },
+        "GULHun104": {
+            "First Lines": "\n\u2026Vche graffe and grayne is good but aftir preefDo sowe or\n                    graffe And seedis newe eschewe\u2026\n",
+            "Last Lines": "\n\u2026Yit lond so lute & lene if hit be softeWol bere gresse if\n                    hit be wattred ofte\u2026\n",
+            "Note": "\nPreceded by list of contents, ff. 1-6v; begins and ends\n                    imperfectly (in September) due to loss of folios at beginning and quires at end;\n                    catchword \u2018This tyme is to\u2019 bottom f. 64v.",
+            "folio": "ff. 7-64v"
+        }
+    }
+}

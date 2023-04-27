@@ -1,0 +1,403 @@
+{
+    "_id": 5601,
+    "_header": "There was in Asia in a great city",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Prioress\u2019s Tale; Alma redemptoris mater; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; Jews; innocence; Virgin Mary, miracles of",
+    "Versification": "\u2014 rhyme royal, seven-line \u2014 ababbcc",
+    "_description": "Geoffrey Chaucer, the Prioress\u2019s Tale of the Canterbury Tales \u2014 203 lines in 7-line, rhyme royal stanzas.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nTher was in Assie in a grete citeamonges cristen folke a\n                    Iewerye\u2026\n",
+            "Last Lines": "\n\u2026on vs his grete mercy multipliefor reuerence of his moder\n                    Marie Amen\n",
+            "Attributed Title": "\nthe tale (f. 164, margin); the priorasse (RT); Here endith the Priorasse\n                    hir tale\u2026 (f. 167v)",
+            "folio": "ff. 164-167"
+        },
+        "BodBar20": {
+            "First Lines": "\nTher was in acie in a grete citeA monges cristen folke and\n                    Iuwrie\u2026\n",
+            "Last Lines": "\n\u2026On vs his grete mercy multeplieffor reuerence of his moder\n                    marie\n",
+            "Attributed Title": "\nHere endith \u00fee prioresse tale\u2026 (f. 203)",
+            "folio": "ff. 200v-203"
+        },
+        "Bod414": {
+            "First Lines": "\nTher was in assy in a gret CiteAmonges cristen folke A\n                    Iurye\u2026\n",
+            "Last Lines": "\n\u2026On us his gret mercy multiplyeffor the reuerence of his moder\n                    Marye\n",
+            "Note": "\nVII.639 inserted in margin.",
+            "Attributed Title": "\nThe Prioresse tale (f. 145v)",
+            "folio": "ff. 146-148"
+        },
+        "Bod686": {
+            "First Lines": "\nTher was in asye in a grete citeeAmonges Cristen folke in\n                    Iuerye\u2026\n",
+            "Last Lines": "\n\u2026On vs his grete merci multiplyeffor reuerence of his moder\n                    Marye Amen\n",
+            "Note": "\nVII.556-7 reversed.",
+            "Attributed Title": "\n\u2026And here begynneth / the pryores tale of Alma redemptoris\n                        mater (f. 167); Prioresse (RT); Here endeth the pryoresse tale\u2026\n                    (f. 170)",
+            "folio": "ff. 167-170"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nThere was in Asye in a grete CiteA monge cristen folk a\n                    Iurie\u2026\n",
+            "Last Lines": "\n\u2026On vs his grete mercy multiplieffor reuerence of his moder\n                    marie Amen\n",
+            "Attributed Title": "\nffabula (f. 184v, margin); The Prioresse (RT); Here\n                    endeth the tale of \u00fee Prioresse\u2026 (f. 186v)",
+            "folio": "ff. 184v-186v"
+        },
+        "BodLauMis600": {
+            "First Lines": "\nTher was in Asy a gret CiteAmong cristen folk a\n                    Iewerie\u2026\n",
+            "Last Lines": "\n\u2026On vs his grete mercy multiplieffor reuerence of his moder\n                    marie Amen\n",
+            "Note": "\nVII.547-8 reversed.",
+            "Attributed Title": "\nHere begynne\u00fe \u00fee tale of \u00fee Prioresse (f. 223); \u00fee\n                    prioresse (RT)",
+            "folio": "ff. 223-225v"
+        },
+        "BodLauMis739": {
+            "First Lines": "\n[T]Here was in Asie in a gret citeAmonges cristen folke &\n                    Iewerie\u2026\n",
+            "Last Lines": "\n\u2026On hus his grete mercy multiplyieffor reuerence of his moder\n                    Marye\n",
+            "folio": "ff. 234-237"
+        },
+        "BodRawPoe141": {
+            "First Lines": "\nTHer was in Acye in a gret cyteAmong cristene folk in\n                    Iurye\u2026\n",
+            "Last Lines": "\n\u2026On vs his grete mercy multiplyeffor reuerence of his moder\n                    marye\n",
+            "Attributed Title": "\nHere bigynneth the Prioresse tale (f. 91v); The\n                    Prioresse",
+            "folio": "ff. 91v-95"
+        },
+        "BodRawPoe149": {
+            "First Lines": "\nther was in a grete citeA monge cristen folke and\n                    Iury\u2026\n",
+            "Last Lines": "\n\u2026On vs his grete mercy multiplyffor reuerence of his modir\n                    mari Amen\n",
+            "Attributed Title": "\nthe prioresse (RT); here endith the priores tale\u2026 (f. 104)",
+            "folio": "ff. 102v-104"
+        },
+        "BodRawPoe223": {
+            "First Lines": "\nTher was in Asie in a gret citeeAmong cristen folk of\n                    Iury\u2026\n",
+            "Last Lines": "\n\u2026On vs his gret mercy multiplieffor reuerence of his moder\n                    Marie\n",
+            "Attributed Title": "\n\u2026And here beginneth her tale folwing (f. 215v);\n                        Monialis (RT); Here endith the Prioresse tale\u2026 (f.\n                        218v)",
+            "folio": "ff. 215v-218v"
+        },
+        "BodRawC86": {
+            "First Lines": "\nTher was in assye in the grete CiteAmonge crysten folke a\n                    Iewrye\u2026\n",
+            "Last Lines": "\n\u2026That of this murthir wist and \u00feat anoneEvill shall\n                    \u00feey haue \u00feat evill deserue\u2026\n",
+            "Note": "\nChaucer\u2019s Clerk\u2019s Tale (on folios\n                        156v-173v; lines IV.57-1200) and Prioress\u2019s\n                        Prologue and Tale (incomplete, on folios\n                        174v-177v; lines VII.453-632) of the Canterbury\n                        Tales. VII.633-690 lost; 511, 565, 568 omitted; 630-1 reversed in the\n                        Tale.",
+            "folio": "ff. 175-177v"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nTher was in Assye in a grete CiteeA monges cristen folke a\n                    Iuerye\u2026\n",
+            "Last Lines": "\n\u2026On vs his grete mercy multiplieffor reuerence of his moder\n                    Marie Amen\n",
+            "Note": "\nVII.587 omitted.",
+            "Attributed Title": "\nHere bygynneth the tale (f. 133v); here is ended the Nonnes\n                    tale\u2026 (f. 135)",
+            "folio": "ff. 133v-135"
+        },
+        "OxfCCC198": {
+            "First Lines": "\nTher was in a cite in a gret citeAmonges cristen folk and\n                    Iewerye\u2026\n",
+            "Last Lines": "\n\u2026On vs his grete mercy multiplyeffor reuerence of his moder\n                    marie Amen\n",
+            "Attributed Title": "\nExplicit (f. 213v, margin)",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "ff. 211-213v"
+        },
+        "OxfNew314": {
+            "First Lines": "\nTher was in asie in a gret CiteeAmong cristyn folk A\n                    Iurye\u2026\n",
+            "Last Lines": "\n\u2026On vs his grete mercy multiplieffor Reuerence of his modir\n                    Mary\n",
+            "Note": "\nVII.637 omitted.",
+            "Attributed Title": "\n\u2026Begynnyng \u00fee tale (f. 205); Priores (RT); Here endith \u00fee\n                    Prioressez tale (f. 208)",
+            "folio": "ff. 205-208"
+        },
+        "OxfTri49": {
+            "First Lines": "\nThere was in asie a grete Citeea mongis Cristyn folke a\n                        Iury Iwry\u2026\n",
+            "Last Lines": "\n\u2026on vs his grete mercy multipliefor reuerence of his modir\n                    Marie Amen\n",
+            "Attributed Title": "\nIncipit fabula (f. 171); Prioresse (RT); Explicit\u2026 (f.\n                    174)",
+            "folio": "ff. 171v-174"
+        },
+        "CULDd424": {
+            "First Lines": "\nThere was in Assye in a gret CiteeA monges cristene folk a\n                    Iewerie\u2026\n",
+            "Last Lines": "\n\u2026And seide o dere child I halse theIn vertu of the holy\n                    Trynytee\u2026\n",
+            "Note": "\nVII.647-690 lost.",
+            "Attributed Title": "\nHere bigynneth the Prioresse hire tale (f. 156)",
+            "folio": "ff. 156-157v"
+        },
+        "CULGg427": {
+            "First Lines": "\n\u2026Oure fyrste fo the serpent satirnasThat hath in Ieues herte\n                    his waspis next\u2026\n",
+            "Last Lines": "\n\u2026On vs his greet mercy multyplyeffor reuerence of his modyr\n                    marye Amen\n",
+            "Note": "\nVII.488-557 lost.",
+            "Attributed Title": "\nHeere hath the Prioresse endid hire tale\u2026 (f.\n                    322v)",
+            "folio": "ff. 321-322v"
+        },
+        "CULIi326": {
+            "First Lines": "\nTHere was in assye in a grete coteAmonge cristen folke a\n                    Iurye\u2026\n",
+            "Last Lines": "\n\u2026On vs his grete mercy so multeplyeffor reuerence of his moder\n                    marie Amen\n",
+            "Note": "\nVII.496-7, 623-4 omitted.",
+            "Attributed Title": "\n\u2026And here begynneth hir tale (f. 184v); priores (RT); Here\n                    Endeth the priores tale\u2026 (f. 187)",
+            "folio": "ff. 184v-187"
+        },
+        "CULKk13": {
+            "First Lines": "\nTher was in Asye in a gret CiteeAmonges cristen folk in a\n                    Iewerye\u2026\n",
+            "Last Lines": "\n\u2026This preyd he hym to construe and declarefful ofte tyme vp on\n                    his knees bare\u2026\n",
+            "Note": "\nGeoffrey Chaucer, lines VII.460-529 of the Prioress\u2019s\n                        Prologue and Prioress\u2019s Tale from the Canterbury\n                        Tales, possibly part of a once-complete copy of the text.",
+            "Attributed Title": "\nThe prioresses Tale (RT, different hand)",
+            "folio": "Part XX, single leaf, recto"
+        },
+        "CULMm25": {
+            "First Lines": "\nTher was in asye in a grete CiteeAmanges Cristen folke and\n                    Iwrye\u2026\n",
+            "Last Lines": "\n\u2026On us his grete mercy multiplieffor \u00fee reuerence of his\n                    moder marye\n",
+            "Attributed Title": "\nThe Prioresse (RT); Explict\u2026 (f. 66v)",
+            "folio": "ff. 64v-66v"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[T]Here was in Assye in the grete cyteAmonge cristen folk a\n                    Iewry\u2026\n",
+            "Last Lines": "\n\u2026On us his gret mercy multeplyeffor reuerens of his dere moder\n                    Mary Amen\n",
+            "Note": "\nVII.579-85 omitted.",
+            "Attributed Title": "\nPrioresse (RT); Here endeth \u00fee Prioresse tale (f. 218)",
+            "folio": "ff. 215v-218"
+        },
+        "CamTCC582": {
+            "First Lines": "\nI was in Assie in a gret citeAmonges cristen folk a\n                    Iewree\u2026\n",
+            "Last Lines": "\n\u2026On vs his gret mercy multeplieffor the reuerence of his moder\n                    Marie Amen\n",
+            "Attributed Title": "\nNarrat (f. 106va, margin)",
+            "folio": "ff. 106va-108ra"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nTHer was in Asye in a gret CiteAmonges Crystene folk a\n                    Iewerye\u2026\n",
+            "Last Lines": "\n\u2026On h vs his greete mercy multiplyeffor Reuerence\n                    of his mooder marye AMEN\n",
+            "Attributed Title": "\n\u2026Et / incipit fabula eiusdem de Alma Redemptoris (f. 230);\n                    Prioresse (RT); Explicit fabula Priorisse\u2026 (f. 234)",
+            "folio": "ff. 230v-234"
+        },
+        "BLAdd25718": {
+            "First Lines": "\nTher [torn]A man[torn]\u2026\n",
+            "Last Lines": "\n\u2026[torn]boke lernynge[torn]prymere\u2026[torn]and\n                    ner[torn][torn]note\n",
+            "Note": "\nVII.524-690 lost; 488-523 partially lost [tear].",
+            "folio": "ff. 83-83v"
+        },
+        "BLAdd35286": {
+            "First Lines": "\nTher was in Asy in a gret citeeAmong cristen fokl a\n                    Iewerye\u2026\n",
+            "Last Lines": "\n\u2026On vs his gret mercy multiplieffor reuerence of his moder\n                    marye\n",
+            "Attributed Title": "\nHere bigynneth the Prioresses tale (f. 163); the prioresse (RT)",
+            "folio": "ff. 163-165v"
+        },
+        "BLEge2726": {
+            "First Lines": "\nI was in assye in a grete citeeAmonges cristen folk a\n                    Ieweree\u2026\n",
+            "Last Lines": "\n\u2026On vs his grete mercy multiplieffor the reuerence of his\n                    moder Marie Amen\n",
+            "Note": "\nVII.547-8 reversed.",
+            "Attributed Title": "\nHere begynneth the Prioresse tale / de Alma redemptoris mater (f.\n                        177v); Hic desinit fabula Priorisse\u2026 (f.\n                    180)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 177v-180"
+        },
+        "BLEge2863": {
+            "First Lines": "\n\u2026But on a day his felawe gan he prayTo expownen him this song\n                    in his langage\u2026\n",
+            "Last Lines": "\n\u2026And gruf he fel al plat to \u00fee groundeAnd still he lay as\n                    he had ben I bonde\u2026\n",
+            "Note": "\nVII.488-524, 677-90 lost.",
+            "Attributed Title": "\nThe prioresse (RT)",
+            "folio": "ff. 147-148v"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[T]her was in asye in a gret citeAmonges cristen folk a\n                    Iewerye\u2026\n",
+            "Last Lines": "\n\u2026On vs his grete mercy multiplyeffor reverence of his moodyr\n                    marye Amen\n",
+            "Attributed Title": "\nIncipit Narracio (f. 186v, margin); The prioresse is tale\n                    (RT); Heer eendith the prioresse of hir tale (f. 189, margin)",
+            "folio": "ff. 186v-189"
+        },
+        "BLHar1758": {
+            "First Lines": "\nTher was in Asie in a gret citeAmongis cristen folke a\n                    Iewerie\u2026\n",
+            "Last Lines": "\n\u2026On vs his gret mercy multiplieffor reuerence of his modir\n                    Marie\n",
+            "Note": "\nLarge blank space between the end of the Prioress\u2019s Tale\n                    and the Prologue to Sir Thopas.",
+            "Attributed Title": "\nThe Prioresse (RT); Here endith the tale of the Prioresse (f.\n                    166)",
+            "folio": "ff. 163v-166"
+        },
+        "BLHar7333": {
+            "First Lines": "\nThere was in Assie in a grete ceteeA monge Crysten folke A\n                    Iuerye\u2026\n",
+            "Last Lines": "\n\u2026On vs his grete mercy so merciableffor the reuerence of his\n                    modir mary Amen\n",
+            "Note": "\nVII.527, 533, 617 omitted.",
+            "Attributed Title": "\n\u2026Here begynnithe the Priores tale (f. 97va, rubric); Here\n                    Endithe the Priores tale (f. 98rb, rubric)",
+            "folio": "ff. 97va-98rb"
+        },
+        "BLHar7334": {
+            "First Lines": "\nTher was in acy in a greet CiteeAmonges cristen folk a\n                    Iewerye\u2026\n",
+            "Last Lines": "\n\u2026On vs his grete mercy multiplieffor reuerence of his modir\n                    marie Amen\n",
+            "Note": "\nVII.547-8 reversed.",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "ff. 200v-203"
+        },
+        "BLHar1704": {
+            "First Lines": "\nThere was in Azie in a gret CiteAmong Cristen folke a\n                    Iurye\u2026\n",
+            "Last Lines": "\n\u2026On vs he his gret mercy will multiplieffor the reuerence of\n                    his moder marieAmen\n",
+            "Note": "\nChaucer\u2019s Prioress\u2019s Prologue and Tale.\n                    VII.539, 632 omitted.",
+            "folio": "ff. 28-31"
+        },
+        "BLHar2251": {
+            "First Lines": "\nThere was in Asye in a grete CiteeAmonges cristen folke a\n                    Iewrye\u2026\n",
+            "Last Lines": "\n\u2026Enclosen they his luytel body sweteThere he is now god leve\n                    vs for to mete Amen\n",
+            "Note": "\nChaucer\u2019s Prioress\u2019s Prologue and Tale, lines\n                    VII.453-683 of the Canterbury Tales. VII.684-90 omitted.",
+            "folio": "ff. 73-76v"
+        },
+        "BLHar2382": {
+            "First Lines": "\nTher was in Asie a gret CiteAmonges cristen folk a\n                    Iewery\u2026\n",
+            "Last Lines": "\n\u2026on vs his gret mercy he multiplyefor reuerence of his moder\n                    Marie Amen\n",
+            "Note": "\nChaucer\u2019s Prioress\u2019s Prologue and Tale and\n                        Second Nun\u2019s Tale in a religious miscellany.",
+            "Attributed Title": "\nExplicit\u2026 (f. 100)",
+            "folio": "f. 97v-100"
+        },
+        "BLLan851": {
+            "First Lines": "\nThere was a Ce in a grete CiteAmonge cristen folk &\n                    Iewre\u2026\n",
+            "Last Lines": "\n\u2026On vs his grete mercie multiplyeffor reuerence of his moder\n                    Marye\n",
+            "Note": "\nVII.602 omitted.",
+            "Attributed Title": "\n\u00fee Prioresse (RT); Explicit fabula priorisse\u2026 (f.\n                    189)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 186v-189"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nTHer was in Asie in a grete CiteeAmonges cristen folke a\n                    Iowrye\u2026\n",
+            "Last Lines": "\n\u2026On vs his grete mercy multiplyeffor the reuerence of his\n                    modir Marie Amen\n",
+            "Attributed Title": "\nHere endith the tale of the Prioresse\u2026 (f. 238, margin)",
+            "folio": "ff. 235-238"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nTHer was in Acye in a gret CiteAmonges Crysten folk &\n                    Iewerye\u2026\n",
+            "Last Lines": "\n\u2026On vs his grete mercy multiplyeffor reuerence of his moder\n                    Marye\n",
+            "Attributed Title": "\nThe prioresse (RT)",
+            "folio": "ff. 191v-193v"
+        },
+        "BLSl1685": {
+            "First Lines": "\nThere was a Chylde in a grete citeAmonge crysten folke in \u00fee\n                    Iewrye\u2026\n",
+            "Last Lines": "\n\u2026On vs his grete mercie multiplieffor \u00fee reuerence of hys\n                    modir Marie Amen\n",
+            "Note": "\nVII.672-3 reversed.",
+            "Attributed Title": "\nThe Prioresse (RT)",
+            "folio": "ff. 198v-201v"
+        },
+        "BLSl1686": {
+            "First Lines": "\nTher was in Asie in a gret CiteAmonges cristen folke of\n                    Iewry\u2026\n",
+            "Last Lines": "\n\u2026On vs his gret mercy multiplieffor reuerence of hir modir\n                    seynt Marie\n",
+            "Note": "\nVII.664 omitted; blank line follows 581.",
+            "Attributed Title": "\n[A] Tale of the Prioresse (RT); Here endith the Prioresse tale\u2026 (f.\n                        243v)",
+            "folio": "ff. 240-243v"
+        },
+        "NLWPen392": {
+            "First Lines": "\nTher was in Asye in a greet CiteeAmonges cristen folk a\n                    Iewerye\u2026\n",
+            "Last Lines": "\n\u2026On vs his grete mercy multiplieffor reuerence of his moder\n                    Marie Amen\n",
+            "Note": "\nVII.493-4, 528-9, 563-4, 598-9, 633-4, 668-9 partially lost\n                    [tears]",
+            "Attributed Title": "\n\u2026Here bigynneth the Prioresse tale of / Alma redemptoris mater\n                    (f. 210); The Prioresse (RT); Here endeth the Prioresse tale\u2026 (f.\n                    213)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "ff. 210-213"
+        },
+        "Alnwick455": {
+            "First Lines": "\nThere was a child in a grete ceteAmong cristen folk in the\n                    I[smudged]\u2026\n",
+            "Last Lines": "\n\u2026On vs his grete mercy multiplyffor the reverence of his modir\n                    Mari Amen\n",
+            "Attributed Title": "\nHere endith the Pryores hir tale\u2026 (f. 149v)",
+            "folio": "ff. 147-149v"
+        },
+        "GULHun197": {
+            "First Lines": "\nTHere was in Asye in a grete CiteA mong Cristen folke a\n                    Iurye\u2026\n",
+            "Last Lines": "\n\u2026Vp on vs his grete mercy multiplieffor reuerence\n                    of his moder Marie\n",
+            "Note": "\nSecond occurrence in MS. VII.493-4 inserted in margin.",
+            "Attributed Title": "\nHere folweth the tale of the seid Priorasse / to a conclusion (f.\n                        80rb); the Priorasse (RT); Here endeth the tale of the\n                    Priora[trimmed], f. 81rb, margin)",
+            "folio": "ff. 80rb-81rb"
+        },
+        "Holkham667": {
+            "First Lines": "\nThere was in assy in a grete citeeAmonges cristen folke a\n                    Iewery\u2026\n",
+            "Last Lines": "\n\u2026On vs his grete mercy multeplyffor reuerence of his moder\n                    mary\n",
+            "Note": "\nVII.610 omitted.",
+            "folio": "ff. 80rb-81vb"
+        },
+        "Lichfield29": {
+            "First Lines": "\nTher was in Asye in a grete CiteeAmonges cristen fok a\n                    Iurie\u2026\n",
+            "Last Lines": "\n\u2026On vs his grete mercy multiplieffor reuerence of his moder\n                    swete Marie\n",
+            "Attributed Title": "\nThe prioresse (RT); Here ende\u00fe \u00fee priores hir tale\u2026 (f.\n                        205v, rubric)",
+            "folio": "ff. 202v-205v"
+        },
+        "Lincoln110": {
+            "First Lines": "\nTher was in asie in a gret CiteAmongis cristen folk a\n                    Iurie\u2026\n",
+            "Last Lines": "\n\u2026On vs his gret mercy multiplieffor \u00fee reuerence of his\n                    modir marie AmeN\n",
+            "Note": "\nVII.609, 672 omitted and supplied later.",
+            "Attributed Title": "\nNow beginnyth the preoresses tale (f. 189); The Prioresse (RT); Here endith\n                    the priores tale\u2026 (f. 191v)",
+            "folio": "ff. 189-191v"
+        },
+        "LonPhys388": {
+            "First Lines": "\n[T]Her was in Asie in a grete CiteeAmonges cristen folk a\n                    Iewrye\u2026\n",
+            "Last Lines": "\n\u2026And shuld be beten thryes in an houreI wil it konne oure lady\n                    to honoure\u2026\n",
+            "Note": "\nVII.544-690 lost. Catchphrase \u2018His felawe\u2019 at the foot of f.\n                        255v.",
+            "Attributed Title": "\nAlma redemptoris mater (f. 254v)",
+            "folio": "ff. 255-255v"
+        },
+        "Chetham6709": {
+            "First Lines": "\nTher was in Asie In a greate CyteAmonges Crysten folke A\n                    Iurye\u2026\n",
+            "Last Lines": "\n\u2026On vs his greate mercy multiplyeffor reuerence of his swete\n                    moder Marye\n",
+            "Note": "\nVIII.1778 omitted.",
+            "folio": "f. 174-178v"
+        },
+        "RylandsEng113": {
+            "First Lines": "\nTher was in Assie a gret CiteAmong Cristen folk a\n                    Iewerie\u2026\n",
+            "Last Lines": "\n\u2026On vs his grete mercy multiplieffor the Reuerence of his\n                    mo\u00feer Marie\n",
+            "Attributed Title": "\n\u2026And begynnyth here tale (f. 124v); Prioresses tale (f.\n                        124v, margin); Prioresse (RT); Here ende\u00fee prioresses\n                    tale\u2026 (f. 126)",
+            "folio": "ff. 124v-126"
+        },
+        "Petworth7": {
+            "First Lines": "\nTher was a child in a grete CiteAmonges cristen folk in\n                    Iwerye\u2026\n",
+            "Last Lines": "\n\u2026On vs his grete mercy multiplieffor reuerence of his moder\n                    marye\n",
+            "Attributed Title": "\nHere ende\u00fe \u00fee priores tale\u2026 (f. 84v, rubric);\n                    \u00fee Prioresse (RT, rubric)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 81v-84v"
+        },
+        "Austin46": {
+            "First Lines": "\nThere was in Asye in a greet CiteeAmonges cristen folk a\n                    Iuerwy\u2026\n",
+            "Last Lines": "\n\u2026On vs his greete mercy multiplyeffor reuerence of his Mooder\n                    Marye Amen\n",
+            "Attributed Title": "\n\u2026Heere bigynneth the Prioresse hire tale of Alma / Redemptoris\n                        Mater (f. 4rb); Here hath the Prioresse ended hire\n                    tale\u2026 (f. 5va)",
+            "folio": "ff. 4va-5va"
+        },
+        "Austin143": {
+            "First Lines": "\nThere was in Assye a greteAmonges cristen folke a\n                    Iewrie\u2026\n",
+            "Last Lines": "\n\u2026On vs his grete mercye multiplieffor the reuerence of his\n                    Moder Marie\n",
+            "Attributed Title": "\nHere begynneth the Prioresse hure tale (f. 157v); Prioresse\n                    (RT); Here endeth the Priores hure tale\u2026 (f. 160)",
+            "folio": "ff. 158-160"
+        },
+        "ChicagoUL564": {
+            "First Lines": "\nTher was in acye in agrete CyteAmong cristen folk in\n                    Iurye\u2026\n",
+            "Last Lines": "\n\u2026On vs his grete mercy multipeyffor reuerence of his moder\n                    marie\n",
+            "folio": "ff. 69v-73"
+        },
+        "PierpontM249": {
+            "First Lines": "\nTher was in Asie a grete CiteeAmonges cristen folk a\n                    Iurie\u2026\n",
+            "Last Lines": "\n\u2026On vs his grete mercy multiplieffor reuerence of his Moder\n                    swete Marie\n",
+            "Attributed Title": "\nThe Prioresse (RT); Here endeth the Prioresses tale & cetera (f.\n                    206)",
+            "folio": "ff. 203-206"
+        },
+        "PhilRos10841": {
+            "First Lines": "\nTHere was in Acye in a greet cyteAmonges cristene folk and\n                    iewerie\u2026\n",
+            "Last Lines": "\n\u2026On vs his grete mercy multeplieffor reuerence of his moodir\n                    marye\n",
+            "Note": "\nVII.670-3 copied in the order 673-672-670-671 then marked in the margin\n                    to be reordered 673-672-671-670.",
+            "Attributed Title": "\nThe prioresse Tale (RT)",
+            "folio": "ff. 20v-23"
+        },
+        "PUL100": {
+            "First Lines": "\nTher was in Asie in a grete ceteAmong Cristyn folk a\n                    Iury\u2026\n",
+            "Last Lines": "\n\u2026On hus his grete mercy multiplyffor reverence of his modir\n                    mary Amen\n",
+            "Note": "\nVII.545, 617 omitted.",
+            "Attributed Title": "\nHere begynnyth the Priores her tale (f. 155); Que est Cronica (f.\n                    155, margin); Priores (RT); Here endith the Priores her tale (f.\n                    157v)",
+            "folio": "ff. 155-157v"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nTher was in Asye in a greet CiteeAmonges cristene folk a\n                    Iewerye\u2026\n",
+            "Last Lines": "\n\u2026On vs his grete mercy multiplieffor reuerence of his mooder\n                    Marie Amen\n",
+            "Attributed Title": "\n\u2026Heere bigynneth the Prioresses tale (f. 148v); Prioresse\n                    (RT); Heere is ended the Prioresses tale (f. 151)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 148v-151"
+        },
+        "BNangl39": {
+            "First Lines": "\nther was in asye in a gret cyteeamong cristen folk a\n                    Iewerye\u2026\n",
+            "Last Lines": "\n\u2026on vs his grete mercy multiplyefor reuerence of his modir\n                    Marye\n",
+            "Attributed Title": "\nExplicit fabula priorisse monia / alium\u2026 (f.\n                    71va)",
+            "folio": "ff. 70rb-71va"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nI was in Asie in a gret citeAmonges cristen folk a\n                    Iewry\u2026\n",
+            "Last Lines": "\n\u2026On vs his gret mercy multiplieffor the reuerence of his moder\n                    Marie Amen\n",
+            "Note": "\nVII.547-8 reversed.",
+            "Attributed Title": "\nHiere beginneth the Prioress tale / de Alma redemptoris mater (f.\n                    168); Prioresses Tale (RT); Hic desinit fabula Prioresse\u2026 (f. 171,\n                    rubric)",
+            "folio": "ff. 168v-171"
+        },
+        "TokyoTak32": {
+            "First Lines": "\nTheer was in assie in a greet CiteeAmongis cristen folke a\n                    Iewrie\u2026\n",
+            "Last Lines": "\n\u2026On vs his greete mercy Multiplyeffor reverence of his moder\n                    marye\n",
+            "Attributed Title": "\nThe prioressis tale (RT); Explicit fabula Monialis\u2026 (f.\n                        106ra)",
+            "folio": "ff. 104va-106ra"
+        },
+        "Bodmer48": {
+            "First Lines": "\nTher was in Assy in a grete CiteeAmonges cristen peple a\n                    Iurye\u2026\n",
+            "Last Lines": "\n\u2026On vs his gret mercy multiplyeffor reurence of his modir\n                    mary\n",
+            "Facsimiles": "\n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n",
+            "folio": "ff. 169v-173"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "_id": 759,
+    "_header": "Be it better be it worse",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 237; cf. also Watson (1867)\nXWatson, Thomas. Proverbs and Epigrams of John Heywood (A.D. 1562). Manchester: for the Spenser Society, 1867; Tilley (1950)\nXTilley, Morris Palmer. A Dictionary of the Proverbs in England in the 16th and 17th Centuries. Ann Arbor, MI: University of Michigan, 1950 P 646.",
+    "Subjects": "proverbs",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A proverbial couplet",
+    "_witnesses": {
+        "BodDou52": {
+            "Transcription": "\nBe hit beter be hit worsefolo him \u00feat berit \u00fee\n                    pursse\n",
+            "Note": "\nTranslating \u2018Siue bene siue male\u2026\u2019, which\n                    follows; English portion all written on one line.",
+            "Editions": "\n\nMeech,  Sanford Brown. \n             \u201cA Collection of Proverbs in Rawlinson MS D 328.\u201d \n             Modern Philology\n         38 (1940-41): 113-32: 120.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 560.\n\n",
+            "folio": "f. 141v"
+        },
+        "OxfBal354": {
+            "Transcription": "\nBe it better be it worsedo after hym \u00feat berith \u00fee\n                    purse\n",
+            "Note": "\nIn a collection of 55 proverbs in English and Latin; translating\n                        \u2018Seu bene sine male\u2026\u2019, which follows.",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 202.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 130.\n\n",
+            "folio": "p. 4193"
+        },
+        "BLAdd37075": {
+            "Transcription": "\nBe hytt better be hyt worsefolow hym \u00feat beryth \u00fee\n                    purse\n",
+            "Note": "\nIn a collection of 55 proverbs in English and Latin; translating\n                        \u2018Seu bene sine male\u2026\u2019, which follows. Two verse\n                    lines per manuscript line.",
+            "Editions": "\n\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 202.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 130.\n\n",
+            "folio": "f. 70v"
+        }
+    }
+}

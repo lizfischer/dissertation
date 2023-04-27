@@ -1,0 +1,67 @@
+{
+    "_id": 3716,
+    "_header": "Now are the feasts made of Christ",
+    "Note": "For texts in the \u2018expanded\u2019 Cycle see 116 and 4629.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel; Trinity Sunday",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Trinity Sunday in the Northern Homily Cycle (including the story of the Baptism of Jesus \u2014 see 5179 \u2014 which also occurs separately); eight 8-line stanzas, ababbcbc, with \u2026\u2018I take my leue\u2019 refrain",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nNow ar \u00fee festis made of criste\u00feat ar in hali kirk\n                    stabiliste\u2026\n",
+            "Last Lines": "\n\u2026\u00feat to heuene come may weTo wone wi\u00fe god in trinite\n                    . Amen .\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 134v-135v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nNou ben \u00fee ffestes made of crist\u00deat ben in holichirche\n                    stablischt\u2026\n",
+            "Last Lines": "\n\u2026In heuene \u00feer redi knowyng schul we seoOf o God and\n                    persones \u00fereo. Amen.\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 195vc-196ra"
+        },
+        "BodEngPoetc3": {
+            "First Lines": "\nN[ ]\u00fee festes made of crist[ ] in hali kyrke\n                    stabellest\u2026\n",
+            "Last Lines": "\n\u2026\u00fean says saynt luke\u00fee wangelyst\u00fee haly gast\n                    lyghtid on crist\n",
+            "Note": "\nEnds imperfectly/",
+            "folio": "f. 2vb"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nNOwe are \u00fee festes made of crist\u00deat are in holi kirk\n                    stabilest\u2026\n",
+            "Last Lines": "\n\u2026In heuen \u00feere gode wityng sale beOf one god and persones\n                    thre\n",
+            "Attributed Title": "\nPrologus de trinitate (r. marg., p. 218)",
+            "folio": "pp. 218-220"
+        },
+        "CULDd11": {
+            "First Lines": "\nNOw ben \u00fee festis made of crist\u00deat ben in holi chirche\n                    stabelist\u2026\n",
+            "Last Lines": "\n\u2026In heuene \u00feer we redi knowing schul seOf o god and\n                    persones thre\n",
+            "Attributed Title": "\nIn festo sancte Trinitatis (f. 135v)",
+            "folio": "ff. 135v-136v"
+        },
+        "CULGg531": {
+            "First Lines": "\nNow ere festes made of cryste\u00feat hyre in haly kyrk\n                    stabelyste\u2026\n",
+            "Last Lines": "\n\u2026And bryng vs to \u00feat mykill blys\u00deat to ryght trowand\n                    ordaynd is\n",
+            "Attributed Title": "\n\u00deis es \u00fee gospell of \u00fee trinite sononday (f.\n                    91v)",
+            "folio": "ff. 92-92v"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nNow ar the festis maide of crysteThat er in halykirke\n                    stabileste\u2026\n",
+            "Last Lines": "\n\u2026That to heuen come may weTo wonne with hym in\n                    trinite\n",
+            "folio": "ff. 97-97v"
+        },
+        "Lam260": {
+            "folio": "f. 41rb"
+        },
+        "MinULZ822": {
+            "First Lines": "\nNow er \u00feer festys made of cryste\u00feat er in haly kyrke\n                    stabileste\u2026\n",
+            "Last Lines": "\n\u2026And what here says oure gospellIn stede of a tale I wyll\n                    \u021dow tell\n",
+            "Attributed Title": "\nIn die sancte trinitatis (f. 100v)",
+            "folio": "ff. 100v-101"
+        },
+        "HunHM129": {
+            "First Lines": "\nNow beth \u00fee festis made off crist\u00deat beth in holy chyrche\n                    stablys\u2026\n",
+            "Last Lines": "\n\u2026And what here of seith \u00fee gospellIn sted off tale I will\n                    \u021dow tell\n",
+            "Attributed Title": "\nIn die Trinitatis (f. 114v)",
+            "folio": "ff. 114v-115"
+        }
+    }
+}

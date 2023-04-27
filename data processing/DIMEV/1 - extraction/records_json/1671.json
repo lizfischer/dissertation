@@ -1,0 +1,26 @@
+{
+    "_id": 1671,
+    "_header": "Ground take in virtue by patriarchs old",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Letabundus\u2019",
+    "Subjects": "Virgin Mary, praise of",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "Lydgate\u2019s \u2018Letabundus\u2019 \u2014 thirty-nine 8-line stanzas (ababbcbc)",
+    "_witnesses": {
+        "CamJes56": {
+            "First Lines": "\n[G]Rounde take in vertue by Patriarkes oldeffrom Abraham lynally\n                    brought doune\u2026\n",
+            "Last Lines": "\n\u2026which in Ianyuere shall voide all oldeThis nowe \u00feere\n                    doth \u00feeron Remembre\n",
+            "folio": "ff. 60v-65v"
+        },
+        "CamTCC601": {
+            "First Lines": "\nground take in vertu by patryarkes oldeffrom Abraham lyneally\n                    brought dounIn theyre scriptures as prophetes oldeShewyd vnto theym by\n                    reuelacioun\u2026\n",
+            "Last Lines": "\n\u2026Whyche in Januare shall voyde all the greuaunceThys new yere\n                    doth theron remembraunce\n",
+            "Attributed Title": "\nletabundus (added by another hand, f. 197v);\n                    scribe\u2019s Explicit letabundus, bottom f. 201, followed by added\n                    \u2018Lydgate\u2019",
+            "folio": "ff. 197v-201"
+        },
+        "BLHar2255": {
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. I: Religious Poems.\nEETS\n         e.s. 107 (1911; repr. 1961): 49-60.\n",
+            "folio": "ff. 120-126"
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "_id": 7,
+    "_header": "A bastard shall come out of the west",
+    "Note": "An extract from 620, Thomas of Erceldoune\u2019s Prophecy. See Murray (1875)\nXMurray, J. A. H. The Romance and Prophecies of Thomas of Erceldoune\nEETS 61 o.s. 61 (1875); repr. 1987.",
+    "Subjects": "prophecies, political",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "\u2018When England shall be Britain\u2019, a political prophecy \u2014 one cross-rhymed quatrain",
+    "_witnesses": {
+        "NLWPen26": {
+            "Transcription": "\nA bastar schall come owt of the west\u2026\n",
+            "folio": "p. 117"
+        },
+        "NLWLan53": {
+            "folio": "p. 513"
+        },
+        "NLWLan119": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 213.",
+            "folio": "p. 181"
+        },
+        "NLWPen94": {
+            "Transcription": "\na bastard shall come out of [the west]in south England borne shalbeyn [sic] shall wyn the grey for the [b]estand then this land Brytaen shalbe.\n",
+            "Note": "\nDamaged, text partially illegible",
+            "Editions": "\nWeiskott,  Eric. \n             \u201cAn Overlooked Excerpt from  Thomas of Erceldoune.\u201d \n             Notes & Queries\n         63 (2016): 18-19: 18.\n",
+            "folio": "p. 262"
+        },
+        "BodArcSelB8": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 213.",
+            "folio": "f. 291"
+        },
+        "BodNorthC80": {
+            "Note": "\nSee Weiskott (2020)\nXWeiskott,  Eric. \n             Meter and Modernity in English Verse, 1350\u20131650.\n            \n         Philadelphia: University of Pennsylvania Press, 2020.: 213.",
+            "folio": "ff. 12v-14"
+        }
+    }
+}

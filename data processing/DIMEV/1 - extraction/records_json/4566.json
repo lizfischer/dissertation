@@ -1,0 +1,34 @@
+{
+    "_id": 4566,
+    "_header": "Saint Botolph the holy monk and eke his brother",
+    "Title(s)": "South English Legendary",
+    "Subjects": "saints\u2019 lives; Botolph, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Botolph in the South English Legendary \u2014 couplets",
+    "_witnesses": {
+        "Bod779": {
+            "First Lines": "\nSeint botolf \u00fee holy monk & ek his bro\u00feerbore were in\n                    ingelond as is many an o\u00feer\u2026\n",
+            "Last Lines": "\n\u2026Now\u021d god for seynt botolf is loue soch grace vs\n                    sende\u00feat we to \u00feilke ioy\u021de come & so \u00fee deuil\n                    schende\n",
+            "Attributed Title": "\nseint botolf (f. 305v)",
+            "folio": "ff. 305v-306"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Botulf \u00feis holy Monk and Adulf his bro\u00feerI bore\n                    weore in Engelonde as was moni ano\u00feer\u2026\n",
+            "Last Lines": "\n\u2026Now God for \u00fee loue of him his grace \u00feou vs\n                    sende\u00deat we mote to \u00feat Ioye come and so \u00fee Deueles schende\n                    Amen.\n",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 33va-33vb"
+        },
+        "CamTCC605": {
+            "First Lines": "\nSEint botolf \u00fee holy monke & adulf his bro\u00feerWere\n                    bore in englonde as is many an o\u00feer\u2026\n",
+            "Last Lines": "\n\u2026& \u00feer in oure lordes seruyse his lyf he bro\u021dt to\n                    endeNow god for \u00fee loue of hym his swete grace ous sende\n",
+            "Attributed Title": "\nBotulf (RT)",
+            "folio": "ff. 68v-69"
+        },
+        "BLEge1993": {
+            "First Lines": "\nSeint Botulf \u00fee holi monk and Adulf is bro\u00feerIbore were in engelond as is mani ano\u00feer\u2026\n",
+            "Last Lines": "\n\u2026Now god for \u00fee loue of him his swete grace vs sende\u00deat we mote to \u00fee ioie come & so \u00fee deueles schende\n",
+            "Note": "\nEnds \u201cAmen\u201d (f. 162).",
+            "folio": "ff. 161-162"
+        }
+    }
+}

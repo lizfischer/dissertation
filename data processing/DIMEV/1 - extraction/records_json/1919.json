@@ -1,0 +1,21 @@
+{
+    "_id": 1919,
+    "_header": "Hear and see and say nought",
+    "Note": "Sometimes occur as a continuation of 4798, but probably are part of a separate tradition: see Wenzel (1978)\nXWenzel, Siegfried. Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle English Poems. Cambridge, MA: Medieval Academy of America, 1978, 141. First two lines proverbial: see Whiting (1968)\nXWhiting, Bartlett Jere. Proverbs, Sentences, and Proverbial Phrases from English Writings Mainly before 1500. Cambridge, MA: Belknap, 1968, H.264.",
+    "Subjects": "tongue, advice concerning use of; sermons, verse in",
+    "Versification": "\u2014 three-line \u2014 aaa",
+    "_description": "Hold your tongue \u2014 three lines in one manuscript of the Fasciculus Morum",
+    "_witnesses": {
+        "BodRawC670": {
+            "Transcription": "\nHere and see and say noghtBe wyse and ware and telle noghtGoo\n                    forthe by thingus and stele noght\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 140.\n",
+            "folio": "f. 10v"
+        },
+        "CamTCC599": {
+            "Transcription": "\nHere and se and sey natBe ware & wyse & ly nat\n",
+            "Note": "\nNot in Fasciculus, but as lines 85-86 of 5530.",
+            "Facsimiles": "\n\nDigital Facsimile of Trinity College Cambridge MS R.3.19.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.19. \n",
+            "folio": "f. 210v"
+        }
+    }
+}

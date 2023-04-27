@@ -1,0 +1,26 @@
+{
+    "_id": 6324,
+    "_header": "When I bethink me heartily",
+    "Title(s)": "Distiches",
+    "Subjects": "advice, moral",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Northern version of Cato\u2019s Distiches \u2014 in couplets",
+    "_witnesses": {
+        "BodRawG59": {
+            "First Lines": "\nWhen I auysed me ryght hertelyHow dyuerse men eren\n                    grevously\u2026\n",
+            "Last Lines": "\n\u2026Certis my scherte wytt made hittThat I tweyn to gedir\n                    knytt\n",
+            "Editions": "\nF\u00f6rster,  Max. \n             \u201cEin nordenglische Cato-Version.\u201d \n             Englische Studien\n         36 (1906) 1-55: 5-55 (odd pages).\n",
+            "folio": "ff. 1-13"
+        },
+        "CamSidney63": {
+            "First Lines": "\nCum animaduerterem quam plures homines\n                    Whan I bethenke me hertli\n                    How fele men erren greuousli\u2026\n                \n",
+            "Last Lines": "\n\u2026certis in schort witte made itt\n                    \u00deat I tweien & tweien to geder knitt\n                    Explicit / Cato\n                \n",
+            "Editions": "\nF\u00f6rster,  Max. \n             \u201cEin nordenglische Cato-Version.\u201d \n             Englische Studien\n         36 (1906) 1-55: 4-54 (even pages).\n",
+            "folio": "ff. 202vb-208rb"
+        },
+        "CopenThott306": {
+            "Editions": "\nBrusendorff,  Aage. \n             \u201c\u2018He Knew Nat Catoun for His Wit Was Rude.\u2019\u201d \n             Studies in English Philology: A Miscellany in Honor of Frederick\n                Klaeber.\n            Kemp Malone,\n                              and  Martin B. Ruud,\n                            eds. \n         Minneapolis: University of Minnesota Press, 1929: 320-39: 323-4.\n",
+            "folio": "ff. 1-14"
+        }
+    }
+}

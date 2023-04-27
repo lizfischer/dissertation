@@ -1,0 +1,26 @@
+{
+    "_id": 2379,
+    "_header": "If no love is O God what feel I so",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Song of Troilus",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "\u2018Song of Troyelus\u2019 \u2014 five stanzas rhyme royal, extracted from 5248, Book I. 400-34.",
+    "_witnesses": {
+        "Banna": {
+            "First Lines": "\nGif no luve is o God quhat feill I soAnd gif luve is quhat thing\n                    and quhiche is he\u2026\n",
+            "Last Lines": "\n\u2026in to hir hand and with hummill cheirBecoim hir man as to my\n                    lady deir\n",
+            "Attributed Author": "\nquod chauseir of troyelus (f. 230v)",
+            "Attributed Title": "\nThe song of troyelus (f. 230)",
+            "Facsimiles": "\nFox,  Denton,  and  William A. Ringler.  \n             The Bannatyne Manuscript: National Library of Scotland Advocates\u2019\n                MS. 1.1.6\n         London: Scolar Press, in Association with The National Library of\n            Scotland, 1980. \n",
+            "Editions": "\n\nMurdoch,  James Barclay. \n             The Bannatyne Manuscript.\n             4 vols. in 11 parts, paged continuously. \n             Hunterian Club\n         16, 32, 40, 46, 50, 55-56, 64-67 Glasgow: Anderson, 1873-1896: 668.\nRitchie,  W. Tod,\n                        ed.  \n             The Bannatyne Manuscript.\n             4 parts in 4 vols. \n             Scottish Text Society\n         3rd ser. 5 (1928); n.s. 22 (1928); n.s. 23 (1930); n.s. 26 (1934)\n            Edinburgh and London: Blackwood, 1928-34; ed. by Ritchie et al: 3.304.\n\n",
+            "folio": "ff. 230-230v"
+        },
+        "HunEL26A13": {
+            "First Lines": "\nIf no love is o lord what fele I soAnd if love is what thing and\n                    what is he\u2026\n",
+            "Last Lines": "\n\u2026\u00feat from it com\u00fee may to me savoury thenkeFor ay\n                    thirst I \u00fee more \u00feat I it drynke\n",
+            "Note": "\nFragment: Book I, lines 400-406 only; see also 5248 \u2018A\n                    whetstone\u2026\u2019.",
+            "Attributed Title": "\nTroyles (as heading, f. iii)",
+            "folio": "f. iii"
+        }
+    }
+}

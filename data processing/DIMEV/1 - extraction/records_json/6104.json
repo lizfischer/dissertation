@@ -1,0 +1,18 @@
+{
+    "_id": 6104,
+    "_header": "Under your hood is but one countenance",
+    "Note": "The same refrain also serves for 5410.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "Ballade per antiphrasim",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, \u2018Ballade per antiphrasim\u2019 \u2014 four 8-line stanzas",
+    "_witnesses": {
+        "BodRawC48": {
+            "First Lines": "\nVNdir your hood is but oo contenaunceExcludid is from you al\n                    doubilnesse\u2026\n",
+            "Last Lines": "\n\u2026Thes be as sothe of you where that ye beAs I goo loos and\n                    teied a withe a Lyne\n",
+            "Note": "\nTwo last stanzas are fragmentary because the corner of the folio is torn\n                    off.",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 432-3.\n",
+            "folio": "ff. 133-133v"
+        }
+    }
+}

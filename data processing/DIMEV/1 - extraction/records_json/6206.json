@@ -1,0 +1,314 @@
+{
+    "_id": 6206,
+    "_header": "Well said by corpus dominus quod our Host",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "\u2018Shipman-Prioress Link\u2019; Words of the Host to the Shipman and to the Lady Prioress; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; links; herbergage; infidelity",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the \u2018Shipman-Prioress Link\u2019 of the Canterbury Tales \u2014 18 lines in couplets.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nWel bi corpus dominus seide oure oostnow longe moote\n                    thow saile bi the coost\u2026\n",
+            "Last Lines": "\n\u2026now wol ye vouche saf my lady deregladly quod she and seid in\n                    this manere\n",
+            "Attributed Title": "\n\u2026And / next folwith the Priorasse is first prolog Domine dominus\n                        noster (f. 163v); the prolog (RT); Here endith the Priorasse\n                    hir first prolog\u2026 (f. 164)",
+            "folio": "ff. 163v-164"
+        },
+        "BodBar20": {
+            "First Lines": "\nWel saide by corpus dominus quod oure osteNow longe mote \u00fei\n                    seileyn by \u00fee se Coste\u2026\n",
+            "Last Lines": "\n\u2026Now wolle \u021de vouche sauf my lady dereGladly quod she and\n                    saide in this manere\n",
+            "Attributed Title": "\n\u2026and here / begynnyth \u00fee prologe of \u00fee prioresse (f.\n                        199v); Explicit prologus\u2026 (f. 200)",
+            "folio": "ff. 199v-200"
+        },
+        "Bod414": {
+            "First Lines": "\n[W]Ele seid by corpus dominus quod our hostNow long mot thou\n                    saile by the cost\u2026\n",
+            "Last Lines": "\n\u2026Now wil ye vouch saue my ladi dereGladly coth she and seid as\n                    ye shul here\n",
+            "Attributed Title": "\nThe Prolog of the Prioresse (f. 145)",
+            "folio": "ff. 145-145v"
+        },
+        "Bod686": {
+            "First Lines": "\nWel seyd by corpus dominus quod oure hostNow longe mote \u00feou\n                    sayle by \u00fee coost\u2026\n",
+            "Last Lines": "\n\u2026And next if so were \u00feat ye woldeGladly quod she and\n                    seyde as ye shal here\n",
+            "Attributed Title": "\n\u2026Herken \u00fee now the mery / wordes of the hoost (f. 166)",
+            "folio": "ff. 166-166v"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nWel said be corpus dominus quod oure hosNow longe mote \u00feou\n                    saile bi \u00fee coost\u2026\n",
+            "Last Lines": "\n\u2026Now wil ye vouchesaue my lady dereGladly quod she and seid in\n                    \u00feis manere\n",
+            "Attributed Title": "\n\u2026And next begynne\u00fe / the Prolog of the Prioresse (f.\n                        183v); The Prioresse (RT)",
+            "folio": "ff. 183v-184"
+        },
+        "BodLauMis600": {
+            "First Lines": "\nWel said bi corpus bones quod oure hostNow long mot \u00feou saile\n                    bi \u00fee cost\u2026\n",
+            "Last Lines": "\n\u2026Now wol ye vouchesaf my lady dereGladli quod she and saide in\n                    \u00feis manere\n",
+            "Attributed Title": "\nOure host (f. 222v, margin)",
+            "folio": "f. 222v"
+        },
+        "BodLauMis739": {
+            "First Lines": "\n[W]Ele said by corpus domine quod oure oosteNow lang mote you saile\n                    by \u00fee see cost\u2026\n",
+            "Last Lines": "\n\u2026Now wole \u021de voche saue my lady dereGladly quod she and\n                    said in \u00feis manere\n",
+            "folio": "f. 233v"
+        },
+        "BodRawPoe141": {
+            "First Lines": "\nWEl sayde bi corpus dominus quod oure ostLonge mot thou sire ryde\n                    bi cost\u2026\n",
+            "Last Lines": "\n\u2026Nou wol fouche saf my lady dereGladly quod she and seyde in\n                    this manere\n",
+            "Attributed Title": "\nHere bigynneth the rehercyng of our Ost (f. 91); Oure Ost (RT)",
+            "folio": "f. 91"
+        },
+        "BodRawPoe149": {
+            "First Lines": "\nWel saide be corpus dominus quod our oostNow longe mote thou saile\n                    be the coost\u2026\n",
+            "Last Lines": "\n\u2026Now wil ye fouche saaf my ladi dereGladli quod she and saide\n                    in this manere\n",
+            "Attributed Title": "\n\u2026and here / begynneth the priores prolog (f. 102v); prolog\n                    priores (f. 102v, margin)",
+            "folio": "f. 102v"
+        },
+        "BodRawPoe223": {
+            "First Lines": "\nWel said be corpus dominus quod oure oostNow longe mot thou saile\n                    be the coste\u2026\n",
+            "Last Lines": "\n\u2026Now wol ye vouchesaf my lady dereGladly quod she and seid in\n                    this manere\n",
+            "Attributed Title": "\n\u2026And here beginneth the Prolog of the Prioresse (f.\n                    214v)",
+            "folio": "f. 215"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nWele saide be corpus dominus seyd oure hosteNow longe mote\n                    thow saille be the coste\u2026\n",
+            "Last Lines": "\n\u2026Now wole ye fouche saufe my lady dereGladly quod she and\n                    seyde as ye shall here\n",
+            "Attributed Title": "\n\u2026The mury talkynge of Henre Bailly (f. 132v)",
+            "folio": "f. 133"
+        },
+        "OxfCCC198": {
+            "First Lines": "\nWel seyde by corpus dominusNow lange mote \u00feou sayle by \u00fee\n                    coste\u2026\n",
+            "Last Lines": "\n\u2026Now wole \u021de fouche sauf my lady deereGladly quo\u00fe\n                    she and sayde in \u00feis manere\n",
+            "Attributed Title": "\nPrologus (RT, rubric)",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "ff. 210-210v"
+        },
+        "OxfNew314": {
+            "First Lines": "\nWEl said be corpus dominus saide our ostNow longe moot thow saile\n                    be \u00fee cost\u2026\n",
+            "Last Lines": "\n\u2026Now wil ye vouche saaf my ladi dereGladli quod she and saide\n                    as ye shul here\n",
+            "Attributed Title": "\n\u2026Verba Hospitis (f. 204)",
+            "folio": "f. 204"
+        },
+        "OxfTri49": {
+            "First Lines": "\nNow longe mote thou saile be the costethou gentil maistir\n                    mariner\u2026\n",
+            "Last Lines": "\n\u2026now wille ye voucehsauf my lady dereGladly quoth she and\n                    saide as ye shulle here\n",
+            "Note": "\nVII.435 omitted.",
+            "folio": "ff. 170v-171"
+        },
+        "CULIi326": {
+            "First Lines": "\nWele saide bi corpus dominus said oure hosteNowe longe mote thou\n                    saile bi the see coste\u2026\n",
+            "Last Lines": "\n\u2026Nowe wil ye vouche sauf my lady dereGladly quod she and saide\n                    as ye shull here\n",
+            "Note": "\nVII.442 omitted.",
+            "Attributed Title": "\n\u2026The wordes of oure host (f. 184)",
+            "folio": "f. 184"
+        },
+        "CULMm25": {
+            "First Lines": "\nWel saide be corpus dominus quod oure osteNowe longe mot \u00feou\n                    saill by \u00fee see coste\u2026\n",
+            "Last Lines": "\n\u2026Nowe woll \u021de wouchesaue my lady dereGladly quod sche and\n                    said in \u00feis manere\n",
+            "Attributed Title": "\n\u2026Here beginneth \u00fee Prioresse tale (f. 64)",
+            "folio": "f. 64"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[W]Ell seid by corpus dominus quoth our osteNow long mot \u00feou\n                    sayle by the coste\u2026\n",
+            "Last Lines": "\n\u2026Now woll ye vouchesafe my lady dereGladly quoth sche and\n                    seide as ye schull here\n",
+            "Attributed Title": "\n\u2026The Prolog of \u00fee Prioresse (f. 214v); Prioresse\n                    (RT)",
+            "folio": "ff. 214v-215"
+        },
+        "CamTCC582": {
+            "First Lines": "\nWel saide be corps dominus quod oure oostNow longe mot\n                    thou saile by the coste\u2026\n",
+            "Last Lines": "\n\u2026Now wol ye vouche it saf my lady dereGladli quod she and said\n                    as ye shall hiere\n",
+            "Attributed Title": "\nA Prolog of the Prioresse finisshed of / Domine dominus\n                    noster\u2026 (f. 106rb)",
+            "folio": "f. 106rb"
+        },
+        "CamTCC595": {
+            "Transcription": "\nWElle seide by corpus dominus quod oure OsteNow longe mote thou saile\n                    by the coosteYe gentille maistre gentille marynereGod yeue the monke a\n                    thousand quade yereHa ha felawes beware of suche a iapeThe monke put\n                    in the mannes hode an ApeAnd his wyffes eke by seynt AugustyneDraweth\n                    no monkes nomore to your ynneBut nowe passe ouer and let vs seke\n                    aboutWho nowe shalle first of alle this rowte\n",
+            "Note": "\nVII.444-52 omitted (rest of the leaf blank with following folio\n                    excised).",
+            "Attributed Title": "\n\u2026Beholdeth nowe the / mery seynge of oure worthy Oste to the Shipman\n                    (f. 221v); Here begynneth Chaucers tale (f. 222; the prose\n                        Melibee follows Prioress\u2019s Tale)",
+            "folio": "f. 221v"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nWEle seyd be corpus dominus seyd our hostNow long mot thou sayle by\n                    the coost\u2026\n",
+            "Last Lines": "\n\u2026Now wol ye vouchesafe my lady dereGladly quod she and sayde\n                    as ye shal here\n",
+            "Attributed Title": "\n\u2026& Incipit prologus prioresse (f. 229); Pryoresse\n                    (RT)",
+            "folio": "ff. 229-229v"
+        },
+        "BLAdd25718": {
+            "First Lines": "\nWell saide by corpus dominus quod oure OsteNow lange mote\n                    thou saill bi the koste\u2026\n",
+            "Last Lines": "\n\u2026Now wol ye fouche sauf my lady dereGladly quod she and said\n                    in this manere\n",
+            "Attributed Title": "\n\u2026Incipit / prohemium par le Oste (f. 75)",
+            "folio": "ff. 82-82v"
+        },
+        "BLEge2726": {
+            "First Lines": "\nWele seid by corpus dominus koth our hoostNow long mot \u00feou\n                    saill by the coost\u2026\n",
+            "Last Lines": "\n\u2026Now woll ye vouche is saaf my lady dereGladly koth she and\n                    seid as ye shull here\n",
+            "Attributed Title": "\n\u2026and the hoost begynneth to speke (f. 176v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "f. 177"
+        },
+        "BLEge2863": {
+            "First Lines": "\nWEl saide by corpus dominus quod our oostNow longe mote \u00feou\n                    saile by \u00fee see cooste\u2026\n",
+            "Last Lines": "\n\u2026I wolde deme \u00feat \u021de telle scholdeA tale next if so\n                    were \u00feat \u021de wolde\u2026\n",
+            "Note": "\nVII.451-2 lost.",
+            "Attributed Title": "\n\u2026and here byginneth \u00fee prologe of \u00fee prioresse (f.\n                        146v)",
+            "folio": "f. 146v"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[W]Eel sayd bi corpus dominus sayd our hoostNow longe mot thou\n                    sayle bi the coost\u2026\n",
+            "Last Lines": "\n\u2026Now wol ye vouchesaf my lady deereGladly quod she and sayde\n                    as ye shul heere\n",
+            "Attributed Title": "\n\u2026Here begynneth the prolog of the prioresse / Iocunda verba\n                        Henrici Baili\u2026 (f. 185v)",
+            "folio": "ff. 185v-186"
+        },
+        "BLHar1758": {
+            "First Lines": "\nWEll seide be corpus dominus seide our ostNow long mote thou\n                    seile by the see coost\u2026\n",
+            "Last Lines": "\n\u2026Now woll ye fouche saf my lady dereGladly quod sche &\n                    seide as ye schall here\n",
+            "Attributed Title": "\nHere begynneth the Prolog of the Prioresse (f. 163); The Prioresse (RT);\n                    Here endith the Prolog\u2026 (f. 163v)",
+            "folio": "ff. 163-163v"
+        },
+        "BLHar7334": {
+            "First Lines": "\nWEl sayd by corpus boones quod oure hostNow longe mot \u00feou\n                    sayle by \u00fee cost\u2026\n",
+            "Last Lines": "\n\u2026Now wol \u021de vouche sauf my lady deereGladly quod sche and\n                    sayd in \u00feis manere\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "f. 200"
+        },
+        "BLLan851": {
+            "First Lines": "\nWele saide be corpus dampnus seide oure OsteNowe longe mot \u00feou\n                    seile be \u00feis coste\u2026\n",
+            "Last Lines": "\n\u2026Now wil \u021de vouche saue my lady dereGladly quod sche\n                    & seide in \u00feis manere\n",
+            "Attributed Title": "\n\u2026Incipit prologus Priorisse (f. 186)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "f. 186"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nWEle saide bi corpus dominus quod oure hostNow long mote thow saile\n                    bi the cost\u2026\n",
+            "Last Lines": "\n\u2026Now wil ye fowche it sauf my lady deereGladly quod she and\n                    saide in this manere\n",
+            "Attributed Title": "\n\u2026And begynnyth the prolog of the prioresse (f. 234); Here endith the\n                    prolog\u2026 (f. 234v, margin)",
+            "folio": "f. 234v"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nWEl sayde by corpus dominus quod oure OsteNow lange mote \u00feou\n                    sayle by \u00fee see coste\u2026\n",
+            "Last Lines": "\n\u2026Now wole \u021de fouche sauf my lady dereGladly quod she and\n                    saide in \u00feis manere\n",
+            "Attributed Title": "\nHere begynneth the prolog of the Prioresse (f. 190); The prioresse (RT);\n                    Here endith the prolog\u2026 (f. 191)",
+            "folio": "ff. 190v-191"
+        },
+        "BLSl1685": {
+            "First Lines": "\nWEle ysayde be corpus dominus quod oure hoostNowe longe mote ye\n                    sayle be see cooste\u2026\n",
+            "Last Lines": "\n\u2026Nowe wolle \u021de vowche safe my lady dereGladly quod she\n                    and sayde as ye shall here\n",
+            "Attributed Title": "\n\u2026Here begynneth \u00fee Proloog of \u00fee Pryoresse (f. 198); Here\n                    endeth \u00fee Proloog\u2026 (f. 198)",
+            "folio": "f. 198"
+        },
+        "BLSl1686": {
+            "First Lines": "\nWEl said by corpus dominus quod oure OostNowe long mote thou saile\n                    the see coste\u2026\n",
+            "Last Lines": "\n\u2026Now wulle ye vouchesaf my lady dereGladly quod she and seide\n                    in this manere\n",
+            "Attributed Title": "\n\u2026And here begynneth the Prolog of the Prioresse tale (f. 239); [A]\n                    Prolog of the Prioresse (RT); Here endith the the Prolog of the Prioresse\n                    tale\u2026 (f. 239v)",
+            "folio": "ff. 239-239v"
+        },
+        "NLWPen392": {
+            "First Lines": "\nWEl seyd by corpus cominus quod oure hoostNow longe moote thow\n                    saille by the coost\u2026\n",
+            "Last Lines": "\n\u2026Now wol ye vouche it sauf my lady deereGladly quod she and\n                    seyde as ye shal heere\n",
+            "Attributed Title": "\nHerke the myrie wordes of the worthy Hoost (f. 209v)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "f. 209v"
+        },
+        "GULHun197": {
+            "First Lines": "\nWEle ysaide by Corpus dominus quod oure hoosteNow long mote\n                    \u00feou saile be \u00fee cooste\u2026\n",
+            "Last Lines": "\n\u2026Now wole ye vouchesauf my lady dereGladly quod she and seid\n                    in \u00feis manere\n",
+            "Note": "\nSecond occurrence in MS.",
+            "Attributed Title": "\nHere begynneth the the tale prolog of the Priorasses tale (f.\n                        79vb); The tale of the priorasse (RT)",
+            "folio": "ff. 79vb-80ra"
+        },
+        "Holkham667": {
+            "First Lines": "\nWell seid by corpus dominus quod our hoosteNow long mote thou seill\n                    by the coste\u2026\n",
+            "Last Lines": "\n\u2026Now will ye vouch saufe my lady dereGladly quod she & and\n                    seid as ye shull here\n",
+            "folio": "f. 80ra"
+        },
+        "Lichfield29": {
+            "First Lines": "\nWel seide by corps dominus seide our osteNowe longe moot \u00feou\n                    seille by \u00fee see cooste\u2026\n",
+            "Last Lines": "\n\u2026Now wil \u021de vouche sauf my lady dereGladly quod she and\n                    seide in \u00feis manere\n",
+            "Attributed Title": "\n\u2026and here bygynneth \u00fee / prologe of the priores tale (f. 202,\n                    rubric); Thus endeth the prologe\u2026 (f. 202, rubric)",
+            "folio": "f. 202"
+        },
+        "Lincoln110": {
+            "First Lines": "\nWel seid be corpus dominus seide oure ostNow longe mote \u00feou\n                    saile by \u00fee cost\u2026\n",
+            "Last Lines": "\n\u2026Now wol \u021de vouche it sauf my ladi dereGladly quod sche\n                    and seide as \u021de schullen here\n",
+            "Attributed Title": "\n\u2026And biginnyth the prolog of the priores (f. 188, heavily\n                    stained)",
+            "folio": "ff. 188-188v"
+        },
+        "LonPhys388": {
+            "First Lines": "\nWele saide bi corpus Dominus quod oure hosteNow long mote thow\n                    saile bi the coste\u2026\n",
+            "Last Lines": "\n\u2026Now wil ye fowche sauf my lady dereGladly quod she and saide\n                    as ye shul here\n",
+            "Attributed Title": "\n\u2026Incipit prologus Prioresse (f. 253v); Explicit\n                        prohemium\u2026 (f. 254)",
+            "folio": "ff. 253v-254"
+        },
+        "RylandsEng113": {
+            "First Lines": "\nWele saide bi Corpus dominus saide oure hoostNow long mote \u00feou\n                    saile bi \u00fee see Cost\u2026\n",
+            "Last Lines": "\n\u2026Now wolde ye vouch safe my lady dereGladly quod she and said\n                    as ye shall here\n",
+            "Attributed Title": "\n\u2026And / begynnyth \u00fee prologe of \u00fee prioresses tale (f. 124);\n                    Prioresses prologe (f. 124, margin); Prioresse (RT)",
+            "folio": "f. 124"
+        },
+        "Petworth7": {
+            "First Lines": "\nWEl seid by corpus dominus quod our hosteNow longe mote \u00feout\n                    saile by \u00fee coste\u2026\n",
+            "Last Lines": "\n\u2026Now wil \u021de vouche sauf my lady dereGladly quod she and\n                    seide in \u00feis manere\n",
+            "Attributed Title": "\n\u2026And here bygynno\u00fe \u00fee prologe of \u00fee priores (f.\n                        80v, rubric); \u00fee prologe (f. 80v, margin, in\n                    rubric); \u00fee prologe of \u00fee nonne (RT, rubric); Thus ende\u00fe \u00fee\n                    prologe\u2026 (f. 81, rubric)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 80v-81"
+        },
+        "Austin46": {
+            "First Lines": "\nWeel seyd by corpus dominus quod oure hoostNow longe moote \u00feou\n                    sayle by the coost\u2026\n",
+            "Last Lines": "\n\u2026Now wol ye vouche it sauf my lady deereGladly quod she and\n                    seyde as ye shal heere\n",
+            "Attributed Title": "\n\u2026Biholde the mirye wordes of the worthy / Hoost to the Shipman &\n                    to the Prioresse (f. 4ra); Explicit (f.\n                    4ra)",
+            "folio": "f. 4ra"
+        },
+        "Austin143": {
+            "First Lines": "\nWell seide by corpus dominus quod oure hosteNowe longe mot you\n                    saile by the Coste\u2026\n",
+            "Last Lines": "\n\u2026Nowe wolde vouch saf my lady dereGladly quod she and seide as\n                    ye shall here\n",
+            "Attributed Title": "\n\u2026And bygennyth the prologge of the Prioresse (f. 157); Prioresse\n                    (RT)",
+            "folio": "ff. 157-157v"
+        },
+        "ChicagoUL564": {
+            "First Lines": "\nWell sayd by corpus dominus quod oure ostNowe longe mote \u00feou\n                    sir ryde by \u00fee cost\u2026\n",
+            "Last Lines": "\n\u2026Now wyll \u021de fouche saf my lady dereGladly quod she &\n                    seyde in \u00feis manere\n",
+            "folio": "ff. 68v-69"
+        },
+        "PierpontM249": {
+            "First Lines": "\nWel seide by corpus Dominus seide oure osteNowe longe mote thou\n                    saille by the see coste\u2026\n",
+            "Last Lines": "\n\u2026Now wil \u021de vouche sauf my lady dereGladly quod she and\n                    seide in this manere\n",
+            "Attributed Title": "\n\u2026And here bigynneth the Prologe of the Priores (f. 202v);\n                    Thus endeth the prologe\u2026 (f. 202v) The prologe Of the Priores\n                    (RT)",
+            "folio": "f. 202v"
+        },
+        "PhilRos10841": {
+            "First Lines": "\nWel seyd be corpus dominus quad oure oostNow longe mote thou seyle\n                    be \u00fee see cost\u2026\n",
+            "Last Lines": "\n\u2026Now wole yee vouche saaf my lady deereGladly quod sche and\n                    seyd in this maneere\n",
+            "Attributed Title": "\nHeere begynneth \u00fee Prioresse tale (f. 18)",
+            "folio": "f. 20"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nWel seyd by corpus dominus quod oure hoostNow longe moote thou\n                    saille by the cost\u2026\n",
+            "Last Lines": "\n\u2026Now wol ye vouche sauf my lady deereGladly quod she and seyde\n                    as ye shal heere\n",
+            "Attributed Title": "\n\u2026Bihoold the murie wordes of the Hoost to the shipman / and to the\n                    lady Prioresse (f. 148); Explicit\u2026 (f. 148)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "f. 148"
+        },
+        "BNangl39": {
+            "First Lines": "\nUel seid by corpus dominus quod oure hostlong mot thou seyle by the\n                    coost\u2026\n",
+            "Last Lines": "\n\u2026now wil yee vouchesauf my lady deeregladly quod she and seyd\n                    as yee shal here\n",
+            "Attributed Title": "\n\u2026& subse / quenter incipit prohemium fabule / Prioresse hoc\n                        modo sequente (f. 70ra); Explicit prohemium\u2026 (f.\n                        70ra)",
+            "folio": "f. 70ra"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nWel seid by corpus dominus quod oure hostNow long mot thou saile be\n                    the cost\u2026\n",
+            "Last Lines": "\n\u2026Now wol ye vouchesaf my lady dereGladly quod she and seyd as\n                    yee shal here\n",
+            "Attributed Title": "\n\u2026And the hoost beginneth to speke (f. 167v,\n                    rubric)",
+            "folio": "f. 167v"
+        },
+        "TokyoTak32": {
+            "First Lines": "\nWell seyd bee corpus dominus seyde owre OostNow longe mote thow\n                    seyle by thee coost\u2026\n",
+            "Last Lines": "\n\u2026Now wole yee fowchesauf my lady dereGladlye quod schee and\n                    seyde as yee schal here\n",
+            "Attributed Title": "\n\u2026And here be gynnyht the priouressis tale with the / prologe (f.\n                        104rb)",
+            "folio": "f. 104rb"
+        },
+        "Bodmer48": {
+            "First Lines": "\nWEl seid bi corpus dominus quod our hostNow long mot \u00feou said\n                    bi \u00fee cost\u2026\n",
+            "Last Lines": "\n\u2026Now wil ye vouchsauf my ladi dereGladly coth she and seid as\n                    ye shul her\n",
+            "Attributed Title": "\nThe prolog of the prioresse (f. 169, rubric); Here endith the prolog of the\n                    prioresse\u2026 (f. 169, rubric)",
+            "Facsimiles": "\n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n",
+            "folio": "f. 169"
+        }
+    }
+}

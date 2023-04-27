@@ -1,0 +1,38 @@
+{
+    "_id": 69,
+    "_header": "A Jesu Christ crown of maidens all",
+    "Author(s)": "John Capgrave",
+    "Title(s)": "Life of St Katherine",
+    "Subjects": "saints\u2019 lives; Katherine of Alexandria, saint, life of",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "John Capgrave, Life of St Katherine \u2014 rhyme royal",
+    "_witnesses": {
+        "BodRawPoe118": {
+            "First Lines": "\nIesu cryst crowne of maydenys alleA mayde bare \u00fee mayde\n                    \u021daue \u00fee soke\u2026\n",
+            "Last Lines": "\n\u2026God our lord for his hye mercyGraunt us heuene aftyr \u00feis\n                    mysery\n",
+            "Attributed Author": "\nPar Capgraue (f. 113)",
+            "Editions": "\n\nHorstmann,  Carl,\n                        ed.  \n             John Capgrave: the Life of St. Katherine of Alexandria.\nEarly English Text Society\n         o.s. 100 (1893): 2-260 (bks. 1-3).\nWinstead,  Karen A.,\n                        ed.  \n             The Life of St Katherine.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1999. \n\n",
+            "folio": "ff. 1-113"
+        },
+        "BLAru20": {
+            "First Lines": "\nSVm tym \u00feair was a grete kyng in greceoff surry and cypre both\n                    lorde & syreAs clark tell vs in olde storeceAll thyng was rewlyd\n                    at hys desyre\u2026\n",
+            "Last Lines": "\n\u2026And specyall succur yn \u00feis perilous pylgrymage\u00feat\n                    after \u00feis lyue we mey cum to thy cage\n",
+            "Note": "\nLacks prologue. Two verse lines per manuscript line. Final stanzas\n                    differ from other manuscript witnesses of the same text.",
+            "folio": "ff. 1-42v"
+        },
+        "BLAru168": {
+            "First Lines": "\nO Jhesu criste croune of maydyns allA mayde bare \u00fee a mayde\n                    \u021daf \u00fee soke\u2026\n",
+            "Last Lines": "\n\u2026God oure lord for his hye mercyGraunte vs heuene aftir\n                    \u00feis myserie\n",
+            "Note": "\n\u2018Amen\u2019 on separate line after end.",
+            "Attributed Author": "\nExplicit vita sancte Katerine facta per doctore Capgraue (f.\n                        65rb)",
+            "Attributed Title": "\nExplicit vita sancte Katerine facta per doctore Capgraue (f.\n                        65rb)",
+            "folio": "ff. 15ra-65rb"
+        },
+        "BLAru396": {
+            "First Lines": "\nA ihesu crist crovne of maydenes alleA mayde bare the a mayde\n                    \u021dave \u00fee sook\u2026\n",
+            "Last Lines": "\n\u2026God oure lord for his hye mercyGraunte vs heuene after thys\n                    mysery. Amen\n",
+            "Editions": "\n\nHingeston,  Francis Charles,\n                        ed.  \n             Johannis Capgrave liber de illustribus Henricis.\nRolls Series\n         7 (1858; repr. Kraus, 1970): 337-54 (Prologue only).\nHorstmann,  Carl,\n                        ed.  \n             John Capgrave: the Life of St. Katherine of Alexandria.\nEarly English Text Society\n         o.s. 100 (1893): 3-403.\n\n",
+            "folio": "ff. 1-117v"
+        }
+    }
+}

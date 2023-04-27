@@ -1,0 +1,400 @@
+{
+    "_id": 3255,
+    "_header": "Lordings there is in Yorkshire as I guess",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Sommoner\u2019s Tale; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; devil; friars; Church corruption",
+    "Versification": "\u2014 couplets \u2014 aa",
+    "_description": "Geoffrey Chaucer, the Summoner\u2019s Tale of the Canterbury Tales \u2014 586 lines in rhyming couplets.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nLordynges there is in yorke shire as I gessea merssh contre called\n                    holdernesse\u2026\n",
+            "Last Lines": "\n\u2026and Iankyn hath I wonne a newe gownemy tale is don we ben\n                    almoste at towne\n",
+            "Note": "\nIII.1731, 1873-4, 2229 omitted; spurious lines follow 1732, 2230; 2101-2\n                    reversed; 1937, 1938, 1941 partially blank.",
+            "Attributed Title": "\n\u2026And / next folwith his tale to angre the ffrere (f.\n                    106v); the sompnour (RT); Here endith the Sompnour is tale\u2026 (f.\n                        114v)",
+            "folio": "ff. 106v-114v"
+        },
+        "BodBar20": {
+            "First Lines": "\nLordynges \u00feer is in Yorkeshire as I gesseA merschy Contre\n                    called holdernesse\u2026\n",
+            "Last Lines": "\n\u2026And Iankyn hath I wonne a new gowneMyn tale is don we ben\n                    almost at towne\n",
+            "Note": "\nIII.1731, 1750, 1873-4 omitted; 2101-2 reversed; 1768 inserted in\n                    margin.",
+            "Attributed Title": "\nhere begynne \u00fee sompnoures tale (f. 126); Sompnour (RT)",
+            "folio": "ff. 126-134"
+        },
+        "Bod414": {
+            "First Lines": "\n[L]Ordingis ther is in yorkshire as I gesseA marshe cuntre callid\n                    holdirnesse\u2026\n",
+            "Last Lines": "\n\u2026And Iankyn hath wonne a new gounMy tale is done we ben almost\n                    at the toun\n",
+            "Attributed Title": "\nThe tale of the Sompnour (f. 83)",
+            "folio": "ff. 83-89v"
+        },
+        "Bod686": {
+            "First Lines": "\nLordings \u00feer is in yorkeshire as y gesseA mershcontre called\n                    holdernesse\u2026\n",
+            "Last Lines": "\n\u2026And Iankin hath ywonne a new gowneMy tale is don we ben\n                    almost at toune\n",
+            "Note": "\nIII.1955, 2153 inserted at foot.",
+            "Attributed Title": "\n\u2026And begynne\u00fe his tale (f. 91v); Somnour (RT); Here\n                    endeth \u00fee Somnours tale\u2026 (f. 98v)",
+            "folio": "ff. 91v-98v"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nLordinges \u00feere is in yorkshire as I gesseA Merssh contre\n                    called holdernesse\u2026\n",
+            "Last Lines": "\n\u2026And Iankyn hath wonnen a newe gownMi tale is don we be al\n                    most atte town\n",
+            "Note": "\nIII.1731 omitted; spurious line follows 1732.",
+            "Attributed Title": "\n\u2026And next / biginneth the Somnours tale (f. 129); The Somnours tale\n                    (RT); Here endeth \u00fee tale of the Somnour\u2026 (f.\n                    135v)",
+            "folio": "ff. 129-135v"
+        },
+        "BodLauMis600": {
+            "First Lines": "\n\u2026In euery hous he gan to poore and prieAnd begge\u00fe mele\n                    chese or elles corn\u2026\n",
+            "Last Lines": "\n\u2026And Ienkyn ha\u00fe wone a newe gowneMi tale is don we be\n                    almost at towne\n",
+            "Note": "\nIII.1709-37 lost (resupplied on leaves added in the seventeenth century,\n                    ff. 100-1); 1805, 1873-4 2229 omitted; 1805 inserted lated; spurious line\n                    follows 2230; 1747-8, 2101-2 reversed.",
+            "Attributed Title": "\n\u00fee sompnour (RT)",
+            "folio": "ff. 102-110v"
+        },
+        "BodLauMis739": {
+            "First Lines": "\n[L]ordyngs ther is in yorkshire as I gesseA merssh countre y callid\n                    holdernesse\u2026\n",
+            "Last Lines": "\n\u2026And forth he goth with a wele angry chereHe ne had no\u021dt\n                    ellis for his sermoneTo parte among his bretherin whan he come homeAnd\n                    thus this tale is I donffor we were almost at \u00fee toune\n",
+            "Note": "\nIII.1748, 1764, 2144, 2159-2294 omitted; four spurious lines follow\n                    2158.",
+            "folio": "ff. 151v-158v"
+        },
+        "BodRawPoe141": {
+            "First Lines": "\nLOrdynges ther is in \u021dork shyre as I gesseA merssh contre\n                    cleped holdernesse\u2026\n",
+            "Last Lines": "\n\u2026And commandyng hem thei shulde before hym stondAnd sodenly he\n                    toke his bowe on his hond\u2026\n",
+            "Note": "\nIII.2067-294 lost; 1731, 1738, 1873-4, 1928, 2041, 2049 omitted;\n                    spurious lines follow 1732, 2048. Catchphrase at the foot of f. 153v:\n                    \u2018& vp the stryng\u2019.",
+            "Attributed Title": "\nHere bigynneth the sompnors tale (f. 148); The sompnor (RT)",
+            "folio": "ff. 148v-153v"
+        },
+        "BodRawPoe149": {
+            "First Lines": "\nLordynges ther is in yorkeshire as I gesseA marsh cuntre called\n                    holdernes\u2026\n",
+            "Last Lines": "\n\u2026And forth he goth with a ful angri chereHe ne had noght elles\n                    for his sermonto departe amonge his brethren when he come homeAnd thus\n                    is this tale y doneFor we were almoost atte toune\n",
+            "Note": "\nIII.1731, 1748, 1764, 2159-294 omitted; spurious lines follow 1732,\n                    1762.",
+            "Attributed Title": "\n\u2026And here begynneth his tale of a frere (f. 74v);\n                        fab (f. 71, margin); here endith the somonours tale of the\n                    frere\u2026 (f. 71)",
+            "folio": "ff. 71-74v"
+        },
+        "BodRawPoe223": {
+            "First Lines": "\nLordinges ther is in Yorkeshire as I gesseA merssh contre I callid\n                    holdernesse\u2026\n",
+            "Last Lines": "\n\u2026And Iankyn hath I wonne a newe gowneMy tale is don we ben\n                    almost at towne\n",
+            "Note": "\nIII.2205-10 omitted.",
+            "Attributed Title": "\n\u2026And here beginneth his tale folwing (f. 149); Apparitoris De\n                        ffratre (RT); Here endith the sompnors tale\u2026 (f.\n                    157v)",
+            "folio": "ff. 149-157v"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nLordynges ther is in yorkeshire as I gesseA Meirsshy countre called\n                    holdernesse\u2026\n",
+            "Last Lines": "\n\u2026And Iankyn hath I wonne a newe gowneMy tale is doon we ben\n                    almost at towne\n",
+            "Note": "\nIII.1730, 1748, 1970 omitted (1730 and 1970 inserted subsequently in\n                    margin).",
+            "Attributed Title": "\n\u2026And bigynneth his tale (f. 93v); Here endeth the\n                    Sompnours tale\u2026 (f. 102)",
+            "folio": "ff. 93v-102"
+        },
+        "OxfCCC198": {
+            "First Lines": "\nLordynges \u00feer is in york schure as I gesseA mersshy countre\n                    called holdernesse\u2026\n",
+            "Last Lines": "\n\u2026And Iankyn ha\u00fe y wonne a newe gouneMy tale is doon we\n                    ben almost at towne\n",
+            "Note": "\nIII.1731, 1873-4 omitted; 2101-2 reversed; spurious line follows\n                    1732.",
+            "Attributed Title": "\nHere begynne\u00fe \u00fee Somnours tale (f. 121); Somnours (RT, rubric);\n                    here ende\u00fe \u00fee Somnours tale\u2026 (f. 129v)",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "ff. 121-129v"
+        },
+        "OxfNew314": {
+            "First Lines": "\nLOrdingis quod he \u00feere is in yorkshire as I gesseA mersh\n                    contre \u00feat callid is holdernes\u2026\n",
+            "Last Lines": "\n\u2026And Iankyn hath y wonne a new gowneMi tale is doon we be\n                    almost at Toune\n",
+            "Note": "\nIII.2018, 2229 omitted; 1963-4 reversed; spurious lines follow\n                    2230.",
+            "Attributed Title": "\n\u2026and begynneth the Somp / nors tale (f. 122); Sompnour (RT)",
+            "folio": "ff. 122-130v"
+        },
+        "OxfTri49": {
+            "First Lines": "\nLOordynges there is in yorkshire I gessea mershe contre callied\n                    holdernesse\u2026\n",
+            "Last Lines": "\n\u2026and Iankyn hath wonne a newe gouneMy tale is done we be\n                    almoste att towne\n",
+            "Note": "\nIII.1731, 1748, 1858, 1926, 2024, 2070, 2224 omitted.",
+            "Attributed Title": "\nSompnoure (RT); Explicit\u2026 (f. 106v)",
+            "folio": "ff. 98-106v"
+        },
+        "CULDd424": {
+            "First Lines": "\nLordyngges there is in \u021dorkshire as I gesseA mersshy contre\n                    called holdernesse\u2026\n",
+            "Last Lines": "\n\u2026And Iankyn hath I wonne a newe GovneMy Tale is doon we ben\n                    almost at Tovn quod Wytton\n",
+            "Note": "\nIII.1963-4 reversed.",
+            "Attributed Title": "\n\u2026Et incipit fabula (f. 86); Hic fintur fabula\n                        Summonitoris\u2026 (f. 92, following a space of approximately eight\n                    lines)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 86-92"
+        },
+        "CULGg427": {
+            "First Lines": "\n\u2026A godis kechil or a trip of cheseOr ellis what \u021dow\n                    lyste we may not chese\u2026\n",
+            "Last Lines": "\n\u2026That I may vouche saf I sey for meHe hadde \u00fee ferste\n                    smel of fartys thre\u2026\n",
+            "Note": "\nIII.1709-46, 2285-94 lost; 1907-11 omitted.",
+            "Facsimiles": "\nParkes,  Malcolm B.,  and  Richard Beadle.  \n             \u201cIntroduction.\u201d \n             Poetical Works. Geoffrey Chaucer. A Facsimile of Cambridge University\n                Library MS Gg.4.27. 3 vols Cambridge: D. S. Brewer, 1979 (vol. 1); 1980 (vols. 2-3). \n",
+            "Editions": "\nFurnivall,  Frederick James. \n             The Cambridge MS (University Library, Gg.4.27) of Chaucer\u2019s\n                Canterbury Tales.\nChaucer Society\n         Series 1, nos. 4, 10, 17, 28, 33, 40, 52, 66. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 235-243v"
+        },
+        "CULIi326": {
+            "First Lines": "\nLOrdynges quod he there is in yorkeshyre as I gesseA mercche contre\n                    that called is holdernesse\u2026\n",
+            "Last Lines": "\n\u2026And Ienkyn hath y wonne a newe gownMy tale is done we be\n                    almoste at the town\n",
+            "Note": "\nIII.2229 omitted; 1963-4 reversed; spurious lines follow 1745,\n                    2230.",
+            "Attributed Title": "\n\u2026And here begynneth his tale (f. 129); Sompnour (RT); Here Endeth the\n                    Sompnours tale\u2026 (f. 135)",
+            "folio": "ff. 129-135"
+        },
+        "CULMm25": {
+            "First Lines": "\nLordynges \u00feer is in \u021dorkeschire as I gesseA mersshy\n                    countre called holdernesse\u2026\n",
+            "Last Lines": "\n\u2026Beforne \u00feis day of suche a questiounWho schulde make a\n                    demonstraconHe ne had not ells for his sermounTo parte amonge his\n                    brethern when he come homeAnd \u00feus is \u00feis tale ydoneffor we\n                    were almoste at \u00fee toun\n",
+            "Note": "\nIII.1726, 1731, 1873-4, 2225-94 omitted; 2101-2 reversed; spurious lines\n                    follow 1732, 2224.",
+            "Attributed Title": "\nHere begynneth \u00fee somnours tale (f. 133); \u00fee somnere (RT); Here\n                    endith \u00fee somnours tale\u2026 (f. 139)",
+            "folio": "ff. 133-139"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[L]Ordynges \u00feer is in yorke schyre as y gesseA mersche cuntre\n                    called holdenesse\u2026\n",
+            "Last Lines": "\n\u2026Come lepynge in and chased oute \u00fee ffrereAnd forth he\n                    goth with a full angry chereHe ne had nou\u021dte ell for his\n                    sermouneTo departe amonge his breddrn when he come homeAnd \u00feus ys\n                    the tale of the frere ydonffor we were almost at \u00fee toun\n",
+            "Note": "\nIII.1731, 1748, 1887-8, 1991-8, 2005-10, 2051-2, 2079-85, 2101, 2111-12,\n                    2115-20, 2159-2294 omitted; spurious lines follow 1732, 2086, 2158. The rest of\n                    the verso and the following recto and verso are left blank following the\n                        Tale.",
+            "Attributed Title": "\nThe tale of \u00fee Sompnoure (f. 152v, rubric); Sompnoure (RT);\n                    Her endeth the Sompnours Tale (f. 158v, rubric)",
+            "folio": "ff. 152v-158v"
+        },
+        "CamTCC582": {
+            "First Lines": "\n\u2026Had prechid at a chirche in his manereAnd specialli abouen\n                    eueri thing\u2026\n",
+            "Last Lines": "\n\u2026And Iankyn hath I wonne a newe gouneMy tale is don we ben\n                    almost at towne\n",
+            "Note": "\nIII.1709-13 lost; 1907-12, 2205-10 omitted; 1967-8, 2199-2200\n                    reversed.",
+            "Attributed Title": "\nHiere endith the tale of the Sompnour\u2026 (f. 66rb)",
+            "folio": "ff. 63ra-66rb"
+        },
+        "CamTCC595": {
+            "First Lines": "\nLOrdynge quod he in Yorke shire as I gesseIs a\n                    mersh[?] contre that callid is\n                    holdernesse\u2026\n",
+            "Last Lines": "\n\u2026And Iankyn hath Iwonne anewe goneMy tale is done we be almost\n                    at toune\n",
+            "Note": "\nIII.2229, omitted; spurious line follows 2230; 1963-4\n                    reversed.",
+            "Attributed Title": "\n\u2026And begynneth the sompnours tale (f. 147v); Here endith\n                    the sompnours tale\u2026 (f. 156v)",
+            "folio": "ff. 148-156v"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nLOrdynges ther is in yorkshire as y gesseA merissh contre y called\n                    holdirnesse\u2026\n",
+            "Last Lines": "\n\u2026And Iaynkyn hath wonne a new gowneMy tale is don we be almost\n                    at towne\n",
+            "Note": "\nIII.2114, 229 omitted; spurious line follows 2230.",
+            "Attributed Title": "\n\u2026& Incipit fabula eiusdem (f. 118); Sompnour (RT);\n                        Explicit fabula Apparitoris\u2026 (f. 128)",
+            "folio": "ff. 118-128"
+        },
+        "BLAdd25718": {
+            "First Lines": "\n\u2026In the mounte Orebl or he had any spechWith heygh god\n                    \u00feat is our lifes leche\u2026\n",
+            "Last Lines": "\n\u2026And Iankyn hath I wonne anewe gowneMyn tale is don we ben al\n                    moste at toune\n",
+            "Note": "\nIII.1709-1890 lost; 1964, 2136, 2188, 2220 omitted; 1924-5, 1926-7,\n                    2030-1 reversed.",
+            "Attributed Title": "\nHere endeth the sompnours tale (f. 47v)",
+            "folio": "ff. 41-47v"
+        },
+        "BLAdd35286": {
+            "First Lines": "\nLordynges ther is in yorkeshire as I gesseA Mersshi Contre called\n                    holdernesse\u2026\n",
+            "Last Lines": "\n\u2026And Iankyn hath wonne a new gounMy tale is doun we ben almost\n                    at toun\n",
+            "Note": "\nIII.1914 omitted.",
+            "Attributed Title": "\n\u2026Here bygynneth the Sompnours tale (f. 74); The Sompnour\n                    (RT)",
+            "Editions": "\nHorobin,  Simon. \n             \u201cA Transcription and Study of British Library MS Additional 35286 of\n                Chaucer\u2019s Canterbury Tales.\u201d \n         Diss. Univ. of Sheffield, 1997. \n",
+            "folio": "ff. 74-81v"
+        },
+        "BLEge2726": {
+            "First Lines": "\nLordynges there is in the north cuntre as I gesseA merssh cuntre\n                    called Holdernesse\u2026\n",
+            "Last Lines": "\n\u2026And Iannkyn hath y won a newe gounMy tale is done we ben\n                    allmost at toun\n",
+            "Note": "\nIII.1953-4, 2229 omitted; 1963-4, 1969-70, 2277-8 reversed; spurious\n                    line follows 2230.",
+            "Attributed Title": "\n\u2026Et incipit fabula eiusdem (f. 100v); Hic\n                        desinit fabula Summonitoris\u2026 (f. 108)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 100v-108"
+        },
+        "BLEge2863": {
+            "First Lines": "\n\u2026And specially abouen euery thingExcited he \u00fee peple in\n                    his prechyng\u2026\n",
+            "Last Lines": "\nAnd Ianken ha\u00fe I wonnen a newe gowneMyn tale is done we ben\n                    almost at towne\u2026\n",
+            "Note": "\nIII.1709-14 lost; 1731 omitted; spurious line follows 1732.",
+            "Attributed Title": "\nThe Sompnour (RT)",
+            "folio": "ff. 96-103v"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[L]Ordynges ther is in york shor shire as I gesseA\n                    merissh contre I called holdirnesse\u2026\n",
+            "Last Lines": "\n\u2026And Iaynkyn hath wonne a newe gowneMi tale is don we be\n                    almost at towne\n",
+            "Note": "\nIII.2229, 2286 omitted; spurious line follows 2230.",
+            "Attributed Title": "\n\u2026Incipit Narracio eiusdem (f. 103v); The Sompnour\n                    (Rt); Explicit fabula apparitoris (f. 111)",
+            "folio": "ff. 103v-111"
+        },
+        "BLHar1758": {
+            "First Lines": "\nLOrdyngis ther is in yorkschire as I gesseA merschy contre called\n                    holdernesse\u2026\n",
+            "Last Lines": "\n\u2026And Iankyn hath wonne a newe gowneMi tale is done we ben\n                    almost at towne\n",
+            "Note": "\nIII.1731 omitted; 1748 inserted in margin; spurious line follows 1732; a\n                    tipped-in leaf (f. 113) contains 2159-2294, lines missing in related MSS. After\n                    the concluding fourteen lines on f. 113v, the rest of the page is\n                    left blank.",
+            "Attributed Title": "\n\u2026and begynneth the Tale (f. 107); The Somnour (RT); Here endith the\n                    Sompnours tale (f. 113v)",
+            "folio": "ff. 107-113v"
+        },
+        "BLHar7333": {
+            "First Lines": "\nLOrdinges [erasure] is in yorkshire as I gesA merssh Cuntre that\n                    Callid is holdernes\u2026\n",
+            "Last Lines": "\n\u2026And Ienkyn hathe I wonne a new gouneMy tale is don we be\n                    almoste at towne\n",
+            "Note": "\nIII.2018, 2229 omitted; spurious lines follow 1873, 2230; 1963-4\n                    reversed.",
+            "Attributed Title": "\nHere Endithe \u00fee Sompnour his tale\u2026 (f.\n                    77ra)",
+            "folio": "f. 75va-77ra"
+        },
+        "BLHar7334": {
+            "First Lines": "\nLOrdyngs \u00feer is in Engelond I gesseA mersschly lond called\n                    holdernesse\u2026\n",
+            "Last Lines": "\n\u2026And Iankyn ha\u00fe I wonne a newe gouneMy tale is don we ben\n                    almost at toune\n",
+            "Note": "\nIII.Spurious lines follow 2004, 2012, 2037, 2048;1865-6, 2091-2, 2101-2\n                    reversed.",
+            "Attributed Title": "\nNarrat (f. 108v); The Sompnours Tale (RT); here endith\n                    the sompnours tale\u2026 (f. 116v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "ff. 108v-116v"
+        },
+        "BLHar7335": {
+            "First Lines": "\n[L]Ordynges ther is in york shire as y gesseA mersshe contree\n                    called holdernesse\u2026\n",
+            "Last Lines": "\n\u2026And Iankyn hath y wonne a newe gouneMi tale is doon we ben\n                    almost at toune\n",
+            "Attributed Title": "\nffabula sumonitoris (f. 81v, margin); Explicit ffabula\n                        somonitoris\u2026 (f. 90, margin)",
+            "folio": "ff. 81v-90"
+        },
+        "BLLan851": {
+            "First Lines": "\nLOrdeynges \u00feere is in \u021dorkeschire as I gesseAmerschy\n                    contre called holdernesse\u2026\n",
+            "Last Lines": "\n\u2026And Iankyn ha\u00fe wonne a newe gowneMy tale is done we buen\n                    almost att towne\n",
+            "Note": "\nIII.1731, 1873-4 omitted; spurious line follows 1732; 2101-2\n                    reversed.",
+            "Attributed Title": "\n\u2026Incipit fabula aparitoris (f. 107); \u00fee Somnour (RT);\n                        Explicit fabula Aparitoris\u2026 (f. 114)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 107-114"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nLOrdenges \u00feere is in yorkeschyre as I gesseA Mersche contre\n                    callede holdernesse\u2026\n",
+            "Last Lines": "\n\u2026And Ianken ha\u00fee ywonne A newe GowneMy tale is doone we\n                    bene Almoste atte Towne\n",
+            "Note": "\nIII.1731, 2086, 2131, 2185 omitted; spurious line follows\n                    1732.",
+            "Attributed Title": "\n\u2026And begynnyth the tale of the Sompnore (f. 149); Here endith the\n                    tale of the sompner\u2026 (f. 157v)",
+            "folio": "ff. 149-157v"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\nLOrdingis \u00feer is in \u021dork schire as I gesseA mersh contre\n                    I callid hodirnesse\u2026\n",
+            "Last Lines": "\n\u2026And for\u00fe he go\u00fe wi\u00fe a wel angry chereHe ne had\n                    no\u021dt ellis for his sermonTo part among his bre\u00feryn whan he com\n                    homAnd \u00feus is \u00feis tale I donffor we were almost at \u00fee\n                    ton\n",
+            "Note": "\nIII.1748, 1764, 2159-2294 omitted; spurious lines follow\n                    2158.",
+            "Attributed Title": "\n\u2026And begynneth the tale (f. 125v); The Sompnoure\n                    (RT)",
+            "folio": "ff. 125v-131"
+        },
+        "BLSl1685": {
+            "First Lines": "\n\u2026Or yif vs of youre bran yf \u021de haue enyA dagon of youre\n                    blanket leue dame\u2026\n",
+            "Last Lines": "\n\u2026Kome kepynge In and chased oute \u00fee frereAnd\n                    forthe he goth with a fulle angry chereNe ne hade nou\u021dt elles for hys\n                    sermonTo part a monge his bretheren whan he come homeAnd \u00feus is\n                    \u00feis tal ydonffor we were almoste at \u00fee town\n",
+            "Note": "\nIII.1709-49. 1967-2038 lost; 1910, 2159-294 omitted; 1855-6 reversed;\n                    spurious lines follow 2158.",
+            "Attributed Title": "\nThe Somnour (RT); Here endeth \u00fee Sompnours tale\u2026 (f.\n                        129v)",
+            "folio": "f. 125-129v"
+        },
+        "BLSl1686": {
+            "First Lines": "\nLOrdinges there is in Yorkeshire as I gesseA mersshy contre callid\n                    holdernenesse\u2026\n",
+            "Last Lines": "\n\u2026And Iankyn hath I wonne a newe gownMy tale is don we ben\n                    almost at town\n",
+            "Note": "\nIII.1731, 1873-4, 1906-11 omitted; 2101-2, 2289-90 reversed; spurious\n                    line follows 1732.",
+            "Attributed Title": "\n\u2026And here gebynneth [sic]  his tale (f. 146); a Tale\n                    of the Sompnour (RT); Here endeth the sompnours tale\u2026 (f.\n                    155v)",
+            "folio": "ff. 146-155v"
+        },
+        "NLWPen392": {
+            "First Lines": "\nLOrdynges ther is in Yorkshire as I gesseA Merssh contree called\n                    holdernesse\u2026\n",
+            "Last Lines": "\n\u2026And Iankyn hath y wonne a newe gowneMy tale is doon we been\n                    slmoost at towne\n",
+            "Note": "\nLast five words of III.2048 inserted by a different hand (Hoccleve?);\n                    blank leaf follows f. 86v.",
+            "Attributed Title": "\nHere begynneth the Somnours tale (f. 79v); The Somnour (RT);\n                    Here endeth the Somnours tale\u2026 (f. 79)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "ff. 79v-86v"
+        },
+        "Alnwick455": {
+            "First Lines": "\nLordingis ther is in Yorkshire as I gesA mery contre callie\n                    holdirnes\u2026\n",
+            "Last Lines": "\n\u2026Com lepeing in and chasid out the ffrereAnd forth he goith\n                    with a ful angry chere\n",
+            "Note": "\nIII.1731, 1894, 1963-4, 1987-8, 1991-8, 2005-10, 2051-2, 2079-85,\n                    2111-12, 2119-20, 2159-294 omitted; for 2159-294 in this MS see 510; spurious lines follow 1732,\n                    2086.",
+            "Attributed Title": "\n\u2026And here he begynnyth his tale (f. 110v)",
+            "folio": "f. 110v-116"
+        },
+        "GULHun197": {
+            "First Lines": "\nLOrdyngges \u00feere is in yorkshire as I guesseA mersh contre y\n                    called holdernesse\u2026\n",
+            "Last Lines": "\n\u2026And Iankyn hath y wonne a newe gouneMy tale is done we be\n                    almost at Towne\n",
+            "Note": "\nIII.2205-10 omitted.",
+            "Attributed Title": "\nHere begynneth \u00fee tale of \u00fee Somynour (f. 54rb); The\n                    Sompnour (RT); fferthermor in the Somynours Tale (f. 55vb, at\n                    III.2016); Here endeth the tale of the Somonour\u2026 (f.\n                    57rb)",
+            "folio": "ff. 54rb-57ra"
+        },
+        "Holkham667": {
+            "First Lines": "\nLordinges \u00feer is in york shire as I gesseA merssh cuntre\n                    called holdernesse\u2026\n",
+            "Last Lines": "\n\u2026And forth he goth with a full angre chereHe had nat elles for\n                    his longe sermouneTo parte amonge his brethern when he com homeAnd\n                    thus is this tale y doneffor were allmoste at the toun\n",
+            "Note": "\nIII.2159-294 omitted; 2123-4 reversed; spurious lines follow\n                    2158.",
+            "folio": "ff. 76rb-79ra"
+        },
+        "Lichfield29": {
+            "First Lines": "\nLordinges ther is in \u021dorkshire as I gesseA mersshy cuntre\n                    called holdernesse\u2026\n",
+            "Last Lines": "\n\u2026And Iankyn hath y wonne a newe gowneMy tale is done we ben\n                    almost at towne\n",
+            "Note": "\nIII.1731, 1873 omitted; spurious line follows 1732.",
+            "Attributed Title": "\n\u2026and bigynneth the tale of the / Somenour (f. 130, rubric); The\n                    Somenour (RT, rubric); Thus ende the Somenour\u2026 (f. 137v,\n                    rubric)",
+            "folio": "f. 130-137v"
+        },
+        "Lincoln110": {
+            "First Lines": "\nLOrdinges \u00feer is in \u021dorkshire as I gesseA mersh contre\n                    Callid holdirnes\u2026\n",
+            "Last Lines": "\n\u2026And iaynkyn ha\u00fe wonne anew gowneMy tale is don we ben\n                    almost at towne\n",
+            "Note": "\nIII.2229, omitted; 1963-4 reversed; spurious line follows\n                    2230.",
+            "Attributed Title": "\nSompnour (RT); Here endi\u00fe \u00fee tale of \u00fee Sompnour talkinge of\n                    \u00fee ffrere\u2026 (f. 121v, heavily stained)",
+            "folio": "ff. 114-121v"
+        },
+        "LonPhys388": {
+            "First Lines": "\nLOrdynges ther is in yorkshire as I gesseA mersh contry callid\n                    holdirnesse\u2026\n",
+            "Last Lines": "\n\u2026And Iankyn hath I wonne anewe gowneMy tale is don we bien\n                    almost at towne\n",
+            "Note": "\nIII.1906, 1911, 2135-6 omitted; 1912-14 follow 1905 producing the\n                    following line order: 1905, 1912-14, 1907-10, 1915.",
+            "Attributed Title": "\n\u2026Incipit fabula (f. 157v); Explicit fabula\n                        Aperitoris\u2026 (f. 167)",
+            "folio": "ff. 157v-167"
+        },
+        "RylandsEng113": {
+            "First Lines": "\nLordingis \u00feer is in york schire as I gesseA Merssh Countre\n                    called holdyrnesse\u2026\n",
+            "Last Lines": "\n\u2026And Iankyn hath won a newe gowneMy tale is don we be almost\n                    at Towne\n",
+            "Note": "\nIII.2229 omitted; 1963-4 reversed; spurious line follows\n                    2230.",
+            "Attributed Title": "\n\u2026Incipit fabula Sumpmonitoris (f. 71); ffabula\n                        Sumpmonitoris (f. 71, margin); Sompnour (RT); Explicit fabula\n                        Sumpmonitoris\u2026 (f. 76)",
+            "folio": "ff. 71-76"
+        },
+        "Petworth7": {
+            "First Lines": "\nLOrdyngges \u00feer is in yorkshire as I gesseA mershy country\n                    called holdernesse\u2026\n",
+            "Last Lines": "\n\u2026And for\u00fee he go\u00fe with a ful angry chereHe ne had\n                    nat ellis for his sermonTo parten amonge his bre\u00feeren whan he come\n                    homeAnd \u00feus is \u00feis tale ydonffor we were almost at \u00fee\n                    ton\n",
+            "Note": "\nIII.1731, 2159-294 omitted; spurious lines follow 1732,\n                    2158.",
+            "Attributed Title": "\n\u2026And here bygynne\u00fe \u00fee somnour tale (f. 152v);\n                    The Somnour Tale (Rt); Thus ende\u00fee \u00fee Somnours tale\u2026 (f.\n                    159)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 153-159"
+        },
+        "Austin143": {
+            "First Lines": "\nLordynges there is in yorke Shire as y gesseA Mershe Contre Callid\n                    holdernesse\u2026\n",
+            "Last Lines": "\n\u2026And Iankyn hath wonne a newe gowneMy tale is done we be all\n                    moste at Towne\n",
+            "Note": "\nIII.1966, 2229 omitted; spurious line follows 2230; 1963-4\n                    reversed.",
+            "Attributed Title": "\n\u2026Et incipit fabula eiusdem (f. 85v); Sompnoure\n                    (RT); Hic finitur fabula Sompnitoris\u2026 (f.92)",
+            "folio": "ff. 85v-92"
+        },
+        "ChicagoUL564": {
+            "First Lines": "\nLordynges \u00feere is in \u021dork shyre as y gesseA mersh contre\n                    cleped holdernesse\u2026\n",
+            "Last Lines": "\n\u2026And Iankyn hath wonne a newe gouneMy tale is don we ben\n                    almost at toune\n",
+            "Note": "\nIII.1731, 1873-4, 2047, 2049 omitted; 2119-20 reversed; spurious lines\n                    follow 1732, 2048.",
+            "folio": "ff. 148v-158"
+        },
+        "PierpontM249": {
+            "First Lines": "\nLordynges ther is yorkshire as I gesseA mersshy cuntre called\n                    holdernesse\u2026\n",
+            "Last Lines": "\n\u2026And Iankyn hath y wonne a newe gowneMy tale is done we ben\n                    almost at towne\n",
+            "Attributed Title": "\n\u2026And here bigynneth his tale & cetera (f.\n                    128v); The Sompnour (RT); This ende the Somnour\u2026 (f.\n                    136)",
+            "folio": "ff. 128v-136"
+        },
+        "PhilRos10841": {
+            "First Lines": "\nLordynges ther ys in \u021dork schyre as y gesseA mershy contre\n                    called holdernesse\u2026\n",
+            "Last Lines": "\n\u2026And forth he gooth with a full angry chereHe ne had not elles\n                    for hys sermonTo parte amonge hys bretheren when he come homAnd this\n                    ys the tale ydonffor we were almoste at \u00fee town\n",
+            "Note": "\nIII.1731, 1748, 1763-4, 1894, 1946, 2159-294 omitted; spurious lines\n                    follow 1732, 2158.",
+            "Attributed Title": "\n\u2026and begynneth \u00fee tale (f. 100); The Tale (RT); The somnor (Rt);\n                    Here endeth \u00fee sompnours tale\u2026 (f. 106)",
+            "folio": "ff. 100-106"
+        },
+        "PUL100": {
+            "First Lines": "\nLordingis quod he in \u021dorkshere is as I gesA merssh contre that\n                    callid is holdirnes\u2026\n",
+            "Last Lines": "\n\u2026And Ienkyn hath I won anewe gownMy tale is done wee be almost\n                    at town\n",
+            "Note": "\nIII.1718-1963 lost; 2229 omitted; 1963-4 reversed; spurious line follows\n                    2230.",
+            "Attributed Title": "\n\u2026And here begyynyth he his tale (f. 98v); Sompnoure (RT);\n                    Here endith the Sompnoure his tale\u2026 (f. 105)",
+            "folio": "ff. 98v-105"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nLordynges ther is in yorkshire as I gesseA Merssh contree called\n                    holdernesse\u2026\n",
+            "Last Lines": "\n\u2026And Iankyn hath ywonne a newe gowneMy tale is doon we been\n                    almoost at towne\n",
+            "Attributed Title": "\nHeere bigynneth the Somonours tale (f. 81); Somonour (RT); The Wordes of\n                    the lordes Squier and his keruere for departynge / of the fart on twelue (f.\n                        86v);Heere endeth the Somonours tale (f. 87, foot)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 81-81"
+        },
+        "BNangl39": {
+            "First Lines": "\nLordyngis ther is in yorkshire as I gessea mery cuntre callid\n                    holdirnesse\u2026\n",
+            "Last Lines": "\n\u2026he nys no foole ne no domyakand Iankyn hath I wonne a newe\n                    gounmy tale is doon and wee be almost at toun\n",
+            "Note": "\nIII.1712-12, 1731, 1769, 1831, 1875-6, 2090 omitted; spurious lines\n                    follow 1730, 1732, 1770, 1832, 1928, 2092; 2101-2 reversed.",
+            "Attributed Title": "\n\u2026& subsequenter incipit fa / bule eiusdem hoc modo\n                        sequente (f. 47ra); Explicit fabula apparitoris\u2026\n                    (f. 50rb)",
+            "folio": "ff. 47ra-50rb"
+        },
+        "TokyoTak22": {
+            "First Lines": "\nLordyngis \u00feer is in \u021dorkschire as I gessea merssh contre\n                    callyd holdernsse\u2026\n",
+            "Last Lines": "\n\u2026and Iohnkyn hath I wonne a newe gownemy tale is done and we\n                    be nygh at towne\n",
+            "Note": "\nIII.1907-11, 2229 omitted; spurious lines follow 2230, 2232. Following\n                        Summoner\u2019s Tale, at the foot of f. 77v, the scribe\n                    copies the opening line of Clerk\u2019s Prologue\u2014\u2018Syr clerk\n                    of Oxinford oure ost seyde\u2019\u2014before realizing he has already copied\n                    that text (4860). He\n                    then adds \u2018vt supra\u2019, and below that \u2018Vtile con\n                        cilium dominus ne despice serui\u2019.",
+            "folio": "ff. 65v-77v"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nLordinges there is in the North contre as I gesseA merssh contre\n                    callid holdernesse\u2026\n",
+            "Last Lines": "\n\u2026And Iankin hath I wonne a newe gouneMy tale is don we ben\n                    almost at toune\n",
+            "Note": "\nIII.1953-4, 2229 omitted; 1963-4, 1969-70, 2277-8 reversed.",
+            "Attributed Title": "\n\u2026Et incipit ffabula eiusdem (f. 91); ffabula\n                        Apperitoris (RT); Hic desinit fabula Apparitoris\u2026 (f.\n                        98v)",
+            "folio": "ff. 91v-98v"
+        },
+        "Bodmer48": {
+            "First Lines": "\nLordinges \u00feer is in york shire as I gesseA merssh cuntre\n                    clepid holdernesse\u2026\n",
+            "Last Lines": "\n\u2026& Iankin hath won a new gounmy tale is done we be almost\n                    at toun\n",
+            "Attributed Title": "\nThe somonours Tale (f. 93, rubric)",
+            "Facsimiles": "\n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n",
+            "folio": "ff. 93-101"
+        }
+    }
+}

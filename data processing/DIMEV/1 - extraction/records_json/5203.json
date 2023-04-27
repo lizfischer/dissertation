@@ -1,0 +1,25 @@
+{
+    "_id": 5203,
+    "_header": "The best tree is ye take entent",
+    "Title(s)": "\u2018A treatise of wyne\u2019",
+    "Subjects": "wine; utilitarian verse",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "Macaronic": "Latin",
+    "_description": "\u2018A treatise of wyne\u2019 \u2014 twenty-three macaronic quatrains",
+    "_witnesses": {
+        "BodEngPoete1": {
+            "First Lines": "\nThe best tre if \u021de take ententInter ligna\n                    fructifera\u2026\n",
+            "Last Lines": "\n\u2026& bryng yor self when ye so hensvbi non siciant\n                        amplius\n\n",
+            "Editions": "\nWright,  Thomas,\n                        ed.  \n             Songs and Carols from a manuscript\u2026of the Fifteenth\n                Century.\nPercy Society\n         23. London: Richards, 1847: 53-6.\n",
+            "folio": "ff. 35v-38"
+        },
+        "OxfBal354": {
+            "First Lines": "\nThe best tre yf ye take ententInter ligna\n                    fructifera\u2026\n",
+            "Last Lines": "\n\u2026& bryng them sone whan they goVbi non siscient\n                        ampliusExplicit\n",
+            "Attributed Title": "\nA treatise of wyne (p. 207)",
+            "Facsimiles": "\n\nEarly Manuscripts at Oxford University: Facsimile\n                    of Oxford, Balliol MS 354.\n         (http://image.ox.ac.uk/show?collection=balliol&manuscript=ms354). \n",
+            "Editions": "\n\nFl\u00fcgel,  Ewald,\n                        ed.  \n             Neuenglisches Lesebuch.\n         1 Bd. Halle: Niemayer, 1895: 149 (part only).\nFl\u00fcgel,  Ewald. \n             \u201cLiedersammlungen des XVI Jahrhunderts\u2026.\u201d \n             Anglia\n         26 (1903): 94-285: 135-9.\nDyboski,  R.,\n                        ed.  \n             Songs, Carols and Other Miscellaneous Poems from Balliol MS. 354,\n                Richard Hill\u2019s Commonplace Book.\nEETS\n          e.s. 101 (1908); repr. 1984: 105-6.\n\n",
+            "folio": "pp. 207-208"
+        }
+    }
+}

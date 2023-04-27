@@ -1,0 +1,268 @@
+{
+    "_id": 423,
+    "_header": "Almighty God in trinity / In whom onely is persons three",
+    "Note": "For four lines of the Speculum occurring separately see 5783.",
+    "Author(s)": "William of Nassington",
+    "Title(s)": "Speculum Vitae",
+    "Subjects": "advice, spiritual",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "Bibliographic Ghosts": "Oxford, Bodleian Library Rawlinson C.884 (SC 12718): see Oxford, Bodleian Library Rawlinson C.316 (SC 12172); London, British Library Harley 5977: see 3581.",
+    "_description": "William of Nassyngton, Speculum Vitae \u2014 in couplets",
+    "_witnesses": {
+        "Bod48": {
+            "First Lines": "\nAall my\u021dthy god in trynyteIn whom onely are persones\n                    \u00fere\u2026\n",
+            "Last Lines": "\n\u2026To which blis he ous all brynge\u00feat on te crosse fore vs\n                    wol\u00fee hynge\n",
+            "Attributed Title": "\nHic definit elle hoc speculum vite (f. 325)",
+            "folio": "ff. 47-325"
+        },
+        "Bod446": {
+            "First Lines": "\n[A]lmi\u021dty god in triniteIn qwome only ar persones\n                    \u00fere\u2026\n",
+            "Last Lines": "\n\u2026to qwiche blis he vs alle bring\u00feat on \u00fee crosse for\n                    vs wolde hing\n",
+            "folio": "ff. 1-207v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nALmihti God in TriniteIn whom only are persones\n                    \u00fere\u2026\n",
+            "Last Lines": "\n\u2026To w\u021duche he vs alle bringe\u00deat on \u00fee Cros for\n                    vs wolde hynge. Amen.\n",
+            "Note": "\nThe text begins in column \u2018a\u2019 below a large diagram\n                    illustrating varieties of seven-fold behaviors. Lacks one leaf in the\n                    middle.",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\nGunn,  A. D. \n             \u201cAccidia and Prowess in the Vernon Version of Nassyngton\u2019s\n                Speculum Vitae: An Edition of the Text and a Study of the Ideas.\u201d \n         Diss. University of Pennsylvania, 1969. \n",
+            "folio": "ff. 231va-265rc"
+        },
+        "BodEngPoetd5": {
+            "First Lines": "\nAlle myghty godde in triniteIn whayme anely es persouns\n                    thre\u2026\n",
+            "Last Lines": "\n\u2026To whilke blysse he vs alle brynge\u00deat on \u00fee croyce\n                    fore vs walde hynge\n",
+            "Attributed Author": "\nPer Iohannem Kylyngwyke (f. 218)",
+            "Attributed Title": "\nPater noster qui es in celis Sanctificetur (f. 1); Explicit liber\n                        de Pater noster (f. 218)",
+            "folio": "ff. 1-218"
+        },
+        "BodGreaves43": {
+            "First Lines": "\n\u2026[ ]ich men wasches oft \u00feer handes[ ]oke of kinges is\n                    wryten \u00feus \u2026\n",
+            "Last Lines": "\n\u2026ffor it ar some so uylans ay\u00feat with outen othe con\n                    noght say\u2026\n",
+            "Note": "\nBegins and ends imperfectly due to loss of folios; lines 8292-8365 and\n                    9531-14054; only portions of the first and the last folios of this fragment\n                    survive.",
+            "folio": "ff. 1-47v"
+        },
+        "BodHat18": {
+            "First Lines": "\n\u00feat \u021de han most of vsage\u00feat can euery man\n                    vndyrstande\u2026\n",
+            "Last Lines": "\n\u2026To weche blysse he vs all bryng\u00feat on cros for vs wold\n                    hyng\n",
+            "Note": "\nLines 1-63 wanting; begins imperfectly due to the loss of\n                    folios.",
+            "folio": "ff. 2-210v"
+        },
+        "BodHat19": {
+            "First Lines": "\nAll myhty god in trynyteIn whom arn onli persones\n                    thre\u2026\n",
+            "Last Lines": "\n\u2026To the whiche blisse he vs bryngThat on cros for vs wold\n                    hyng\n",
+            "Note": "\nScribe\u2019s signature at end: Amen & explicit vertuus est.\n                        Nomen scriptoris Thomas Doule plenus Amoris (f. 94v).",
+            "folio": "ff. 3-94v"
+        },
+        "BodLye28": {
+            "First Lines": "\n\u2026for \u00fee mare deuocioun \u00fear in suld befor \u00fee\n                    maked bettre \u00feat es noght heuy\u2026\n",
+            "Last Lines": "\n\u2026Gude vertus and do gode werkis\u00feare fore lewed men haf\n                    greet nede\u2026\n",
+            "Note": "\nImperfect at beginning and end.",
+            "folio": "ff. 1ra-79vb"
+        },
+        "BodRawC884": {
+            "First Lines": "\n\u2026Haue more delyt \u00fean in god of hefneWith al oure soule\n                    we suld him loue \u2026\n",
+            "Last Lines": "\n\u2026or with \u00fee \u00feornez \u00feorouz whilk god wascorouned\n                    only for many trespas\u2026\n",
+            "Note": "\nBegins and ends imperfectly because of the loss of folios.",
+            "folio": "ff. 1-310v"
+        },
+        "BodRawC890": {
+            "First Lines": "\nAlle myghtty god in triniteIn whom onely are persones\n                    thre\u2026\n",
+            "Last Lines": "\n\u2026Settes temperaunce and sobernesRigh[ ] mesure as reson\n                    es\u2026\n",
+            "Note": "\nAt the start, \u2018Pater noster qui es in celis\u2019; ends\n                    imperfectly due to loss of folios.",
+            "folio": "ff. 1-146v"
+        },
+        "BodRawQb4": {
+            "First Lines": "\n\u2026Thi feynd \u00feat is bath fel and baldPrincipal tempir he\n                    may be cald\u2026\n",
+            "Last Lines": "\n\u2026Non of \u00fee warld na of \u00fee feyndNa of \u00fee flesche\n                    \u00feat \u00fee saule may scheynd\u2026\n",
+            "Note": "\nFormerly listed separately as 3339.5; fragment, two folios only,\n                        c. 140 lines; first and last lines above are in folio order, not in\n                    order of text.",
+            "folio": "ff. 92;  91"
+        },
+        "CULAdd2823": {
+            "First Lines": "\n[A]lmyghty god in trinyteIn whom only are persones threffader\n                    and sone and holy gost\u00feat are o god as we trowe\n                    most\u2026\n",
+            "Last Lines": "\n\u2026Ru\u00fee in \u00fere partyes mai spredeIn hert in mou\u00fee\n                    and in dede\u2026\n",
+            "Note": "\nEnds imperfectly.",
+            "folio": "ff. 1-48v"
+        },
+        "CULFf49": {
+            "First Lines": "\nAlmyghty god that is in triniteIn Whom oonly are persones\n                    threffader and sone and holy gost\u00feat are o god as we trowe\n                    most\u2026\n",
+            "Last Lines": "\n\u2026To whyche blysse he vs brynge sooneThat on Crosse for vs\n                    wolde be doone\n",
+            "folio": "ff. 1-83v"
+        },
+        "CULGg17": {
+            "First Lines": "\n\u2026hateredene \u00feat felaushipe persceyfe ca[ ]Oute of\n                    company puttis a manffor if a man his felawe hateAnd fandes to for do\n                    his state\u2026\n",
+            "Last Lines": "\n\u2026\u00feat es fulle venymous and kene\u00feat es in latyne cald\n                    aspys\u2026\n",
+            "Note": "\nBegins imperfectly; about 670 lines missing at the beginning due to loss\n                    of folios 1-11; ends imperfectly due to loss of folios 278-288.",
+            "folio": "ff. 12-277v"
+        },
+        "CULGg114": {
+            "First Lines": "\n\u2026ffor \u00feat langages es maste shewedals wele imong lered\n                    als lewedLatyn als I trow can nane\u2026\n",
+            "Last Lines": "\n\u2026he \u00feat lates \u00fee watir gaOuer hastily agayns\n                    skille\u2026\n",
+            "Note": "\nBegins and ends imperfectly: lines 1-68 missing due to lost folio 1;\n                    ends imperfectly due to 12 leaves (ff. 243-254) missing at end.",
+            "folio": "ff. 2-242v"
+        },
+        "CULIi136": {
+            "First Lines": "\nAlmy\u021dti god in triniteIn qwom onely are persones\n                    \u00fere\u2026\n",
+            "Last Lines": "\n\u2026To qwik blis he vs alle brynge\u00feat on \u00fee crosse for\n                    vs wold hynge\n",
+            "folio": "ff. 1-225"
+        },
+        "CULLl18": {
+            "First Lines": "\nAlmy\u021dty god in triniteIn whom is only persones\n                    three\u2026\n",
+            "Last Lines": "\n\u2026to \u00fee whyche blysse he vs alle brynge\u00feat on \u00fee\n                    croys for vs wolde hynge\n",
+            "Attributed Author": "\n\u2026secundum Ricardum Hampol qui obiit Ano domini Milessimo\n                        trecentesimo octogesimo quarto (f. 200v)",
+            "Attributed Title": "\nExplicit quidam tractatus super pater noster secundum Ricardum Hampol\n                        qui obiit Ano domini Milessimo trecentesimo octogesimo quarto, Reynoldus\n                        cognomen scriptoris possidet omen Amen (f. 200v)",
+            "Editions": "\nUllman,  J. \n             \u201cStudien zu Richard Rolle de Hampole.\u201d \n             Englische Studien\n         7 (1884): 415-72: 468-72 (lines 1-370 only).\n",
+            "folio": "ff. 1-200v"
+        },
+        "CamFitzMc130": {
+            "First Lines": "\n\u2026but lered & lewed olde & \u021dongealle vnderstondes\n                    englys tonge\u2026\n",
+            "Last Lines": "\n\u2026To \u00fee whiche blis he vs alle bring\u00feat on \u00fee\n                    croice for vs wolde hing\n",
+            "Note": "\nBegins imperfectly at line 77.",
+            "Attributed Title": "\nExplicit tractatus de oracione dominica s. de pater noster In quo\n                        reprehenduntur multa vicia Et in quo continentur omnis virtutes que in hac\n                        vita de gentibus sunt necessarie Et Specialiter illiteratis docende ad dei\n                        honorem. Hic liber est scriptus qui scripsit sit benedictus (f.\n                    200)",
+            "folio": "ff. 1-200v"
+        },
+        "CamGon160": {
+            "First Lines": "\nAlllmyghty god in tryniteIn wham anely are persones\n                    thre\u2026\n",
+            "Last Lines": "\n\u2026To whilke blisse he vs alle bryng\u00feat on croice for vs\n                    walde hyng\n",
+            "Attributed Title": "\nPater noster qui es in celis (heading, f. 1); Anno domini\n                        Millesimo cccmo lxxx iiijo Compilacio ista hoc modo Cantabrigie erat\n                        examinata dum a quodam sacerdote ad ligandum ibidem fuit posita a quibusdam\n                        scolaribus diligenter erat intuita atque perlecta et Cancellario\n                        vniversitatis eiusque consilio presentata\u2026combusta fuisset (f.\n                    iiiv)",
+            "folio": "pp. 1-412"
+        },
+        "CamTCC593": {
+            "First Lines": "\nAlmighty god in triniteIn wham anly er persones threffadir\n                    & son & holigast\u00deat er a god als we trow\n                    mast\u2026\n",
+            "Last Lines": "\n\u2026To whilk blisse he all vs bryng\u00deat on croys for vs wold\n                    hyng\n",
+            "folio": "ff. 1ra-85vb"
+        },
+        "CamTCC603": {
+            "First Lines": "\n\u2026in oure moder is holy kyrkeafter wham vs be houe\u00fe\n                    wyrkeilkone schuld loue as suster & bro\u00feer& non of vs\n                    schuld despysen o\u00feer\u2026\n",
+            "Last Lines": "\n\u2026\u00fere \u00feinges namly & no lesteche\u00fe vs to kepe\n                    sobernes\u2026\n",
+            "Note": "\nBegins imperfectly: lines 1-608 wanting; also lacunae in the text, and\n                    ends imperfectly.",
+            "Attributed Title": "\nExposicio oracionis Dominice (added by later hand, f. 1)",
+            "folio": "ff. 1-179v"
+        },
+        "BLAdd8151": {
+            "First Lines": "\nAllemy\u021dtty gode in trynyteIn whome onely are persones\n                    \u00fere\u2026\n",
+            "Last Lines": "\n\u2026To whylke blys he vs all brynge\u00feat one \u00fee crosse\n                    for vs wolde hynge\n",
+            "folio": "ff. 1-200v"
+        },
+        "BLAdd22283": {
+            "First Lines": "\n\u2026\u00deE fyrste is \u00feou schalt not sleVche mon be war he\n                    do not so\u2026\n",
+            "Last Lines": "\n\u2026To whiche he vs alle bringe\u00deat on \u00fee cros fo vs\n                    wolde hynge\n",
+            "Note": "\nBegins imperfectly due to loss of three folios.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "ff. 33ra-61va"
+        },
+        "BLAdd22558": {
+            "First Lines": "\n\u2026Lord how vs aght to drede sare\u00deat \u00feai \u00feat sum\n                    tyme paens ware\u2026\n",
+            "Last Lines": "\n\u2026ffor why drede of god when it will comeEs \u00fee bigynnyng\n                    of wydome\u2026\n",
+            "Note": "\nImperfect at beginning and end, and wants leaves in various\n                    places.",
+            "folio": "ff. 1-212v"
+        },
+        "BLAdd33995": {
+            "First Lines": "\nAlmyghty godde in trynyteIn wham anely er persons\n                    thre\u2026\n",
+            "Last Lines": "\n\u2026To whilk blisse he vs alle brynge\u00deat on \u00fee croyce\n                    for vs wald hynge\n",
+            "Note": "\nTwo columns.",
+            "Editions": "\n\nNelson,  V. C.,\n                        ed.  \n             \u201cThe Middle English Speculum Vitae: A Critical Edition of Part of the\n                Text from 35 Manuscripts.\u201d \n         Diss. University of Sydney, 1974: (lines 3359-7322; base text for ed. crit.).\nHanna,  Ralph,\n                        ed.  \n             Speculum Vitae A Reading Edition.\n         2 vols. EETS o.s.331, 332 (2013). \n\n",
+            "folio": "ff. 1ra-96rb"
+        },
+        "BLCottTibEVII": {
+            "Note": "\nBegins imperfectly.",
+            "folio": "f. 1"
+        },
+        "BLHar435": {
+            "First Lines": "\nAlmighty god in TriniteIn whom only ben persones\n                    thre\u2026\n",
+            "Last Lines": "\n\u2026To whiche blisse he vs alle bring\u00deat on the cros for vs\n                    wold hyng\n",
+            "Note": "\nEnds \u2018Amen\u2019 at end of last line, followed by prayer below\n                    that, written by scribe, \u2018Sit tibi laus cristi quod liber explicit\n                        Iste\u2019 (f. 102ra).",
+            "folio": "ff. 1ra-102ra"
+        },
+        "BLHar2260": {
+            "First Lines": "\n\u2026ffor in alle hys whyles he lyues hereIf he lyuede an hondre \u021dere\u2026\n",
+            "Last Lines": "\n\u2026To \u00fee wiche blysse he vs [\u00a0\u00a0\u00a0]\u00feat on \u00fee croys for vs w[\u00a0\u00a0\u00a0]Qui cum patre & spiritu sancto [\u00a0\u00a0\u00a0]Per omnia secula se[\u00a0\u00a0\u00a0]\n",
+            "Note": "\nBegins imperfectly: several leaves wanting at the\n                    beginning; text on last leaf partly lost due to damage to leaf.",
+            "folio": "ff. 1-183v"
+        },
+        "BLHar6718": {
+            "First Lines": "\nffor it es pryuelaged als we sebe reson of thynges\n                    thre\u2026\n",
+            "Last Lines": "\n\u2026To flessihely luf & werldly lykyn\u2026& to all man\n                    of wyck\u2026fforwhy \u00feat es hys\u2026Wharof\u2026\n",
+            "Note": "\nManuscript damage. Formerly 827.8; begins imperfectly due to lost\n                    folios; identified as portion of Speculum Vitae\nRaymo (1986)\nXRaymo,  Robert R. \n             Works of Religious and Philosophical Instruction, vol. XX of A Manual\n                of the Writings in Middle English, 1050-1500.\n            \n                \n                    Albert E.\n                    Hartung\n                \n            \n         New Haven: Connecticut Academy of Arts and Sciences, 1986: 2255-2378,\n            2467-2582., #2479.",
+            "folio": "ff. 16-33"
+        },
+        "BLRoy17Cviii": {
+            "Editions": "\nSmeltz,  J. W.,\n                        ed.  \n             \u201cSpeculum Vitae: An Edition of British Museum MS Royal\n                17.C.viii.\u201d \n         Diss. Duquesne University, 1977. \n",
+            "folio": "f. 2"
+        },
+        "BLSl1785": {
+            "First Lines": "\n\u2026\u00fean in hys lyknes is os I wenefor so grete beaute os is\n                    \u00feer inneno hert may thinke ne ymagynne\u00feer fore his children\n                    shulde \u00feenk ayals oft tyme os \u00feei fader say\u2026\n",
+            "Last Lines": "\n\u2026And also office of vilany\u00fee cantere may be calde fole\n                    play\u00feat foles vsen & none but \u00feeioker \u00feoron\n                    slei\u021dt of okerersShewes it on many maners\u2026\n",
+            "Note": "\nBegins imperfectly: lines 1-265 wanting; and ends imperfectly; written\n                    by a different hand from Life of our Lady; originally two\n                    booklets.",
+            "Editions": "\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 2.38-9 (50 lines only).\n",
+            "folio": "ff. 30ra-60vb"
+        },
+        "BLSto951": {
+            "folio": "f. 32"
+        },
+        "NLWPen395": {
+            "folio": "p. 1"
+        },
+        "EDULaiii318": {
+            "Note": "\nFragment: two folios, lines 10812-10878 and 11138-11205.",
+            "folio": ""
+        },
+        "GULHun89": {
+            "First Lines": "\n\u2026Oure ilke dai brede gif vs to dayQwat may persone bettir\n                    craue\u2026\n",
+            "Last Lines": "\n\u2026And of \u00fee same kynde as \u00feu sees nowOf flesshe &\n                    blode of qwilke art \u00feou\u2026\n",
+            "Note": "\nBegins and ends imperfectly due to loss of leaves/quires.",
+            "folio": "ff. 1-73v"
+        },
+        "LiverpoolULF49": {
+            "folio": "f. 1"
+        },
+        "MarlVicar": {
+            "First Lines": "\n\u2026\u00feat wele begynnes & fayles in nede\u00feies sex\n                    vyces lettes amendment\u2026\n",
+            "Last Lines": "\n\u2026\u00feat es thyng \u00feat hym byhoues mysseAnd giue for euer\n                    maugre hysse\u2026\n",
+            "Note": "\nFragment: 83 lines.",
+            "Editions": "\n\nFischer,  Erna. \n             \u201cEin nordenglisches moralisch-religi\u00f6ses Versfragment aus dem 15\n                Jahrhundert.\u201d \n             Englische Studien\n         60 (1925-26): 252-61: 258-61.\nWordsworth,  Christopher,\n                        ed.  \n             Horae Eboracenses.\nSurtees Society\n         132 (1920): 165-7.\n\n",
+            "folio": ""
+        },
+        "NottsULMiLm9": {
+            "First Lines": "\nAlmyghty god in triniteIn whom onely ben persones threffader\n                    & sone & holy gost\u00feat ben on god as we trow\n                    most\u2026\n",
+            "Last Lines": "\n\u2026Kyndely for to knowe such as he isHit is an endeles lyf &\n                    a lastynge blisseTo whiche blisse he bringe vs alle oure lore god\n                    almyghty\n",
+            "Editions": "\n\nHistorical Manuscripts Commission, Report on the Manuscripts of Lord\n                Middleton, [formerly] preserved at Wollaton Hall, Nottinghamshire.\n         (1911): [extract].\n",
+            "folio": "ff. 1-256"
+        },
+        "StaffordRODW1734": {
+            "Note": "\ncovers of booklets 6, 7 and 8.",
+            "folio": ""
+        },
+        "PULTayM11": {
+            "First Lines": "\nAlmyghty god in triniteIn whom only is personys\n                    thre\u2026\n",
+            "Last Lines": "\n\u2026To whilk blis he vs all brynge\u00deat on \u00fee croice for\n                    vs walde hynge\n",
+            "Note": "\nFirst page damaged by damp; mostly illegible.",
+            "folio": "ff. 1ra-96vb"
+        },
+        "TCD76": {
+            "First Lines": "\n\u2026\u00feei shulde bycome bo\u00fee meke & mylde& as\n                    deboner as a childe\u2026\n",
+            "Last Lines": "\n\u2026[Bu]tte oure hert to loue mareOn god hou so we here\n                    fare\u2026\n",
+            "Note": "\nFragment.",
+            "folio": "ff. i-iv"
+        },
+        "TCD423": {
+            "First Lines": "\n\u2026But god that good may geueGraunt \u021dou grace vs here to\n                    leue\u2026\n",
+            "Last Lines": "\n\u2026To \u00fee weche blys he vs all bringeThat one \u00fee cros\n                    for vs wauld hynge\n",
+            "Note": "\nLast six lines of text, copied again by a hand of the sixteenth century\n                    below the conclusion of full text, and misidentified as separate text by Robbins  and  Cutler (1965)\nXRossell Hope Robbins,   and  John L. Cutler.  \n             Supplement to the Index of Middle English Verse.\n         Lexington, Kentucky: University of Kentucky Press, 1965 and Ringler Jr. (1992)\nXRingler Jr.,  William A. \n             Bibliography and Index of English Verse in Manuscript\n                1501-1558.\n         London: Mansell, 1992; prepared and completed by \n                Michael\n                Rudick\n             and \n                Susan J.\n                Ringler\n            , TM 287; formerly 553.5; followed by 1964.",
+            "folio": "f. 103"
+        },
+        "TokyoTak15": {
+            "First Lines": "\nAlle mighty god in triniteIn whom oonly are persons threffader\n                    & sone and holy gost\u00feat are oo god as we trowe\n                    most\u2026\n",
+            "Last Lines": "\n\u2026To \u00fee whilk blysse he vs brynge\u00feat on \u00fee\n                    crosse for vs wolde hynge\n",
+            "Note": "\nFollowed by \u2018Amen Amen Pur Charite\u2019.",
+            "Attributed Title": "\nHic incipit libellus de expositione orationis dominice secundum\n                        tractatum Ricardi heremite de hampole qui ad salutem animarum multa bona\n                        composuit (f. 1)",
+            "folio": "ff. 1ra-73ra"
+        },
+        "Bein20082479": {
+            "First Lines": "\n\u2026\u00dee fowrte b<r>aunche as men ma<y> proueIs when a man will povert loue\u2026\n",
+            "Last Lines": "\n\u2026As he \u00feat is neuermore weryTo bow\u2026\n",
+            "Note": "\nA manuscript extract in a printed book (Beinecke 2008 2479) corresponding to lines 4039-4046, and 4097-4111 in Hanna (2013)\nXHanna,  Ralph. \n             Speculum Vitae A Reading Edition.\n         2 vols. EETS o.s.331, 332 (2013). Occurs on back endpaper.",
+            "Editions": "\nWeiskott,  Eric. \n             \u201cAnother New Fragment of  Speculum Vitae.\u201d \n             Journal of the Early Book Society\n         17 (2014): 352-55: 354.\n",
+            "folio": ""
+        }
+    }
+}

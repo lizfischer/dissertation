@@ -1,0 +1,16 @@
+{
+    "_id": 1100,
+    "_header": "Dear is the honey bought",
+    "Note": "Cf. Hendyng, stanza 29 (3383); Tilley (1950)\nXTilley, Morris Palmer. A Dictionary of the Proverbs in England in the 16th and 17th Centuries. Ann Arbor, MI: University of Michigan, 1950 H554.",
+    "Subjects": "proverbs",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "A proverbial couplet",
+    "_witnesses": {
+        "RylandsLat394": {
+            "Transcription": "\nDere is \u00feat hony bout\u00feat on \u00fee \u00feorn is I\n                    sou\u021dt\n",
+            "Note": "\nWritten as one line; trans. \u2018Mel male mercatur de spinis si\n                        capiatur\u2019, which follows.",
+            "Editions": "\n\nPantin,  William A. \n             \u201cA Medieval Collection of Latin and English Proverbs\u2026from Rylands\n                Latin MS. 394.\u201d \n             Bulletin of the John Rylands Library\n         14 (1930): 81-114: 100.\nSisam,  Celia,  and  Kenneth Sisam, eds.  \n             The Oxford Book of Medieval English Verse.\n         Oxford: Clarendon, 1970: 560.\n\n",
+            "folio": "f. 13"
+        }
+    }
+}

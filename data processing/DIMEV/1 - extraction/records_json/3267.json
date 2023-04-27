@@ -1,0 +1,81 @@
+{
+    "_id": 3267,
+    "_header": "Love God over all thing",
+    "Note": "The verses are the same in each of two variant contexts in the Fasciculus: see Wenzel (1978)\nXWenzel, Siegfried. Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle English Poems. Cambridge, MA: Medieval Academy of America, 1978, 158-9, 193-4.",
+    "Subjects": "advice, spiritual; sermons, verse in",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Love God, thyself, thy friend and thy foe (4 lines), a tag in the Fasciculus morum",
+    "_witnesses": {
+        "Bod187": {
+            "Transcription": "\n\u00feu loue god ouer all \u00feyngsythen \u00fey selue with oute\n                    synnyngAfter \u00fey frende as kynde \u00fee techeAnd \u00feenne\n                    \u00fey foo with outen wreche\n",
+            "Note": "\nB context; written as prose.",
+            "folio": "f. 196b"
+        },
+        "Bod410": {
+            "Transcription": "\nThan loue god ouer all thyngSithyn \u00fei self with oute\n                    synnyngSithyn \u00fei frend or kynyng techet And \u00feenne \u00fei fo\n                    with oute wreche\n",
+            "Note": "\nB context; written as prose.",
+            "folio": "f. 75v"
+        },
+        "BodLauMis111": {
+            "Transcription": "\nLoue god \u00feu man ouer all thingeSithen thy self with oute\n                    sinningSithen \u00fey frynde as kynde the tethAfterward \u00fey foo\n                    with outyn any wreth\n",
+            "Note": "\nA context; written as prose.",
+            "folio": "f. 94v"
+        },
+        "BodLauMis213": {
+            "Transcription": "\nthu loue god ouer alle thyngesithen thi self withoute\n                    synnyngSithen thi ffrende as knynge techethAnd then thi ffo withouten\n                    wreche\n",
+            "Note": "\nWritten as prose, B context.",
+            "folio": "f. 152v"
+        },
+        "BodRawC670": {
+            "Transcription": "\n\u00deow loue god ouer all \u00feingSy\u00feyn \u00fey selfe\n                    with-owte synyngSy\u00feyn \u00fey frende as kynd \u00fee\n                    teche\u00dean \u00fey foo with outen wreche\n",
+            "Note": "\nB context.",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 193.\n",
+            "folio": "f. 128v"
+        },
+        "CamGon71": {
+            "Transcription": "\n\u00feu loue god ouer all thyngbe \u00fei selue wyth outen\n                    synnyngSychen \u00fei frend os kynd \u00fee teche& \u00feen\n                    \u00fei foo wyth outen wreche\n",
+            "Note": "\nB context.",
+            "folio": "f. 79v"
+        },
+        "CamGon364": {
+            "Transcription": "\nLoue god ouer al \u00feyngStheyn \u00fei self with outen\n                    sinnyngSethyn \u00fei frend as kende techytAfterward \u00fei foo with\n                    outen wreche\n",
+            "Note": "\nB context. Second occurrence in this MS, listed as a variant text by\n                        Wenzel (1978)\nXWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978, p. 193, but actually just the usual text (Wenzel\n                    does not note the first occurrence).",
+            "folio": "ff. 36vb-37ra"
+        },
+        "CamStJohn159": {
+            "Transcription": "\n\u00deou luf god owr all thyngeSithene \u00fei self with owtyn\n                    syningeSithene \u00fei frende as kynde \u00fee tech\u00dean \u00dei\n                    foo wyt owtyn wrech\n",
+            "Note": "\nWritten as verse, B context.",
+            "folio": "f. 170v"
+        },
+        "NLS18721": {
+            "Transcription": "\n[Loue] God ouer alle \u00feinggeHimself withouten wemme of\n                    senninggeHis euene cristene as kinde \u00fee wile teche\u00dei fo\n                    withouten wiling of oni wreche\n",
+            "Note": "\nOccurs separately in Grimestone\u2019s sermon notebook.",
+            "Attributed Title": "\nDe Hostibus (f. 64v)",
+            "Editions": "\nWilson,  Edward. \n             A Descriptive Index of the English Lyrics in John of Grimestone\u2019s\n                Preaching Book.\nMedium \u00c6vum Monographs\n         n.s. 2. Oxford, 1973: 19.\n",
+            "folio": "f. 64v"
+        },
+        "EDU82": {
+            "Transcription": "\nlove thou god ouer all thyngSen thy self wyth owte synnyngSen\n                    thy frende as kynde the techeAfter thy foo wyth owte wreche\n",
+            "Note": "\nA context.",
+            "folio": "f. 49"
+        },
+        "Lincoln44": {
+            "Note": "\nB context.",
+            "folio": "f. 217v"
+        },
+        "Spalding": {
+            "Transcription": "\nthowe lufe god ouer all th[ing]Syn thi selfe wythout synnyngSyne\n                    thi frende als kynde the techeAnd than thi foo wythouten wrech\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 138v"
+        },
+        "WorcF19": {
+            "Transcription": "\nNow y haue \u00feat i wellgodis grame in \u00fey bill\n",
+            "Note": "\nB context.",
+            "folio": "f. 176ra"
+        },
+        "VaticanOtto": {
+            "Note": "\nB context.",
+            "folio": "f. 87"
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "_id": 6775,
+    "_header": "Woe worth debate that never hath peace",
+    "Note": "Same as stanza 67 of Court of Sapience (168, 5365); st. 99 of Ashby\u2019 Active Policy of a Prince (3446); for a longer text see 6776.",
+    "Subjects": "curses",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "One stanza pronouncing curses, occurring separately \u2014 one stanza rhyme royal",
+    "_witnesses": {
+        "BodAsh1152": {
+            "Editions": "\nBlack,  William Henry. \n             Catalogi Codicum Manuscriptorum Bibliothecae Bodleianae\u2026Pars X,\n                A\u2026Catalogue of the Manuscripts bequeathed\u2026by Elias Ashmole.\n         Oxford: Clarendon, 1845: 1047.\n",
+            "folio": "f. 9v"
+        },
+        "OxfUni154": {
+            "folio": "f. 121v"
+        },
+        "BLAdd60577": {
+            "Transcription": "\nWoo worthe debate \u00feat neuyr may haue peceWoo worthe penaunce\n                    that asshith no piteWoo worthe vengeaunce whiche mercy may not seceWoo\n                    worthe that Iugemente \u00feat hathe none equiteWoo worthe \u00feat truthe\n                    \u00feat hathe noo charyteWoo worthe \u00feat Iuge which may noo gylte\n                    saveAnd woo worth \u00feat ryght \u00feat may noo fauoure haue\n",
+            "Facsimiles": "\nWilson,  Edward. \n             \u201cIntroduction.\u201d \n             The Winchester Anthology. A Facsimile of British Library Additional\n                Manuscript 60577. With an account of the music by \n                    Iain\n                    Fenlon. \n         Cambridge: D. S. Brewer, 1981. \n",
+            "folio": "f. 45"
+        },
+        "PROC473414": {
+            "folio": ""
+        },
+        "HunHM144": {
+            "Transcription": "\nWo worthe debate \u00feat neuer may haue peaseWo worthe penaunce\n                    \u00feat askith no pyteWo worthe vengeaunce whiche mercy may not\n                    seaseWo worthe \u00feat Iugement \u00feat hathe none equiteWo worthe\n                    \u00feat trouthe \u00feat hathe no chariteWo worthe \u00feat Iuge \u00feat\n                    may no gilt saueWo worthe \u00feat right \u00feat may no fauor\n                    haue\n",
+            "Note": "\nImmediately follows 5411.",
+            "Editions": "\n\nFurnivall,  Frederick James. \n             \u201cChaucer and Lydgate Fragments.\u201d \n             Notes and Queries\n         5th ser. 9 (1878): 342-3: 343.\nB\u00fchler,  Kurt. \n             \u201cLydgate\u2019s Horse, Sheep and Goose and Huntington MS HM\n                144.\u201d \n             Modern Language Notes\n         55 (1940): 563-69: 567.\n\n",
+            "folio": "f. 145v2"
+        }
+    }
+}

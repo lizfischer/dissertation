@@ -1,0 +1,69 @@
+{
+    "_id": 5907,
+    "_header": "Threefold folk in holy kirk",
+    "Note": "For the version in the \u2018expanded\u2019 Cycle see 4709.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Sixth Sunday after Trinity in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nThrefalde folk in halikirkEr sette oure lordes will to\n                    wirk\u2026\n",
+            "Last Lines": "\n\u2026\u00feare lufe and charite es ayeHe bringe vs \u00feidir\n                    \u00feat best maye . Amen .\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 145v-147"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\n\u00dereo Maner folk in holy chircheBen set Godes wille to\n                    worche\u2026\n",
+            "Last Lines": "\n\u2026And so here vre \u00feou\u021dtes wis\u00deat we may come\n                    \u00feer \u00feou is. Amen.\n",
+            "Attributed Title": "\nAmen Amen dico vobis nisi habundauerit (f.\n                    200vc)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 200vc-201ra"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nThre maner of folk in holi kirkAre set oure lordes wille to\n                    wirk\u2026\n",
+            "Last Lines": "\n\u2026Oure lorde bryng vs to \u00feat pes\u00deat ay sale laste and\n                    neuer sees\n",
+            "Attributed Title": "\nDominica via post trinitatis secundum Mathium (p.\n                    238)",
+            "folio": "pp. 238-241"
+        },
+        "CULDd11": {
+            "First Lines": "\nThre maner folk in holi chercheben set goddis wil to\n                    werche\u2026\n",
+            "Last Lines": "\n\u2026& \u00feat is to \u00fee ioye of heueneAmen for his manes\n                    seuene\n",
+            "Attributed Title": "\nDominica 6a post festum sancte trinitatis Euangelium secundum\n                        mathium (f. 152v)",
+            "folio": "ff. 152v-153v"
+        },
+        "CULGg531": {
+            "First Lines": "\nThrefalde folk folk in halykyrkEr sett oure lord wyll to\n                    wyrk\u2026\n",
+            "Last Lines": "\n\u2026\u00deare lufe and charite es ayHe bryng vs \u00feat best\n                    may\n",
+            "Attributed Title": "\n\u00feis es \u00fee gospell on \u00fee sext sonunday (f.\n                    100v)",
+            "folio": "ff. 100v-102"
+        },
+        "BLAdd22283": {
+            "First Lines": "\n\u00deReo maner folk in holichircheBen set godus wille to\n                    worche\u2026\n",
+            "Last Lines": "\n\u2026And so here vre \u00feouhtes wis\u00deat we may come \u00feer\n                    \u00feou is, Amen\n",
+            "Attributed Title": "\nAmen Amen dico vobis nisi habundauerit (f. 5vc)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "fd. 5vc-6ra"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nThrefalde folke in halikirkeEr sett oure lordes will to\n                    wirke\u2026\n",
+            "Last Lines": "\n\u2026Thare lufe and charite is ayeHe brynge vs \u00feider \u00feat\n                    best may\n",
+            "folio": "ff. 107v-109"
+        },
+        "Lam260": {
+            "folio": "f. 44ra"
+        },
+        "MinULZ822": {
+            "First Lines": "\nThrefalde folke in haly kyrkeer sett oure lordis worde to\n                    wyrke\u2026\n",
+            "Last Lines": "\n\u2026oure lorde brynge vs to \u00feat blysse\u00feare lufe and\n                    charyte ay esse\n",
+            "Attributed Title": "\nDominica sexta Secundum Matheum (f. 111)",
+            "folio": "ff. 111-112v"
+        },
+        "HunHM129": {
+            "First Lines": "\nTwynfold folk in holy kyrkIs set oure loueryd will to\n                    wyrk\u2026\n",
+            "Last Lines": "\n\u2026\u00deare loue and charyte euyr isOure loueryd brynge vs to\n                    \u00feat blys\n",
+            "Attributed Title": "\nDominica sexta post festum trinitatis (f. 124)",
+            "folio": "ff. 124-125"
+        }
+    }
+}

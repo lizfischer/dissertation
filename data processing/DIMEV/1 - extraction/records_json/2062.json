@@ -1,0 +1,66 @@
+{
+    "_id": 2062,
+    "_header": "Honoured be Thou blissful Lord above",
+    "Author(s)": "Thomas Hoccleve",
+    "Title(s)": "\u2018The Song of Graces of All Saints\u2019; P\u00e8lerinage de l\u2019\u00e2me",
+    "Subjects": "songs",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Thomas Hoccleve, \u2018The Song of Graces of All Saints\u2019, in the English translation of the P\u00e8lerinage de l\u2019\u00e2me \u2014 four stanzas rhyme royal",
+    "_witnesses": {
+        "Bod770": {
+            "First Lines": "\nHEryed be \u00feou blisful lord aboue\u00feat vouched saue \u00feis\n                    iourne for to take\u2026\n",
+            "Last Lines": "\n\u2026Had al refourmed lat vs syng & seyneHonoured be \u00feou\n                    Ihesu souereyne\n",
+            "folio": "ff. 95vb-96ra"
+        },
+        "OxfCCC237": {
+            "First Lines": "\nHeryed be \u00feowe blessyd lorde a boveThat vowchid sawfe \u00feis\n                    Iourney for to take\u2026\n",
+            "Last Lines": "\n\u2026Hadde all resownyd lette vs synge & seynHonowred be\n                    \u00feowe Ihesu souereyne\n",
+            "folio": "ff. 130v-131"
+        },
+        "OxfUni181": {
+            "folio": "f. 145v"
+        },
+        "CamGon124": {
+            "First Lines": "\nhonowred be \u00feu blysful lord above\u00feat vowched saaf\n                    \u00feis iorne for to take\u2026\n",
+            "Last Lines": "\n\u2026had reformed let vs synge & seynhonowred be \u00feow\n                    Jhesu souereyne\n",
+            "Attributed Title": "\nsong of graces of alle holy seyntes vpon aster day (p. 243)",
+            "folio": "pp. 243-244"
+        },
+        "CULKk17": {
+            "First Lines": "\nHonourid be \u00feou blysful lord abo[ue]That vouchid saf \u00feis\n                    Journy for to take\u2026\n",
+            "Last Lines": "\n\u2026This may wel be clepid \u00fee frut of he[ ]The frut of deth\n                    was wher of [ ]assayed\u2026\n",
+            "Note": "\nMissing letters transfer from facing page covers; lacks last 5 lines of\n                    final stanza.",
+            "Attributed Title": "\nher endith \u00fee drem of \u00fee pilgrimage of \u00fee soule (f.\n                        124v)",
+            "folio": "f. 121v"
+        },
+        "BLAdd34193": {
+            "First Lines": "\nHeriede be \u00feou lorde aboue\u00feou vouchede saue \u00feis\n                    iorneye for to take\u2026\n",
+            "Last Lines": "\n\u2026hade alle reformed lette hus singe and seynehonourede be\n                    \u00feou ihesu souereyne\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 94-94v"
+        },
+        "BLAdd37049": {
+            "Editions": "\nDoty,  Brant Lee,\n                        ed.  \n             \u201cAn Edition of British Museum MS Additional 37049: a Religious\n                Miscellany.\u201d \n         Diss. Michigan State, 1969: 422-4.\n",
+            "folio": "f. 76v"
+        },
+        "BLEge615": {
+            "First Lines": "\nHOnured be thu blisfull lord a boveThat vowchidsaffe this iourny to take\u2026\n",
+            "Last Lines": "\n\u2026Hadde reformed therefore lat vs seyneHonured be thu Ihu souereyne\n",
+            "Note": "\nBefore last word of penultimate line, \u2018synge,\u2019 is written and then crossed through.",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             \u201cHoccleve\u2019s Works: The Regement of Princes and fourteen minor\n                poems.\u201d \n             EETS\n         e.s. 72 (1897); repr. 1988: 1.\n",
+            "folio": "f. 101"
+        },
+        "HatCP270": {
+            "folio": "unfoliated"
+        },
+        "NYPLSpenc19": {
+            "First Lines": "\nHonoured be thow blesful lord aboue\u00deat fowchedest sauf this\n                    iourney for to take\u2026\n",
+            "Last Lines": "\n\u2026hadde refourmed ther fore let vs synge and seynehonoured be\n                    thow Ihesu souereyne\n",
+            "Attributed Title": "\nThe song of graces of alle holy seintes vpon ester day (f. 129)",
+            "folio": "ff. 129-129v"
+        },
+        "MelSLV096G94": {
+            "folio": "f. 206v"
+        }
+    }
+}

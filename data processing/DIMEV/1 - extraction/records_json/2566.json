@@ -1,0 +1,26 @@
+{
+    "_id": 2566,
+    "_header": "In place as man may see / When a child to school shall set be",
+    "Note": "For other MSS see 2494.",
+    "Subjects": "alphabetic poems; Passion, meditations on; Christ, Passion of; envoys",
+    "Versification": "\u2014 six-line",
+    "_description": "An ABC poem on the Passion \u2014 in 6-line stanzas",
+    "_witnesses": {
+        "BLHar3954": {
+            "First Lines": "\nA place as man may seQuan a chyld to scole xal set be\u2026\n",
+            "Last Lines": "\n\u2026As was \u00fee spere in to \u00fein herteQuan \u00feu suffrydyst ded for me\n",
+            "Note": "\nPossibly begins imperfect; ends \"\u201cAmen.\u201d",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 3954.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_3954. \n",
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.63-4 (extract).\nFurnivall,  Frederick James,\n                        ed.  \n             Political, Religious and Love Poems, from Lambeth MS. 306 and other\n                sources.\nEETS\n         o.s. 15 (1866); repr. 1962; rev. ed. 1903: 244-50; rev. ed. 271-8.\n\n",
+            "folio": "ff. 87ra-88rb"
+        },
+        "NLS18721": {
+            "First Lines": "\nLich as man may seWan child to skole set beA boke him is i\n                    brouth\u2026\n",
+            "Last Lines": "\n\u2026& \u021deft his bodi in forme of bred\u00deat sal us alle\n                    borwe\n",
+            "Note": "\n1 stanzas in John Grimestone\u2019s sermon notebook plus three line\n                    envoy.",
+            "Attributed Title": "\nDe Passione (f. 122v)",
+            "Editions": "\nWilson,  Edward. \n             A Descriptive Index of the English Lyrics in John of Grimestone\u2019s\n                Preaching Book.\nMedium \u00c6vum Monographs\n         n.s. 2. Oxford, 1973: 42-8.\n",
+            "folio": "ff. 122va-123vb"
+        }
+    }
+}

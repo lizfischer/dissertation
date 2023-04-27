@@ -1,0 +1,18 @@
+{
+    "_id": 6860,
+    "_header": "Yet tell will I a tale here",
+    "Title(s)": "Scottish Legendary",
+    "Subjects": "Pelagia, saint, life of; saints\u2019 lives",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Pelagia, in the Scottish Legendary",
+    "_witnesses": {
+        "CULGg26": {
+            "First Lines": "\n[\u021d]ete tel wil I a tale here\u00feat men suld haf \u021darning\n                    to here\u2026\n",
+            "Last Lines": "\n\u2026& of \u00feis lyfe \u00feat we twynebut det schame &\n                    dedly syne\n",
+            "Note": "\nPreceding text, 6857,\n                    ends with false start to this one",
+            "Attributed Title": "\nPelagia (RT)",
+            "Editions": "\n\nHorstmann,  Carl. \n             Barbours des schottischen Nationaldichters Legendensammlung.\n         Heilbronn: Henninger, 1881: 2.74-79.\nMetcalfe,  William Musham,\n                        ed.  \n             Legends of the Saints, in the Scottish dialect of the fourteenth\n                century\u2026.\n             6 pts. in 3 vols. \n             Scottish Text Society\n         13, 18, 23, 25, 35, 37. Edinburgh, London: Blackwood, 1896: 2.2.204-14.\n\n",
+            "folio": "ff. 267v-271v"
+        }
+    }
+}

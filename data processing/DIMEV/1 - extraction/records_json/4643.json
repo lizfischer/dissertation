@@ -1,0 +1,51 @@
+{
+    "_id": 4643,
+    "_header": "Saint John the Gospeller us shows",
+    "Note": "For the text in the \u2018expanded\u2019 Cycle see 4626.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for First Sunday after Easter in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nSaynte Ione \u00fee gospellere vs schawesIn oure gospell wi\u00fe\n                    semeli sawes\u2026\n",
+            "Last Lines": "\n\u2026ffor when he thinkes on goddes thrawes\u00fee fendes\n                    fondinges fro vs drawes\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 115-116v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Ion \u00fee gospeler vs schawesIn vr gospel wi\u00fe semeli\n                    sawes\u2026\n",
+            "Last Lines": "\n\u2026ffor whon we \u00feenke on cristes sawes\u00dee fend his\n                    fondyng from vs drawes\n",
+            "Attributed Title": "\nCum esset sero die illo & fores (f. 189rb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 189rb-189va"
+        },
+        "CULAdd8335": {
+            "First Lines": "\n\u00deis say Seynt Ione \u00fee euangelisteTelles vs howe \u00feat\n                    ihesu criste\u2026\n",
+            "Last Lines": "\n\u2026\u00deis gostli schewyng makes \u00fee fendeAnd his fondynges\n                    fro vs wende\n",
+            "Attributed Title": "\nDominica in octava pasche secundum Iohannem (p. 184)",
+            "folio": "pp. 184-188"
+        },
+        "CULDd11": {
+            "First Lines": "\nSEynt Iohn \u00fee Gospellere vs schawisin oure Gospel semeli\n                    sawishow ihesu crist ofter \u00feat he ras\u2026\n",
+            "Last Lines": "\n\u2026for whan we \u00feinke on cristis sawis\u00fee fendis fonding\n                    fro vs he drawis\n",
+            "Attributed Title": "\nDominica prima post Pascha Euangelium secundum Iohannem (f.\n                    120v)",
+            "folio": "ff. 120v-122"
+        },
+        "Lam260": {
+            "folio": "f. 36rb"
+        },
+        "MinULZ822": {
+            "First Lines": "\nSaynt Iohn \u00fee gospellere vs schewesIn oure gospell wyth semely\n                    sawes\u2026\n",
+            "Last Lines": "\n\u2026for when we thynke on criste thrawes\u00fee fende fayndyng\n                    fra vs drawes\n",
+            "Attributed Title": "\nIn octavas [sic] pasche Secundum Johannem (f. 84)",
+            "folio": "ff. 84-85v"
+        },
+        "HunHM129": {
+            "First Lines": "\nSeint Ion \u00fee gospeller vs schawisIn oure gospell with swetely\n                    sawis\u2026\n",
+            "Last Lines": "\n\u2026ffor when we \u00feynk on cristis thrawis\u00fee fendys\n                    temptynd [sic] fro vs hit drawis\n",
+            "Attributed Title": "\nDominica infra octavam pasche (f. 98)",
+            "folio": "ff. 98-99v"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "_id": 5559,
+    "_header": "There been four things that make a man a fool",
+    "Note": "Cf. also 5558 and 6798.",
+    "Subjects": "advice, moral",
+    "Versification": "\u2014 seven-line \u2014 ababbcc",
+    "_description": "Four things that make a man a fool \u2014 one stanza rhyme royal",
+    "_witnesses": {
+        "CamTCC600": {
+            "First Lines": "\n\u00deere beo\u00fee foure thinges \u00feat make\u00fe man a\n                    foolhonnour first putte\u00fee him in oultrageAnd aldernexst solytarye\n                    and sool\u00dee secound is vnweldy crooked aage\u2026\n",
+            "Last Lines": "\n\u2026And mighty wyne in many dyuers wyseDistempren folk wheche\n                    been holden wyse\n",
+            "Attributed Title": "\nA seying of daun Johan (p. 8)",
+            "Editions": "\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 2.708.\n",
+            "folio": "p. 8"
+        },
+        "BLAdd29729": {
+            "First Lines": "\nther be fowr thyngs that makyth man a foollhonnour fyrst puttethe\n                    hym in owhtrage\u2026\n",
+            "Last Lines": "\n\u2026and myghty wyne in many dyvers wysedistempern folke whiche\n                    bene holden wyse\n",
+            "Note": "\nBefore heading, relating to several short entries that follow,\n                    \u2018Here beginneth serten thinges of Iohn lydgat copied out of \u00fee boke\n                    of Iohn sherley / by Iohn stowe\u2019 (f. 132), apparently added by scribe\n                    (John Stow).",
+            "Attributed Author": "\nIohn lydgat (f. 132)",
+            "Attributed Title": "\na seyng of dan Iohn lydgat (f. 132)",
+            "folio": "f. 132r1"
+        }
+    }
+}

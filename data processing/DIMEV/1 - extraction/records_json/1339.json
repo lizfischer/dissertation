@@ -1,0 +1,24 @@
+{
+    "_id": 1339,
+    "_header": "For as ye list my will is bent",
+    "Note": "Ringler Jr. (1992)\nXRingler Jr., William A. Bibliography and Index of English Verse in Manuscript 1501-1558. London: Mansell, 1992; prepared and completed by Michael Rudick and Susan J. Ringler , TM 418; cf. Greene (1964)\nXGreene, Richard Leighton. \u201cWyatt\u2019s \u2018I am as I am\u2019 in Carol-form.\u201d Review of English Studies n.s. 15 (1964): 175-80, 178-9.",
+    "Author(s)": "Thomas Wyatt (attrib.)",
+    "Title(s)": "\u2018Even as ye lyst\u2019",
+    "Subjects": "carols, amorous",
+    "Versification": "\u2014 five-line, two-line \u2014 aaaab, aa",
+    "_description": "\u2018Even as ye lyst\u2019, ascribed to Thomas Wyatt \u2014 seven 5-line stanzas (aaaab) with this refrain, and (1 MS only) 2-line burden: \u2018As power and wytt wyll me assyst / My wyll shall wyll euyn as ye lyst\u2019",
+    "_witnesses": {
+        "BLAdd17492": {
+            "First Lines": "\nFor as ye lyst my wyll ys bentIn euerythyng to be\n                    content\u2026\n",
+            "Last Lines": "\n\u2026Yet take thys tale as trew as gospellYe may my lyff save or\n                    expellEvyn as ye lyst\n",
+            "Editions": "\n\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 315-6; 1977, 285.\nFoxwell,  Agnes Kace. \n             The Poems of Sir Thomas Wiat.\n         London: University of London, 1933: 1.276.\nMuir,  Kenneth. \n             Collected Poems [Sir Thomas Wyatt].\n         Cambridge, MA: Harvard UP, 1950: 106.\n\n",
+            "folio": "f. 20"
+        },
+        "BLAdd18752": {
+            "First Lines": "\nEvyn as you lyst my wyll ys bentYn everythynge to be\n                    content\u2026\n",
+            "Last Lines": "\n\u2026Thys tall take trew as the gospellMy lyfe you may both saue\n                    & spylleEven as you lyst\n",
+            "Editions": "\n\nReed,  Ernest Bliss. \n             \u201cThe Sixteenth Century Lyrics in Add. MS. 18,752.\u201d \n             Anglia\n         33 (1909): 344-69: 362.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon, 1977 (see\n            also Greene (1935)\nXGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977): 285-6.\n\n",
+            "folio": "ff. 89v-90"
+        }
+    }
+}

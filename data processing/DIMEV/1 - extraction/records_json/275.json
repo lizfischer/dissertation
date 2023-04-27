@@ -1,0 +1,31 @@
+{
+    "_id": 275,
+    "_header": "Alas for thought and inward pain",
+    "Title(s)": "Supplicacio Amantis",
+    "Subjects": "lovers, absence/separation of; complaints, lovers\u2019",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Supplicacio Amantis, following Lydgate\u2019s Temple of Glass in two manuscripts \u2014 628 lines in couplets",
+    "_witnesses": {
+        "CULGg427": {
+            "First Lines": "\nAllas for thought & inward pyneThat myn herte so\n                    constreyne\u2026\n",
+            "Last Lines": "\n\u2026with oute smoke of doubilnesseChaung or\n                    newfongylnesse\u2026\n",
+            "Note": "\nLines 1-254, 331-562 only, incomplete because f. 513 missing and ends\n                    imperfectly due to missing f. 517.",
+            "folio": "ff. 509v-516v"
+        },
+        "BLAdd16165": {
+            "First Lines": "\nEllas for thought and inwarde peyne\u00feat myn hert so\n                    constreyne\u2026\n",
+            "Last Lines": "\n\u2026\u00feis al and some my lady dereAnd I youre man frome yere\n                    to yere\n",
+            "Note": "\nFollows on from 1403 without a\n                    break. Lacks lines 157-76.",
+            "Attributed Author": "\nmade by \u00fee Munke of Bury",
+            "Attributed Title": "\n\u00fee dreme of a lover made by \u00fee Munke of Bury (RT); Here\n                    endi\u00fee \u00fee dreme and \u00fee complyynte of \u00fee desyrous seruant in\n                    loue (f. 241v)",
+            "folio": "ff. 231-241v"
+        },
+        "BLSl1212": {
+            "First Lines": "\nIoie helthe ande euery delleThat in short tyme but I\n                    fele\u2026\n",
+            "Last Lines": "\n\u2026Mi dole and my consolaciounMi laughinge and my wepyng\n                    eke\u2026\n",
+            "Note": "\nLines 439-505 only; bottom margin of f. 4, \u2018humblement\n                        magre\u2019; lower margin f. 4v four lines of Latin,\n                    signature of \u2018Lucas\u2019 and another Bull\u2019s head drawing with\n                    scroll, \u2018Mercy made\u2019.",
+            "Editions": "\nSchick,  Josef,\n                        ed.  \n             Lydgate\u2019s Temple of Glas.\nEETS\n         e.s. 60 (1891); repr. 1987: 59-67 (composite text).\n",
+            "folio": "ff. 4-4v"
+        }
+    }
+}

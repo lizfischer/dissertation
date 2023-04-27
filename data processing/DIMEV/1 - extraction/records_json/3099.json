@@ -1,0 +1,24 @@
+{
+    "_id": 3099,
+    "_header": "Listen man if thou wilt hear / Of thing that is bothe digne & dear",
+    "Note": "Part of the \u2018Continuation\u2019 of Handlyng Synne (1283), for which see Sullivan (1978)\nXSullivan, S. A. \u201cHandlyng Synne in Its Tradition: A Study of Robert Mannyng of Brunne\u2019s Handlyng Synne and Its Relation to Other Instructional Works, in Order to Establish the Place of the Poem in Its Genre.\u201d Diss. Cambridge, 1978. Other sections are 378, 1598, 3340, 3355, 3358.",
+    "Subjects": "sacraments; instruction, religious; treatises, devotional",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The Seven Sacraments, illustrated by exempla \u2014 456 lines in couplets",
+    "_witnesses": {
+        "CULIi49": {
+            "First Lines": "\nLyste man if \u00feu wylt hereOf thyng \u00feat is bo\u00fee digne\n                    & dere\u2026\n",
+            "Last Lines": "\n\u2026Cryste graunt vs grace alle \u00feat it so be\n                    soAmen Amen for charyte\n",
+            "Attributed Title": "\nHic incipiunt Vij Sacramenta ecclesie In Remissionem omni peccatorum\n                    (f. 177); Expliciunt Vij Sacramenta ecclesie (f. 185)",
+            "folio": "ff. 177-185"
+        },
+        "BLHar3954": {
+            "First Lines": "\nLystyn man & \u00feou xalt hereOf thyng \u00feat is bo\u00fee\n                    dygne & dere\u2026\n",
+            "Last Lines": "\n\u2026Cryst graunt vs alle \u00feat it so beAmen amen for\n                    charyte\n",
+            "Attributed Title": "\nHic incipiunt VIJ sacramenta ecclesie in remisionem omnium\n                        peccatorum (f. 82v); Expliciunt VIJ sacramenta\n                        ecclesie (f. 85v)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library Harley MS 3954.\n         https://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Harley_MS_3954. \n",
+            "Editions": "\nBraekman,  W. L. \n             \u201cOf Ye Sacrementys Sevene: A Middle English Didactic Poem.\u201d \n             Neuphilologische Mitteilungen\n         82 (1981): 194-203: 194.\n",
+            "folio": "ff. 82vb-85va"
+        }
+    }
+}

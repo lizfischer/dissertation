@@ -1,0 +1,21 @@
+{
+    "_id": 1119,
+    "_header": "Descending Jesu forto come",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Friday following the 2nd Sunday after the Octave of Epiphany in the \u2018expanded\u2019 Northern Homily Cycle \u2014 in couplets",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 130vb"
+        },
+        "BLHar4196": {
+            "First Lines": "\nDescendand ihesu forto cumTo a cete \u00feat hight capharnaum\u2026\n",
+            "Last Lines": "\n\u2026And for \u00feat he slike wonders wroughtfful mekill folk vnto him soght\n",
+            "Note": "\nPreceded by Latin, \u201cDescendit ihesu crist in capharnaum.\u201d",
+            "Attributed Title": "\nfferia sexta proxima euangelium Secundum Lucam (rubric, f. 35ra)",
+            "Editions": "\nNevanlinna,  Sara. \n             The Northern Homily Cycle: The Expanded Version in MSS Harley 4196 and Cotton Tiberius E.vii.\n             3 vols. \n             Memoires de la Societ\u00e9 Neophilologique de Helsinki.\n         Helsinki. 38 (1972); 41 (1973); and 43 (1984): I.289-291.\n",
+            "folio": "ff. 35ra-35va"
+        }
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "_id": 1464,
+    "_header": "From Christs birth complete nine hundred year",
+    "Note": "Ringler Jr. (1988)\nXRingler Jr., William A. Bibliography and Index of English Verse Printed 1476-1558. London: Mansell, 1988, TP 440.5.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "Guy of Warwick",
+    "Subjects": "romances; Guy of Warwick",
+    "Versification": "\u2014 eight-line stanza \u2014 ababbcbc",
+    "_description": "John Lydgate, Guy of Warwick \u2014 592 lines in 8-line stanzas",
+    "_witnesses": {
+        "BodLauMis683": {
+            "First Lines": "\nFro cristis birthe complet nyne hundrid yeer[s]twenty and seuene by\n                    computacioun\u2026\n",
+            "Last Lines": "\n\u2026praying echon of support and ffavournat to dysdeyne the\n                    clauses whan they reede\n",
+            "Attributed Title": "\nHere gynneth the lyff off Guy of Warwyk (f. 65)",
+            "Editions": "\n\nZupitza,  Julius. \n             \u201cZur Literaturgeschichte des Guy von Warwick.\u201d \n             \u00f6sterrichische Akademie der Wissenschaften\n                Philosophisch-historische Klasse\n         74 (1873): 623-45: 649-65.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 516-38.\n\n",
+            "folio": "ff. 65-78"
+        },
+        "CamTCC601": {
+            "First Lines": "\nfro Crystes byrthe nyne hundred yereTwenty &seuyn by\n                    computacion\u2026\n",
+            "Last Lines": "\n\u2026Praying echone of support and fauoureNat to dysdeyne these\n                    clauses who ye rede\n",
+            "Attributed Title": "\nHere begynneth a tale of Guy and Colbrond",
+            "folio": "ff. 305-314"
+        },
+        "BLHar7333": {
+            "First Lines": "\nFRome Criestes birthe complete nyen C yeereTwenty and seven by\n                    computaciony\n",
+            "Last Lines": "\nIf owght be wrong in metre or in substauncePut al \u00fee wyte ffor\n                    dulnesse on lydegateLenoyeMekely translated vnder\n                    correcciounSettyng a syde preyde and presompciouneAnd praye echoon\n                    \u00feat shalle of hit take hedeffavoure and supporte whan \u00feei \u00fee\n                    clause Rede\n",
+            "Attributed Title": "\nHere nowe begynne\u00fee an abstracte oute of \u00fee Croniclis / in latyn\n                    made by Gyrarde Cornubyence \u00fee wor\u00fey / Croniculer of westsexse &\n                    translated in to Englisshe / be lydegate daun Johan at the requeste of margarete\n                    / Countas of Shrowesbury Ladye Talbot fournyvale / and lysle of the lyf of\n                    \u00feat moste worthy knyght Guy / of warwike of whos bloode shee is lyneally\n                    descendid (f. 33ra, rubric)",
+            "Editions": "\nHales,  John Wesley,  and  Frederick James Furnivall, eds.  \n             Bishop Percy\u2019s Folio Manuscript: Ballads and Romances.\n         3 vols. London: Tr\u00fcbner, 1867-68: 2.520 (extract only).\n",
+            "folio": "ff. 33ra-35vb"
+        },
+        "BLLan699": {
+            "First Lines": "\nFRo cristes birth compleet nyne hundred yeerTwenty & seuene bi\n                    computacion\u2026\n",
+            "Last Lines": "\n\u2026Prayng echeon of support & favourNat to disdayn the\n                    clauses whan they reede\n",
+            "Note": "\nFolio number reflects the most recent foliation.",
+            "Attributed Title": "\nIncipit Guydo de warwik (f. 18); Explicit Guydo de Warwik (f.\n                        27v)",
+            "folio": "ff. 18v-27v"
+        },
+        "PeterCentLib": {
+            "First Lines": "\nFro cristys byrth complete ix c yerexx and vij by\n                    computacion\u2026\n",
+            "Last Lines": "\n\u2026Praying echon of support and fauourNot to disdeyne the\n                    clauses when they rede\n",
+            "folio": "ff. 54-63"
+        },
+        "HarEng530": {
+            "First Lines": "\nffrome Cristes byrth complete nyen hundred yereTwenty & Seven\n                    be computacyoun\u2026\n",
+            "Last Lines": "\n\u2026Mekely translatid vnder coreccyounSettyng a syde pryde &\n                    presumpcyounAnd pray iche oon \u00feat shall off hit take hedeffauoure\n                    & support whan \u00feey [hit rede]\n",
+            "Note": "\nIncludes envoy; last two words lost in gutter.",
+            "Attributed Author": "\nJohan lydegate (f. 4v)",
+            "Attributed Title": "\nHere Nowe begynnyth An Abstracte Owte the Cronycles in latyn made by Gyrade\n                    Cornubyence the worthy the Cronyculere of Westsexse & translatid into\n                    Englishe by lydegate daun Johan At the Request of Margret Countasse of\n                    Shrowesbury lady Talbot ffournyvalle & lysle of the lyffe of \u00feat moste\n                    Worthy knyght Guy of Warrewyk of Whos blode she is lenyally descendid (f.\n                        4v)",
+            "Editions": "\nRobinson,  F. N. \n             \u201cOn Two MSS of Lydgate\u2019s  Guy of\n                Warwick.\u201d \n             Harvard Studies and Notes in Philology\n         5 (1897): 177-220: 177-220.\n",
+            "folio": "ff. 4v-12v"
+        },
+        "Leiden": {
+            "folio": "f. 17"
+        }
+    }
+}

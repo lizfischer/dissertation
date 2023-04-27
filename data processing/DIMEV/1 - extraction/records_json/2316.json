@@ -1,0 +1,377 @@
+{
+    "_id": 2316,
+    "_header": "I will bewail in manner of tragedy",
+    "Author(s)": "Geoffrey Chaucer",
+    "Title(s)": "Monk\u2019s Tale; \u2018De Casibus Virorum Illustrium\u2019; Canterbury Tales",
+    "Subjects": "pilgrims/pilgrimage; Fortune; tragedy",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "Geoffrey Chaucer, the Monk\u2019s Tale of the Canterbury Tales \u2014 776 lines in eight-line stanzas.",
+    "_witnesses": {
+        "BodArcSelB14": {
+            "First Lines": "\nI wol bewaile in manere of Tregediethe harme of hem that stode in\n                    high degre\u2026\n",
+            "Last Lines": "\n\u2026that hight Daunte for he can hit devisefro poynte to poynte\n                    not oo worde wol he fayle\n",
+            "Note": "\nVII.2375-2462 (the \u2018Modern Instances\u2019) follow\n                    2766.",
+            "Attributed Title": "\n\u2026And / next folwyng he bigynneth his tale (f. 195); the Monke (RT);\n                    here the Knyght / interipteth & / stynteth the Monke / of his tale (f. 206,\n                    margin)",
+            "folio": "ff. 195-205v"
+        },
+        "BodBar20": {
+            "First Lines": "\nI wole bewaile in manere of tragedie\u00fee harme of hem \u00feat\n                    stondith in hy\u021d degre\u2026\n",
+            "Last Lines": "\n\u2026ffor when men truste\u00fe hir \u00fean wole she faileAnd\n                    kouer hir bright face with a cloude\n",
+            "Note": "\nVII.1997, 2421, 2574 omitted.",
+            "Attributed Title": "\n\u2026and here bygynnythe \u00fee prologe [sic] (f.\n                    233v); Here endith \u00fee monkes\u2026 (f. 245)",
+            "folio": "ff. 233v-245"
+        },
+        "Bod414": {
+            "First Lines": "\n[I] Will bewaile in maner of TragedyThe harme of hem \u00feat stode\n                    in hi\u021d degre\u2026\n",
+            "Last Lines": "\n\u2026ffor whan men trusten hir \u00feen wil she faileAnd couer hir\n                    bright face with a cloude\n",
+            "Note": "\nVII.2130 omitted; spurious lines follow 2131, 2339; 2155 inserted in\n                    margin.",
+            "Attributed Title": "\nThe Monkis tale (f. 162v)",
+            "folio": "ff. 162v-171v"
+        },
+        "BodHatDon1": {
+            "First Lines": "\nI will bewaile in maner of tragedyThe harme of hem \u00feat stonde\n                    in hie degre\u2026\n",
+            "Last Lines": "\n\u2026ffor whan men trusteth hir \u00fean wil she faileAnd couer\n                    hir bright face with a cloude\n",
+            "Attributed Title": "\n\u2026And next biginneth / the tale of \u00fee Monke de Casibus virorum\n                        illustrium (f. 207); The Monke (RT); Here endeth \u00fee Monkes tale\n                        de casibus virorum illustrissimum\u2026 (f. 216)",
+            "folio": "ff. 207-216"
+        },
+        "BodLauMis600": {
+            "First Lines": "\n\u2026As Adam til he for his mysgouernaunceWas dryue out of high\n                    prosperite\u2026\n",
+            "Last Lines": "\n\u2026ffor when trusti\u00fe her \u00feen wil she faileAnd couer\n                    her bright face wi\u00fe a cloude\n",
+            "Note": "\nVII.1991-2011 lost; 2023-30, 2333, 2653 omitted.",
+            "Attributed Title": "\n\u00fee monk (RT); Here ende\u00fe \u00fee monkes tale\u2026 (f.\n                    258)",
+            "folio": "ff. 248-258"
+        },
+        "BodRawPoe141": {
+            "First Lines": "\nI wyll be weyle in maner of tragedyeThe harme of hem that stondeth\n                    in hye degre\u2026\n",
+            "Last Lines": "\n\u2026ffor when men trusteth hur then wol she fayleAnd keuere hur\n                    bryght face with a clowde\n",
+            "Note": "\nVII.2243-2497 lost; 2148, 2168-9, 2205 omitted.",
+            "Attributed Title": "\n\u2026Here begynneth the Monkes tale (f. 116); The Monke (RT)",
+            "folio": "ff. 116-124"
+        },
+        "BodRawPoe149": {
+            "First Lines": "\nI wil bewaile in maner of a tregedrithe harme of hem that stonde in\n                    degre hihe\u2026\n",
+            "Last Lines": "\n\u2026He slowe the geant Antheus the strongeHe slowe the griseli\n                    bore and that anon\u2026\n",
+            "Note": "\nVII.2110-766 lost; 1997 omitted.",
+            "Attributed Title": "\nhere begynneth the monkes tale (f. 115); fab (f. 115,\n                    margin)",
+            "folio": "ff. 115-115v"
+        },
+        "OxfChrCh152": {
+            "First Lines": "\nI wole bywaile in manere of tragedyeThe harme of hem \u00feat stood\n                    in heigh degre\u2026\n",
+            "Last Lines": "\n\u2026That hight Dant for he kan it all deuyseffro poynt to poynt\n                    nat a worde wole he faile\n",
+            "Attributed Title": "\n\u2026& Incipit fabula / The Monkys tale (f.\n                    155v)",
+            "folio": "ff. 156-165v"
+        },
+        "OxfCCC198": {
+            "First Lines": "\nI wol bewayle in maner of TregedyeThe harme of hem \u00feat\n                        stande\u00fe\nstoden in heih degre\u2026\n",
+            "Last Lines": "\n\u2026ffor whan men truste\u00fe hire \u00fean wol sche fayleAnd\n                    couere hire brighte face wi\u00fe a cloude\n",
+            "Note": "\nVII.1997, 2279, 2311, 2343, 2421, 2574 omitted; 1997 inserted later in\n                    margin; 2007-14 left blank (the \u2018Adam Stanza\u2019).",
+            "Attributed Title": "\nHere telle\u00fe \u00fee monk De casibus virorum illustrium (f.\n                    236); Cmxxjm (f. 236, margin); Explicit (f.\n                    247, margin)",
+            "Facsimiles": "\n  \u201cDigital\n                    Facsimile of Corpus Christi, Oxford MS 198 of the Canterbury\n            Tales\u201d  . \n",
+            "folio": "ff. 236-247"
+        },
+        "OxfNew314": {
+            "First Lines": "\nI wil be waile in manere of tregedieThe harm of hem \u00feat\n                    stonden in hi\u021d degre\u2026\n",
+            "Last Lines": "\n\u2026ffor whenne men trust in her than wol she failleAnd couer her\n                    bri\u021dt face vnder a cloude\n",
+            "Note": "\nVII. 1997, 2007-14 (the \u2018Adam Stanza\u2019), 2077, 2375-98, 2421,\n                    2442, 2515, 2574 omitted; spurious line follows 2330.",
+            "Attributed Title": "\n\u2026begynnyng of his / tale (f. 239v); Monk (RT); Here endith\n                    the monkes tale (f. 249)",
+            "folio": "ff. 238v-249"
+        },
+        "OxfTri49": {
+            "First Lines": "\nI wille bewaile in maner of Tregediethe harme of hem that stondith\n                    in hie degre\u2026\n",
+            "Last Lines": "\n\u2026ffor when men trustith hir than will she faileand cuver hir\n                    bright face with a cloude\n",
+            "Note": "\nVII.2725-6, 2363, 2421, 2775, 2537-9, 2603, 2638 omitted; 2127-34 and\n                    2135-42 reversed.",
+            "Attributed Title": "\nIncipit ffabula Monachi (f. 221); Monke (RT); Monachus (RT);\n                        Explicit ffabula monachi (f. 230v)",
+            "folio": "ff. 221-230v"
+        },
+        "CULDd424": {
+            "First Lines": "\nI wol bewayle in manere of tragediThe harm of hem \u00feat stoden\n                    in hey degree\u2026\n",
+            "Last Lines": "\n\u2026That hight Daunt for he can it al deuyseffro poynt to poynt\n                    nat oo word wil he faille\n",
+            "Note": "\nVII.2375-2462 (the \u2018Modern Instances\u2019) follow 2766; 2380\n                    left blank.",
+            "Attributed Title": "\n\u2026& bigynneth \u00fee Monkes tale \u00feat is titled de casibus\n                        virorum Illustrium Chaucer (f. 178v); Here endeth the Monkes\n                    Tale / de casibus virorum Illustrium (f. 187)",
+            "folio": "ff. 178v-187"
+        },
+        "CULGg427": {
+            "First Lines": "\nI Wole be wayle in manere of TragedieThe harm of hem that stood in\n                    hey degre\u2026\n",
+            "Last Lines": "\n\u2026And on a day by fel that in that hourWhan that his meete wont\n                    was to been brought\u2026\n",
+            "Note": "\nVII.2425-62 lost; VII.2375-2462 (the \u2018Modern Instances\u2019,\n                    missing 2425-62) follow 2766.",
+            "Attributed Title": "\nHere begynnyth the Monk his tale (f. 352, rubric)",
+            "folio": "ff. 352-362v"
+        },
+        "CULIi326": {
+            "First Lines": "\nI wil bewaile in manere of tragedieThe harme of hem that stonden in\n                    highe degre\u2026\n",
+            "Last Lines": "\n\u2026ffor when men trust in he then wil she faileAnd\n                    covere hir bright face with a clowde\n",
+            "Note": "\nVII.2187-270, 2569-70, 2589, 2758 omitted.",
+            "Attributed Title": "\n\u2026And next begynneth his tale / De casibus virorum illustrium\n                    (f. 203); Monke (RT); Here Endeth the monkes tale\u2026 (f. 211)",
+            "folio": "ff. 203-211"
+        },
+        "CULMm25": {
+            "First Lines": "\nI wol bewaille in maner of tregedrieThe harme of hem \u00feat\n                    standeth in hie degree\u2026\n",
+            "Last Lines": "\n\u2026ffor when men trusteth hire \u00fean wol sche faillAnd kouer\n                    hir bright face with a cloude\n",
+            "Note": "\nVII.2353-4, 2371 omitted; 2107-8 reversed.",
+            "Attributed Title": "\n\u2026Incipit ffabula / Here telleth the monke de casibus\n                        virorum illustrium (f. 68); The Monke (RT); Here endith \u00fee monkes\n                    tale (f. 76v); Explicit\u2026 (f. 77)",
+            "folio": "ff. 68-76v"
+        },
+        "CamFitzMc181": {
+            "First Lines": "\n[I] Wol bewayle in maner of TregedyeThe harme of hym that stondeth\n                    in hi\u021de degree\u2026\n",
+            "Last Lines": "\n\u2026ffor when men trysten hur \u00feen wol sche fayleAnd kever\n                    her bryght fase with a cloude\n",
+            "Note": "\nVII.2371, 2574 omitted; 2562-3 reversed; spurious line follows\n                    2339.",
+            "Attributed Title": "\nThe Tale of the Monke (f. 244); Here endeth \u00fee Monkes Tale (f.\n                        255v)",
+            "folio": "ff. 244-255v"
+        },
+        "CamTCC582": {
+            "First Lines": "\nI wil bewaile in maner of tragedieThe harme of hem that standeth in\n                    high degre\u2026\n",
+            "Last Lines": "\n\u2026ffor whan men trusten her than wol she faileAnd couer hir\n                    bri\u021dt face with a cloude\n",
+            "Note": "\nVII.2511-662 lost; 2205, 2253 omitted",
+            "Attributed Title": "\n\u2026And hiere beginneth his tale folwing (f. 99va); A tale\n                    finisshed of the monk\u2026 (f. 103va)",
+            "folio": "ff. 99va-103va"
+        },
+        "CamTCC595": {
+            "First Lines": "\nI wille bewayle on maner of tregedieThe harme of hem that stovden\n                    in hie degre\u2026\n",
+            "Last Lines": "\n\u2026ffor when men truste in hir than wol she failleAnd covir hir\n                    bright face vndir a cloude\n",
+            "Note": "\nVII.2007-14 (the \u2018Adam Stanza\u2019), 2259, 2375-98, 2421, 2515,\n                    2640 omitted; 2007-14 inserted in margin later; spurious line follows\n                    2058.",
+            "Attributed Title": "\n\u2026And begynneth the monkes tale (f. 248v); Here endeth the\n                    Monkes tale (f. 260v)",
+            "folio": "ff. 249-260v"
+        },
+        "CamTCC599": {
+            "First Lines": "\n[I] Wyll bewayle lin maner of tragedyThe harme of theym that\n                    stondyn in hygh degre\u2026\n[T]How noble Sampson whiche was annunciatBy the Aungell long or hys\n                    natyuyte\u2026\n",
+            "Last Lines": "\n\u2026Now art thow sathanas that mayst nat twynOut of mysery whyche\n                    thow art in fall\n\u2026ffor when men trust in hyr then woll she faylleAnd couer hyr\n                    bryght face vndyr a cloude\n",
+            "Note": "\nA conflation of extracts from Chaucer\u2019s Monk\u2019s Tale\n                    (copied from \n            Chaucer, Geoffrey, Canterbury Tales, [Westminster, William Caxton, 1476] ) and\n                    Lydgate\u2019s Fall of Princes (1904): see 6799 and 6367. From the Monk\u2019s Prologue, the\n                    extract includes VII.1968-90. According to Dixon (1995)\nXDixon,  Lori J. \n             \u201cThe Canterbury Tales Miscellanies: A Contextual Study of\n                Manuscripts Anthologizing Individual Canterbury Tales.\u201d \n         Diss. University of Delaware, 1995, pp. 392-6,\n                    the extracts are as follows: Monk\u2019s Tale, VII.1968-2006; Fall of\n                        Princes, I.470-966; I.967-1001; I.1380-6; I.1394-1400; I.1338-78;\n                    I.1520-33; I.3102-29; I.3788-94; I.3431-58; I.3522-35; I.3795-3801;\n                        Monk\u2019s Tale, VII.2015-2374; VII.2399-2766; Fall of\n                        Princes, I.1814-41; I.2150-70; I.3102-29; I.3816-43; I.4215-37;\n                    I.4240-2; I.4530-43; I.4544-50; I.4551-7; I.5524-30; I.5531-7; I.5538-51;\n                    I.6301-35; I.7050-70; II.778-805; II.512-623; II.1429-63; II.1863-76;\n                    II.1429-63; II.1884-95; II.2171-84; II.2192-8; II.2185-91; II.2199-2233;\n                    II.2521-7; II.2528-48; II.2934-61; II.3326-46; II.3536-56; II.3697-3731;\n                    II.3935-55; II.4222-63; II.4404-59; III.1569-1638; III.2164-70; III.2178-91;\n                    III.2199-2205; III.3683-3717; III.4019-32; III.4040-6; III.4033-9;\n                    III.4047-60.VII.2421, 2515 omitted in from extract.",
+            "Attributed Title": "\nExplicit Prohemyum (f. 170v); The tragedy of Sampson (f.\n                    179); Explicit (f. 188)",
+            "Facsimiles": "\n\nFletcher,  Bradford Y. \n             \u201cIntroduction.\u201d \n             Manuscript Trinity R.3.19. A Facsimile.\n         Norman, OK: Pilgrim, 1987. \n\nDigital Facsimile of Trinity College Cambridge MS R.3.19.\n         https://mss-cat.trin.cam.ac.uk/Manuscript/R.3.19. \n\n",
+            "folio": "ff. 170v;  179-188"
+        },
+        "BLAdd5140": {
+            "First Lines": "\nI wol bewreie in maner of TragedieThe harm of hem that stood in hih\n                    degre\u2026\n",
+            "Last Lines": "\n\u2026That hihte Daunt for he can it deviseffro poynt to poynt nat\n                    o worde wol he faile\n",
+            "Note": "\nVII.2733 omitted; 2375-2462 (the \u2018Modern Instances\u2019) follow\n                    2766; 2357-8 reversed.",
+            "Attributed Title": "\n\u2026Et incipit narracio eiusdem de eodem (f. 261v);\n                    Monke (RT); Explicit narracio Monachi\u2026 (f. 274)",
+            "folio": "ff. 262-274"
+        },
+        "BLAdd35286": {
+            "First Lines": "\nI wol biwaille in manere of tragedieThe harm of hem that stood in\n                    high degree\u2026\n",
+            "Last Lines": "\n\u2026That hight Dant for he kan alle deuyseffro point to point nat\n                    o word wol he faille\n",
+            "Note": "\nVII.2253, 2533 omitted; 2375-2462 (the \u2018Modern Instances\u2019)\n                    follow 2766.",
+            "Attributed Title": "\n\u2026Here bigynneth the monkes tale (f. 189v); the Monk (RT);\n                    Here endeth the Monkes tale\u2026 (f. 200v)",
+            "folio": "ff. 189v-200v"
+        },
+        "BLEge2726": {
+            "First Lines": "\nI Woll bewaile in manere of tragedieThe harme of hem \u00feat\n                    stonden in hie degree\u2026\n",
+            "Last Lines": "\n\u2026That hight Daunt for he can it all deviseffrom poynt to poynt\n                    nat oo word woll he faill\n",
+            "Note": "\nVII.2375-2462 (the \u2018Modern Instances\u2019) follow\n                    2766.",
+            "Attributed Title": "\n\u2026& Incipit fabula sua / De Casibus virorum Illustrium bonum\n                        est (f. 198v); Here endeth the Monkes tale de casibus\n                        virorum Illustrium\u2026 (f. 208v)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Cambridge MS. Dd.4.24 of Chaucer\u2019s Canterbury Tales,\n                Completed by the Egerton MS. 2726 (The Haistwell MS).\nThe Chaucer Society\n         1st Series, no. 95 (Part 1, issue for 1901) and 96 (Part 2, issue for\n            1902). \n",
+            "folio": "ff. 198v-208v"
+        },
+        "BLEge2863": {
+            "First Lines": "\n\u2026To laboure & to helle and to meschaunceLo sampsoun\n                    whiche was annunciate\u2026\n",
+            "Last Lines": "\n\u2026ffor when men trusteth hir \u00feen wole sche faileAnd kouere\n                    her bright face wi\u00fe a cloude\n",
+            "Note": "\nVII.1991-2013, 2548-623 lost; 2371, 2421 omitted.",
+            "Attributed Title": "\nThe Monk (RT); Here endith \u00fee monkes tale\u2026 (f.\n                    176v)",
+            "folio": "ff. 168-176v"
+        },
+        "BLEge2864": {
+            "First Lines": "\n[I] Wol bewrye in maneer of tragedieThe harme of hem that stood in\n                    hih degree\u2026\n",
+            "Last Lines": "\n\u2026That hihte Daunt for he can it deviseffro poynt to poynt nat\n                    o woord wol he faile\n",
+            "Note": "\nVII.2375-2462 (the \u2018Modern Instances\u2019) follow\n                    2766.",
+            "Attributed Title": "\n\u2026Incipit Narracio eiusdem (f. 213v); the Monke is\n                    tale (RT); Explicit Narracio Monachi de casibus virorum illustrium (f.\n                        224v)",
+            "folio": "ff. 214-224v"
+        },
+        "BLHar1758": {
+            "First Lines": "\n\nI Woll be waile in maner of trededyeThe harme of hym\n                    that stondeth in hye degre\u2026\n",
+            "Last Lines": "\n\u2026ffor whan men trusteth hir than woll sche faileAnd couyr hir\n                    bright face with a cloude\n",
+            "Note": "\nVII.2130, 2371, 2518, 2574 inserted in margin; spurious line follows\n                    2339.",
+            "Attributed Title": "\n\u2026and begynneth the tale (f. 184); The Monke (RT); Here endith the\n                    Monkes tale (f. 192)",
+            "folio": "ff. 184-192"
+        },
+        "BLHar7333": {
+            "First Lines": "\nI wolle bewayle in manere of tragedyeThe harme of him that stondith\n                    in hye degre\u2026\n",
+            "Last Lines": "\n\u2026\u00feat hight daunt for he can it Al deviseffrom point to\n                    point nat a worde wol he fayle\n",
+            "Note": "\nVII.2212, 2371 omitted.",
+            "Attributed Title": "\nHere styntith \u00fee kny\u021dt \u00fee monk of his tale (f.\n                        112ra, rubric)",
+            "folio": "ff. 108va-112ra"
+        },
+        "BLHar7334": {
+            "First Lines": "\nI Wol bywaile in maner of tregedyeThe harm of hem \u00feat stood in\n                    heigh degre\u2026\n",
+            "Last Lines": "\n\u2026ffor whan men trusteth hir than wil sche faileAnd couer hir\n                    brighte face with a clowde\n",
+            "Note": "\nVII.2023-30, 2174, 2246, 2366, 2653 omitted; 2174, 2366 inserted later\n                    in margin.",
+            "Attributed Title": "\nThe monkes Tale (RT); Here ende\u00fe \u00fee monk his tale (f.\n                    237)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Harleian MS 7334 of Chaucer\u2019s \u2018Canterbury\n                Tales\u2019.\nChaucer Society\n         73. London: Tr\u00fcbner, 1885. \n",
+            "folio": "ff. 227-237"
+        },
+        "BLLan851": {
+            "First Lines": "\nI wil beweile in maner of tregedrie\u00fee maner of him \u00feat\n                    stande\u00fe in hihe degre\u2026\n",
+            "Last Lines": "\n\u2026ffor whan men truste\u00fe hir \u00fean wil sche faileAnd\n                    couere hir briht face wi\u00fe a cloude\n",
+            "Note": "\nVII.1997, 2421, 2574 omitted.",
+            "Attributed Title": "\n\u2026Incipit fabula de Casibus virorum (f. 207v);\n                    \u00fee Monke (RT); Explicit fabula\u2026 (f. 217)",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Lansdowne Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 7, 13, 20, 36, 43, 55, 69. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 207v-217"
+        },
+        "BLRoy17Dxv": {
+            "First Lines": "\nI wil bewaile in maner of tragedieThe harme of hym that stondith in\n                    hye degre\u2026\n",
+            "Last Lines": "\n\u2026ffor whan men trusten hir than wol she faileAnd couere hir\n                    bright fase with a derk clowde\n",
+            "Note": "\nVII.2110, 2341 omitted; spurious line follows 2339.",
+            "Attributed Title": "\n\u2026And begynnyth the tale / of the monke (f. 262v, margin);\n                    Here endith the tale / of \u00fee monke\u2026 (f. 273v,\n                    margin)",
+            "folio": "ff. 262v-273v"
+        },
+        "BLRoy18Cii": {
+            "First Lines": "\n[I] Wole bewayle in manere of tragedieThe harm of hem \u00feat\n                    stonden in hye degre\u2026\n",
+            "Last Lines": "\n\u2026ffor when men trusteth hir \u00feenne wole sche faileAnd\n                    kouere her bright face with a cloude\n",
+            "Note": "\nVII.2371, 2421 omitted.",
+            "Attributed Title": "\n\u2026And begynne\u00fe the tale (f. 216v); The Monke\n                    (RT)",
+            "folio": "ff. 216v-226"
+        },
+        "BLSl1685": {
+            "First Lines": "\nI wylle bewaile in manere of TregredyeThe harme of hym \u00feat\n                    stondeth in hye degre\u2026\n",
+            "Last Lines": "\n\u2026ffor whan men trusteth here \u00fean wolle she fayleAnd\n                    covere hir bry\u021dt face with a cloude\n",
+            "Note": "\nVII.2073, 2130, 2169, 2371, 2437-8, 2505-6, 2574 omitted; 2043 inserted\n                    at foot; spurious line follows 2369.",
+            "Attributed Title": "\n\u2026and begynneth \u00fee tale (f. 203); The Monke (RT); Here endeth\n                    \u00fee tale of \u00fee Monke\u2026 (f. 213v)",
+            "folio": "ff. 203-213v"
+        },
+        "BLSl1686": {
+            "First Lines": "\nI will bewaile in maner of treiedrieThe harme of hem that stondith\n                    in high degre\u2026\n",
+            "Last Lines": "\n\u2026ffor whan men trusteth here then wulle she faileAnd\n                        ouer\ncouer hir bright face with A clowde\n",
+            "Note": "\nVII.1997, 2421, 2574, 2598 omitted; 2007-14 blank (the \u2018Adam\n                    Stanza\u2019).",
+            "Attributed Title": "\n\u2026And here begynneth his tale folowyng (f. 269); [A] Tale of the Monke\n                    (RT); Here endithe the tale of the Monke\u2026 (f. 281)",
+            "folio": "ff. 269-280v"
+        },
+        "NLWPen392": {
+            "First Lines": "\nI Wol biwaille in manere of TragedieThe harm of hem that stoode in\n                    heigh degree\u2026\n",
+            "Last Lines": "\n\u2026That highte Dant for he kan al deuyseffro point to point nat\n                    o word wol he faille\n",
+            "Note": "\nThis section of the MS is likely disordered in the binding. VII.2533\n                    omitted; 2007-14 (the \u2018Adam Stanza\u2019) inserted later by a different\n                    hand; 2375-2462 (the \u2018Modern Instances\u2019) follow 2766.",
+            "Attributed Title": "\nHere bigynneth the Monkes tale (f. 89); The Monkes tale (RT); Here is ended\n                    the Monkes tale (f. 98v, foot)",
+            "Facsimiles": "\n\nRuggiers,  Paul G.,\n                        ed.  \n             The Canterbury Tales. Geoffrey Chaucer. A Facsimile of the Hengwrt\n                Manuscript, with Variants from the Ellesmere Manuscript.\n         Norman, OK: University of Oklahoma, and Folkestone: Wm. Dawson,\n            1979. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Hengwrt Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 3, 9, 27, 39, 51, 71. London: Tr\u00fcbner,\n            1868-79. \nBlake,  Norman F.,\n                        ed.  \n             The Canterbury Tales. Edited from the Hengwrt Manuscript.\nYork Medieval Texts, second series.\n         London: Edward Arnold, 1980. \nStubbs,  Estelle,\n                        ed.  \n             The Hengwrt Chaucer Digital Facsimile (CD-ROM).\n         Leicester, England: Scholarly Digital Editions, 2000. \n\n",
+            "folio": "ff. 89-98v"
+        },
+        "Alnwick455": {
+            "First Lines": "\nI woll bewayll in manere of tregedyThe harm of hym \u00feat\n                    stondith in hi\u021de degre\u2026\n",
+            "Last Lines": "\n\u2026ffor when men trustith her \u00feen woll she fayllAnd covir\n                    hir bry\u021dt fase with a clowde\n",
+            "Note": "\nVII.2130, 2169, 2192, 2371, 2574, 2107, 2709-10 omitted; spurious lines\n                    follow 2074, 2339",
+            "Attributed Title": "\n\u2026and here begynnyth his tale (f. 262v); Here endith the\n                    Monke his tale\u2026 (f. 273)",
+            "folio": "f. 262v-273"
+        },
+        "GULHun197": {
+            "First Lines": "\nI Wolle bywale in manere of tregedryeThe harme of hem \u00feat\n                    stonde in high degree\u2026\n",
+            "Last Lines": "\n\u2026ffor when men trosten hir \u00fean wole she fayleAnd couere\n                    hir bright face with a cloude\n",
+            "Note": "\nVII.2353-4, 2371, 240-1, 2528-35, 2623-30 omitted; 2107-8 reversed; 2297\n                    inserted in margin.",
+            "Attributed Title": "\nHere begynneth the tale of the Munke / De Casibus virorum illustrium\n                    (f. 29vb); The Munkes tale (RT); Now endeth the tale of \u00fee\n                    monke\u2026 (f. 34ra)",
+            "folio": "ff. 29vb-34ra"
+        },
+        "Lichfield29": {
+            "First Lines": "\nI wil beweille in manere of tregedieThe harme of hem \u00feat\n                    stonden in high degre\u2026\n",
+            "Last Lines": "\n\u2026ffor whan men trusten hure than wil she failleAnd keuer her\n                    bright face with a cloude\u2026\n",
+            "Note": "\nVII.1997, 2533 omitted.",
+            "Attributed Title": "\nHere endeth Chaucers his tale of Melibe / And here bygynneth The prologe of\n                    the / Monke his tale (f. 230); The monke (RT); here eendeth the monke his\n                    tale\u2026 (f. 241)",
+            "folio": "ff. 230v-241"
+        },
+        "Lincoln110": {
+            "First Lines": "\nI Wol beweylle in manere of tregedie\u00fee harm of hem \u00feat\n                    stonde in hi\u021de degre\u2026\n",
+            "Last Lines": "\n\u2026\u00feat hi\u021dt Daunt for he can it al deuyseffro poynt to\n                    poynt not a word wol he fayle\n",
+            "Note": "\nVII.2533 omitted.",
+            "Attributed Title": "\n\u2026and bigynny\u00fe the monkis / tale \u00feat is titled de casibus\n                        virorum illustrium chaucer (f. 221v); The Monk (RT); Here\n                    eendi\u00fe \u00fee monkis tale de casibus / virorum illustrium\u2026\n                    (f. 231v)",
+            "folio": "f. 221v-231v"
+        },
+        "LonPhys388": {
+            "First Lines": "\nI wil bewaile in manere of TragedieThe harm of theym that stoode in\n                    hie degre\u2026\n",
+            "Last Lines": "\n\u2026That hight Daunt for he can al deviseffro point to point a\n                    word wil he nat faile\n",
+            "Note": "\nVII.2375-2462 (the \u2018Modern Instances\u2019) follow 2766; 2185,\n                    2363-70, 2533 omitted; 2323 follows 2326.",
+            "Attributed Title": "\n\u2026Incipit ffabula (f. 288); Explict fabula\n                    Monachi\u2026 (f. 300v)",
+            "folio": "ff. 288-300v"
+        },
+        "RylandsEng113": {
+            "First Lines": "\n[I] woll bewaile in maner of tragedie\u00fee harm of hem \u00feat\n                    stonden in high degre\u2026\n",
+            "Last Lines": "\n\u2026\u00feat hight daunt for he can it all deuyseffro poynt to\n                    poynt not oo word wol he faile\n",
+            "Note": "\nVII.2375-2462 (the \u2018Modern Instances\u2019) follow\n                    2766.",
+            "Attributed Title": "\n\u2026And begynnyth / the monkis tale (f. 140v); ffabula\n                        monachi (f. 140v, margin); Monk (RT); Here endith \u00fee\n                    monkis tale de casibus virorum / illustrium\u2026 (f. 147)",
+            "folio": "ff. 140v-147"
+        },
+        "Petworth7": {
+            "First Lines": "\nI wol bywaile in manere of tregedie\u00fee harme of hem \u00feat\n                    stonden in hie degre\u2026\n",
+            "Last Lines": "\n\u2026ffor whan men trusten hir \u00fean wil she faileAnd keuere\n                    her bri\u021dt face wi\u00fe a cloude\n",
+            "Note": "\nVII.2057, 2371, 2574 omitted.",
+            "Attributed Title": "\n\u2026And here bygynne\u00fe \u00fee monkes tale (f. 247v);\n                    \u00fee tale (f. 247v, margin); The Monke (RT); Thus ende\u00fee\n                    monke his tale\u2026 (f. 258)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             The Petworth MS of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 6, 12, 19, 35, 42, 54, 68. London: Tr\u00fcbner,\n            1868-79. \nFurnivall,  Frederick James,\n                        ed.  \n             Autotype Specimens of the Chief Chaucer MSS, Part II.\nChaucer Society\n         Series 1, no. 56. London: Tr\u00fcbner, 1876. \n\n",
+            "folio": "ff. 247v-258"
+        },
+        "Austin143": {
+            "First Lines": "\nI woll be waylle in manner of TragedyeThe harme of hem that\n                    stondith in high degre\u2026\n",
+            "Last Lines": "\n\u2026That hight davnte ffor he can hyt well devyseffro poynte to\n                    poynte not oo word wull he faylle\n",
+            "Note": "\nVII.2375-2462 (the \u2018Modern Instances\u2019) follow 2766; 2268-9\n                    inserted in margin.",
+            "Attributed Title": "\n\u2026and be gynnyth the monkys tale (f. 176v); [H]Ere endyth\n                    the monkys talle De casibus virorum illustrium\u2026 (f. 186)",
+            "folio": "ff. 176v-186"
+        },
+        "ChicagoUL564": {
+            "First Lines": "\nI wylle beweyle in manere of tregedie\u00fee harme of hem \u00feat\n                    standeth in heye degre\u2026\n",
+            "Last Lines": "\n\u2026ffor when men tristeth here \u00feenne wyl she fayleAnd keuer\n                    her bryht face with a cloude\n",
+            "Note": "\nVII.2007-14 (the \u2018Adam Stanza\u2019) left blank; 2205, 2307\n                    omitted; spurious line follows 2172.",
+            "folio": "ff. 107-120v"
+        },
+        "PierpontM249": {
+            "First Lines": "\nI wil beweille in maner of TregedieThe harme of hem that stonden in\n                    high degre\u2026\n",
+            "Last Lines": "\n\u2026ffor whan men trusten hure than wil she failleAnd keuer her\n                    bright face with a cloude\n",
+            "Note": "\nVI.1997 omitted.",
+            "Attributed Title": "\nHere endeth Chaucers his tale of Meeliby / And here bygynneth the prolog of\n                    the Monke his tale (f. 219; what follows is the Tale, not the\n                        Prologue); The prologe (RT); The Monke (RT); Here endeth the Monkes\n                    tale\u2026 (f. 230)",
+            "folio": "ff. 219-230"
+        },
+        "PhilRos10841": {
+            "First Lines": "\nI wole bewayle in maneer of tregedye\u00dee harm of hem \u00feat\n                    stondeth in heeygh degre\u2026\n",
+            "Last Lines": "\n\u2026ffor whanne men trusteth hire thanne wole sche fayleAnd\n                    keueren hire bryght face with a cloude\n",
+            "Note": "\nVII.2371, 2574 omitted.",
+            "Attributed Title": "\n\u2026and / here begynneth the / Monkys tale (f. 24v); The\n                    Monkys Tale (RT); Here endyth the Monkys tale\u2026 (f.\n                    34v)",
+            "folio": "f. 24v-34v"
+        },
+        "PUL100": {
+            "First Lines": "\nI wol bewaile in manere of tragedyThe harm of hem that sonden in hy\n                    degre\u2026\n",
+            "Last Lines": "\n\u2026ffor when men trust in here than wol she faileAnd kyvir hir\n                    bright fase with a clowd\n",
+            "Note": "\nVII.1997, 2007-14 (the \u2018Adam Stanza\u2019), 2077, 2353-5,\n                    2375-98, 2421, 2442, 2515, 2574, 2680-1, 2720 omitted.",
+            "Attributed Title": "\n\u2026And here begynnyth the tale (f. 181v, rubric); Monkes\n                    tale (RT, rubric); Monk (RT); Here endith the Monke his tale\u2026 (f. 191,\n                    rubric)",
+            "folio": "ff. 182-191"
+        },
+        "HunEL26C9": {
+            "First Lines": "\nI wol bewaille in manere of TragedieThe harm of hem that stoode in\n                    heigh degree\u2026\n",
+            "Last Lines": "\n\u2026That highte dant for he kan al deuyseffro point to point nat\n                    o word wol he faille\n",
+            "Note": "\nVII.2375-2462 (the \u2018Modern Instances\u2019) follow 2766; 2533\n                    omitted.",
+            "Attributed Title": "\n\u2026Heere bigynneth the Monkes tale de casibus virorum Illustrium\n                    (f. 169); Monk (RT); Explicit Tragedia\u2026 (f. 178)",
+            "Facsimiles": "\n\n\nThe Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Preface by Alix Egerton. Manchester: Manchester University\n            Press, 1911. \nHanna,  Ralph,\n                        ed.  \n             The Ellesmere Chaucer Reproduced in Facsimile.\n         2 vols. Manchester: Manchester UP, 1911. Preface by \n                Alix\n                Egerton\n             repr. as  The Ellesmere Manuscript of Chaucer\u2019s\n                Canterbury Tales: A Working Facsimile. Intro. Hanna; Cambridge: D. S.\n            Brewer, 1989. \nWoodward,  Daniel,  and  Martin Stevens, eds.  \n             The New Ellesmere Chaucer Facsimile (Huntington MS EL 26 C 9).\n         Tokyo: Yushodo, and San Marino, CA: Huntington Library, 1995: Now available in part online: http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=El+26+C+9.\n\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             The Ellesmere Manuscript of Chaucer\u2019s Canterbury Tales.\nChaucer Society\n         Series 1, nos. 2, 8, 16, 26, 32, 38, 50, 70. London: Tr\u00fcbner,\n            1868-79. \n",
+            "folio": "ff. 169-178"
+        },
+        "HunHM144": {
+            "First Lines": "\nI wil biwaile in maner of de tragedeThe harme of hem\n                    \u00feat stond in heigh degre\u2026\n",
+            "Last Lines": "\n\u2026ffor when men trustith her than wyl she fayleAnd couer her\n                    bright face with a cloude\n",
+            "Note": "\nVII.2023-30, 2174, 2246, 2366, 2653 omitted.",
+            "Attributed Title": "\nThey that this present & forseyde tale / haue or shal Reede Remembyr\n                    the no / ble prouerbis that rebukyth Couetise and Vengeaunce takyng in truste of\n                    / ffortune whiche hathe causyd many / a noble Prince to falle as we may rede /\n                    of them here folluyng (f. 99v, following the extracted\n                    Meilbee); The Falle Of Princis (RT)",
+            "Facsimiles": "\n\nDigital\n                    Scriptorium: Huntington Library MS HM 144.\n         Columbia University, 1996-. \n",
+            "folio": "ff. 100-110v"
+        },
+        "BNangl39": {
+            "First Lines": "\nI wil bewaylen in maner of tregedyethe harme of hem that stood in\n                    hy degree\u2026\n",
+            "Last Lines": "\n\u2026but to his wyfe toild he his secreethurgh which he slough\n                    hymself in wrechidnesse\n",
+            "Note": "\nVII.2023-766 omitted.",
+            "Attributed Title": "\nHic incpit fabula Monachi (f. 73va); Non plus de ista\n                        fabula quia est valde dolorosa\u2026 (f. 73va)",
+            "folio": "f. 73va1"
+        },
+        "TokyoTak24": {
+            "First Lines": "\nI wol bewaile in maner of TragedieThe harme of hem that stonden in\n                    high degre\u2026\n",
+            "Last Lines": "\n\u2026That hi\u021dt Daunt for he can it wel deuiseffrom point to\n                    point nat oo word wol he faill\n",
+            "Note": "\nVII.2375-2462 (the \u2018Modern Instances\u2019) follow 2766; 2213,\n                    2606 omitted",
+            "Attributed Title": "\n\u2026Et incipit fabula sua de casibus / virorum illustrium (f.\n                    194); Monkes tale (RT); Hiere endith the Monkes tale\u2026 (f. 205)",
+            "folio": "ff. 194v-205"
+        },
+        "TokyoTak32": {
+            "First Lines": "\nI wole by wayle in thee manere of tregedyeThee harme of hym that\n                    standyht in hey degre\u2026\n",
+            "Last Lines": "\n\u2026Withinne his presone hee made thee to deyeBut why no how note\n                    I that thow were slawe\n",
+            "Note": "\nVII.2407-766 omitted (eight lines left blank following 2406); spurious\n                    line follows 2369.",
+            "Attributed Title": "\nHere bee gynnyht thee tale (f. 122ra); Thee Mvnkis tale\n                    (RT)",
+            "folio": "ff. 122ra-127vb"
+        },
+        "Bodmer48": {
+            "First Lines": "\nI wil bewail in maner of Tregedye\u00fee harm of hem \u00feat stode\n                    in hye degre\u2026\n",
+            "Last Lines": "\n\u2026for when men trust hir \u00feen wil she failAnd couer hir\n                    bright face with a cloude\n",
+            "Note": "\nVII.2130 omitted; spurious line follows 2369.",
+            "Attributed Title": "\nThe Tale of the Monk (f. 190, rubric)",
+            "Facsimiles": "\n \n             \u201cDigital\n                    Facsimile of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48\u201d \n         . \n",
+            "folio": "ff. 190-202"
+        }
+    }
+}

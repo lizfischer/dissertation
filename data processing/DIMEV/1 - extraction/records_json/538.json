@@ -1,0 +1,64 @@
+{
+    "_id": 538,
+    "_header": "And so may men ken",
+    "Author(s)": "Peter Langtoft",
+    "Title(s)": "Chronicle",
+    "Subjects": "Scots, songs against; political poems",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "Bibliographic Ghosts": "Lincoln, Lincoln Cathedral Library: a ghost?: deleted by Robbins and Cutler (1965)\nXRossell Hope Robbins, and John L. Cutler. Supplement to the Index of Middle English Verse. Lexington, Kentucky: University of Kentucky Press, 1965; London, College of Arms, Arundel 14: not found in this copy of Peter Langtoft\u2019s Chronicle (ff. 133-147); London, Lambeth Palace Library 131: not in this MS.",
+    "_description": "Song against the Scots inserted in Peter Langtoft\u2019s Chronicle \u2014 5 Anglo-Norman and 2 Middle English stanzas; and in Robert Manning of Brunne \u2014 7 variant stanzas",
+    "_witnesses": {
+        "BodFair24": {
+            "Note": "\nInserted in Peter Langtoft\u2019s Chronicle.",
+            "folio": ""
+        },
+        "CULGg11": {
+            "First Lines": "\nAnd swa mai man kenne\u00fee scottes to tenneAnd wer\n                    biginne\u2026\n",
+            "Last Lines": "\n\u2026\u00fee baghel and \u00fee belleben filched and\n                    fled\n",
+            "Note": "\nInserted in Peter Langtoft\u2019s Chronicle, after French verse\n                    likewise inserted.",
+            "Editions": "\nWright,  Thomas,\n                        ed.  \n             The Political Songs of England.\nCamden Society\n         o.s. 6 (1839): 307.\n",
+            "folio": "f. 343v"
+        },
+        "BLCottJulAV": {
+            "First Lines": "\nAnd swa many men kenne\u00dee scottes to renne\u2026\n",
+            "Last Lines": "\n\u2026\u00deair baghel and \u00feair belleBen filched and\n                    flede\n",
+            "Note": "\nInserted in Peter Langtoft\u2019s Chronicle.",
+            "Editions": "\nWright,  Thomas,\n                        ed.  \n             The Chronicle of Pierre de Langtoft, in French Verse, from the Earliest\n                Period to the Death of King Edward I.\n             2 vols. \n             Rolls Series\n         47 (1866-68): (ii) 264.\n",
+            "folio": "f. 150"
+        },
+        "BLHar114": {
+            "First Lines": "\nAnd swa may man kenne\u00dee scottes to renneAnd were bi\n                    ginne\u2026\n",
+            "Last Lines": "\n\u2026\u00deat baghel and \u00fee belleBen filched and\n                    fledde\n",
+            "Note": "\nInserted in Peter Langtoft\u2019s Chronicle. Twelve lines in two\n                    stanzas rhyming roughly aabccb, every third line written to right of the\n                    preceding couplet.",
+            "Editions": "\nWilson,  Richard Middlewood. \n             The Lost Literature of Medieval England.\n         London: Methuen, 1952: 211.\n",
+            "folio": "ff. 138v-139"
+        },
+        "BLRoy20Aii": {
+            "First Lines": "\nAnd swa may man ken\u00dee scottes to renne\u2026\n",
+            "Last Lines": "\n\u2026\u00deat baghel and belleBien fliched and fledde\n",
+            "Note": "\nInserted in Peter Langtoft\u2019s Chronicle.",
+            "folio": "f. 128v"
+        },
+        "BLRoy20Axi": {
+            "Transcription": "\nAnd swa may men kenne . \u00fee scottes to renne . And were\n                    biginne\u00dee kinges sete of scone . is driuen ouer done . to london I\n                    ledIn toune I herde telle . \u00feat baghel and belle . bien filched and\n                    fled\n",
+            "Note": "\nSeveral verse lines per manuscript line. Inserted in Peter\n                    Langtoft\u2019s Chronicle.",
+            "folio": "f. 110v"
+        },
+        "CollArmsAr61": {
+            "Transcription": "\nAnd swa may men kene\u00dee scottes to renneAnd were\n                    begynneSumme is left na thingBot his ryuen riuelingTo hippe\n                    \u00fearinne\u00deair kyng sete of sconeEs dryuen ouer DoneTo\n                    Lunden ileddeIn toune herd i telle\u00deat baghel and \u00fee\n                    belleBeen filched and fledde\n",
+            "Note": "\nInserted in Peter Langtoft\u2019s Chronicle. Written in\n                    three-line stanzas, with a rhyming couplet and offset tail rhyme.",
+            "folio": "f. 132"
+        },
+        "InnerTem5117": {
+            "Transcription": "\nhe sall \u00fee ken our lond to bren & werre bigynne\u00feou\n                    getes no \u00feing bot \u00fei riueluyng to hang \u00feerInne\u00fee sete\n                    of \u00fee scone is driuen ouer done to london ladI hard wele tell \u00fee\n                    bagell & bell be filchid & fled\n",
+            "Note": "\nInserted in Robert Mannyng of Brunne (See 3253). This text may extend further than the\n                    transcribed portion. The scribe indicates these interpolations with vertical red\n                    lines dividing the \u2018Couwe\u2019 passages into three verse lines. The\n                    mark-up here extends through 5169.",
+            "Attributed Author": "\nCouwe (f. 177, rubric, in margin)",
+            "Editions": "\n\nHearne,  Thomas,\n                        ed.  \n             Peter Langtoft\u2019s Chronicle, and Robert Mannyng of Brunne\u2019s\n                Metrical Chronicle.\n         Oxford: at the Theatre, 1725; repr. 1810: 282 (ed. 1810).\nSullens,  Idelle,\n                        ed.  \n             Robert Mannyng of Brunne: The Chronicle.\n         Binghamton, NY: Medieval & Renaissance Texts & Studies, 1996: 656.\n\n",
+            "folio": "f. 177r2"
+        },
+        "BNfr12154": {
+            "Note": "\nInserted in Peter Langtoft\u2019s Chronicle.",
+            "folio": ""
+        }
+    }
+}

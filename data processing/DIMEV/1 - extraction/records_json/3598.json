@@ -1,0 +1,25 @@
+{
+    "_id": 3598,
+    "_header": "My folk now answer me",
+    "Note": "See Lawley (1880)\nXLawley, Stephen Willoughby. Breviarum ad usum insignis ecclesiae Eboracensis. Vol. 1. Surtees Society 71 (1880), col. 334.",
+    "Title(s)": "\u2018Popule meus quid feci tibi\u2019",
+    "Subjects": "Christ, appeal of, to man",
+    "Versification": "\u2014 four-line \u2014 abab",
+    "_description": "\u2018Popule meus quid feci tibi\u2019 \u2014 eleven quatrains (abab)",
+    "_witnesses": {
+        "CamJes13": {
+            "First Lines": "\nMy folk now ansuere me qwat haue I to the gyltqwat my\u021dth I\n                    more a doon for te \u00fean I haue ful fylt\u2026\n",
+            "Last Lines": "\n\u2026bysylyche I \u021daf the ly\u021dth bothe be day &\n                    ny\u021dthfor thys \u00fea hast me doon to deth al \u021dens the\n                    ry\u021dth\n",
+            "Note": "\nTen quatrains.",
+            "folio": "Part III, ff. 85-86v"
+        },
+        "NLS18721": {
+            "First Lines": "\nMi folk nou ansuere mean se\u00fe wat is my\n                    gilth\u2026\n",
+            "Last Lines": "\n\u2026& on an hey hil \u00feu henge meal \u00fee werld on me to\n                    wonder\n",
+            "Note": "\nNine stanzas in John Grimestone\u2019s sermon notebook.",
+            "Attributed Title": "\nArma Christi (f. 120v); De Passione  f.\n                    125)",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 88-9.\nDavies,  Reginald Thorne. \n             Medieval English Lyrics: a critical anthology.\n         London, 1963; Evanston, IL: Northwestern UP, 1964: 125-6.\nLuria,  Maxwell Sidney,  and  Richard L. Hoffman, eds.  \n             Middle English Lyrics.\n         New York: Norton, 1974: 213.\n\n",
+            "folio": "f. 125"
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "_id": 2156,
+    "_header": "I counsel whatsoever thou be",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "\u2018Consulo quisque eris\u2019",
+    "Subjects": "advice, moral",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, \u2018Consulo quisque eris\u2019 \u2014 fifteen 8-line stanzas",
+    "_witnesses": {
+        "BodArcSelB10": {
+            "First Lines": "\nI Counsayll what so euyr thou beOf polycye foresyght and\n                    prudence\u2026\n",
+            "Last Lines": "\n\u2026Bytwene vyce and vertue to sett a dyfferenceTo his pleasaunce\n                    to vttre oure language\n",
+            "Attributed Title": "\n\u2018Consulo quisquis eris qui pacis sedera queris / Consonus\n                        esto lupis cum quibus esse cupis\u2019 (f. 205)",
+            "folio": "ff. 205-206v"
+        },
+        "BodAsh59": {
+            "First Lines": "\nCOvnuseyllier where \u00feat ever \u00feou beOf plolicye for sight\n                    and prudenceIf \u00feou wolt lyve in peese and vnyteeConfidde \u00fey\n                    self and thenke on \u00feis sentence\u2026\n",
+            "Last Lines": "\n\u2026Twene vyce and vertue to sette a differenceTo his plesaunce\n                    so graunte oure pilgrimage\n",
+            "Note": "\n14 stanzas (stanza 6 is missing).",
+            "Attributed Author": "\nmade by \u00fee Munke of Bury cleped Johan Lidegate (f.\n                    29v)",
+            "Attributed Title": "\nHere folowe\u00fee a poetycal balade of wysdame made by \u00fee Munke of\n                    Bury cleped Johan Lidegate (f. 29v)",
+            "folio": "ff. 29v-31v"
+        },
+        "CULHh412": {
+            "First Lines": "\nI Counsell what so euer thow beOff polycye forsight and\n                    prudence\u2026\n",
+            "Last Lines": "\n\u2026Twene vice and vertu to set a differenceTo hys plesaunce to\n                    vttyr owre langage\n",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Political, Religious and Love Poems, from Lambeth MS. 306 and other\n                sources.\nEETS\n         o.s. 15 (1866); repr. 1962; rev. ed. 1903: 46-55.\n",
+            "folio": "ff. 85-86v"
+        },
+        "CamJes56": {
+            "First Lines": "\n[I] Counsail what so euere \u00feu beOf policye for sight and\n                    prudene\u2026\n",
+            "Last Lines": "\n\u2026Twene vice and vertu to set a differenceTo his plesaunce to\n                    vttir his language\n",
+            "Attributed Title": "\nConsulo quisque eris qui pacis federa queris / Conlonus esto lupis cum\n                        quibus esse cupis (f. 22v)",
+            "folio": "ff. 22v-25"
+        },
+        "CamTCC601": {
+            "First Lines": "\nI counseyle the what so euer thow beOf Polycy for syght &\n                    prudence\u2026\n",
+            "Last Lines": "\n\u2026Twene vyces and vertu to set a dyfferenceTo hys plesuance and\n                    vtter hys langage\n",
+            "Note": "\nFifteen stanzas, including 8-stanza \u2018Verba\n                    translatoris\u2019 all with the same last word, \u2018langage.\u2019\n                    Latin couplet, \u2018Concilio quisquis egis quis pacis\u2026\u2019\n                    added by a later hand to top margin, f. 296v.",
+            "folio": "ff. 296v-298"
+        },
+        "BLHar2251": {
+            "First Lines": "\nI counceile what so euer thow beOf pollicye foresight and\n                    prudence\u2026\n",
+            "Last Lines": "\n\u2026Atwene vice and vertu to set a differenceTo his plesaunce to\n                    vtter his langage\n",
+            "Attributed Title": "\nConcilio quisque eris qui pacis fidem queris / Consonus esto lupis cum\n                        quibus esse cupis (f. 11v)",
+            "folio": "ff. 11v-13"
+        },
+        "BLHar2255": {
+            "First Lines": "\nI Conseyl what so euyr thou beOff policye forsight and\n                    prudence\u2026\n",
+            "Last Lines": "\n\u2026Tween vice and vertu to sette a differenceTo his plesaunce to\n                    vttren our language Explicit\n",
+            "Attributed Title": "\nConsulo quisque eris qui pacis federa queris / Consonus esto lupis cum\n                        quibus esse cupis (in rubric, f. 1)",
+            "Editions": "\n\nFurnivall,  Frederick James,\n                        ed.  \n             Political, Religious and Love Poems, from Lambeth MS. 306 and other\n                sources.\nEETS\n         o.s. 15 (1866); repr. 1962; rev. ed. 1903: 46-55.\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             A Selection from the Minor Poems of Don John Lydgate.\nPercy Society\n         2. London: T. Richard, 1840: 173-8.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 750-4.\n\n",
+            "folio": "ff. 1-3"
+        },
+        "BLAdd34360": {
+            "First Lines": "\nI counceile what so uer thow beOf policye forsight and\n                    prudence\u2026\n",
+            "Last Lines": "\n\u2026Atwene vice & vertu to set a differenceto his\n                    plesaunce to vtter his langage\n",
+            "Attributed Title": "\nConcilio quisquis eris qui pacis fidem queris / Consonus esto lupis cum\n                        quibus esse cupis (f. 70v)",
+            "folio": "ff. 70v-72v"
+        },
+        "VandADyce34": {
+            "folio": ""
+        }
+    }
+}

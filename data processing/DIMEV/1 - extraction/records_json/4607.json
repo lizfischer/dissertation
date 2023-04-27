@@ -1,0 +1,27 @@
+{
+    "_id": 4607,
+    "_header": "Saint Gregory sayeth it was a clerk",
+    "Note": "For other MSS see 1843.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "monks; dragons",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Dying Monk sees Dragon: a Narratio in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodSelSup52": {
+            "First Lines": "\nsant gregor says yt was a clerke\u00feat lest \u00fee fend &\n                    all hys werke\u2026\n",
+            "Last Lines": "\n\u2026& graunt vs at our last endyng\u00fee blys of heuyn\n                    \u00feer he ys kyng\n",
+            "folio": "ff. 229v-231"
+        },
+        "CULDd11": {
+            "First Lines": "\nSEynt Gregori seyth it was a clerk\u00feat lefte \u00fee ferd &\n                    al his werk\u2026\n",
+            "Last Lines": "\n\u2026& graunt vs at oure last ending\u00fee blis of heuene\n                    \u00feer he is king\n",
+            "folio": "ff. 190v-192"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nSeynt Gregore sais it was a clerk\u00deat lefte \u00fee fonde &\n                    al his werk\u2026\n",
+            "Last Lines": "\n\u2026And graunte vs at oure last endyng\u00dee blisse of heuene\n                    \u00feere he es kyng\n",
+            "Attributed Title": "\nNarracio qualiter acus habebat ff[ ] et gracia dey re[ ]uit eum de [ ]\n                        operibus (added to right margin by contemporary hand, p. 301)",
+            "folio": "pp. 301-306"
+        }
+    }
+}

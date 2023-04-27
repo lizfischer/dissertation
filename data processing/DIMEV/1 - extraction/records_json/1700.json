@@ -1,0 +1,15 @@
+{
+    "_id": 1700,
+    "_header": "Hail blessed Mary",
+    "Note": "The first two stanzas are nearly completely lost, and of the other lines only the ends remain. Nearly all the stanzas begin with the phrase \u2018Heyll blessid Marie\u2019.",
+    "Subjects": "hymns, to Virgin Mary; Virgin Mary, hymns to",
+    "Versification": "\u2014 eight-line",
+    "_description": "Fragment of a hymn to the Virgin Mary, (?on the Five Joys), in twelve 8-line stanzas; in the school of Lydgate",
+    "_witnesses": {
+        "OxfStJohn56": {
+            "Transcription": "\n\u2026meke and mylde[ ]abriell the tolde[ ]ne and be with\n                    chylde[ ] \u00feat ys oure lord ryght bold[ ]e borne[\n                    ]nygnyte[ ] beforne[ ] duplycite[ ]plycite[ ]\n                    vsage\u2026\n",
+            "Editions": "\nHanna,  Ralph,\n                        ed.  \n             A Descriptive Catalogue of the Western Manuscripts of St John\u2019s\n                College Oxford.\n         Oxford: Oxford University Press, 2002: 75.\n",
+            "folio": "ff. 84v-85v"
+        }
+    }
+}

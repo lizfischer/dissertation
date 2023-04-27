@@ -1,0 +1,34 @@
+{
+    "_id": 2800,
+    "_header": "Jesu Christ all this worlds read",
+    "Note": "For another MS. which prefixes six introductory lines see 3383; for extracts from the Proverbs of Hendyng occurring separately see 973, 2395, 2400, 4475, and 6629; and cf. Wright and Halliwell-Phillipps (1845)\nXThomas Wright, and James Orchard Halliwell-Phillipps. Reliquiae Antiquae. 2 vols. London: Smith, 1845, 1.193 (lines 1-32, MS 2), 1.256 (lines 1-22, MS 1).",
+    "Author(s)": "Hendyng",
+    "Title(s)": "The Proverbs of Hendyng",
+    "Subjects": "proverbs",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "The Proverbs of Hendyng \u2014 6-line stanzas (aabccb)",
+    "_witnesses": {
+        "BodDig86": {
+            "First Lines": "\nIhesu crist al \u00feis worldes red\u00feat for oure sunnes wolde\n                    be ded\u2026\n",
+            "Last Lines": "\n\u2026Lif and hele ro and rest\u00fee ax is at the rote\n",
+            "Attributed Title": "\nHending \u00fee hende (f. 140)",
+            "Facsimiles": "\nTschann,  Judith A.,  and  Malcolm B. Parkes.  \n             \u201cIntroduction.\u201d \n             Facsimile of Oxford, Bodleian Library, MS Digby 86\nEETS\n         s.s. 16 (1996). \n",
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.109-16.\nM\u00e4tzner,  Edouard Adolf Ferdinand. \n             Altenglische Sprachproben, I: Poesie.\n         Berlin: Wiedmann, 1867: 1.304-11.\nVarnhagen,  Hermann. \n             \u201cZu mittelenglischen gedichten: XI - XIII.\u201d \n             Anglia\n         4 (1881): 180-210: 191-200.\n\n",
+            "folio": "ff. 140va-143ra"
+        },
+        "CULGg11": {
+            "First Lines": "\nIhesu crist al folk is rede\u00deat for us alle \u00feoled\n                    dede\u2026\n",
+            "Last Lines": "\n\u2026To habbe life and hele and reste\u00dee ax is at\n                    rote\n",
+            "Note": "\nWith accompanying unrhymed rubric sayings ending quod hending\n                    between stanzas and a rubric couplet (658) quod marcol at end.",
+            "Editions": "\n\nWright,  Thomas,  and  James Orchard Halliwell-Phillipps, eds.  \n             Reliquiae Antiquae.\n         2 vols. London: Smith, 1845: 1.193-4.\nVarnhagen,  Hermann. \n             \u201cZu mittelenglischen gedichten: XI - XIII.\u201d \n             Anglia\n         4 (1881): 180-210: 182-191.\nMeyer,  Paul. \n             \u201cLes Manuscrits fran\u00e7ais de Cambridge: II. Biblioth\u00e8que de\n                l\u2019universite.\u201d \n             Romania\n         15 (1886): 236-357: 334 (extract).\n\n",
+            "folio": "ff. 476v-479v"
+        },
+        "CamStJohn145": {
+            "First Lines": "\nBot [ ]Schal c[ ]& one schol [ ]\u2026\n",
+            "Last Lines": "\n\u2026Nil \u00feei ne wille \u00feei houte it schaland be ful\n                    [ent?; \u2018circh\u2019 suprascript] ouer alBo\u00fee londe and [\n                    ]\u2026\n",
+            "Note": "\nPreserved on fragments of leaves now bound at back of volume, which\n                    would be 137 and 138 if numbering continued: once used as pads of this book; pad\n                    \u2018a\u2019 preserves parts of stanzas 40 and 37, pad \u2018b\u2019\n                    preserves stanzas 42, 46 and 34 of the Bodleian text.",
+            "Editions": "\nSchleich,  Gustav,\n                        ed.  \n             \u201cDie sprichw\u00f6rter Hendings und die Prouerbis of Wisdom.\u201d \n             Anglia\n         51 (1927): 220-77: 247-77: comp. text (along with 3383).\n",
+            "folio": "ff. 137-138v"
+        }
+    }
+}

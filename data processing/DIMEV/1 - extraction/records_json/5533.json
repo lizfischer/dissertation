@@ -1,0 +1,42 @@
+{
+    "_id": 5533,
+    "_header": "The world so wide the air so remevable",
+    "Note": "For the first stanza separately see 5534; for a disarranged text see 5788.",
+    "Author(s)": "John Lydgate",
+    "Title(s)": "On the Mutability of Man\u2019s Nature due to the Seasons, the Elements, the Complexions, and the Planets",
+    "Subjects": "mutability; seasons; astrology/astronomy",
+    "Versification": "\u2014 eight-line \u2014 ababbcbc",
+    "_description": "John Lydgate, On the Mutability of Man\u2019s Nature due to the Seasons, the Elements, the Complexions, and the Planets \u2014 eighteen eight-line stanzas (ababbcbc)",
+    "_witnesses": {
+        "BodRawC86": {
+            "First Lines": "\nThe worlde so wyde \u00fee ayre so remevabillThe cely man so litell\n                    in stature\u2026\n",
+            "Last Lines": "\n\u2026And or \u00feu passe Remissioun fynallTowarde \u00feat lyfe\n                    where Ioy is aye lastynge\n",
+            "folio": "ff. 77-79"
+        },
+        "CULHh412": {
+            "First Lines": "\nThe world so wyde the ayer so remoueableThe cely man so lityll of\n                    stature\u2026\n",
+            "Last Lines": "\n\u2026And I dar well say as to my felynghow shold a man be stedfast\n                    in thys lyffyng\n",
+            "Note": "\nAbbreviated version: seven stanzas only, and rhyme royal.",
+            "folio": "ff. 91-91v"
+        },
+        "CamJes56": {
+            "First Lines": "\n[T]He worlde so wide \u00fee eyre so remevable\u00dee Cely man so\n                    litill of stature\u2026\n",
+            "Last Lines": "\n\u2026And or thow passe remission fynallToward \u00feat life where\n                    ioy is ay lastyng\n",
+            "folio": "ff. 33-36"
+        },
+        "BLHar2251": {
+            "First Lines": "\nThe Sangwyne man of bloode hath hardynesMade to be lovyng and large\n                    of expence\u2026\n",
+            "Last Lines": "\n\u2026Herfor me thynkkyth after my semyngThat noman is stable here\n                    in theyr lievyng\n",
+            "Note": "\nStanzas 11-13 only (on the complexions), in rhyme royal.",
+            "folio": "ff. 78v2-79"
+        },
+        "BLHar2255": {
+            "First Lines": "\nThe world so wyd the hair so remevableThe celyman so litel of\n                    Stature\u2026\n",
+            "Last Lines": "\n\u2026And or thu passe remyssion finalToward that lyf wher ioye is\n                    ay lastyng\n",
+            "Note": "\nFull text in eight-line stanzas; includes attribution to Lydgate at\n                    end.",
+            "Attributed Author": "\nExplicit John lydgate (f. 17, in margin)",
+            "Editions": "\n\nHalliwell-Phillipps,  James Orchard,\n                        ed.  \n             A Selection from the Minor Poems of Don John Lydgate.\nPercy Society\n         2. London: T. Richard, 1840: 193-8.\nMacCracken,  Henry Noble,\n                        ed.  \n             John Lydgate: The Minor Poems, Vol. II: Secular Poems.\nEETS\n         o.s. 192 (1934); repr. 1961: 734-8.\n\n",
+            "folio": "ff. 14-17"
+        }
+    }
+}

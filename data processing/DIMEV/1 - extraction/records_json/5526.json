@@ -1,0 +1,76 @@
+{
+    "_id": 5526,
+    "_header": "The wisdom of the father",
+    "Subjects": "Cross, hours of",
+    "Versification": "\u2014 four-line, eight-line \u2014 aabb, abcbdefe",
+    "_description": "The Hours of the Cross, interspersed in the English Prymer \u2014 seven stanzas of 8 short lines, or of four long lines rhyming aabb, the passages often followed by refrain-like \u2018We worchipe the crist and blesse to the / For bi the holi crois thou hast for bought the worlde\u2019",
+    "_witnesses": {
+        "Bod85": {
+            "First Lines": "\nThe wisdom of the fadir the trewthe of the hy kingGod and man was\n                    taken in the dawenyngOf hys knowen disciplis he was sone forsakeSold\n                    and put to peyne mankynde sauf to make\u2026\n",
+            "Last Lines": "\n\u2026Whit spiceri he was beried holi writ to fulfulleThenke we\n                    sadli on is de\u00fe that shal saue vs from helle\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 26-50v"
+        },
+        "BodDou246": {
+            "First Lines": "\nThe wysdom of \u00fee fader\u00fee treu\u00fee of heye\n                    kyngeGod & mane was takynin \u00fee morownynge\u2026\n",
+            "Last Lines": "\n\u2026Wi\u00fe spicerye he was byryedHoly wrytte to\n                    fulfylle\u00feenke we sadly on his dee\u00fe\u00feat schal saufe vs\n                    from helle\n",
+            "folio": "ff. 26-41v"
+        },
+        "BodDou275": {
+            "First Lines": "\nThe wisedom of \u00fee fader \u00fee treu\u00fee of he\u021de\n                    kyngGod and man was taken in \u00fee morwenynge \u2026\n",
+            "Last Lines": "\n\u2026Wi\u00fe spicery he was buried holiwrit to fulfille\u00feenke\n                    we sadly on his dee\u00fe \u00feat schal saue us from helle\n",
+            "folio": "ff. 15-29v"
+        },
+        "BodRawC699": {
+            "First Lines": "\n\u00fee wisdom of \u00fee fadir\u00fee treu\u00fee of \u00fee hig\n                    king\u2026\n",
+            "Last Lines": "\n\u2026\u00feenke we sadli on his dee\u00fe\u00feat schal saue vs\n                    from helle\n",
+            "Note": "\nWritten as prose.",
+            "folio": "ff. 24-40"
+        },
+        "OxfQueens324": {
+            "First Lines": "\nThe wijsdom of \u00fee fadir\u00fee tru\u00fee of \u00fee hi\u021de\n                    king\u2026\n",
+            "Last Lines": "\n\u2026Wi\u00fe spicerye he was biried holi writ to\n                    fulfille\u00feinke we sadli on his dee\u00fe \u00feat schal saue us fro\n                    helle\n",
+            "Note": "\nSeven stanzas of 8 short lines each, interspersed with prose text (hours\n                    of the cross); written as prose.",
+            "Attributed Title": "\nAntym. Patris sapiencia veritas (f. 14v)",
+            "folio": "ff. 14v-50v"
+        },
+        "CULDd1182": {
+            "First Lines": "\nThe wisdom of \u00fee fadir\u00dee treu\u00fee of \u00fee hi\u021d\n                    king\u2026\n",
+            "Last Lines": "\n\u2026\u00feenke we sadli on his dee\u00fe\u00feat schal saue us\n                    from helle\n",
+            "Editions": "\nLittlehales,  Henry,\n                        ed.  \n             The Prymer or Lay Folks\u2019 Prayer Book.\nEETS\n         o.s. 105 (1895); 109 (1897); repr. as one volume, 1973: 1.15 seq..\n",
+            "folio": "ff. 16v-37"
+        },
+        "CamEmm246": {
+            "First Lines": "\nThe Wisidm of \u00fee fader \u00fee treu\u00fee of \u00fee heie\n                    kinggod & man was taken in \u00fee morewnyng\u2026\n",
+            "Last Lines": "\n\u2026Wi\u00fe spicery he was biried holi writ to ful\n                    fille\u00deenke we sadli on his dee\u00fe \u00feat shal saue vs from\n                    helle\n",
+            "folio": "ff. 15-26v"
+        },
+        "CamStJohn192": {
+            "First Lines": "\nThe wysdome of the fadir the trewthe of the heye kynggod and man\n                    was taken in the morwenyng\u2026\n",
+            "Last Lines": "\n\u2026Wi\u00fe spicerye he was biryed holy writ to fulfillethenk we\n                    sadly on his deeth that schal saue us fro helleWe worschipe thee cryst and\n                    blesse to theffor be thi deeth thow hast bow\u021dt the worlde\n                    a\u021dee\n",
+            "Note": "\nSeven 6-line stanzas, aabbcc, including two-line refrain as last two\n                    lines above; written as prose, interspersed with prose text.",
+            "Attributed Title": "\nPatris sapientia (as heading to first stanza, f. 20)",
+            "Editions": "\nLittlehales,  Henry,\n                        ed.  \n             The Prymer or Lay Folks\u2019 Prayer Book.\nEETS\n         o.s. 105 (1895); 109 (1897); repr. as one volume, 1973: 1.29-50 passim.\n",
+            "folio": "ff. 20-38v"
+        },
+        "BLAdd36683": {
+            "First Lines": "\nThe wisdom of \u00fee fadir \u00fee trew\u00fe of \u00fee kinggod\n                    & man was takun in \u00fee morewuyng\u2026\n",
+            "Last Lines": "\n\u2026We worschipen \u00feee crist & blessen to \u00feeffor in\n                    \u00fei dee\u00fe \u00feou hath bou\u021dt \u00fee world a\u021den\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 18v"
+        },
+        "GULHun472": {
+            "First Lines": "\nThe wisdome of \u00fee fadir the treu\u00fee of hei\u021d kingGod\n                    & man was taken in \u00fee morownyng\u2026\n",
+            "Last Lines": "\n\u2026Thenke we sadly on his de\u00fee\u00feat schal safe us fro\n                    helleWe worschipe \u00fee crist & blesse to \u00feeffor by \u00fei\n                    de\u00fe \u00feou hast bou\u021dt \u00fee worlde a\u021de\n",
+            "Note": "\n7 x 6, aabbcc including two-line refrain as last two lines of\n                    transcription, separate stanzas interspersed in English prymer (hours of the\n                    cross).",
+            "Attributed Title": "\nPatris sapiencia veritas diuina (f. 25)",
+            "folio": "ff. 25-36"
+        },
+        "GULHun512": {
+            "First Lines": "\nThe wysdom of \u00fee fadir \u00fee treu\u00fee of \u00fee hi\u021de\n                    kinggod & man was take in \u00fee morwenyng\u2026\n",
+            "Last Lines": "\n\u2026Wi\u00fe spicerie he was biried hooly writ to\n                    fulfille\u00feenke we sadly on his dee\u00fe \u00feat schal saue us alle\n                    fro helleWe worschipe\u00fe to \u00feee crist & blesse to\n                    \u00feeeffor bi \u00fei dee\u00fe \u00feu hast bou\u021dt a\u021den \u00fee\n                    world\n",
+            "Note": "\nSeven stanzas, aabb, plus refrain, cd (i.e. not rhyming in this MS\n                    version) as last two lines above, separated and interspersed in English prymer,\n                    hours of the cross.",
+            "folio": "ff. 66-96v"
+        }
+    }
+}

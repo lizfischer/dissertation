@@ -1,0 +1,22 @@
+{
+    "_id": 1424,
+    "_header": "Forsake thy pride and thine envy",
+    "Author(s)": "John Audelay",
+    "Title(s)": "Song of the Seven Deadly Sins",
+    "Subjects": "carols, of religious counsel; sins, deadly",
+    "Versification": "\u2014 five-line, two-line",
+    "_description": "John Audelay, Song of the Seven Deadly Sins \u2014 five 5-line stanzas (ababc) including refrain, \u2018I say \u00fee so\u2019, and burden (cc): \u2018In wele be ware ore thou be woo / Thenke wens thou come wheder to goo\u2019",
+    "_witnesses": {
+        "BodDou302": {
+            "First Lines": "\nffore sake \u00fei pride & \u00feyn enuy\u00feu schalt fynd hit\n                    fore \u00fee best\u2026\n",
+            "Last Lines": "\n\u2026ffore to heuen \u00feer is no no\u00feer wayI say \u00fee\n                    so\n",
+            "Attributed Title": "\nde septem peccatis mortalibus (f. 27vb)",
+            "Editions": "\n\nChambers,  Edmund Kerchever,  and  Frank Sidgwick.  \n             \u201cFifteenth Century Carols by John Audelay.\u201d \n             Modern Language Review\n         5 (1910): 473-91: 480.\nWhiting,  Ella Keats,\n                        ed.  \n             John Audelay: The Poems.\nEETS\n         o.s. 184 (1931); repr. 1988: 182.\nGreene,  Richard Leighton. \n             The Early English Carols.\n         Oxford: Clarendon, 1935; 2nd ed., rev., Oxford: Clarendon,\n            1977: 223-4; 1977, 198.\n\n",
+            "folio": "ff. 27va-28ra"
+        },
+        "NLWPen334A": {
+            "Note": "\nBurden only?",
+            "folio": "endleaf 27va-28ra"
+        }
+    }
+}

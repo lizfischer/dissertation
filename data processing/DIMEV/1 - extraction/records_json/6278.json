@@ -1,0 +1,31 @@
+{
+    "_id": 6278,
+    "_header": "When busy at my book I was upon a certain night",
+    "Note": "Edition without specified source is Ashmole (1652)\nXAshmole, Elias. Theatrum Chemicum Britannicum. London: J. Grimond, 1652, 374.",
+    "Author(s)": "George Ripley",
+    "Title(s)": "The Vision of Sir George Ripley, Canon of Bridlington",
+    "Subjects": "alchemy",
+    "Versification": "\u2014 two-line \u2014 couplets",
+    "_description": "George Ripley, The Vision of Sir George Ripley, Canon of Bridlington \u2014 24 lines",
+    "_witnesses": {
+        "BodAsh1480": {
+            "First Lines": "\nWhen busi att my booke I was vpon a certayne nightethis vision\n                    heare exprest apered vnto my dimed sight\u2026\n",
+            "Last Lines": "\n\u2026Then of this venom handled thus a medicine I did makewhiche\n                    medicine kylls all venom wilde if any chance to take\n",
+            "Attributed Title": "\nA vision (f. 3v)",
+            "folio": "Part I, f. 3v"
+        },
+        "BodAsh1485": {
+            "First Lines": "\nWhen busy at my booke I was vppon a certain nightthis vision heare\n                    exprest appeered to my sight\u2026\n",
+            "Last Lines": "\n\u2026Glory be to the grauntor of such secreat waiesdomynion and\n                    honour both with woorship and with prayse\n",
+            "Attributed Title": "\nThe vision of Sir George Ripley Channon of Briddlimgton (f.\n                    46v)",
+            "folio": "Part III, f. 46v"
+        },
+        "BodRawPoe121": {
+            "First Lines": "\nWhen busie at my booke I was vppon acertayne nightThis vision heare\n                    exprest appeared vnto my sighte\u2026\n",
+            "Last Lines": "\n\u2026Glorye be to hime the graunter of suche secrette\n                    waiesDominion and honour bothe with worshipe and with praise\n",
+            "Note": "\nPost-medieval transcript.",
+            "Attributed Title": "\nThe vizion of sir George Ripley chanoun (f. 35)",
+            "folio": "f. 35"
+        }
+    }
+}

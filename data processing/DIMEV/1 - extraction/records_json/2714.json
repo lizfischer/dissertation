@@ -1,0 +1,24 @@
+{
+    "_id": 2714,
+    "_header": "It fell against a midsummer month",
+    "Note": "Variants on the ballad printed on ballad sheets, of which ed. Percy (1765)\nXPercy, Thomas. Reliques of Ancient English Poetry. 3 vols. London: J. Dodsley, 1765, and subsequent editions, 2.193; Child (1857)\nXChild, Francis James. English and Scottish Ballads. 8 vols. in 4, forerunner of next entry. Boston: Houghton, Osgood, also Little, Brown, 1857-58 et seq, 7.55-71; Child (1882)\nXChild, Francis James. The English and Scottish Popular Ballads. 5 vols. in 10 parts. Boston and New York: Houghton, Mifflin, 1882-98, 3.343-6, 4.503-7.",
+    "Title(s)": "\u2018The Songe of Sir Andraye Barton, Knight\u2019",
+    "Subjects": "songs; political poems",
+    "Versification": "\u2014 eight-line, four-line \u2014 abcbdefe, ababcded, abcb",
+    "_description": "\u2018The Songe of Sir Andraye Barton, Knight\u2019 \u2014 forty 8-line stanzas stanzas (abcbdefe, sometimes ababcded) and a concluding quatrain (abab) or eighty-two 4-line stanzas (abcb)",
+    "_witnesses": {
+        "BLAdd27879": {
+            "First Lines": "\nAS itt beffell in Mdsumer timewhen burds singe sweetlye on euery\n                    treeour noble King King Henery the viijthouer the riuer of\n                    Thames past hee\u2026\n",
+            "Last Lines": "\n\u2026yett ffor the manfull part \u00feat hee hath playdboth heere\n                    & beyond the seahis men shall haue halfe a crowne a dayto bring\n                    them to my brother King Iamye\n",
+            "Editions": "\n\nPercy,  Thomas. \n             Reliques of Ancient English Poetry.\n         3 vols. London: J. Dodsley, 1765, and subsequent editions: 2.177.\nRitson,  Joseph. \n             A Selection of English Songs.\n         3 vols. London: for J. Johnson, 1783: 1.313.\nHales,  John Wesley,  and  Frederick James Furnivall, eds.  \n             Bishop Percy\u2019s Folio Manuscript: Ballads and Romances.\n         3 vols. London: Tr\u00fcbner, 1867-68: 3.399-418.\nChild,  Francis James. \n             The English and Scottish Popular Ballads.\n         5 vols. in 10 parts. Boston and New York: Houghton, Mifflin,\n            1882-98: 3.338-42.\nGummere,  Francis Barton. \n             Old English Ballads.\n         Boston: Ginn, 1894: 130-41.\nSargent,  Helen Child,  and  George Lyman Kittredge.  \n             English and Scottish Popular Ballads.\nCambridge edition of the Poets. London: Harrap, 1904: 407-12.\nLeach,  Edward,\n                        ed.  \n             The Ballad Book.\n         New York: Harper, 1955: 467-75.\n\n",
+            "folio": "p. 490"
+        },
+        "YorkMinBarton": {
+            "First Lines": "\nIt fell against a Midsomer monethWhen birds soonge well in euery\n                    treeOur worthe prence Kinge HenryeHe roode untoe a\n                    chelvellrye\u2026\n",
+            "Last Lines": "\n\u2026Euery Englishe man shall haue eightten pens a daieThat did\n                    mainetayne his feight soe freeAnd euerye Scotchman a shillinge a\n                    daieTill they come atte my brother Jamie Jamiee\n",
+            "Note": "\nWritten by a hand of the sixteenth century; numbered 25; MS formerly\n                    belonged to families of Lamplugh and Davenant.",
+            "Editions": "\nRaine,  James,\n                        ed.  \n             A Volume of English Miscellanies Illustrating the History and Language\n                of the Northern Counties of England.\nSurtees Society\n         85 (1890): 64-75.\n",
+            "folio": "ff. 1-?"
+        }
+    }
+}

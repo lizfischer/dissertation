@@ -1,0 +1,21 @@
+{
+    "_id": 4698,
+    "_header": "Saint Martin was a noble man",
+    "Note": "Cf. 691, 4700.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "Martin, saint, life of",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Life of St. Martin in \u2018expanded\u2019 Northern Homily Cycle",
+    "_witnesses": {
+        "BLCottTibEVII": {
+            "folio": "f. 268"
+        },
+        "BLHar4196": {
+            "First Lines": "\nSAint Martin was a nobill manfor in his barnhede he began\u2026\n",
+            "Last Lines": "\n\u2026He wis vs wisch for to winVnto \u00feat welth \u00feat he wons in\n",
+            "Attributed Title": "\nIn festo sancti Martini episcopi historia (rubric, f. 188ra)",
+            "Editions": "\nHorstmann,  Carl. \n             Altenglische Legenden: Neue Folge.\n         Heilbronn: Henninger, 1881: 152-5.\n",
+            "folio": "ff. 188-189va"
+        }
+    }
+}

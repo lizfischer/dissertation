@@ -1,0 +1,23 @@
+{
+    "_id": 6475,
+    "_header": "When thou seest on leode",
+    "Subjects": "abuses of the age",
+    "Versification": "\u2014 unrhymed, two-line \u2014 aa",
+    "_description": "The Abuses of the Age \u2014 fourteen lines roughly rhyming in some pairs (couplets)",
+    "_witnesses": {
+        "OxfJesus29": {
+            "First Lines": "\nHwan \u00feu sixst vnleodeking \u00feat is wilfulAnd Domes mon\n                    ny myndepreost \u00feat is wilde\u2026\n",
+            "Last Lines": "\n\u2026Lond wi\u00fe vten laweAl so seyde BedeWo \u00feere\n                    \u00feeode\n",
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             An Old English Miscellany: A Bestiary, Kentish Sermons, Proverbs of\n                Alfred and Religious Poems of the Thirteenth Century.\nEETS\n         o.s. 49 (1872); repr. 1988: 184.\n",
+            "folio": "Part II, f. 184v"
+        },
+        "BLCottCalAIX": {
+            "First Lines": "\nH\u01bfan \u00feu sixst on leo\u00f0King \u00feat is \u01bfilful\u2026\n",
+            "Last Lines": "\n\u2026Lond \u01bfi\u00f0 oute la\u021deAlso seide bedeWo \u00feere \u00feeode\n",
+            "Note": "\nWritten as prose.",
+            "Facsimiles": "\n\nDigital Facsimile of British Library  Cotton Caligula MS A IX.\n         http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Cotton_MS_Caligula_A_IX. \n",
+            "Editions": "\n\nMorris,  Richard,\n                        ed.  \n             An Old English Miscellany: A Bestiary, Kentish Sermons, Proverbs of\n                Alfred and Religious Poems of the Thirteenth Century.\nEETS\n         o.s. 49 (1872); repr. 1988: 185.\nWright,  Thomas,\n                        ed.  \n             The Owl and the Nightingale.\nPercy Society\n         11. London: Richard, 1843: 80.\n\n",
+            "folio": "f. 248va1"
+        }
+    }
+}

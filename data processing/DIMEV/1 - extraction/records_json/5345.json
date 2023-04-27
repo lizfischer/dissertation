@@ -1,0 +1,50 @@
+{
+    "_id": 5345,
+    "_header": "The Jews made every year",
+    "Note": "For other MSS see 5613; for the version in the \u2018expanded\u2019 Cycle see 2970.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for the Sunday after the Nativity, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodAsh42": {
+            "First Lines": "\nThe iewes made ilka \u021dereSeuen festez on \u00feair\n                    \u021dere\u2026\n",
+            "Last Lines": "\n\u2026\u00fean euer \u021ditt before was he\u00feat be \u00feis\n                    tale we maye wele se\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 23v-24v"
+        },
+        "BodEngPoeta1": {
+            "First Lines": "\n\u00deE Iewes made eueriche \u021dereSeuene ffestes In heore\n                    Manere\u2026\n",
+            "Last Lines": "\n\u2026\u00deen euer \u021dit bi foren was heAs we may bi a tale I\n                    se\n",
+            "Attributed Title": "\nErant Ioseph & Maria Mater Ihesu mirantes (f.\n                    172ra)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 172ra-172rb"
+        },
+        "CULAdd8335": {
+            "First Lines": "\n\u00dee iewes made ilk a \u021dereSeuen festes on \u021deire\n                    manere\u2026\n",
+            "Last Lines": "\n\u2026\u00feen euer \u021dit bifore was he\u00deat may \u021de by\n                    \u00feis tale se\n",
+            "Attributed Title": "\nDominica infra Natalis domini secundum Lucam (p. 37)",
+            "folio": "pp. 37-40"
+        },
+        "CULDd11": {
+            "First Lines": "\nThe iewis made eueri \u021derevij festis on hire\n                    manere\u2026\n",
+            "Last Lines": "\n\u2026\u00fean euere \u021det beforn was heas \u021de may be a tale\n                    here se\n",
+            "Attributed Title": "\nErant ioseph & maria mater ihesu mirantes super his que dicebantur\n                        de illo et cetera (f. 55v)",
+            "folio": "ff. 55v-56v"
+        },
+        "BLAdd38010": {
+            "First Lines": "\nThe Iewes made euer ilk yereseuen festes on \u00feair\n                    manere\u2026\n",
+            "Last Lines": "\n\u2026Than euer \u021dit before was heAls we be a taill now may\n                    se\n",
+            "folio": "ff. 22v-23v"
+        },
+        "Lam260": {
+            "folio": "f. 9rb"
+        },
+        "HunHM129": {
+            "First Lines": "\n\u00dee iowys mad euerylk \u021dereSeuyn festys on \u00fear\n                    manere\u2026\n",
+            "Last Lines": "\n\u2026\u00dean \u021dyt euer be for was heAs \u021de may by\n                    \u00feis tald se\n",
+            "Attributed Title": "\nSexta die A nativitate domini (f. 14v)",
+            "folio": "ff. 14v-15v"
+        }
+    }
+}

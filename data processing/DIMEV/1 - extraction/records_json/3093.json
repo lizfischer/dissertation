@@ -1,0 +1,24 @@
+{
+    "_id": 3093,
+    "_header": "Listen lordings and ye shall hear",
+    "Note": "Sir Cleges",
+    "Subjects": "romances",
+    "Versification": "\u2014 twelve-line? \u2014 aabccbddbeeb",
+    "_description": "Sir Cleges \u2014 in 12-line stanzas (aabccbddbeeb)",
+    "_witnesses": {
+        "BodAsh61": {
+            "First Lines": "\n[L]ystyns lordynges & \u021de schall hereOff Ansystores\n                    \u00feat be fore vs wereBothe herdy & wyghtIn tyme of vter &\n                    \u00feendragon\u2026\n",
+            "Last Lines": "\n\u2026There saulys went to heuen clereThere is Ioy eith outen\n                    ende\n",
+            "Note": "\n564 lines.",
+            "Editions": "\n\nTreichel,  A.,\n                        ed.  \n             \u201cSir Cleges, Ein mittelenglische Romanze.\u201d \n             Englische Studien\n         2 (1896): 345-89: 374-89.\nMcKnight,  George Harley. \n             Middle English Humorous Tales in Verse.\n         Boston and London: Heath, 1913; repr. New York: Gordian, 1971: 38.\nLaskaya,  Anna,  and  Eve Salisbury, eds.  \n             The Middle English\n                    Breton Lays.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 1995: 367-407.\nShuffleton,  George. \n             Ashmole 61: A Compilation of Popular Middle English Verse.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008: 180-5; 488-91; 608.\n\n",
+            "folio": "ff. 67v-73"
+        },
+        "NLS19111": {
+            "First Lines": "\nWill ye lystyn and ye schyll hereOf Eldyrs t\u00feat before vs\n                    were\u2026\n",
+            "Last Lines": "\n\u2026To Rech hys body wythThe Castell of Cardyffe he yaue hym\n                    thoo\u2026\n",
+            "Note": "\n44 stanzas plus 4 lines: 532 lines; ending imperfect.",
+            "Editions": "\n\nTreichel,  A.,\n                        ed.  \n             \u201cSir Cleges, Ein mittelenglische Romanze.\u201d \n             Englische Studien\n         2 (1896): 345-89: 374-89.\nWeber,  Henry William. \n             Metrical Romances of the Thirteenth, Fourteenth, and Fifteenth\n                Centuries.\n         3 vols. Edinburgh: A. Carstalle, 1810: 1.331-53, repr.\nMorley,  Henry,\n                        ed.  \n             Shorter English Poems.\n         London, NY: Cassell, Petter, Galpin, 1876: 24-30.\nFrench,  Walter Hoyt,  and  Charles Brockway Hale.  \n             Middle English Metrical Romances.\n         New York: Prentice-Hall, 1930: 877.\n\n",
+            "folio": "ff. 71-79v"
+        }
+    }
+}

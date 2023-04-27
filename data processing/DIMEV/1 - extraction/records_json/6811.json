@@ -1,0 +1,56 @@
+{
+    "_id": 6811,
+    "_header": "Wretched man why art thou proud",
+    "Note": "Incorporated in certain MSS of \u2018Erthe upon Erthe\u2019 (1170 and 6369); cf. 6229.",
+    "Subjects": "mortality; sermons, verse in",
+    "Versification": "\u2014 eight-line \u2014 abababab",
+    "_description": "A reminder of Mortality, a tag in the Fasciculus Morum \u2014 8 lines (abababab)",
+    "_witnesses": {
+        "Bod410": {
+            "folio": "f. 10"
+        },
+        "BodLauMis111": {
+            "Transcription": "\nWrecche mon wy artou proud\u00feat art of herth I makethydyr ne\n                    browteston no schroudbut pore \u00feou come & nakedWen \u00fei\n                    soule is faren out \u00fei body with erthe y raked \u00feat body\n                    \u00feat was so ronk and loud of alle men is i hated\n",
+            "Note": "\nWritten as prose",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 237.\nOliver,  Raymond. \n             Poems Without Names: The English Lyric 1200-1500.\n         Berkeley, CA: University of California, 1970: 76.\nLuria,  Maxwell Sidney,  and  Richard L. Hoffman, eds.  \n             Middle English Lyrics.\n         New York: Norton, 1974: 228.\n\n",
+            "folio": "f. 65"
+        },
+        "BodLauMis213": {
+            "First Lines": "\nWreche mon why artou proud \u00feat art of her\u00fee I\n                    makydHedyr ne browtes tou no schroudebot pore \u00feu come &\n                    naked\u2026\n",
+            "Last Lines": "\n\u2026\u00feat body \u00feat was so ronke & loudof all men is I\n                    hated\n",
+            "Note": "\nWritten as prose",
+            "folio": "f. 12v"
+        },
+        "BodRawC670": {
+            "First Lines": "\nWreche mon why art \u00feou prowde\u00deat art of erthe\n                    maket\u2026\n",
+            "Last Lines": "\n\u2026\u00deat body \u00fea[t] was so ronke and loudeOf alle men is\n                    hated\n",
+            "Editions": "\n\nSilverstein,  Theodore,\n                        ed.  \n             Medieval English Lyrics.\n         York Medieval Texts. London: Edw. Arnold, 1971: 79.\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 147.\n\n",
+            "folio": "f. 20"
+        },
+        "CamGon364": {
+            "First Lines": "\nWreche man qwy art \u00feou prowd\u00feat of erthe is\n                    maked\u2026\n",
+            "Last Lines": "\n\u2026\u00fee body \u00feat was so rond & loudof alle schal be\n                    hated\n",
+            "folio": "f. 13va"
+        },
+        "EDU82": {
+            "First Lines": "\nWreche man why artt thou prowde\u00feat art of erthe I\n                    maketHyder in browtest \u00feu noo shrodebut pore \u00feu come &\n                    naked\u2026\n",
+            "Last Lines": "\n\u2026That body that was so ranke and loudeof all men is\n                    hated\n",
+            "folio": "ff. 20v-21"
+        },
+        "Lincoln44": {
+            "First Lines": "\nWreche man whi art \u00feow prowde\u00feat art of er\u00fee\n                    makedehyder broght \u00feow no strowdebote pouer and\n                    naket\u2026\n",
+            "Last Lines": "\n\u2026\u00feat was so stowte & prowteof al manne ys I\n                    hatede\n",
+            "Note": "\nWritten as prose",
+            "folio": "f. 162v"
+        },
+        "Spalding": {
+            "folio": ""
+        },
+        "WorcF19": {
+            "First Lines": "\nWreche man wy art \u00feu proud\u00feat art of er\u00fee\n                    maked\u2026\n",
+            "Last Lines": "\n\u2026\u00fey bodi \u00feat was so rank & loueof alle men he ys\n                    hatyd\n",
+            "Note": "\nwritten as verse",
+            "folio": "f. 166rb"
+        }
+    }
+}

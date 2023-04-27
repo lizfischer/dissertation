@@ -1,0 +1,21 @@
+{
+    "_id": 2047,
+    "_header": "Holy Thomas of heavenriche",
+    "Subjects": "Thomas of Canterbury, saint; hymns, to saints",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "\u2018Antiphona de sancto Thoma Martyre\u2019 \u2014 five couplets",
+    "_witnesses": {
+        "OxfJesus29": {
+            "First Lines": "\nHaly thomas of heouericheAlle apostles eueliche\u2026\n",
+            "Last Lines": "\n\u2026\u00feu ert froure a mong mon kunnehelp vs nv of vre sunne\n                    Amen\n",
+            "Attributed Title": "\nIncipit Antiphona de sancto Thoma Martyre in Anglico (f.\n                        185v)",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 67, 197.\nMorris,  Richard,\n                        ed.  \n             An Old English Miscellany: A Bestiary, Kentish Sermons, Proverbs of\n                Alfred and Religious Poems of the Thirteenth Century.\nEETS\n         o.s. 49 (1872); repr. 1988: 90.\n\n",
+            "folio": "Part II, f. 185v"
+        },
+        "Winches4": {
+            "Attributed Title": "\nIncipit Antiphona de sancto Thoma Martyre in Anglico (f.\n                        185v)",
+            "Editions": "\n\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 67, 197.\nRobertson,  James Craigie,\n                        ed.  \n             Materials for the History of Thomas Becket, Archbishop of\n                Canterbury.\n             7 vols. \n             Rolls Series\n         67 (1875-85); repr. Kraus, 1965: 1.151.\n\n",
+            "folio": ""
+        }
+    }
+}

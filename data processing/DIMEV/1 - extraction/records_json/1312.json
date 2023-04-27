@@ -1,0 +1,84 @@
+{
+    "_id": 1312,
+    "_header": "Fire water wind and land",
+    "Subjects": "sermons, verse in; translations; prayer",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "The use and benefits of prayer: inscriptions accompanying an image of Prayer \u2014 four couplets in the Fasciculus morum",
+    "_witnesses": {
+        "Bod187": {
+            "First Lines": "\nffyr water wynd & londy wylne to haue yn my\n                    hond\u2026\n",
+            "Last Lines": "\n\u2026A noyn y helpe & noyn for sakeGladly y fy\u021dth \u00fee\n                    maystery to take\n",
+            "Note": "\nWritten as prose; every couplet is followed by its Latin\n                    version.",
+            "folio": "f. 184vb"
+        },
+        "Bod410": {
+            "First Lines": "\nffuyr water wynd & londI wylne to haue In my\n                    hond\u2026\n",
+            "Last Lines": "\n\u2026Smerthy I help & non forsake Gladly I fight \u00fe\n                    maistere to take\n",
+            "folio": "f. 64v"
+        },
+        "BodLauMis213": {
+            "First Lines": "\nffyre water wynde & londI wyll to haue in my\n                    hond\u2026\n",
+            "Last Lines": "\n\u2026Smertyly I helpe & non forsakeGladly I fyght \u00fee\n                    maystry to take\n",
+            "Note": "\nWritten as prose; couplets each separated by a few Latin\n                    words.",
+            "folio": "f. 124"
+        },
+        "BodLauMis568": {
+            "First Lines": "\nfure water wynd and londI wylne to haue in my\n                    hod\u2026\n",
+            "Last Lines": "\n\u2026Smerthly y help an non forsakegladly I \u00fee maystry to\n                    take\n",
+            "Note": "\nWritten as prose.",
+            "folio": "f. 79vb"
+        },
+        "BodRawC670": {
+            "First Lines": "\nFyre watur wynd and longY wylne to haue in my\n                    honde\u2026\n",
+            "Last Lines": "\n\u2026[Smertly] I helpe [and non] forsakeGladly y fy\u021dt \u00fee\n                    maystry to take\n",
+            "Editions": "\nWenzel,  Siegfried. \n             Verses in Sermons: \u2018Fasciculus morum\u2019 and Its Middle\n                English Poems.\n         Cambridge, MA: Medieval Academy of America, 1978: 188.\n",
+            "folio": "f. 110v"
+        },
+        "CamGon71": {
+            "First Lines": "\nffyre watyr wynd & londI will to haue in my\n                    honde\u2026\n",
+            "Last Lines": "\n\u2026smertly I helpe & none for sakegladly I fygth \u00fee\n                    maystry to make\n",
+            "Note": "\nSeparated by Latin prose that these couplets translate.",
+            "folio": "f. 69v"
+        },
+        "CamGon364": {
+            "First Lines": "\nSteer water wynd & londI wele to haue in myn\n                    hond\u2026\n",
+            "Last Lines": "\n\u2026Smertly i helpe & non forsakegladly i fyght maystry to\n                    take\n",
+            "Note": "\nInterspersed with Latin prose.",
+            "folio": "ff. 107rb-107va"
+        },
+        "CamStJohn159": {
+            "First Lines": "\nffyr water wynd & londeI wyll to haf in my\n                    honde\u2026\n",
+            "Last Lines": "\n\u2026Smertly I help & none forsakGladly I fight \u00fee mastry\n                    I take\n",
+            "Note": "\nWritten as prose, 4 x 2, separated.",
+            "folio": "f. 144v"
+        },
+        "BLHar7322": {
+            "First Lines": "\nfir & watir wind & londi desire bo haue vnder myn hond vel bond\u2026\n",
+            "Last Lines": "\n\u2026smertlike i helpe & noman forsakeble\u00feeli i fitte \u00fee maistri forto take\n",
+            "Note": "\nWritten as prose inserted into Latin, with Latin separating the couplets.",
+            "Editions": "\nFurnivall,  Frederick James,\n                        ed.  \n             Political, Religious and Love Poems, from Lambeth MS. 306 and other\n                sources.\nEETS\n         o.s. 15 (1866); repr. 1962; rev. ed. 1903: 233-4; rev. ed. 262.\n",
+            "folio": "ff. 155v2-156"
+        },
+        "Lincoln44": {
+            "First Lines": "\nfor water wynd & londI wylle to haue in my\n                    hond\u2026\n",
+            "Last Lines": "\n\u2026Smyrtly I helpe and no man for sakeGladly I sy\u021dt \u00fee\n                    maystre to take\n",
+            "Note": "\n8 lines, 4 couplets interrupted by Latin introductions to each as first,\n                    second, etc. questions.",
+            "folio": "ff. 207vb-208ra"
+        },
+        "Spalding": {
+            "First Lines": "\nffire water wynde and landeI wyll haue many haue in my\n                    hande\u2026\n",
+            "Last Lines": "\n\u2026Smertly I help & none forsakesgladly I fyght the maystre\n                    to take\n",
+            "Note": "\nFour separate couplets with Latin prose text between; written as\n                    prose.",
+            "folio": "f. 118"
+        },
+        "WorcF19": {
+            "First Lines": "\nffiere water wynd & londy wylle co haue yn my\n                    hond\u2026\n",
+            "Last Lines": "\n\u2026smertly y helpe & noght for sakegladun in sight mastrie\n                    to take\n",
+            "Note": "\nFour separate couplets with Latin prose text between; written as\n                    prose.",
+            "folio": "f. 209vb"
+        },
+        "VaticanOtto": {
+            "folio": "f. 72v"
+        }
+    }
+}

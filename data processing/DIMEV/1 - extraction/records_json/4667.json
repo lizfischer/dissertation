@@ -1,0 +1,49 @@
+{
+    "_id": 4667,
+    "_header": "Saint Luke in our gospel says us",
+    "Note": "For other MSS see 4710; for the version in the \u2018expanded\u2019 Cycle see 2639.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for Eighth Sunday after Trinity in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Luc in vre gospel sei\u00fe vs\u00deat to his disciples seide\n                    Jhesus\u2026\n",
+            "Last Lines": "\n\u2026Vre lord Ihesu Crist vs spedeTo do penaunce and \u00feider vs\n                    lede. Amen.\n",
+            "Attributed Title": "\nAttendite a falsis prophetis qui veniunt (f.\n                    201rb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "f. 201rb-201rc"
+        },
+        "CULAdd8335": {
+            "First Lines": "\nSEynt Luk in oure godspelle sais vs\u00deat to \u00fee apostles\n                    saide ihesus\u2026\n",
+            "Last Lines": "\n\u2026Til \u00feat blisse grete god vs brynge\u00deat at sale last\n                    with outen endyng\n",
+            "Attributed Title": "\nDominica viiia post festum trinitatis secundum lucam (p.\n                    243)",
+            "folio": "pp. 244-245"
+        },
+        "CULGg531": {
+            "First Lines": "\nSayne luke in oure gospell says vs\u00feat tyll hys disciples sayd\n                    ihesus\u2026\n",
+            "Last Lines": "\n\u2026Oure lorde ihesu criste vs spedeTo do pennance and\n                    \u00feidere vs lede\n",
+            "Attributed Title": "\n\u00deis es \u00fee gospell of \u00fee aghtend sonunday (f. 103)",
+            "folio": "ff. 103-103v"
+        },
+        "BLAdd22283": {
+            "First Lines": "\nSEint luc in ve gospel sei\u00fe vs\u00deat to his disciples seid\n                    Ihesus\u2026\n",
+            "Last Lines": "\n\u2026Vre lord Ihesu crist vs spedeTo do peauynce & \u00feider\n                    vs lede. Amen\n",
+            "Attributed Title": "\nAttendite a falsis prophetis qui veniunt [end of last word coverd by\n                    bar border] (f. 6rb)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 6rb-6rc"
+        },
+        "MinULZ822": {
+            "First Lines": "\nSaynt luke in oure gospell says vs\u00feat tyll hys apostels sayde\n                    ihesuskepe \u021dow fra false prophetes\u2026\n",
+            "Last Lines": "\n\u2026oure lorde ihesu cryste vs spedeTo do penaunce &\n                    \u00feider vs lede\n",
+            "Attributed Title": "\nDominica octaua Secundum Lucam (f. 113v)",
+            "folio": "ff. 113v-114"
+        },
+        "HunHM129": {
+            "First Lines": "\nSeint Luc in oure gospell sais vs\u00deat \u00fee apostelys said to\n                    ihesusKepe \u021dow fro false profetys\u2026\n",
+            "Last Lines": "\n\u2026Oure loueryd crist ihesu vs spedeTo do penaws and \u00feedyr\n                    vs lede\n",
+            "Attributed Title": "\nDominica octava post festum trinitatis (f. 126)",
+            "folio": "ff. 126-127"
+        }
+    }
+}

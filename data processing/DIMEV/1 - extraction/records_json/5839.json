@@ -1,0 +1,69 @@
+{
+    "_id": 5839,
+    "_header": "Thou rich man that sits on dais",
+    "Note": "For the version in the \u2018expanded\u2019 Cycle see 360.",
+    "Title(s)": "Northern Homily Cycle",
+    "Subjects": "sermon texts, Gospel",
+    "Versification": "\u2014 two-line \u2014 aa",
+    "_description": "Gospel for First Sunday after Trinity, in the Northern Homily Cycle",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\n\u00deOw riche mon \u00feat sittest on desAnd makest \u00fei bodi\n                    wel at es\u2026\n",
+            "Last Lines": "\n\u2026And \u00feider wi\u00fe hem vs alle lede heAmen Amen par\n                    Charite\n",
+            "Attributed Title": "\nHomo quidam erat diues & induebatur (f.\n                    199rb)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "folio": "ff. 199rb-199va"
+        },
+        "BodAsh42": {
+            "First Lines": "\n\u00feou riche man \u00feat sittis on deesAnd mase \u00fei bodi\n                    wele atees\u2026\n",
+            "Last Lines": "\n\u2026\u00feou riche god vs \u00feidir lede\u00feare pure men sall\n                    haue \u00feaire mede . Amen .\n",
+            "Editions": "\nThompson,  Anne B.,\n                        ed.  \n             The Northern Homily\n                    Cycle.\n         Kalamazoo, MI: Western Michigan University for TEAMS, 2008. \n",
+            "folio": "ff. 135v-137"
+        },
+        "CULAdd8335": {
+            "First Lines": "\n\u00deou riche man \u00feat sittes on deseAnd maked \u00fei body\n                    wele at ese\u2026\n",
+            "Last Lines": "\n\u2026And til \u00feat blisse vs alle lede heAmen Amen par\n                    charite\n",
+            "Attributed Title": "\nDominica prima post festum trinitatis secundum Lucam (p.\n                    220)",
+            "folio": "pp. 220-223"
+        },
+        "CULDd11": {
+            "First Lines": "\nThow riche man \u00feat sittest on des& makist \u00fei bodi wel\n                    at ese\u2026\n",
+            "Last Lines": "\n\u2026& thedir with hem vs alle lede heAmen Amen pur\n                    Charite\n",
+            "Attributed Title": "\nDominica prima post festum sancte trinitatis Euangelium secundum\n                        Lucam (f. 136v)",
+            "folio": "ff. 136v-137v"
+        },
+        "CULGg531": {
+            "First Lines": "\n\u00feou ryche man \u00feat syttes on dessAnd mase \u00fei body\n                    wele at ess\u2026\n",
+            "Last Lines": "\n\u2026And \u00feider with \u00feaim vs all ledeAnd grant vs heuen\n                    vntill oure mede\n",
+            "Attributed Title": "\n\u00fee exposicion of \u00feis gospell sall \u00feou fynd be fore on\n                    \u00fee sonunday next efter halowthursday; \u00dee gospell of \u00fee first\n                    sonunday affter \u00fee trinite sonunday (f. 92v)",
+            "folio": "ff. 92v-94"
+        },
+        "BLAdd22283": {
+            "First Lines": "\n\u00deOw riche mon \u00feat sitest on desAnd makest \u00fei bodi\n                    wel at es\u2026\n",
+            "Last Lines": "\n\u2026And \u00feider with hem vs alle lede heAmen Ame[sic] par\n                    charite\n",
+            "Attributed Title": "\nHomo quidam erat diues & induebatur (f.\n                    4rc)",
+            "Facsimiles": "\n\nDigital Facsimile of British Library MS Add. 22283 (\u2018Simeon\u2019).\n         2014; http://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_22283. \n",
+            "folio": "f. 4rc-4vb"
+        },
+        "BLAdd38010": {
+            "First Lines": "\n\u00deou riche man \u00feat sittes on deseAnd mase \u00feai body\n                    well at ese\u2026\n",
+            "Last Lines": "\n\u2026Thou riche gode vs \u00feider ledeThair pure man shall haue\n                    \u00feair mede. Amen.\n",
+            "folio": "ff. 98-99v"
+        },
+        "Lam260": {
+            "folio": "f. 41va"
+        },
+        "HunHM129": {
+            "First Lines": "\n\u00deow ryche man \u00feat sittys on deseAnd makyst \u00fei body\n                    well at ese\u2026\n",
+            "Last Lines": "\n\u2026And \u00feeddyr with ham vs all lede beAmen amen all say\n                    we\n",
+            "Attributed Title": "\nDominica prima post festum trinitatis (f. 115v)",
+            "folio": "ff. 115v-117"
+        },
+        "MinULZ822": {
+            "First Lines": "\nT\u00feou Ryche man \u00feat syttys one deseAnd mase \u00fei body\n                    wele at ese\u2026\n",
+            "Last Lines": "\n\u2026and \u00feider wyth vs lede heAmen say we all par\n                    charite\n",
+            "Attributed Title": "\nDominica prima post festum sancti trinitatis Secundum Lucam (f.\n                        101v)",
+            "folio": "ff. 101v-103v"
+        }
+    }
+}

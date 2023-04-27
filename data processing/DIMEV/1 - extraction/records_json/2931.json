@@ -1,0 +1,30 @@
+{
+    "_id": 2931,
+    "_header": "Jesu that would after midnight / Thy sweet face that was so bright",
+    "Note": "Inserted in the Cursor\nMundi (3474), lines 25487-25618.",
+    "Subjects": "Cross, hours of",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "The Hours of the Cross \u2014 in 6-line stanzas(aabccb)",
+    "_witnesses": {
+        "BodFair14": {
+            "First Lines": "\nIhesus \u00feat walde ofter midni\u021dt\u00fei squete face\n                    \u00feat was sa bri\u021dt\u2026\n",
+            "Last Lines": "\n\u2026& gif vs \u00fee ioye for euermare\u00feat \u00feou to vs\n                    has bo\u021dt\n",
+            "Attributed Title": "\nMatinis of \u00fee cros (f. 110ra), Atte laudis (f.\n                        110ra), etc.",
+            "Editions": "\n\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 1458-67.\nBrown,  Carleton Fairchild,\n                        ed.  \n             Religious Lyrics of the XIV Century.\n         Oxford: Clarendon, 1924. 2nd ed., rev.: G. V. Smithers, Oxford,\n            1952: 39-44.\n\n",
+            "folio": "ff. 110ra-110vb"
+        },
+        "BLCottVesAIII": {
+            "First Lines": "\nIhesu \u00feat wald efter mid night\u00dei suete face \u00feat was\n                    sa bright\u2026\n",
+            "Last Lines": "\n\u2026And giue us ioi for euermare\u00deat \u00feou us vnto boght.\n                    Amen\n",
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 1458-67.\n",
+            "folio": "ff. 141vv-142va"
+        },
+        "GottingenTheo107": {
+            "First Lines": "\njhesu \u00feat wald efter midnight\u00fei suete face \u00feat was\n                    sua bright\u2026\n",
+            "Last Lines": "\n\u2026And giue vs ioy for euermare\u00feat \u00feu vs to boght\n                    Amen\n",
+            "Note": "\nTwenty-one stanzas, often repeating \u2018b\u2019 in subsequent\n                    stanzas.",
+            "Editions": "\nMorris,  Richard,\n                        ed.  \n             Cursor Mundi.\nEETS\n         o.s. 57 (1874); repr. 1961; 59 (1875); repr. 1966; 62 (1876); repr.\n            1966; 66 (1877); repr. 1966; 68 (1878); repr. 1966; 101 (1893); repr. 1962: 1458-67.\n",
+            "folio": "ff. 168ra-169ra"
+        }
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "_id": 3171,
+    "_header": "Look before thee how thy life wasteth",
+    "Note": "Cf. an inscription in St Paul\u2019s Cathedral, pr. Camden (1633)\nXCamden, William. Remains concerning Britain. London: J. Philipot, 1633, 1636; repr. London: J. R. Smith, 1870; Hildesheim, NY: G. Olms, 1970, 386; 1876, 413.",
+    "Title(s)": "Respice ante te, retro te\u2026",
+    "Subjects": "inscriptions; advice, spiritual; death, approach of",
+    "Versification": "\u2014 five-line \u2014 aaabb",
+    "Bibliographic Ghosts": "London, British Library Harley 1706: Not found in this MS, though listed for f. 204v by Horstmann (1895)\nXHorstmann, Carl. Yorkshire Writers. 2 vols. London, Sonnenschein; New York: Macmillan, 1895-96 2:337, and for ff. 204-204v by Boffey and Edwards (2005)\nXJulia Boffey, and A. S. G. Edwards. A New Index of Middle English Verse. London: The British Library, 2005 in NIMEV 1937.",
+    "_description": "Respice ante te, retro te, etc. \u2014 five lines",
+    "_witnesses": {
+        "CamMag13": {
+            "First Lines": "\nLooke before the how thi lyfe wastythLooke behynde \u00fee how thy\n                    deth hastyth\u2026\n",
+            "Last Lines": "\n\u2026Looke man benethe \u00fee \u00fei payne withoute resteLooke\n                    man aboue \u00fee is yoye \u00feat euer shall leste\n",
+            "Editions": "\nJames,  Montague Rhodes. \n             A Descriptive Catalogue of the Manuscripts in the College Library of\n                Magdalene College Cambridge.\n         Cambridge: at the UP, 1909: 26.\n",
+            "folio": "f. 2"
+        },
+        "BodTan201": {
+            "folio": "pf. 1"
+        }
+    }
+}

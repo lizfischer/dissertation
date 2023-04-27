@@ -1,0 +1,20 @@
+{
+    "_id": 4564,
+    "_header": "Saint Bernard sayeth in his Book",
+    "Note": "Essentially the same as 5215 without the two introductory stanzas.",
+    "Author(s)": "Bernard of Clairveaux",
+    "Subjects": "transitoriness, of life",
+    "Versification": "\u2014 six-line \u2014 aabccb",
+    "_description": "St. Bernard on Man\u2019s three Foes \u2014 thirty-six 6-line stanzas (aabccb)",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "First Lines": "\nSeint Bernard sei\u00fe in his Bok\u00deat Mon is worm & wormes\n                    Cok\u2026\n",
+            "Last Lines": "\n\u2026And \u00feat we mote \u00fei sone seenWorld wi\u00fe outen\n                    ende. AMEN.\n",
+            "Attributed Author": "\nSeint Bernard (see 2008)",
+            "Attributed Title": "\nMon ha\u00fe \u00fereo enemys hard (see 2008)",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nVarnhagen,  Hermann. \n             \u201cZu mittelenglischen gedichten: IV-X.\u201d \n             Anglia\n         3 (1880): 59-67, 275-92, 415-25, 533-51: 285-91.\nFurnivall,  Frederick James,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 2.\nEETS\n         o.s. 117 (1901; repr. 1973): 511-22.\n\n",
+            "folio": "ff. 304rc2-304vb"
+        }
+    }
+}

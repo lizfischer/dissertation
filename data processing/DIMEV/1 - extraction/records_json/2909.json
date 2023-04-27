@@ -1,0 +1,23 @@
+{
+    "_id": 2909,
+    "_header": "Jesu that died on the rood for the love of me",
+    "Subjects": "Christ, prayers to; prayers, to Christ",
+    "Versification": "\u2014 four-line \u2014 aaaa",
+    "_description": "A prayer to Jesus for mercy \u2014 one monorhyming quatrain",
+    "_witnesses": {
+        "BodEngPoeta1": {
+            "Transcription": "\nIhesu \u00feat di\u021dedest on \u00fee Rodeffor \u00fee loue of\n                    meAnd bouhtest me wi\u00fe \u00fei blode\u00feou haue Merci of\n                    meWhat me lette\u00fe of eny \u00feingffor to loue \u00feeBeo hit\n                    me lef beo hit me lo\u00fe\u00deow do hit a wey from me. AMEN.\n",
+            "Note": "\nWritten as eight lines.",
+            "Facsimiles": "\n\nDoyle,  I. A.,\n                        ed.  \n             The Vernon Manuscript. A Facsimile of Bodleian Library, Oxford, MS Eng.\n                poet.a.1,\n          with an introduction by A. I. Doyle. Cambridge: D. S. Brewer, 1987. \nScase,  Wendy,  and  Nick Kennedy, eds.  \n             A facsimile edition of the Vernon manuscript: Oxford, Bodleian Library, MS. Eng. Poet. A. 1.\n         Oxford: The Bodleian Library, 2011. \n\n",
+            "Editions": "\n\nHorstmann,  Carl,\n                        ed.  \n             The Minor Poems of the Vernon Manuscript, Part 1.\nEETS\n         o.s. 98 (1892; repr. 1973): 22.\nPatterson,  Frank A. \n             The Middle English Penitential Lyric.\nColumbia University Studies in English.\n         New York: Columbia Press, 1911: 137.\n\n",
+            "folio": "f. 114vb3"
+        },
+        "Lincoln91": {
+            "Transcription": "\nIhesu that diede one the rude for \u00fee lufe of meAnd boghte me\n                    with thi precious blode thos hafe mercy of meWhatt me lettes of any thyng\n                    for to luffe theBe it me lefe be it me lathe do it always fra me\n",
+            "Note": "\nFollowed immediately by 2892 as if same work.",
+            "Facsimiles": "\nBrewer,  Derek Stanley,  and  A. E. B. Owen.  \n             \u201cIntroduction.\u201d \n             The Thornton Manuscript (Lincoln Cathedral MS. 91).\n         London: Scolar Press, 1975. \n",
+            "Editions": "\n\nPerry,  George G.,\n                        ed.  \n             Religious Pieces in Prose and Verse from R. Thornton\u2019s\n                MS.\nEETS\n         o.s. 26 (1867); repr. 1973: orig. ed. 78.\nHorstmann,  Carl,\n                        ed.  \n             Yorkshire Writers.\n         2 vols. London, Sonnenschein; New York: Macmillan, 1895-96: 1.364.\nComper,  Frances M. M. \n             The Life of Richard Rolle, Together with an Edition of his English\n                Lyrics.\n         London: J. M. Dent, 1928, 1933; New York: E. P. Dutton, 1929: 281.\n\n",
+            "folio": "f. 191v"
+        }
+    }
+}
