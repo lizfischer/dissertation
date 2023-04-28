@@ -1,6 +1,8 @@
 import json
 import csv
 from itertools import combinations
+import warnings
+warnings.simplefilter(action='ignore', category=FutureWarning)
 import pandas as pd
 
 
@@ -49,6 +51,8 @@ def make_adjacency_list(data: pd.DataFrame, node: str, edge: str, outfile: str =
 
     # Make pairs of nodes
     grouped = grouped.apply((lambda x: list(combinations(x, 2)))).explode()
+    grouped = grouped.dropna()
+    grouped = grouped.apply(lambda x: tuple(sorted(str(y) for y in x)))  # sort so they get deduplicated later
     grouped = pd.DataFrame(grouped)
     grouped[edge] = grouped.index
 
@@ -67,4 +71,5 @@ def make_adjacency_list(data: pd.DataFrame, node: str, edge: str, outfile: str =
     # Save out
     if outfile:
         grouped[['Source', 'Target', 'Label', 'Weight']].to_csv(outfile, index=False)
+    print(f"Wrote to {outfile}")
     return grouped[['Source', 'Target', 'Label', 'Weight']].reset_index()
