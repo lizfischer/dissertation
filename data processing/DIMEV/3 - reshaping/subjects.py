@@ -1,5 +1,6 @@
 import pandas as pd
 from itertools import combinations
+from adjacency_lists import make_adjacency_list
 
 # CREATE SUBJECTS NODES
 
@@ -50,38 +51,42 @@ def subject_subject_ms():
     return grouped
 
 
-def subject_author(save: bool = True):
+def rel_subject_author(save: bool = True):
     exploded['Author(s)'] = exploded['Author(s)'].str.split(';')
     explode_authors = exploded.explode(['Author(s)'])
     subjects_and_authors = explode_authors[['Subjects_Primary', "Author(s)", "Id"]]
     subjects_and_authors = subjects_and_authors[subjects_and_authors['Author(s)'].notna()]
-    subjects_and_authors = subjects_and_authors.rename(columns={"Subjects_Primary": "Source", "Author(s)": "Target",
+    subjects_and_authors_renamed = subjects_and_authors.rename(columns={"Subjects_Primary": "Source", "Author(s)": "Target",
                                                                 "Id": "Label"})
     if save:
-        subjects_and_authors.to_csv("../4 - gephi/rel_subject-author.csv", index=False)
+        subjects_and_authors_renamed.to_csv("../4 - gephi/rel_subject-author.csv", index=False)
     return subjects_and_authors
 
 
-def subject_subject_author():
-    subjects_and_authors = subject_author(save=False)
-    grouped = subjects_and_authors.groupby(['Target'])['Source'].apply(list)
-    grouped = grouped.apply((lambda x: list(combinations(x, 2)))).explode()
-
-    grouped = pd.DataFrame(grouped)
-    grouped['Author'] = grouped.index
-
-    grouped = grouped.groupby(['Source'])['Author'].apply(list)
-    grouped = pd.DataFrame(grouped)
-    grouped['Subjects'] = grouped.index
-    grouped['Weight'] = grouped['Author'].str.len()
-
-    # Concat MSS for Label
-    grouped['Author'] = grouped['Author'].apply(lambda x: ";".join(set(x)))
-    grouped[['Source', 'Target']] = pd.DataFrame(grouped['Subjects'].tolist(), index=grouped.index)
-    grouped = grouped.rename(columns={'Author': 'Label'})
-
-    # Save out
-    grouped[['Source', 'Target', 'Label', 'Weight']].to_csv("../4 - gephi/rel_subject-subject_author.csv", index=False)
+subject_author = rel_subject_author()
+subject_subject_author = make_adjacency_list(subject_author, "Subjects_Primary", "Author(s)",
+                                             "../4 - gephi/rel_subject-subject_author.csv")
+#
+# def subject_subject_author():
+#     subjects_and_authors = subject_author(save=False)
+#     grouped = subjects_and_authors.groupby(['Target'])['Source'].apply(list)
+#     grouped = grouped.apply((lambda x: list(combinations(x, 2)))).explode()
+#
+#     grouped = pd.DataFrame(grouped)
+#     grouped['Author'] = grouped.index
+#
+#     grouped = grouped.groupby(['Source'])['Author'].apply(list)
+#     grouped = pd.DataFrame(grouped)
+#     grouped['Subjects'] = grouped.index
+#     grouped['Weight'] = grouped['Author'].str.len()
+#
+#     # Concat MSS for Label
+#     grouped['Author'] = grouped['Author'].apply(lambda x: ";".join(set(x)))
+#     grouped[['Source', 'Target']] = pd.DataFrame(grouped['Subjects'].tolist(), index=grouped.index)
+#     grouped = grouped.rename(columns={'Author': 'Label'})
+#
+#     # Save out
+#     grouped[['Source', 'Target', 'Label', 'Weight']].to_csv("../4 - gephi/rel_subject-subject_author.csv", index=False)
 
 
 def subject_subject_text():
@@ -111,7 +116,8 @@ def subject_subject_text():
     grouped[['Source', 'Target', 'Label', 'Weight']].to_csv("../4 - gephi/rel_subject-subject_text.csv", index=False)
 
 
-save_subject_nodes()
+
+# save_subject_nodes()
 
 # subject_subject_text()
 # subject_subject_ms()

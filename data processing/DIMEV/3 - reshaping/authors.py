@@ -1,5 +1,7 @@
 import pandas as pd
 from itertools import combinations
+from adjacency_lists import make_adjacency_list
+
 
 # CREATE Authors NODES
 
@@ -19,36 +21,6 @@ def authors_nodes():
     authors_df['Type'] = 'Author'
     authors_df.to_csv("../4 - gephi/nodes_authors.csv", index=False)
     return authors_df
-
-
-def make_adjacency_list(data: pd.DataFrame, node: str, edge: str, outfile: str = None):
-    # Get nodes & edges
-    subjects_and_texts = data[[edge, node]]
-
-    # Group by edge
-    grouped = subjects_and_texts.groupby([edge])[node].apply(list)
-
-    # Make pairs of nodes
-    grouped = grouped.apply((lambda x: list(combinations(x, 2)))).explode()
-    grouped = pd.DataFrame(grouped)
-    grouped[edge] = grouped.index
-
-    # Group pairs of nodes
-    grouped = grouped.groupby([node])[edge].apply(list)
-    grouped = pd.DataFrame(grouped)
-    grouped[node] = grouped.index
-    grouped[edge] = grouped[edge].apply(set)
-    grouped['Weight'] = grouped[edge].str.len()
-
-    # Concat Edges for Label
-    grouped[edge] = grouped[edge].apply(lambda x: ";".join(set(x)))
-    grouped[['Source', 'Target']] = pd.DataFrame(grouped[node].tolist(), index=grouped.index)
-    grouped = grouped.rename(columns={edge: 'Label'})
-
-    # Save out
-    if outfile:
-        grouped[['Source', 'Target', 'Label', 'Weight']].to_csv(outfile, index=False)
-    return grouped[['Source', 'Target', 'Label', 'Weight']].reset_index()
 
 
 # ADD BACK MSS
