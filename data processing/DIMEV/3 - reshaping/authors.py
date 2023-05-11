@@ -1,5 +1,4 @@
 import pandas as pd
-from itertools import combinations
 from adjacency_lists import make_adjacency_list
 
 

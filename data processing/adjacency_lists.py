@@ -10,7 +10,7 @@ def text_text():
     with open('all_records.json', 'r') as infile:
         texts = json.load(infile)
 
-    with open('../4 - gephi/rel_text-text.csv', 'w') as outfile:
+    with open('DIMEV/4 - gephi/rel_text-text.csv', 'w') as outfile:
         writer = csv.writer(outfile, lineterminator='\n')
         writer.writerow(['Source', 'Target', 'Label', 'Type'])
         mss = {}
