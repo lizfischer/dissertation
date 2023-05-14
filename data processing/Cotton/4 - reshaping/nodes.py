@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 df = pd.read_csv("Tite-overlaps-merged.tsv", sep="\t")
 
@@ -10,9 +11,10 @@ def make_book_nodes():
     book_nodes["ID"] = books
     book_nodes["Label"] = books
     book_nodes["Type"] = "Book"
-    book_nodes.to_csv("nodes_books.csv", index=False)
+    book_nodes["Emperor"] = book_nodes["Label"].apply(lambda x: x.split(" ")[0])
+    book_nodes.to_csv("../5 - gephi/nodes_books.csv", index=False)
 
-
+make_book_nodes()
 def make_people_nodes():
     people = df["PERSON"].unique()
     people_nodes = pd.DataFrame(columns=["ID", "Label", "Type"])
