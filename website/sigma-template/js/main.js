@@ -135,7 +135,9 @@ function setupGUI(config) {
 		logo+=">";
 	} else if (config.logo.text) {
 		logo="<h1>"+config.logo.text+"</h1>";
-	}
+	} else {
+        $("#maintitle").hide();
+    }
 	if (config.logo.link) logo="<a href=\"" + config.logo.link + "\">"+logo+"</a>";
 	$("#maintitle").html(logo);
 

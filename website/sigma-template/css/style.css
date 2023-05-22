@@ -439,7 +439,7 @@ background-image:url('../images/rainbow.png');
 	margin-right: 10px;
 }
 #mainpanel #color-key h4 {
-	margin-bottom: 10px;
+	margin: 15px 0 10px 0;
 }
 #mainpanel .node-size {
 	background-image:url('../images/node-size.svg');
@@ -462,6 +462,12 @@ background-position: -51px -13px;
 background: url('../images/info.png');
 background-repeat: no-repeat;
 margin-left: 5px;
+
+}
+
+#mainpanel .info.cf {
+	margin: 10px 0 20px 0;
+
 }
 
 #copyright {
