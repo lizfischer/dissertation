@@ -605,18 +605,22 @@ function nodeActive(a) {
         e = [];
         temp_array = [];
         g = 0;
-        for (var attr in f.attributes) {
-            var d = f.attributes[attr],
+        for (var attr_name in f.attributes) {
+            var attr_value = f.attributes[attr_name],
                 h = "";
-			if (attr!=image_attribute) {
-                h = '<span><strong>' + attr + ':</strong> ' + d + '</span><br/>'
+			if (attr_name!=image_attribute) {
+                if (attr_value.includes("http://") || attr_value.includes("https://")) {
+                    console.log("link");
+                    h = '<span><strong>' + attr_name + ':</strong>' +
+                        ' <a href="' + attr_value + '" target="_blank">' + attr_value + '</a></span><br/>'
+                } else {
+                    h = '<span><strong>' + attr_name + ':</strong> ' + attr_value + '</span><br/>'
+                }
 			}
-            //temp_array.push(f.attributes[g].attr);
             e.push(h)
         }
 
         if (image_attribute) {
-        	//image_index = jQuery.inArray(image_attribute, temp_array);
         	$GP.info_name.html("<div><img src=" + f.attributes[image_attribute] + " style=\"vertical-align:middle\" /> <span onmouseover=\"sigInst._core.plotter.drawHoverNode(sigInst._core.graph.nodesIndex['" + b.id + '\'])" onmouseout="sigInst.refresh()">' + b.label + "</span></div>");
         } else {
         	$GP.info_name.html("<div><span onmouseover=\"sigInst._core.plotter.drawHoverNode(sigInst._core.graph.nodesIndex['" + b.id + '\'])" onmouseout="sigInst.refresh()">' + b.label + "</span></div>");
