@@ -11,8 +11,8 @@ def person_book_edges():
     edges["Target"] = df["Book"]
     edges["Type"] = "Undirected"
     edges["Avg Date"] = df["Date (display)"]
-    edges["Start Date"] = df["Date (earliest)"]# + "-01-01"
-    edges["End Date"] = df["Date (latest)"]# + "-12-31"
+    edges["Start Date"] = df["Date (earliest)"] if df["Date (earliest)"].str != "unknown date" else None# + "-01-01"
+    edges["End Date"] = df["Date (latest)"] if df["Date (latest)"].str != "unknown date" else None# + "-12-31"
     edges["Transcription"] = df["QUOTE_TRANSCRIPTION"]
     edges["Book Certainty"] = pd.isna(df["Uncertain Book"])
     edges["Date Certainty"] = pd.isna(df["Uncertain date"])

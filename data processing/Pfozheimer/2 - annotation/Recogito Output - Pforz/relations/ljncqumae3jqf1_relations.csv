@@ -1,0 +1,5 @@
+"source","relation","target","source_id","source_tags","target_id","target_tags"
+"John Baynes","Sold to","Richard Gough","21c656ca-35ed-43a5-82c7-d49c28af9fc4","","ed7cfb20-5746-447a-a3f3-9f820d1b3271",""
+"Richard Gough","Sold to","Heber","ed7cfb20-5746-447a-a3f3-9f820d1b3271","","b65b8074-3418-474a-8eef-d7cd5c397e2b",""
+"Heber","Sold to","Britwell","b65b8074-3418-474a-8eef-d7cd5c397e2b","","da0aab0a-6916-4c74-b89f-2ed5d34e54be",""
+"Pembroke","Sold to","Huntington","19e609b6-5aaa-4b0a-9401-9cfd1bc0be31","","91e39ff4-ca02-4616-bd52-a68b976a54c5",""

@@ -5,17 +5,23 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": "Liz Fischer"
+    "text": ""
   },
   "text": {
-    "more": "",
-    "intro": "",
-    "title": "DIMEV Texts and Manuscripts"
+    "more": "more info text",
+    "intro": "intro text here",
+    "title": "Cotton Loan Records",
+    "citation": "Liz Fischer 2023"
   },
   "legend": {
-    "edgeLabel": "Text in MS",
-    "colorLabel": "Node type + Named Author",
-    "nodeLabel": "Texts \u0026 MSS"
+    "edgeLabel": "Edges indicate a loan",
+    "colorLabel": "",
+    "nodeLabel": "Nodes represent People \u0026 Books",
+    "nodeSize": "Nodes sized by Degree",
+    "colorKey": {
+      "rgb(170,51,119)": "Book",
+      "rgb(102,204,238)": "Person"
+    }
   },
   "features": {
     "search": true,
@@ -37,13 +43,13 @@
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 14
+      "defaultLabelSize": 18
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
+      "maxEdgeSize": 3,
       "minEdgeSize": 0.2,
-      "minNodeSize": 1,
-      "maxNodeSize": 7
+      "minNodeSize": 5,
+      "maxNodeSize": 15
     },
     "mouseProperties": {
       "maxRatio": 20,

@@ -1,28 +1,28 @@
-var sigInst, canvas, $GP
+let sigInst, canvas, $GP
 
-//Load configuration file
-var config={};
+
+/** LOAD CONFIG **/
+let config = {};
 
 //For debug allow a config=file.json parameter to specify the config
 function GetQueryStringParams(sParam,defaultVal) {
-    var sPageURL = ""+window.location;//.search.substring(1);//This might be causing error in Safari?
-    if (sPageURL.indexOf("?")==-1) return defaultVal;
+    let sPageURL = ""+window.location;//.search.substring(1);//This might be causing error in Safari?
+    if (sPageURL.indexOf("?") === -1) return defaultVal;
     sPageURL=sPageURL.substr(sPageURL.indexOf("?")+1);    
-    var sURLVariables = sPageURL.split('&');
-    for (var i = 0; i < sURLVariables.length; i++) {
-        var sParameterName = sURLVariables[i].split('=');
-        if (sParameterName[0] == sParam) {
+    let sURLVariables = sPageURL.split('&');
+    for (let i = 0; i < sURLVariables.length; i++) {
+        let sParameterName = sURLVariables[i].split('=');
+        if (sParameterName[0] === sParam) {
             return sParameterName[1];
         }
     }
     return defaultVal;
 }
 
-
 jQuery.getJSON(GetQueryStringParams("config","config.json"), function(data, textStatus, jqXHR) {
 	config=data;
 	
-	if (config.type!="network") {
+	if (config.type !== "network") {
 		//bad config
 		alert("Invalid configuration settings.")
 		return;
@@ -43,11 +43,15 @@ Object.size = function(obj) {
     return size;
 };
 
+
+
+/** INITIALIZE SIGMA **/
+
 function initSigma(config) {
-	var data=config.data
-	
-	var drawProps, graphProps,mouseProps;
-	if (config.sigma && config.sigma.drawingProperties) 
+    const data = config.data;
+
+    let drawProps, graphProps, mouseProps;
+    if (config.sigma && config.sigma.drawingProperties)
 		drawProps=config.sigma.drawingProperties;
 	else
 		drawProps={
@@ -80,36 +84,35 @@ function initSigma(config) {
         minRatio: 0.75, // How far can we zoom out?
         maxRatio: 20, // How far can we zoom in?
     	};
-	
-    var a = sigma.init(document.getElementById("sigma-canvas")).drawingProperties(drawProps).graphProperties(graphProps).mouseProperties(mouseProps);
+
+    let a = sigma.init(document.getElementById("sigma-canvas")).drawingProperties(drawProps).graphProperties(graphProps).mouseProperties(mouseProps);
     sigInst = a;
     a.active = !1;
     a.neighbors = {};
     a.detail = !1;
 
 
-    dataReady = function() {//This is called as soon as data is loaded
-		a.clusters = {};
+    let dataReady = function () {//This is called as soon as data is loaded
+        a.clusters = {};
 
-		a.iterNodes(
-			function (b) { //This is where we populate the array used for the group select box
+        a.iterNodes(
+            function (b) { //This is where we populate the array used for the group select box
 
-				// note: index may not be consistent for all nodes. Should calculate each time. 
-				 // alert(JSON.stringify(b.attr.attributes[5].val));
-				// alert(b.x);
-				a.clusters[b.color] || (a.clusters[b.color] = []);
-				a.clusters[b.color].push(b.id);//SAH: push id not label
-			}
-		
-		);
-	
-		a.bind("upnodes", function (a) {
-		    nodeActive(a.content[0])
-		});
+                // note: index may not be consistent for all nodes. Should calculate each time.
+                // alert(JSON.stringify(b.attr.attributes[5].val));
+                // alert(b.x);
+                a.clusters[b.color] || (a.clusters[b.color] = []);
+                a.clusters[b.color].push(b.id);//SAH: push id not label
+            }
+        );
 
-		a.draw();
-		configSigmaElements(config);
-	}
+        a.bind("upnodes", function (a) {
+            nodeActive(a.content[0])
+        });
+
+        a.draw();
+        configSigmaElements(config);
+    }
 
     if (data.indexOf("gexf")>0 || data.indexOf("xml")>0)
         a.parseGexf(data,dataReady);
@@ -119,9 +122,12 @@ function initSigma(config) {
 }
 
 
+
+/** INTERFACE **/
+
 function setupGUI(config) {
 	// Initialise main interface elements
-	var logo=""; // Logo elements
+    let logo = ""; // Logo elements
 	if (config.logo.file) {
 
 		logo = "<img src=\"" + config.logo.file +"\"";
@@ -129,11 +135,14 @@ function setupGUI(config) {
 		logo+=">";
 	} else if (config.logo.text) {
 		logo="<h1>"+config.logo.text+"</h1>";
-	}
+	} else {
+        $("#maintitle").hide();
+    }
 	if (config.logo.link) logo="<a href=\"" + config.logo.link + "\">"+logo+"</a>";
 	$("#maintitle").html(logo);
 
 	// #title
+    $("#page-title").html(config.text.title);
 	$("#title").html("<h2>"+config.text.title+"</h2>");
 
 	// #titletext
@@ -141,11 +150,17 @@ function setupGUI(config) {
 
 	// More information
 	if (config.text.more) {
-		$("#information").html(config.text.more);
+		$("#description").html(config.text.more);
 	} else {
 		//hide more information link
 		$("#moreinformation").hide();
 	}
+	// Citation
+	if (config.text.citation) {
+        $("#citation").html(config.text.citation);
+    } else {
+
+    }
 
 	// Legend
 
@@ -163,13 +178,34 @@ function setupGUI(config) {
 		//hide more information link
 		$(".edge").hide();
 	}
-	// Colours
-	if (config.legend.nodeLabel) {
+	// Colours (general)
+	if (config.legend.colorLabel) {
 		$(".colours").next().html(config.legend.colorLabel);
 	} else {
-		//hide more information link
-		$(".colours").hide();
+		//hide gradient image
+        $(".colours").hide();
 	}
+    // Color Key
+    if (config.legend.colorKey) {
+        for (const [color, label] of Object.entries(config.legend.colorKey)) {
+            let dot_element = $("<dt></dt>").css('background-color', color);
+            let label_element= $("<dd></dd>").text(label);
+            $("#color-key").append(dot_element, label_element);
+        }
+
+    } else {
+        //hide key section
+        $("#color-key").hide();
+    }
+    // Node Size
+    if (config.legend.nodeSize) {
+        $(".node-size").css('background', null)
+        $(".node-size").next().html(config.legend.nodeSize);
+    } else {
+        //hide more information link
+        $(".node-size").hide();
+    }
+
 
 	$GP = {
 		calculating: !1,
@@ -276,16 +312,27 @@ function configSigmaElements(config) {
     $GP.bg = $(sigInst._core.domElements.bg);
     $GP.bg2 = $(sigInst._core.domElements.bg2);
     var a = [],
-        b,x=1;
-		for (b in sigInst.clusters) a.push('<div style="line-height:12px"><a href="#' + b + '"><div style="width:40px;height:12px;border:1px solid #fff;background:' + b + ';display:inline-block"></div> Group ' + (x++) + ' (' + sigInst.clusters[b].length + ' members)</a></div>');
+        group_color,x=1;
+		for (group_color in sigInst.clusters) {
+            let group_label = 'Group ' + (x++);
+            // If there's a color key, use those labels for the group names
+		    if (config.legend.colorKey && group_color in config.legend.colorKey) {
+                group_label = config.legend.colorKey[group_color]
+            }
+            a.push('<div style="line-height:12px">' +
+                '<a href="#' + group_color + '">' +
+                    '<div style="width:40px;height:12px;border:1px solid #fff;background:' + group_color + ';display:inline-block"></div> ' +
+                   group_label + ' (' + sigInst.clusters[group_color].length + ' members)' +
+                '</a></div>');
+        }
     //a.sort();
     $GP.cluster.content(a.join(""));
-    b = {
+    group_color = {
         minWidth: 400,
         maxWidth: 800,
         maxHeight: 600
     };//        minHeight: 300,
-    $("a.fb").fancybox(b);
+    $("a.fb").fancybox(group_color);
     $("#zoom").find("div.z").each(function () {
         var a = $(this),
             b = a.attr("rel");
@@ -318,7 +365,7 @@ function configSigmaElements(config) {
         showGroups(!0);
         break;
     case "information":
-        $.fancybox.open($("#information"), b);
+        $.fancybox.open($("#information"), group_color);
         break;
     default:
         $GP.search.exactMatch = !0, $GP.search.search(a)
@@ -512,7 +559,7 @@ function nodeActive(a) {
 		}
 		return f;
 	}
-	
+
 	/*console.log("mutual:");
 	console.log(mutual);
 	console.log("incoming:");
@@ -560,18 +607,22 @@ function nodeActive(a) {
         e = [];
         temp_array = [];
         g = 0;
-        for (var attr in f.attributes) {
-            var d = f.attributes[attr],
+        for (var attr_name in f.attributes) {
+            var attr_value = f.attributes[attr_name],
                 h = "";
-			if (attr!=image_attribute) {
-                h = '<span><strong>' + attr + ':</strong> ' + d + '</span><br/>'
+			if (attr_name!=image_attribute) {
+                if (attr_value.includes("http://") || attr_value.includes("https://")) {
+                    console.log("link");
+                    h = '<span><strong>' + attr_name + ':</strong>' +
+                        ' <a href="' + attr_value + '" target="_blank">' + attr_value + '</a></span><br/>'
+                } else {
+                    h = '<span><strong>' + attr_name + ':</strong> ' + attr_value + '</span><br/>'
+                }
 			}
-            //temp_array.push(f.attributes[g].attr);
             e.push(h)
         }
 
         if (image_attribute) {
-        	//image_index = jQuery.inArray(image_attribute, temp_array);
         	$GP.info_name.html("<div><img src=" + f.attributes[image_attribute] + " style=\"vertical-align:middle\" /> <span onmouseover=\"sigInst._core.plotter.drawHoverNode(sigInst._core.graph.nodesIndex['" + b.id + '\'])" onmouseout="sigInst.refresh()">' + b.label + "</span></div>");
         } else {
         	$GP.info_name.html("<div><span onmouseover=\"sigInst._core.plotter.drawHoverNode(sigInst._core.graph.nodesIndex['" + b.id + '\'])" onmouseout="sigInst.refresh()">' + b.label + "</span></div>");
@@ -606,6 +657,12 @@ function showCluster(a) {
             var d = sigInst._core.graph.nodesIndex[b[c]];
             !0 == d.hidden && (e.push(b[c]), d.hidden = !1, d.attr.lineWidth = !1, d.attr.color = d.color, f.push('<li class="membership"><a href="#'+d.label+'" onmouseover="sigInst._core.plotter.drawHoverNode(sigInst._core.graph.nodesIndex[\'' + d.id + "'])\" onclick=\"nodeActive('" + d.id + '\')" onmouseout="sigInst.refresh()">' + d.label + "</a></li>"))
         }
+
+        /*TODO: Make edge info available in "Connections" section of side panel
+        * Turn the <li> elements into toggles that show/hide the edge info below
+        * */
+
+
         sigInst.clusters[a] = e;
         sigInst.draw(2, 2, 2, 2);
         $GP.info_name.html("<b>" + a + "</b>");

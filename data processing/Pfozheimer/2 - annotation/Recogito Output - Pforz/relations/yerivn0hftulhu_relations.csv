@@ -1,0 +1,7 @@
+"source","relation","target","source_id","source_tags","target_id","target_tags"
+"Selby","Next in chain","Thorne Drury","d43f3344-b72c-4342-abe7-3c6f518661b0","","bf2f632e-8439-44ae-966f-6dfb27cb41d2",""
+"Sotheby’s","Next in chain","Selby","92c4fe39-127d-470b-93eb-ca9a59616d64","","d43f3344-b72c-4342-abe7-3c6f518661b0",""
+"The Hagen","Next in chain","Clawson","8d1ac7c8-ad43-4feb-ac26-ef5b525d790d","","f1ed127d-d62f-4bc0-8b88-d676c44200ba",""
+"R.S.Turner","Next in chain","Sotheby’s","308547e8-01c7-4b98-be2d-1df256a4ab0d","","cecea442-d057-4b16-8c58-e6a2f6a7bc59",""
+"Poor","Next in chain","Huntington","f29de667-6eb9-4f9b-8580-bd009804a424","","fd537724-b086-4b33-8f1e-a5ebcafff54f",""
+"The Lefferts","Next in chain","Poor","6c6fdace-57b8-4413-9800-17fc5016370c","","f29de667-6eb9-4f9b-8580-bd009804a424",""
