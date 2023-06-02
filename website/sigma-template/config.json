@@ -5,32 +5,28 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": ""
+    "text": "Liz Fischer"
   },
   "text": {
-    "more": "more info text",
-    "intro": "intro text here",
-    "title": "DIMEV Texts and Manuscripts",
-    "citation": "Liz Fischer 2023"
+    "more": "",
+    "intro": "",
+    "title": "Pforzheimer Provenance by Seller"
   },
   "legend": {
-    "edgeLabel": "Edges indicate a loan",
+    "edgeLabel": "Books",
     "colorLabel": "",
-    "nodeLabel": "Nodes represent People \u0026 Books",
-    "nodeSize": "Nodes sized by Degree",
-    "colorKey": {
-      "rgb(170,51,119)": "Book",
-      "rgb(102,204,238)": "Person"
-    }
+    "nodeLabel": "Seller"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "color",
+    "groupSelectorAttribute": false,
     "hoverBehavior": "dim"
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
-    "imageAttribute": false
+    "imageAttribute": false,
+    "nodeAttributes": ["type", "Degree", "Betweenness Centrality", "title","findingaid"],
+    "edgeAttributes": ["Edge Weight", "Transactions"]
   },
   "sigma": {
     "drawingProperties": {
@@ -43,13 +39,13 @@
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 18
+      "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
+      "maxEdgeSize": 10,
       "minEdgeSize": 0.2,
-      "minNodeSize": 5,
-      "maxNodeSize": 15
+      "minNodeSize": 1,
+      "maxNodeSize": 7
     },
     "mouseProperties": {
       "maxRatio": 20,
