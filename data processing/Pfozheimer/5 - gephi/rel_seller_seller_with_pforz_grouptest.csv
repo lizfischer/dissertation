@@ -1,0 +1,608 @@
+Source,Target,Books,Years,Edge Label,Weight
+A.H.Joline,Mark P. Robinson,['447'],[''],"['Book 447: Undated, Lot n/a ']",1
+Adams,Pforzheimer,['948'],['1931'],"['Book 948: 1931, Lot 259 ']",1
+Aldenham,Pforzheimer,"['App.3', 'App.5']","['1937', '1937']","['Book App.3: 1937, Lot Lot 271 ', 'Book App.5: 1937, Lot Lot 214 ']",2
+Alexander Dalrymple,Heber,['App.9'],['1809'],"['Book App.9: 1809, Lot n/a ']",1
+Alexander Young,Henkels Miscellany,['430'],['1890'],"['Book 430: 1890, Lot 354 ']",1
+Alfred Morrison,Pforzheimer,"['819', 'MS.103a', 'MS.103b', 'MS. 103c', 'MS.104a', 'MS.104c', 'MS.104d', 'MS.105C', 'MS.105D', 'MS.105G', 'MS.10a', 'MS.10B', 'MS.11A', 'MS.11C', 'MS.120', 'MS.121', 'MS.122', 'MS.123', 'MS.124', 'MS.125', 'MS.126', 'MS.127', 'MS.128', 'MS.129', 'MS.130', 'MS.131', 'MS.132', 'MS.133', 'MS.134', 'MS.135', 'MS.136', 'MS.137', 'MS.138', 'MS.139', 'MS.13A', 'MS.140', 'MS.141', 'MS.142', 'MS.143', 'MS.144', 'MS.145', 'MS.146', 'MS.147', 'MS.148', 'MS.149', 'MS.150', 'MS.151', 'MS.152', 'MS.153', 'MS.154', 'MS.155', 'MS.156', 'MS.157', 'MS.158', 'MS.159', 'MS.160', 'MS.161', 'MS.162', 'MS.163', 'MS.164', 'MS.165', 'MS.166', 'MS.167', 'MS.168', 'MS.1a', 'MS.1b', 'MS. 1c', 'MS.1d', 'MS.1e', 'MS.1f', 'MS.1g', 'MS.1h', 'MS.1j', 'MS.1l', 'MS.1m', 'MS.1n', 'MS.1p', 'MS.1q', 'MS.1r', 'MS.1s', 'MS.2a', 'MS.35A', 'MS.35D', 'MS.35E', 'MS.35F', 'MS.35G', 'MS.35H', 'MS.35I', 'MS.35M', 'MS.35N', 'MS.35O', 'MS.35P', 'MS.35Q', 'MS.41a', 'MS.41b', 'MS.41c', 'MS 108', 'MS 112']","['1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919']","['Book 819: 1919, Lot 3058 ', 'Book MS.103a: 1919, Lot 2744 ', 'Book MS.103b: 1919, Lot 2744 ', 'Book MS. 103c: 1919, Lot 2757 ', 'Book MS.104a: 1919, Lot 2744 ', 'Book MS.104c: 1919, Lot 2678 ', 'Book MS.104d: 1919, Lot 2709 ', 'Book MS.105C: 1919, Lot 3042 ', 'Book MS.105D: 1919, Lot 3043 ', 'Book MS.105G: 1919, Lot 3043 ', 'Book MS.10a: 1919, Lot 2933 ', 'Book MS.10B: 1919, Lot 2933 ', 'Book MS.11A: 1919, Lot 2803 ', 'Book MS.11C: 1919, Lot 2933 ', 'Book MS.120: 1919, Lot 3027 ', 'Book MS.121: 1919, Lot 3027 ', 'Book MS.122: 1919, Lot 2754 ', 'Book MS.123: 1919, Lot 2754 ', 'Book MS.124: 1919, Lot 2754 ', 'Book MS.125: 1919, Lot 2754 ', 'Book MS.126: 1919, Lot 2814 ', 'Book MS.127: 1919, Lot 3027 ', 'Book MS.128: 1919, Lot 2814 ', 'Book MS.129: 1919, Lot 2814 ', 'Book MS.130: 1919, Lot 2814 ', 'Book MS.131: 1919, Lot 3027 ', 'Book MS.132: 1919, Lot 3027 ', 'Book MS.133: 1919, Lot 2754 ', 'Book MS.134: 1919, Lot 2814 ', 'Book MS.135: 1919, Lot 2814 ', 'Book MS.136: 1919, Lot 2814 ', 'Book MS.137: 1919, Lot 2814 ', 'Book MS.138: 1919, Lot 2814 ', 'Book MS.139: 1919, Lot 2814 ', 'Book MS.13A: 1919, Lot 2933 ', 'Book MS.140: 1919, Lot 2748 ', 'Book MS.141: 1919, Lot 2814 ', 'Book MS.142: 1919, Lot 2814 ', 'Book MS.143: 1919, Lot 2814 ', 'Book MS.144: 1919, Lot 2814 ', 'Book MS.145: 1919, Lot 2814 ', 'Book MS.146: 1919, Lot 2814 ', 'Book MS.147: 1919, Lot 2814 ', 'Book MS.148: 1919, Lot 2814 ', 'Book MS.149: 1919, Lot 2814 ', 'Book MS.150: 1919, Lot 2748 ', 'Book MS.151: 1919, Lot 2754 ', 'Book MS.152: 1919, Lot 3027 ', 'Book MS.153: 1919, Lot 3027 ', 'Book MS.154: 1919, Lot 2754 ', 'Book MS.155: 1919, Lot 2754 ', 'Book MS.156: 1919, Lot 2754 ', 'Book MS.157: 1919, Lot 2754 ', 'Book MS.158: 1919, Lot 2754 ', 'Book MS.159: 1919, Lot 2754 ', 'Book MS.160: 1919, Lot 2754 ', 'Book MS.161: 1919, Lot 2754 ', 'Book MS.162: 1919, Lot 2754 ', 'Book MS.163: 1919, Lot 2754 ', 'Book MS.164: 1919, Lot 2754 ', 'Book MS.165: 1919, Lot 2754 ', 'Book MS.166: 1919, Lot 2754 ', 'Book MS.167: 1919, Lot 2754 ', 'Book MS.168: 1919, Lot 2754 ', 'Book MS.1a: 1919, Lot 2744 ', 'Book MS.1b: 1919, Lot 2744 ', 'Book MS. 1c: 1919, Lot 2694 ', 'Book MS.1d: 1919, Lot 2744 ', 'Book MS.1e: 1919, Lot 2697 ', 'Book MS.1f: 1919, Lot 2697 ', 'Book MS.1g: 1919, Lot 2744 ', 'Book MS.1h: 1919, Lot 2744 ', 'Book MS.1j: 1919, Lot 2744 ', 'Book MS.1l: 1919, Lot 2744 ', 'Book MS.1m: 1919, Lot 2744 ', 'Book MS.1n: 1919, Lot 3059 ', 'Book MS.1p: 1919, Lot 2744 ', 'Book MS.1q: 1919, Lot 2744 ', 'Book MS.1r: 1919, Lot 2744 ', 'Book MS.1s: 1919, Lot 2744 ', 'Book MS.2a: 1919, Lot 2744 ', 'Book MS.35A: 1919, Lot 2824 ', 'Book MS.35D: 1919, Lot 2820 ', 'Book MS.35E: 1919, Lot 2822 ', 'Book MS.35F: 1919, Lot 2822 ', 'Book MS.35G: 1919, Lot 2822 ', 'Book MS.35H: 1919, Lot 2822 ', 'Book MS.35I: 1919, Lot 2822 ', 'Book MS.35M: 1919, Lot 2701 ', 'Book MS.35N: 1919, Lot 3028 ', 'Book MS.35O: 1919, Lot 2702 ', 'Book MS.35P: 1919, Lot 2702 ', 'Book MS.35Q: 1919, Lot 2702 ', 'Book MS.41a: 1919, Lot 3028 ', 'Book MS.41b: 1919, Lot 3028 ', 'Book MS.41c: 1919, Lot 3028 ', 'Book MS 108: 1919, Lot n/a ', 'Book MS 112: 1919, Lot 3057 ']",98
+Am. Art Assoc.,Seth Terry,['362'],['1926'],"['Book 362: 1926, Lot 159 ']",1
+Ames,Thos. Barret Brydges Barrett,['42'],[''],"['Book 42: Undated, Lot n/a ']",1
+Amsterdam sale,Alfred Morrison,['MS.156'],['1882'],"['Book MS.156: 1882, Lot 165 ']",1
+Anderson’s,Jones,['243'],['1919'],"['Book 243: 1919, Lot 243 ']",1
+Anderson’s,Pforzheimer,['538'],['1920'],"['Book 538: 1920, Lot 562 ']",1
+Arbury,Clawson,"['415', '480']","['1920', '1921']","['Book 415: 1920, Lot 131 ', 'Book 480: 1921, Lot 169 ']",2
+Arbury,G.D.Smith,"['131', '357', '899', '437', '372-1', '667']","['1920', '1920', '1920', '1920', '1920', '1920']","['Book 131: 1920, Lot 52 ', 'Book 357: 1920, Lot 100 ', 'Book 899: 1920, Lot 297 ', 'Book 437: 1920, Lot 45 ', 'Book 372-1: 1920, Lot 113 ', 'Book 667: 1920, Lot 202 ']",6
+Arbury,Smith,['1094'],['1920'],"['Book 1094: 1920, Lot 33 ']",1
+Archbishop Wrangham,Britwell,['426'],['1843'],"['Book 426: 1843, Lot 1093 ']",1
+Arnold,D.F. Appleton,['464'],['1901'],"['Book 464: 1901, Lot 159 ']",1
+Arnold,Hagen,"['631', '842']","['1901', '1901']","['Book 631: 1901, Lot 263 ', 'Book 842: 1901, Lot 295 ']",2
+Ashburnham,Hoe,"['248', '945']","['1897', '1898']","['Book 248: 1897, Lot 1259 ', 'Book 945: 1898, Lot 3424 ']",2
+Ashburnham,J.T. Adams,['855'],['1898'],"['Book 855: 1898, Lot 3337 ']",1
+Ashburnham,Lefferts,['17'],['1897'],"['Book 17: 1897, Lot 164 ']",1
+Ashburnham,Ross Winans,['173'],['1897'],"['Book 173: 1897, Lot 1052 ']",1
+Ashburnham,Thomas Brooke,['494'],['1897'],"['Book 494: 1897, Lot 1984 ']",1
+Ashburnham,Winans,['1025'],[''],"['Book 1025: Undated, Lot n/a ']",1
+Ayles- ford,Pforzheimer,['298'],['1888'],"['Book 298: 1888, Lot 731 ']",1
+B.A.P.,Heber,['943'],['1815'],"['Book 943: 1815, Lot 686 ']",1
+B.A.P.No.554,Heber,['786'],[''],"['Book 786: Undated, Lot n/a ']",1
+B.H. Bright,Corser,['417'],['1845'],"['Book 417: 1845, Lot 5758 ']",1
+B.H. Bright,Pforzheimer,['21'],['1845'],"['Book 21: 1845, Lot n/a ']",1
+B.H. Bright,T.D.C. Graham,['167'],['1845'],"['Book 167: 1845, Lot 2980 ']",1
+Bangs,Hagen,['372-2'],['1901'],"['Book 372-2: 1901, Lot 76 ']",1
+Baron Bolland,Sewall,['143'],['1840'],"['Book 143: 1840, Lot n/a ']",1
+Baron Bolland,Utterson,['965'],['1840'],"['Book 965: 1840, Lot 2150 ']",1
+Beckford,Hoe,['341'],['1882'],"['Book 341: 1882, Lot 2675 ']",1
+Benoit le Court,E.Ph.Goldschmidt,['75'],[''],"['Book 75: Undated, Lot n/a ']",1
+Beverly Chew,Huntington,['305'],[''],"['Book 305: Undated, Lot n/a ']",1
+Bierstadt,Lefferts,['1054'],['1897'],"['Book 1054: 1897, Lot 2281 ']",1
+Bierstadt,Pforzheimer,['412'],['1897'],"['Book 412: 1897, Lot 839 ']",1
+Bindley,Bright,['204'],['1819'],"['Book 204: 1819, Lot 1624 ']",1
+Bindley,Heber,"['130', '502', '303', '794', '1081']","['1818', '1818', '1820', '1819', '1820']","['Book 130: 1818, Lot 1379 ', 'Book 502: 1818, Lot 2042 ', 'Book 303: 1820, Lot 163 ', 'Book 794: 1819, Lot 1002 ', 'Book 1081: 1820, Lot 408 ']",5
+Bindley,Hibbert,"['942', '747']","['1819', '1819']","['Book 942: 1819, Lot 1132 ', 'Book 747: 1819, Lot 1787 ']",2
+Birket Foster,Wheeler,['127'],['1894'],"['Book 127: 1894, Lot 49 ']",1
+Bishop Daly,Bishop Gott,['63'],['1858'],"['Book 63: 1858, Lot 168 ']",1
+Bishop Gott,Hagen,['63'],['1908'],"['Book 63: 1908, Lot 23 ']",1
+Bishop White Kennett,George Stokes,['67'],[''],"['Book 67: Undated, Lot n/a ']",1
+Black,Britwell,['1078'],['1844'],"['Book 1078: 1844, Lot 3582 ']",1
+Blandford,Britwell,['App.2'],['1819'],"['Book App.2: 1819, Lot Lot 1151 ']",1
+Bliss,Corser,['5'],['1858'],"['Book 5: 1858, Lot n/a ']",1
+Bliss,Hoe,['530'],['1858'],"['Book 530: 1858, Lot 1499 ']",1
+Bliss,Huth,['24'],['1858'],"['Book 24: 1858, Lot 109 ']",1
+Bowle,Chalmers,"['944', '946']","['1790', '1790']","['Book 944: 1790, Lot 10004 ', 'Book 946: 1790, Lot 10004 ']",2
+Bridgewater,Bindley,['502'],[''],"['Book 502: Undated, Lot n/a ']",1
+Bridgewater,Devonshire,['550'],['1802'],"['Book 550: 1802, Lot 129 ']",1
+Bridgewater,Heber,['142'],[''],"['Book 142: Undated, Lot n/a ']",1
+Bridgewater,Huntington,"['772', '817', '159', '903', '934', '270', '261', '1001', '473', '534', '427', '344', '1034', '544', '108', '643', '644', '647', '858', '701', '695', '226', '411', '484', '1016', '138', '1105', '1104', '752', '678', '1088', '392', '395', '751', '664']","['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']","['Book 772: Undated, Lot n/a ', 'Book 817: Undated, Lot n/a ', 'Book 159: Undated, Lot n/a ', 'Book 903: Undated, Lot n/a ', 'Book 934: Undated, Lot n/a ', 'Book 270: Undated, Lot n/a ', 'Book 261: Undated, Lot n/a ', 'Book 1001: Undated, Lot n/a ', 'Book 473: Undated, Lot n/a ', 'Book 534: Undated, Lot n/a ', 'Book 427: Undated, Lot n/a ', 'Book 344: Undated, Lot n/a ', 'Book 1034: Undated, Lot n/a ', 'Book 544: Undated, Lot n/a ', 'Book 108: Undated, Lot n/a ', 'Book 643: Undated, Lot n/a ', 'Book 644: Undated, Lot n/a ', 'Book 647: Undated, Lot n/a ', 'Book 858: Undated, Lot n/a ', 'Book 701: Undated, Lot n/a ', 'Book 695: Undated, Lot n/a ', 'Book 226: Undated, Lot n/a ', 'Book 411: Undated, Lot n/a ', 'Book 484: Undated, Lot n/a ', 'Book 1016: Undated, Lot n/a ', 'Book 138: Undated, Lot n/a ', 'Book 1105: Undated, Lot n/a ', 'Book 1104: Undated, Lot n/a ', 'Book 752: Undated, Lot n/a ', 'Book 678: Undated, Lot n/a ', 'Book 1088: Undated, Lot n/a ', 'Book 392: Undated, Lot n/a ', 'Book 395: Undated, Lot n/a ', 'Book 751: Undated, Lot n/a ', 'Book 664: Undated, Lot n/a ']",35
+Bridgewater,Pforzheimer,"['1061', '847']","['', '']","['Book 1061: Undated, Lot n/a ', 'Book 847: Undated, Lot n/a ']",2
+Bridgewater,Sotheby’s,['659'],[''],"['Book 659: Undated, Lot n/a ']",1
+Bright,Britwell,"['861', '440']","['1845', '1845']","['Book 861: 1845, Lot 4531 ', 'Book 440: 1845, Lot 1542 ']",2
+Bright,Comerford,['770'],['1845'],"['Book 770: 1845, Lot 4109 ']",1
+Bright,Corser,['1068'],['1845'],"['Book 1068: 1845, Lot n/a ']",1
+Bright,Heber,['938'],['1845'],"['Book 938: 1845, Lot 5239 ']",1
+Bright,Pforzheimer,['204'],['1845'],"['Book 204: 1845, Lot 2442 ']",1
+Brinley Nicholson,W.A. White,['156'],['1893'],"['Book 156: 1893, Lot n/a ']",1
+British Museum,Baron Bolland,['143'],['1788'],"['Book 143: 1788, Lot n/a ']",1
+British Museum,Edwin Freshfield,['622'],['1787'],"['Book 622: 1787, Lot n/a ']",1
+British Museum,Pforzheimer,['App.11'],['May  1938'],"['Book App.11: May  1938, Lot n/a ']",1
+Britwell,Aldenham,['App.5'],['1854'],"['Book App.5: 1854, Lot Lot 241 ']",1
+Britwell,Clawson,"['160', '246', '280', '166', '264', '784', '783', '303', '794', '428', '416', '417', '551', '636', '219', '446', '616', '431', '435', '440', '432']","['1922', '1921', '1922', '1921', '1922', '1920', '1920', '1922', '1920', '1919', '1921', '1922', '1921', '1921', '1919', '1923', '1921', '1922', '1919', '1923', '1923']","['Book 160: 1922, Lot 130 ', 'Book 246: 1921, Lot 45 ', 'Book 280: 1922, Lot 224 ', 'Book 166: 1921, Lot 95 ', 'Book 264: 1922, Lot 201 ', 'Book 784: 1920, Lot 133 ', 'Book 783: 1920, Lot 133 ', 'Book 303: 1922, Lot 243 ', 'Book 794: 1920, Lot 243 ', 'Book 428: 1919, Lot 51 ', 'Book 416: 1921, Lot 161 ', 'Book 417: 1922, Lot 685 ', 'Book 551: 1921, Lot 112 ', 'Book 636: 1921, Lot 153 ', 'Book 219: 1919, Lot 181 ', 'Book 446: 1923, Lot 337 ', 'Book 616: 1921, Lot 145 ', 'Book 431: 1922, Lot 333 ', 'Book 435: 1919, Lot 45 ', 'Book 440: 1923, Lot 329 ', 'Book 432: 1923, Lot 322 ']",21
+Britwell,Gaisford,['153'],['1854'],"['Book 153: 1854, Lot 161 ']",1
+Britwell,Jones,"['429', '451', '762']","['1919', '1919', '1919']","['Book 429: 1919, Lot 35 ', 'Book 451: 1919, Lot 4 ', 'Book 762: 1919, Lot 64 ']",3
+Britwell,Pforzheimer,"['1007', '1015', '1046', '1060', '1064', '1064', '1065', '1069', '1078', '1083', '1084', '124', '128', '150', '162', '175', '196', '2', '238', '241', '27', '272', '304A', '363', '382-1', '385', '396', '398', '399', '404', '405', '407', '426', '436', '444', '455', '460', '502', '506', '507', '508', '510', '529', '535', '595', '6', '607', '617', '625', '626', '633', '648', '661', '670', '689', '690', '705', '732', '733', '734', '736', '747', '750', '763', '765', '773', '786', '790', '802', '807', '83', '853', '856', '860', '861', '86-104', '862', '864', '866', '883', '890', '891', '896', '901', '941', '943', '947', '952', '975', '976', '979', '981', '982', '988', '989', 'App.2', 'MS.116']","['1924', '1924', '1925', '1921', '1924', '1924', '1923', '1925', '1924', '1924', '1924', '1926', '1926', '1922', '1923', '1926', '1927', '1922', '1926', '1923', '1924', '1922', '1921', '1924', '1923', '1923', '1922', '1924', '1924', '1924', '1924', '1922', '1919', '1919', '1922', '1922', '1926', '1927', '1919', '1922', '1924', '1922', '1922', '1924', '1924', '1922', '', '1922', '1926', '1925', '1922', '1924', '1923', '1925', '1924', '1920', '1922', '1924', '1924', '1923', '1923', '1922', '1922', '1919', '1922', '1922', '1924', '1922', '1923', '1923', '1923', '1924', '1923', '1924', '1923', '1925', '1924', '1923', '1923', '1919', '1919', '1919', '1923', '1919', '1924', '1922', '1922', '1922', '1919', '1919', '1919', '1923', '1922', '1921', '1921', '1919', '1924']","['Book 1007: 1924, Lot 762 ', 'Book 1015: 1924, Lot 573 ', 'Book 1046: 1925, Lot 651 ', 'Book 1060: 1921, Lot 319 ', 'Book 1064: 1924, Lot 817 ', 'Book 1064: 1924, Lot n/a ', 'Book 1065: 1923, Lot 712 ', 'Book 1069: 1925, Lot 31 ', 'Book 1078: 1924, Lot 832 ', 'Book 1083: 1924, Lot 839 ', 'Book 1084: 1924, Lot 839 ', 'Book 124: 1926, Lot 106 ', 'Book 128: 1926, Lot 108 ', 'Book 150: 1922, Lot 133 ', 'Book 162: 1923, Lot 681 ', 'Book 175: 1926, Lot 128 ', 'Book 196: 1927, Lot 486 ', 'Book 2: 1922, Lot n/a ', 'Book 238: 1926, Lot 122 ', 'Book 241: 1923, Lot 187 ', 'Book 27: 1924, Lot 38 ', 'Book 272: 1922, Lot 218 ', 'Book 304A: 1921, Lot 49 ', 'Book 363: 1924, Lot 679 ', 'Book 382-1: 1923, Lot 287 ', 'Book 385: 1923, Lot 295 ', 'Book 396: 1922, Lot 412 ', 'Book 398: 1924, Lot 712 ', 'Book 399: 1924, Lot 342 ', 'Book 404: 1924, Lot 341 ', 'Book 405: 1924, Lot 338 ', 'Book 407: 1922, Lot 424 ', 'Book 426: 1919, Lot 52 ', 'Book 436: 1919, Lot 39 ', 'Book 444: 1922, Lot 349 ', 'Book 455: 1922, Lot 357 ', 'Book 460: 1926, Lot 244 ', 'Book 502: 1927, Lot 967 ', 'Book 506: 1919, Lot 56 ', 'Book 507: 1922, Lot 646 ', 'Book 508: 1924, Lot 435 ', 'Book 510: 1922, Lot 687 ', 'Book 529: 1922, Lot 388 ', 'Book 535: 1924, Lot 456 ', 'Book 595: 1924, Lot 485 ', 'Book 6: 1922, Lot n/a ', 'Book 607: Undated, Lot n/a ', 'Book 617: 1922, Lot 440 ', 'Book 625: 1926, Lot 552 ', 'Book 626: 1925, Lot 557 ', 'Book 633: 1922, Lot 450 ', 'Book 648: 1924, Lot 522 ', 'Book 661: 1923, Lot 449 ', 'Book 670: 1925, Lot 400 ', 'Book 689: 1924, Lot 547 ', 'Book 690: 1920, Lot 211 ', 'Book 705: 1922, Lot 482 ', 'Book 732: 1924, Lot 554 ', 'Book 733: 1924, Lot 555 ', 'Book 734: 1923, Lot 483 ', 'Book 736: 1923, Lot 481 ', 'Book 747: 1922, Lot 49s ', 'Book 750: 1922, Lot 496 ', 'Book 763: 1919, Lot 66 ', 'Book 765: 1922, Lot 499 ', 'Book 773: 1922, Lot 506 ', 'Book 786: 1924, Lot 603 ', 'Book 790: 1922, Lot 532 ', 'Book 802: 1923, Lot 65 ', 'Book 807: 1923, Lot 547 ', 'Book 83: 1923, Lot 82 ', 'Book 853: 1924, Lot 687 ', 'Book 856: 1923, Lot 596 ', 'Book 860: 1924, Lot 694 ', 'Book 861: 1923, Lot 601 ', 'Book 86-104: 1925, Lot 401 ', 'Book 862: 1924, Lot 695 ', 'Book 864: 1923, Lot 599 ', 'Book 866: 1923, Lot 598 ', 'Book 883: 1919, Lot 88 ', 'Book 890: 1919, Lot 86 ', 'Book 891: 1919, Lot 87 ', 'Book 896: 1923, Lot 602 ', 'Book 901: 1919, Lot 89 ', 'Book 941: 1924, Lot 714 ', 'Book 943: 1922, Lot 615 ', 'Book 947: 1922, Lot 615 ', 'Book 952: 1922, Lot 618 ', 'Book 975: 1919, Lot 102 ', 'Book 976: 1919, Lot 97 ', 'Book 979: 1919, Lot 98 ', 'Book 981: 1923, Lot 638 ', 'Book 982: 1922, Lot n/a ', 'Book 988: 1921, Lot 729 ', 'Book 989: 1921, Lot 730 ', 'Book App.2: 1919, Lot Lot 180 ', 'Book MS.116: 1924, Lot 721 ']",97
+Britwell,R.E. Gadthorne Hardy,['130'],['1923'],"['Book 130: 1923, Lot 121 ']",1
+Britwell,Seth Terry,['850'],['1922'],"['Book 850: 1922, Lot 601 ']",1
+Britwell,Sotheby’s,['449A'],['1925'],"['Book 449A: 1925, Lot 353 ']",1
+Britwell,W.A. White,['161'],['1921'],"['Book 161: 1921, Lot 26 ']",1
+Browsholme,Eshton Hall,['390'],[''],"['Book 390: Undated, Lot n/a ']",1
+C.B.Foote,Hagen,['627'],['1895'],"['Book 627: 1895, Lot 191 ']",1
+C.C.Jones Jr.,C.L.F. Robinson,['461'],[''],"['Book 461: Undated, Lot n/a ']",1
+C.G Milnes Gaskell,Pforzheimer,['1056'],['1924'],"['Book 1056: 1924, Lot 49 ']",1
+C.L.F. Robinson,Chew,['781'],['1917'],"['Book 781: 1917, Lot 467 ']",1
+C.L.F. Robinson,Pforzheimer,"['255', '384', '461', '727']","['1917', '1917', '1917', '1917']","['Book 255: 1917, Lot 203 ', 'Book 384: 1917, Lot 261 ', 'Book 461: 1917, Lot 323 ', 'Book 727: 1917, Lot 447 ']",4
+Caldecott,Britwell,"['404', '750']","['1833', '1833']","['Book 404: 1833, Lot 432 ', 'Book 750: 1833, Lot 911 ']",2
+Chalmers,Britwell,"['1007', '451', '979']","['', '1842', '1842']","['Book 1007: Undated, Lot n/a ', 'Book 451: 1842, Lot 180 ', 'Book 979: 1842, Lot 1115 ']",3
+Chalmers,Corser,"['944', '946']","['1842', '1842']","['Book 944: 1842, Lot 567 ', 'Book 946: 1842, Lot 567 ']",2
+Chalmers,Utterson,['App.5'],['1842'],"['Book App.5: 1842, Lot Lot  1484 ']",1
+Charlemont,Huth,['632'],['1860'],"['Book 632: 1860, Lot 67 ']",1
+"Charles Bruce, Viscount Ampthill",Sotheby’s,['796'],['1919'],"['Book 796: 1919, Lot 256 ']",1
+"Charles Bruce, Viscount Ampthill",Van Antwerp,['183'],['1919'],"['Book 183: 1919, Lot 125 ']",1
+Charles Butler of Warren Wood,Steeves,['780'],['1911'],"['Book 780: 1911, Lot 844 ']",1
+Charles Campbell,M.J.Perry,['911 M'],[''],"['Book 911 M: Undated, Lot n/a ']",1
+Charles Clark of Totham Hall,H.G.Read,['769'],[''],"['Book 769: Undated, Lot n/a ']",1
+Charles George Milnes Gaskell,Pforzheimer,['378'],['1924'],"['Book 378: 1924, Lot 34 ']",1
+Charles II,Charlemont,['632'],[''],"['Book 632: Undated, Lot n/a ']",1
+Charles Lilburn,Hagen,"['967', '852']","['', '']","['Book 967: Undated, Lot n/a ', 'Book 852: Undated, Lot n/a ']",2
+"Charles, Viscount Bruce of Ampthillt",Marquis of Ailesbury,['377'],[''],"['Book 377: Undated, Lot n/a ']",1
+Chew,Huntington,"['150', '382-2', '1070', '45', '950', '107', '474', '487', '486', '1062', '450', '1092', '1081', '735', '337', '504']","['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']","['Book 150: Undated, Lot n/a ', 'Book 382-2: Undated, Lot n/a ', 'Book 1070: Undated, Lot n/a ', 'Book 45: Undated, Lot n/a ', 'Book 950: Undated, Lot n/a ', 'Book 107: Undated, Lot n/a ', 'Book 474: Undated, Lot n/a ', 'Book 487: Undated, Lot n/a ', 'Book 486: Undated, Lot n/a ', 'Book 1062: Undated, Lot n/a ', 'Book 450: Undated, Lot n/a ', 'Book 1092: Undated, Lot n/a ', 'Book 1081: Undated, Lot n/a ', 'Book 735: Undated, Lot n/a ', 'Book 337: Undated, Lot n/a ', 'Book 504: Undated, Lot n/a ']",16
+Chew,Pforzheimer,"['1089', '1091-1', '171', '267', '308', '486', '546', '565', '583', '681', '781', '851']","['1924', '1924', '1924', '1924', '', '1924', '1924', '1924', '1924', '1924', '1924', '1924']","['Book 1089: 1924, Lot 461 ', 'Book 1091-1: 1924, Lot 463 ', 'Book 171: 1924, Lot 71 ', 'Book 267: 1924, Lot 119 ', 'Book 308: Undated, Lot n/a ', 'Book 486: 1924, Lot 205 ', 'Book 546: 1924, Lot 227 ', 'Book 565: 1924, Lot 231 ', 'Book 583: 1924, Lot 239 ', 'Book 681: 1924, Lot n/a ', 'Book 781: 1924, Lot 415 ', 'Book 851: 1924, Lot 371 ']",12
+Christie-Miller,Pforzheimer,['1011'],['1924'],"['Book 1011: 1924, Lot 772 ']",1
+Church,Huntington,"['888', '537', '739']","['', '', '']","['Book 888: Undated, Lot n/a ', 'Book 537: Undated, Lot n/a ', 'Book 739: Undated, Lot n/a ']",3
+Church estate sale,Huntington,['1010'],['1916'],"['Book 1010: 1916, Lot 1137 ']",1
+Clarence S. Bement,Pforzheimer,['478'],['1923'],"['Book 478: 1923, Lot 771 ']",1
+Clawson,Pforzheimer,"['1059', '1063', '1068', '1073', '1074', '1075', '108', '1080', '1085', '1095', '11', '131', '159', '160', '166', '167', '180', '219', '22', '223', '227', '228', '229', '24', '241', '243', '245', '246', '261', '264', '268', '270', '271', '273', '274', '280', '292', '293', '294', '299', '300', '303', '351', '364', '366', '368', '371', '373', '377', '381', '388', '397', '413', '414', '415', '416', '417', '425', '428', '429', '430', '431', '432', '433', '434', '435', '439', '440', '446', '45', '452', '47', '471', '472', '473', '477', '480', '483', '484', '487', '504', '518', '520', '521', '523', '524', '526', '540', '544', '547', '550', '551', '552', '57', '599', '616', '620', '623', '632', '634', '636', '639', '643', '664', '67', '673', '674', '678', '686', '692', '693', '694', '695', '697', '7', '700', '701', '703', '704', '706', '718', '73', '737', '762', '764', '766', '767', '783', '784', '789', '792', '794', '838', '839', '841', '881', '885', '887', '892', '895', '898', '900', '903', '924', '945', '987', '990', '992', 'MS.10a']","['1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1920', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1918', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1920', '1926', '1926', '1926', '1926', '1926', '1936', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1926', '1920']","['Book 1059: 1926, Lot 877 ', 'Book 1063: 1926, Lot 891 ', 'Book 1068: 1926, Lot 894 ', 'Book 1073: 1926, Lot 898 ', 'Book 1074: 1926, Lot 899 ', 'Book 1075: 1926, Lot 896 ', 'Book 108: 1926, Lot 94 ', 'Book 1080: 1926, Lot 916 ', 'Book 1085: 1926, Lot 909 ', 'Book 1095: 1926, Lot 919 ', 'Book 11: 1926, Lot n/a ', 'Book 131: 1926, Lot 110 ', 'Book 159: 1926, Lot 128 ', 'Book 160: 1926, Lot 115 ', 'Book 166: 1926, Lot 405 ', 'Book 167: 1926, Lot 404 ', 'Book 180: 1926, Lot 137 ', 'Book 219: 1926, Lot 154 ', 'Book 22: 1920, Lot 8 ', 'Book 223: 1926, Lot 158 ', 'Book 227: 1926, Lot 160 ', 'Book 228: 1926, Lot 161 ', 'Book 229: 1926, Lot 163 ', 'Book 24: 1926, Lot 19 ', 'Book 241: 1926, Lot 172 ', 'Book 243: 1926, Lot 182 ', 'Book 245: 1926, Lot 174 ', 'Book 246: 1926, Lot 179 ', 'Book 261: 1926, Lot 193 ', 'Book 264: 1926, Lot 206 ', 'Book 268: 1926, Lot 217 ', 'Book 270: 1926, Lot 218 ', 'Book 271: 1926, Lot 229 ', 'Book 273: 1918, Lot 238 ', 'Book 274: 1926, Lot 230 ', 'Book 280: 1926, Lot 233 ', 'Book 292: 1926, Lot 252 ', 'Book 293: 1926, Lot 247 ', 'Book 294: 1926, Lot 243 ', 'Book 299: 1926, Lot 246 ', 'Book 300: 1926, Lot 254 ', 'Book 303: 1926, Lot 257 ', 'Book 351: 1926, Lot 395 ', 'Book 364: 1926, Lot 279 ', 'Book 366: 1926, Lot 283 ', 'Book 368: 1926, Lot 34 ', 'Book 371: 1926, Lot 43 ', 'Book 373: 1926, Lot 38 ', 'Book 377: 1926, Lot 287 ', 'Book 381: 1926, Lot 294 ', 'Book 388: 1926, Lot 498 ', 'Book 397: 1926, Lot 450 ', 'Book 413: 1926, Lot 781 ', 'Book 414: 1926, Lot 318 ', 'Book 415: 1926, Lot 317 ', 'Book 416: 1926, Lot 590 ', 'Book 417: 1926, Lot 872 ', 'Book 425: 1926, Lot 332 ', 'Book 428: 1926, Lot 326 ', 'Book 429: 1926, Lot 323 ', 'Book 430: 1926, Lot 333 ', 'Book 431: 1926, Lot 529 ', 'Book 432: 1926, Lot 331 ', 'Book 433: 1926, Lot 335 ', 'Book 434: 1926, Lot 306 ', 'Book 435: 1926, Lot 325 ', 'Book 439: 1926, Lot 95 ', 'Book 440: 1926, Lot 336 ', 'Book 446: 1926, Lot 347 ', 'Book 45: 1926, Lot 31 ', 'Book 452: 1926, Lot 349 ', 'Book 47: 1926, Lot 35 ', 'Book 471: 1926, Lot 367 ', 'Book 472: 1926, Lot 396 ', 'Book 473: 1926, Lot 369 ', 'Book 477: 1926, Lot 364 ', 'Book 480: 1926, Lot 386 ', 'Book 483: 1926, Lot 346 ', 'Book 484: 1926, Lot 388 ', 'Book 487: 1926, Lot 391 ', 'Book 504: 1926, Lot 409 ', 'Book 518: 1926, Lot 418 ', 'Book 520: 1926, Lot 419 ', 'Book 521: 1926, Lot 888 ', 'Book 523: Undated, Lot n/a ', 'Book 524: 1926, Lot 420 ', 'Book 526: 1926, Lot 424 ', 'Book 540: 1926, Lot 437 ', 'Book 544: 1926, Lot 440 ', 'Book 547: 1926, Lot 438 ', 'Book 550: 1926, Lot 441 ', 'Book 551: 1926, Lot 436 ', 'Book 552: 1926, Lot 442 ', 'Book 57: 1926, Lot 56 ', 'Book 599: 1920, Lot 291 ', 'Book 616: 1926, Lot 465 ', 'Book 620: 1926, Lot 466 ', 'Book 623: 1926, Lot 464 ', 'Book 632: 1926, Lot 477 ', 'Book 634: 1926, Lot 476 ', 'Book 636: 1936, Lot 473 ', 'Book 639: 1926, Lot 559 ', 'Book 643: 1926, Lot 493 ', 'Book 664: 1926, Lot 499 ', 'Book 67: 1926, Lot 788 ', 'Book 673: 1926, Lot 509 ', 'Book 674: 1926, Lot 510 ', 'Book 678: 1926, Lot 523 ', 'Book 686: 1926, Lot 527 ', 'Book 692: 1926, Lot 542 ', 'Book 693: 1926, Lot 538 ', 'Book 694: 1926, Lot 535 ', 'Book 695: 1926, Lot 539 ', 'Book 697: 1926, Lot 544 ', 'Book 7: Undated, Lot n/a ', 'Book 700: 1926, Lot 543 ', 'Book 701: 1926, Lot 546 ', 'Book 703: 1926, Lot 48 ', 'Book 704: 1926, Lot 534 ', 'Book 706: 1926, Lot 536 ', 'Book 718: 1926, Lot 576 ', 'Book 73: 1926, Lot 54 ', 'Book 737: 1926, Lot 585 ', 'Book 762: 1926, Lot 605 ', 'Book 764: 1926, Lot 607 ', 'Book 766: 1926, Lot 609 ', 'Book 767: 1926, Lot 610 ', 'Book 783: 1926, Lot 620 ', 'Book 784: 1926, Lot 620 ', 'Book 789: 1926, Lot 628 ', 'Book 792: 1926, Lot 630 ', 'Book 794: 1926, Lot 635 ', 'Book 838: 1926, Lot 682 ', 'Book 839: 1926, Lot 688 ', 'Book 841: 1926, Lot 690 ', 'Book 881: 1926, Lot 724 ', 'Book 885: 1926, Lot 743 ', 'Book 887: 1926, Lot 719 ', 'Book 892: 1926, Lot 723 ', 'Book 895: 1926, Lot 716 ', 'Book 898: 1926, Lot 741 ', 'Book 900: 1926, Lot 745 ', 'Book 903: 1926, Lot 738 ', 'Book 924: 1926, Lot 775 ', 'Book 945: 1926, Lot 783 ', 'Book 987: 1926, Lot 800 ', 'Book 990: 1926, Lot 801 ', 'Book 992: 1926, Lot 802 ', 'Book MS.10a: 1920, Lot 112 ']",149
+Col. Grant,Locker,['739'],[''],"['Book 739: Undated, Lot n/a ']",1
+Cole,Britwell,['732'],['1837'],"['Book 732: 1837, Lot n/a ']",1
+Colin Campbell,Hagen,['911 D'],[''],"['Book 911 D: Undated, Lot n/a ']",1
+Collier,Locker,['181'],[''],"['Book 181: Undated, Lot n/a ']",1
+Comerford,G.D.Smith,['770'],['1881'],"['Book 770: 1881, Lot 2839 ']",1
+Comerford,W.A. White,['576'],['1881'],"['Book 576: 1881, Lot 2309 ']",1
+Cornelius Paine,Lefferts,['15'],['1891'],"['Book 15: 1891, Lot 268 ']",1
+Corser,Britwell,"['417', '636', '765']","['1871', '1871', '1870']","['Book 417: 1871, Lot 373 ', 'Book 636: 1871, Lot 214 ', 'Book 765: 1870, Lot 564 ']",3
+Corser,Fountaine,['883'],['1871'],"['Book 883: 1871, Lot 404 ']",1
+Corser,Huth,"['151', '944', '184', '1068', '946', '536', '5', '413', '414', '730', '371', '567']","['1869', '1870', '1868', '1871', '1870', '1870', '1870', '1869', '1870', '1870', '1871', '1870']","['Book 151: 1869, Lot 77 ', 'Book 944: 1870, Lot 742 ', 'Book 184: 1868, Lot 516 ', 'Book 1068: 1871, Lot 635 ', 'Book 946: 1870, Lot 742 ', 'Book 536: 1870, Lot 4371 ', 'Book 5: 1870, Lot n/a ', 'Book 413: 1869, Lot 604 ', 'Book 414: 1870, Lot 291 ', 'Book 730: 1870, Lot 516 ', 'Book 371: 1871, Lot 68 ', 'Book 567: 1870, Lot 377 ']",12
+Corser,Kershaw,['1'],['1870'],"['Book 1: 1870, Lot Lot 825 ']",1
+Corser,McKee,['425'],['1869'],"['Book 425: 1869, Lot 416 ']",1
+Corser,R.H. Turner,['22'],['1868'],"['Book 22: 1868, Lot 145 ']",1
+Corser,Thomas Brooke,['965'],['1870'],"['Book 965: 1870, Lot 807 ']",1
+Corser,Tite,['527'],['1869'],"['Book 527: 1869, Lot 712 ']",1
+Cox,Clawson,['57'],['1923'],"['Book 57: 1923, Lot 14312 ']",1
+Cox,Leo,"['71', '72']","['1920', '1920']","['Book 71: 1920, Lot 2394 ', 'Book 72: 1920, Lot 2394 ']",2
+Cox,Pforzheimer,"['391', '74']","['', '1920']","['Book 391: Undated, Lot 2784 ', 'Book 74: 1920, Lot 2984 ']",2
+Crawford,Chew,['486'],[''],"['Book 486: Undated, Lot n/a ']",1
+Crawford,Gaisford,['890'],['1876'],"['Book 890: 1876, Lot 1034 ']",1
+Crawford,White,['386'],['1891'],"['Book 386: 1891, Lot 1277 ']",1
+Crossleyt,Pearson,['938'],[''],"['Book 938: Undated, Lot n/a ']",1
+Curzon-Zouche,Pforzheimer,['62'],['1920'],"['Book 62: 1920, Lot n/a ']",1
+D.F. Appleton,H.W. Poor,['464'],['1903'],"['Book 464: 1903, Lot 250 ']",1
+"Dalrymple Library at Newhailes, Musselburgh",Pforzheimer,"['App.10', 'App.4', 'App.7', 'App.8']","['1937', '1937', '1937', '1937']","['Book App.10: 1937, Lot Lot 104 ', 'Book App.4: 1937, Lot Lot 171 ', 'Book App.7: 1937, Lot Lot 212 ', 'Book App.8: 1937, Lot Lot 118 ']",4
+Daniel,Huth,"['942', '940', '1059']","['1864', '1864', '1864']","['Book 942: 1864, Lot 1527 ', 'Book 940: 1864, Lot 1529 ', 'Book 1059: 1864, Lot 1739 ']",3
+Dawson Turner,Alfred Morrison,['MS.35O'],['1859'],"['Book MS.35O: 1859, Lot 679 ']",1
+Dent,Britwell,['705'],['1827'],"['Book 705: 1827, Lot 1143 ']",1
+Devonshire,Collier,['181'],[''],"['Book 181: Undated, Lot n/a ']",1
+Devonshire,Huntington,"['779', '804', '148', '902', '323', '281', '282', '182', '187', '132', '918', '919', '920', '1075', '40', '42', '832', '836', '831', '835', '900', '1003', '999', '792', '489', '418', '550', '549', '543', '554', '85', '80', '638', '634', '637', '865', '698', '696-2', '121', '485', '476', '488', '1009', '1005', '1096', '759', '756', '753', '685', '684', '687', '624', '628', '362A', '365', '360', '367', '666', '663', '675', '575', '574', '558', '566', '563']","['', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '']","['Book 779: Undated, Lot n/a ', 'Book 804: Undated, Lot n/a ', 'Book 148: Undated, Lot n/a ', 'Book 902: Undated, Lot n/a ', 'Book 323: Undated, Lot n/a ', 'Book 281: Undated, Lot n/a ', 'Book 282: Undated, Lot n/a ', 'Book 182: Undated, Lot n/a ', 'Book 187: Undated, Lot n/a ', 'Book 132: Undated, Lot n/a ', 'Book 918: Undated, Lot n/a ', 'Book 919: Undated, Lot n/a ', 'Book 920: Undated, Lot n/a ', 'Book 1075: Undated, Lot n/a ', 'Book 40: Undated, Lot n/a ', 'Book 42: Undated, Lot n/a ', 'Book 832: Undated, Lot n/a ', 'Book 836: Undated, Lot n/a ', 'Book 831: Undated, Lot n/a ', 'Book 835: Undated, Lot n/a ', 'Book 900: Undated, Lot n/a ', 'Book 1003: Undated, Lot n/a ', 'Book 999: Undated, Lot n/a ', 'Book 792: Undated, Lot n/a ', 'Book 489: Undated, Lot n/a ', 'Book 418: Undated, Lot n/a ', 'Book 550: Undated, Lot n/a ', 'Book 549: Undated, Lot n/a ', 'Book 543: Undated, Lot n/a ', 'Book 554: Undated, Lot n/a ', 'Book 85: Undated, Lot n/a ', 'Book 80: Undated, Lot n/a ', 'Book 638: Undated, Lot n/a ', 'Book 634: Undated, Lot n/a ', 'Book 637: Undated, Lot n/a ', 'Book 865: Undated, Lot n/a ', 'Book 698: Undated, Lot n/a ', 'Book 696-2: Undated, Lot n/a ', 'Book 121: Undated, Lot n/a ', 'Book 485: Undated, Lot n/a ', 'Book 476: Undated, Lot n/a ', 'Book 488: Undated, Lot n/a ', 'Book 1009: Undated, Lot n/a ', 'Book 1005: Undated, Lot n/a ', 'Book 1096: Undated, Lot n/a ', 'Book 759: Undated, Lot n/a ', 'Book 756: Undated, Lot n/a ', 'Book 753: Undated, Lot n/a ', 'Book 685: Undated, Lot n/a ', 'Book 684: Undated, Lot n/a ', 'Book 687: Undated, Lot n/a ', 'Book 624: Undated, Lot n/a ', 'Book 628: Undated, Lot n/a ', 'Book 362A: Undated, Lot n/a ', 'Book 365: Undated, Lot n/a ', 'Book 360: Undated, Lot n/a ', 'Book 367: Undated, Lot n/a ', 'Book 666: Undated, Lot n/a ', 'Book 663: Undated, Lot n/a ', 'Book 675: Undated, Lot n/a ', 'Book 575: Undated, Lot n/a ', 'Book 574: Undated, Lot n/a ', 'Book 558: Undated, Lot n/a ', 'Book 566: Undated, Lot n/a ', 'Book 563: Undated, Lot n/a ']",65
+Devonshire,Pforzheimer,"['322', '932']","['', '']","['Book 322: Undated, Lot n/a ', 'Book 932: Undated, Lot n/a ']",2
+Dillon,Alfred Morrison,"['MS 108', '819', 'MS 112']","['1869', '1869', '1869']","['Book MS 108: 1869, Lot n/a ', 'Book 819: 1869, Lot 488 ', 'Book MS 112: 1869, Lot n/a ']",3
+Dodd,Pforzheimer,"['242', '317', '37']","['1918', '1918', '1918']","['Book 242: 1918, Lot 192 ', 'Book 317: 1918, Lot 230 ', 'Book 37: 1918, Lot 65 ']",3
+Duke of Leeds,Hagen,['54'],['1896'],"['Book 54: 1896, Lot 170 ']",1
+Duke of Sussex,Bierstadt,['412'],[''],"['Book 412: Undated, Lot n/a ']",1
+E.D.Church,Huntington,['771'],[''],"['Book 771: Undated, Lot n/a ']",1
+E.D.Church,Pforzheimer,['677'],['1916'],"['Book 677: 1916, Lot 1083 ']",1
+E.F.Leo,Pforzheimer,"['814', '815', '816']","['1921', '1921', '1921']","['Book 814: 1921, Lot 1205 ', 'Book 815: 1921, Lot 205 ', 'Book 816: 1921, Lot 205 ']",3
+E.M.Cox,Clawson,"['245', '452']","['1920', '']","['Book 245: 1920, Lot 2586 ', 'Book 452: Undated, Lot 2845 ']",2
+E.Ph.Goldschmidt,Pforzheimer,['75'],[''],"['Book 75: Undated, Lot n/a ']",1
+Earl of Albermarle,Pforzheimer,['456'],['1921'],"['Book 456: 1921, Lot 332 ']",1
+Earl of Essex,Nassau,['405'],[''],"['Book 405: Undated, Lot n/a ']",1
+Ed. W.Hennell|Walpole March,Pforzheimer,['225'],['1920'],"['Book 225: 1920, Lot 88 ']",1
+Edmund Ferrers,Hagen,['491'],[''],"['Book 491: Undated, Lot n/a ']",1
+"Edward Copleston, Bishop of Llandaff",Dillon,['MS 108'],['1850'],"['Book MS 108: 1850, Lot n/a ']",1
+Edwin Freshfield,Pforzheimer,['622'],['1933'],"['Book 622: 1933, Lot 144 ']",1
+Emmet,Pforzheimer,"['191', '577', '775']","['1918', '1918', '1918']","['Book 191: 1918, Lot 201 ', 'Book 577: 1918, Lot 526 ', 'Book 775: 1918, Lot 608 ']",3
+English Literature from London,Clawson,['504'],['1919'],"['Book 504: 1919, Lot 43a ']",1
+English Literature from London,Pforzheimer,"['1001', '150', '177', '224', '32', '382-2', '450', '476', '485', '488', '554', '563', '566', '713', '818', '971']","['1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919']","['Book 1001: 1919, Lot 320a ', 'Book 150: 1919, Lot 169 ', 'Book 177: 1919, Lot 178 ', 'Book 224: 1919, Lot 218 ', 'Book 32: 1919, Lot 59a ', 'Book 382-2: 1919, Lot 333 ', 'Book 450: 1919, Lot 385a ', 'Book 476: 1919, Lot 3494 ', 'Book 485: 1919, Lot 394 ', 'Book 488: 1919, Lot 394g ', 'Book 554: 1919, Lot 437a ', 'Book 563: 1919, Lot 439 ', 'Book 566: 1919, Lot 4398 ', 'Book 713: 1919, Lot 579 ', 'Book 818: 1919, Lot 80 ', 'Book 971: 1919, Lot 748 ']",16
+Eshton Hall,Huntington,['390'],['1916'],"['Book 390: 1916, Lot 269 ']",1
+Evans,Frederick Perkins,['901'],['1825'],"['Book 901: 1825, Lot n/a ']",1
+F.P. Hodges,Charles Lilburn,['852'],[''],"['Book 852: Undated, Lot n/a ']",1
+Fairfax Papers,Alfred Morrison,"['MS.1m', 'MS.1l']","['1852', '1852']","['Book MS.1m: 1852, Lot 1287 ', 'Book MS.1l: 1852, Lot 1282 ']",2
+Farmer,Bindley,['1081'],['1798'],"['Book 1081: 1798, Lot 7377 ']",1
+Farmer,Heber,['160'],['1798'],"['Book 160: 1798, Lot 6443 ']",1
+Farmer,Hibbert,['648'],['1798'],"['Book 648: 1798, Lot 6152 ']",1
+Farmer,Reed,['981'],[''],"['Book 981: Undated, Lot n/a ']",1
+Farmer,Ross Winans,['798'],['1798'],"['Book 798: 1798, Lot 7247 ']",1
+Fillingham,Heber,"['1064', '1064']","['1805', '1805']","['Book 1064: 1805, Lot 489 ', 'Book 1064: 1805, Lot 489 ']",2
+Fillingham,Kemble,['543'],['1805'],"['Book 543: 1805, Lot 341 ']",1
+Forman,Jones,['67'],['1920'],"['Book 67: 1920, Lot 780 ']",1
+Forman,Pforzheimer,"['1032', '1033', '1039', '1040', '1041', '1041A', '1042', '1043', '1045', '1047', '1091-2', '146', '199', '253', '562', '777']","['1920', '1920', '1920', '1920', '1920', '1920', '1920', '1920', '1920', '1920', '1920', '1920', '1920', '1920', '1920', '1920']","['Book 1032: 1920, Lot 909 ', 'Book 1033: 1920, Lot 900 ', 'Book 1039: 1920, Lot 895 ', 'Book 1040: 1920, Lot 893 ', 'Book 1041: 1920, Lot 894 ', 'Book 1041A: 1920, Lot 897 ', 'Book 1042: 1920, Lot 902 ', 'Book 1043: 1920, Lot 896 ', 'Book 1045: 1920, Lot 901 ', 'Book 1047: 1920, Lot 910 ', 'Book 1091-2: 1920, Lot 971 ', 'Book 146: 1920, Lot 161 ', 'Book 199: 1920, Lot 198 ', 'Book 253: 1920, Lot 215 ', 'Book 562: 1920, Lot 355 ', 'Book 777: 1920, Lot 531 ']",16
+Forster,Heber,"['399', '363']","['1806', '1806']","['Book 399: 1806, Lot 919 ', 'Book 363: 1806, Lot 682 ']",2
+Fountaine,Britwell,['883'],['1893'],"['Book 883: 1893, Lot 447 ']",1
+Fountaine,Clawson,['737'],['1902'],"['Book 737: 1902, Lot 597 ']",1
+Fountaine,Huth,['152'],['1902'],"['Book 152: 1902, Lot 189 ']",1
+Fountaine,Jones,"['223', '1101']","['1902', '1902']","['Book 223: 1902, Lot 157 ', 'Book 1101: 1902, Lot 938 ']",2
+Fowle,Locker,['662'],[''],"['Book 662: Undated, Lot n/a ']",1
+Frederick Perkins,Britwell,['901'],['1889'],"['Book 901: 1889, Lot 1710 ']",1
+Frederick Perkins,Hagen,['422'],['1889'],"['Book 422: 1889, Lot 864 ']",1
+Frederick Perkins,Huth,['251'],['1889'],"['Book 251: 1889, Lot 541 ']",1
+Frederick Perkins,McKee,['372-2'],['1889'],"['Book 372-2: 1889, Lot 748 ']",1
+Freeling,Britwell,"['429', '432', '435', '431']","['1836', '1836', '1836', '1836']","['Book 429: 1836, Lot 1250 ', 'Book 432: 1836, Lot 1279 ', 'Book 435: 1836, Lot 1267 ', 'Book 431: 1836, Lot 1260 ']",4
+Freeling,Corser,"['151', '425', '413']","['1836', '1836', '1836']","['Book 151: 1836, Lot 866 ', 'Book 425: 1836, Lot 1254 ', 'Book 413: 1836, Lot 2084 ']",3
+G.D.Smith,Clawson,"['521', '131']","['1920', '1920']","['Book 521: 1920, Lot 358 ', 'Book 131: 1920, Lot 46 ']",2
+G.D.Smith,Pforzheimer,"['357', '372-1', '437', '466', '572', '667', '769', '770', '780', '899']","['1920', '1920', '1920', '1920', '1916', '1920', '1920', '1920', '1920', '1920']","['Book 357: 1920, Lot 33 ', 'Book 372-1: 1920, Lot 117 ', 'Book 437: 1920, Lot 37 ', 'Book 466: 1920, Lot 440 ', 'Book 572: 1916, Lot 450 ', 'Book 667: 1920, Lot 233 ', 'Book 769: 1920, Lot 472 ', 'Book 770: 1920, Lot 416 ', 'Book 780: 1920, Lot 437 ', 'Book 899: 1920, Lot 304 ']",10
+G.Walter Steeves,Jones,['641'],[''],"['Book 641: Undated, Lot n/a ']",1
+Gaisford,Adams,['948'],['1890'],"['Book 948: 1890, Lot 1787 ']",1
+Gaisford,Aldenham,['App.3'],['1890'],"['Book App.3: 1890, Lot Lot 1367 ']",1
+Gaisford,Britwell,"['890', '891']","['1890', '1890']","['Book 890: 1890, Lot 1739 ', 'Book 891: 1890, Lot 1740 ']",2
+Gaisford,Chew,['504'],['1890'],"['Book 504: 1890, Lot 935 ']",1
+Gaisford,J.T. Adams,['153'],['1890'],"['Book 153: 1890, Lot 1042 ']",1
+George Daniel,Huth,['992'],[''],"['Book 992: Undated, Lot n/a ']",1
+George Mason,Roxburghe,['455'],['1799'],"['Book 455: 1799, Lot 275 ']",1
+George Smith,Huth,['937'],['1867'],"['Book 937: 1867, Lot 7234 ']",1
+George Soaper,Beverly Chew,['305'],[''],"['Book 305: Undated, Lot n/a ']",1
+George Steevens,Heber,['166'],['1800'],"['Book 166: 1800, Lot 793 ']",1
+George Stokes,Forman,['67'],[''],"['Book 67: Undated, Lot n/a ']",1
+Gossett,Heber,['607'],['1813'],"['Book 607: 1813, Lot 4984 ']",1
+Grafton,Gossett,['607'],['1811'],"['Book 607: 1811, Lot 50 ']",1
+Griswold,Purdy,['969'],[''],"['Book 969: Undated, Lot n/a ']",1
+H. Barrett Lennard,W.A. White,['657'],[''],"['Book 657: Undated, Lot n/a ']",1
+H.B. Wheatley,Pforzheimer,['312'],['1918'],"['Book 312: 1918, Lot 708 ']",1
+H.B.Forman,Pforzheimer,['275'],['1920'],"['Book 275: 1920, Lot 222 ']",1
+H.G.Read,McKee,['769'],[''],"['Book 769: Undated, Lot n/a ']",1
+H.J.B.Swete,Hagen,['911 J'],[''],"['Book 911 J: Undated, Lot n/a ']",1
+H.Mordaunt [?2nd Earl of Peterborough],William Fellowes,['183'],[''],"['Book 183: Undated, Lot n/a ']",1
+H.V.Jones,Clawson,['180'],['1923'],"['Book 180: 1923, Lot 47 ']",1
+H.V.Jones,Pforzheimer,['555'],['1918'],"['Book 555: 1918, Lot 948 ']",1
+H.W. Poor,Huntington,['464'],['1908'],"['Book 464: 1908, Lot 564 ']",1
+H.W. Poor,Pforzheimer,['350'],['1909'],"['Book 350: 1909, Lot 389 ']",1
+Hagen,Clawson,"['381', '22', '294', '293', '299', '718', '639', '73', '686', '371', 'MS.10a']","['1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918']","['Book 381: 1918, Lot 536 ', 'Book 22: 1918, Lot 18 ', 'Book 294: 1918, Lot 356 ', 'Book 293: 1918, Lot 360 ', 'Book 299: 1918, Lot 359 ', 'Book 718: 1918, Lot 809 ', 'Book 639: 1918, Lot 778 ', 'Book 73: 1918, Lot 741 ', 'Book 686: 1918, Lot 759 ', 'Book 371: 1918, Lot 527 ', 'Book MS.10a: 1918, Lot 282 ']",11
+Hagen,Pforzheimer,"['1006', '1018', '1019', '1020', '1021', '1054', '1055', '1098', '1099', '1100', '1102', '1103', '119', '12', '15', '168', '169', '17', '176', '178', '184', '194', '202', '207', '208', '240', '285', '289', '295', '296', '305', '306', '307', '313', '316', '319', '325', '327', '329', '330', '331', '333', '334', '335', '338', '340', '358', '359', '370', '372-2', '374', '383', '422', '468', '491', '498', '515', '52', '53', '54', '542', '548', '559', '561', '568', '569', '571', '579', '627', '63', '631', '635', '642', '671', '682', '696-1', '707', '717', '720', '722', '723', '741', '782', '79', '797', '799', '842', '852', '910', '911 A', '911 B', '911 D', '911 E', '911 F', '911 G', '911 H', '911 I', '911 J', '911 K', '911 L', '911 M', '925', '930', '939', '963', '967', '977', '980', '995', '997']","['1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1919', '1918', '', '', '', '', '', '', '', '', '', '', '', '', '1918', '1919', '1918', '1918', '1918', '1918', '1918', '1918', '1918']","['Book 1006: 1918, Lot 1258 ', 'Book 1018: 1918, Lot 1341 ', 'Book 1019: 1918, Lot 1340 ', 'Book 1020: 1918, Lot 1338 ', 'Book 1021: 1918, Lot 1339 ', 'Book 1054: 1918, Lot 1365 ', 'Book 1055: 1918, Lot 1367 ', 'Book 1098: 1918, Lot 1423 ', 'Book 1099: 1918, Lot 1422 ', 'Book 1100: 1918, Lot 1421 ', 'Book 1102: 1918, Lot 1424 ', 'Book 1103: 1918, Lot 1425 ', 'Book 119: 1918, Lot 146 ', 'Book 12: 1918, Lot n/a ', 'Book 15: 1918, Lot 17 ', 'Book 168: 1918, Lot 199 ', 'Book 169: 1918, Lot 200 ', 'Book 17: 1918, Lot 16 ', 'Book 176: 1918, Lot 218 ', 'Book 178: 1918, Lot 219 ', 'Book 184: 1918, Lot 226 ', 'Book 194: 1918, Lot 273 ', 'Book 202: 1918, Lot 274 ', 'Book 207: 1918, Lot 276 ', 'Book 208: 1918, Lot 272 ', 'Book 240: 1918, Lot 316 ', 'Book 285: 1918, Lot 335 ', 'Book 289: 1918, Lot 344 ', 'Book 295: 1918, Lot 371 ', 'Book 296: 1918, Lot 361 ', 'Book 305: 1918, Lot 384 ', 'Book 306: 1918, Lot 383 ', 'Book 307: 1918, Lot 385 ', 'Book 313: 1918, Lot 417 ', 'Book 316: 1918, Lot 400 ', 'Book 319: 1918, Lot 414 ', 'Book 325: 1918, Lot 406 ', 'Book 327: 1918, Lot 441 ', 'Book 329: 1918, Lot 420 ', 'Book 330: 1918, Lot 409 ', 'Book 331: 1918, Lot 427 ', 'Book 333: 1918, Lot 413 ', 'Book 334: 1918, Lot 419 ', 'Book 335: 1918, Lot 401 ', 'Book 338: 1918, Lot 422 ', 'Book 340: 1918, Lot 403 ', 'Book 358: 1918, Lot 9 ', 'Book 359: 1918, Lot 487 ', 'Book 370: 1918, Lot 526 ', 'Book 372-2: 1918, Lot 529 ', 'Book 374: 1918, Lot 33 ', 'Book 383: 1918, Lot 535 ', 'Book 422: 1918, Lot 72 ', 'Book 468: 1918, Lot 622 ', 'Book 491: 1918, Lot 638 ', 'Book 498: 1918, Lot 644 ', 'Book 515: 1918, Lot 649 ', 'Book 52: 1918, Lot 35 ', 'Book 53: 1918, Lot 34 ', 'Book 54: 1918, Lot 36 ', 'Book 542: 1918, Lot 681 ', 'Book 548: 1918, Lot 680 ', 'Book 559: 1918, Lot 676 ', 'Book 561: 1918, Lot 682 ', 'Book 568: 1918, Lot 1190 ', 'Book 569: 1918, Lot 692 ', 'Book 571: 1918, Lot 693 ', 'Book 579: 1918, Lot 876 ', 'Book 627: 1918, Lot 738 ', 'Book 63: 1918, Lot 46 ', 'Book 631: 1918, Lot 734 ', 'Book 635: 1918, Lot 733 ', 'Book 642: 1918, Lot 745 ', 'Book 671: 1918, Lot 749 ', 'Book 682: 1918, Lot 756 ', 'Book 696-1: 1918, Lot 768 ', 'Book 707: 1918, Lot 783 ', 'Book 717: 1918, Lot 806 ', 'Book 720: 1918, Lot 813 ', 'Book 722: 1918, Lot 786 ', 'Book 723: 1918, Lot 845 ', 'Book 741: 1918, Lot 882 ', 'Book 782: 1918, Lot 73 ', 'Book 79: 1918, Lot 81 ', 'Book 797: 1918, Lot 914 ', 'Book 799: 1918, Lot 721 ', 'Book 842: 1918, Lot 1033 ', 'Book 852: 1919, Lot 1041 ', 'Book 910: 1918, Lot 1076 ', 'Book 911 A: Undated, Lot n/a ', 'Book 911 B: Undated, Lot n/a ', 'Book 911 D: Undated, Lot n/a ', 'Book 911 E: Undated, Lot n/a ', 'Book 911 F: Undated, Lot n/a ', 'Book 911 G: Undated, Lot n/a ', 'Book 911 H: Undated, Lot n/a ', 'Book 911 I: Undated, Lot n/a ', 'Book 911 J: Undated, Lot n/a ', 'Book 911 K: Undated, Lot n/a ', 'Book 911 L: Undated, Lot n/a ', 'Book 911 M: Undated, Lot n/a ', 'Book 925: 1918, Lot 1148 ', 'Book 930: 1919, Lot 1149 ', 'Book 939: 1918, Lot 1152 ', 'Book 963: 1918, Lot 1170 ', 'Book 967: 1918, Lot 1174 ', 'Book 977: 1918, Lot 1177 ', 'Book 980: 1918, Lot 1182 ', 'Book 995: 1918, Lot 1203 ', 'Book 997: 1918, Lot 1204 ']",110
+Hagen,Shakespeare Library,['844'],['1918'],"['Book 844: 1918, Lot 1037 ']",1
+Hagen,Sotheby’s,['1028'],['1918'],"['Book 1028: 1918, Lot 1347 ']",1
+Halliwell,T.J.McKee,['915'],['1889'],"['Book 915: 1889, Lot 272 ']",1
+Halliwell Phillipps,Britwell,['161'],['1889'],"['Book 161: 1889, Lot 248 ']",1
+Halliwell Phillipps,Corser,['965'],[''],"['Book 965: Undated, Lot n/a ']",1
+Halliwell Phillipps,Hagen,['329'],['1889'],"['Book 329: 1889, Lot 875 ']",1
+Halliwell Phillipps,Sotheby’s,['914'],['1889'],"['Book 914: 1889, Lot 903 ']",1
+Halsey,Huntington,"['324', '171', '840', '968', '235', '1044', '646', '700', '222', '135', '370', '746']","['', '', '', '', '', '', '', '1904', '', '', '', '']","['Book 324: Undated, Lot n/a ', 'Book 171: Undated, Lot n/a ', 'Book 840: Undated, Lot n/a ', 'Book 968: Undated, Lot n/a ', 'Book 235: Undated, Lot n/a ', 'Book 1044: Undated, Lot n/a ', 'Book 646: Undated, Lot n/a ', 'Book 700: 1904, Lot n/a ', 'Book 222: Undated, Lot n/a ', 'Book 135: Undated, Lot n/a ', 'Book 370: Undated, Lot n/a ', 'Book 746: Undated, Lot n/a ']",12
+Halsey,Pforzheimer,"['115', '179', '248', '25', '320', '375', '496']","['', '1919', '1919', '1919', '1919', '1919', '1919']","['Book 115: Undated, Lot n/a ', 'Book 179: 1919, Lot 241 ', 'Book 248: 1919, Lot 319 ', 'Book 25: 1919, Lot 90 ', 'Book 320: 1919, Lot 379 ', 'Book 375: 1919, Lot 418 ', 'Book 496: 1919, Lot 786 ']",7
+Hanmer ~ Bunbury,Shakespeare Library,['442'],['1896'],"['Book 442: 1896, Lot s42 ']",1
+Harding and Lepard,Britwell,['446'],['1838'],"['Book 446: 1838, Lot n/a ']",1
+Heber,Britwell,"['773', '807', '160', '941', '943', '280', '166', '130', '607', '1065', '783', '784', '786', '502', '460', '947', '303', '794', '416', '595', '1064', '1064', '762', '1084', '1083', '734', '733', '736', '975', '981', 'MS.116', '982', '399', '396', '363', '507']","['1834', '1834', '1834', '', '1834', '1836', '1834', '1834', '1836', '1834', '1835', '1835', '1834', '1835', '1835', '1834', '1834', '1835', '1836', '1834', '1836', '1836', '1836', '1834', '1834', '1836', '1834', '1834', '1834', '1834', '1834', '1834', '1834', '1834', '1834', '1834']","['Book 773: 1834, Lot 1865 ', 'Book 807: 1834, Lot 2007t ', 'Book 160: 1834, Lot 332 ', 'Book 941: Undated, Lot 2357 ', 'Book 943: 1834, Lot 2364 ', 'Book 280: 1836, Lot 376 ', 'Book 166: 1834, Lot 334 ', 'Book 130: 1834, Lot 271 ', 'Book 607: 1836, Lot 1075 ', 'Book 1065: 1834, Lot 2903 ', 'Book 783: 1835, Lot 2761 ', 'Book 784: 1835, Lot 2761 ', 'Book 786: 1834, Lot 1725 ', 'Book 502: 1835, Lot 3179 ', 'Book 460: 1835, Lot 2180 ', 'Book 947: 1834, Lot 2359 ', 'Book 303: 1834, Lot 594 ', 'Book 794: 1835, Lot 2794 ', 'Book 416: 1836, Lot 3039 ', 'Book 595: 1834, Lot 1391 ', 'Book 1064: 1836, Lot 2946 ', 'Book 1064: 1836, Lot 2946 ', 'Book 762: 1836, Lot 1786 ', 'Book 1084: 1834, Lot 2936 ', 'Book 1083: 1834, Lot 2936 ', 'Book 734: 1836, Lot 1542 ', 'Book 733: 1834, Lot 1570 ', 'Book 736: 1834, Lot 1573 ', 'Book 975: 1834, Lot 2636 ', 'Book 981: 1834, Lot 2543 ', 'Book MS.116: 1834, Lot 2632 ', 'Book 982: 1834, Lot 2721 ', 'Book 399: 1834, Lot 771 ', 'Book 396: 1834, Lot 3221 ', 'Book 363: 1834, Lot 4918 ', 'Book 507: 1834, Lot 2563 ']",36
+Heber,Christie-Miller,['1011'],['1835'],"['Book 1011: 1835, Lot 3659 ']",1
+Heber,Cole,['732'],['1834'],"['Book 732: 1834, Lot 1568 ']",1
+Heber,Corser,"['636', '414', '765']","['1834', '1836', '1834']","['Book 636: 1834, Lot 1979 ', 'Book 414: 1836, Lot 3405 ', 'Book 765: 1834, Lot 4105 ']",3
+Heber,Crossleyt,['938'],['1834'],"['Book 938: 1834, Lot 2467 ']",1
+Heber,Devonshire,"['1075', '792']","['1834', '1834']","['Book 1075: 1834, Lot 6261 ', 'Book 792: 1834, Lot 4394 ']",2
+Heber,Forman,['1047'],['1834'],"['Book 1047: 1834, Lot 2855 ']",1
+Heber,Freeling,"['429', '435']","['1834', '1834']","['Book 429: 1834, Lot 795 ', 'Book 435: 1834, Lot 934 ']",2
+Heber,Holgate,['761-1'],['1834'],"['Book 761-1: 1834, Lot 4100 ']",1
+Heber,Huth,['849'],['1835'],"['Book 849: 1835, Lot 3305 ']",1
+Heber,Lefferts,['1055'],['1834'],"['Book 1055: 1834, Lot 6331 ']",1
+Heber,Lowther Castle,['App.9'],['1835'],"['Book App.9: 1835, Lot Lot 2808 ']",1
+Heber,Perkins,['142'],['1834'],"['Book 142: 1834, Lot 1192 ']",1
+Heber,Pforzheimer,['1013'],['1835'],"['Book 1013: 1835, Lot 5939 ']",1
+Heber,Sewall,['927'],['1834'],"['Book 927: 1834, Lot 5631 ']",1
+Heber,Sir Mark Dalrymple,['1081'],['1834'],"['Book 1081: 1834, Lot 3027 ']",1
+Henkels,Pforzheimer,"['886', '893']","['1919', '1919']","['Book 886: 1919, Lot 139 ', 'Book 893: 1919, Lot 136 ']",2
+Henkels Miscellany,Clawson,['430'],['1919'],"['Book 430: 1919, Lot 166 ']",1
+Henkels’s Shakespeare sale,Pforzheimer,"['914', '921']","['1919', '1919']","['Book 914: 1919, Lot 133 ', 'Book 921: 1919, Lot 140 ']",2
+Henry Porter,Alfred Morrison,['MS.11C'],['1879'],"['Book MS.11C: 1879, Lot 104 ']",1
+Henry St. John Mildmay,Clawson,['433'],['1907'],"['Book 433: 1907, Lot 229 ']",1
+Herber,Britwell,"['153', '2', '86-104', '219']","['1834', '1834', '1804', '1835']","['Book 153: 1834, Lot 342 ', 'Book 2: 1834, Lot n/a ', 'Book 86-104: 1804, Lot 2476 ', 'Book 219: 1835, Lot 996 ']",4
+Herber,Cornelius Paine,['15'],[''],"['Book 15: Undated, Lot n/a ']",1
+Herber,Corser,['22'],['1836'],"['Book 22: 1836, Lot 62 ']",1
+Herber,Forster,['363'],[''],"['Book 363: Undated, Lot n/a ']",1
+Hibbert,Bright,['440'],['1829'],"['Book 440: 1829, Lot 3577 ']",1
+Hibbert,Britwell,"['246', '648', '690', '398', '747']","['1829', '1829', '1829', '1829', '1829']","['Book 246: 1829, Lot 6696 ', 'Book 648: 1829, Lot 6255 ', 'Book 690: 1829, Lot 325 ', 'Book 398: 1829, Lot 6126 ', 'Book 747: 1829, Lot 5554 ']",5
+Hibbert,Daniel,['942'],['1829'],"['Book 942: 1829, Lot 7427 ']",1
+Hibbert,J. Dunn Gardner,['469'],['1829'],"['Book 469: 1829, Lot 3916 ']",1
+Hill,Midgely,['440'],[''],"['Book 440: Undated, Lot 315 ']",1
+Hodgson’s,Anderson’s,['243'],['1917'],"['Book 243: 1917, Lot 189 ']",1
+Hodgson’s,Pforzheimer,"['172', '724', '994']","['1922', '1927', '1929']","['Book 172: 1922, Lot 676 ', 'Book 724: 1927, Lot 421 ', 'Book 994: 1929, Lot n/a ']",3
+Hoe,C.L.F. Robinson,"['781', '727']","['1912', '1912']","['Book 781: 1912, Lot 2468 ', 'Book 727: 1912, Lot 2268 ']",2
+Hoe,Chew,"['1089', '1091-1', '565']","['1912', '1912', '1912']","['Book 1089: 1912, Lot 3281 ', 'Book 1091-1: 1912, Lot 3283 ', 'Book 565: 1912, Lot 1789 ']",3
+Hoe,Clawson,['895'],['1911'],"['Book 895: 1911, Lot 2974 ']",1
+Hoe,Hagen,"['911 K', '306', '79', '696-1', '977', '579']","['', '1912', '1912', '1912', '1912', '1911']","['Book 911 K: Undated, Lot n/a ', 'Book 306: 1912, Lot 1039 ', 'Book 79: 1912, Lot 549 ', 'Book 696-1: 1912, Lot 2195 ', 'Book 977: 1912, Lot 3121 ', 'Book 579: 1911, Lot 2304 ']",6
+Hoe,Halsey,"['248', '840']","['1911', '']","['Book 248: 1911, Lot n/a ', 'Book 840: Undated, Lot n/a ']",2
+Hoe,Huntington,"['530', '806', '32', '288', '276', '271', '267', '262', '1072', '963', '11', '945', '540', '291', '290', '314', '7', '423', '424', '546', '870', '697', '229', '408', '481', '475', '1017.', '1004', '139', '68', '766', '688', '341', '362B']","['1912', '1912', '1912', '1912', '1912', '1912', '1912', '1912', '1912', '1911', '1912', '1911', '1912', '1912', '1912', '1912', '', '1912', '1911', '1911', '1911', '1912', '1911', '1912', '1912', '1912', '1912', '1912', '1912', '1912', '1912', '1912', '1912', '1912']","['Book 530: 1912, Lot 1653 ', 'Book 806: 1912, Lot 2599 ', 'Book 32: 1912, Lot 112 ', 'Book 288: 1912, Lot 870 ', 'Book 276: 1912, Lot 854 ', 'Book 271: 1912, Lot 847 ', 'Book 267: 1912, Lot 966 ', 'Book 262: 1912, Lot 958 ', 'Book 1072: 1912, Lot 3389 ', 'Book 963: 1911, Lot 3124 ', 'Book 11: 1912, Lot n/a ', 'Book 945: 1911, Lot 3080 ', 'Book 540: 1912, Lot 1803 ', 'Book 291: 1912, Lot 1049 ', 'Book 290: 1912, Lot 1047 ', 'Book 314: 1912, Lot 972 ', 'Book 7: Undated, Lot n/a ', 'Book 423: 1912, Lot 1925 ', 'Book 424: 1911, Lot 1537 ', 'Book 546: 1911, Lot 1900 ', 'Book 870: 1911, Lot 2961 ', 'Book 697: 1912, Lot 309 ', 'Book 229: 1911, Lot 894 ', 'Book 408: 1912, Lot 1416 ', 'Book 481: 1912, Lot 718 ', 'Book 475: 1912, Lot 1492 ', 'Book 1017.: 1912, Lot 3275 ', 'Book 1004: 1912, Lot 3146 ', 'Book 139: 1912, Lot 2387 ', 'Book 68: 1912, Lot 3218 ', 'Book 766: 1912, Lot 2528 ', 'Book 688: 1912, Lot 2220 ', 'Book 341: 1912, Lot 1145 ', 'Book 362B: 1912, Lot 1133 ']",34
+Hoe,Jones,"['14', '955', '1014']","['', '1912', '1912']","['Book 14: Undated, Lot n/a ', 'Book 955: 1912, Lot 2972 ', 'Book 1014: 1912, Lot 3256 ']",3
+Hoe,Pforzheimer,"['1002', '1029', '1086', '198', '203', '239', '260', '511', '512', '716', '788', '828']","['1912', '1912', '1912', '1912', '1912', '1912', '1912', '1912', '1912', '1912', '1912', '1911']","['Book 1002: 1912, Lot 3092 ', 'Book 1029: 1912, Lot 3315 ', 'Book 1086: 1912, Lot 3284 ', 'Book 198: 1912, Lot 774 ', 'Book 203: 1912, Lot 777 ', 'Book 239: 1912, Lot a ', 'Book 260: 1912, Lot 922 ', 'Book 511: 1912, Lot 1705 ', 'Book 512: 1912, Lot 1710 ', 'Book 716: 1912, Lot 2318 ', 'Book 788: 1912, Lot 2532 ', 'Book 828: 1911, Lot 2727 ']",12
+Hoe,Vickery,['1087'],['1912'],"['Book 1087: 1912, Lot 3280 ']",1
+Hoe,W.K.Bixby,['880'],['1911'],"['Book 880: 1911, Lot 2928 ']",1
+Holgate,Britwell,"['382-1', '790', '551', '633', '1060']","['1846', '1846', '1846', '1845', '1846']","['Book 382-1: 1846, Lot 337 ', 'Book 790: 1846, Lot 633 ', 'Book 551: 1846, Lot 457 ', 'Book 633: 1845, Lot n/a ', 'Book 1060: 1846, Lot 1020 ']",5
+Holgate,Kershaw,['656'],['1846'],"['Book 656: 1846, Lot n/a ']",1
+Holgate,Knight,['761-1'],['1846'],"['Book 761-1: 1846, Lot 290 ']",1
+Holgate,Lefferts,['107'],['1846'],"['Book 107: 1846, Lot 85 ']",1
+Holmes,Ashburnham,['1025'],['1841'],"['Book 1025: 1841, Lot 1373 ']",1
+Hudson Gurney,Pforzheimer,['MS. 40A'],['1936'],"['Book MS. 40A: 1936, Lot 140 ']",1
+"Hugh, grd Earl of Marchmont",Rt. Hon. Sir George Rose,['1026'],[''],"['Book 1026: Undated, Lot n/a ']",1
+Humphry Primatt,Halsey,['171'],[''],"['Book 171: Undated, Lot n/a ']",1
+Huntington,Chew,"['267', '546', '486']","['1917', '1917', '1917']","['Book 267: 1917, Lot 137 ', 'Book 546: 1917, Lot 238 ', 'Book 486: 1917, Lot 218 ']",3
+Huntington,Clawson,"['159', '274', '261', '900', '11', '473', '945', '7', '108', '643', '701', '700', '697', '695', '229', '484', '678']","['1918', '1918', '1918', '1918', '', '1918', '', '', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918']","['Book 159: 1918, Lot 88 ', 'Book 274: 1918, Lot 208 ', 'Book 261: 1918, Lot 183 ', 'Book 900: 1918, Lot 442 ', 'Book 11: Undated, Lot n/a ', 'Book 473: 1918, Lot 420 ', 'Book 945: Undated, Lot n/a ', 'Book 7: Undated, Lot n/a ', 'Book 108: 1918, Lot 52 ', 'Book 643: 1918, Lot 534 ', 'Book 701: 1918, Lot 335 ', 'Book 700: 1918, Lot 333 ', 'Book 697: 1918, Lot 334 ', 'Book 695: 1918, Lot 583 ', 'Book 229: 1918, Lot 156 ', 'Book 484: 1918, Lot 253 ', 'Book 678: 1918, Lot 322 ']",17
+Huntington,English Literature from London,"['150', '32', '382-2', '1001', '554', '488', '476', '485', '450', '504', '566', '563']","['', '', '', '', '', '', '', '', '', '', '', '']","['Book 150: Undated, Lot n/a ', 'Book 32: Undated, Lot n/a ', 'Book 382-2: Undated, Lot n/a ', 'Book 1001: Undated, Lot n/a ', 'Book 554: Undated, Lot n/a ', 'Book 488: Undated, Lot n/a ', 'Book 476: Undated, Lot n/a ', 'Book 485: Undated, Lot n/a ', 'Book 450: Undated, Lot n/a ', 'Book 504: Undated, Lot n/a ', 'Book 566: Undated, Lot n/a ', 'Book 563: Undated, Lot n/a ']",12
+Huntington,Hagen,"['963', '305', '370']","['', '1917', '1917']","['Book 963: Undated, Lot n/a ', 'Book 305: 1917, Lot 154 ', 'Book 370: 1917, Lot 177 ']",3
+Huntington,Jones,"['903', '276', '278', '171', '187', '271', '270', '1075', '45', '792', '540', '534', '344', '544', '550', '634', '644', '226', '483', '487', '68', '752', '766', '731', '395', '664']","['', '1917', '1917', '1918', '', '1918', '1918', '1918', '1918', '1918', '1918', '', '1918', '1918', '1918', '', '1918', '1918', '', '1918', '', '1918', '1917', '1917', '', '']","['Book 903: Undated, Lot n/a ', 'Book 276: 1917, Lot 147 ', 'Book 278: 1917, Lot 144 ', 'Book 171: 1918, Lot 96 ', 'Book 187: Undated, Lot n/a ', 'Book 271: 1918, Lot 207 ', 'Book 270: 1918, Lot 195 ', 'Book 1075: 1918, Lot 872 ', 'Book 45: 1918, Lot 14 ', 'Book 792: 1918, Lot 648 ', 'Book 540: 1918, Lot 460 ', 'Book 534: Undated, Lot n/a ', 'Book 344: 1918, Lot 595 ', 'Book 544: 1918, Lot 462 ', 'Book 550: 1918, Lot 467 ', 'Book 634: Undated, Lot n/a ', 'Book 644: 1918, Lot 314 ', 'Book 226: 1918, Lot 89 ', 'Book 483: Undated, Lot n/a ', 'Book 487: 1918, Lot 431 ', 'Book 68: Undated, Lot n/a ', 'Book 752: 1918, Lot 351 ', 'Book 766: 1917, Lot 307 ', 'Book 731: 1917, Lot 285 ', 'Book 395: Undated, Lot n/a ', 'Book 664: Undated, Lot n/a ']",26
+Huntington,Pforzheimer,"['1003', '1004', '1005', '1009', '1010', '1016', '1017.', '1034', '1044', '1062', '107', '1070', '1072', '1081', '1088', '1092', '1096', '1104', '1105', '115', '121', '132', '134', '135', '138', '139', '141', '148', '182', '185', '215', '222', '23', '235', '239', '262', '281', '282', '288', '290', '291', '308', '314', '322', '323', '324', '337', '341', '360', '361', '362A', '362B', '365', '367', '390', '392', '40', '408', '411', '418', '42', '423', '424', '427', '449', '464', '470', '474', '475', '481', '489', '530', '537', '543', '549', '558', '574', '575', '58', '594', '624', '628', '637', '638', '646', '647', '663', '666', '675', '684', '685', '687', '688', '696-2', '698', '729', '735', '746', '751', '753', '756', '759', '771', '772', '779', '80', '804', '806', '817', '831', '832', '835', '836', '840', '847', '85', '858', '859', '865', '870', '879', '888', '902', '918', '919', '920', '932', '934', '949', '950', '959', '968', '999']","['', '1918', '', '', '1918', '1920', '1918', '', '1918', '1918', '1919', '1918', '1918', '1918', '1918', '1918', '', '1918', '1918', '1918', '', '', '1918', '1918', '1918', '1918', '', '', '1918', '1918', '1917', '1918', '1918', '1918', '1918', '1918', '', '', '1918', '1918', '1918', '1918', '1918', '1919', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1917', '1918', '', '1918', '1918', '1918', '1917', '1918', '', '1918', '1918', '1918', '1918', '1918', '1918', '1917', '1918', '1918', '1918', '', '1917', '', '', '', '', '', '1918', '', '', '', '1918', '1917', '', '1917', '', '1918', '1918', '', '', '', '', '1918', '', '', '', '1917', '1918', '1919', '1918', '1918', '1918', '1919', '1918', '1918', '', '', '1918', '1918', '', '', '', '', '', '1918', '', '1918', '1918', '1918', '', '1918', '1918', '', '', '', '', '', '1918', '1918', '1917', '1918', '1917', '']","['Book 1003: Undated, Lot n/a ', 'Book 1004: 1918, Lot 843 ', 'Book 1005: Undated, Lot n/a ', 'Book 1009: Undated, Lot n/a ', 'Book 1010: 1918, Lot 855 ', 'Book 1016: 1920, Lot 321 ', 'Book 1017.: 1918, Lot 858 ', 'Book 1034: Undated, Lot n/a ', 'Book 1044: 1918, Lot 887 ', 'Book 1062: 1918, Lot 918 ', 'Book 107: 1919, Lot 148 ', 'Book 1070: 1918, Lot 400 ', 'Book 1072: 1918, Lot 925 ', 'Book 1081: 1918, Lot 937 ', 'Book 1088: 1918, Lot 933 ', 'Book 1092: 1918, Lot 932 ', 'Book 1096: Undated, Lot n/a ', 'Book 1104: 1918, Lot 630 ', 'Book 1105: 1918, Lot 631-5 ', 'Book 115: 1918, Lot 76 ', 'Book 121: Undated, Lot n/a ', 'Book 132: Undated, Lot n/a ', 'Book 134: 1918, Lot 291 ', 'Book 135: 1918, Lot 74 ', 'Book 138: 1918, Lot 422 ', 'Book 139: 1918, Lot 423 ', 'Book 141: Undated, Lot n/a ', 'Book 148: Undated, Lot n/a ', 'Book 182: 1918, Lot 103 ', 'Book 185: 1918, Lot 113 ', 'Book 215: 1917, Lot 109 ', 'Book 222: 1918, Lot 146 ', 'Book 23: 1918, Lot 29 ', 'Book 235: 1918, Lot 158 ', 'Book 239: 1918, Lot 172 ', 'Book 262: 1918, Lot 188 ', 'Book 281: Undated, Lot n/a ', 'Book 282: Undated, Lot n/a ', 'Book 288: 1918, Lot 220 ', 'Book 290: 1918, Lot 224 ', 'Book 291: 1918, Lot 225 ', 'Book 308: 1918, Lot 203 ', 'Book 314: 1918, Lot 242 ', 'Book 322: 1919, Lot 286 ', 'Book 323: 1918, Lot 207 ', 'Book 324: 1918, Lot 259 ', 'Book 337: 1918, Lot 248 ', 'Book 341: 1918, Lot 211 ', 'Book 360: 1918, Lot 241 ', 'Book 361: 1918, Lot 282 ', 'Book 362A: 1918, Lot 246 ', 'Book 362B: 1917, Lot 172 ', 'Book 365: 1918, Lot 257 ', 'Book 367: Undated, Lot n/a ', 'Book 390: 1918, Lot 263 ', 'Book 392: 1918, Lot 264 ', 'Book 40: 1918, Lot 34 ', 'Book 408: 1917, Lot 192 ', 'Book 411: 1918, Lot 368 ', 'Book 418: Undated, Lot n/a ', 'Book 42: 1918, Lot 733 ', 'Book 423: 1918, Lot 504 ', 'Book 424: 1918, Lot 388 ', 'Book 427: 1918, Lot 390 ', 'Book 449: 1918, Lot 400 ', 'Book 464: 1918, Lot 412 ', 'Book 470: 1917, Lot 215 ', 'Book 474: 1918, Lot 427 ', 'Book 475: 1918, Lot 424 ', 'Book 481: 1918, Lot 140 ', 'Book 489: Undated, Lot n/a ', 'Book 530: 1917, Lot 234 ', 'Book 537: Undated, Lot n/a ', 'Book 543: Undated, Lot n/a ', 'Book 549: Undated, Lot n/a ', 'Book 558: Undated, Lot n/a ', 'Book 574: Undated, Lot n/a ', 'Book 575: 1918, Lot 363 ', 'Book 58: Undated, Lot n/a ', 'Book 594: Undated, Lot n/a ', 'Book 624: Undated, Lot n/a ', 'Book 628: 1918, Lot 362 ', 'Book 637: 1917, Lot 251 ', 'Book 638: Undated, Lot n/a ', 'Book 646: 1917, Lot 258 ', 'Book 647: Undated, Lot n/a ', 'Book 663: 1918, Lot 396 ', 'Book 666: 1918, Lot 397 ', 'Book 675: Undated, Lot n/a ', 'Book 684: Undated, Lot n/a ', 'Book 685: Undated, Lot n/a ', 'Book 687: Undated, Lot n/a ', 'Book 688: 1918, Lot 40s ', 'Book 696-2: Undated, Lot n/a ', 'Book 698: Undated, Lot n/a ', 'Book 729: Undated, Lot n/a ', 'Book 735: 1917, Lot 286 ', 'Book 746: 1918, Lot 623 ', 'Book 751: 1919, Lot 596 ', 'Book 753: 1918, Lot 420 ', 'Book 756: 1918, Lot 417 ', 'Book 759: 1918, Lot 41 8 ', 'Book 771: 1919, Lot 49a ', 'Book 772: 1918, Lot 639 ', 'Book 779: 1918, Lot 363 ', 'Book 80: Undated, Lot n/a ', 'Book 804: Undated, Lot n/a ', 'Book 806: 1918, Lot 687 ', 'Book 817: 1918, Lot 453 ', 'Book 831: Undated, Lot n/a ', 'Book 832: Undated, Lot n/a ', 'Book 835: Undated, Lot n/a ', 'Book 836: Undated, Lot n/a ', 'Book 840: Undated, Lot n/a ', 'Book 847: 1918, Lot 738 ', 'Book 85: Undated, Lot n/a ', 'Book 858: 1918, Lot 487 ', 'Book 859: 1918, Lot 414 ', 'Book 865: 1918, Lot 414 ', 'Book 870: Undated, Lot n/a ', 'Book 879: 1918, Lot 425 ', 'Book 888: 1918, Lot 434 ', 'Book 902: Undated, Lot n/a ', 'Book 918: Undated, Lot n/a ', 'Book 919: Undated, Lot n/a ', 'Book 920: Undated, Lot n/a ', 'Book 932: Undated, Lot n/a ', 'Book 934: 1918, Lot 776 ', 'Book 949: 1918, Lot 791 ', 'Book 950: 1917, Lot 267 ', 'Book 959: 1918, Lot 492 ', 'Book 968: 1917, Lot 360 ', 'Book 999: Undated, Lot n/a ']",133
+Huntington,Thomas Bell,['739'],['1916'],"['Book 739: 1916, Lot 1098 ']",1
+Huth,C.L.F. Robinson,['384'],['1913'],"['Book 384: 1913, Lot 3022 ']",1
+Huth,Chew,['583'],['1914'],"['Book 583: 1914, Lot 4264 ']",1
+Huth,Clawson,"['24', '1068', '838', '990', '992', '632', '228', '414', '1059']","['1911', '1920', '1918', '1918', '1918', '1920', '1912', '1918', '1919']","['Book 24: 1911, Lot 392 ', 'Book 1068: 1920, Lot 8063 ', 'Book 838: 1918, Lot 6443 ', 'Book 990: 1918, Lot 7097 ', 'Book 992: 1918, Lot 7099 ', 'Book 632: 1920, Lot 8270 ', 'Book 228: 1912, Lot 1837 ', 'Book 414: 1918, Lot 6631 ', 'Book 1059: 1919, Lot 7917 ']",9
+Huth,Cox,"['57', '71', '74', '391']","['1911', '1912', '1911', '1913']","['Book 57: 1911, Lot 805 ', 'Book 71: 1912, Lot 793 ', 'Book 74: 1911, Lot 800 ', 'Book 391: 1913, Lot 3088 ']",4
+Huth,E.M.Cox,['452'],['1913'],"['Book 452: 1913, Lot 3508 ']",1
+Huth,Hagen,"['184', '338', '371']","['1912', '1912', '1913']","['Book 184: 1912, Lot 1590 ', 'Book 338: 1912, Lot 2513 ', 'Book 371: 1913, Lot 2953 ']",3
+Huth,Huntington,"['274', '134', '483']","['1912', '1913', '1913']","['Book 274: 1912, Lot 2076 ', 'Book 134: 1913, Lot 2802 ', 'Book 483: 1913, Lot 3643 ']",3
+Huth,Jones,"['527', '913', '348', '791', '469', '656', '413']","['1914', '1912', '1912', '1917', '1913', '1916', '1918']","['Book 527: 1914, Lot 3978 ', 'Book 913: 1912, Lot 1904 ', 'Book 348: 1912, Lot 2567 ', 'Book 791: 1917, Lot 5674 ', 'Book 469: 1913, Lot 3636 ', 'Book 656: 1916, Lot 4742 ', 'Book 413: 1918, Lot 6880 ']",7
+Huth,Pforzheimer,"['1', '1030', '1031', '1057', '1077', '144', '145', '152', '251', '263', '352', '5', '509', '51', '536', '564', '567', '573', '581', '585', '586', '587', '588', '589', '591', '592', '593', '599', '629', '709', '712', '811', '812', '823', '829', '830', '834', '843', '846', '848', '849', '854', '863', '868', '869', '871', '873', '876', '878', '923', '929', '931', '937', '940', '942', '944', '946', '954', '956', '957', '958', '960', '961', '962', '964', '972', '985', '991']","['1918', '1920', '1920', '1920', '1918', '1918', '1912', '1912', '1912', '1912', '1916', '1918', '1918', '1918', '1914', '1914', '1914', '1914', '1914', '1914', '1914', '1914', '1914', '1914', '1914', '1914', '1914', '1914', '1914', '1916', '1916', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918']","['Book 1: 1918, Lot Lot 7090 ', 'Book 1030: 1920, Lot 7847 ', 'Book 1031: 1920, Lot 7848 ', 'Book 1057: 1920, Lot 7911 ', 'Book 1077: 1918, Lot 6929 ', 'Book 144: 1918, Lot 6835 ', 'Book 145: 1912, Lot 1471 ', 'Book 152: 1912, Lot 1472 ', 'Book 251: 1912, Lot 2018 ', 'Book 263: 1912, Lot 2026 ', 'Book 352: 1916, Lot 4996 ', 'Book 5: 1918, Lot n/a ', 'Book 509: 1918, Lot 7162 ', 'Book 51: 1918, Lot 6730 ', 'Book 536: 1914, Lot 4043 ', 'Book 564: 1914, Lot 4073 ', 'Book 567: 1914, Lot 4090 ', 'Book 573: 1914, Lot 4165 ', 'Book 581: 1914, Lot 4265 ', 'Book 585: 1914, Lot 4278 ', 'Book 586: 1914, Lot 4287 ', 'Book 587: 1914, Lot 4288 ', 'Book 588: 1914, Lot 4309 ', 'Book 589: 1914, Lot 4303 ', 'Book 591: 1914, Lot 4311 ', 'Book 592: 1914, Lot 4307 ', 'Book 593: 1914, Lot 4301 ', 'Book 599: 1914, Lot 4425 ', 'Book 629: 1914, Lot 4505 ', 'Book 709: 1916, Lot 4996 ', 'Book 712: 1916, Lot 4991 ', 'Book 811: 1918, Lot 6072 ', 'Book 812: 1918, Lot 6068 ', 'Book 823: 1918, Lot 6135 ', 'Book 829: 1918, Lot 6150 ', 'Book 830: 1918, Lot 6233 ', 'Book 834: 1918, Lot 6309 ', 'Book 843: 1918, Lot 6481 ', 'Book 846: 1918, Lot 6500 ', 'Book 848: 1918, Lot 6534 ', 'Book 849: 1918, Lot 6564 ', 'Book 854: 1918, Lot 6596 ', 'Book 863: 1918, Lot 6706 ', 'Book 868: 1918, Lot 6737 ', 'Book 869: 1918, Lot 6724 ', 'Book 871: 1918, Lot 6733 ', 'Book 873: 1918, Lot 6742 ', 'Book 876: 1918, Lot 6751 ', 'Book 878: 1918, Lot 6758 ', 'Book 923: 1918, Lot 6837 ', 'Book 929: 1918, Lot 6850 ', 'Book 931: 1918, Lot 6843 ', 'Book 937: 1918, Lot 6864 ', 'Book 940: 1918, Lot 6884 ', 'Book 942: 1918, Lot 6886 ', 'Book 944: 1918, Lot 6891 ', 'Book 946: 1918, Lot 6885 ', 'Book 954: 1918, Lot 6961 ', 'Book 956: 1918, Lot 6967 ', 'Book 957: 1918, Lot 6960 ', 'Book 958: 1918, Lot 6964 ', 'Book 960: 1918, Lot 6962 ', 'Book 961: 1918, Lot 6968 ', 'Book 962: 1918, Lot 6963 ', 'Book 964: 1918, Lot 7004 ', 'Book 972: 1918, Lot 7016 ', 'Book 985: 1918, Lot 7057 ', 'Book 991: 1918, Lot 7102 ']",68
+Huth,Ross Winans,['730'],['1916'],"['Book 730: 1916, Lot s01§ ']",1
+Huth,Steeves,['366'],['1913'],"['Book 366: 1913, Lot 2943 ']",1
+Huth,W.A. White,['147'],['1912'],"['Book 147: 1912, Lot 1475 ']",1
+Huth,White,['151'],['1912'],"['Book 151: 1912, Lot 1476 ']",1
+I.Baker Holroyd,Hagen,['717'],['1907'],"['Book 717: 1907, Lot 455 ']",1
+Inglis,Britwell,['529'],['1826'],"['Book 529: 1826, Lot 764 ']",1
+Inglis,Holgate,['656'],['1826'],"['Book 656: 1826, Lot 64 ']",1
+J-T.Snyder,Pforzheimer,['494'],['1934'],"['Book 494: 1934, Lot 82 ']",1
+J. Dunn Gardner,Huth,['469'],['1854'],"['Book 469: 1854, Lot 1060 ']",1
+J. Dunn Gardner,Tite,['888'],['1854'],"['Book 888: 1854, Lot 2195 ']",1
+J. Fitchett Marsh,Pforzheimer,['884'],['1882'],"['Book 884: 1882, Lot 2403 ']",1
+J. Fitchett Marsh,W.C. Hazlitt,['269'],['1882'],"['Book 269: 1882, Lot 672 ']",1
+J.A.Brooke,Pforzheimer,['715'],['1921'],"['Book 715: 1921, Lot 1013 ']",1
+J.B.Inglis,B.H. Bright,['417'],['1826'],"['Book 417: 1826, Lot 1498 ']",1
+J.C. Williams,J-T.Snyder,['494'],['1929'],"['Book 494: 1929, Lot 671 ']",1
+J.C. Williams,Pforzheimer,['237'],['1929'],"['Book 237: 1929, Lot 1112 ']",1
+J.D.Gardner,Britwell,['428'],['1854'],"['Book 428: 1854, Lot 855 ']",1
+J.E.Hodgkin,Thorn Drury,['MS.2k'],['1914'],"['Book MS.2k: 1914, Lot 216 ']",1
+J.G. Rebow,C.G Milnes Gaskell,['1056'],[''],"['Book 1056: Undated, Lot n/a ']",1
+J.H.Purdy,Pforzheimer,['105'],['1917'],"['Book 105: 1917, Lot 78 ']",1
+J.M.Rice,Britwell,"['455', '508']","['1834', '1834']","['Book 455: 1834, Lot 806 ', 'Book 508: 1834, Lot 950 ']",2
+J.P.Collier,Pforzheimer,['482'],[''],"['Book 482: Undated, Lot n/a ']",1
+J.T. Adams,Pforzheimer,"['153', '619', '855']","['1931', '1931', '1931']","['Book 153: 1931, Lot 42 ', 'Book 619: 1931, Lot 144 ', 'Book 855: 1931, Lot 215 ']",3
+J.T.Brockett,Pforzheimer,['479'],['1823'],"['Book 479: 1823, Lot 2061 ']",1
+J[ohn?]. Baynest,Joseph Ritson,['440'],[''],"['Book 440: Undated, Lot n/a ']",1
+Jadis,Britwell,"['405', '689']","['1828', '1828']","['Book 405: 1828, Lot 141 ', 'Book 689: 1828, Lot 51 ']",2
+Jadis,Kinnearf,['883'],['1828'],"['Book 883: 1828, Lot 165 ']",1
+James Crossley,Chew,['1081'],[''],"['Book 1081: Undated, Lot n/a ']",1
+James E. Matthew,Pulsford,['809'],[''],"['Book 809: Undated, Lot n/a ']",1
+James Maidment,Pforzheimer,['43'],['1880'],"['Book 43: 1880, Lot 160 ']",1
+James Perry,Jolley,['769'],['1823'],"['Book 769: 1823, Lot 303 ']",1
+James W. Ellsworth,Pforzheimer,['64'],[''],"['Book 64: Undated, Lot n/a ']",1
+James Wylie Guild,Bierstadt,['1054'],[''],"['Book 1054: Undated, Lot n/a ']",1
+Jeffreys,Macro,"['416', '414']","['', '']","['Book 416: Undated, Lot n/a ', 'Book 414: Undated, Lot n/a ']",2
+Jo. Searlleith,H.Mordaunt [?2nd Earl of Peterborough],['183'],[''],"['Book 183: Undated, Lot n/a ']",1
+John Baynes,Richard Gough,['595'],[''],"['Book 595: Undated, Lot n/a ']",1
+John Burleigh James,Locker,['654'],[''],"['Book 654: Undated, Lot n/a ']",1
+John Dillon,Alfred Morrison,['MS.35A'],['1869'],"['Book MS.35A: 1869, Lot n/a ']",1
+John Duerdin,H.B.Forman,['275'],['1884'],"['Book 275: 1884, Lot 195 ']",1
+John Fitchett of Warrington,J. Fitchett Marsh,['269'],['1838'],"['Book 269: 1838, Lot n/a ']",1
+John Miller of Dunstable,Pforzheimer,['625'],[''],"['Book 625: Undated, Lot n/a ']",1
+"John Pattenson, M.P. for Norwich",Hudson Gurney,['MS. 40A'],['1820'],"['Book MS. 40A: 1820, Lot n/a ']",1
+John Scott,Hoe,['1087'],['1905'],"['Book 1087: 1905, Lot 886 ']",1
+John Tomlinson,Lefferts,['859'],[''],"['Book 859: Undated, Lot n/a ']",1
+John Tudor Frere,Lefferts,['468'],['1896'],"['Book 468: 1896, Lot 373 ']",1
+John Vincent,Ralph Sheldon,['460'],['1670'],"['Book 460: 1670, Lot n/a ']",1
+John Young,Alfred Morrison,"['MS.1f', 'MS.1e']","['1869', '1869']","['Book MS.1f: 1869, Lot 67 ', 'Book MS.1e: 1869, Lot 66 ']",2
+Jolley,Britwell,['616'],['1844'],"['Book 616: 1844, Lot 655 ']",1
+Jolley,Charles Clark of Totham Hall,['769'],['1844'],"['Book 769: 1844, Lot 1614 ']",1
+Jolley,Hoe,['1004'],['1844'],"['Book 1004: 1844, Lot 1085 ']",1
+Jolley,Holgate,"['382-1', '551']","['1843', '1844']","['Book 382-1: 1843, Lot 1478 ', 'Book 551: 1844, Lot 826 ']",2
+Jones,Chew,['171'],['1918'],"['Book 171: 1918, Lot 311 ']",1
+Jones,Clawson,"['767', '523', '903', '167', '271', '270', '1075', '45', '792', '540', '243', '425', '429', '544', '550', '634', '693', '67', '223', '227', '413', '487', '483', '766', '762', '623', '1085', '388', '664']","['1923', '1919', '1919', '1923', '1918', '1918', '1919', '1918', '1919', '1919', '1923', '1918', '1923', '1919', '1919', '1923', '1923', '1923', '1923', '1918', '1919', '1919', '1923', '1919', '1923', '1923', '1919', '1923', '1923']","['Book 767: 1923, Lot 44 ', 'Book 523: 1919, Lot n/a ', 'Book 903: 1919, Lot 1409 ', 'Book 167: 1923, Lot 40 ', 'Book 271: 1918, Lot 467 ', 'Book 270: 1918, Lot 420 ', 'Book 1075: 1919, Lot 1662 ', 'Book 45: 1918, Lot 80 ', 'Book 792: 1919, Lot 1288 ', 'Book 540: 1919, Lot 951 ', 'Book 243: 1923, Lot 65 ', 'Book 425: 1918, Lot 693 ', 'Book 429: 1923, Lot 91 ', 'Book 544: 1919, Lot 953 ', 'Book 550: 1919, Lot 956 ', 'Book 634: 1923, Lot 121 ', 'Book 693: 1923, Lot 136 ', 'Book 67: 1923, Lot 174 ', 'Book 223: 1923, Lot 53 ', 'Book 227: 1918, Lot 374 ', 'Book 413: 1919, Lot 1470 ', 'Book 487: 1919, Lot 890 ', 'Book 483: 1923, Lot 102 ', 'Book 766: 1919, Lot 1246 ', 'Book 762: 1923, Lot 138 ', 'Book 623: 1923, Lot 114 ', 'Book 1085: 1919, Lot 1668 ', 'Book 388: 1923, Lot 82 ', 'Book 664: 1923, Lot 127 ']",29
+Jones,Pforzheimer,"['1014', '1027', '1101', '113', '116', '117', '118', '137', '14', '149', '187', '214', '220', '226', '276', '278', '28', '283', '29', '301', '336', '348', '395', '451', '465', '469', '490', '495', '527', '528', '534', '539', '545', '585', '641', '644', '656', '672', '68', '680', '710', '731', '743', '752', '76', '791', '801', '805', '913', '938', '955', '344']","['1923', '1918', '1919', '1918', '1919', '1919', '1919', '1918', '1918', '1918', '1923', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1916', '1923', '1923', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1918', '1919', '1919', '1923', '1916', '1919', '1916', '1919']","['Book 1014: 1923, Lot 192 ', 'Book 1027: 1918, Lot 506 ', 'Book 1101: 1919, Lot 1677 ', 'Book 113: 1918, Lot 245 ', 'Book 116: 1919, Lot 251 ', 'Book 117: 1919, Lot 249 ', 'Book 118: 1919, Lot 250 ', 'Book 137: 1918, Lot 288 ', 'Book 14: 1918, Lot 49 ', 'Book 149: 1918, Lot 308 ', 'Book 187: 1923, Lot 54 ', 'Book 214: 1918, Lot 365 ', 'Book 220: 1918, Lot 371 ', 'Book 226: 1918, Lot 376 ', 'Book 276: 1918, Lot 471 ', 'Book 278: 1918, Lot 469 ', 'Book 28: 1918, Lot 61 ', 'Book 283: 1918, Lot 472 ', 'Book 29: 1918, Lot 62 ', 'Book 301: 1918, Lot 513 ', 'Book 336: 1918, Lot 517 ', 'Book 348: 1916, Lot 192 ', 'Book 395: 1923, Lot 84 ', 'Book 451: 1923, Lot 98 ', 'Book 465: 1919, Lot 850 ', 'Book 469: 1919, Lot 876 ', 'Book 490: 1919, Lot 896 ', 'Book 495: 1919, Lot 1043 ', 'Book 527: 1919, Lot 931 ', 'Book 528: 1919, Lot 930 ', 'Book 534: 1919, Lot 944 ', 'Book 539: 1919, Lot 952 ', 'Book 545: 1919, Lot 946 ', 'Book 585: 1919, Lot 1021 ', 'Book 641: 1919, Lot 1078 ', 'Book 644: 1919, Lot 1077 ', 'Book 656: 1919, Lot 1085 ', 'Book 672: 1919, Lot 1090 ', 'Book 68: 1919, Lot 1252 ', 'Book 680: 1919, Lot 1113 ', 'Book 710: 1919, Lot 1178 ', 'Book 731: 1919, Lot 1186 ', 'Book 743: 1919, Lot 1234 ', 'Book 752: 1919, Lot 1241 ', 'Book 76: 1918, Lot 220 ', 'Book 791: 1919, Lot 1292 ', 'Book 801: 1919, Lot 1307 ', 'Book 805: 1923, Lot 153 ', 'Book 913: 1916, Lot 145 ', 'Book 938: 1919, Lot 1466 ', 'Book 955: 1916, Lot 495 ', 'Book 344: 1919, Lot 1167 ']",52
+Joseph Hunter,B.H. Bright,['21'],[''],"['Book 21: Undated, Lot n/a ']",1
+Joseph Lilly,Huth,['452'],['1860'],"['Book 452: 1860, Lot n/a ']",1
+Joseph Ritson,Hill,['440'],['1803'],"['Book 440: 1803, Lot 426 ']",1
+Kemble,Devonshire,"['779', '804', '323', '282', '281', '182', '181', '132', '920', '918', '919', '40', '835', '836', '832', '831', '1003', '999', '418', '554', '543', '549', '80', '85', '634', '637', '638', '698', '696-2', '121', '476', '485', '488', '1005', '1009', '1096', '759', '756', '753', '684', '685', '687', '624', '628', '365', '367', '360', '362A', '666', '663', '675', '575', '574', '566', '563', '558']","['1798', '1798', '1798', '1798', '1814', '', '', '1797', '1798', '1798', '1797', '1797', '1798', '1798', '', '1797', '1814', '1798', '1798', '', '1809', '1814', '1798', '1800', '', '1804', '1797', '', '1798', '1814', '1798', '1798', '1798', '1798', '1797', '1792', '1797', '1797', '1797', '1797', '1797', '1798', '1798', '1798', '1798', '1798', '1801', '1800', '1797', '1797', '', '1798', '1798', '', '', '1798']","['Book 779: 1798, Lot n/a ', 'Book 804: 1798, Lot n/a ', 'Book 323: 1798, Lot n/a ', 'Book 282: 1798, Lot n/a ', 'Book 281: 1814, Lot n/a ', 'Book 182: Undated, Lot n/a ', 'Book 181: Undated, Lot n/a ', 'Book 132: 1797, Lot n/a ', 'Book 920: 1798, Lot n/a ', 'Book 918: 1798, Lot n/a ', 'Book 919: 1797, Lot n/a ', 'Book 40: 1797, Lot n/a ', 'Book 835: 1798, Lot n/a ', 'Book 836: 1798, Lot n/a ', 'Book 832: Undated, Lot n/a ', 'Book 831: 1797, Lot n/a ', 'Book 1003: 1814, Lot n/a ', 'Book 999: 1798, Lot n/a ', 'Book 418: 1798, Lot n/a ', 'Book 554: Undated, Lot n/a ', 'Book 543: 1809, Lot n/a ', 'Book 549: 1814, Lot n/a ', 'Book 80: 1798, Lot n/a ', 'Book 85: 1800, Lot n/a ', 'Book 634: Undated, Lot n/a ', 'Book 637: 1804, Lot n/a ', 'Book 638: 1797, Lot n/a ', 'Book 698: Undated, Lot n/a ', 'Book 696-2: 1798, Lot n/a ', 'Book 121: 1814, Lot n/a ', 'Book 476: 1798, Lot n/a ', 'Book 485: 1798, Lot n/a ', 'Book 488: 1798, Lot n/a ', 'Book 1005: 1798, Lot n/a ', 'Book 1009: 1797, Lot n/a ', 'Book 1096: 1792, Lot n/a ', 'Book 759: 1797, Lot n/a ', 'Book 756: 1797, Lot n/a ', 'Book 753: 1797, Lot n/a ', 'Book 684: 1797, Lot n/a ', 'Book 685: 1797, Lot n/a ', 'Book 687: 1798, Lot n/a ', 'Book 624: 1798, Lot n/a ', 'Book 628: 1798, Lot n/a ', 'Book 365: 1798, Lot n/a ', 'Book 367: 1798, Lot n/a ', 'Book 360: 1801, Lot n/a ', 'Book 362A: 1800, Lot n/a ', 'Book 666: 1797, Lot n/a ', 'Book 663: 1797, Lot n/a ', 'Book 675: Undated, Lot n/a ', 'Book 575: 1798, Lot n/a ', 'Book 574: 1798, Lot n/a ', 'Book 566: Undated, Lot n/a ', 'Book 563: Undated, Lot n/a ', 'Book 558: 1798, Lot n/a ']",56
+Kemble,Pforzheimer,"['322', '932']","['', '1814']","['Book 322: Undated, Lot n/a ', 'Book 932: 1814, Lot n/a ']",2
+Kershaw,Huth,"['1', '656', '144']","['1877', '1877', '1877']","['Book 1: 1877, Lot Lot 1387 ', 'Book 656: 1877, Lot n/a ', 'Book 144: 1877, Lot 249 ']",3
+Kershaw,Jones,['545'],['1877'],"['Book 545: 1877, Lot 774 ']",1
+Kinnearf,Corser,['883'],['1835'],"['Book 883: 1835, Lot 1966 ']",1
+Kinnearf,Lord Brougham,['884'],['1835'],"['Book 884: 1835, Lot 1964 ']",1
+Knight,Pforzheimer,['761-1'],['1860'],"['Book 761-1: 1860, Lot 286 ']",1
+Knight,Tite,['631'],['1847'],"['Book 631: 1847, Lot 639 ']",1
+Lady Brooke,J.C. Williams,['494'],['1913'],"['Book 494: 1913, Lot 304 ']",1
+Lady Evelyn,William Upcott,['MS.35A'],[''],"['Book MS.35A: Undated, Lot n/a ']",1
+Lamport,Britwell,['444'],[''],"['Book 444: Undated, Lot n/a ']",1
+Lamport Hall,Britwell,"['385', '802', '83', '763', '617']","['', '', '1893', '', '']","['Book 385: Undated, Lot n/a ', 'Book 802: Undated, Lot n/a ', 'Book 83: 1893, Lot n/a ', 'Book 763: Undated, Lot n/a ', 'Book 617: Undated, Lot n/a ']",5
+Leeds Papers,Alfred Morrison,"['MS.143', 'MS.139', 'MS.145', 'MS.147', 'MS.148', 'MS.146', 'MS.144', 'MS.137', 'MS.138']","['', '', '', '', '', '', '', '', '']","['Book MS.143: Undated, Lot n/a ', 'Book MS.139: Undated, Lot n/a ', 'Book MS.145: Undated, Lot n/a ', 'Book MS.147: Undated, Lot n/a ', 'Book MS.148: Undated, Lot n/a ', 'Book MS.146: Undated, Lot n/a ', 'Book MS.144: Undated, Lot n/a ', 'Book MS.137: Undated, Lot n/a ', 'Book MS.138: Undated, Lot n/a ']",9
+Leeds Papers,Pforzheimer,"['MS.149', 'MS.2a']","['', '']","['Book MS.149: Undated, Lot n/a ', 'Book MS.2a: Undated, Lot n/a ']",2
+Leffe,Hagen,['295'],[''],"['Book 295: Undated, Lot n/a ']",1
+Lefferts,Chew,"['45', '107']","['', '1902']","['Book 45: Undated, Lot n/a ', 'Book 107: 1902, Lot 150 ']",2
+Lefferts,Hagen,"['325', '327', '316', '319', '930', '176', '178', '168', '52', '359', '1020', '1021', '15', '17', '22', '782', '468', '293', '635', '1006', '1018', '1054', '1055', '1098', '1103', '1100', '1099', '1102', '723', '340', '330']","['1902', '1902', '1902', '1902', '1902', '1902', '', '1902', '1901', '1902', '1902', '1902', '1902', '1902', '1902', '1901', '1902', '', '1902', '1902', '1902', '1902', '1902', '1902', '1902', '1902', '1902', '1902', '1902', '1902', '1902']","['Book 325: 1902, Lot 461 ', 'Book 327: 1902, Lot 464 ', 'Book 316: 1902, Lot 448 ', 'Book 319: 1902, Lot 450 ', 'Book 930: 1902, Lot 1236 ', 'Book 176: 1902, Lot 217 ', 'Book 178: Undated, Lot n/a ', 'Book 168: 1902, Lot 210 ', 'Book 52: 1901, Lot n/a ', 'Book 359: 1902, Lot 546 ', 'Book 1020: 1902, Lot 1393 ', 'Book 1021: 1902, Lot 1334 ', 'Book 15: 1902, Lot 18 ', 'Book 17: 1902, Lot 21 ', 'Book 22: 1902, Lot 22 ', 'Book 782: 1901, Lot 62 ', 'Book 468: 1902, Lot 727 ', 'Book 293: Undated, Lot n/a ', 'Book 635: 1902, Lot 852 ', 'Book 1006: 1902, Lot 1310 ', 'Book 1018: 1902, Lot 1331 ', 'Book 1054: 1902, Lot 471 ', 'Book 1055: 1902, Lot 1382 ', 'Book 1098: 1902, Lot 1447 ', 'Book 1103: 1902, Lot 1448 ', 'Book 1100: 1902, Lot 1450 ', 'Book 1099: 1902, Lot 1449 ', 'Book 1102: 1902, Lot 1451 ', 'Book 723: 1902, Lot 957 ', 'Book 340: 1902, Lot 491 ', 'Book 330: 1902, Lot 474 ']",31
+Lefferts,Halsey,['235'],['1902'],"['Book 235: 1902, Lot 287 ']",1
+Lefferts,Hoe,"['262', '955', '291', '565']","['', '1902', '1902', '1902']","['Book 262: Undated, Lot n/a ', 'Book 955: 1902, Lot 1254 ', 'Book 291: 1902, Lot 404 ', 'Book 565: 1902, Lot 811 ']",4
+Lefferts,Huntington,['470'],['1902'],"['Book 470: 1902, Lot 730 ']",1
+Lefferts,Pforzheimer,"['1019', '169', '925']","['1902', '1901', '1902']","['Book 1019: 1902, Lot 1332 ', 'Book 169: 1901, Lot n/a ', 'Book 925: 1902, Lot 1230 ']",3
+Lefferts,Poor,"['185', '186', '859', '215']","['1902', '1902', '1902', '1902']","['Book 185: 1902, Lot 239 ', 'Book 186: 1902, Lot 239 ', 'Book 859: 1902, Lot 1179 ', 'Book 215: 1902, Lot 262 ']",4
+Lefferts,Winans,['639'],['1901'],"['Book 639: 1901, Lot n/a ']",1
+Lenox ,Church,['537'],[''],"['Book 537: Undated, Lot n/a ']",1
+Leo,Pforzheimer,"['71', '72']","['1921', '1921']","['Book 71: 1921, Lot 15 ', 'Book 72: 1921, Lot 15 ']",2
+Littledale,Holmes,['1025'],['1820'],"['Book 1025: 1820, Lot 827 ']",1
+Locker,Church,"['888', '739']","['', '']","['Book 888: Undated, Lot n/a ', 'Book 739: Undated, Lot n/a ']",2
+Locker,Church estate sale,['1010'],[''],"['Book 1010: Undated, Lot n/a ']",1
+Locker,Hagen,"['374', '383']","['', '']","['Book 374: Undated, Lot n/a ', 'Book 383: Undated, Lot n/a ']",2
+Locker,Hoe,"['781', '540', '546', '475']","['', '', '', '']","['Book 781: Undated, Lot n/a ', 'Book 540: Undated, Lot n/a ', 'Book 546: Undated, Lot n/a ', 'Book 475: Undated, Lot n/a ']",4
+Locker,Huntington,['278'],[''],"['Book 278: Undated, Lot n/a ']",1
+Locker,Jones,['283'],[''],"['Book 283: Undated, Lot n/a ']",1
+Locker,M.J.Perry,['805'],[''],"['Book 805: Undated, Lot n/a ']",1
+Locker,Pforzheimer,"['181', '240', '277', '279', '308']","['', '', '', '', '']","['Book 181: Undated, Lot n/a ', 'Book 240: Undated, Lot n/a ', 'Book 277: Undated, Lot n/a ', 'Book 279: Undated, Lot n/a ', 'Book 308: Undated, Lot n/a ']",5
+Locker,Van Antwerp,['167'],[''],"['Book 167: Undated, Lot n/a ']",1
+Locker,W.A. White,"['654', '662']","['', '']","['Book 654: Undated, Lot n/a ', 'Book 662: Undated, Lot n/a ']",2
+Lord Auckland,Hagen,['844'],[''],"['Book 844: Undated, Lot n/a ']",1
+Lord Brougham,J. Fitchett Marsh,['884'],[''],"['Book 884: Undated, Lot n/a ']",1
+Lord Hillingdon,Pforzheimer,['MS.13'],['1932'],"['Book MS.13: 1932, Lot 173 ']",1
+Lord Middleton at Wollaton Hall,Pforzheimer,['234'],['1925'],"['Book 234: 1925, Lot 77 ']",1
+Lord Northbourne,Pforzheimer,['795'],['1924'],"['Book 795: 1924, Lot 312 ']",1
+Lord Vernon,Clawson,['887'],['1918'],"['Book 887: 1918, Lot 466 ']",1
+Lord Willoughby de Broket,Am. Art Assoc.,['362'],[''],"['Book 362: Undated, Lot n/a ']",1
+Lothian,Pforzheimer,['453'],['1932'],"['Book 453: 1932, Lot 101 ']",1
+Lowther Castle,Pforzheimer,['App.9'],['1937'],"['Book App.9: 1937, Lot Lot 383 ']",1
+Luttrell,J[ohn?]. Baynest,['440'],['1786'],"['Book 440: 1786, Lot 23 ']",1
+M.J.Perry,Hagen,['911 M'],[''],"['Book 911 M: Undated, Lot n/a ']",1
+M.J.Perry,Jones,"['805', '388']","['', '']","['Book 805: Undated, Lot n/a ', 'Book 388: Undated, Lot n/a ']",2
+Macro,Heber,"['416', '414']","['', '']","['Book 416: Undated, Lot n/a ', 'Book 414: Undated, Lot n/a ']",2
+Major E.W. MacDonald,Pforzheimer,['410'],['1932'],"['Book 410: 1932, Lot 7 ']",1
+Major Thomas Pearson,Heber,['733'],['1788'],"['Book 733: 1788, Lot n/a ']",1
+Mallet,Steevens,['399'],['1766'],"['Book 399: 1766, Lot 795 ']",1
+"Marchmont’s grandson, Hugh Scott of Harden, later Lord Polwarth.",Van Antwerp,['1026'],['1909'],"['Book 1026: 1909, Lot 64 ']",1
+Mark P. Robinson,Pforzheimer,"['1008', '111', '112', '140', '157', '31', '33', '447', '492', '973']","['1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918']","['Book 1008: 1918, Lot 226 ', 'Book 111: 1918, Lot 106 ', 'Book 112: 1918, Lot 107 ', 'Book 140: 1918, Lot 158 ', 'Book 157: 1918, Lot 164 ', 'Book 31: 1918, Lot 55 ', 'Book 33: 1918, Lot 59 ', 'Book 447: 1918, Lot 740 ', 'Book 492: 1918, Lot 469 ', 'Book 973: 1918, Lot 863 ']",10
+Marquis of Ailesbury,Clawson,['377'],['1919'],"['Book 377: 1919, Lot 219 ']",1
+Marsden J. Perry,H.V.Jones,['180'],[''],"['Book 180: Undated, Lot n/a ']",1
+Marsden J. Perry,Jones,['623'],[''],"['Book 623: Undated, Lot n/a ']",1
+Marsden J. Perry,Pforzheimer,['223'],[''],"['Book 223: Undated, Lot n/a ']",1
+Marshall,Hoe,['840'],['1890'],"['Book 840: 1890, Lot 1147 ']",1
+Mavor,Bliss,['5'],[''],"['Book 5: Undated, Lot n/a ']",1
+McKee,Bangs,['372-2'],['1901'],"['Book 372-2: 1901, Lot 2367 ']",1
+McKee,Chew,['1062'],['1901'],"['Book 1062: 1901, Lot 3226 ']",1
+McKee,Hagen,['307'],['1gor'],"['Book 307: 1gor, Lot 2882 ']",1
+McKee,Jones,['425'],['1901'],"['Book 425: 1901, Lot 2949 ']",1
+McKee,Sotheby’s,['769'],['1901'],"['Book 769: 1901, Lot n/a ']",1
+McKee,W.A. White,['557'],['1991'],"['Book 557: 1991, Lot 2441 ']",1
+McKee,Winans,['227'],['1901'],"['Book 227: 1901, Lot 2837 ']",1
+Midgeley|Midgeley,Chalmers,['979'],['1818'],"['Book 979: 1818, Lot n/a ']",1
+Midgely,Hibbert,['440'],['1818'],"['Book 440: 1818, Lot 294 ']",1
+Mitford,Locker,['279'],[''],"['Book 279: Undated, Lot n/a ']",1
+Mostyn,Chew,['681'],['1919'],"['Book 681: 1919, Lot 218 ']",1
+Mostyn,Clawson,"['520', '526', '518', '524', '268', '924', '1074', '1073', '47', '841', '789', '547', '706', '704', '692', '694', '703', '1095', '987', '434', '439', '397', '364', '368', '674', '673']","['1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919']","['Book 520: 1919, Lot 71 ', 'Book 526: 1919, Lot 361 ', 'Book 518: 1919, Lot 171 ', 'Book 524: 1919, Lot 338 ', 'Book 268: 1919, Lot 89 ', 'Book 924: 1919, Lot 318 ', 'Book 1074: 1919, Lot 356 ', 'Book 1073: 1919, Lot 354 ', 'Book 47: 1919, Lot 112 ', 'Book 841: 1919, Lot 293 ', 'Book 789: 1919, Lot 271 ', 'Book 547: 1919, Lot 177 ', 'Book 706: 1919, Lot 232 ', 'Book 704: 1919, Lot 230 ', 'Book 692: 1919, Lot 234 ', 'Book 694: 1919, Lot 231 ', 'Book 703: 1919, Lot 241 ', 'Book 1095: 1919, Lot 359 ', 'Book 987: 1919, Lot 326 ', 'Book 434: 1919, Lot 139 ', 'Book 439: 1919, Lot 141 ', 'Book 397: 1919, Lot 124 ', 'Book 364: 1919, Lot 108 ', 'Book 368: 1919, Lot 111 ', 'Book 674: 1919, Lot 209 ', 'Book 673: 1919, Lot 208 ']",26
+Mostyn,G.D.Smith,['521'],['1919'],"['Book 521: 1919, Lot 347 ']",1
+Mostyn,Pforzheimer,"['1067', '1076', '134', '154', '163', '409', '454', '519', '525', '618', '640', '646', '683', '691', '699', '768', '774', '813', '826', '845', '867', '889', '894', '904', '922', '933']","['1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1919', '1907', '1907', '1907', '1919', '1919', '1920']","['Book 1067: 1919, Lot 350 ', 'Book 1076: 1919, Lot 351 ', 'Book 134: 1919, Lot 40 ', 'Book 154: 1919, Lot 49 ', 'Book 163: 1919, Lot 50 ', 'Book 409: 1919, Lot 130 ', 'Book 454: 1919, Lot 146 ', 'Book 519: 1919, Lot 174 ', 'Book 525: 1919, Lot 343 ', 'Book 618: 1919, Lot 190 ', 'Book 640: 1919, Lot 194 ', 'Book 646: 1919, Lot 202 ', 'Book 683: 1919, Lot 220 ', 'Book 691: 1919, Lot 245 ', 'Book 699: 1919, Lot 235 ', 'Book 768: 1919, Lot 336 ', 'Book 774: 1919, Lot 265 ', 'Book 813: 1919, Lot 135 ', 'Book 826: 1919, Lot 284 ', 'Book 845: 1919, Lot 328 ', 'Book 867: 1907, Lot 461 ', 'Book 889: 1907, Lot 480 ', 'Book 894: 1907, Lot 483 ', 'Book 904: 1919, Lot 299 ', 'Book 922: 1919, Lot 308 ', 'Book 933: 1920, Lot 67 ']",26
+Mr. Mark Cephas Tutet,J.B.Inglis,['417'],[''],"['Book 417: Undated, Lot n/a ']",1
+N.Q. Pope,Hoe,"['895', '880']","['1895', '1895']","['Book 895: 1895, Lot n/a ', 'Book 880: 1895, Lot n/a ']",2
+Narcissus Luttrell,Farmer,"['160', '1081']","['', '']","['Book 160: Undated, Lot n/a ', 'Book 1081: Undated, Lot n/a ']",2
+Narcissus Luttrell,George Steevens,['166'],[''],"['Book 166: Undated, Lot n/a ']",1
+Narcissus Luttrell,Pforzheimer,['966'],['1936'],"['Book 966: 1936, Lot 162 ']",1
+Nassau,Heber,['MS.116'],['1824'],"['Book MS.116: 1824, Lot 1141 ']",1
+Nassau,Jadis,['405'],['1824'],"['Book 405: 1824, Lot 1694 ']",1
+Octavius G. Gilchrist,Ashburnham,['248'],['1824'],"['Book 248: 1824, Lot n/a ']",1
+Osterley Park,Hoe,['14'],['1885'],"['Book 14: 1885, Lot 99 ']",1
+Ouvry,Locker,"['781', '1010']","['1882', '1882']","['Book 781: 1882, Lot 1097 ', 'Book 1010: 1882, Lot 1568 ']",2
+Ouvry,Poor,['879'],['1882'],"['Book 879: 1882, Lot 1322 ']",1
+P.M.Barnard,Pforzheimer,['796'],['1934'],"['Book 796: 1934, Lot 320 ']",1
+P.M.Pittar,Sotheby’s,['114'],['1918'],"['Book 114: 1918, Lot 174 ']",1
+Park,B.A.P.No.554,['786'],[''],"['Book 786: Undated, Lot n/a ']",1
+Park,Midgeley|Midgeley,['979'],['1815'],"['Book 979: 1815, Lot 344 ']",1
+Pearson,George Mason,['455'],['1788'],"['Book 455: 1788, Lot 2147 ']",1
+Pearson,Jones,['938'],['1916'],"['Book 938: 1916, Lot 277 ']",1
+Pearson,Viscount Birkenhead,['708'],['1914'],"['Book 708: 1914, Lot 378 ']",1
+Pembroke,Clawson,['471'],['1920'],"['Book 471: 1920, Lot 232 ']",1
+Pembroke,Huntington,"['594', '141', '729']","['1914', '1914', '1914']","['Book 594: 1914, Lot 125 ', 'Book 141: 1914, Lot 50 ', 'Book 729: 1914, Lot 140 ']",3
+Pepys Papers,Alfred Morrison,"['MS.152', 'MS.153', 'MS.35N', 'MS.41a', 'MS.41b', 'MS.121', 'MS.104c', 'MS.122', 'MS.1a', 'MS.1q', 'MS.167']","['', '', '', '', '', '', '', '', '', '', '']","['Book MS.152: Undated, Lot n/a ', 'Book MS.153: Undated, Lot n/a ', 'Book MS.35N: Undated, Lot n/a ', 'Book MS.41a: Undated, Lot n/a ', 'Book MS.41b: Undated, Lot n/a ', 'Book MS.121: Undated, Lot n/a ', 'Book MS.104c: Undated, Lot n/a ', 'Book MS.122: Undated, Lot n/a ', 'Book MS.1a: Undated, Lot n/a ', 'Book MS.1q: Undated, Lot n/a ', 'Book MS.167: Undated, Lot n/a ']",11
+Pepys Papers,Pforzheimer,"['MS.1s', 'MS.35Q']","['', '']","['Book MS.1s: Undated, Lot n/a ', 'Book MS.35Q: Undated, Lot n/a ']",2
+Percivall Beaumont,Richard Le Gallienne,['1022'],[''],"['Book 1022: Undated, Lot n/a ']",1
+Perkins,Sotheby’s,['142'],['1889'],"['Book 142: 1889, Lot 408 ']",1
+Perry,Sykes,['952'],['1822'],"['Book 952: 1822, Lot 362 ']",1
+Peter Le Neve,"Charles Bruce, Viscount Ampthill",['183'],['1731'],"['Book 183: 1731, Lot n/a ']",1
+Philip Lord Hardwicke,Shakespeare Library,['252'],[''],"['Book 252: Undated, Lot n/a ']",1
+Pickering,Huth,['391'],[''],"['Book 391: Undated, Lot n/a ']",1
+Pigott,Britwell,['272'],['1847'],"['Book 272: 1847, Lot 100 ']",1
+Pinkerton,Heber,['507'],['1812'],"['Book 507: 1812, Lot 85 ']",1
+Pittar,Clawson,"['472', '881', '885']","['1918', '1918', '1918']","['Book 472: 1918, Lot 321 ', 'Book 881: 1918, Lot 587 ', 'Book 885: 1918, Lot 586 ']",3
+Poor,Huntington,"['185', '859', '879', '449', '215']","['1909', '1909', '1909', '1908', '1908']","['Book 185: 1909, Lot 85 ', 'Book 859: 1909, Lot 927 ', 'Book 879: 1909, Lot 934 ', 'Book 449: 1908, Lot 536 ', 'Book 215: 1908, Lot 262 ']",5
+Poor,Pforzheimer,['186'],['1909'],"['Book 186: 1909, Lot 88 ']",1
+Pulsford,Titus,['809'],['1914'],"['Book 809: 1914, Lot 583 ']",1
+Purdy,Pforzheimer,['969'],['1917'],"['Book 969: 1917, Lot 867 ']",1
+Puttick’s,Jones,['523'],['1918'],"['Book 523: 1918, Lot 182 ']",1
+R-H.Inglis,McKee,['557'],['1889'],"['Book 557: 1889, Lot n/a ']",1
+R-H.Inglis,Thorn Drury,['787'],['1889'],"['Book 787: 1889, Lot 440 ']",1
+R.E. Gadthorne Hardy,Pforzheimer,['130'],[''],"['Book 130: Undated, Lot n/a ']",1
+R.H. Turner,Lefferts,['22'],['1888'],"['Book 22: 1888, Lot 265 ']",1
+R.S.Turner,Charles Butler of Warren Wood,['780'],['1888'],"['Book 780: 1888, Lot 3018 ']",1
+R.S.Turner,N.Q. Pope,['880'],['1888'],"['Book 880: 1888, Lot 2427 ']",1
+R.S.Turner,Sotheby’s,['217'],['1888'],"['Book 217: 1888, Lot 7490 ']",1
+R.S.Turner,William Cowan,['114'],['1888'],"['Book 114: 1888, Lot 734 ']",1
+Ralph Sheldon,Tyssen,['460'],['1781'],"['Book 460: 1781, Lot n/a ']",1
+Ratcliffe,"Hugh, grd Earl of Marchmont",['1026'],['1776'],"['Book 1026: 1776, Lot 1214 ']",1
+Reed,Heber,"['1047', '981']","['1807', '1807']","['Book 1047: 1807, Lot 7208 ', 'Book 981: 1807, Lot 7673 ']",2
+Reginald Cholmondeley,W.A. White,['665'],['1897'],"['Book 665: 1897, Lot 144 ']",1
+Rev. Cox Macro,"John Pattenson, M.P. for Norwich",['MS. 40A'],[''],"['Book MS. 40A: Undated, Lot n/a ']",1
+Rev. John Mitford,Mark P. Robinson,['157'],['1860'],"['Book 157: 1860, Lot 2640 ']",1
+Rev.Henry White,Saunders,['864'],['1824'],"['Book 864: 1824, Lot 12587 ']",1
+Rhodes,Britwell,['862'],['1834'],"['Book 862: 1834, Lot 2412 ']",1
+Richard Bennett,Ross Winans,['421'],['1898'],"['Book 421: 1898, Lot n/a ']",1
+Richard Gough,Heber,['595'],['1810'],"['Book 595: 1810, Lot 2236 ']",1
+Richard Le Gallienne,Pforzheimer,['1022'],[''],"['Book 1022: Undated, Lot n/a ']",1
+Richard Wright,Kemble,['624'],['1787'],"['Book 624: 1787, Lot 1657 ']",1
+Ross Winans,Hagen,['707'],[''],"['Book 707: Undated, Lot n/a ']",1
+Ross Winans,Jones,['743'],[''],"['Book 743: Undated, Lot n/a ']",1
+Ross Winans,Pforzheimer,"['1079', '173', '304', '376', '421', '44', '719', '730', '798']","['', '', '', '', '', '', '', '1919', '']","['Book 1079: Undated, Lot n/a ', 'Book 173: Undated, Lot n/a ', 'Book 304: Undated, Lot n/a ', 'Book 376: Undated, Lot n/a ', 'Book 421: Undated, Lot n/a ', 'Book 44: Undated, Lot n/a ', 'Book 719: Undated, Lot n/a ', 'Book 730: 1919, Lot 710 ', 'Book 798: Undated, Lot n/a ']",9
+Rowfant,Pforzheimer,['269'],['1922'],"['Book 269: 1922, Lot 556 ']",1
+Rowfant,W.A. White,['655'],[''],"['Book 655: Undated, Lot n/a ']",1
+Roxburghe,Frederick Perkins,['422'],['1812'],"['Book 422: 1812, Lot 3241 ']",1
+Roxburghe,Heber,"['1075', '792', '636', '435', '396']","['1812', '1812', '1812', '1812', '1812']","['Book 1075: 1812, Lot 677 ', 'Book 792: 1812, Lot 5605 ', 'Book 636: 1812, Lot 5351 ', 'Book 435: 1812, Lot 6654 ', 'Book 396: 1812, Lot 294 ']",5
+Roxburghe,Hoe,['408'],['1812'],"['Book 408: 1812, Lot 4982 ']",1
+Roxburghe,Holgate,['790'],['1812'],"['Book 790: 1812, Lot 4054 ']",1
+Roxburghe,J.M.Rice,['455'],['1812'],"['Book 455: 1812, Lot 3270 ']",1
+Roxburghe,Kemble,"['1003', '549', '121']","['1812', '1812', '1812']","['Book 1003: 1812, Lot 5943 ', 'Book 549: 1812, Lot 5222 ', 'Book 121: 1812, Lot 4542 ']",3
+Roxburghe,Pforzheimer,['932'],['1812'],"['Book 932: 1812, Lot 310 ']",1
+Roxburghe,Sykes,['975'],['1812'],"['Book 975: 1812, Lot 3329 ']",1
+Roxburghe,White Knights,['952'],['1812'],"['Book 952: 1812, Lot 3320 ']",1
+Royal Society,Arnold,['842'],['1873'],"['Book 842: 1873, Lot n/a ']",1
+Rt. Hon. Sir George Rose,"Marchmont’s grandson, Hugh Scott of Harden, later Lord Polwarth.",['1026'],[''],"['Book 1026: Undated, Lot n/a ']",1
+S.K. Wilson,Pforzheimer,['915'],['1918'],"['Book 915: 1918, Lot n/a ']",1
+S.W.H.Ireland,Henkels’s Shakespeare sale,['921'],['1801'],"['Book 921: 1801, Lot n/a ']",1
+Samuel Prince,Huth,['74'],[''],"['Book 74: Undated, Lot n/a ']",1
+Saunders,Britwell,['864'],[''],"['Book 864: Undated, Lot n/a ']",1
+Scott’s Cat.,James Perry,['769'],['1804'],"['Book 769: 1804, Lot 550 ']",1
+Selby,Thorn Drury,['216'],[''],"['Book 216: Undated, Lot n/a ']",1
+Seth Terry,Pforzheimer,"['362', '850']","['1935', '1935']","['Book 362: 1935, Lot 75 ', 'Book 850: 1935, Lot 347 ']",2
+Sewall,Pforzheimer,['911 C'],[''],"['Book 911 C: Undated, Lot n/a ']",1
+Sewall,Shakespeare Library,['927'],['1897'],"['Book 927: 1897, Lot 3515 ']",1
+Sewall,White,['143'],['1896'],"['Book 143: 1896, Lot 692 ']",1
+Shakespeare Library,Clawson,['351'],['1918'],"['Book 351: 1918, Lot 476 ']",1
+Shakespeare Library,Jones,['710'],['1918'],"['Book 710: 1918, Lot 622 ']",1
+Shakespeare Library,Pforzheimer,"['106', '1093', '110', '125', '136', '189', '236', '250', '252', '339', '34', '35', '356', '369', '442', '49', '60', '600', '645', '65', '676', '740', '78', '803', '808', '81', '82', '844', '872', '877', '882', '926', '927', '935', 'MS.39']","['1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918', '1918']","['Book 106: 1918, Lot 129 ', 'Book 1093: 1918, Lot 726 ', 'Book 110: 1918, Lot 135 ', 'Book 125: 1918, Lot 77 ', 'Book 136: 1918, Lot 169 ', 'Book 189: 1918, Lot 229 ', 'Book 236: 1918, Lot 107 ', 'Book 250: 1918, Lot 266 ', 'Book 252: 1918, Lot 115 ', 'Book 339: 1918, Lot 122 ', 'Book 34: 1918, Lot 56 ', 'Book 35: 1918, Lot 16 ', 'Book 356: 1918, Lot 464 ', 'Book 369: 1918, Lot 134 ', 'Book 442: 1918, Lot 154 ', 'Book 49: 1918, Lot 40 ', 'Book 60: 1918, Lot 43 ', 'Book 600: 1918, Lot 213 ', 'Book 645: 1918, Lot 222 ', 'Book 65: 1918, Lot 43 ', 'Book 676: 1918, Lot 236 ', 'Book 740: 1918, Lot 636 ', 'Book 78: 1918, Lot 124 ', 'Book 803: 1918, Lot 51 ', 'Book 808: 1918, Lot 269 ', 'Book 81: 1918, Lot 123 ', 'Book 82: 1918, Lot 125 ', 'Book 844: 1918, Lot 586 ', 'Book 872: 1918, Lot 541 ', 'Book 877: 1918, Lot 784 ', 'Book 882: 1918, Lot 302 ', 'Book 926: 1918, Lot 824 ', 'Book 927: 1918, Lot 313 ', 'Book 935: 1918, Lot 312 ', 'Book MS.39: 1918, Lot 257 ']",35
+Shakespeare Sale,Pforzheimer,['26'],['1918'],"['Book 26: 1918, Lot 126 ']",1
+Shipperdson,Chew,['735'],[''],"['Book 735: Undated, Lot n/a ']",1
+Sir Henry Spelman,Rev. Cox Macro,['MS. 40A'],['1709'],"['Book MS. 40A: 1709, Lot n/a ']",1
+Sir Mark Dalrymple,Pforzheimer,['1081'],['1937'],"['Book 1081: 1937, Lot 438 ']",1
+Sir Samuel Egerton Brydges,Devonshire,['42'],['1831'],"['Book 42: 1831, Lot 493 ']",1
+Sir Walter Halsey,Pforzheimer,['84'],['1932'],"['Book 84: 1932, Lot 331C ']",1
+"Sir Walter Halsey, Bt",Pforzheimer,['621'],['1932'],"['Book 621: 1932, Lot 331f ']",1
+Sir William Tite,Alfred Morrison,['MS. 1c'],['1870'],"['Book MS. 1c: 1870, Lot 3532 ']",1
+Smith,Pforzheimer,['1094'],['1920'],"['Book 1094: 1920, Lot 32A ']",1
+Sotheby’s,Alfred Morrison,"['MS.130', 'MS.105D', 'MS.105G', 'MS.103a', 'MS.104a', 'MS.1p', 'MS.155']","['1882', '1881', '1881', '1882', '1882', '1890', '1881']","['Book MS.130: 1882, Lot 20 ', 'Book MS.105D: 1881, Lot 21 ', 'Book MS.105G: 1881, Lot 20 ', 'Book MS.103a: 1882, Lot 4 ', 'Book MS.104a: 1882, Lot 12 ', 'Book MS.1p: 1890, Lot 41 ', 'Book MS.155: 1881, Lot 170 ']",7
+Sotheby’s,Britwell,['510'],['1858'],"['Book 510: 1858, Lot 596 ']",1
+Sotheby’s,G.D.Smith,['769'],['1904'],"['Book 769: 1904, Lot 583 ']",1
+Sotheby’s,Hagen,"['910', '12', '296']","['1904', '1900', '1897']","['Book 910: 1904, Lot 880 ', 'Book 12: 1900, Lot n/a ', 'Book 296: 1897, Lot 382 ']",3
+Sotheby’s,Henkels’s Shakespeare sale,['914'],['1914'],"['Book 914: 1914, Lot n/a ']",1
+Sotheby’s,J.T. Adams,['619'],[''],"['Book 619: Undated, Lot n/a ']",1
+Sotheby’s,Marsden J. Perry,['180'],['1903'],"['Book 180: 1903, Lot 190 ']",1
+Sotheby’s,P.M.Barnard,['796'],['1919'],"['Book 796: 1919, Lot 121 ']",1
+Sotheby’s,Pforzheimer,"['1028', '114', '164', '192', '197', '217', '302', '449A', '556', 'MS.158', 'MS.160']","['1903', '1919', '1899', '1929', '1923', '1932', '1932', '1936', '1930', '1881', '1882']","['Book 1028: 1903, Lot n/a ', 'Book 114: 1919, Lot 44 ', 'Book 164: 1899, Lot 226 ', 'Book 192: 1929, Lot 117 ', 'Book 197: 1923, Lot 177 ', 'Book 217: 1932, Lot 435 ', 'Book 302: 1932, Lot 58 ', 'Book 449A: 1936, Lot 245 ', 'Book 556: 1930, Lot 43 ', 'Book MS.158: 1881, Lot 179 ', 'Book MS.160: 1882, Lot 145 ']",11
+Sotheby’s,Selby,['216'],['1902'],"['Book 216: 1902, Lot 429 ']",1
+Sotheby’s,Shakespeare Library,['808'],['1916'],"['Book 808: 1916, Lot n/a ']",1
+Sotheby’s,Sotheby’s,"['808', '914']","['1901', '1911']","['Book 808: 1901, Lot n/a ', 'Book 914: 1911, Lot n/a ']",2
+Sotheby’s,W.A. White,"['659', '142']","['1893', '1893']","['Book 659: 1893, Lot 244 ', 'Book 142: 1893, Lot 55 ']",2
+Stanley,Sykes,['783'],['1813'],"['Book 783: 1813, Lot 669 ']",1
+Steevens,B.A.P.,['943'],['1800'],"['Book 943: 1800, Lot 1078 ']",1
+Steevens,Crawford,['386'],['1800'],"['Book 386: 1800, Lot 861 ']",1
+Steevens,Forster,['399'],['1800'],"['Book 399: 1800, Lot 869 ']",1
+Steevens,Pforzheimer,"['MS.2b', 'MS.2bb', 'MS.2dd']","['1932', '1932', '1932']","['Book MS.2b: 1932, Lot 14 ', 'Book MS.2bb: 1932, Lot 15 ', 'Book MS.2dd: 1932, Lot 15 ']",3
+Steevens,Roxburghe,"['792', '952', '435']","['1800', '1800', '1800']","['Book 792: 1800, Lot 1259 ', 'Book 952: 1800, Lot 849 ', 'Book 435: 1800, Lot 882 ']",3
+Steevens,Tite,['890'],[''],"['Book 890: Undated, Lot n/a ']",1
+Steeves,Clawson,['366'],['1916'],"['Book 366: 1916, Lot 232 ']",1
+Steeves,G.D.Smith,['780'],['1916'],"['Book 780: 1916, Lot 329 ']",1
+Steeves,Jones,['465'],['1916'],"['Book 465: 1916, Lot 255 ']",1
+Stradling,Hoe,['963'],['1901|1306'],"['Book 963: 1901|1306, Lot n/a ']",1
+Sydney Herbert,Pforzheimer,"['343', '346', '349', '39', '56', '874', '917']","['1916', '1916', '1916', '1916', '1916', '1916', '1916']","['Book 343: 1916, Lot 350 ', 'Book 346: 1916, Lot 352 ', 'Book 349: 1916, Lot 351 ', 'Book 39: 1916, Lot 31 ', 'Book 56: 1916, Lot 46 ', 'Book 874: 1916, Lot 794 ', 'Book 917: 1916, Lot 795 ']",7
+Sykes,Britwell,['952'],['1824'],"['Book 952: 1824, Lot 1007 ']",1
+Sykes,Freeling,['432'],['1824'],"['Book 432: 1824, Lot 1340 ']",1
+Sykes,Heber,"['941', '783', '947', '975']","['1824', '1824', '1824', '1824']","['Book 941: 1824, Lot 360 ', 'Book 783: 1824, Lot 134 ', 'Book 947: 1824, Lot 363 ', 'Book 975: 1824, Lot 509 ']",4
+Sykes,Hibbert,['469'],['1824'],"['Book 469: 1824, Lot 203 ']",1
+Sykes,Pittar,['472'],['1824'],"['Book 472: 1824, Lot 1500 ']",1
+T.D.C. Graham,Locker,['167'],[''],"['Book 167: Undated, Lot n/a ']",1
+T.J.McKee,S.K. Wilson,['915'],['1901'],"['Book 915: 1901, Lot n/a ']",1
+Thomas Barret of Lee,Colin Campbell,['911 D'],[''],"['Book 911 D: Undated, Lot n/a ']",1
+Thomas Bell,Pforzheimer,['739'],['1917'],"['Book 739: 1917, Lot 558 ']",1
+Thomas Brooke,Lady Brooke,['494'],[''],"['Book 494: Undated, Lot n/a ']",1
+Thomas Brooke,Pforzheimer,['965'],['1921'],"['Book 965: 1921, Lot 1359 ']",1
+Thomas Lloyd,Britwell,['988'],['1840'],"['Book 988: 1840, Lot 470 ']",1
+Thorn Drury,Pforzheimer,"['216', '787', 'MS.2aa', 'MS.2c', 'MS.2cc', 'MS.2d', 'MS.2e', 'MS.2f', 'MS.2g', 'MS.2h', 'MS.2i', 'MS.2j', 'MS.2k', 'MS.2l', 'MS.2m', 'MS.2n', 'MS.2o', 'MS.2p', 'MS.2q', 'MS.2r', 'MS.2s', 'MS.2t', 'MS.2u', 'MS.2v', 'MS.2w', 'MS.2x', 'MS.2y', 'MS.2z']","['1931', '1931', '1932', '1932', '1932', '1932', '1932', '1919', '1932', '1932', '1932', '1932', '1919', '1932', '1932', '1932', '1936', '1932|2396', '1932', '1932', '1932', '1932', '1932', '1932', '1932', '1932', '1932', '1932']","['Book 216: 1931, Lot 1673 ', 'Book 787: 1931, Lot 2078 ', 'Book MS.2aa: 1932, Lot 2396 ', 'Book MS.2c: 1932, Lot 2396 ', 'Book MS.2cc: 1932, Lot 2396 ', 'Book MS.2d: 1932, Lot 2396 ', 'Book MS.2e: 1932, Lot 2396 ', 'Book MS.2f: 1919, Lot 2395 ', 'Book MS.2g: 1932, Lot 2396 ', 'Book MS.2h: 1932, Lot 2396 ', 'Book MS.2i: 1932, Lot 2396 ', 'Book MS.2j: 1932, Lot 2396 ', 'Book MS.2k: 1919, Lot 2396 ', 'Book MS.2l: 1932, Lot 2396 ', 'Book MS.2m: 1932, Lot 2396 ', 'Book MS.2n: 1932, Lot 2396 ', 'Book MS.2o: 1936, Lot 2396 ', 'Book MS.2p: 1932|2396, Lot n/a ', 'Book MS.2q: 1932, Lot 2396 ', 'Book MS.2r: 1932, Lot 2396 ', 'Book MS.2s: 1932, Lot 2396 ', 'Book MS.2t: 1932, Lot 2396 ', 'Book MS.2u: 1932, Lot 2396 ', 'Book MS.2v: 1932, Lot 2396 ', 'Book MS.2w: 1932, Lot 2396 ', 'Book MS.2x: 1932, Lot 2396 ', 'Book MS.2y: 1932, Lot 2396 ', 'Book MS.2z: 1932, Lot 2396 ']",28
+Thorn Drury,Steevens,"['MS.2dd', 'MS.2bb']","['1932', '1932']","['Book MS.2dd: 1932, Lot 2395 ', 'Book MS.2bb: 1932, Lot 2395 ']",2
+Thos. Barret Brydges Barrett,Sir Samuel Egerton Brydges,['42'],[''],"['Book 42: Undated, Lot n/a ']",1
+Tite,Arnold,['631'],['1874'],"['Book 631: 1874, Lot 1911 ']",1
+Tite,Britwell,['896'],['1874'],"['Book 896: 1874, Lot 2775 ']",1
+Tite,Crawford,['890'],['1874'],"['Book 890: 1874, Lot 2760 ']",1
+Tite,Huth,"['527', '483']","['1874', '1874']","['Book 527: 1874, Lot 1586 ', 'Book 483: 1874, Lot 1412 ']",2
+Tite,Lefferts,['359'],['1874'],"['Book 359: 1874, Lot 1028 ']",1
+Tite,Locker,['888'],['1874'],"['Book 888: 1874, Lot 2752 ']",1
+Titef,Huth,['274'],['1874'],"['Book 274: 1874, Lot 871 ']",1
+Titus,Pforzheimer,['809'],['1919'],"['Book 809: 1919, Lot 407 ']",1
+Tyssen,Heber,['460'],['1801'],"['Book 460: 1801, Lot 1210 ']",1
+Upcott,Alfred Morrison,['MS.35I'],['1846'],"['Book MS.35I: 1846, Lot 429 ']",1
+Upcott,Dillon,['MS 112'],['1846'],"['Book MS 112: 1846, Lot n/a ']",1
+Utterson,Britwell,"['App.5', '436']","['1852', '1852']","['Book App.5: 1852, Lot Lot 1137 ', 'Book 436: 1852, Lot 800 ']",2
+Utterson,Corser,['567'],['1852'],"['Book 567: 1852, Lot 994 ']",1
+Utterson,Halliwell Phillipps,['965'],['1852'],"['Book 965: 1852, Lot 1721 ']",1
+Utterson,Huth,['991'],['1857'],"['Book 991: 1857, Lot 1607 ']",1
+Van Antwerp,Jones,['167'],['1907'],"['Book 167: 1907, Lot 27 ']",1
+Van Antwerp,Pforzheimer,"['1026', '183', '420']","['1922', '1922', '1922']","['Book 1026: 1922, Lot 5 ', 'Book 183: 1922, Lot 6 ', 'Book 420: 1922, Lot 3 ']",3
+Vickery,Pforzheimer,['1087'],['1933'],"['Book 1087: 1933, Lot 162 ']",1
+Viscount Birkenhead,Pforzheimer,['708'],[''],"['Book 708: Undated, Lot n/a ']",1
+W.A. White,Pforzheimer,"['142', '147', '156', '161', '164', '557', '576', '654', '655', '657', '659', '662', '665']","['', '', '', '', '', '', '', '', '', '', '', '', '']","['Book 142: Undated, Lot n/a ', 'Book 147: Undated, Lot n/a ', 'Book 156: Undated, Lot n/a ', 'Book 161: Undated, Lot n/a ', 'Book 164: Undated, Lot n/a ', 'Book 557: Undated, Lot n/a ', 'Book 576: Undated, Lot n/a ', 'Book 654: Undated, Lot n/a ', 'Book 655: Undated, Lot n/a ', 'Book 657: Undated, Lot n/a ', 'Book 659: Undated, Lot n/a ', 'Book 662: Undated, Lot n/a ', 'Book 665: Undated, Lot n/a ']",13
+W.A.H. Martin,Britwell,['6'],['1888'],"['Book 6: 1888, Lot n/a ']",1
+W.C. Hazlitt,Rowfant,['269'],[''],"['Book 269: Undated, Lot n/a ']",1
+W.E.Burton,Pforzheimer,"['757', '761-2']","['1860', '1860']","['Book 757: 1860, Lot 1374 ', 'Book 761-2: 1860, Lot 1374 ']",2
+W.F.Franklin,Pforzheimer,['505'],['1916'],"['Book 505: 1916, Lot 946 ']",1
+W.K.Bixby,Pforzheimer,"['880', '907', '909', '911']","['', '', '', '']","['Book 880: Undated, Lot n/a ', 'Book 907: Undated, Lot n/a ', 'Book 909: Undated, Lot n/a ', 'Book 911: Undated, Lot n/a ']",4
+W.T. Wallace,Clawson,['1080'],['1920'],"['Book 1080: 1920, Lot 1542 ']",1
+W.W.E. Wynne,Ashburnham,['494'],[''],"['Book 494: Undated, Lot n/a ']",1
+Waldron,Philip Lord Hardwicke,['252'],[''],"['Book 252: Undated, Lot n/a ']",1
+Walpole,Pforzheimer,['36'],['1920'],"['Book 36: 1920, Lot 20 ']",1
+Walpole Galleries,Pforzheimer,"['30', '380']","['1920', '1920']","['Book 30: 1920, Lot 22 ', 'Book 380: 1920, Lot 147 ']",2
+Webster,Hoe,['68'],['1893'],"['Book 68: 1893, Lot 731 ']",1
+West,Ratcliffe,['1026'],['1773'],"['Book 1026: 1773, Lot 1190 ']",1
+West,Willet,['489'],['1773'],"['Book 489: 1773, Lot 4091 ']",1
+Wheeler,Pforzheimer,"['127', '55']","['1919', '1919']","['Book 127: 1919, Lot 181 ', 'Book 55: 1919, Lot 51 ']",2
+White,Pforzheimer,"['143', '151', '386']","['', '', '1920']","['Book 143: Undated, Lot n/a ', 'Book 151: Undated, Lot n/a ', 'Book 386: 1920, Lot 39 ']",3
+White Knights,Perry,['952'],['1819'],"['Book 952: 1819, Lot 1522 ']",1
+Willet,Devonshire,['489'],['1813'],"['Book 489: 1813, Lot 1195 ']",1
+William Bayntun of Gray’s Inn,Heber,['1055'],['1787'],"['Book 1055: 1787, Lot n/a ']",1
+William Collet of the Hale,Clawson,['300'],[''],"['Book 300: Undated, Lot n/a ']",1
+William Cowan,P.M.Pittar,['114'],['1908'],"['Book 114: 1908, Lot 446 ']",1
+William Fellowes,Peter Le Neve,['183'],[''],"['Book 183: Undated, Lot n/a ']",1
+William Morris,Richard Bennett,['421'],[''],"['Book 421: Undated, Lot n/a ']",1
+William Smyth,Jo. Searlleith,['183'],[''],"['Book 183: Undated, Lot n/a ']",1
+William Upcott,Alfred Morrison,['MS.35P'],['1846'],"['Book MS.35P: 1846, Lot 421 ']",1
+William Upcott,John Dillon,['MS.35A'],[''],"['Book MS.35A: Undated, Lot n/a ']",1
+William Upcott,John Young,['MS.1e'],['1846'],"['Book MS.1e: 1846, Lot 432 ']",1
+Winans,Hagen,['639'],[''],"['Book 639: Undated, Lot n/a ']",1
+Winans,Jones,['227'],[''],"['Book 227: Undated, Lot n/a ']",1
+Winans,Pforzheimer,['1025'],[''],"['Book 1025: Undated, Lot n/a ']",1
+Wiper,Forman,['253'],['1891'],"['Book 253: 1891, Lot 92 ']",1
+Wiper,Leffe,['295'],['1891'],"['Book 295: 1891, Lot 506 ']",1
+Wolfreston,Britwell,['407'],['1856'],"['Book 407: 1856, Lot 77 ']",1
+Wolfreston,Forman,['146'],['1856'],"['Book 146: 1856, Lot 240 ']",1
+Wolfreston,Huth,['929'],['1856'],"['Book 929: 1856, Lot 231 ']",1
+Wolfreston,Tite,"['896', '483']","['1856', '1856']","['Book 896: 1856, Lot 353 ', 'Book 483: 1856, Lot 285 ']",2
+Wright,Kemble,"['696-2', '698', '663', '666']","['1787', '1787', '1787', '1787']","['Book 696-2: 1787, Lot 1850 ', 'Book 698: 1787, Lot 1850 ', 'Book 663: 1787, Lot 1814 ', 'Book 666: 1787, Lot 1814 ']",4
+Wright,Steevens,['792'],['1787'],"['Book 792: 1787, Lot 1873 ']",1
+Yarborough,Hoe,['828'],[''],"['Book 828: Undated, Lot n/a ']",1
+Young,Alfred Morrison,['MS.128'],['1869'],"['Book MS.128: 1869, Lot 271 ']",1
+he Henry Chandos Pole Gell,Jones,['137'],['1904'],"['Book 137: 1904, Lot 74 ']",1
+ordonstoun,J.D.Gardner,['428'],[''],"['Book 428: Undated, Lot n/a ']",1

@@ -56,11 +56,23 @@ def seller_seller():
     sellers['Source'] = rel_data.source_id.map(node_data.set_index('ID')['Person'])
     sellers['Target'] = rel_data.target_id.map(node_data.set_index('ID')['Person']).fillna("Pforzheimer")
 
-    sellers['Year'] = rel_data.source_id.map(node_data.set_index('ID')['AuctionYear'])
-    sellers['Book'] = rel_data.source_id.map(node_data.set_index('ID')['CatalogNum'])
-    sellers['Lot'] = rel_data.source_id.map(node_data.set_index('ID')['Lot'])
+    sellers['Year'] = rel_data.source_id.map(node_data.set_index('ID')['AuctionYear']).fillna("")
+    sellers['Book'] = rel_data.source_id.map(node_data.set_index('ID')['CatalogNum']).fillna("")
+    sellers['Lot'] = rel_data.source_id.map(node_data.set_index('ID')['Lot']).fillna("")
 
-    sellers.to_csv("../5 - gephi/rel_seller_seller_with_pforz.csv", index=False)
+
+    sellers['Edge Label'] = sellers.apply(lambda x: f"Book {x['Book']}: {x['Year'] or 'Undated'}, Lot {x['Lot'] or 'n/a'} ", axis=1)
+
+    # Weight and create edge labels
+    grouped = sellers.groupby(['Source', 'Target'])['Book'].apply(list)
+    grouped = pd.DataFrame(grouped)
+    grouped['Years'] = sellers.groupby(['Source', 'Target'])['Year'].apply(list)
+    grouped['Edge Label'] = sellers.groupby(['Source', 'Target'])['Edge Label'].apply(list)
+    grouped['Weight'] = grouped['Book'].str.len()
+    grouped.rename(columns={'Book': 'Books'}, inplace=True)
+    grouped = grouped.reset_index()
+
+    grouped.to_csv("../5 - gephi/rel_seller_seller_with_pforz_grouptest.csv", index=False)
 
 
 def auction_auction():
