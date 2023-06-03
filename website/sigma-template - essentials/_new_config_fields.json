@@ -1,0 +1,6 @@
+{
+  "informationPanel": {
+    "nodeAttributes": ["type", "Degree", "Betweenness Centrality", "title","findingaid"],
+    "edgeAttributes": ["Edge Weight", "Transactions"]
+  }
+}
