@@ -10,16 +10,12 @@
   "text": {
     "more": "",
     "intro": "",
-    "title": "Pforzheimer Provenance by Seller"
+    "title": "Cotton Books Loaned Together"
   },
   "legend": {
-    "edgeLabel": "Books",
-    "colorLabel": "",
-    "nodeLabel": "Seller",
-    "colorKey": {
-      "#458346": "green"
-    },
-    "nodeSize": "Degree"
+    "edgeLabel": "Borrowed together",
+    "colorLabel": "Betweenness",
+    "nodeLabel": "Books"
   },
   "features": {
     "search": true,
@@ -27,14 +23,12 @@
     "hoverBehavior": "dim"
   },
   "informationPanel": {
-    "groupByEdgeDirection": false,
-    "imageAttribute": false,
-    "nodeAttributes": ["type", "Degree", "Betweenness Centrality", "title","findingaid"],
-    "edgeAttributes": ["Edge Weight", "Transactions"]
+    "groupByEdgeDirection": true,
+    "imageAttribute": false
   },
   "sigma": {
     "drawingProperties": {
-      "defaultEdgeType": "straight",
+      "defaultEdgeType": "curve",
       "defaultHoverLabelBGColor": "#002147",
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
@@ -43,14 +37,13 @@
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 14,
-      "defaultMode": "dark"
+      "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 10,
+      "maxEdgeSize": 0.5,
       "minEdgeSize": 0.2,
       "minNodeSize": 1,
-      "maxNodeSize": 7
+      "maxNodeSize": 15
     },
     "mouseProperties": {
       "maxRatio": 20,

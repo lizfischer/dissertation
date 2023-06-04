@@ -1,6 +1,17 @@
 {
-  "informationPanel": {
-    "nodeAttributes": ["type", "Degree", "Betweenness Centrality", "title","findingaid"],
-    "edgeAttributes": ["Edge Weight", "Transactions"]
-  }
+	"legend": {
+		"colorKey": {
+		  "#458346": "green"
+		},
+		"nodeSize": "Degree"  
+	},  
+	"informationPanel": {
+		"nodeAttributes": ["type", "Degree", "Betweenness Centrality", "title","findingaid"],
+		"edgeAttributes": ["Edge Weight", "Transactions"]
+	},
+	"sigma": {
+		"drawingProperties": {
+		  "defaultMode": "dark"
+		}
+	}
 }

@@ -85,9 +85,7 @@ function initSigma(config) {
         fontStyle: "bold",
         activeFontStyle: "bold"
     };
-
-
-
+    
     if (config.sigma && config.sigma.graphProperties)	
     	graphProps=config.sigma.graphProperties;
     else
@@ -111,8 +109,6 @@ function initSigma(config) {
     a.active = !1;
     a.neighbors = {};
     a.detail = !1;
-
-    init_color_mode(config); //NOTE
 
 
     let dataReady = function () {//This is called as soon as data is loaded
@@ -142,7 +138,6 @@ function initSigma(config) {
     else
 	    a.parseJson(data,dataReady);
     gexf = sigmaInst = null;
-
 }
 
 
@@ -150,7 +145,6 @@ function initSigma(config) {
 /** INTERFACE **/
 
 function setupGUI(config) {
-
 	// Initialise main interface elements
     let logo = ""; // Logo elements
 	if (config.logo.file) {
@@ -187,7 +181,7 @@ function setupGUI(config) {
 
     }
 
-	/** Legend **/
+	// Legend
 
 	// Node
 	if (config.legend.nodeLabel) {
@@ -232,7 +226,7 @@ function setupGUI(config) {
     }
 
 
-    $GP = {
+	$GP = {
 		calculating: !1,
 		showgroup: !1
 	};
@@ -260,7 +254,6 @@ function setupGUI(config) {
     $GP.cluster = new Cluster($GP.form.find("#attributeselect"));
     config.GP=$GP;
     initSigma(config);
-
 }
 
 function configSigmaElements(config) {
@@ -491,7 +484,6 @@ function Cluster(a) {
         this.select.addClass("close")
     }
 }
-
 function showGroups(a) {
     a ? ($GP.intro.find("#showGroups").text("Hide groups"), $GP.bg.show(), $GP.bg2.hide(), $GP.showgroup = !0) : ($GP.intro.find("#showGroups").text("View Groups"), $GP.bg.hide(), $GP.bg2.show(), $GP.showgroup = !1)
 }
@@ -783,18 +775,4 @@ function dark_mode_toggle(){
         $("#darkmode-toggle").data("mode", "light");
     }
 
-}
-
-function init_color_mode(config){
-    // INIT DARK MODE
-    let default_mode = config.sigma.drawingProperties.defaultMode;
-    if (default_mode === "dark") {
-        sigInst.drawingProperties({"defaultLabelColor": "#fff"});
-        $("#sigma-canvas").css("background-color", "#1d1d1d");
-        $("#darkmode-toggle").data("mode", "dark");
-    } else {
-        sigInst.drawingProperties({"defaultLabelColor": "#000"});
-        $("#sigma-canvas").css("background-color", "#eee");
-        $("#darkmode-toggle").data("mode", "light");
-    }
 }
