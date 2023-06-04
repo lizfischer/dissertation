@@ -167,7 +167,7 @@ cursor:pointer;
 }
 
 #attributepane .p {
-padding-top: 10px;
+margin: 20px 0 10px 0;
 font-weight: bold;
 font-size:14px;
 }
@@ -606,3 +606,57 @@ cursor: pointer;
 display: none;
 }
 
+/* Info Pane Edge Attrs*/
+li.membership {
+	padding:5px
+}
+.edge-attr-toggle {
+	margin-right: 10px;
+}
+.edge-attrs {
+	margin: 5px 5px 5px 20px;
+	line-height: 1.6rem;
+}
+.edge-attr-label {
+	font-weight: bold;
+}
+.connection-label {
+	user-select: none;
+}
+ul.edge-attr-value { /*indent list attrs*/
+	margin-left: 30px;
+}
+
+/* Darkmode toggle*/
+
+#darkmode-toggle-wrap {
+	z-index:999;
+	position: fixed;
+	left: 45%;
+	bottom: 25px;
+	margin:0 auto;
+	padding: 0;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	text-align:left;
+}
+
+#darkmode-toggle {
+	font-size: 30px;
+	padding-top: 15px;
+	text-align: center;
+	background: #fff;
+	background-color: rgba(255,255,255,0.7);
+	width: 60px;
+	height: 45px;
+	cursor: pointer;
+	border: 1px solid #ccc;
+	float: left;
+	margin-right: 4px;
+	background-repeat: no-repeat;
+	color: #2e2c2c;
+}

@@ -44,6 +44,25 @@ Object.size = function(obj) {
 };
 
 
+/** HANDLE EDGE ATTR TOGGLE **/
+function toggleEdgeAttrs(clicked){
+    // Get nearest div.edge-attrs
+    let connectionWrap = $(clicked).parent(".membership");
+    let attrGroup = $(connectionWrap).children('.edge-attrs')[0];
+
+    // Toggle show/hide
+    $(attrGroup).toggle();
+
+    // Move arrow
+    if ($(attrGroup).is(":hidden")) {
+        $(clicked).removeClass("fa-caret-down");
+        $(clicked).addClass("fa-caret-right");
+    } else {
+        $(clicked).removeClass("fa-caret-right");
+        $(clicked).addClass("fa-caret-down");
+    }
+}
+
 
 /** INITIALIZE SIGMA **/
 
@@ -494,10 +513,13 @@ function nodeActive(a) {
     sigInst.iterEdges(function (b) {
         b.attr.lineWidth = !1;
         b.hidden = !0;
-        
+
+        b.attr.attributes["Edge Weight"] = b.size
+
         n={
             name: b.label,
-            colour: b.color
+            colour: b.color,
+            edge_attr: b.attr.attributes, // NOTE: Added to include edge attributes downstream
         };
         
    	   if (a==b.source) outgoing[b.target]=n;		//SAH
@@ -526,7 +548,7 @@ function nodeActive(a) {
     
     var createList=function(c) {
         var f = [];
-    	var e = [],
+    	var connections_list = [],
       	 	 //c = sigInst.neighbors,
        		 g;
     for (g in c) {
@@ -534,14 +556,15 @@ function nodeActive(a) {
         d.hidden = !1;
         d.attr.lineWidth = !1;
         d.attr.color = c[g].colour;
-        a != g && e.push({
+        a != g && connections_list.push({
             id: g,
             name: d.label,
             group: (c[g].name)? c[g].name:"",
-            colour: c[g].colour
+            colour: c[g].colour,
+            edge_attr: c[g].edge_attr //NOTE: Added to include edge attrs downstream
         })
     }
-    e.sort(function (a, b) {
+    connections_list.sort(function (a, b) {
         var c = a.group.toLowerCase(),
             d = b.group.toLowerCase(),
             e = a.name.toLowerCase(),
@@ -549,13 +572,72 @@ function nodeActive(a) {
         return c != d ? c < d ? -1 : c > d ? 1 : 0 : e < f ? -1 : e > f ? 1 : 0
     });
     d = "";
-		for (g in e) {
-			c = e[g];
-			/*if (c.group != d) {
-				d = c.group;
-				f.push('<li class="cf" rel="' + c.color + '"><div class=""></div><div class="">' + d + "</div></li>");
-			}*/
-			f.push('<li class="membership"><a href="#' + c.name + '" onmouseover="sigInst._core.plotter.drawHoverNode(sigInst._core.graph.nodesIndex[\'' + c.id + '\'])\" onclick=\"nodeActive(\'' + c.id + '\')" onmouseout="sigInst.refresh()">' + c.name + "</a></li>");
+		for (g in connections_list) {  // G = neighbor node name
+
+			c = connections_list[g];  // Neighbor node
+
+
+            //Note: Edge attr dropdown created here
+            var edge_attr_tags = ""
+            if (config.informationPanel.edgeAttributes) {
+                var attrs_to_list = config.informationPanel.edgeAttributes;
+                for (var i in attrs_to_list) {
+                    let attribute = attrs_to_list[i]
+                    if (attribute in c.edge_attr){
+                        let attribute_value = c.edge_attr[attribute].toString()
+                        if (!attribute_value){ attribute_value = "" }
+
+
+                        // attribute_value = JSON.parse(attribute_value.replace("'", '"').replace("'", '"'));
+                        attribute_value = JSON.parse(attribute_value.replace(/'|'|'/g, '"'))
+                        let is_list = Array.isArray(attribute_value);
+                        // if (attribute_value[0] === "[" && attribute_value[attribute_value.length - 1]==="]") {
+                        //     is_list = true;
+                        // }
+
+                        if (is_list){
+                            var list_attribute_string = "<div class='edge-attr-wrap'>" +
+                                "<span class='edge-attr-label'>"+ attribute +": </span>" + "<ul class='edge-attr-value'>";
+
+                            for (let i in attribute_value) {
+                                let display_value = attribute_value[i].replace("'", "").replace("'", "")
+                                list_attribute_string += "<li>" + display_value + "</li>";
+                            }
+                            list_attribute_string += "</ul></div>";
+                            edge_attr_tags += list_attribute_string;
+
+                        } else {
+                            edge_attr_tags += "<div class='edge-attr-wrap'>" +
+                                "<span class='edge-attr-label'>"+ attribute +": </span>" +
+                                "<span class='edge-attr-value'>"+ c.edge_attr[attribute] +"</span>" +
+                                "</div>"
+                        }
+
+                    }
+                }
+
+
+                f.push('<li class="membership">' +
+                    '<i class="edge-attr-toggle fa-solid fa-caret-right" onclick="toggleEdgeAttrs(this)"></i>' +
+                    '<a class="connection-label" href="#' + c.name + '" ' +
+                    'onmouseover="sigInst._core.plotter.drawHoverNode(sigInst._core.graph.nodesIndex[\'' + c.id + '\'])\" ' +
+                    'onclick=\"nodeActive(\'' + c.id + '\')" onmouseout="sigInst.refresh()">' + c.name + "</a> " +
+                    '<div class="edge-attrs" hidden>' + edge_attr_tags +'</div>' +
+                    "</li>");
+            } else {
+
+                /*if (c.group != d) {
+                    d = c.group;
+                    f.push('<li class="cf" rel="' + c.color + '"><div class=""></div><div class="">' + d + "</div></li>");
+                }*/
+
+                f.push('<li class="membership">' +
+                    '<a class="connection-label" href="#' + c.name + '" ' +
+                    'onmouseover="sigInst._core.plotter.drawHoverNode(sigInst._core.graph.nodesIndex[\'' + c.id + '\'])\" ' +
+                    'onclick=\"nodeActive(\'' + c.id + '\')" onmouseout="sigInst.refresh()">' + c.name + "</a> " +
+                    '<div class="edge-attrs" hidden>' + edge_attr_tags + '</div>' +
+                    "</li>");
+            }
 		}
 		return f;
 	}
@@ -594,9 +676,10 @@ function nodeActive(a) {
     sigInst.draw(2, 2, 2, 2);
 
     $GP.info_link.find("ul").html(f.join(""));
-    $GP.info_link.find("li").each(function () {
+    $GP.info_link.find("li").each(function () { // Connections table?
         var a = $(this),
             b = a.attr("rel");
+        $(this).innerText = "Test"
     });
     f = b.attr;
     if (f.attributes) {
@@ -607,10 +690,13 @@ function nodeActive(a) {
         e = [];
         temp_array = [];
         g = 0;
+        let allowed_attributes = config.informationPanel.nodeAttributes;
+        if (!allowed_attributes){ allowed_attributes = Object.keys(f.attributes); }
         for (var attr_name in f.attributes) {
             var attr_value = f.attributes[attr_name],
                 h = "";
 			if (attr_name!=image_attribute) {
+			    if (!allowed_attributes.includes(attr_name)){ continue; } // filter out attributes not in the config
                 if (attr_value.includes("http://") || attr_value.includes("https://")) {
                     console.log("link");
                     h = '<span><strong>' + attr_name + ':</strong>' +
@@ -658,17 +744,13 @@ function showCluster(a) {
             !0 == d.hidden && (e.push(b[c]), d.hidden = !1, d.attr.lineWidth = !1, d.attr.color = d.color, f.push('<li class="membership"><a href="#'+d.label+'" onmouseover="sigInst._core.plotter.drawHoverNode(sigInst._core.graph.nodesIndex[\'' + d.id + "'])\" onclick=\"nodeActive('" + d.id + '\')" onmouseout="sigInst.refresh()">' + d.label + "</a></li>"))
         }
 
-        /*TODO: Make edge info available in "Connections" section of side panel
-        * Turn the <li> elements into toggles that show/hide the edge info below
-        * */
-
 
         sigInst.clusters[a] = e;
         sigInst.draw(2, 2, 2, 2);
         $GP.info_name.html("<b>" + a + "</b>");
         $GP.info_data.hide();
         $GP.info_p.html("Group Members:");
-        $GP.info_link.find("ul").html(f.join(""));
+        $GP.info_link.find("ul").html(f.join("")); // Add connections
         $GP.info.animate({width:'show'},350);
         $GP.search.clean();
 		$GP.cluster.hide();
@@ -678,3 +760,19 @@ function showCluster(a) {
 }
 
 
+
+/** DARKMODE **/
+function dark_mode_toggle(){
+    let current_mode = $("#darkmode-toggle").data("mode");
+
+    if (current_mode === "light") {
+        sigInst.drawingProperties({"defaultLabelColor": "#fff"});
+        $("#sigma-canvas").css("background-color", "#1d1d1d");
+        $("#darkmode-toggle").data("mode", "dark");
+    } else {
+        sigInst.drawingProperties({"defaultLabelColor": "#000"});
+        $("#sigma-canvas").css("background-color", "#eee");
+        $("#darkmode-toggle").data("mode", "light");
+    }
+
+}

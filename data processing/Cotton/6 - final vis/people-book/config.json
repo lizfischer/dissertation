@@ -5,31 +5,25 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": ""
+    "text": "Liz Fischer"
   },
   "text": {
-    "more": "more info text",
-    "intro": "intro text here",
-    "title": "Cotton Loan Records",
-    "citation": "Liz Fischer 2023"
+    "more": "",
+    "intro": "",
+    "title": "Cotton Loans"
   },
   "legend": {
-    "edgeLabel": "Edges indicate a loan",
+    "edgeLabel": "Books",
     "colorLabel": "",
-    "nodeLabel": "Nodes represent People \u0026 Books",
-    "nodeSize": "Nodes sized by Degree",
-    "colorKey": {
-      "rgb(170,51,119)": "Book",
-      "rgb(102,204,238)": "Person"
-    }
+    "nodeLabel": "Books, People"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "color",
+    "groupSelectorAttribute": false,
     "hoverBehavior": "dim"
   },
   "informationPanel": {
-    "groupByEdgeDirection": false,
+    "groupByEdgeDirection": true,
     "imageAttribute": false
   },
   "sigma": {
@@ -43,13 +37,13 @@
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 18
+      "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 3,
+      "maxEdgeSize": 0.5,
       "minEdgeSize": 0.2,
-      "minNodeSize": 5,
-      "maxNodeSize": 15
+      "minNodeSize": 1,
+      "maxNodeSize": 7
     },
     "mouseProperties": {
       "maxRatio": 20,
