@@ -60,7 +60,6 @@ def seller_seller():
     sellers['Book'] = rel_data.source_id.map(node_data.set_index('ID')['CatalogNum']).fillna("")
     sellers['Lot'] = rel_data.source_id.map(node_data.set_index('ID')['Lot']).fillna("")
 
-
     sellers['Edge Label'] = sellers.apply(lambda x: f"Book {x['Book']}: {x['Year'] or 'Undated'}, Lot {x['Lot'] or 'n/a'} ", axis=1)
 
     # Weight and create edge labels

@@ -15,7 +15,7 @@
   "legend": {
     "edgeLabel": "Books",
     "colorLabel": "",
-    "nodeLabel": "Seller"
+    "nodeLabel": "Seller test"
   },
   "features": {
     "search": true,
@@ -24,7 +24,9 @@
   },
   "informationPanel": {
     "groupByEdgeDirection": true,
-    "imageAttribute": false
+    "imageAttribute": false,
+	"edgeAttributes": ["Edge Weight", "Transactions"]
+
   },
   "sigma": {
     "drawingProperties": {
